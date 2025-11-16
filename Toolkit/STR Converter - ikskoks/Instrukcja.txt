@@ -1,0 +1,23 @@
+##############################################################
+#                                                            #
+#   STR Converter Ver1.1 - ikskoks                           #
+#                                                            #
+#   Przet³umaczy³ na jêzyk polski oraz angielski: ikskoks    #
+#   Strona: http://ikskoks.grajpopolsku.pl/                  #
+#                                                            #
+##############################################################
+
+Paczka zawiera trzy wersje jêzykowe programu:
+- oryginalny japoñski
+- angielski
+- polski
+
+
+Program umo¿liwia szybk¹ i ³atw¹ konwersjê plików STR.
+Dok³adny opis zastosowania tego narzêdzia w praktyce
+znajduje siê na stronie:
+http://ikskoks.grajpopolsku.pl/art,id10,dodawanie_napisow_do_plikow_str.html
+
+
+Mam nadziejê, ¿e spodoba wam siê zarówno program jak i poradnik do niego.
+Pozdrawiam, ikskoks.
