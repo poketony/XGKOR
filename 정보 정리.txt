@@ -1,0 +1,349 @@
+1. 전체 작업 흐름(ROM 언팩/리팩)
+
+언팩
+
+CD1/2를 BIN(또는 IMG)로 덤프한 뒤, extract.exe / extractj.exe로 숨겨진 파일들을 전부 뽑는다.
+(결과는 STRIPCD1, STRIPCD2 같은 구조로 풀림) 
+
+xenogears_translation_tools_use…
+
+.str(동영상) 파일은 이 툴이 제대로 못 빼므로, PSmplay 같은 별도 툴로 뽑아서 STR→AVI 변환하는 식으로 처리. 
+
+xenogears_translation_tools_use…
+
+재삽입(리팩) – 세 가지 툴
+
+Xenostudio
+
+GUI로 ISO를 열고, 특정 번호의 파일만 골라 교체(Insert)할 때 쓰는 간단한 에디터. 
+
+xenogears_translation_tools_use…
+
+Xenoins
+
+“단일 파일”을 빠르게 다시 넣는 용도.
+
+편집된 파일이 원본보다 너무 커서 원래 배정된 섹터 수를 넘으면 에러 내고 막힌다. 이때는 Xenoiso로 넘어가야 함. 
+
+xenogears_translation_tools_use…
+
+Xenoiso
+
+ISO를 처음부터 다시 빌드하는 툴. 파일 사이즈가 커져도 섹터 문제 없이 넣을 수 있음. (= “supersize” 파일용) 
+
+xenogears_translation_tools_use…
+
+list.txt에 “원본 ISO / 새 ISO / 교체할 파일 번호, 이름”을 나열해 한 번에 쭉 재삽입하는 구조. 
+
+xenogears_translation_tools_use…
+
+ext1.dat / ext2.dat
+
+두 파일은 “번호 ↔ 실제 파일 이름/확장자” 매핑용 정의 파일.
+
+.txt로 이름만 바꿔 열어서, 폴더·파일 이름/확장자를 수정할 수 있다. 
+
+xenogears_translation_tools_use…
+
+2. 스크립트(필드/배틀) 편집
+
+필드 스크립트 – Xenolater
+
+필드 대사들은 특정 “룸 파일”들 안에 들어 있고, Xenolater로 열어서 텍스트를 확인/수정한다. 
+
+xenogears_translation_tools_use…
+
+작업 순서:
+
+먼저 **메인 폰트(0028 계열)**를 수정해서, 사용할 문자들을 전부 폰트에 넣음. (그래야 대체 테이블을 만들 수 있음) 
+
+xenogears_translation_tools_use…
+
+그 폰트에 맞는 **테이블 파일(.tbl)**을 만들고 Xenolater에 로드.
+
+Auto Count 기능을 켜 두면, 대사창 크기를 자동으로 맞춰 줌. 
+
+xenogears_translation_tools_use…
+
+<TextBlock w: h:>, <Delay>, <New>, <Close>, <Name>, <PersoX> 등 다양한 태그 구조를 사용. 
+
+xenogears_translation_tools_use…
+
+초상화가 붙는 대사창은 한 줄 최대 28 문자, 최대 4줄 정도까지만 안정적으로 보이고, 넘어가면 스크롤 발생. 
+
+xenogears_translation_tools_use…
+
+특수/문제 있는 윈도우
+
+일부(약 10개 정도) 윈도우는 구조상 사이즈 변경이 안 되는데, 툴 제작자가 따로 해킹해 둔 룸 파일들이 it_stuff\field에 들어 있음. 거기에 번역 텍스트만 덮어쓰는 방식으로 해결 가능. 
+
+xenogears_translation_tools_use…
+
+배틀 스크립트
+
+전투 대사는 하나의 큰 아카이브 파일(3088) 안에 “압축된 여러 서브파일”로 들어 있음.
+
+xenopack으로 언팩 → 각 서브파일을 Xenolater로 열어서 본문 수정 → 다시 xenopack으로 리팩. 
+
+xenogears_translation_tools_use…
+
+3. 메뉴·맵·기타 텍스트 구조
+
+파일 타입별 툴 조합 
+
+xenogears_translation_tools_use…
+
+“압축 파일” → Xenocomp (–d/–c)
+
+“압축된 파일들의 아카이브” → Xenopack (–u/–p)
+
+“압축 아카이브” → Xenocomp(압축 해제) + ExtXeno(–e/–c)
+
+대표 예시
+
+2593.unk8
+
+Xenopack –u로 풀면 서브파일 여러 개가 나오고, 그 중
+
+서브파일 1: 메인 메뉴 그래픽
+
+서브파일 3: 각종 텍스트 메뉴들
+→ 이쪽을 수정해서 메뉴/텍스트 교체. 
+
+xenogears_translation_tools_use…
+
+0029 (kernel 관련: 장비, 기술, 마법 등)
+
+Xenocomp –d 로 0029.dec 생성 → ExtXeno –e 로 다시 여러 파일로 분리. 대략 53개의 하위 파일. 
+
+xenogears_translation_tools_use…
+
+번역 후 extxeno –c 0029.dec *.xen으로 합치고, xenocomp –c 0029.dec 0029로 재압축. 
+
+xenogears_translation_tools_use…
+
+중요: 이런 타입의 아카이브는 최종 사이즈가 4바이트 배수가 아니면 실기/PSP에서 크래시. 부족하면 00 패딩을 추가해야 함. 
+
+xenogears_translation_tools_use…
+
+0047 (배틀 아레나 일부 텍스트)
+
+역시 “4바이트 배수” 조건을 갖는 특수 케이스라, 수정 후 길이 체크 필수. 
+
+xenogears_translation_tools_use…
+
+그 외 텍스트들
+
+배틀 아레나 메뉴(0035): 단일 압축 파일 → Xenocomp로 풀고, ASCII 테이블로 텍스트 직접 수정. 
+
+xenogears_translation_tools_use…
+
+몬스터 이름·기술: 확장자 없는 여러 파일들 안에 섞여 있음. 마지막 서브파일에서 텍스트 + 포인터를 직접 편집. 이름은 13자, 기술 이름은 28자 제한. 
+
+xenogears_translation_tools_use…
+
+챕터 제목(2605): PSX BIOS 내장 폰트를 쓰고, 라인당 정확히 15 문자를 요구(15보다 적으면 공백으로 채워야 함). SJIS 16비트 테이블 사용. 
+
+xenogears_translation_tools_use…
+
+4. 폰트 구조 & 그래픽 관련 핵심
+
+메인 폰트(0028 계열)
+
+번역에 실제로 쓰는 주 폰트.
+
+\font\ita엔 팀이 만들어 둔 0028jap / 0028usa(이탈리아어용 폰트)가 있어서, 여기서 기호만 바꿔 쓰는 방식도 가능. 
+
+xenogears_translation_tools_use…
+
+작업 순서:
+
+Xenocomp로 압축 해제.
+
+같은 폴더의 xenofd로 xenofd -e 원본파일 폰트.raw → 256×209 + 16바이트 헤더의 RAW 생성. 
+
+xenogears_translation_tools_use…
+
+이 RAW를 그래픽 툴(포토샵 등)에서 편집.
+
+다시 xenofd -c 수정.raw 원본파일로 인코딩 후 Xenocomp로 재압축, ISO에 재삽입. 
+
+xenogears_translation_tools_use…
+
+글자당 최대 16×11 픽셀까지 쓸 수 있고, 폰트 상단의 일부 글자들은 폭 8픽셀짜리 영역으로 묶여 있다.
+
+헤더 0x0A 위치의 값이 “8픽셀 폭 글자 개수”를 의미해서, 이 값을 조절하면 가변폭 구간을 늘리거나 줄일 수 있음. 
+
+xenogears_translation_tools_use…
+
+일본어 더미 폰트(0424)
+
+LIST OF IMPORTANT FILES에서 0424는 “Japanese font. Dummy file.”이라고 설명되어 있음 = 게임에서 실질적으로 쓰이지 않는 예비 폰트. 
+
+xenogears_translation_tools_use…
+
+네가 직접 확인했듯이, 메인 폰트(0028)와 포맷이 동일해 보이는 상태라서,
+
+0424를 테스트용/실험용으로 쓰거나,
+
+0424를 기반으로 한글 폰트를 만든 뒤 0028 자리에 덮어씌우는 아이디어가 자연스럽게 나옴.
+
+회색 UI 폰트 & 메뉴 폰트
+
+회색 스탯 글꼴(Attack, Defence 등)은 2593 서브파일 + 2607 등에서 TIM + 맵핑으로 관리되고, xenograph.tbl, xenograph2.tbl 같은 별도 테이블을 사용. 
+
+xenogears_translation_tools_use…
+
+이 글꼴은 Xenomap2/3/4 같은 툴로 타일 매핑을 편집해서 커스터마이징 할 수 있음. (eng_menu.raw, eng_font.raw 사용) 
+
+xenogears_translation_tools_use…
+
+당장 폰트 쪽에서 기억해야 할 점
+
+메인 폰트는 1바이트 코드 기반이라 슬롯 수가 한정적 →
+상용한글 2350자를 그대로 넣기에는 당연히 부족하고,
+
+(1) 자주 쓰는 한글 위주로 약 1500자 정도로 추려서 넣는 방법,
+
+(2) DTE/MTE나 맵핑(자주 나오는 음절들을 “두 글자 한 타일” 같은 식으로)로 우회하는 방법,
+
+(3) 다른 폰트(예: 0424 더미)를 “두 번째 폰트 세트”로 활용하는 구조
+… 같은 복합 전략을 고민해야 함.
+
+지금 대화 기준으론, **“0424 더미 폰트 포맷을 분석해 본 뒤, 0028에 덮어씌우는 쪽을 시험해 보자”**는 아이디어까지 나온 상태.
+
+5. 동영상(STR) & 컷신 교체 요약
+
+동영상 추출·자막 작업
+
+STR 동영상은 extract가 제대로 못 빼므로 PSmplay 같은 도구로 STR→무압축 AVI(RGB)로 변환. 
+
+xenogears_translation_tools_use…
+
+제공된 .ssa 자막 파일(이탈리아어용)을 베이스로 텍스트만 갈아 끼우고, VirtualDub 같은 툴로 AVI에 입힌다. 
+
+xenogears_translation_tools_use…
+
+AVI → STR 재변환 & 삽입
+
+Movie Converter 32(MC32)를 이용해 AVI→STR 변환. 옵션에서 Sound와 Leap Sector 체크 후 변환. 
+
+xenogears_translation_tools_use…
+
+reXryptA로 ISO에 STR을 삽입할 때,
+
+ISO 이름
+
+STR 파일 이름
+
+해당 동영상의 LBA(문서에 LBA 리스트 있음)
+
+STR 파일 크기
+를 순서대로 입력. 
+
+xenogears_translation_tools_use…
+
+ECC 재생성 & 패치
+
+STR 삽입 후에는 반드시 **ECC 재생성(ECCRegen)**을 돌려야 디스크 이미지가 정상 구동됨. 
+
+xenogears_translation_tools_use…
+
+Xenoiso/XenoPatchCreator/Xenopatcher는 STR을 다루지 않으므로,
+
+STR용 PPF 패치를 먼저 만들고,
+
+그 다음 메인 패치를 적용하거나,
+
+아예 xdelta 한 방으로 통합 패치를 만드는 식으로 처리. 
+
+xenogears_translation_tools_use…
+
+6. ISO 확장, 파일 사이즈 관련 정리
+
+“상식적인 수준”의 파일 사이즈 증가가 괜찮은가?
+
+Xenoins는 원래 섹터 수를 넘으면 에러를 내지만, 그 경우를 위해 Xenoiso가 “supersized file”을 삽입할 수 있게 설계되어 있음. 
+
+xenogears_translation_tools_use…
+
+실제 이탈리아 패치도 ISO를 재구성해서 실기·PS2·각종 에뮬에서 모두 문제없이 동작했다고 FAQ에서 명시함. 
+
+xenogears_translation_tools_use…
+
+결론적으로,
+
+**특수한 정렬 제약(4바이트 배수 등)**만 지키면,
+
+일반 텍스트/폰트/그래픽 파일이 원본보다 어느 정도 커지는 건 툴 설계상 허용된 전제라고 봐도 됨.
+
+다만 주의할 점
+
+0029 / 월드맵 / 0047처럼 4바이트 배수 강제가 붙은 포맷은 꼭 패딩 체크. 
+
+xenogears_translation_tools_use…
+
+ISO 전체 사이즈가 바뀌면 일반 PPF 패치는 곤란해지고,
+
+XenoPatchCreator/Xenopatcher 기반의 xpt 패치나,
+
+xdelta(예: DeltaPatch) 같은 방식으로 가야 한다. 
+
+xenogears_translation_tools_use…
+
+7번 영역의 더미 폰트를 0028에 덮어씌우는 아이디어
+
+0424가 “더미 일본어 폰트”이고, 포맷도 0028과 같게 보이므로:
+
+0424를 한글용 대체 폰트로 디자인 →
+
+결과 바이너리를 0028 위치에 넣고,
+
+사이즈가 다소 커지면 Xenoiso로 ISO를 다시 빌드하는 전략이 이론상 문제 없음.
+
+단, 실제로는
+
+4바이트 배수 여부,
+
+테스트 ISO를 실기/에뮬레이터에서 돌려 보는 검증
+은 반드시 해 보는 게 안전.
+
+7. 지금까지 대화 기준 “상황 정리”
+
+현재 목표
+
+Xenogears를 한국어로 번역하면서,
+
+한글 폰트(상용한글 2350자 전체 vs 1500자 정도로 축소) 문제를 어떻게 풀지 고민 중.
+
+작업 환경 쪽에서 정리된 것
+
+ROM 언팩/리팩 툴 세트(Extract, Xenoins, Xenoiso, Xenostudio) 개념 파악 완료.
+
+스크립트용(필드/배틀) - Xenolater,
+
+메뉴/커널/각종 텍스트 - Xenocomp, Xenopack, ExtXeno,
+
+폰트/그래픽 - Xenofd, Xenomap(2/3/4),
+
+동영상/자막 - PSmplay, VirtualDub, MC32, reXryptA, ECCRegen,
+
+패치 배포 - XenoPatchCreator, Xenopatcher 또는 xdelta
+…로 역할이 정리된 상태.
+
+폰트 전략 쪽 아이디어
+
+메인 폰트(0028)를 한글용으로 교체하고,
+
+0424 더미 일본어 폰트를 테스트/예비공간으로 써서 2350자 vs 1500자의 균형을 잡는 방향을 검토 중.
+
+파일 사이즈가 “정신 나간 수준”만 아니면, Xenoiso 재빌드를 전제로 어느 정도 확장되는 건 허용 범위로 판단됨.
+
+이 정도면 오늘 정리용으로는 충분할 것 같아.
+내일 다시 시작할 때는,
+
+(1) 한글 2350자 → 1500자 정도로 줄이는 기준을 어떻게 잡을지,
+
+(2) 실제 0028/0424 폰트 덤프해서 글리프 슬롯 수랑 구조를 한 번 더 정확히 체크해 보기
+
+요 두 가지부터 이어서 하면 될 듯!
