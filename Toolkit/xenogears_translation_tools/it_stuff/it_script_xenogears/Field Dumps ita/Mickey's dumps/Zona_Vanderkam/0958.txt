@@ -1,0 +1,85 @@
+<TextBlock 1 w:44 h:1>
+<Opcode 14 2>Co… cosa state facendo?<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
+<TextBlock 2 w:52 h:2>
+<Opcode 14 2>No, non voglio!<Delay 20>
+Non voglio usarla!<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
+<TextBlock 3 w:16 h:2>
+<Opcode 14 2>Per favore!
+Andate via!<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
+<TextBlock 4 w:48 h:2>
+<Opcode 14 2>Cosa mi state facendo?<Delay 20>
+Non toccatemi!<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
+<TextBlock 5 w:26 h:2>
+<Opcode 14 2>No!<Delay 90>
+Lasciatemi andare!<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
+<TextBlock 6 w:14 h:2>
+<Opcode 14 2>Per favore!
+Basta!<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
+<TextBlock 7 w:72 h:13>
+È la prima volta che vedi questo?<Delay 45>
+      Fino ad ora, non si erano mai
+      constatati utilizzi di droghe
+      per il potenziamento mentale.<Delay 45>
+È stato improvviso.<Delay 45>
+      Probabilmente lei è un tipo
+      che non può usare la 'Drive'.<Delay 45>
+Questo probabilmente le
+ha causato il delirio.<Delay 45>
+   E la perdita di controllo?<Delay 45>
+       Vuoi dire un'incosciente
+       esplosione di rabbia
+       repressa? Ma tutti la hanno…<Delay 240><Close><End of Block>
+<TextBlock 8 w:72 h:13>
+Per questo le capacità
+innate sono così alte?<Delay 45>
+        Sì… Perché il Comandante
+        le ha richiamate?
+        Probabilmente per loro
+        è troppo.<Delay 45>
+Poi c'è una crescita istantanea
+nei valori numerici.<Delay 45>
+        Ma non possiamo usarle
+        come test di fronte ad
+        Erich.<Delay 45>
+Peccato non poterlo controllare…
+visto che c'è tanto potenziale.<Delay 240><Close><End of Block>
+<TextBlock 9 w:52 h:13>
+ Ti lasceremo
+ al dipartimento.<Delay 30>
+ 
+ Resta nella tua abitazione
+ fino a nuovi ordini.<Delay 30>
+ 
+ Stai tranquilla!
+ Hai un potere degno
+ di una prescelta.<Delay 30>
+ 
+ È colpa di questa gente
+ stolta che non riesce a
+ sopportare il tuo potere.<Delay 30><Delay 250><Close><End of Block>
+<TextBlock 10 w:16 h:2>
+<Opcode 14 2>Per favore!
+<Opcode 14 1>Basta!<Delay 250><Close><End of Block>
+<TextBlock 11 w:44 h:2>
+<Opcode 14 2>Stai tranquilla.
+È solo la 'Drive'.<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
+<TextBlock 12 w:36 h:4>
+<Opcode 14 2>La 'Drive' ti farà
+riacquistare il tuo
+equilibrio e ti
+sentirai meglio.<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
+<TextBlock 13 w:42 h:4>
+<Opcode 14 2>Pensavi che avremmo
+fatto un'eccezione
+perché tuo padre è
+un pezzo grosso?<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
+<TextBlock 14 w:38 h:2>
+<Opcode 14 2>Non credo<Delay 40> mi piaccia
+il tuo atteggiamento!<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
+<TextBlock 15 w:52 h:3>
+<Opcode 14 2>I tuoi capelli…
+Non sono troppo rossi per
+una cittadina di I classe?<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>
+<TextBlock 16 w:36 h:2>
+<Opcode 14 2>Sei davvero una
+cittadina di I classe?<Delay 240><Delay 240><Opcode 2 250><Close><End of Block>

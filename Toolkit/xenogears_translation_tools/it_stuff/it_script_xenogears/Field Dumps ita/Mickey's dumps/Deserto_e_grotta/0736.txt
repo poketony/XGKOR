@@ -1,0 +1,67 @@
+<TextBlock 1 w:68 h:3>
+<Opcode 1 255> 
+ - SENSORE GROTTA DELLA CASCATA - 
+                                 <Close><End of Block>
+<TextBlock 2 w:66 h:4>
+Individuate enormi quantità di
+sabbia cadente oltre il livello
+di sicurezza standard.<New>
+La barriera sul lato sud del muro
+del 'Terrapieno di Pietre' è stata
+sigillata per impedirle di
+penetrare nel luogo dello scavo.<New>
+Riaperta la barriera, mettersi
+al sicuro nel ricovero che
+si trova sul lato est di essa.
+Grazie.<Close><End of Block>
+<TextBlock 3 w:22 h:1>
+Disattivato!!<Close><End of Block>
+<TextBlock 4 w:54 h:4>
+- Aveh - Sito di Scavo #8 -
+-        Gear N. 3        -
+    Situazione corrente
+    Informazioni area<Close><End of Block>
+<TextBlock 5 w:52 h:2>
+Barriera, in apertura
+dal terminal esterno.<Close><End of Block>
+<TextBlock 6 w:54 h:4>
+I sensori hanno individuato
+un'anomala quantità di sabbia.<New>
+La barriera a sud del
+'Terrapieno di Pietre' è
+stata sigillata per impedire
+alla sabbia di penetrare
+nel sito di scavo.<Close><End of Block>
+<TextBlock 7 w:54 h:4>
+Ci sono due sensori.
+Uno si trova sulla sporgenza
+localizzata a nord-nordovest
+di qui.<New>
+Un altro è localizzato alla
+fine del ponte che puoi
+vedere da questo punto.<New>
+Puoi raggiungere il ponte
+dal lato nordovest del
+'Terrapieno di Pietre'.<Close><End of Block>
+<TextBlock 8 w:52 h:4>
+C'è una barriera nella zona
+a sudest del 'Terrapieno di
+Pietre', che è stata costruita
+per impedire alla sabbia
+di entrare.<New>
+Fino a che la barriera non
+sarà riaperta, per favore
+restare nel riparo che si
+trova ad est della barriera.<Close><End of Block>
+<TextBlock 9 w:48 h:3>
+Bart
+"E questo Gear?<New>
+È in un ottimo stato,
+considerando che si trova
+in un posto simile."<Close><End of Block>
+<TextBlock 10 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 11 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><Close><End of Block>

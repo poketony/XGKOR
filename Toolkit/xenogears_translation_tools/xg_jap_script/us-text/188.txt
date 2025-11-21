@@ -1,0 +1,59 @@
+#### 1 ####
+The shower room's out of
+order permanently.{wait:0F}
+{wait:05}...{wait:05}Actually, it's broken.{wait:2D}
+Someone to fix it?{wait:0F} I wish.
+
+#### 2 ####
+A-ton Weight Scale
+"Who are you gonna weigh?"
+{fast:FF}    {name:80:unknown}
+    {name:81:unknown}
+    {name:82:unknown}
+    Don't weigh anybody
+
+#### 3 ####
+A-ton Weight Scale
+"{name:80:unknown}{wait:05}...{wait:05}right?"
+
+#### 4 ####
+A-ton Weight Scale
+"{wait:05}...{wait:05}There's no one there."
+
+#### 5 ####
+A-ton Weight Scale
+"{name:81:unknown}{wait:05}...{wait:05}right?"
+
+#### 6 ####
+A-ton Weight Scale
+"{wait:05}...{wait:05}There's no one there."
+
+#### 7 ####
+A-ton Weight Scale
+"{name:82:unknown}{wait:05}...{wait:05}right?"
+
+#### 8 ####
+A-ton Weight Scale
+"{wait:05}...{wait:05}Come by again."
+
+#### 9 ####
+A-ton Weight Scale
+"You're too light{wait:05}...{wait:0F} You
+need more nutrition."
+
+#### 10 ####
+A-ton Weight Scale
+"Hmm,{wait:05} my my.{wait:1E}...Be glad.
+{wait:0A}You're at your ideal
+weight."
+
+#### 11 ####
+A-ton Weight Scale
+"Hmm,{wait:05} well well.{wait:0F} A little
+overweight,{wait:05} but don't
+worry about it."
+
+#### 12 ####
+A-ton Weight Scale
+"{wait:05}...{wait:1E}Better not over eat."
+

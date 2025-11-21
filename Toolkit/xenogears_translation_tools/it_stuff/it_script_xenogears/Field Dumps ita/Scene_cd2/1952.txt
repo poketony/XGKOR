@@ -1,0 +1,205 @@
+<TextBlock 1 w:32 h:4>
+Krelian
+"Mmh<Delay 5>…<Delay 15>
+'Questa volta' il tuo
+corpo è giovane."<Close><End of Block>
+<TextBlock 2 w:34 h:2>
+"<Delay 5>…<Delay 5> Quello di prima
+era diventato troppo
+vecchio."<Close><End of Block>
+<TextBlock 3 w:36 h:2>
+Krelian
+"…<Delay 5> E qual è il suo nome?"<Close><End of Block>
+<TextBlock 4 w:46 h:3>
+"Karen<Delay 5>…<Delay 15>
+ma il nome per me non
+significa nulla."<Close><End of Block>
+<TextBlock 5 w:22 h:4>
+Krelian
+"Allora<Delay 5>…<Delay 5> cosa ti
+porta qui?"<Close><End of Block>
+<TextBlock 6 w:42 h:4>
+Karen
+"Quella cosa dentro
+quel Nanoreattore
+<Delay 5>…<Delay 5> è lui?"<Close><End of Block>
+<TextBlock 7 w:46 h:4>
+Krelian
+"Eh?<Delay 5> Oh<Delay 5>…<Delay 15>
+Codice di riconoscimento:
+0808191 - 'Ramses'.<New>
+Ma all'Imperatore è stato
+detto che esso è un
+prototipo per un
+'Contatto' artificiale."<Close><End of Block>
+<TextBlock 8 w:40 h:2>
+Karen
+"In che condizioni
+si trova?"<Close><End of Block>
+<TextBlock 9 w:54 h:4>
+Krelian
+"È entrato in quello che
+viene detto il 'primo
+stadio di crescita'.<New>
+A partire da ora fino
+alla sua maturazione,
+crescerà molto più
+velocemente…<New>
+… di un umano comune.
+Ma sarà un po' difficile
+controllare il suo
+sviluppo psicologico<Delay 5>…"<Close><End of Block>
+<TextBlock 10 w:54 h:3>
+Krelian
+"Lui è una replica<Delay 5>…<Delay 5>
+dunque è una cosa
+prevedibile."<Close><End of Block>
+<TextBlock 11 w:32 h:3>
+Karen
+"Si sta muovendo<Delay 5>…<Delay 15>
+Può sentirci?"<Close><End of Block>
+<TextBlock 12 w:34 h:4>
+Krelian
+"Sì<Delay 5>…<Delay 15>
+Possiede di già
+una sua volontà."<Close><End of Block>
+<TextBlock 13 w:44 h:4>
+Karen
+"Comunque<Delay 5>…<Delay 15>
+Ho un'idea migliore<Delay 5>…<Delay 15>
+Sbarazziamocene."<Close><End of Block>
+<TextBlock 14 w:52 h:4>
+Karen
+"Non abbiamo bisogno di
+lui<Delay 5>…<Delay 15> Abbiamo il mio
+bambino<Delay 15>…<New>
+Mio figlio compirà
+4 anni quest'anno."<Close><End of Block>
+<TextBlock 15 w:26 h:4>
+Krelian
+"Il fatto che tu
+hai un figlio è<Delay 5>…<Delay 30>
+importante?"<Close><End of Block>
+<TextBlock 16 w:40 h:3>
+Karen
+"Sì<Delay 5>…<New>
+Ho fatto dei controlli
+molto accurati… Non ci
+sono dubbi, lui è
+un 'Contatto'."<Close><End of Block>
+<TextBlock 17 w:36 h:2>
+Krelian
+"Come si chiama?"<Close><End of Block>
+<TextBlock 18 w:34 h:4>
+Karen
+"Mio figlio si
+chiama<Delay 5>…<Delay 30> 'Fei'.<New>
+Perciò<Delay 5>…<Delay 5>
+capisci cosa
+vuole dire?"<Close><End of Block>
+<TextBlock 19 w:34 h:3>
+Krelian
+"Che un 'Antitipo'
+corrispondente è<Delay 5>…"<Close><End of Block>
+<TextBlock 20 w:32 h:4>
+Karen
+"Sì<Delay 5>…<Delay 30>
+probabilmente è già
+nata da qualche parte."<Close><End of Block>
+<TextBlock 21 w:38 h:2>
+Karen
+"<Delay 5>…<Delay 5> Gli ultimi!"<Close><End of Block>
+<TextBlock 22 w:32 h:4>
+Krelian
+"Dunque<Delay 5>…<Delay 15>
+questa cosa è<Delay 5>…<Delay 5>
+inutile."<Close><End of Block>
+<TextBlock 23 w:46 h:2>
+Karen
+"Sì, totalmente
+inutile."<Close><End of Block>
+<TextBlock 24 w:54 h:3>
+Karen
+"Ah ah<Delay 5>…<Delay 15>
+Cercalo pure, <Delay 5>'ragazzo'.<New>
+Un amore che per te è
+irraggiungibile, non
+importa quanto ti
+sforzerai per ottenerlo."<Close><End of Block>
+<TextBlock 25 w:26 h:1>
+Fino ad allora<Delay 5>…<Close><End of Block>
+<TextBlock 26 w:54 h:4>
+Miang
+"Le catene che
+imprigionavano
+l'umanità…<New>
+… sono state
+rimosse per
+causa tua."<Close><End of Block>
+<TextBlock 27 w:46 h:4>
+Krelian
+"Ma non vuol dire che
+c'è qualcosa che non
+va col nostro piano…<New>
+Tutto è ancora sotto
+controllo."<Close><End of Block>
+<TextBlock 28 w:54 h:4>
+Krelian
+"Qualora la capitale di
+Solaris fosse stata
+distrutta…<New>
+… avevo preparato
+un nano-virus che
+si diffondesse
+nell'atmosfera.<New>
+Sapevo che alla fine
+avrebbero rotto il
+sigillo<Delay 20>…<New>
+Ma mi resta poco tempo
+per prendermela con
+tutta calma<Delay 5>…<New>
+Le attuali mutazioni degli
+esseri umani sono una
+risposta iniziale a
+questo virus<Delay 5>…<New>
+Dopo che questo virus,
+che abbiamo sparso su
+tutto il mondo, germina
+dentro gli uomini…<New>
+… essi non sono più
+gli stessi.<New>
+Mutano verso una forma
+da noi controllabile.<New>
+Noi, per poter attuare
+il risveglio…<New>
+… abbiamo bisogno di
+umani che non dipendano
+dall'evocazione della
+chiave.<New>
+In altre parole, un essere
+che rimpiazzi il corpo
+originario di dio<Delay 5>…"<Close><End of Block>
+<TextBlock 29 w:56 h:4>
+Miang
+"È come un cavallo di
+Troia rilasciato non
+appena giungerà…<New>
+… il momento
+dell'unificazione
+con dio<Delay 5>…<Delay 5><New>
+Un vero virus<Delay 5>…<Delay 15>
+Ma<Delay 5>…<Delay 5> non è diverso dalle
+loro intenzioni<Delay 5>…<Delay 5>?"<Close><End of Block>
+<TextBlock 30 w:52 h:4>
+Krelian
+"Certamente.<Delay 15> Non possiamo
+permettere che facciano
+i loro comodi<Delay 30>…<New>
+L' 'Arca di dio' è mia."<Close><End of Block>
+<TextBlock 31 w:50 h:3>
+Miang
+"<Delay 5>…<Delay 5> A me va bene in
+entrambi i modi.<New>
+Semplicemente, starò
+dalla parte che sarà
+la più sicura<Delay 5>…<Delay 5>"<Close><Close><End of Block>

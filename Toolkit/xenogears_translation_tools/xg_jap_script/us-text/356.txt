@@ -1,0 +1,146 @@
+#### 1 ####
+Fei
+"Is it going to
+be okay, doc...?"
+
+#### 2 ####
+Fei
+"Alright! 
+Let's do our part."
+
+#### 3 ####
+Fei
+"Communications are up."
+
+#### 4 ####
+Fei
+"What the!?"
+
+#### 5 ####
+Citan
+"I will control the mirror,{wait:1E} 
+you hold off the enemy."
+
+#### 6 ####
+Citan
+"We must do it."
+
+#### 7 ####
+Citan
+"I am counting on you."
+
+#### 8 ####
+Citan
+"Billy...Billy... 
+do you read? {enter}
+We are ready here. 
+Commence firing."
+
+#### 9 ####
+Citan
+"Whoa!"{clear:1E}
+
+#### 10 ####
+Citan
+"Oh no..."{clear:28}
+
+#### 11 ####
+Citan
+"Fei...Fei! 
+Do you read!? 
+Get out, now!"
+
+#### 12 ####
+Citan
+"No good...{wait:28}
+Too late..."
+
+#### 13 ####
+Citan
+"Whoa!..."
+
+#### 14 ####
+Citan
+"Whew...
+That was close.{wait:28} We did
+not get a direct hit."
+
+#### 15 ####
+Citan
+"Billy,{wait:1E} we cannot
+hold out much longer.{enter}
+If you miss this one,
+it is over.
+Aim well."
+
+#### 16 ####
+Citan
+"...Only one shot left,{wait:1E}
+Do not{wait:14}...miss..."
+
+#### 17 ####
+Citan
+"Our plan failed failed...{wait:28}
+We have tried everything
+we could think of."
+
+#### 18 ####
+Citan
+"Whew...
+That helped."
+
+#### 19 ####
+Citan
+"Billy,{wait:1E} we cannot
+hold out much longer.{enter}
+If you miss this one,
+it's over. 
+Aim well."
+
+#### 20 ####
+Citan
+"Billy, you did it...{wait:28}
+The plan succeeded!"
+
+#### 21 ####
+Citan
+"Here!!"{clear:0A}
+
+#### 22 ####
+Citan
+"Go!!"
+
+#### 23 ####
+Door lock has 
+been cleared.
+
+#### 24 ####
+Lock clear.
+
+#### 25 ####
+DONE!
+
+#### 26 ####
+You have too many
+{str}.
+
+#### 27 ####
+ 
+ Received {str}.
+
+#### 28 ####
+You have too many
+{str}.
+
+#### 29 ####
+ 
+ Received {str}.
+
+#### 30 ####
+You have too many
+{str}.
+
+#### 31 ####
+ 
+ Received {str}.
+

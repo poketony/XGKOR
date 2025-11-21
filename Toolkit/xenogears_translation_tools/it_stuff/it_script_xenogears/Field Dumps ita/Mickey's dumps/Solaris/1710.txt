@@ -1,0 +1,117 @@
+<TextBlock 1 w:26 h:3>
+Fei
+"Ma… questo…
+non può essere…"<Opcode 2 20><Close><End of Block>
+<TextBlock 2 w:56 h:3>
+Fei
+"Cos'è… questo…<Delay 40>
+Che…<Delay 20> diavolo è…!!"<Opcode 2 40><Space 1><Close><End of Block>
+<TextBlock 3 w:28 h:2>
+Fei
+"Wo-o-o-o-o-!"<Opcode 2 50><Close><End of Block>
+<TextBlock 4 w:54 h:3>
+Fei
+"Come… può…
+essere vero…?
+Doc…"<Close><End of Block>
+<TextBlock 5 w:46 h:3>
+Elly
+"No…
+Starai scherzando…"<Opcode 2 20><Close><End of Block>
+<TextBlock 6 w:14 h:2>
+Elly
+"Uh…"<Opcode 2 20><Close><End of Block>
+<TextBlock 7 w:44 h:2>
+Elly
+"Non essere ridicolo!<New>
+Mio padre non avrebbe
+mai preso parte ad
+una simile empietà!"<Close><End of Block>
+<TextBlock 8 w:48 h:4>
+Elly
+"Mio padre…<Delay 40>
+l'ha fatto…<Delay 30>
+No, non è vero…"<Close><End of Block>
+<TextBlock 9 w:46 h:3>
+Shitan
+"Il Sistema Soylent.<New>
+Il laboratorio per
+gli esperimenti sugli
+organismi…<New>
+… ed il relativo impianto
+di eliminazione. Il tutto
+è sito in Solaris."<Close><End of Block>
+<TextBlock 10 w:56 h:4>
+Shitan
+"Assieme allo stabilimento
+di produzione del cibo…<New>
+… ed alle medicine atte a
+mantenere attivo il sigillo
+detto Limitatore.<New>
+Anche i Mietitori di
+Agnelli di Aquvy sono
+creati qui."<Close><End of Block>
+<TextBlock 11 w:52 h:4>
+Shitan
+"Elly, ricordi le parole
+di Dominia mentre eravamo
+a Shevat?<New>
+Ecco la risposta.<New>
+La gente del suo paese
+natale è servita come
+nucleo di base per la
+creazione dei Wels…<New>
+… il piano M.<New>
+Furono usati in quel
+modo a causa delle
+loro peculiari abilità.<New>
+Lei è l'ultima
+sopravvissuta.<New>
+Elly, tuo padre Erich
+era il supervisore
+di questo impianto.<New>
+Egli era coinvolto
+nelle ricerche con
+il padre di Maria."<Close><End of Block>
+<TextBlock 12 w:52 h:4>
+Shitan
+"Naturalmente, Erich
+provava forti sensi
+di colpa. Così…<New>
+… prese molti abitanti
+della superficie sotto
+la sua protezione come
+Cittadini di III Classe.<New>
+Poi si dimise.
+Ecco perché ora è nel
+personale amministrativo
+delle Forze Speciali."<Close><End of Block>
+<TextBlock 13 w:54 h:3>
+Shitan
+"Riprenditi, Fei.<Delay 30>
+Riprenditi e dai
+un'occhiata di là…"<Close><End of Block>
+<TextBlock 14 w:40 h:2>
+Shitan
+"Questa è la realtà."<Close><End of Block>
+<TextBlock 15 w:22 h:2>
+Shitan
+"Andiamo."<Close><End of Block>
+<TextBlock 16 w:50 h:4>
+Shitan
+"Terminare la vita delle
+persone,<Delay 30> e poi 
+consumarne la carne.<New>
+Questo è… <Delay 20>ammissibile…?"<Space 1><Close><End of Block>
+<TextBlock 17 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 18 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 19 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 20 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><Close><End of Block>

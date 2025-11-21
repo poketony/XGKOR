@@ -1,0 +1,54 @@
+<TextBlock 1 w:46 h:3>
+Fei
+"Ehi… Non posso
+mangiare più…"<Close><End of Block>
+<TextBlock 2 w:38 h:3>
+Fei
+"Questo mi fa
+ricordare che…
+sono affamato…"<Close><End of Block>
+<TextBlock 3 w:50 h:2>
+Fei
+"Facciamoci uno
+spuntino!"<Close><End of Block>
+<TextBlock 4 w:44 h:2>
+Fei
+"Che mi dici
+di te, Doc?"<Close><End of Block>
+<TextBlock 5 w:38 h:3>
+Fei
+"Sei sicuro? Allora,
+se vuoi scusarci…"<Close><End of Block>
+<TextBlock 6 w:24 h:2>
+Fei
+"Mangiamo!"<Opcode 2 30><Close><End of Block>
+<TextBlock 7 w:20 h:3>
+Fei
+"Ehi, sono
+pieno!"<Close><End of Block>
+<TextBlock 8 w:22 h:3>
+Fei
+"Allora… andiamo!"<Close><End of Block>
+<TextBlock 9 w:46 h:3>
+Elly
+"Hai ragione…<New>
+Non sappiamo che cosa
+accadrà, quindi meglio
+non chiedere troppo."<Close><End of Block>
+<TextBlock 10 w:24 h:2>
+Elly
+"Mangiamo."<Opcode 2 30><Close><End of Block>
+<TextBlock 11 w:52 h:2>
+Shitan
+"No, sto bene,
+grazie."<Close><End of Block>
+<TextBlock 12 w:48 h:3>
+Fei
+"Wow! Qui c'è
+del cibo."<Opcode 2 60><Close><End of Block>
+<TextBlock 13 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 14 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><Close><End of Block>

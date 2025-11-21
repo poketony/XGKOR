@@ -1,0 +1,246 @@
+<TextBlock 1 w:50 h:4>
+Ramsus
+"Annullate lo stato
+di allarme.<New>
+Iniziate le riparazioni
+ed i rifornimenti
+immediatamente."<Close><End of Block>
+<TextBlock 2 w:54 h:4>
+Miang
+"Il Primo Ministro ed il
+Generale Vanderkam sono qui
+per vederla, Comandante."<Close><End of Block>
+<TextBlock 3 w:32 h:3>
+Ramsus
+"Umph, che
+accoglienza
+deprimente."<Close><End of Block>
+<TextBlock 4 w:48 h:3>
+Miang
+"Cosa si aspettava?
+Siamo sulla 'superficie'."<Close><End of Block>
+<TextBlock 5 w:26 h:3>
+Ramsus
+"Miang,
+sbarchiamo."<Close><End of Block>
+<TextBlock 6 w:22 h:2>
+Miang
+"Sissignore."<Close><End of Block>
+<TextBlock 7 w:58 h:3>
+Abbiamo le coordinate
+di quelle recenti
+vibrazioni dimensionali.<New>
+N24, E92, Ignis, nella
+regione di Lahan,
+nell'oceano più a nord.<New>
+Da quanto vediamo dal
+radar, si tratta
+sicuramente di un Custode
+del Portale.<Close><End of Block>
+<TextBlock 8 w:40 h:2>
+Non ci sono tracce
+di voli normali sul
+continente.<Close><End of Block>
+<TextBlock 9 w:42 h:3>
+Ramsus
+"Potrebbe essere Aphel
+Aura, la città di Shevat?"<Close><End of Block>
+<TextBlock 10 w:44 h:3>
+No. La massa è diversa.
+Il segnale radar è
+molto più piccolo.<Close><End of Block>
+<TextBlock 11 w:42 h:4>
+Non posso credere che
+gli Agnelli abbiano
+una nave equipaggiata
+con un Custode del
+Portale.<Close><End of Block>
+<TextBlock 12 w:50 h:4>
+Ramsus
+"Probabilmente è di
+Kislev.<New>
+L'ultima purificazione
+non è stata completata."<Close><End of Block>
+<TextBlock 13 w:26 h:2>
+Ramsus
+"Dannazione…"<Close><End of Block>
+<TextBlock 14 w:46 h:2>
+Grahf
+"Non dovresti ire
+dietro a lui?"<Close><End of Block>
+<TextBlock 15 w:14 h:2>
+Ramsus
+"Cosa?"<Close><End of Block>
+<TextBlock 16 w:44 h:4>
+Grahf
+"Colui il quale t'ha
+causato sì tanta pena
+e dolore…<New>
+… si trova su quella
+nave. E sta dirigendosi
+verso Aquvy."<Close><End of Block>
+<TextBlock 17 w:54 h:4>
+Ramsus
+"Tutto l'equipaggio
+in stato d'allerta!<New>
+Stiamo per attaccare
+la nave di Kislev."<Close><End of Block>
+<TextBlock 18 w:48 h:4>
+Miang
+"Non possiamo,
+Comandante!<New>
+Non abbiamo ancora
+ricevuto ordini
+dalla capitale.<New>
+Se ci spostiamo da
+qui…"<Close><End of Block>
+<TextBlock 19 w:36 h:4>
+Ramsus
+"Non m'importa!
+Non permetterò
+che lui fugga!"<Close><End of Block>
+<TextBlock 20 w:50 h:4>
+Prenderemo il confine tra
+il primo ed il secondo
+portale.<New>
+È la via più breve per
+arrivare ad Aquvy.<Close><End of Block>
+<TextBlock 21 w:14 h:2>
+Ramsus
+"Ottimo."<Close><End of Block>
+<TextBlock 22 w:44 h:4>
+Messaggio da parte
+di Cherubina.<New>
+Dominia si sta ritirando
+dentro Haishao. Inseguirà
+la corazzata aerea.<Close><End of Block>
+<TextBlock 23 w:40 h:4>
+Vibrazioni dimensionali,
+livello 8! Una flotta
+enorme sta venendo
+verso di noi!<Close><End of Block>
+<TextBlock 24 w:46 h:4>
+Miang
+"Qui c'è il rapporto della
+battaglia tra Haishao ed
+il Gear nemico."<Close><End of Block>
+<TextBlock 25 w:30 h:3>
+Ramsus
+"!!
+Ma è…"<Close><End of Block>
+<TextBlock 26 w:50 h:3>
+Miang
+"Ne sono sicura.
+Al momento si trova
+sul Tammuz.<New>
+E nel caso non fosse
+così, si trova da
+qualche altra parte
+nell'oceano lì vicino."<Close><End of Block>
+<TextBlock 27 w:38 h:3>
+Ramsus
+"Cambiare rotta!
+Dirigersi al Tammuz…"<Close><End of Block>
+<TextBlock 28 w:48 h:4>
+Miang
+"Aspetti.<New>
+Sembra che la loro
+nave madre, l'Yggdrasil,
+possa immergersi.<New>
+Se si saranno immersi,
+avranno la meglio su
+Haishao.<New>
+Qualsiasi attacco
+facessimo, sarebbe
+semplicemente inutile…<New>
+… dacché possono
+semplicemente immergersi.<New>
+Ma se prima rimuovessimo
+quella funzione, non
+sarebbe troppo tardi.<New>
+Ho già eseguito i
+'preparativi' adeguati
+alla situazione."<Close><End of Block>
+<TextBlock 29 w:30 h:2>
+Ramsus
+"Preparativi?"<Close><End of Block>
+<TextBlock 30 w:22 h:2>
+Miang
+"Sì, signore."<Close><End of Block>
+<TextBlock 31 w:46 h:3>
+Ramsus
+"Benissimo.
+Proveremo come
+dici tu."<Close><End of Block>
+<TextBlock 32 w:46 h:2>
+Miang
+"La ringrazio,
+Comandante."<Close><End of Block>
+<TextBlock 33 w:48 h:4>
+Ramsus
+"A proposito… Che cosa
+è successo tra te e
+Dominia? Era furibonda."<Close><End of Block>
+<TextBlock 34 w:50 h:4>
+Miang
+"Mi dispiace.<New>
+Aveva a che fare con
+l'incidente di prima
+con l'Yggdrasil.<New>
+Quelle ragazze lavorano
+duramente. Specialmente
+per lei… Essere odiata
+è il mio lavoro."<Close><End of Block>
+<TextBlock 35 w:32 h:3>
+Ramsus
+"Fuori dai piedi!<Delay 30>
+Fatemi passare!<New>
+Quel bastardo!<Delay 30>
+Andrò io stesso
+a dargli la caccia…!"<Close><End of Block>
+<TextBlock 36 w:36 h:3>
+Cherubina
+"Si calmi,
+Comandante!"<Close><End of Block>
+<TextBlock 37 w:42 h:3>
+Trone
+"Ci prenderemo noi
+cura di lui e dei
+suoi amici!"<Close><End of Block>
+<TextBlock 38 w:50 h:4>
+Ramsus
+"Ma cosa potete fare
+voi stupide!?<New>
+Imbecilli!<Delay 50>
+Solo io posso
+vincerlo!<New>
+Solo io, che supero
+tutti gli altri
+esseri umani, posso
+distruggerlo!"<Close><End of Block>
+<TextBlock 39 w:16 h:2>
+Ramsus
+"Via!!"<Opcode 2 50><Close><End of Block>
+<TextBlock 40 w:22 h:3>
+Dominia
+"Comandante!
+Aspetti!!!"<Close><End of Block>
+<TextBlock 41 w:28 h:2>
+Iniziare la
+procedura di
+attracco.<Opcode 2 50><Close><End of Block>
+<TextBlock 42 w:26 h:1>
+Chiudere lo scafo.<Opcode 2 50><Close><End of Block>
+<TextBlock 43 w:26 h:1>
+Chiudere lo scafo.<Opcode 2 50><Close><End of Block>
+<TextBlock 44 w:38 h:2>
+Lo scafo e tutte
+le altre sezioni
+chiuse.<Opcode 2 50><Close><End of Block>
+<TextBlock 45 w:36 h:1>
+Attracco completato.<Opcode 2 50><Close><End of Block>
+<TextBlock 46 w:42 h:3>
+Distribuzione della
+gravità normale.
+Spegnimento del sistema
+di propulsione.<Opcode 2 50><Close><End of Block>

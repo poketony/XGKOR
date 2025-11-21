@@ -1,0 +1,1279 @@
+<TextBlock 1 w:38 h:4>
+Elly
+"Ne sono sicura!<Delay 30> Questa
+è sicuramente la banca
+dati della Chiesa!"<Close><End of Block>
+<TextBlock 2 w:38 h:4>
+Elly
+"<Delay 5>…<Delay 10> Aspettate un secondo!<Delay 15>
+…<Delay 10> Ma questa è…<New>
+… l'attrezzatura
+di Solaris!"<Close><End of Block>
+<TextBlock 3 w:48 h:4>
+Elly
+"Non meravigliarti
+così tanto!<New>
+Non importa quanto sia
+immenso questo mondo…<New>
+… un'attrezzatura così
+avanzata può provenire
+solo da Solaris."<Close><End of Block>
+<TextBlock 4 w:46 h:4>
+Elly
+"<Opcode 1 255>Guardate qui!<Opcode 1 0><New>
+Sono le destinazioni di
+tutte le risorse che la
+Chiesa ha accumulato
+attraverso il commercio.<New>
+Sono elencate tutte le
+attività commerciali
+con ogni zona…<New>
+E tutte queste risorse
+sono mandate proprio
+ora verso la mia
+patria, Solaris."<Close><End of Block>
+<TextBlock 5 w:34 h:2>
+Elly
+"Io<Delay 5> non<Delay 5> lo so…"<Close><End of Block>
+<TextBlock 6 w:48 h:4>
+Elly
+"Questa è la lingua di
+Solaris, ma è stata
+anche codificata.<New>
+Aspettate<Delay 5>…<Delay 5>…<Delay 5>
+Uhmmm<Delay 5>…<Delay 5>…<Delay 5>
+Che cos'è<Delay 5>…<Delay 5>…?<Delay 5>
+…<Delay 5>…<Delay 5>…<Delay 5>…<Delay 5>…"<Close><End of Block>
+<TextBlock 7 w:52 h:4>
+Elly
+"Aspettate un attimo!
+È difficile tradurre
+questa roba!<New>
+Uhmmm<Delay 5>…<Delay 5>
+<Delay 5>…<Delay 5> 'Agnelli'<Delay 5>…<Delay 5>
+grande guerra<Delay 5>…<Delay 5> rovina<Delay 5>…<Delay 5>
+rieducazione<Delay 5>…<New>
+…<Delay 5> piano di riabilitazione
+dopo la guerra<Delay 10>…<New>
+<Delay 5>…<Delay 5> basato su<Delay 5>…<Delay 5>
+<Delay 5>…<Delay 5> progetto per costruire
+i 'Portali'<Delay 5>…<New>
+'Agnelli'<Delay 5>…<Delay 5> 02-04 ad Ignis
+<Delay 5>…<Delay 5> 05-08 ad Aquvy<Delay 5>…<Delay 5>
+11-16<Delay 5> deve essere
+distribuito uniformemente<Delay 5>…<New>
+Mettere in pratica<Delay 5>…<Delay 5>
+<Delay 5>…<Delay 5> Fondazione della Chiesa
+come un'organizzazione<Delay 5>…<New>
+<Delay 5>…<Delay 5> Supervisionata da
+degli anziani<Delay 5>…
+<Delay 5>conferenza<Delay 5>…<Delay 5>
+supervisione di Gazel!?<New>
+La Chiesa è<Delay 5>…!?"<Close><End of Block>
+<TextBlock 8 w:54 h:4>
+Elly
+"Per farla breve,<Delay 5>
+più o meno è così<Delay 5>…<New>
+500 anni fa, si combatté
+una guerra tra Solaris
+e gli abitanti della
+superficie.<New>
+Non è chiaro quale fu
+l'esito…<New>
+… ma dopo la guerra,
+Solaris temette un'altra
+rivolta da parte loro<Delay 5>…<New>
+Così, Solaris ha costruito
+un 'Portale',<Delay 5> detto anche
+barriera<Delay 5>…<New>
+… che separa Solaris dal
+resto del mondo.<New>
+Gli abitanti della
+superficie che vivevano
+dentro questo Portale
+furono obbligati a vivere…<New>
+… separati dalla razza dei
+Solariani, come fossero
+due vere e proprie specie
+diverse.<New>
+Inoltre, si vigilava su
+di loro. Per perfezionare
+questo controllo, Solaris
+istituì la Chiesa.<New>
+Dunque, in realtà la
+Chiesa è controllata dal
+'Ministero di Gazel'<Delay 5>…<New>
+… ovvero il più
+importante organo
+amministrativo di Solaris.<New>
+Perciò,<Delay 5> in verità,<Delay 5> la
+Chiesa è proprio una
+'copertura'<Delay 5>…<New>
+… oppure anche una
+organizzazione ausiliaria<Delay 5>
+che lavora per Solaris!<New>
+I reperti ottenuti dagli
+scavi, i beni e le risorse
+naturali della superficie…<New>
+… sono trasportati a
+Solaris dalla Chiesa.<New>
+Tra le risorse, ci sono
+anche da includere le
+'risorse umane'…<New>
+… ovvero le persone
+utilizzate per il lavoro
+manuale, e così via.<New>
+Fondamentalmente, essa è
+la finestra che si trova
+tra la superficie del
+pianeta…<New>
+… e Solaris, che si trova
+nei cieli sopra di noi.<New>
+Stando a queste
+registrazioni…<New>
+… la quantità di beni e
+di gente trasferita a
+Solaris è enorme!"<Close><End of Block>
+<TextBlock 9 w:54 h:4>
+Elly
+"Il resto riguarda
+soprattutto…<New>
+… la distribuzione della
+popolazione ed i documenti
+riguardanti gli scavi.<New>
+Però… mi turba un po' la
+quantità d'informazioni
+sulle razze e sulle loro
+informazioni biologiche…"<Close><End of Block>
+<TextBlock 10 w:54 h:4>
+Elly
+"…<New>
+So che a Solaris ci sono
+degli stabilimenti per
+dar alloggio agli abitanti
+della superficie…!<New>
+Di norma i cittadini di
+III classe, cioè gli
+abitanti della Terra…<New>
+… sono mandati a compiere
+il lavoro manuale."<Close><End of Block>
+<TextBlock 11 w:50 h:4>
+Elly
+"Allora, pensate che
+Solaris sia responsabile
+di questo attacco…<New>
+… nei confronti
+della Chiesa?"<Close><End of Block>
+<TextBlock 12 w:48 h:4>
+Elly
+"Noi proseguiremo…<New>
+Bart e Rico, potreste
+accompagnare la persona
+di Shevat all'Yggdrasil?"<Close><End of Block>
+<TextBlock 13 w:48 h:4>
+Elly
+"Noi proseguiremo…<New>
+Shitan e Rico, potreste
+accompagnare la persona
+di Shevat all'Yggdrasil?"<Close><End of Block>
+<TextBlock 14 w:48 h:4>
+Elly
+"Noi proseguiremo…<New>
+Shitan e Bart, potreste
+accompagnare la persona
+di Shevat all'Yggdrasil?"<Close><End of Block>
+<TextBlock 15 w:48 h:4>
+Elly
+"Noi proseguiremo…<New>
+Bart e Rico, potreste
+accompagnare la persona
+di Shevat all'Yggdrasil?"<Close><End of Block>
+<TextBlock 16 w:48 h:4>
+Elly
+"Noi proseguiremo…<New>
+Shitan e Rico, potreste
+accompagnare la persona
+di Shevat all'Yggdrasil?"<Close><End of Block>
+<TextBlock 17 w:48 h:4>
+Elly
+"Noi proseguiremo…<New>
+Shitan e Bart, potreste
+accompagnare la persona
+di Shevat all'Yggdrasil?"<Close><End of Block>
+<TextBlock 18 w:52 h:4>
+Elly
+"Mentre controllavo
+il database, ho
+scoperto una cosa…<New>
+Sembra che qui ci sia una
+persona proveniente da
+Shevat…<New>
+… che è tenuta
+prigioniera dalla
+Chiesa.<Delay 30>
+Noi proseguiremo…<New>
+Bart e Rico, potreste
+soccorrere ed accompagnare
+questa 'Shevita' allo
+Yggdrasil??"<Close><End of Block>
+<TextBlock 19 w:52 h:4>
+Elly
+"Mentre controllavo
+il database, ho
+scoperto una cosa…<New>
+Sembra che qui ci sia una
+persona proveniente da
+Shevat…<New>
+… che è tenuta
+prigioniera dalla
+Chiesa.<Delay 30>
+Noi proseguiremo…<New>
+Shitan e Rico, potreste
+soccorrere ed accompagnare
+questa 'Shevita' allo
+Yggdrasil??"<Close><End of Block>
+<TextBlock 20 w:52 h:4>
+Elly
+"Mentre controllavo
+il database, ho
+scoperto una cosa…<New>
+Sembra che qui ci sia una
+persona proveniente da
+Shevat…<New>
+… che è tenuta
+prigioniera dalla
+Chiesa.<Delay 30>
+Noi proseguiremo…<New>
+Shitan e Bart, potreste
+soccorrere ed accompagnare
+questa 'Shevita' allo
+Yggdrasil??"<Close><End of Block>
+<TextBlock 21 w:52 h:4>
+Elly
+"Mentre controllavo
+il database, ho
+scoperto una cosa…<New>
+Sembra che qui ci sia una
+persona proveniente da
+Shevat…<New>
+… che è tenuta
+prigioniera dalla
+Chiesa.<Delay 30>
+Noi proseguiremo…<New>
+Bart e Rico, potreste
+soccorrere ed accompagnare
+questa 'Shevita' allo
+Yggdrasil??"<Close><End of Block>
+<TextBlock 22 w:52 h:4>
+Elly
+"Mentre controllavo
+il database, ho
+scoperto una cosa…<New>
+Sembra che qui ci sia una
+persona proveniente da
+Shevat…<New>
+… che è tenuta
+prigioniera dalla
+Chiesa.<Delay 30>
+Noi proseguiremo…<New>
+Shitan e Rico, potreste
+soccorrere ed accompagnare
+questa 'Shevita' allo
+Yggdrasil??"<Close><End of Block>
+<TextBlock 23 w:52 h:4>
+Elly
+"Mentre controllavo
+il database, ho
+scoperto una cosa…<New>
+Sembra che qui ci sia una
+persona proveniente da
+Shevat…<New>
+… che è tenuta
+prigioniera dalla
+Chiesa.<Delay 30>
+Noi proseguiremo…<New>
+Shitan e Bart, potreste
+soccorrere ed accompagnare
+questa 'Shevita' allo
+Yggdrasil??"<Close><End of Block>
+<TextBlock 24 w:38 h:4>
+Shitan
+"Ne sono certo.<Delay 30> Questa
+dev'essere la banca
+dati della Chiesa."<Close><End of Block>
+<TextBlock 25 w:54 h:4>
+Shitan
+"Dico…<Delay 5> un impianto
+di tale grandezza…<New>
+… sarebbe addirittura
+difficile da trovare
+a Solaris.<New>
+Per quale ragione la
+Chiesa possiede una
+tale costruzione?"<Close><End of Block>
+<TextBlock 26 w:42 h:3>
+Shitan
+"Mmh<Delay 5>…<Delay 10>
+Il mistero s'infittisce<Delay 5>…"<Close><End of Block>
+<TextBlock 27 w:52 h:4>
+Shitan
+"Qua c'è una
+documentazione
+relativamente recente<Delay 5>…<New>
+Indica anche che c'è
+stata una grande
+quantità di gente
+inviata a Solaris<Delay 5>…<New>
+La maggior parte di queste
+persone era gente che era
+venuta alla Chiesa in
+cerca di aiuto…<New>
+… o della salvezza
+spirituale."<Close><End of Block>
+<TextBlock 28 w:30 h:3>
+Shitan
+"Questa potrebbe
+essere la tua
+risposta…"<Close><End of Block>
+<TextBlock 29 w:14 h:2>
+Billy
+"Cosa?"<Close><End of Block>
+<TextBlock 30 w:48 h:2>
+Shitan
+"Il 44° piano
+di salvataggio."<Close><End of Block>
+<TextBlock 31 w:46 h:3>
+Bart
+"Il 44° piano
+di salvataggio?<New>
+Ma il Capitano del
+Tammuz non ci ha
+parlato proprio
+di questo?"<Close><End of Block>
+<TextBlock 32 w:48 h:4>
+Shitan
+"Questo è l'unico piano
+non collegato a Solaris…<New>
+Deve essere stato iniziato
+dalla Chiesa stessa, come
+un progetto completamente
+indipendente.<New>
+Gli si diede inizio
+circa… 19 anni fa.<Wait>
+Permettetemi di mostrarvi
+i dati su di esso…"<Close><End of Block>
+<TextBlock 33 w:54 h:4>
+Shitan
+"Dunque, da questo si
+evince che…<New>
+… sotto Aquvy si
+trova una civiltà
+ultramillenaria.<New>
+Debbono aver fatto un
+enorme numero di scavi
+di prova…<New>
+… ed aver ottenuta
+un'ampia quantità di
+informazioni dalle rovine.<New>
+Armi biologiche<Delay 5>…<Delay 5>
+armi reagenti<Delay 15>…<New>
+Mhh<Delay 5>…<Delay 5> capisco, dunque
+queste devono essere
+le loro intenzioni<Delay 5>…<New>
+La mia opinione, basandomi
+su questi fatti, è che la
+Chiesa stia tentando di
+separarsi da Solaris<Delay 5>…<New>
+Ed una volta liberatasi
+dal suo padrone,<Delay 5> con tutta
+probabilità cercherà di
+dominare il mondo<Delay 10> da sé."<Close><End of Block>
+<TextBlock 34 w:54 h:4>
+Rico
+"Cercare di separarsi<Delay 5>…<Delay 5>
+e di dominare il mondo<Delay 5>…<Delay 5>
+Che cosa ambiziosa!"<Close><End of Block>
+<TextBlock 35 w:54 h:4>
+Shitan
+"Sì, ma le vere intenzioni
+della Chiesa sono del
+tutto evidenti<Delay 5>…<New>
+Il fatto che non stiano
+riferendo i risultati,<Delay 5>
+che non parlino della
+stessa esistenza del sito<Delay 5>…<New>
+… tutto ciò rivela
+le loro intenzioni<Delay 5>…<New>
+La Chiesa sta cercando di
+insorgere usufruendo del
+monopolio delle risorse…<New>
+… di questa avanzatissima
+civiltà!<New>
+In realtà, tali
+ribellioni sono state
+alquanto usuali<Delay 5>…"<Close><End of Block>
+<TextBlock 36 w:55 h:4>
+Shitan
+"Sì, probabilmente
+è così.<New>
+Non dovremmo muoverci?
+Potrebbero esserci
+altre cose ancora da
+scoprire!"<Close><End of Block>
+<TextBlock 37 w:48 h:4>
+Shitan
+"Tutto a posto<Delay 10>…<New>
+Ho regolato il computer
+per tenere aperta
+quella serratura."<Close><End of Block>
+<TextBlock 38 w:48 h:2>
+Bart
+"La banca dati
+della Chiesa?"<Close><End of Block>
+<TextBlock 39 w:48 h:4>
+Bart
+"Comunque, questa è una
+cosa che non possiamo
+controllare tutta da soli.<New>
+Dovremmo portare qui tutte
+le persone che possiamo."<Close><End of Block>
+<TextBlock 40 w:30 h:2>
+Bart
+"Allora è così…"<Close><End of Block>
+<TextBlock 41 w:46 h:4>
+Bart
+"È vero, ma comunque<Delay 5>…<Delay 10>
+Questo posto è attrezzato
+dannatamente bene<Delay 10>…<New>
+Fateci caso!"<Close><End of Block>
+<TextBlock 42 w:30 h:2>
+Bart
+"S… <Delay 10>Solaris!?"<Close><End of Block>
+<TextBlock 43 w:44 h:3>
+Bart
+"Qualcuno vorrebbe
+spiegarmi cosa sta
+succedendo?<New>
+Cos'è in realtà questo
+posto?<New>
+Ehi,<Delay 10> Billy!
+Tu ne sai qualcosa!?"<Close><End of Block>
+<TextBlock 44 w:46 h:3>
+Bart
+"Shitan, cos'è la roba
+che si vede qui sul
+monitor?"<Close><End of Block>
+<TextBlock 45 w:42 h:4>
+Shitan
+"Sembra essere una
+registrazione di
+una qualche trasmissione<Delay 5>…<New>
+Potremmo essere in grado
+di trovare degli indizi.<Delay 10>
+Aspettate un attimo<Delay 5>…"<Close><End of Block>
+<TextBlock 46 w:50 h:4>
+Shitan
+"Perfetto…<Delay 10> ora posso
+trasmetterlo sugli
+schermi principali."<Close><End of Block>
+<TextBlock 47 w:54 h:4>
+Bart
+"Ma che diavolo è!? Perché
+la Chiesa si occupa di
+tutta 'sta roba?<New>
+E soprattutto,<Opcode 1 255> quello lì<Delay 20>
+<Opcode 1 0>Shakhan, è un vescovo…<Delay 30>!?<New>
+Non era stato scomunicato
+dalla Chiesa 17 anni fa
+e cacciato via!?"<Close><End of Block>
+<TextBlock 48 w:52 h:3>
+Bart
+"C'è un interruttore
+anche qui. <Delay 10>…<Delay 10> Eh?<New>
+Cazzo sono 'ste lettere?<Delay 10>
+Non riesco a leggere
+quello che c'è scritto."<Close><End of Block>
+<TextBlock 49 w:36 h:2>
+Bart
+"Avanti, sbrigati!"<Close><End of Block>
+<TextBlock 50 w:12 h:2>
+Bart
+"Eh?"<Close><End of Block>
+<TextBlock 51 w:28 h:4>
+Bart
+"Ma allora…<Delay 20> cosa vuol
+dire tutto questo?"<Close><End of Block>
+<TextBlock 52 w:54 h:4>
+Bart
+"Di sicuro non tutti, no<Delay 10>?<New>
+Cos'è successo a quelli
+che non sono diventati
+Redentori?"<Close><End of Block>
+<TextBlock 53 w:34 h:2>
+Billy
+"Beh<Delay 15>…<Delay 15> aahh<Delay 15>…?"<Space 1><Close><End of Block>
+<TextBlock 54 w:40 h:4>
+Bart
+"Tutto diventa più
+chiaro ora, eh…<Delay 10>
+Tu che ne dici, Elly?"<Close><End of Block>
+<TextBlock 55 w:46 h:3>
+Rico
+"Allora è da qui che
+prendono la loro
+manodopera."<Close><End of Block>
+<TextBlock 56 w:54 h:4>
+Billy
+"A giudicare della nostra
+posizione, questa stanza…<New>
+… è proprio sotto la
+cattedrale… Che voglia
+dire che questa è la<Delay 10>
+banca dati della Chiesa?"<Close><End of Block>
+<TextBlock 57 w:52 h:4>
+Billy
+"Questa banca dati…<New>
+… contiene tutte le
+informazioni che
+riguardano la Chiesa.<New>
+Dal principio ad oggi…
+tutto!<Delay 10> A noi è severamente
+vietato entrare qui.<New>
+Solo i Vescovi possono
+entrare in questo posto."<Close><End of Block>
+<TextBlock 58 w:54 h:4>
+Billy
+"Non chiedermelo<Delay 5>…<Delay 10> Come
+potrei saperlo<Delay 15>…<New>
+Questa è la prima
+volta che vengo qui<Delay 5>…!"<Close><End of Block>
+<TextBlock 59 w:44 h:4>
+Billy
+"Ma… ma… perché la
+Chiesa avrebbe mandato
+rifornimenti a Solaris!?"<Close><End of Block>
+<TextBlock 60 w:36 h:4>
+Billy
+"Non può essere vero!<Delay 5>
+Non ho mai sentito
+nulla del genere!"<Close><End of Block>
+<TextBlock 61 w:44 h:3>
+Billy
+"Sono diventati
+Redentori…
+Come me…"<Close><End of Block>
+<TextBlock 62 w:52 h:3>
+Billy
+"Ma è impossibile<Delay 5>…!<Delay 5>
+Come può essere<Delay 5>…"<Close><End of Block>
+<TextBlock 63 w:54 h:4>
+Billy
+"Anche<Delay 5> se fosse così,<Delay 5>
+chi avrebbe ucciso tutta
+quella gente della Chiesa…<Delay 5>?<New>
+E perché!?"<Close><End of Block>
+<TextBlock 64 w:30 h:4>
+Billy
+"La Chiesa<Delay 5>…<Delay 5>
+La mia Chiesa<Delay 5>…<Delay 5>
+La mia fede<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 65 w:48 h:3>
+Bart
+"Ehi, Billy!<New>
+Quanto a lungo vuoi
+stare in quello stato?
+Cerca di riprenderti!"<Close><End of Block>
+<TextBlock 66 w:52 h:4>
+Shitan
+"Questa è solo una nostra
+congettura basata su
+delle prove indirette.<New>
+Sarebbe meglio per te
+confermare quale sia la
+verità coi tuoi stessi
+occhi."<Close><End of Block>
+<TextBlock 67 w:40 h:3>
+Billy
+"Ma… ma… quella
+porta è chiusa…"<Close><End of Block>
+<TextBlock 68 w:24 h:2>
+Rico
+"Banca dati?"<Close><End of Block>
+<TextBlock 69 w:42 h:3>
+Rico
+"Comunque sia, questa
+non è una cosa da fare
+da soli..<New>
+Andiamo a prendere il
+resto del gruppo."<Close><End of Block>
+<TextBlock 70 w:52 h:2>
+Rico
+"Già, come pensavo, eh."<Close><End of Block>
+<TextBlock 71 w:46 h:3>
+Rico
+"La Chiesa è stata
+assalita da qualcuno<Delay 5>…<New>
+E nel piano interrato<Delay 5>…<Delay 10>
+troviamo un impianto
+solariano<Delay 5>…"<Close><End of Block>
+<TextBlock 72 w:34 h:3>
+Rico
+"Allora, investighiamo…!"<Close><End of Block>
+<TextBlock 73 w:46 h:4>
+Rico
+"Non può essere così, se
+lui ha sempre inviato con
+regolarità i resoconti."<Close><End of Block>
+<TextBlock 74 w:46 h:3>
+Rico
+"È tutta una copertura!<New>
+La Chiesa è davvero una
+organizzazione ausiliaria
+di Solaris!"<Close><End of Block>
+<TextBlock 75 w:52 h:4>
+Rico
+"Perciò… la Chiesa ci
+stava manipolando, eh!<Delay 20>
+Qualcos'altro?"<Close><End of Block>
+<TextBlock 76 w:48 h:4>
+Rico
+"Ma allora, cosa accadeva
+a tutti quelli che hai
+visto venire qui…<New>
+… in cerca d'aiuto?"<Close><End of Block>
+<TextBlock 77 w:50 h:4>
+Elly
+"Noi ci occuperemo
+di questo<Delay 10>…<New>
+Voi tre dovreste
+proseguire ed
+investigare."<Close><End of Block>
+<TextBlock 78 w:38 h:4>
+Elly
+"Ne sono sicura!<Delay 30> Questa
+è sicuramente la banca
+dati della Chiesa!"<Close><End of Block>
+<TextBlock 79 w:38 h:4>
+Elly
+"<Delay 5>…<Delay 10> Aspettate un secondo!<Delay 15>
+…<Delay 10> Ma questa è…<New>
+… l'attrezzatura
+di Solaris!"<Close><End of Block>
+<TextBlock 80 w:48 h:4>
+Elly
+"Non meravigliatevi
+così tanto!<New>
+Non importa quanto sia
+immenso questo mondo…<New>
+… un'attrezzatura così
+avanzata può provenire
+solo da Solaris."<Close><End of Block>
+<TextBlock 81 w:46 h:4>
+Elly
+"<Opcode 1 255>Guardate qui!<Opcode 1 0><New>
+Sono le destinazioni di
+tutte le risorse che la
+Chiesa ha accumulato
+attraverso il commercio.<New>
+Sono elencate tutte le
+attività commerciali
+con ogni zona…<New>
+E tutte queste risorse
+sono mandate proprio
+ora verso la mia
+patria, Solaris."<Close><End of Block>
+<TextBlock 82 w:34 h:2>
+Elly
+"Io<Delay 5> non<Delay 5> lo so…"<Close><End of Block>
+<TextBlock 83 w:48 h:4>
+Elly
+"Questa è la lingua di
+Solaris, ma è stata
+anche codificata.<New>
+Aspettate<Delay 5>…<Delay 5>…<Delay 5>
+Uhmmm<Delay 5>…<Delay 5>…<Delay 5>
+Che cos'è<Delay 5>…<Delay 5>…?<Delay 5>
+…<Delay 5>…<Delay 5>…<Delay 5>…<Delay 5>…"<Close><End of Block>
+<TextBlock 84 w:52 h:4>
+Elly
+"Aspettate un attimo!
+È difficile tradurre
+questa roba!<New>
+Uhmmm<Delay 5>…<Delay 5>
+<Delay 5>…<Delay 5> 'Agnelli'<Delay 5>…<Delay 5>
+grande guerra<Delay 5>…<Delay 5> rovina<Delay 5>…<Delay 5>
+rieducazione<Delay 5>…<New>
+…<Delay 5> piano di riabilitazione
+dopo la guerra<Delay 10>…<New>
+<Delay 5>…<Delay 5> basato su<Delay 5>…<Delay 5>
+<Delay 5>…<Delay 5> progetto per costruire
+i 'Portali'<Delay 5>…<New>
+'Agnelli'<Delay 5>…<Delay 5> 02-04 ad Ignis
+<Delay 5>…<Delay 5> 05-08 ad Aquvy<Delay 5>…<Delay 5>
+11-16<Delay 5> deve essere
+distribuito uniformemente<Delay 5>…<New>
+Mettere in pratica<Delay 5>…<Delay 5>
+<Delay 5>…<Delay 5> Fondazione della Chiesa
+come un'organizzazione<Delay 5>…<New>
+<Delay 5>…<Delay 5> Supervisionata da
+degli anziani<Delay 5>…
+<Delay 5>conferenza<Delay 5>…<Delay 5>
+supervisione di Gazel!?<New>
+La Chiesa è<Delay 5>…!?"<Close><End of Block>
+<TextBlock 85 w:54 h:4>
+Elly
+"Per farla breve,<Delay 5>
+più o meno è così<Delay 5>…<New>
+500 anni fa, si combatté
+una guerra tra Solaris
+e gli abitanti della
+superficie.<New>
+Non è chiaro quale fu
+l'esito, ma dopo la guerra,
+Solaris temette un'altra
+rivolta da parte loro<Delay 5>…<New>
+Così, Solaris ha costruito
+un 'Portale',<Delay 5> detto anche
+barriera<Delay 5>…<New>
+… che separa Solaris dal
+resto del mondo.<New>
+Gli abitanti della
+superficie che vivevano
+dentro questo Portale
+furono obbligati a vivere…<New>
+… separati dalla razza
+dei Solariani, come fossero
+due vere e proprie specie
+diverse.<New>
+Inoltre, si vigilava su
+di loro. Per perfezionare
+questo controllo, Solaris
+istituì la Chiesa.<New>
+Dunque, in realtà la
+Chiesa è controllata dal
+'Ministero di Gazel'<Delay 5>…<New>
+… ovvero il più
+importante organo
+amministrativo di Solaris.<New>
+Perciò,<Delay 5> in verità,<Delay 5> la
+Chiesa è proprio una
+'copertura'<Delay 5>…<New>
+… oppure anche una
+organizzazione ausiliaria<Delay 5>
+che lavora per Solaris!<New>
+I reperti ottenuti dagli
+scavi, i beni e le risorse
+naturali della superficie…<New>
+… sono trasportati a
+Solaris dalla Chiesa.<New>
+Tra le risorse, ci sono
+anche da includere le
+'risorse umane'…<New>
+… ovvero le persone
+utilizzate per il lavoro
+manuale, e così via.<New>
+Fondamentalmente, essa è
+la finestra che si trova
+tra la superficie del
+pianeta…<New>
+… e Solaris, che si trova
+nei cieli sopra di noi.<New>
+Stando a queste
+registrazioni…<New>
+… la quantità di beni e
+di gente trasferita a
+Solaris è enorme!"<Close><End of Block>
+<TextBlock 86 w:54 h:4>
+Elly
+"Il resto riguarda
+soprattutto…<New>
+… la distribuzione della
+popolazione ed i documenti
+riguardo sugli scavi.<New>
+Però, mi turba un po' la
+quantità d'informazioni
+sulle razze e sulle loro
+informazioni biologiche…"<Close><End of Block>
+<TextBlock 87 w:54 h:4>
+Elly
+"…<New>
+So che a Solaris ci sono
+degli stabilimenti per
+dar alloggio agli abitanti
+della superficie…!<New>
+Di norma i cittadini di
+III classe, cioè gli
+abitanti della Terra…<New>
+… sono mandati a compiere
+il lavoro manuale."<Close><End of Block>
+<TextBlock 88 w:50 h:4>
+Elly
+"Allora, pensate che
+Solaris sia responsabile
+di questo attacco…<New>
+… nei confronti
+della Chiesa?"<Close><End of Block>
+<TextBlock 89 w:42 h:3>
+Elly
+"Voi proseguite.<New>
+Rico ed io porteremo
+la 'Shevita' sullo
+Yggdrasil."<Close><End of Block>
+<TextBlock 90 w:42 h:3>
+Elly
+"Voi proseguite.<New>
+Bart ed io porteremo
+la 'Shevita' sullo
+Yggdrasil."<Close><End of Block>
+<TextBlock 91 w:42 h:3>
+Elly
+"Voi proseguite.<New>
+Rico ed io porteremo
+la 'Shevita' sullo
+Yggdrasil."<Close><End of Block>
+<TextBlock 92 w:42 h:3>
+Elly
+"Voi proseguite.<New>
+Shitan ed io porteremo
+la 'Shevita' sullo
+Yggdrasil."<Close><End of Block>
+<TextBlock 93 w:42 h:3>
+Elly
+"Voi proseguite.<New>
+Bart ed io porteremo
+la 'Shevita' sullo
+Yggdrasil."<Close><End of Block>
+<TextBlock 94 w:42 h:3>
+Elly
+"Voi proseguite.<New>
+Shitan ed io porteremo
+la 'Shevita' sullo
+Yggdrasil."<Close><End of Block>
+<TextBlock 95 w:52 h:4>
+Elly
+"Mentre controllavo
+il database, ho
+scoperto una cosa…<New>
+Sembra che qui ci sia una
+persona proveniente da
+Shevat…<New>
+… che è tenuta
+prigioniera qui
+dalla Chiesa.<Delay 30>
+Noi proseguiremo…<New>
+Bart e Rico, potreste
+soccorrere ed accompagnare
+questa 'Shevita' allo
+Yggdrasil??"<Close><End of Block>
+<TextBlock 96 w:52 h:4>
+Elly
+"Mentre controllavo
+il database, ho
+scoperto una cosa…<New>
+Sembra che qui ci sia una
+persona proveniente da
+Shevat…<New>
+… che è tenuta
+prigioniera qui
+dalla Chiesa.<Delay 30>
+Noi proseguiremo…<New>
+Bart e Rico, potreste
+soccorrere ed accompagnare
+questa 'Shevita' allo
+Yggdrasil??"<Close><End of Block>
+<TextBlock 97 w:52 h:4>
+Elly
+"Mentre controllavo
+il database, ho
+scoperto una cosa…<New>
+Sembra che qui ci sia una
+persona proveniente da
+Shevat…<New>
+… che è tenuta
+prigioniera qui
+dalla Chiesa.<Delay 30>
+Noi proseguiremo…<New>
+Bart e Rico, potreste
+soccorrere ed accompagnare
+questa 'Shevita' allo
+Yggdrasil??"<Close><End of Block>
+<TextBlock 98 w:52 h:4>
+Elly
+"Mentre controllavo
+il database, ho
+scoperto una cosa…<New>
+Sembra che qui ci sia una
+persona proveniente da
+Shevat…<New>
+… che è tenuta
+prigioniera qui
+dalla Chiesa.<Delay 30>
+Noi proseguiremo…<New>
+Bart e Rico, potreste
+soccorrere ed accompagnare
+questa 'Shevita' allo
+Yggdrasil??"<Close><End of Block>
+<TextBlock 99 w:52 h:4>
+Elly
+"Mentre controllavo
+il database, ho
+scoperto una cosa…<New>
+Sembra che qui ci sia una
+persona proveniente da
+Shevat…<New>
+… che è tenuta
+prigioniera qui
+dalla Chiesa.<Delay 30>
+Noi proseguiremo…<New>
+Bart e Rico, potreste
+soccorrere ed accompagnare
+questa 'Shevita' allo
+Yggdrasil??"<Close><End of Block>
+<TextBlock 100 w:52 h:4>
+Elly
+"Mentre controllavo
+il database, ho
+scoperto una cosa…<New>
+Sembra che qui ci sia una
+persona proveniente da
+Shevat…<New>
+… che è tenuta
+prigioniera qui
+dalla Chiesa.<Delay 30>
+Noi proseguiremo…<New>
+Bart e Rico, potreste
+soccorrere ed accompagnare
+questa 'Shevita' allo
+Yggdrasil??"<Close><End of Block>
+<TextBlock 101 w:50 h:4>
+Shitan
+"Se la Chiesa è davvero
+sotto il controllo di
+Solaris, come sospettiamo…<New>
+… allora qui dovrebbe
+esserci qualcosa che
+dovrebbe provarne il
+legame.<New>
+Voi dovreste proseguire
+e vedere se vi è possibile
+scoprire altri indizi."<Close><End of Block>
+<TextBlock 102 w:38 h:4>
+Shitan
+"Ne sono certo.<Delay 30> Questa
+dev'essere la banca
+dati della Chiesa."<Close><End of Block
+<TextBlock 103 w:54 h:4>
+Shitan
+"Dico…<Delay 5> un impianto
+di tale grandezza…<New>
+… sarebbe addirittura
+difficile da trovare
+a Solaris.<New>
+Per quale ragione la
+Chiesa possiede una
+tale costruzione?"<Close><End of Block>
+<TextBlock 104 w:42 h:3>
+Shitan
+"Mmh<Delay 5>…<Delay 10>
+Il mistero s'infittisce<Delay 5>…"<Close><End of Block>
+<TextBlock 105 w:52 h:4>
+Shitan
+"Qua c'è una
+documentazione
+relativamente recente<Delay 5>…<New>
+Indica anche che c'è
+stata una grande
+quantità di gente
+inviata a Solaris<Delay 5>…<New>
+La maggior parte di queste
+persone era gente che era
+venuta alla Chiesa in
+cerca di aiuto…<New>
+… o della salvezza
+spirituale."<Close><End of Block>
+<TextBlock 106 w:30 h:3>
+Shitan
+"Questa potrebbe
+essere la tua
+risposta…"<Close><End of Block>
+<TextBlock 107 w:14 h:2>
+Billy
+"Cosa?"<Close><End of Block>
+<TextBlock 108 w:48 h:2>
+Shitan
+"Il 44° piano
+di salvataggio."<Close><End of Block>
+<TextBlock 109 w:46 h:3>
+Bart
+"Il 44° piano
+di salvataggio?<New>
+Ma il Capitano del
+Tammuz non ci ha
+parlato proprio
+di questo?"<Close><End of Block>
+<TextBlock 110 w:48 h:4>
+Shitan
+"Questo è l'unico piano
+non collegato a Solaris…<New>
+Deve essere stato iniziato
+dalla Chiesa stessa, come
+un progetto completamente
+indipendente.<New>
+Gli si diede inizio
+circa… 19 anni fa.<Wait>
+Permettetemi di mostrarvi
+i dati su di esso…"<Close><End of Block>
+<TextBlock 111 w:54 h:4>
+Shitan
+"Dunque, da questo si
+evince che…<New>
+… sotto Aquvy si
+trova una civiltà
+ultramillenaria.<New>
+Debbono aver fatto un
+enorme numero di scavi
+di prova…<New>
+… ed aver ottenuta
+un'ampia quantità di
+informazioni dalle rovine.<New>
+Armi biologiche<Delay 5>…<Delay 5>
+armi reagenti<Delay 15>…<New>
+Mhh<Delay 5>…<Delay 5> capisco, dunque
+queste devono essere
+le loro intenzioni<Delay 5>…<New>
+La mia opinione, basandomi
+su questi fatti, è che la
+Chiesa stia tentando di
+separarsi da Solaris<Delay 5>…<New>
+Ed una volta liberatasi
+dal suo padrone,<Delay 5> con tutta
+probabilità cercherà di
+dominare il mondo<Delay 10> da sé."<Close><End of Block>
+<TextBlock 112 w:54 h:4>
+Rico
+"Cercare di separarsi<Delay 5>…<Delay 5> e
+di dominare il mondo<Delay 5>…<Delay 5>
+Che piano incredibile!"<Close><End of Block>
+<TextBlock 113 w:54 h:4>
+Shitan
+"Sì, ma le vere intenzioni
+della Chiesa sono del
+tutto evidenti<Delay 5>…<New>
+Il fatto che non stiano
+riferendo i risultati,<Delay 5>
+che non parlino della
+stessa esistenza del sito<Delay 5>…<New>
+… tutto ciò rivela
+le loro intenzioni<Delay 5>…<New>
+La Chiesa sta cercando di
+insorgere usufruendo del
+monopolio delle risorse…<New>
+… di questa avanzatissima
+civiltà!<New>
+In realtà, tali
+ribellioni sono state
+alquanto usuali<Delay 5>…"<Close><End of Block>
+<TextBlock 114 w:55 h:4>
+Shitan
+"Sì, probabilmente
+è così.<New>
+Non dovremmo muoverci?
+Potrebbero esserci
+altre cose ancora da
+scoprire!"<Close><End of Block>
+<TextBlock 115 w:48 h:4>
+Shitan
+"Tutto a posto<Delay 10>…<New>
+Ho regolato il computer
+per tenere aperta
+quella serratura."<Close><End of Block>
+<TextBlock 116 w:46 h:4>
+Bart
+"Ma chi l'avrebbe detto
+che dietro alla Chiesa
+c'era Solaris?<New>
+Sembra che in tutto
+questo ci sia più di
+quanto è davanti ai
+nostri occhi."<Close><End of Block>
+<TextBlock 117 w:42 h:3>
+Bart
+"Vero, così sembra…
+È una vera sorpresa."<Close><End of Block>
+<TextBlock 118 w:46 h:4>
+Bart
+"È vero, ma comunque<Delay 5>…<Delay 10>
+Questo posto è attrezzato
+dannatamente bene<Delay 10>…<New>
+Fateci caso!"<Close><End of Block>
+<TextBlock 119 w:30 h:2>
+Bart
+"S… <Delay 10>Solaris!?"<Close><End of Block>
+<TextBlock 120 w:44 h:3>
+Bart
+"Qualcuno vorrebbe
+spiegarmi cosa sta
+succedendo?<New>
+Cos'è in realtà questo
+posto?<New>
+Ehi,<Delay 10> Billy!
+Tu ne sai qualcosa!?"<Close><End of Block>
+<TextBlock 121 w:46 h:3>
+Bart
+"Shitan, cos'è la roba
+che si vede qui sul
+monitor?"<Close><End of Block>
+<TextBlock 122 w:42 h:4>
+Shitan
+"Sembra essere una
+registrazione di
+una qualche trasmissione<Delay 5>…<New>
+Potremmo essere in grado
+di trovare degli indizi.<Delay 10>
+Aspettate un attimo<Delay 5>…"<Close><End of Block>
+<TextBlock 123 w:50 h:4>
+Shitan
+"Perfetto…<Delay 10> ora posso
+trasmetterlo sugli
+schermi principali."<Close><End of Block>
+<TextBlock 124 w:54 h:4>
+Bart
+"Ma che diavolo è!? Perché
+la Chiesa si occupa di
+tutta 'sta roba?<New>
+E soprattutto,<Opcode 1 255> quello lì<Delay 20>
+<Opcode 1 0>Shakhan, è un vescovo…<Delay 30>!?<New>
+Non era stato scomunicato
+dalla Chiesa 17 anni fa
+e cacciato via!?"<Close><End of Block>
+<TextBlock 125 w:52 h:4>
+Bart
+"C'è un interruttore
+anche qui. <Delay 10>…<Delay 10> Eh?<New>
+Cazzo sono 'ste lettere?<Delay 10>
+Non riesco a leggere
+quello che c'è scritto."<Close><End of Block>
+<TextBlock 126 w:36 h:2>
+Bart
+"Avanti, sbrighiamoci!"<Close><End of Block>
+<TextBlock 127 w:12 h:2>
+Bart
+"Eh?"<Close><End of Block>
+<TextBlock 128 w:28 h:4>
+Bart
+"Ma allora…<Delay 20> cosa vuol
+dire tutto questo?"<Close><End of Block>
+<TextBlock 129 w:54 h:4>
+Bart
+"Di sicuro non tutti, no<Delay 10>?<New>
+Cos'è successo a quelli
+che non sono diventati
+Redentori?"<Close><End of Block>
+<TextBlock 130 w:34 h:2>
+Billy
+"Beh<Delay 15>…<Delay 15> aahh<Delay 15>…?"<Space 1><Close><End of Block>
+<TextBlock 131 w:40 h:4>
+Bart
+"Tutto diventa più
+chiaro ora, eh…<Delay 10>
+Tu che ne dici, Elly?"<Close><End of Block>
+<TextBlock 132 w:46 h:3>
+Rico
+"Allora è da qui che
+prendono la loro
+manodopera."<Close><End of Block>
+<TextBlock 133 w:52 h:4>
+Rico
+"È strano pensare che la
+nostra storia potrebbe
+essere stata diretta…<New>
+… da Solaris."<Close><End of Block>
+<TextBlock 134 w:26 h:2>
+Rico
+"A quanto pare."<Close><End of Block>
+<TextBlock 135 w:46 h:3>
+Rico
+"La Chiesa è stata
+assalita da qualcuno<Delay 5>…<New>
+E nel piano interrato<Delay 5>…<Delay 10>
+troviamo un impianto
+solariano<Delay 5>…"<Close><End of Block>
+<TextBlock 136 w:34 h:3>
+Rico
+"Allora
+investighiamo…!"<Close><End of Block>
+<TextBlock 137 w:46 h:4>
+Rico
+"Non può essere così, se
+lui ha sempre inviato con
+regolarità i resoconti."<Close><End of Block>
+<TextBlock 138 w:46 h:3>
+Rico
+"È tutta una copertura!<New>
+La Chiesa è davvero una
+organizzazione ausiliaria
+di Solaris!"<Close><End of Block>
+<TextBlock 139 w:52 h:4>
+Rico
+"Perciò… la Chiesa ci
+stava manipolando, eh!<Delay 20>
+Qualcos'altro?"<Close><End of Block>
+<TextBlock 140 w:48 h:4>
+Rico
+"Ma allora, cosa accadeva
+a tutti quelli che hai
+visto venire qui…<New>
+… in cerca d'aiuto?"<Close><End of Block>
+<TextBlock 141 w:68 h:11>
+<Opcode 14 2>   STATO DEL CONFLITTO DI IGNIS:
+37° scorta d'armi- si stanno
+migliorando i Gear di Aveh,
+dal livello D2 al D3.
+Mantenere i Gear di Kislev
+al livello D2.
+Rapporto attuale = 4 : 6…<New>
+    RESOCONTO ATTUATO DAL
+    VESCOVO SHAKHAN DELLA
+      DIOCESI DI IGNIS:
+A causa dell'intervento di un
+elemento non identificato, è
+necessaria una correzione.
+Il progresso dell'operazione
+è diminuito del 30%…<Opcode 2 40><Close><End of Block>
+<TextBlock 142 w:68 h:7>
+<Opcode 14 2><Delay 5>…<Delay 5> Completate le indagini nella
+città di Zeboim, che sprofondò
+nelle profondità marine circa
+4000 anni fa<Delay 5>…<Delay 5><Wait>
+Dopo oltre 100 scavi di prova, si
+è potuta constatare la presenza
+del centro della città<Delay 5>…<Delay 5>
+Si pianifica a breve l'inizio
+degli scavi<Delay 5>…<Close><End of Block>
+<TextBlock 143 w:66 h:1>
+<Opcode 14 2>Resoconto N. 50224 dal
+Blocco D di Nortune<Close><End of Block>
+<TextBlock 144 w:64 h:6>
+Si stanno trasferendo a Solaris
+tutti i dati dei Combattenti,
+assieme a quelli riguardanti
+le condizioni di salute dei
+Combattenti di Classe A ed i
+valori di adattamento stimati
+per la diffusione dei mezzi
+umani del Tipo Y…<Opcode 2 30><Close><End of Block>
+<TextBlock 145 w:66 h:1>
+<Opcode 14 1>Resoconto N. 50227 dal
+Blocco D di Nortune<Close><End of Block>
+<TextBlock 146 w:62 h:9>
+La violenta espulsione della
+Chiesa dal distretto centrale
+del governo di Kislev, attuata
+da Sigmund, ha reso difficili
+le procedure di coordinazione.
+Si progetta di eliminare Sigmund
+quando non sarà più utile.
+Si richiede il permesso di
+utilizzare il soggetto di prova
+di Battagliare, Ricardo, per
+attuare l'eliminazione…<Opcode 2 30><Close><End of Block>

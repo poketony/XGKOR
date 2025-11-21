@@ -1,0 +1,175 @@
+<TextBlock 1 w:12 h:1>
+nam<Extra2 255>00<Close><End of Block>
+<TextBlock 2 w:16 h:1>
+Giovanotto!?<Close><End of Block>
+<TextBlock 3 w:8 h:1>
+…!<Close><End of Block>
+<TextBlock 4 w:30 h:1>
+Sì, in qualche modo…<Close><End of Block>
+<TextBlock 5 w:50 h:4>
+Oh sì, Shakhan?<Delay 30>
+No, non l'ho visto…<New>
+Le uniche persone che
+sono venute qui erano
+quei soldati che mi hanno
+minacciato dicendomi di
+restare calmo<Delay 30>…<New>
+Spiacente, giovanotto.<Delay 30>
+Se solo io fossi stato
+più coraggioso…<Close><End of Block>
+<TextBlock 6 w:36 h:2>
+La città ora è a posto.
+Torniamo indietro.<Close><End of Block>
+<TextBlock 7 w:32 h:2>
+Raccogliete tutti
+i vostri effetti
+personali!<Close><End of Block>
+<TextBlock 8 w:50 h:4>
+Giovanotto,<Delay 30>
+fa' attenzione
+là fuori!<New>
+So che ce la puoi fare.<New>
+E quando l'avrai fatto…<Delay 30>
+Devi promettermi che
+uscirai allo scoperto e
+dirai a tutti chi sei.<New>
+Voglio vederti là, sul
+terrazzo del Castello di
+Fatima, fieramente!<Close><End of Block>
+<TextBlock 9 w:44 h:1>
+Devi vincere,
+giovanotto.<New>
+Sono con te!<Close><End of Block>
+<TextBlock 10 w:12 h:1>
+nam<Extra2 255>01<Close><End of Block>
+<TextBlock 11 w:12 h:1>
+nam<Extra2 255>02<Close><End of Block>
+<TextBlock 12 w:12 h:1>
+nam<Extra2 255>03<Close><End of Block>
+<TextBlock 13 w:12 h:1>
+nam<Extra2 255>04<Close><End of Block>
+<TextBlock 14 w:12 h:1>
+nam<Extra2 255>05<Close><End of Block>
+<TextBlock 15 w:44 h:2>
+È Bartolomeo!<New>
+Anche Margherita
+è con lui!<Close><End of Block>
+<TextBlock 16 w:28 h:2>
+Ehi, voi!<Delay 30>
+È tutto OK!<Close><End of Block>
+<TextBlock 17 w:50 h:3>
+Bartolomeo,<Delay 30> sei
+davvero forte.<New>
+Di tanto in tanto, ti
+ho visto andare e
+venire tante volte e
+non ci ho mai prestato
+molta attenzione.<New>
+In realtà, chi sei?<Close><End of Block>
+<TextBlock 18 w:44 h:4>
+Sei venuto per
+sconfiggere Shakhan!?
+…<Delay 30> L'ultimo re…?<Close><End of Block>
+<TextBlock 19 w:28 h:1>
+Allora tu sei…<Close><End of Block>
+<TextBlock 20 w:12 h:1>
+nam<Extra2 255>06<Close><End of Block>
+<TextBlock 21 w:12 h:1>
+nam<Extra2 255>07<Close><End of Block>
+<TextBlock 22 w:12 h:1>
+nam<Extra2 255>08<Close><End of Block>
+<TextBlock 23 w:12 h:1>
+nam<Extra2 255>09<Close><End of Block>
+<TextBlock 24 w:38 h:3>
+In superficie…<Delay 30>
+Che sta succedendo
+ora alla città!?<Close><End of Block>
+<TextBlock 25 w:28 h:1>
+È vero!?<Close><End of Block>
+<TextBlock 26 w:16 h:2>
+    Su
+    Esci<Close><End of Block>
+<TextBlock 27 w:6 h:1>
+!<Close><End of Block>
+<TextBlock 28 w:40 h:3>
+Bart
+"Sono arrivati
+fino a qui!"<Close><End of Block>
+<TextBlock 29 w:36 h:4>
+Bart
+"La bara!?<Delay 30>
+La mamma di Margie
+è a posto!?"<Close><End of Block>
+<TextBlock 30 w:50 h:3>
+Margie
+"Tranquillo!<Delay 30>
+Non è stata toccata."<Close><End of Block>
+<TextBlock 31 w:30 h:3>
+Bart
+"Fiuu…<Delay 30> OK.<Delay 30>
+Che sollievo."<Close><End of Block>
+<TextBlock 32 w:38 h:2>
+Bart
+"State tutti…<Delay 30> bene?"<Close><End of Block>
+<TextBlock 33 w:36 h:3>
+Bart
+"Shakhan…<Delay 30>
+Dov'è andato!?"<Close><End of Block>
+<TextBlock 34 w:36 h:3>
+Bart
+"Non è ancora qui<Delay 30>…
+che strano."<Close><End of Block>
+<TextBlock 35 w:50 h:3>
+Bart
+"Ho pensato io a sopra.<Delay 30>
+Si può tornare indietro!"<Close><End of Block>
+<TextBlock 36 w:44 h:3>
+Bart
+"Gente, ho bisogno
+della vostra attenzione!
+I miei…"<Close><End of Block>
+<TextBlock 37 w:46 h:4>
+Bart
+"… I miei amici si
+stanno dirigendo verso
+Bledavik.<New>
+La loro missione è
+quella di spodestare
+Shakhan."<Close><End of Block>
+<TextBlock 38 w:50 h:4>
+Bart
+"Ancora una volta sarà
+necessario ricostruire
+questo paese.<New>
+Questa…<Delay 30>… è la pesante
+eredità lasciatami dal
+nostro ultimo re."<Close><End of Block>
+<TextBlock 39 w:48 h:4>
+Bart
+"Se andrà tutto bene,
+presto i nostri sogni
+diverranno realtà.<New>
+Vi prego di credere
+in me e di aspettarmi."<Close><End of Block>
+<TextBlock 40 w:10 h:2>
+Bart
+"…"<Close><End of Block>
+<TextBlock 41 w:48 h:4>
+Bart
+"Non riesco a capire
+come ho potuto dire le
+cose che ho detto.<New>
+Non è da me parlare
+in quel modo…"<Close><End of Block>
+<TextBlock 42 w:46 h:4>
+Margie
+"Potevi solo dire
+loro che tu eri
+<Delay 30>il principe."<Close><End of Block>
+<TextBlock 43 w:50 h:2>
+Bart
+"No,<Delay 30> non posso
+ancora farlo.<New>
+Devo prima compiere
+l'ultimo desiderio
+di mio padre."<Close><Close><End of Block>

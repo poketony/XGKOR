@@ -1,0 +1,128 @@
+#### 1 ####
+...{wait:05}Live!{clear:5A}
+
+#### 2 ####
+Krelian
+"We were sacrificed as
+pawns{wait:05}...{enter}
+In order to protect their
+own authority{wait:05}...{wait:05}
+Sophia was{wait:05}...{enter}
+Is this the ideal world
+we've been searching for?{wait:0F}
+What have we been doing?{enter}
+Heading toward Sophia's
+ideals{wait:05}...?{wait:1E}
+Is this our salvation?"
+
+#### 3 ####
+Krelian
+"This isn't fair{wait:05}...{wait:0F}
+Sophia was sacrificed
+for those bastards{wait:05}..."
+
+#### 4 ####
+Krelian
+"Sophia said,{wait:05} if you just
+have faith the path to what
+you hope for will open.{enter}
+But look at reality.{wait:0F}
+God didn't answer our
+prayers{wait:05}...{enter}
+Is that because we didn't
+have faith?{enter}
+Even if we didn't have
+faith, {wait:05}Sophia did.{wait:0F}
+Why did she have to
+be sacrificed?{enter}
+Is god dead{wait:05}...?{wait:0F}
+Is he just not there{wait:05}...?{wait:0F}
+Maybe god never even
+existed to begin with!"
+
+#### 5 ####
+Krelian
+"Ha, ha, ha, ha{wait:05}...{wait:05}
+I see{wait:05}...{wait:1E}
+That's it{wait:05}...{enter}
+If god doesn't exist
+in our world, then{wait:05}...{wait:05}
+I will create god
+with my own hands!"
+
+#### 6 ####
+Lacan
+"Krelian{wait:05}..."
+
+#### 7 ####
+Krelian
+"Sophia{wait:05}...{wait:1E}
+Please guide me{wait:05}...{enter}
+I will destroy all
+such false pretenses
+of love,{wait:05} for you{wait:05}..."
+
+#### 8 ####
+Roni
+"We need to gather all
+our surviving comrades.{enter}
+We'll never beat them if we
+fight them individually{wait:05}...{enter}
+So let us create a country
+that can some day stand up
+against them{wait:05}..."
+
+#### 9 ####
+Roni
+"What are you going to do,{wait:1E}
+Lacan{wait:05}...?"
+
+#### 10 ####
+Lacan
+"I{wait:05}..."
+
+#### 11 ####
+Lacan
+"{wait:05}...{wait:05}What...{wait:05}is...this...{wait:05}place{wait:05}...?{wait:0F}
+{wait:05}...{wait:05}My execution site{wait:05}...?"
+
+#### 12 ####
+Lacan
+"{wait:05}...{wait:05}Why do you turn on me?{wait:0F}
+I thought we were friends!"
+
+#### 13 ####
+Lacan
+"Who{wait:05}...{wait:0F}
+is it{wait:05}...?"
+
+#### 14 ####
+Lacan
+"Did I{wait:05}...{wait:05}
+cause this{wait:05}...?{wait:0F}
+What has happened to me{wait:05}...?"
+
+#### 15 ####
+What{wait:05}...{wait:05}have{wait:05}...{wait:05}
+I{wait:05}...{wait:05}become{wait:05}...?
+
+#### 16 ####
+Lacan
+"...{wait:05}I will{wait:05} live{wait:05}...!"
+
+#### 17 ####
+Lacan
+"Even if I go to hell,{wait:0F}
+I will live till the
+end of this world.{enter}
+And if the world does
+not come to an end{wait:05}...{wait:05}
+I will destroy it
+with my own hands!"
+
+#### 18 ####
+If god doesn't exist
+in our world, then{wait:05}...{wait:05}
+I will create god
+with my own hands!{clear:B4}
+

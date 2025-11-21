@@ -1,0 +1,8 @@
+<TextBlock 1 w:54 h:3>
+Ma chi sei!? Cerca di
+non darmi fastidio. Tengo
+questa stanza ordinata.<Close><End of Block>
+<TextBlock 2 w:58 h:3>
+'Per favore, rimettete gli
+oggetti al loro posto dopo l'uso'
+           - Il Comitato -<Close><Close><End of Block>

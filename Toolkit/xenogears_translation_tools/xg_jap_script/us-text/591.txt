@@ -1,0 +1,15 @@
+#### 1 ####
+Fei
+"This...might open..."
+
+#### 2 ####
+'Truth reflecting mirror'
+Which do you wish to view?
+    {name:80:unknown}'s reflection
+    {name:81:unknown}'s reflection
+    {name:82:unknown}'s reflection
+    Quit
+
+#### 3 ####
+No one there.
+

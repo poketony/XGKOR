@@ -1,0 +1,33 @@
+#### 1 ####
+Fei
+"Grahf!?"
+
+#### 2 ####
+STOP
+
+#### 3 ####
+Grahf
+"The Goliath wasn't
+built for you to use.{enter}
+You must remain on this
+land a little longer.
+I can't allow you to
+leave..."
+
+#### 4 ####
+Grahf
+"So, you can now
+draw upon more of
+your power...{enter}
+If that's the case
+then..."
+
+#### 5 ####
+Grahf
+"Huh!?"{clear:1E}
+
+#### 6 ####
+Citan
+"Fei!
+Hold on tightly now!!"
+

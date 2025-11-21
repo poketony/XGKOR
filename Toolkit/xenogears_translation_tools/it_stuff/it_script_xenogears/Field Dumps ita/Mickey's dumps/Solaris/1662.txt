@@ -1,0 +1,97 @@
+<TextBlock 1 w:46 h:3>
+Ehi, tu!!<Delay 10>
+Non sei quello
+della Cerimonia…?<Close><End of Block>
+<TextBlock 2 w:6 h:1>
+…<Close><End of Block>
+<TextBlock 3 w:40 h:2>
+Sei in arresto!<Delay 10>
+Entra là dentro!!<Close><End of Block>
+<TextBlock 4 w:48 h:3>
+Ehi!<Delay 10> Perché stai uscendo
+di là!?<Delay 10> Passa di qua!<Close><End of Block>
+<TextBlock 5 w:48 h:4>
+Elly
+"Sono un tenente delle
+Forze Speciali,<Delay 10>
+Elhaym Van Houten.<New>
+Ho appena terminato la
+selezione della leva
+speciale del livello
+di III Classe.<New>
+Ora sto portando questo
+abitante della superficie
+al Quartier Generale.<Delay 10>
+C'è qualche problema?"<Close><End of Block>
+<TextBlock 6 w:26 h:1>
+(G… Geburah!?)<Close><End of Block>
+<TextBlock 7 w:42 h:2>
+N…<Delay 5> no,<Delay 5> affatto…<Delay 10><Space 1>
+Prego, procedete.<Close><End of Block>
+<TextBlock 8 w:28 h:1>
+Prego, procedete.<Close><End of Block>
+<TextBlock 9 w:10 h:1>
+DONNA<Close><End of Block>
+<TextBlock 10 w:12 h:1>
+DONNA2<Close><End of Block>
+<TextBlock 11 w:12 h:1>
+DONNA3<Close><End of Block>
+<TextBlock 12 w:12 h:1>
+DONNA4<Close><End of Block>
+<TextBlock 13 w:12 h:1>
+DONNA5<Close><End of Block>
+<TextBlock 14 w:14 h:1>
+!%#?&+!<Close><End of Block>
+<TextBlock 15 w:44 h:2>
+Ritornare dal livello
+di III Classe…<Delay 10>?<New>
+Ottimo lavoro.<Delay 10> 
+E dev'essere stata
+veramente dura."<Close><End of Block>
+<TextBlock 16 w:26 h:1>
+Lavorare duro?<Close><End of Block>
+<TextBlock 17 w:48 h:3>
+Hai avuto del fegato
+ad andare in una zona
+piena di quei barbari<Delay 10>…<New>
+Solo una di Geburah
+avrebbe potuto farlo.<Close><End of Block>
+<TextBlock 18 w:46 h:3>
+Sì, sì…<Delay 10> Oh, qui c'è
+un errore.<Delay 10> Per favore,
+provi di nuovo.<Opcode 2 60><Close><End of Block>
+<TextBlock 19 w:44 h:3>
+Non ancora.<Delay 10> Ecco
+perché odio gli uffici
+governativi…<Opcode 2 60><Close><End of Block>
+<TextBlock 20 w:14 h:1>
+!%#?&+!<Close><End of Block>
+<TextBlock 21 w:46 h:3>
+Questo è il problema
+con gli uffici governativi…
+… grumble… grumble…<Close><End of Block>
+<TextBlock 22 w:14 h:1>
+!%#?&+!<Close><End of Block>
+<TextBlock 23 w:42 h:4>
+Così la distruzione del
+Portale è avvenuta per
+volontà dell'Imperatore.<Delay 10> 
+Meno male!<Close><End of Block>
+<TextBlock 24 w:26 h:1>
+Lavorare duro?<Close><End of Block>
+<TextBlock 25 w:54 h:4>
+Quella dietro di te
+è di Geburah?<Delay 10> 
+Ho sentito che gli Agnelli
+hanno distrutto il portale…<New>
+Va tutto bene?
+    Tutto ok
+    Non ne sarei sicuro<Close><End of Block>
+<TextBlock 26 w:40 h:1>
+Fiuu, che sollievo.<Close><End of Block>
+<TextBlock 27 w:36 h:3>
+Cosa!?<Delay 10>
+Ehi, non scherzare.<Delay 10> 
+È impossibile!<Close><End of Block>
+<TextBlock 28 w:0 h:1>
+<Close><End of Block>

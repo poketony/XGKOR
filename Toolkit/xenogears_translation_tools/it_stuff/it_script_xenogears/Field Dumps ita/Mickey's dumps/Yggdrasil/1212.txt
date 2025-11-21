@@ -1,0 +1,486 @@
+<TextBlock 1 w:50 h:4>
+Elly
+"Aspetta!<Delay 10>
+Vuoi lasciarmi qui?<Delay 10>
+Voglio venire con te!"<Close><End of Block>
+<TextBlock 2 w:44 h:3>
+Fei
+"No.<Delay 10>
+È troppo pericoloso<Delay 5>…"<Close><End of Block>
+<TextBlock 3 w:54 h:4>
+Elly
+"Perché?<New>
+Ho affrontato molte
+situazioni pericolose.<New>
+Non è la prima volta!"<Close><End of Block>
+<TextBlock 4 w:40 h:3>
+Fei
+"Ho detto NO!<Delay 10>
+Non posso portarti.<New>
+Per favore, cerca
+di capirmi!"<Close><End of Block>
+<TextBlock 5 w:38 h:2>
+Elly
+"No, voglio venire!"<Close><End of Block>
+<TextBlock 6 w:46 h:3>
+Elly
+"Abbiamo combattuto
+insieme fino ad ora!<New>
+Ed ora mi dici che
+non posso venire!?
+Non ti capisco!!"<Close><End of Block>
+<TextBlock 7 w:52 h:3>
+Fei
+"Questo non è come gli
+altri combattimenti!<New>
+Questa è la battaglia
+per la sapienza creata
+da dio. È vita o morte.<New>
+Chiunque la controlli,
+diventa il vero
+dominatore del mondo!<New>
+È ovvio che il Ministero
+invierà le truppe più
+forti di cui dispone.<New>
+Non ci sono garanzie
+di ritornare vivi!"<Close><End of Block>
+<TextBlock 8 w:38 h:3>
+Elly
+"È per questo che
+voglio venire<Delay 5>…"<Close><End of Block>
+<TextBlock 9 w:38 h:3>
+Fei
+"Non hai la più
+pallida idea<Delay 5>…"<Close><End of Block>
+<TextBlock 10 w:54 h:2>
+Elly
+"Di cosa?"<Close><End of Block>
+<TextBlock 11 w:54 h:4>
+Fei
+"Se il nemico fosse solo il
+Ministero o qualche arma
+meccanica andrebbe bene.<New>
+Ma molti dei nemici sono
+stati creati con quelli
+che una volta erano umani<Delay 5>…<New>
+Umani come me e te!"<Close><End of Block>
+<TextBlock 12 w:3 h:1>
+!<Close><End of Block>
+<TextBlock 13 w:54 h:4>
+Fei
+"Li ho visti in quelle
+fabbriche<Delay 5>…<Delay 5> Gear che
+venivano riempiti di umani.<New>
+Erano proprio come
+Hammer<Delay 5>…<Delay 10>
+Potresti distruggerli dopo
+aver saputo questo!?<New>
+Per salvare noi stessi,
+puoi sinceramente dire che
+potresti uccidere coloro
+che erano tuoi amici!?<New>
+Sei proprio sicura di voler
+venire?"<Close><End of Block>
+<TextBlock 14 w:24 h:2>
+Elly
+"Ecco,<Delay 10> io<Delay 5>…"<Close><End of Block>
+<TextBlock 15 w:54 h:3>
+Fei
+"Non potresti uccidere
+neanche una mosca.<New>
+La tua presenza sarebbe
+un peso durante il
+combattimento."<Close><End of Block>
+<TextBlock 16 w:4 h:1>
+!?<Close><End of Block>
+<TextBlock 17 w:30 h:3>
+Fei
+"Saresti<Delay 5> solo
+d'impaccio<Delay 20>…"<Close><End of Block>
+<TextBlock 18 w:48 h:4>
+Bart
+"Ehi, Fei!
+Non credi di avere
+esagerato un po'?"<Close><End of Block>
+<TextBlock 19 w:50 h:4>
+Shitan
+"Non possiamo biasimarla.<Delay 10>
+Almeno dovremmo capire
+i suoi sentimenti."<Close><End of Block>
+<TextBlock 20 w:50 h:4>
+Fei
+"So come si sente Elly.<New>
+Sapevo che non mi avrebbe
+ascoltato se le
+avessi detto solo…<Delay 5>
+'Tu non vieni!'.<New>
+Vedendo tutti gli sforzi
+che ha fatto insieme a
+noi per così tanto tempo<Delay 5>…<New>
+Per questo ho dovuto
+parlarle in quel modo<Delay 5>…"<Close><End of Block>
+<TextBlock 21 w:50 h:3>
+Fei
+"Le persone raccolte a
+Nisan hanno bisogno di
+Elly.<New>
+Lei deve capire quante
+persone dipendono da lei.<New>
+Non posso metterla in
+pericolo<Delay 5>…"<Close><End of Block>
+<TextBlock 22 w:46 h:3>
+Margie
+"Ma gliel'hai detto in
+un modo piuttosto duro."<Close><End of Block>
+<TextBlock 23 w:50 h:4>
+Billy
+"Non avresti dovuto essere
+così freddo.<Delay 10> Starà
+piangendo,<Delay 10> lo sai?"<Close><End of Block>
+<TextBlock 24 w:16 h:2>
+Fei
+"Ma<Delay 5>…"<Close><End of Block>
+<TextBlock 25 w:30 h:3>
+Shitan
+"Sono sicuro che
+lei lo capisca."<Close><End of Block>
+<TextBlock 26 w:48 h:4>
+Bart
+"Lo penso anch'io.<Delay 10>
+Forse, <Delay 5>l'unico che
+non capisce sei<Delay 5> tu."<Close><End of Block>
+<TextBlock 27 w:40 h:3>
+Fei
+"Io…?<Delay 10>
+Cos'è che non
+capirei?"<Close><End of Block>
+<TextBlock 28 w:44 h:2>
+Margie
+"Il cuore<Delay 5>…<Delay 5> di
+una donna<Delay 5>…?"<Close><End of Block>
+<TextBlock 29 w:44 h:4>
+Billy
+"Lei vuole andare e
+stare con te, Fei…<Delay 10>
+Fino alla fine."<Close><End of Block>
+<TextBlock 30 w:10 h:1>
+Già.<Close><End of Block>
+<TextBlock 31 w:40 h:4>
+Bart
+"Al tuo posto<Delay 5>…<Delay 10>
+L'avrei abbracciata
+e le avrei detto<Delay 5>…<New>
+'Andiamo insieme!'
+…<Delay 5> Proprio così!"<Close><End of Block>
+<TextBlock 32 w:18 h:2>
+Margie
+"Davvero?"<Close><End of Block>
+<TextBlock 33 w:22 h:4>
+Bart
+"Mmh<Delay 10>…<Delay 5> no…<Delay 10>
+Io<Delay 10> volevo<Delay 5>…
+cioè…"<Close><End of Block>
+<TextBlock 34 w:46 h:3>
+Maison
+"Padroncino, ora non
+vantatevi troppo<Delay 5>…"<Close><End of Block>
+<TextBlock 35 w:24 h:1>
+Ah, sta' zitto!<Close><End of Block>
+<TextBlock 36 w:50 h:3>
+Bart
+"Comunque, perché non vai
+a chiederle di venire con
+noi?<New>
+Sia che venga o no,
+dovresti esprimere i
+tuoi sentimenti con
+le parole adatte.<New>
+Se davvero ti importa
+di lei, devi andare a
+dirglielo."<Close><End of Block>
+<TextBlock 37 w:50 h:3>
+Shitan
+"Esprimi i tuoi
+sentimenti<Delay 5>…<Delay 10> giusto?"<Close><End of Block>
+<TextBlock 38 w:44 h:2>
+Fei
+"Io… non volevo<Delay 5>…!"<Space 1><Close><End of Block>
+<TextBlock 39 w:38 h:3>
+Bart
+"Ora è troppo tardi.
+Tutti lo sanno."<Close><End of Block>
+<TextBlock 40 w:46 h:3>
+Shitan
+"Stai mentendo a te
+stesso, vero?"<Close><End of Block>
+<TextBlock 41 w:20 h:2>
+Margie
+"Sono d'accordo."<Close><End of Block>
+<TextBlock 42 w:32 h:3>
+Esmeralda
+"Fei…<Delay 5> parla…<Delay 10><Space 1>
+chiaro<Delay 5>…<Delay 10>"<Close><End of Block>
+<TextBlock 43 w:52 h:4>
+Margie
+"Coraggio…
+Valle dietro!<Delay 10>
+Cosa stai aspettando?"<Close><End of Block>
+<TextBlock 44 w:54 h:4>
+Shitan
+"Così…<Delay 10>
+C'è solo un portale rimasto
+sulla superficie…"<Close><End of Block>
+<TextBlock 45 w:38 h:3>
+Bart
+"Il problema è sapere
+dove si trova."<Close><End of Block>
+<TextBlock 46 w:50 h:4>
+Fei
+"La Regina Zefiro ha detto
+che ce ne sono tre sulla
+terra e uno a Solaris…"<Close><End of Block>
+<TextBlock 47 w:40 h:3>
+Sigurd
+"Secondo i rapporti
+di Shakhan…<New>
+… ogni portale è
+situato ai vertici
+di un triangolo che
+circonda Solaris…"<Close><End of Block>
+<TextBlock 48 w:48 h:3>
+Shitan
+"Diamo uno sguardo alla
+mappa che ci è stata 
+data dalla Regina…<New>
+… che descrive l'area
+prima che i portali
+fossero piazzati."<Close><End of Block>
+<TextBlock 49 w:52 h:3>
+Bart
+"Se provassimo entrambi
+i modi? Che accadrebbe?"<Close><End of Block>
+<TextBlock 50 w:50 h:4>
+Sigurd
+"Potrebbe essere difficile.<New>
+Dubito che si aspettassero
+che il secondo portale
+sarebbe stato distrutto.<New>
+Così sono sicuro che la
+prossima volta saranno
+più attenti.<New>
+Meglio pianificare le
+nostre mosse attentamente
+e velocemente."<Close><End of Block>
+<TextBlock 51 w:50 h:4>
+Shitan
+"In ogni caso, non potremo
+evitare interferenze da
+parte di Geburah, è così?"<Close><End of Block>
+<TextBlock 52 w:36 h:4>
+Fei
+"Doc,<Delay 10> Elly,<Delay 10> dov'è
+situata Solaris
+esattamente?"<Close><End of Block>
+<TextBlock 53 w:46 h:3>
+Elly
+"C'è una sola mappa di
+Solaris a Solaris.<New>
+Non conoscevo neanche
+questa terra fintanto
+che non ci sono
+arrivata."<Close><End of Block>
+<TextBlock 54 w:34 h:2>
+Fei
+"Vale lo stesso
+per Geburah?"<Close><End of Block>
+<TextBlock 55 w:48 h:4>
+Elly
+"I rapporti con la
+terra sono rivelati solo
+ai comandanti."<Close><End of Block>
+<TextBlock 56 w:46 h:4>
+Bart
+"In questo caso,
+neanche il padre di
+Billy potrebbe saperlo."<Close><End of Block>
+<TextBlock 57 w:50 h:3>
+Sigurd
+"Jesiah partì prima di
+divenire comandante."<Close><End of Block>
+<TextBlock 58 w:50 h:4>
+Shitan
+"Sigurd ed io eravamo
+contrabbandieri…<New>
+Non avevamo il tempo
+di guardare fuori
+dalla finestra.<New>
+Inoltre, quando
+attraversavamo il
+portale per Solaris…<New>
+… ci spostavamo in
+altri posti tramite
+il piano ambientale
+fra ogni portale.<New>
+Ricordate quando venimmo
+in contatto con il
+portale di Kislev nel
+Golia?<New>
+Succede la stessa cosa
+e si perde il senso
+dell'orientamento."<Close><End of Block>
+<TextBlock 59 w:52 h:4>
+Fei
+"Anche se il portale
+divide lo spazio fuori
+da Solaris…<New>
+… non si può
+riconoscerne
+la topografia?<New>
+Come montagne,
+foreste o altro?"<Close><End of Block>
+<TextBlock 60 w:54 h:3>
+Elly
+"… Non mi pare<Delay 10> ci
+fossero montagne.<New>
+Probabilmente eravamo
+circondati dall'oceano…"<Close><End of Block>
+<TextBlock 61 w:46 h:4>
+Bart
+"Oceano…<Delay 20>
+Allora non può
+essere a nord…<New>
+Questo è il polo. È
+tutto coperto dalla
+neve."<Close><End of Block>
+<TextBlock 62 w:54 h:4>
+Fei
+"Allora è deciso.<Delay 10>
+Il portale si trova
+a sud di qui.<New>
+Il centro del triangolo
+è solo l'oceano.<New>
+Se i portali fossero
+situati nel più alto
+punto a nord…<New>
+… allora il centro
+sarebbe il continente.<New>
+Perciò, se è come penso,
+tutto coincide con il
+racconto di Elly."<Close><End of Block>
+<TextBlock 63 w:38 h:2>
+Shitan
+"Potresti aver ragione."<Close><End of Block>
+<TextBlock 64 w:50 h:4>
+Sigurd
+"Aspetta.<Delay 10> Non c'è
+nessuna costruzione
+sopra l'oceano."<Close><End of Block>
+<TextBlock 65 w:38 h:2>
+Elly
+"Allora… sott'acqua?"<Close><End of Block>
+<TextBlock 66 w:50 h:4>
+Sigurd
+"Mmh…<Delay 10>
+Ma tutta l'area qua
+intorno è profonda.<New>
+Se esiste, si
+troverà in profondità."<Close><End of Block>
+<TextBlock 67 w:46 h:4>
+Fei
+"L'Yggdrasil è un
+sottomarino, no?<Delay 10>
+Dov'è il problema?"<Close><End of Block>
+<TextBlock 68 w:52 h:4>
+Bart
+"Sei pazzo!
+È un sottomarino, non
+un batiscafo.<New>
+Non è adatto per
+l'esplorazione marina
+profonda. La pressione
+lo distruggerebbe."<Close><End of Block>
+<TextBlock 69 w:44 h:2>
+Fei
+"Abbiamo un problema…"<Close><End of Block>
+<TextBlock 70 w:52 h:4>
+Shitan
+"Potremmo usare i
+batiscafi o i Gear
+usati dai Recuperatori…"<Close><End of Block>
+<TextBlock 71 w:24 h:4>
+Bart
+"'Recuperatori'?
+Giusto!<Delay 10>
+È deciso!"<Close><End of Block>
+<TextBlock 72 w:4 h:1>
+??<Close><End of Block>
+<TextBlock 73 w:52 h:3>
+Bart
+"Il capitano del Tammuz
+dovrebbe averne parecchi.<New>
+E ci deve un favore.<Delay 10>
+Andiamo al Tammuz."<Close><End of Block>
+<TextBlock 74 w:42 h:4>
+Shitan
+"È la nostra migliore
+scelta per ora. Vogliamo
+andare al Tammuz?"<Close><End of Block>
+<TextBlock 75 w:50 h:4>
+Shitan
+"Fei<Delay 15>…<New>
+Non ti sembra giunto
+il momento d'esprimere
+finalmente i tuoi
+sentimenti?"<Close><End of Block>
+<TextBlock 76 w:22 h:3>
+Bart
+"Coraggio!<Delay 10>
+Fallo!"<Close><End of Block>
+<TextBlock 77 w:44 h:3>
+Billy
+"Non sai proprio come
+trattare una signora, eh?"<Close><End of Block>
+<TextBlock 78 w:48 h:3>
+Rico
+"Non so molto di questo
+tipo di cose,<Delay 10> ma Hammer
+mi diceva…<New>
+… 'sii carino con
+le donne!'<Delay 5>…"<Close><End of Block>
+<TextBlock 79 w:26 h:2>
+Esmeralda
+"Fei<Delay 5>…<Delay 10> vai<Delay 5>…"<Close><End of Block>
+<TextBlock 80 w:52 h:4>
+<Chu-Chu>
+"Non preoccuparti
+per me, chu.
+Corri da lei, chu!!"<Close><End of Block>
+<TextBlock 81 w:38 h:3>
+Maria
+"Non è il modo giusto
+di trattarla!"<Close><End of Block>
+<TextBlock 82 w:34 h:3>
+Margie
+"Le donne non sono
+insensibili come gli
+uomini!"<Close><End of Block>
+<TextBlock 83 w:46 h:3>
+Maison
+"Non sono un esperto
+di romanticismo."<Close><End of Block>
+<TextBlock 84 w:42 h:4>
+Margie
+"Non scappare!
+Sii uomo e affronta
+il problema!!"<Close><End of Block>
+<TextBlock 85 w:48 h:4>
+Shitan
+"Se vai nella sala motori,
+il vecchio ti darebbe un
+ceffone!!"<Close><End of Block>
+<TextBlock 86 w:42 h:3>
+Bart
+"Ehi, stupido!<Delay 10>
+È nell'altra stanza."<Close><End of Block>
+<TextBlock 87 w:0 h:1>
+<Close><End of Block>

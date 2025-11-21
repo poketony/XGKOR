@@ -1,0 +1,37 @@
+[Script Info]
+
+;--------------------------------------------
+;|  This is a Sub Station Alpha v4 script   |
+;|                                          |
+;| Created with MEDUSA - Subtitling Station |
+;--------------------------------------------
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00
+Collisions: Normal
+PlayResX: 640
+PlayResY: 480
+PlayDepth: 0
+Timer: 100.0000
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,Arial,25,16777215,0,0,0,0,0,1,2,2,2,20,20,30,0,0
+Style: Normal,Arial,38,16777215,0,0,0,0,0,1,2,2,2,20,20,30,0,0
+
+[Events]
+Format: Marked, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,0:00:00.40,0:00:03.60,Normal,,0000,0000,0000,,Non avrei mai pensato che ci saremmo rincontrati in questo modo.
+Dialogue: Marked=0,0:00:03.70,0:00:05.63,Normal,,0000,0000,0000,,Deve essere... destino.
+Dialogue: Marked=0,0:00:07.00,0:00:08.30,Normal,,0000,0000,0000,,Che ironia.
+Dialogue: Marked=0,0:00:11.80,0:00:13.00,Normal,,0000,0000,0000,,Ma...
+Dialogue: Marked=0,0:00:13.80,0:00:17.50,Normal,,0000,0000,0000,,Non te lo lascerò mai avere...
+Dialogue: Marked=0,0:00:21.20,0:00:24.40,Normal,,0000,0000,0000,,Anche se questo per me significa morire.
+Dialogue: Marked=0,0:00:24.40,0:00:29.40,Normal,,0000,0000,0000,,

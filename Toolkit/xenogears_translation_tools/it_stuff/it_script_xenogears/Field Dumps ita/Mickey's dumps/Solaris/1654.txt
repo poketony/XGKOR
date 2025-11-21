@@ -1,0 +1,97 @@
+<TextBlock 1 w:14 h:2>
+Elly
+"Fei!?"<Close><End of Block>
+<TextBlock 2 w:16 h:2>
+Fei
+"Elly!!"<Close><End of Block>
+<TextBlock 3 w:50 h:3>
+Elly
+"Fei, sei così avventato!<New>
+Se stai cercando di
+infiltrarti nella base,
+devi essere più furbo."<Close><End of Block>
+<TextBlock 4 w:40 h:3>
+Fei
+"Scusami…<Delay 10>
+Dove ci troviamo?"<Close><End of Block>
+<TextBlock 5 w:54 h:3>
+Elly
+"Siamo nel 'Blocco F di
+III Classe di Solaris'.<New>
+Intorno ci sono 20
+blocchi e in ognuno
+di essi vivono abitanti
+della superficie.<New>
+Noi Solariani siamo al
+corrente di qualsiasi
+informazione personale…<New>
+La struttura del DNA di
+ognuno è registrata su
+un livello molecolare.<New>
+Ed anche la classe…<Delay 10>
+Sai come sono chiamati
+questi cittadini?"<Close><End of Block>
+<TextBlock 6 w:10 h:1>
+No…<Close><End of Block>
+<TextBlock 7 w:52 h:4>
+Elly
+"'Api Operaie'.<New>
+Il nome deriva dalla
+forma dei blocchi in
+cui abitano.<New>
+Questa gente provvede al
+lavoro manuale vitale al
+supporto del cuore di
+Solaris.<New>
+Ho visitato questi luoghi
+molto tempo fa.<New>
+Ricordo che pensai che le
+loro vite non avessero
+nulla a che fare con me.<New>
+Non pensavo che le cose
+sarebbero cambiate così
+tanto…"<Close><End of Block>
+<TextBlock 8 w:52 h:4>
+Fei
+"Allora conosci già
+questo posto, Elly."<Close><End of Block>
+<TextBlock 9 w:54 h:3>
+Elly
+"Vagamente.<Delay 10> Prima
+dobbiamo scappare…"<Close><End of Block>
+<TextBlock 10 w:46 h:2>
+Fei
+"Ehi, dov'è Doc?"<Close><End of Block>
+<TextBlock 11 w:50 h:3>
+Elly
+"Ha preso un'altra
+direzione per cercarti…<New>
+Sarà finito in un
+altro blocco."<Close><End of Block>
+<TextBlock 12 w:44 h:3>
+Fei
+"Merda…<Delay 10> Siamo
+troppo dispersi."<Close><End of Block>
+<TextBlock 13 w:46 h:4>
+Elly
+"Non mi preoccuperei per
+Shitan.<Delay 10> Conosce questa
+città meglio di me."<Close><End of Block>
+<TextBlock 14 w:42 h:3>
+Fei
+"Mi chiedo se Bart e
+gli altri ce l'abbiano
+fatta…?"<Close><End of Block>
+<TextBlock 15 w:46 h:3>
+Elly
+"Jessie è con loro,
+così andrà tutto bene."<Close><End of Block>
+<TextBlock 16 w:28 h:2>
+Fei
+"Lo spero…"<Close><End of Block>
+<TextBlock 17 w:48 h:2>
+Elly
+"Comunque, diamoci
+una mossa."<Close><End of Block>
+<TextBlock 18 w:0 h:1>
+<Close><End of Block>

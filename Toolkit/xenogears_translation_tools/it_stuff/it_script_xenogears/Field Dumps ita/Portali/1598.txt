@@ -1,0 +1,4 @@
+<TextBlock 1 w:40 h:3>
+Torni sull'Yggdrasil?
+    Sì
+    No<Close><End of Block>

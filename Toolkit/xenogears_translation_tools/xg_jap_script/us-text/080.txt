@@ -1,0 +1,830 @@
+#### 1 ####
+Bart
+"Let's split up!{enter}
+I'll go to the mausoleum.{wait:1E}
+I'll take Fei and..."{wait:1E}
+
+#### 2 ####
+Bart
+"I see, that'll be good.{wait:1E}
+Then please go help Sig!"
+
+#### 3 ####
+"So, if that's the case
+then..."
+
+#### 7 ####
+How's Bledavik?
+
+#### 8 ####
+It's under martial law so
+it's gotten progressively
+harder to contact our
+agents in the city.{enter}
+According to the info we
+finally got just a while
+ago, there's no major
+activity. {enter}
+We think they've found
+some reason to attack and
+are getting ready now..."
+
+#### 9 ####
+The possiblity exists.
+
+#### 10 ####
+However I've heard that
+Shakhan's powerbase in the
+capital is erroding away.{enter}
+He's probably weaker than
+we thought.
+
+#### 11 ####
+Anyway, it's happened and
+we're committed now.
+
+#### 12 ####
+I feel the same way.
+
+#### 13 ####
+Now that I think about it,
+12 years ago...
+
+#### 14 ####
+Ever since the coup d'etat
+by Shakhan, there's been
+a lot of tension in our
+country.{enter}
+With Marguerite back now, 
+I agree that the former
+dynasty should be returned
+to power.
+
+#### 15 ####
+Everyone feels the same
+but we must look at reality.{enter}
+Do we have the strength to
+do that now?
+
+#### 16 ####
+Now I hear Bartholomew,
+the one who brought back
+Marguerite, has started
+moving around out in the
+open. I'm certain Shakhan
+is preparing a large army.
+
+#### 17 ####
+Shakhan may be coming
+here soon...
+
+#### 18 ####
+ ... 
+
+#### 19 ####
+What's gonna happen to us
+if he captures this area?
+
+#### 20 ####
+Will everyone be killed?
+
+#### 21 ####
+I seriously doubt that.{wait:1E}
+Even he won't want to risk
+provoking any kind of
+outrage with the citizens.{enter}
+Especially in this
+situation, he will
+definitely want to avoid
+putting himself in a
+compromising situation.
+
+#### 22 ####
+We should set up a hiding
+place just in case...
+
+#### 23 ####
+Maybe there...
+
+#### 24 ####
+Sigurd
+"I went to the tool shop
+to borrow a table.{enter}
+The owner said...
+'if we need anything for
+the young master, just
+ask for it.'"
+
+#### 25 ####
+Bart
+"I'm grateful."
+
+#### 26 ####
+Bart
+"When I was a kid, {wait:1E}I
+borrowed stuff from there
+and got in big trouble."
+
+#### 27 ####
+Fei
+"Borrowed...{wait:1E}
+What did you take?
+
+#### 28 ####
+Bart
+"A toy boat.{wait:1E}
+...I think that's what
+it was.{enter}
+I put fireworks in it and
+let it float on the
+cathedral's lake. I always
+used to play 'navy'."
+
+#### 29 ####
+Bart
+"I'm not sure, but I
+think I pretended the
+lake was the open sea...{enter}
+...and I was the fleet
+commander."
+
+#### 30 ####
+Bart
+"Anyway...forget those
+old stories.{wait:1E}
+We should get started."
+
+#### 31 ####
+Bart
+"First...{wait:1E}
+Gebler is the
+big problem."
+
+#### 32 ####
+Citan
+"Yes, Ramsus is headed
+towards achieving his
+goals.{enter}
+That he is now the
+commander of Gebler
+is proof of that.{enter}
+A normal man{wait:0A} could not
+progress so quickly
+through that country's
+organization.{enter}
+And now he is presently
+located here in Ignas."
+
+#### 33 ####
+Citan
+"Frankly, the situation
+is not very favorable.{enter}
+We need to somehow find
+a weak spot and attack
+it with all our might."
+
+#### 34 ####
+Bart
+"First, let's just
+concentrate on Shakhan.{enter}
+Once he's out of the way
+and Aveh is safe again,
+we can think about how
+to deal with Gebler."
+
+#### 35 ####
+Bart
+"With our present strength
+we should be able to hold
+off the royal guard forces.{enter}
+The problem is how to deal
+with Gebler in the mean
+time...{enter}
+They will most likely move
+at Shakhan's request.
+They're not just gonna sit
+by and watch quietly."
+
+#### 36 ####
+Citan
+"...May I have a
+look there please?"
+
+#### 37 ####
+Citan
+"In short, we want Gebler
+to leave for a while...{enter}
+At least until we are able
+to take back the Royal
+Capital, Bledavik."
+
+#### 38 ####
+Sigurd
+"But the problem is...{enter}
+will attacking the border
+guards be enough to set
+the center in motion?"
+
+#### 39 ####
+Citan
+"To be sure then, Nisan
+will just have to appear
+to align with Kislev.{enter}
+If they see it that way,
+they will certainly make
+a move."
+
+#### 40 ####
+Bart
+"You're saying that you
+intend to use Nisan as
+bait?"
+
+#### 41 ####
+Fei
+"Doc!?"
+
+#### 42 ####
+Sigurd
+"Shakhan is very
+sensitive to Nisan's
+and Kislev's actions.{enter}
+If Nisan starts moving
+he will probably leave
+it up to Gebler, but..."
+
+#### 43 ####
+Citan
+"Of course I do not
+wish to do that from
+the beginning.{enter}
+But looking at the
+situation, we have to
+be willing to go that
+far."
+
+#### 44 ####
+Hmm...
+
+#### 45 ####
+Bart
+"First, we infiltrate
+into the capital.{enter}
+To take out Shakhan,
+we'll have to meet
+up with our agents
+already in the city."
+
+#### 46 ####
+Citan
+"We are forgetting
+one thing...{enter}
+The front line units
+along Kislev's border."
+
+#### 47 ####
+Bart
+"...!"
+
+#### 48 ####
+Bart
+"Damn...{wait:1E}
+That puts everything
+in jeopardy!"
+
+#### 49 ####
+Citan
+"Do not feel so down.{enter}
+I simply wanted you
+to see the current 
+distribution of force
+in the area.{enter}
+Even in the worst case
+that they do come, it
+will not be such a great
+problem."
+
+#### 50 ####
+Bart
+"What do you mean?"
+
+#### 51 ####
+Citan
+"I have some additional
+information about Aveh's
+border fleet.{enter}
+The former Aveh supreme
+commander was transferred
+there.{enter}
+Not really transferred,{wait:1E}
+more like {wait:1E}demoted...{wait:1E}
+His name is Vanderkaum."
+
+#### 52 ####
+Sigurd
+"Vanderkaum..."
+
+#### 53 ####
+Sigurd
+"You don't mean the
+Vanderkaum that was
+in Jugend?"
+
+#### 54 ####
+Citan
+"The very same."
+
+#### 55 ####
+Citan
+"Young one, he has not been
+able to adapt to the change
+in tactics...{enter}
+particularly following the
+introduction of Gears...{enter}
+He is a man who will never
+stray from his dependence
+on large naval guns."
+
+#### 56 ####
+Bart
+"You mean, he's stubborn.{enter}
+He is all size and no
+real military power.
+An excellent target for
+pirates."
+
+#### 57 ####
+Maison
+"Young master!{wait:1E}
+This is not going to
+be an act of piracy!"
+
+#### 58 ####
+Bart
+"Just kidding."
+
+#### 59 ####
+Citan
+"Actually, the number of
+Gears assigned to the fleet
+seems to have been reduced."
+
+#### 60 ####
+Citan
+"Even with that...{wait:1E}
+how gallant of him to
+be so self-righteous."
+
+#### 61 ####
+Bart
+"Is he that much of
+a muscle head? It'll
+be fun taunting him."
+
+#### 62 ####
+Maison
+"Young master!"
+
+#### 63 ####
+Bart
+"I know! I know!{enter}
+Anyway, Citan, do you
+think he can strike
+our Gear forces?"
+
+#### 64 ####
+Citan
+"It is not a problem.{enter}
+Even with Vanderkaum, we
+have enough forces left
+to pull off the feint.{enter}
+However, it would not be
+wise to underestimate our
+opponents."
+
+#### 65 ####
+Fei
+"Me...!?"
+
+#### 66 ####
+Sigurd
+"Hold on now!{wait:1E}
+There's no reason to
+involve you all in this!"
+
+#### 67 ####
+Fei
+"...I'll do it.{enter}
+Yes, let me do it.
+When do we leave?"
+
+#### 68 ####
+Bart
+"...Are you sure?"
+
+#### 69 ####
+Fei
+"We've come this far...
+Hey, we're friends to
+the end, now!"
+
+#### 70 ####
+Citan
+"Speed is everything.
+We should do this as
+soon as possible."
+
+#### 71 ####
+Bart
+"Alright, tomorrow!"
+
+#### 72 ####
+Sigurd
+"I am truly grateful...{wait:1E}
+Fei...{wait:1E}
+Citan."
+
+#### 73 ####
+Bart
+"Yeah!"
+
+#### 74 ####
+Bart
+"There's no way we
+can lose!{wait:1E} No one
+will die in vain!"
+
+#### 75 ####
+Maison
+"Well put,
+young master!"
+
+#### 76 ####
+Margie
+"You okay?{wait:1E}
+Sister, are you wounded?"
+
+#### 77 ####
+Sister Agnes
+"I'm fine. {wait:1E}
+Marguerite and Bartholomew,
+I'm sorry..."
+
+#### 78 ####
+Sigurd
+"I took some troops and
+searched the area, but I
+couldn't find anyone."
+
+#### 79 ####
+Bart
+"Really?"
+
+#### 80 ####
+Sister Agnes
+"Earlier, {wait:1E}
+after everyone came out..."
+
+#### 81 ####
+Sister Agnes
+"Over half of the
+residents have fled
+from Nisan.{enter}
+After that, Shakhan's
+position in the country
+was compromised so...{enter}
+he didn't care about
+reputations anymore and
+attacked this land."
+
+#### 82 ####
+Citan
+"I see. {wait:1E}
+A last desperate plan to
+reverse the situation..."
+
+#### 83 ####
+Bart
+"Sister, I assume the
+people remaining in the
+town are...?"
+
+#### 84 ####
+Sister Agnes
+"Yes. {wait:1E}
+Hiding in the mausoleum."
+
+#### 85 ####
+Fei
+"Mausoleum...?{wait:1E}
+Hiding in a grave?"
+
+#### 86 ####
+Margie
+"The Great Mothers and
+Kings of Aveh of old
+are revered there."
+
+#### 87 ####
+Bart
+"It's not just some regular
+grave or anything."
+
+#### 88 ####
+Sister Agnes
+"Bartholomew,
+about that..."
+
+#### 89 ####
+Sister Agnes
+"Shakhan and
+the Fatima Jasper...{enter}
+He's after the Fatima
+Treasure."
+
+#### 90 ####
+Citan
+"Treasure...?{wait:1E} If he
+wants the treasure what is
+he doing attacking here..."
+
+#### 91 ####
+Bart
+"Huh?{wait:1E} Ahh..."{wait:1E}
+
+#### 92 ####
+Bart
+"Actually, the Fatima
+Treasure is in the
+mausoleum.{enter}
+There was even father's
+will there, but I didn't
+tell anyone..."
+
+#### 93 ####
+Fei
+"Treasure...{enter}
+You mean that thing in the
+picture scrolls you showed
+me earlier in your base?"
+
+#### 94 ####
+Bart
+"Yeah.{enter}
+If you follow that legend,
+you're supposed to get
+your hands on some great
+power."
+
+#### 95 ####
+Sigurd
+"We must stop them
+somehow."
+
+#### 96 ####
+Bart
+"There's no problem.
+The Jasper is..."
+
+#### 97 ####
+Sister Agnes
+"They plan to use the
+former Mother's retinas."
+
+#### 98 ####
+Bart
+"Wha...{wait:1E}what!!"
+
+#### 99 ####
+Sister Agnes
+"Remove the deceased
+Mother's retina,{wait:1E} and
+break the seal."
+
+#### 100 ####
+Bart
+"Use the body of Margie's
+mother?"
+
+#### 101 ####
+Margie
+"Mom's...!!"
+
+#### 102 ####
+Sister Agnes
+"I'm sorry. They used
+innocent citizens and sect
+followers as a shield.{enter}
+There was no other way...{enter}
+The truth we heard
+previously from Margie
+about the Jasper's true
+form and how it's used.{enter}
+They know now...{wait:1E}
+I am truly sorry."
+
+#### 103 ####
+Bart
+"Well...{wait:1E}
+I don't blame you.
+They had hostages!"
+
+#### 104 ####
+Citan
+"Wait a moment.{wait:1E}
+Retinas...what are you
+speaking of?"
+
+#### 105 ####
+Bart
+"The Fatima Jasper is the
+topaz blue pupils of the
+Fatima dynasty...{enter}
+In other words...{wait:1E}
+our retinal pattern.{enter}
+The doors to the treasure
+are opened by that...{wait:1E}
+Or so it is said."
+
+#### 106 ####
+Bart
+"However no one has ever
+used it. It's not to be
+used for minor conflicts.{enter}
+The doors are to be opened
+only when the kingdom is
+truly in danger.{enter}
+So neither I, {wait:1E}
+nor my father, {wait:1E}
+nor grandfather,{enter}
+nor my great grandfather
+have ever used it."
+
+#### 107 ####
+Citan
+"So, that {wait:1E}is the true
+form of the Jasper..."
+
+#### 108 ####
+Bart
+"Damn!"
+
+#### 109 ####
+Bart
+"That old coot, {wait:1E}he wants to
+profane a holy person's
+corpse? That's unthinkable!"
+
+#### 110 ####
+Citan
+"It is a closely guarded
+secret but the 'Ethos'
+people are not holy men.{enter}
+They simply supervise."
+
+#### 111 ####
+Fei
+"Yes, of course they
+wouldn't feel anything!{enter}
+Let's go Bart!{wait:1E}
+Before the mausoleum is
+trashed."
+
+#### 112 ####
+Bart
+"Alright!"
+
+#### 113 ####
+Sigurd
+"Young master!{wait:1E}
+I have a proposal."
+
+#### 114 ####
+Bart
+"What is it Sig?"
+
+#### 115 ####
+Sigurd
+"Currently Aveh is in
+confusion with Shakhan
+running amok.{enter}
+It should be very easy
+to bring down the center
+with no Gebler units
+around.{enter}
+It'll be the best time to
+make our return to the
+capital."
+
+#### 116 ####
+Citan
+"That is a good idea.{enter}
+Shakhan is most likely
+thinking of the Fatima
+Jasper as his last card.{enter}
+While we prevent the young
+one from handing over the
+treasure to Shakhan...{enter}
+a separate force will take
+back the capital.
+Then he will have nowhere
+else to go."
+
+#### 117 ####
+Bart
+"I got it...{wait:1E}
+Sounds good.{enter}
+We can pay everything
+back in one shot!"
+
+#### 118 ####
+    Elly
+    Citan
+    Billy
+    Rico
+    Maria
+    {name:07:チュチュ}
+
+#### 119 ####
+Elly
+"Fine, I'll go."
+
+#### 120 ####
+Citan
+"If possible, I would like
+to return to the capital
+with Sigurd.{enter}
+Two former Solarians will
+dethrone the 'Ethos'...
+How very ironic."
+
+#### 121 ####
+Billy
+"I'll go."
+
+#### 122 ####
+Rico
+"Leave it to me."
+
+#### 123 ####
+Maria
+"I will help out."
+
+#### 124 ####
+{name:07:チュチュ}
+"There's no choice 
+but for me chu go!"
+
+#### 125 ####
+    Elly
+    Billy
+    Rico
+    Maria
+    {name:07:チュチュ}
+
+#### 126 ####
+Elly
+"I'll go."
+
+#### 127 ####
+Billy
+"I'll go."
+
+#### 128 ####
+Rico
+"Leave it to me."
+
+#### 129 ####
+Maria
+"I will help out."
+
+#### 130 ####
+{name:07:チュチュ}
+"There's no choice
+but for me chu go!"
+
+#### 4 ####
+Bart
+"Alright! That decides it!{enter}
+Everyone else cooperate
+with Sig!"
+
+#### 131 ####
+Margie
+"Hold on.{wait:1E}
+I'm going too!"
+
+#### 5 ####
+Bart
+"Huh?{wait:1E}
+You don't have to...{wait:1E}
+Oh, yeah.{enter}
+Sorry Margie.
+Come along with us."
+
+#### 6 ####
+Bart
+"Alright I'm counting
+on all of you!{enter}
+He's a dead man the
+next time I see him!"

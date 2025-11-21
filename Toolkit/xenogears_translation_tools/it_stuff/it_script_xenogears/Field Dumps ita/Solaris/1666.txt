@@ -1,0 +1,122 @@
+<TextBlock 1 w:14 h:1>
+!%#?&+!<Close><End of Block>
+<TextBlock 2 w:6 h:1>
+…<Close><End of Block>
+<TextBlock 3 w:52 h:3>
+Sono così indeciso, non
+so cosa comprare.<Delay 10> 
+Non disturbatemi.<Close><End of Block>
+<TextBlock 4 w:50 h:3>
+Cosa? Non hanno più delle
+Mollascarpe Imperiali?
+Anch'io le volevo!
+E le volevo tantissimo!<Close><End of Block>
+<TextBlock 5 w:46 h:2>
+Signorina, sono spiacente.
+Abbiamo appena venduto
+l'ultimo paio.<Delay 10><Close><End of Block>
+<TextBlock 6 w:18 h:1>
+Uaagghh!!<Close><End of Block>
+<TextBlock 7 w:52 h:1>
+Wow, il modello Imperiale…<Opcode 2 30><Close><End of Block>
+<TextBlock 8 w:40 h:2>
+Anch'io volevo il
+modello Imperiale!!<Close><End of Block>
+<TextBlock 9 w:50 h:4>
+I servizi a Solaris sono
+perfetti… non importa
+quanto qualcosa sia
+grande, quando si arriva
+a casa la si trova sempre.<Close><End of Block>
+<TextBlock 10 w:48 h:2>
+Questo 'modello
+Imperiale' è grazioso!<Close><End of Block>
+<TextBlock 11 w:36 h:3>
+Elly
+"Ma non ha detto
+'Modello Inferiore'?"<Close><End of Block>
+<TextBlock 12 w:36 h:3>
+Eh?<Delay 10> Ehi, è vero!
+Dev'essere
+falsificato!<Close><End of Block>
+<TextBlock 13 w:48 h:4>
+Di questi tempi ci sono
+tantissimi modelli
+Imperiali.<Delay 10> Questa è una
+edizione limitata, perciò
+devo comprarmela!<Close><End of Block>
+<TextBlock 14 w:48 h:4>
+Wow, sei andato a prendermi
+il Combattente di Metallo!!<Delay 10>
+Quando crescerò voglio
+unirmi anch'io a Geburah!<Close><End of Block>
+<TextBlock 15 w:42 h:2>
+Sì, e con questo posso
+ridurre gli Agnelli
+a polpette!!<Close><End of Block>
+<TextBlock 16 w:50 h:3>
+Mio figlio mi ha tormentato
+così tanto che ho dovuto
+comprargli un Minigear
+di Metallo Ibrido.<New>
+Se entrerà a far parte
+di Geburah, sarò fiero
+di lui.<Close><End of Block>
+<TextBlock 17 w:50 h:3>
+Mio figlio mi ha tormentato
+così tanto che ho dovuto
+comprargli un Minigear
+di Metallo Ibrido.<New>
+Se entrerà a far parte
+di Geburah, sarò fiero
+di lui.<Close><End of Block>
+<TextBlock 18 w:48 h:4>
+Mmh, che dovrei fare…<Delay 10>
+Tu che ne pensi?
+    Che ne dici di questo?
+    Cosa ne dici di questo?<Close><End of Block>
+<TextBlock 19 w:38 h:4>
+La pensi così?<Delay 10>
+Ma vedo che anche a te
+piacciono i vestiti
+strani, perciò…
+Prenderò quello!<Close><End of Block>
+<TextBlock 20 w:40 h:3>
+Mmmh, davvero?<Delay 10>
+Sto diventando sempre
+più confusa…<Close><End of Block>
+<TextBlock 21 w:20 h:1>
+Quale?<Close><End of Block>
+<TextBlock 22 w:20 h:1>
+Quale?<Close><End of Block>
+<TextBlock 23 w:50 h:4>
+Questa è la Biglietteria.<New>
+Cosa state cercando?
+    <Opcode 1 255>Biglietti
+    Negozio
+    Nulla<Close><End of Block>
+<TextBlock 24 w:42 h:3>
+Un altro spettacolo
+del DK1200!<Delay 10> 
+Nella Sala Imperiale.<Close><End of Block>
+<TextBlock 25 w:46 h:4>
+I posti VIP per la Cerimonia
+sono stati tutti venduti.<Delay 10>
+Godetevi la Cerimonia di
+Consacrazione in Televisione.<Close><End of Block>
+<TextBlock 26 w:56 h:4>
+Voglio comprare delle
+Mollascarpe modello Imperiale,
+e arriverei pure a pagarle 5
+volte più di quanto costano!<Close><End of Block>
+<TextBlock 27 w:46 h:4>
+Stiamo distribuendo i
+biglietti per la Cerimonia.<Delay 10>
+Venite pure alla Stanza
+21, nel Residence Etem.<Close><End of Block>
+<TextBlock 28 w:38 h:3>
+…<Delay 10>
+L'ho già visto
+da qualche parte…<Close><End of Block>
+<TextBlock 29 w:0 h:1>
+<Close><End of Block>

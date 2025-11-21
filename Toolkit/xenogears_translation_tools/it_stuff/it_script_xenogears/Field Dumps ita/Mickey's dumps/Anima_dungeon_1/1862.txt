@@ -1,0 +1,136 @@
+<TextBlock 1 w:44 h:3>
+Fei
+"Che motivo c'è di
+continuare a combattere!?"<Close><End of Block>
+<TextBlock 2 w:36 h:3>
+Elly
+"Basta con questo
+inutile combattimento!"<Close><End of Block>
+<TextBlock 3 w:56 h:4>
+Elly
+"Ci sono cose che solo
+i deboli possono sentire…<New>
+Ma la debolezza non li
+rende servili. È grazie
+a questa debolezza…<New>
+… che essi riescono a
+sviluppare la gentilezza…<New>
+… e non guardano con
+aria di superiorità
+le altre persone.<New>
+È per questo che i veri
+esseri umani interagiscono
+gli uni con gli altri.<New>
+Ognuno ha le proprie
+debolezze. L'hai detto
+tu prima.<New>
+La vostra debolezza vi
+rende più vicine…
+E vi rende più forti.<New>
+Non dimenticare questi
+sentimenti. Quando si
+è vissuti intensamente
+fianco a fianco…"<Close><End of Block>
+<TextBlock 4 w:54 h:4>
+Elly
+"Hai capito male,
+Dominia.<New>
+Le nostre strade possono
+essere differenti, ma i
+nostri scopi sono gli
+stessi.<New>
+Ecco perché non posso
+più combatterti. Non
+c'è alcun motivo…
+Questo è tutto."<Close><End of Block>
+<TextBlock 5 w:34 h:2>
+Dominia
+"Allora, siete pronti!?"<Close><End of Block>
+<TextBlock 6 w:44 h:4>
+Dominia
+"Silenzio! Non abbiamo
+altra scelta se non
+combattere.<New>
+Ora vi mostreremo il
+vero potere degli
+Elementi! Preparatevi…
+Fatevi sotto!"<Close><End of Block>
+<TextBlock 7 w:44 h:2>
+Elementi in unisono
+"Formazione degli
+Elementi!"<Opcode 2 40><Close><End of Block>
+<TextBlock 8 w:14 h:2>
+Dominia
+"Aspetta!"<Opcode 2 30><Close><End of Block>
+<TextBlock 9 w:50 h:4>
+Dominia
+"Stai cercando di
+mostrarci pietà?<New>
+O stai cercando solo
+di metterti in mostra…?"<Close><End of Block>
+<TextBlock 10 w:18 h:2>
+Dominia
+"Umph…"<Close><End of Block>
+<TextBlock 11 w:40 h:3>
+Cherubina
+"Uniamoci e
+combiniamo le
+nostre forze!"<Close><End of Block>
+<TextBlock 12 w:42 h:4>
+Cherubina
+"Beh<Delay 5>…<Delay 10> sembra che ci
+abbiano dato una
+bella lezione!"<Close><End of Block>
+<TextBlock 13 w:38 h:3>
+Johnny il negoziante
+"Ehi! Io non sono
+vostro nemico!"<Close><End of Block>
+<TextBlock 14 w:54 h:4>
+Johnny il negoziante
+"Nella mia famiglia siamo
+mercanti da generazioni e
+abbiamo il nostro modo di
+combattere.<New>
+E questa è la mia
+battaglia."<Close><End of Block>
+<TextBlock 15 w:44 h:3>
+Johnny il negoziante
+"Serve qualcosa?
+Anche per i Gear."<Close><End of Block>
+<TextBlock 16 w:26 h:3>
+    <Opcode 1 255>Personaggi
+    Gear
+    Lascia stare<Close><End of Block>
+<TextBlock 17 w:26 h:4>
+    <Opcode 1 255>Oggetti
+    Accessori
+    Indietro
+    Lascia stare<Close><End of Block>
+<TextBlock 18 w:30 h:3>
+Johnny il negoziante
+"Grazie per il
+vostro supporto."<Close><End of Block>
+<TextBlock 19 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 20 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 21 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 22 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 23 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 24 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 25 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 26 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><Close><End of Block>

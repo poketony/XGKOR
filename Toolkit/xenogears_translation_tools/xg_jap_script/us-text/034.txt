@@ -1,0 +1,212 @@
+#### 1 ####
+Fei
+"Sand buggy?"
+
+#### 2 ####
+Fei
+"Going to the desert? Doc,
+are you going to excavate
+some ruins or something?"
+
+#### 3 ####
+Fei
+"What does that have
+to do with that Gear?"
+
+#### 4 ####
+Fei
+"But..."
+
+#### 5 ####
+Fei
+"Doc..."
+
+#### 6 ####
+Fei
+"You can't pilot
+a military Gear?
+Why is that, doc?"
+
+#### 7 ####
+Fei
+"What do you mean...'If you
+aren't trained, you can't
+pilot a military Gear.'?{enter}
+(Wasn't that Gear we found
+a military Gear?
+So why could I get it to
+work then, doc?)"
+
+#### 8 ####
+Citan
+"A sand buggy is a special
+type of vehicle designed
+for the desert terrain.{enter}
+Its tires will not get
+stuck in the sand...
+You really need them for
+long desert trips."
+
+#### 9 ####
+Citan
+"I see...
+Well then, we will
+come again later."
+
+#### 10 ####
+Citan
+"Yes, that is right.
+Do you have any we
+can rent right now?"
+
+#### 11 ####
+Citan
+"Well then, 
+if I may."
+
+#### 12 ####
+Citan
+"Fei, I am going into the
+desert to search for parts
+for {name:0B:¥ô¥§¥ë¥È©`¥ë}."
+
+#### 13 ####
+Citan
+"The Kislev and Aveh armies
+are confronting each other 
+in the desert all the time.{enter}
+There is talk that their
+forces often break into
+battle over the ruins."
+
+#### 14 ####
+Citan
+"If I search the battle-
+fields for the wrecks of
+such army Gear...{enter}
+...I should be able to
+find the parts we need.{enter}
+(Besides {name:0B:¥ô¥§¥ë¥È©`¥ë} is a
+Kislev Gear, so we need
+parts from Kislev Gears.)"
+
+#### 15 ####
+Citan
+"Fei, you are such a
+worrier. Things have
+a way of working out.{enter}
+You do not need to worry
+so much. Why not go kill
+some time at the bar
+until I get back."
+
+#### 16 ####
+Citan
+"Military and civilian
+Gears are different in
+their basic structure.{enter}
+That is why you need
+special training and
+natural talent to use
+military Gears."
+
+#### 17 ####
+Citan
+"In your case Fei, it
+is because your natural
+talent is so prevalent."
+
+#### 18 ####
+The sand buggy you were 
+waiting for is back.{enter}
+Do you want to rent it?
+
+#### 19 ####
+Hm? Never saw you before. {wait:0A}
+You want to rent out a
+sand buggy too, heh?
+
+#### 20 ####
+Of course...the keys are 
+in the ignition, you can 
+take it now.
+
+#### 21 ####
+Hey, are you letting
+him go out there alone?{enter}
+Lots of fights break out
+in the desert...it's a
+real dangerous place.{enter}
+I've heard about a group
+of pirates riding around
+attacking people on a
+sand cruiser.{enter}
+You really shouldn't let
+him go out there by
+himself.
+
+#### 22 ####
+Sorry, it's not back yet.
+Please wait a little more.
+
+#### 23 ####
+Hm? Haven't met you before.{wait:0A}
+So you want to rent out a
+sand buggy too?
+
+#### 24 ####
+Sorry but all our buggies
+are lent out now.{wait:0A} Do you
+want to wait for one?{enter}
+Some of those guys
+hunting for parts should
+be back soon.
+
+#### 25 ####
+It's best if you go out
+there and try to find
+him as soon as you can.
+
+#### 26 ####
+Please bring the sand
+buggy back as soon as
+possible. Thank you!
+
+#### 27 ####
+So when will you be
+returning the buggy?
+
+#### 28 ####
+Civilian worker Gears have
+no chance against military
+worker Gears in excavating.{enter}
+But even if we had a
+military Gear, we wouldn't
+be able to operate it...
+
+#### 29 ####
+Civilian worker Gears have
+no chance against military
+worker Gears in excavating.{enter}
+But even if we had a
+military Gear, we wouldn't
+be able to operate it...
+
+#### 30 ####
+Civilian worker Gears have
+no chance against military
+worker Gears in excavating.{enter}
+But even if we had a
+military Gear, we wouldn't
+be able to operate it...
+
+#### 31 ####
+ -Items for Rent-
+ 
+  Excavation Gear
+  Sand Buggy
+  Digging Machine
+  Large Sensor
+  Small Sensor
+  Construction Kit
+

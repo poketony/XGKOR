@@ -1,0 +1,6 @@
+<TextBlock 1 w:50 h:2>
+Meditare in un stanza buia
+puoi liberarti la mente.<Close><End of Block>
+<TextBlock 2 w:44 h:2>
+Qualunque cosa accada,
+non mi muoverò di qua.<Close><Close><End of Block>

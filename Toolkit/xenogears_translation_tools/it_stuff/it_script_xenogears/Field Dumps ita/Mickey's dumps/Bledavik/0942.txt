@@ -1,0 +1,183 @@
+<TextBlock 1 w:38 h:3>
+Elly
+"Questo è il codice di
+attivazione dei Gear.<New>
+Con questo potete far
+partire qualsiasi
+Gear normale."<Close><End of Block>
+<TextBlock 2 w:14 h:2>
+Fei
+"Elly?"<Close><End of Block>
+<TextBlock 3 w:46 h:4>
+Elly
+"Questo è tutto ciò
+che posso fare per voi.<New>
+Il resto è nelle
+mani del fato…"<Close><End of Block>
+<TextBlock 4 w:50 h:2>
+Bart
+"Va bene!
+Andiamo, Fei!"<Close><End of Block>
+<TextBlock 5 w:40 h:3>
+Bart
+"Cosa stai facendo?
+Muoviti!"<Close><End of Block>
+<TextBlock 6 w:28 h:3>
+Fei
+"Elly!
+Vieni con noi!"<Close><End of Block>
+<TextBlock 7 w:8 h:2>
+Elly
+"!?"<Close><End of Block>
+<TextBlock 8 w:40 h:4>
+Fei
+"Non sei una persona
+che può vivere in
+un posto come questo!"<Close><End of Block>
+<TextBlock 9 w:16 h:2>
+Elly
+"Fei…"<Close><End of Block>
+<TextBlock 10 w:48 h:3>
+Bart
+"Stai solo perdendo
+tempo!<New>
+Stanno arrivando!
+Verremo catturati!"<Close><End of Block>
+<TextBlock 11 w:18 h:2>
+Fei
+"Elly…"<Close><End of Block>
+<TextBlock 12 w:46 h:4>
+Elly
+"Grazie, ma è
+impossibile. Sono un
+soldato di Solaris.<New>
+Questo è il mio mondo.
+Non posso venire con te."<Close><End of Block>
+<TextBlock 13 w:14 h:2>
+Fei
+"Elly!"<Close><End of Block>
+<TextBlock 14 w:36 h:4>
+Elly
+"Fei, la prossima volta
+che ci incontreremo…<Delay 5>
+saremo nemici."<Close><End of Block>
+<TextBlock 15 w:22 h:1>
+Comandante!!<Opcode 2 60><Close><End of Block>
+<TextBlock 16 w:50 h:3>
+Renk
+"Cosa? Questa ragazzina
+è il nostro ufficiale
+comandante?"<Close><End of Block>
+<TextBlock 17 w:34 h:4>
+Broyer
+"Ha detto di far
+parte dell'élite
+proveniente da Jugend."<Close><End of Block>
+<TextBlock 18 w:48 h:4>
+Strakki
+"È ritornata da una
+missione di spionaggio
+a Kislev."<Close><End of Block>
+<TextBlock 19 w:46 h:4>
+Helmholtz
+"E a mani vuote! 
+Niente souvenir per
+il Comandante, eh?"<Close><End of Block>
+<TextBlock 20 w:38 h:4>
+Renk
+"Ma è molto carina.<New>
+Non è certo il tipo
+di persona che fa
+il soldato."<Close><End of Block>
+<TextBlock 21 w:46 h:4>
+Elly
+"Ehi, è questo il
+modo di rivolgersi
+a un superiore?<New>
+Ricordate il vostro
+grado!"<Close><End of Block>
+<TextBlock 22 w:24 h:2>
+Renk
+"Oh, che paura!"<Close><End of Block>
+<TextBlock 23 w:48 h:4>
+Franz
+"Non ci frega molto
+del grado<Delay 5>…<Delay 5> e neanche
+di Renk!<New>
+Ma solo perché lei è
+bella non vuol dire che
+deve essere arrogante."<Close><End of Block>
+<TextBlock 24 w:32 h:3>
+Broyer
+"Ah! Questo coglione
+è solo geloso."<Close><End of Block>
+<TextBlock 25 w:50 h:3>
+Franz
+"Cosa? Io sono molto
+più bello! Come potrei
+essere geloso?"<Close><End of Block>
+<TextBlock 26 w:48 h:3>
+Strakki
+"Ehi, mettete a freno
+i vostri ormoni! Mi
+fate vomitare."<Close><End of Block>
+<TextBlock 27 w:48 h:4>
+Renk
+"Detto questo…<Delay 10>
+Non ci dia fastidio,
+cara 'Tenente'."<Close><End of Block>
+<TextBlock 28 w:10 h:2>
+Elly
+"…"<Opcode 2 100><Close><End of Block>
+<TextBlock 29 w:44 h:3>
+Renk
+"Comunque, facciamo
+muovere questa cosa.<New>
+Non posso dire ciò che
+fa solo guardandola."<Close><End of Block>
+<TextBlock 30 w:48 h:4>
+Strakki
+"Che tipo di macchina è
+questa? Non l'ho mai vista
+prima."<Close><End of Block>
+<TextBlock 31 w:54 h:4>
+Renk
+"È un nuovo tipo di
+Gear, detto <Vierge>, ad
+uso degli ufficiali.<New>
+La gente con poteri
+mentali normali non
+può guidarlo."<Close><End of Block>
+<TextBlock 32 w:44 h:4>
+Strakki
+"Ed è comunque una
+'Jugend', anche senza
+alcuna capacità?"<Close><End of Block>
+<TextBlock 33 w:42 h:4>
+Franz
+"Ah, sembra divertente.
+Vediamo che cosa può
+fare!"<Close><End of Block>
+<TextBlock 34 w:44 h:4>
+Ramsus
+"Miang, prepara
+il mio Wyvern!
+Devo inseguirli…"<Opcode 2 200><Close><End of Block>
+<TextBlock 35 w:40 h:3>
+Ramsus
+"Ferma tutto!<New>
+Richiama gli uomini
+alla base e aspetta
+nuovi ordini!"<Opcode 2 200><Close><End of Block>
+<TextBlock 36 w:36 h:4>
+Ramsus
+"… Quel pazzo!
+Cosa starà facendo
+quaggiù…?"<Opcode 2 100><Close><End of Block>
+<TextBlock 37 w:28 h:3>
+(Comandante…
+Ho un messaggio
+da parte di Hyu…)<Opcode 2 100><Close><End of Block>
+<TextBlock 38 w:22 h:2>
+Ramsus
+"… Cosa!?"<Opcode 2 60><Close><End of Block>

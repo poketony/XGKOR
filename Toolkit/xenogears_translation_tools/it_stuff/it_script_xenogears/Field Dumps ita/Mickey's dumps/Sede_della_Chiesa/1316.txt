@@ -1,0 +1,454 @@
+<TextBlock 1 w:32 h:2>
+Elly
+"Un inquisitore?"<Close><End of Block>
+<TextBlock 2 w:26 h:2>
+Shitan
+"Inquisitore?"<Close><End of Block>
+<TextBlock 3 w:34 h:2>
+Bart
+"L'inquisitore?"<Close><End of Block>
+<TextBlock 4 w:54 h:4>
+Billy
+"…<Delay 10>…<Delay 10> Io…<Delay 10>…<Delay 10>
+ancora non riesco
+a crederci.<New>
+La Chiesa era senza
+dubbio un'organizzazione<Delay 10>…<New>
+In cosa ho posto la mia
+fede in…<Delay 10> tutto questo
+tempo?"<Close><End of Block>
+<TextBlock 5 w:34 h:2>
+Billy
+"V…<Delay 10> Verlaine!?"<Close><End of Block>
+<TextBlock 6 w:48 h:3>
+Billy
+"Padre!<Delay 10> Come hai
+potuto farlo!?"<Close><End of Block>
+<TextBlock 7 w:34 h:2>
+Billy
+"Quel simbolo…!"<Close><End of Block>
+<TextBlock 8 w:54 h:4>
+Billy
+"Insinui che Verlaine ed
+i suoi uomini siano un
+gruppo di assassini…<New>
+… agli ordini del vescovo?
+Come puoi solo pensare
+di dire una simile
+bestemmia!?"<Close><End of Block>
+<TextBlock 9 w:48 h:4>
+Billy
+"È la verità, Verlaine?<Delay 25>
+Ma perché la gente
+della Chiesa…?"<Close><End of Block>
+<TextBlock 10 w:52 h:4>
+Billy
+"Anche se fosse vero,
+non abbiamo il diritto di
+punire gli altri!<New>
+Il giudizio spetta a dio.<Delay 20>
+Questo è ciò che ci
+viene insegnato, no!?"<Close><End of Block>
+<TextBlock 11 w:38 h:3>
+Billy
+"Io…<Delay 15> io sto
+giudicando?"<Close><End of Block>
+<TextBlock 12 w:30 h:3>
+Billy
+"Verlaine!<Delay 15>
+Fatti coraggio!"<Close><End of Block>
+<TextBlock 13 w:20 h:3>
+Billy
+"Verlaine!<Delay 10>
+Verlaine!"<Close><End of Block>
+<TextBlock 14 w:46 h:4>
+Billy
+"Vescovo! Perché Verlaine?
+Qual è lo scopo che state
+tentando di raggiungere?"<Close><End of Block>
+<TextBlock 15 w:18 h:2>
+Billy
+"Padre!"<Close><End of Block>
+<TextBlock 16 w:30 h:2>
+Billy
+"Vescovo Stone!"<Close><End of Block>
+<TextBlock 17 w:44 h:2>
+Rico
+"Inquisitore,
+hai detto?"<Close><End of Block>
+<TextBlock 18 w:42 h:2>
+Billy
+"La porta è chiusa!"<Close><End of Block>
+<TextBlock 19 w:30 h:2>
+Verlaine
+"T… <Delay 10>tu<Delay 5>…<Delay 5>…"<Space 2><Close><End of Block>
+<TextBlock 20 w:52 h:4>
+Jessie
+"Perché sei così
+sconvolto,<Delay 15> ragazzo?<New>
+Era un proiettile
+narcotizzante.<Delay 10>
+Sta solo dormendo<Delay 10>…<New>
+Non senti il
+rumore che fa!?<New>
+Inoltre,<Delay 10> questi assassini
+non sono della <Delay 10>Chiesa!"<Close><End of Block>
+<TextBlock 21 w:14 h:2>
+Jessie
+"Guarda!"<Close><End of Block>
+<TextBlock 22 w:54 h:4>
+Jessie
+"Già, proprio così.<Delay 15>
+Sono agenti di Solaris!<New>
+Probabilmente un commando
+agli ordini di Stone!<New>
+Avevo saputo della loro
+intenzione di sterminare
+i membri della Chiesa,
+e sono subito corso qui…<New>
+Ma sono giunto tardi…<New>
+Tutti erano già stati
+uccisi, con l'eccezione
+di alcuni in missione di
+salvataggio."<Close><End of Block>
+<TextBlock 23 w:42 h:3>
+Jessie
+"Non te la caverai così
+a buon mercato, Stein!!"<Close><End of Block>
+<TextBlock 24 w:36 h:3>
+Jessie
+"Stein, non andrai
+da nessuna parte!!"<Close><End of Block>
+<TextBlock 25 w:60 h:2>
+Stai cercando di portarmi via
+il mio più grande divertimento,<Delay 15>
+Verlaine?<Close><End of Block>
+<TextBlock 26 w:20 h:2>
+Verlaine
+"Gha-ha!!"<Close><End of Block>
+<TextBlock 27 w:16 h:2>
+Verlaine
+"Ugh!"<Close><End of Block>
+<TextBlock 28 w:44 h:4>
+Stone
+"Un fanfarone buono
+a nulla come te non ha
+il diritto di vivere."<Close><End of Block>
+<TextBlock 29 w:50 h:3>
+Stone
+"Io sono l'inquisitore
+che Solaris ha inviato
+sulla Terra."<Close><End of Block>
+<TextBlock 30 w:54 h:4>
+Stone
+"Il titolo di vescovo è
+solo una copertura per
+la mia attività.<New>
+La Chiesa fu creata come
+branca di Solaris con lo
+scopo di dirigere gli
+abitanti della Terra.<New>
+Ma col tempo la Chiesa
+cominciò a sviluppare
+una dottrina conveniente
+solo a se stessa…<New>
+Blandì le masse ignoranti
+e creò per loro un dio
+in cui potevano credere.<New>
+Il passo successivo fu
+quello di organizzare
+uno scisma dal suo vero
+creatore, Solaris.<New>
+Così Solaris non ha avuto
+altra scelta se non quella
+di eliminare sul nascere
+i capi della ribellione.<New>
+Coloro addestrati come
+'eliminatori' erano<Delay 5>…<Delay 10>
+i Redentori.<New>
+I Redentori, detti anche
+'i Penitenti'<Delay 5>…<New>
+… l'organizzazione da
+me creata all'interno
+della Chiesa<Delay 5>,
+ha due scopi<Delay 5>…<New>
+Ufficialmente hanno la
+missione di eliminare i<Delay 5>
+'Mietitori'<Delay 5>, o <Delay 5>Wels<Delay 5> che
+scorrazzano sulla terra.<New>
+Ma…<Delay 10> non è quello il loro
+unico scopo.<Delay 20> Sono stati
+selezionati uomini come
+Verlaine<Delay 5>…<New>
+… con l'obiettivo di
+osservare<Delay 10> ed eliminare<Delay 10>
+gli eretici all'interno
+della Chiesa.<New>
+Questo tu non potevi
+saperlo, dal momento che
+hai lasciato la Chiesa
+troppo presto.<New>
+<Delay 5>…<Delay 10> O forse,<Delay 5> non te
+ne avrei mai parlato.<Delay 20>
+C'era un altro ruolo che
+volevo tu rivestissi!"<Close><End of Block>
+<TextBlock 31 w:36 h:2>
+Billy
+"Un altro<Delay 10>…<Delay 10><Opcode 1 255> ruolo!?"<Close><End of Block>
+<TextBlock 32 w:54 h:4>
+Stone
+"Billy…<Delay 20> Alcune cose di
+questo mondo non sono
+belle da conoscere.<New>
+Anche l'inganno e la
+menzogna possono divenire
+verità per alcune persone.<New>
+…<Delay 5> In particolare per
+coloro che non sanno la
+vera natura delle cose.<New>
+Infatti, il sistema messo
+in piedi dalla Chiesa,<Delay 5>
+-dio-<Delay 5> e <Delay 5>-fede-<Delay 5> era
+la verità stessa, vero?"<Close><End of Block>
+<TextBlock 33 w:44 h:4>
+Billy
+"Dimmelo!<Delay 15>
+Di quale altro ruolo
+stai parlando?<New>
+Cosa voleva dire
+Verlaine quando
+parlava di<Delay 15> 'giudizio'!?"<Close><End of Block>
+<TextBlock 34 w:50 h:4>
+Stone
+"Davvero vuoi saperlo?<Wait>
+Riuscirai a sopportare
+il peso della verità?<New>
+Billy, se ne sei così
+convinto, allora ti
+dirò la verità."<Close><End of Block>
+<TextBlock 35 w:10 h:2>
+Billy
+"<Delay 10>…<Delay 10>"<Close><End of Block>
+<TextBlock 36 w:54 h:4>
+Stone
+"Hai sempre creduto che
+con il tuo lavoro stessi
+salvando anime, vero…?<New>
+Con quest'animo tu
+purificavi i 'Mietitori',
+detti anche Wels, dalla
+terra, dico bene?<New>
+In realtà non è altro
+che un altro sistema
+di controllo messo in
+piedi da Solaris.<New>
+Ma c'è di più, il tuo
+lavoro…<Delay 10> quello in cui
+hai creduto così tanto,<Delay 10>
+era<Delay 5> in<Delay 5> realtà<Delay 10>…"<Close><End of Block>
+<TextBlock 37 w:38 h:3>
+Jessie
+"Stai dicendo
+un mucchio di
+sciocchezze!"<Close><End of Block>
+<TextBlock 38 w:43 h:4>
+Jessie
+"Sei sempre lo
+stesso di allora…<Wait>
+Non è vero, Stein!?"<Close><End of Block>
+<TextBlock 39 w:16 h:2>
+Billy
+"Stein?"<Close><End of Block>
+<TextBlock 40 w:50 h:4>
+Stone
+"Quello è un nome che
+ho portato per molto
+tempo<Delay 5>…<New>
+Questo mi fa ricordare
+un piacevole brivido
+di dolore attraverso
+le cicatrici che…<New>
+… si trovano su questo
+mio corpo.<New>
+Sai di cosa parlo,
+eh, Jesiah?"<Close><End of Block>
+<TextBlock 41 w:44 h:4>
+Jessie
+"Beh, continua a
+mancarti qualche
+rotella.<New>
+<Opcode 1 255>Rispondimi!<Delay 25>
+<Opcode 1 0>Perché affronti
+le cose in un modo
+così complicato!?"<Close><End of Block>
+<TextBlock 42 w:54 h:4>
+Stone
+"Non sprecherò
+il mio fiato
+rispondendoti…<New>
+Consideralo un mio
+dono particolare…<New>
+Naturalmente questo
+include anche il
+vederti agonizzante
+e morente.<New>
+Potrei soccombere al 
+desiderio di farti a 
+pezzi adesso, e di
+spargere le tue budella…<New>
+Ma ora non lo farò.
+Ho cose più importanti
+da fare altrove.<New>
+Il mio dovere viene prima
+del piacere che tu mi
+offriresti. Ora non ho
+tempo da perdere!"<Close><End of Block>
+<TextBlock 43 w:46 h:4>
+Stone
+"Ho già perso troppo
+tempo con dei miserabili
+insignificanti come voi."<Close><End of Block>
+<TextBlock 44 w:50 h:4>
+Stone
+"Alla prossima volta.
+Ora però questi uomini si
+divertiranno con voi!"<Close><End of Block>
+<TextBlock 45 w:54 h:4>
+Stone
+"Se volete scusarmi…<New>
+Ah, Billy! Se hai voglia
+di discutere su qualcosa,
+vieni a trovarmi.
+Ti aspetterò."<Close><End of Block>
+<TextBlock 46 w:54 h:3>
+Non è quella la vera
+ragione per cui ti 
+dissi allora…<Delay 20> che
+tu appartenevi a noi<Delay 5>…?<Close><End of Block>
+<TextBlock 47 w:52 h:5>
+Verlaine
+"Tu sei corrotto, <Delay 10>Billy.<New>
+Hai lasciato la Chiesa e
+ti accompagni a feccia
+che non ha fede in nulla.
+Tanto che non comprendi che
+significa essere corrotti.<New>
+Non me l'aspettavo da
+te… Tu, che vivevi
+solo per la tua fede…<Delay 30>
+Avresti dovuto restare
+al nostro fianco.<New>
+Ma non temere, Billy.<Delay 20>
+Io ti purificherò.<Delay 20>
+Vivrai dentro me.<Delay 20>
+Nella morte diverrai una
+sola cosa con me<Delay 10>…<Delay 10><Close><End of Block>
+<TextBlock 48 w:16 h:2>
+Verlaine
+"Cosa!?"<Close><End of Block>
+<TextBlock 49 w:54 h:4>
+Verlaine
+"È vero<Delay 5>…<Delay 5>
+Noi siamo al servizio
+del vescovo.<New>
+La nostra missione è di
+giudicare i preti decaduti
+e i peccatori con lo scopo
+di farli pentire."<Close><End of Block>
+<TextBlock 50 w:54 h:5>
+Verlaine
+"Il pontefice ed i
+suoi fratelli meritano
+la morte!<New>
+La loro avidità li ha
+corrotti, abbandonando la
+'via della Chiesa' per il
+dominio sul mondo.<New>
+Hanno deciso la loro
+sorte nel momento in
+cui i loro desideri
+li hanno corrotti.<New>
+E non è tutto.<New>
+Salvare gli orfani
+e i profughi<Delay 5>…<Delay 5>
+può sembrare un
+gesto di carità.<New>
+Ma i bambini sono stati
+usati per soddisfare la
+libidine del pontefice
+e dei vescovi.<New>
+Indulgendo in desideri
+egoistici…<Delay 20>
+È questa la condotta
+dei sacerdoti!?<New>
+Simile feccia non ha
+diritto di parlare di
+dio. Ecco perché noi
+ora li purificheremo.<New>
+Devono espiare i loro
+peccati.<Delay 20>
+Questi sono gli
+ordini del Vescovo!"<Close><End of Block>
+<TextBlock 51 w:56 h:5>
+Verlaine
+"Dio?<Delay 20>
+Esiste un essere
+simile?<New>
+Dovresti aver capito da
+dove viene la Chiesa…<New>
+Un'organizzazione creata
+eoni fa da Solaris con
+l'obiettivo di guidare
+gli ignoranti esseri umani.<New>
+Le sue dottrine
+ingannevoli avevano lo
+scopo di controllare
+le masse.<New>
+La Chiesa ha usato la
+'fede' e la 'tecnologia'
+per manipolare con
+efficacia l'entusiasmo
+delle genti.<New>
+E l'ha fatto così
+bene che esse hanno
+continuato le loro
+inutili guerre.<New>
+Ogni informazione su
+'uomini' ed 'armi'
+ottenuti dalle guerre
+veniva inviata a Solaris…<New>
+… e analizzata con
+lo scopo di aiutare a
+dominare sull'intera
+Terra.<New>
+Queste intenzionali e
+perpetue guerre causarono
+molti dissapori.<New>
+Ma la fede in 'dio'…<Delay 20>
+la salvezza… serviva
+ad indorare la pillola.<New>
+Era un sistema davvero
+eccezionale.<Delay 20>
+Ma la scelta dei gestori
+era estremamente carente.<New>
+O pensavi che recitare la
+parte del fedele servitore
+di dio avrebbe prodotto un
+giorno la risposta di un
+grande dio?<New>
+Non riesci a comprendere
+che un tale essere divino
+non è mai esistito?<New>
+Non riesci a capirlo,
+ma tu stesso 'giudicavi
+i peccatori' proprio
+come facciamo noi!"<Close><End of Block>
+<TextBlock 52 w:40 h:5>
+Verlaine
+"È così.<Delay 20>
+Giorno dopo giorno
+hai sporcato le tue
+mani come un complice<Delay 5>…"<Close><End of Block>
+<TextBlock 53 w:32 h:2>
+Verlaine
+"Bi<Delay 20>…<Delay 5>lly<Delay 20>…<Delay 10>…"<Space 2><Close><Close><End of Block>

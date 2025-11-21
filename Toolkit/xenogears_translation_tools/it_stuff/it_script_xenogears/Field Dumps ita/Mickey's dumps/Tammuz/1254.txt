@@ -1,0 +1,92 @@
+<TextBlock 1 w:34 h:3>
+Dominia
+"Smettila di fare
+la santarellina!"<Close><End of Block>
+<TextBlock 2 w:52 h:2>
+Elly
+"Non ho detto nulla
+di sbagliato!"<Close><End of Block>
+<TextBlock 3 w:46 h:4>
+Dominia
+"Non ho voglia di
+discutere con te
+di questo!<New>
+Il tuo tradimento è
+chiaro a tutti!
+La pagherai qui e
+subito!!"<Close><End of Block>
+<TextBlock 4 w:32 h:1>
+Smettila
+immediatamente.<Close><End of Block>
+<TextBlock 5 w:30 h:2>
+Miang
+"Stai bene?"<Close><End of Block>
+<TextBlock 6 w:40 h:4>
+Dominia
+"Miang!<New>
+Cosa sta facendo!?
+Elhaym non è altro che
+una sporca traditrice!"<Close><End of Block>
+<TextBlock 7 w:52 h:4>
+Miang
+"Simili atti non sono
+ammessi su una nave sotto
+il comando di Ramsus…<New>
+Non importa quale sia
+la ragione!<New>
+Ho esaminato i dati
+sulla battaglia fra
+Haishao e <Vierge>…<New>
+Da quello che ho visto,
+sei stata tu la prima
+ad attaccare, non è vero?<New>
+Lei non ha potuto fare
+altro che difendersi dopo
+che tu hai pensato di
+attaccare senza permesso.<New>
+Soprattutto, si suppone
+che tu fossi sotto il
+comando di Cherubina.<New>
+Stavi obbedendo
+ai suoi ordini?"<Close><End of Block>
+<TextBlock 8 w:14 h:2>
+Dominia
+"…"<Close><End of Block>
+<TextBlock 9 w:52 h:4>
+Miang
+"Non puoi accusare
+di tradimento alcun
+soldato senza autorità.<New>
+Anche se sei uno degli
+Elementi.<Delay 10> Inoltre<Delay 5>…<Delay 5><New>
+Non è che le tue accuse
+contro il tenente sono
+mosse da qualche motivo
+di natura personale<Delay 5>…<Delay 5>?<New>
+Mi sto sbagliando?"<Close><End of Block>
+<TextBlock 10 w:34 h:3>
+Dominia
+"Cosa!?
+Non potrei mai…"<Close><End of Block>
+<TextBlock 11 w:52 h:4>
+Miang
+"Al momento non siamo in
+grado di dire se lei sia
+colpevole o meno.<New>
+Per investigare meglio
+i fatti, ho deciso di
+mettere il tenente sotto
+la mia supervisione.<New>
+Tutto chiaro, ora?"<Close><End of Block>
+<TextBlock 12 w:40 h:3>
+Dominia
+"Come osa!
+Con quale autorità!?"<Close><End of Block>
+<TextBlock 13 w:22 h:2>
+Miang
+"Andiamo."<Close><End of Block>
+<TextBlock 14 w:40 h:4>
+Dominia
+"<Delay 5>…<Delay 30>
+Che<Delay 5>…<Delay 5> cosa è stato?
+Quegli occhi<Delay 5>…<Delay 5>"<Close><Close><End of Block>

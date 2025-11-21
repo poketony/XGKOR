@@ -1,0 +1,275 @@
+<TextBlock 1 w:46 h:3>
+Sai, ho da poco
+trovato un tesoro che è
+cos<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 20>ì<Delay 30> grande.<Close><End of Block>
+<TextBlock 2 w:40 h:3>
+Ma che dici!?
+Io ne ho trovato uno
+cos<Delay 3>-<Delay 3>-<Delay 3><Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 20>ì<Delay 30> grande!<Close><End of Block>
+<TextBlock 3 w:40 h:2>
+Io ne ho trovato uno<Delay 30>
+cos<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 100><Close><End of Block>
+<TextBlock 4 w:38 h:2>
+… -<Delay 3>-<Delay 3>-<Delay 3>ì…<Delay 20> pant…<Delay 20><Space 2>
+pant<Delay 20>… grande.<Close><End of Block>
+<TextBlock 5 w:32 h:3>
+Ed io invece uno<Delay 30>
+cos-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>
+-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 3>-<Delay 100><Close><End of Block>
+<TextBlock 6 w:44 h:3>
+… -<Delay 3>-<Delay 3>-<Delay 3>ì…<Delay 30> pant…<Delay 30> pant…<Delay 30><Space 3>
+pant<Delay 30>…<Delay 60>? Uh?<Delay 30>
+Di cosa stai parlando?<Close><End of Block>
+<TextBlock 7 w:10 h:1>
+EHI!!<Delay 100><Close><End of Block>
+<TextBlock 8 w:22 h:2>
+Oh noooooo!
+C… capo!!<Opcode 2 80><Close><End of Block>
+<TextBlock 9 w:32 h:2>
+Hai troppe unità
+di Mica.<Close><End of Block>
+<TextBlock 10 w:26 h:2>
+ 
+ Ricevi Mica.<Close><End of Block>
+<TextBlock 11 w:24 h:2>
+Hai troppe
+Aste Lunari.<Close><End of Block>
+<TextBlock 12 w:40 h:2>
+ 
+ Ricevi Asta Lunare.<Close><End of Block>
+<TextBlock 13 w:24 h:2>
+Hai troppe
+SerpentinaG.<Close><End of Block>
+<TextBlock 14 w:40 h:2>
+ 
+ Ricevi SerpentinaG.<Close><End of Block>
+<TextBlock 15 w:22 h:2>
+Hai troppi
+Circuiti D.<Close><End of Block>
+<TextBlock 16 w:44 h:2>
+ 
+ Ricevi Circuito D.<Close><End of Block>
+<TextBlock 17 w:36 h:3>
+Non male!! Pensavi
+che lì ci potesse
+essere un tesoro.<Close><End of Block>
+<TextBlock 18 w:32 h:1>
+Ehi, un cliente?<Close><End of Block>
+<TextBlock 19 w:38 h:3>
+Ehi, un cliente?
+Abbiamo molti pezzi
+nuovi.<Close><End of Block>
+<TextBlock 20 w:34 h:1>
+Ciao, torna pure.<Close><End of Block>
+<TextBlock 21 w:48 h:3>
+…<Delay 30> Sei fantastico!
+Sei di sicuro il miglior
+recuperatore del mondo…<Close><End of Block>
+<TextBlock 22 w:38 h:4>
+D… davvero?
+Finalmente inizi ad
+apprezzare la mia
+superiorità!<Close><End of Block>
+<TextBlock 23 w:50 h:4>
+Dicono che quella ragazza
+impazzisca per i tesori.<New>
+Un giorno diventerò il
+miglior cercatore di
+tesori del mondo e le
+darò tutti i miei tesori.<Close><End of Block>
+<TextBlock 24 w:34 h:2>
+Chissà che cosa
+porteranno oggi…?<Close><End of Block>
+<TextBlock 25 w:34 h:2>
+Le gru…<Delay 30> sono
+fantastiche!<Close><End of Block>
+<TextBlock 26 w:46 h:4>
+Ehi amico, ascolteresti
+i miei problemi?
+    Sicuro
+    Non ci tengo<Close><End of Block>
+<TextBlock 27 w:48 h:5>
+Fino a poco tempo fa,
+avevo sempre desiderato
+fare il marinaio ed
+essere imbarcato per
+navigare sul Tammuz!!<New>
+Ma, guardando tutti quei
+tesori che vanno avanti
+e indietro…<New>
+Mi fa venire voglia di
+diventare un operatore
+di gru in modo che possa
+guidare quella macchina…<Close><End of Block>
+<TextBlock 28 w:46 h:4>
+Cosa pensi dovrei fare?
+    Operatore di gru
+    Marinaio
+    Non saprei<Close><End of Block>
+<TextBlock 29 w:34 h:2>
+Hai ragione…
+Operatore di gru.<Close><End of Block>
+<TextBlock 30 w:24 h:2>
+Hai ragione…
+Marinaio.<Close><End of Block>
+<TextBlock 31 w:38 h:3>
+Hai ragione…
+È meglio che decida
+da solo.<Close><End of Block>
+<TextBlock 32 w:46 h:3>
+Mmh! Non mi serve il
+tuo aiuto. Ce la faccio
+da solo.<Close><End of Block>
+<TextBlock 33 w:46 h:3>
+L'altro giorno ho visto
+un Gear combattere e…<New>
+… mi è venuta voglia di
+essere un pilota… sigh…<Space 1>
+Quante scelte.<Close><End of Block>
+<TextBlock 34 w:48 h:2>
+Mmmh! Lui… a metà
+mattinata è già sbronzo!<Close><End of Block>
+<TextBlock 35 w:42 h:3>
+Oh sì!!!<Delay 30>
+Non… devo fare nessun
+lavoro, ah!<Close><End of Block>
+<TextBlock 36 w:36 h:3>
+Sì!!!<Delay 30>
+N… on dee… vooo…<Space 2>
+… lavorare…<Close><End of Block>
+<TextBlock 37 w:42 h:4>
+Quest'arma è davvero
+fichissima! Con lei
+potrò eliminare tutti
+i cattivi!<New>
+BAM!<Delay 15>
+BLAM! <Delay 15>BOOM!<Delay 15>
+Solo a pensarci mi
+vengono i brividi!<Close><End of Block>
+<TextBlock 38 w:40 h:3>
+È deciso! Sarò una
+Cacciatrice di Wels!
+BLAM! <Delay 15>BAM! <Delay 15>KABLAM!<New>
+Li spazzerò via!
+Chiamatemi
+'Wels Lady Hunter'…<Close><End of Block>
+<TextBlock 39 w:36 h:2>
+Mhh… Ho un brutto
+presentimento…<Close><End of Block>
+<TextBlock 40 w:58 h:4>
+Questo lavoro per la Chiesa
+è il mio primo GRANDE lavoro.
+Non sono ancora sicuro di
+riuscire a farlo.<New>
+Vogliono che vada molto
+in profondità e riporti
+qualcosa di enorme che
+si trova là sotto.<Close><End of Block>
+<TextBlock 41 w:46 h:3>
+Il lavoro per la Chiesa
+è stato annullato.<New>
+È stata una sfortuna,
+ma mi sento un po'
+sollevato.<Close><End of Block>
+<TextBlock 42 w:36 h:3>
+Questa è l'entrata
+del magazzino… Uh,
+te l'ho già detto.<Close><End of Block>
+<TextBlock 43 w:42 h:4>
+Questa è l'entrata
+del magazzino.<New>
+Qui vengono portati i
+tesori, le armature e
+tutti i materiali
+ripescati.<Close><End of Block>
+<TextBlock 44 w:36 h:3>
+Questa è l'entrata
+del magazzino… Uh,
+te l'ho già detto.<Close><End of Block>
+<TextBlock 45 w:42 h:4>
+Questa è l'entrata
+del magazzino.<New>
+Qui vengono portati i
+tesori, le armature e
+tutti i materiali
+ripescati.<Close><End of Block>
+<TextBlock 46 w:34 h:1>
+<Opcode 10 0> OK.<Opcode 2 80><Space 4><Close><End of Block>
+<TextBlock 47 w:32 h:2>
+Fuori dai piedi!
+Devo lavorare!<Close><End of Block>
+<TextBlock 48 w:48 h:4>
+Il mio lavoro è guardare
+e controllare tutte le 
+cose che sono qui.<New>
+Non è un lavoro
+importante?
+    Sì
+    No<Close><End of Block>
+<TextBlock 49 w:36 h:3>
+Davvero? Allora
+togliti dai piedi!
+Devo lavorare!<Close><End of Block>
+<TextBlock 50 w:48 h:4>
+Cosa!? Stai dicendo che
+il mio lavoro è inutile?
+Senza di me…
+<Delay 3>…<Delay 3>…<Delay 3>…<Delay 3>…<Delay 3>…<Delay 3>…<Delay 3><New>
+…<Delay 3>…<Delay 3> C O M U N Q U E!!
+Il mio lavoro è
+importantissimo!!
+Vattene!<New>
+Devo lavorare!<Close><End of Block>
+<TextBlock 51 w:48 h:4>
+Proprio quando pensavo
+che avrei potuto portare
+via tutti i tesori di
+quello scavo fuori da…<New>
+… questa entrata del
+magazzino…<Close><End of Block>
+<TextBlock 52 w:32 h:4>
+Accidenti!
+Che sfortuna.
+Comunque ti darò
+questo.<Close><End of Block>
+<TextBlock 53 w:34 h:2>
+ 
+ Ricevi Binocolo.<Close><End of Block>
+<TextBlock 54 w:26 h:2>
+Uh?
+Che incapace…<Close><End of Block>
+<TextBlock 55 w:40 h:2>
+Mmh, ne hai avuto
+abbastanza per oggi.<Close><End of Block>
+<TextBlock 56 w:40 h:4>
+Aspetta, vuoi che te
+lo mostri?
+    Sì
+    No<Close><End of Block>
+<TextBlock 57 w:16 h:3>
+Davvero?
+    Sì
+    No<Close><End of Block>
+<TextBlock 58 w:34 h:3>
+Davvero, davvero?
+    Sì
+    No<Close><End of Block>
+<TextBlock 59 w:34 h:2>
+Mmh, va' via.
+Ho molto da fare.<Close><End of Block>
+<TextBlock 60 w:32 h:2>
+Cooooosa?
+Sei un incapace.<Close><End of Block>
+<TextBlock 61 w:34 h:2>
+Va bene!
+Te lo insegnerò!!<Close><End of Block>
+<TextBlock 62 w:20 h:2>
+Allora…
+en garde!!<Close><End of Block>
+<TextBlock 63 w:46 h:3>
+Questa entrata del
+magazzino ha quattro
+bauli del tesoro.<New>
+Sono tutti in vista, ma
+riuscirai a prenderli
+tutti?<Close><Close><End of Block>

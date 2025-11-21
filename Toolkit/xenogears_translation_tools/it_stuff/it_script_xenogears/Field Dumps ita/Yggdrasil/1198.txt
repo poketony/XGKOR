@@ -1,0 +1,415 @@
+<TextBlock 1 w:44 h:4>
+Rico
+"Se stai cercando Shitan,
+lui era all'Officina per
+Gear…"<Close><End of Block>
+<TextBlock 2 w:42 h:4>
+<Chu-Chu>
+"Sonchu esausta!<Delay 10>
+Visto che chusei qui…<Delay 10>
+Vorrei un massaggio!!<New>
+Scherzavo…"<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+<Chu-Chu>
+"Elly, era così gentile…
+So che non sono la sola
+a cui manca, chu.<New>
+So che è lo stesso per
+Bart, Margie, Billy,
+Shitan, Rico, Maria,
+Esmeralda, e Fei… chu…<New>
+Anche se non lo dicono,
+riesco a sentirlo…<New>
+Restando qui, ricordo il
+suo tenero e gentile
+sorriso…<New>
+Elly ritornerà, non è
+vero?"<Close><End of Block>
+<TextBlock 4 w:46 h:4>
+Fei
+"… Grazie, <Chu-Chu>…<Space 1>
+Ti ringrazio…<New>
+Stai cercando di
+togliermi di dosso
+tutta questa tensione
+che c'è nell'aria.<Delay 5><New>
+Me ne ricorderò…<Delay 40>
+Comunque…<Delay 5> Elly deve
+essere viva! Giusto?"<Close><End of Block>
+<TextBlock 5 w:18 h:2>
+<Chu-Chu>
+"Fei…"<Close><End of Block>
+<TextBlock 6 w:54 h:3>
+Fei
+"Torniamo in camera.
+Margie sembrava
+preoccupata."<Close><End of Block>
+<TextBlock 7 w:30 h:3>
+<Chu-Chu>
+"Ok.
+Verrò, chu!"<Close><End of Block>
+<TextBlock 8 w:48 h:5>
+Cosa vuoi fare?
+<Opcode 1 255>    Osservare il Gear da qui
+    Osservare il Gear di fronte
+    Parlami del Gear
+    Nulla<Close><End of Block>
+<TextBlock 9 w:54 h:4>
+Questo è <Stier>.
+È il Gear di Rico, il
+Campione di Battagliare.<New>
+Altezza: 19,7 m
+Peso base: 19,3 t
+Peso a pieno carico: 25,5 t<New>
+Anche se sembra lento,
+è in realtà alquanto
+agile con i Cingoli.<New>
+Visto che è costruito per
+Battagliare nell'Arena,
+ha la miglior resistenza.<New>
+Il Trapano-artiglio sul
+braccio sinistro ha la
+capacità di perforare
+corazze di metallo spesse
+fino a 83 cm.<Close><End of Block>
+<TextBlock 10 w:60 h:4>
+Questo è <Stier-2>.
+È il Gear di Rico.<New>
+Altezza: 19,9 m
+Peso base: 20,5 t
+Peso a pieno carico: 24,7 t<New>
+Come gli altri Omnigear, ad
+un certo punto era diventato
+un Contenitore dell'Anima
+assorbito da Deus e poi
+disattivato…<New>
+Tuttavia, usando i dati presi
+da Xenogears come modello, i
+saggi di Shevat, Baldassare
+e Mechiorre, l'hanno
+ricostruito.<New>
+Grazie a ciò, le sue capacità
+sono incrementate, rispetto
+alla versione precedente.<New>
+La sua arma di base è uguale
+a quella precedente la sua
+ricostruzione.<Close><End of Block>
+<TextBlock 11 w:52 h:4>
+Questo è <Vierge>.
+È il Gear di quella
+ragazza di Solaris.<New>
+Altezza: 16,2 m
+Peso base: 9,4 t
+Peso a pieno carico: 13,6 t<New>
+Il telaio, assieme alla
+armatura, è stato ridotto
+al minimo per ridurne il
+peso.<New>
+Ma dentro tutta la macchina
+si trova l'impressionante
+tecnologia di Solaris.<New>
+È molto più resistente ai
+danni di quanto faccia
+credere il suo aspetto.<New>
+Più che per il danno
+fisico, è specializzato
+per gli attacchi con
+l'Etere.<New>
+La cosa si nota specialmente
+con gli stabilizzatori della
+coda e i lembi equipaggiati
+ai lati usati dal Gear…<New>
+… per le armi esplosive
+guidate che arrecano un
+danno Etereo, cioè gli
+'Aerodi'.<New>
+Fondamentalmente, riflette
+il potere Etereo della
+ragazza.<Close><End of Block>
+<TextBlock 12 w:46 h:3>
+Questo è <Renmazuo>.
+È il Gear di Billy.<New>
+Altezza: 16,5 m
+Peso base: 10,7 t
+Peso a pieno carico: 14,9 t<New>
+È ancora sotto osservazione,
+dunque non conosco i dettagli.<Close><End of Block>
+<TextBlock 13 w:52 h:5>
+Questo è <Renmazuo>.
+È il Gear di Billy.<New>
+Altezza: 16,5 m
+Peso base: 10,7 t
+Peso a pieno carico: 14,9 t<New>
+Anche se dall'esterno
+sembra un modello di
+Gear della Chiesa,
+dentro è completamente
+un modello di Solaris.<New>
+Poiché è utilizzato da un
+Redentore, quel tipo lì,
+Stone, molto probabilmente
+lo portò qui subito dopo
+che fu costruito a
+Solaris.<New>
+Ma, a causa di ciò,
+le sue capacità sono
+davvero impressionanti.<New>
+Specialmente quei Cannoni
+a Rivoltella anti-Wels
+equipaggiati in entrambe
+le braccia. Sono molto
+distruttivi.<New>
+Un Gear normale diverrebbe
+ferraglia dopo averne preso
+un solo colpo.<Close><End of Block>
+<TextBlock 14 w:60 h:4>
+Questo è <Renmazuo2>.
+È il Gear di Billy.<New>
+Altezza: 19,5 m
+Peso base: 13,8 t
+Peso a pieno carico: 17,9 t<New>
+Come gli altri Omnigear, ad un
+certo punto era un Contenitore
+dell'Anima che è stato
+assorbito da Deus e, dunque,
+disattivato.<New>
+Tuttavia, usando i dati presi
+da Xenogears come modello, i
+saggi di Shevat, Baldassare e
+Melchiorre, hanno potuto
+ricostruirlo.<New>
+Grazie a ciò, le sue capacità
+sono migliorate, rispetto
+alla versione precedente.<New>
+L'arma di base è uguale a
+quella precedente la
+ricostruzione.<New>
+Anche il Cannone Buntline
+del padre di Billy può
+essere ancora usato.<Close><End of Block>
+<TextBlock 15 w:54 h:5>
+Questo è <Crescens>.
+È il Gear di Esmeralda.<New>
+Altezza: 16 m
+Peso base: 9 t
+Peso a pieno carico: 12,2 t<New>
+I comandi di questo Gear
+sono assolutamente unici.<New>
+La colonia di nanomacchine,
+proveniente dal corpo di
+Esmeralda, si fonde
+fisicamente con il Gear
+per un controllo diretto.<New>
+Teoricamente, questo Gear
+non dovrebbe richiedere
+riparazioni, ma sembra che
+le nanomacchine non riparino
+nient'altro che Esmeralda
+stessa.<New>
+Perciò, non ci rimane altra
+scelta se non quella di
+essere costretti ad
+effettuare riparazioni su
+questo Gear.<New>
+La capacità di librare e
+di volare della corazza
+è davvero notevole.<Close><End of Block>
+<TextBlock 16 w:38 h:4>
+Questa è…
+cosa, <Chu-Chu>!?
+Ma cosa diavolo
+stai facendo qui!?<New>
+Non ti serve mica
+manutenzione!!<New>
+Ci stai seccando!
+Va' a mangiarti qualcosa e
+a farti un sonnellino…
+o qualcos'altro!<Close><End of Block>
+<TextBlock 17 w:48 h:3>
+Cambi il nome del Gear?
+    Sì
+    Non ora<Close><End of Block>
+<TextBlock 18 w:42 h:4>
+Mmh, <Chu-Chu> non è
+proprio una cosa.
+Non c'è nulla che io
+possa fare per te.<Close><End of Block>
+<TextBlock 19 w:32 h:2>
+Bart
+"S… sai…"<Space 1><Close><End of Block>
+<TextBlock 20 w:12 h:2>
+Bart
+"Ehi…?"<Close><End of Block>
+<TextBlock 21 w:6 h:1>
+…<Opcode 2 30><Close><End of Block>
+<TextBlock 22 w:54 h:3>
+Bart
+"Smetti di fare l'offeso!<Delay 10>
+Sono venuto per scusarmi!"<Close><End of Block>
+<TextBlock 23 w:44 h:3>
+Rico
+"…<New>
+Ma che cazzo vuoi!?
+Pensavo di essermi
+occupato di te poco
+fa.<New>
+Non sono tipo da
+fissarsi col passato."<Close><End of Block>
+<TextBlock 24 w:6 h:1>
+…<Close><End of Block>
+<TextBlock 25 w:50 h:4>
+Rico
+"M'interessano di più
+questi due Gear qui…<Delay 10>
+Ma tu…<Delay 5> chi cazzo sei?<New>
+Sono sbalordito che tu
+li abbia messi a punto
+così bene!<New>
+Pensavo che Fei ed io
+fossimo gli unici che
+potessero lavorare così
+bene su dei Gear…"<Close><End of Block>
+<TextBlock 26 w:46 h:4>
+Bart
+"Wow, sei davvero il
+Campione… <Delay 5>Oops,<Delay 5>
+volevo dire ex-Campione…<New>
+Sono stupito per come
+riesci a dire quanto sia
+buono un Gear dandogli
+solo un'occhiata."<Close><End of Block>
+<TextBlock 27 w:54 h:4>
+Rico
+"Immagino non si possa
+conoscere tutto ciò che
+c'è nel mondo…<New>
+… dentro una buia
+prigione.<New>
+Davvero interessante.<Delay 10>
+Stavo per andarmene, ma
+ora ho cambiato idea…<Delay 10><New>
+Lasciami unire al gruppo,<Delay 5>
+capo."<Close><End of Block>
+<TextBlock 28 w:50 h:2>
+Bart
+"Penso che vada bene…"<Close><End of Block>
+<TextBlock 29 w:46 h:2>
+Mi sembrava che fosse
+tempo per voi due di
+arrivare…<Close><End of Block>
+<TextBlock 30 w:42 h:4>
+Elly
+"È inutile cercare
+di fermarmi.<New>
+Anche se sei tu, se
+mi ostacolerai, non
+avrò altra scelta
+se non quella di…!!"<Close><End of Block>
+<TextBlock 31 w:52 h:4>
+Shitan
+"Non è adatto ad una
+signora parlare in
+quel modo.<Delay 10><New>
+Sono venuto qui solo
+per salutarvi."<Close><End of Block>
+<TextBlock 32 w:2 h:1>
+?<Opcode 2 20><Close><End of Block>
+<TextBlock 33 w:50 h:4>
+Shitan
+"Ho rifornito di
+carburante <Weltall><Delay 10>…<New>
+Potete partire in
+qualsiasi momento."<Close><End of Block>
+<TextBlock 34 w:22 h:2>
+Elly
+"… Shitan."<Close><End of Block>
+<TextBlock 35 w:50 h:4>
+Shitan
+"… Ma,<Delay 10> Elly,<Delay 10> non puoi
+usare il tuo Gear mentre
+è in riparazione."<Close><End of Block>
+<TextBlock 36 w:52 h:2>
+Elly
+"Cosa?<Delay 10> Ma allora<Delay 10>
+cosa…?"<Close><End of Block>
+<TextBlock 37 w:52 h:3>
+Shitan
+"Sai, quell'Omnigear…
+<Delay 10>E se tu lo prendessi
+in prestito…?"<Close><End of Block>
+<TextBlock 38 w:44 h:4>
+Fei
+"Assolutamente no.<Delay 10><New>
+Non possiamo prendere
+una proprietà di
+Shevat senza permesso…"<Close><End of Block>
+<TextBlock 39 w:36 h:4>
+Shitan
+"Elly, tu sei l'unica
+persona adatta per
+quel Gear.<New>
+Nessun altro può
+guidarlo."<Close><End of Block>
+<TextBlock 40 w:10 h:1>
+No…<Close><End of Block>
+<TextBlock 41 w:48 h:3>
+Elly
+"Mai!! Non lo
+piloterò mai!!"<Close><End of Block>
+<TextBlock 42 w:28 h:3>
+Fei
+"Elly…?<Delay 10>
+Cosa c'è?"<Close><End of Block>
+<TextBlock 43 w:44 h:4>
+Elly
+"Sono così spaventata…<Delay 20>
+Per questo…<Delay 10> non voglio
+guidarlo mai!!"<Close><End of Block>
+<TextBlock 44 w:44 h:2>
+Shitan
+"È un bel problema…"<Close><End of Block>
+<TextBlock 45 w:28 h:2>
+E se venissi
+con voi?<Close><End of Block>
+<TextBlock 46 w:28 h:2>
+Fei
+"Ragazzi…?"<Close><End of Block>
+<TextBlock 47 w:28 h:2>
+Bart
+"Scusa…<Delay 10> Fei."<Close><End of Block>
+<TextBlock 48 w:28 h:2>
+Billy
+"Mi dispiace…"<Close><End of Block>
+<TextBlock 49 w:20 h:2>
+Margie
+"Scusami…"<Close><End of Block>
+<TextBlock 50 w:36 h:3>
+Fei
+"No…<Delay 10>
+Grazie, amici miei."<Close><End of Block>
+<TextBlock 51 w:48 h:4>
+Shitan
+"Beh… so che non vi è
+gradito andarvene ora…<New>
+… ma noi dovremmo
+andarcene prima
+dell'alba.<New>
+Ho lavorato un po' sul
+radar, perciò dovrebbe
+funzionare bene!"<Close><End of Block>
+<TextBlock 52 w:44 h:2>
+Shitan
+"… Ci hanno
+lasciati…"<Close><End of Block>
+<TextBlock 53 w:32 h:2>
+Esmeralda
+"Fei<Delay 5>…<Delay 10> dove<Delay 5>…"<Space 1><Close><End of Block>
+<TextBlock 54 w:42 h:2>
+Shitan
+"Sono andati
+molto lontano."<Close><End of Block>
+<TextBlock 55 w:22 h:2>
+Esmeralda
+"Io<Delay 5>…<Delay 10> vado<Delay 5>…"<Space 1><Close><End of Block>
+<TextBlock 56 w:0 h:1>
+<Close><End of Block>

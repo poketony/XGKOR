@@ -1,0 +1,92 @@
+<TextBlock 1 w:40 h:5>
+Qui c'è qualcosa…<Delay 20>
+Benché sia in po'
+differente dal
+tesoro che sto
+cercando.<Close><End of Block>
+<TextBlock 2 w:46 h:3>
+Sto scavando come un
+pazzo. Devo trovare
+qualcosa!<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+Niente da fare…
+Non trovo nulla.<Delay 20>
+È proprio una cosa che
+non riesco a comprendere…<Close><End of Block>
+<TextBlock 4 w:52 h:4>
+Ehi, hai un Lingotto
+là, non è vero?<Delay 20>
+Se me lo dai, cercherò di
+scavare un altro po'.<New>
+Altrimenti sembra proprio
+che mi debba arrendere…
+Cosa ne pensi?<Close><End of Block>
+<TextBlock 5 w:46 h:3>
+Gli dai un Lingotto?<Delay 20>
+    Certo
+    No<Close><End of Block>
+<TextBlock 6 w:54 h:3>
+Ok!!<Delay 20>
+Comincio subito a scavare.
+Aspettati una sorpresa!<Close><End of Block>
+<TextBlock 7 w:50 h:1>
+Consegnato Lingotto.<Close><End of Block>
+<TextBlock 8 w:28 h:3>
+Davvero?<Delay 20>
+Beh, fa' come
+ti pare.<Close><End of Block>
+<TextBlock 9 w:52 h:4>
+Questa roccia è più dura
+di quanto credessi. È
+dura da scavare. Devi
+aspettare ancora.<Close><End of Block>
+<TextBlock 10 w:48 h:3>
+Mmmmh…
+Di là ho sentito
+odore di tesoro.<Close><End of Block>
+<TextBlock 11 w:48 h:4>
+Ehi, non hai una
+Pepita?<Delay 20>
+Se me la dai,
+scaverò molto di più.<New>
+Sono sicuro che
+saremo fortunati…
+Che ne pensi?<Close><End of Block>
+<TextBlock 12 w:44 h:3>
+Gli dai una Pepita?<Delay 20>
+    Certo
+    No<Close><End of Block>
+<TextBlock 13 w:44 h:4>
+Ok, perfetto!<Delay 20>
+Ora mi metto a scavare
+qua intorno…
+Aspettati una sorpresa!<Close><End of Block>
+<TextBlock 14 w:48 h:1>
+Consegnata Pepita.<Close><End of Block>
+<TextBlock 15 w:28 h:3>
+Davvero?<Delay 20>
+Beh, fa' come
+ti pare.<Close><End of Block>
+<TextBlock 16 w:48 h:4>
+<Opcode 1 255>"Jukebox SuperDeluxe"
+  Inserisci 100G
+    OK, lo farò
+    No, grazie<Close><End of Block>
+<TextBlock 17 w:36 h:3>
+Ehi tu, smettila.<Delay 20>
+Non hai abbastanza
+denaro!<Close><End of Block>
+<TextBlock 18 w:62 h:13>
+    <Opcode 1 255>La Valle del Vento
+    Una Lontana Promessa
+    Cocci stridenti e… perduti
+    Il mio Villaggio è il N° 1
+    Noi, Feriti, Seguiamo la Luce
+    Il Forte cerca i suoi sogni
+    Sirena di Giugno
+    Il Cielo, le Nuvole, e Tu
+    Un Nido di Sogni
+    Un'Antica Danza
+    Lacrime di Stelle e Ricordi
+    I Divisi si chiamano
+    Preghiera del Vento<Close><Close><End of Block>

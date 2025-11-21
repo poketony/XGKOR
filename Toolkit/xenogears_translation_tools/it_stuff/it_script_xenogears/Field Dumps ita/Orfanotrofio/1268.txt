@@ -1,0 +1,111 @@
+<TextBlock 1 w:40 h:3>
+Ehi, state andando al
+'Nascondoglio delle
+termiti caccaminose'?<Close><End of Block>
+<TextBlock 2 w:32 h:2>
+Zefiro vi mangerà…!<Close><End of Block>
+<TextBlock 3 w:50 h:3>
+Ehi, leggimi questo libro…
+    Va bene!
+    Forse la prossima volta!<Close><End of Block>
+<TextBlock 4 w:13 h:1>
+Sì~ì!!<Close><End of Block>
+<TextBlock 5 w:50 h:3>
+<Perso1>
+"C'era tanto, tanto tempo
+fa una donna chiamata
+Zefiro.<New>
+Lei voleva essere un dio,
+perciò costruì una torre
+che raggiungesse il
+paradiso.<New>
+Poi costruì una città
+sulla cima di questa
+torre.<New>
+Ma dio si adirò e
+distrusse la sua torre.<New>
+Perciò ella fu
+costretta a vivere in
+un 'nascondiglio per
+gli eremiti peccaminosi'.<New>
+Dopo di ciò, ella mai
+tornò sulla terra… Fine."<Close><End of Block>
+<TextBlock 6 w:36 h:4>
+C'è davvero un
+'Nascondoglio per le
+termiti caccaminose'?
+Sembra una cosa
+spaventosa!<Close><End of Block>
+<TextBlock 7 w:56 h:5>
+Adesso mi hai fatto una
+promessa! Se non me lo
+leggi la prossima volta,
+allora menti! E se menti,
+dovrai ficcarti un ago
+nell'occhio!<Close><End of Block>
+<TextBlock 8 w:10 h:1>
+Shhh!<Close><End of Block>
+<TextBlock 9 w:48 h:2>
+Billy spunta fuori da
+dietro la libreria!<Opcode 2 30><Close><End of Block>
+<TextBlock 10 w:34 h:3>
+Davvero?<Delay 10>
+Di sicuro fa delle
+strane cose…<Opcode 2 30><Close><End of Block>
+<TextBlock 11 w:2 h:1>
+!<Opcode 2 30><Close><End of Block>
+<TextBlock 12 w:34 h:1>
+Non origliare!!<Close><End of Block>
+<TextBlock 13 w:46 h:1>
+I ragazzi sono degli
+esseri mostruosi!<Opcode 2 30><Close><End of Block>
+<TextBlock 14 w:40 h:2>
+Sì.<Delay 10>
+Sono così seccanti.<Opcode 2 30><Close><End of Block>
+<TextBlock 15 w:2 h:1>
+!<Opcode 2 30><Close><End of Block>
+<TextBlock 16 w:34 h:1>
+Non origliare!!<Close><End of Block>
+<TextBlock 17 w:42 h:2>
+Lo Zio Stone tornerà
+un giorno…?<Close><End of Block>
+<TextBlock 18 w:30 h:2>
+L'inizio della
+mia giovinezza…<Close><End of Block>
+<TextBlock 19 w:28 h:1>
+Non ascoltare!!<Close><End of Block>
+<TextBlock 20 w:34 h:1>
+Bobby non è un fico?<Close><End of Block>
+<TextBlock 21 w:44 h:3>
+Sì, e sa fare anche
+quel salto fichissimo!
+Sai che corre ogni
+giorno…<Close><End of Block>
+<TextBlock 22 w:28 h:1>
+Non ascoltare!!<Close><End of Block>
+<TextBlock 23 w:46 h:4>
+Questo letto è così soffice!! 
+Vuoi saltarci sopra?
+    Va bene
+    No, grazie<Close><End of Block>
+<TextBlock 24 w:16 h:1>
+Avanti!<Close><End of Block>
+<TextBlock 25 w:32 h:1>
+È così soffice!!<Close><End of Block>
+<TextBlock 26 w:28 h:1>
+Aspetta un attimo.<Close><End of Block>
+<TextBlock 27 w:50 h:3>
+Non c'era proprio la carta
+igienica, perciò al suo
+posto ho usato questo libro.<Delay 10>
+Vuoi usarlo tu?<Close><End of Block>
+<TextBlock 28 w:58 h:1>
+Ricevi un 'Vecchio Fumetto'.<Close><End of Block>
+<TextBlock 29 w:48 h:1>
+Ho detto: 'Il bagno è occupato'!<Close><End of Block>
+<TextBlock 30 w:26 h:1>
+Occupato!<Close><End of Block>
+<TextBlock 31 w:30 h:1>
+Fa' pure con comodo.<Close><End of Block>
+<TextBlock 32 w:0 h:1>
+<Close><End of Block>

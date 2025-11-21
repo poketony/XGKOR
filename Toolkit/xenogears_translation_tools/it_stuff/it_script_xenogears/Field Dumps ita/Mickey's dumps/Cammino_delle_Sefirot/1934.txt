@@ -1,0 +1,109 @@
+<TextBlock 1 w:22 h:2>
+Basta!
+Smettila!<New>
+Papà!
+Papà!<Close><End of Block>
+<TextBlock 2 w:32 h:3>
+Mamma!<Delay 10>
+Aiuta papà!<New>
+Ehi, mamma!<Delay 10>
+Perché non stai
+aiutando papà?<New>
+Papà…<Delay 10>
+Papà potrebbe morire!<Close><End of Block>
+<TextBlock 3 w:38 h:3>
+Grahf venne in cerca
+del potere che
+esiste dentro me.<New>
+Per ritornare nel
+suo corpo.<New>
+Lo capisci ora,
+vero<Delay 5>…?<Delay 10>
+Grahf è<Delay 5>…<Delay 20> Lacan.<Close><End of Block>
+<TextBlock 4 w:50 h:5>
+Noi, i discendenti che
+abbiamo ereditato da lui
+i suoi eterni pensieri ed
+i suoi ricordi, lo
+sappiamo troppo bene…<New>
+Divisi 500 anni fa…
+Voleva diventare una
+parte di noi due…<New>
+Lacan divenne Grahf e
+distrusse ogni cosa
+sulla faccia della terra.<New>
+Poi imparò come
+impossessarsi dei
+corpi degli altri…<New>
+… controllando e
+risiedendo nella 
+loro mente.<New>
+Probabilmente fu
+capace di farlo dopo
+il suo contatto con
+l' 'Esistenza'.<New>
+I corpi morivano, ma
+lo spirito di Lacan
+continuava a vivere…<New>
+Fino al giorno in cui
+la sua anima sarebbe
+ritornata…<New>
+… alla perfetta
+reincarnazione del
+suo corpo fisico…<Delay 30>
+Il corpo di 'Fei'.<Close><End of Block>
+<TextBlock 5 w:40 h:3>
+Papà<Delay 10>…<Delay 10> lo
+combatté.<New>
+Ma non poté
+proteggere
+mamma o me.<New>
+Combatté in modo 
+pietoso finché non
+sputò il suo sangue.<Close><End of Block>
+<TextBlock 6 w:50 h:4>
+Mio padre fece una magra
+figura di fronte a Grahf…<New>
+… e mamma non lo aiutò
+neanche nel momento
+in cui lui ebbe più
+bisogno di lei.<New>
+Come per loro figlio…
+'Lui' non riuscì a
+trattenersi oltre…<Close><End of Block>
+<TextBlock 7 w:50 h:3>
+Espresse le sue emozioni
+e liberò il suo potere.
+E come risultato…<Close><End of Block>
+<TextBlock 8 w:30 h:1>
+<Delay 10>…<Delay 10> Mamma morì.<Close><End of Block>
+<TextBlock 9 w:8 h:1>
+<Opcode 1 255>Mamma!<Opcode 2 90><Close><End of Block>
+<TextBlock 10 w:40 h:4>
+E 'lui' scaricò i
+risultati delle sue
+azioni su di me.<New>
+Per evitare la
+responsibilità della
+morte di mamma, lui
+usò me come scudo.<Close><End of Block>
+<TextBlock 11 w:46 h:1>
+<Opcode 14 1>"Anch'io <Delay 30>ho ucciso mamma."<Close><End of Block>
+<TextBlock 12 w:38 h:4>
+Grazie.
+Ridallo a me.
+Io sto giocando
+con mamma.<Close><End of Block>
+<TextBlock 13 w:28 h:2>
+Questa non è<Delay 10>…<Delay 10>
+la realtà!!<Close><End of Block>
+<TextBlock 14 w:28 h:1>
+<Opcode 1 255>Sono tutte menzogne!<Opcode 2 10><Close><End of Block>
+<TextBlock 15 w:28 h:1>
+<Opcode 1 255>È tutto falso!<Opcode 2 10><Close><End of Block>
+<TextBlock 16 w:36 h:1>
+<Opcode 1 255>È solo un trucco!!<Opcode 2 10><Close><End of Block>
+<TextBlock 17 w:26 h:3>
+Tutto!<Delay 10>
+Tutto!!<Delay 10>
+Tutto…!<Delay 100><Close><Close><End of Block>

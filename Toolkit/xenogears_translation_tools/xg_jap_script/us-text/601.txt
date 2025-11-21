@@ -1,0 +1,29 @@
+#### 1 ####
+Fei
+"It looks like this shaft
+connects to the outside.{enter}
+We can probably get out
+through here."
+
+#### 2 ####
+Fei
+"Looks like this shaft
+somehow connects to the
+outside.{enter}
+But we don't have time 
+to turn back.{wait:14} 
+Let's hurry ahead."
+
+#### 3 ####
+What would you like?{wait:14}
+    Character items
+    Gear items
+    Nothing
+
+#### 4 ####
+What would you like?{wait:14}
+        Character items
+        Gear items
+        Go outside
+        Nothing
+

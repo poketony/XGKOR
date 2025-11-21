@@ -1,0 +1,12 @@
+#### 1 ####
+This is a machine created
+to put brutal criminals
+and dangerous monsters to
+sleep.{enter}
+It isn't expected to be
+used again but it is ready
+anytime just in case.{enter}
+Anyone who has no business
+here should leave.{wait:14}
+Get out, right now.
+

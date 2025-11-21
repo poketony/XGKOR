@@ -1,0 +1,148 @@
+#### 1 ####
+Fei!
+A Gebler Gear unit!
+
+#### 2 ####
+Fei
+"Let me handle this!"
+
+#### 3 ####
+B, but...
+
+#### 4 ####
+Fei
+"We don't have time!{enter}
+While we're wasting time
+here, Bart's team is
+already on their way
+to the castle. Hurry!"
+
+#### 5 ####
+R, roger.
+
+#### 6 ####
+Elly
+"That Gear!?
+Don't tell me
+it's Fei!?"
+
+#### 7 ####
+Broyer
+"Hey, is that him?
+The guy from before?"
+
+#### 8 ####
+Renk
+"Yep.
+That's him alright."
+
+#### 9 ####
+Broyer
+"Good.
+It's time for a rematch.{enter}
+Don't fall behind, sister."
+
+#### 10 ####
+Renk
+"You're in the way.
+Why don't you stay over
+there and just watch."
+
+#### 11 ####
+Stratski
+"Yeah, yeah.
+We can take care of
+these guys on our own."
+
+#### 12 ####
+Helmholz
+"Sorry about this."
+
+#### 13 ####
+Vance
+"Get outta the way."
+
+#### 14 ####
+Elly
+"Y, all of you! Hold!
+I haven't given out any
+orders to attack yet!"
+
+#### 15 ####
+Vance
+"Uuaaaaaaah!"
+
+#### 16 ####
+Renk
+"Vance! Helm!
+You two okay!?"
+
+#### 17 ####
+Vance
+"Why am I losing to a Lamb?
+Something's wrong...
+way wrong!!"
+
+#### 18 ####
+Renk
+"Vance!!
+Get a hold of yourself!"
+
+#### 19 ####
+Vance
+"Oh yeah!?{enter}
+I just need more!
+I need more 'Drive'!!"
+
+#### 20 ####
+Elly
+"...{wait:14}I can't do it.
+I can't...fight
+Fei...but..."
+
+#### 21 ####
+Elly
+"The only thing left...{wait:14}
+is to use the 'Drive'...{wait:1E}
+ 
+         {slow:02}But..."{wait:FA}
+
+#### 22 ####
+Renk
+"Don't!
+Anymore 'Drive' and you'll
+waste your mind!!"
+
+#### 23 ####
+Vance
+"I don't care! I'm already
+messed up as it is!!"
+
+#### 24 ####
+Elly
+"Stop this now, Vance.
+...{wait:14}I'll handle it."
+
+#### 25 ####
+Vance
+
+#### 26 ####
+Helmholz
+
+#### 27 ####
+Helmholz
+"Guuaahh!"{clear:3C}
+
+#### 28 ####
+Renk
+
+#### 29 ####
+Broyer
+
+#### 30 ####
+Stratski
+
+#### 31 ####
+Fei
+"What?"
+

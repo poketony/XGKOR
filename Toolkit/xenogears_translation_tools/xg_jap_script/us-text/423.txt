@@ -1,0 +1,17 @@
+#### 1 ####
+Nothing.
+
+#### 2 ####
+The treasure box was empty.
+
+#### 3 ####
+I heard a sound somewhere.
+
+#### 4 ####
+You have too many
+{str}.
+
+#### 5 ####
+ 
+ Received {str}.
+

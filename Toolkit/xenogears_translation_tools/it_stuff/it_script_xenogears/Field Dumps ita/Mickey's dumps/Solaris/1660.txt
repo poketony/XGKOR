@@ -1,0 +1,121 @@
+<TextBlock 1 w:48 h:3>
+Fei
+"Cosa vuoi farmi…?"<Close><End of Block>
+<TextBlock 2 w:40 h:2>
+Come sospettavo.
+Non sai nulla…!<Close><End of Block>
+<TextBlock 3 w:38 h:3>
+Fei
+"Doc!!<Delay 10> Shitan,
+perché sei qui!?"<Close><End of Block>
+<TextBlock 4 w:44 h:4>
+Shitan
+"Ho visto l'immagine di
+Bart sull'Ornovisione 
+nella cerimonia."<Close><End of Block>
+<TextBlock 5 w:48 h:2>
+Fei
+"L'hai vista anche
+tu, Doc?"<Close><End of Block>
+<TextBlock 6 w:46 h:4>
+Shitan
+"Sì.<Delay 10> Ma non ho visto
+nessun altro di voi.<New>
+Poco dopo, ho udito che
+c'era un intruso al
+secondo piano della
+zona di Araboth.<New>
+Ho sospettato che
+fossi tu e così ti
+ho aspettato qui.<New>
+Dopotutto, non ho
+udito della cattura di
+nessun altro intruso."<Close><End of Block>
+<TextBlock 7 w:46 h:3>
+Fei
+"Come sapevi che io
+sarei venuto qui?"<Close><End of Block>
+<TextBlock 8 w:52 h:4>
+Shitan
+"Il miglior modo per
+introdursi nel Palazzo
+è attraverso il condotto…<New>
+… della polvere.
+E per tornare al terzo
+piano, uno deve passare
+per questa torre.<New>
+C'è una cosa che
+continuo sempre a
+pensare<Delay 5>…<Delay 5><New>
+Non credi che dovresti
+essere un po' più furbo?<New>
+Quando ci si infiltra
+dietro le linee nemiche,
+la cosa basilare è di
+essere invisibili.<New>
+Con tutto il trambusto
+che hai messo su,
+avresti potuto far
+risuscitare i morti."<Close><End of Block>
+<TextBlock 9 w:46 h:3>
+Fei
+"Beh, sto facendo
+del mio meglio…"<Close><End of Block>
+<TextBlock 10 w:44 h:4>
+Shitan
+"Comunque, cosa è
+successo a Elly?<Delay 10>
+Non è con te?"<Close><End of Block>
+<TextBlock 11 w:50 h:3>
+Fei
+"Elly…<Delay 10>
+È tornata a casa.<New>
+Non dovrebbe avere nulla a
+che fare con noi abitanti
+della superficie, davvero.<New>
+Ha dei genitori
+così meravigliosi…"<Close><End of Block>
+<TextBlock 12 w:42 h:4>
+Shitan
+"Capisco<Delay 10>…<New>
+Sì. Credo che per lei
+sia la cosa migliore.
+Allora, andiamo al
+condotto della polvere."<Close><End of Block>
+<TextBlock 13 w:10 h:1>
+Sì!<Opcode 2 30><Close><End of Block>
+<TextBlock 14 w:50 h:3>
+Shitan
+"Fei,<Delay 10> ora resta
+vicino a me.<New>
+Questo dovrebbe non
+far rilevare la tua
+presenza."<Close><End of Block>
+<TextBlock 15 w:4 h:1>
+?<Delay 5>?<Close><End of Block>
+<TextBlock 16 w:46 h:4>
+Fei
+"Doc, aspetta… Come
+hai fatto a passare?<New>
+Secondo Elly, possono
+passare solo i militari
+ed i cittadini di I
+Classe…"<Close><End of Block>
+<TextBlock 17 w:54 h:3>
+Shitan
+"Uh!?<Delay 20> Ecco<Delay 10>…<Delay 10>
+devi sapere…<New>
+Forse…<Delay 10> l'ID di quando
+ero nell'esercito è
+ancora esistente nella
+banca dati."<Close><End of Block>
+<TextBlock 18 w:44 h:3>
+Shitan
+"Cielo, i computer di
+Solaris sono così
+scadenti…<Delay 10> Ah ah ah…"<Close><End of Block>
+<TextBlock 19 w:14 h:2>
+Fei
+"<Delay 5>…<Delay 5>?"<Close><End of Block>
+<TextBlock 20 w:0 h:1>
+<Close><End of Block>

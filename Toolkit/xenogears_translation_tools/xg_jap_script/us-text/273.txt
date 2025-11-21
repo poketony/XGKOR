@@ -1,0 +1,231 @@
+#### 1 ####
+Fei
+"Elly, you are awake."
+
+#### 2 ####
+Elly
+"Ah, oooooh..."
+
+#### 3 ####
+Elly
+"Where am I...?{enter}
+I was with Fei, heading
+for the rear block...{wait:14}
+Fei...!
+Where are you, Fei?"
+
+#### 4 ####
+Rumble rumble{clear:3C}
+
+#### 5 ####
+Elly
+"Am I awake...?
+What were you doing!?"
+
+#### 6 ####
+Fei
+"I was looking around
+inside here. There's
+less than{wait:14} 2 days worth..."
+
+#### 7 ####
+Elly
+"Of what?"
+
+#### 8 ####
+Fei
+"Food.
+We're lucky we
+even found any."
+
+#### 9 ####
+Elly
+"But, where is everyone!?
+Are we the only survivors?"
+
+#### 10 ####
+Fei
+"We gotta do something.
+Guess I'll go catch some
+fish."
+
+#### 11 ####
+Elly
+"Fei!"
+
+#### 12 ####
+Fei
+"...{wait:46}They're okay."
+
+#### 13 ####
+Elly
+"What?"
+
+#### 14 ####
+Fei
+"They're okay...{wait:2D}doc,{wait:1E} Rico,{wait:1E}
+Hammer,{wait:1E} everyone...{wait:2D} They're
+all going to be okay."
+
+#### 15 ####
+You little...!{clear:3C}
+
+#### 16 ####
+Hold it!{clear:3C}
+
+#### 17 ####
+Elly
+"I knew it...{wait:14}I thought
+this thing was floating
+unusually...{enter}
+But even knowing that,
+there's no way we can get
+them out...{wait:14}right?{enter}
+They're right under us,
+but covered by water and
+a thick wall."
+
+#### 18 ####
+Elly
+"It's probably
+{name:0B:¥ô¥§¥ë¥È©`¥ë} and
+{name:0D:¥ô¥£¥¨¥ë¥¸¥§}.{enter}
+For better or worse, they
+have stuck by us this far.
+...But, they are useless
+now at this point though."
+
+#### 19 ####
+Elly
+"It appears our Gears
+are underneath here, Fei.
+But, we can't reach them...{enter}
+...{wait:1E}What're you doing, Fei?"
+
+#### 20 ####
+Fei
+"What am I doing?
+Can't you tell...?
+I'm trying to catch a fish!{enter}
+This one's been jumping up
+and down, right in front of
+me, trying to make me look
+like a fool..."
+
+#### 21 ####
+Fei
+"You little punk!
+I see you!"
+
+#### 22 ####
+Elly
+"Uh,{wait:05} umm,{wait:05} you're not
+going to catch it and
+eat it are you?"
+
+#### 23 ####
+Fei
+"If we don't eat,
+we're gonna die{wait:0F}...{wait:0F}
+{wait:0F}...Alright!! I gotcha!!"
+
+#### 24 ####
+Elly
+"You're joking.
+You'll get sick."
+
+#### 25 ####
+Fei
+"You're not gonna eat?
+Let me see... We need
+something to cook it with."
+
+#### 26 ####
+...
+
+#### 27 ####
+Elly
+"Hey, come on, stop it.
+I'm not to blame if you
+get sick and die."
+
+#### 28 ####
+Fei
+"Don't worry.
+Once it's in your stomach
+it's all the same."
+
+#### 29 ####
+Elly
+"I'm not going to{wait:0A}...{wait:0A}
+Fei!! Look, there{wait:0A}..."
+
+#### 30 ####
+Fei
+"What!?
+Did the fish get away?"
+
+#### 31 ####
+Fei
+"What're you talking
+about?{enter}
+It's still there{wait:0A}...{wait:0A}
+What the{wait:0A}...{wait:0A}!?
+{wait:0A}...{wait:0A}That's...!"
+
+#### 32 ####
+Fei
+"That's...that thing I saw
+in the desert. It's flying
+a lot higher this time."
+
+#### 33 ####
+Elly
+"It's Shevat...
+That's its usual altitude."
+
+#### 34 ####
+Fei
+"Shevat...{wait:1E}
+Where have I heard...{wait:1E}
+Yeah, that's right...{enter}
+That weird masked man!
+He said my father was
+in its military...{enter}
+So that saucer is what doc
+and that masked man said
+was the country my father
+and mother lived in?"
+
+#### 35 ####
+Elly
+"Really? I wouldn't know...
+It's a country outside the
+reach of Solaris.{enter}
+Shevat uses the same kind
+of barrier that Solaris
+does, so you can't reach
+it by conventional means."
+
+#### 36 ####
+Fei
+"How can something that
+flys that high in the
+sky be a 'country'?"
+
+#### 37 ####
+Elly
+"Yes. I don't blame you
+for being so surprised.{enter}
+It usually hovers over
+the region known as the
+Aquvy islands area.{enter}
+You probably saw it on some
+sort of special mission.
+That's why it was flying so
+low..."
+
+#### 38 ####
+Fei
+"Shevat..."{wait:78}{clear:78}
+

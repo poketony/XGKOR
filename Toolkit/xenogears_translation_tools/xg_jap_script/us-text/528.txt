@@ -1,0 +1,150 @@
+#### 1 ####
+Fei
+"What meaning is there
+in fighting again!?"
+
+#### 2 ####
+Elly
+"Stop this useless
+fighting!"
+
+#### 3 ####
+Elly
+"Some things only the weak
+can feel...{enter}
+But weakness does not make
+them servile.{enter}
+It's because they are weak,
+that they can develop
+kindness...and never look
+down on people.{enter}
+That is where real human
+interaction comes from.
+Everyone has weaknesses.
+Even you did at first.{enter}
+Your weakness drew you to
+each other...{enter}
+And made you grow strong.
+Never forget those feelings.
+When you all lived together
+side by side..."
+
+#### 4 ####
+Elly
+"You've got us all wrong,
+Dominia.{enter}
+Our paths may be different,
+but our goals are the same.{enter}
+That's why I can't fight
+you anymore. There's no
+reason for me to...
+That's all."
+
+#### 5 ####
+Dominia
+"What took you!?"
+
+#### 6 ####
+Dominia
+"Silence!
+Now we have no choice
+but to fight.{enter}
+Now we will show you
+the true power of the
+Elements! Get ready...
+because here we come!"
+
+#### 7 ####
+Elements in unison
+"Elements' Formation!"{clear:28}
+
+#### 8 ####
+Dominia
+"Wait!"{clear:1E}
+
+#### 9 ####
+Dominia
+"Are you trying to show
+us mercy? Or are you just
+trying to show off...?"
+
+#### 10 ####
+Dominia
+"Hmph..."
+
+#### 11 ####
+Kelvena
+"Let us merge and
+combine our forces!"
+
+#### 12 ####
+Kelvena
+"Well{wait:05}...{wait:0A}it looks like
+they sure showed us a
+thing or two!"
+
+#### 13 ####
+Shopkeep Johnny
+"Whoa!
+I'm not the enemy!"
+
+#### 14 ####
+Shopkeep Johnny
+"My family's been merchants
+for generations, and we got
+our own ways to fight.{enter}
+And this is my battle."
+
+#### 15 ####
+Shopkeep Johnny
+"Wanna buy something?
+I even service Gears."
+
+#### 16 ####
+    {fast:FF}Character
+    Gear
+    Forget it
+
+#### 17 ####
+    {fast:FF}Item
+    Accessory
+    Go back
+    Forget it
+
+#### 18 ####
+Shopkeep Johnny
+"Thanks for
+your patron."
+
+#### 19 ####
+You have too many
+{str}.
+
+#### 20 ####
+ 
+ Received {str}.
+
+#### 21 ####
+You have too many
+{str}.
+
+#### 22 ####
+ 
+ Received {str}.
+
+#### 23 ####
+You have too many
+{str}.
+
+#### 24 ####
+ 
+ Received {str}.
+
+#### 25 ####
+You have too many
+{str}.
+
+#### 26 ####
+ 
+ Received {str}.
+

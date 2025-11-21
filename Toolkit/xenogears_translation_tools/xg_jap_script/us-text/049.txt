@@ -1,0 +1,107 @@
+#### 1 ####
+Fei
+"Uh, umm...{wait:1E}
+What was that all about?"
+
+#### 2 ####
+Fei
+"What's with you guys?{enter}
+Aren't you overreacting a
+little for just stealing
+a motorcycle..."
+
+#### 3 ####
+Fei
+"Ah...!"
+
+#### 4 ####
+Fei
+"Doc!{wait:0A}
+You're alright?"
+
+#### 5 ####
+Fei
+"Hurry and
+do what...?"
+
+#### 6 ####
+Fei
+"...A, a, alright."
+
+#### 7 ####
+Fei
+"{wait:0A}...{wait:28}I'm fine{wait:0A}...{wait:1E}
+The Gear seems to be
+broken though{wait:0A}..."
+
+#### 8 ####
+Fei
+"..."
+
+#### 9 ####
+Citan
+"Fei!{wait:05} I was looking
+everywhere for you."
+
+#### 10 ####
+Citan
+"Yes, of course..."
+
+#### 11 ####
+!
+
+#### 12 ####
+Citan
+"Looks like we do not
+have time to chat."
+
+#### 13 ####
+Citan
+"Fei, hurry!"
+
+#### 14 ####
+Citan
+"I cannot use {name:0B:¥ô¥§¥ë¥È©`¥ë}
+very well! Only you can
+use its full potential... {enter}
+Hurry up and get on
+board!"
+
+#### 15 ####
+Citan
+"Fei!
+Are you alright!?"
+
+#### 16 ####
+Citan
+"Fei!"
+
+#### 17 ####
+Citan
+"I am so glad that you are
+unharmed.{enter}
+The Gear had only temporary
+repairs made on it. They
+were not made to survive an
+outright battle like that."
+
+#### 18 ####
+Citan
+"Fei?"
+
+#### 19 ####
+Citan
+"Oh no!
+The Aveh Military!
+Not now...!"
+
+#### 20 ####
+Citan
+"Fei, I think we should
+remain calm{wait:0F}...{wait:0F}
+{wait:0F}...{wait:28}?"
+
+#### 21 ####
+Citan
+"Fei?"
+

@@ -1,0 +1,53 @@
+#### 1 ####
+I've seen the end of the
+war with Kislev and the
+deposition of that Prime
+Minister who grew fat off
+of our country.{enter}
+I'm old but very happy
+that I can live out my
+days peacefully with my
+grandchildren.
+
+#### 2 ####
+The area around this town has
+the highest concentration of
+ruins on the southern part
+of the continent of Ignas.{enter}
+Aveh and Kislev have been 
+fighting over these ruins
+forever. I'm old now. I
+just want to live in peace.
+
+#### 3 ####
+Oh dear, the water
+has stopped again!{wait:14}
+The workshop must be
+using it right now.
+
+#### 4 ####
+Actually, ever since the
+guild came the waterworks
+here have gotten better,
+but{wait:0A}...{wait:0A}nobody's perfect{wait:0A}...
+
+#### 5 ####
+They always said that
+when you get old, you'll
+have trouble with your
+waterworks{wait:0A}...{wait:0A}but I didn't
+realize they meant this!
+
+#### 6 ####
+Lately Grandpa's been in a
+'happi' and 'jelly' mood.
+
+#### 7 ####
+Lately Grandpa's been in
+a 'blew' and 'gum' mood. 
+
+#### 8 ####
+He's also got 'dork' and 
+'centanmental' moods too.
+{wait:0A}...{wait:0A}Whatever that means?
+

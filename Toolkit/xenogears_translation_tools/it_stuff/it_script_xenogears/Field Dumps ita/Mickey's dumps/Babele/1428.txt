@@ -1,0 +1,148 @@
+<TextBlock 1 w:30 h:2>
+Fei
+"Cos'è quella cosa!?"<Close><End of Block>
+<TextBlock 2 w:32 h:2>
+Fei
+"Una nave di Geburah?"<Close><End of Block>
+<TextBlock 3 w:40 h:2>
+Fei
+"Cos'è quel Gear?"<Opcode 2 50><Close><End of Block>
+<TextBlock 4 w:48 h:2>
+Fei
+"Uh…? E quello?"<Opcode 2 60><Close><End of Block>
+<TextBlock 5 w:52 h:3>
+Fei
+"Sembra un attacco aereo.<Delay 30> 
+Andiamo a vedere…"<Opcode 2 60><Close><End of Block>
+<TextBlock 6 w:42 h:3>
+Fei
+"Come facevano a sapere
+che eravamo qui?"<Close><End of Block>
+<TextBlock 7 w:50 h:4>
+Fei
+"Siamo con le spalle
+al muro. Non ci resta
+altro che combattere…"<Close><End of Block>
+<TextBlock 8 w:26 h:2>
+Fei
+"Fatti sotto!"<Close><End of Block>
+<TextBlock 9 w:38 h:3>
+Fei
+"Doc, cosa si fa?"<Close><End of Block>
+<TextBlock 10 w:40 h:4>
+Elly
+"Ma io ho rimosso il
+codice di riconoscimento
+e di tracciamento!"<Close><End of Block>
+<TextBlock 11 w:36 h:3>
+Elly
+"Sembra un attacco
+aereo. Andiamo a
+vedere."<Close><End of Block>
+<TextBlock 12 w:40 h:4>
+Elly
+"Ma io ho rimosso il
+codice di riconoscimento
+e di rintracciamento!"<Close><End of Block>
+<TextBlock 13 w:52 h:3>
+Elly
+"Sembra un attacco aereo. 
+Andiamo a vedere."<Opcode 2 80><Close><End of Block>
+<TextBlock 14 w:20 h:2>
+Shitan
+"Guardate!"<Close><End of Block>
+<TextBlock 15 w:48 h:3>
+Shitan
+"Si tratta di uno
+specchio riflettente.<New>
+Il raggio del Forte
+Diaspro sarà riflesso
+e così distruggerà
+il portale."<Close><End of Block>
+<TextBlock 16 w:52 h:4>
+Shitan
+"Bene…<New>
+Corriamo nella sala di
+controllo, fintanto che
+i nostri inseguitori non
+sono ancora giunti qui."<Close><End of Block>
+<TextBlock 17 w:44 h:3>
+Miang
+"È impossibile con
+le sue ferite."<Close><End of Block>
+<TextBlock 18 w:40 h:4>
+Miang
+"Ponte! Proteggete
+la ritirata!<New>
+Cannone principale,
+alzare di 0.8.<New>
+Fuoco di copertura 30!
+Fuoco!"<Close><End of Block>
+<TextBlock 19 w:16 h:4>
+Miang
+"Su?<Delay 40>  
+Oh, no!?
+Ponte!"<Close><End of Block>
+<TextBlock 20 w:44 h:4>
+Miang
+"… È Shevat! 
+Invertire la rotta
+di 180 gradi. Ora!<New>
+Tutte le navi alla
+massima velocità!
+Ritirarsi da questa
+posizione!"<Close><End of Block>
+<TextBlock 21 w:48 h:3>
+Ramsus
+"Ti stavo
+aspettando, Fei.<New>
+L'ultima volta in
+fondo al mare sei stato
+fortunato, ma…<New>
+… questa volta non te
+la caverai.
+Sei spacciato!"<Close><End of Block>
+<TextBlock 22 w:50 h:2>
+Ramsus
+"Non è finita!
+Non ancora!"<Close><End of Block>
+<TextBlock 23 w:50 h:3>
+Ramsus
+"Andiamo, Miang!
+Non posso ritirarmi
+adesso<Delay 40>…<New>
+Augh… guh…!"<Close><End of Block>
+<TextBlock 24 w:30 h:3>
+Miang
+"No, Comandante!
+Si fermi!"<Close><End of Block>
+<TextBlock 25 w:42 h:3>
+Miang
+"È impossibile con
+le sue ferite."<Close><End of Block>
+<TextBlock 26 w:40 h:4>
+Miang
+"Ponte! Proteggete
+la ritirata!<New>
+Cannone principale,
+alzare di 0,8.<New>
+Fuoco di copertura 30!
+Fuoco!"<Close><End of Block>
+<TextBlock 27 w:42 h:4>
+Miang
+"Dall'alto!?<Delay 40>
+No… non può essere!?
+Ponte!"<Close><End of Block>
+<TextBlock 28 w:46 h:3>
+Miang
+"Proprio come temevo…
+Shevat!<New>
+Invertire la rotta
+di 180 gradi. Ora!<New>
+Tutte le navi alla
+massima velocità!
+Ritirarsi da questa
+posizione!"<Close><End of Block>
+<TextBlock 29 w:36 h:2>
+Questa porta è
+completamente arruginita.<Close><Close><End of Block>

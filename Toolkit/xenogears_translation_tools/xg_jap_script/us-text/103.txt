@@ -1,0 +1,72 @@
+#### 1 ####
+I must apologize.
+There are so many cats
+here it's hard to walk.
+My daughter collects them.
+
+#### 2 ####
+Yep, we're full of cats.
+
+#### 3 ####
+Cats are so cute. When
+I pet them, I get sleepy.
+
+#### 4 ####
+My father used to 
+hate cats, but now he's 
+outside feeding them.
+
+#### 5 ####
+I'm back.
+
+#### 6 ####
+Hi...{wait:3C}
+Hey, come here!
+
+#### 7 ####
+Wh, what? 
+I'm not hiding anything.
+
+#### 8 ####
+Just come here...
+
+#### 9 ####
+I did...{wait:1E}
+can I go upstairs now?
+
+#### 10 ####
+!
+
+#### 11 ####
+That child...{wait:3C}
+what did she bring home now?
+
+#### 12 ####
+But...{wait:3C}it's so sad. 
+I have no father, but at
+least I have a mother. This
+kitty has neither parent...{enter}
+I feel lonely cause my
+dad's not here. But just
+think how my poor little
+kitty friend feels.{enter}
+So...I told her that she'll
+have lots of friends at my
+house...and she just
+followed me home...
+
+#### 13 ####
+...{wait:3C} Recently they 
+started calling my 
+house the cathouse.
+
+#### 14 ####
+Sorry.
+
+#### 15 ####
+You're gonna have to 
+take care of it.
+
+#### 16 ####
+Okay.
+

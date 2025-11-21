@@ -1,0 +1,38 @@
+<TextBlock 1 w:42 h:3>
+Margie
+"Allora vi
+aspetterò qui."<Close><End of Block>
+<TextBlock 2 w:42 h:2>
+Bart
+"Grazie
+per averci
+aspettati!"<Close><End of Block>
+<TextBlock 3 w:46 h:2>
+Margie
+"Bene, entriamo!"<Close><End of Block>
+<TextBlock 4 w:10 h:1>
+<Opcode 1 255>Nisan<Close><End of Block>
+<TextBlock 5 w:10 h:1>
+<Opcode 1 255>Nisan<Close><End of Block>
+<TextBlock 6 w:10 h:1>
+<Opcode 1 255>Nisan<Close><End of Block>
+<TextBlock 7 w:10 h:1>
+<Opcode 1 255>Nisan<Close><End of Block>
+<TextBlock 8 w:30 h:1>
+<Opcode 1 255>Cattedrale di Nisan<Close><End of Block>
+<TextBlock 9 w:18 h:1>
+<Opcode 1 255>Mappa del Mondo<Close><End of Block>
+<TextBlock 10 w:22 h:1>
+<Opcode 1 255>Molo Segreto<Close><End of Block>
+<TextBlock 11 w:64 h:4>
+   Con l'aiuto di Fei e dei suoi
+    compagni, Nisan fu liberata
+     dall'esercito di Shakhan.<New>
+  Tuttavia, il Diaspro di Fatima
+  ed il leggendario tesoro segreto
+    della famiglia reale di Aveh
+     erano ancora in pericolo.<New>
+   Ed ora, Shakhan sta per tentare
+     il tutto per tutto, e le sue
+       vere intenzioni saranno
+              rivelate.<Close><Close><End of Block>

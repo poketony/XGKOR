@@ -1,0 +1,78 @@
+<TextBlock 1 w:16 h:2>
+Fei
+"Cosa!?"<Close><End of Block>
+<TextBlock 2 w:20 h:2>
+Fei
+"Guardate in alto!"<Close><End of Block>
+<TextBlock 3 w:36 h:2>
+Fei
+"Non è qui…"<Close><End of Block>
+<TextBlock 4 w:8 h:3>
+Fei
+"!?
+…"<Close><End of Block>
+<TextBlock 5 w:28 h:2>
+Fei
+"Cos'è questo?"<Close><End of Block>
+<TextBlock 6 w:50 h:2>
+Fei
+"Per quale motivo
+dovrebbe avere
+questa cosa?"<Close><End of Block>
+<TextBlock 7 w:14 h:2>
+Fei
+"…??"<Close><End of Block>
+<TextBlock 8 w:48 h:4>
+Shitan
+"Sembra proprio che
+si possa muovere
+all'esterno di questi…<New>
+… scarichi fognari."<Close><End of Block>
+<TextBlock 9 w:52 h:3>
+Shitan
+"Mmh… non sembra che 
+abbia intenzione di
+mostrarsi ora."<Close><End of Block>
+<TextBlock 10 w:42 h:3>
+Shitan
+"Riflettiamo su ciò
+che abbiamo scoperto
+finora."<Close><End of Block>
+<TextBlock 11 w:36 h:2>
+Rico
+"Non è qui…"<Close><End of Block>
+<TextBlock 12 w:26 h:2>
+Rico
+"Si è spostato…"<Close><End of Block>
+<TextBlock 13 w:38 h:4>
+Rico
+"Dannazione! <Delay 30>
+Avremmo dovuto
+trovarlo qui!"<Close><End of Block>
+<TextBlock 14 w:40 h:4>
+Rico
+"Aspetta! <Delay 30>
+Possiamo attirarlo 
+con questo coso!"<Close><End of Block>
+<TextBlock 15 w:44 h:2>
+Rico
+"Dove possiamo usarlo?"<Close><End of Block>
+<TextBlock 16 w:38 h:2>
+Rico
+"Forse questa…"<Opcode 2 20><Close><End of Block>
+<TextBlock 17 w:34 h:3>
+Fei
+"Non quella…
+Mmh, questa…!"<Opcode 2 40><Close><End of Block>
+<TextBlock 18 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 19 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 20 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 21 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><Close><End of Block>

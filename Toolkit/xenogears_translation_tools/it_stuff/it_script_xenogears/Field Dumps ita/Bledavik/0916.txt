@@ -1,0 +1,65 @@
+<TextBlock 1 w:52 h:4>
+Shakhan
+"Sono sorpreso che lei
+abbia parlato così tanto.<New>
+Lui sa trattare le donne
+tanto bene quanto dice."<Close><End of Block>
+<TextBlock 2 w:44 h:6>
+   Fermo
+   Torre Est
+   Entrata
+   Cortile Esterno
+   Fortezza, 3° piano
+   Sala da pranzo<Close><End of Block>
+<TextBlock 3 w:32 h:1>
+Va tutto bene?<Close><End of Block>
+<TextBlock 4 w:54 h:4>
+Shakhan
+"Non posso impedire
+loro d'incontrarla.<New>
+Non quando è di lui
+che stiamo parlando…<New>
+Inoltre, Margherita non
+sta comunque dicendo ciò
+che mi serve.<New>
+Perciò non c'è motivo
+di preoccuparsi…<New>
+Ma la fuga di notizie
+riguardo al Diaspro da
+dove viene…?<New>
+… La Chiesa? Ridicolo…!
+Mmmh, se tutto ciò
+continuerà, i miei
+piani saranno…"<Close><End of Block>
+<TextBlock 5 w:48 h:4>
+Shakhan
+"…<New>
+Dobbiamo scoprire
+immediatamente chi è che
+sta facendo trapelare
+le nostre informazioni.<New>
+Nel frattempo, dovremmo
+somministrare un po' di
+siero della verità alla
+nostra ospite…<New>
+… la Signorina
+Margherita.<New>
+Dobbiamo trovare l'altro
+pezzo del Diaspro di
+Fatima al più presto
+possibile."<Close><End of Block>
+<TextBlock 6 w:12 h:1>
+Ma…<Close><End of Block>
+<TextBlock 7 w:54 h:4>
+Shakhan
+"Per quanto l'ultimo
+comandante, Vanderkam,
+fosse smidollato…<New>
+… questa volta Geburah
+ha mandato il suo più
+importante ufficiale
+di comando.<New>
+Il suo paese sta impiegando
+tutte le sue forze per il
+Diaspro. E non possiamo
+fare nulla a riguardo!"<Close><Close><End of Block>

@@ -1,0 +1,32 @@
+#### 1 ####
+Oh, and you are...?{wait:14}
+I feel like I've met you
+before...{enter}
+Hmm...you resemble Kahn,
+the one who taught us the
+art of fighting.{enter}
+Nobody knows his
+whereabouts after he went
+down to the surface on
+the Queen's mission...{enter}
+I doubt something bad
+happened to him considering
+his skills.{wait:14}
+But, I wonder where he is?
+
+#### 2 ####
+You just arrived from
+the surface, didn't
+you?{wait:14}
+I've heard about you.{enter}
+They say you saved our
+colleague captured by the
+'Ethos'.{wait:14} Thank you very
+much for that.
+
+#### 3 ####
+I wish they'd give me a
+mission!{wait:14} 
+I'd teach those
+Solarians a lesson...
+

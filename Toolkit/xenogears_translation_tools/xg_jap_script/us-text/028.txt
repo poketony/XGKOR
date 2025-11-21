@@ -1,0 +1,78 @@
+#### 1 ####
+Since that disaster happened
+to the 'Ethos', they've been
+running around like fools...{enter}
+Now, just getting parts is a
+tough enough task.
+
+#### 2 ####
+If requests for repairs
+keep coming at this pace,
+we won't be able to keep up.{enter}
+We should ask the 'Ethos'
+headquarters to expand this
+workshop.
+
+#### 3 ####
+I'm selling the parts
+in the warehouse now,
+but if this keeps up,
+they're gonna run out.
+
+#### 4 ####
+We're out of Gear parts
+in the warehouse.
+I'm gonna have to order
+more from the 'Ethos'
+headquarters.
+
+#### 5 ####
+I have finished restocking
+the parts, now maybe I can
+get some rest at last.
+
+#### 6 ####
+I'm gonna have to
+cooperate with the
+surviving mechanics.
+
+#### 7 ####
+I'll have to ask the
+'Ethos' headquarters
+to send a mechanic that
+can repair army Gears.
+
+#### 8 ####
+The competition is 
+all gone.{wait:0F} Sigh.
+
+#### 9 ####
+The rest of the country 
+has an unusual interest 
+in this area's ruins.{enter}
+Large units have come to 
+excavate all the ruins.
+
+#### 10 ####
+Hey, I haven't seen you
+'round here before.{enter}
+Don't think that if you
+cause trouble you'll get
+away with it!{enter}
+We're Aveh Army Guards!
+...Remember that!
+
+#### 11 ####
+   -This month's goal-   
+ 
+    Search for parts!
+
+#### 12 ####
+   -This month's goal-
+ 
+   Don't let the parts
+ in the warehouse run out.
+ 
+   Give repair priority
+  to military personnel.
+

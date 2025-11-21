@@ -1,0 +1,197 @@
+#### 1 ####
+Rico
+"{wait:05}...{wait:05}?{wait:1E}
+{wait:05}...{wait:05}Must be my
+imagination."
+
+#### 2 ####
+Rico
+"Who woulda thought I'd
+be Battling using only my
+body{wait:05}...{wait:05}...{clear:96}
+
+#### 3 ####
+Rico
+"That's not my
+imagination{wait:05}...{wait:0F}{enter}
+What's{wait:05}...{wait:05}this
+vibration?"
+
+#### 4 ####
+Rico
+"A Gear doesn't vibrate
+like this{wait:05}...{wait:0F}It can't{wait:05}...{wait:05}
+be."
+
+#### 5 ####
+Rico
+"That's a{wait:05}...{wait:0F}
+Rankar!?"{clear:78}
+
+#### 6 ####
+Rico
+"Crap! You gotta be
+kiddin' me!! I'm supposed
+to fight that without a{enter}
+Gear!?"{clear:78}
+
+#### 7 ####
+Rico
+"Huh?{wait:0F}
+{wait:05}...{wait:05}That sound...a Gear
+in flight!?"{clear:5A}
+
+#### 8 ####
+Rico
+"A black Gear{wait:0A}...{wait:05}
+Him{wait:05}...!?"{clear:5A}
+
+#### 9 ####
+Fei
+"Yaaaaahhhrrr!!"{clear:5A}
+
+#### 10 ####
+Rico
+"You! What're you doin'
+here?"
+
+#### 11 ####
+Fei
+"To get this back.{wait:0F} I
+didn't come to save
+you{wait:05}...{wait:05}The elevator I{enter}
+used to escape happened
+to lead me out here. I
+didn't plan on saving
+you{wait:05}...{wait:05}but I did."
+
+#### 12 ####
+Rico
+"For a coincidence,
+that's a convenient
+story{wait:05}...{wait:05}"
+
+#### 13 ####
+Fei
+"It's up to you what you
+think of it{wait:05}...{wait:0F}{enter}
+So, what're you gonna
+do now?"
+
+#### 14 ####
+Rico
+"...Do what?"
+
+#### 15 ####
+Fei
+"I just barged into
+the arena.{wait:0F} We're also
+fugitives from the{enter}
+empire{wait:05}...{wait:05}That's why I
+must escape. If you stick
+around, they'll probably
+make you battle that{enter}
+monster again. This time
+you're gonna die{wait:05}...{wait:05}"
+
+#### 16 ####
+Fei
+"Is that what you want to
+do?"
+
+#### 17 ####
+Rico
+"{wait:05}...{wait:05}"
+
+#### 18 ####
+Fei
+"Even you should have
+things that were left
+undone! But in your{enter}
+present situation{wait:05}...{wait:05}"
+
+#### 19 ####
+Rico
+"Silence!{wait:0A} Shut up!
+Twice! Twice you have{wait:05}...{wait:05}"
+
+#### 20 ####
+Rico
+"{wait:05}...{wait:05}If you want to escape
+from the empire, you two
+should go. I have no
+intentions of leaving.{wait:0F}{enter}
+Even if it is going to
+end here for me!!"
+
+#### 21 ####
+Citan
+"{wait:05}...{wait:05}Hmn!?
+Wait a minute.{enter}
+Something{wait:05}...{wait:0F}is not
+right."{clear:5A}
+
+#### 22 ####
+Fei
+"Is that{wait:05}...{wait:05}a rumbling?{wait:0F}
+What is this vibration?"{clear:5A}
+
+#### 23 ####
+Rico
+"This vibration{wait:05}...{wait:0F}
+isn't from the ground."{clear:5A}
+
+#### 24 ####
+Citan
+"Atmospheric vibrations{wait:05}...{wait:05}{enter}
+There is something coming
+over the skies of the
+empire!"{clear:5A}
+
+#### 25 ####
+Fei
+"Doc,{wait:0F} these noises{wait:05}...{wait:0F}
+They don't sound good."{clear:5A}
+
+#### 26 ####
+Fei
+"Wh{wait:05}...{wait:05}what's going on?"
+
+#### 27 ####
+Citan
+"That earlier shaking and
+that echo{wait:05}...{wait:0F}{enter}
+I am positive that the
+empire is being attacked
+by someone."
+
+#### 28 ####
+Rico
+"Ridiculous!!{enter}
+How did they negotiate
+the Imperial air defense
+net?"
+
+#### 29 ####
+Citan
+"I do not know.{wait:0F}{enter}
+The only thing that comes
+to mind is that they
+probably used some
+special technology to{enter}
+avoid being seen."
+
+#### 30 ####
+Fei
+"{wait:05}...{wait:05}Whatever it is, we
+can't just let it be.
+Doc,{wait:05} I'm gonna go."
+
+#### 31 ####
+Citan
+"I understand.{enter}
+Under the present
+situation I think I can
+get out by myself.{wait:0F}
+Please go,{wait:05} Fei."
+

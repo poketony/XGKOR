@@ -1,0 +1,176 @@
+#### 1 ####
+Get out. I don't serve
+liquor to strangers!
+
+#### 2 ####
+Want something to eat?
+Then go wait at those
+tables up there.
+
+#### 3 ####
+You're strangers, huh?
+    Yeah
+    No
+
+#### 4 ####
+You aren't from Kislev.
+    No we're not!
+    Why, yes we are!{0D:FF}{clear:01}
+
+#### 5 ####
+Yeah, I suppose...
+You look the same as us.{enter}
+There's a rumor going
+around that spies are
+here for the festival...
+
+#### 6 ####
+What? Then you're
+really Kislev spies...?
+
+#### 7 ####
+...{wait:3C}
+There have been rumors 
+of spies recently...{enter}
+We were told to report
+it if we see any.
+
+#### 8 ####
+Hey!{wait:3C}
+Who d'ya think made it
+so ya can enjoy this
+festival in peace?{enter}
+Soldiers! It's 'cause
+we're out there risking
+our lives. Did ya know
+that?
+
+#### 9 ####
+That fool...{wait:1E}
+Kicking the bucket
+before ever seeing
+the Tournament...
+
+#### 10 ####
+What! {wait:1E}
+Kislev spy?{wait:1E}
+I'm gonna {wait:1E}kill you!
+
+#### 11 ####
+I'm not losing to you!{wait:1E}
+Come on, Kislev spy!
+
+#### 12 ####
+We're fighting to the end.
+This isn't for peace or
+justice or for the government,
+it's for my fallen comrades.
+
+#### 13 ####
+I'm sorry, all his 
+friends were killed in
+the battle at the ruins.{enter}
+He's a little wild.
+Forgive him.
+
+#### 14 ####
+Hey, c'mon you're drunk.
+Are you okay? {wait:3C}
+Let's go home.
+
+#### 15 ####
+!!{clear:1E}
+
+#### 16 ####
+Fish are pretty. I
+could watch them all day.
+    You said it!
+    I'd like to eat!
+
+#### 17 ####
+I thought I'd go to the
+sea after the war.{wait:3C} 
+I don't mean the sea of
+sand either.{enter}
+Just water, spreading on
+forever like a desert...
+A sea of water full of
+pretty fish.
+
+#### 18 ####
+Your order?
+    Something delicious
+    Something cheap
+    Something fast
+
+#### 19 ####
+Just a moment
+
+#### 20 ####
+Enjoy. {clear:32}
+
+#### 21 ####
+Thanks.
+
+#### 22 ####
+That'll be {number(s):00}G.
+
+#### 23 ####
+Thank you, 
+please come again.
+
+#### 24 ####
+Hey, you don't have 
+enough money, do you?
+
+#### 25 ####
+HP/MP fully restored! {enter}
+Gained a bit of weight!
+
+#### 26 ####
+HP/MP restored a bit! {enter}
+Gained a lot of weight!
+
+#### 27 ####
+HP/MP partially restored! {enter}
+Gained a bit of weight!
+
+#### 28 ####
+That was good.
+
+#### 29 ####
+Oh, sorry.
+Table for how many?
+This way please.
+
+#### 30 ####
+Oh god!
+Dine and dash, again!
+
+#### 31 ####
+Even my good-for-
+nothin' kid gives me
+less to worry about than
+this wacky world...
+
+#### 32 ####
+All the young men in
+town have been drafted.
+They wouldn't take me
+because I'm an alcoholic. 
+
+#### 33 ####
+Follow me!
+
+#### 34 ####
+You have too many
+{str}.
+
+#### 35 ####
+ 
+ Received {str}.
+
+#### 36 ####
+    Do nothing
+    Return to waterway
+

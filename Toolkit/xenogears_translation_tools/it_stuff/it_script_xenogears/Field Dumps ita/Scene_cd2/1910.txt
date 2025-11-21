@@ -1,0 +1,16 @@
+<TextBlock 1 w:50 h:4>
+Dopo aver respinto le forze
+aeree d'intercettazione di
+Solaris, ci dirigemmo dentro
+il continente volante, Mahanon.<Close><End of Block>
+<TextBlock 2 w:48 h:4>
+Esso era lo scafo centrale
+di una colossale astronave
+del diametro non inferiore
+ai 47 chilometri e lunga
+almeno 100.<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+A giudicare dalla condizione
+dello scafo, ritenemmo che
+la nave fosse antica di
+migliaia di anni.<Close><Close><End of Block>

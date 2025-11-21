@@ -1,0 +1,167 @@
+<TextBlock 1 w:46 h:4>
+Fei
+"Doc mi ha detto tutto.
+Id…<New>
+… Chi avrebbe mai pensato
+che dentro di me si trova
+un altro 'me'…"<Close><End of Block>
+<TextBlock 2 w:50 h:3>
+Fei
+"Dicono che io sia il
+secondo avvento di Grahf.<New>
+Colui che ha distrutto
+tutto questo mondo…<New>
+Pare che Grahf una volta
+fosse un abitante della
+superficie, chiamato
+Lacan…"<Close><End of Block>
+<TextBlock 3 w:48 h:4>
+Fei
+"Grahf mi ha chiamato
+colui che distruggerà
+dio.<New>
+In un certo senso, ora
+posso capire cosa volesse
+dire.<New>
+Anche se il mio potere…
+o meglio… il potere di Id,
+non è ancora abbastanza
+forte…<New>
+… se questo potere ha
+la stessa natura di quello
+di Grahf… io…"<Close><End of Block>
+<TextBlock 4 w:36 h:3>
+Fei
+"Se tu lo facessi,
+saresti…"<Close><End of Block>
+<TextBlock 5 w:46 h:4>
+Fei
+"Ti ringrazio, Elly,
+ma niente da fare.<New>
+Anche se abbandonassi il
+campo di battaglia, non
+siamo certi che Id non
+apparirà mai più.<New>
+Inoltre… Io ho cercato
+di ucciderti… E tu
+vuoi fare lo stesso
+quello che mi dici…?"<Close><End of Block>
+<TextBlock 6 w:18 h:2>
+Fei
+"Elly…"<Close><End of Block>
+<TextBlock 7 w:48 h:3>
+Elly
+"Ma tu sei lo stesso Fei
+che ho sempre conosciuto.<New>
+Sei ritornato ad essere
+te stesso. Ti prego, non
+fartene un'ossessione!"<Close><End of Block>
+<TextBlock 8 w:48 h:4>
+Elly
+"Non sanno quello che
+stanno dicendo!<New>
+Sono solo confusi dai
+tuoi poteri!"<Close><End of Block>
+<TextBlock 9 w:40 h:4>
+Elly
+"Scappiamo.<New>
+Se Id appare per colpa
+della guerra o di Grahf,
+andiamo in un posto dove
+non c'è la guerra."<Close><End of Block>
+<TextBlock 10 w:46 h:4>
+Elly
+"Va tutto bene…<Delay 20>
+Anch'io non ho un posto
+a cui tornare…"<Close><End of Block>
+<TextBlock 11 w:50 h:4>
+Elly
+"Ma mi avresti potuta
+uccidere, se tu l'avessi
+davvero voluto, no?<New>
+Il potere dell'altro te,
+di Id, non è nulla di
+simile. Ma ugualmente non
+sei andato fino in fondo<Delay 20>…<New>
+Sapevi quando doverti
+fermare. E non è forse
+successo perché la tua
+volontà era presente?"<Close><End of Block>
+<TextBlock 12 w:54 h:4>
+Elly
+"Anche se tu dovessi
+essere controllato
+da Id…<New>
+… e tutti quelli che ti
+circondano diventassero
+tuoi nemici…<New>
+… io resterei comunque
+al tuo fianco… Perché…<Delay 30>
+Perché…<Delay 20> So quanto è
+triste essere soli."<Close><End of Block>
+<TextBlock 13 w:36 h:3>
+Elly
+"Adesso apro la cella.<Delay 20>
+Andiamo, Fei."<Close><End of Block>
+<TextBlock 14 w:56 h:5>
+Qui è dove teniamo i criminali
+nelle loro celle.<Delay 20> Si diceva che
+qui, molto tempo fa, venissero
+rinchiusi i soldati di Solaris.<New>
+Ho sentito dire che anche noi,
+a quel tempo, abbiamo compiuto
+molte atrocità.<Delay 20> La guerra
+funziona così. Sopprime sia il
+bene che il male.<New>
+Si tradiscono gli amici, i
+vicini, anche la propria natura
+umana…<Delay 20> La guerra trasforma
+anche le persone buone e gentili
+in dei mostri pazzi.<Close><End of Block>
+<TextBlock 15 w:50 h:6>
+Questa è una Prigione di
+Carbonite che pietrifica
+gli umani quando sono ancora
+vivi.<Delay 20> Anche se fosse stata
+usata solo sui criminali,
+rimane comunque una cosa
+scellerata.<New>
+Non importa come la
+si vuole mettere,
+sicuramente s'inventavano
+cose crudelissime.<Close><End of Block>
+<TextBlock 16 w:46 h:4>
+A proposito, voi abitanti
+della superficie sapete
+qualcosa sulla tragedia
+di Nisan, accaduta
+durante la grande guerra?<New>
+Ne avete sentito parlare
+dai pezzi grossi?
+    Sì
+    No<Close><End of Block>
+<TextBlock 17 w:50 h:4>
+Sono sorpresa che ve ne
+abbiano parlato. Allora
+sapete che cos'è, no?<New>
+Non credete a tutto ciò
+che dicono quei vecchi.<Delay 20>
+Non ne otterreste nulla
+di buono.<Close><End of Block>
+<TextBlock 18 w:48 h:4>
+Dubito ve l'abbiano detto.
+Quei vecchi evitano, in
+maniera molto garbata,
+di parlarne.<New>
+Pensano che basti fuggire
+il passato per far
+scomparire la verità?<Delay 20> Che
+mucchio di idioti!<Close><End of Block>
+<TextBlock 19 w:54 h:4>
+State attenti, abitanti
+della superficie. Vi
+accadranno cose terribili,
+se aprirete il vostro cuore
+a quei vecchi.<New>
+Proprio come accadde a
+Nisan, 500 anni fa…<Close><Close><End of Block>

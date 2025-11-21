@@ -1,0 +1,3 @@
+<TextBlock 1 w:36 h:2>
+Vanderkam
+"Io <Delay 20>vi <Delay 25>ucciderò<Delay 20>!"<Close><Close><End of Block>

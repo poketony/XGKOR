@@ -1,0 +1,135 @@
+#### 1 ####
+Hey, you're going
+to the 'Hideout for 
+skinful termites'?
+
+#### 2 ####
+Zephyr will eat 
+you up...!
+
+#### 3 ####
+Hey, read me this book...
+    Alright!
+    Maybe next time!
+
+#### 4 ####
+Ye¡«y!!
+
+#### 5 ####
+{name:80:unknown}
+"Long, long ago there was
+a woman named Zephyr. {enter}
+She wanted to be a god
+so she built a tower that
+reached up to heaven.{enter}
+Then she built a city at
+the top. But god got mad
+and destroyed her tower.{enter}
+So she then had to live
+in a 'hideout for sinful
+hermits'.{enter}
+After that she never 
+returned to the earth
+again... The end."
+
+#### 6 ####
+Is there really a
+'Hideout for
+skinful termites'?
+It sounds scary!
+
+#### 7 ####
+You made a promise now!
+If you don't read it to me
+next time then that's a lie!
+And if you lie, you have to
+stick a needle in your eye!
+
+#### 8 ####
+Shhh!
+
+#### 9 ####
+Billy's come out from 
+behind the book shelves!{clear:1E}
+
+#### 10 ####
+Really?{wait:0A} 
+He sure does some
+weird things...{clear:1E}
+
+#### 11 ####
+!{clear:1E}
+
+#### 12 ####
+Don't eavesdrop!!
+
+#### 13 ####
+Boys are such monsters.{clear:1E}
+
+#### 14 ####
+Yes.{wait:0A}
+They're so stuck up.{clear:1E}
+
+#### 15 ####
+!{clear:1E}
+
+#### 16 ####
+Don't eavesdrop!!
+
+#### 17 ####
+Will Uncle Stone ever
+come back...?
+
+#### 18 ####
+The start of my
+youth...
+
+#### 19 ####
+Don't listen!!
+
+#### 20 ####
+Isn't Bobby cool?
+
+#### 21 ####
+Yeah, and that cool
+jump! You know he runs
+everyday...
+
+#### 22 ####
+Don't listen!!
+
+#### 23 ####
+This bed's so fluffy!! 
+Ya wanna fluff it?
+    I wanna fluff
+    No thanks
+
+#### 24 ####
+Go ahead
+
+#### 25 ####
+It's so fluffy!!
+
+#### 26 ####
+Wait a minute.
+
+#### 27 ####
+There wasn't any paper so
+I used this book. {wait:0A}
+Did you wanna use it?
+
+#### 28 ####
+Received an 'Old Comic Book'.
+
+#### 29 ####
+I said, 'Toilet taken!'!
+
+#### 30 ####
+Toilet taken!
+
+#### 31 ####
+Take your time.
+
+#### 32 ####
+
+

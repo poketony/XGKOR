@@ -1,0 +1,90 @@
+<TextBlock 1 w:34 h:2>
+Helmholtz
+"Preparazione
+completata!!"<Close><End of Block>
+<TextBlock 2 w:30 h:2>
+Strakki
+"OK, da questa parte!"<Close><End of Block>
+<TextBlock 3 w:30 h:4>
+Broyer
+"Confermato!<Delay 10>
+È la loro
+base, perfetto."<Close><End of Block>
+<TextBlock 4 w:42 h:3>
+Helmholtz
+"È stato facile
+sfondare quel masso.<New>
+Pensavo che sarebbe stato
+un po' più difficile…"<Close><End of Block>
+<TextBlock 5 w:46 h:4>
+Strakki
+"Questi -Agnelli-, abitanti
+della superficie, vivono
+proprio in un bel posto…"<Close><End of Block>
+<TextBlock 6 w:50 h:3>
+Renk
+"Guarda lì…!<New>
+Hanno costruito questo
+posto in modo molto
+migliore degli impianti
+a Bledavik.<New>
+Probabilmente è una
+fortezza costruita
+quando il loro vecchio
+re ancora era vivo…"<Close><End of Block>
+<TextBlock 7 w:40 h:4>
+Franz
+"Chi se ne frega…<Delay 10>
+Finiamo il lavoro
+e basta!"<Close><End of Block>
+<TextBlock 8 w:42 h:3>
+Strakki
+"Allora…<Delay 10>
+Dove sono i Gear?"<Close><End of Block>
+<TextBlock 9 w:24 h:2>
+Strakki
+"Di qua?"<Close><End of Block>
+<TextBlock 10 w:36 h:3>
+Helmholtz
+"A destra!<Delay 10>
+C'è un hangar!"<Close><End of Block>
+<TextBlock 11 w:16 h:2>
+Strakki
+"!!"<Close><End of Block>
+<TextBlock 12 w:28 h:2>
+Franz
+"Trovati!!"<Close><End of Block>
+<TextBlock 13 w:44 h:4>
+Helmholtz
+"Questi sono 'Deurmod'.
+Sono dei normali
+Gear pirati."<Close><End of Block>
+<TextBlock 14 w:40 h:4>
+Franz
+"Ah!<Delay 10>
+Ignorali! Possiamo
+farli fuori subito."<Close><End of Block>
+<TextBlock 15 w:52 h:4>
+Strakki
+"Perché non annientarne
+qualcuno?<Delay 10><New>
+Anche se distruggiamo
+solo quelli, penetrare
+qui dentro sarà servito
+a qualcosa."<Close><End of Block>
+<TextBlock 16 w:38 h:4>
+Renk
+"Va bene!<Delay 10>
+Spirale è ora
+posizionato dietro!<New>
+Tenetevi pronti a
+distruggere qualsiasi
+cosa che c'intralci!"<Close><End of Block>
+<TextBlock 17 w:36 h:2>
+Broyer
+"Quando vuoi!"<Close><End of Block>
+<TextBlock 18 w:12 h:2>
+Renk
+"VIA!!"<Opcode 2 40><Close><End of Block>
+<TextBlock 19 w:0 h:1>
+<Close><End of Block>

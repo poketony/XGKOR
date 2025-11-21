@@ -1,0 +1,73 @@
+<TextBlock 1 w:50 h:4>
+15 anni fa, nell'Impero
+ci fu una rivolta. Molte
+furono le vittime<Delay 5>…<Delay 5><Close><End of Block>
+<TextBlock 2 w:46 h:3>
+Ricardo fu una di
+quelle vittime<Delay 5>…<Delay 5><New>
+Aveva molti amici e
+molti di loro morirono
+in quella rivolta.<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+È stato detto che la
+rivolta fu causata
+dagli attriti fra la
+Chiesa ed il Kaiser.<Close><End of Block>
+<TextBlock 4 w:52 h:3>
+Durante la rivolta
+nell'Impero, case e
+famiglie furono
+distrutte<Delay 5>…<Delay 5><New>
+Tutto ciò ancora rimane
+come una cicatrice nei
+ricordi di molti uomini.<Close><End of Block>
+<TextBlock 5 w:50 h:4>
+La guerra non porta
+altro che morte e
+distruzione.<New>
+Non c'è nulla da 
+guadagnare in un
+mondo forgiato con
+la distruzione<Delay 5>…<New>
+Noi, il popolo, veniamo
+da una lunga storia di
+guerre e di conflitti<Delay 5>…<New>
+Il nostro unico desiderio
+è vivere in un mondo in
+cui regni la pace e
+l'armonia fra tutti…<New>
+È davvero irrealizzabile?<Close><End of Block>
+<TextBlock 6 w:42 h:2>
+<Delay 5>…<Delay 5> Sob…<Delay 10> Io<Delay 5> vorrei
+poter uscire fuori<Delay 5>…<Close><End of Block>
+<TextBlock 7 w:46 h:4>
+Mmh,<Delay 5> hai visto mio
+fratello là fuori?<Delay 15> Mi<Delay 5>…<Delay 5>
+lasciano sempre indietro.<New>
+Non vogliono giocare
+con me. Dicono che è
+troppo pericoloso per
+me uscire là fuori<Delay 5>…<Delay 5><Close><End of Block>
+<TextBlock 8 w:44 h:3>
+Questo posto<Delay 5>…?<Delay 5>
+È un istituto di Nisan.
+Chi sei tu?<Close><End of Block>
+<TextBlock 9 w:48 h:5>
+Non<Delay 5>…<Delay 5> sono solo…<Delay 5>
+Anche senza la mamma e
+il papà…<Delay 15> qui ho
+molti amici.<Delay 15> Perfino le
+suore…<Delay 5> Sob…<Delay 5><Close><End of Block>
+<TextBlock 10 w:48 h:3>
+Il fuoco<Delay 10> ha avvolto
+tutti.<Delay 15> Papà,<Delay 5> mamma,<Delay 5> la
+mia casa<Delay 5>… ogni cosa.<Delay 30><New>
+Non so come<Delay 5>… io
+sia…<Delay 5> ancora viva.<Close><End of Block>
+<TextBlock 11 w:50 h:3>
+Odio il<Delay 5>…<Delay 5> fuoco,<Delay 5> odio
+chiunque<Delay 5>…<Delay 5> Papà e mamma
+sono stati<Delay 5>…<Delay 5> mangiati dal
+fuoco!<New>
+Acqua<Delay 5>…<Delay 5> se solo ci fosse
+stata molta acqua<Delay 5>…<Close><Close><End of Block>

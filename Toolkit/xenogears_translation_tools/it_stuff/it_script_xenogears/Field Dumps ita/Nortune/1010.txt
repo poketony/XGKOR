@@ -1,0 +1,221 @@
+<TextBlock 1 w:56 h:4>
+Un reattore che non può
+essere controllato da
+noi uomini è come una
+lama a doppia taglio.<New>
+Anche noi stessi ne
+subiremo le conseguenze.<Close><End of Block>
+<TextBlock 2 w:60 h:5>
+Nella parte settentrionale
+della capitale, cioè il
+blocco industriale, si
+trovano i resti di una
+antica civilità… parlo
+di un enorme 'reattore'.<New>
+Quel reattore produce più
+potere di quanto possiamo
+controllarne. È un qualcosa
+che non potremo mai
+adoperare perfettamente…<Close><End of Block>
+<TextBlock 3 w:64 h:4>
+È diventato palese che il
+principale obiettivo dello
+attacco sull'Impero era quello
+di bombardare il reattore nel
+blocco industriale.<New>
+Se<Delay 5> avessero colpito
+direttamente il reattore<Delay 5>…<Delay 5>
+l'intera capitale sarebbe
+diventata polvere.<New>
+La terra<Delay 5> sarebbe diventata
+un inferno, dove nessuna
+creatura vivente sarebbe
+potuta esistere.<Close><End of Block>
+<TextBlock 4 w:44 h:4>
+Pare che ci sia stata una
+soffiata secondo la quale
+Aveh starebbe facendo
+qualcosa di sospetto.<New>
+L'equilibrio che avevamo
+ottenuto con loro si
+spezzerà presto<Delay 5>…<Close><End of Block>
+<TextBlock 5 w:50 h:5>
+Durante l'assalto sullo
+Impero, si diceva che il
+nuovo Gear imperiale fosse
+stato rubato dall'area
+adibita ad hangar dei
+Gear, quella nel Blocco D<Delay 5>…<New>
+Per caso ho sentito che
+si trattava dello stesso
+Gear che era stato rubato
+da quel commando.<New>
+Almeno così dicono i
+miei superiori.<Close><End of Block>
+<TextBlock 6 w:52 h:4>
+Fino a poco fa ero
+abbastanza attivo nel
+torneo di Battagliare.<New>
+Poi quei tipi lì, quelli
+del comitato, mi hanno
+scartato. Eh, è bello
+essere un soldato.<Close><End of Block>
+<TextBlock 7 w:44 h:5>
+Il mio Gear era stato
+adattato soprattutto
+per il combattimento
+terrestre, e l'hanno
+usato per assegnarmi
+all'unità di soccorso.<New>
+Anche se non sapevo
+combattere nel mio
+Gear, sapere che il
+mio lavoro è salvare
+gente è alquanto bello.<Close><End of Block>
+<TextBlock 8 w:56 h:5>
+Come lezione di oggi,
+discuteremo sul movimento
+dei Gear sulla mappa del
+mondo.<New>
+Capisco che molti di voi
+siano ex-Combattenti, e
+dunque buoni conoscitori di
+Gear, ma sicuramente non vi
+farà male riapprendere le
+basi.<New>
+Per prima cosa, parliamo
+delle limitazioni del
+movimento dei Gear…<Delay 5>
+È impossibile camminare
+in una foresta fitta quando
+si è dentro un Gear!<New>
+Invece di essere frettolosi,
+basta premere i pulsanti L2
+ed R2 simultaneamente e tutti
+scenderanno dai propri Gear.<New>
+Una volta passati dalla
+foresta, potrete tornare di
+nuovo nei vostri Gear! E
+questo è tutto per questa
+lezione…<Delay 5> Domande?<Close><End of Block>
+<TextBlock 9 w:44 h:4>
+<Delay 5>…<Delay 5> Se non ci sono
+domande, la classe è
+sciolta.<Delay 15> Ah, già,
+dimenticavo una cosa…<New>
+È una cosa logica,<Delay 5> ma
+è impossibile muoversi
+sull'acqua.<Close><End of Block>
+<TextBlock 10 w:48 h:3>
+Uh,<Delay 5> oggi c'è stata
+un'altra bellissima
+lezione. Mi meraviglio
+di me stesso!<New>
+<Delay 5>…<Delay 5> Aspetto proprio con
+grande impazienza la
+lezione di domani.<Close><End of Block>
+<TextBlock 11 w:54 h:4>
+Mmh,<Delay 5> ho notato che
+ascoltavate tutti con grande
+attenzione la mia lezione.<New>
+Ora, non dimenticatelo,<Delay 5>
+si scende e si sale dai
+vostri Gear premendo assieme
+i pulsanti L2 ed R2 !!<Close><End of Block>
+<TextBlock 12 w:60 h:5>
+Soldato Combattente
+"La lezione sta per iniziare.
+Anche se è corta, è davvero
+pallosa. Per favore, non
+parlarmi proprio ora."<Close><End of Block>
+<TextBlock 13 w:50 h:5>
+Soldato Combattente
+"La lezione dell'ufficiale
+è sempre la stessa<Delay 5>…<Delay 15>
+È dura per noi che dobbiamo
+ascoltarlo.<New>
+E non è solo quello,<Delay 5>
+continua ad aggiungere alle
+regole nuove normative ed
+il controllo delle attività.<New>
+Vorrei poter tornare indietro
+nel tempo, ai giorni in cui
+ero un Combattente."<Close><End of Block>
+<TextBlock 14 w:46 h:4>
+Soldatessa Amazzone
+"Sta' zitto,<Delay 5> sto cercando
+di ascoltare, quindi
+smettila di parlarmi."<Close><End of Block>
+<TextBlock 15 w:50 h:5>
+Soldatessa Amazzone
+"Argh,<Delay 5> e che cazzo!<Delay 15>
+Lui crede che questa sia
+una lezione,<Delay 5> ma tutto ciò
+che fa è dire ogni giorno
+la stessa cosa.<New>
+Paragonato a questo, io
+combattevo molto di più
+durante i miei giorni da
+Amazzone.<New>
+Ecco, quella era una vita!
+Forse dovrei lasciare
+l'esercito…"<Close><End of Block>
+<TextBlock 16 w:58 h:4>
+Cuoco dell'Esercito
+"Il patriottismo è un
+ingrediente necessario per
+far arruolare molti giovani
+soldati.<New>
+Ma, a causa di questa cosa,
+ne prendiamo alcuni che
+esagerano. Per il momento
+in cui succede, di norma è
+troppo tardi<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 17 w:48 h:5>
+Cuoco dell'Esercito
+"Io sono il cuoco delle
+caserme Imperiali.
+Posso passare dei guai
+se vi vedono qui.<New>
+Se non avete nulla da
+fare qui, vi prego di
+andarvene. Inoltre,
+voi non siete neanche
+soldati.<New>
+Pensavo di avergli
+detto precisamente di
+non fare entrare qui
+dei civili.<New>
+Diamine… che cosa
+devo fare?"<Close><End of Block>
+<TextBlock 18 w:48 h:4>
+Argh!<Delay 5> Ho fallito<Delay 5> di nuovo.<Delay 15>
+Mmmh,<Delay 5> c'è qualcosa che
+non va con la salsa
+speciale.<New>
+La cucina eterea è
+davvero complessa.<Close><End of Block>
+<TextBlock 19 w:54 h:5>
+Il fallimento è un passo
+importante per la mia
+strada verso il successo!<Delay 15>
+Il mio sogno è diventare
+proprio come il primo
+cuoco Etereo nel Blocco D.<Close><End of Block>
+<TextBlock 20 w:46 h:4>
+<Delay 5>…<Delay 5> Mi sono arruolato
+volotariamente così da
+poter proteggere il mio
+paese<Delay 5>…<Delay 5> Ma questo<Delay 5>…<Delay 5>
+Non mi sono arruolato
+per questo!<Close><End of Block>
+<TextBlock 21 w:54 h:4>
+Sono una nuova recluta per
+l'esercito di Kislev. Mi
+sono appena diplomato come
+élite dalla scuola Imperiale
+per ufficiali!<New>
+E allora perché mi hanno
+messo a lavorare nel
+Blocco A, sotto il comando
+del capocuoco?<Close><Close><End of Block>

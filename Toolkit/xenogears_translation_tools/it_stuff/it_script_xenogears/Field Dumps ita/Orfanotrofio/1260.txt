@@ -1,0 +1,467 @@
+<TextBlock 1 w:24 h:2>
+Shitan
+"Oh, salve!"<Close><End of Block>
+<TextBlock 2 w:36 h:3>
+Billy
+"Oh, come va?<Delay 10>
+E come sta Fei?"<Close><End of Block>
+<TextBlock 3 w:50 h:3>
+Elly
+"Molto bene.<Delay 10><New>
+Non ha ancora ripreso
+conoscenza, ma dovrebbe
+rinvenire molto presto."<Close><End of Block>
+<TextBlock 4 w:42 h:3>
+Billy
+"Davvero?<Delay 10>
+È bello sentirlo."<Close><End of Block>
+<TextBlock 5 w:56 h:4>
+Elly
+"Uhm, Billy<Delay 10>…<New>
+Non so proprio come
+ringraziarti per
+aver aiutato Fei."<Close><End of Block>
+<TextBlock 6 w:40 h:4>
+Billy
+"Figurati.<New>
+La nostra fede ed il
+nostro dio potranno
+pure essere diversi…<New>
+… ma nessuno di noi
+può ignorare la gente
+bisognosa."<Close><End of Block>
+<TextBlock 7 w:44 h:4>
+Elly
+"Ti ringrazio
+infinitamente…<Delay 10>!<New>
+A proposito, questo
+è il tuo orfanotrofio…?"<Close><End of Block>
+<TextBlock 8 w:42 h:3>
+Billy
+"Sei sorpresa che
+qui si trovino
+solo bambini?"<Close><End of Block>
+<TextBlock 9 w:50 h:4>
+Billy
+"Mia sorella ed io siamo
+stati sin dall'infanzia
+privi dei nostri genitori…<New>
+Dunque ho aperto un
+orfanotrofio…<New>
+… perché i bambini
+senza nessuno non
+dovessero patire
+ciò che patimmo noi."<Close><End of Block>
+<TextBlock 10 w:50 h:4>
+Billy
+"Sono tutti in buona
+salute ed obbedienti agli
+insegnamenti della Chiesa.<New>
+Tutti dei bravi ragazzi,
+che addirittura mi
+aiutano nel mio lavoro."<Close><End of Block>
+<TextBlock 11 w:14 h:1>
+A dopo!!<Opcode 2 20><Close><End of Block>
+<TextBlock 12 w:46 h:2>
+Ehi,<Delay 10> non mi hai
+trovato!
+Non è divertente!<Close><End of Block>
+<TextBlock 13 w:40 h:3>
+Vuoi delle caramelle?
+    Ok, dammene un po'
+    Nah, lascia stare<Close><End of Block>
+<TextBlock 14 w:46 h:4>
+Sì~ì!<Delay 10>
+Svuotiamo presto questa
+bottiglia, così possiamo
+metterci dentro delle
+belle conchiglie!<Close><End of Block>
+<TextBlock 15 w:46 h:4>
+Uffa…<Delay 10> volevo sbrigargmi a
+svuotare questa bottiglia,
+così potremmo metterci
+delle belle conchiglie!<Close><End of Block>
+<TextBlock 16 w:42 h:2>
+A proposito… non dirlo
+al Fratello B!<Close><End of Block>
+<TextBlock 17 w:40 h:3>
+Ah, mi hai spaventato.<Delay 10> 
+Pensavo tu fossi il
+Fratello B…<New>
+È un segreto, ok?
+    OK
+    Non so<Close><End of Block>
+<TextBlock 18 w:48 h:4>
+Sì~ì! Grazie.<Delay 10> 
+Ti darò questo libro
+se non dici questo
+segreto, ok?<Close><End of Block>
+<TextBlock 19 w:30 h:2>
+Ricevi un fumetto
+divertente!<Close><End of Block>
+<TextBlock 20 w:34 h:2>
+Sei cattivo!
+Vattene!<Close><End of Block>
+<TextBlock 21 w:38 h:3>
+C'è una cordicella…
+    Tirala!!
+    Lasciala stare<Close><End of Block>
+<TextBlock 22 w:54 h:4>
+Sigurd
+"Bart…<Delay 10>!!<New>
+Il radar dell'Yggdrasil
+ha captato la sagoma
+di una nave enorme!!"<Close><End of Block>
+<TextBlock 23 w:54 h:4>
+Sigurd
+"Hyuga!<Delay 10><New>
+Il radar dell'Yggdrasil
+ha captato la sagoma
+di una nave enorme!!"<Close><End of Block>
+<TextBlock 24 w:28 h:3>
+Bart
+"Cosa?<Delay 10> 
+Ancora Geburah?"<Close><End of Block>
+<TextBlock 25 w:52 h:4>
+Sigurd
+"Non lo so, ma si sta
+dirigendo verso sud ad
+una velocità di 10 km/h.<Delay 10><New>
+Dirigiamoci al ponte."<Close><End of Block>
+<TextBlock 26 w:32 h:3>
+Bart
+"Capito!<Delay 10>
+Ci vediamo lì."<Close><End of Block>
+<TextBlock 27 w:30 h:2>
+Shitan
+"Ancora Geburah?"<Close><End of Block>
+<TextBlock 28 w:52 h:4>
+Sigurd
+"Non lo so, ma si sta
+dirigendo verso sud ad
+una velocità di 10 km/h.<Delay 10><New>
+Dirigiamoci al ponte."<Close><End of Block>
+<TextBlock 29 w:50 h:3>
+Shitan
+"Ho capito.<Delay 10>
+Sarò lì presto."<Close><End of Block>
+<TextBlock 30 w:44 h:3>
+Ehi, tu, vestito in
+bianco e nero.<Delay 10> 
+Tu sei Sigurd?<Close><End of Block>
+<TextBlock 31 w:52 h:4>
+Sigurd
+"È questo il modo con
+cui ci si rivolge ad
+altre persone?<New>
+Chi credi di essere?"<Close><End of Block>
+<TextBlock 32 w:50 h:3>
+Shitan
+"Ah…<Delay 10> Potrebbe non
+sembrarlo, ma lui è
+il nostro maggiore."<Close><End of Block>
+<TextBlock 33 w:50 h:3>
+Shitan
+"Ah…<Delay 10> Potrebbe non
+sembrarlo, ma lui è
+il nostro maggiore."<Close><End of Block>
+<TextBlock 34 w:16 h:3>
+Sigurd
+"Maggiore?<Delay 10>
+Jessie?"<Close><End of Block>
+<TextBlock 35 w:16 h:2>
+Billy
+"Siggy?"<Close><End of Block>
+<TextBlock 36 w:32 h:2>
+Bart
+"Ha detto Siggy?"<Close><End of Block>
+<TextBlock 37 w:46 h:4>
+Jessie
+"Un uomo dai capelli
+argentei e dalla
+pelle color ambra.<New>
+Direi che è una cosa
+rara. Cosa state
+facendo tutti qui?"<Close><End of Block>
+<TextBlock 38 w:54 h:2>
+Shitan
+"Diciamo che è
+stata una cosa
+voluta dal caso."<Close><End of Block>
+<TextBlock 39 w:54 h:2>
+Shitan
+"Diciamo che è
+stata una cosa
+voluta dal caso."<Close><End of Block>
+<TextBlock 40 w:42 h:2>
+Sigurd
+"Molte cose
+sono accadute…"<Close><End of Block>
+<TextBlock 41 w:48 h:3>
+Jessie
+"Bene, parliamone un po'
+mentre ci facciamo un
+bicchierino.<New>
+Allora<Delay 5>…<Delay 5>
+Perché siete tutti qui?"<Close><End of Block>
+<TextBlock 42 w:54 h:4>
+Billy
+"Siggy, quanto
+tempo è passato<Delay 20>…<New>
+Come mai hai quella
+benda all'occhio?"<Close><End of Block>
+<TextBlock 43 w:50 h:3>
+Sigurd
+"Billy…<Delay 20> sei
+cresciuto.<New>
+Quel sorriso ti fa
+assomigliare molto
+a Rachele."<Close><End of Block>
+<TextBlock 44 w:42 h:3>
+Bart
+"Ehi!<Delay 10>
+Ehi ehi ehi!<New>
+Ma voi chi
+cavolo siete…<Delay 10>?<New>
+Fate tutti gli amici
+intimi con il mio
+ufficiale, eh?<New>
+E cos'è questa
+storia di 'Siggy'?
+Non fare tutto il
+carino, ragazzo!"<Close><End of Block>
+<TextBlock 45 w:36 h:4>
+Billy
+"Ma che ti prende?
+Perché sei così
+arrogante con Siggy?<New>
+Ma chi credi
+di essere?"<Close><End of Block>
+<TextBlock 46 w:40 h:4>
+Jessie
+"Billy<Delay 10>…<New>
+Non gridare con
+gli uomini di
+Sigurd.<New>
+È maleducazione,
+ragazzo."<Close><End of Block>
+<TextBlock 47 w:50 h:4>
+Sigurd
+"Bart, costui era il mio
+maggiore quando ero…<New>
+… un candidato per gli
+Elementi, a Jugend.<New>
+Affittai una stanza
+in casa sua."<Close><End of Block>
+<TextBlock 48 w:46 h:3>
+Jessie
+"A quell'epoca Billy
+indossava ancora i
+pannolini…<New>
+… ed è tuttora un
+piccolo monellaccio
+piagnucolone."<Close><End of Block>
+<TextBlock 49 w:48 h:3>
+Billy
+"Anche tu, biondino,
+probabilmente indossi
+ancora i pannolini…<New>
+… non è vero?"<Close><End of Block>
+<TextBlock 50 w:42 h:3>
+Bart
+"Tu, brutto stronzo!<Delay 10>
+Che problemi hai?"<Close><End of Block>
+<TextBlock 51 w:46 h:4>
+Jessie
+"Bene<Delay 5>…<Delay 5> allora, senza
+perdere altro tempo…<New>
+… andiamo a berci
+qualcosina giù?"<Close><End of Block>
+<TextBlock 52 w:36 h:3>
+Sigurd
+"Dove hai intenzione
+di andare…?"<Close><End of Block>
+<TextBlock 53 w:48 h:4>
+Jessie
+"Cosa vuoi dire?<Delay 10>
+Deve esserci un bar o
+due sulla tua nave!"<Close><End of Block>
+<TextBlock 54 w:34 h:3>
+Sigurd
+"Ho un leggero
+mal di testa…"<Close><End of Block>
+<TextBlock 55 w:42 h:3>
+Jessie
+"Cosa?<Delay 10>
+Ah, tutto a posto.<New>
+Ti libererai di questo
+mal di testa con un
+bel bicchierino!"<Close><End of Block>
+<TextBlock 56 w:54 h:2>
+Shitan
+"Cosa vuoi fare?"<Close><End of Block>
+<TextBlock 57 w:54 h:2>
+Shitan
+"Cosa vuoi fare?"<Close><End of Block>
+<TextBlock 58 w:46 h:3>
+Sigurd
+"È solo che non riesco
+a dirgli di no…"<Close><End of Block>
+<TextBlock 59 w:42 h:3>
+Jessie
+"Ma che cazzo state
+facendo? Andiamo!"<Close><End of Block>
+<TextBlock 60 w:24 h:2>
+Sigurd
+"Ehi…"<Opcode 2 30><Close><End of Block>
+<TextBlock 61 w:28 h:1>
+Oh-no-oh-oh…<Opcode 2 30><Close><End of Block>
+<TextBlock 62 w:28 h:1>
+Oh-no-oh-oh…<Opcode 2 30><Close><End of Block>
+<TextBlock 63 w:48 h:4>
+Billy
+"Io non vengo…<Delay 10>
+Voi andate pure
+e divertitevi."<Close><End of Block>
+<TextBlock 64 w:46 h:3>
+Bart
+"Cos'è questa nave
+enorme di cui ci
+diceva Sig?"<Close><End of Block>
+<TextBlock 65 w:48 h:3>
+Elly
+"Cos'è questa nave
+enorme di cui ci
+diceva Sig?"<Close><End of Block>
+<TextBlock 66 w:46 h:3>
+Shitan
+"Mi dispiace, gente.<Delay 10>
+Se potete scusarmi…"<Close><End of Block>
+<TextBlock 67 w:52 h:3>
+Rico
+"Oh, beh, credo
+che verrò io. Ho
+tempo da perdere."<Close><End of Block>
+<TextBlock 68 w:36 h:2>
+Bart
+"Oh beh, anch'io."<Close><End of Block>
+<TextBlock 69 w:52 h:3>
+Rico
+"Oh, beh, io credo
+che andrò. Ho tempo
+da perdere."<Close><End of Block>
+<TextBlock 70 w:36 h:2>
+Bart
+"Oh beh, anch'io."<Close><End of Block>
+<TextBlock 71 w:30 h:4>
+Jessie
+"… HIC…!!<Delay 10>
+Sono tornato.<Delay 10>
+Dove sei, Billy?"<Close><End of Block>
+<TextBlock 72 w:44 h:4>
+Billy
+"Fai silenzio!<Delay 10>
+Ma ti rendi conto
+di che ora è?<New>
+Non fare rumore quando
+torni, o sveglierai
+i bambini!"<Close><End of Block>
+<TextBlock 73 w:40 h:4>
+Jessie
+"Se fossi venuto,
+avresti sentito un
+casino di belle storie.<New>
+Le storie di Sigurd
+erano divertentissime."<Close><End of Block>
+<TextBlock 74 w:50 h:3>
+Billy
+"Sai che Siggy non è un
+bevitore e lo fai bere…<Delay 10>?<New>
+Anche se sei il padre
+di un uomo di chiesa…"<Close><End of Block>
+<TextBlock 75 w:46 h:3>
+Jessie
+"Cazzo, perché non apri
+gli occhi? Devi smetterla
+di essere un prete…"<Close><End of Block>
+<TextBlock 76 w:46 h:4>
+Billy
+"Non voglio sentire
+queste cose da un uomo
+totalmente privo di fede.<Delay 10><New>
+Resta fuori dalla
+mia vita."<Close><End of Block>
+<TextBlock 77 w:48 h:3>
+Jessie
+"Restarne fuori?<New>
+Ma hai almeno una
+pallida idea della
+merda in cui si trova
+il tuo bel culetto?"<Close><End of Block>
+<TextBlock 78 w:40 h:3>
+Billy
+"Cosa?<Delay 10> E tu
+cosa ne sapresti?"<Close><End of Block>
+<TextBlock 79 w:18 h:3>
+Jessie
+"!?<Delay 10>
+Tu…!!"<Close><End of Block>
+<TextBlock 80 w:44 h:3>
+Billy
+"Pensa che ancora
+non credo che tu
+sia mio padre.<New>
+Tu non sei la persona
+che mia madre amava."<Close><End of Block>
+<TextBlock 81 w:44 h:3>
+Jessie
+"Cazzo vuoi dire…<Delay 20>
+Pensi che io sia
+un impostore?"<Close><End of Block>
+<TextBlock 82 w:30 h:2>
+Billy 
+"Vedi un po' tu."<Close><End of Block>
+<TextBlock 83 w:6 h:1>
+…<Close><End of Block>
+<TextBlock 84 w:56 h:4>
+Jessie
+"Hai ragione. Credo
+proprio che non ci sia
+modo di provartelo…<New>
+Bene, ancora non riesci
+a capire la verità<Delay 10>…<New>
+Cosa sono in realtà
+quei tizi… e non sai
+neanche dove te ne
+stai andando…"<Close><End of Block>
+<TextBlock 85 w:36 h:3>
+Billy
+"Padre, cosa
+stai dicendo…?"<Close><End of Block>
+<TextBlock 86 w:48 h:3>
+Jessie
+"Sto dicendo che
+Rachele è morta
+invano."<Close><End of Block>
+<TextBlock 87 w:40 h:4>
+Billy
+"…<Delay 10>!!<New>
+Non hai il diritto
+di pronunciare il
+nome di mia madre!"<Close><End of Block>
+<TextBlock 88 w:48 h:4>
+Jessie
+"…<Delay 10>
+Capisco. È così
+che credi. Perfetto.<New>
+Comunque, lascia il
+tuo lavoro.<Delay 10><New>
+Consideralo un piccolo
+consiglio…<New>
+… da parte di un uomo
+che per te è non è altro
+che uno sconosciuto."<Close><End of Block>
+<TextBlock 89 w:6 h:1>
+…<Close><End of Block>
+<TextBlock 90 w:0 h:1>
+<Close><End of Block>

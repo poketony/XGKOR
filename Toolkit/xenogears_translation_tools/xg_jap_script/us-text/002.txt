@@ -1,0 +1,302 @@
+#### 1 ####
+Fei
+"Whoa!!"{clear:1E}
+
+#### 2 ####
+Doc!! {clear:1E}
+
+#### 3 ####
+Citan
+"Dan!?"
+
+#### 4 ####
+Citan
+"Are you alright!?{wait:14} 
+What on earth are
+you doing here!?{enter}
+Do you not know
+how worried Alice
+and Timothy are!?"
+
+#### 5 ####
+Citan
+"Let us evacuate to a
+safer spot while Fei
+has their attention!"
+
+#### 6 ####
+Citan
+"Fei is bound...{wait:14}
+by the dark, cruel
+destiny of god..."
+
+#### 7 ####
+Dan
+"...{wait:14}
+Fei...?"
+
+#### 8 ####
+Citan
+"Come on now, Dan!
+We had better get
+away from here."
+
+#### 9 ####
+Timothy
+"Dan!!"
+
+#### 10 ####
+Timothy
+"I knew you were still
+in the village!{wait:14} Boy,
+I'm glad you're okay!"
+
+#### 11 ####
+Citan
+"Oh no...!{wait:14}
+Timothy!!"
+
+#### 12 ####
+Timothy
+"Uh...!"{clear:14}
+
+#### 13 ####
+Fei
+"Stop it!!
+These people have nothing
+to do with you!"
+
+#### 14 ####
+Fei
+"No!{wait:1E}
+Lahan's...!?"
+
+#### 15 ####
+Fei
+"It's just as doc says.
+The two of you should get
+out of the village now!{enter}
+Don't worry about Dan.{wait:0A}
+Knowing him, he has
+already evacuated and
+is waiting for you!"
+
+#### 16 ####
+Fei
+"Yeah, don't worry.{enter}
+If he still happens to be
+in the village, I'll be
+sure to save him!"
+
+#### 17 ####
+Fei
+"Alright!
+But doc...
+You be careful, okay!!?"
+
+#### 18 ####
+Fei
+"...{wait:14}
+Ah...!?"
+
+#### 19 ####
+Fei
+"...{wait:14}
+What's with this!?"
+
+#### 20 ####
+Fei
+"Ah...!?"{clear:0A}
+
+#### 21 ####
+Fei
+"..."{clear:1E}
+
+#### 22 ####
+Fei
+"Wait!!{wait:0A}
+Don't shoot!!"
+
+#### 23 ####
+Citan
+"Alice!?
+Timothy!!"
+
+#### 24 ####
+Citan
+"I know.{wait:0F} What on earth
+are they doing starting
+a battle here...!?{enter}
+Are you all okay?"
+
+#### 25 ####
+Citan
+"No, Timothy, wait!!{enter}
+You, Alice and the
+rest of the villagers
+should evacuate to a
+safer location!"
+
+#### 26 ####
+Citan
+"I understand how you feel,
+but leave the rest up to
+Fei and me!{enter}
+The primary thing you
+should be concerned with
+is your own safety...{enter}
+Timothy, your
+responsibility is
+to protect Alice!"
+
+#### 27 ####
+Citan
+"Now, both of you,
+hurry!!"
+
+#### 28 ####
+Citan
+"I will go check inside
+the houses to see if there
+is anyone left behind.{enter}
+Fei, please go around
+the village and guide
+the stragglers to a
+safe location!"
+
+#### 29 ####
+Citan
+"You too, Fei!"
+
+#### 30 ####
+Citan
+"Huh...
+Fei!?"
+
+#### 31 ####
+Citan
+"Wait, Fei!!"
+
+#### 32 ####
+Citan
+"Do not do this, Fei!{wait:14}
+You must not
+fight here...!!"
+
+#### 33 ####
+Citan
+"Fei!!"{clear:14}
+
+#### 34 ####
+Citan
+"Fei...!!{wait:1E}
+The way you are fighting...{enter}
+Oh no...
+This is not good!{wait:14}
+If 'he' awakens here..."
+
+#### 35 ####
+Citan
+"You returned to
+save your sister's
+wedding dress...!?"
+
+#### 36 ####
+Citan
+"Heh...
+You are such a sentimental
+little boy...!"
+
+#### 37 ####
+Citan
+"It appears that
+they are after that
+Gear Fei is in..."
+
+#### 38 ####
+Alice
+"Doctor Uzuki!?{wait:0A}
+Fei!!"
+
+#### 39 ####
+Alice
+"Yes!
+But it's Dan...{wait:14}
+We can't find him!!"
+
+#### 40 ####
+Alice
+"Timothy..."
+
+#### 41 ####
+Alice
+"...{wait:14}
+Yes, okay.{wait:0A}
+Thank you, Doctor!"
+
+#### 42 ####
+Alice
+"But, Fei...{wait:0A}
+Please look out for Dan!"
+
+#### 43 ####
+Timothy
+"Doctor!{wait:14} They just came
+outta nowhere and landed
+right in our village...!"
+
+#### 44 ####
+Timothy
+"I'll go look one more
+time!{wait:14} Alice, go ahead and 
+get out of the village."
+
+#### 45 ####
+Timothy
+"Doc,{wait:0A} you know I
+can't just leave
+Dan behind!"
+
+#### 46 ####
+Timothy
+"...{wait:14}
+But..."
+
+#### 47 ####
+Timothy
+"...{wait:1E}
+I guess you're right..."
+
+#### 48 ####
+Timothy
+"Okay!{wait:0A} Alice, let's let
+Doctor Uzuki and Fei
+handle it from here!"
+
+#### 49 ####
+Huh...!?{clear:14}
+
+#### 50 ####
+Dan
+"I'm sorry Doctor Uzuki!
+I got out of the village
+earlier, but I came back...{enter}
+... I just couldn't bear
+to think of leaving my
+sister's wedding dress
+behind here..."
+
+#### 51 ####
+Dan
+"...!?"{clear:14}
+
+#### 52 ####
+Dan
+"Fei's...{wait:14}
+inside that monster!?"
+
+#### 53 ####
+Fei
+"Huff...huff...{wait:14}
+Damn you...!!"
+

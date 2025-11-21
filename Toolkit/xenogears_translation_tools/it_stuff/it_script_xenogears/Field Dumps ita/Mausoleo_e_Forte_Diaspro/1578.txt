@@ -1,0 +1,164 @@
+<TextBlock 1 w:12 h:2>
+Fei
+"Doc!"<Close><End of Block>
+<TextBlock 2 w:16 h:2>
+Elly
+"Shitan!"<Close><End of Block>
+<TextBlock 3 w:12 h:2>
+Fei
+"Doc!"<Close><End of Block>
+<TextBlock 4 w:18 h:2>
+Bart
+"Margie!"<Close><End of Block>
+<TextBlock 5 w:16 h:2>
+Billy
+"Shitan!"<Close><End of Block>
+<TextBlock 6 w:16 h:2>
+Rico
+"Shitan!"<Close><End of Block>
+<TextBlock 7 w:16 h:2>
+Maria
+"Shitan!"<Close><End of Block>
+<TextBlock 8 w:36 h:2>
+<Chu-Chu>
+"Shitan, è chu!"<Close><End of Block>
+<TextBlock 9 w:40 h:3>
+Sigurd
+"Venite, dobbiamo
+andare da Margherita!"<Close><End of Block>
+<TextBlock 10 w:30 h:2>
+Shitan
+"Sbrighiamoci!"<Close><End of Block>
+<TextBlock 11 w:6 h:1>
+!<Close><End of Block>
+<TextBlock 12 w:6 h:1>
+!<Close><End of Block>
+<TextBlock 13 w:40 h:4>
+Bart
+"…<Delay 30> È chiuso.<Delay 30>
+Da dove lo si apre?"<Close><End of Block>
+<TextBlock 14 w:44 h:2>
+Non puoi portare altre
+unità di <Opcode 4 20><Close><End of Block>
+<TextBlock 15 w:38 h:1>
+
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 16 w:52 h:3>
+Bart
+"Uno dopo l'altro…<Delay 30>
+Ma questi qui non si
+arrendono mai?"<Close><End of Block>
+<TextBlock 17 w:52 h:4>
+Shakhan
+"Davvero impressionante,
+Principe Bartolomeo<Delay 30>…<New>
+Ma non ti permetterò
+di andare oltre."<Close><End of Block>
+<TextBlock 18 w:52 h:3>
+Bart
+"La vostra sede è stata
+distrutta.<Delay 30> E adesso
+cosa puoi fare?<New>
+Che ne dici di suicidarti
+in modo onorevole?<Delay 40>
+Una morte perfetta
+per un religioso!"<Close><End of Block>
+<TextBlock 19 w:54 h:4>
+Shakhan
+"Ci sono ancora molte
+cose che dovreste
+sapere sulla Chiesa.<New>
+Noi non siamo un gruppo
+unico. Ognuno di noi ha
+la propria missione.<New>
+Non abbiamo bisogno di
+dichiararci sconfitti
+solo perché…<New>
+… la sede centrale
+è stata distrutta<Delay 30>…<Delay 10>
+Io ho i miei motivi.<New>
+Ed è per questi motivi
+che ho sfruttato Aveh
+e Geburah. Ora il tesoro
+è mio…<Delay 30>!<New>
+Vi suggerirei di battere
+subito in ritirata."<Close><End of Block>
+<TextBlock 20 w:20 h:2>
+Bart
+"…<Delay 30> Cazzo!"<Close><End of Block>
+<TextBlock 21 w:24 h:1>
+Shakhan
+"Inseguitela!"<Close><End of Block>
+<TextBlock 22 w:48 h:4>
+Shakhan
+"Umph…<Delay 30>
+Stai cercando sul serio
+di proteggere l'Omnigear?<New>
+Cosa pensi che possa fare
+una ragazzina come te?
+Come dicono, dalla padella
+alla brace… Che stupida!"<Close><End of Block>
+<TextBlock 23 w:50 h:3>
+Shakhan
+"Metterò la parola fine
+a tutto questo una volta
+per tutte!<New>
+Quell'odiosa ragazzina
+mi ha preso in giro per
+l'ultima volta!<New>
+Farò sprofondare lei e
+tutto ciò che le è più
+caro nel più profondo
+inferno!"<Close><End of Block>
+<TextBlock 24 w:36 h:4>
+Bart
+"Merda…<Delay 30>
+Toglietevi dalle
+palle!"<Close><End of Block>
+<TextBlock 25 w:46 h:1>
+Ti sei spinto
+fin troppo oltre.<Close><End of Block>
+<TextBlock 26 w:50 h:3>
+Bart
+"Sig!<Delay 30> Che diavolo
+ci fai qui!?"<Close><End of Block>
+<TextBlock 27 w:46 h:3>
+Sigurd
+"Ho lasciato la capitale
+sotto la custodia di
+Maison.<New>
+Ero preoccupato per voi,
+dunque sono tornato qui."<Close><End of Block>
+<TextBlock 28 w:46 h:3>
+Sigurd
+"Shakhan…<Delay 30>!<New>
+È solo una questione di
+tempo, prima che Bledavik
+torni nelle nostre mani.<New>
+Arrivati a questo punto,
+non hai nessun posto
+dove andare."<Close><End of Block>
+<TextBlock 29 w:44 h:3>
+Shakhan
+"Arrrgh…<Delay 30>
+Non è ancora finita!<New>
+Ho ancora Margie.<New>
+Per adesso, sarà ancora
+il mio ostaggio…
+finché non avrò ottenuto
+quell'Omnigear!"<Close><End of Block>
+<TextBlock 30 w:14 h:2>
+Bart
+"Fermo!"<Close><End of Block>
+<TextBlock 31 w:54 h:3>
+Bart
+"Merda,<Delay 30> non si apre!<Delay 30>
+È chiusa dall'interno."<Close><End of Block>
+<TextBlock 32 w:56 h:2>
+Sigurd
+"Padroncino, aspetti!"<Close><End of Block>
+<TextBlock 33 w:46 h:4>
+Sigurd
+"Dove state andando?
+Margherita sta correndo
+un gravissimo pericolo!"<Close><Close><End of Block>

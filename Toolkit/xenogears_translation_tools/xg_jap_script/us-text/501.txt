@@ -1,0 +1,23 @@
+#### 1 ####
+Fei
+"Elly!!{wait:2D}
+...{wait:20}...
+You okay?"
+
+#### 2 ####
+Elly
+"Fei...
+...Yes...{wait:17}yes, I'm fine."
+
+#### 3 ####
+Bart
+"Sorry to interrupt you
+two,{enter}
+but this is not the
+time for a heartfelt
+reunion."
+
+#### 4 ####
+Billy
+"Quickly, this way."
+

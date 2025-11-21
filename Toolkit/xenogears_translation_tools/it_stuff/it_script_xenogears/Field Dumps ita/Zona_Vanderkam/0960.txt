@@ -1,0 +1,127 @@
+<TextBlock 1 w:30 h:2>
+Fei
+"Elly, perché…?"<Close><End of Block>
+<TextBlock 2 w:54 h:2>
+Elly
+"Ti avevo avvisato…<Delay 20><New>
+Ti ho detto che la prossima
+volta che ci saremmo
+incontrati<Delay 20> saremmo stati…<Delay 20>
+nemici."<Close><End of Block>
+<TextBlock 3 w:54 h:4>
+Fei
+"Ma per te non c'è motivo
+di farti questo solo per
+poter combattere.<New>
+Non c'è motivo per me e
+per te di combattere…<Delay 20>
+Proprio nessuno."<Close><End of Block>
+<TextBlock 4 w:42 h:3>
+Elly
+"Non…<Delay 5> c'era
+altra…<Delay 5> scelta…"<Close><End of Block>
+<TextBlock 5 w:50 h:4>
+Elly
+"Io sono un ufficiale di
+Solaris…<New>
+Non posso voltare le
+spalle alla mia unità,
+alla missione…"<Close><End of Block>
+<TextBlock 6 w:48 h:3>
+Fei
+"Perché hai dovuto
+usare la 'Drive'?"<Close><End of Block>
+<TextBlock 7 w:52 h:4>
+Elly
+"Io non volevo…
+Quando la uso, mi
+trasformo.<New>
+Mi sembra di essere
+dominata da un potere
+sconosciuto, che
+mai ho voluto…<New>
+Dentro di me c'è un
+potere che non voglio
+riconoscere.<New>
+Ma…<Delay 20> io voglio proteggere
+i miei compagni… Perciò,
+non avevo scelta…<Delay 20>
+se non usare…<Delay 20> la 'Drive'."<Close><End of Block>
+<TextBlock 8 w:32 h:3>
+Fei
+"… Elly, tu sei
+come me."<Close><End of Block>
+<TextBlock 9 w:52 h:4>
+Elly
+"Come te?
+… Probabilmente.<New>
+Ho avuto la sensazione di
+conoscerti sin dalla prima
+volta che t'incontrai…<New>
+Forse perché i nostri
+problemi erano così
+uguali…"<Close><End of Block>
+<TextBlock 10 w:38 h:4>
+Fei
+"Io sono qui per te.<New>
+Potrebbe non essere
+molto, ma almeno posso
+capire come ti senti,<Delay 5>
+Elly."<Close><End of Block>
+<TextBlock 11 w:44 h:4>
+Elly
+"Cosa?<New>
+Stai dicendo che noi
+ci lecchiamo le ferite
+a vicenda?"<Close><End of Block>
+<TextBlock 12 w:42 h:3>
+Fei
+"No, non è così…<Delay 20>
+Beh, penso di stare…<New>
+Scusami…"<Close><End of Block>
+<TextBlock 13 w:38 h:4>
+Elly
+"… Perdonami.
+Non mi sto comportando
+bene, non è vero…?"<Close><End of Block>
+<TextBlock 14 w:44 h:4>
+Fei
+"No, sono io ad essere
+pessimista, qualche
+volta.<New>
+Ma…<Delay 20> tuttavia, è meglio
+questo che tormentarti<Delay 20>
+da sola."<Close><End of Block>
+<TextBlock 15 w:16 h:2>
+Elly
+"Fei…"<Close><End of Block>
+<TextBlock 16 w:34 h:3>
+Fei
+"Non cambierai
+idea…?"<Close><End of Block>
+<TextBlock 17 w:44 h:4>
+Elly
+"Ti prego, non fare una
+faccia così triste.
+Non ho scelta.<New>
+È l'unico posto che
+posso chiamare casa…"<Close><End of Block>
+<TextBlock 18 w:34 h:4>
+Fei
+"… Devo andare.
+I miei 'amici' mi
+stanno aspettando."<Close><End of Block>
+<TextBlock 19 w:40 h:3>
+Fei
+"Se puoi, esci
+dall'esercito,
+Elly…<New>
+Quell'aspetto e quello
+sguardo non ti si
+addicono<Delay 5> per nulla."<Close><End of Block>
+<TextBlock 20 w:22 h:2>
+Elly
+"Noooooo!!"<Close><End of Block>
+<TextBlock 21 w:16 h:2>
+Fei
+"Elly!!"<Close><Close><End of Block>

@@ -1,0 +1,603 @@
+#### 1 ####
+Fei
+"Oh, he's just hanging
+about over there...{enter}
+He's thinking about his
+sister's marriage and
+doesn't seem to be able
+to calm down.{enter}
+He likes to talk and act
+big, but he really is
+still just a kid...
+It's kinda cute, huh?"
+
+#### 2 ####
+Fei
+"He's probably around here
+somewhere... getting up
+to his usual mischief!"
+
+#### 3 ####
+Fei
+"Phew!
+That was a close one...{enter}
+This well is dangerous...{wait:14}
+Perhaps it's better if I
+don't go near it again."
+
+#### 4 ####
+Fei
+"Hey...{wait:14}
+What are you talking
+about, Dan?{enter}
+Timothy and Alice are both
+my best friends.{wait:14}
+You know I can't do that!"
+
+#### 5 ####
+Fei
+"Alright Dan,
+you've got it...{enter}
+I guess I'll just go sweep
+Alice away and make a run
+for it!"
+
+#### 6 ####
+"Timothy is a balding
+headed fool! And his dad
+is bald and stupid too!"
+
+#### 7 ####
+"Mountain path ahead!
+Beware of the HP
+gobbling hob-gobs!!{enter}
+Those wishing to see the
+doctor on the mountain top
+should proceed with courage
+and conviction."
+
+#### 8 ####
+"Alice and Fei
+are in looove!!"
+
+#### 9 ####
+"From all the cool
+people of Lahan...
+  Buon giorno!"
+
+#### 10 ####
+"- The Laughing Fox  
+   & Piglet Tavern - 
+   Drunks welcome!  "
+
+#### 11 ####
+" - Lahan's General Store - 
+    You want it?
+    We've got it...(maybe)! "
+
+#### 12 ####
+Received a chill from the
+depths of the cistern!
+Oh 'well'...!
+
+#### 13 ####
+'Well, well, well!'
+You found a Power Ring!!
+
+#### 14 ####
+'All's well that ends well!'
+You found an Aquasol S!!
+
+#### 15 ####
+'Well' done!{wait:14}
+You found a
+weird item!!
+
+#### 16 ####
+'High' there Fei!{enter}
+Did you know that beyond
+that black forest lies the
+great kingdom of Aveh?{enter}
+It's got a big capital
+city with lots of people
+living there.{enter}
+My father is working
+somewhere in Aveh.
+
+#### 17 ####
+Soon, my father is going
+to come pick mother and
+me up so that we can all
+live together in Aveh.
+
+#### 18 ####
+Oh, father!
+Please come home soon...
+
+#### 19 ####
+Hey hey, Fei!
+Let's go catch some
+scampi again sometime!
+
+#### 20 ####
+I'm gonna get you!{clear:28}
+
+#### 21 ####
+Hey hey, Fei!
+Help me find another
+elephantsparrow's
+nest sometime, okay!!?
+
+#### 22 ####
+Run away!{clear:28}
+
+#### 23 ####
+Hey, Fei. Next time,
+teach me more of your
+kung fu stuff.
+
+#### 24 ####
+I'm gonna get you!{clear:28}
+
+#### 25 ####
+Hey, Fei!
+Let's go tease
+the girls again!
+
+#### 26 ####
+Run away!{clear:28}
+
+#### 27 ####
+Birds are great...{wait:14}
+They can fly so high in
+the sky and go wherever
+they want to...
+
+#### 28 ####
+You know Fei...{wait:14} Mom
+was saying that you
+might have come from
+a far away place...
+
+#### 29 ####
+If you were a bird,
+you could fly back
+to your real home
+anytime you wanted.
+
+#### 30 ####
+Dan
+"Well, the least we can
+do is pray for Alice's
+happiness, hey Fei!"
+
+#### 31 ####
+Dan
+"So Fei, you up to it?{enter}
+C'mon, let's do it!{wait:14}
+    Let's do it!!
+    Quit bein' foolish 
+
+#### 32 ####
+Dan
+"Oh good, Fei!
+Ya ready to talk?"
+
+#### 33 ####
+Dan
+"As you know, tomorrow's
+finally the day of my
+sister's wedding...{enter}
+So, what I want to talk
+to you about is exactly
+that... Alice's marriage!"
+
+#### 34 ####
+Dan
+"Fei, to be perfectly
+honest with you...{enter}
+I've always wished
+you could have been
+my brother."
+
+#### 35 ####
+Dan
+"It's still not too late.{enter}
+You could go steal Alice
+and run off with her!{wait:14}
+If you need me to help,
+I'd be glad to!"
+
+#### 36 ####
+Dan
+"It may be odd for me to say
+this, but my sister's
+beautiful and a good cook...{enter}
+(and this is just between
+you and me but, she's
+well endowed too!{wait:14} 
+Heh heh heh!)"
+
+#### 37 ####
+Dan
+"So c'mon! Go for it!
+    Let's do it!!
+    That's crazy 
+
+#### 38 ####
+Dan
+"Really!?
+I knew I liked you, Fei!
+That's the spirit!"
+
+#### 39 ####
+Dan
+"... But, if only
+it was that easy...{enter}
+It's not like we can
+change their feelings...{wait:28}
+And you would need to
+have love for her too..."
+
+#### 40 ####
+Dan
+"But, I'm not gonna
+forget this, Fei!{enter}
+You were really willing to
+go that far to help me...
+Fei, you're a good guy!"
+
+#### 41 ####
+Dan
+"Tch, yeah I know that.
+Well if you're gonna be
+like that..."
+
+#### 42 ####
+Dan
+"But, if you change your
+mind, come and talk to
+me!"
+
+#### 43 ####
+That Dan...!
+When will he ever grow up!?
+
+#### 44 ####
+Oh, Fei!{wait:14}
+Maybe you can help...
+Have you seen Dan?
+
+#### 45 ####
+Oh really?
+I'm a little suspicious
+though...{enter}
+Alice was saying she needed
+him for something...{wait:0F}
+I bet he's avoiding me...
+
+#### 46 ####
+Alice was saying she needed
+him for something...{enter}
+How could a brat like
+him possibly be related
+to Alice?{wait:0F}
+Oh, brother...!
+
+#### 47 ####
+You're right! I've got my
+whole life ahead of me!{wait:14}
+I've got to strive harder
+to fulfil my goals in life.
+
+#### 48 ####
+Sigh...{wait:14} The never ending
+hardships of a woman.
+
+#### 49 ####
+Alice and Timothy's
+wedding tommorow is
+the talk of the town.{enter}
+I guess it's to be
+expected though...{wait:14}
+It is one of life's
+biggest events.
+
+#### 50 ####
+The women of the village
+are born, raised, married
+and live out the rest of
+their lives here.{enter}
+There must be some
+happiness in that, but...{wait:18}
+I've been thinking from
+time to time.{enter}
+Sometimes I wish I were
+born a man so I could
+travel the world and live
+an ever-changing life...
+
+#### 51 ####
+Heh... It's weird, isn't it?{wait:0C}
+    Yeah, that is weird!
+    No, of course not! 
+
+#### 52 ####
+Ooooooh! You think so?{wait:14}
+Maybe I need to rethink
+this...
+
+#### 53 ####
+Really? Do you mean it?{wait:1E}
+Hah, I knew you'd say
+that for me, Fei.{enter}
+Here, this is my very
+own homemade Aquasol.
+Our bearcows love it!{wait:14} 
+Try it out sometime!
+
+#### 54 ####
+Received Aquasol, the
+choice of all bearcows.
+
+#### 55 ####
+Hello, Fei.
+Tomorrow is Alice and
+Timothy's big day.{enter}
+Isn't it exciting!
+I know Alice will
+make a lovely bride.{enter}
+Ahh... I hope a
+handsome prince comes
+into my life soon.
+
+#### 56 ####
+Hey! Stop pushing!{wait:1E}
+What are you...some
+kind of pervert!?{clear:3C}
+
+#### 57 ####
+That doctor is weird!{wait:14}
+Why would anyone want to
+live up on that mountain
+peak?{enter}
+He should live closer to
+the village...{enter}
+Hey, you're good friends
+with the doctor.{wait:14} Why
+don't you ask him to move
+closer to the village!
+
+#### 58 ####
+Lately, my legs have
+gotten weaker...{wait:14}
+It's causing me a great
+deal of trouble.{enter}
+I would like to go and
+have Doctor Uzuki take
+a look and see if he
+can help me...{enter}
+But it's a tremendous task
+to go up that mountain path
+to visit the doctor.{wait:14}
+I must be getting old...
+
+#### 59 ####
+That doctor's eccentric!{wait:14}
+Why else would anyone
+live up on a mountain
+peak like that?{enter}
+He should have moved
+closer to the village!{enter}
+Fei, you're good friends
+with the doctor...{wait:14}
+Ask him to move closer
+to our village for us!
+
+#### 60 ####
+Lately, my legs have been
+giving me trouble.{wait:14}
+It's really getting to me!{enter}
+I would like to go and have
+Doctor Citan Uzuki take a
+look at them and tell me
+what's wrong...{enter}
+But it's a dreadful chore
+to climb that mountain path
+to visit the doctor.{wait:14}
+It must be a sign of my age.
+
+#### 61 ####
+Uuh... Sob...{wait:0A}
+How could Alice go and get
+married...{wait:1E}and to that
+muscle head, Timothy...!!{enter}
+I...{wait:14}I've loved her...{wait:14}
+since I was a baby...!!{wait:14}{enter2}
+What am I supposed to do?
+How am I supposed to live!?
+
+#### 62 ####
+{slow:02}AAAAAARRRRRGGGGHHH!!{fast:00} {clear:78}
+
+#### 63 ####
+Sob...{wait:1E} Life...
+can be so unfair...
+
+#### 64 ####
+Uh... Sob...{wait:14}
+Woe is me...!
+
+#### 65 ####
+Zzzzzz, snore...
+
+#### 66 ####
+Uh, uhn...?{wait:14}
+Oh, it's you Fei!
+What do you want?
+
+#### 67 ####
+Finally, at my age,
+I've become able to
+live in peace.{enter}
+At this rate, I'll
+probably live to be
+a hundred! Hahahah!
+
+#### 68 ####
+No, no!{wait:14}
+Don't waste perfectly
+good food like that!{clear:32}
+
+#### 69 ####
+Fei!!{wait:0A}
+I thought I told you
+not to step on my food!{clear:3C}
+
+#### 70 ####
+You know you won't come out
+in one piece if you try and
+pull anything on the bride!
+
+#### 71 ####
+Why, hello Fei.
+Are you here
+to see Alice?
+
+#### 72 ####
+Actually, it's customary
+that we don't let any men
+in to see the bride today...{wait:28}
+But, you can be an exception.
+
+#### 73 ####
+Welcome to the village
+of Lah...{wait:28}
+Oh, it's you, Fei!?
+
+#### 74 ####
+Oh, don't worry...
+We already consider
+you a proud member of
+the Lahan community!{enter}
+So, how about finding a
+wife and settling down
+in our village too?{enter}
+I'm sure if you live a
+peaceful life here your
+memory will be bound to
+come back one day.
+
+#### 75 ####
+You have a natural ability
+to paint and can do martial
+arts rather well, I hear!{wait:14}
+I bet it's because your body
+remembers these things.{enter}
+You'll be able to breathe
+a sigh of relief when your
+memory returns to you...{wait:14}
+And don't you worry!
+I'm sure it will!
+
+#### 76 ####
+Yo, Fei!
+Alice has sure
+gotten pretty, huh!{enter}
+Come to think of it...
+Alice, Timothy and you
+were always together.{enter}
+I bet you also had a
+crush on Alice too, eh?{wait:14}
+Am I right? Hahahaha!
+
+#### 77 ####
+Oh, hello there, Fei.{enter}
+Come to think of it,
+it's already been quite
+a while since you first
+came to our village...{enter}
+I take it you still
+don't remember anything
+prior to your coming
+here though?{enter}
+It must be terrible
+not knowing your true
+identity and all...{enter}
+Oh, I'm sorry.
+I'm being rude...{wait:14}
+Please don't take it
+the wrong way.
+
+#### 78 ####
+Sorry.
+That's all the
+Aquasol I have.{enter}
+But I've got plenty of
+my special fertilizer.
+Ya want some?
+Hahaha!
+
+#### 79 ####
+Oh alright. Here ya go!
+
+#### 80 ####
+Received Aquasol.
+
+#### 81 ####
+Oh yeah, I forgot!
+Here's some of my
+homemade Aquasol!{enter}
+I used my special
+fertilizer in it so
+it should work real
+well! Haw-haw-haw!
+
+#### 82 ####
+Received Aquasol.
+
+#### 83 ####
+Hmmm...{wait:14} Oh I'm just
+contemplating what I
+should plant next.
+
+#### 84 ####
+It's a lot of work just
+trying to raise crops.
+But it's an excellent
+feeling, Fei.{enter}
+In this great open land,
+new life emerges...{wait:14}
+I'm not saying we're
+doing it.{enter}
+It's just the earth, 
+rain and sun combining 
+together to nurture 
+these striving new lives.{enter}
+We're just helping 
+them out.
+
+#### 85 ####
+Pumpkinberry...
+Applelily... radish...
+Hmmm,{wait:28} they all seem
+good...
+
+#### 86 ####
+This is the village
+consultant's house.{wait:14}
+He can teach you
+all kinds of things.{enter}
+Before you step outside
+of our village, it might
+be wise to stop by here
+for some advice first.
+
+#### 87 ####
+This is the general store.{wait:14}
+Although they don't have
+much of a selection...{enter}
+But then again, we're out
+in the country...{wait:14} so we
+can't complain{wait:14} (too much).
+

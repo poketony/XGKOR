@@ -1,0 +1,17 @@
+<TextBlock 1 w:52 h:3>
+… Ah, ah…<Wait>
+Improvvisamente sono giunti
+degli uomini in nero e
+hanno ucciso tutti.<New>
+Mi sono nascosto appena
+in tempo, così non mi
+hanno trovato…<Close><End of Block>
+<TextBlock 2 w:42 h:3>
+… Ah, ah…<Wait>
+Sono tutti morti.
+Li hanno uccisi tutti.<Close><End of Block>
+<TextBlock 3 w:50 h:4>
+Ah, quanto lavoro.<Wait>
+Ci sono così tanti profughi!
+Dobbiamo rifocillarli e
+rinfrancarli tutti!!<Close><Close><End of Block>

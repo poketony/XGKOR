@@ -1,0 +1,354 @@
+<TextBlock 1 w:38 h:2>
+Maria
+"Di qua, prego."<Close><End of Block>
+<TextBlock 2 w:52 h:2>
+Qualunque cosa accada, non
+ci è permesso lasciare
+questo posto.<New>
+Perciò, per favore,
+prendetevi cura di
+Maria da parte nostra!<Close><End of Block>
+<TextBlock 3 w:48 h:3>
+Di recente, come vanno
+le cose sulla superficie?<New>
+Sono sicura che la gente là
+sotto stia vivendo, come al
+solito, in modo pacifico,
+ma ignara di tutto ciò che
+in realtà accade.<Close><End of Block>
+<TextBlock 4 w:52 h:3>
+Voi siete i nuovi arrivati,
+quelli provenienti dal mondo
+esterno?<Delay 20> Maria non è con voi?<Close><End of Block>
+<TextBlock 5 w:52 h:3>
+Ciò che è successo al
+Professor Nicola è
+proprio una grande
+sventura…<New>
+Ma grazie a voi, siamo
+riusciti a respingere
+il nemico.<New>
+Grazie.<Delay 20> Continuiamo a
+lavorare insieme per
+sconfiggere Solaris!<Close><End of Block>
+<TextBlock 6 w:54 h:3>
+A quanto pare, nella speranza
+di contattare voi ed i vostri
+amici che si trovano sulla
+superficie oceanica…<New>
+… le barriere sono
+state aperte.<New>
+È stato in quel momento che
+loro sono stati favoriti
+dalla situazione che si era
+venuta a creare.<New>
+Chi avrebbe mai pensato
+che sarebbe davvero
+entrata una spia!?<Close><End of Block>
+<TextBlock 7 w:54 h:4>
+Dubito seriamente che
+ci possa essere una spia
+capace di entrare qui dentro.<New>
+E, come mi aspettavo, dal
+momento che abbiamo della
+nuova gente della superficie,
+hanno aumentato la sicurezza.<New>
+E non si può mai sapere cosa
+potrebbe accadere…<Delay 20> Se mai
+accadesse qualcosa alla
+Regina… sarebbe un disastro!<Close><End of Block>
+<TextBlock 8 w:50 h:3>
+Da qui in poi, non posso
+permettere che entriate
+od usciate come vi pare.<Delay 20>
+Mi dispiace.<Close><End of Block>
+<TextBlock 9 w:54 h:4>
+Questa è la biblioteca, dove
+raccogliamo molti libri.<New>
+Questo posto è pieno di
+molti libri antichi che
+non si possono trovare
+sulla superficie.<New>
+Se sei un fanatico dei libri,
+impazzirai per alcuni nostri
+libri, come le prime stampe,
+le edizioni limitate, i
+manoscritti autografi…<New>
+… libri, libri proibiti,
+e per le montagne di libri
+difficili da trovare, e per
+altri ed altri ancora…!<New>
+Ahhh! Troppi libri!<Close><End of Block>
+<TextBlock 10 w:54 h:4>
+Beh, lasciando perdere…<New>
+Se c'è qualcosa che vuoi
+sapere sul passato, sarebbe
+meglio entrare e parlare
+ai bibliotecari.<New>
+Non preoccuparti.<Delay 20> Parlare
+del passato ai nuovi arrivati
+provenienti dalla superficie
+è il loro lavoro.<Close><End of Block>
+<TextBlock 11 w:48 h:4>
+… Sigh… Arriverà mai
+il giorno in cui potrò
+vivere in pace sulla
+superficie?<Close><End of Block>
+<TextBlock 12 w:54 h:3>
+Benvenuti a Shevat.<Delay 20> Abbiamo
+già saputo che siete
+i nostri ospiti.<New>
+Vi prego di usare questa
+stanza come volete.<Delay 20>
+Usate pure il letto
+per riposarvi.<Close><End of Block>
+<TextBlock 13 w:50 h:3>
+Quando Maria se ne andrà,
+questa città diventerà
+molto più malinconica.
+Ma penso non ci sia
+modo di evitarlo.<New>
+Viene un momento, per
+tutti, nel quale si
+deve intraprendere
+la propria strada.<Close><End of Block>
+<TextBlock 14 w:54 h:4>
+Maria ha fatto davvero
+tanto per noi fino ad ora…<New>
+… Molti di noi ritengono
+che lei sia l'angelo
+custode di Shevat.<New>
+Non importa quanto sappia 
+controllare bene <Seibzehn>,
+lei rimane comunque una
+ragazza di soli 13 anni.<New>
+Probabilmente è
+preoccupatissima per
+suo padre, che è stato
+catturato da Solaris…<Close><End of Block>
+<TextBlock 15 w:50 h:3>
+Chi avrebbe mai pensato
+che al Professor Nicola
+sarebbe successo tutto
+questo…<New>
+Cosa diremo a Maria?<Close><End of Block>
+<TextBlock 16 w:54 h:4>
+Baldassarre ha ordinato a
+Maria di non lasciare Shevat 
+in nessun caso.<New>
+Probabilmente ha agito così
+perché sa che, se ce ne
+fosse l'occasione…<New>
+… quella bambina cercherebbe
+immediatamente di volare
+verso Solaris…<New>
+… tutta da sola, guidando
+<Seibzehn>, per liberare
+suo padre, preso prigioniero
+da Solaris…<Close><End of Block>
+<TextBlock 17 w:54 h:4>
+I deboli vengono mutilati
+e trucidati… e tutto questo
+perché quei folli capi di
+governo danno i loro ordini,
+e lo fanno solo per il gusto
+di spargere il sangue altrui.<New>
+Non importa quanto sia
+avanzata la loro cultura
+o la loro tecnologia.<New>
+Tutto rimane lo stesso.
+Nulla è cambiato nel
+corso degli anni.<New>
+È diventata una cosa così
+triste… che si può quasi
+ridere! Ah ah ah! Quanto
+ancora deve durare tutto
+questo…?<Close><End of Block>
+<TextBlock 18 w:54 h:4>
+Per proteggere Shevat dal
+mondo esterno, usiamo la
+tecnologia del 'Portale'.<New>
+Fondamentalmente, è la stessa
+cosa che Solaris ha impiantato
+sulla superficie.<New>
+Il Portale non può essere
+sfondato neanche con la
+tecnologia di Solaris.<New>
+Ma, a volte, mi viene da
+pensare se questo Portale
+serva solo per proteggerci
+da Solaris o per altro…<New>
+Forse quell'uomo si lasciò
+dietro questo Portale per
+separarci. Per separarci dal
+resto del mondo.<New>
+Se questo era il suo fine,
+allora Krelian è proprio
+un uomo tremendo… L'odio
+di quell'uomo è davvero
+tanto profondo…?<Close><End of Block>
+<TextBlock 19 w:48 h:4>
+Quello che dico io è che
+Krelian è quello che
+detiene il vero potere
+a Solaris… L'ironia
+del destino.<New>
+Una volta, quell'uomo
+combatté contro Solaris
+a fianco di Roni Fatima,
+della Regina Zefiro e
+di Lacan…<Close><End of Block>
+<TextBlock 20 w:54 h:4>
+Uuhhh, che fame… Il pranzo
+è pronto?<Delay 20> Qualunque cosa
+si faccia, tutto deriva
+dal cibo. Capito? Cibo!<New>
+Da parte mia, mi sento
+vivo soprattutto quando
+mangio.<Delay 20> Non vale lo stesso
+per voi?<New>
+Si mangia per vivere o
+si vive per mangiare…
+Questo proprio non
+lo sappiamo, dico bene?<New>
+Scommetto che quei Solariani
+mangiano sempre la roba
+migliore.<Delay 20> Argh!
+Non si possono perdonare!!<Close><End of Block>
+<TextBlock 21 w:54 h:4>
+La grande guerra di 500
+anni fa… la posso ricordare
+come se fosse accaduta
+ieri…<New>
+È una cosa che non
+riesco a dimenticare.<New>
+Molte vite perirono… Molti
+amori, molti sogni,
+molti amici…<New>
+… e tutte quelle cose
+importanti ed insostituibili…
+Tutte queste cose furono
+irrimediabilmente sfregiate
+e lasciate lentamente morire…<New>
+Torneranno mai quei giorni…?<New>
+Non voglio che i miei figli
+od i miei nipoti vivano
+quell'incubo…<Close><End of Block>
+<TextBlock 22 w:50 h:3>
+Voi umani siete davvero
+degli strani esseri
+viventi, non è vero, chu?<New>
+Siete come i frammenti di
+uno specchio fatto a pezzi.<Close><End of Block>
+<TextBlock 23 w:54 h:4>
+Più giù c'è la prigione.<Delay 20>
+Tuttavia, non è usata
+da centinaia di anni.<New>
+Non c'è nulla di
+interessante da vedere.<New>
+Beh, credo si possa dire
+che abbiamo avuto un
+periodo storico pieno
+di barbarie, esattamente
+come lo hanno gli abitanti
+della superficie!<Close><End of Block>
+<TextBlock 24 w:52 h:4>
+Questa è la sala di
+comando tattico.<New>
+Al momento, ci stiamo
+tenendo aggiornati sulle
+attività sia di Solaris
+che della terraferma,
+e inoltre collezioniamo
+diversi dati.<New>
+Tuttavia, chi avrebbe
+pensato che avrebbero
+attaccato in questo modo…<Delay 20>
+Non stanno agendo in una
+maniera troppo affrettata?<Close><End of Block>
+<TextBlock 25 w:54 h:4>
+Questa è la sala di
+comando tattico.<New>
+Attualmente, ci stiamo
+tenendo aggiornati sulle
+attività sia di Solaris
+che della terraferma,
+e inoltre collezioniamo
+diversi dati.<New>
+Ultimamente, abbiamo rilevato
+sulla superficie molte
+attività insolite…<New>
+Mmh… pensate che Solaris
+abbia trovato qualcosa?<Close><End of Block>
+<TextBlock 26 w:48 h:4>
+Vero, è stata una battaglia
+incredibile.<Delay 20> Grazie a voi,
+in qualche modo siamo
+ancora tutti qui,
+sani e salvi.<New>
+Grazie infinite.<Delay 20>
+Dipendiamo da voi fino al
+giorno in cui riporteremo
+la libertà sulla superficie.<Close><End of Block>
+<TextBlock 27 w:52 h:3>
+Ah, allora voi siete i
+nuovi arrivati, quelli
+della superficie?<Delay 20> Mmh…<New>
+Sembrate non essere come
+i soliti abitanti della
+superficie che prendiamo.<New>
+Ma siamo sempre contenti di
+avere nuovi amici con cui
+combattere Solaris.<New>
+Non vedo l'ora di lavorare
+con voi.<Close><End of Block>
+<TextBlock 28 w:16 h:3>
+Scendi?<Delay 20>
+    Sì
+    No<Close><End of Block>
+<TextBlock 29 w:54 h:4>
+Oh cielo, la cosa si è
+fatta davvero seria.<Delay 20>
+Sembra che non possiate
+entrare a causa della
+situazione d'emergenza.<New>
+Ma siete fortunati.<Delay 20>
+Per purissimo caso, un
+venditore leggendario
+come me si trova qui.<New>
+Ho un mucchio di roba di
+qualità, signori…<Delay 20> Perciò,
+se vi serve qualcosa, non
+esitate a chiedere.<Close><End of Block>
+<TextBlock 30 w:36 h:2>
+Allora, cosa
+comprate?<Close><End of Block>
+<TextBlock 31 w:32 h:4>
+    Oggetti
+    Armi/Armature
+    Parti per i Gear
+    Lascia perdere<Close><End of Block>
+<TextBlock 32 w:46 h:4>
+Grazie mille.<Delay 20>
+Se c'è qualcosa che vi
+serve, tornate pure.<Close><End of Block>
+<TextBlock 33 w:54 h:4>
+Mooolto tempo fa, ho sentito
+dire che un saggio prese
+dalla città una Chu-chu…<New>
+Sembra che abbia goduto
+di buona salute.<Delay 20>
+Per giunta, è diventata
+così grande e imponente…<New>
+Che grande sorpresa!<Delay 20>
+Mi chiedo cosa
+abbia mangiato…<Close><End of Block>
+<TextBlock 34 w:46 h:4>
+Mooolto tempo fa, ho sentito
+dire che un saggio prese
+dalla città una Chu-chu
+solitaria…<New>
+Non ho più sentito cosa
+è accaduto dopo.<Delay 20>
+Spero che quella Chu-chu
+stia bene…<Close><Close><End of Block>

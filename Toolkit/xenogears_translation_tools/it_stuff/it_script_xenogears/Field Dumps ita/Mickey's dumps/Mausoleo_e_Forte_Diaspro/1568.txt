@@ -1,0 +1,147 @@
+<TextBlock 1 w:48 h:4>
+Fei
+"Ma questa è…<New>
+… la stessa statua
+degli angeli che si
+trova nella cattedrale."<Close><End of Block>
+<TextBlock 2 w:30 h:3>
+Fei
+"Il…<Delay 30> Diaspro di Fatima."<Close><End of Block>
+<TextBlock 3 w:42 h:2>
+Fei
+"Cosa c'è lì dentro<Delay 30>…?"<Close><End of Block>
+<TextBlock 4 w:50 h:2>
+Elly
+"La statua di due
+angeli… qui?"<Close><End of Block>
+<TextBlock 5 w:26 h:3>
+Elly
+"…<Delay 30> Un sensore
+retinico!?"<Close><End of Block>
+<TextBlock 6 w:42 h:2>
+Elly
+"Cosa c'è lì dentro<Delay 30>…?"<Close><End of Block>
+<TextBlock 7 w:50 h:2>
+Shitan
+"La statua degli
+angeli… qui?"<Close><End of Block>
+<TextBlock 8 w:44 h:3>
+Shitan
+"Capisco…<Delay 30> così
+questo è il Diaspro
+di Fatima."<Close><End of Block>
+<TextBlock 9 w:42 h:2>
+Elly
+"Cosa c'è lì dentro<Delay 30>…?"<Close><End of Block>
+<TextBlock 10 w:38 h:3>
+Errore
+(Bart non è nel
+giusto ordine)<Close><End of Block>
+<TextBlock 11 w:38 h:3>
+Errore
+(Bart non è nel
+giusto ordine)<Close><End of Block>
+<TextBlock 12 w:38 h:3>
+Errore
+(Bart non è nel
+giusto ordine)<Close><End of Block>
+<TextBlock 13 w:38 h:3>
+Billy
+"…<Delay 30>
+La statua di due
+angeli…"<Close><End of Block>
+<TextBlock 14 w:44 h:3>
+Billy
+"Splendono gli occhi
+e…<Delay 30> la porta!?"<Close><End of Block>
+<TextBlock 15 w:42 h:2>
+Billy
+"Cosa c'è lì dentro<Delay 30>…?"<Close><End of Block>
+<TextBlock 16 w:12 h:2>
+Rico
+"…?"<Close><End of Block>
+<TextBlock 17 w:32 h:2>
+Rico
+"…<Delay 30> Incredibile."<Close><End of Block>
+<TextBlock 18 w:42 h:2>
+Rico
+"Cosa c'è lì dentro<Delay 30>…?"<Close><End of Block>
+<TextBlock 19 w:12 h:2>
+Maria
+"…?"<Close><End of Block>
+<TextBlock 20 w:50 h:3>
+Maria
+"…<Delay 30> Allora, devo
+sbloccarla con i miei
+occhi!?"<Close><End of Block>
+<TextBlock 21 w:34 h:3>
+Maria
+"Mi chiedo cosa
+ci sia lì dentro…?"<Close><End of Block>
+<TextBlock 22 w:32 h:2>
+<Chu-Chu>
+"Sono due angeli."<Close><End of Block>
+<TextBlock 23 w:26 h:2>
+<Chu-Chu>
+"Wa wa waaa!"<Close><End of Block>
+<TextBlock 24 w:30 h:3>
+<Chu-Chu>
+"Com'è il posto che
+c'è dopo la porta?"<Close><End of Block>
+<TextBlock 25 w:36 h:2>
+Esmeralda
+"… Hanno le ali."<Close><End of Block>
+<TextBlock 26 w:36 h:2>
+Esmeralda
+"Cosa c'è oltre
+la porta?"<Close><End of Block>
+<TextBlock 27 w:50 h:4>
+Bart
+"Così questa è la porta
+che conduce al grande
+tesoro reale."<Close><End of Block>
+<TextBlock 28 w:44 h:4>
+Bart
+"È tempo<Delay 30> per il
+Diaspro di Fatima…
+di fare il suo lavoro…<New>
+Ah, già, uno dei miei
+occhi è chiuso."<Close><End of Block>
+<TextBlock 29 w:22 h:2>
+Margie
+"Ci sono qui io."<Close><End of Block>
+<TextBlock 30 w:40 h:3>
+Bart
+"Già.<New>
+Quel coglione di Shakhan
+ha preso un granchio.<New>
+Crede che il Diaspro
+sia il ciondolo reale,
+non i nostri occhi."<Close><End of Block>
+<TextBlock 31 w:48 h:4>
+Bart
+"Ma questo fatto ci ha
+reso le cose più facili…<New>
+Perciò ho tenuto la bocca
+chiusa."<Close><End of Block>
+<TextBlock 32 w:42 h:4>
+Margie
+"Oltre la porta c'è
+la parte centrale
+della fortezza."<Close><End of Block>
+<TextBlock 33 w:48 h:4>
+Margie
+"Si dice che se noi
+membri della dinastia
+di Fatima…<New>
+… facciamo risplendere
+quella luce misteriosa
+attraverso i nostri occhi…<New>
+… allora la fortezza
+si solleverà fino ad
+arrivare in superficie.<New>
+Dicono che essa sia stata
+costruita prima della
+fondazione di Aveh.<New>
+Allora, tutti pronti
+ad andare?"<Close><Close><End of Block>

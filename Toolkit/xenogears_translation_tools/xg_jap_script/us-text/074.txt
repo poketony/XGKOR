@@ -1,0 +1,48 @@
+#### 1 ####
+{fast:FF}£¡£¡{clear:1E}
+
+#### 2 ####
+{fast:FF}Sis...£¡£¡{clear:1E}
+
+#### 3 ####
+Vance
+"Where do you think
+you're going?"{clear:3C}
+
+#### 4 ####
+St, stop it...{clear:1E}
+
+#### 5 ####
+Vance
+"How admirable...{wait:1E}
+Now what kind of sound will
+you make when I do this?"{clear:3C}
+
+#### 6 ####
+Wha!?
+
+#### 7 ####
+Fei
+"Why are you fighting?"
+
+#### 8 ####
+Vance
+"You, {wait:0A}
+what are you doing!?"
+
+#### 9 ####
+Fei
+"What does fighting 
+get you?"
+
+#### 10 ####
+Fei
+"What if this was 
+your home!?"
+
+#### 11 ####
+{fast:FF}Aaaaahhhhhhhh!!!!{clear:0A}
+
+#### 12 ####
+
+

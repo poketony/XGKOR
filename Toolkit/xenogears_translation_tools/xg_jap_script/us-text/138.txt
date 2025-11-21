@@ -1,0 +1,169 @@
+#### 1 ####
+Ramsus
+"I am Ramsus, she is
+Miang. We would like to
+ask you some questions."
+
+#### 2 ####
+Margie
+"I'm Margie.
+Actually it's Marguerite.
+What do you want to know?{enter}
+My favorite food? I like
+cake, Chiffon Nisan is my
+favorite. I haven't had
+it in so long..."
+
+#### 3 ####
+Ramsus
+"Marguerite, we want to
+ask you about the Fatima
+family treasure...{enter}
+I'm talking about the
+'Fatima Jasper'. You see,
+I'm keeping the piece
+you had in a safe place.{enter}
+But I don't know where
+the other piece is.
+Do you?"
+
+#### 4 ####
+Margie
+"Nope.
+The one I had you took
+from me.{enter}
+You didn't even give
+me anything for it.{enter}
+Hey, the next time you
+come, could you bring
+some Chiffon Nisan?{enter}
+I used to eat it
+everyday in Nisan.
+I don't think they
+make it in Aveh.{enter}
+Aveh used to have such
+good bakers, but I
+guess they must have
+all died in the war."
+
+#### 5 ####
+Ramsus
+"That is too bad.{enter}
+I don't know much about
+cake, but I'll see if I
+can find some for you
+next time."
+
+#### 6 ####
+Margie
+"Thank you Ramsus.
+I'll be waiting."
+
+#### 7 ####
+Ramsus
+"Is there anything else
+you need?{enter}
+If there's something you
+want I'll bring it next
+time."
+
+#### 8 ####
+Margie
+"No. I just want to go
+back to Nisan. They must
+be so worried about me."
+
+#### 9 ####
+Ramsus
+"I'm sorry but please
+wait a little longer.{enter}
+We want you to stay
+here until we find
+the other half of the
+'Fatima Jasper'."
+
+#### 10 ####
+?{clear:1E}
+
+#### 11 ####
+Who are you?
+
+#### 12 ####
+!{clear:14}
+
+#### 13 ####
+Margie
+"Bart!"
+
+#### 14 ####
+Bart
+"Let's go
+home Margie!"
+
+#### 15 ####
+Margie
+"I just knew you'd 
+come for me!"
+
+#### 16 ####
+Bart
+"I'm getting
+you outta here!
+C'mon, follow me!"
+
+#### 17 ####
+Margie
+"Okay."
+
+#### 18 ####
+Margie
+"Oh, wait
+a second."
+
+#### 19 ####
+Margie
+"I really
+like this."
+
+#### 20 ####
+Thank you so much
+for rescuing Mother
+Marguerite.{enter}
+All of us in the Nisan
+Sect are deeply indebted
+to you.
+
+#### 21 ####
+Today we came to pray to
+god for peace in Aveh,
+Nisan and Kislev. {wait:3C}
+Peace be with you all.
+
+#### 22 ####
+Please wait a moment.{clear:1E}
+
+#### 23 ####
+We are grateful to you
+for rescuing Mother
+Marguerite.{enter}
+Thanks to you, we can
+return to Nisan overjoyed.
+
+#### 24 ####
+Please wait a moment.{clear:1E}
+
+#### 25 ####
+We would like to build
+Nisan churches in
+Bledavik and Dazil.
+
+#### 26 ####
+Please wait a moment.{clear:1E}
+
+#### 27 ####
+This is the room 
+Mother Marguerite was 
+locked away in.{enter}
+She must have been so
+terrified.
+

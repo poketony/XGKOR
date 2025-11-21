@@ -1,0 +1,108 @@
+#### 1 ####
+Rico
+"Is...that kid...me?"
+
+#### 2 ####
+Rico
+"My childhood memories...
+I've forgotten..."
+
+#### 3 ####
+"...Get out!!{wait:1E}
+Go away you mutant child"{clear:3C}
+
+#### 4 ####
+"Well that is,{wait:28} your
+father is...{wait:1E} So...{wait:14}
+that's{wait:0A}...why..."{clear:14}
+
+#### 5 ####
+Now listen to me! Your
+father is a great man...
+
+#### 6 ####
+Someday, you'll follow
+in his footsteps...
+
+#### 7 ####
+...cough..cough...{clear:28}
+
+#### 8 ####
+...!!{wait:28}...No no...
+It's not...{wait:1E} like that...
+
+#### 9 ####
+Oh god...{wait:1E} please...
+have mercy on this
+child...{clear:3C}
+
+#### 10 ####
+Uuuuhhh...{clear:3C}
+
+#### 11 ####
+Cough cough...{wait:1E}cough{clear:28}
+
+#### 12 ####
+Here, listen...{wait:1E}
+carefully...{wait:1E} from now
+on...{wait:1E} you're going to be
+by yourself...{clear:28}
+
+#### 13 ####
+...ther.{clear:3C}
+
+#### 14 ####
+...other.{clear:3C}
+
+#### 15 ####
+Mother,{wait:1E} why does Jenny
+have a father but I don't?
+
+#### 16 ####
+...other.
+...You have to rest.{clear:3C}
+
+#### 17 ####
+!!{wait:1E}Mother,
+mother...{clear:3C}
+
+#### 18 ####
+...ther.{clear:3C}
+
+#### 19 ####
+...other. Mother...{clear:3C}
+
+#### 20 ####
+...I'm, different from
+the other kids.{clear:3C}
+
+#### 21 ####
+...Even my nails are long
+and look at my ears...
+
+#### 22 ####
+...{wait:1E}Miyo from across the road
+keeps saying I'm not human
+and that when I get older
+I'll become a demi-human.
+
+#### 23 ####
+I'm...{wait:1E}not human?
+...Then you're not my
+mother?...{enter}
+No, I don't want that...
+
+#### 24 ####
+!!{wait:1E} Waaaaahh! Mother,
+mother is...{clear:1E}
+
+#### 25 ####
+...Mother...{wait:1E}
+I'm...
+
+#### 26 ####
+I'm?
+
+#### 27 ####
+I am...?
+

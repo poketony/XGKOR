@@ -1,0 +1,30 @@
+#### 1 ####
+I can't tune-up my Gear
+even if I want to without
+'G'.{wait:05} It'll just have to
+stay wimpy for now.{enter}
+Guess I'll go work in
+the sewers{wait:05}...
+
+#### 2 ####
+{wait:05}...{wait:05}I made some money, but
+now they have new parts{wait:05}...{wait:05}
+I want them, but I don't
+have enough 'G'{wait:05}...{wait:05}.
+
+#### 3 ####
+He's more interested in his
+Gear than me. Argh!{wait:0F} Gears
+need parts, fuel and are
+harder to handle than women.
+
+#### 4 ####
+Even under fire, his heart
+is on Gears, Gears,{wait:05} Gears.{wait:05}
+Nothing but Gears{wait:05}...{wait:05}
+
+#### 5 ####
+Sigh{wait:05}...{wait:1E} Maybe I should
+look for another man.{wait:0F}
+I've had it with Battlers.{wait:05}
+

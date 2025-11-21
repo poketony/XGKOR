@@ -1,0 +1,8 @@
+<TextBlock 1 w:50 h:3>
+Billy
+"(Il suo compagno!!
+Devo chiamare il
+'mio' subito…)"<Close><End of Block>
+<TextBlock 2 w:40 h:2>
+Mmh<Delay 10>…<Delay 20>
+Conto su di <Delay 30>te.<Opcode 2 20><Close><End of Block>

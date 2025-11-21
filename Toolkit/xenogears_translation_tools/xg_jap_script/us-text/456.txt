@@ -1,0 +1,212 @@
+#### 1 ####
+!!{clear:0A}
+
+#### 2 ####
+Elly!?{wait:0A}
+Elly, is that you?
+
+#### 3 ####
+Mother!
+
+#### 4 ####
+Elly's mother Medena
+"You...{wait:0A}
+I'm glad...{wait:0A}
+you're okay..."
+
+#### 5 ####
+Medena
+"The military told me you 
+were missing in action..."
+
+#### 6 ####
+Elly
+"No, mother,
+that's not true.{wait:0A}
+See, I'm alive!"
+
+#### 7 ####
+Elly
+"Mother,{wait:0A}
+where is father?"
+
+#### 8 ####
+Medena
+"He's still at the 
+palace. I think he'll 
+be back soon..."
+
+#### 9 ####
+Elly
+"I see..."
+
+#### 10 ####
+Medena
+"Elly, who's this?"
+
+#### 11 ####
+Elly
+"What?{wait:0A} Ah{wait:05}...{wait:0A}
+Um, {wait:0A}he's from the
+Special Forces,{enter}
+the same as me.
+He was only recently
+promoted from 3rd Class
+citizen.{enter}
+It's because of him
+I was able to return."
+
+#### 12 ####
+Right, Fei?
+
+#### 13 ####
+Fei
+"What?{wait:0A} Um...{wait:0A}no...{wait:0A}I mean..."
+
+#### 14 ####
+Medena
+"I see. That must be why
+he's dressed like a land
+dweller.{enter}
+But, {wait:0A}why isn't
+he wearing a Special
+Forces uniform
+like you, Elly?"
+
+#### 15 ####
+Elly
+"S, sorry mother.{wait:05} There's 
+a report I must turn in 
+right away, {wait:0A}so..."
+
+#### 16 ####
+Elly
+"Fei, come with me."
+
+#### 17 ####
+Erich
+"Elly...{wait:0A}
+Take this..."
+
+#### 18 ####
+{fast:FF}Received Army Cardkey.{clear:3C}
+
+#### 19 ####
+Elly
+"...Father?"
+
+#### 20 ####
+Erich
+"To be human is to be 
+able to pick your own 
+path in life..."
+
+#### 21 ####
+Elly
+"...Father."
+
+#### 22 ####
+Erich
+"It looks like the
+military police are
+here..."
+
+#### 23 ####
+Erich
+"The Imperial Guard?{wait:0A}
+Why are you here instead
+of the military police...?"
+
+#### 24 ####
+What?
+
+#### 25 ####
+Erich
+"What are you doing?{wait:0A}
+The intruder fled.{enter}
+My daughter has nothing
+to do with this!"
+
+#### 26 ####
+I can't, Lord Erich.{wait:0A}
+Turn your daughter 
+over to us.{wait:0A}
+Lord Krelian's orders.
+
+#### 27 ####
+Erich
+"Lord Krelian?{wait:0A} What does
+he want with my daughter...{wait:1E}
+What?{enter}
+You mean...{wait:0A}Gazel's...!"
+
+#### 28 ####
+You do not need to know.
+
+#### 29 ####
+Take her!
+
+#### 30 ####
+Erich
+"Leave my daughter alone!{wait:0A}
+Or else!"
+
+#### 31 ####
+Elly
+"Father!?"{wait:0A}
+
+#### 32 ####
+W, {wait:0A}what!?{wait:0A}
+Lord Erich!{wait:0A} Have you lost 
+your mind?
+
+#### 33 ####
+Erich
+"I'm perfectly fine!{wait:0A}
+Leave her alone!"
+
+#### 34 ####
+Lord Krelian's orders are
+the Emperor's orders.{enter}
+You realize what'll
+happen to your rank
+if you disobey this order?{enter}
+You'll be demoted to
+3rd Class citizen!
+
+#### 35 ####
+Erich
+"I know.{enter}
+But even if it's Lord
+Krelian's order I will
+not allow my daughter to
+be Gazel's test subject.{enter}
+Elly,{wait:0A} go!
+I'll take care of this!"
+
+#### 36 ####
+Elly
+"But..."
+
+#### 37 ####
+Erich
+"Don't worry about me.{wait:0A}
+Go help Fei."
+
+#### 38 ####
+Elly
+"Father..."
+
+#### 39 ####
+Medena
+"Oh, Elly...{wait:0A}
+What are you doing 
+in your father's room?{enter}
+Don't you remember how 
+mad he got last time?
+What am I going to do
+with you..."
+
+#### 40 ####
+
+

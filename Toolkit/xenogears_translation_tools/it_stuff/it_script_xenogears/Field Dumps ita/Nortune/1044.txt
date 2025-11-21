@@ -1,0 +1,32 @@
+<TextBlock 1 w:38 h:3>
+<Delay 5>…<Delay 5> Posso riposare qui.<Delay 15>
+    Non riposare
+    Riposa<Close><End of Block>
+<TextBlock 2 w:36 h:3>
+Shitan
+"Non c'è tempo.<Delay 15>
+Dobbiamo sbrigarci<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 3 w:46 h:3>
+Shitan
+"Aspetta,<Delay 5> Fei.<Delay 5>
+Hai ultimato i
+preparativi?<Delay 15><New>
+Sai che non potremo
+più tornare indietro…"<Close><End of Block>
+<TextBlock 4 w:52 h:4>
+Fei
+"Eh?<Delay 5> Sì,<Delay 5> hai ragione."<Delay 15>
+    Vado a prepararmi
+    Sono pronto<Close><End of Block>
+<TextBlock 5 w:48 h:4>
+Shitan
+"<Delay 5>…<Delay 5> Bene.<Delay 15>
+Andiamo?<Delay 5>
+Non c'è molto tempo."<Close><End of Block>
+<TextBlock 6 w:46 h:4>
+Shitan
+"<Delay 5>…<Delay 5> C'è ancora un po' di
+tempo prima che arrivi
+il treno<Delay 5>…<Delay 15> Riposiamoci.<New>
+Resteremo qui per
+un po'."<Close><Close><End of Block>

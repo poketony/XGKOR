@@ -1,0 +1,9 @@
+<TextBlock 1 w:40 h:1>
+Usato Passepartout.<Close><End of Block>
+<TextBlock 2 w:24 h:1>
+Chiusa.<Close><End of Block>
+<TextBlock 3 w:40 h:2>
+ 
+ Ricevi Antiraggi.<Close><End of Block>
+<TextBlock 4 w:24 h:1>
+Chiusa.<Close><Close><End of Block>

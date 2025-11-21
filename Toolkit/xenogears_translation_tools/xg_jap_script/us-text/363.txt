@@ -1,0 +1,35 @@
+#### 1 ####
+Yow...!?{clear:1E}
+
+#### 2 ####
+Oh, it's only you.
+Don't scare me.{wait:14}
+Damn it, where is the
+booze? Booze!!
+
+#### 3 ####
+Yow...!?{clear:1E}
+
+#### 4 ####
+Who are you, a new face?
+Don't scare me...{wait:14}
+I was wondering if there're 
+some drinks in here.
+
+#### 5 ####
+Are the higher ups still
+planning on fighting with
+some country called
+Solaris?{enter}
+Aren't they the scary
+guys who actually control
+the world from the 
+shadows?{enter}
+Uhh...this is crazy.{wait:14}
+Just when I thought I was
+able to survive.{wait:14}
+I can't take it anymore.
+
+#### 6 ####
+
+

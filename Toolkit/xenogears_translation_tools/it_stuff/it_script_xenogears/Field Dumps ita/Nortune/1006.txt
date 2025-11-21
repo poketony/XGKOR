@@ -1,0 +1,700 @@
+<TextBlock 1 w:40 h:3>
+Fei
+"Sembra che Hammer
+sia arrivato."<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+Oh, sì. La prossima volta,
+bussate! Allora vi aprirò
+la porta.<New>
+Se passate dal bagno<Delay 5>…<Delay 5>…<Delay 5>…<Delay 5>…
+lo… sapete! Potrebbe
+essere nel momento
+sbagliato.<Close><End of Block>
+<TextBlock 3 w:46 h:4>
+Fei
+"<Delay 5>…<Delay 5>… Ah,<Delay 5> sì.<Delay 5>
+Hai ragione<Delay 5>…<Delay 5> Capisco.
+E… quante volte bussiamo?"<Close><End of Block>
+<TextBlock 4 w:42 h:3>
+Mmmh,<Delay 5> diciamo<Delay 5>…<Delay 5>…<Delay 30>
+'2,<Delay 15> 1,<Delay 15> 2'<Delay 15>… Dici<Delay 5> 
+che va bene?<Close><End of Block>
+<TextBlock 5 w:36 h:3>
+Fei
+"Capito.<Delay 15>
+2,<Delay 5> 1,<Delay 5> 2<Delay 15>…<Delay 5> giusto?"<Close><End of Block>
+<TextBlock 6 w:42 h:2>
+Ah,<Delay 5> sì.<Delay 15>
+Bene allora,
+buona fortuna.<Close><End of Block>
+<TextBlock 7 w:58 h:4>
+Anch'io avevo pensato di
+lasciare la Capitale
+Imperiale…<New>
+Ma poi sono arrivata a
+pensare che se m'impegno
+più duramente, le cose
+miglioreranno<Delay 5>…<Delay 5>…<Delay 30><New>
+Anche voi fate del
+vostro meglio, OK!?<Close><End of Block>
+<TextBlock 8 w:42 h:1>
+Come va? Bene?<Close><End of Block>
+<TextBlock 9 w:38 h:2>
+Ehi,<Delay 5> fermi un attimo!<Delay 15>
+Da dove<Delay 5>…<Delay 5>…<Opcode 2 45><Close><End of Block>
+<TextBlock 10 w:38 h:3>
+Eh,<Delay 5> eh?<Delay 5>
+Tu sei<Delay 10> quello del
+Blocco D<Delay 5>…<Delay 5>…<Close><End of Block>
+<TextBlock 11 w:54 h:3>
+Voi<Delay 5> siete tutti
+come mia figlia.
+Lei non si arrende mai.<New>
+Quanta gente!
+Dev'essere dura per voi
+andare in giro.<New>
+Cambiate i membri del gruppo?<Delay 15>
+    No
+    Cambiali<Close><End of Block>
+<TextBlock 12 w:48 h:3>
+<Delay 5>…<Delay 5>… Ok.<Delay 15>
+A proposito,<Delay 5> avete
+fatto visita a mia figlia
+mentre lavora nel Blocco D?<Delay 5><New>
+Se no, a tutti i costi,
+vi prego di farle una visita.<Close><End of Block>
+<TextBlock 13 w:54 h:3>
+Vedo che molte cose
+sono successe. Non mi
+stupisco che abbiano
+imposto la legge marziale.<Delay 15><New>
+Vi prego di augurarle,<Delay 15>
+e lo auguro anche a voi<Delay 5>…<Delay 5>…
+buona fortuna.<Close><End of Block>
+<TextBlock 14 w:48 h:4>
+Sapete, sta mantenendo
+la promessa che vi ha fatto<Delay 5>…<Delay 5>…<Delay 15>
+Lei è nel Blocco D, perciò    
+non dimenticate di farle
+una visita ogni tanto.<Close><End of Block>
+<TextBlock 15 w:28 h:1>
+Tenete duro.<Close><End of Block>
+<TextBlock 16 w:46 h:3>
+Cielo,<Delay 5> un cliente?<Delay 15>
+<Delay 5>…<Delay 5>… Cosa?<Delay 15> Pensavo di
+aver chiuso la porta<Delay 5>…<Delay 5>?<Close><End of Block>
+<TextBlock 17 w:48 h:3>
+<Delay 5>… Come siete
+entrati?<New>
+Non sarete mica entrati
+dal camino nel bagno,
+vero?<Close><End of Block>
+<TextBlock 18 w:50 h:4>
+<Delay 5>…<Delay 5>… Oh, siete
+voi. Siete sopravvissuti
+all'assalto aereo di Aveh<Delay 5>…<Delay 5>
+<Delay 5>…<Delay 5>… Cosa?<Delay 5>…<Delay 5>… Mia figlia?<Delay 15><New>
+<Delay 5>…<Delay 5> Diana. Lei è…<Delay 5>
+nell'attacco<Delay 5>…<Delay 5> sob, sob.<Delay 15>
+<Delay 5>…<Delay 5> Ci ha protetti tutti
+dalle<Delay 5>…<Delay 5>…<Close><End of Block>
+<TextBlock 19 w:50 h:4>
+Lei <Delay 5>era sul punto di
+iniziare a vivere la sua vita<Delay 5>…<Delay 5>
+Invece, ha salvato una vecchia
+come me<Delay 5>…<Delay 5> Come potrei<Delay 5>…<Delay 5><New>
+Dio<Delay 5>…<Delay 5> mi perdoni<Delay 5>…<Delay 5>
+La vostra presenza qui,
+oggi, mi fa ricordare<Delay 5>
+lei troppo<Delay 5>…<Delay 5><Close><End of Block>
+<TextBlock 20 w:52 h:4>
+Dopo l'assalto<Delay 5> mi sono
+allontanata per un po', ma
+questa rimane la città in
+cui mia figlia nacque.<New>
+Anch'io vivrò qui il resto
+della mia vita.<Delay 30>
+Assieme a lei<Delay 5>…<Delay 5>
+in memoria di Diana<Delay 5>…<Close><End of Block>
+<TextBlock 21 w:50 h:3>
+A casa mia dorme <Delay 5>…<Delay 5> mia
+sorella. Lei ha riacceso
+il mio spirito.<New>
+Mia sorella<Delay 5>…<Delay 5> ora è a
+casa. Mia sorella<Delay 5>…<Delay 5> sob…<Close><End of Block>
+<TextBlock 22 w:54 h:4>
+Hammer
+"<Delay 5>…<Delay 5> Usa la chiave… come<Space 1>
+<Delay 5>Oh!? Che, che fu,<Delay 5> o frate?<New>
+Ti scordasti dov'è la
+base?<Delay 10> Sigh,<Delay 15> va bene.<New>
+Lo stabilimento militare è
+a<Delay 5> nord della capitale<Delay 10>,
+oltre la parte aperta della
+catena di montagne.<New>
+Ora sei a posto, ah!"<Close><End of Block>
+<TextBlock 23 w:54 h:4>
+Hammer
+"Diedi tutti i miei oggetti
+alla gente che fu ferita
+nell'attacco di Aveh.<New>
+Pe… però non presi manco
+un soldo, ah!<Delay 10>
+Non l'avrei mai fatto
+prima…<New>
+Chi l'avrebbe mai detto
+che l'avrei potuto fare?<Delay 10>
+… Ah. Probabilmente
+è colpa tua, o frate."<Close><End of Block>
+<TextBlock 24 w:42 h:3>
+Hammer
+"O frate, vuoi
+accattare qualcosa?<Delay 15>
+<Delay 5>…<Delay 5><New>
+Scherzavo. Non c'ho
+proprio nulla."<Close><End of Block>
+<TextBlock 25 w:50 h:3>
+Fei
+"… Sono andato al
+Blocco D, ma…<New>
+… non volevano far
+entrare la gente per
+colpa della legge
+marziale."<Close><End of Block>
+<TextBlock 26 w:48 h:3>
+Fei
+"<Delay 5>…<Delay 5> Questa porta portava
+al bagno, giusto?<New>
+<Delay 5>…<Delay 5> Va bene,<Delay 10> non
+preoccuparti!"<Close><End of Block>
+<TextBlock 27 w:38 h:4>
+Elly
+"Fei, quello è il<Delay 5>…<Delay 30>
+Oh<Delay 5>…<Delay 5> lascia stare.<Delay 15>
+Non è nulla<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 28 w:50 h:2>
+Fei
+"Elly, sei arrossita
+in faccia."<Close><End of Block>
+<TextBlock 29 w:44 h:4>
+Elly
+"Non<Delay 5>…<Delay 10> è<Delay 5> nulla!
+Sbrighiamoci ed
+andiamo, Fei!!"<Close><End of Block>
+<TextBlock 30 w:50 h:3>
+Shitan
+"Fei, quello è il bagno.<New>
+L'uscita è da quella
+parte, a meno che<Delay 5>…<Delay 15>
+tu proprio non ce
+faccia…"<Close><End of Block>
+<TextBlock 31 w:22 h:2>
+Fei
+"<Delay 5>…<Delay 5>…<Delay 5>…"<Close><End of Block>
+<TextBlock 32 w:40 h:2>
+Shitan
+"Sto scherzando."<Close><End of Block>
+<TextBlock 33 w:48 h:4>
+Hammer
+"Oh,<Delay 5> sì!<Delay 15>
+Dimenticai di dirti
+di Mastro Rico, o frate."<Close><End of Block>
+<TextBlock 34 w:36 h:2>
+Fei
+"L'hai visto?"<Close><End of Block>
+<TextBlock 35 w:46 h:4>
+Hammer
+"Sì, e gli parlai del
+nostro piano per scappare
+dalla capitale<Delay 5>…<Delay 15><New>
+Però disse che non
+ci può aiutare."<Close><End of Block>
+<TextBlock 36 w:22 h:2>
+Fei
+"<Delay 5>…<Delay 5> Capisco."<Close><End of Block>
+<TextBlock 37 w:50 h:4>
+Shitan
+"Fei,<Delay 5> deve intraprendere
+la sua strada.<Delay 30> Ora<Delay 5>…<Delay 5>
+andiamo."<Close><End of Block>
+<TextBlock 38 w:50 h:3>
+Elly
+"<Delay 5>…<Delay 5> Fei,<Delay 15> dobbiamo
+sbrigarci ad andare
+ad Aveh<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 39 w:50 h:3>
+Fei
+"Ah? Ah, sì… lo so,
+Elly. Dobbiamo
+sbrigarci…<New>
+Se passiamo attraverso
+l'entrata frontale,
+potremmo trovarci a
+combattere le guardie…<New>
+Hammer, non appena ci
+apriremo un varco,
+seguici subito dopo."<Close><End of Block>
+<TextBlock 40 w:50 h:4>
+Hammer
+"È la mia specialità.
+Lassa fare a mia,<Delay 15> o frate.<Delay 15>
+E combattete bene!"<Close><End of Block>
+<TextBlock 41 w:50 h:3>
+Fei
+"Doc, Elly<Delay 5>…<New>
+Andiamo. La nostra meta
+è lo stabilimento militare
+imperiale a nord."<Close><End of Block>
+<TextBlock 42 w:48 h:4>
+Hammer
+"Ehi, un secondo!<Delay 15>
+C'è una cosa che debbo
+dire ad Elly."<Close><End of Block>
+<TextBlock 43 w:14 h:3>
+Elly
+"Dire<Delay 20>
+<Delay 5>…<Delay 5> a me?"<Close><End of Block>
+<TextBlock 44 w:42 h:3>
+Hammer
+"Sì, a soro!
+Farò subito."<Close><End of Block>
+<TextBlock 45 w:24 h:2>
+Hammer
+"Bene!"<Close><End of Block>
+<TextBlock 46 w:30 h:2>
+Shitan
+"<Delay 5>…<Delay 5> Bene?"<Close><End of Block>
+<TextBlock 47 w:30 h:2>
+<Opcode 1 255>Hammer
+"Uh, niente!!"<Close><End of Block>
+<TextBlock 48 w:46 h:4>
+<Opcode 1 255>Hammer
+"O frate, o Shitan…<New>
+Buona fortuna per quando
+dovrete attraversare
+l'entrata frontale!"<Close><End of Block>
+<TextBlock 49 w:46 h:4>
+Fei
+"<Delay 5>…<Delay 5> Prima salviamo l'Impero,
+ed ora è proprio l'Impero
+a darci la caccia."<Close><End of Block>
+<TextBlock 50 w:46 h:4>
+Shitan
+"Non possiamo compiere una
+mossa sbagliata con una
+sicurezza così stretta<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 51 w:48 h:4>
+Fei
+"Hammer è la nostra
+unica speranza<Delay 15>…<Delay 5> Però
+è troppo in ritardo…"<Close><End of Block>
+<TextBlock 52 w:50 h:2>
+Elly
+"… Non<Delay 15> c'è nessuno."<Close><End of Block>
+<TextBlock 53 w:46 h:4>
+Fei
+"Ma dov'è andata la
+proprietaria della
+casa…<New>
+… senza chiudere
+la porta?"<Close><End of Block>
+<TextBlock 54 w:46 h:3>
+Shitan
+"Il mobilio non è
+stato toccato<Delay 5>…<Delay 5><New>
+Probabilmente se ne
+sono andati quando
+Aveh ha attaccato."<Close><End of Block>
+<TextBlock 55 w:10 h:2>
+Elly
+"<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 56 w:48 h:3>
+Hammer
+"O frate, o Shitan!<Delay 15><New>
+Ottenni l'informazione
+chiave che dovrebbe
+aiutarci a uscire
+dalla capitale!"<Close><End of Block>
+<TextBlock 57 w:42 h:2>
+Fei
+"Allora, sentiamo,
+di che si tratta?"<Close><End of Block>
+<TextBlock 58 w:34 h:3>
+Hammer
+"La nuova super
+aeronave dell'impero…<New>
+… Il 'Golia'.
+È questa, o frate."<Close><End of Block>
+<TextBlock 59 w:40 h:4>
+Shitan
+"La nuova creazione
+dell'impero<Delay 5>…<Delay 5> la super
+aeronave 'Golia'?"<Close><End of Block>
+<TextBlock 60 w:36 h:3>
+Elly
+"<Delay 5>…<Delay 5> Super
+aeronave?<Delay 15>
+È così grande?"<Close><End of Block>
+<TextBlock 61 w:28 h:4>
+Hammer
+"Tsk tsk, è molto
+più che grande!<Delay 60> <Opcode 1 40>Ma
+cu' è 'sta fimmina<Delay 5>…<Delay 5>!?"<Close><End of Block>
+<TextBlock 62 w:30 h:2>
+Elly
+"… Io sono Elly."<Close><End of Block>
+<TextBlock 63 w:44 h:3>
+Hammer
+"!?<Delay 15> …<Delay 5> Come dissi,
+è molto più che
+grande, Elly!"<Close><End of Block>
+<TextBlock 64 w:48 h:4>
+Hammer
+"Il Golia è di una
+grandezza incredibile!<Delay 15><New>
+Dicono che il Golia
+possa far sembrare un
+Gear grande quanto un
+pisello.<New>
+Si dice che possa anche
+decimare la capitale di
+Aveh, Bledavik, tutto
+da solo."<Close><End of Block>
+<TextBlock 65 w:44 h:4>
+Fei
+"Annientare Aveh da
+solo!? Deve essere una
+nave da guerra mostruosa."<Close><End of Block>
+<TextBlock 66 w:50 h:4>
+Hammer
+"Secondo le mie
+'illustrissime' fonti…<New>
+… si trova a nord di
+Kislev,<Delay 10> in un
+hangar sotterraneo.<New>
+E questo hangar è in un
+qualche stabilimento
+militare<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 67 w:4 h:1>
+!?<Opcode 2 15><Close><End of Block>
+<TextBlock 68 w:48 h:4>
+Elly
+"<Delay 5>…<Delay 5> Lo stabilimento
+militare<Delay 5>…<Delay 5> a nord della
+capitale<Delay 5>…"<Close><End of Block>
+<TextBlock 69 w:42 h:2>
+Fei
+"Elly,<Delay 5> cosa c'è?"<Close><End of Block>
+<TextBlock 70 w:56 h:4>
+Elly
+"Conosco quello
+stabilimento. Ma non ve
+ne avevo parlato prima.<New>
+Lo stabilimento Imperiale<Delay 5>…<Delay 5>
+Mi infiltrai lì tempo fa<Delay 5>…<Delay 5><New>
+… ma non sapevo che ci
+fosse qualcosa del genere
+nei piani interrati<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 71 w:44 h:3>
+Shitan
+"<Delay 5>…<Delay 5> Elly,<Delay 15> rimembri ancora
+come t'infiltrasti
+nella base<Delay 5>…<Delay 5>?"<Close><End of Block>
+<TextBlock 72 w:26 h:2>
+Elly
+"Sì, Shitan."<Close><End of Block>
+<TextBlock 73 w:52 h:4>
+Elly
+"Molto a nord, oltre
+la Capitale Imperiale
+di Kislev<Delay 5>…<Delay 5><New>
+Oltre la 'parte aperta
+della catena di montagne'.<Delay 30><New>
+Lì si trova lo
+stabilimento militare
+della città Imperiale."<Close><End of Block>
+<TextBlock 74 w:50 h:4>
+Fei
+"Bene,<Delay 5> andiamoci!<New>
+Prima che<Delay 5> l'Impero decida
+di lanciare su Aveh un
+contrattacco."<Close><End of Block>
+<TextBlock 75 w:30 h:3>
+Fei
+"<Delay 5>…?<Delay 15>
+Mi conosci?"<Close><End of Block>
+<TextBlock 76 w:42 h:4>
+Shitan
+"Fei,<Delay 15> non lo avrai<Delay 5>…<Delay 5>
+fatto con questa donna
+mentre io ero via?"<Close><End of Block>
+<TextBlock 77 w:42 h:3>
+Fei
+"A…<Delay 5> aspetta un attimo,<Delay 5>
+doc!!<Delay 10> Io non l'ho fatto<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 78 w:46 h:3>
+Eh…? <Delay 5>Ahahah.
+Probabilmente non lo
+capisci perché ora sono
+vestita diversamente.<Close><End of Block>
+<TextBlock 79 w:10 h:2>
+Fei
+"???"<Close><End of Block>
+<TextBlock 80 w:42 h:3>
+Dai, sono io, la
+dottoressa del Blocco D.
+Non ti ricordi di me?<Close><End of Block>
+<TextBlock 81 w:48 h:3>
+Fei
+"<Delay 5>…!?<Delay 15> Ah, tu sei quella
+del Blocco D!"<Close><End of Block>
+<TextBlock 82 w:48 h:3>
+Sì, ora ti ricordi!
+Era tanto tempo che
+non ci vedevamo.<Delay 15> Oh,
+ti sei fatto togliere
+quel collare?<Close><End of Block>
+<TextBlock 83 w:38 h:3>
+Shitan
+"Sì, Fei è diventato
+il Campione di
+Battagliare.<Delay 15><New>
+Non è più un
+prigioniero."<Close><End of Block>
+<TextBlock 84 w:50 h:3>
+Ah, allora sei il Campione
+di Battagliare?<Delay 15> Wow!<Delay 5> È
+stupendo! Sapevo che
+eri forte!<Close><End of Block>
+<TextBlock 85 w:34 h:1>
+E lei chi sarebbe?<Close><End of Block>
+<TextBlock 86 w:46 h:3>
+Shitan
+"Oh, mi scusi,<Delay 5> noi
+due non ci siamo
+mai incontrati.<New>
+Io sono Shitan Uzuki.<Delay 15>
+Potrebbe dire che sono
+il suo guardiano."<Close><End of Block>
+<TextBlock 87 w:34 h:2>
+Fei
+"G… guardiano<Delay 5>…<Delay 5>?"<Space 1><Close><End of Block>
+<TextBlock 88 w:44 h:4>
+Shitan
+"Al momento, sono io il
+dottore nel Blocco
+Imperiale D<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 89 w:4 h:1>
+!?<Opcode 2 15><Close><End of Block>
+<TextBlock 90 w:40 h:2>
+<Opcode 1 255>Un attimo!<Opcode 2 90><Close><End of Block>
+<TextBlock 91 w:34 h:3>
+Shitan
+"Eh? Ah, beh<Delay 5>…<Delay 5>
+ecco<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 92 w:50 h:4>
+Perché il dottore del
+Blocco D si trova qui?<New>
+Sigh,<Delay 5> e cosa succede se
+qualcuno si fa male
+adesso!? Chi è che
+controllerà la ferita?<New>
+Come dottore, lei non
+sente un obbligo verso<Delay 5>…<Delay 5><New>
+Dr. Uzuki, ma lei non
+ha<Delay 15> neanche un
+po' di senso della
+responsabilità!?<Close><End of Block>
+<TextBlock 93 w:36 h:3>
+Shitan
+"Ecco, io… sono
+estremamente
+mortificato…"<Close><End of Block>
+<TextBlock 94 w:38 h:3>
+Fei
+"<Delay 5>…<Delay 5> Uhmm, vi dispiace<Delay 15>
+se vi interrompo?"<Close><End of Block>
+<TextBlock 95 w:10 h:1>
+Cosa?<Close><End of Block>
+<TextBlock 96 w:48 h:3>
+Fei
+"Tu qui sei il dottore
+in carica?<Delay 15><New>
+Questo è quello che ho
+sentito da Hammer."<Close><End of Block>
+<TextBlock 97 w:50 h:4>
+Aaahh, quel fatto lì.<New>
+Seguendo la richiesta
+dell'Impero, ho accettato
+di diventare il dottore
+in carica di questa parte
+della città.<New>
+Ma ora mi stanno dicendo
+che hanno già abbastanza
+dottori qui<Delay 5>…<Delay 5><Close><End of Block>
+<TextBlock 98 w:48 h:4>
+Ma chi credono di essere?<Delay 15>
+Perciò, per ora, sono
+in attesa.<Delay 30><New>
+Finché non succede
+qualcosa di davvero
+grosso, credo che starò
+qui per un bel po'<Delay 5>…<Delay 5><Close><End of Block>
+<TextBlock 99 w:48 h:4>
+Fei
+"<Delay 5>…<Delay 5> So di non essere
+nella posizione per
+chiedertelo, ma…<New>
+… non pensi che potresti
+ritornare al Blocco D?"<Close><End of Block>
+<TextBlock 100 w:42 h:3>
+Ma non è il Dr. Uzuki
+che ha quest'incarico
+nel Blocco D?<Delay 15>
+Non posso farlo come
+se nulla fosse!<Close><End of Block>
+<TextBlock 101 w:48 h:4>
+Fei
+"Beh, non è un problema.<Delay 15>
+<Delay 5>…<Delay 5> Noi lasceremo presto
+la capitale.<New>
+Ovviamente,<Delay 15> Doc
+sarà con me.<New>
+Perciò… sarebbe una buona
+cosa se tu ti prendessi
+cura del Blocco D."<Close><End of Block>
+<TextBlock 102 w:48 h:4>
+Vedo e capisco che
+avete i vostri problemi<Delay 5>…<Delay 15>
+Ok, lasciate il Blocco D
+a me.<New>
+Inoltre, se avete altri
+problemi, venite da me.
+Cercherò di aiutarvi
+in qualsiasi modo."<Close><End of Block>
+<TextBlock 103 w:48 h:2>
+Fei
+"Grazie, te ne
+devo una."<Opcode 2 65><Close><End of Block>
+<TextBlock 104 w:46 h:4>
+Shitan
+"Mi dispiace. La
+prego di prendersi
+cura di tutti."<Opcode 2 80><Close><End of Block>
+<TextBlock 105 w:44 h:3>
+Fei
+"Perdonaci.<New>
+Non c'era altro
+posto dove potevamo
+parlarne<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 106 w:44 h:3>
+No, va bene.
+Era un bel po' che
+non potevo vedere
+Hammer.<Close><End of Block>
+<TextBlock 107 w:46 h:4>
+Hammer
+"A soro,<Delay 10> non ti scordasti
+di me!<Delay 10> Sono così
+commosso!"<Close><End of Block>
+<TextBlock 108 w:34 h:4>
+Fei
+"Va bene, Hammer.<Delay 5>
+Allora, dimmi dove
+si trova il mio Gear."<Close><End of Block>
+<TextBlock 109 w:34 h:4>
+Hammer
+"Eh?<Delay 5> Ah!?<Delay 15>
+Già,<Delay 5> il Gear.<Delay 15>
+Quasi dimenticavo."<Close><End of Block>
+<TextBlock 110 w:54 h:4>
+Hammer
+"Come Doc aveva
+previsto, o frate…<New>
+… il tuo Gear è stato
+spostato in un altro
+hangar di smaltimento."<Close><End of Block>
+<TextBlock 111 w:40 h:3>
+Shitan
+"Ma allora…<Delay 5> dov'è
+<Weltall>, santo cielo?"<Close><End of Block>
+<TextBlock 112 w:56 h:4>
+Hammer
+"Hai centrato il punto,
+o Shitan! Non è sotto il
+'cielo'…<New>
+… ma addirittura sotto
+la terra!<New>
+È in un hangar sotterraneo
+nel Blocco D!<New>
+Ho fatto qualche controllo
+ed ho scoperto che ci sono
+due modi che possiamo
+usare per introdurci lì.<New>
+La prima è passare
+dall'Arena di
+Battagliare."<Close><End of Block>
+<TextBlock 113 w:54 h:4>
+Fei
+"Beh, non è possibile
+arrivarci dall'Arena
+di Battagliare!<Delay 15><New>
+Qual è il secondo modo?"<Close><End of Block>
+<TextBlock 114 w:54 h:4>
+Hammer
+"L'altro modo è un po'
+pericoloso, visto che…<New>
+… dovrete usare la
+galleria del treno dei
+rifornimenti.<New>
+Dovete entrare nelle
+condutture della galleria
+e seguirle finché non vi
+portano agli hangar.<New>
+Ma non ho potuto avere
+una piantina del condotto<Delay 5>…<Delay 30>
+Scusami, o frate."<Close><End of Block>
+<TextBlock 115 w:52 h:4>
+Fei
+"<Delay 5>…<Delay 5> Oh, quella galleria, eh?<New>
+Beh, ora che ci siamo
+realmente tolti dalle
+scatole il problema
+della bomba…<New>
+… potremmo anche
+provarci!"<Close><End of Block>
+<TextBlock 116 w:54 h:4>
+Shitan
+"Sì, ma rimaniamo comunque
+ignari degli orari nei
+quali passa il treno.<New>
+Un treno di rifornimenti
+passerà in un orario che
+ci è utile?"<Close><End of Block>
+<TextBlock 117 w:56 h:4>
+Fei
+"Non dobbiamo decidere
+tutto ora.<New>
+Prendiamoci il nostro
+tempo e progettiamo
+attentamente il piano!"<Close><End of Block>
+<TextBlock 118 w:54 h:4>
+Fei
+"Per prima cosa, Hammer,
+mi dispiace darti
+fastidio,<Delay 5> ma…<New>
+Potresti scoprire i giorni
+e le ore in cui il treno
+dei rifornimenti può
+servire alla nostra causa?"<Close><End of Block>
+<TextBlock 119 w:54 h:3>
+Hammer
+"Lassa fare a mia,
+o frate.<Delay 15>
+Faccio subito!<New>
+Bene, allora io vado!"<Close><End of Block>
+<TextBlock 120 w:38 h:3>
+Shitan
+"Vogliamo tornare
+al Blocco D per il 
+momento?"<Close><End of Block>

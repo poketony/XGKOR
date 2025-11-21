@@ -1,0 +1,115 @@
+<TextBlock 1 w:50 h:4>
+Shitan
+"Queste sono le unità 
+di Geburah al momento
+in Aveh, corretto?"<Close><End of Block>
+<TextBlock 2 w:46 h:2>
+Shitan
+"Le unità di guardia
+appostate ad ovest…"<Close><End of Block>
+<TextBlock 3 w:36 h:3>
+Shitan
+"… la forza di difesa
+della Capitale Reale…"<Close><End of Block>
+<TextBlock 4 w:42 h:4>
+Shitan
+"… e…<Delay 30> le unità lungo
+tutta la linea di
+confine con Kislev."<Close><End of Block>
+<TextBlock 5 w:44 h:4>
+Shitan
+"Ci sono tre gruppi
+principali.<New>
+Ognuno di essi è
+composto sia da 
+forze di Geburah che
+da forze di Aveh.<New>
+Ma solo due di essi
+sono molto numerosi."<Close><End of Block>
+<TextBlock 6 w:50 h:4>
+Shitan
+"Le unità di difesa della
+Capitale Reale e le unità
+di confine di Kislev.<New>
+Le unità di guardia lungo
+il confine di Nisan sono
+poco più che un gruppo
+di sorveglianza."<Close><End of Block>
+<TextBlock 7 w:52 h:3>
+Sigurd
+"Per riprenderci la
+Capitale Reale…<New>
+… sarà necessario
+condurre queste unità
+lontano da Bledavik."<Close><End of Block>
+<TextBlock 8 w:42 h:3>
+Shitan
+"Abbiamo dei Gear di
+Kislev, corretto?"<Close><End of Block>
+<TextBlock 9 w:38 h:3>
+Bart
+"Sì, li abbiamo
+catturati in
+precedenza."<Close><End of Block>
+<TextBlock 10 w:46 h:4>
+Shitan
+"E se usassimo questi
+Gear per fare una
+sortita contro…<New>
+… le unità di guardia
+qui al confine con
+Nisan?"<Close><End of Block>
+<TextBlock 11 w:52 h:4>
+Bart
+"Capisco, vuoi fargli
+credere che Kislev stia
+invadendo Aveh."<Close><End of Block>
+<TextBlock 12 w:42 h:4>
+Shitan
+"La forza principale della
+flotta di Aveh è la nave
+da guerra Kefeinzel.<New>
+È stata in servizio
+sin dal regno
+dell'ultimo re.<New>
+Per il suo volume di
+fuoco, l'intera unità
+è soprannominata la
+'flotta invincibile'.<New>
+Il rapporto di ieri
+delle spie diceva
+che quella nave è
+vicino al confine."<Close><End of Block>
+<TextBlock 13 w:48 h:4>
+Sigurd
+"Bene, ora che sappiamo
+chi abbiamo contro,
+ecco cosa faremo…"<Close><End of Block>
+<TextBlock 14 w:52 h:3>
+Sigurd
+"Oltre a tenerla lontano
+dalle nostre unità che
+si dirigono a Bledavik…<New>
+… dobbiamo impedire
+alla flotta al confine
+con Kislev di ritornare
+alla capitale."<Close><End of Block>
+<TextBlock 15 w:44 h:3>
+Bart
+"Suggerisci di usare
+un'altra unità?"<Close><End of Block>
+<TextBlock 16 w:54 h:4>
+Shitan
+"Pochi uomini potrebbero
+tenere il nemico a bada…<New>
+Una piccola forza è la
+soluzione ideale."<Close><End of Block>
+<TextBlock 17 w:38 h:2>
+Sigurd
+"Una piccola
+forza…?"<Close><End of Block>
+<TextBlock 18 w:44 h:3>
+Shitan
+"Che ne dite se Fei
+guida lì un gruppo
+di Gear?"<Close><Close><End of Block>

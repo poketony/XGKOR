@@ -1,0 +1,36 @@
+#### 1 ####
+Fei
+"Is it the thing we
+usually use to save?"
+
+#### 2 ####
+Fei
+"What's it for...?"
+
+#### 3 ####
+Elly
+"What's this!?
+Memory cube data!?"
+
+#### 4 ####
+Elly
+"This facility is the
+Integration Control
+Center?"
+
+#### 5 ####
+Citan
+"The information of all
+the people who have
+accessed the memory cube{enter}
+from all over the world
+is being sent here now."
+
+#### 6 ####
+You have too many
+{str}.
+
+#### 7 ####
+ 
+ Received {str}.
+

@@ -1,0 +1,42 @@
+#### 1 ####
+Billy
+"{wait:0A}...{wait:0A}No good.{wait:0F}
+He has passed away."
+
+#### 2 ####
+Ug{wait:0A}gghh{wait:0A}...{wait:0A}...
+
+#### 3 ####
+There are tons of books
+collected by the 'Ethos'
+stored in this library.{enter}
+It's a real treasure
+house of information.
+
+#### 4 ####
+Do you know about the huge
+tower called Babel Tower?{enter}
+They say it's built by
+people who tried to reach
+a god in the sky.{enter}
+According to tradition, god
+became angry with their
+disrespect and his thunder
+destroyed the tower.
+
+#### 5 ####
+People who built Babel
+Tower were so afraid of
+god's revenge they ran
+away to the sky.{enter}
+That place is Shevat, the
+'house of sinning hermits'.
+
+#### 6 ####
+I've been assigned to
+go to the excavation
+site in Dazil.{enter}
+I'm to review the
+technical information
+of the ruins once again.
+

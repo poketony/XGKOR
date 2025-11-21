@@ -1,0 +1,73 @@
+#### 1 ####
+The remote village of Lahan,
+ in the outskirts of Aveh,
+near the border with Kislev.{clear:A0}
+
+#### 2 ####
+This is where it all begins.{clear:96}
+
+#### 3 ####
+The continent of Ignas, in the
+northern hemisphere of our world.{wait:1E}
+On this, the largest continent,
+a war has been raging between two
+countries for hundreds of years.{wait:1E}
+In the north of the continent lies
+the Kislev Empire, in the south
+lies the desert kingdom of Aveh.{wait:1E}
+The war has gone on for so long
+that the people have forgotten the
+cause, knowing only the pointless
+circle of hostility and tragedy.{wait:C8}{wait:C8}{wait:C8}
+
+#### 4 ####
+The chronic war obsession was soon
+to encounter a devastating change.{wait:1E}
+This was due to the 'Ethos',{wait:0A} an
+institution that preserves our
+world's culture,{wait:0A} repairing tools
+and weapons excavated from the
+ruins of an ancient civilization.{wait:1E}
+At once both countries excavated
+these ruins, and had the 'Ethos'
+repair the discoveries, in order
+to increase their military power.{wait:C8}{wait:DC}{wait:DC}
+
+#### 5 ####
+The various weapons excavated from
+the ruins greatly changed the form
+of warfare.{wait:1E}
+The outcome of the battles between
+the two countries was no longer
+determined by man-to-man combat,
+but by 'Gears'{wait:0A} - giant humanoid
+fighting machines -{wait:0A} that were
+obtained from deep within the
+ruins.{wait:C8}{wait:C8}{wait:C8}
+
+#### 6 ####
+Eventually,{wait:0A} after continuous
+swings in the state of the war,{wait:0A}
+Kislev gained the upper hand.{wait:1E}
+The major factor behind this lay
+in the enormous difference in the
+amount of resources buried within
+their ruins.{wait:1E}
+But suddenly a mysterious military
+force appeared in the continent of
+Ignas.{wait:14} Called 'Gebler', this force
+decided to make contact with Aveh.{wait:C8}{wait:C8}{wait:C8}
+
+#### 7 ####
+With the assistance of this Gebler
+military force,{wait:05} Aveh was able to
+recover from being hopelessly out-
+numbered to being back on an even
+standing with Kislev.{wait:1E}
+Then,{wait:0A} taking further advantage of
+its newly gained momentum,{wait:0A} Aveh
+started to capture one territory
+after another from Kislev,{wait:0A} showing
+no indication of slowing down in
+their invasion campaign.{wait:C8}{wait:DC}{wait:DC}
+

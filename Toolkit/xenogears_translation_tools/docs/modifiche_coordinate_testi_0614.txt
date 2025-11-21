@@ -1,0 +1,13 @@
+Estrarre il 6° file dell'archivio.
+
+Andare all'offset 0x17FC
+
+Primo dialogo: 0x17FC, 1080 coordinate x. 1A80 è la y.
+
+Secondo dialogo: 0x180C, D010 x, 8020 y.
+
+Terzo dialogo: 0x181E, 1080 x, 2680 y.
+
+Quarto dialogo: 0x182E, D010 x, 8020 y.
+
+Quinto dialogo: 0x1840, 1080 x, 2280 y.

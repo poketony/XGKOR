@@ -1,0 +1,72 @@
+<TextBlock 1 w:50 h:3>
+Elly
+"Che strano edificio…<New>
+Sembra che siamo
+costretti a prendere
+una strada tortuosa."<Close><End of Block>
+<TextBlock 2 w:42 h:3>
+Elly
+"Per… nascondere
+e sigillare
+qualcosa…"<Close><End of Block>
+<TextBlock 3 w:48 h:4>
+Shitan
+"… I labirinti non sono
+solitamente costruiti per
+proteggersi dai nemici…<New>
+Di solito, sono costruiti
+per sigillarci e
+nasconderci qualcosa."<Close><End of Block>
+<TextBlock 4 w:50 h:3>
+Bart
+"… È proprio uno
+strano edificio…<New>
+Stanze a tenuta stagna,
+analizzatori e corridoi
+che girano in tondo.<New>
+È proprio così. … Sembra
+proprio che non volessero
+far entrare nessuno…<New>
+Mhh, ma adesso sembra
+tutto in rovina… come un
+sogno cupo e desolato."<Close><End of Block>
+<TextBlock 5 w:50 h:3>
+Bart
+"… Cazzo…<New>
+Non spaventarmi in
+quel modo! Cosa pensi
+ci sia dentro?"<Close><End of Block>
+<TextBlock 6 w:50 h:4>
+Billy
+"Che costruzione
+fastidiosa…<New>
+Sembra quasi che
+rifiuti gli intrusi."<Close><End of Block>
+<TextBlock 7 w:44 h:4>
+Billy
+"Non per tenere lontani
+gli intrusi, ma per
+tenere dentro qualcosa…<New>
+Mi chiedo cosa sia
+quel 'qualcosa'…?"<Close><End of Block>
+<TextBlock 8 w:44 h:3>
+Rico
+"… Che spreco, è
+tutto pieno di scale
+e di muri.<New>
+Pare che non potremo
+entrare facilmente."<Close><End of Block>
+<TextBlock 9 w:50 h:4>
+Rico
+"Sigillare e nascondere…<New>
+… Se si vive in una
+prigione per lungo tempo,
+all'inizio darà fastidio…<New>
+… ma poi ci si abitua e
+si finisce col dipendere
+da questa cosa.<New>
+Qualunque cosa sia chiusa
+qui dentro, sarà senza
+dubbio un nostro nemico.<New>
+Esattamente come ogni
+persona di Solaris."<Close><Close><End of Block>

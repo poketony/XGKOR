@@ -1,0 +1,325 @@
+#### 1 ####
+!!{clear:1E}
+
+#### 2 ####
+Citan
+"Fei, it is alright."
+
+#### 3 ####
+Taura
+"The fate of the world is
+in your hands.{wait:0A}
+We're counting on you...!{enter}
+In the mean time, I will
+just watch from here..."
+
+#### 4 ####
+Taura
+"Thanks for visiting.{wait:0A}
+You're looking mighty
+healthy.{enter}
+I want to help you more...{wait:0A}
+but this body can't survive
+unless it breathes the air
+here...{enter}
+Looks like I'm just about
+ready to meet my maker,
+huh...{wait:05}
+Ho, hoh, hoh!"
+
+#### 5 ####
+Oh, Taura...
+
+#### 6 ####
+Taura
+"Don't worry, I'll stop my
+moaning. Besides, I have a
+nice present for you."
+
+#### 7 ####
+ 
+ {fast:FF}Received Manly Mantle!!{clear:3C}
+ 
+
+#### 8 ####
+ 
+ {fast:FF}Received Goddess Robe!!{clear:3C}
+ 
+
+#### 9 ####
+Taura
+"Was that a visitor
+I heard?"
+
+#### 10 ####
+Mysterious old man
+"Hmm...{wait:0A} He's
+finally awake..."
+
+#### 11 ####
+Here you go...
+
+#### 12 ####
+Mmm...
+
+#### 13 ####
+Hmm...hmm...
+
+#### 14 ####
+Fei
+"I'm...healed..."{clear:14}
+
+#### 15 ####
+Mysterious old man
+"You've been sleeping
+in this Nanoreactor
+for three weeks."
+
+#### 16 ####
+Fei
+"Nanoreactor?{wait:0A}
+Who are you...?"
+
+#### 17 ####
+Mysterious old man
+"Me...?"
+
+#### 18 ####
+Mysterious old man
+"I forgot my name...{wait:0A}
+Some people call me
+Taura..."
+
+#### 19 ####
+Taura
+"You seemed to have
+recovered completely.{wait:0A}{enter}
+Those were terrible wounds,
+but maybe your youth and
+strength helped..."
+
+#### 20 ####
+Taura
+"But your friend's wounds
+are more serious and may
+take a while longer..."
+
+#### 21 ####
+Fei
+"My friend...?"{clear:1E}
+
+#### 22 ####
+Elly!!{clear:14}
+
+#### 23 ####
+Fei
+"Elly..."
+
+#### 24 ####
+Taura
+"Hey!
+Quit staring at the naked
+girl and come over here!"
+
+#### 25 ####
+Fei
+"Elly...?"
+
+#### 26 ####
+Taura
+"How do you feel now?{enter}
+The fresh forest air
+should have refreshed
+you somewhat, heh?"
+
+#### 27 ####
+Taura
+"Anyway...
+It's about the removal
+of the seal...{enter}
+I found out it can be
+released by using the
+Nanotechnology that
+regenerated you two."
+
+#### 28 ####
+Taura
+"The Nanoassemblers are
+enclosed in this pod."
+
+#### 29 ####
+Citan
+"If only we could scatter
+them all over the world..."
+
+#### 30 ####
+Taura
+"There's an ancient
+military installation
+nearby...{enter}
+We might be able to use the
+'Mass-driver' located in
+there to launch this pod
+into the upper atmosphere.{enter}
+Once the Nanoassemblers
+are released up there, the
+convection currents should
+spread 'em over the world!"
+
+#### 31 ####
+Taura
+"I wish I could go do it...
+but I am getting much too
+old for that type of thing.{enter}
+Then again, it's for your
+future.{wait:0A} An old man should
+not butt in. You young ones
+must do it for yourselves!"
+
+#### 32 ####
+Taura
+"Here."
+
+#### 33 ####
+Taura
+"And, of course,
+I'm not asking you
+to do it for free.{enter}
+Try this wrist band
+on."
+
+#### 34 ####
+?
+
+#### 35 ####
+Citan
+"What is that?"
+
+#### 36 ####
+Taura
+"This is an 'Emotion
+Control Device' in which
+nanotechnology is applied.{enter}
+From this machine shaped as
+a wrist band, nanomachines
+are infused through your
+epidermis into your brain.{enter}
+There they refine the SSRI
+intracerebral substances,
+such as Serotonin, that
+control emotions."
+
+#### 37 ####
+?{wait:05}?{clear:0F}
+
+#### 38 ####
+Taura
+"Well, I suppose it's
+rather difficult for
+you to understand...{enter}
+But in short, it means
+that the manifestation of
+your second personality,
+'Id', can be suppressed."
+
+#### 39 ####
+Fei
+"Id..."
+
+#### 40 ####
+Elly
+"Fei..."
+
+#### 41 ####
+Taura
+"Well, it's all theoretical
+though...{wait:0A} Oh, and I did one
+more thing as well...!{enter}
+I installed the same
+control device in your
+Gear..."
+
+#### 42 ####
+Citan
+"You mean, it can
+release Id at will...?"
+
+#### 43 ####
+Taura
+"Yes.{wait:0A}
+I called it 'System Id'.{enter}
+But of course it should
+not be over-used.{wait:0A}
+Use it only as a last
+resort."
+
+#### 44 ####
+Fei
+"Elly,{wait:0A} doc,{wait:0A}
+I..."
+
+#### 45 ####
+Citan
+"Fei,{wait:0A} there was nothing
+you could do...{enter}
+It will never happen again
+with Taura's technology
+though. He is one of the
+three Shevat sages."
+
+#### 46 ####
+Taura
+"Whether you believe it
+or not, it's up to you."
+
+#### 47 ####
+Fei
+"..."
+
+#### 48 ####
+Taura
+"Oh?{wait:0A}
+It sounds like
+we have a guest!"
+
+#### 49 ####
+!!{clear:1E}
+
+#### 50 ####
+Taura
+"I thought so..."
+
+#### 51 ####
+Taura
+"So, you were the one who
+brought Fei and his girl
+to me...{enter}
+I realized it the minute
+I saw the two of them.{wait:0A}
+Why, how could I help but
+notice...{enter}
+They looked the spitting
+image of you and{wait:05} her.{wait:0A}
+Yes, just as you yourselves
+looked way back then{wait:05}..."
+
+#### 52 ####
+Taura
+"Right, Lacan...?"
+
+#### 53 ####
+Krelian
+"Lacan, look at this.{wait:0A}
+I finally completed it.{wait:0A}{enter}
+This will save people's
+lives."
+
+#### 54 ####
+Krelian
+"Isn't that right,{wait:0A}
+Melchior?{wait:0A} With this even
+Sophia will..."
+
+#### 55 ####
+ 
+

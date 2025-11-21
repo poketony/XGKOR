@@ -1,0 +1,78 @@
+<TextBlock 1 w:32 h:2>
+Non va bene!
+Siamo nei guai!<Close><End of Block>
+<TextBlock 2 w:34 h:3>
+Fei
+"Pochi minuti…<Delay 32>
+Doc!!"<Close><End of Block>
+<TextBlock 3 w:28 h:3>
+Fei
+"Usciamo fuori
+di qui, Doc!"<Close><End of Block>
+<TextBlock 4 w:16 h:2>
+Shitan
+"Oh-oh!"<Opcode 2 32><Close><End of Block>
+<TextBlock 5 w:54 h:4>
+Shitan
+"A giudicare
+dall'angolazione<Delay 10>…<New>
+Sembra che un colpo di
+cannone abbia fatto
+un buco nello scafo…<New>
+Affonderemo in
+pochi minuti."<Close><End of Block>
+<TextBlock 6 w:34 h:3>
+Shitan
+"È chiusa…<Delay 32>
+Qualcuno ci liberi!<New>
+Argghh!!"<Close><End of Block>
+<TextBlock 7 w:40 h:2>
+Shitan
+"Troppo tardi…"<Opcode 2 46><Close><End of Block>
+<TextBlock 8 w:54 h:4>
+Shitan
+"C'è una leva per il
+portello là, sul lato
+destro del muro!<New>
+Ma fai attenzione…
+Una volta chiuso non si
+potrà aprire di nuovo."<Opcode 2 150><Close><End of Block>
+<TextBlock 9 w:48 h:4>
+Shitan
+"Fei! Se chiudi il
+portello ora resteremo
+sepolti vivi!"<Opcode 2 90><Close><End of Block>
+<TextBlock 10 w:32 h:2>
+Shitan
+"Fei! Presto!"<Opcode 2 32><Close><End of Block>
+<TextBlock 11 w:40 h:2>
+Shitan
+"Oh no, troppo tardi…"<Opcode 2 46><Close><End of Block>
+<TextBlock 12 w:54 h:4>
+Shitan
+"C'è una leva per il
+portello là, sul lato
+destro del muro!<New>
+Ma fai attenzione…
+Una volta chiuso non si
+potrà aprire di nuovo."<Opcode 2 150><Close><End of Block>
+<TextBlock 13 w:48 h:4>
+Shitan
+"Fei! Se chiudi il
+portello ora resteremo
+sepolti vivi!"<Opcode 2 90><Close><End of Block>
+<TextBlock 14 w:38 h:2>
+Shitan
+"Fei! Presto…!"<Opcode 2 32><Close><End of Block>
+<TextBlock 15 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 16 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 17 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 18 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><Close><End of Block>

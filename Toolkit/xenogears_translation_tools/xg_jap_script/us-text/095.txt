@@ -1,0 +1,483 @@
+#### 1 ####
+Citan
+"Good work. Get plenty
+of rest for tomorrow."
+
+#### 2 ####
+Going out again?
+    Yes
+    Get some rest
+
+#### 3 ####
+Citan
+"Are you sure?
+Please do not come 
+back too late."
+
+#### 4 ####
+Citan
+"Good.
+Save your energy
+for tomorrow."
+
+#### 5 ####
+Citan
+"Come back after you
+have registered for
+the Tournament."
+
+#### 6 ####
+Citan
+"Good morning.
+Operation 'Rescue Margie'
+is now underway!"
+
+#### 7 ####
+Citan
+"First Fei and I will
+prepare for the Tournament
+at the arena.{enter}
+When the Tournament starts,
+Bart will enter the water-
+way through the well and
+head for the castle.{enter}
+If you swim against the
+current you should reach
+the castle.{enter}
+I am certain there will
+still be some guards
+there, so please dispose
+of them quietly.{enter}
+We will make a good show
+at the Tournament to draw
+the guards' attention as
+long as possible.{enter}
+During that time, you can
+rescue Margie."
+
+#### 8 ####
+Any questions?
+    Got it
+    Once more, please
+
+#### 9 ####
+Citan
+"Then let us go.
+Be careful, young one!"
+
+#### 10 ####
+Bart
+"Fei, no matter what, 
+you gotta win!"
+
+#### 11 ####
+Bart
+"Well, I'm all ready so
+I'm gonna get some sleep.
+Man, I'm beat."
+
+#### 12 ####
+More sightseeing 
+in Aveh?
+    Yes
+    Rest
+
+#### 13 ####
+Bart
+"Really?{enter}
+If we succeed tomorrow
+I won't be  comin' back
+here for a while."
+
+#### 14 ####
+Bart
+"Yeah, tomorrow will be 
+tough for both of us."
+
+#### 15 ####
+Bart
+"Did you register for
+the Tournament? What?{enter}
+Not yet! Go hurry and
+sign up."
+
+#### 16 ####
+Bart
+"It's about to start!
+I guess I better go
+get ready too."
+
+#### 17 ####
+Is this plan really
+going to work?
+
+#### 18 ####
+Bart
+"It's already started. 
+If something's wrong now,
+then that's tough!{enter}
+What're you worried about?
+Fei'll do okay.
+Besides Citan's with him,
+too.{enter}
+Now, all I gotta do is
+sneak into the castle
+through the well.
+No problem."
+
+#### 19 ####
+I pray so.
+
+#### 20 ####
+Bart
+"Well, I'm going.
+Margie's waiting
+in the citadel."
+
+#### 21 ####
+Well then...
+do be careful.{enter}
+And thank you for
+helping Mother
+Marguerite.
+
+#### 22 ####
+Bart
+"No sweat!
+You'd better get
+outta Aveh now too.{enter}
+Things are gonna get
+outta hand soon."
+
+#### 23 ####
+Thank you.
+
+#### 24 ####
+!!{clear:1E}
+
+#### 25 ####
+What's going on!?
+How dare you come into
+other people's rooms
+through the window...
+
+#### 26 ####
+Prince Bartholomew!
+
+#### 27 ####
+...I'm sorry. I heard
+Prince Bartholomew was
+coming here...{enter}
+I just never expected
+it would be through
+the window...
+
+#### 28 ####
+Please come in.
+
+#### 29 ####
+Excuse me but
+who are they...
+
+#### 30 ####
+{slow:01}Bart
+"Oh, this is Fei and
+Citan. They're going to
+help rescue Margie."
+
+#### 31 ####
+Thank you for coming here
+in this desert heat.
+I am a servant of the
+Nisan Sect.{enter}
+Ever since Shakhan took
+Mother Marguerite I've
+been looking into ways
+to get her back.{enter}
+I've been trying to find
+out where she is being
+held.{enter}
+I've been busy listening
+to workers talk about
+the comings and goings
+from the castle...{enter}
+And giving food to the
+guards who are preparing
+for the Tournament to
+loosen their lips too.{enter}
+Finally yesterday, I got
+some information...
+Margie's in the citadel.{enter}
+The problem is how to 
+slip into the castle...{enter}
+I thought about it a lot
+but it looks pretty bleak.
+I'm sorry.
+
+#### 32 ####
+Bart
+"No big deal. At least
+we know where she is now.{enter}
+You just relax, we'll
+find a way to slip into
+the castle."
+
+#### 33 ####
+My apologies. If there
+is anything else I can do
+to help just ask...{enter}
+Do you have any good leads?
+
+#### 34 ####
+Did you find a way 
+into the castle?
+
+#### 35 ####
+Did you find a way 
+to use the festival?
+
+#### 36 ####
+Any new information?
+Good ideas?
+
+#### 37 ####
+Any luck finding
+the well key?
+
+#### 38 ####
+Bart
+"Yeah, the old guy next 
+to the well had it."
+
+#### 39 ####
+Citan
+"Not yet. We are going
+to look for it again."
+
+#### 40 ####
+Bart
+"Not yet. We're gonna
+hit the streets for
+info. now.{enter}
+Then we'll think
+about the rest later."
+
+#### 41 ####
+I see. I'm very relieved
+that you are all here.
+Please come see me again
+if you hear anything new.
+
+#### 42 ####
+Bart
+"I just remembered where
+Bledavik's water supply
+comes from...{enter}
+Spring water rises up from
+under the castle and flows
+to the town via a series
+of underground waterways.{enter}
+We can sneak into the
+castle by going through
+these underground
+waterways.{enter}
+We can get into them from
+the town's well. The water-
+ways should lead right up
+to the castle's reservoir.{enter}
+If we are able to get that
+far, we should be able to
+sneak into the other rooms
+of the castle from there."
+
+#### 43 ####
+Citan
+"A good idea, except I
+have one more suggestion.{enter}
+There is a festival going
+on now. There must be a
+way we can use it to our
+advantage." 
+
+#### 44 ####
+£¡{clear:1E}
+
+#### 45 ####
+North of town is a
+plaza. The castle is
+beyond that.{enter}
+I'm sure we'll find
+something there.
+
+#### 46 ####
+Citan
+"Tomorrow is the 
+Tournament. There will
+be betting at the arena.{enter}
+Surely, the soldiers'
+minds will be more on the
+Tournament than their job.{enter}
+We must use this to our
+advantage."
+
+#### 47 ####
+What do you mean?
+
+#### 48 ####
+Citan
+"Fei will participate.
+We will have him put
+on a big show there."
+
+#### 49 ####
+Bart
+"Tomorrow's the Tournament.{enter}
+Nothing's more popular than
+gambling at these things.{enter}
+All the guards will be
+betting. They'll all be
+gambling.{enter}
+They'll be more interested
+in the fight than their
+jobs. We gotta use this.
+Fei! You've gotta fight!"
+
+#### 50 ####
+Fei
+"Huh? Me?"
+
+#### 51 ####
+Bart
+"Everyone would know me.
+Besides, I know the castle
+well so I should sneak in."
+
+#### 52 ####
+I'm sure today's the
+last day to sign up for
+the Tournament. You'd
+better register soon.
+
+#### 53 ####
+Citan
+"No need to worry.
+Fei already registered."
+
+#### 54 ####
+Citan
+"Even if using that as a
+ploy, how will you really
+get into the castle?"
+
+#### 55 ####
+Bart
+"...We gotta get more
+info.{wait:1E} I'm sure we'll get a
+good idea from somewhere."
+
+#### 56 ####
+Citan
+"Very well.{enter}
+If we get any good ideas
+we will meet back here and
+plan our strategy."
+
+#### 57 ####
+Citan
+"Tomorrow Fei will be in
+the Tournament at Fatima
+castle.{enter}
+We will put on a good show
+to distract the guards.{enter}
+Then Bart will infiltrate
+the castle through the
+underground waterways
+by way of the well.{enter}
+I will accompany Fei to
+the Tournament. I will
+also help work the crowd
+and secure our escape."
+
+#### 58 ####
+Citan
+"Sounds good.{enter}
+Fei is in the Tournament.
+He will draw the guards'
+attention.{enter}
+Then Bart will enter the
+castle through the
+waterways via the well.{enter}
+After that he will rescue
+Marguerite from the
+citadel.{enter}
+I will accompany Fei to
+the Tournament. I will 
+also help work the crowd
+and secure our escape."
+
+#### 59 ####
+Citan
+"...{wait:32}There is one problem.
+The well is locked. First
+we must find the key."
+
+#### 60 ####
+Bart
+"Let's go find the key, 
+and fast!"
+
+#### 61 ####
+Citan
+"Preparations for our
+plan are complete.{enter}
+Tonight we will stay in
+the hotel and start out
+tomorrow.{enter}
+We are free to do what we
+like for now. 
+Let us have a look around
+the town."
+
+#### 62 ####
+Citan
+"Now to register for
+the Tournament.{enter}
+Fei, pretend you are
+looking around and
+head for the castle."
+
+#### 63 ####
+Sorry I can't help you.
+
+#### 64 ####
+Please take care. 
+I wish you the best 
+of luck.
+
+#### 65 ####
+Please take care.
+I will pray for
+all of you to
+return safely.
+
+#### 66 ####
+!{wait:1E}
+
+#### 67 ####
+Wh, who are you!?
+Just barging into a
+lady's room.
+And from the window!{enter}
+Oh, I think I'm going to
+faint. How rude you are!{wait:1E}
+What a dangerous town.
+Get out, now!
+
+#### 68 ####
+What are you doing? 
+Get out of here, now! {clear:1E}
+
+#### 69 ####
+No, don't come any 
+closer! Get out, now! {clear:1E}
+

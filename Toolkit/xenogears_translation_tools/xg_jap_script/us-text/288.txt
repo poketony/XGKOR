@@ -1,0 +1,48 @@
+#### 1 ####
+Miang
+"...{wait:14}I see...
+So that's what was
+going on."
+
+#### 2 ####
+Elly
+"..."
+
+#### 3 ####
+Miang
+"Since I have other
+matters to attend to,{enter}
+would you mind staying
+here for awhile?"
+
+#### 4 ####
+Elly
+"Not at all."
+
+#### 5 ####
+Miang
+"You don't have to worry
+about a thing. Leave the
+rest to me. {enter}
+What you need is to 
+recover from your fatigue."
+
+#### 6 ####
+Miang
+"Crystalline, blue... 
+like the surface of a
+lake..."
+
+#### 7 ####
+Elly
+"Uh...excuse me?"
+
+#### 8 ####
+Miang
+"Your eyes...
+They're beautiful."
+
+#### 9 ####
+Elly
+"What?"
+

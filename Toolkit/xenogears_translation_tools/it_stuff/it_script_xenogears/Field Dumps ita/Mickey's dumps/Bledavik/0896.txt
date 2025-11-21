@@ -1,0 +1,82 @@
+<TextBlock 1 w:42 h:3>
+Dobbiamo riscrivere
+tutti i falsi libri di
+storia sulla monarchia.<New>
+E anche sbarazzarci
+di ogni libro che
+possa causare problemi.<Close><End of Block>
+<TextBlock 2 w:52 h:4>
+Tutti gli archivi
+antecedenti a Shakhan
+sono diventati obsoleti.<New>
+Strano come il presente
+diventa il passato.<Close><End of Block>
+<TextBlock 3 w:48 h:3>
+Sto riorganizzando gli
+archivi che furono
+nascosti a Shakhan.<New>
+Mi fu detto di bruciarli,
+ma invece io li nascosi.<Close><End of Block>
+<TextBlock 4 w:72 h:3>
+Conosci la storia di Bledavik?
+    Sì
+    No<Close><End of Block>
+<TextBlock 5 w:40 h:1>
+Oh, già la conosci?<Close><End of Block>
+<TextBlock 6 w:58 h:5>
+La città fu costruita su
+una zona rocciosa del
+deserto parzialmente
+scampata all'erosione.<New>
+Proprio dove una sorgente
+proveniente da un bacino
+sotterraneo sgorgava, fu
+costruito il Castello di
+Fatima.<New>
+Lo scopo originario del
+castello era di proteggere
+la sorgente, ma col tempo
+la gente del deserto
+iniziò a vivere qui.<New>
+Ad essa si unì presto un
+flusso costante di persone
+provenienti da nord.
+Questa è la storia di
+questa città, Bledavik.<Close><End of Block>
+<TextBlock 7 w:58 h:5>
+'La vera storia di Aveh'<New>
+Nei giorni bui del regno
+di Fatima, la gente aveva
+poco da mangiare e ancor
+meno di cui essere felice.<New>
+Il culmine si ebbe durante
+il regno di Edbart IV…<New>
+Con l'appoggio del popolo,
+Shakhan, il Primo Ministro,
+si mise a capo dell'esercito
+e ruppe la tirannia della
+della dinastia Fatima.<New>
+Quegli eroi divennero il
+nucleo delle odierne forze
+armate di Aveh…<Close><End of Block>
+<TextBlock 8 w:62 h:4>
+Si dice che il fondatore di
+Aveh, Roni Fatima, facesse
+parte di un gruppo di
+viaggiatori del deserto, ma
+probabilmente non era solo.<New>
+I miti parlano del
+coinvolgimento di giganti
+nella battaglia che fu parte
+di un tremendo combattimento.<New>
+Ma tutti i dati di quel
+tempo sono andati persi, e
+quello che rimane non sembra
+storicamente corretto.<New>
+Ma forse potrebbe esserci
+dietro all'alterazione dei
+dati proprio Roni Fatima.<Close><End of Block>
+<TextBlock 9 w:70 h:3>
+<Opcode 1 255>Probabilmente lì c'è una guardia…
+    Apri la porta
+    Da' solo un'occhiata<Close><Close><End of Block>

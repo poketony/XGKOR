@@ -1,0 +1,110 @@
+#### 1 ####
+Fei
+"This is...that strange
+old grandpa Chu-chu's
+precious treasure...{enter}
+I wonder what happened to
+him when Shevat crashed
+down to earth...{wait:14}
+I haven't seen him...{enter}
+His treasure...
+Can we just take it...?{wait:14}
+I'm sure he won't mind
+if we just borrow it..."
+
+#### 2 ####
+Fei
+"Just borrowing it.
+Just borrowing it.{enter}
+Hey, it's not like
+we're grave robbers
+or anything!{wait:14}
+Right!?{enter}
+So don't hex us,
+or haunt us, OK!{wait:14}
+Please...we're
+begging you."
+
+#### 3 ####
+Fei
+"Huh!{wait:14}
+This is..."
+
+#### 4 ####
+The mythical 'RPS Badge'!!
+
+#### 5 ####
+The 'H&S Badge' of legend!!
+
+#### 6 ####
+The 'Tag Badge' that even
+collectors go crazy over!!
+
+#### 7 ####
+Fei
+"I bet that old Chu-chu guy
+must have been so happy...{enter}
+It was displayed
+so nicely here...{wait:14}
+I can't take
+this from him."
+
+#### 8 ####
+Fei
+"I bet that old Chu-chu
+guy must have been so
+very happy...{enter}
+It's polished,
+so shiny...{wait:14}
+and displayed so
+nicely here..."
+
+#### 9 ####
+Fei
+"Huh. It looks like a
+bunch of little kid's
+toys all lined up...{enter}
+It's pointless to take such
+things when we don't even
+know what's going to happen
+to this world."
+
+#### 10 ####
+Fei
+"This isn't the time
+to be looking at
+such things as this."
+
+#### 11 ####
+Do you want to go down?{wait:0A}
+    Yes
+    No
+
+#### 12 ####
+ Received a
+Vivid Turban!!
+
+#### 13 ####
+Received some
+Speed Shoes!!
+
+#### 14 ####
+ Received a
+Hero Costume!!
+
+#### 15 ####
+ Received a
+HerculesRing!!
+
+#### 16 ####
+ Received a
+Yamato Belt!!
+
+#### 17 ####
+ Received a
+WizardryRing!!
+
+#### 18 ####
+Fei gently put the badge
+back where he found it.
+

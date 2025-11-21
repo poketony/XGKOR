@@ -1,0 +1,64 @@
+#### 1 ####
+Shakhan
+"I'm amazed she talked
+that much. He can handle
+women as well as he says."
+
+#### 2 ####
+    Stop
+    East tower
+    Entrance
+    Outer Bailey
+    Citadel, 3rd floor
+    Dining Hall
+
+#### 3 ####
+Is it all right?
+
+#### 4 ####
+Shakhan
+"I can't prevent them from
+meeting her. Not when it's
+him we are talking about...{enter}
+Besides, Marguerite isn't
+talking anyway.
+So there is no need to
+worry...{enter}
+But where did the leak
+about the Jasper come
+from...?{enter}
+...The 'Ethos'?
+Ridiculous...! Hmmm,
+if this continues my
+plans will be..."
+
+#### 5 ####
+Shakhan
+"We had better find out
+who is leaking out our
+information immediately.{enter}
+In the meantime, we'll
+have to administer some
+truth serum to our
+guest, Miss Marguerite.{enter}
+We must find the other
+piece of the 'Fatima
+Jasper' as quickly as
+we can."
+
+#### 6 ####
+But...
+
+#### 7 ####
+Shakhan
+"However spineless the last
+commander, Vanderkaum,
+was...{enter}
+...this time Gebler has
+sent their highest
+commanding officer.{enter}
+His country is throwing all
+their weight into this.
+And, there is nothing we
+can do about it!"
+

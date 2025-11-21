@@ -1,0 +1,63 @@
+<TextBlock 1 w:56 h:3>
+Da quando è accaduto quel
+disastro alla Chiesa, se
+ne vanno in giro come idioti…<New>
+Ora, ottenere le giuste parti
+è un'operazione difficile.<Close><End of Block>
+<TextBlock 2 w:56 h:3>
+Se le richieste di riparazioni
+vanno avanti di questo passo,
+non potremo continuare.<New>
+Dovremo chiedere alla
+Sede della Chiesa di
+espandere questa officina.<Close><End of Block>
+<TextBlock 3 w:44 h:4>
+Ora io sto vendendo i
+pezzi nel magazzino ma,
+continuando di questo passo,
+si esauriranno presto.<Close><End of Block>
+<TextBlock 4 w:46 h:5>
+Non abbiamo più pezzi di
+Gear in magazzino.
+Devo ordinarne di più
+dalla Sede della Chiesa.<Close><End of Block>
+<TextBlock 5 w:52 h:3>
+Ho sistemato le mie scorte
+di magazzino. Forse ora
+potrò riposare un po'.<Close><End of Block>
+<TextBlock 6 w:40 h:3>
+Dovrò cooperare con
+i meccanici sopravvissuti.<Close><End of Block>
+<TextBlock 7 w:46 h:4>
+Devo chiedere alla Sede
+della Chiesa di inviare
+un meccanico che sappia
+riparare i Gear militari.<Close><End of Block>
+<TextBlock 8 w:38 h:2>
+La competizione è finita.<Delay 15> Sigh.<Close><End of Block>
+<TextBlock 9 w:50 h:3>
+Il resto del paese ha 
+uno strano interesse per 
+le rovine di questa zona.<New>
+Grosse unità sono venute 
+a scavare nelle rovine.<Close><End of Block>
+<TextBlock 10 w:48 h:3>
+Ehi, non ti si vede da
+un bel po'.<New>
+Non pensate di cavarvela
+con poco se ci causerete
+dei guai!<New>
+Siamo le Guardie di Aveh!
+… Ricordatevelo!<Close><End of Block>
+<TextBlock 11 w:50 h:3>
+   -Obiettivo del mese-   
+ 
+      Ricerca pezzi!<Close><End of Block>
+<TextBlock 12 w:52 h:7>
+  -Obiettivo del mese-
+ 
+ Fare in modo di non
+ rimanere senza pezzi.
+ 
+Priorità alle riparazioni
+per il personale militare.<Close><Close><End of Block>

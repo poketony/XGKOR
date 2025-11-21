@@ -1,0 +1,213 @@
+#### 1 ####
+Krelian
+"Hmm{wait:05}...{wait:0F}
+'This time' your
+body is young."
+
+#### 2 ####
+"{wait:05}...{wait:05}The previous
+one got too old."
+
+#### 3 ####
+Krelian
+"...{wait:05}And the name?"
+
+#### 4 ####
+"Karen{wait:05}...{wait:0F}
+but individual names
+have no meaning to me."
+
+#### 5 ####
+Krelian
+"So{wait:05}...{wait:05}
+what brings
+you here?"
+
+#### 6 ####
+Karen
+"Is that thing inside
+the Nanoreactor there
+{wait:05}...{wait:05}the one?"
+
+#### 7 ####
+Krelian
+"Huh?{wait:05} Oh{wait:05}...{wait:0F}
+Recogniton code
+0808191 - 'Ramses'.{enter}
+The Emperor's been told
+it's a prototype for an
+artificial 'Contact'."
+
+#### 8 ####
+Karen
+"What's its status?"
+
+#### 9 ####
+Krelian
+"It has entered the so-
+called first growth stage.{enter}
+From now until the binding,
+its growth will be several
+times faster than that of
+an ordinary human.{enter}
+But its psychological
+development will be a
+little difficult to
+control{wait:05}..."
+
+#### 10 ####
+Krelian
+"It is a replica{wait:05}...{wait:05}
+so that is to be expected."
+
+#### 11 ####
+Karen
+"It is moving{wait:05}...{wait:0F}
+Can it hear us?"
+
+#### 12 ####
+Krelian
+"Yes{wait:05}...{wait:0F}
+It already has a
+will of its own."
+
+#### 13 ####
+Karen
+"Then{wait:05}...{wait:0F}
+I have a better way{wait:05}...{wait:0F}
+Let us dispose of it."
+
+#### 14 ####
+Karen
+"We do not need this{wait:05}...{wait:0F}
+We have my child.{wait:0F} My child
+will be 4 this year."
+
+#### 15 ####
+Krelian
+"Your having
+a child is{wait:05}...{wait:1E}
+significant?"
+
+#### 16 ####
+Karen
+"Yes{wait:05}...{enter}
+I checked it out...
+There is no mistake,
+it's a 'Contact'."
+
+#### 17 ####
+Krelian
+"What's its name?"
+
+#### 18 ####
+Karen
+"My child's name
+is{wait:05}...{wait:1E}
+'Fei'.{enter}
+So{wait:05}...{wait:05}
+you understand
+what this means?"
+
+#### 19 ####
+Krelian
+"A corresponding
+'Antitype' is{wait:05}..."
+
+#### 20 ####
+Karen
+"Yes{wait:05}...{wait:1E}
+probably already
+born somewhere."
+
+#### 21 ####
+Karen
+"{wait:05}...{wait:05}The final one!"
+
+#### 22 ####
+Krelian
+"Then{wait:05}...{wait:0F}
+this thing is{wait:05}...{wait:05}
+worthless."
+
+#### 23 ####
+Karen
+"Yes, totally useless."
+
+#### 24 ####
+Karen
+"Ha-ha{wait:05}...{wait:0F}
+Chase after it, {wait:05}'boy'.{enter}
+A love that's unattainable
+for you, no matter how hard
+you try to pursue it."
+
+#### 25 ####
+Until then{wait:05}...
+
+#### 26 ####
+Miang
+"The chains that restrained
+humankind have been removed
+because of you."
+
+#### 27 ####
+Krelian
+"But that doesn't mean
+there is anything wrong
+with our plan...{enter}
+Everything is still
+under control."
+
+#### 28 ####
+Krelian
+"In the event of the
+explosion in the capital
+of Solaris earlier...{enter}
+...I had set up a nano-
+machine virus to diffuse
+into the atmosphere.{enter}
+I knew they were eventually
+going to break the seal{wait:05}...{wait:0F}
+But the timing was a little
+close for comfort{wait:05}...{enter}
+The current mutations of
+the humans are an initial
+response to the virus{wait:05}...{enter}
+Once the virus we spread
+over the world germinates
+inside of the humans they
+are no longer the same.{enter}
+They change into a
+controllable form.{enter}
+We need humans that do
+not depend on the key's
+invocation in order to
+awaken.{enter}
+In other words, a being
+to take the place of the
+original body of god{wait:05}..."
+
+#### 29 ####
+Miang
+"It's like a trojan horse
+released at the time of the
+assimilation with god{wait:05}...{wait:05}{enter}
+A literal virus{wait:05}...{wait:0F}
+But{wait:05}...{wait:05}isn't it different
+from what they intended{wait:05}...{wait:05}?"
+
+#### 30 ####
+Krelian
+"Of course.{wait:0F} We can't let
+them have it their way.{wait:1E}
+The 'Ark of god' is mine."
+
+#### 31 ####
+Miang
+"{wait:05}...{wait:05}Either way is fine by
+me.{enter}
+I will just side with
+whichever is the more
+certain one anyway{wait:05}...{wait:05}"
+

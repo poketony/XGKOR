@@ -1,0 +1,31 @@
+#### 1 ####
+Fei
+"It looks like we can 
+get to the upper room 
+through here..."
+
+#### 2 ####
+Fei
+"Hmm... We'll need to get
+out of the Gears and cross
+via the handrails."
+
+#### 3 ####
+The door won't open.
+
+#### 4 ####
+You have too many
+{str}.
+
+#### 5 ####
+ 
+ Received {str}.
+
+#### 6 ####
+You have too many
+{str}.
+
+#### 7 ####
+ 
+ Received {str}.
+

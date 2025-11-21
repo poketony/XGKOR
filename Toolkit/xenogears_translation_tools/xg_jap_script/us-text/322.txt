@@ -1,0 +1,77 @@
+#### 1 ####
+Elly
+"What a strange
+building...{enter}
+Looks like we're being
+made to take a roundabout
+way."
+
+#### 2 ####
+Elly
+"To...
+seal up something..."
+
+#### 3 ####
+Citan
+"...Labyrinths are not
+usually built to protect
+against enemies...{enter}
+They are usually made to
+seal up something inside
+of them."
+
+#### 4 ####
+Bart
+"...This is one weird 
+building...{enter}
+Airlocks, scanners, 
+encircling hallway.{enter}
+That's it.
+...Doesn't look like they
+wanted anyone inside...{enter}
+Hmm, looks ruined now,
+like some empty and
+hollow dream."
+
+#### 5 ####
+Bart
+"...Cripes...{enter}
+Don't scare me like that!
+What do you think is
+inside?"
+
+#### 6 ####
+Billy
+"What an inconvenient
+building...It seems like
+it's refusing outsiders."
+
+#### 7 ####
+Billy
+"Not to keep something
+out, but to keep 
+something in...{enter}
+I wonder what that
+something is?"
+
+#### 8 ####
+Rico
+"...Full of stairs and
+walls, what a waste.{enter}
+Looks like it'll keep
+us out."
+
+#### 9 ####
+Rico
+"Sealed...{enter}
+...If you live in prison
+for a long time it'll
+bother you at first but
+you get used to it and{enter}
+ultimately come to depend
+on it.{enter}
+Whatever is shut up in
+here, it's gonna be our
+enemy. The same as anyone
+from Solaris."
+

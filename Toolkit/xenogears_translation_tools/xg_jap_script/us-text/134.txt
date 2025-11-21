@@ -1,0 +1,105 @@
+#### 1 ####
+Mystery Man
+"Hey Mister, are
+you from Lahan?"
+
+#### 2 ####
+Fei
+"??"
+
+#### 3 ####
+Mystery Man
+"Seems like you and
+that  boy have some
+kind of problem..."
+
+#### 4 ####
+Fei
+"Who do you think you are?
+Mind your own business!"
+
+#### 5 ####
+Mystery Man
+"Ha ha ha..."
+
+#### 6 ####
+Fei
+"What's so funny?"
+
+#### 7 ####
+Mystery Man
+"Nothing...{enter}
+Just wondering what
+kind  of fight you
+will have with that
+boy...{enter}
+Well, I'm looking
+forward to it,
+'Fei'."
+
+#### 8 ####
+Fei
+"Huh!?"{clear:32}
+
+#### 9 ####
+Fei
+(How does that guy
+know my name...?{enter}
+I didn't enter my 
+real name...)
+
+#### 10 ####
+Fei
+"D, Dan..." {clear:32}
+
+#### 11 ####
+!!{clear:1E}
+
+#### 12 ####
+Fei
+"Dan...{wait:3C}
+Dan!{enter}
+What are you
+doing here?"
+
+#### 13 ####
+Dan
+"...It's your fault that
+Alice...{enter}
+I'll never forgive you.
+I'm gonna kill you!"
+
+#### 14 ####
+Fei
+"...Dan..."
+
+#### 15 ####
+Dan
+"You're the enemy of 
+everyone in Lahan!{enter}
+I'm gonna kick your butt
+in front of everyone!
+And don't be runnin' 
+away either!!"
+
+#### 16 ####
+The human body is 
+weak. I always fight 
+against rock and metal!{enter}
+There is no way I can 
+lose.
+
+#### 17 ####
+Everyone is so excited...
+Isn't there a big
+festival or something?
+Isn't there?
+
+#### 18 ####
+...
+
+#### 19 ####
+Attention all participants.
+We will be starting soon.
+Please enter the arena.
+

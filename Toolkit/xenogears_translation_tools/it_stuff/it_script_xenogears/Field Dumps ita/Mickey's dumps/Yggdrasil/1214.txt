@@ -1,0 +1,117 @@
+<TextBlock 1 w:38 h:3>
+<Chu-Chu>
+"Mi sto cambiando,
+non chu entrate."<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+Shitan
+"Questa stanza sembra
+essere per le signore.
+Vogliate scusarci."<Close><End of Block>
+<TextBlock 3 w:38 h:2>
+Bart
+"Non credo
+siano qui…"<Close><End of Block>
+<TextBlock 4 w:46 h:2>
+Fei non è qui!<Delay 10>
+Dove sarà andato?<Close><End of Block>
+<TextBlock 5 w:50 h:4>
+Scuuuusa.<Delay 10>
+L'agente di Shevat è in
+terapia intensiva…<Delay 5>
+Quindi…<Delay 10> i visitatori
+non sono ammessi!!<Close><End of Block>
+<TextBlock 6 w:54 h:4>
+(Ho sempre voluto dirlo…!<Delay 10>
+"I visitatori non sono ammessi!"<Delay 10>
+Ora sono<Delay 5> fe<Delay 5>li<Delay 5>cis<Delay 5>si<Delay 5>ma!!)<Close><End of Block>
+<TextBlock 7 w:56 h:3>
+Oh… Sono rimasto qui in
+piedi per lungo tempo…<New>
+Posso esserti d'aiuto?
+    Certamente
+    Mmh, non so<Close><End of Block>
+<TextBlock 8 w:44 h:3>
+Sono felice di sentirlo…
+Anche se non mi sembri
+molto sincero!<Close><End of Block>
+<TextBlock 9 w:52 h:4>
+Davvero…!?<Delay 10>
+Ok… molte persone si
+sono perse qui intorno,
+sai…<Delay 10> Ah!<New>
+(Dove mi trovavo…!?)<Close><End of Block>
+<TextBlock 10 w:36 h:2>
+Padroncino, ho
+imparato la lezione!<Close><End of Block>
+<TextBlock 11 w:50 h:5>
+Cosa? Cosa ci faccio qui?
+Oh, niente!
+(Non sto nascondendo
+per niente il fatto
+che ho rotto il muro
+o chissà che.)<New>
+Oh, comunque…
+Attraverso questa porta
+vai al bar, mentre giù
+per le scale vai alla
+Sala Macchine.<Close><End of Block>
+<TextBlock 12 w:54 h:3>
+Mi ricorderò di obbedire
+al coprifuoco d'ora in poi…<Delay 10>
+Così, per favore, tornate
+sani e salvi.<Close><End of Block>
+<TextBlock 13 w:52 h:4>
+Cosa?<Delay 10> Fei non si trova?
+N,<Delay 5> no,<Delay 5> non so nulla.<Delay 10>
+(Non che stavo dormendo
+sul lavoro…)<Close><End of Block>
+<TextBlock 14 w:40 h:2>
+Padroncino, per favore,
+perdonatemi!<Close><End of Block>
+<TextBlock 15 w:58 h:4>
+Cosa? Perché sono qui?<Delay 10>
+Possiamo lasciar perdere?<New>
+Mica sono qui in punizione
+per non aver rispettato il
+coprifuoco o qualcosa del
+genere, sai?<New>
+Oltre questa porta c'è
+l'hangar dei Gear.<Delay 10>
+E là si trova anche
+l'Officina per Gear!<New>
+Ora attenzione…!<Delay 10>
+I Gear sono così grandi
+che al confronto tu sei
+un pulcino e potresti
+sentirti spaesato.<Close><End of Block>
+<TextBlock 16 w:56 h:4>
+Non so se l'avete notato,
+ma da quando voi siete
+giunti qui, quella pianta
+è cresciuta un po'.<New>
+Potrebbe sembrare una
+sciocchezza, ma anche
+la speranza e i nostri
+sogni sono cresciuti!<Close><End of Block>
+<TextBlock 17 w:50 h:2>
+Oh, Padroncino!<Delay 10>
+La pianta è diventata
+più grande!<New>
+Ora è diventata più
+alta di lei, Padroncino.<Close><End of Block>
+<TextBlock 18 w:42 h:1>
+Cresce a vista d'occhio!<Close><End of Block>
+<TextBlock 19 w:50 h:4>
+Questa pianta fu piantata
+quando nacque il nostro
+Padroncino, e cresce
+insieme a lui.<New>
+E con essa anche i
+nostri sogni e le
+nostre speranze…<New>
+La porta qui davanti
+conduce all'ascensore.<Delay 10>
+Usa il pulsante per
+andare su o giù.<Close><End of Block>
+<TextBlock 20 w:0 h:1>
+<Close><End of Block>

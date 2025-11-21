@@ -1,0 +1,715 @@
+<TextBlock 1 w:30 h:2>
+Fei
+"Non è chiusa?"<Close><End of Block>
+<TextBlock 2 w:40 h:3>
+Fei
+"C'è stata una luce 
+fortissima…<New>
+…<Delay 30> Non avrai mica
+fatto qualcosa che
+non dovevi fare…?"<Close><End of Block>
+<TextBlock 3 w:40 h:5>
+Errore.
+Questo personaggio
+non si trova nel
+Ft. Diaspro.
+Comunica questo bug.<Close><End of Block>
+<TextBlock 4 w:50 h:2>
+Fei
+"Non cercare di fregarmi!<New>
+Che cavolo hai fatto
+un momento fa?"<Close><End of Block>
+<TextBlock 5 w:38 h:2>
+Elly
+"Penso sia chiusa."<Close><End of Block>
+<TextBlock 6 w:40 h:3>
+Elly
+"C'è stata una luce 
+fortissima…<New>
+…<Delay 30> Non avrai per caso
+fatto qualcosa che
+non dovevi fare…?"<Close><End of Block>
+<TextBlock 7 w:40 h:5>
+Errore.
+Questo personaggio
+non si trova nel
+Ft. Diaspro.
+Comunica questo bug.<Close><End of Block>
+<TextBlock 8 w:40 h:5>
+Errore.
+Questo personaggio
+non si trova nel
+Ft. Diaspro.
+Comunica questo bug.<Close><End of Block>
+<TextBlock 9 w:40 h:5>
+Errore.
+Questo personaggio
+non si trova nel
+Ft. Diaspro.
+Comunica questo bug.<Close><End of Block>
+<TextBlock 10 w:44 h:2>
+Shitan
+"Suppongo sia chiusa."<Close><End of Block>
+<TextBlock 11 w:48 h:3>
+Shitan
+"Che cos'era quel raggio
+di luce di poco fa?<New>
+…<Delay 30> Mi chiedo dove si
+sia diretto…?"<Close><End of Block>
+<TextBlock 12 w:40 h:5>
+Errore.
+Questo personaggio
+non si trova nel
+Ft. Diaspro.
+Comunica questo bug.<Close><End of Block>
+<TextBlock 13 w:40 h:5>
+Errore.
+Questo personaggio
+non si trova nel
+Ft. Diaspro.
+Comunica questo bug.<Close><End of Block>
+<TextBlock 14 w:40 h:5>
+Errore.
+Questo personaggio
+non si trova nel
+Ft. Diaspro.
+Comunica questo bug.<Close><End of Block>
+<TextBlock 15 w:22 h:2>
+Billy
+"È chiusa?"<Close><End of Block>
+<TextBlock 16 w:40 h:3>
+Billy
+"È stato sparato da
+un cannone a raggi…"<Close><End of Block>
+<TextBlock 17 w:50 h:2>
+Rico
+"Probabilmente è chiusa."<Close><End of Block>
+<TextBlock 18 w:44 h:3>
+Rico
+"Quel cannone a raggi…
+Cazzo, non ci voleva!"<Close><End of Block>
+<TextBlock 19 w:32 h:3>
+<Chu-Chu>
+"Probabilmente è
+chiuso, chu."<Close><End of Block>
+<TextBlock 20 w:34 h:3>
+<Chu-Chu>
+"Oggi sei davvero
+distratto, chu!"<Close><End of Block>
+<TextBlock 21 w:18 h:2>
+Esmeralda
+"…"<Close><End of Block>
+<TextBlock 22 w:38 h:3>
+Esmeralda
+"(Mmh… C'è qualcosa
+che non va.)"<Close><End of Block>
+<TextBlock 23 w:10 h:2>
+Maria
+"…"<Close><End of Block>
+<TextBlock 24 w:38 h:3>
+Maria
+"(Mmh… C'è qualcosa
+che non va.)"<Close><End of Block>
+<TextBlock 25 w:22 h:1>
+Bartolomeo!<Close><End of Block>
+<TextBlock 26 w:22 h:1>
+Bartolomeo!<Close><End of Block>
+<TextBlock 27 w:42 h:3>
+Fei
+"Ehi, tu non sei…<Delay 30>
+quello del negozio!?"<Close><End of Block>
+<TextBlock 28 w:24 h:2>
+Bart
+"Stai bene?"<Close><End of Block>
+<TextBlock 29 w:46 h:2>
+Sì, io e mia moglie
+siamo scappati assieme.<Close><End of Block>
+<TextBlock 30 w:34 h:3>
+Bart
+"Allora, che stai
+facendo qui!?"<Close><End of Block>
+<TextBlock 31 w:44 h:5>
+Ecco, beh, quando sono
+tornato in città, ho
+sentito che eravate
+qui, nelle profondità
+del mausoleo…<New>
+E mi sono detto…<Delay 30> 'Sta
+succedendo qualcosa!'.<New>
+Non potevo starmene lì
+impalato… perciò sono
+venuto qui.<Close><End of Block>
+<TextBlock 32 w:46 h:3>
+Bart
+"È pericoloso, dovresti
+tornare indietro."<Close><End of Block>
+<TextBlock 33 w:50 h:4>
+Assolutamente no! Sono
+arrivato fin qui, ora
+col cavolo che me ne
+torno in città!<New>
+Resterò qui e vi aiuterò.<Close><End of Block>
+<TextBlock 34 w:32 h:3>
+    Oggetti
+    Accessori
+    Lascia stare<Close><End of Block>
+<TextBlock 35 w:54 h:3>
+Non arrenderti, Bartolomeo!<Delay 30>
+E questo vale anche per
+voi altri!<Close><End of Block>
+<TextBlock 36 w:54 h:3>
+Non arrenderti, Bartolomeo!<Delay 30>
+E questo vale anche per
+voi altri!<Close><End of Block>
+<TextBlock 37 w:54 h:3>
+Non arrenderti, Bartolomeo!<Delay 30>
+E questo vale anche per
+voi altri!<Close><End of Block>
+<TextBlock 38 w:40 h:2>
+Non puoi più portare
+<Opcode 4 20><Close><End of Block>
+<TextBlock 39 w:16 h:1>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 40 w:30 h:3>
+Bart
+"Quanta energia
+è rimasta?"<Close><End of Block>
+<TextBlock 41 w:40 h:4>
+Rico
+"A proposito, quante
+volte può sparare
+'sto coso?"<Close><End of Block>
+<TextBlock 42 w:46 h:4>
+Billy
+"Credo sia scontato che
+questo cannone non ha
+munizioni illimitate…"<Close><End of Block>
+<TextBlock 43 w:38 h:3>
+<Chu-Chu>
+"Puoi sparare tante
+volte, chu?"<Close><End of Block>
+<TextBlock 44 w:42 h:3>
+Maria
+"Quante munizioni
+abbiamo all'incirca?"<Close><End of Block>
+<TextBlock 45 w:46 h:4>
+Bart
+"Ehi, ma non c'era un
+enorme serbatoio in una
+delle stanze in cui…<New>
+… non siamo ancora
+scesi?"<Close><End of Block>
+<TextBlock 46 w:50 h:4>
+Rico
+"Ma nell'altra stanza non
+c'era un enorme coso che
+sembrava un serbatoio?"<Close><End of Block>
+<TextBlock 47 w:26 h:3>
+Errore. Billy
+non è il capo
+del gruppo.<Close><End of Block>
+<TextBlock 48 w:42 h:4>
+<Chu-Chu>
+"C'era un grosso coso
+rotondo lasciato qui
+in giro."<Close><End of Block>
+<TextBlock 49 w:50 h:4>
+Maria
+"Al centro dell'altra
+stanza c'era un oggetto
+che…<New>
+… sembrava un serbatoio."<Close><End of Block>
+<TextBlock 50 w:46 h:4>
+Bart
+"… Questo significa che
+ci sono rimasti solo
+tre colpi."<Close><End of Block>
+<TextBlock 51 w:38 h:3>
+Rico
+"… Significa che
+abbiamo tre colpi."<Close><End of Block>
+<TextBlock 52 w:46 h:4>
+Billy
+"Mi ricordo che c'erano
+3 serbatoi…<Delay 30> questo
+vuol dire 3 colpi."<Close><End of Block>
+<TextBlock 53 w:40 h:4>
+<Chu-Chu>
+"Ci sono 3 serbatoi.
+Dunque rimangono
+3 colpi!"<Close><End of Block>
+<TextBlock 54 w:44 h:3>
+Maria
+"Ci sono tre serbatoi.<Delay 30>
+Dunque tre colpi…"<Close><End of Block>
+<TextBlock 55 w:46 h:3>
+Bart
+"C'è ancora un po' di
+tempo prima del lancio…<New>
+Chissà se Shitan
+sta bene…?"<Close><End of Block>
+<TextBlock 56 w:50 h:4>
+Rico
+"Sembra che ci sia un po'
+di tempo prima che il
+cannone si carichi<Delay 30>…<New>
+Speriamo che a Babele
+tutto sia a posto."<Close><End of Block>
+<TextBlock 57 w:26 h:3>
+Errore. Billy
+non è il capo
+del gruppo.<Close><End of Block>
+<TextBlock 58 w:42 h:4>
+<Chu-Chu>
+"Dobbiamo aspettare
+prima che si carichi,
+chu!"<Close><End of Block>
+<TextBlock 59 w:46 h:4>
+Maria
+"Ci vorrà un po' di
+tempo prima che si
+carichi.<New>
+Credo che aspetterò
+fino a che non riceverò
+notizie da quelli che
+sono a Babele."<Close><End of Block>
+<TextBlock 60 w:34 h:2>
+Bart
+"Ci siamo quasi!"<Close><End of Block>
+<TextBlock 61 w:34 h:4>
+Rico
+"Sembra che tutto
+vada bene.<Delay 30> Solo
+un altro po'…"<Close><End of Block>
+<TextBlock 62 w:26 h:3>
+Errore. Billy
+non è il capo
+del gruppo.<Close><End of Block>
+<TextBlock 63 w:50 h:2>
+<Chu-Chu>
+"Solo un altro po', chu!"<Close><End of Block>
+<TextBlock 64 w:24 h:3>
+Maria
+"Resistete!
+Manca poco!"<Close><End of Block>
+<TextBlock 65 w:42 h:3>
+Bart
+"Il radar ha
+individuato un Gear!"<Close><End of Block>
+<TextBlock 66 w:44 h:4>
+Rico
+"Cazzo, c'è qualcosa
+sul radar! Dei Gear…<Delay 30>
+e ce ne sono diversi."<Close><End of Block>
+<TextBlock 67 w:26 h:3>
+Errore. Billy
+non è il capo
+del gruppo.<Close><End of Block>
+<TextBlock 68 w:32 h:3>
+<Chu-Chu>
+"C'è un'immagine
+sul radar."<Close><End of Block>
+<TextBlock 69 w:48 h:3>
+Maria
+"Il radar sta reagendo…<Delay 30>!<New>
+Giudicando dalla loro
+taglia… probabilmente
+sono dei Gear."<Close><End of Block>
+<TextBlock 70 w:22 h:2>
+Bart
+"Arrivano."<Close><End of Block>
+<TextBlock 71 w:40 h:2>
+Rico
+"Abbiamo compagnia."<Close><End of Block>
+<TextBlock 72 w:26 h:3>
+Errore. Billy
+non è il capo
+del gruppo.<Close><End of Block>
+<TextBlock 73 w:38 h:2>
+<Chu-Chu>
+"Arriva il nemico!"<Close><End of Block>
+<TextBlock 74 w:38 h:2>
+Maria
+"Stanno arrivando!"<Close><End of Block>
+<TextBlock 75 w:36 h:3>
+Bart
+"Merda!<Delay 30>
+Ci hanno trovati!"<Close><End of Block>
+<TextBlock 76 w:40 h:3>
+Rico
+"Cazzo!<Delay 30>
+Ci vengono addosso!"<Close><End of Block>
+<TextBlock 77 w:38 h:3>
+Errore nell'evento.
+Billy non è il
+capo del gruppo.<Close><End of Block>
+<TextBlock 78 w:24 h:2>
+<Chu-Chu>
+"Ci vedono!"<Close><End of Block>
+<TextBlock 79 w:40 h:3>
+Maria
+"Sembra che sappiano
+che noi siamo qui!"<Close><End of Block>
+<TextBlock 80 w:46 h:4>
+Bart
+"Adesso esco e passo al
+contrattacco!<Delay 30> Billy,
+tu sarai a posto, no?"<Close><End of Block>
+<TextBlock 81 w:40 h:4>
+Rico
+"Adesso esco!<Delay 30>
+Ehi, Billy, il resto
+devi farlo tu!"<Close><End of Block>
+<TextBlock 82 w:38 h:3>
+Errore nell'evento.
+Billy non è il
+capo del gruppo.<Close><End of Block>
+<TextBlock 83 w:48 h:4>
+<Chu-Chu>
+"Ora li spacco in due,
+chu!<Delay 30> Billy, tu non avrai
+problemi da solo, no?"<Close><End of Block>
+<TextBlock 84 w:42 h:4>
+Maria
+"Stiamo per uscire ad
+attuare le manovre
+difensive.<New>
+Billy, il resto è
+sulle tue spalle."<Close><End of Block>
+<TextBlock 85 w:44 h:4>
+Bart
+"Cerca di fare un buon
+colpo mentre noi le
+teniamo lontane…<Delay 30>!<New>
+Buona fortuna!"<Close><End of Block>
+<TextBlock 86 w:50 h:3>
+Rico
+"Noi le terremo a
+distanza sulla cima…<New>
+… perciò tu sbrigati a
+farle diventare polvere!"<Close><End of Block>
+<TextBlock 87 w:26 h:3>
+Errore. Billy
+non è il capo
+del gruppo.<Close><End of Block>
+<TextBlock 88 w:42 h:4>
+<Chu-Chu>
+"Noi faremo qualcosa!<Delay 30>
+Tu spara non appena
+puoi, Billy!"<Close><End of Block>
+<TextBlock 89 w:34 h:2>
+Maria
+"Sto per uscire."<Close><End of Block>
+<TextBlock 90 w:34 h:1>
+Non preoccuparti.<Close><End of Block>
+<TextBlock 91 w:14 h:2>
+Billy
+"Bart!"<Close><End of Block>
+<TextBlock 92 w:38 h:1>
+Non preoccupartene.<Close><End of Block>
+<TextBlock 93 w:14 h:2>
+Billy
+"Rico!"<Close><End of Block>
+<TextBlock 94 w:26 h:3>
+Errore. Billy
+non è il capo
+del gruppo.<Close><End of Block>
+<TextBlock 95 w:38 h:2>
+<Chu-Chu>
+"Non preoccuparti."<Close><End of Block>
+<TextBlock 96 w:20 h:2>
+Billy
+"<Chu-Chu>!"<Close><End of Block>
+<TextBlock 97 w:36 h:4>
+Maria
+"Rilassati e pensa
+a centrare il
+bersaglio!"<Close><End of Block>
+<TextBlock 98 w:16 h:2>
+Billy
+"Maria!"<Close><End of Block>
+<TextBlock 99 w:36 h:1>
+Non succede nulla.<Close><End of Block>
+<TextBlock 100 w:34 h:2>
+Bart
+"…<Delay 30> Non si muove."<Close><End of Block>
+<TextBlock 101 w:12 h:2>
+Bart
+"Mmh…"<Close><End of Block>
+<TextBlock 102 w:46 h:3>
+Margie
+"Prima vuoi controllare
+il grande tesoro?"<Close><End of Block>
+<TextBlock 103 w:36 h:4>
+Bart
+"Mmmh…<New>
+A quanto pare,
+neanche Shakhan ha
+ancora trovato il
+grande tesoro."<Close><End of Block>
+<TextBlock 104 w:52 h:4>
+Fei
+"Vero…<New>
+Quando ce ne siamo andati
+da Nisan, Bart e gli altri
+ci hanno detto di non
+essere mai stati qui.<New>
+Beh, prima di tutto
+andiamo a scoprire
+dove si trova il
+grande tesoro."<Close><End of Block>
+<TextBlock 105 w:50 h:4>
+Bart
+"Giusto…<New>
+Sono strasicuro che il
+grande tesoro si trova
+da qualche parte dentro
+il mausoleo.<New>
+Però non riesco a
+localizzare la sua
+posizione.<New>
+Andiamo a scoprire dov'è,
+poi potremo decidere
+cosa fare dopo."<Close><End of Block>
+<TextBlock 106 w:24 h:3>
+Bart
+"Bene…<Delay 30>
+Facciamolo!"<Close><End of Block>
+<TextBlock 107 w:40 h:4>
+Bart
+"Ci sono proprio un
+casino di indicatori
+e di contatori qui."<Close><End of Block>
+<TextBlock 108 w:46 h:3>
+Margie
+"Mi chiedo cosa sia
+più impressionante…<New>
+La sala comandi della
+tua nave… oppure questa
+qui…?"<Close><End of Block>
+<TextBlock 109 w:36 h:4>
+Bart
+"Che domande fai!?
+Quella della mia
+nave, ovviamente…"<Close><End of Block>
+<TextBlock 110 w:44 h:4>
+Bart
+"Oh… beh… visto che
+l'hanno fatta i nostri
+antenati…<New>
+… credo sia meglio
+questa."<Close><End of Block>
+<TextBlock 111 w:50 h:4>
+Bart
+"E tu… smettila di
+fare domande cretine
+come questa!<New>
+Comunque, non si chiama
+sala comandi, bensì ponte
+di comando, capito?"<Close><End of Block>
+<TextBlock 112 w:46 h:2>
+Margie
+"Ma che importanza ha?"<Close><End of Block>
+<TextBlock 113 w:44 h:3>
+Bart
+"Bene.<Delay 30> So di
+potercela fare!"<Close><End of Block>
+<TextBlock 114 w:12 h:2>
+Bart  
+"…<Delay 30>…<Delay 30>…<Delay 30>…<Delay 30>"<Space 3><Close><End of Block>
+<TextBlock 115 w:26 h:3>
+Bart
+"Sì!
+Così si fa!!"<Close><End of Block>
+<TextBlock 116 w:70 h:3>
+ 
+"           OH, DAVVERO!?         "<Delay 30>
+                                  <Close><End of Block>
+<TextBlock 117 w:30 h:4>
+Bart
+"Che?<Delay 30>
+Ma di che state
+parlando?"<Close><End of Block>
+<TextBlock 118 w:42 h:4>
+Fei
+"Smettila di fare il
+cretino!<Delay 30> Che cavolo
+hai appena premuto!?"<Close><End of Block>
+<TextBlock 119 w:46 h:4>
+Bart
+"…<Delay 30> Ohhh…<Delay 30> Beh, non
+direi che è stato
+un successo totale…<New>
+… ma per me va
+bene così."<Close><End of Block>
+<TextBlock 120 w:48 h:4>
+Bart
+"Nessun problema!<Delay 30>
+Finora non ho mai
+fatto casini, dico bene?<New>
+Beh, non è forse così!?"<Close><End of Block>
+<TextBlock 121 w:46 h:3>
+Bart
+"Che ne dite…
+Signore e Signori,
+ammirate!"<Close><End of Block>
+<TextBlock 122 w:42 h:3>
+Bart
+"Quella laggiù non è…
+la Torre di Babele?"<Close><End of Block>
+<TextBlock 123 w:48 h:4>
+Bart
+"Beh?<Delay 30> Non è
+strafichi<Delay 60>iiissimo!?<New>
+Fluttua grazie al
+Diaspro di Fatima…<New>
+Gli do il nome di Forte
+Diaspro, e lo si potrà
+vedere da molto lontano!<New>
+Sono sicuro che neanche
+il raggio del cannone
+di prima potrebbe
+scalfirlo!"<Close><End of Block>
+<TextBlock 124 w:52 h:22>
+Bart
+"Beh, volevo soltanto
+mostrarvi tutta la sua
+grandezza!<New>
+Avete mai visto un
+cannone del genere?
+Lasciate stare i doppi
+sensi, e non pensate di
+paragonarlo alla
+cerbottana di Vanderkam.
+Questo è ben più potente
+e ben più complesso.
+Dopotutto è per questo
+motivo che i miei antenati
+l'hanno usato per
+generazioni per proteggere
+il tesoro. Sì, questo è il
+meglio del meglio!
+Potenterrimo, direi!
+Potentissimo sarebbe un
+eufemismo!
+Non dimenticatevelo mai.
+Bene, come dicevo… io,
+in vita mia, non ho mai
+fatto il benché minimo
+casino!"<Close><End of Block>
+<TextBlock 125 w:52 h:4>
+Bart
+"Perciò andiamo a prendere
+'sto tesoro ed andiamocene
+a casa!<New>
+Ma prima dobbiamo aprire
+quella porta che sta
+dove c'è la cupola!<New>
+Però non credo che lo
+potremo fare usando questo
+pannello di controllo."<Close><End of Block>
+<TextBlock 126 w:16 h:2>
+Bart
+"Di là!"<Close><End of Block>
+<TextBlock 127 w:2 h:1>
+…<Close><End of Block>
+<TextBlock 128 w:48 h:4>
+Fei
+"(Ma prima non avevi
+detto di aver premuto
+il pulsante sbagliato?)"<Close><End of Block>
+<TextBlock 129 w:34 h:3>
+Bart
+"Ehi, ma sono
+tutti uguali!<New>
+Ah beh, iniziamo
+a premere qualche
+pulsante…"<Close><End of Block>
+<TextBlock 130 w:36 h:3>
+Fei
+"Uah uah! Non
+sarà pericoloso!?"<Close><End of Block>
+<TextBlock 131 w:42 h:4>
+Bart
+"Bene,<Delay 30> sbrighiamoci e
+portiamo fuori il
+tesoro."<Close><End of Block>
+<TextBlock 132 w:38 h:2>
+Ben fatto, Principe
+Bartolomeo.<New>
+Grazie per aver
+schiuso il sigillo.<Close><End of Block>
+<TextBlock 133 w:26 h:3>
+Bart
+"Quella voce…<Delay 30>
+Shakhan!"<Close><End of Block>
+<TextBlock 134 w:42 h:3>
+Bart
+"Bastardo!<Delay 30> Avevi
+architettato tutto!?"<Close><End of Block>
+<TextBlock 135 w:26 h:2>
+Shakhan
+"Ovviamente."<Close><End of Block>
+<TextBlock 136 w:52 h:4>
+Shakhan
+"Non avrai davvero creduto
+che la porta si sarebbe
+aperta per chicchessia?<New>
+Ho soltanto fatto
+trapelare la notizia
+ed ho semplicemente
+aspettato il tuo arrivo."<Close><End of Block>
+<TextBlock 137 w:46 h:4>
+Bart
+"Merda, ecco perché era
+un po' che non sentivo
+la puzza che fai!"<Close><End of Block>
+<TextBlock 138 w:50 h:4>
+Shakhan
+"Conoscendo la tua natura
+impulsiva, sapevo che
+saresti venuto…<New>
+Ma non avrei mai pensato
+che saresti addirittura
+riuscito a rompere il
+sigillo per me."<Close><End of Block>
+<TextBlock 139 w:50 h:3>
+Bart
+"Figlio di puttana…<Delay 30>
+Prendere per il culo me!"<Close><End of Block>
+<TextBlock 140 w:48 h:4>
+Shakhan
+"I miei soldati si
+sono già assicurati il
+controllo di quest'area.<New>
+Se a te non sta bene,
+vieni qui a prenderne
+un po'! Ah ah ah!"<Close><End of Block>
+<TextBlock 141 w:36 h:3>
+Billy
+"Iniziamo i nostri
+preparativi."<Close><End of Block>
+<TextBlock 142 w:32 h:3>
+Billy
+"A che punto è
+il caricamento?"<Close><End of Block>
+<TextBlock 143 w:36 h:3>
+Billy
+"Argh! Siamo così
+vicini al lancio!"<Close><End of Block>
+<TextBlock 144 w:30 h:2>
+Billy
+"Devo farcela!"<Close><End of Block>
+<TextBlock 145 w:34 h:2>
+Billy
+"Fate fare a me!"<Close><End of Block>
+<TextBlock 146 w:16 h:2>
+Billy
+"Fuoco!"<Close><End of Block>
+<TextBlock 147 w:20 h:2>
+Billy
+"Mancato!"<Close><End of Block>
+<TextBlock 148 w:12 h:2>
+Billy
+"VIA!"<Close><Close><End of Block>

@@ -1,0 +1,59 @@
+#### 1 ####
+You have too many
+{str}.
+
+#### 2 ####
+ 
+ Received {str}.
+
+#### 3 ####
+You have too many
+{str}.
+
+#### 4 ####
+ 
+ Received {str}.
+
+#### 5 ####
+You have too many
+{str}.
+
+#### 6 ####
+ 
+ Received {str}.
+
+#### 7 ####
+You have too many
+{str}.
+
+#### 8 ####
+ 
+ Received {str}.
+
+#### 9 ####
+{fast:FF}There's probably a guard outside...
+    Open the door
+    Just take a peek
+
+#### 10 ####
+{slow:01}...
+{fast:01}Don't get in my way. 
+I'm rehearsing for 
+tomorrow's meeting.
+
+#### 11 ####
+I take all that trouble
+making plans for a sneak
+attack, and now they end
+the war!{enter}
+There goes my chance for
+glory."
+
+#### 12 ####
+!{clear:1E}
+
+#### 13 ####
+Who are you?
+Why do you look
+like that?
+

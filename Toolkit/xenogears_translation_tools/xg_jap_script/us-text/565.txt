@@ -1,0 +1,301 @@
+#### 1 ####
+Fei
+"Dummy message"
+
+#### 2 ####
+Fei
+"Dummy message"
+
+#### 3 ####
+Fei
+"Dummy message"
+
+#### 4 ####
+Elly
+"{wait:05}...{wait:05}This is...{wait:0F}  
+It can't be{wait:05}...{wait:05}?"
+
+#### 5 ####
+Elly
+"The land of genesis, 
+Kadomony...{wait:05}
+where{wait:05}...{wait:05}everything started.{enter}
+But why do people have no
+memory of this{wait:05}..."
+
+#### 6 ####
+Elly
+"{wait:05}...{wait:05}Fei"
+
+#### 7 ####
+Citan
+"{wait:05}...{wait:05}What is this place?"
+
+#### 8 ####
+Citan
+"Even so Fei.{enter}
+Even with your shared fate
+with Deus, why do you have
+such ancient memories{wait:05}...{wait:05}?"
+
+#### 9 ####
+Citan
+"So this {wait:05}is{wait:05}...{wait:05}!"
+
+#### 10 ####
+Bart
+"What is this place...?"
+
+#### 11 ####
+Bart
+"Yeah, but Fei...{enter}
+Even with your shared fate
+with Deus, why do you have
+such ancient memories{wait:05}...?"
+
+#### 12 ####
+Bart
+"So this {wait:05}is{wait:05}...{wait:05}!"
+
+#### 13 ####
+Billy
+"{wait:05}...{wait:05}What is this
+divine place?"
+
+#### 14 ####
+Billy
+"{wait:05}...{wait:05}But Fei.{enter}
+Even with an ancient fate,
+there's a limit to what
+normal people can remember
+about the past...{wait:05}"
+
+#### 15 ####
+Billy
+"{wait:05}...{wait:05}So that means
+that this is...!?"
+
+#### 16 ####
+Rico
+"{wait:05}...{wait:05}What in god's name
+is this strange place?"
+
+#### 17 ####
+Rico
+"Well, I don't understand
+that ancient destiny you
+have with Deus...{enter}
+But even then how do you
+remember all these ancient
+memories so well?
+That just ain't human{wait:05}...{wait:05}"
+
+#### 18 ####
+Rico
+"So you mean to tell me,
+that the body in there
+is{wait:05}...{wait:05}"
+
+#### 19 ####
+Emeralda
+"{wait:05}...{wait:05}What this place?
+
+#### 20 ####
+Emeralda
+"{wait:05}...{wait:05}Odd.
+Why you have ancient
+memory{wait:05}...{wait:05}?"
+
+#### 21 ####
+Emeralda
+"Fei...{wait:05}
+{wait:05}...{wait:05}What's this?"
+
+#### 22 ####
+{name:07:チュチュ}
+"What is this place?"
+
+#### 23 ####
+{name:07:チュチュ}
+"{wait:05}...{wait:05}Churuly amazing.{enter}
+{name:07:チュチュ}'s tribe have 
+memory as good as any 
+humans, but Fei's is 
+churuly amazing!"
+
+#### 24 ####
+{name:07:チュチュ}
+"Wha,{wait:05} what's this then?"
+
+#### 25 ####
+Maria
+"{wait:05}...{wait:05}What is this place?"
+
+#### 26 ####
+Maria
+"That is incredible.{enter}
+That you can clearly 
+remember the past so 
+long ago, I mean{wait:05}...{wait:05}"
+
+#### 27 ####
+Maria
+"So this is{wait:05}...{wait:05}!?"
+
+#### 28 ####
+Citan
+"What is this place{wait:05}...{wait:05}!?"
+
+#### 29 ####
+Citan
+"Even so Fei...{enter}
+Even with your shared fate
+with Deus, why do you have
+such ancient memories{wait:05}...{wait:05}?"
+
+#### 30 ####
+Citan
+"Then this {wait:05}is{wait:05}...{wait:05}!"
+
+#### 31 ####
+Emeralda
+"{wait:05}...{wait:05}What this place?
+
+#### 32 ####
+Emeralda
+"{wait:05}...{wait:05}Amazing.
+Why Fei have ancient
+memory{wait:05}...{wait:05}?"
+
+#### 33 ####
+Emeralda
+"Fei...{wait:05}
+{wait:05}...{wait:05}What this?"
+
+#### 34 ####
+dummy messege
+
+#### 35 ####
+Fei
+"This is where it all
+started.{wait:1E}
+This is our genesis!{enter}
+We{wait:05}...{wait:05}no,{wait:0F}
+humans were born here."
+
+#### 36 ####
+Fei
+"{wait:05}...{wait:05}Long ago, {wait:05}Deus crash-
+landed on this planet in an
+interplanetary colony ship.{enter}
+In order to revive itself
+someday, Deus detached
+the Zohar Modifier's
+core...{enter}
+After this core unit came
+down here, a single woman
+awoke and arose from out
+of it."
+
+#### 37 ####
+Fei
+"She's the mother of all
+humanity{wait:05}...{wait:05}"
+
+#### 38 ####
+Fei
+"After she awoke, she
+used all her power to
+bear several beings.{enter}
+These would become the
+ancestors of the whole
+of humanity."
+
+#### 39 ####
+Fei
+"These were the
+Emperor and the
+Gazel Ministry."
+
+#### 40 ####
+Fei
+"Finally, she gave birth
+to replicas of herself to
+be humanity's caretakers."
+
+#### 41 ####
+Fei
+"Two selves... 
+The -human- Mother
+and the weapon...{enter}
+The Subject and
+the Complement."
+
+#### 42 ####
+Fei
+"That is Elly
+and{wait:05}...{wait:05}Miang."
+
+#### 43 ####
+Fei
+"I, the sole survivor
+from the colony ship,
+met Elly and{wait:05}...{enter}
+Everything started
+from there{wait:05}..."
+
+#### 44 ####
+Fei
+"The land of genesis,{wait:05}
+-Kadomony-{wait:05}...{wait:05}
+This is that place."
+
+#### 45 ####
+Fei
+"Usually, human memories
+cannot be passed down
+through the generations.{enter}
+Humans do not normally have
+the ability to compress and
+store memories in their
+introns."
+
+#### 46 ####
+Fei
+"But Elly and I...{wait:0F}
+and Miang...{wait:0F}
+are different."
+
+#### 47 ####
+Fei
+"Due to our connection with
+the 'Wave Existence'{wait:05}...{enter}
+That is, due to Zohar's
+ability to change possible
+phenomena, we can clearly
+store data in our introns.{enter}
+In other words, we can
+leave behind memories
+to be inherited by our
+descendants."
+
+#### 48 ####
+Fei
+"Just as the Wave Existence 
+is bound inside of Zohar...{enter}
+the information is affixed
+to me, so to speak, by some
+of the power of the Wave 
+Existence."
+
+#### 49 ####
+Fei
+"This is the form from
+when Elly and Miang
+were still one being{wait:05}...{enter}
+This is the first
+woman of our world{wait:05}..."
+
+#### 50 ####
+{wait:05}...{wait:05}Our mother{wait:05}...
+

@@ -1,0 +1,32 @@
+#### 1 ####
+World Map
+
+#### 2 ####
+South Bledavik
+
+#### 3 ####
+Under Martial Law
+
+#### 4 ####
+North Bledavik
+
+#### 5 ####
+South Shakhan Square
+
+#### 6 ####
+South Bartholomew
+Square
+
+#### 7 ####
+North Shakhan Square
+
+#### 8 ####
+North Bartholomew
+Square
+
+#### 9 ####
+Fatima Castle
+
+#### 10 ####
+Castle Gate is Closed
+

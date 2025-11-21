@@ -1,0 +1,205 @@
+#### 1 ####
+Fei
+"Hello, Alice.{wait:1E}
+Is that your
+wedding dress?"
+
+#### 2 ####
+Fei
+"Hmmm...
+You did a great job there!{enter}
+It'll look wonderful
+on you, Alice...
+Congratulations."
+
+#### 3 ####
+Fei
+"Hey, uh, Alice..."
+
+#### 4 ####
+Fei
+"What is it?"
+
+#### 5 ####
+Fei
+"I see..."
+
+#### 6 ####
+Fei
+"Yeah, he's outside...
+bragging as always."
+
+#### 7 ####
+Fei
+"Knowing him, he's
+most probably outside
+gasbagging right now."
+
+#### 8 ####
+Fei
+"Oh yeah?
+What kind of errand?"
+
+#### 9 ####
+Fei
+"If that's all it is,
+I'll be glad to do it
+for you."
+
+#### 10 ####
+Fei
+"Don't worry!
+It's no problem!{enter}
+Anyway, it doesn't exactly
+make me feel comfortable
+having Dan handle such
+delicate instruments.{enter}
+What's more, I might have
+a chance to eat some of
+Yui's cooking if I go to
+the doc's place."
+
+#### 11 ####
+Fei
+"Well, I'll go up there
+now and get them for you!"
+
+#### 12 ####
+Fei
+"Huh...?{wait:1E} Is there
+something else you want
+me to get from Citan?"
+
+#### 13 ####
+Fei
+"...{wait:14} ?"
+
+#### 14 ####
+Fei
+"..."
+
+#### 15 ####
+Fei
+"...{wait:1E}
+Well, I think I had
+better get going now!"
+
+#### 16 ####
+Alice
+"...{wait:1E}
+Say hello to Doctor
+Uzuki for me..."
+
+#### 17 ####
+Alice
+"Oh!?{wait:14}
+Fei, you startled me!"
+
+#### 18 ####
+Alice
+"Yes it is...
+I just finished it.{wait:1E} It took
+more work than I expected."
+
+#### 19 ####
+Alice
+"Thank you.
+..."
+
+#### 20 ####
+Alice
+"..."
+
+#### 21 ####
+Alice
+"Oh, um, Fei..."
+
+#### 22 ####
+Alice
+"Oh, nothing..."
+
+#### 23 ####
+Alice
+"Um...{wait:1E}
+Oh yes, that's right..."
+
+#### 24 ####
+Alice
+"Fei,{wait:14} 
+have you seen Dan?"
+
+#### 25 ####
+Alice
+"Ugh, that kid!{wait:14}
+I just told him that I had
+an errand for him to run!"
+
+#### 26 ####
+Alice
+"It's for my wedding
+ceremony tomorrow...{enter}
+I was hoping he could go
+borrow a camera and some
+lights from Doctor Uzuki,
+up on the mountain peak."
+
+#### 27 ####
+Alice
+"Could you?{wait:14}
+Oh, but I couldn't
+possibly..."
+
+#### 28 ####
+Alice
+"Hee-hee...{wait:14}
+That's my Fei!"
+
+#### 29 ####
+Alice
+"Oh...{wait:14}
+Fei, wait!"
+
+#### 30 ####
+Alice
+"No...{wait:14}
+It's not that..."
+
+#### 31 ####
+Alice
+"Fei...{wait:14}
+Have you ever thought
+about things this way?"
+
+#### 32 ####
+Alice
+"If... If,{wait:14} you had
+only been born in
+this village...{enter}
+And if we had only
+known each other
+earlier on..."
+
+#### 33 ####
+Alice
+"...{wait:14}
+Oh, it's nothing.
+I'm sorry..."
+
+#### 34 ####
+Alice
+"Oh, OK...{enter}
+Be careful on that
+mountain path.{wait:14}
+And give my regards
+to Doctor Uzuki!"
+
+#### 35 ####
+Alice
+"...{wait:14}
+Is this fate...?"
+
+#### 36 ####
+Alice
+"I feel so foolish...{wait:14}
+Who am I kidding?"
+

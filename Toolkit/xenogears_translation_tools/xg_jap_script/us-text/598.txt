@@ -1,0 +1,242 @@
+#### 1 ####
+{fast:FF}Fei
+"Elly!!"
+
+#### 2 ####
+Citan
+"Wait!!{wait:14}
+Fei!{enter}
+Do not release
+the system!!"
+
+#### 3 ####
+Bart
+"Citan, wait!!{enter}
+We are only endangering
+ourselves!{wait:14}
+Let's get outta here
+for now!!"
+
+#### 4 ####
+Miang
+"Now, the time has come
+for the great awakening!"
+
+#### 5 ####
+Miang
+"This is the true meaning
+of the -Anima Relics-...{enter}
+To attain their respective
+-Animus- and return to the
+-Persona-.{enter}
+The Anima Relics are really
+one set of parts that make
+up -Deus-, the physical
+manifestation of god.{enter}
+They regain their original
+powers or functions by
+aligning themselves with
+their destined partner...{enter}
+An Omnigear that has lost
+its respective Anima Relic,
+is but a puppet.{enter}
+It becomes a mere vessel
+or container in which there
+are no contents."
+
+#### 6 ####
+Krelian
+"And this girl too was
+destined to become one
+with god...{enter}
+You see...Elyhaym is
+really one of the parts
+of god as well..."
+
+#### 7 ####
+Krelian
+"Put simply, you served to
+help bring all the parts of
+god together, here, for me.{enter}
+You're a bunch of stupid
+fools.{wait:14} It's as if you're
+all clowns..."
+
+#### 8 ####
+Miang
+"You believed the legend
+of how our world and the
+universe was created...{enter}
+But the Ministry and I
+fabricated that very myth
+a long time ago to suit
+our purposes."
+
+#### 9 ####
+Miang
+"I think you'll find that
+your friends' Omnigears
+are all dead too...{enter}
+I'm talking about your
+friends who split up and
+took a different path than
+you into this place...{enter}
+They were all parts of god
+that were disassembled in
+the past, but once again,
+are all gathered here."
+
+#### 10 ####
+Krelian
+"Yes.
+It is indeed the time for
+the resurrection of god."
+
+#### 11 ####
+W, what was it all for...{wait:14}
+Everything that I have
+done up until now...
+
+#### 12 ####
+Fei
+"What is this...?{wait:1E}
+...!!{wait:1E}
+That's {wait:14}Elly!!"
+
+#### 13 ####
+Fei
+"Damn,{wait:05}
+what's going on!?{enter}
+Huh!?{wait:14}
+Hey{wait:05}...{wait:05}
+Is that{wait:05}...!?"
+
+#### 14 ####
+Fei
+"Our Omni{wait:05}...?{wait:14}
+No, that's not it!!{enter}
+Is that{wait:05}...{wait:14}
+our Anima Relics!?"
+
+#### 15 ####
+Fei
+"Being consumed by...
+Deus...!?"
+
+#### 16 ####
+Fei
+"Deus is...
+swallowing up our
+Anima Relics!?"
+
+#### 17 ####
+Fei
+"What the hell are
+you talking about!?"
+
+#### 18 ####
+Fei
+"That's a lie!!{wait:14}
+How can that be true...?"
+
+#### 19 ####
+Citan
+"Gwah...!{wait:14}
+Could...this be the!?"
+
+#### 20 ####
+Bart
+"W, what the!?{enter}
+M, my body...{wait:14}
+It feels like it's
+bein' torn apart!!"
+
+#### 21 ####
+Bart
+"It, it's...{wait:05}
+pulling me in...!!"
+
+#### 22 ####
+Bart
+"What's going on?{wait:14}
+My Omnigear{wait:05}...{wait:05}
+won't move!?{enter}
+It's like it's
+dead{wait:05}...!?"
+
+#### 23 ####
+Rico
+"Gwah...!?{wait:14}
+Wh, what's this
+terrible pain...!?"
+
+#### 24 ####
+Rico
+"That Deus thing!?{wait:14}
+Is it trying swallow us!?"
+
+#### 25 ####
+Rico
+"Crap, what's going on?
+My Omnigear won't move!{enter}
+It's like it's...dead."
+
+#### 26 ####
+Billy
+"Argh...!?{wait:14}
+I'm getting torn apart!?"
+
+#### 27 ####
+Billy
+"That thing...!{wait:14}
+That thing is trying...
+to eat us all!?"
+
+#### 28 ####
+Billy
+"What's going on?
+My Omnigear...
+It's not moving.{enter}
+I think it's dead..."
+
+#### 29 ####
+Emeralda
+"Grrr...!!"
+
+#### 30 ####
+{name:07:チュチュ}
+"...?{wait:14}
+What's wrong!?"
+
+#### 31 ####
+Maria
+"Uh...!!{wait:14}
+What's this...!?"
+
+#### 32 ####
+Citan
+"It is our...{wait:14}
+Omnigears!?"
+
+#### 33 ####
+Citan
+"Is it trying to detach
+the Anima Relics from
+our Omnigears!?"
+
+#### 34 ####
+Citan
+"...{enter}
+It seems the Anima Relics
+have fallen into the hands
+of the enemy."
+
+#### 35 ####
+Emeralda
+"Grrr...!!"
+
+#### 36 ####
+Do you want to jump inside?{wait:14}
+    Yes
+    No
+

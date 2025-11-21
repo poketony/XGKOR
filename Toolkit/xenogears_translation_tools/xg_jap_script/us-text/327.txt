@@ -1,0 +1,43 @@
+#### 1 ####
+Elly
+"'Oh vessel for a new soul!
+  May the soul who resideth
+  in you find peace.'     "
+
+#### 2 ####
+Elly
+"Citan...{wait:2D}
+Who...am I...?{enter}
+What am I doing?
+What am I saying...?"
+
+#### 3 ####
+Citan
+"...{wait:5A}
+No matter what, we 
+need a password..."
+
+#### 4 ####
+Citan
+"...It is well hidden...{wait:20}
+in the data gaps...{enter}
+No...'flee'?...
+...'with my own will'...
+What is this?"
+
+#### 5 ####
+Citan
+"...{wait:5A}
+Is this...a wild
+computer?{enter}
+No, a structural record
+of life...{enter}
+No, not that...
+An organism..."
+
+#### 6 ####
+Citan
+"No, Elly!
+We do not know
+what could happen!"
+

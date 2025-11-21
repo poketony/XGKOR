@@ -1,0 +1,50 @@
+<TextBlock 1 w:32 h:1>
+È tiepido…<Close><End of Block>
+<TextBlock 2 w:54 h:4>
+Bart
+"Quella Margie…!<New>
+Lasciare questo
+strano peluche in
+un posto simile!<Delay 10><New>
+A causa sua, non
+possiamo andare
+sul ponte."<Close><End of Block>
+<TextBlock 3 w:34 h:1>
+<Opcode 1 255>Non sono uno strano peluche!<Opcode 2 65><Close><End of Block>
+<TextBlock 4 w:36 h:4>
+Bart
+"Ehi, Fei!!<Delay 10>
+Vuoi smetterla di
+parlare in falsetto!?"<Close><End of Block>
+<TextBlock 5 w:46 h:3>
+Fei
+"Eh? 
+<Delay 10>Non<Delay 10> ho detto nulla."<Close><End of Block>
+<TextBlock 6 w:34 h:3>
+Bart
+"…<Delay 10>
+Che strano…<New>
+Comunque chiediamo
+a Margie di
+sbarazzarsene."<Close><End of Block>
+<TextBlock 7 w:52 h:3>
+Sali sulla nave da trasporto?
+    Sì
+    Non ancora<Close><End of Block>
+<TextBlock 8 w:42 h:3>
+<Opcode 1 255>Prepararsi al lancio.
+Non aprite i portelli!
+              -Sigurd<Close><End of Block>
+<TextBlock 9 w:34 h:3>
+<Opcode 1 255>Non aprite i portelli
+mentre siamo in movimento.
+          -Sigurd<Close><End of Block>
+<TextBlock 10 w:44 h:4>
+Elly
+"Non possono lanciare
+l'Yggdrasil perché
+Sigurd non è ai comandi…<New>
+Sarà nel bar o da
+qualche altra parte."<Close><End of Block>
+<TextBlock 11 w:0 h:1>
+<Close><End of Block>

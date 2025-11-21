@@ -1,0 +1,311 @@
+<TextBlock 1 w:50 h:3>
+Elly
+"Mm… Dov'è Billy?
+Vorrei ringraziarlo…"<Close><End of Block>
+<TextBlock 2 w:18 h:2>
+Shitan
+"Allora…"<Close><End of Block>
+<TextBlock 3 w:46 h:4>
+Shitan
+"Elly, non fartene una
+colpa. Eri in stato
+ipnotico.<New>
+Cosa più importante,
+hai salvato Fei.<New>
+Fei non sarebbe
+stato protetto da
+Kahr senza di te.
+Non è così?"<Close><End of Block>
+<TextBlock 4 w:50 h:4>
+Shitan
+"Bene, non disturbiamo 
+oltre la sua guarigione.
+Vogliamo andare?<New>
+Ci vorrà un po' di 
+tempo prima che la
+terapia su Fei termini."<Close><End of Block>
+<TextBlock 5 w:46 h:4>
+Shitan
+"Sono d'accordo.
+Fei così si sentirà
+a proprio agio.<New>
+Facci sapere quando
+finirà la terapia.
+Lascio tutto nelle
+tue mani."<Close><End of Block>
+<TextBlock 6 w:32 h:3>
+Shitan
+"Fei ha ripreso
+conoscenza?"<Close><End of Block>
+<TextBlock 7 w:38 h:3>
+Shitan
+"Mi dispiace avervi
+dato noia."<Close><End of Block>
+<TextBlock 8 w:48 h:3>
+Shitan
+"Siamo in debito con
+Billy. Dovremmo andare
+a ringraziarlo."<Close><End of Block>
+<TextBlock 9 w:52 h:3>
+Shitan
+"Innanzitutto, spostiamo
+Fei all'Yggdrasil.<New>
+Potremo ringraziare
+Billy più tardi."<Close><End of Block>
+<TextBlock 10 w:18 h:2>
+Shitan
+"Allora…"<Close><End of Block>
+<TextBlock 11 w:46 h:4>
+Shitan
+"Elly, non fartene una
+colpa. Eri in stato
+ipnotico.<New>
+Cosa più importante,
+hai salvato Fei.<New>
+Fei non sarebbe
+stato protetto da
+Kahr senza di te.
+Non è così?"<Close><End of Block>
+<TextBlock 12 w:48 h:4>
+Shitan
+"Bene, non disturbiamo 
+oltre la sua guarigione.
+Vogliamo andare?<New>
+Ci vorrà un po' di 
+tempo prima che la
+terapia su Fei
+termini."<Close><End of Block>
+<TextBlock 13 w:48 h:4>
+Shitan
+"Sono d'accordo.
+Fei così si sentirà a
+proprio agio.<New>
+Facci sapere quando
+finirà la terapia.
+Lascio tutto nelle
+tue mani."<Close><End of Block>
+<TextBlock 14 w:30 h:3>
+Shitan
+"Fei ha ripreso
+conoscenza?"<Close><End of Block>
+<TextBlock 15 w:38 h:3>
+Shitan
+"Mi dispiace avervi
+dato noia."<Close><End of Block>
+<TextBlock 16 w:48 h:3>
+Shitan
+"Siamo in debito con
+Billy. Dovremmo andare
+a ringraziarlo."<Close><End of Block>
+<TextBlock 17 w:52 h:3>
+Shitan
+"Innanzitutto, spostiamo
+Fei all'Yggdrasil.<New>
+Potremo ringraziare
+Billy più tardi."<Close><End of Block>
+<TextBlock 18 w:30 h:2>
+Bart
+"Ciò significa…"<Close><End of Block>
+<TextBlock 19 w:46 h:4>
+Bart
+"Elly, non è vero.
+Eri sotto ipnosi, non
+potevi far altro.<New>
+Non devi sentirti in
+colpa. E poi sei
+riuscita a salvare
+Fei.<New>
+Lo hai protetto
+da Ramsus.
+Non è così?"<Close><End of Block>
+<TextBlock 20 w:50 h:4>
+Bart
+"Ehi, non disturbiamo
+il suo riposo.
+Facciamoci un giro.<New>
+Ci vorrà ancora un 
+po' prima che la
+cura finisca."<Close><End of Block>
+<TextBlock 21 w:52 h:4>
+Bart
+"Sì, perché non lo fai?
+Sono sicuro che Fei ne
+sarebbe felice.<New>
+Ok, chiamaci quando la
+terapia sarà finita. 
+Pensa a tutto tu."<Close><End of Block>
+<TextBlock 22 w:44 h:3>
+Bart
+"Comunque, Fei ha
+ripreso conoscenza?"<Close><End of Block>
+<TextBlock 23 w:30 h:2>
+Bart
+"Grazie infinite!"<Close><End of Block>
+<TextBlock 24 w:42 h:4>
+Bart
+"Billy ci ha davvero
+aiutato. Faremo bene
+a ringraziarlo."<Close><End of Block>
+<TextBlock 25 w:52 h:4>
+Bart
+"Beh, ora spostiamo
+Fei all'Yggdrasil.<New>
+Potremo ringraziare
+Billy più tardi."<Close><End of Block>
+<TextBlock 26 w:28 h:2>
+Rico
+"Hmm, allora…"<Close><End of Block>
+<TextBlock 27 w:54 h:4>
+Rico
+"In quel momento eri
+ipnotizzata, quindi non
+devi sentirti in colpa.<New>
+Ramsus avrebbe potuto
+uccidere Fei se tu non 
+fossi stata là."<Close><End of Block>
+<TextBlock 28 w:48 h:4>
+Rico
+"Ci vorrà un po' di
+tempo prima che la
+terapia finisca.<New>
+Andiamo ad ammazzare il
+tempo da qualche altra
+parte."<Close><End of Block>
+<TextBlock 29 w:48 h:4>
+Rico
+"Fai ciò che devi.<Delay 20>
+Fammi sapere quando
+hai finito con Fei."<Close><End of Block>
+<TextBlock 30 w:32 h:2>
+Rico
+"Fei sta meglio?"<Close><End of Block>
+<TextBlock 31 w:40 h:3>
+Rico
+"Ci è voluto un po' 
+di tempo."<Close><End of Block>
+<TextBlock 32 w:50 h:3>
+Rico
+"… Vorrei almeno
+ringraziare Billy."<Close><End of Block>
+<TextBlock 33 w:52 h:4>
+Rico
+"Comunque, ora portiamo
+Fei all'Yggdrasil.
+E poi ci andremo."<Close><End of Block>
+<TextBlock 34 w:54 h:4>
+Elly
+"È vero, ero ipnotizzata. 
+Ma è successo perché io
+ho abbassato la guardia.<New>
+Sono in parte responsabile
+di ciò che è accaduto.<New>
+Così vorrei restare al
+suo fianco fintanto 
+che non si risveglierà."<Close><End of Block>
+<TextBlock 35 w:22 h:3>
+Elly
+"Fei<Delay 10>…<Delay 10>
+Mi dispiace."<Close><End of Block>
+<TextBlock 36 w:44 h:3>
+Elly
+"<Delay 10>…<Delay 10> Fei riprenderà
+mai conoscenza?"<Close><End of Block>
+<TextBlock 37 w:48 h:4>
+Elly
+"<Delay 15>…<Delay 15> Mi dispiace, Fei.
+È stata tutta colpa
+mia…"<Close><End of Block>
+<TextBlock 38 w:28 h:2>
+Elly
+"Grazie…"<Close><End of Block>
+<TextBlock 39 w:40 h:4>
+Elly
+"Io…<Delay 15> vorrei restare
+con lui un altro po'.<Delay 10>
+Va bene?"<Close><End of Block>
+<TextBlock 40 w:24 h:2>
+Billy
+"Come sta?"<Close><End of Block>
+<TextBlock 41 w:36 h:3>
+Billy
+"Possiamo solo
+aspettare."<Close><End of Block>
+<TextBlock 42 w:52 h:3>
+Le sue condizioni sono
+stabili. La terapia
+è praticamente finita.<Close><End of Block>
+<TextBlock 43 w:48 h:4>
+Cos'è successo?<Delay 15>
+Quegli uomini in nero
+stavano uccidendo la
+gente della Chiesa!<Close><End of Block>
+<TextBlock 44 w:52 h:2>
+Sembra che tu stia
+meglio. Sono contento.
+Davvero molto contento.<Close><End of Block>
+<TextBlock 45 w:46 h:4>
+Se è guarito?
+La terapia ha avuto 
+successo, così non
+c'è da preoccuparsi.<Close><End of Block>
+<TextBlock 46 w:54 h:4>
+Il paziente non ha ancora
+ripreso conoscenza, ma
+il suo cervello non
+presenta anomalie.<New>
+La bassa temperatura
+dell'acqua ha abbassato
+il suo metabolismo, e ciò
+gli ha salvato la vita.<New>
+Un passo falso e si
+sarebbe rischiata la
+morte cerebrale.<Close><End of Block>
+<TextBlock 47 w:54 h:3>
+Sì, non preoccupatevi.<Delay 15>
+Però abbiamo necessità
+di condurre degli altri
+esami.<New>
+Appena avremo finito,
+potrete continuare a
+curarlo a bordo della
+vostra nave.<Close><End of Block>
+<TextBlock 48 w:50 h:4>
+La ragione per cui
+non ha ancora ripreso
+conoscenza è lo
+sfinimento fisico.<New>
+Ha abusato delle sue
+forze. Ci vorranno
+ancora alcuni giorni,
+ma state tranquilli…<New>
+… si riprenderà.<Close><End of Block>
+<TextBlock 49 w:40 h:3>
+Non preoccupatevi.
+Ho fatto solo il
+mio dovere di
+sacerdote.<Close><End of Block>
+<TextBlock 50 w:52 h:2>
+Salve a tutti.
+La sua cura
+è terminata.<Close><End of Block>
+<TextBlock 51 w:56 h:4>
+Sfortunatamente, il
+paziente non si è
+ancora ripreso. Ma
+non preoccupatevi.<New>
+Non appena avrà ripreso
+le forze, si sveglierà.
+Ora potete portarlo
+sulla vostra nave.<Close><End of Block>
+<TextBlock 52 w:38 h:3>
+Non preoccupatevi.
+Ho fatto solo il
+mio dovere di
+sacerdote.<Close><End of Block>
+<TextBlock 53 w:48 h:4>
+Oh sì, nostro
+fratello Billy…<New>
+È ritornato allo
+orfanotrofio. Era
+molto preoccupato
+per i bambini.<Close><Close><End of Block>

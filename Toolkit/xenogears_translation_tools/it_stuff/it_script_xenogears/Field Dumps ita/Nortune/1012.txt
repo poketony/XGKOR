@@ -1,0 +1,50 @@
+<TextBlock 1 w:54 h:4>
+Mmh,<Delay 5> non importa quanto
+dormo, non basta mai!
+Mi sento ancora debole<Delay 5>…<Delay 15><New>
+Più dormo, più divento
+apatico. Dicono che il
+dormire faccia diventare
+forti i bambini… è vero?<Close><End of Block>
+<TextBlock 2 w:52 h:4>
+Uuuh, ora non riesco ad
+addormentarmi<Delay 5>…<Delay 15> Continuo
+a pensare che Aveh potrebbe
+attaccare in qualsiasi
+momento.<New>
+Ora non riesco a dormire<Delay 5>…<Delay 30>
+Ahh,<Delay 5> spero che questa
+guerra finisca presto.<Close><End of Block>
+<TextBlock 3 w:46 h:4>
+Al momento ci stiamo
+prepararando<Delay 5> per la parata
+del Kaiser Sigmund<Delay 5>…<Delay 5>
+E poi… ehi, ma tu chi sei?<New>
+Ci sono tantissimi ufficiali
+d'alto rango in questa stanza,<Delay 5>
+vogliamo impressionarli ed
+essere promossi.<Delay 5><New>
+Perciò togliti di mezzo.<Close><End of Block>
+<TextBlock 4 w:40 h:2>
+Ora,<Delay 5> ricominciare!<Delay 15>
+Ehi,<Delay 5> fuori dai piedi!<Close><End of Block>
+<TextBlock 5 w:48 h:4>
+Beh,<Delay 5> gli sono piaciuto
+abbastanza,<Delay 5> ma l'ufficiale
+che insisteva per la mia
+promozione<Delay 5> è morto
+nell'assalto aereo dell'altra
+volta.<Close><End of Block>
+<TextBlock 6 w:50 h:3>
+Pensavo fosse giunta la 
+mia occasione.<Delay 45> …<Delay 5> La vita
+è dura.<Delay 15><New>
+Di questo passo,<Delay 5> mi
+manderanno sul campo
+di battaglia.<Close><End of Block>
+<TextBlock 7 w:52 h:4>
+Mmh, quel giovane lì<Delay 5>…<Delay 5>
+È un peccato tenerlo
+soldato semplice<Delay 5>…<Delay 5><New>
+Ma… quell'altro resta
+sempre seduto. Chi è?<Close><Close><End of Block>

@@ -1,0 +1,186 @@
+<TextBlock 1 w:48 h:4>
+Dottore
+"Ti senti male?"
+    Sì
+    No<Close><End of Block>
+<TextBlock 2 w:44 h:3>
+Dottore
+"Capisco. Trovati un
+posto e dormi pure."<Close><End of Block>
+<TextBlock 3 w:46 h:2>
+Dottore
+"Cerca di non tornare."<Close><End of Block>
+<TextBlock 4 w:34 h:4>
+Dottore
+"Allora non hai
+nulla da fare qui.
+Via, va' via!"<Close><End of Block>
+<TextBlock 5 w:50 h:3>
+Dottore
+"Uff, qui ci vengono solo
+ubriaconi e bulletti…"<Close><End of Block>
+<TextBlock 6 w:50 h:5>
+Dottore
+"Allora vai via.
+Ci sono molte persone
+che sono state ferite
+da quella specie di
+piatto volante."<Close><End of Block>
+<TextBlock 7 w:38 h:3>
+Il vento… mi sta
+chiamando per nome.<Delay 10>
+…<Delay 10> Sigh<Delay 10>…<Close><End of Block>
+<TextBlock 8 w:22 h:3>
+Il mare…
+sta piangendo.<Delay 10>
+…<Delay 10> Sigh<Delay 10>…<Close><End of Block>
+<TextBlock 9 w:52 h:2>
+Solo io…<Delay 10>…<Delay 10>
+sono sopravvissuto.<New>
+I miei camerati sono stati
+presi e mangiati dai
+Mietitori…<Close><End of Block>
+<TextBlock 10 w:56 h:4>
+È stato terribile. Eravamo
+così entusiasti delle cose
+che stavamo trovando al
+sito di scavi, quando…<New>
+Un raggio ci ha colpiti!<New>
+Era così brillante che i
+miei occhi bruciavano.
+È stato allora che un Gear
+del Tammuz mi ha salvato.<New>
+Gli sono così grato…!
+Perché hanno attaccato
+proprio noi? Cosa
+cercavano in quel sito?<Close><End of Block>
+<TextBlock 11 w:52 h:2>
+Quando sono sbronzo,
+l'unica cosa che mi
+importa è questo letto.<Close><End of Block>
+<TextBlock 12 w:54 h:5>
+Anna
+"Mio marito è stato
+divorato da quel
+Mietitore… Ci siamo
+salvati solo noi tre.<New>
+Cosa faremo ora?"<Close><End of Block>
+<TextBlock 13 w:42 h:3>
+Lance
+"Ehi, stai
+infastidendo
+la mia mamma?"<Close><End of Block>
+<TextBlock 14 w:34 h:2>
+Kanna
+"Dov'è papà?"<Close><End of Block>
+<TextBlock 15 w:50 h:4>
+Dottore
+"…<Delay 15> Non lo so.<Delay 10> 
+Al momento è collegato
+al supporto vitale<Delay 10>…<Delay 10>"<Close><End of Block>
+<TextBlock 16 w:46 h:3>
+Shitan
+"…<Delay 20> Vuoi dire…<Delay 5> 
+Guarirà<Delay 10>…?"<Close><End of Block>
+<TextBlock 17 w:52 h:4>
+Dottore
+"…<Delay 20> Non garantisco nulla.<New> 
+E poi, non so neanche
+perché si trova in
+questo stato."<Close><End of Block>
+<TextBlock 18 w:10 h:2>
+Bart
+"…"<Close><End of Block>
+<TextBlock 19 w:26 h:3>
+Elly
+"…<Delay 30> È colpa
+mia<Delay 20>…<Delay 45> Io<Delay 10>…<Delay 10>"<Space 1><Close><End of Block>
+<TextBlock 20 w:52 h:4>
+Dottore
+"Forse all'infermeria
+della Sede della Chiesa…"<Close><End of Block>
+<TextBlock 21 w:3 h:1>
+!<Close><End of Block>
+<TextBlock 22 w:36 h:3>
+Elly
+"Fei…
+Puoi salvare Fei?"<Close><End of Block>
+<TextBlock 23 w:52 h:5>
+Dottore
+"Non posso garantirlo.
+Ma se lo portassimo
+all'ospedale della
+Sede della Chiesa…"<Close><End of Block>
+<TextBlock 24 w:50 h:2>
+Elly
+"Allora potremmo
+salvarlo?"<Close><End of Block>
+<TextBlock 25 w:54 h:4>
+Dottore
+"Credo che avrebbe
+molte probabilità
+in più di guarire…<New>
+Sfortunatamente, le
+persone comuni non
+vi possono essere
+ricoverate.<New>
+Bisogna essere preti
+o essere presentati da
+qualcuno della Chiesa<Delay 5>…"<Close><End of Block>
+<TextBlock 26 w:10 h:2>
+Elly
+"…"<Close><End of Block>
+<TextBlock 27 w:50 h:4>
+Dottore
+"Ah, dimenticavo.<New>
+Sembra che un Redentore,
+un 'espiatore dei peccati',
+stia venendo qui, al
+Tammuz…."<Close><End of Block>
+<TextBlock 28 w:44 h:4>
+Shitan
+"Per quale motivo un
+tale Redentore sta
+venendo qui?"<Close><End of Block>
+<TextBlock 29 w:40 h:4>
+Dottore
+"Ho sentito che deve
+fare un qualche tipo
+di indagine."<Close><End of Block>
+<TextBlock 30 w:30 h:3>
+Bart
+"Redentori…
+Cosa sono?"<Close><End of Block>
+<TextBlock 31 w:56 h:5>
+Dottore
+"Sono religiosi della
+Chiesa che purificano i
+Mietitori, o -Wels-, che
+appaiono qui in Aquvy."<Close><End of Block>
+<TextBlock 32 w:54 h:2>
+Elly
+"Perché non lo
+chiediamo a lui?"<Close><End of Block>
+<TextBlock 33 w:52 h:4>
+Dottore
+"Posso chiederglielo,
+ma non so se vorrà
+aiutarci…<New>
+Comunque, chiedere non
+fa male a nessuno…"<Close><End of Block>
+<TextBlock 34 w:46 h:3>
+Elly
+"Ok, andiamo
+a cercarlo."<Close><End of Block>
+<TextBlock 35 w:50 h:4>
+Shitan
+"Io andrò assieme a
+Fei all'Yggdrasil…<New>
+… portandomi dietro
+le macchine di supporto
+vitale.<New>
+Bart ed Elly, voi andate
+a cercare il Redentore."<Close><End of Block>
+<TextBlock 36 w:22 h:2>
+Bart
+"… Va bene."<Close><Close><End of Block>

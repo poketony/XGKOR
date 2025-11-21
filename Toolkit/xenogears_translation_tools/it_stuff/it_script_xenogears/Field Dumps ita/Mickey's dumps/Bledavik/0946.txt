@@ -1,0 +1,156 @@
+<TextBlock 1 w:34 h:3>
+Renk            
+"Ehi, guardate…"<Close><End of Block>
+<TextBlock 2 w:44 h:3>
+Strakki
+"C'è solo una nave
+di controllo…<New>
+Le altre 7 sono tutte
+guidate con l'Etere.<New>
+Chi diavolo le sta
+controllando?"<Close><End of Block>
+<TextBlock 3 w:48 h:2>
+Non pensavo che fossi
+tu la scorta per il
+comandante.<Close><End of Block>
+<TextBlock 4 w:22 h:2>
+Elly
+"Dominia!?"<Close><End of Block>
+<TextBlock 5 w:48 h:4>
+Helmholtz
+"… Dominia, e chi è?<Delay 30>
+Ehi, non è una degli
+Elementi…?"<Close><End of Block>
+<TextBlock 6 w:46 h:4>
+Dominia
+"È da molto tempo,
+Elhaym. Dai tempi di
+Jugend, vero?"<Close><End of Block>
+<TextBlock 7 w:28 h:3>
+Elly
+"Cosa stai
+facendo qui?"<Close><End of Block>
+<TextBlock 8 w:50 h:4>
+Dominia
+"Questa è una missione
+vitale ordinata dal
+quartier generale.<New>
+Ho già gli ordini
+di Ramsus. L'Hecht non
+può essere pilotato da
+un comune soldato.<New>
+Io prenderò l'Hecht."<Close><End of Block>
+<TextBlock 9 w:44 h:4>
+Dominia
+"Non ho bisogno di
+una scorta, ma questi
+sono gli ordini.<New>
+Questo sarà un
+bel combattimento."<Close><End of Block>
+<TextBlock 10 w:46 h:4>
+Elly
+"Aspetta! Dimmi qual è
+il bersaglio!
+Tu dovresti saperlo!"<Close><End of Block>
+<TextBlock 11 w:52 h:3>
+Dominia
+"È riservato…<Delay 30>
+ma credo di potertelo
+dire.<New>
+Il generatore elettrico
+nel settore est della
+capitale imperiale di
+Kislev.<New>
+Il bersaglio è il
+reattore lasciato lì
+da un'antica civiltà."<Close><End of Block>
+<TextBlock 12 w:46 h:4>
+Elly
+"Il reattore? Se lo
+attaccherai, Kislev
+sarà…"<Close><End of Block>
+<TextBlock 13 w:46 h:3>
+Dominia
+"… distrutta quasi
+per intero.<New>
+E il resto sarà
+inabitabile per
+centinaia di anni."<Close><End of Block>
+<TextBlock 14 w:50 h:2>
+Elly
+"Perché lo stai
+facendo?"<Close><End of Block>
+<TextBlock 15 w:52 h:4>
+Dominia
+"Per purificare,
+per che altro?<New>
+Dovresti già saperlo,
+Kislev ha il Custode
+del Portale.<New>
+Il portale originale
+è controllato da
+questi volgari
+Agnelli.<New>
+Questa barriera fu fatta
+dai nostri antenati.
+Gli Agnelli cercano di
+distruggere il portale.<New>
+Vuoi pemetterlo loro?"<Close><End of Block>
+<TextBlock 16 w:48 h:4>
+Elly
+"Se anche fosse…<Delay 30>
+Che diritto abbiamo
+di intrometterci?"<Close><End of Block>
+<TextBlock 17 w:48 h:4>
+Dominia
+"Cosa ti disturba?
+Da quand'è che hai una
+coscienza?<New>
+Tutto ciò che hanno in
+mente gli Agnelli è
+guerra, lotta, slealtà
+e tradimento.<New>
+Dovresti saperlo, visto
+che sei stata insieme
+a loro.<New>
+Dagli un dito e si
+prenderanno tutto il
+braccio.<New>
+Potrebbero saccheggiare
+il nostro mondo come se
+fosse il loro.<New>
+Tutta quella tecnologia
+non è necessaria a
+quegli animali.<New>
+Dobbiamo insegnare ad
+essi qual è il loro
+posto in questo mondo."<Close><End of Block>
+<TextBlock 18 w:40 h:4>
+Elly
+"In origine eri un
+abitante della
+superficie. Perché…?"<Close><End of Block>
+<TextBlock 19 w:40 h:3>
+Dominia
+"Sono stata scelta
+dal Comandate!<New>
+Non confondermi
+con questi stupidi
+Agnelli!"<Close><End of Block>
+<TextBlock 20 w:50 h:3>
+Dominia
+"È così…<New>
+Ti sottrai al dovere che
+era stato infuso in te
+sin dai giorni di Jugend.<New>
+Discutere con te è solo
+una perdita di tempo."<Close><End of Block>
+<TextBlock 21 w:52 h:4>
+Dominia
+"Io ero un abitante
+della superficie, ma ora
+purificherò gli Agnelli.<New>
+Voglio che tu, uno dei
+Pastori, gli Abele, veda
+coi tuoi occhi che cosa
+sono capace di fare."<Close><Close><End of Block>

@@ -1,0 +1,219 @@
+#### 1 ####
+Fei
+"You girls again!?"
+
+#### 2 ####
+Fei
+"You knew what Solaris
+was doing to the surface
+dwellers...{enter}
+And you know what the
+situation is like now
+on the earth...
+And yet you..."
+
+#### 3 ####
+Fei
+"Power and ability have
+nothing to do with it.{enter}
+It was pure coincidence
+that we didn't mutate."
+
+#### 4 ####
+Elly
+"Dominia...{wait:1E}
+Do you truly believe that?"
+
+#### 5 ####
+Elly
+"You were all once
+surface dwellers.{enter}
+Weren't you all forced
+to live under the
+oppression of Solaris?{enter}
+I KNOW that you know
+how it feels to be a
+'have-not', so why do
+you...?"
+
+#### 6 ####
+Elly
+"That is just the
+providence of those
+who are the 'haves'!"
+
+#### 7 ####
+Billy
+"Elements!"
+
+#### 8 ####
+Billy
+"People are people.
+Nothing more or less.{enter}
+I admit that there are
+the weak and powerless.{enter}
+But that's no reason
+for us to forsake them.{enter}
+We are all the same
+human beings!"
+
+#### 9 ####
+Elly
+"Dominia...{wait:1E}
+Do you truly believe that?"
+
+#### 10 ####
+Elly
+"You were all once
+surface dwellers.{enter}
+Weren't you all forced
+to live under the
+oppression of Solaris?{enter}
+I KNOW that you know
+how it feels to be a
+'have-not', so why do
+you...?"
+
+#### 11 ####
+Elly
+"That is just the
+providence of those
+who are the 'haves'!"
+
+#### 12 ####
+Billy
+"Elements!"
+
+#### 13 ####
+Billy
+"People are people.
+Nothing more or less.{enter}
+I admit that there are
+the weak and powerless.{enter}
+But that's no reason
+for us to forsake them.{enter}
+We are all the same
+human beings!"
+
+#### 14 ####
+Dominia
+"I see you've gained a new
+Gear that has been aligned
+with an Anima Relic."
+
+#### 15 ####
+Dominia
+"What the Gazel do or what-
+ever happens to the Lambs,
+are not my concerns.{enter}
+Each of us have our own
+obligations to fulfill.{enter}
+We don't have time to deal
+with affairs concerning you
+weak and inferior people."
+
+#### 16 ####
+Dominia
+"Yes.
+Look at yourselves,
+for instance...{enter}
+You, the strong and the
+superior, were the first
+to preserve yourselves,
+without any mutations.{enter}
+Is that not right?"
+
+#### 17 ####
+Dominia
+"So...
+You wish to give a hand to
+those who would be saved?"
+
+#### 18 ####
+Dominia
+"Hmph.{enter}
+So be it then, show me
+this providence of yours
+that wishes to save the
+meager 'have-nots'!"
+
+#### 19 ####
+Dominia
+"Here I come!"{clear:1E}
+
+#### 20 ####
+Dominia
+"Hah...{enter}
+We may have fared poorly
+when we fought in the
+flesh, but we will finish
+you off in our Gears!"
+
+#### 21 ####
+Dominia
+"Come!
+Follow me!"
+
+#### 22 ####
+Kelvena
+"You know that we should
+have been the ones to have
+it...{enter}
+We need stronger powers in
+order for Commander Ramsus
+to realize his long-
+cherished desires."
+
+#### 23 ####
+Kelvena
+"How commendable.
+But...{wait:14}is that really
+what's best for mankind?"
+
+#### 24 ####
+Kelvena
+"People must be able to
+stand on their own in any
+circumstances they are in.{enter}
+Overprotection only stunts
+the will to be independent.{enter}
+This stunts the growth of
+the people and the world.
+We've experienced that
+first hand.{enter}
+Live by one's own strength,
+stand on one's own feet!
+It's sad but true that the
+weak will be weeded out...{enter}
+But we cannot look back.
+That is the providence of
+human existence."
+
+#### 25 ####
+Seraphita
+"So, c'mon...
+let us have it!"
+
+#### 26 ####
+Seraphita
+"You're so ni¡«ce
+and ki¡«nd!"
+
+#### 27 ####
+Tolone
+"Yes, for the building of
+our ideal country, we can't
+allow you to take it."
+
+#### 28 ####
+Door Lock System 
+Area B
+
+#### 29 ####
+You have too many
+{str}.
+
+#### 30 ####
+ 
+ Received {str}.
+

@@ -1,0 +1,172 @@
+#### 1 ####
+How old was I...?{wait:0A}
+I don't remember.
+Maybe 8 or 9. {enter}
+About then,
+dad taught me
+how to use a gun.
+
+#### 2 ####
+One day
+dad disappeared.
+
+#### 3 ####
+He just ran out on us.
+
+#### 4 ####
+He never came back.
+
+#### 5 ####
+Even so,
+I stayed in his room alone
+often.{enter}
+Dad's gun,{wait:0A} 
+Dad's smell.{wait:0A}{enter}
+Those things were all
+I had left to
+remind me of him.
+
+#### 6 ####
+But that happiness 
+didn't last long...
+
+#### 7 ####
+When I was 12,
+my house was attacked
+by Reapers
+and mom was killed.{enter}
+They were looking for dad
+but mom wouldn't talk.
+
+#### 8 ####
+I can still hear it...{wait:0A} 
+The sound of the bullets
+slowly firing three times...{enter}
+I even remember the sound
+of the empty shells
+hitting the floor.{enter}
+After that,
+the Reapers screamed
+and I heard someone fall.
+
+#### 9 ####
+Bishop Stone was the one 
+who helped us then.{wait:0A}{enter}
+Meeting him changed my life
+from then on.
+
+#### 10 ####
+Bart
+"Hey, hey, wait a sec.{wait:0A} 
+Do Reapers talk?"
+
+#### 11 ####
+Citan
+"Wait a minute.{wait:0A} 
+Reapers spoke in a human
+language?"
+
+#### 12 ####
+"Yes.{wait:0A}
+They're not just monsters.
+Some of them are more
+intelligent than humans."
+
+#### 13 ####
+Primera and I hid in the
+shadows escaping death,
+but she hasn't spoken a
+word since. 
+
+#### 14 ####
+Like a godsend, kind,
+strong Bishop Stone gave
+me an example to follow.{enter}
+I wanted to help save
+someone in need like
+he saved us.{enter}
+I didn't want there to
+be any more children
+like Primera...{enter}
+So I began training at the
+'Ethos' to become just
+like Bishop Stone.
+
+#### 15 ####
+I left Prim in the care
+of the 'Ethos' and
+entered the monastery.
+
+#### 16 ####
+Many years passed...
+
+#### 17 ####
+I finished training
+at the monastery and
+became an Etone.
+
+#### 18 ####
+I returned home to
+open the orphange...
+
+#### 19 ####
+And he...{wait:0A}had
+unexpectedly come back.
+
+#### 20 ####
+But he was different.{wait:0A}
+Some terrible accident
+changed him. {enter}
+Not only his looks, but
+his character and manner
+had entirely changed too.{enter}
+I remembered him as a
+quiet man...
+
+#### 21 ####
+But...{wait:0A} more than that,
+I thought maybe I didn't 
+really remember him...
+
+#### 22 ####
+That's why...{wait:0A}
+I can never think of him
+as a father...
+
+#### 23 ####
+But Prim needed a father, 
+and she'd become attached
+to him.{enter}
+Deep in my heart, I too
+thought I wanted a father.
+
+#### 24 ####
+But...{wait:0A}
+even now I just can't 
+believe he is my real 
+father.
+
+#### 25 ####
+Stone
+"4 years ago...
+After searching to the ends
+of the earth, no trace of
+him could be found."
+
+#### 26 ####
+Stone
+"Racquel, dirtied by
+him{wait:05}...{wait:05}{enter}
+and the reminder of that
+taint...{wait:1E}you and
+your sister{wait:1E}..."
+
+#### 27 ####
+Stone
+"Through Krelian's wisdom,
+using the Wels, I saved
+Racquel from misery..."
+
+#### 28 ####
+
+

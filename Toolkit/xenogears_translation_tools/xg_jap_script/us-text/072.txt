@@ -1,0 +1,103 @@
+#### 1 ####
+Helmholz
+"Prep complete!!"
+
+#### 2 ####
+Stratski
+"OK over here!"
+
+#### 3 ####
+Broyer
+"Confirmed!{wait:0A}
+It's their
+base, alright."
+
+#### 4 ####
+Helmholz
+"That rock was easy
+to break through.{enter}
+I thought it would be
+a little harder..."
+
+#### 5 ####
+Stratski
+"These surface-dwelling
+-Lambs- sure live in a
+nice place..."
+
+#### 6 ####
+Renk
+"Look at that...!{enter}
+They built this place 
+far better than the 
+facilities at Bledavik. {enter}
+It's probably a hidden
+fort built when their old
+king was still around..."
+
+#### 7 ####
+Vance
+"Who cares...?{wait:0A}
+Let's just get this
+over and done with!"
+
+#### 8 ####
+Stratski
+"So...{wait:0A}
+where are the Gears?"
+
+#### 9 ####
+Stratski
+"Over here?"
+
+#### 10 ####
+Helmholz
+"To the right!{wait:0A}
+There's a hangar!"
+
+#### 11 ####
+Stratski
+"!!"
+
+#### 12 ####
+Vance
+"Found them!!"
+
+#### 13 ####
+Helmholz
+"These are 'Deurmods'.
+They're standard
+pirate Gears."
+
+#### 14 ####
+Vance
+"Ha!{wait:0A}
+Ignore those! We can
+take them out fast."
+
+#### 15 ####
+Stratski
+"Why not take a few?{wait:0A}
+Even if we only get those,
+it was worth sneaking in."
+
+#### 16 ####
+Renk
+"Alright!{wait:0A}
+Schpariel is now in
+place at the back!{enter}
+Get ready to take
+out anything that
+gets in our way!"
+
+#### 17 ####
+Broyer
+"Anytime is fine!"
+
+#### 18 ####
+Renk
+"GO!!"{clear:28}
+
+#### 19 ####
+
+

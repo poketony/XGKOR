@@ -1,0 +1,55 @@
+<TextBlock 1 w:12 h:3>
+Sono<Delay 15>…<Delay 30>
+viva?<Delay 20>
+…<Delay 20>?<Close><End of Block>
+<TextBlock 2 w:28 h:2>
+Chi<Delay 15>…<Delay 15> sei tu?
+Perché <Delay 15>io…?<Close><End of Block>
+<TextBlock 3 w:14 h:1>
+Aspetta<Delay 10>…<Close><End of Block>
+<TextBlock 4 w:16 h:2>
+…<Delay 30> Elly,
+Elly<Delay 10>…<Delay 10><Close><End of Block>
+<TextBlock 5 w:14 h:1>
+Chi<Delay 10>…?<Close><End of Block>
+<TextBlock 6 w:16 h:1>
+<Delay 10>…<Delay 10> Elly!<Close><End of Block>
+<TextBlock 7 w:18 h:1>
+Sei<Delay 10>…<Close><End of Block>
+<TextBlock 8 w:8 h:1>
+Fei?<Close><End of Block>
+<TextBlock 9 w:12 h:2>
+Elly
+"Fei?"<Close><End of Block>
+<TextBlock 10 w:40 h:3>
+Fei
+"…<Delay 10> Stupida<Delay 10>…<Delay 10>
+pazza<Delay 10>…"<Close><End of Block>
+<TextBlock 11 w:42 h:3>
+Elly                
+"…<Delay 10> Stai<Delay 10>…<Delay 10> piangendo?
+<Delay 20>…<Delay 10> Mi dispiace."<Close><End of Block>
+<TextBlock 12 w:30 h:2>
+Fei
+"…<Delay 10> Va tutto
+bene."<Close><End of Block>
+<TextBlock 13 w:30 h:3>
+Elly
+"Potrai mai<Delay 10>…<Delay 10>
+…<Delay 10> perdonarmi?"<Close><End of Block>
+<TextBlock 14 w:48 h:4>
+Fei
+"…<Delay 10> Non è colpa tua,
+Elly.<Delay 10>
+Non è colpa tua<Delay 10>…"<Close><End of Block>
+<TextBlock 15 w:16 h:2>
+Elly
+"Fei…"<Close><End of Block>
+<TextBlock 16 w:26 h:3>
+Fei
+"Elly, torniamo
+indietro."<Close><End of Block>
+<TextBlock 17 w:34 h:3>
+Elly
+"…<Delay 20> Quella persona<Delay 20>
+dove<Delay 10>…"<Close><Close><End of Block>

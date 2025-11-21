@@ -1,0 +1,27 @@
+#### 1 ####
+It's been a while since
+the whole family has 
+gotten together.
+
+#### 2 ####
+Oh! {wait:0A}
+Miss Elly!!{wait:0A}
+You're still alive!!
+I'm so happy to see you.{enter}
+I thought you passed 
+away...Master will be
+so happy! {enter}
+Oh yes, there is a present
+for you from the Master!
+
+#### 3 ####
+ 
+ {fast:FF}Received Psycho Rod!!{clear:3C}
+ 
+
+#### 4 ####
+Please take good care of it!
+
+#### 5 ####
+ 
+

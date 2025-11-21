@@ -1,0 +1,49 @@
+<TextBlock 1 w:56 h:3>
+Scritta sul muro.<New>
+"Né troppo poco né molto.
+  Trova la giusta media
+   per avere successo!  "<Close><End of Block>
+<TextBlock 2 w:50 h:2>
+Scritta sul muro.<New>
+"I pulsanti su entrambi
+i lati controllano il 
+livello dell'acqua."<Close><End of Block>
+<TextBlock 3 w:52 h:1>
+Scritta sul muro.<New>
+"L'acqua è piena a 10."<Close><End of Block>
+<TextBlock 4 w:28 h:2>
+    Camminaci su
+    Non farlo<Close><End of Block>
+<TextBlock 5 w:34 h:1>
+Non accade nulla.<Close><End of Block>
+<TextBlock 6 w:52 h:2>
+Sembra che il livello
+dell'acqua non possa
+salire oltre.<Close><End of Block>
+<TextBlock 7 w:44 h:2>
+Sembra che ci sia
+un interruttore
+sul pavimento.<Close><End of Block>
+<TextBlock 8 w:28 h:2>
+    Camminaci su
+    Non farlo<Close><End of Block>
+<TextBlock 9 w:50 h:2>
+Sembra che il livello
+dell'acqua non si possa
+abbassare ulteriormente.<Close><End of Block>
+<TextBlock 10 w:42 h:2>
+Sembra che ci sia
+un interruttore
+sul pavimento.<Close><End of Block>
+<TextBlock 11 w:38 h:2>
+C'è un pulsante con
+3 segni sopra.<Close><End of Block>
+<TextBlock 12 w:22 h:2>
+    Premilo
+    Non farlo<Close><End of Block>
+<TextBlock 13 w:38 h:2>
+C'è un pulsante con
+7 segni sopra.<Close><End of Block>
+<TextBlock 14 w:22 h:2>
+    Premilo
+    Non farlo<Close><Close><End of Block>

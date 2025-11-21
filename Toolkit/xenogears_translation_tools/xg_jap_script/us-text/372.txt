@@ -1,0 +1,205 @@
+#### 1 ####
+Fei
+"Alright.{wait:14}
+Let's go up there."
+
+#### 2 ####
+Fei
+"Balthasar...?{wait:14}
+I've heard of that name
+before."
+
+#### 3 ####
+Fei
+"That's right!
+Ol' man Bal,
+the hermit."
+
+#### 4 ####
+Fei
+"That reminds me, the Gear
+I saw resembles Bal's Gear,
+Calamity."
+
+#### 5 ####
+Fei
+"I just happened to come
+across him in the cavern
+underneath Aveh's desert.{enter}
+I didn't know him that
+well...{wait:14}
+So you're Ol' man Bal's
+grandchild."
+
+#### 6 ####
+Fei
+"Nope...{wait:14}
+This doesn't work
+either."
+
+#### 7 ####
+Fei
+"No...{wait:14}
+This is no time to go
+down."
+
+#### 8 ####
+Citan
+"You are right...{enter}
+We came this far,
+we cannot turn back
+now, Fei."
+
+#### 9 ####
+Fei
+"Shevat...{wait:14}the only
+organization that stands
+against Solaris..."
+
+#### 10 ####
+Bart
+"Okay, let's bring 
+20-30 of those Gears that
+kid was riding on, home!"
+
+#### 11 ####
+Bart
+"Hey, Fei. Isn't that the
+same name as the
+eccentric old man?{enter}
+Remember the crazy old
+man playing with Gears
+underground Aveh?"
+
+#### 12 ####
+Bart
+"But, the crazy o....
+your grandpa looked just
+fine.{enter}
+He's the kind that never
+dies.{wait:14} Don't worry,
+squirt."
+
+#### 13 ####
+Bart
+"Sorry.
+Don't get mad, squi...{wait:14}
+Maria.{enter}
+I didn't meant to offend.
+I apologize.{wait:14}
+Sorry, sorry."
+
+#### 14 ####
+...{clear:1E}
+
+#### 15 ####
+Rico
+"A country that's a flying
+saucer, eh...{wait:14}I never
+thought we'd end up here."
+
+#### 16 ####
+Billy
+"The cursed land,
+Shevat...{wait:14} The answer's
+gotta be here."
+
+#### 17 ####
+Girl
+"This is the dock floor
+located at the lowest
+layer of Shevat."
+
+#### 18 ####
+Girl
+"I met you a little
+while ago.{wait:14} My name is
+Maria Balthasar."
+
+#### 19 ####
+Maria
+"Calamity!?{wait:14}
+That's the prototype Gear
+my grandfather made."
+
+#### 20 ####
+Maria
+"Do you know my grandpa?{wait:14}
+Where is he now!?"
+
+#### 21 ####
+Maria
+"Yes...but I haven't seen
+him for the past few
+years..."
+
+#### 22 ####
+Maria
+"He said he was looking
+for something very
+important.{enter}
+And he left by himself
+...{enter}
+My father was captured
+by Solaris and his
+whereabouts are not
+known either..."
+
+#### 23 ####
+Maria
+"I'm not a 'squirt'!!{enter}
+Besides, my grandpa 
+isn't a crazy old man,
+I know it!!"
+
+#### 24 ####
+Maria
+"I heard you say sorry
+once already. You don't
+need to say it again."
+
+#### 25 ####
+Maria
+"Anyhow...
+Queen Zephyr is waiting.{enter}
+Please go ahead and take
+the elevator to go 
+upstairs.{enter}
+I still have to finish
+inspecting {name:13:ゼプツェン}."
+
+#### 26 ####
+Maria
+"I'm glad Grandpa Bal's
+doing fine."
+
+#### 27 ####
+Maria
+"Please go ahead and
+take the elevator to
+go upstairs.{enter}
+I still have to finish
+inspecting {name:13:ゼプツェン}."
+
+#### 28 ####
+Maria
+"I'll show you the way
+to the Palace when the
+time comes.{enter}
+Till then, please take
+a look around town."
+
+#### 29 ####
+Maria
+"I'll see you later."
+
+#### 30 ####
+Do you want to go down?
+    Yes
+    No
+
+#### 31 ####
+Do you want to go up?
+    Yes
+    No
+

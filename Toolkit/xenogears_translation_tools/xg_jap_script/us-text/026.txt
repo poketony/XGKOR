@@ -1,0 +1,40 @@
+#### 1 ####
+Damn them...{wait:3C}
+They're still giving chase.{clear:1E}
+
+#### 2 ####
+We've entered Aveh territory...{wait:3C}
+I'm not giving up now.{clear:1E}
+
+#### 3 ####
+This Gear's too important.{clear:05}
+
+#### 4 ####
+...That's done it!{wait:3C}
+I'm at a disadvantage now.{clear:1E}
+
+#### 5 ####
+Van Houten!{clear:14}
+
+#### 6 ####
+What's wrong? Respond!{clear:1E}
+
+#### 7 ####
+Damn it! Everyone land now!{clear:1E}
+
+#### 8 ####
+Regroup on the ground.{wait:3C}
+We'll have to engage them!{clear:1E}
+
+#### 9 ####
+!{clear:14}
+
+#### 10 ####
+Elly
+"Sh, shrapnel...
+in my back.{enter}
+My thrusters' output
+is dropping.{wait:14}
+I can't maintain
+altitude."{clear:32}
+

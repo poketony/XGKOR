@@ -1,0 +1,548 @@
+#### 1 ####
+Margie!
+
+#### 2 ####
+Margie!
+
+#### 3 ####
+Margie
+"I'm back, everyone!"
+
+#### 4 ####
+Oh, Margie...{enter}
+We're so glad you're safe...
+
+#### 5 ####
+Margie
+"Yes, it is all thanks
+to Bart and his men."
+
+#### 6 ####
+We just received word...{enter}
+So we were singing a
+hymn of praise and joy.{enter}
+We're so happy...
+Oh, what a relief!
+
+#### 7 ####
+Sister Agnes
+"Welcome back, Margie.{enter}
+We had faith that you and
+your cousin Bart would one
+day return safely...{enter}
+We and your other friends
+have been waiting for you."
+
+#### 8 ####
+Margie
+"Sister Agnes!"
+
+#### 9 ####
+Sister Agnes
+"Unfortunately, your
+mother and the blessed
+Royal Mother..."
+
+#### 10 ####
+Margie
+"I know, Sister Agnes{wait:05}...{wait:3C}
+I heard about it at
+the Royal Capital{wait:05}..."
+
+#### 11 ####
+Margie
+"...But at least I
+have made it back...{enter}
+I'll never go anywhere,
+or leave you from now on!{enter}
+I won't make you all worry
+anymore...ever again!"
+
+#### 12 ####
+Sister Agnes
+"Bless you my dear..."
+
+#### 13 ####
+Margie
+"Sister Agnes, this just
+isn't like you at all!{enter}
+Here I am back
+safe and sound.{enter}
+Can't you rebuke
+me just a little,
+for old time's sake?"
+
+#### 14 ####
+Sister Agnes
+"Ha...
+I'm sorry...{enter}
+But I'm just so
+happy that I cannot
+help but..."
+
+#### 15 ####
+"Sister..."
+
+#### 16 ####
+Sister Agnes
+"...There is no reason
+to be so solemnly quiet..."
+
+#### 17 ####
+Margie
+"...Thank you,
+and bless you all!"
+
+#### 18 ####
+Margie
+"Oh, yes, Sister...{wait:1E}
+May I go upstairs?{enter}
+It's been oh so long,
+so I want to have a look
+around up there too."
+
+#### 19 ####
+Sister Agnes
+"Oh, but of course, dear!{enter}
+Don't even think of holding
+back from anything...{enter}
+Except for one thing...{enter}
+Never stay away so long
+like that again."
+
+#### 20 ####
+Margie
+"Ha, ha!
+I knew you'd say that.{enter}
+Now that's the Agnes
+I know!'
+
+#### 21 ####
+"Margie, I am so glad."
+
+#### 22 ####
+Bart
+"It's been a while since
+the last time I was here."
+
+#### 23 ####
+Bart
+"...?{enter}
+Something wrong, Margie?"
+
+#### 24 ####
+Margie
+"...Nothing.{enter}
+It's just..."
+
+#### 25 ####
+Margie
+"I guess I got a 
+little emotional...
+Heh, heh, heh..."
+
+#### 26 ####
+Bart
+"..."
+
+#### 27 ####
+Bart
+"Anyhow, take it
+easy for a while.{enter}
+...You've put up
+with enough, okay."
+
+#### 28 ####
+Margie
+"...If you are trying to
+make me cry, you'll fail."
+
+#### 29 ####
+Margie
+"Oh yes!{enter}
+I'll show Fei and Citan
+around our cathedral...{wait:0A}
+Follow me!"
+
+#### 30 ####
+Citan
+"What a strong
+girl she is...{enter}
+It is obvious that she
+really wants to just
+break down and cry..."
+
+#### 31 ####
+Bart
+"Yeah, you're right...{enter}
+That's just the way
+she has always been.{enter}
+For all her talk, she
+understands her position
+well...{enter}
+Maybe there are a few
+things I could learn
+from her too."
+
+#### 32 ####
+Citan
+"...How magnificent!"
+
+#### 33 ####
+Margie
+"If we ever got scolded
+for pranks as kids, Bart
+and I used to hide here."
+
+#### 34 ####
+Bart
+"Hey, stop telling
+those old stories.
+It's embarrassing!"
+
+#### 35 ####
+Margie
+"But to me, Bart hasn't
+changed much since then."
+
+#### 36 ####
+Bart
+"What!?
+You mean that you think
+I'm still a kid!?"
+
+#### 37 ####
+Margie
+"I like the view from
+here the best."
+
+#### 38 ####
+Citan
+"Yes, this is
+breathtaking!"
+
+#### 39 ####
+Citan
+"Light from outside shining
+through the stained glass
+of the cathedral's front...{enter}
+What a brilliant piece of
+artistry this is."
+
+#### 40 ####
+Margie
+"Did you notice that the
+two great angels only
+have one wing each...?"
+
+#### 41 ####
+   According to a legend
+  handed down in Nisan...{enter}
+  God could have created
+    humans perfectly...{enter}
+But then, humans would not
+ have helped each other...{enter}
+So that is what these great
+   single-winged angels
+       symbolizes...{enter}
+ In order to fly, they are
+ dependent on one another.
+
+#### 42 ####
+Citan
+"Ah, so that is the
+reason for it.{enter}
+I see...{wait:05}
+On further inspection,
+the left angel looks
+somewhat masculine...{enter}
+...while the right one
+looks somewhat feminine."
+
+#### 43 ####
+Citan
+"Now that is an unusual
+feature, is it not?"
+
+#### 44 ####
+Citan
+"Usually these depictions
+are not gender-specific.{enter}
+But these angels are
+clearly distinguishable as
+having opposing genders."
+
+#### 45 ####
+Citan
+"And the space between
+them is the path from
+where god advents..."
+
+#### 46 ####
+Citan
+"Or could it be the
+path leading to god?{enter}
+Well...I do not know,
+it could be either,
+or even both."
+
+#### 47 ####
+Citan
+"...Now I see!"
+
+#### 48 ####
+Citan
+"This all coincides with
+the teachings of Nisan."
+
+#### 49 ####
+Margie
+"Ha, ha, ha!
+Why Doctor Citan Uzuki!
+You are an amusing fellow!"
+
+#### 50 ####
+Citan
+"Oh!
+Excuse me.{enter}
+It is a habit of mine..."
+
+#### 51 ####
+Fei
+"The doc knows a lot
+about a lot of things...{enter}
+Sometimes I can't even
+understand what he's
+talking about..."
+
+#### 52 ####
+Bart
+"...Hah!
+Forcing them to fly
+together...?{enter}
+It would be less
+bothersome if they
+could fly on their own,
+don't you think, Fei?"
+
+#### 53 ####
+Margie
+"Bart!
+You miss the deeper meaning
+and beauty of it!"
+
+#### 54 ####
+Margie
+"Someday I wish I could
+be of help to someone
+like that..."
+
+#### 55 ####
+Margie
+"Oh, we haven't visited
+the 'Room of Sophia' yet,
+have we?{enter}
+You're really supposed to
+go through some procedures
+before you can see it...{enter}
+But this time I think it
+will be alright if I make
+a special exception."
+
+#### 56 ####
+Fei
+"Sophia?"
+
+#### 57 ####
+Margie
+"Yes, Sophia.{enter}
+She is revered as the
+founding mother of the
+Nisan nation...{enter}
+and the founder of the
+Nisan religion who set
+forth its teachings.{enter}
+There is a special
+room upstairs that
+has a portrait of
+Mother Sophia in it."
+
+#### 58 ####
+Citan
+"I would definitely like
+to view that! Fei, let us
+go have a look at it!
+
+#### 59 ####
+Margie
+"We go up to the gallery
+on the second floor from
+here..."
+
+#### 60 ####
+Sister Agnes
+"Well, everyone!"
+
+#### 61 ####
+Sister Agnes
+"To celebrate the return
+of our dear sister Margie...{enter}
+and to express our joy to
+heaven, let us finish
+singing our hymn."
+
+#### 62 ####
+(...You must have
+been through so much
+at the Royal Capital...)
+
+#### 63 ####
+No unauthorized persons
+   beyond this point.
+
+#### 64 ####
+To come here when you
+are so young is a sign
+of your interest!
+
+#### 65 ####
+( ... )
+
+#### 66 ####
+Hey, hey!
+Don't go up there
+like that!
+
+#### 67 ####
+I moved from another
+town to live here...{enter}
+But they say some young
+people do the opposite
+and move away from here.{enter}
+I wonder if it is because
+they want something more
+than peace in their hearts?{enter}
+I guess that is just how
+young people are today!
+
+#### 68 ####
+My husband was a soldier in
+the Royal Capital's army...{enter}
+But he died a few years back,
+near the border of Kislev.{enter}
+Since then, I have been
+coming here every year on
+the anniversary of his death.
+
+#### 69 ####
+I live in the Royal Capital,{wait:1E}
+but my oh my...{wait:1E}, this was
+definitely worth the trip!{enter}
+I never knew it was
+so beautiful!
+
+#### 70 ####
+Who's that guy you're with?{enter}
+What's his problem...!?{enter}
+(...{wait:1E} 'castle fetish'!?)
+
+#### 71 ####
+Fei
+"Huh?{wait:1E}
+Ah... Maybe...
+{wait:1E}I think."
+
+#### 72 ####
+I live in the Royal Capital,{wait:1E}
+but my oh my...{wait:1E}, this was
+definitely worth the trip!{enter}
+I never knew it was
+so beautiful!
+
+#### 73 ####
+Bart
+(Hmm...
+Yes you're right!)
+
+#### 74 ####
+Fatima Castle is no
+comparison to this.
+
+#### 75 ####
+Bart
+(Hmm...
+Yes you're...{wait:3C} What!)
+
+#### 76 ####
+Bart
+"Hey you!{wait:1E}
+Are you putting
+down Fatima Castle!?"
+
+#### 77 ####
+No, I didn't mean that...
+
+#### 78 ####
+Who is this guy!?
+
+#### 79 ####
+Fei
+"H, hey! Bart!"
+
+#### 80 ####
+Bart
+"Don't you be dissin' me.
+You don't even know
+who you're looking at!"
+
+#### 81 ####
+Bart
+"Damn... Never mind,
+just forget it!"
+
+#### 82 ####
+I'm on a pilgrimage all
+over this country, and
+recently traveled to the
+Royal Capital area.{enter}
+I just got back here a
+few days ago, but will
+probably be leaving here
+again in a few days time.
+
+#### 83 ####
+I want to see with my
+own eyes what will
+become of this country.
+
+#### 84 ####
+Preparations should be starting
+near the border of this sect's
+country for the charge by
+the Royal Capital's army.{enter}
+But a miscalculated move
+directed on the enemy is
+certain to backfire
+on us, so we'll be taking covert
+action for a while.{enter}
+I'm on my way there now, but I
+thought I'd offer a prayer
+before I go.
+
+#### 85 ####
+As a matter of fact, the
+guy next to me and I were
+born here.{enter}
+Years ago, we both got
+tired of the peaceful but
+boring life here, so we
+ran away from home.{enter}
+But we both ended up
+enlisting in the army.{enter}
+It's not that we have any
+particularly happy memories
+or whatever here...{enter}
+it's just that, after all,
+this is the land of our
+birth, so well y'know...
+

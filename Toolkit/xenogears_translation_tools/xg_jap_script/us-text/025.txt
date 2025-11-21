@@ -1,0 +1,336 @@
+#### 1 ####
+Citan
+"It is no use. The knee
+actuator and bypass
+circuit are both ruined.{enter}
+The actuator can be fixed,
+but the circuit needs 
+to be replaced..."
+
+#### 2 ####
+Citan
+"Oh, having trouble
+sleeping there?"
+
+#### 3 ####
+Elly
+"Yeah..."
+
+#### 4 ####
+Citan
+"I imagine you would.
+You have had quite a day."
+
+#### 5 ####
+Citan
+"This is the machine Fei
+used when the village was
+attacked.{enter}
+There was another machine
+left sitting on the
+outskirts of the village...{enter}
+Nil bayer dars legus?
+(It was yours, right?)"
+
+#### 6 ####
+!{clear:14}
+
+#### 7 ####
+Citan
+"Just as I thought...{enter}
+The missing pilot from the
+Gear that made an emergency
+landing in Lahan...{enter}
+...and the mysterious woman
+found wandering lost in the
+forest...are actually one
+and the same person.{enter}
+Judging from your uniform,
+I would also say you are
+with the military...
+Am I correct?"
+
+#### 8 ####
+Elly
+"How...?
+Who are you?"
+
+#### 9 ####
+Citan
+"I checked the ID tags of
+of the soldiers who died
+in the attack on Lahan...{enter}
+The design on their tags
+and the design on your
+uniform there is the same."
+
+#### 10 ####
+!
+
+#### 11 ####
+Citan
+"Do not worry, they were
+given proper burials.{enter}
+But, they may not have
+been too pleased to die
+in a foreign land."
+
+#### 12 ####
+Elly
+"...Maybe."
+
+#### 13 ####
+Citan
+"Does Fei know 
+about you?"
+
+#### 14 ####
+Elly
+"I don't think he
+has realized yet."
+
+#### 15 ####
+Citan
+"Most likely...
+Fei knows nothing of the
+world outside of Lahan."
+
+#### 16 ####
+Elly
+"I see...
+So how come..."
+
+#### 17 ####
+Citan
+"...In any case, it is best
+if we do not pry into each
+other's pasts anymore."
+
+#### 18 ####
+Elly
+"But..."
+
+#### 19 ####
+Citan
+"Let us just say that I
+know a little more about
+the world than most do."
+
+#### 20 ####
+Citan
+"Anyway, Elly...
+I have a favor I must
+beg you to do..."
+
+#### 21 ####
+Elly
+"...What is it?"
+
+#### 22 ####
+Citan
+"Go straight ahead and
+you will come to a road.{enter}
+Then just keep going...
+Would you please leave us
+while Fei is still asleep?"
+
+#### 23 ####
+!?
+
+#### 24 ####
+Citan
+"Unfortunate things keep
+happening around Fei.{enter}
+I would like to protect
+him if possible...
+I do not want him caught
+up in any vain struggles.{enter}
+I am also saying this for
+your benefit.
+Elly, you do not belong
+here.{enter}
+Go back to your family."
+
+#### 25 ####
+Elly
+"Um...I..."
+
+#### 26 ####
+Citan
+"Do not worry.
+I will not tell Fei what
+your true identity is.{enter}
+I will...just tell him
+you went to meet up
+with your family..."
+
+#### 27 ####
+Elly
+"No, it is not that!
+I did something
+terrible to him...{enter}
+So...I want to...
+apologize."
+
+#### 28 ####
+Citan
+"Something terrible?"
+
+#### 29 ####
+Elly
+"Fei told me it was
+our fault your village
+was destroyed.{enter}
+Fei kept saying...
+ 'if only they
+  hadn't come...'{enter}
+Then, I called Fei a
+coward because he was
+trying to escape from
+the responsibility...{enter}
+But in fact it was
+me who was trying to
+escape from taking
+the blame..."
+
+#### 30 ####
+Elly
+"If I hadn't crash-landed
+there, they would all still
+be living peacefully now.{enter}
+All those innocent people
+wouldn't have been caught
+up in that tragedy.
+But I accused Fei..."
+
+#### 31 ####
+Citan
+"You are a rarity. I did
+not expect your people
+would ever think like that.{enter}
+To your people, surface
+dwellers are nothing more
+than domesticated animals,
+are they not...?"
+
+#### 32 ####
+Elly
+"'The Shepherds, -Abel-,
+  took control over the
+  surface dwelling -Lambs-{enter}
+  ...possessing the right
+  to give life and death
+  unto them as they see
+  fit...'                 "
+
+#### 33 ####
+Citan
+"Exactly. Yet you seem to
+feel responsiblity toward
+Fei and the villagers.{enter}
+Why is that?"
+
+#### 34 ####
+Elly
+"I don't know myself...{enter}
+At Jugend I was taught
+that surface dwellers
+were stupid and base...{enter}
+...And that is why we
+have to control them...{wait:14}
+But..."
+
+#### 35 ####
+Citan
+"But upon meeting Fei,
+something about him made
+you feel differently?"
+
+#### 36 ####
+Elly
+"Yes. He's no different
+than we are...in fact he
+seemed more powerful.{enter}
+He possesses something...
+...something we don't.{wait:0A}
+He also risked his life
+to save me...twice."
+
+#### 37 ####
+Citan
+"Most of your people
+would feel ashamed at
+receiving such an act.{enter}
+Yet, you are grateful
+to Fei...?"
+
+#### 38 ####
+Elly
+"It's probably because of
+my father. He had an open
+mind to surface dwellers.{enter}
+My nanny was...a surface
+dweller. No one knew about
+her though...{enter}
+Besides...
+I am the same as Fei..."
+
+#### 39 ####
+Citan
+"The same?"
+
+#### 40 ####
+Elly
+"No, nothing. 
+Nevermind..."
+
+#### 41 ####
+Citan
+"Hmm. I think I understand.
+I am sorry. After just
+saying we should not pry...{enter}
+It is my nature, you know?
+My wife says I am too
+persistent and that I
+talk too much.{enter}
+But, personally, I do not
+think I talk too much."
+
+#### 42 ####
+Citan
+"It is probably best
+if you return home
+to your country.{enter}
+You really should
+not be here."
+
+#### 43 ####
+Elly
+"I'll return to
+headquarters.
+But then what..."
+
+#### 44 ####
+Citan
+"You are worried..."
+
+#### 45 ####
+Elly
+"Yes..."
+
+#### 46 ####
+Citan
+"Worrying is natural...
+ 'Even I used to worry
+  once too, you know!?'"
+
+#### 47 ####
+Elly
+"Oh, Citan..."
+
+#### 48 ####
+Citan
+"Anyway, let me handle
+what to tell Fei...
+You had better go now."
+

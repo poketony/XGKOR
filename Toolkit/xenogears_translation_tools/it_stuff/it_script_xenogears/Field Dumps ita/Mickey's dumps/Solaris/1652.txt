@@ -1,0 +1,15 @@
+<TextBlock 1 w:52 h:4>
+Qui non si incita la folla…<Delay 10>
+Si lavora,<Delay 10> si mangia,<Delay 10>
+e si dorme.<New>
+Resta al tuo posto, e
+forse vivrai a lungo…<New>
+Se qualcuno protesta, 
+tutto il nostro gruppo
+verrà punito.<Delay 10><New>
+Il che significa che
+tutti verranno 'messi
+a posto'.<Delay 10> E sarebbe
+la fine per tutti noi.<Close><End of Block>
+<TextBlock 2 w:0 h:1>
+<Close><End of Block>

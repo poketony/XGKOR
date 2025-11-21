@@ -1,0 +1,27 @@
+<TextBlock 1 w:46 h:3>
+Mio fratello è proprio
+un bambino, gioca
+sempre a nascondino.<New>
+Che ridere! Chissà
+dov'è nascosto ora…?<Close><End of Block>
+<TextBlock 2 w:44 h:4>
+Mio fratello dice di
+aver smesso di giocare
+a nascondino. Ma ora
+non ha nulla da fare.<New>
+Probabilmente starà
+girando qui intorno
+con le mani nelle mani.
+È proprio un bambino.<Close><End of Block>
+<TextBlock 3 w:42 h:5>
+Quella ragazzina è
+incredibile. Da quando
+suo padre è andato via,
+manda avanti il negozio
+tutta da sola.<Close><End of Block>
+<TextBlock 4 w:48 h:4>
+Mio papà è tornato.<Delay 50>
+Lo stavo aiutando nel
+negozio, ma mi ha detto
+di andare a giocare da
+qualche parte.<Close><Close><End of Block>

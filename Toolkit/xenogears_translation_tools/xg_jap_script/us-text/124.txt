@@ -1,0 +1,5 @@
+#### 1 ####
+{fast:FF}There's probably a guard outside...
+    Open the door
+    Just take a 
+

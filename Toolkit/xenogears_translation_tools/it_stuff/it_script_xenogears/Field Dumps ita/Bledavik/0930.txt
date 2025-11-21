@@ -1,0 +1,115 @@
+<TextBlock 1 w:56 h:5>
+… Il generatore del primo
+portale si trova a 160 km
+a sudovest di Nortune, ed
+a 3800 m sottoterra.<New>
+Le sue onde d'interferenza
+rendono impossibile usare in
+quest'area le armi guidate a
+distanza.<New>
+Perciò l'Hecht dovrà essere
+pilotato manualmente fino
+alla fine.<New>
+Dopo la sospensione dello
+stato 'azione furtiva',
+fornirete una scorta diretta
+per l'Hecht dentro la zona
+di difesa nemica.
+Qualche domanda?<Close><End of Block>
+<TextBlock 2 w:18 h:2>
+Elly
+"Beh…"<Close><End of Block>
+<TextBlock 3 w:30 h:1>
+Sì, Tenente?<Close><End of Block>
+<TextBlock 4 w:48 h:4>
+Elly
+"Capisco i nostri ordini
+di scortare l'Hecht…<New>
+… ma qual è il nostro
+obiettivo principale?"<Close><End of Block>
+<TextBlock 5 w:38 h:1>
+Questa è classificata
+come informazione a
+voi non accessibile.<Close><End of Block>
+<TextBlock 6 w:52 h:4>
+Elly
+"Ma senza sapere il
+nostro obiettivo…<New>
+… la nostra reazione
+a qualsiasi ordine
+sarà lenta.<New>
+Anche se ci è soltanto
+ordinato di fornire
+protezione.<New>
+Dobbiamo almeno sapere
+qual è l'obiettivo
+dell'attacco…"<Close><End of Block>
+<TextBlock 7 w:56 h:4>
+L'obiettivo verrà divulgato
+durante la missione.
+Sarà subito trasmesso ai
+piloti dell'Hecht.<Close><End of Block>
+<TextBlock 8 w:16 h:2>
+Elly
+"Ma…"<Close><End of Block>
+<TextBlock 9 w:52 h:5>
+Il vostro unico compito è di
+proteggere l'Hecht dalle armi
+antiaeree del nemico.<Delay 60>
+Qualche problema?<Close><End of Block>
+<TextBlock 10 w:44 h:3>
+Elly
+"… No…
+se è così…"<Opcode 2 60><Close><End of Block>
+<TextBlock 11 w:28 h:1>
+Qualcos'altro?<Close><End of Block>
+<TextBlock 12 w:50 h:4>
+… Allora questo conclude 
+la spiegazione delle
+disposizioni principali.<New>
+Dettagli riguardo al terreno,
+le condizioni atmosferiche
+e la difesa del nemico sono
+a vostra disposizione.<New>
+La missione inizia alle
+17:00. Fino ad allora,
+attendete nelle unità
+assegnatevi.<New>
+Non dovrei aver bisogno
+di ricordarvi che questa
+missione è una
+purificazione.<New>
+Ricordate, noi abbiamo
+autorità assoluta sugli
+Agnelli.<Delay 60>
+Rompete le righe.<Close><End of Block>
+<TextBlock 13 w:48 h:4>
+Strakki
+"Cazzo, Tenente,
+questa cosa non
+mi va proprio giù.<New>
+Come possiamo continuare
+in questo modo?<New>
+Quello lì che intedeva
+quando ha detto che
+l'obiettivo non ha nulla
+a che vedere con noi?"<Close><End of Block>
+<TextBlock 14 w:28 h:3>
+Elly
+"Silenzio!
+Sto pensando!"<Close><End of Block>
+<TextBlock 15 w:38 h:2>
+Strakki
+"Non mi mangi, eh!"<Close><End of Block>
+<TextBlock 16 w:52 h:2>
+Franz
+"Odio le donne
+isteriche."<Opcode 2 60><Close><End of Block>
+<TextBlock 17 w:44 h:4>
+Elly
+"Sei pronto a subire
+le conseguenze di quel
+tuo commento?"<Close><End of Block>
+<TextBlock 18 w:14 h:2>
+Franz
+"Oh…"<Opcode 2 30><Close><End of Block>

@@ -1,0 +1,59 @@
+<TextBlock 1 w:16 h:2>
+Fei
+"Bart!!"<Opcode 2 30><Close><End of Block>
+<TextBlock 2 w:20 h:2>
+Margie
+"Ba-arty!"<Close><End of Block>
+<TextBlock 3 w:32 h:3>
+Margie
+"No! Combatto
+anch'io!"<Close><End of Block>
+<TextBlock 4 w:48 h:4>
+Bart
+"Oh, sì!?
+Tu mi conosci,
+allora?<New>
+Eh! È una bella cosa
+sapere che una bella
+donna come te conosce
+il mio nome."<Close><End of Block>
+<TextBlock 5 w:44 h:3>
+Bart
+"Mi fa piacere
+saperlo. Ma non
+posso accettare.<New>
+Vedi, per me, quel
+'non importa nulla'
+non va bene."<Close><End of Block>
+<TextBlock 6 w:32 h:4>
+Bart
+"Tch…<Delay 20> Margie!
+Nasconditi
+lì!"<Close><End of Block>
+<TextBlock 7 w:28 h:3>
+Bart
+"Non me ne
+frega nulla,
+nasconditi!"<Close><End of Block>
+<TextBlock 8 w:26 h:3>
+Ramsus
+"… Allora è
+deciso."<Close><End of Block>
+<TextBlock 9 w:42 h:4>
+Miang
+"Se vuoi davvero
+proteggere quella
+bambina…<New>
+… allora arrenditi…<New>
+Principe Bartolomeo!"<Close><End of Block>
+<TextBlock 10 w:44 h:3>
+Miang
+"Potresti aver avuto
+dei problemi tuoi
+con Shakhan…<New>
+… ma, a ogni modo,
+noi non ti
+tratteremo male.<New>
+Riguardo a Shakhan…
+non ce ne importa
+nulla."<Close><Close><Close><Close><Close><End of Block>

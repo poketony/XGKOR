@@ -1,0 +1,137 @@
+<TextBlock 1 w:26 h:4>
+Fei
+"Eh?<Delay 30>
+Ahh… bene…<Space 1>
+più o meno…"<Close><End of Block>
+<TextBlock 2 w:38 h:4>
+Fei
+"Beh<Delay 35>…<New>
+Volendo, potresti
+dire che sono stato
+ferito…"<Close><End of Block>
+<TextBlock 3 w:28 h:3>
+Fei
+"Anche per
+quello, ma…"<Close><End of Block>
+<TextBlock 4 w:50 h:4>
+Fei
+"È per l'altra cosa che
+ha detto…<New>
+Quello che è successo
+a Lahan… era tutto
+pianificato per farmi
+pilotare quel Gear…<New>
+O così lui ha affermato.<Delay 25>
+È questo che mi fa
+preoccupare…"<Close><End of Block>
+<TextBlock 5 w:54 h:4>
+Fei
+"Tutto ciò che so è quello
+che la domestica a casa
+mia, a Lahan, mi ha detto…<New>
+Una notte, uno strano
+uomo mascherato mi
+portò a Lahan.<New>
+In quel momento ero
+ferito gravemente…<New>
+Nel mio delirio
+chiamavo mio padre…<New>
+Questo è tutto ciò che
+mi hanno potuto dire
+riguardo alla mia vita
+precedente.<New>
+Non ricordo nulla di mio
+padre o del mio passato…<New>
+Perciò non credo di
+sentirmi tanto solo
+o triste…"<Close><End of Block>
+<TextBlock 6 w:50 h:4>
+Fei
+"Doc…<New>
+Prima che il villaggio
+fosse distrutto, vivevo
+senza nutrire dubbi su
+me stesso.<New>
+Ma ora è diverso.<Delay 35>
+Io non…<Delay 15> so chi
+io sia. Non mi sono mai
+sentito così prima d'ora…"<Close><End of Block>
+<TextBlock 7 w:50 h:4>
+Fei
+"Doc, perché non mi sono
+accorto prima che non
+avevo ricordi?"<Close><End of Block>
+<TextBlock 8 w:38 h:3>
+Shitan
+"Per farti pilotare
+quel Gear…?"<Close><End of Block>
+<TextBlock 9 w:54 h:4>
+Shitan
+"Beh…<New>
+Non possiamo fare
+nulla finché siamo
+prigionieri… neanche
+se volessimo."<Close><End of Block>
+<TextBlock 10 w:46 h:3>
+Shitan
+"Riposiamo un po'.
+Forse ti sentirai
+un po' meglio."<New>
+     Buon'idea
+     Parliamo ancora<Close><End of Block>
+<TextBlock 11 w:42 h:3>
+Riposiamo un po'.
+     Buon'idea
+     Parliamo ancora<Close><End of Block>
+<TextBlock 12 w:10 h:2>
+Shitan
+"…"<Close><End of Block>
+<TextBlock 13 w:42 h:3>
+Riposiamo un po'.
+     Buon'idea
+     Parliamo ancora<Close><End of Block>
+<TextBlock 14 w:40 h:3>
+Shitan
+"Come stai, Fei?<Delay 10>
+Hai dormito bene?"<Close><End of Block>
+<TextBlock 15 w:42 h:4>
+Shitan
+"Scusa se ho combinato
+quel pasticcio…
+Sono stato sbadato.<New>
+Quel Gear è un modello
+sperimentale segretissimo
+proveniente da Kislev…<New>
+Era naturale che Aveh
+lo avrebbe cercato
+così follemente."<Close><End of Block>
+<TextBlock 16 w:50 h:3>
+Shitan
+"Fei? Sei ferito?
+Non hai un bell'aspetto."<Close><End of Block>
+<TextBlock 17 w:52 h:4>
+Shitan
+"Quell'uomo in nero…<Delay 30> ha
+parlato della sorte di
+tuo padre…<New>
+È questo il problema?"<Close><End of Block>
+<TextBlock 18 w:38 h:3>
+Shitan
+"Sei preoccupato
+per tuo padre?"<Close><End of Block>
+<TextBlock 19 w:56 h:3>
+Shitan
+"…<New>
+(Era lui! Per certo…<Delay 32> Non
+è stata una coincidenza…)<New>
+(Potrebbe essere che ci
+stiamo avvicinando al…<Delay 32>
+-Tempo- del<Delay 16> -Vangelo-…?)"<Close><End of Block>
+<TextBlock 20 w:42 h:3>
+Shitan
+"(Maestà… è questa
+la fine…?)"<Close><End of Block>
+<TextBlock 21 w:34 h:3>
+Shitan
+"Guarda!
+Che cos'è…?"<Close><Close><End of Block>

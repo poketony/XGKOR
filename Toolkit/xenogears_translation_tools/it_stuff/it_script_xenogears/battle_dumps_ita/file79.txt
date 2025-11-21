@@ -1,0 +1,86 @@
+<TextBlock 1 w:46 h:4>
+Elly
+"Se questo darà a Fei
+e agli altri…<New>
+… anche una minima
+possibilità di fuga…<New>
+Allora combatterò!
+Anche se questo mi
+dovesse costare la
+vita!!"<Close><End of Block>
+<TextBlock 2 w:40 h:2>
+Elly
+"Sono troppo veloci!"<Close><End of Block>
+<TextBlock 3 w:44 h:3>
+Elly
+"Inutile… anche col
+mio Omnigear…<New>
+Ma… non posso…
+Non in questo modo…"<Close><End of Block>
+<TextBlock 4 w:32 h:2>
+Elly
+"Non posso
+perdere!"<Close><End of Block>
+<TextBlock 5 w:44 h:3>
+Elly
+"Devo… riuscire…
+a bloccare i loro
+movimenti."<Close><End of Block>
+<TextBlock 6 w:32 h:4>
+Elly
+"Bloccati!?
+È il mio turno!
+Aaaaaaaaaah!"<Close><End of Block>
+<TextBlock 7 w:30 h:2>
+Elly
+"Sono stata io?"<Close><End of Block>
+<TextBlock 8 w:46 h:4>
+Elly
+"Com'è possibile…!?
+Pensavo che avesse
+funzionato…"<Close><End of Block>
+<TextBlock 9 w:18 h:2>
+Elly
+"Gaah…"<Opcode 2 60><Close><End of Block>
+<TextBlock 10 w:22 h:4>
+Elly
+"Guh…!
+… Uff…
+Uff…"<Close><End of Block>
+<TextBlock 11 w:40 h:3>
+"Dannata ragazza!
+Me la pagherai!!<New>
+Hai sbagliato a
+sottovalutare il
+nostro potere!"<Close><End of Block>
+<TextBlock 12 w:42 h:3>
+"Mmmh, non sto
+ottenendo nessun
+risultato.<New>
+Non c'è niente da
+fare, Tenpou.<New>
+È il momento di
+finire il lavoro."<Close><End of Block>
+<TextBlock 13 w:46 h:3>
+"Eh eh eh! Già
+sconfitta!?<New>
+Già me lo immagino.
+Fratture multiple,
+grave perdita di sangue…<New>
+Non mi stupirei se la
+cabina di pilotaggio
+fosse un mare di sangue.<New>
+Nel peggiore dei casi,
+morte…? Geh ah ah ah!!"<Close><End of Block>
+<TextBlock 14 w:48 h:4>
+"Cosa…!? Come puoi
+essere in piedi dopo
+aver ricevuto così
+tanti danni…?"<Close><End of Block>
+<TextBlock 15 w:30 h:1>
+"T… Tenpou!?"<Close><End of Block>
+<TextBlock 16 w:46 h:2>
+"Noooo!
+Come hai osato…<New>
+… fare una cosa simile
+al mio compagno!?"<Close><Close><End of Block>

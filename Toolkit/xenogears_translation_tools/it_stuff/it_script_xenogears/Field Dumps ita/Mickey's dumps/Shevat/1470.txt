@@ -1,0 +1,22 @@
+<TextBlock 1 w:42 h:3>
+Fei
+"Sembra che si
+possa aprire…"<Close><End of Block>
+<TextBlock 2 w:46 h:4>
+Fei
+"Eh…?<Delay 20>
+Questa bambola ha
+qualcosa in mano."<Close><End of Block>
+<TextBlock 3 w:58 h:6>
+'Specchio della Verità'<Space 2>
+Cosa desideri vedere?
+    Riflesso di <Perso1>
+    Riflesso di <Perso2>
+    Riflesso di <Perso3>
+    Nulla<Close><End of Block>
+<TextBlock 4 w:30 h:1>
+Non c'è nessuno lì.<Close><End of Block>
+<TextBlock 5 w:30 h:1>
+Non c'è nessuno lì.<Close><End of Block>
+<TextBlock 6 w:38 h:1>
+Ricevi Roccia Crepuscolo!<Close><Close><End of Block>

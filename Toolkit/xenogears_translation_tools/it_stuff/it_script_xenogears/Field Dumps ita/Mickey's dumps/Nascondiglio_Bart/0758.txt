@@ -1,0 +1,149 @@
+<TextBlock 1 w:32 h:3>
+Fei
+"Io sono<Delay 5>…<Delay 10> così<Delay 10>…<Space 1>
+…<Delay 10> stanco<Delay 5>…"<Close><End of Block>
+<TextBlock 2 w:42 h:3>
+Devono averci seguiti
+dalla caverna!<Delay 10>
+Ci hanno fottuti!<Close><End of Block>
+<TextBlock 3 w:46 h:4>
+Quello sguardo…<Delay 10> 
+Starai pensando che siamo
+un branco di assassini!<Delay 30> 
+No, non è così…<New>
+Non siamo assassini.
+Al diavolo, spesso salviamo
+la vita ai nostri nemici. 
+È la politica di Bart.<Close><End of Block>
+<TextBlock 4 w:40 h:1>
+(Voglio dire, 'Politica'??)<Close><End of Block>
+<TextBlock 5 w:36 h:1>
+Accidenti!! Geburah!!<Close><End of Block>
+<TextBlock 6 w:48 h:4>
+Partiremo subito domani.
+Sei pronto?
+    <Opcode 1 255>Aspetta
+    Va bene<Close><End of Block>
+<TextBlock 7 w:34 h:2>
+Fammi sapere quando
+sei pronto.<Close><End of Block>
+<TextBlock 8 w:48 h:3>
+Hai dimenticato nulla?
+    <Opcode 1 255>Un attimo
+    Andiamo<Close><End of Block>
+<TextBlock 9 w:34 h:2>
+Fammi sapere quando
+sei pronto.<Close><End of Block>
+<TextBlock 10 w:34 h:1>
+Ok. Buona notte.<Close><End of Block>
+<TextBlock 11 w:40 h:4>
+Ti vuoi riposare in 
+un posto simile?<New>
+Ehi, dico, starai
+scherzando…?<Delay 30>
+    <Opcode 1 255>Riposiamoci
+    Forse più tardi<Close><End of Block>
+<TextBlock 12 w:46 h:2>
+Ehi! So che è uno schifo,
+ma cerca di resistere.<Close><End of Block>
+<TextBlock 13 w:48 h:2>
+Quando ti vuoi riposare 
+fammelo sapere.<Close><End of Block>
+<TextBlock 14 w:44 h:1>
+È quello che pensavo.<Close><End of Block>
+<TextBlock 15 w:40 h:3>
+Uh?<Delay 30>
+Pensavo che fossi
+tu che russavi.<Close><End of Block>
+<TextBlock 16 w:36 h:2>
+… Sniff, sniff…<Delay 10><Space 1>
+Povera Elena…<Close><End of Block>
+<TextBlock 17 w:4 h:1>
+!!<Opcode 2 10><Close><End of Block>
+<TextBlock 18 w:42 h:1>
+Sto leggendo, fuori dai piedi!<Close><End of Block>
+<TextBlock 19 w:32 h:2>
+Questo non è il 
+momento di dormire!!<Close><End of Block>
+<TextBlock 20 w:46 h:3>
+Devi riposare quando puoi
+in modo da potere agire
+quando è il momento.<Delay 10><New>
+È sapere quando farlo
+che è importante.<Close><End of Block>
+<TextBlock 21 w:44 h:1>
+Qual è il letto migliore…?<Opcode 2 60><Close><End of Block>
+<TextBlock 22 w:34 h:2>
+Oh mio dio!
+Ci hanno trovati!<Close><End of Block>
+<TextBlock 23 w:48 h:3>
+Eravamo ad un passo
+dalla pace fra Aveh
+e Kislev…<New>
+Fu allora, così si dice,
+che il padre di Bart,
+Edbart IV, fu assassinato
+da Shakhan.<Close><End of Block>
+<TextBlock 24 w:38 h:2>
+Non si può andare avanti 
+con questo Shakhan!!<Close><End of Block>
+<TextBlock 25 w:46 h:1>
+Mi fa bollire il sangue!<Close><End of Block>
+<TextBlock 26 w:40 h:2>
+Quasi tutti i Gear
+sono in riparazione!!<Close><End of Block>
+<TextBlock 27 w:46 h:4>
+… Sigh… Questa ferita<Space 1>
+è così ridicola…<Delay 30>
+Non posso lasciare che
+il capo mi veda in
+questo stato.<Close><End of Block>
+<TextBlock 28 w:46 h:2>
+Owwww!!<Delay 30>
+Per favore, fai più
+attenzione.<Close><End of Block>
+<TextBlock 29 w:42 h:4>
+La buona medicina ha sempre
+un cattivo sapore.<Delay 10> 
+Tutti lo sanno.<Delay 10> 
+Ora tocca a te!<Close><End of Block>
+<TextBlock 30 w:44 h:1>
+Oh, sei così
+cattiva!<Close><End of Block>
+<TextBlock 31 w:20 h:1>
+Uh, cosa?<Close><End of Block>
+<TextBlock 32 w:48 h:4>
+Quando sei malato,
+fammelo sapere. Ti darò
+una bella supposta e
+tutto andrà meglio.<Close><End of Block>
+<TextBlock 33 w:32 h:2>
+Questo non è il 
+momento di giocare!<Close><End of Block>
+<TextBlock 34 w:34 h:2>
+Ehi, hai una carta
+di KOS-MOS?<Close><End of Block>
+<TextBlock 35 w:36 h:2>
+No, non ce l'ho.<Delay 10>
+Però ho quella di chaos.<Close><End of Block>
+<TextBlock 36 w:48 h:1>
+Hanno trovato la base?<Close><End of Block>
+<TextBlock 37 w:50 h:2>
+Non mi sembra di averne altre.<Delay 30>
+(Parlo delle carte, scemo!)<Close><End of Block>
+<TextBlock 38 w:34 h:1>
+Cos'è, cosa?<Close><End of Block>
+<TextBlock 39 w:32 h:1>
+Un po' di riposo…<Close><End of Block>
+<TextBlock 40 w:40 h:1>
+Cos'è stato quell'urto?<Close><End of Block>
+<TextBlock 41 w:46 h:3>
+Dei Gear sono entrati
+nell'Hangar dell'Yggdrasil!<New>
+5 Gear delle forze speciali
+di Geburah e un grande Gear
+non identificato.<New>
+Tutti i piloti a rapporto
+all'Hangar dei Gear!<Close><End of Block>
+<TextBlock 42 w:0 h:1>
+<Close><End of Block>

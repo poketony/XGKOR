@@ -1,0 +1,285 @@
+<TextBlock 1 w:4 h:1>
+!!<Opcode 2 30><Close><End of Block>
+<TextBlock 2 w:42 h:2>
+Shitan
+"Fei, va tutto bene."<Close><End of Block>
+<TextBlock 3 w:50 h:4>
+Taura
+"Il destino del mondo è
+nelle vostre mani.<Delay 10>
+Contiamo su di voi…!<New>
+Nel frattempo, io mi
+limiterò a guardare
+da qui ciò che accadrà…"<Close><End of Block>
+<TextBlock 4 w:54 h:4>
+Taura
+"Grazie per la visita.<Delay 10>
+Sembri davvero in
+ottima salute.<New>
+Vorrei aiutarti di più…<Delay 10>
+ma questo corpo non
+può sopravvivere fuori
+da questo posto…<New>
+Pare che io sia pronto
+per raggiungere il
+creatore, uh…<Delay 5>
+Oh, oh, oh!"<Close><End of Block>
+<TextBlock 5 w:24 h:1>
+Oh, Taura…<Close><End of Block>
+<TextBlock 6 w:52 h:4>
+Taura
+"Non preoccuparti.
+Smetterò di lamentarmi. E
+poi ho un regalo per te."<Close><End of Block>
+<TextBlock 7 w:48 h:3>
+ 
+ <Opcode 1 255>Ricevi Mantello!!<Opcode 2 60>
+ <Close><End of Block>
+<TextBlock 8 w:48 h:3>
+ 
+ <Opcode 1 255>Ricevi Abito Divino!!<Opcode 2 60>
+ <Close><End of Block>
+<TextBlock 9 w:38 h:3>
+Taura
+"Ho sentito male io
+o abbiamo un ospite?"<Close><End of Block>
+<TextBlock 10 w:36 h:3>
+Vecchio Misterioso
+"Mmm…<Delay 10> Finalmente
+si è svegliato…"<Close><End of Block>
+<TextBlock 11 w:28 h:1>
+Eccoti…<Close><End of Block>
+<TextBlock 12 w:12 h:1>
+Mmm…<Close><End of Block>
+<TextBlock 13 w:24 h:1>
+Mmmh…<Close><End of Block>
+<TextBlock 14 w:34 h:2>
+Fei
+"Sono… guarito…"<Opcode 2 50><Space 1><Close><End of Block>
+<TextBlock 15 w:42 h:4>
+Vecchio Misterioso
+"Sei stato addormentato
+in questo nanoreattore
+per tre settimane."<Close><End of Block>
+<TextBlock 16 w:32 h:3>
+Fei
+"Nanoreattore?<Delay 10>
+Chi sei tu…?"<Close><End of Block>
+<TextBlock 17 w:36 h:2>
+Vecchio Misterioso
+"Io…?"<Close><End of Block>
+<TextBlock 18 w:40 h:4>
+Vecchio Misterioso
+"Ho dimenticato il
+mio nome…<Delay 10> La gente
+mi chiama Taura…"<Close><End of Block>
+<TextBlock 19 w:54 h:3>
+Taura
+"Pare che tu ti
+sia completamente
+ristabilito.<Delay 10><New>
+Erano ferite terribili,
+ma forse la tua forza
+e giovinezza ti hanno
+aiutato…"<Close><End of Block>
+<TextBlock 20 w:50 h:4>
+Taura
+"Ma le ferite della
+tua amica sono molto
+più serie…<New>
+Per lei ci vorrà
+ancora un po' di
+tempo."<Close><End of Block>
+<TextBlock 21 w:30 h:2>
+Fei
+"Amica…?"<Opcode 2 30><Close><End of Block>
+<TextBlock 22 w:12 h:1>
+Elly!!<Opcode 2 20><Close><End of Block>
+<TextBlock 23 w:18 h:2>
+Fei
+"Elly…"<Close><End of Block>
+<TextBlock 24 w:50 h:4>
+Taura
+"Ehi! Smetti di guardare
+quella ragazza nuda e
+vieni qua!"<Close><End of Block>
+<TextBlock 25 w:20 h:2>
+Fei
+"Elly…?"<Close><End of Block>
+<TextBlock 26 w:42 h:3>
+Taura
+"Come ti senti ora?<New>
+L'aria fresca della
+foresta dovrebbe farti
+stare un po' meglio, no?"<Close><End of Block>
+<TextBlock 27 w:44 h:4>
+Taura
+"Comunque…
+Per quanto riguarda la
+rimozione del sigillo…<New>
+Ho scoperto che può
+essere liberato usando
+la stessa nanotecnologia
+che vi ha rigenerato."<Close><End of Block>
+<TextBlock 28 w:46 h:3>
+Taura
+"I nanoassemblatori
+sono rinchiusi in questo
+contenitore."<Close><End of Block>
+<TextBlock 29 w:54 h:3>
+Shitan
+"Se solo potessimo
+spargerli per tutto
+il mondo…"<Close><End of Block>
+<TextBlock 30 w:54 h:4>
+Taura
+"C'è un'antica
+installazione militare
+qui vicino…<New>
+Là c'è un 'Propulsore'
+che potremmo usare per
+lanciare il contenitore
+nell'alta atmosfera.<New>
+Se i Nanoassemblatori
+vengono liberati lassù…<New>
+… le correnti convettive
+li spargeranno in tutto
+il mondo!"<Close><End of Block>
+<TextBlock 31 w:54 h:4>
+Taura
+"Vorrei farlo io… ma sto
+diventando troppo vecchio
+per fare certe cose.<New>
+È per il vostro futuro.<Delay 10>
+Un vecchio non dovrebbe
+intromettersi.<New>
+Voi giovani dovete farlo
+per voi stessi!"<Close><End of Block>
+<TextBlock 32 w:14 h:2>
+Taura
+"Qui."<Close><End of Block>
+<TextBlock 33 w:38 h:4>
+Taura
+"E, naturalmente,
+non vi sto chiedendo
+di farlo per niente.<New>
+Prova ad indossare
+questo polsino."<Close><End of Block>
+<TextBlock 34 w:3 h:1>
+?<Close><End of Block>
+<TextBlock 35 w:30 h:2>
+Shitan
+"Di che si tratta?"<Close><End of Block>
+<TextBlock 36 w:54 h:4>
+Taura
+"È un' 'Unità di Controllo
+Emotiva' basata sulla
+nanotecnologia.<New>
+Per mezzo della fascia,
+le nanomacchine sono
+immesse attraverso la
+pelle nel tuo cervello.<New>
+Là esse purificano le
+sostanze intercebrali
+SSRI, come la serotonina…<New>
+… che controllano le
+emozioni."<Close><End of Block>
+<TextBlock 37 w:4 h:1>
+?<Delay 5>?<Opcode 2 15><Close><End of Block>
+<TextBlock 38 w:50 h:4>
+Taura
+"Beh, suppongo che sia
+un po' difficile per
+te da capire…<New>
+In breve, vuol dire che
+le manifestazioni della
+tua seconda personalità,
+Id, possono…<New>
+… essere soppresse."<Close><End of Block>
+<TextBlock 39 w:14 h:2>
+Fei
+"Id…"<Close><End of Block>
+<TextBlock 40 w:16 h:2>
+Elly
+"Fei…"<Close><End of Block>
+<TextBlock 41 w:54 h:4>
+Taura
+"Comunque, al momento
+è solo teoria…<Delay 10> Ah, ho
+fatto un'altra cosa…!<New>
+Ho installato lo
+stesso sistema di
+controllo nel tuo
+Gear…"<Close><End of Block>
+<TextBlock 42 w:46 h:3>
+Shitan
+"Vuoi dire che può
+liberare Id a suo
+piacere…?"<Close><End of Block>
+<TextBlock 43 w:48 h:4>
+Taura
+"Sì.<Delay 10> L'ho chiamato
+'Sistema Id'.<New>
+Naturalmente non se
+ne deve abusare.<Delay 10>
+Usalo solo come ultima
+risorsa."<Close><End of Block>
+<TextBlock 44 w:22 h:3>
+Fei
+"Elly,<Delay 10> Doc,<Delay 10>
+io…"<Close><End of Block>
+<TextBlock 45 w:52 h:4>
+Shitan
+"Fei,<Delay 10> non c'era nulla
+che tu potessi fare…<New>
+Comunque non accadrà di
+nuovo con la tecnologia
+di Taura. Egli è uno dei
+tre saggi di Shevat."<Close><End of Block>
+<TextBlock 46 w:48 h:3>
+Taura
+"Che lo crediate o no,
+è tutto nelle vostre
+mani."<Close><End of Block>
+<TextBlock 47 w:10 h:2>
+Fei
+"…"<Close><End of Block>
+<TextBlock 48 w:34 h:4>
+Taura
+"Oh?<Delay 10> Sembra che
+abbiamo un ospite!"<Close><End of Block>
+<TextBlock 49 w:4 h:1>
+!!<Opcode 2 30><Close><End of Block>
+<TextBlock 50 w:34 h:2>
+Taura
+"Penso di sì…"<Close><End of Block>
+<TextBlock 51 w:54 h:4>
+Taura
+"Così tu eri colui che
+ha portato Fei e la sua
+ragazza da me…<New>
+L'ho capito nel momento
+in cui li ho visti.<Delay 10>
+Oh, non ho potuto fare
+a meno di notarlo…<New>
+Essi sono proprio
+l'immagine speculare
+di te e di<Delay 5> lei.<New>
+Sì, e si guardavano come
+vi guardavate voi allora<Delay 5>…"<Close><End of Block>
+<TextBlock 52 w:36 h:2>
+Taura
+"Giusto, Lacan…?"<Close><End of Block>
+<TextBlock 53 w:46 h:3>
+Krelian
+"Lacan, guarda!<Delay 10>
+L'ho finalmente
+completato.<Delay 10><New>
+Questo salverà le vite
+di molte persone."<Close><End of Block>
+<TextBlock 54 w:48 h:4>
+Krelian
+"Non è così,<Delay 10> Melchiorre?<Delay 10>
+Con questo anche Sofia…"<Close><End of Block>
+<TextBlock 55 w:3 h:1>
+ <Close><Close><End of Block>

@@ -1,0 +1,80 @@
+<TextBlock 1 w:40 h:4>
+Pirata
+"Mmh… Non riesci ad
+inventarti una scusa
+migliore per salvarti?<New>
+Vieni saltando fuori da
+una nave di Aveh e
+affermi che non sei un
+soldato di quel paese!<New>
+Non cercare di
+prendermi per
+il culo!"<Close><End of Block>
+<TextBlock 2 w:44 h:4>
+Pirata
+"Tsk.
+Ma quanto sei ridicolo!?<New>
+Anche se sei il più
+insignificante tra i
+soldati, che ne dici
+di mostrare del fegato…<New>
+… e di combattere
+decentemente?"<Close><End of Block>
+<TextBlock 3 w:36 h:4>
+Pirata
+"Disgustoso!
+Perché non smetti
+di lamentarti…<New>
+… lasci il Gear e
+te ne scappi?"<Close><End of Block>
+<TextBlock 4 w:48 h:4>
+Pirata
+"Per essere uno che non
+vuole combattere, sei
+abbastanza forte…<New>
+Capisco, un modello
+automatizzato per
+tutte le condizioni
+ambientali…<New>
+È così, eh?<Delay 10>
+Ora lo voglio
+ancora di più!"<Close><End of Block>
+<TextBlock 5 w:38 h:3>
+Pirata
+"Oh, no!<Delay 30>
+Non ci voleva!!"<Close><End of Block>
+<TextBlock 6 w:46 h:4>
+Pirata
+"Nel bel mezzo
+della battaglia,
+vado a cadere…<New>
+… nelle sabbie mobili!<New>
+Merda! Proprio io!"<Close><End of Block>
+<TextBlock 7 w:40 h:3>
+Pirata
+"Dannazione!
+È tutta colpa tua!<New>
+Amico, dopo te la
+farò pagare. Perciò
+tieniti maledettamente
+pronto!"<Close><End of Block>
+<TextBlock 8 w:34 h:4>
+Fei
+"Fermo un attimo!
+Non siamo soldati
+di Aveh!"<Close><End of Block>
+<TextBlock 9 w:24 h:3>
+Fei
+"Te lo dico,
+è vero!"<Close><End of Block>
+<TextBlock 10 w:44 h:4>
+Fei
+"Fermo! Ti dico che
+non sono un soldato!
+Non voglio combattere!"<Close><End of Block>
+<TextBlock 11 w:8 h:2>
+Fei
+"!?"<Close><End of Block>
+<TextBlock 12 w:12 h:2>
+Fei
+"Perché?"<Close><Close><Close><Close><%><Wait><Close><Close>)<Close><Close><Close><Close><End of Block>

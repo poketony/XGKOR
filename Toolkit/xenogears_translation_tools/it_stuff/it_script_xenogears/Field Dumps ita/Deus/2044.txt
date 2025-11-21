@@ -1,0 +1,348 @@
+<TextBlock 1 w:30 h:1>
+Dove sono…!?<Close><End of Block>
+<TextBlock 2 w:42 h:3>
+Ma quella è Elly!
+Allora vuol dire che
+sono dentro Deus!?<Close><End of Block>
+<TextBlock 3 w:56 h:6>
+Non esattamente.<New>
+Il tuo vero corpo non è
+altro che una entità
+fisica…<Delay 5> Esso è stato
+semplicemente assorbito
+dall'involucro esteriore
+di Deus<Delay 5>…<New>
+Soltanto la tua
+coscienza è qui.<New>
+Ovviamente, anche la ragazza
+che scorgi davanti a te non
+è un vero essere.<Delay 5> Essa è solo
+la sua immagine, creata dalla
+tua coscienza.<Close><End of Block>
+<TextBlock 4 w:4 h:1>
+!?<Close><End of Block>
+<TextBlock 5 w:48 h:3>
+L' 'Esistenza Ondulatoria'…?<Delay 5>
+No…<Delay 5> non sei tu…!!<Delay 5>
+Chi sei…?<Close><End of Block>
+<TextBlock 6 w:56 h:5>
+Ma è impossibile…!?<Delay 5>
+Sei tu, Krelian!?<Delay 5>
+Invece è vero, giusto…!?<Delay 10>
+Krelian!<Delay 10> Sei stato tu
+a fare questo ad Elly!?<Close><End of Block>
+<TextBlock 7 w:54 h:4>
+Il 'Cammino delle Sefirot'
+è stato ricongiunto.<Delay 5>
+Nessuno ora può fermare dio
+dal tornare in questo mondo.<New>
+Allora, per cosa sei
+venuto fin qui, Lacan?<Close><End of Block>
+<TextBlock 8 w:54 h:3>
+Sono venuto qui per
+riprendermi la persona
+che amo!<Delay 5> Perciò, libera
+Elly!<New>
+Il Sistema Deus è stato
+distrutto. Adesso, è
+tutto finito!<New>
+Perciò, sono io a
+doverti chiedere…<Delay 10>
+Ormai cosa speri di
+ottenere!?<Close><End of Block>
+<TextBlock 9 w:54 h:5>
+Il tempo in cui ogni
+cosa ebbe inizio…
+Il luogo ove tutto
+era uno…
+Io voglio ritornare lì!<Close><End of Block>
+<TextBlock 10 w:22 h:1>
+Di che luogo parli?<Close><End of Block>
+<TextBlock 11 w:60 h:5>
+Prima della genesi del
+creato,<Delay 5> nella dimensione
+superiore dei flutti
+ondulatori,<Delay 5> tutto era
+uno.<New>
+Furono le onde a
+creare quest'universo
+quadridimensionale,
+spandendosi da lì.<New>
+L' 'Umanità'<Delay 5> e le 'Anime
+dell'Umanità', che nacquero
+da lì,<Delay 5> sono soltanto dei
+rimasugli di quelle onde
+che si spansero.<Delay 10> Pertanto…<Close><End of Block>
+<TextBlock 12 w:50 h:2>
+Vuoi tornare lì? È
+questo che desideri?<Close><End of Block>
+<TextBlock 13 w:54 h:7>
+Lacan…<Delay 5>
+Perché tanta avversione
+contro il divenire uno
+con dio?<Delay 5>
+Che cosa ti potrebbe
+legare a questo misero,
+vecchio mondo?<New>
+Che senso si può trovare
+nel consumare un'esistenza
+tanto breve…<Delay 5> ferendo gli
+altri,<Delay 5> ferendo se stessi,<Delay 5>
+opprimendo gli altri…<Delay 5> solo
+per poi, immancabilmente,
+morire e ritornare cenere?<New>
+Per quale ragione, tutto
+ciò che avremmo mai potuto
+desiderare si trova qui…<Delay 5>
+Non c'è bisogno d'essere
+inquietati dal bisogno
+di amore…<Delay 5> Dacché questo
+posto è colmo dell'amore
+di dio.<Close><End of Block>
+<TextBlock 14 w:54 h:3>
+Io, a differenza di te,
+Krelian, non ho perso
+la speranza nell'umanità…<New>
+Un giorno gli uomini
+riusciranno a capirsi
+gli uni con gli altri!
+Io lo credo sinceramente!<Close><End of Block>
+<TextBlock 15 w:58 h:7>
+Come puoi esserne tanto
+sicuro?<Delay 5> Gli uomini non
+riusciranno mai a capirsi
+gli uni con gli altri.<New>
+Hai detto che lei è la
+persona che tu ami.<Delay 5>
+Ma puoi veramente dire
+che vi capite davvero
+tra di voi?<New>
+Tutto ciò che gli uomini
+fanno è disporsi ad una
+distanza che sia loro
+d'agio…<New>
+Chiamano ciò il<Delay 5> 'capirsi
+reciprocamente', oppure<Delay 5>
+la 'armonia spirituale',<Delay 5>
+o il <Delay 5>'vero amore'<Delay 10>…<Delay 5>
+Ma sono tutte menzogne!<New>
+Gli esseri umani non possono
+relazionarsi tra loro senza
+prima mentire a loro stessi.<Delay 5>
+È in questo modo che sono
+stati creati.<Close><End of Block>
+<TextBlock 16 w:52 h:4>
+Ma l'ego di una sola
+persona non può stabilire
+il destino di tutti!<New>
+La gente ha il diritto di
+scegliersi il proprio
+destino!<Delay 5> È per questo che
+gli umani possiedono il
+libero arbitrio!<Close><End of Block>
+<TextBlock 17 w:58 h:6>
+E se questo stesso
+'arbitrio' fosse
+stato prestabilito?<Delay 5>
+Che sarebbe, allora?<New>
+Oh, che follia!<Delay 5>
+Gli umani non sono altro
+che forme di vita primitive,
+che non posseggono cose
+come il libero arbitrio…<New>
+All'umanità a mala pena è
+stato concesso di vivere in
+una condizione imperfetta…<Delay 5>
+"com'è",<Delay 5> "come sarà"<Delay 5>…<New>
+È per questa stessa ragione…<Delay 5>
+… poiché gli uomini non hanno
+questo miserabile 'arbitrio',
+o qualcosa di simile…<Delay 5>
+… che essi devono subire
+la tristezza ed il dolore.<New>
+Quando qualcuno ottiene
+qualcosa, un altro deve
+per forza perderla…<Delay 5>
+È impossibile far dividere
+all'umanità dei "beni" e
+degli "affetti" tanto
+limitati…<New>
+Dunque, sono giunto alla
+conclusione che tutto deve
+essere riportato indietro a
+dove ogni cosa ebbe inizio.<New>
+Tornare a quando tutto era
+uno…<Delay 5> onde, e nient'altro…<Delay 5>
+Non si tratta del mio ego
+-Umano-…<Delay 5> Questo è il volere
+delle  'Onde'<Delay 5>… il volere
+di <Delay 5>-dio-<Delay 5>…<Close><End of Block>
+<TextBlock 18 w:58 h:4>
+Ma anche questo va
+bene…<Delay 5> Non dobbiamo
+essere perfetti.<New>
+In realtà, è l'essere
+imperfetti che obbliga
+gli uomini ad aiutarsi
+a vicenda per vivere…<Delay 5>
+Questo vuol dire essere
+umani…<New>
+Questo vuol dire capirsi
+l'un altro!<Delay 5> Questa è la
+'armonia' e l' <Delay 5>'amore'…<Delay 5>
+Io sono felice…<Delay 5> no,<Delay 5> io sono…<Delay 5><Space 1>
+orgoglioso di essere umano!<Close><End of Block>
+<TextBlock 19 w:56 h:5>
+Elly ha posto il futuro,<Delay 5> il
+-domani-,<Delay 5> nelle nostre mani,
+secondo le nostre scelte<Delay 10>…<New>
+E lei sta lottando per
+tenere lontano Deus dal
+nostro pianeta.<New>
+Sta anche cercando di guarire
+il tuo cuore…<Delay 10> tu,<Delay 5> che vuoi
+viaggiare,<Delay 5> da solo, ed
+essere con dio…<New>
+Non riesci a comprendere
+i sentimenti di Elly!?<Delay 10>
+Devi diventare uno con dio
+prima di essere in grado
+di capire tutto questo?<New>
+Io lo capisco…<Delay 5>
+Conosco i suoi sentimenti…<Delay 5>
+come se fossero i miei…<New>
+Sì…<Delay 5> lei ed io siamo uno!<Delay 10>
+Non abbiamo bisogno
+dell'aiuto di dio!!<Close><End of Block>
+<TextBlock 20 w:58 h:5>
+Bene, allora dimostramelo…<Delay 10>
+Mostrami questo potere degli
+umani!<Delay 10><New>
+Mostrami questo -Amore-,
+che dici possa rendervi
+indipendenti da dio…<Close><End of Block>
+<TextBlock 21 w:18 h:2>
+Fei
+"Elly…"<Close><End of Block>
+<TextBlock 22 w:46 h:2>
+Elly
+"Fei<Delay 10>…<New>
+È stato Krelian…<Delay 10>
+Krelian mi ha liberata…"<Close><End of Block>
+<TextBlock 23 w:26 h:2>
+Fei
+"Krelian…?"<Close><End of Block>
+<TextBlock 24 w:54 h:4>
+Elly
+"Sì.<New>
+Sono riuscita a capirlo
+dopo essere diventata
+una con Krelian…<New>
+Il suo cuore era così
+pieno di tristezza<Delay 5>…<New>
+Per questo desiderava
+divenire uno con dio…
+per lui e per me…<New>
+Perché quello sarebbe
+stato il ritorno al
+principio di tutto…<Delay 20>
+Mi ha detto…<New>
+'Tu dovresti essere
+con lui<Delay 10>…'<New>
+Questo è quello che ha
+detto…<Delay 5> Vedi…<Delay 5> lui già
+lo sapeva!<New>
+Sì, lui già sapeva…<Delay 10>
+come mi sentivo io,<Delay 5>
+come ti sentivi tu<Delay 10>…<New>
+Ma né io né lui potevamo
+fare nulla…<New>
+Non aveva altra scelta, se
+non quella di proseguire<Delay 5>…<New>
+… anche se ciò volle dire
+perdere tutti i suoi
+sentimenti,<Delay 5> perdere
+tutto ciò ch'era umano!<New>
+Per il bene di tutta
+l'umanità…<Delay 5> Non poteva
+tornare indietro<Delay 5>…<New>
+Anche ricordare il passato
+gli restituiva troppi
+ricordi…<New>
+E lui avrebbe voluto<Delay 5>…<Delay 10>
+solo tornare indietro<Delay 5>…<Delay 10>
+Anche se non poteva<Delay 5>…<New>
+Perciò, ti prego,
+perdonalo…<Delay 10> Krelian
+amava le persone più
+di chiunque altro…"<Close><End of Block>
+<TextBlock 25 w:50 h:4>
+Fei
+"Io<Delay 5>…<Delay 10> io, in qualche
+modo<Delay 5>…<Delay 10> l'ho sempre
+saputo…<New>
+La verità è che sapevo
+che lui era quel tipo
+di persona…"<Close><End of Block>
+<TextBlock 26 w:54 h:4>
+Elly
+"<Delay 5>…<Delay 10> Mi dispiace così
+tanto<Delay 5>…<Delay 10> Ti prego,
+perdonami!<Delay 5><New>
+Io mi sbagliavo…<New>
+Pensavo che sacrificarmi
+per salvare gli altri
+fosse la cosa giusta
+da fare…<New>
+Ma le mie azioni hanno
+solo portato tristezza
+a tutta la gente che mi
+ero lasciata alle spalle.<New>
+E quella tristezza ha
+generato ancora più
+tristezza.<New>
+Finché 'io' vivrò dentro
+di te, la mia vita non è
+soltanto mia."<Close><End of Block>
+<TextBlock 27 w:54 h:4>
+Fei
+"Elly… Non ti stavi
+sbagliando.<New>
+Sacrificarsi per gli altri
+è una cosa nobile<Delay 10>…<New>
+Anche se fosse per fare
+del bene a te stessa,
+non è un problema.<New>
+Ci sarà sempre una
+persona che verrà
+guarita…<Delay 10> Una o l'altra…<New>
+L'amore acquista il suo
+splendore originario solo
+quando c'è un rapporto
+reciproco tra…<New>
+… chi dà e chi riceve.<Delay 35>
+Esso è incompleto quando
+uno o l'altro mancano…<Delay 10>
+I due sono uno.<New>
+Sei stata tu, Elly,
+ad insegnarmelo.<Delay 20>
+Credo che sia questo che
+voglia dire essere umani…<New>
+Adesso posso capire la
+sua vera importanza.<Delay 10>
+Non so se questa sia o
+meno la giusta risposta…<New>
+Ma abbiamo molto tempo
+per rifletterci…<New>
+Ciò che Krelian stava
+cercando per tutto
+questo tempo<Delay 10>…<New>
+Noi scopriremo la
+risposta… proprio
+noi, da soli…"<Close><End of Block>
+<TextBlock 28 w:26 h:3>
+Elly
+"Grazie… Fei!"<Space 1><Close><End of Block>
+<TextBlock 29 w:18 h:2>
+Fei
+"Elly…"<Close><Close><End of Block>

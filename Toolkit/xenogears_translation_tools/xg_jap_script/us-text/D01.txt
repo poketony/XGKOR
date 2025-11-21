@@ -1,0 +1,352 @@
+#### 1 ####
+{fast:FF}demoflag down?
+      down
+      no
+
+#### 2 ####
+      {fast:FF}return
+      memberchange
+      partychange
+
+#### 3 ####
+      {fast:FF}plus
+      new
+      end
+
+#### 4 ####
+{fast:FF}Please make party
+
+#### 5 ####
+{fast:FF}select party member
+
+#### 6 ####
+      {fast:FF}Fei
+      Elly
+      Citan
+      Bart
+      Billy
+      Rico
+      Emer
+      Chu-chu
+      Maria
+      Citan2
+      Emer2
+      end
+
+#### 7 ####
+      {fast:FF}Fei
+      Elly
+      Citan
+      Bart
+      Billy
+      Rico
+      Emer
+      Chuchu
+      Maria
+      Citan2
+      Emer2
+
+
+#### 8 ####
+{fast:FF}Your party is...
+
+#### 9 ####
+Fei
+
+#### 10 ####
+Elly
+
+#### 11 ####
+Citan
+
+#### 12 ####
+Bart
+
+#### 13 ####
+Billy
+
+#### 14 ####
+Rico
+
+#### 15 ####
+Emer
+
+#### 16 ####
+Chu-chu
+
+#### 17 ####
+Maria
+
+#### 18 ####
+Citan2
+
+#### 19 ####
+Emer2
+
+#### 20 ####
+{fast:FF}Your party is...
+
+#### 21 ####
+Fei
+
+#### 22 ####
+Elly
+
+#### 23 ####
+Citan
+
+#### 24 ####
+Bart
+
+#### 25 ####
+Billy
+
+#### 26 ####
+Rico
+
+#### 27 ####
+Emer
+
+#### 28 ####
+Chu-chu
+
+#### 29 ####
+Maria
+
+#### 30 ####
+Citan2
+
+#### 31 ####
+Emer2
+
+#### 32 ####
+{fast:FF}Jump to planner's map
+          no thank you
+          to kato
+          to eto
+          to kazuomi
+          to suzuki
+          to tane
+          to koumoto
+          to kigoshi
+          to uchimichi
+          to saito
+          to matu
+
+#### 33 ####
+{fast:FF}dokodemo door
+      return
+      0-99
+      100-199
+      200-299
+      300-399
+      400-499
+      500-599
+      600-699
+      700-799
+
+#### 34 ####
+      {fast:FF}return
+      {number(s):00}00-{number(s):00}09
+      {number(s):00}10-{number(s):00}19
+      {number(s):00}20-{number(s):00}29
+      {number(s):00}30-{number(s):00}39
+      {number(s):00}40-{number(s):00}49
+      {number(s):00}50-{number(s):00}59
+      {number(s):00}60-{number(s):00}69
+      {number(s):00}70-{number(s):00}79
+      {number(s):00}80-{number(s):00}89
+      {number(s):00}90-{number(s):00}99
+
+#### 35 ####
+      {fast:FF}return
+      {number(s):00}{number(s):01}0
+      {number(s):00}{number(s):01}1
+      {number(s):00}{number(s):01}2
+      {number(s):00}{number(s):01}3
+      {number(s):00}{number(s):01}4
+      {number(s):00}{number(s):01}5
+      {number(s):00}{number(s):01}6
+      {number(s):00}{number(s):01}7
+      {number(s):00}{number(s):01}8
+      {number(s):00}{number(s):01}9
+
+#### 36 ####
+{fast:FF}map{number(s):02}¡¢mappara?
+      {number(s):00}0
+      {number(s):00}1
+      {number(s):00}2
+      {number(s):00}3
+      {number(s):00}4
+      {number(s):00}5
+      {number(s):00}6
+      {number(s):00}7
+      {number(s):00}8
+      {number(s):00}9
+      +10
+      at random
+      do again
+
+#### 37 ####
+please honest!!
+
+#### 38 ####
+{fast:FF}to Lahan?
+          yes
+          no
+
+#### 39 ####
+{fast:FF}View the preview ?
+    yes
+    no
+
+#### 40 ####
+{fast:FF}to Dazil?
+          yes
+          no
+
+#### 41 ####
+{fast:FF}to Citan's home?
+          yes
+          no
+
+#### 42 ####
+{fast:FF}listen to...
+      music
+      sound effect
+      return
+
+#### 43 ####
+    {fast:FF}return
+    {number(s):00}00-{number(s):00}09
+    {number(s):00}10-{number(s):00}19
+    {number(s):00}20-{number(s):00}29
+    {number(s):00}30-{number(s):00}39
+    {number(s):00}40-{number(s):00}49
+    {number(s):00}50-{number(s):00}59
+    {number(s):00}60-{number(s):00}69
+    {number(s):00}70-{number(s):00}79
+    {number(s):00}80-{number(s):00}89
+    {number(s):00}90-{number(s):00}99
+
+#### 44 ####
+    {fast:FF}return
+    {number(s):00}{number(s):01}0
+    {number(s):00}{number(s):01}1
+    {number(s):00}{number(s):01}2
+    {number(s):00}{number(s):01}3
+    {number(s):00}{number(s):01}4
+    {number(s):00}{number(s):01}5
+    {number(s):00}{number(s):01}6
+    {number(s):00}{number(s):01}7
+    {number(s):00}{number(s):01}8
+    {number(s):00}{number(s):01}9
+
+#### 45 ####
+{fast:FF}music number {number(s):00}  change {number(s):01}
+          next
+          head
+          before
+          info
+          vol
+          pitch
+          tempo
+          return
+push R1 up
+     L1 dowm
+     X default
+
+#### 46 ####
+{fast:FF}you can change 'vol'
+
+#### 47 ####
+{fast:FF}you can change 'pitch'
+
+#### 48 ####
+{fast:FF}you can change 'tempo'
+
+#### 49 ####
+{fast:FF}              now  /  def
+vol        {0C:00}       /127
+pitch      {0C:01}       /0 
+tempo      {0C:02}       /256
+
+#### 50 ####
+    {fast:FF}return
+    0-99
+    100-199
+    200-299
+    300-399
+    400-499
+    500-599
+
+#### 51 ####
+    {fast:FF}return
+    {number(s):00}00-{number(s):00}09
+    {number(s):00}10-{number(s):00}19
+    {number(s):00}20-{number(s):00}29
+    {number(s):00}30-{number(s):00}39
+    {number(s):00}40-{number(s):00}49
+    {number(s):00}50-{number(s):00}59
+    {number(s):00}60-{number(s):00}69
+    {number(s):00}70-{number(s):00}79
+    {number(s):00}80-{number(s):00}89
+    {number(s):00}90-{number(s):00}99
+
+#### 52 ####
+    {fast:FF}return
+    {number(s):00}{number(s):01}0
+    {number(s):00}{number(s):01}1
+    {number(s):00}{number(s):01}2
+    {number(s):00}{number(s):01}3
+    {number(s):00}{number(s):01}4
+    {number(s):00}{number(s):01}5
+    {number(s):00}{number(s):01}6
+    {number(s):00}{number(s):01}7
+    {number(s):00}{number(s):01}8
+    {number(s):00}{number(s):01}9
+
+#### 53 ####
+{fast:FF}SE number is {number(s):02}
+          one more
+          next
+          before
+          music on
+          music off
+          return
+
+#### 54 ####
+{fast:FF}face test
+    show  now = {number(s):00}
+    +1
+    -1
+    +10
+    -10
+    return
+
+#### 55 ####
+{fast:FF}  now = {number(s):00}
+    +1
+    -1
+    return
+
+#### 56 ####
+{fast:FF}gear
+      all on
+      all off
+      each
+      end
+
+#### 57 ####
+{fast:FF}C is chr
+G is gear
+      C C C
+      G C C
+      C G C
+      C C G
+      C G G
+      G C G
+      G G C
+      G G G
+      end
+

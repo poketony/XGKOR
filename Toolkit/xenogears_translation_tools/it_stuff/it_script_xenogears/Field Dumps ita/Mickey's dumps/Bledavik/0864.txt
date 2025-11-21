@@ -1,0 +1,16 @@
+<TextBlock 1 w:48 h:4>
+ 
+Benvenuti allo…
+   'Specchio della Verità'.<New>
+È questo il mondo reale?<Delay 30>
+È quello il mondo reale?<Delay 30>
+Vi mostrerò la verità.<Close><End of Block>
+<TextBlock 2 w:44 h:2>
+Ehi…!<Delay 30>
+I tre pupazzi grassi!<Close><End of Block>
+<TextBlock 3 w:22 h:3>
+Finito?
+    Sì
+    No<Close><End of Block>
+<TextBlock 4 w:40 h:1>
+L'uscita è da quella parte.<Close><Close><End of Block>

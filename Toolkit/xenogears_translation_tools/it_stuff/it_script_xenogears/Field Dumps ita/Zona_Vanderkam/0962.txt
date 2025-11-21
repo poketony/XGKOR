@@ -1,0 +1,29 @@
+<TextBlock 1 w:46 h:3>
+Fei
+"Quella è…<Delay 35> la flotta di
+confine di Vanderkam…?"<Close><End of Block>
+<TextBlock 2 w:24 h:4>
+Fei
+"…<Delay 45>
+Semplice.
+Facciamo questo."<Close><End of Block>
+<TextBlock 3 w:54 h:4>
+Maitreya
+"…<Delay 65>
+Potrebbe essere anche più
+esaltato del Padroncino!"<Close><End of Block>
+<TextBlock 4 w:52 h:4>
+Maitreya
+"Falkon! Segui il ragazzo!
+Voi altri, rimanete con la
+vostra unità, ma seguitemi!<New>
+Non rimanete dietro al
+ragazzo! Parteciperemo
+anche noi!"<Close><End of Block>
+<TextBlock 5 w:48 h:4>
+Maitreya
+"Il nostro compito è di
+rallentarli.<Delay 35> Allora, come
+vorresti farlo?"<Close><End of Block>
+<TextBlock 6 w:0 h:1>
+<Close><End of Block>

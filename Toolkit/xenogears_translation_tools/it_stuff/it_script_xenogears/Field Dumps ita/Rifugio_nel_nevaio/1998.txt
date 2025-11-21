@@ -1,0 +1,11 @@
+<TextBlock 1 w:50 h:4>
+Credo che non avrei
+dovuto usarlo…<Delay 20>
+Non spettava a me.<New>
+Il tuo fratellino era
+davvero arrabbiato con
+me.<Delay 20> Mi ha chiesto se
+abbiamo o no un cuore.<New>
+Ti invidio, perché hai
+un fratello che ha il
+fegato d'essere onesto.<Close><Close><End of Block>

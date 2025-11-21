@@ -1,0 +1,4 @@
+<TextBlock 1 w:24 h:3>
+Riposi nel letto?<Delay 20>
+    Riposa!
+    Non riposare<Close><Close><End of Block>

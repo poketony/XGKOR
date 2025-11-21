@@ -1,0 +1,150 @@
+#### 1 ####
+Fei
+"Where are you, doc?"
+
+#### 2 ####
+Fei
+"W, what's going on?"
+
+#### 3 ####
+Fei
+"Doc!!{wait:14}
+So that's where
+you were!"
+
+#### 4 ####
+Fei
+"Are you alright, doc?{wait:14}
+What are you doing all
+the way up there?"
+
+#### 5 ####
+Fei
+"Okay, doc, I will.
+But please hurry up.{enter}
+It will get dark
+before you know it."
+
+#### 6 ####
+Fei
+"Well,
+good night, doc."
+
+#### 7 ####
+Fei
+"What's wrong, doc?{enter}
+There is nothing to worry
+about!{wait:14} Well, anyway, I'll
+see you tomorrow."
+
+#### 8 ####
+Citan
+"Good night, Fei.{wait:14}
+And do be careful!"
+
+#### 9 ####
+Citan
+"Oh, Fei!{wait:1E}
+Good to see you."
+
+#### 10 ####
+Citan
+"I thought I would try to
+restore this Land Crab.{enter}
+Oh, and that explosion was
+nothing to worry about.{wait:14}
+It happens all the time.
+Ha, ha, ha...!"
+
+#### 11 ####
+Citan
+"Could you wait a while?{wait:14}
+I am just about ready
+to call it a day.{enter}
+Oh, yes. There is
+something interesting
+in the storeroom...{wait:14}
+Why not take a look!?"
+
+#### 12 ####
+Citan
+"Yes, good night."
+
+#### 13 ####
+Citan
+"Oh, Fei!
+Please be careful..."
+
+#### 14 ####
+Citan
+"Ah, I mean...{wait:14}
+the path is dangerous
+when it is so dark..."
+
+#### 15 ####
+Citan
+"Well then,
+shall we go?{enter}
+It is finally starting...{wait:14}
+I wonder if we will make
+it back alive..."
+
+#### 16 ####
+Ohhh! This is no good!{wait:14}
+Why do they use such
+inferior parts?
+This is why their
+intervention strat...
+
+#### 17 ####
+Found some Aquasol!
+
+#### 18 ####
+Found Midori's Ring!
+
+#### 19 ####
+{name:80:unknown} put the
+ring away secretly.
+
+#### 20 ####
+Found some hidden
+    pin money!{enter}
+Received 120G!
+
+#### 21 ####
+Found some bird seed!
+
+#### 22 ####
+Tried a little bit,{wait:14}
+but it didn't taste
+very good...
+
+#### 23 ####
+Found some bird seed!
+
+#### 24 ####
+Tried it again,{wait:14}
+but the flavor
+hasn't improved...
+
+#### 25 ####
+"The shiny farhead is the
+pruf of justis! Stop the
+njections, yew quack."
+
+#### 26 ####
+"Injured, sick, all
+accepted. Come on in!
+But no deceased please."
+
+#### 27 ####
+Go back down? {wait:14}
+    Yes
+    No
+
+#### 28 ####
+Do you want to look
+through the telescope?{wait:14}
+    Sure
+    No
+

@@ -1,0 +1,35 @@
+<TextBlock 1 w:50 h:4>
+Zia di Alice
+"Ehi, ciao, Fei.<Delay 20> Sei venuto
+a visitare la nostra Alice?<Delay 20>
+Adesso è di sopra.<Close><End of Block>
+<TextBlock 2 w:50 h:5>
+Zia di Alice
+"Ma non vola il tempo…?
+Sono già dieci anni
+da quando mio fratello
+e sua moglie morirono.<New>
+Abbiamo fatto del nostro meglio
+per far crescere i due bambini
+nel modo giusto…"<Close><End of Block>
+<TextBlock 3 w:40 h:5>
+Zia di Alice
+"Ma ora, per quanto riguarda
+Alice, posso infine dire che
+il mio lavoro è finito.<New>
+So che Timothy si prenderà
+buona cura di lei d'ora
+in poi…<New>
+Ora rimane soltanto Dan…<Delay 20>
+Avrò il mio da fare a farlo
+diventare un uomo."<Close><End of Block>
+<TextBlock 4 w:14 h:1>
+Sigh…<Opcode 2 30><Close><End of Block>
+<TextBlock 5 w:54 h:4>
+Zia di Alice
+"Domani, per favore, prega
+per la felicità di Alice.<New>
+E, d'ora in poi, voglio che
+tu rimanga il migliore amico
+sia di Alice che di Timothy.<Delay 20>
+Grazie, Fei!"<Close><Close><End of Block>

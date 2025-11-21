@@ -1,0 +1,49 @@
+<TextBlock 1 w:46 h:4>
+Miang
+"Cosa c'è?<Delay 50>
+Sembra che tu abbia
+solo avuto un incubo…<New>
+Non sarà stato ancora
+lo stesso sogno, vero?"<Close><End of Block>
+<TextBlock 2 w:32 h:3>
+Ramsus
+"No…<Delay 30>
+Non era nulla."<Close><End of Block>
+<TextBlock 3 w:18 h:2>
+Miang
+"Kahr…"<Opcode 2 50><Close><End of Block>
+<TextBlock 4 w:30 h:4>
+Miang
+"Spiare non è una
+cosa da fare, sai…?"<Close><End of Block>
+<TextBlock 5 w:52 h:4>
+Miang
+"Eh eh… Ho visto il
+ragazzo che stai cercando
+nel Torneo…<New>
+L'ho riconosciuto subito.
+T'assomiglia moltissimo."<Close><End of Block>
+<TextBlock 6 w:50 h:4>
+Grahf
+"Utilizzasti l'influenza
+del Ministero per
+avvicinarti a quell'uomo…<New>
+Sconosco qual sia il tuo
+piano, ma non osare
+pensare di macchinare
+contro di me.<New>
+Rimani fuori da ciò!"<Close><End of Block>
+<TextBlock 7 w:46 h:3>
+Miang
+"Oh, vedo che la novità
+ti è già arrivata…<New>
+Come di consueto, tu sei
+il primo a venire a
+conoscenza di tutto.<New>
+Ma non preoccuparti<Delay 5>…<Delay 5>
+Non ruberò il tuo
+'bene prezioso'.<New>
+Io collaborerò<Delay 5>…<Delay 10>
+Inoltre, io e tu abbiamo
+compiuto assieme un
+lungo cammino<Delay 5>…"<Close><Close><End of Block>

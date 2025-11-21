@@ -1,0 +1,116 @@
+<TextBlock 1 w:50 h:4>
+Maison
+"Ben detto, Padroncino!<New>
+Questo vecchio vi
+seguirà fin negli
+abissi dell'inferno!"<Close><End of Block>
+<TextBlock 2 w:56 h:4>
+Macchinista
+"Il motore principale e gli
+oscillatori degli alettoni
+sono prevalentemente illesi…<New>
+… ma le connessioni elettriche
+che li collegano sono andate.<New>
+Stiamo dirottando le connessioni
+principali e stiamo cercando di
+raccogliere tutte le energie
+che possiamo.<New>
+Ma così, otterremo al massimo
+solo il 70% della nostra
+potenza massima.<New>
+I trapani di propulsione non
+sono danneggiati, ma se la
+sabbia non sarà ridotta in
+granuli, potrebbero anch'essi
+subire dei danni.<New>
+A malapena… riusciremo ad avere
+una velocità di battaglia di
+livello 3…"<Close><End of Block>
+<TextBlock 3 w:52 h:3>
+Sigurd
+"È rimasto in silenzio
+dalla prima richiesta
+di resa."<Close><End of Block>
+<TextBlock 4 w:30 h:2>
+Sigurd
+"Padroncino!"<Close><End of Block>
+<TextBlock 5 w:54 h:3>
+Sigurd
+"Pare proprio sia così…<New>
+Forse hanno dei motivi
+politici che concernono
+Margie o il Padroncino…"<Close><End of Block>
+<TextBlock 6 w:56 h:4>
+Macchinista
+"Padroncino… le connessioni
+d'emergenza sono complete.
+Usate il motore come volete."<Close><End of Block>
+<TextBlock 7 w:20 h:4>
+Bart
+"… Cosa? 
+Chi sei…?"<Close><End of Block>
+<TextBlock 8 w:42 h:3>
+Bart
+"Circondati, eh?
+A che punto sono
+le riparazioni?"<Close><End of Block>
+<TextBlock 9 w:46 h:4>
+Bart
+"Sig! Cos'ha da dire
+'Mister Pugniverso'
+di Geburah?"<Close><End of Block>
+<TextBlock 10 w:46 h:4>
+Bart
+"…
+Tutto il personale alle
+stazioni di battaglia.<New>
+Lo sfondamento è
+pianificato dopo
+che i connettori
+saranno a posto."<Close><End of Block>
+<TextBlock 11 w:54 h:3>
+Bart
+"Sig! Ascolta!<New>
+Arrendersi non cambierà
+il destino di Nisan.<New>
+Perderemo l'Yggdrasil,
+l'essenza del nostro
+potere…<New>
+… quel potere che ci
+serve per salvare Aveh
+e Margie.<New>
+So che la situazione è
+pessima, ma puoi ancora
+contare su di noi!"<Close><End of Block>
+<TextBlock 12 w:54 h:3>
+Bart
+"Scusami, Vecchio Maison,
+ma io non morirò oggi!!<New>
+Inoltre, non sembra che
+ci colpiranno."<Close><End of Block>
+<TextBlock 13 w:52 h:4>
+Bart
+"Probabilmente
+è così, Sig!<New>
+Ma si stanno
+dimenticando una
+cosa…<Delay 10> Cioè che…<New>
+… catturare un animale
+vivo è più difficile
+che catturarne uno morto!"<Close><End of Block>
+<TextBlock 14 w:42 h:2>
+Bart
+"Grazie!!<New>
+Bene, andiamo a…<Delay 20>
+spaccare in due
+quegli idioti!!"<Close><End of Block>
+<TextBlock 15 w:38 h:2>
+Bart
+"Che cosa è successo?"<Close><End of Block>
+<TextBlock 16 w:46 h:2>
+Bart
+"Sta venendo…<Delay 20> qui?"<Close><End of Block>
+<TextBlock 17 w:30 h:1>
+Sei forte?<Close><End of Block>
+<TextBlock 18 w:54 h:1>
+Ti ho chiesto: 'Sei forte?'!<Close><Close><End of Block>

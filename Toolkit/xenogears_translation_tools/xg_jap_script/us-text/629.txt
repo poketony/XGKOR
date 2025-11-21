@@ -1,0 +1,44 @@
+#### 1 ####
+Sigurd
+"Young master! Depth
+charges will be dropped!
+Please stand back!"
+
+#### 2 ####
+Kelvena
+"Enough already!
+Dominia!
+Retreat!"
+
+#### 3 ####
+Dominia
+"Come on Elhaym!{wait:1E}
+Show me your
+true self!!"{clear:28}
+
+#### 4 ####
+Dominia
+"Hyah!
+That was nothing.
+Come on, come on!"
+
+#### 5 ####
+Dominia
+"Tch!
+I was so close.{enter}
+But...{wait:0A}don't think I'll
+be leaving empty-handed,
+now!"
+
+#### 6 ####
+Elly
+"Wh, what!?"
+
+#### 7 ####
+Elly
+"Aaaaaahhhhhh!"{clear:1E}
+
+#### 8 ####
+Fei
+"Elly!?"
+

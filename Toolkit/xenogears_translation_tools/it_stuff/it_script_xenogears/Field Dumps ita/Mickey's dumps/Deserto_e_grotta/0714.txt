@@ -1,0 +1,87 @@
+<TextBlock 1 w:50 h:3>
+Fei
+"Uh, umm…<Delay 30>
+Cos'era tutto quel
+casino?"<Close><End of Block>
+<TextBlock 2 w:50 h:3>
+Fei
+"Che avete, ragazzi?<New>
+Non state esagerando per
+il piccolo furto di una
+moto…?"<Close><End of Block>
+<TextBlock 3 w:16 h:2>
+Fei
+"Ah…!"<Close><End of Block>
+<TextBlock 4 w:32 h:3>
+Fei
+"Doc!<Delay 10>
+Stai bene?"<Close><End of Block>
+<TextBlock 5 w:24 h:3>
+Fei
+"Presto a fare
+che cosa…?"<Close><End of Block>
+<TextBlock 6 w:38 h:2>
+Fei
+"… Va bene."<Close><End of Block>
+<TextBlock 7 w:40 h:4>
+Fei
+"<Delay 10>…<Delay 40> Io sto bene<Delay 10>…<Delay 30>
+Comunque il Gear
+sembra danneggiato<Delay 10>…"<Close><End of Block>
+<TextBlock 8 w:10 h:2>
+Fei
+"…"<Close><End of Block>
+<TextBlock 9 w:40 h:3>
+Shitan
+"Fei!<Delay 5> Ti ho cercato
+dappertutto."<Close><End of Block>
+<TextBlock 10 w:38 h:2>
+Shitan
+"Sì, naturalmente…"<Close><End of Block>
+<TextBlock 11 w:3 h:1>
+!<Close><End of Block>
+<TextBlock 12 w:42 h:3>
+Shitan
+"Sembra che non abbiamo
+il tempo per parlare."<Close><End of Block>
+<TextBlock 13 w:26 h:2>
+Shitan
+"Fei, presto!"<Close><End of Block>
+<TextBlock 14 w:52 h:4>
+Shitan
+"Non posso usare <Weltall>
+molto bene. Solo tu puoi
+usarlo a piena potenza…<New>
+Presto! Sali a bordo!"<Close><End of Block>
+<TextBlock 15 w:36 h:3>
+Shitan
+"Fei!
+Stai bene!?"<Close><End of Block>
+<TextBlock 16 w:12 h:2>
+Shitan
+"Fei!"<Close><End of Block>
+<TextBlock 17 w:54 h:4>
+Shitan
+"Sono contento che tu
+sia illeso.<New>
+Il Gear ha ricevuto solo
+riparazioni provvisorie.<New>
+Non sono fatte per
+reggere ad una battaglia
+autentica come quella."<Close><End of Block>
+<TextBlock 18 w:12 h:2>
+Shitan
+"Fei?"<Close><End of Block>
+<TextBlock 19 w:36 h:4>
+Shitan
+"Oh no!
+L'esercito di Aveh!
+Non ora…!"<Close><End of Block>
+<TextBlock 20 w:46 h:4>
+Shitan
+"Fei, penso che
+dovremmo restare calmi<Delay 15>…<Delay 15>
+<Delay 15>…<Delay 40>?"<Close><End of Block>
+<TextBlock 21 w:12 h:2>
+Shitan
+"Fei?"<Close><End of Block>

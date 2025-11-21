@@ -1,0 +1,46 @@
+<TextBlock 1 w:32 h:3>
+Quand'è che potrò
+lasciare questo
+buco di posto!?<Close><End of Block>
+<TextBlock 2 w:44 h:2>
+Principe Bartolomeo,
+abbia cura di mio padre.<Close><End of Block>
+<TextBlock 3 w:42 h:5>
+Anche se la guerra è
+finita, quel vecchio
+idiota ancora pensa
+a tutti quegli sporchi
+affari…<Close><End of Block>
+<TextBlock 4 w:34 h:4>
+Ehi, mia sorella si
+sposerà presto con
+uno chiamato Vanderkam.<Close><End of Block>
+<TextBlock 5 w:34 h:4>
+Ehi, mia sorella si
+sposerà presto con
+uno chiamato Bartolomeo.<Close><End of Block>
+<TextBlock 6 w:40 h:3>
+Stupida! 
+Perché dovrei farlo?
+Io con quel vecchio
+idiota?<New>
+Non vorrei mai essere
+usata come uno strumento
+per gli schifosi affari di
+quel vecchio schifoso!<Close><End of Block>
+<TextBlock 7 w:40 h:3>
+Stupida! 
+Perché dovrei farlo?
+Io con quel vecchio
+idiota?<New>
+Non vorrei mai essere
+usata come uno strumento
+per gli schifosi affari di
+quel vecchio schifoso!<Close><End of Block>
+<TextBlock 8 w:50 h:3>
+Ahh…<Delay 50>
+Personalmente, non ho
+nulla contro di lei…<New>
+Solo che odio fare
+quello che mio padre
+dice.<Close><Close><End of Block>

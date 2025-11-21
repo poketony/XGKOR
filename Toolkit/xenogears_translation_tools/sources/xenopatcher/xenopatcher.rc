@@ -1,0 +1,325 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Italiano (Italia) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ITA)
+#ifdef _WIN32
+LANGUAGE LANG_ITALIAN, SUBLANG_ITALIAN
+#pragma code_page(1252)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ITA)\r\n"
+    "LANGUAGE 16, 1\r\n"
+    "#pragma code_page(1252)\r\n"
+    "#include ""res\\xenopatcher.rc2""  // risorse non Microsoft Visual C++ modificate\r\n"
+    "#include ""afxres.rc""         // Componenti standard\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON                    "res\\xenopatcher.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ABOUTBOX DIALOGEX 0, 0, 227, 225
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | 
+    WS_SYSMENU
+CAPTION "Informazioni su xenopatcher"
+FONT 8, "MS Shell Dlg", 0, 0, 0x1
+BEGIN
+    LTEXT           "xenopatcher v1.3",IDC_STATIC,84,162,58,8,SS_NOPREFIX
+    LTEXT           " 2005",IDC_STATIC,104,188,19,8
+    DEFPUSHBUTTON   "OK",IDOK,88,202,50,16,WS_GROUP
+    CONTROL         144,IDC_STATIC,"Static",SS_BITMAP | SS_SUNKEN,7,7,215,
+                    149
+END
+
+IDD_XENOPATCHER_DIALOG DIALOGEX 0, 0, 282, 340
+STYLE DS_SETFONT | DS_MODALFRAME | DS_3DLOOK | DS_FIXEDSYS | WS_POPUP | 
+    WS_VISIBLE | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_CONTEXTHELP | WS_EX_APPWINDOW
+CAPTION "xenopatcher"
+MENU IDR_MENU1
+FONT 8, "MS Shell Dlg", 0, 0, 0x1
+BEGIN
+    EDITTEXT        IDC_EDISO,36,193,221,12,ES_AUTOHSCROLL | ES_READONLY
+    EDITTEXT        IDC_EDPATCH,36,220,222,12,ES_AUTOHSCROLL | ES_READONLY
+    LTEXT           "Bin/Img:",IDC_STATIC,7,196,26,10
+    LTEXT           "Patch:",IDC_STATIC,7,222,21,12
+    PUSHBUTTON      "...",IDC_BROWSEISO,262,196,13,10
+    PUSHBUTTON      "...",IDC_BROWSEPATCH,262,222,13,10
+    COMBOBOX        IDC_CMBVOICE,36,244,67,13,CBS_DROPDOWN | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    LTEXT           "Voci:",IDC_STATIC,7,246,15,8
+    DEFPUSHBUTTON   "Applica Patch",IDC_BTAPPLY,109,314,64,18
+    CONTROL         "",IDC_PROGRESSBAR,"msctls_progress32",WS_BORDER,14,286,
+                    253,16
+    EDITTEXT        IDC_EDSTATUS,14,270,251,12,ES_AUTOHSCROLL | ES_READONLY | 
+                    NOT WS_BORDER
+    GROUPBOX        "",IDC_STATIC,7,263,268,46
+    CONTROL         147,IDC_STATIC,"Static",SS_BITMAP | SS_SUNKEN | 
+                    WS_BORDER,7,7,269,156
+    COMBOBOX        IDC_CMBCOMM,139,244,73,13,CBS_DROPDOWN | CBS_SORT | 
+                    WS_VSCROLL | WS_TABSTOP
+    LTEXT           "Comandi:",IDC_STATIC,107,246,30,8
+    CONTROL         "Crea backup",IDC_CHBACKUP,"Button",BS_AUTOCHECKBOX | 
+                    BS_MULTILINE | WS_TABSTOP,211,242,54,16
+    CTEXT           "Per la traduzione dei filmati consultare il file leggimi",
+                    IDC_STDISC,7,164,268,14,WS_BORDER
+    LTEXT           "",IDC_STEGG,257,332,18,8
+END
+
+IDD_DISC DIALOGEX 0, 0, 279, 201
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | 
+    WS_SYSMENU
+EXSTYLE WS_EX_TOOLWINDOW
+CAPTION "Disclaimer"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,222,180,50,14
+    EDITTEXT        IDC_EDDISC,7,7,265,171,ES_MULTILINE | ES_AUTOHSCROLL | 
+                    ES_READONLY | ES_WANTRETURN
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "041004e4"
+        BEGIN
+            VALUE "CompanyName", "TODO: <Nome società>"
+            VALUE "FileDescription", "TODO: <Descrizione file>"
+            VALUE "FileVersion", "1.0.0.1"
+            VALUE "InternalName", "xenopatcher.exe"
+            VALUE "LegalCopyright", "TODO: (c) <Nome società>. Tutti i diritti riservati."
+            VALUE "OriginalFilename", "xenopatcher.exe"
+            VALUE "[ProductName]", "TODO: <Nome prodotto>"
+            VALUE "ProductVersion", "1.0.0.1"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Conversione", 0x410, 1252
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO 
+BEGIN
+    IDD_ABOUTBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 220
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 218
+    END
+
+    IDD_XENOPATCHER_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 275
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 332
+    END
+
+    IDD_DISC, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 272
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 194
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog Info
+//
+
+IDD_XENOPATCHER_DIALOG DLGINIT
+BEGIN
+    IDC_CMBVOICE, 0x403, 10, 0
+0x6d41, 0x7265, 0x6369, 0x6e61, 0x0065, 
+    IDC_CMBVOICE, 0x403, 11, 0
+0x6947, 0x7061, 0x6f70, 0x656e, 0x6973, "\000" 
+    IDC_CMBCOMM, 0x403, 10, 0
+0x6d41, 0x7265, 0x6369, 0x6e61, 0x0069, 
+    IDC_CMBCOMM, 0x403, 11, 0
+0x6947, 0x7061, 0x6f70, 0x656e, 0x6973, "\000" 
+    0
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Accelerator
+//
+
+IDR_ACCELL ACCELERATORS 
+BEGIN
+    VK_RETURN,      ID_RETURN,              VIRTKEY, NOINVERT
+    VK_ESCAPE,      ID_ESCAPE,              VIRTKEY, NOINVERT
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_KRELIAN             BITMAP                  "res\\krelian.bmp"
+IDB_LOGO                BITMAP                  "res\\bitmap1.bmp"
+IDB_LOGO2               BITMAP                  "res\\xenologo.bmp"
+IDB_LOGOB               BITMAP                  "res\\xenologo2.bmp"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_MENU1 MENU 
+BEGIN
+    POPUP "&File"
+    BEGIN
+        MENUITEM "&Esci",                       ID_FILE_ESCI
+    END
+    POPUP "&?"
+    BEGIN
+        MENUITEM "Informa&zioni su Xenopatcher...", 
+                                                ID__INFORMAZIONISUXENOPATCHER
+
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE 
+BEGIN
+    IDS_ABOUTBOX            "&Informazioni su xenopatcher..."
+    IDS_DISC                "Attenzione\r\nTrallalà\r\nciao"
+END
+
+STRINGTABLE 
+BEGIN
+    IDS_STRING139           "-SadNES cITy- www.sadnescity.it (chop)"
+END
+
+STRINGTABLE 
+BEGIN
+    IDC_EDISO               "Inserire qui il percorso del file immagine del cd a cui applicare la patch. O clicca sul pulsante a fianco per selezionare direttamente il file."
+    IDC_EDPATCH             "Inserire qui il percorso della patch da applicare. O clicca sul pulsante a fianco per selezionare direttamente il file."
+END
+
+STRINGTABLE 
+BEGIN
+    IDC_CMBVOICE            "Scegli se vuoi che le voci dei personaggi siano in Giapponese o in Inglese."
+    IDC_CMBCOMM             "Scegli se preferisci i comandi alla giapponese o alla americana."
+    IDC_CHBACKUP            "Seleziona per creare una copia di backup dell'immagine del cd."
+    IDC_STDISC              "Il file leggimi contiene informazioni essenziali per l'utilizzo della patch.\r\nConsulta quello prima se dovessi avere dei problemi."
+    IDC_STEGG               "www.sadnescity.it"
+END
+
+#endif    // Italiano (Italia) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ITA)
+LANGUAGE 16, 1
+#pragma code_page(1252)
+#include "res\xenopatcher.rc2"  // risorse non Microsoft Visual C++ modificate
+#include "afxres.rc"         // Componenti standard
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

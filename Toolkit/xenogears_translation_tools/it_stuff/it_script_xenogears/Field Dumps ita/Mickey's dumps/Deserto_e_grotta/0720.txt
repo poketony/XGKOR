@@ -1,0 +1,8 @@
+<TextBlock 1 w:46 h:2>
+Shitan
+"Fiuh, c'è mancato
+poco."<Close><End of Block>
+<TextBlock 2 w:46 h:2>
+Shitan
+"Fiuh, c'è mancato
+poco."<Close><Close><End of Block>

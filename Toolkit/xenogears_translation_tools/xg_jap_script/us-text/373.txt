@@ -1,0 +1,86 @@
+#### 1 ####
+Fei
+"Isn't there another way to
+go down to the hangar?"
+
+#### 2 ####
+Fei
+"I don't care.{wait:14}
+We can't waste time here
+anyway."
+
+#### 3 ####
+Fei
+"Fine!{wait:14}
+Then, let's go!"
+
+#### 4 ####
+Citan
+"You are right.{wait:14}
+It is not like the enemy
+is going to wait for us."
+
+#### 5 ####
+Elly
+"You're right.{wait:14}
+They won't wait for us."
+
+#### 6 ####
+Bart
+"That's right!{wait:14}
+They won't wait for us."
+
+#### 7 ####
+Rico
+"That's right.{wait:14}
+They won't wait for us."
+
+#### 8 ####
+Billy
+"That's right.{wait:14}
+They won't wait for us."
+
+#### 9 ####
+Emeralda
+"...{wait:14}
+We're wasting time."
+
+#### 10 ####
+{name:07:チュチュ}
+"That's right!{wait:14} Chu go out
+there and chu blow them
+away as quickly as we can.{enter}
+That's the best way chu
+do it!"
+
+#### 11 ####
+Maria
+"It's no use!{wait:14}
+The defensive shutter is
+closed..."
+
+#### 12 ####
+Maria
+"We may be able to go
+down if we use the 
+emergency shaft. {enter}
+But it's not normally
+used..."
+
+#### 13 ####
+Maria
+"I see.{wait:14}
+The entrance to the shaft
+is just above here."
+
+#### 14 ####
+Maria
+"This is it.{wait:14}
+We can go down by entering
+the shaft from here."
+
+#### 15 ####
+Do you want to go up?
+    Yes
+    No
+

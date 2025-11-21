@@ -1,0 +1,121 @@
+*******************
+** Xenoiso v0.93 **
+*******************
+
+|=Novità=| (0.93)
+
+-Aggiunta la possibilità di scegliere se usare il fix per i file del cd2
+
+|=Novità=| (0.92)
+
+-Aggiunto il fix per i file del cd2
+-Aggiunta creazione di un log 
+
+|=Novità=| (0.9)
+
+-Aggiunto il supporto delle directory nel file dei comandi
+
+|=Novità=| (0.85)
+ ¯¯¯¯¯¯¯¯
+-Inserito il supporto per il secondo CD
+-Corretto un bug che impediva l'inserimento di più file per volta
+-Piccola modifica al formato del file di testo da passare come parametro
+
+
+|=Descrizione=|
+ ¯¯¯¯¯¯¯¯¯¯¯¯¯
+Questo programma permette di inserire file di qualunque dimensione nel file immagine dei cd di xenogears.
+Il programma accetta come parametro un file TXT nel quale sono elencati i file da sostituire. Il formato di questo file è spiegato più dettagliatamente in seguito.
+
+Il file immagine deve avere 2352 byte per settore e può essere creato con programmi come cdrwin, clonecd, ecc.
+Al momento è possibile sostituire qualunque file con l'esclusione dei filmati, poichè i video utilizzano un formato dei settori diverso dagli altri file.
+
+Durante l'esecuzione vengono completamente ricreati i campi EDC/ECC e gli header di ogni settore. 
+
+
+|=Utlizzo=|
+ ¯¯¯¯¯¯¯¯¯
+Per utilizzare questo programma digitare da una console di windows:
+ xenoiso <command_file>
+
+Dove command_file è un file di testo così strutturato:
+
+[cd1|cd2|cd2fix]
+iso_originale
+iso_modificata
+numero_file1, nome_file1
+numero_file2, nome_file2
+...
+
+La prima riga indica se si vuole lavorare sulla iso del primo o del secondo cd. La modalità cd2fix permette di inserire i file estratti dal cd1 nella posizione corretta all'interno del cd2. (La posizione in cui inserire il file è data dal nome del file - 5 in modo da compensare il diverso numero di filmati contenuti nei due cd)
+La seconda è il nome della iso originale
+La terza è il nome della nuova iso che verrà creata dal programma.
+Le righe seguenti contengono il numero e il nome del file da sostituire.
+
+Ad esempio utilizzando come parametro un file di testo così strutturato:
+
+cd1
+xeno1.bin
+xenop.bin
+616,0616p.tim
+
+Verrà creato un file 'xenop.bin' a partire dal file originale del cd1 'xeno1.bin' in cui il file numero 616 è stato sostituito dal file '0616p.tim'
+
+E' importante non lasciare spazi o linee vuote all'interno del file di testo. In caso contrario non è garantito il corretto funzionamento.
+
+Dalla versione 0.9 è possibile inserire nei comandi una o più directory anzichè singoli file.
+In questo modo verranno inseriti tutti i file contenuti nella directory specificata ricavando la posizione dal loro nome.
+Per inserire una directory scrivere nel file dei comandi:
+
+-1, path_completo
+
+-1		è necessario per indicare al programma che si vuole inserire una intera directory
+path_completo 	è il percorso completo della directory
+
+esempio:
+
+-1, c:\dir1\subdir2
+
+Inserisce tutti i file contenuti nella sottodirectory subdir2
+
+Ovviamente è possibile inserire più di una directory, anche alternando con file singoli
+
+esempio:
+cd1
+xeno1.bin
+xenop.bin
+614,0614p
+-1,c:\romhack\xeno\dir
+616,0616
+-1,c:\romhack\xeno\dir1
+-1,c:\romhack\xeno\dir2
+
+La posizione del file viene ricavata dal nome. L'estrazione del numero dal nome del file viene interrotta quando si incontra una carattere non numerico.
+
+Esempio:
+
+nome file	numero
+100		100
+0100		100
+100.dat		100
+0100.dat	100
+1a120.txt	1
+
+In modalità cd2fix la posizione del file viene calcolata togliendo 5 al valore ottenuto.
+
+Esempio:
+
+nome file	numero
+100		95
+0100		95
+100.dat		95
+0100.dat	95
+1a120.txt	-4 (!) <--In questo caso si verificherebbe un errore!!!
+
+In questo modo è possibile inserire i file estratti dal cd1 nel cd2 compensando automaticamente lo sfasamento dovuto al differente numero di filmati.
+
+|=About=|
+ ¯¯¯¯¯¯¯
+XenoIso v0.93
+by Chop
+www.sadnescity.it

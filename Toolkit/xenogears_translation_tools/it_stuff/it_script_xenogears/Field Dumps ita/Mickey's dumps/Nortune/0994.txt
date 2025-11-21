@@ -1,0 +1,175 @@
+<TextBlock 1 w:50 h:5>
+Guardia Imperiale
+"Più avanti c'è l'entrata
+settentrionale del blocco
+A, ma è stata chiusa per
+lavori."<Close><End of Block>
+<TextBlock 2 w:44 h:4>
+Guardia Imperiale
+"In ogni caso, ci sono
+altre tre entrate. A
+ovest, a nord e a sud.<New>
+Potete usare una
+di queste."<Close><End of Block>
+<TextBlock 3 w:44 h:4>
+Guardia Imperiale
+"Il sole è tramontato.<New>
+È troppo pericoloso
+là fuori, quindi non
+posso farvi uscire
+dalla capitale."<Close><End of Block>
+<TextBlock 4 w:38 h:4>
+Guardia Imperiale
+"Mi dispiace, ma è
+il mio lavoro.<Delay 15>
+Cercate di capire<Delay 5>…"<Close><End of Block>
+<TextBlock 5 w:44 h:4>
+Guardia Imperiale
+"Il sole è tramontato.<New>
+È troppo pericoloso 
+là fuori, quindi non
+posso farvi uscire
+dalla capitale."<Close><End of Block>
+<TextBlock 6 w:38 h:4>
+Guardia Imperiale
+"Mi dispiace, ma è
+il mio lavoro.<Delay 15>
+Cercate di capire<Delay 5>…"<Close><End of Block>
+<TextBlock 7 w:48 h:4>
+Guardia Imperiale
+"Il sole è tramontato.<Delay 15>
+Solo chi è autorizzato
+può passare.<New>
+Per favore, mostratemi
+i vostri lasciapassare."<Close><End of Block>
+<TextBlock 8 w:42 h:4>
+Guardia Imperiale
+"Mi spiace,<Delay 5>
+Ma non importa che
+tu sia il campione.<New>
+È vietato il transito
+non autorizzato.<Delay 15>
+Per favore,
+non insistere<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 9 w:44 h:4>
+Guardia Imperiale
+"Il sole è tramontato.<New>
+Sono spiacente, ma il
+transito attraverso
+questa entrata non
+è più possibile."<Close><End of Block>
+<TextBlock 10 w:48 h:5>
+Guardia Imperiale
+"Al tramonto del sole,
+l'entrata settentrionale
+e quella meridionale
+vengono chiuse.<New>
+Il transito è permesso
+solo attraverso la
+porta occidentale."<Close><End of Block>
+<TextBlock 11 w:44 h:4>
+Guardia Imperiale
+"Il sole è tramontato.<New>
+Sono spiacente, ma il
+transito attraverso
+questa entrata non
+è più possibile."<Close><End of Block>
+<TextBlock 12 w:48 h:5>
+Guardia Imperiale
+"Al tramonto del sole,
+l'entrata settentrionale
+e quella meridionale
+vengono chiuse.<New>
+Il transito è permesso
+solo attraverso la
+porta occidentale."<Close><End of Block>
+<TextBlock 13 w:46 h:5>
+Guardia Imperiale
+"Il Campione!<Delay 15> Ero
+davvero sgomento quando
+ti ho visto batterti<Delay 15>
+per il titolo.<New>
+Per favore, perdona la
+mia passata scortesia.<New>
+La strada che va da
+nord a sud ti porterà
+fuori dalla capitale.<New>
+Al centro c'è il
+Distretto Centrale e
+a sudovest il Blocco
+Imperiale A."<Close><End of Block>
+<TextBlock 14 w:48 h:4>
+Guardia Imperiale
+"Oltre questo punto,<Delay 5> i
+prigionieri di guerra
+non possono andare<Delay 5>…<Delay 5><New>
+Puoi andare solo nella
+arena di combattimento."<Close><End of Block>
+<TextBlock 15 w:40 h:4>
+Guardia Imperiale
+"Questo è un
+avvertimento.<Delay 5><New>
+Fintanto che avrai
+quella bomba intorno
+al collo, un passo
+oltre questo punto…<New>
+… sarà l'ultima cosa
+che farai.<Delay 15>
+Se non vuoi morire,
+stanne lontano."<Close><End of Block>
+<TextBlock 16 w:46 h:5>
+Guardia Imperiale
+"Il Campione!<Delay 15> Ero
+davvero sgomentato
+quando ti ho visto
+batterti<Delay 15> per il titolo.<New>
+Per favore, perdona la
+mia passata scortesia.<New>
+La strada che va da
+nord a sud ti porterà
+fuori dalla capitale.<New>
+Al centro c'è il
+Distretto Centrale e
+a sudovest il Blocco
+Imperiale A."<Close><End of Block>
+<TextBlock 17 w:48 h:4>
+Guardia Imperiale
+"Oltre questo punto,<Delay 5> i
+prigionieri di guerra
+non possono andare<Delay 5>…<Delay 5> <New>
+Puoi andare solo nella
+arena di combattimento."<Close><End of Block>
+<TextBlock 18 w:48 h:4>
+Guardia Imperiale
+"Questo è un
+avvertimento.<Delay 5><New>
+Fintanto che avrai
+quella bomba intorno
+al collo, un passo
+oltre questo punto…<New>
+… sarà l'ultima cosa
+che farai. <Delay 15>
+Se non vuoi morire, sta'
+lontano da esso."<Close><End of Block>
+<TextBlock 19 w:30 h:1>
+<Opcode 1 255>Mappa del Mondo<Close><End of Block>
+<TextBlock 20 w:30 h:1>
+<Opcode 1 255>Mappa del Mondo<Close><End of Block>
+<TextBlock 21 w:54 h:2>
+<Opcode 1 255>    Centro di Detenzione
+Capitale Imperiale Blocco D<Close><End of Block>
+<TextBlock 22 w:54 h:2>
+<Opcode 1 255>Capitale Imperiale Blocco C
+       Svago e Arena<Close><End of Block>
+<TextBlock 23 w:56 h:2>
+<Opcode 1 255>     Distretto Centrale
+Kislev - Governo del Kaiser<Close><End of Block>
+<TextBlock 24 w:46 h:2>
+<Opcode 1 255>   Capitale Imperiale
+Blocco A - Entrata Nord<Close><End of Block>
+<TextBlock 25 w:42 h:2>
+<Opcode 1 255>     Capitale Imperiale
+Blocco A - Entrata Frontale<Close><End of Block>
+<TextBlock 26 w:48 h:2>
+<Opcode 1 255>   Capitale Imperiale
+Blocco A - Entrata Ovest<Close><End of Block>

@@ -1,0 +1,15 @@
+#### 1 ####
+Don't rabble-rouse here...{wait:0A}
+Just work,{wait:0A} eat,{wait:0A} and sleep.{wait:0A}
+Just keep doin' that, and
+you'll live...{enter}
+If anyone complains, 
+our entire unit will
+be punished too.{wait:0A}{enter}
+Which means, we all get
+'rearranged'.{wait:0A}
+You'll never come back.
+
+#### 2 ####
+
+

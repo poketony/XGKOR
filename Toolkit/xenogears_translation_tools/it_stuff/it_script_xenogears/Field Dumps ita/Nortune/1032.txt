@@ -1,0 +1,1816 @@
+<TextBlock 1 w:56 h:4>
+Fei
+"Potrei riposare qui<Delay 5>…"<Delay 15>
+    Riposa!
+    Non ancora.<Close><End of Block>
+<TextBlock 2 w:54 h:4>
+Fei
+"… Ehi, ora non importa
+più la classe!
+Quale letto uso?"<New>
+    Letto Classe A
+    Letto Classe B
+    Letto Classe C
+    Letto Classe D<Close><End of Block>
+<TextBlock 3 w:56 h:4>
+Fei
+"Potrei riposare qui<Delay 5>…"<Delay 15>
+    Riposa!
+    Non ancora.<Close><End of Block>
+<TextBlock 4 w:46 h:2>
+Fei
+"Ecco qui il letto
+di Classe A!"<Close><End of Block>
+<TextBlock 5 w:46 h:2>
+Fei
+"Ecco qui il letto
+di Classe B!"<Close><End of Block>
+<TextBlock 6 w:46 h:2>
+Fei
+"Ecco qui il letto
+di Classe C!"<Close><End of Block>
+<TextBlock 7 w:46 h:2>
+Fei
+"Ecco qui il letto
+di Classe C!"<Close><End of Block>
+<TextBlock 8 w:46 h:2>
+Fei
+"Ecco qui il letto
+di Classe D!"<Close><End of Block>
+<TextBlock 9 w:40 h:2>
+Fei
+"<Delay 5>…<Delay 5> Do… dove sono?"<Space 1><Opcode 2 60><Close><End of Block>
+<TextBlock 10 w:46 h:4>
+Fei
+"<Delay 5>…<Delay 5>…<Delay 5>…<Delay 5> Ok.<Delay 30>
+Farò quello che volete!"<Close><End of Block>
+<TextBlock 11 w:56 h:4>
+Fei
+"Eh? <Delay 5>… <Delay 5>
+Sta scendendo qualcuno.<Delay 10>
+<Delay 5>…<Delay 5> Credo che sia Hammer."<Close><End of Block>
+<TextBlock 12 w:48 h:4>
+Shitan
+"Non abbiamo così tanto
+tempo da perdere!<Delay 15>
+Dobbiamo sbrigarci<Delay 5>…"<Close><End of Block>
+<TextBlock 13 w:56 h:4>
+Hammer
+"Come stai, o frate!?
+Tutto questo andirivieni
+mi sta ammazzando!!<New>
+So che è un po'
+strano, ma…<New>
+… che ne dici di accattare
+qualcosa, eh?"<Delay 15>
+    Non ora, Hammer!
+    D'accordo, Hammer!!<Close><End of Block>
+<TextBlock 14 w:56 h:4>
+Hammer
+"Allora<Delay 5>…<Delay 5> forse non oggi,
+ma c'è sempre un domani!<Delay 15><New>
+La prossima volta accatta
+qualcosa, ah!"<Close><End of Block>
+<TextBlock 15 w:40 h:4>
+Hammer
+"Sì, tu sì che sei
+u me frate!!<Delay 10><New>
+Compare, sei troppo
+gentile! Grazie
+assai!"<Close><End of Block>
+<TextBlock 16 w:48 h:4>
+Hammer
+"Che ti serve, o frate?"<Delay 15>
+    Oggetti di Hammer
+    Accessori di Hammer<Close><End of Block>
+<TextBlock 17 w:54 h:4>
+Hammer
+"Grazie, o frate, ma…<New>
+… che ne dici di
+accattare qualcos'altro,
+oltre agli oggetti?<New>
+Anche accattare accessori
+aiuterà Hammer!<New>
+Allora, che ne dici?"<Delay 30>
+<Opcode 1 255>    E basta!
+    Oggetti di Hammer
+    Accessori di Hammer<Close><End of Block>
+<TextBlock 18 w:50 h:4>
+Hammer
+"Grazie ancora, o frate!<Delay 15><New>
+Cavolo,<Delay 5> finché sto con
+te,<Delay 5> non avrò problemi
+di soldi, eh!"<Close><End of Block>
+<TextBlock 19 w:54 h:4>
+Hammer
+"Grazie, o frate, ma…<New>
+… che ne dici di
+accattare qualcos'altro,
+oltre agli accessori?<New>
+Anche accattare oggetti
+aiuterà Hammer!<New>
+Allora, che ne dici?"<Delay 30>
+<Opcode 1 255>    E basta!
+    Oggetti di Hammer
+    Accessori di Hammer<Close><End of Block>
+<TextBlock 20 w:50 h:4>
+Hammer
+"Grazie ancora, o frate!<Delay 15><New>
+Cavolo,<Delay 5> finché sto con
+te,<Delay 5> non avrò problemi
+di soldi, eh!"<Close><End of Block>
+<TextBlock 21 w:54 h:4>
+Hammer
+"Si è aperta la porta!<Delay 15>
+Pare che il nuovo dottore
+fosse nella camera accanto!"<Opcode 2 100><Close><End of Block>
+<TextBlock 22 w:50 h:4>
+Hammer
+"Beh<Delay 5>…<Delay 20> se è così, andrò
+subito a registrarti!"<Close><End of Block>
+<TextBlock 23 w:54 h:4>
+Dottoressa
+"Come ti senti? Se devi
+riposare, puoi sempre dormire
+nella camera accanto!"<Close><End of Block>
+<TextBlock 24 w:66 h:3>
+Dottoressa
+"Non la 'Cerimonia di Battesimo'!
+Questo paziente s'è appena
+svegliato!<New>
+È impensabile che vogliate
+fargli fare così all'improvviso
+la 'Cerimonia di Battesimo'!!!"<Close><End of Block>
+<TextBlock 25 w:48 h:4>
+Dottoressa
+"Mi dispiace così tanto…!<Delay 10>
+Non posso andare contro
+i Combattenti!<Delay 5> Ti prego
+di perdonarmi…"<Opcode 2 65><Close><End of Block>
+<TextBlock 26 w:56 h:5>
+La dottoressa Diana
+"Yuu-uuh! Come va? Come ho
+sempre pensato, la cosa che
+porta più felicità è avere
+sempre molto lavoro da fare!<New>
+Continuerò a fare del mio
+meglio… e anche tu continua
+a combattere come sai fare!
+Come ho promesso a Nortune<Delay 5>…<Delay 5>
+questo è quello che farò!"<Close><End of Block>
+<TextBlock 27 w:56 h:5>
+Suzarn
+"Oh, siamo arrivati
+al momento giusto!<New>
+Il Principe Azzurro
+si è svegliato<Delay 30>…!<New>
+Potrebbe sembrare una
+cosa improvvisa, ma
+devi venire con noi!"<Close><End of Block>
+<TextBlock 28 w:58 h:4>
+Suzarn
+"Non hai altra scelta!<Delay 15><New>
+Se ti metti contro di
+noi, anche la bella
+dottoressa sarà nei
+guai!"<Close><End of Block>
+<TextBlock 29 w:52 h:4>
+Suzarn
+"Oh, sei un ragazzo proprio
+ragionevole! Così ci
+eviterai un po' di problemi!<New>
+Comunque, vieni con noi, il
+'Campione' ti sta aspettando!
+Non preoccuparti! Ti faremo
+tornare qui molto presto."<Close><End of Block>
+<TextBlock 30 w:36 h:2>
+Suzarn
+"Spicciati<Delay 5>…"<Opcode 2 45><Close><End of Block>
+<TextBlock 31 w:38 h:2>
+Suzarn
+"A-van-ti ma-rch!"<Opcode 2 45><Close><End of Block>
+<TextBlock 32 w:52 h:4>
+Vargas
+"E piantala! Aspetta un
+attimo, cazzo!<New>
+Hanno gettato questo tipo
+qui perché è un criminale,
+non è così?<New>
+Dovresti ringraziarci
+per essere stati gentili…<New>
+… ed averlo fatto riposare
+per qualche fottutissimo
+giorno!"<Close><End of Block>
+<TextBlock 33 w:58 h:4>
+Heinrich
+"Sì, è vero!<Delay 15> Visto che è
+arrivato qui come criminale,
+deve seguire la nostra legge!"<Close><End of Block>
+<TextBlock 34 w:56 h:5>
+Leonardo
+"<Delay 5>…<Delay 5> È proprio così!<New>
+Perciò ora, senza bisogno
+di altre discussioni, lo
+prenderemo in prestito per
+un po'.<New>
+Non ti preoccupare, te lo
+riporteremo tra pochissimo!
+Vale a dire… dopo che ci
+saremo presi cura di lui!"<Close><End of Block>
+<TextBlock 35 w:54 h:4>
+Shitan
+"<Delay 5>…<Delay 5> Sei proprio sicuro di
+volerlo fare, Fei?<New>
+Non vuoi prima rifletterci
+molto accuratamente?<Delay 30>
+Lo dico solo per
+esserne certo<Delay 20>…!<New>
+Anche se puoi fidarti
+di me<Delay 5>…<Delay 10>
+Almeno lo spero…!"<Close><End of Block>
+<TextBlock 36 w:56 h:4>
+Shitan
+"Cosa sta succedendo qui!?
+Questo è un luogo dove
+ci si riposa!<Delay 15><New>
+Potresti essere un po'
+più silenzioso<Delay 5>…<Delay 5>!"<Close><End of Block>
+<TextBlock 37 w:34 h:3>
+Rico
+"<Delay 5>…<Delay 5> Era tanto che non ci
+si vedeva, eh, ragazzo!"<Close><End of Block>
+<TextBlock 38 w:48 h:4>
+Rico
+"Sto per andare a vedere
+cosa sta succedendo nelle
+fogne.<New>
+E lo sto facendo per i
+miei uomini…<Delay 30>
+Ho detto tutto quello che
+dovevo dire<Delay 5>…"<Close><End of Block>
+<TextBlock 39 w:44 h:4>
+Rico
+"Vuoi venire con me,
+eh? Puoi farlo, a me
+non importa.<New>
+Ma dovrai essere tu a
+badare a te stesso.<New>
+Puoi scordarti che io
+ti aiuti e ti salvi
+il culo!"<Close><End of Block>
+<TextBlock 40 w:56 h:4>
+Rico
+"<Delay 5>… Anche il dottore?<New>
+Non mi prendo nessuna
+responsabilità, se vi
+succede qualcosa<Delay 5>…!"<Close><End of Block>
+<TextBlock 41 w:56 h:4>
+Shitan
+"<Delay 5>…<New>
+(Finalmente, oggi è
+l'ultimo giorno dei
+Giochi… la finale…<Delay 30>!<New>
+Ricorda cosa ti ha
+insegnato tu-sai-chi!)"<Close><End of Block>
+<TextBlock 42 w:56 h:4>
+Shitan
+"(Prosegui per la tua
+strada<Delay 5>…<Delay 20> Io devo restare
+qui, ma pregherò perché
+tu combatta bene!)"<Close><End of Block>
+<TextBlock 43 w:50 h:4>
+Shitan
+"<Delay 5>…<Delay 30>
+(Stai facendo bene, Fei.
+Ora va' a letto e riposa!)"<Close><End of Block>
+<TextBlock 44 w:54 h:4>
+Shitan
+"(I Giochi non sono ancora
+finiti, perciò prova a
+riposarti, prima delle
+gare di domani.)" <Close><End of Block>
+<TextBlock 45 w:54 h:4>
+Shitan
+"<Delay 5>…<New>
+(Per il momento, io sono
+il dottore e tu sei un
+prigioniero<Delay 15>…<New>
+Dovremmo dividerci ed
+agire separatamente!)"<Close><End of Block>
+<TextBlock 46 w:54 h:3>
+Shitan
+"Oh, ciao, Fei! Sei
+già totalmente sveglio<Delay 5>…<Delay 5>?"<Close><End of Block>
+<TextBlock 47 w:56 h:1>
+UUUAAAAAAAAAARRRGGGHHH---!!!<Close><End of Block>
+<TextBlock 48 w:10 h:2>
+Shitan
+"<Delay 5>…<Delay 5>…<Delay 5>…"<Close><End of Block>
+<TextBlock 49 w:56 h:2>
+Fei
+"<Delay 5>…<Delay 5>…<Delay 5>…<New>
+(È immerso nei suoi
+pensieri<Delay 5>…<Delay 15> dubito
+mi abbia sentito.)"<Close><End of Block>
+<TextBlock 50 w:54 h:4>
+Shitan
+"Fei! Dove te ne stai
+andando? Non abbiamo
+ancora finito di parlare!"<Close><End of Block>
+<TextBlock 51 w:48 h:4>
+Shitan
+"Fei! Prima di andare a
+letto, finiamo questa
+discussione!"<Close><End of Block>
+<TextBlock 52 w:36 h:1>
+<Delay 5>…<Delay 5> RATTLE! RATTLE!<Opcode 2 30><Close><End of Block>
+<TextBlock 53 w:34 h:4>
+Shitan
+"Mmh<Delay 5>…<Delay 15> È più<Delay 5>…<Delay 20>
+difficile di quanto<Delay 5>…<Delay 20>
+pensassi!"<Close><End of Block>
+<TextBlock 54 w:60 h:1>
+<Delay 5>…<Delay 5> CLATTER! CLATTER!<Delay 5>…<Delay 5> CLANG!<Space 1><Opcode 2 50><Close><End of Block>
+<TextBlock 55 w:36 h:3>
+Fei
+"Uuuh<Delay 5>…<Delay 10> Aaah<Delay 5>…<Delay 10>
+Ah<Delay 5>…<Delay 10> Uuuugh<Delay 5>…"<Opcode 2 240><Close><End of Block>
+<TextBlock 56 w:38 h:4>
+Fei
+"<Delay 5>…<Delay 5>…<Delay 5>…<Delay 30>
+Dove sono<Delay 5>…<Delay 15>?
+Oh, l'infermeria?"<Close><End of Block>
+<TextBlock 57 w:46 h:4>
+Fei
+"Doc<Delay 5>…<Delay 15>
+Che mi è successo<Delay 5>…?<Delay 15>
+Com'è che sono qui<Delay 5>…?"<Close><End of Block>
+<TextBlock 58 w:52 h:4>
+Shitan
+"Durante l'incontro di
+Battagliare<Delay 15>…<New>
+All'improvviso c'è stata
+un'esplosione<Delay 5>…<Delay 5> ricordi?"<Close><End of Block>
+<TextBlock 59 w:46 h:4>
+Fei
+"<Delay 5>…<Delay 5> Giusto<Delay 5>…<Delay 5>
+Per quell'esplosione<Delay 5>…<Delay 5>
+sono svenuto!?"<Close><End of Block>
+<TextBlock 60 w:52 h:4>
+Shitan
+"Essa è stata molto ampia,
+ma fortunatamente il tuo
+Gear era <Weltall><Delay 5>…!<New>
+Avessi usato un qualsiasi
+altro Gear<Delay 5>…<Delay 5> Non voglio
+nemmeno pensarci<Delay 35>…<New>
+Comunque, sei salvo, ed è
+questa la cosa importante!"<Close><End of Block>
+<TextBlock 61 w:38 h:3>
+Fei
+"Grazie a<Delay 5>…<Delay 30>
+<Weltall>,<Delay 5> eh?"<Close><End of Block>
+<TextBlock 62 w:38 h:4>
+Fei
+"<Delay 5>…<Delay 5> Doc.
+Quanti giorni
+sono passati?"<Close><End of Block>
+<TextBlock 63 w:48 h:3>
+Shitan
+"Soltanto uno, Fei.<New>
+Le tue lesioni erano
+relativamente di minore
+importanza, perciò<Delay 5>…"<Close><End of Block>
+<TextBlock 64 w:32 h:3>
+Fei
+"Solo un giorno<Delay 5>…<Delay 15>
+<Delay 5>…<Delay 5>…<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 65 w:42 h:3>
+Shitan
+"Che cosa c'è, Fei<Delay 5>…<Delay 5>?"<Close><End of Block>
+<TextBlock 66 w:56 h:4>
+Fei
+"Ho avuto un sogno
+orribile<Delay 5>…<Delay 10><New>
+Non riesco a ricordarlo,
+ma<Delay 5>…<Delay 5> so soltanto che
+era orribile<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 67 w:26 h:2>
+Shitan
+"Un sogno…?"<Close><End of Block>
+<TextBlock 68 w:56 h:3>
+Fei
+"… Non era nulla, credo.
+Non preoccuparti, Doc."<Close><End of Block>
+<TextBlock 69 w:10 h:2>
+Shitan
+"<Delay 5>…<Delay 5>…<Delay 5>…"<Close><End of Block>
+<TextBlock 70 w:48 h:3>
+Fei
+"Doc, devo tornare alle
+gare di Battagliare.<New>
+Voglio togliermi di dosso
+questo collare esplosivo
+il prima possibile."<Close><End of Block>
+<TextBlock 71 w:50 h:4>
+Shitan
+"Fei, e la tua salute?<Delay 15>
+Non voglio che tu ti
+sforzi troppo<Delay 5>…"<Close><End of Block>
+<TextBlock 72 w:56 h:4>
+Fei
+"È inutile che parli così.<New>
+Il tempo non si ferma ad
+aspettare!
+Non posso rimanere a non
+fare nulla<Delay 5>…"<Close><End of Block>
+<TextBlock 73 w:56 h:4>
+Shitan
+"<Delay 5>…<Delay 5> Suppongo tu abbia
+ragione. Capisco ciò
+che intendi, Fei.<New>
+Dobbiamo cercare di
+andarcene da qui non
+appena possibile."<Close><End of Block>
+<TextBlock 74 w:54 h:4>
+Shitan
+"Ma non voglio che tu debba
+chiedere troppo alle tue
+forze, questo sia chiaro!<New>
+Prenditi un altro po' di
+tempo per riposare…"<Close><End of Block>
+<TextBlock 75 w:50 h:4>
+Fei
+"Sei tu il dottore<Delay 5>…<Delay 5> Doc!<Delay 15>
+Cercherò<Delay 5>…<Delay 5> di riposare<Delay 5>…
+un altro<Delay 5>…<Delay 5> po'<Delay 5>…"<Opcode 2 45><Close><End of Block>
+<TextBlock 76 w:50 h:3>
+Fei
+"Ehi, tu sei<Delay 5>…<Delay 15> Rico!?<Delay 15>
+Che ci fai qui?"<Close><End of Block>
+<TextBlock 77 w:42 h:4>
+Rico
+"Calmati, ragazzo!<Delay 15>
+Non sono venuto qui per
+combattere contro di te<Delay 5>…"<Close><End of Block>
+<TextBlock 78 w:52 h:4>
+Fei
+"E allora per quale
+motivo sei venuto qui?<Delay 15><New>
+Che altra ragione
+potresti avere?"<Close><End of Block>
+<TextBlock 79 w:50 h:4>
+Shitan
+"Ah, ma sei tu, Fei!
+E<Delay 10>…<Delay 5> il Campione di
+Battagliare?"<Close><End of Block>
+<TextBlock 80 w:52 h:4>
+Shitan
+"Per quale motivo uno come
+te viene negli alloggi
+dei prigionieri?<New>
+Ci dev'essere una ragione
+particolare… per la quale
+ci stai onorando con la
+tua presenza, dico bene?"<Close><End of Block>
+<TextBlock 81 w:54 h:4>
+Rico
+"Sì, dici bene.<New>
+<Delay 5>…<Delay 5> Sono venuto a causa
+di quell'incidente…<New>
+… l'esplosione durante il
+primo round della lotta
+di Battagliare."<Close><End of Block>
+<TextBlock 82 w:48 h:4>
+Fei
+"Esplosione?<Delay 15> <Delay 5>…<Delay 5> Oh, vuoi
+dire quello che è
+successo l'altro giorno!"<Close><End of Block>
+<TextBlock 83 w:56 h:4>
+Shitan
+"L'incidente dal quale Fei
+è stato colpito durante
+quella gara?<New>
+Cos'ha a che fare con te?"<Close><End of Block>
+<TextBlock 84 w:50 h:4>
+Rico
+"<Delay 5>…<Delay 5> Scusami.<New>
+Quell' 'incidente' è
+stato causato dai miei
+subordinati!<New>
+Dopo l'esito della
+'Cerimonia di Battesimo',
+sembra che ai miei uomini
+tu non piaccia molto<Delay 5>…"<Close><End of Block>
+<TextBlock 85 w:52 h:4>
+Shitan
+"Perciò hanno fatto in
+modo che sembrasse un
+incidente, ma in realtà…<New>
+… lo scopo era uccidere
+Fei<Delay 5>…<Delay 15>
+Ma perché dircelo ora?<New>
+Hanno vuotato il sacco e
+confessato i crimini che
+hanno commesso?"<Close><End of Block>
+<TextBlock 86 w:56 h:4>
+Rico
+"… Non sono più tra noi!<New>
+Tu sei il dottore, non sai
+cosa è successo?<Delay 20><New>
+Quello che sta succedendo
+qui, nel Blocco D della
+Capitale Imperiale?"<Close><End of Block>
+<TextBlock 87 w:50 h:4>
+Shitan
+"Intendi la serie di
+misteriosi omicidi
+avvenuti nelle fogne!?"<Close><End of Block>
+<TextBlock 88 w:54 h:4>
+Rico
+"<Delay 5>…<Delay 5> Sì.<Delay 20> Sono stati uccisi
+diversi Combattenti uno
+dopo l'altro!<New>
+Tutte le vittime erano
+miei dipendenti<Delay 5>…"<Close><End of Block>
+<TextBlock 89 w:50 h:3>
+Rico
+"Ragazzo<Delay 5>…<Delay 5>
+Voglio dire, Fei<Delay 5>…!<New>
+Questi erano proprio le
+persone che avevano
+preparato la trappola
+per ucciderti!"<Close><End of Block>
+<TextBlock 90 w:52 h:4>
+Fei
+"Ma allora cosa stai
+cercando di dire?<New>
+Che le loro morti sono
+in qualche modo connesse
+a me!?"<Close><End of Block>
+<TextBlock 91 w:54 h:4>
+Shitan
+"Vediamo<Delay 15>…<New>
+I Combattenti uccisi
+avevano teso una
+trappola a Fei per
+cercare di ucciderlo<Delay 5>…<New>
+Quando Fei ne viene a
+conoscenza, ha le sue
+buone ragioni per uccidere
+i suoi attentatori<Delay 5>…<New>
+Fuori di sé per l'odio nei
+confronti dei suoi quasi
+assassini, ordisce una
+vendetta contro di loro.<New>
+E diventa così un
+assassino!"<Close><End of Block>
+<TextBlock 92 w:34 h:3>
+Fei
+"<Delay 5>…<Delay 5> La gente crede che
+l'assassino sia io?"<Close><End of Block>
+<TextBlock 93 w:54 h:4>
+Rico
+"Esatto!<Delay 30> Stamattina c'è
+stata ancora un'altra
+vittima… la quinta!<New>
+Non è insolito che della
+gente muoia nelle fogne.
+Se t'indebolisci, muori<Delay 5>…<Delay 5>
+è così che funziona!<New>
+Ma sono stati uccisi 5
+Combattenti di seguito!<Delay 15><New>
+Il fatto che sia una cosa
+senza precedenti fa cadere
+sospetti su di te.<New>
+Dire che io non abbia
+sospetti su di te sarebbe
+mentire, ma penso anche
+che tu non sia colpevole.<New>
+L'unica cosa che può
+provare la tua innocenza…<New>
+… è se c'è un fondo di
+verità nella storia
+che si racconta…<New>
+La storia di un mostro
+nelle fogne, abbastanza
+forte da uccidere ben
+cinque Combattenti!"<Close><End of Block>
+<TextBlock 94 w:54 h:3>
+Fei
+"Aspetta! Fammi<Delay 5>…<Delay 5>
+Fammi venire con te!<New>
+Voglio dimostrarti che
+io sono innocente!"<Close><End of Block>
+<TextBlock 95 w:54 h:4>
+Shitan
+"È compito di Fei provare
+di avere subito delle
+accuse fallaci<Delay 5>…<New>
+<Delay 5>… Credo proprio che non
+ci sia altra alternativa.<New>
+Vi prego,<Delay 30> lasciate che io
+vi accompagni a risolvere
+questo caso di omicidi
+nelle fogne!!"<Close><End of Block>
+<TextBlock 96 w:50 h:4>
+Shitan
+"Ehi,<Delay 5> Fei.<Delay 5> Adesso sei del
+tutto pronto?<Delay 15> Poi non
+potremo tornare indietro!"<Close><End of Block>
+<TextBlock 97 w:52 h:4>
+Fei
+"Beh, io, ehm…"
+    Ho ancora da fare!
+    Sono pronto, Doc!<Close><End of Block>
+<TextBlock 98 w:48 h:4>
+Shitan
+"<Delay 5>…<Delay 5> Davvero?<Delay 15>
+Beh, sbrigati!<Delay 5>
+Il tempo è denaro!"<Close><End of Block>
+<TextBlock 99 w:56 h:4>
+Shitan
+"<Delay 5>…<Delay 5> C'è ancora un po' di
+tempo, prima che il
+treno venga<Delay 20>…<New>
+Riposiamo un po' qui!"<Close><End of Block>
+<TextBlock 100 w:54 h:4>
+Dottoressa
+"La vita qui è dura, ma
+prima sarebbe meglio se
+incontrassi Hammer!<New>
+Hammer è un 'fornitore'
+di cose e d'informazioni.
+Lui può sembrare strano,
+ma è buono dentro.<New>
+Probabilmente sarà nel
+bar, perciò sarebbe meglio
+se prima controllassi lì.
+Sono sicuro che lui ti
+aiuterà!"<Close><End of Block>
+<TextBlock 101 w:54 h:4>
+Dottoressa
+"Oh, ho dimenticato di
+dirtelo! Dovresti andare
+a ringraziare Hammer.<New>
+È lui che ti ha portato
+qui, portandoti da quella
+viottola in cui eri svenuto!<New>
+Hammer è il 'fornitore'
+locale di cose e di
+informazioni.<New>
+Probabilmente sarà nel
+bar, perciò sarebbe meglio
+se prima controllassi lì!"<Close><End of Block>
+<TextBlock 102 w:54 h:4>
+Dottoressa
+"Oh, ho dimenticato di
+dirtelo! Dovresti andare
+a ringraziare Hammer.<New>
+È lui che ti ha portato
+qui, portandoti da quella
+viottola in cui eri svenuto!<New>
+Hammer è il 'fornitore'
+locale di cose e di
+informazioni.<New>
+Probabilmente sarà nel
+bar, perciò sarebbe meglio
+se prima controllassi lì!"<Close><End of Block>
+<TextBlock 103 w:54 h:4>
+Dottoressa
+"Oh, ho dimenticato di
+dirtelo! Dovresti andare
+a ringraziare Hammer.<New>
+È lui che ti ha portato
+qui, portandoti da quella
+viottola in cui eri svenuto!<New>
+Hammer è il 'fornitore'
+locale di cose e di
+informazioni.<New>
+Probabilmente sarà nel
+bar, perciò sarebbe meglio
+se prima controllassi lì!"<Close><End of Block>
+<TextBlock 104 w:54 h:4>
+Dottoressa
+"Oh, ho dimenticato di
+dirtelo! Dovresti andare
+a ringraziare Hammer.<New>
+È lui che ti ha portato
+qui, portandoti da quella
+viottola in cui eri svenuto!<New>
+Hammer è il 'fornitore'
+locale di cose e di
+informazioni.<New>
+Probabilmente sarà nel
+bar, perciò sarebbe meglio
+se prima controllassi lì!"<Close><End of Block>
+<TextBlock 105 w:60 h:4>
+Bene, finalmente ti sei
+svegliato!<Delay 15> <Delay 5>…<Delay 5> Sei rimasto
+privo di sensi per quattro
+giorni, perciò avevo iniziato
+a pensare al peggio.<Close><End of Block>
+<TextBlock 106 w:46 h:4>
+Fei
+"<Delay 5>…<Delay 5> Chi sei tu?<Delay 30>
+E dove sono io?<Delay 15> Come
+ci sono arrivato qui<Delay 5>…<Delay 5>?"<Close><End of Block>
+<TextBlock 107 w:22 h:3>
+Fei
+"Ah,<Delay 15> uuuuh<Delay 5>…<Delay 5>!"<Close><End of Block>
+<TextBlock 108 w:54 h:3>
+Hai appena ripreso conoscenza,
+perciò non sforzarti troppo!<New>
+Io sono una dottoressa.<Delay 30>
+E tu sei a Nortune, la Capitale
+Imperiale di Kislev.<New>
+Questa è l'area di detenzione
+per i criminali<Delay 5>…<Delay 5> comunemente
+conosciuta come 'Blocco D'.<Close><End of Block>
+<TextBlock 109 w:44 h:3>
+Fei
+"Area di detenzione per<Delay 5>…
+<Delay 5>…<Delay 5> i criminali?"<Close><End of Block>
+<TextBlock 110 w:58 h:4>
+Dottoressa
+"Ora sei negli alloggi
+per prigioneri, sempre
+nel Blocco D…<New>
+Giudicando dal modo con il
+quale sei stato portato qui,
+sotto il pesante controllo
+dell'esercito di Kislev, non
+sei un criminale normale…!"<Close><End of Block>
+<TextBlock 111 w:14 h:2>
+Dottoressa
+"Eh!?"<Close><End of Block>
+<TextBlock 112 w:44 h:3>
+Fei
+"Uuuf<Delay 5>…<Delay 5>?<Delay 25>
+Questa volta dove sono?"<Close><End of Block>
+<TextBlock 113 w:58 h:4>
+Dottoressa
+"… Sei nello stesso posto,
+solo in una stanza diversa!
+È stata una dura giornata,
+vero?"<Close><End of Block>
+<TextBlock 114 w:54 h:4>
+Fei
+"Ah! <Delay 5>…<Delay 5> Oh, sei tu?<Delay 20><New>
+Sembra che io abbia avuto
+ancora bisogno del tuo
+aiuto, eh<Delay 5>…?"<Close><End of Block>
+<TextBlock 115 w:50 h:4>
+Dottoressa
+"Sì, ma non preoccuparti.
+Non mi dà mica fastidio…
+Questo è il mio lavoro!<Delay 30>
+Comunque… come ti senti?"<Close><End of Block>
+<TextBlock 116 w:56 h:4>
+Fei
+"Mh? <Delay 5>Aaah<Delay 5>…<Delay 20>
+Mi fa ancora un po' male,
+ma nulla di che<Delay 5>…<New>
+Ultimamente ci sto facendo
+l'abitudine<Delay 10>… Aah<Delay 5>…!<New>
+L'ultima cosa che ricordo
+sono quei tizi… parlavano
+di quale 'Classe' meritavo
+secondo loro…"<Close><End of Block>
+<TextBlock 117 w:42 h:4>
+Dottoressa
+"Oh…<Delay 15>
+Credo sia meglio che
+te lo dica<Delay 5>…"<Close><End of Block>
+<TextBlock 118 w:50 h:3>
+Fei
+"Dire cosa? Sai
+qual è la mia classe?"<Close><End of Block>
+<TextBlock 119 w:56 h:5>
+Dottoressa
+"Sei proprio forte, vero!?
+Per sconfiggere quattro
+persone nelle tue condizioni…
+Non mi meraviglio che ti
+abbiano dato la Classe A!<New>
+Ma mettersi addirittura contro
+il Campione…? È incredibile
+che tu sia tornato vivo!"<Close><End of Block>
+<TextBlock 120 w:54 h:4>
+Fei
+"Quel combattimento era
+senza senso.<Delay 30> Non avevo
+motivo di combattere<Delay 5>…<Delay 5><New>
+E neanche lo volevo<Delay 5>…"<Close><End of Block>
+<TextBlock 121 w:42 h:3>
+Dottoressa
+"<Delay 5>…<Delay 5> Cos'è successo?<Delay 10>
+Sei un po' pallido."<Close><End of Block>
+<TextBlock 122 w:54 h:4>
+Fei
+"Non è nulla. Non ti
+preoccupare.<New>
+…<Delay 10> A proposito, cos'è
+'sto coso che ho
+sul collo?"<Close><End of Block>
+<TextBlock 123 w:62 h:4>
+Dottoressa
+"Sono rimasta sorpresa! Sei
+di Classe B! Hanno detto che
+hai sconfitto tre persone… per
+giunta nelle tue condizioni…!"<Close><End of Block>
+<TextBlock 124 w:56 h:4>
+Fei
+"Sì, ne ho battuti tre.
+Ma sono rimasto senza
+energie per la quarta."<Close><End of Block>
+<TextBlock 125 w:56 h:3>
+Dottoressa
+"Ma è comunque incredibile!<New>
+Mi fa chiedere… come sarebbe
+andata se prima della
+'Cerimonia' fossi stato
+al pieno delle tue forze…"<Close><End of Block>
+<TextBlock 126 w:54 h:4>
+Fei
+"Mmh, me lo chiedo anch'io<Delay 20>…<New>
+<Delay 5>…<Delay 5> A proposito, cos'è
+'sto coso che ho
+sul collo?"<Close><End of Block>
+<TextBlock 127 w:56 h:5>
+Dottoressa
+"Credo che ti abbiano fatto
+prigioniero di Classe C.<Delay 15>
+Dubito che ti avrebbero
+dato di più, visto che hai
+battuto una o due persone."<Close><End of Block>
+<TextBlock 128 w:40 h:4>
+Fei
+"<Delay 5>…<Delay 5> Classe C?<Delay 20>
+Ah, credo che mi vada
+bene, più o meno."<Close><End of Block>
+<TextBlock 129 w:54 h:4>
+Dottoressa
+"Non devi abbassare la
+testa! Non sopravviverai
+mai qui, se mantieni
+questo atteggiamento!"<Close><End of Block>
+<TextBlock 130 w:54 h:4>
+Fei
+"<Delay 5>…<Delay 5> Sopravvivere qui?<Delay 20>
+…<Delay 5> Eh?<New>
+<Delay 5>…<Delay 5> A proposito, cos'è
+'sto coso che ho
+sul collo?"<Close><End of Block>
+<TextBlock 131 w:54 h:5>
+Dottoressa
+"Credi che ti abbiano
+conferito la Classe C.
+Ma, considerando le tue
+condizioni, sei stato
+grande anche a battere
+un solo avversario!"<Close><End of Block>
+<TextBlock 132 w:50 h:4>
+Fei
+"<Delay 5>…<Delay 5> Classe C?<Delay 20>
+Posso farti una domanda?<Delay 10><New>
+La Classe è davvero
+così importante?"<Close><End of Block>
+<TextBlock 133 w:56 h:4>
+Dottoressa
+"La maggior parte della
+gente di qui pensa che
+'più forte è meglio', ma<Delay 5>…<Delay 5>
+Beh<Delay 5>…<New>
+La Classe ti permette di
+elevarti dal vivere come
+un normale cittadino. Se
+la cosa per te è importante,
+allora anche la Classe lo è!"<Close><End of Block>
+<TextBlock 134 w:54 h:4>
+Fei
+"Capisco<Delay 5>…<Delay 15>
+<Delay 5>…<Delay 5> A proposito, cos'è
+'sto coso che ho
+sul collo?"<Close><End of Block>
+<TextBlock 135 w:54 h:4>
+Dottoressa
+"<Delay 5>…<Delay 5> Sei di Classe D.<Delay 20> Ma è
+comprensibile, considerando
+la tua condizione di salute.<New>
+Tanto per cominciare, è la
+stessa idea del 'Battesimo'
+ad essere assurda!"<Close><End of Block>
+<TextBlock 136 w:42 h:3>
+Fei
+"<Delay 5>…<Delay 5> Vuoi dire<Delay 5>…<Delay 5>
+che sono della
+Classe più bassa?"<Close><End of Block>
+<TextBlock 137 w:50 h:2>
+Dottoressa
+"Andando dritti
+al punto… sì!"<Close><End of Block>
+<TextBlock 138 w:54 h:4>
+Fei
+"Mmh<Delay 10>…<New>
+<Delay 5>…<Delay 5> A proposito, cos'è
+'sto coso che ho
+sul collo?"<Close><End of Block>
+<TextBlock 139 w:50 h:4>
+Dottoressa
+"Oh, quello?
+È una bomba…<New>
+Non appena vai troppo
+lontano dalla Capitale
+Imperiale, quel collare
+farà 'BOOM'!<New>
+È un peccato, e finché
+lo avrai addosso, non
+potrai mai scappare
+da Nortune.<New>
+Tutti devono indossare
+questi collari, a parte
+i civili che si trovano
+qui nel Blocco D e quelli
+del Blocco A…<New>
+Fa eccezione anche un
+piccolo gruppo di
+Combattenti scelti…"<Close><End of Block>
+<TextBlock 140 w:52 h:4>
+Dottoressa
+"<Delay 5>…<Delay 5> Qui nel Blocco D, 
+questa è l'unica catena
+che i prigionieri hanno
+addosso."<Close><End of Block>
+<TextBlock 141 w:52 h:4>
+Fei
+"Eh, una bomba?<Delay 30> Perciò non
+importa quanto ci provo,
+non scapperò mai da qui…"<Opcode 2 85><Close><End of Block>
+<TextBlock 142 w:56 h:5>
+Dottoressa
+"Comunque, oggi dovresti
+cercare di riposare.<Delay 15>
+Devi anche abituarti presto
+a vivere in questa città."<Opcode 2 85><Close><End of Block>
+<TextBlock 143 w:42 h:4>
+Fei
+"Mi dici che è arrivato
+un nuovo dottore, ma<Delay 5>…<Delay 15>
+qui non c'è nessuno!"<Close><End of Block>
+<TextBlock 144 w:46 h:4>
+Hammer
+"Eh? Che strano<Delay 5>…<Delay 5>
+Secondo le mie fonti,
+dovrebbe essere qui<Delay 5>…!"<Close><End of Block>
+<TextBlock 145 w:50 h:4>
+Fei
+"È un peccato che non
+sia qui, eh, Hammer!<New>
+Sembra che dovrai lasciar
+perdere quel mercato nero
+di medicine di cui<Delay 5>…"<Close><End of Block>
+<TextBlock 146 w:4 h:1>
+!!<Opcode 2 15><Close><End of Block>
+<TextBlock 147 w:4 h:1>
+!?<Opcode 2 15><Close><End of Block>
+<TextBlock 148 w:52 h:4>
+Fei
+"D… Do… Doc!?<Delay 5> Shitan?<Delay 5>
+Cosa stai facendo qui!?"<Close><End of Block>
+<TextBlock 149 w:56 h:4>
+Shitan
+"Ho intercettato le
+comunicazioni radio
+di Kislev<Delay 5>…<New>
+Li ho sentiti parlare
+circa un Gear che
+avevano recuperato
+e riportato a Kislev.<New>
+Questo Gear corrispondeva
+alla descrizione del
+tuo, ovvero <Weltall><Delay 5>…<New>
+Dicevano d'averlo
+trasportato nella
+loro capitale.<New>
+Così sono venuto qui,
+nella remota speranza di
+poter trovare anche te!"<Close><End of Block>
+<TextBlock 150 w:46 h:4>
+Hammer
+"Eh? O frate, non è
+che per caso canusci
+a 'sto dottore?"<Close><End of Block>
+<TextBlock 151 w:32 h:4>
+Shitan
+"Comunque, Fei,
+hai già iniziato
+a fare qualcosa?"<Close><End of Block>
+<TextBlock 152 w:42 h:4>
+Fei
+"… Fare qualcosa?
+Che cosa intendi,
+Doc?"<Close><End of Block>
+<TextBlock 153 w:50 h:3>
+Shitan
+"Non puoi rimanere qui
+per sempre, dico bene?<New>
+Non vuoi scappare?"<Close><End of Block>
+<TextBlock 154 w:18 h:2>
+Fei
+"Scappare?"<Close><End of Block>
+<TextBlock 155 w:54 h:4>
+Shitan
+"Fei! Non dirmi che vuoi
+passare il resto della
+tua vita qui!?<New>
+Non intenderai per
+caso rompere la
+tua promessa?"<Close><End of Block>
+<TextBlock 156 w:36 h:2>
+Fei
+"Che promessa<Delay 5>…?"<Close><End of Block>
+<TextBlock 157 w:52 h:4>
+Shitan
+"Diamine, Fei! Come hai
+potuto dimenticarti una
+cosa così importante?<New>
+Hai promesso a Bart che
+avresti protetto Margie
+e Nisan, se a lui fosse
+successo qualcosa!"<Close><End of Block>
+<TextBlock 158 w:46 h:3>
+Fei
+"Oh, quella?<Delay 5> È vero,
+l'ho promesso, giusto<Delay 5>…<Delay 5>!?<New>
+Ma<Delay 5>…<Delay 5> è successo qualcosa
+a Bart?"<Close><End of Block>
+<TextBlock 159 w:54 h:4>
+Shitan
+"Mi duole dirlo…<New>
+Ha coraggiosamente
+combattuto contro le
+nuove forze nemiche…<New>
+Ma è stato inutile!<New>
+L'Yggdrasil è stato
+gravemente danneggiato,
+ed è affondato nel mare
+di sabbia.<New>
+Poco prima che esso
+affondasse, sono
+balzato su una capsula
+di salvataggio…<New>
+… e mi sono staccato dalla
+nave, per evitare di essere
+trascinato sotto la sabbia.<New>
+Mi rincresce dirlo, ma da
+quel momento non ho potuto
+scoprire nulla su cos'è
+accaduto agli altri.<New>
+E, purtroppo, neanche sul
+luogo dove si trovano…"<Close><End of Block>
+<TextBlock 160 w:52 h:3>
+Fei
+"Chi l'avrebbe mai
+pensato… Cosa stavo
+facendo…?"<Close><End of Block>
+<TextBlock 161 w:40 h:3>
+Shitan
+"Santo cielo, Fei…
+Ma cosa è successo?"<Close><End of Block>
+<TextBlock 162 w:54 h:4>
+Fei
+"Ho perso<Delay 5>…<Delay 5> di nuovo
+la memoria<Delay 5>…<Delay 5> e la
+cognizione del tempo<Delay 5>…<New>
+Mentre combattevo con
+quello lì, Vanderkam,<Delay 5>
+lui,<Delay 5> Grahf,<Delay 5> è apparso<Delay 5>…<Delay 15><New>
+Poi mi sono reso conto
+della situazione in cui
+si trovavano Bart e la
+ciurma.<New>
+Gli altri che erano con
+me erano stati sconfitti
+da Vanderkam e dal suo
+enorme Gear<Delay 5>…<Delay 15><New>
+E dopo<Delay 5>…<New>
+E dopo<Delay 5>…<Delay 5> è stato ancora
+come a Lahan, in
+quello che era il
+nostro villaggio!<Delay 20><New>
+Quando mi sono svegliato,
+ero nel blocco prigionieri
+di Nortune<Delay 5>…"<Close><End of Block>
+<TextBlock 163 w:54 h:4>
+Fei
+"Doc, cos'è successo al
+gruppo che stava nella
+zona del confine?<New>
+Per quale motivo io sono
+qui, perché <Weltall> è
+stato riportato qui a
+Kislev<Delay 15>…?<New>
+Che senso ha tutto ciò?"<Close><End of Block>
+<TextBlock 164 w:50 h:4>
+Shitan
+"<Delay 5>…<Delay 5> Quella squadra di
+Gear è stata annientata!<New>
+C'erano anche i rottami
+di un enorme Gear<Delay 20>…<New>
+… Un tipo di Gear che
+non avevo mai visto
+prima!"<Close><End of Block>
+<TextBlock 165 w:10 h:2>
+Fei
+"<Delay 5>…<Delay 5>…<Delay 5>…"<Close><End of Block>
+<TextBlock 166 w:50 h:4>
+Shitan
+"Suvvia, Fei! Nessuno
+ti sta indicando
+come il responsabile!<New>
+Potrebbe essere stato
+causato da qualcun altro!"<Close><End of Block>
+<TextBlock 167 w:52 h:4>
+Fei
+"Va tutto bene, Doc.
+A poco a poco, sono
+arrivato a capirlo."<Close><End of Block>
+<TextBlock 168 w:44 h:4>
+Fei
+"Forse…<Delay 10>
+No<Delay 5>…<Delay 5> quasi di sicuro…<Delay 10>
+L'ho fatto ancora<Delay 5>…"<Close><End of Block>
+<TextBlock 169 w:24 h:2>
+Shitan
+"Oh, Fei<Delay 5>…"<Close><End of Block>
+<TextBlock 170 w:48 h:4>
+Fei
+"Manterrò la
+mia promessa<Delay 5>…<New>
+Altrimenti non potrei mai
+più guardare Bart in
+faccia<Delay 5>…<New>
+E lo dico perché so che
+Bart e gli altri sono
+vivi da qualche parte<Delay 5>…<Delay 10>
+Ne sono sicuro!"<Close><End of Block>
+<TextBlock 171 w:36 h:2>
+Shitan
+"Questo significa<Delay 5>…"<Close><End of Block>
+<TextBlock 172 w:52 h:4>
+Fei
+"Farò qualunque cosa serva
+per uscire di qui! Doc, tu
+mi aiuterai a farlo?"<Close><End of Block>
+<TextBlock 173 w:48 h:3>
+Shitan
+"Ovviamente.
+Sarà per me un
+enorme piacere!"<Close><End of Block>
+<TextBlock 174 w:44 h:4>
+Hammer
+"No, o frate,<Delay 5> lo dubito!<Delay 10>
+Pensare di scappare da
+qui è solo un sogno!"<Close><End of Block>
+<TextBlock 175 w:44 h:2>
+Shitan
+"Perché lo dici?"<Close><End of Block>
+<TextBlock 176 w:52 h:3>
+Hammer
+"Per colpa di 'sti cosi!
+Sono collari esplosivi!<New>
+Finché li indossiamo, non
+potremo mai mettere piede
+fuori da questo posto!"<Close><End of Block>
+<TextBlock 177 w:44 h:4>
+Shitan
+"Collari esplosivi<Delay 5>…?<Delay 15>
+Immagino rappresentino
+un pericolo, nevvero!?<New>
+Permettetemi di dar
+loro un'occhiata…"<Close><End of Block>
+<TextBlock 178 w:48 h:4>
+Shitan
+"<Delay 5>…<Delay 5> Vediamo<Delay 15>…<Delay 5> Mmmh<Delay 5>…<Delay 15>
+Bene bene<Delay 5>…<Delay 10> Ah, ha<Delay 5>…<Delay 20>
+Ohhh<Delay 5>…<Delay 5> Uumph<Delay 5>…"<Close><End of Block>
+<TextBlock 179 w:52 h:4>
+Shitan
+"Potremmo, e sottolineo il
+condizionale, far qualcosa
+per questi collari."<Close><End of Block>
+<TextBlock 180 w:50 h:4>
+Hammer
+"Da… davvero!?<Delay 20><New>
+…<Delay 5> Anche i meccanici si
+sono arresi, disperati,
+davanti a questi collari!"<Close><End of Block>
+<TextBlock 181 w:50 h:4>
+Fei
+"Doc è sempre stato bravo
+a giocherellare con le
+macchine.<New>
+Perciò credo che ci sia
+qualche speranza!"<Close><End of Block>
+<TextBlock 182 w:54 h:4>
+Hammer
+"Non so, o frate!
+Lasciamoli stare… Non
+importa quanto è bravo…<New>
+Un solo, minuscolo errore
+e… BOOM! BANG! Game
+over! Capisti, o frate!?"<Close><End of Block>
+<TextBlock 183 w:36 h:3>
+Fei
+"<Delay 5>…<Delay 5> Va tutto bene.
+Mi fido di Doc!"<Close><End of Block>
+<TextBlock 184 w:40 h:3>
+Shitan
+"<Delay 5>…<Delay 5> Bene allora,
+ci proviamo?"<Close><End of Block>
+<TextBlock 185 w:44 h:3>
+Fei
+"Allora<Delay 5>…"<New>
+    Prima riposiamoci!
+    Fallo ora, Doc!
+    Lascia perdere!<Close><End of Block>
+<TextBlock 186 w:50 h:5>
+Shitan
+"Sì, prima riposiamo
+un poco. Nel frattempo,
+pensaci attentamente!"<Close><End of Block>
+<TextBlock 187 w:52 h:4>
+Fei
+"<Delay 5>…<Delay 5> Sì, ora sono pronto
+a farlo.<New>
+Allora, c'è anche il
+rischio di rimanerci
+secchi, eh!"<Close><End of Block>
+<TextBlock 188 w:54 h:4>
+Shitan
+"… Posso capirlo.<New>
+Non c'è motivo per cui
+provare di già una cosa
+così pericolosa!<New>
+Non abbiamo ancora
+esaminato tutte le
+altre possibilità.<New>
+Potrebbe esserci un
+altro modo!"<Close><End of Block>
+<TextBlock 189 w:50 h:4>
+Hammer
+"O frate! Ti prego!
+Non farlo!<New>
+Diciamocelo chiaro,
+è troppo pericoloso!"<Close><End of Block>
+<TextBlock 190 w:34 h:4>
+Shitan
+"Allora, Fei, hai
+già deciso?"<Close><End of Block>
+<TextBlock 191 w:54 h:3>
+Fei
+"Sì, beh, ehm<Delay 5>…"<New>
+    Aspettiamo ancora!
+    Fallo ora, Doc!
+    Non farlo, Doc!<Close><End of Block>
+<TextBlock 192 w:54 h:4>
+Shitan
+"<Delay 5>…<Delay 5> Bene allora, quando
+sei pronto, dimmelo
+subito, va bene?"<Close><End of Block>
+<TextBlock 193 w:54 h:4>
+Fei
+"<Delay 5>…<Delay 5> Sì.
+Sono pronto quando lo
+sei tu, Doc!<New>
+Non si può più tornare
+indietro, ora, eh!"<Close><End of Block>
+<TextBlock 194 w:54 h:4>
+Shitan
+"<Delay 5>…<Delay 5> Posso capirlo.<New>
+Non c'è motivo per cui
+provare di già una cosa
+così pericolosa!<New>
+Non abbiamo ancora
+esaminato tutte le
+altre possibilità.<New>
+Potrebbe esserci un
+altro modo!"<Close><End of Block>
+<TextBlock 195 w:32 h:3>
+Shitan
+"Fei!!<Delay 15>
+Che cosa c'è!?"<Close><End of Block>
+<TextBlock 196 w:54 h:4>
+Fei
+"Errh,<Delay 10> aaah<Delay 5>…<Delay 5> Doc?<Delay 15>
+Che…<Delay 10> è successo?<Delay 10>
+Che<Delay 5> cosa<Delay 10> era quello?"<Close><End of Block>
+<TextBlock 197 w:54 h:4>
+Shitan
+"Mi hai fatto balzare
+il cuore in gola con
+quell'urlo.<Delay 20><New>
+Va tutto bene?<New>
+Comunque, ora sei
+assolutamente sicuro<Delay 15>…?<New>
+Se sì, inizierò a
+rimuovere i collari
+esplosivi<Delay 5>…"<Close><End of Block>
+<TextBlock 198 w:56 h:4>
+Fei
+"Non facciamolo!<Delay 15> Ho un
+brutto presentimento.<Delay 30>
+Scusami, Doc<Delay 5>…"<Close><End of Block>
+<TextBlock 199 w:54 h:4>
+Shitan
+"<Delay 5>…<Delay 5> Posso capirlo.<New>
+Non c'è motivo per cui
+provare di già una cosa
+così pericolosa!<New>
+Non abbiamo ancora
+esaminato tutte le
+altre possibilità.<New>
+Potrebbe esserci un
+altro modo!"<Close><End of Block>
+<TextBlock 200 w:50 h:4>
+Shitan
+"Bene…<New>
+Perciò, sei sicuro
+di voler andare
+fino in fondo<Delay 5>…"<Close><End of Block>
+<TextBlock 201 w:36 h:2>
+Hammer
+"<Delay 5>…<Delay 5> Oooo fraaaate!"<Close><End of Block>
+<TextBlock 202 w:26 h:4>
+Shitan
+"Bene allora<Delay 5>…<Delay 15>
+proviamoci<Delay 5>…"<Close><End of Block>
+<TextBlock 203 w:12 h:1>
+CLANK!<Close><End of Block>
+<TextBlock 204 w:28 h:3>
+Shitan
+"Ah!<Delay 10>
+Oops<Delay 5>…<Delay 5> Oh-oh!"<Close><End of Block>
+<TextBlock 205 w:52 h:4>
+Fei
+"Doc! Cos'era quel suono?
+<Delay 5>…<Delay 5> E<Delay 5>…<Delay 5> cos'è quella cosa<Space 1>
+dietro le tue spalle?"<Close><End of Block>
+<TextBlock 206 w:48 h:4>
+Shitan
+"Uh? Oh, ehm<Delay 5>…<Delay 5>
+Non è nulla, Fei.
+Ahahah, proprio nulla!"<Close><End of Block>
+<TextBlock 207 w:52 h:4>
+Hammer
+"Que…<Delay 10> que…<Delay 5> quel pezzo<Space 1>
+è<Delay 10>…<New>
+… il dispositivo di
+sicurezza del collare,
+vero!?"<Close><End of Block>
+<TextBlock 208 w:32 h:3>
+Shitan
+"<Delay 5>… Scu…<Delay 5> scusami.<Space 1>
+Ho fatto ciò che<Delay 5>…"<Close><End of Block>
+<TextBlock 209 w:56 h:4>
+Fei
+"Non preoccuparti,
+Doc.<New>
+Non importa se smonti
+una o due parti<Delay 5>…<New>
+In fondo, stiamo
+comunque per smontarlo
+tutto!"<Close><End of Block>
+<TextBlock 210 w:56 h:4>
+Shitan
+"<Delay 5>…<Delay 5> Ehmm, beh, Fei<Delay 15>…<New>
+Ciò che ho appena rimosso
+è il dispositivo di
+sicurezza della bomba<Delay 5>…"<Close><End of Block>
+<TextBlock 211 w:36 h:3>
+Fei
+"Dispositivo di
+sicurezza<Delay 5>…?<Delay 15>
+A cosa serve?"<Close><End of Block>
+<TextBlock 212 w:54 h:4>
+Hammer
+"Beh, o frate<Delay 5>…<Delay 15> a dirla
+semplice…<New>
+… il dispositivo di
+sicurezza di una bomba
+è ciò che le impedisce
+di esplodere.<New>
+Quando si toglie uno di
+questi dispostivi da una
+bomba<Delay 20>…<New>
+… vuol dire che questa
+può esplodere in
+qualsiasi momento!"<Close><End of Block>
+<TextBlock 213 w:10 h:2>
+Fei
+"<Delay 5>…<Delay 5>…<Delay 5>…"<Opcode 2 45><Close><End of Block>
+<TextBlock 214 w:42 h:4>
+Fei
+"Cazzo, ma in che
+situazione mi hai
+messo!?<Delay 15><New>
+Sbrigati a togliermi
+'sto coso di dosso,
+Doc!"<Close><End of Block>
+<TextBlock 215 w:54 h:4>
+Shitan
+"Ora che non c'è più il
+dispositivo di sicurezza…<New>
+… se combino un pasticcio
+mentre lo manometto<Delay 5>…<New>
+… sarà la fine per tutti
+noi! Non posso fare
+nient'altro, Fei!<New>
+<Delay 5>…<Delay 5> Mi dispiace così
+tanto!"<Close><End of Block>
+<TextBlock 216 w:54 h:4>
+Shitan
+"Sembra che queste bombe
+non esploderanno…<New>
+… se non a causa di
+un colpo fortissimo.<New>
+Quando si lavora sul loro
+interno sono delicate, ma
+sono estremamente buone ad
+'assorbire i colpi'<Delay 5>…<New>
+… come puoi capire dal
+fatto che persino i
+partecipanti ai Tornei di
+Battagliare li indossano."<Close><End of Block>
+<TextBlock 217 w:54 h:4>
+Fei
+"Ma… non m'importa
+quanti danni assorba…<New>
+… è comunque pericolosa
+in questo stato!?"<Close><End of Block>
+<TextBlock 218 w:34 h:4>
+Shitan
+"Questo è vero…<New>
+Se solo ci fosse
+qualcosa da poter fare,
+oltre ad una rischiosa
+manomissione!"<Close><End of Block>
+<TextBlock 219 w:54 h:4>
+Hammer
+"Scusami, dottore, ma<Delay 10>…<New>
+… ti dispiacerebbe darmi
+quel dispositivo di
+sicurezza?<New>
+Potrebbe fruttare un bel
+gruzzolo, se venduto ad
+un collezionista.<New>
+Ovviamente sarei ben
+disposto a pagarti
+per averlo!"<Close><End of Block>
+<TextBlock 220 w:46 h:4>
+Shitan
+"<Delay 5>…<Delay 5> Questa cosa? 
+Beh, non m'importa.<Delay 15>
+Cosa ne pensi, Fei?"<Close><End of Block>
+<TextBlock 221 w:50 h:4>
+Fei
+"Beh, per noi non è di
+nessun valore, giusto?
+<Delay 5>…<Delay 5> Daglielo, Doc!"<Close><End of Block>
+<TextBlock 222 w:30 h:3>
+Shitan
+"Va bene,
+ecco a te<Delay 5>…"<Close><End of Block>
+<TextBlock 223 w:50 h:3>
+Hammer
+"Eh-eh. Grazie, amico!
+Ora ti pago con questi…"<Close><End of Block>
+<TextBlock 224 w:30 h:1>
+Ricevuti 4000G!<Close><End of Block>
+<TextBlock 225 w:30 h:1>
+Ricevuti 3500G!<Close><End of Block>
+<TextBlock 226 w:30 h:1>
+Ricevuti 3000G!<Close><End of Block>
+<TextBlock 227 w:30 h:1>
+Ricevuti 2500G!<Close><End of Block>
+<TextBlock 228 w:30 h:1>
+Ricevuti 2000G!<Close><End of Block>
+<TextBlock 229 w:30 h:1>
+Ricevuti 1500G!<Close><End of Block>
+<TextBlock 230 w:30 h:1>
+Ricevuti 2000G!<Close><End of Block>
+<TextBlock 231 w:30 h:1>
+Ricevuti 1500G!<Close><End of Block>
+<TextBlock 232 w:30 h:1>
+Ricevuti 1000G!<Close><End of Block>
+<TextBlock 233 w:30 h:1>
+Ricevuti 1250G!<Close><End of Block>
+<TextBlock 234 w:52 h:3>
+Shitan
+"… Ma… rimane comunque
+il problema.<New>
+Se solo ci fosse un modo
+migliore di disfarsi di
+quel collare esplosivo<Delay 5>…<Delay 5>?"<Close><End of Block>
+<TextBlock 235 w:16 h:1>
+CL<Delay 15>…<Delay 5> ANK<Close><End of Block>
+<TextBlock 236 w:26 h:3>
+Shitan
+"Ah!<Delay 10>
+<Delay 5>…<Delay 5> Oh, cielo!"<Opcode 2 30><Close><End of Block>
+<TextBlock 237 w:52 h:2>
+Hammer
+"Que,<Delay 10> que,<Delay 10> quel pezzo è<Delay 5>…<Delay 5>!"<Opcode 2 45><Close><End of Block>
+<TextBlock 238 w:52 h:4>
+Hammer
+"Oh, me l'ero dimenticato!
+C'è un modo per farsi
+togliere quei collari<Delay 5>…<New>
+Devi vincere un 'Perdono
+Speciale' nei Giochi
+Imperiali, però<Delay 5>…"<Close><End of Block>
+<TextBlock 239 w:42 h:2>
+Shitan
+"Un 'Perdono Speciale'?"<Close><End of Block>
+<TextBlock 240 w:54 h:4>
+Hammer
+"Sì. Ogni anno si tengono
+i Giochi Imperiali di
+Battagliare.<New>
+Il Kaiser in persona li
+controlla, e concede la
+grazia al vincitore,
+annullando la sua pena.<New>
+Inoltre, si dà come bonus
+al vincitore un impiego
+come ufficiale militare!"<Close><End of Block>
+<TextBlock 241 w:56 h:4>
+Shitan
+"Bene, allora tutto ciò
+che dobbiamo fare è
+vincere i Giochi!<New>
+Dico bene, Fei?"<Close><End of Block>
+<TextBlock 242 w:54 h:3>
+Hammer
+"Ti dico che è una
+cosa impossibile!<New>
+Per farlo, dovresti
+battere il campione
+attuale, Mastro Rico!<Delay 30>
+Ma nostru frate Fei…<New>
+… è stato totalmente
+sconfitto dalla stessa
+persona solo qualche
+giorno fa!"<Close><End of Block>
+<TextBlock 243 w:50 h:3>
+Hammer
+"Ti dico che è una
+cosa impossibile!<New>
+Per farlo, dovresti
+battere il campione
+attuale, Mastro Rico!<New>
+Ma nostru frate Fei è
+stato sconfitto da uno
+dei subordinati del
+Campione!<New>
+Ancora non sappiamo
+manco quanto sia forte
+il Campione in persona<Delay 5>…"<Close><End of Block>
+<TextBlock 244 w:52 h:4>
+Hammer
+"Ti dico che è una
+cosa impossibile!<New>
+Per farlo, dovresti
+battere il campione
+attuale, Mastro Rico!<New>
+La Classe di prigioniero
+del Campione è la S!
+È addirittura molto
+più alta della A!<New>
+Nostru frate è solo di
+Classe C. Fei potrebbe
+morire se cerca di
+sfidare il Campione!"<Close><End of Block>
+<TextBlock 245 w:52 h:4>
+Hammer
+"Ti dico che è una
+cosa impossibile!<New>
+Per farlo, dovresti
+battere il campione
+attuale, Mastro Rico!<New>
+La Classe di prigioniero
+del Campione è la S!
+È addirittura molto
+più alta della A!<New>
+Nostru frate è solo di
+Classe C. Fei potrebbe
+morire se cerca di
+sfidare il Campione!"<Close><End of Block>
+<TextBlock 246 w:56 h:4>
+Hammer
+"Ti dico che è una
+cosa impossibile!<New>
+Per farlo, dovresti
+battere il campione
+attuale, Mastro Rico!<New>
+Ma nostru frate è della
+stessa mia classe… la D!<New>
+La differenza tra il
+Campione e noi è la
+stessa tra uomo e topo!"<Close><End of Block>
+<TextBlock 247 w:54 h:4>
+Hammer
+"E questa volta stiamo
+parlando di Battagliare!
+Con Gear, o frate, Gear!<New>
+La tua incolumità è a
+rischio!<Delay 15><New>
+Potrebbe ucciderti
+facendo finta di causare
+un incidente!"<Close><End of Block>
+<TextBlock 248 w:10 h:2>
+Fei
+"<Delay 5>…"<Close><End of Block>
+<TextBlock 249 w:18 h:2>
+Shitan
+"Davvero?"<Close><End of Block>
+<TextBlock 250 w:48 h:4>
+Fei
+"Sì<Delay 5>…<Delay 5> ma la volta scorsa
+non volevo combattere
+con loro<Delay 15>…<New>
+Ma se dovessi per caso
+combattere con loro
+seriamente<Delay 15>…<New>
+Non sono sicuro se
+potrei vincere o no."<Close><End of Block>
+<TextBlock 251 w:54 h:4>
+Fei
+"Sì<Delay 5>…<Delay 5> ma la volta scorsa
+non volevo combattere
+con loro<Delay 15>…<New>
+Ho sconfitto tre
+Combattenti, ma ho perso
+col quarto, quella donna
+lì, Suzarn<Delay 15>…<New>
+Potrei riuscire a
+batterla, forse."<Close><End of Block>
+<TextBlock 252 w:48 h:4>
+Fei
+"Sì<Delay 5>…<Delay 5> ma la volta scorsa
+non volevo combattere
+con loro<Delay 15>…"<Close><End of Block>
+<TextBlock 253 w:48 h:4>
+Fei
+"Sì<Delay 5>…<Delay 5> ma la volta scorsa
+non volevo combattere
+con loro<Delay 15>…"<Close><End of Block>
+<TextBlock 254 w:50 h:4>
+Fei
+"Sì<Delay 5>…<Delay 5> ma la volta scorsa
+non volevo combattere
+con loro<Delay 15>…<New>
+Non voglio nascondermi
+dietro la scusa che non
+mi ero ancora ripreso,
+quella volta<Delay 5>…<New>
+Ma la verità è che non ne
+ho battuto neanche uno!<Delay 15>
+Chi dice che potrei
+batterli la prossima
+volta<Delay 5>…!?"<Close><End of Block>
+<TextBlock 255 w:54 h:4>
+Shitan
+"Questo tipo qui, il
+Campione…<New>
+È davvero così tanto più
+forte degli altri quattro
+Combattenti?"<Close><End of Block>
+<TextBlock 256 w:54 h:4>
+Hammer
+"Mettiamola così<Delay 5>…<New>
+Lui è il re imbattuto, che
+regna da vincitore dei
+Tornei di Battagliare
+della Capitale Imperiale!<New>
+Con una storia di 40
+incontri terminati con 40
+K.O. dell'avversario<Delay 15>…<New>
+… e la maggior parte di
+essi arrivati dopo soli 30
+secondi dall'inizio<Delay 5>…<New>
+Se vince i Giochi Imperiali
+di quest'anno, allora sarà
+il Campione in carica per
+tre anni consecutivi!"<Close><End of Block>
+<TextBlock 257 w:34 h:4>
+Shitan
+"Solo un secondo!
+Questa persona è
+un<Delay 15> prigioniero?"<Close><End of Block>
+<TextBlock 258 w:24 h:2>
+Hammer
+"Sì."<Close><End of Block>
+<TextBlock 259 w:48 h:4>
+Shitan
+"È strano… Il vincitore
+dovrebbe ricevere un
+perdono, giusto?<New>
+Ma allora, perché è
+ancora un prigioniero?"<Close><End of Block>
+<TextBlock 260 w:52 h:4>
+Hammer
+"Appunto!<Delay 20><New>
+Mastro Rico avrebbe potuto
+ormai dire ciao alla vita
+da prigioniero!<New>
+Dicono che abbia rifiutato
+il suo perdono. Immagino
+che gli piaccia un casino
+combattere<Delay 5>…!<New>
+Tuttavia, pare proprio che
+si sia fatto disattivare
+la bomba del collare…"<Close><End of Block>
+<TextBlock 261 w:54 h:4>
+Fei
+"Beh, non possiamo
+restare qui a non far
+nulla ed a parlare!<New>
+Non m'importa se si
+tratta di Battagliare
+o cos'altro!<New>
+Se c'è anche una sola
+possibilità, allora io
+ci proverò!"<Close><End of Block>
+<TextBlock 262 w:36 h:2>
+Hammer
+"Dici sul serio?"<Close><End of Block>
+<TextBlock 263 w:24 h:2>
+Fei
+"Sì, dico sul serio."<Close><End of Block>
+<TextBlock 264 w:54 h:2>
+Hammer
+"Pensi di poter
+vincere?"<Close><End of Block>
+<TextBlock 265 w:40 h:4>
+Fei
+"No, non lo penso.<Delay 20>
+Ma, per ora, mi posso
+limitare a provarci!"<Close><End of Block>
+<TextBlock 266 w:44 h:4>
+Fei
+"Quell'Hammer<Delay 5>…<Delay 15>
+All'improvviso sembrava
+molto soddisfatto!"<Close><End of Block>
+<TextBlock 267 w:54 h:4>
+Shitan
+"<Delay 5>…<Delay 5> Ma a te sta bene?
+Come abbiamo detto prima<Delay 5>…<New>
+Che tu sia costretto o no<Delay 5>…<Delay 5>
+non vuoi farlo, dico bene!?<Delay 15>
+Combattere con i Gear,
+intendo…"<Close><End of Block>
+<TextBlock 268 w:10 h:2>
+Fei
+"<Delay 5>…<Delay 5>…<Delay 5>…"<Close><End of Block>
+<TextBlock 269 w:48 h:4>
+Shitan
+"Molto probabilmente
+ci sono altri modi
+per uscire di qui.<New>
+Fei, non voglio forzarti
+a fare qualcosa che non
+vuoi fare!"<Close><End of Block>
+<TextBlock 270 w:56 h:4>
+Fei
+"Lo so, Doc. I Gear
+ancora non mi piacciono.
+Questo non è cambiato.<New>
+Quando li piloto, mi rendo
+conto di quanto instabile
+sia il mio vero 'essere'<Delay 15>…<New>
+… anche se non voglio
+pensarci!<New>
+Ma allo stesso tempo, è
+anche un legame con una
+'parte' perduta di me.<New>
+Se è davvero così, ho
+da poco tempo deciso
+che sarei arrivato
+fino in fondo.<New>
+Anche Elly è stata turbata
+dalla stessa cosa.<New>
+E se l'unica cosa che
+faccio è rimanere depresso
+a causa di questo, non
+migliorerà nulla!"<Close><End of Block>
+<TextBlock 271 w:50 h:4>
+Shitan
+"È così che credi<Delay 5>…<Delay 5>?
+Credo adesso di
+capirti meglio, Fei.<New>
+Comunque, per oggi
+riposiamoci. Tra
+poco saremo molto
+occupati!"<Close><Close><End of Block>

@@ -1,0 +1,64 @@
+<TextBlock 1 w:6 h:1>
+Fei
+"!"<Close><End of Block>
+<TextBlock 2 w:36 h:3>
+Shitan
+"Ehi… Fei,
+aspetta un attimo."<Close><End of Block>
+<TextBlock 3 w:40 h:2>
+Fei
+"Che succede, Doc?"<Close><End of Block>
+<TextBlock 4 w:52 h:4>
+Shitan
+"Ecco…<New>
+Esiste un pezzo che
+permette al Gear di
+recuperare il 30%
+dei suoi HP.<New>
+Una volta equipaggiato,
+puoi attivarlo durante
+il combattimento. È
+molto utile, ma…<New>
+… lo svantaggio è che
+consuma carburante.
+Usalo con molta
+cautela."<Close><End of Block>
+<TextBlock 5 w:44 h:4>
+Fei
+"Non pensiamoci fintanto
+che non recuperiamo il
+Gear, Doc.<New>
+Qui non c'è nessuno,
+quindi sbrighiamoci
+ad uscire."<Close><End of Block>
+<TextBlock 6 w:42 h:3>
+Shitan
+"Uh, oh sì. Sono
+sempre il solito…<New>
+Comunque, è meglio
+prenderlo visto che
+ne abbiamo l'occasione."<Close><End of Block>
+<TextBlock 7 w:52 h:3>
+Ehi, assicurati di
+rimettere il Passepartout
+sullo scaffale.<Close><End of Block>
+<TextBlock 8 w:48 h:3>
+Oh, sta già iniziando!
+Questo non ce lo
+possiamo perdere.<Close><End of Block>
+<TextBlock 9 w:18 h:1>
+Sissignore.<Close><End of Block>
+<TextBlock 10 w:40 h:1>
+Dovrebbe andar
+bene così…<Close><End of Block>
+<TextBlock 11 w:46 h:4>
+Ehi, avete sentito?
+Il combattimento fra
+l'ex Campione e la bestia
+sta per cominciare.<Close><End of Block>
+<TextBlock 12 w:42 h:2>
+ 
+ Ricevi Passepartout.<Close><End of Block>
+<TextBlock 13 w:42 h:2>
+ 
+ Ricevi Telaio HP30.<Close><Close><End of Block>

@@ -1,0 +1,132 @@
+<TextBlock 1 w:36 h:1>
+Barriera Rimossa<Opcode 2 60><Close><End of Block>
+<TextBlock 2 w:48 h:4>
+Shitan
+"Lo sapevo! Jesiah ha
+intenzione di usarlo!
+Dev'essere fermato!<New>
+Billy, puoi sentirmi!?<Delay 30>
+Billy!?<Delay 45> È inutile…
+Non ottengo risposta!!"<Close><End of Block>
+<TextBlock 3 w:42 h:3>
+Shitan
+"Troppo tardi…!
+Billy!<New>
+Quella è un'arma che
+usa il suo pilota
+come testata!"<Close><End of Block>
+<TextBlock 4 w:22 h:2>
+Billy
+"Padre…"<Close><End of Block>
+<TextBlock 5 w:30 h:4>
+Billy
+"Cosa!?
+Ma allora, mio
+padre è…<New>
+… Oh mio <Delay 30>dio!!"<Close><End of Block>
+<TextBlock 6 w:44 h:4>
+Jessie
+"Billy, se insieme
+uniremo i nostri
+Gear…<New>
+… allora potremo fare
+breccia in quella
+barriera col nostro
+attacco combinato.<New>
+Prenderò in prestito
+la tua spalla per un
+momento, perciò inizia
+subito a mirare."<Close><End of Block>
+<TextBlock 7 w:50 h:4>
+Jessie
+"Billy, adesso lo
+capisci, non è così?<New>
+Gli insegnamenti di Stein
+erano tutti delle
+menzogne.<New>
+Quella fede artificiale
+era solo un mondano
+sistema che ripagava…<New>
+… la gente che possiede
+un'anima debole.<New>
+Ma… la fede e dio non
+sono cose che ti sono
+impartite dagli altri,
+dico bene?<New>
+Sono cose che devi
+scoprire dentro te
+stesso, e devi
+scoprirle da te.<New>
+Cose che non possono
+dirsi con parole, cose
+che non possono
+essere espresse…<New>
+In fondo, dio non è
+questo? 'Non domandare
+al dio tuo, perché egli
+non ti dà risposta.'"<Close><End of Block>
+<TextBlock 8 w:50 h:4>
+Jessie
+"La ragione per la quale,
+quando eri ancora un
+bambino…<New>
+… ti insegnai ad usare
+pistole e fucili è per
+salvare le persone.<New>
+Tu dici che le armi da
+fuoco sono solo strumenti
+per uccidere la gente.
+Ma ti sbagli.<New>
+Le pistole non
+uccidono la gente.<New>
+È la gente che uccide
+altra gente.<New>
+Hai mai osservato
+l'espressione sulle
+facce di quei Mietitori
+che hai ucciso?<New>
+Essere trasformati in
+un Mietitore è un
+processo abominevole.<New>
+Per alleviare la loro
+sofferenza straziante
+cercano sangue umano, e
+attaccano la gente…<New>
+… per poterlo ottenere.<New>
+Ma… tutto ciò non basta
+a vincere la loro
+vera sofferenza, che si
+trova nei loro cuori.<New>
+C'è solo un modo per
+essere salvati da quella
+sofferenza…<New>
+… Morire.<New>
+Tutti quei Mietitori, da
+te uccisi, non avevano
+sui loro volti una
+espressione serena?<New>
+La tua pistola ha salvato
+quella gente, che era
+stata trasformata in
+Mietitori.<New>
+Non è una cosa che tutti
+possono e sanno fare.<New>
+La fede che t'ha permesso
+di farlo non era un
+inganno…
+Dio è dentro di te!"<Close><End of Block>
+<TextBlock 9 w:28 h:4>
+Jessie
+"Bene allora!
+Andiamo!
+Billy, vai!"<Close><End of Block>
+<TextBlock 10 w:48 h:4>
+Jessie
+"Vogliamo finirla una
+volta per tutte, Stein?<New>
+Ma… voglio che tu sappia
+che non incontrerai
+Rachele, una volta
+morto…!<New>
+E questo perché tu
+finirai all'inferno!"<Close><Close><Close><End of Block>

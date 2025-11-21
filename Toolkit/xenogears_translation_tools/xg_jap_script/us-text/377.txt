@@ -1,0 +1,37 @@
+#### 1 ####
+Do you want to go down?
+    Yes
+    No
+
+#### 2 ####
+Do you want to go down?
+    Yes
+    No
+
+#### 3 ####
+You have too many
+{str}.
+
+#### 4 ####
+ 
+Received {str}.
+
+#### 5 ####
+Maria
+"This map is of the
+lower layer levels in
+the emergency shaft.{enter}
+You can use it once we
+get down to the floor
+several levels below
+here."
+
+#### 6 ####
+This map is of the
+lower levels in the
+emergency shaft.{enter}
+Please use it once you
+get down to the floor
+several levels beneath
+this floor.
+

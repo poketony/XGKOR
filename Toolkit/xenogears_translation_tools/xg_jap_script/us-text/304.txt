@@ -1,0 +1,32 @@
+#### 1 ####
+Billy
+"Bishop!{wait:0A}
+Are you alright?"
+
+#### 2 ####
+Billy
+"God's judgement?{wait:0A}
+What do you mean,
+Bishop?"
+
+#### 3 ####
+Billy
+"He's gone.{enter}
+What was he trying to tell
+me? Purge,{wait:0F} I wonder
+what he meant?"
+
+#### 4 ####
+Billy
+"Something's over there.
+It's impossible to get
+through here like this."
+
+#### 5 ####
+{slow:02}O, oh... Billy{wait:05}...{wait:0A}
+You're safe{wait:05}...{enter}
+...{wait:05}The purge{wait:05}...
+has begun...{enter}
+We{wait:0A} sinners...have brought
+god's{wait:05} judgement{wait:05} on{wait:05} mankind{wait:05}...
+

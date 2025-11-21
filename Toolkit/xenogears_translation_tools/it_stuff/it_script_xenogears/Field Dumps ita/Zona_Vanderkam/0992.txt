@@ -1,0 +1,194 @@
+<TextBlock 1 w:40 h:3>
+Un Gear nero nemico
+si sta inserendo
+tra le unità della
+vostra scorta!<Close><End of Block>
+<TextBlock 2 w:58 h:4>
+Roger.
+Nave ammiraglia a tutte
+le navi… Potete sparare
+quando volete! Balliamo!<Opcode 2 80><Close><End of Block>
+<TextBlock 3 w:44 h:3>
+A tutti i Sistemi di
+Controllo per il Fuoco
+Rapido… iniziare
+le operazioni!<Opcode 2 55><Close><End of Block>
+<TextBlock 4 w:40 h:3>
+Piazzate le mine aeree.
+Tipo di lancio:
+obiettivo di tipo 3!<Opcode 2 52><Close><End of Block>
+<TextBlock 5 w:38 h:2>
+Ma quanti veicoli ci
+sono in ricognizione
+aerea!?<Opcode 2 52><Close><End of Block>
+<TextBlock 6 w:32 h:2>
+Il motore del
+cacciatorpediniere
+Iltus è stato
+distrutto!<Opcode 2 55><Close><End of Block>
+<TextBlock 7 w:48 h:3>
+Messaggio urgente dal
+Luveh! 'Luveh, alla
+deriva, alla deriva,
+fine.'<Opcode 2 64><Close><End of Block>
+<TextBlock 8 w:38 h:1>
+Rimangono solo<Delay 20>
+tre dei nostri!<Opcode 2 42><Close><End of Block>
+<TextBlock 9 w:46 h:2>
+Gear nemico sopra
+di noi!<New>
+Il Gear nemico sta
+arrivando da sopra!<Close><End of Block>
+<TextBlock 10 w:48 h:4>
+A tutto il personale,
+evacuare la nave!<New>
+A tutto il personale,
+evacuare la nave!<Delay 15>
+Abbandonare la nave!
+Ripeto, evacuare la nave!<Opcode 2 75><Close><End of Block>
+<TextBlock 11 w:50 h:2>
+Vanderkam
+"Ufficiale
+d'aviazione,
+aspetta!"<Close><End of Block>
+<TextBlock 12 w:50 h:4>
+Vanderkam
+"Ufficiale delle
+comunicazioni!
+Cambio di ordini.<New>
+Contattare Von Hipper…<New>
+Fate avvicinare ai
+fianchi delle unità
+nemiche il secondo
+cacciatorpediniere.<New>
+Aprite i fianchi della
+flotta…<New>
+… ed attirateli verso
+la portata di fuoco
+del cannone principale
+della Kefeinzel."<Close><End of Block>
+<TextBlock 13 w:52 h:4>
+Vanderkam
+"Prepararsi a far fuoco!
+Capo Artigliere! Preparare
+le bombe di tipo 3.<New>
+Ritirare i cannoni del
+ponte e prepararsi a usare
+il cannone principale
+della Kefeinzel…<New>
+Li disintegrerò, li farò
+diventare energia pura…"<Close><End of Block>
+<TextBlock 14 w:50 h:3>
+Vanderkam
+"Calmati, Ufficiale
+dell'Aviazione!<New>
+Grazie per la tua preziosa
+opinione, ma qui comando
+io, non tu!<New>
+A che servono delle
+cerbottane con 40
+mini cannoni?"<Close><End of Block>
+<TextBlock 15 w:46 h:3>
+Vanderkam
+"La discussione è
+finita. Capitano!
+Non troppo veloce!<New>
+Non vogliamo lasciarci
+il nemico dietro."<Close><End of Block>
+<TextBlock 16 w:44 h:4>
+Vanderkam
+"Quel coglione, Hipper!
+Inseguiteli, stanno
+solo giocando con lui.<New>
+Non sareste manco buoni
+ad essere i miei cani!"<Close><End of Block>
+<TextBlock 17 w:48 h:4>
+Vanderkam
+"Prepararsi a far
+fuoco! Capo Artigliere!<New>
+Ancora non abbiamo
+sparato un colpo!<New>
+Il raggio di fuoco delle
+bombe Tipo 3 è di 500
+metri.<New>
+Non sparate finché non
+vedrete il bianco dei
+loro occhi."<Close><End of Block>
+<TextBlock 18 w:46 h:3>
+Vanderkam
+"Siete tutti dei
+coglioni!<Delay 35> E anche
+tutta questa nave!"<Close><End of Block>
+<TextBlock 19 w:44 h:3>
+Vanderkam
+"Cretini! Cretini!<Delay 35>
+Ma che è 'sto casino…?"<Close><End of Block>
+<TextBlock 20 w:34 h:4>
+Vanderkam
+"Scendete, merda!<Delay 45>
+O Ramsus mi
+taglierà la testa!"<Close><End of Block>
+<TextBlock 21 w:52 h:3>
+Vanderkam
+"Fare fuoco! Capo
+Artigliere! Cosa stai
+facendo?<New>
+Li stai mancando di
+un chilometro!
+Ma sei cieco?"<Close><End of Block>
+<TextBlock 22 w:42 h:4>
+Vanderkam
+"Vero…<Delay 65>
+Ho ancora quello…
+Ho ancora quello…"<Close><End of Block>
+<TextBlock 23 w:48 h:3>
+Vanderkam
+"Sì…
+Ho ancora quello…<New>
+Ho ancora quello… sì.
+Ho ancora quello…"<Close><End of Block>
+<TextBlock 24 w:40 h:3>
+Comunicazione a tutte
+le navi! Fuoco a
+volontà, iniziate
+l'azione evasiva!<New>
+Ma non lasciate che
+le posizioni da
+dove far fuoco siano
+distrutte!<Close><End of Block>
+<TextBlock 25 w:42 h:3>
+Eh?<Wait>
+Ma è un'idiozia!<New>
+È impossibile che il
+cannone della nave
+ammiraglia possa<Delay 20>
+colpire dei Gear
+così veloci…<Close><End of Block>
+<TextBlock 26 w:56 h:3>
+Ammiraglio!
+Ma che state facendo?<New>
+Togliere le mitragliatrici
+anti Gear!?<Close><End of Block>
+<TextBlock 27 w:30 h:2>
+(Il tuo piano non
+funzionerà mai…!)<Close><End of Block>
+<TextBlock 28 w:32 h:2>
+La nostra mobilità
+è troppo diversa…<Close><End of Block>
+<TextBlock 29 w:50 h:2>
+I Gear a velocità di
+battaglia possono muoversi
+a 2000 all'ora.<Close><End of Block>
+<TextBlock 30 w:54 h:1>
+(Sei tu il coglione
+più grande!)<Close><End of Block>
+<TextBlock 31 w:48 h:4>
+Unità non identificate
+in arrivo, direzione di
+rotta 3-3-6!<New>
+2 gruppi, circa 7-8
+veicoli, distanza 2000!<Close><End of Block>
+<TextBlock 32 w:26 h:1>
+Ammiraglio…<Close><End of Block>
+<TextBlock 33 w:24 h:1>
+Fregatene di lui!!<Close><Close><End of Block>

@@ -1,0 +1,45 @@
+<TextBlock 1 w:50 h:4>
+Krelian
+"Gli Agnelli 03, 05 e 11
+sono danneggiati.<New>
+Recuperate solo quelli
+integri ed eliminate il
+resto di quei rifiuti.<New>
+Usate i Wels per il
+recupero e per la
+soppressione."<Close><End of Block>
+<TextBlock 2 w:52 h:3>
+Krelian
+"Capisco…<New>
+La cosa che stavano
+cercando da 500 anni…
+Interessante."<Close><End of Block>
+<TextBlock 3 w:48 h:4>
+Krelian, ci sono
+molte navi che non sono
+state vaporizzate. Cosa
+dobbiamo fare?<Close><End of Block>
+<TextBlock 4 w:44 h:3>
+Epurazione all'80%.
+Al momento, la nostra
+via è libera.<Close><End of Block>
+<TextBlock 5 w:38 h:1>
+Liberate i Wels.<Close><End of Block>
+<TextBlock 6 w:48 h:4>
+Cannone principale, 20
+fino a che l'energia
+sia ricaricata.<New>
+Ingegneri, pronti per
+la dimostrazione. Nave
+principale, le unità
+militari sono in attesa.<Close><End of Block>
+<TextBlock 7 w:50 h:3>
+Il luogo in cui si
+trova Stein è stato
+confermato.<New>
+Fra tutti i 130 siti di
+scavo e ricerca, è in
+quello più meridionale.<Close><End of Block>
+<TextBlock 8 w:48 h:2>
+Le truppe stanno entrando
+in Zeboim adesso.<Close><Close><End of Block>

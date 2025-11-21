@@ -1,0 +1,197 @@
+#### 1 ####
+Bart
+"Hello, grandma."
+
+#### 2 ####
+Bartholomew, I heard from
+my husband.{wait:1E} Things were
+pretty tough for you!{enter}
+Oh...{wait:1E}
+just thinking about...
+Shakhan gets my goat!{enter}
+You get him Bartholomew!
+
+#### 3 ####
+Not too many people are
+returning to town.{wait:1E}
+So business is a little...{enter}
+But, {wait:1E}that must mean the
+atmosphere is changing for
+the better everywhere in
+the country.{enter}
+Not like before, {wait:1E}
+where people were taking
+refuge here.{enter}
+Well if you think about
+it that way...{wait:1E}
+I think things might be
+pretty good.{enter}
+Oh, I keep talking and
+talking.{wait:1E}
+Sorry, hahahaha!
+
+#### 4 ####
+Lately, this town has
+gotten lonely.{enter}
+But I'm stubborn, I
+won't close up shop!
+
+#### 5 ####
+Come on in!
+
+#### 6 ####
+Looking for...
+    Items
+    Accessories
+    Nothing
+
+#### 7 ####
+Thank you very much
+
+#### 8 ####
+Thank you very much
+
+#### 9 ####
+Come again!
+
+#### 10 ####
+Looking for...
+    Items
+    Accessories
+    Gear parts
+    Nothing
+
+#### 11 ####
+Come again!
+
+#### 12 ####
+Come again!
+
+#### 13 ####
+Come again!
+
+#### 14 ####
+Come again!
+
+#### 15 ####
+Fei
+"Oh well, there's nobody 
+around.{enter}
+I guess I'll just leave 
+the money here."
+
+#### 16 ####
+    Items
+    Accessories
+    Nothing
+
+#### 17 ####
+Young master, the old man
+from the Gun Room sent me
+here for supplies.{enter}
+If you want, I can also
+get Gear parts you may
+need. Just tell me.
+
+#### 18 ####
+Bart
+"Whoa, good preparations!
+If that's the case, please
+get the parts we need."
+
+#### 19 ####
+The old man from the
+Gun Room sent me
+here for supplies.{enter}
+If you want, I can also
+get Gear parts you may
+need. Just tell me.
+
+#### 20 ####
+There's no souvenir
+shop in this town...{enter}
+This isn't a
+tourist attraction?{wait:1E}
+I guess not.
+
+#### 21 ####
+Sigh... That guy there...{enter}
+Once in a while we get
+those ignorant types
+coming to our town.
+
+#### 22 ####
+They have no idea about
+what kind of situation
+we're all in.
+
+#### 23 ####
+I hate them...
+Those people who are so
+ignorant about what's
+happening in the world.{enter}
+Don't tell me you guys
+are like that too?
+
+#### 24 ####
+This place has gotten
+to be a pain.{enter}
+My family is fleeing north
+to the mountains.{enter}
+I'm here to buy supplies.
+
+#### 25 ####
+I came here in the hopes
+of finding some souvenirs.{enter}
+In the off chance that
+there is some military
+clash, I'll hold out and
+defend this place.{enter}
+If Shakhan is crushed, the
+country will change.{enter}
+If that happens I'll go 
+home, propose to my girl 
+and start a new job.
+
+#### 26 ####
+Hey, aren't you the
+young master?
+
+#### 27 ####
+Hey you!
+
+#### 28 ####
+Huh?
+
+#### 29 ####
+Huh!
+
+#### 30 ####
+It's Bartholomew!{enter}
+Are you doing well?
+
+#### 31 ####
+Bart
+"Good enough!"
+
+#### 32 ####
+Don't try to 
+overdo it.{enter}
+Hey, are those your 
+friends back there?
+
+#### 33 ####
+Bart
+"Yeah.
+Fei and Citan."
+
+#### 34 ####
+Friends of the young master
+are friends of ours.{enter}
+Take your time and 
+look around.
+
+#### 35 ####
+Bart
+"Thanks."
+

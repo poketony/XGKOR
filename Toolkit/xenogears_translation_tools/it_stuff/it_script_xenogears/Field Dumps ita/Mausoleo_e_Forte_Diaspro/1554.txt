@@ -1,0 +1,594 @@
+<TextBlock 1 w:62 h:4>
+ERRORE: L'ORDINE DEL TUO
+GRUPPO È SBAGLIATO, OPPURE
+HAI NEL GRUPPO UN PERSONAGGIO
+CHE NON DOVREBBE ESSERE QUI.
+COMUNICACI QUESTO BUG!<Close><End of Block>
+<TextBlock 2 w:62 h:4>
+ERRORE: L'ORDINE DEL TUO
+GRUPPO È SBAGLIATO, OPPURE
+HAI NEL GRUPPO UN PERSONAGGIO
+CHE NON DOVREBBE ESSERE QUI.
+COMUNICACI QUESTO BUG!<Close><End of Block>
+<TextBlock 3 w:44 h:4>
+Fei
+"(Probabilmente non
+riusciva a stare calma,
+rimanendo nella nave.)"<Close><End of Block>
+<TextBlock 4 w:62 h:4>
+ERRORE: L'ORDINE DEL TUO
+GRUPPO È SBAGLIATO, OPPURE
+HAI NEL GRUPPO UN PERSONAGGIO
+CHE NON DOVREBBE ESSERE QUI.
+COMUNICACI QUESTO BUG!<Close><End of Block>
+<TextBlock 5 w:62 h:4>
+ERRORE: L'ORDINE DEL TUO
+GRUPPO È SBAGLIATO, OPPURE
+HAI NEL GRUPPO UN PERSONAGGIO
+CHE NON DOVREBBE ESSERE QUI.
+COMUNICACI QUESTO BUG!<Close><End of Block>
+<TextBlock 6 w:62 h:4>
+ERRORE: L'ORDINE DEL TUO
+GRUPPO È SBAGLIATO, OPPURE
+HAI NEL GRUPPO UN PERSONAGGIO
+CHE NON DOVREBBE ESSERE QUI.
+COMUNICACI QUESTO BUG!<Close><End of Block>
+<TextBlock 7 w:42 h:3>
+Elly
+"(Per di più, non riesco
+a vedere neanche un
+civile!)"<Close><End of Block>
+<TextBlock 8 w:52 h:4>
+Elly
+"(Ho sentito dire che
+c'è un rifugio segreto.<New>
+Ma pensate che
+siano già lì?)"<Close><End of Block>
+<TextBlock 9 w:48 h:4>
+Elly
+"(Sono sicura che lei non
+fosse nelle condizioni
+di rimanersene seduta…<New>
+… con le mani in mano.)"<Close><End of Block>
+<TextBlock 10 w:40 h:2>
+Elly
+"(Spero vada tutto bene.)"<Close><End of Block>
+<TextBlock 11 w:30 h:3>
+Elly
+"Dobbiamo camminare
+così tanto?"<Close><End of Block>
+<TextBlock 12 w:52 h:3>
+Elly
+"… Ma tu non ci sei
+già stato dentro?"<Close><End of Block>
+<TextBlock 13 w:50 h:4>
+Shitan
+"(Non si vedono gli
+abitanti, ma le guardie
+di Shakhan sono ovunque…)"<Close><End of Block>
+<TextBlock 14 w:46 h:4>
+Shitan
+"(Si era detto che ci
+fosse un rifugio
+segreto in città…<New>
+Ma a questo si aggiunge
+un altro problema…
+… se esso sia o meno
+un posto sicuro…!)"<Close><End of Block>
+<TextBlock 15 w:50 h:4>
+Shitan
+"(È comprensibile.<New>
+Dopo aver sentito che
+Shakhan aveva messo le
+sue mani su Nisan…<New>
+… era impossibile che
+lei rimanesse seduta
+a non fare nulla.)"<Close><End of Block>
+<TextBlock 16 w:34 h:3>
+Shitan
+"(Preghiamo per
+la riuscita della
+missione.)"<Close><End of Block>
+<TextBlock 17 w:62 h:4>
+ERRORE: L'ORDINE DEL TUO
+GRUPPO È SBAGLIATO, OPPURE
+HAI NEL GRUPPO UN PERSONAGGIO
+CHE NON DOVREBBE ESSERE QUI.
+COMUNICACI QUESTO BUG!<Close><End of Block>
+<TextBlock 18 w:62 h:4>
+ERRORE: L'ORDINE DEL TUO
+GRUPPO È SBAGLIATO, OPPURE
+HAI NEL GRUPPO UN PERSONAGGIO
+CHE NON DOVREBBE ESSERE QUI.
+COMUNICACI QUESTO BUG!<Close><End of Block>
+<TextBlock 19 w:40 h:3>
+Bart
+"(Inoltre, non vedo
+nessun abitante.)"<Close><End of Block>
+<TextBlock 20 w:40 h:3>
+Bart
+"(Probabilmente sono
+nel rifugio segreto.)"<Close><End of Block>
+<TextBlock 21 w:62 h:4>
+ERRORE: L'ORDINE DEL TUO
+GRUPPO È SBAGLIATO, OPPURE
+HAI NEL GRUPPO UN PERSONAGGIO
+CHE NON DOVREBBE ESSERE QUI.
+COMUNICACI QUESTO BUG!<Close><End of Block>
+<TextBlock 22 w:62 h:4>
+ERRORE: L'ORDINE DEL TUO
+GRUPPO È SBAGLIATO, OPPURE
+HAI NEL GRUPPO UN PERSONAGGIO
+CHE NON DOVREBBE ESSERE QUI.
+COMUNICACI QUESTO BUG!<Close><End of Block>
+<TextBlock 23 w:48 h:3>
+Billy
+"(Inoltre, non c'è
+traccia degli abitanti.)"<Close><End of Block>
+<TextBlock 24 w:48 h:4>
+Billy
+"(Ho sentito che c'è un
+rifugio segreto…<New>
+… ma mi chiedo se sia
+un posto sicuro…?)"<Close><End of Block>
+<TextBlock 25 w:52 h:3>
+Billy
+"(Margie è la Grande Madre
+di questa setta, no?<New>
+Dopo aver sentito che
+Nisan è forse caduta nelle
+mani di quei furfanti…<New>
+… non poteva certo
+stare ad osservare
+senza fare nulla.)"<Close><End of Block>
+<TextBlock 26 w:44 h:2>
+Billy
+"(Spero che funzioni.)"<Close><End of Block>
+<TextBlock 27 w:44 h:2>
+Billy
+"Più o meno
+quant'è lontano?"<Close><End of Block>
+<TextBlock 28 w:46 h:3>
+Billy
+"Cosa? Neanche tu ci
+sei stato mai dentro?"<Close><End of Block>
+<TextBlock 29 w:34 h:3>
+Rico
+"(Dove sono andati
+tutti gli abitanti?)"<Close><End of Block>
+<TextBlock 30 w:46 h:4>
+Rico
+"(Ho sentito parlare di
+un rifugio segreto…<New>
+… ma pensi che sia
+un posto sicuro?)"<Close><End of Block>
+<TextBlock 31 w:50 h:4>
+Rico
+"(Beh, tu che cosa avresti
+fatto? Anche se non fossi
+la Grande Madre…<New>
+… se stessero distruggendo
+la tua casa, di sicuro
+non te ne staresti fermo
+a guardare.)"<Close><End of Block>
+<TextBlock 32 w:40 h:2>
+Rico
+"(Speriamo che funzioni.)"<Close><End of Block>
+<TextBlock 33 w:24 h:2>
+Rico
+"È lontano?"<Close><End of Block>
+<TextBlock 34 w:38 h:2>
+Rico
+"Che vuoi dire…?"<Close><End of Block>
+<TextBlock 35 w:62 h:4>
+ERRORE: L'ORDINE DEL TUO
+GRUPPO È SBAGLIATO, OPPURE
+HAI NEL GRUPPO UN PERSONAGGIO
+CHE NON DOVREBBE ESSERE QUI.
+COMUNICACI QUESTO BUG!<Close><End of Block>
+<TextBlock 36 w:62 h:4>
+ERRORE: L'ORDINE DEL TUO
+GRUPPO È SBAGLIATO, OPPURE
+HAI NEL GRUPPO UN PERSONAGGIO
+CHE NON DOVREBBE ESSERE QUI.
+COMUNICACI QUESTO BUG!<Close><End of Block>
+<TextBlock 37 w:62 h:4>
+ERRORE: L'ORDINE DEL TUO
+GRUPPO È SBAGLIATO, OPPURE
+HAI NEL GRUPPO UN PERSONAGGIO
+CHE NON DOVREBBE ESSERE QUI.
+COMUNICACI QUESTO BUG!<Close><End of Block>
+<TextBlock 38 w:62 h:4>
+ERRORE: L'ORDINE DEL TUO
+GRUPPO È SBAGLIATO, OPPURE
+HAI NEL GRUPPO UN PERSONAGGIO
+CHE NON DOVREBBE ESSERE QUI.
+COMUNICACI QUESTO BUG!<Close><End of Block>
+<TextBlock 39 w:62 h:4>
+ERRORE: L'ORDINE DEL TUO
+GRUPPO È SBAGLIATO, OPPURE
+HAI NEL GRUPPO UN PERSONAGGIO
+CHE NON DOVREBBE ESSERE QUI.
+COMUNICACI QUESTO BUG!<Close><End of Block>
+<TextBlock 40 w:40 h:3>
+<Chu-Chu>
+"(Dove sono andati
+gli abitanti, chu?)"<Close><End of Block>
+<TextBlock 41 w:54 h:4>
+<Chu-Chu>
+"(Andrà tutto bene, chu!
+Per loro c'è una tana
+segreta.<New>
+Questo è quello
+che so, chu.)"<Close><End of Block>
+<TextBlock 42 w:48 h:3>
+<Chu-Chu>
+"(Lasciala stare!<New>
+Margie è troppo gentile
+per starsene seduta a
+non chu-fare niente.)"<Close><End of Block>
+<TextBlock 43 w:44 h:3>
+<Chu-Chu>
+"(Sarebbe bello se tutto
+andasse bene, chu.)"<Close><End of Block>
+<TextBlock 44 w:54 h:4>
+<Chu-Chu>
+"Non mi spiace camminare
+un po'-chu, ma non troppo.<New>
+Mica è una gita!<Delay 30>
+Dobbiamo camminate
+tanto, chu?"<Close><End of Block>
+<TextBlock 45 w:52 h:2>
+<Chu-Chu>
+"Ma tu non ci sei
+stato dentro, chu?"<Close><End of Block>
+<TextBlock 46 w:32 h:3>
+Maria
+"(E non vedo
+nessun civile.)"<Close><End of Block>
+<TextBlock 47 w:48 h:4>
+Maria
+"(Mi hanno dato questa
+informazione.<New>
+Dovrebbe esserci un
+rifugio segreto da usare
+in casi d'emergenza...<New>
+Pensi che si siano già
+rifugiati lì?)"<Close><End of Block>
+<TextBlock 48 w:52 h:4>
+Maria
+"(Come puoi biasimarla?
+Credo di capire cosa stia
+passando Margie.<New>
+Probabilmente non può
+sopportare l'idea di
+starsene seduta a non
+fare nulla.)"<Close><End of Block>
+<TextBlock 49 w:36 h:3>
+Maria
+"(Speriamo funzioni.)"<Close><End of Block>
+<TextBlock 50 w:44 h:3>
+Maria
+"Quanto ci vuole
+per arrivarci?"<Close><End of Block>
+<TextBlock 51 w:46 h:2>
+Maria
+"Come, tu non ci sei
+stato già dentro!?"<Close><End of Block>
+<TextBlock 52 w:50 h:4>
+Margie
+"Beh, quel posto è
+tutto chiuso.<New>
+Anche quando ci sono
+entrata, non sono
+andata troppo lontano."<Close><End of Block>
+<TextBlock 53 w:50 h:4>
+Margie
+"Bene, io vado avanti e
+vi aspetterò all'entrata."<Close><End of Block>
+<TextBlock 54 w:14 h:2>
+Margie
+"Ok!"<Close><End of Block>
+<TextBlock 55 w:50 h:1>
+Tieni duro, giovane!<Close><End of Block>
+<TextBlock 56 w:22 h:1>
+Tu!<Delay 30> Presidente!!<Close><End of Block>
+<TextBlock 57 w:46 h:2>
+Bart
+"Cazzo, sei
+divertente…"<Close><End of Block>
+<TextBlock 58 w:48 h:2>
+Allora il giovane
+diventerà il nostro
+presidente…<Close><End of Block>
+<TextBlock 59 w:42 h:3>
+Vorrei che i bambini
+tornassero presto…<New>
+Avere dei bambini
+felici e sorridenti
+vuol dire avere una
+buona città.<Close><End of Block>
+<TextBlock 60 w:48 h:3>
+Adesso la città non sembra
+un granché, ma alla fine i
+cittadini ritorneranno.<New>
+Tutto tornerà come prima…
+Lo so e basta.<Close><End of Block>
+<TextBlock 61 w:54 h:2>
+Spero vivamente che il
+mondo cambierà in meglio.<Close><End of Block>
+<TextBlock 62 w:16 h:1>
+ Laboratorio di Pittura <Close><End of Block>
+<TextBlock 63 w:52 h:2>
+Fei
+"Non possiamo
+andarcene adesso!"<Close><End of Block>
+<TextBlock 64 w:52 h:2>
+Fei
+"Non possiamo
+andarcene adesso!"<Close><End of Block>
+<TextBlock 65 w:52 h:2>
+Fei
+"Non possiamo
+andarcene adesso!"<Close><End of Block>
+<TextBlock 66 w:52 h:2>
+Fei
+"Non possiamo
+andarcene adesso!"<Close><End of Block>
+<TextBlock 67 w:50 h:3>
+Fei
+"(La città è terribilmente
+silenziosa per qualche
+motivo<Delay 10>…)"<Close><End of Block>
+<TextBlock 68 w:48 h:4>
+Bart
+"(Non so dirti, ma
+vorrei pensare che va
+ancora tutto bene.)"<Close><End of Block>
+<TextBlock 69 w:54 h:3>
+Fei
+"(Sì, credo d'aver sentito
+Bart parlarne.<New>
+Pensate che i cittadini
+siano andati lì?)"<Close><End of Block>
+<TextBlock 70 w:32 h:3>
+Bart
+"(Com'era dalla
+parte che hai
+controllato?)"<Close><End of Block>
+<TextBlock 71 w:44 h:4>
+Sigurd
+"(Anche nelle strade
+c'era lo stesso silenzio.)"<Close><End of Block>
+<TextBlock 72 w:38 h:3>
+Bart
+"(…<Delay 30> Cosa ne
+pensi, Sig?)"<Close><End of Block>
+<TextBlock 73 w:52 h:4>
+Sigurd
+"(Dal poco che ho visto,
+non c'è molto da dire.)"<Close><End of Block>
+<TextBlock 74 w:52 h:4>
+Bart
+"(O non hanno ancora
+trovato quello che
+stanno cercando…<New>
+Oppure lo hanno già
+trovato, ma si sono
+lasciati dietro
+delle guardie…<New>
+Comunque sia, non deve
+neanche sfiorarci il
+pensiero di andarcene…<New>
+… prima dobbiamo vedere
+se gli abitanti sono
+salvi.<New>
+Ehi, a proposito, come
+sta reagendo Margie?)"<Close><End of Block>
+<TextBlock 75 w:54 h:4>
+Sigurd
+"(Dall'esterno, non sembra
+essere troppo diversa dal
+solito…<New>
+Ma chissà cosa sente nel
+suo cuore…)"<Close><End of Block>
+<TextBlock 76 w:48 h:3>
+Bart
+"(Sul serio…<Delay 30> Grazie per
+aver badato a lei, Sig.)"<Close><End of Block>
+<TextBlock 77 w:48 h:4>
+Sigurd
+"(Nessun problema.<New>
+Comunque, vado a
+prendere il comando
+dell'altra unità.)"<Close><End of Block>
+<TextBlock 78 w:44 h:2>
+Bart
+"(Bene. Stai attento!)"<Close><End of Block>
+<TextBlock 79 w:46 h:4>
+Bart
+"(Margie…<Delay 30> Pensavo d'averle
+detto di starsene buona
+nella nostra nave.)"<Close><End of Block>
+<TextBlock 80 w:52 h:4>
+Bart
+"(Sì, lo so, ma…<Delay 30>
+Beh, è arrivata fin qui,
+non possiamo fermarla.)"<Close><End of Block>
+<TextBlock 81 w:36 h:3>
+Bart
+"(Bene allora…<Delay 30>
+Forza, muoviamoci.)"<Close><End of Block>
+<TextBlock 82 w:52 h:2>
+Fei
+"(Com'era dalla
+parte che hai
+controllato?)"<Close><End of Block>
+<TextBlock 83 w:48 h:3>
+Sigurd
+"(Anche le strade
+secondarie sono
+altrettanto calme.)"<Close><End of Block>
+<TextBlock 84 w:34 h:3>
+Fei
+"(Capisco.<Delay 30>
+Ora che facciamo…?)"<Close><End of Block>
+<TextBlock 85 w:54 h:4>
+Sigurd
+"(Mmh… da quel poco che
+ho visto, non posso dire
+quale potrebbe essere…<New>
+… la loro prossima mossa.
+Ma non possiamo andarcene…<New>
+… tenendo conto che gli
+abitanti sono stati messi
+in pericolo a causa del
+nostro tesoro.)"<Close><End of Block>
+<TextBlock 86 w:44 h:4>
+Fei
+"(Ok, sono d'accordo.<Delay 30>
+Ma, a proposito,
+Margie sta bene?)"<Close><End of Block>
+<TextBlock 87 w:50 h:3>
+Sigurd
+"(Beh, riguardo a lei…<New>
+Il Padroncino è alquanto
+preoccupato che Margherita
+ci abbia seguiti.)"<Close><End of Block>
+<TextBlock 88 w:52 h:2>
+Sigurd
+"(Sì, ma conosci
+il Padroncino…)"<Close><End of Block>
+<TextBlock 89 w:52 h:4>
+Sigurd
+"(Beh, io dovrei andare.<New>
+Coordineremo le nostre
+mosse a seconda delle
+vostre…<New>
+… e cercheremo di farci
+breccia attraverso la
+strada posteriore.)"<Close><End of Block>
+<TextBlock 90 w:14 h:2>
+Fei
+"(Perfetto.)"<Close><End of Block>
+<TextBlock 91 w:54 h:4>
+Shitan
+"(Ma, ora che siamo venuti
+a conoscenza di così tante
+cose…<New>
+… e ne abbiamo vedute
+altrettante fino ad ora…<New>
+… dovremmo renderci conto
+che l'esistenza di Shakhan
+non è più solo un problema
+del giovanotto.<New>
+Se non fermiamo lui ed i
+suoi uomini, la prossima
+volta potremmo essere noi…<New>
+… a dover fronteggiare una
+tale sventura. Facciamoci
+animo ed aiutiamo queste
+persone!)"<Close><End of Block>
+<TextBlock 92 w:54 h:4>
+Fei
+"(Ma, ora che siamo venuti
+a conoscenza di così tante
+cose…<New>
+… e ne abbiamo vedute
+altrettante fino ad ora…<New>
+Dovremmo renderci conto
+che l'esistenza di Shakhan
+non è più solo un problema
+del giovane.<New>
+Se non fermiamo lui ed i
+suoi uomini, la prossima
+volta potremmo essere noi…<New>
+… a dover fronteggiare una
+tale sventura. Facciamoci
+animo ed andiamo ad
+aiutare i nostri amici!)"<Close><End of Block>
+<TextBlock 93 w:44 h:2>
+Fei
+"(Bene allora, andiamo!)"<Close><End of Block>
+<TextBlock 94 w:6 h:1>
+!<Close><End of Block>
+<TextBlock 95 w:54 h:4>
+Fei
+"Bene! Sembra che abbiamo
+ripulito la città da tutti
+i soldati."<Close><End of Block>
+<TextBlock 96 w:44 h:3>
+Sigurd
+"Non c'è ancora traccia
+degli abitanti…<Delay 30> finora."<Close><End of Block>
+<TextBlock 97 w:48 h:2>
+Fei
+"Beh, adesso andiamo.<New>
+Dov'è il mausoleo?"<Close><End of Block>
+<TextBlock 98 w:54 h:4>
+Bart
+"C'è un'entrata nel retro
+della cattedrale.<New>
+Dunque, per prima cosa,
+dobbiamo percorrere la
+strada che gira attorno
+a questa città…<New>
+… ed entrare attraverso
+quella che porta dietro
+alla cattedrale."<Close><End of Block>
+<TextBlock 99 w:42 h:4>
+Bart
+"Il mausoleo non è
+troppo lontano…<New>
+Ma non so quanto ci
+vuole per arrivare
+da qui a lì."<Close><End of Block>
+<TextBlock 100 w:48 h:3>
+Fei
+"Ma tu non ci sei mai
+stato dentro, Bart?"<Close><End of Block>
+<TextBlock 101 w:54 h:4>
+Bart
+"Proprio così…<Delay 30>
+Anche per me questa è
+la prima volta…<New>
+La prima volta che vado
+oltre il mausoleo."<Close><End of Block>
+<TextBlock 102 w:52 h:4>
+Bart
+"Dunque, né io né Margie
+lo conosciamo bene.<New>
+Sig e gli altri sono già
+decollati, perciò non
+potremo ritornare alla
+nave per un po'.<New>
+Per ora, dobbiamo
+risolvere tutto da soli."<Close><End of Block>
+<TextBlock 103 w:48 h:3>
+Bart
+"Andremo dopo aver
+finito di prepararci.<New>
+Perciò… potresti
+aspettarci all'entrata?"<Close><End of Block>
+<TextBlock 104 w:38 h:3>
+Bart
+"Bene…<Delay 30>
+prepariamoci."<Close><End of Block>
+<TextBlock 105 w:54 h:4>
+Fei
+"Ma, a quanto vedo…<New>
+… non credo che riusciremo
+a trovare la signora
+del negozio."<Close><End of Block>
+<TextBlock 106 w:52 h:4>
+Bart
+"Mmh… allora perché
+non lasciare nel
+negozio i soldi?<New>
+Chiaro che non sono
+buone maniere, ma
+sono sicuro che mi
+perdoneranno…"<Close><End of Block>
+<TextBlock 107 w:50 h:2>
+"     Insegui Shakhan dalla
+Mappa del Mondo fino al Portale."<Close><Close><End of Block>

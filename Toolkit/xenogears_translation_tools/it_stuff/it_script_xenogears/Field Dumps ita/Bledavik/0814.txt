@@ -1,0 +1,123 @@
+<TextBlock 1 w:36 h:4>
+Shitan
+"Affittiamo una stanza
+per riunirci e discutere
+riguardo al piano."<Opcode 2 60><Close><End of Block>
+<TextBlock 2 w:2 h:1>
+!<Opcode 2 30><Close><End of Block>
+<TextBlock 3 w:46 h:3>
+Ah… Scusatemi, ma…<Delay 60>
+non siete voi, Principe
+Bartolomeo?<Close><End of Block>
+<TextBlock 4 w:34 h:2>
+Bart
+"… E tu saresti…?"<Space 1><Close><End of Block>
+<TextBlock 5 w:42 h:4>
+Sono stata mandata qui
+dalla Setta di Nisan.<Delay 60> 
+Sono qui per controllare
+la situazione di Madre
+Margherita.<New>
+Principe Bartolomeo,
+sapevo che prima o poi
+sareste venuto…<Opcode 2 60><Close><End of Block>
+<TextBlock 6 w:44 h:4>
+Shitan
+"Beh,<Delay 30> non restiamo qui
+fermi a parlare.<New>
+Perché non far uso
+di una stanza?"<Close><End of Block>
+<TextBlock 7 w:42 h:3>
+Dovete essere stanchi.
+Io starò nella mia
+stanza, perciò passate
+dopo.<Close><End of Block>
+<TextBlock 8 w:42 h:1>
+Quella è la mia stanza.<Close><End of Block>
+<TextBlock 9 w:50 h:4>
+Sì, dopo essere stato
+per così tanto tempo
+nell'esercito…<New>
+Anche dopo che ne sono
+uscito, non mi sento
+di lavorare.<New>
+Ma guardare mia madre
+lavorare in questo modo
+mi fa pensare che forse
+potrei ripensarci.<Close><End of Block>
+<TextBlock 10 w:38 h:3>
+Shitan
+"Affrettiamoci ad
+andare al punto
+d'incontro."<Close><End of Block>
+<TextBlock 11 w:56 h:3>
+Mi spiace, oggi tutte le
+nostre stanze sono piene.<Delay 60>
+Se potete aspettare fino a
+sera, ne avrò qualcuna…<Close><End of Block>
+<TextBlock 12 w:16 h:1>
+Benvenuti.<Close><End of Block>
+<TextBlock 13 w:40 h:4>
+Facciamo 40G
+a persona?
+    Va bene
+    No<Close><End of Block>
+<TextBlock 14 w:54 h:4>
+Che ne dite di 50G a testa?
+    Ok
+    No
+    Ho una raccomandazione<Close><End of Block>
+<TextBlock 15 w:50 h:3>
+Che ne dite di 50G a testa?
+    Ok
+    No<Close><End of Block>
+<TextBlock 16 w:32 h:4>
+Chi vi ha mandati qui?
+    Ari
+    Shiffer
+    Non so<Close><End of Block>
+<TextBlock 17 w:72 h:4>
+Ah, lei non dà mai il suo nome.
+Ma… vi vanno bene 40G ciascuno?
+    Grazie
+    No<Close><End of Block>
+<TextBlock 18 w:36 h:4>
+Non la conosco! 
+50G a persona.
+    Ok
+    No<Close><End of Block>
+<TextBlock 19 w:56 h:2>
+Siete in <Opcode 10 1>, 
+perciò sono <Opcode 10 0>G.<Space 3><Close><End of Block>
+<TextBlock 20 w:30 h:2>
+Non avete abbastanza
+soldi.<Close><End of Block>
+<TextBlock 21 w:22 h:1>
+Tornate ancora!<Close><End of Block>
+<TextBlock 22 w:46 h:1>
+Ehi, non prendermi
+in giro!<Close><End of Block>
+<TextBlock 23 w:54 h:2>
+È vecchio e quasi rotto,
+perciò smettila di
+giocarci!<Close><End of Block>
+<TextBlock 24 w:46 h:2>
+Visto? L'hai rotto!
+ora devi ripagarlo!<Close><End of Block>
+<TextBlock 25 w:32 h:1>
+Sono 100G.<Close><End of Block>
+<TextBlock 26 w:42 h:2>
+Cosa, non hai 
+manco 100G?<Close><End of Block>
+<TextBlock 27 w:14 h:4>
+    <Opcode 1 255>OFF
+    BASSO
+    MEDIO
+    ALTO<Close><End of Block>
+<TextBlock 28 w:24 h:1>
+Chiusa.<Close><End of Block>
+<TextBlock 29 w:46 h:3>
+Shitan
+"Andiamo a sentire
+ciò che la suora
+ha da dirci."<Close><Close><End of Block>

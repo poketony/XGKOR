@@ -1,0 +1,15 @@
+#### 1 ####
+{fast:FF}North - Area A Control Room
+ 
+South - Area B Control Room
+ 
+East - Central Elevator
+
+#### 2 ####
+You have too many
+{str}.
+
+#### 3 ####
+ 
+ Received {str}.
+

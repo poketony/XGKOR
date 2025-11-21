@@ -1,0 +1,254 @@
+<TextBlock 1 w:22 h:3>
+Fei
+"Elly…?<Delay 10>
+Ehi, Elly!"<Close><End of Block>
+<TextBlock 2 w:46 h:3>
+Elly
+"Scusami… Hai
+detto qualcosa?"<Close><End of Block>
+<TextBlock 3 w:48 h:4>
+Fei
+"Se ho detto qualcosa??<Delay 10>
+Ma ti senti bene…<Delay 10>?<New>
+Hai le testa fra le
+nuvole. La tua mente
+è altrove."<Close><End of Block>
+<TextBlock 4 w:48 h:4>
+Elly
+"S…<Delay 5> scusami.<Delay 5>
+Pensavo ad altro.<New>
+E questa gente è davvero
+rumorosa."<Close><End of Block>
+<TextBlock 5 w:4 h:1>
+??<Opcode 2 20><Close><End of Block>
+<TextBlock 6 w:46 h:3>
+Elly
+"… Fei,<Delay 20> Fei?<Delay 10>
+Va tutto bene?"<Close><End of Block>
+<TextBlock 7 w:48 h:3>
+Fei
+"Uh, non è…<Delay 10> nulla…<Delay 10>
+Ma quel tipo, Krelian…<Delay 10><New>
+Mi sembra come se…<Delay 10>
+l'avessi già incontrato…"<Close><End of Block>
+<TextBlock 8 w:38 h:3>
+Elly
+"Riesci a capire
+ciò che dicono?<Delay 10>
+Vuoi che traduca?"<Close><End of Block>
+<TextBlock 9 w:30 h:2>
+Fei
+"Sì, grazie."<Close><End of Block>
+<TextBlock 10 w:4 h:1>
+!?<Opcode 2 20><Close><End of Block>
+<TextBlock 11 w:60 h:4>
+<Opcode 1 255>                              
+ 
+           B… Bart !          
+ <Opcode 2 20><Close><End of Block>
+<TextBlock 12 w:10 h:1>
+Ughh!<Close><End of Block>
+<TextBlock 13 w:46 h:2>
+Elly
+"(Non urlare!<New>
+Cosa succederà se
+scoprissero che sei
+un abitante della
+superficie?)"<Close><End of Block>
+<TextBlock 14 w:50 h:4>
+Fei
+"(Scusami, non potevo
+fare a meno di urlare.<Delay 10>
+Sono stati catturati!<New>
+Merda…<Delay 10>
+Andiamo!<Delay 10>
+Dobbiamo aiutarli…<Delay 5>…<Delay 5>)"<Close><End of Block>
+<TextBlock 15 w:44 h:3>
+Elly
+"(Aspetta!<Delay 10>
+Sta ancora parlando…)"<Close><End of Block>
+<TextBlock 16 w:48 h:4>
+Elly
+"('<Opcode 14 1>Per resuscitare i
+nostri progenitori, i 
+Gazel del tempo dei tempi…<New>
+Dopodomani,<Delay 10> quegli
+abitanti della superficie<Delay 10>
+saranno eliminati nel
+Sistema Soylent'.)"<Close><End of Block>
+<TextBlock 17 w:30 h:4>
+Fei
+"(Resuscitare i Gazel?<Delay 10>
+Sistema Soylent?<Delay 10>
+Che cosa sono?)"<Close><End of Block>
+<TextBlock 18 w:54 h:4>
+Elly
+"(I Gazel sono i Solariani
+di razza pura<Delay 10>…<New>
+Questa parola è sinonimo
+di cittadino di I Classe.<New>
+… Ma, in questo caso,
+probabilmente vuol dire
+'il Ministero di Gazel'.<New>
+Molto tempo fa, i membri
+del Ministero di Gazel
+persero i loro corpi per…<New>
+… proteggere la gente
+di Solaris. Da quanto ne
+so, il Sistema Soylent è…<New>
+… un importante sistema di
+supporto per Solaris, ma
+questo è tutto ciò che so.<New>
+Comunque, probabilmente si
+tratta di una copertura
+per un qualche tipo di
+esperimento…)"<Close><End of Block>
+<TextBlock 19 w:52 h:4>
+Fei
+"Non dirmi cosa fare!<Delay 10>
+Io vado!<Delay 10> Quei tizi
+non mi fermeranno."<Close><End of Block>
+<TextBlock 20 w:52 h:4>
+Elly
+"È per questo che ti
+ho detto di aspettare!<New>
+Non sappiamo cosa stia
+succedendo laggiù.<New>
+Se ci gettiamo a testa
+bassa, potremmo cadere
+nella stessa trappola
+in cui sono caduti loro!<New>
+Il palazzo è in stato di
+allerta, perciò dobbiamo
+investigare<Delay 10>…<New>
+Non sappiamo neanche dove
+loro sono stati presi
+prigionieri.<New>
+Abbiamo ancora 2 giorni,
+sono sicura che ci sia
+un modo per aiutarli.<Delay 10> 
+E noi dobbiamo trovarlo."<Close><End of Block>
+<TextBlock 21 w:44 h:3>
+Fei
+"Come fai a sapere che
+abbiamo due giorni interi?<New>
+E se cambiassero
+idea e domani…<New>
+Dico, è una cosa
+possibile, non è vero?"<Close><End of Block>
+<TextBlock 22 w:50 h:4>
+Elly
+"Può essere…<Delay 10>
+Ma noi non possiamo
+fare nulla, giusto?<New>
+Shitan non era lì,<Delay 10> il che
+significa che, da qualche
+parte, sta guardando
+la trasmissione.<New>
+Per prima cosa dobbiamo
+trovarlo. Lui conosce
+la struttura del centro
+della città meglio di me.<New>
+Perciò non facciamo nulla
+di sconsiderato,<Delay 10> va bene?"<Close><End of Block>
+<TextBlock 23 w:26 h:3>
+Fei
+"E lui dov'è?<Delay 10> Abbiamo
+bisogno di lui!"<Close><End of Block>
+<TextBlock 24 w:40 h:2>
+Elly
+"Come potrei saperlo?"<Close><End of Block>
+<TextBlock 25 w:42 h:4>
+Fei
+"Smettila di perdere
+tempo in chiacchere<Delay 10>…<New>
+Non dirmi che non hai
+già in mente un piano!"<Close><End of Block>
+<TextBlock 26 w:46 h:3>
+Elly
+"Sto solo dicendo
+che dobbiamo essere
+prudenti!"<Close><End of Block>
+<TextBlock 27 w:8 h:1>
+Ma…!<Opcode 2 20><Close><End of Block>
+<TextBlock 28 w:10 h:1>
+Cosa!<Opcode 2 20><Close><End of Block>
+<TextBlock 29 w:42 h:1>
+Ehi, che succede?<Close><End of Block>
+<TextBlock 30 w:46 h:3>
+Fei
+"Guarda!<Delay 10> Ci hanno
+scoperti!"<Close><End of Block>
+<TextBlock 31 w:46 h:3>
+Elly
+"Perché tu continui
+ad alzare la voce!"<Close><End of Block>
+<TextBlock 32 w:24 h:2>
+Elly
+"Di qua!!"<Opcode 2 10><Close><End of Block>
+<TextBlock 33 w:4 h:1>
+!!<Opcode 2 30><Close><End of Block>
+<TextBlock 34 w:50 h:4>
+… Allarme in città!!<Delay 10> 
+… Individuati due individui
+sospetti!<Delay 10> 
+… Inviare subito i Cubi
+di Sicurezza!!<Opcode 2 30><Close><End of Block>
+<TextBlock 35 w:0 h:1>
+<End of Block>
+<TextBlock 36 w:0 h:0>
+<End of Block>
+<TextBlock 37 w:0 h:0>
+<End of Block>
+<TextBlock 38 w:0 h:0>
+<End of Block>
+<TextBlock 39 w:0 h:0>
+<End of Block>
+<TextBlock 40 w:0 h:0>
+<End of Block>
+<TextBlock 41 w:0 h:0>
+<End of Block>
+<TextBlock 42 w:0 h:0>
+<End of Block>
+<TextBlock 43 w:0 h:0>
+<End of Block>
+<TextBlock 44 w:0 h:0>
+<End of Block>
+<TextBlock 45 w:0 h:0>
+<End of Block>
+<TextBlock 46 w:0 h:0>
+<End of Block>
+<TextBlock 47 w:0 h:0>
+<End of Block>
+<TextBlock 48 w:0 h:0>
+<End of Block>
+<TextBlock 49 w:0 h:0>
+<End of Block>
+<TextBlock 50 w:0 h:0>
+<End of Block>
+<TextBlock 51 w:0 h:0>
+<End of Block>
+<TextBlock 52 w:0 h:0>
+<End of Block>
+<TextBlock 53 w:0 h:0>
+<End of Block>
+<TextBlock 54 w:0 h:0>
+<End of Block>
+<TextBlock 55 w:0 h:0>
+<End of Block>
+<TextBlock 56 w:0 h:0>
+<End of Block>
+<TextBlock 57 w:0 h:0>
+<End of Block>
+<TextBlock 58 w:0 h:0>
+<End of Block>
+<TextBlock 59 w:0 h:0>
+<End of Block>
+<TextBlock 60 w:0 h:0>
+<End of Block>
+<TextBlock 61 w:0 h:0>
+<End of Block>
+<TextBlock 62 w:0 h:0>
+<End of Block>
+<TextBlock 63 w:0 h:0>
+<Close><End of Block>

@@ -1,0 +1,39 @@
+#### 1 ####
+Fei
+"Where are we?"
+
+#### 2 ####
+Elly
+"The 1st Class citizen
+level.{enter}
+This is where the
+Solaris people called
+Gazel live.
+Follow me."
+
+#### 3 ####
+Fei
+"W...wait.{enter}
+The guard robot may get 
+you again if you go in 
+there..."
+
+#### 4 ####
+Elly
+"Don't worry.{wait:0A}
+This is my house."
+
+#### 5 ####
+Fei
+"Y...your house?{wait:0A}
+This big house 
+is yours?"
+
+#### 6 ####
+Elly
+"Yep.{wait:0A}
+Come on in."
+
+#### 7 ####
+
+

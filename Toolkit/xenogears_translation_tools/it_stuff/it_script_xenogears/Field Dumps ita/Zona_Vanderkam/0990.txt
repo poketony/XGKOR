@@ -1,0 +1,27 @@
+<TextBlock 1 w:48 h:4>
+Bene, ora che il mio
+motore s'è riscaldato…<Delay 40>
+… iniziamo a dare il
+vero spettacolo!!<Opcode 2 150><Close><End of Block>
+<TextBlock 2 w:48 h:4>
+Bart
+"Oggi è il mio giorno
+sfortunato. Perché
+deve succedere adesso?<New>
+Oh, beh… Facciamola
+finita, dunque!"<Close><End of Block>
+<TextBlock 3 w:46 h:4>
+Ramsus
+"Non fare nulla di
+assurdo, Miang!
+Ho ancora un braccio!!"<Close><End of Block>
+<TextBlock 4 w:32 h:3>
+Miang
+"Comandante…
+ritiriamoci!"<Close><End of Block>
+<TextBlock 5 w:42 h:3>
+Miang
+"Ora ci ritiriamo!<New>
+… Quel cane pazzo sembra
+aver un nuovo giocattolo
+con cui giocare."<Close><Close><End of Block>

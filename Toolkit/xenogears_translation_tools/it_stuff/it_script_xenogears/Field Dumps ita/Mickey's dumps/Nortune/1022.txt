@@ -1,0 +1,30 @@
+<TextBlock 1 w:46 h:4>
+Quando questa guerra sarà
+finita, lui tornerà<Delay 5>…<New>
+Non se ne sarebbe andato
+se non ci fosse stata
+la guerra.<Delay 15>
+Lo so<Delay 5>…<Delay 5> lui tornerà.<Close><End of Block>
+<TextBlock 2 w:52 h:3>
+La guerra è finita, nonna.
+È già finita<Delay 5>…<Delay 5> Così non
+dire 'prima che io muoia'.<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+Mia figlia si è fidanzata,
+ma il suo ragazzo ha
+lasciato l'Impero a causa
+di questa lunga guerra.<Close><End of Block>
+<TextBlock 4 w:52 h:4>
+Questa guerra non finirà
+mai<Delay 5>…<Delay 5> Prima che io
+muoia vorrei vedere il
+viso di mio nipote.<Close><End of Block>
+<TextBlock 5 w:54 h:4>
+'G-u-e-r-r-a'. Non so
+cosa significhi davvero,
+ma credo sia solo battere
+il nemico, giusto?<Close><End of Block>
+<TextBlock 6 w:48 h:3>
+Un ritratto<Delay 5>…<Delay 5>…
+…? Dove ho già visto
+quella faccia?<Close><Close><End of Block>

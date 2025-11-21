@@ -1,0 +1,141 @@
+#### 1 ####
+Samson!!{clear:0F}
+
+#### 2 ####
+Samson
+"Not bad.{wait:0A} I think I'll
+let myself go on ahead!"
+
+#### 3 ####
+Elly
+"Wait!{wait:0A} 
+You're not a Gazel! {wait:0A}
+What're you going to do?"
+
+#### 4 ####
+Samson
+"Not a problem. I used 
+undergound tech to
+re-write my ID."
+
+#### 5 ####
+...{clear:0A}
+
+#### 6 ####
+£¾{wait:0A}£¾{wait:0A}£¾{wait:0A}ID error.
+Eliminate.{clear:1E}
+
+#### 7 ####
+W, wait!!{wait:0A}
+Ughaaaaaahhh!{clear:0A}
+
+#### 8 ####
+!!
+
+#### 9 ####
+...
+
+#### 10 ####
+Fei
+"Damn you!!{wait:0A}
+I'm gonna destroy it!!"
+
+#### 11 ####
+No!{clear:1E}
+
+#### 12 ####
+Waah!!{clear:1E}
+
+#### 13 ####
+Elly
+"It's useless to do that.{enter}
+You won't be able to get
+through without either a
+1st Class citizen ID or 
+a military ID..."
+
+#### 14 ####
+Fei
+"Then what're we going
+to do...?"
+
+#### 15 ####
+Elly
+"Well we can't just stand
+here...{enter}
+I guess it's going to have
+to be all or nothing."
+
+#### 16 ####
+Fei
+"If it doesn't work out,{enter}
+we'll worry about it
+later...is what you're
+saying?{wait:0A} Isn't that kinda
+sounding like{wait:0A} Bart?"
+
+#### 17 ####
+Fei
+"How rude. It's not
+like I always go in
+without a plan."
+
+#### 18 ####
+£¾{wait:0A}£¾{wait:0A}£¾{wait:0A}1st Class citizen,
+Gazel, confirmed.{wait:0A} Please
+pass through in an
+orderly fashion.
+
+#### 19 ####
+Fei
+"We can get through!"
+
+#### 20 ####
+Elly
+"..."
+
+#### 21 ####
+Fei
+"?{wait:0A}
+What's wrong?"
+
+#### 22 ####
+Elly
+"Huh?{wait:0A} Uh well...{wait:0A} {enter}
+I've done so much, I'm
+surprised they haven't
+labeled me as a
+traitor yet..."
+
+#### 23 ####
+Fei
+"You think it's because
+they haven't reported it?{enter}
+To the Gebler, it would
+be like admitting failure
+and all."
+
+#### 24 ####
+Elly
+"I hope so..."
+
+#### 25 ####
+Fei
+"Anyway, let's go!!"
+
+#### 26 ####
+Elly
+"Okay.{wait:14} Oh, stay very
+close to me.{enter}
+That way,
+it shouldn't pick up
+your presence."
+
+#### 27 ####
+Elly
+"Fei, where are you
+going?"
+
+#### 28 ####
+
+

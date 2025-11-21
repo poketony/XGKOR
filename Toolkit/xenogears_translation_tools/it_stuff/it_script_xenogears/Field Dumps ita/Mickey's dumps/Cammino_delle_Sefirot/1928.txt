@@ -1,0 +1,54 @@
+<TextBlock 1 w:50 h:4>
+Shitan
+"Fei!?<Delay 10>
+Ciò vuol dire che
+questo è l'aspetto…<New>
+… di <Weltall> dopo
+la trasformazione!?"<Close><End of Block>
+<TextBlock 2 w:38 h:4>
+Bart
+"Ma è… Fei!?<Delay 10>
+Ehi, pensi che questo
+sia <Weltall>?"<Close><End of Block>
+<TextBlock 3 w:40 h:4>
+Billy
+"Fei!?<Delay 10>
+Allora questo
+dev'essere…<New>
+… <Weltall>!?"<Close><End of Block>
+<TextBlock 4 w:46 h:4>
+Rico
+"Fei!?<Delay 15> Allora<Delay 5>…<Delay 5>
+Questo significa che
+quello dev'essere…<New>
+…<Delay 5> <Weltall>!?"<Close><End of Block>
+<TextBlock 5 w:30 h:4>
+Esmeralda
+"Fei!?<Delay 15>
+Allora questo è<Delay 5>…<Delay 5>
+<Weltall>?"<Close><End of Block>
+<TextBlock 6 w:36 h:4>
+<Chu-Chu>
+"Quello è…<Delay 5> Fei!?<Delay 15>
+Ehi, allora questo
+è <Weltall>, chu?"<Close><End of Block>
+<TextBlock 7 w:38 h:4>
+Maria
+"Fei!?<Delay 15>
+Allora,<Delay 5> questo è<Delay 5>…<Delay 5>
+<Weltall>?"<Close><End of Block>
+<TextBlock 8 w:50 h:4>
+Shitan
+"Fei!?<Delay 10>
+Ciò vuol dire che
+questo è l'aspetto…<New>
+… di <Weltall> dopo
+la trasformazione!?"<Close><End of Block>
+<TextBlock 9 w:28 h:4>
+Esmeralda
+"Fei!?<Delay 15>
+Allora questo è<Delay 5>…<Delay 5>
+<Weltall>?"<Close><End of Block>
+<TextBlock 10 w:24 h:2>
+<Perso1>
+"…"<Close><Close><End of Block>

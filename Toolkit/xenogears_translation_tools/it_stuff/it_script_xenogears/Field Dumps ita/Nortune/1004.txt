@@ -1,0 +1,206 @@
+<TextBlock 1 w:44 h:3>
+Fei
+"Basta!<Delay 15> Tutto questo
+non serve a nulla!<New>
+Non ho niente a che
+fare con voi!"<Close><End of Block>
+<TextBlock 2 w:10 h:2>
+Fei
+"<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 3 w:46 h:3>
+Suzarn
+"A<Delay 10>…<Delay 5> assurdo…<Delay 30> Anche
+io ho perso con te<Delay 5>…"<Close><End of Block>
+<TextBlock 4 w:50 h:4>
+Suzarn
+"Anche se è riuscito a
+sconfiggere gli altri tre<Delay 5>…<Delay 15>
+Per me è stata una bazzecola."<Close><End of Block>
+<TextBlock 5 w:36 h:3>
+Suzarn
+"Campione, cosa
+facciamo con lui?"<Close><End of Block>
+<TextBlock 6 w:36 h:3>
+Vargas
+"Ah! Te la farò
+pagare, un giorno!"<Close><End of Block>
+<TextBlock 7 w:48 h:4>
+Vargas
+"Heinrich e Leonardo
+sono proprio pietosi,
+hanno perso con uno
+come lui…"<Close><End of Block>
+<TextBlock 8 w:46 h:3>
+Heinrich
+"Guh,<Delay 5> uuhh<Delay 5>…<Delay 15> Come ho
+potuto essere<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 9 w:50 h:3>
+Heinrich
+"Ahahah. Parleremo
+ancora quando potrai
+sconfiggermi."<Close><End of Block>
+<TextBlock 10 w:42 h:4>
+Leonardo
+"Ho perso con uno
+che si è appena
+ripreso<Delay 5>…<Delay 15> Che tristezza."<Close><End of Block>
+<TextBlock 11 w:48 h:4>
+Leonardo
+"Unh!<Delay 5> No no!!<Delay 15> Non c'hai
+le basi,<Delay 5> le basi!"<Close><End of Block>
+<TextBlock 12 w:46 h:2>
+Rico
+"Ragazzo, vedo che non
+ti fai problemi a dire
+ciò che pensi."<Close><End of Block>
+<TextBlock 13 w:54 h:4>
+Rico
+"Adesso, credo che tu
+abbia capito, ma te lo
+dirò lo stesso<Delay 5>…<New>
+A tutti i criminali mandati
+qui è data una classe.<Delay 15>
+Decidere la tua classe è
+facile<Delay 5>…<New>
+Ottieni la tua classe
+combattendo questi quattro
+Combattenti."<Close><End of Block>
+<TextBlock 14 w:50 h:4>
+Rico
+"Rilassati<Delay 15>.<New>
+I combattimenti sono
+uno contro uno.<New>
+A quest'ora dovresti
+averlo capito<Delay 5>…<Delay 15>
+Il risultato è tutto!<New>
+Se riesci a sconfiggere
+questi quattro
+Combattenti…<New>
+… ti assicureremo
+una certa libertà<Delay 5>…"<Close><End of Block>
+<TextBlock 15 w:42 h:3>
+Rico
+"Allora,<Delay 15> che i
+combattimenti abbiano
+inizio<Delay 5>…<Delay 5>!"<Close><End of Block>
+<TextBlock 16 w:40 h:3>
+Rico
+"Il tuo primo
+avversario sarà
+Leonardo."<Close><End of Block>
+<TextBlock 17 w:40 h:3>
+Rico
+"Umph.
+Il prossimo?"<Close><End of Block>
+<TextBlock 18 w:38 h:4>
+Rico
+"Quello non era manco
+degno di essere chiamato
+combattimento<Delay 5>…<Delay 5><New>
+La tua classe è D!!"<Close><End of Block>
+<TextBlock 19 w:40 h:3>
+Rico
+"Mmmh, divertente.
+Il prossimo?"<Close><End of Block>
+<TextBlock 20 w:34 h:3>
+Rico
+"Tutto qui<Delay 5>…?<Delay 5>
+La tua classe è C!!"<Close><End of Block>
+<TextBlock 21 w:46 h:4>
+Rico
+"Non male. Nessuno
+aveva sconfitto Vargas
+prima di Suzarn<Delay 5>…<New>
+Ed ora l'ultimo!
+Pensi di poter vincere?"<Close><End of Block>
+<TextBlock 22 w:44 h:3>
+Rico
+"Più o meno va bene<Delay 5>…<Delay 5>
+La tua classe è C!!"<Close><End of Block>
+<TextBlock 23 w:50 h:4>
+Rico
+"Li hai sconfitti
+tutti e quattro<Delay 5>…<Delay 25><New>
+Ah, questo è un
+risultato che non
+mi sarei aspettato.<New>
+Lascia che io ti dia
+il trattamento speciale.
+Io stesso sarò il tuo
+ultimo avversario."<Close><End of Block>
+<TextBlock 24 w:34 h:3>
+Rico
+"Peccato<Delay 5>…<Delay 5>
+La tua classe è B!!"<Close><End of Block>
+<TextBlock 25 w:44 h:4>
+Rico
+"Non c'è bisogno di
+una ragione.<New>
+Questa è la tradizione
+del Blocco D!<Delay 15> Dobbiamo
+determinare l'ordine
+di beccata!"<Close><End of Block>
+<TextBlock 26 w:24 h:2>
+Rico
+"Preparati!"<Close><End of Block>
+<TextBlock 27 w:42 h:3>
+Rico
+"Lasciatelo lì.
+Qualcuno lo
+troverà."<Close><End of Block>
+<TextBlock 28 w:28 h:2>
+Rico
+"<Delay 5>…<Delay 5> Andiamo."<Close><End of Block>
+<TextBlock 29 w:44 h:4>
+Rico
+"<Delay 5>…<Delay 5> È stata un po' dura.
+Bene, una vittoria
+è una vittoria.<New> 
+La tua classe è A."<Close><End of Block>
+<TextBlock 30 w:40 h:4>
+Rico
+"<Delay 5>…<Delay 5> Non avete sentito?<Delay 15>
+Riportatelo ai
+suoi alloggi."<Close><End of Block>
+<TextBlock 31 w:50 h:3>
+Rico
+"<Delay 5>…<Delay 5> E <Delay 15>non dimenticate
+una cosa<Delay 5>…"<Close><End of Block>
+<TextBlock 32 w:54 h:4>
+Rico
+"Questo è quello che
+vorrei dire<Delay 5>…<Delay 5> ma anche noi
+abbiamo un po' di pietà.<New>
+Ti daremo un po'
+di tempo<Delay 5>…<Delay 15><New>
+Anche se si tratta di
+uno contro uno, devi
+comunque combatterci
+tutti e quattro.<New>
+Dovresti prepararti per
+la battaglia.<Delay 5>
+Ed un'altra cosa…<New>
+Non pensare nemmeno di
+filartela da qui<Delay 5>…<Delay 15>
+Dopotutto, è una cosa
+impossibile."<Close><End of Block>
+<TextBlock 33 w:42 h:4>
+Suzarn
+"Ehi, sei pronto?"<Delay 15>
+    Aspetta un attimo
+    Balliamo<Close><End of Block>
+<TextBlock 34 w:48 h:3>
+Suzarn
+"<Delay 5>… Spicciati.<New>
+Oltre a me, il resto
+della banda non ha
+molta pazienza."<Close><End of Block>
+<TextBlock 35 w:44 h:4>
+Suzarn
+"<Delay 5>…<Delay 5> Campione.
+È pronto<Delay 15>… per la sua
+'Cerimonia di Battesimo'."<Close><End of Block>
+<TextBlock 36 w:36 h:3>
+Rico
+"Umph,<Delay 5> allora<Delay 15> che
+si inizi<Delay 5>…"<Close><Close><End of Block>

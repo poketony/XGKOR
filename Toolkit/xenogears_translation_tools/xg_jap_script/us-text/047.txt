@@ -1,0 +1,9 @@
+#### 1 ####
+Draw the sword?
+    Yes
+    No
+
+#### 2 ####
+ 
+ Received 'Yamato Sword'.
+

@@ -1,0 +1,224 @@
+<TextBlock 1 w:36 h:3>
+Fei
+"Non possiamo andare
+nella cattedrale?"<Close><End of Block>
+<TextBlock 2 w:36 h:3>
+Elly
+"Non possiamo andare
+nella cattedrale?"<Close><End of Block>
+<TextBlock 3 w:38 h:4>
+Elly
+"È inutile…
+Non sopravviverà
+con queste ferite."<Close><End of Block>
+<TextBlock 4 w:28 h:3>
+Elly
+"È possibile
+con lui."<Close><End of Block>
+<TextBlock 5 w:44 h:3>
+Shitan
+"Non siamo ammessi
+all'interno della
+cattedrale?"<Close><End of Block>
+<TextBlock 6 w:36 h:3>
+Shitan
+"Sfortunatamente,
+è morto."<Close><End of Block>
+<TextBlock 7 w:52 h:2>
+Shitan
+"È possibile con lui."<Close><End of Block>
+<TextBlock 8 w:36 h:3>
+Bart
+"Non possiamo andare
+nella cattedrale?"<Close><End of Block>
+<TextBlock 9 w:22 h:3>
+Bart
+"Inutile.
+È morto."<Close><End of Block>
+<TextBlock 10 w:50 h:2>
+Bart
+"È possibile con lui."<Close><End of Block>
+<TextBlock 11 w:52 h:3>
+Billy
+"Ma…<Delay 10> questo è<Delay 10>…!
+Cosa…<Delay 10> cos'è accaduto qui?"<Close><End of Block>
+<TextBlock 12 w:34 h:3>
+Billy
+"Stai bene?<Delay 10>
+Cos'è successo?"<Close><End of Block>
+<TextBlock 13 w:40 h:3>
+Billy
+"Ehi, <Delay 20>coraggio!<Delay 10>
+Ehi!"<Close><End of Block>
+<TextBlock 14 w:40 h:3>
+Billy
+"Perché…<Delay 10>
+Perché è successo?<New>
+<Delay 10>…<Delay 10>…<Delay 10>…<Delay 10>…
+… Questo è…?"<Close><End of Block>
+<TextBlock 15 w:44 h:4>
+Billy
+"Questo bossolo…
+Mio padre<Delay 10>…?<New>
+Noooo… Non ditemi che
+si è scatenato nella
+Sede della Chiesa e…"<Close><End of Block>
+<TextBlock 16 w:46 h:3>
+Rico
+"Penso che non possiamo
+andare nella cattedrale."<Close><End of Block>
+<TextBlock 17 w:48 h:2>
+Rico
+"Credo che sia
+troppo tardi."<Close><End of Block>
+<TextBlock 18 w:40 h:2>
+Rico
+"Non posso negarlo."<Close><End of Block>
+<TextBlock 19 w:54 h:3>
+Billy
+"L'infermeria è da questa
+parte. Andiamo."<Close><End of Block>
+<TextBlock 20 w:46 h:4>
+Billy
+"Vi stavamo aspettando.<New>
+Ho avuto il permesso
+di far curare Fei per
+tutto il tempo che
+sarà necessario.<New>
+Lasciate che il personale
+della Chiesa si occupi
+di tutto il resto."<Close><End of Block>
+<TextBlock 21 w:54 h:3>
+Elly
+"Vi prego,
+prendetevi cura
+di Fei per me<Delay 4>…"<Close><End of Block>
+<TextBlock 22 w:50 h:4>
+Billy
+"I fratelli della
+Chiesa stanno curando
+Fei nell'infermeria.<New>
+Vi accompagno io.
+Seguitemi,<Delay 15> da
+questa parte."<Close><End of Block>
+<TextBlock 23 w:22 h:2>
+Billy
+"Da questa parte."<Close><End of Block>
+<TextBlock 24 w:10 h:2>
+Billy
+"…"<Close><End of Block>
+<TextBlock 25 w:52 h:4>
+Billy
+"Il fatto che lui
+sia mio padre è
+solo un caso!<New>
+Non voglio avere
+nulla a che fare
+con quell'uomo<Delay 5>…"<Close><End of Block>
+<TextBlock 26 w:52 h:4>
+Billy
+"…<Delay 10> Mio padre…<New>
+Vorrei che pensasse
+alla mia posizione
+prima di agire."<Close><End of Block>
+<TextBlock 27 w:42 h:4>
+Verlaine
+"Billy, ho sentito
+che tuo padre è di
+nuovo in azione."<Close><End of Block>
+<TextBlock 28 w:54 h:5>
+Verlaine
+"C'è stato un attacco 
+ad un sito di scavo e 
+molti miei 'fratelli'
+sono stati feriti."<Close><End of Block>
+<TextBlock 29 w:52 h:5>
+Verlaine
+"Billy, tu sei un ottimo
+Redentore.<New>
+Elimini i Mietitori e
+porti la giustizia della
+Chiesa in tutto il mondo.<New>
+Ma tuo padre è…"<Close><End of Block>
+<TextBlock 30 w:40 h:4>
+Verlaine
+"Non fraintendermi.
+Non sospetto di te,
+nostro 'fratello'.<New>
+Volevo solo
+informarti su
+tuo padre."<Close><End of Block>
+<TextBlock 31 w:48 h:3>
+Questa è la Sala per
+l'esercizio spirituale.
+È stata costruita per
+noi Redentori.<Close><End of Block>
+<TextBlock 32 w:54 h:5>
+No.
+Solo i membri della Chiesa
+o le persone conosciute
+entrano nella cattedrale.<New>
+Lo stesso vale per questa
+sala, ma il vescovo ha
+fatto un'eccezione per
+fratello Billy.<Close><End of Block>
+<TextBlock 33 w:22 h:1>
+B… <Delay 20>Billy<Delay 10>…<Space 1><Close><End of Block>
+<TextBlock 34 w:68 h:2>
+Io<Delay 10> non lo so<Delay 10>…<Delay 10>…
+All'improvviso, <Delay 10>un colpo
+di pistola<Delay 20>…<Delay 30>…<Delay 50><Close><End of Block>
+<TextBlock 35 w:42 h:2>
+La vera fede si ha
+solo con una rigida
+dottrina.<Close><End of Block>
+<TextBlock 36 w:50 h:4>
+La pace e l'ordine qui
+in Aquvy peggiorano di
+giorno in giorno.<New>
+Salvare le persone che
+non hanno nessuno a cui
+rivolgersi…<Delay 15>
+Anche questo è compito
+della Chiesa.<Close><End of Block>
+<TextBlock 37 w:46 h:4>
+Molte persone visitano
+la Chiesa in cerca di
+aiuto. Esse sono come
+noi Redentori.<New>
+Anche noi veniamo alla
+Chiesa con il cuore
+colmo di dolore.<Close><End of Block>
+<TextBlock 38 w:52 h:4>
+La Chiesa fu creata per
+salvare le persone…<New>
+Per salvare l'anima delle
+persone e per far rivivere
+la tecnologia perduta.<New>
+Noi desideriamo la
+felicità di tutta
+l'umanità.<Close><End of Block>
+<TextBlock 39 w:46 h:3>
+Io vivevo ad Aveh, ma
+ho perso tutto a causa
+della guerra con Kislev.<New>
+La Chiesa mi ha accolto
+come un seguace.
+Ora questa è la mia
+casa.<Close><End of Block>
+<TextBlock 40 w:46 h:3>
+I Mietitori hanno
+distrutto il mio
+villaggio…<New>
+Diventerò un Redentore
+e creerò un mondo senza
+sofferenza!<Close><End of Block>
+<TextBlock 41 w:38 h:2>
+Pa--p--à…
+Dov'è andata la mamma?<Close><End of Block>
+<TextBlock 42 w:40 h:4>
+<Perso1>
+"Ancora non conosciamo
+le condizioni di Fei.<Delay 30>
+… Restiamo qui per
+un altro po'."<Close><Close><End of Block>

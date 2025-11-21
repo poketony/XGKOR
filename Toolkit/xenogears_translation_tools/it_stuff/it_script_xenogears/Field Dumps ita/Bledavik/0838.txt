@@ -1,0 +1,62 @@
+<TextBlock 1 w:52 h:4>
+Devo scusarmi.
+Qui ci sono così tanti
+gatti che è difficile
+camminare! Mia figlia
+ne fa collezione.<Close><End of Block>
+<TextBlock 2 w:48 h:1>
+Già, siamo pieni di gatti.<Close><End of Block>
+<TextBlock 3 w:50 h:2>
+I gatti sono così carini!
+Quando li coccolo, mi
+viene sonno.<Close><End of Block>
+<TextBlock 4 w:48 h:3>
+Mio padre odiava i
+gatti, ma ora è
+fuori a dar loro
+da mangiare.<Close><End of Block>
+<TextBlock 5 w:18 h:1>
+Sono tornata.<Close><End of Block>
+<TextBlock 6 w:30 h:2>
+Ciao…<Delay 60>
+Ehi, vieni qui!<Close><End of Block>
+<TextBlock 7 w:48 h:2>
+Co… cosa?
+Non sto nascondendo
+nulla.<Close><End of Block>
+<TextBlock 8 w:34 h:1>
+Vieni qui…<Close><End of Block>
+<TextBlock 9 w:44 h:2>
+Fatto…<Delay 30>
+Ora posso andare
+di sopra?<Close><End of Block>
+<TextBlock 10 w:2 h:1>
+!<Close><End of Block>
+<TextBlock 11 w:56 h:2>
+Quella bambina…<Delay 60>
+cos'ha portato a
+casa stavolta?<Close><End of Block>
+<TextBlock 12 w:54 h:4>
+Ma…<Delay 60> è così triste…
+Io non ho padre, ma almeno
+ho una madre. Questa gattina
+non ha nessun genitore…<New>
+Mi sento sola perché mio
+padre non è qui. Ma… pensa
+a come si sente la mia
+povera amica gattina!<New>
+Così… le ho detto che
+avrebbe avuto molti amici
+a casa mia… e mi ha seguito
+fino a casa…<Close><End of Block>
+<TextBlock 13 w:38 h:3>
+…<Delay 60> Da qualche tempo
+chiamano casa mia
+la casa dei gatti.<Close><End of Block>
+<TextBlock 14 w:12 h:1>
+Scusa.<Close><End of Block>
+<TextBlock 15 w:42 h:2>
+Dovrai prendertene
+cura.<Close><End of Block>
+<TextBlock 16 w:10 h:1>
+Ok.<Close><Close><End of Block>

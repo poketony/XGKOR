@@ -1,0 +1,82 @@
+<TextBlock 1 w:42 h:2>
+Fei
+"… Dove siamo<Delay 35>…?"<Close><End of Block>
+<TextBlock 2 w:48 h:3>
+Fei
+"… Proprio così…<New>
+Il ricordo nella mia
+anima… Fu lasciato
+in me per il tuo bene…"<Close><End of Block>
+<TextBlock 3 w:54 h:4>
+Fei
+"… Sì, sei la figlia che
+io, o Kim, desideravamo.<New>
+Kim è stato parte di
+me, nel mio sangue,
+tramandando il suo
+ricordo generazione…<New>
+… dopo generazione per
+oltre 4000 anni.<New>
+Vivendo solo per il
+giorno in cui quella
+figlia, che non poté
+tenere stretta a sé…<New>
+… sarebbe nata."<Close><End of Block>
+<TextBlock 4 w:44 h:4>
+Esmeralda
+"… Io, ricordo…<New>
+Tempo fa… tu…
+… Kim… moristi…<New>
+… un attimo prima
+che la città morisse…
+Fu perché i soldati…
+cercarono di usarmi…"<Close><End of Block>
+<TextBlock 5 w:48 h:4>
+Esmeralda
+"Quando ero prigioniera…
+Krelian mi disse che
+io ero…<New>
+    … la suprema
+    'opera d'arte'
+   cui la tecnologia
+   aveva dato vita…<New>
+Sì, sapevo cos'ero.
+Sapevo di non essere
+un essere umano.
+Guarda il mio corpo…<New>
+Diverso da Maria,
+da Margie…<Delay 30> e da Elly.<New>
+… A imitazione
+dell'uomo…
+… Ma differente.<New>
+Kim ed Elly dicevano
+che… io ero un angelo…"<Space 1><Close><End of Block>
+<TextBlock 6 w:48 h:4>
+Esmeralda
+"Fei! Grazie per aver
+preso il posto di
+Kim fino ad ora!<New>
+Sarò forte e farò in
+modo che Kim ed Elly
+siano orgogliosi che
+io sia loro figlia!"<Close><End of Block>
+<TextBlock 7 w:32 h:2>
+Esmeralda
+"… Ma che…?<New>
+Fei…<Delay 35> corpo…
+così… c… aldo…"<Space 1><Close><End of Block>
+<TextBlock 8 w:36 h:4>
+Esmeralda
+"Fei…<Delay 45>
+stringimi… forte…<Delay 25><Space 1>
+Non lasciarmi!"<Close><End of Block>
+<TextBlock 9 w:16 h:3>
+Esmeralda
+"Fei…<Delay 32>
+corpo…"<Close><End of Block>
+<TextBlock 10 w:36 h:3>
+Esmeralda
+"… Io divento…
+… adulta… Io…<New>
+Non vi darò più
+fastidio!!"<Close><Close><End of Block>

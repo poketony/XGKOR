@@ -1,0 +1,269 @@
+<TextBlock 1 w:44 h:7>
+<Opcode 1 255>
+ 
+ 
+ 
+Nel prossimo episodio di
+      "XENOGEARS"…
+ (o, forse, "XENOSAGA")<Opcode 2 180><Opcode 2 180><Close><End of Block>
+<TextBlock 2 w:48 h:4>
+Fei
+"Sì, domani, eh…
+Il tuo matrimonio
+con Alice!<New>
+Questo sì che è
+un grande giorno!"<Close><End of Block>
+<TextBlock 3 w:50 h:4>
+Fei
+"Ehi, ehmm, Timothy.
+Voglio ringraziare
+sia te che Alice…<New>
+3 anni fa, mi risvegliai
+in questo villaggio, dopo
+aver perso la memoria…<New>
+Non sapevo chi fossi,
+dove fossi stato o cosa
+avessi fatto sino a
+quel giorno…<New>
+Non riuscivo a
+ricordare nulla…"<Close><End of Block>
+<TextBlock 4 w:54 h:4>
+Fei
+"Malgrado ciò…<New>
+… tu ed Alice siete 
+diventati miei amici,
+e mi avete incoraggiato
+ad andare avanti.<New>
+Se voi due non foste
+stati lì per me, non so
+che fine avrei fatto…"<Close><End of Block>
+<TextBlock 5 w:42 h:4>
+Fei
+"Timothy…<Delay 20>
+Dal profondo del mio
+cuore, ti ringrazio!<New>
+Adesso, tu e Alice
+fareste meglio a
+vivere per sempre
+felici!"<Close><End of Block>
+<TextBlock 6 w:24 h:2>
+Fei
+"Certo!"<Close><End of Block>
+<TextBlock 7 w:46 h:4>
+Fei
+"Sicuro!
+Lo farò…<Delay 20> Comunque,
+ci vediamo dopo.<New>
+Oh, e aspetto davvero
+con impazienza la
+cerimonia di domani."<Close><End of Block>
+<TextBlock 8 w:44 h:4>
+Fei
+"Ehi, ciao Dan!<Delay 20>
+Sei vivace, oggi…
+come sempre, del resto!"<Close><End of Block>
+<TextBlock 9 w:38 h:3>
+Fei
+"Cosa c'è, Dan?<Delay 20>
+Sembra una cosa seria!"<Close><End of Block>
+<TextBlock 10 w:40 h:3>
+Fei
+"Eh…?<Delay 30> 
+Ma che cos'ha?"<Close><End of Block>
+<TextBlock 11 w:52 h:4>
+Timothy
+"Allora, come stava
+Alice…<Delay 30>?<New>
+Ancora non riesco
+a credere che domani
+ci sposeremo davvero!<New>
+Mi sento così strano<Delay 30>…<New>
+Siamo sempre stati
+assieme, sin da
+quando eravamo solo
+dei bambini…"<Close><End of Block>
+<TextBlock 12 w:46 h:4>
+Timothy
+"Potresti andarmi a
+vedere come sta Alice…?<New>
+Il mio vecchio ed io
+abbiamo ancora da
+discutere su…<New>
+… alcune cose con lo
+zio di Alice ed il
+capo del villaggio."<Close><End of Block>
+<TextBlock 13 w:52 h:4>
+Timothy
+"Ehi! Ciao, Fei.
+Scusaci se stiamo
+usando così casa tua.<New>
+Ma dobbiamo parlare del
+grande giorno, domani, con
+il capo del villaggio."<Close><End of Block>
+<TextBlock 14 w:46 h:4>
+Timothy
+"Sì… giusto…<Delay 20>
+Ma ancora non mi
+sembra vero."<Close><End of Block>
+<TextBlock 15 w:48 h:4>
+Timothy
+"Ahah! Smettila, dai!
+Non devi fare così
+lo sdolcinato con me…<New>
+Comunque, io mi sento come
+se fossi sempre stato
+tuo amico, sin da
+quando eravamo bambini."<Close><End of Block>
+<TextBlock 16 w:48 h:3>
+Timothy
+"E continueremo ad 
+essere amici per
+sempre, vero?"<Close><End of Block>
+<TextBlock 17 w:46 h:4>
+Timothy
+"Oh, già, Fei…
+Potresti fare un salto da
+Alice e vedere come sta?<New>
+Ho ancora da discutere
+col mio vecchio e col
+capo del villaggio.<New>
+Ma sono sicuro che lei
+sarà felice di avere
+un po' di compagnia."<Close><End of Block>
+<TextBlock 18 w:46 h:4>
+Timothy
+"Dan!<Delay 30> Non essere
+così maleducato.<New>
+Che è tutta 'sta storia
+di entrare all'improvviso?
+E che mi dici del resto?"<Close><End of Block>
+<TextBlock 19 w:44 h:4>
+Timothy
+"Da domani, sarò
+il cognato di quel
+ragazzino…<New>
+Ah! Quel ruolo non
+sarà certo una luna
+di miele!"<Close><End of Block>
+<TextBlock 20 w:44 h:3>
+"Ah, eccoti qui!<Delay 30> 
+Fei, devo parlarti
+di una cosa!"<Close><End of Block>
+<TextBlock 21 w:32 h:3>
+Dan
+"Argh! Anche Timothy
+è qui."<Close><End of Block>
+<TextBlock 22 w:38 h:4>
+Dan
+"Vaffanculo, Timothy!<New>
+Finché non sposi mia
+sorella, non hai proprio
+nulla a che fare con me!<New>
+Ho soltanto degli affari
+qui col mio amico Fei!"<Close><End of Block>
+<TextBlock 23 w:50 h:4>
+Dan
+"Allora, comunque,
+Fei, io, ehmm…<New>
+Dopo devo parlarti
+di una cosa…"<Close><End of Block>
+<TextBlock 24 w:50 h:3>
+Dan
+"Sì, è per questo che non
+posso parlartene qui…<New>
+C'è una certa persona
+che ci sente e potrebbe
+romperci le palle…!"<Close><End of Block>
+<TextBlock 25 w:50 h:4>
+Dan
+"È una cosa
+importantissima…<Delay 20>!<New>
+Dobbiamo parlarne,<Delay 20>
+seriamente,<Delay 20> in privato,
+uomo-a-uomo!<New>
+Rimarrò a girare
+un po' qui fuori.<New>
+Allora ci vediamo
+dopo, OK!"<Close><End of Block>
+<TextBlock 26 w:46 h:4>
+Dan
+"A dopo, Timothy!<Delay 30>
+Mi raccomando, stammi
+bene fino a domani…"<Close><End of Block>
+<TextBlock 27 w:42 h:4>
+Anziano Lee
+"Oh, sei tu, Fei.<New>
+Siamo nel bel mezzo della
+discussione sugli ultimi
+preparativi del matrimonio
+di Alice e Timothy."<Close><End of Block>
+<TextBlock 28 w:52 h:4>
+Anziano Lee
+"Ehi, perché non porti
+a casa una fidanzata o
+due, ogni tanto?<New>
+Solo perché vivi con
+un vecchio come me,
+non significa che devi
+trattenerti, hai sentito!?<New>
+Eh, quando ero giovane
+come te, sembrava come
+se ogni giorno io…"<Close><End of Block>
+<TextBlock 29 w:10 h:2>
+Ehm!<Delay 20>
+Uhm!<Opcode 2 40><Close><End of Block>
+<TextBlock 30 w:48 h:4>
+Anziano Lee
+"Oh, ehmm… lascia stare.<New>
+Adesso, dobbiamo 
+discutere di cose
+importanti…<Delay 20> perciò
+non disturbare, ora."<Close><End of Block>
+<TextBlock 31 w:38 h:4>
+Anziano Lee
+"Dobbiamo ancora
+discutere di cose
+molto importanti…<New>
+Perciò ora non
+dovresti disturbarci."<Close><End of Block>
+<TextBlock 32 w:46 h:4>
+Padre di Timothy
+"Ehi, ciao, Fei.<New>
+Il nostro Timothy è
+proprio un ragazzo
+fortunato, per riuscire
+a sposare una ragazza
+bellissima come Alice!<New>
+Spero che un giorno
+tornerai con qualche
+storia imbarazzante
+da raccontare!
+Aah Aaah Aaaah!"<Close><End of Block>
+<TextBlock 33 w:56 h:3>
+Zio di Alice
+"Non so se essere
+felice o triste…<New>
+Domani, la nostra piccola
+Alice diventerà la moglie
+di qualcuno…<New>
+Sapevo che questo giorno
+sarebbe arrivato!<Delay 20>
+… Questa è la parte
+peggiore del far crescere
+una bambina!"<Close><End of Block>
+<TextBlock 34 w:14 h:1>
+Sigh…<Opcode 2 20><Close><End of Block>
+<TextBlock 35 w:56 h:3>
+Sai, Fei, sono sicura che
+per il capo del nostro
+villaggio sei come un nipote…<New>
+Non avere famiglia per
+tutti questi anni, e vivere
+da solo per così tanto tempo…<New>
+È il motivo per cui si
+preoccupa così tanto di te!<Close><End of Block>
+<TextBlock 36 w:62 h:3>
+Per favore, non fare mai
+qualcosa che possa spezzare 
+il suo povero, vecchio cuore!<Delay 20>
+Me lo prometti, Fei!?<Close><Close><End of Block>

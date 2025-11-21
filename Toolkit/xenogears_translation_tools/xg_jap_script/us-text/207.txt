@@ -1,0 +1,150 @@
+#### 1 ####
+Captain
+"Our war isn't over yet.{enter}
+The Central District
+exists to do battle with
+the real enemy."
+
+#### 2 ####
+Captain
+"When will we be able to
+use our real power...?"
+
+#### 3 ####
+Why do you think we have a
+bridge here? Hah hah hah?
+
+#### 4 ####
+Many were injured in the
+last Kislev-Aveh war.{enter}
+Even my family...{enter}
+War only leaves misery.
+
+#### 5 ####
+The power of the 'Ethos'
+still exists as strong
+as ever in Kislev...{enter}
+But many ordinary citizens
+died trying to oppose the
+influence of the 'Ethos'.
+
+#### 6 ####
+A peace treaty has
+been signed with Aveh.{enter}
+Let's hope it lasts...
+
+#### 7 ####
+Kislev and Aveh almost had
+a truce once before. {enter}
+But the relationship 
+worsened due to Gebler.
+
+#### 8 ####
+Ever hear of a red Gear?
+I hear it took out a Gebler
+unit.{enter}
+If only he'd be our savior.
+
+#### 9 ####
+Lately, the Kaiser's been
+shutting himself out from
+the world.{enter}
+Imagine how happy he'd be
+if his family returned...
+
+#### 10 ####
+The 'Ethos' has been using
+a human rights movement to
+usurp political power.{enter}
+In a recent parade, there
+was an attempt on the life
+of the Kaiser.{enter}
+Fortunately, they failed,
+but we don't know when they
+might strike again...
+
+#### 11 ####
+I never went on even one
+mission.{enter}
+I don't know whether to be
+happy or sad.
+
+#### 12 ####
+Never knowing when you may
+get a mission can drive you
+nuts.{enter}
+If I knew it was gonna be
+like this, I woulda stayed
+at the docks fixing Gears.
+
+#### 13 ####
+I may not have deserved to,
+but I made it back alive.
+
+#### 14 ####
+I'm going on a mission soon.{enter}
+I may not make it back, but
+I'm still ready for it.
+
+#### 15 ####
+Now I'm even more confused
+with the way things are.{enter}
+Peace with Aveh probably
+won't last.
+
+#### 16 ####
+The lower ranks don't know
+how the war's going...{enter}
+Some of them are panicky
+making them very hard to
+lead...{enter}
+What would we do if they
+attacked now?
+
+#### 17 ####
+Hey!{wait:1E} The train oughtta
+be coming 'round now.
+
+#### 18 ####
+Why?
+
+#### 19 ####
+Oh yeah...{wait:28} You were
+in D Block, right?
+
+#### 20 ####
+Even nameless soldiers
+have lives to live.
+Remember that...
+
+#### 21 ####
+Even nameless soldiers
+have lives to live.
+Remember that...
+
+#### 22 ####
+Oh, Gear maintainence...?{enter}
+I quit that job.
+
+#### 23 ####
+I don't wanna go to D Block.
+I got bad memories there.{enter}
+Anyhow, they'd send me back
+if they found out I made it
+this high up.
+
+#### 24 ####
+A Gear decimated an elite
+unit of Gears in Lahan.
+
+#### 25 ####
+A Gear decimated an elite
+unit of Gears in Lahan.
+
+#### 26 ####
+Actually, there was one
+survivor from Lahan.{enter}
+But he seems to be going
+through a mental breakdown.
+What happened there...?
+

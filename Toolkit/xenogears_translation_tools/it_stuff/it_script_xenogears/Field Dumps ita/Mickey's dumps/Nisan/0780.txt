@@ -1,0 +1,61 @@
+<TextBlock 1 w:52 h:3>
+Continuando il nostro
+pellegrinaggio dal sud,
+siamo arrivati pochi
+giorni fa.<Close><End of Block>
+<TextBlock 2 w:50 h:2>
+Andarsene in giro per
+il deserto è duro!<Close><End of Block>
+<TextBlock 3 w:48 h:3>
+Si dice che ci siano
+pirati nella Capitale
+Reale, è vero?<Close><End of Block>
+<TextBlock 4 w:50 h:4>
+In accordo con i
+rappresentati della
+città, stiamo cercando
+ospitalità.<Close><End of Block>
+<TextBlock 5 w:40 h:4>
+Mi dispiace, ma
+siamo al completo.
+In cambio vogliate
+accettare questo…<Close><End of Block>
+<TextBlock 6 w:56 h:3>
+ 
+  Infuso di Erbe!
+                     <Close><End of Block>
+<TextBlock 7 w:44 h:1>
+Dimagrisci un po'.<Close><End of Block>
+<TextBlock 8 w:22 h:1>
+Tornate di nuovo!<Close><End of Block>
+<TextBlock 9 w:44 h:4>
+Vi stiamo fornendo di
+una casa vuota.
+    Sì, capito!
+    Cosa c'è lì?<Close><End of Block>
+<TextBlock 10 w:48 h:2>
+Uh?
+…<Delay 30> Quello?<New>
+Sono felice che vi piaccia!
+Ecco a voi.<Close><End of Block>
+<TextBlock 11 w:56 h:3>
+ 
+  Infuso di Erbe!
+                     <Close><End of Block>
+<TextBlock 12 w:40 h:2>
+Vi stiamo fornendo di
+una casa vuota.<Close><End of Block>
+<TextBlock 13 w:50 h:3>
+Benvenuti!<New>
+Considerando che avete
+salvato la città, potete
+riposare gratis.<Close><End of Block>
+<TextBlock 14 w:20 h:3>
+Riposate?
+    Sì
+    No<Close><End of Block>
+<TextBlock 15 w:20 h:2>
+Grazie!
+Tornate ancora.<Close><End of Block>
+<TextBlock 16 w:20 h:1>
+Tornate ancora.<Close><Close><End of Block>

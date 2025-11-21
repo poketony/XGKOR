@@ -1,0 +1,62 @@
+#### 1 ####
+Shopkeep Johnny
+"Hi there!
+Nice to see you again."
+
+#### 2 ####
+Shopkeep Johnny
+"If you say 'dungeons', I
+say 'traveling merchants'!{enter}
+You say 'traveling
+merchants'...and I say
+'Shopkeep Johnny'!"
+
+#### 3 ####
+Shopkeep Johnny
+"Hey!
+I'm not your enemy!"
+
+#### 4 ####
+Shopkeep Johnny
+"My family's been merchants
+for generations. {enter}
+There is a way of fighting
+among merchants too...
+And this is my battle!"
+
+#### 5 ####
+Shopkeep Johnny
+"Wanna buy something,
+or fix up your Gear?"
+
+#### 6 ####
+    {fast:FF}Character
+    Gear
+    Nothing
+
+#### 7 ####
+    {fast:FF}Items
+    Accessories
+    Go back
+    Nothing
+
+#### 8 ####
+Shopkeep Johnny
+"Thank ya."
+
+#### 9 ####
+You have too many
+{str}.
+
+#### 10 ####
+ 
+ Received {str}.
+
+#### 11 ####
+You have too many
+{str}.
+
+#### 12 ####
+ 
+ Received {str}.
+

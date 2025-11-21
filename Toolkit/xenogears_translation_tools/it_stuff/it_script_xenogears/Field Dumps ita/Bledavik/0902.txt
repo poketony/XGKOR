@@ -1,0 +1,58 @@
+<TextBlock 1 w:40 h:4>
+Pensi che le donne siano
+più deboli degli uomini?
+    Sì, lo credo
+    No, in realtà no<Close><End of Block>
+<TextBlock 2 w:44 h:2>
+Cosa!? Non sottovalutare
+le donne del deserto!<Close><End of Block>
+<TextBlock 3 w:38 h:2>
+Lo dici solo per fare
+colpo su di me.<Close><End of Block>
+<TextBlock 4 w:48 h:3>
+Non sei agitato?<New>
+Io già sono dovuto
+andare a pisciare
+un paio di volte.<New>
+E devo andare…<Delay 50>
+… di nuovo.<Close><End of Block>
+<TextBlock 5 w:28 h:3>
+Io sono forte…
+Io sono forte…
+Io sono forte…<Close><End of Block>
+<TextBlock 6 w:40 h:3>
+Conosci il mio nome?
+    Sì
+    No<Close><End of Block>
+<TextBlock 7 w:34 h:3>
+Esatto…
+Io sono l'unico ed
+inimitabile… 'Big Joe'!<Close><End of Block>
+<TextBlock 8 w:34 h:3>
+Cosa, non lo ricordi?
+Io sono…<Delay 50> Big Joe!<New>
+L'uomo che controlla
+il mondo.<Close><End of Block>
+<TextBlock 9 w:44 h:4>
+Big Joe
+"Ehi, ragazzo.
+Sai qual è il segreto
+dell'essere forti?<New>
+È…<Delay 30> la riconoscenza nei
+confronti di tutti i
+tuoi ammiratori. Il loro
+amore mi dà la forza."<Close><End of Block>
+<TextBlock 10 w:48 h:4>
+Ehi, ragazzo. Hai
+qualcuno che ti inciti?
+    Sì
+    No<Close><End of Block>
+<TextBlock 11 w:36 h:3>
+Big Joe
+"OK, non dimenticare
+di ringraziarli."<Close><End of Block>
+<TextBlock 12 w:42 h:3>
+Big Joe
+"Oh cavolo. La vita è
+troppo lunga per
+camminare da soli."<Close><Close><End of Block>

@@ -1,0 +1,4 @@
+<TextBlock 1 w:46 h:2>
+Questo è il negozio di
+armature. Cosa posso
+fare per voi?<Close><Close><End of Block>

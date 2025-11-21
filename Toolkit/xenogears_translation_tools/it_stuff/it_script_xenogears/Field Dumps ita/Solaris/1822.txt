@@ -1,0 +1,98 @@
+<TextBlock 1 w:34 h:2>
+Fei
+"… Basta!
+Basta!!"<Close><End of Block>
+<TextBlock 2 w:52 h:2>
+Fei
+"Ua-a-a-a-a-a-a-a-a-ah!!"<Close><End of Block>
+<TextBlock 3 w:44 h:3>
+Carnefice
+"Sì, è chiaro.<New>
+Nulla a che vedere con le
+ridicole manifestazioni di
+potere a cui abbiamo fino
+ad ora assistito."<Close><End of Block>
+<TextBlock 4 w:40 h:4>
+Miang
+"E credo che stavolta
+non se ne andrà così
+facilmente…<New>
+Sembra che l'energia
+mentale di Fei si
+sia indebolita…<New>
+Sembra di essere
+tornati ai 'vecchi
+tempi'…"<Close><End of Block>
+<TextBlock 5 w:22 h:2>
+Miang
+"Ah ah…"<Close><End of Block>
+<TextBlock 6 w:46 h:3>
+Miang
+"I suoi sentimenti non
+sono cambiati col
+passare degli anni.<New>
+Forse sei tu ad aver
+cambiato e mischiato
+i tuoi sentimenti?"<Close><End of Block>
+<TextBlock 7 w:46 h:4>
+Miang
+"Vuoi che lui te la
+riporti indietro?
+Troppo tardi.<New>
+Kahr se n'è già
+andato."<Close><End of Block>
+<TextBlock 8 w:14 h:2>
+Miang
+"Cosa?"<Close><End of Block>
+<TextBlock 9 w:52 h:4>
+Miang
+"Non è questo
+quello che vuoi?<New>
+Anche se sono stata
+io a far sì che tu la
+pensi in questo modo…<Delay 40>
+Ma ormai ci siamo quasi.<New>
+È la sola ed unica vera
+prova del nostro successo.<Delay 20>
+Prendiamoci buona cura
+di lui."<Close><End of Block>
+<TextBlock 10 w:44 h:4>
+Miang
+"Sono d'accordo. Dovremmo
+fare un favore a Kahr e
+salvarlo… non è vero?"<Close><End of Block>
+<TextBlock 11 w:34 h:2>
+Krelian
+"Alla fine è apparso…"<Close><End of Block>
+<TextBlock 12 w:40 h:2>
+Krelian
+"Che c'è di così
+divertente?"<Close><End of Block>
+<TextBlock 13 w:46 h:2>
+Krelian
+"Umph,<Delay 35> non fare la
+stupida. A proposito…
+che mi dici di Ramsus?"<Close><End of Block>
+<TextBlock 14 w:52 h:4>
+Krelian
+"Credimi, ti dico che
+è uno spreco di tempo…
+Ma va bene lo stesso.<New>
+Probabilmente, lui ci ha
+aiutati a controllarlo…<Delay 10>
+Tuttavia…"<Close><End of Block>
+<TextBlock 15 w:50 h:4>
+Krelian
+"Come si può continuare
+a combattere senza
+speranza di vittoria…?"<Close><End of Block>
+<TextBlock 16 w:50 h:3>
+Krelian
+"Quali siano le vere
+intenzioni di lei… questo
+non lo so neanch'io."<Close><End of Block>
+<TextBlock 17 w:30 h:4>
+Krelian
+"Andiamo. Questo
+posto sarà presto
+distrutto."<Close><Close><End of Block>

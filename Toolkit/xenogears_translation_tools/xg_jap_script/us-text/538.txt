@@ -1,0 +1,80 @@
+#### 1 ####
+Fei
+"It's no good...
+That's beyond
+human strength!"
+
+#### 2 ####
+It won't move any
+more than this.
+
+#### 3 ####
+It might move if
+we push it.
+
+#### 4 ####
+It might move if we
+push it with our Gears.
+
+#### 5 ####
+Shopkeep Johnny
+"Hi there!
+Nice to see you again."
+
+#### 6 ####
+Shopkeep Johnny
+"If you say 'dungeons', I
+say 'traveling merchants'!{enter}
+You say 'traveling
+merchants'...and I say
+'Shopkeep Johnny'!"
+
+#### 7 ####
+Shopkeep Johnny
+"Hey!
+I'm not your enemy!"
+
+#### 8 ####
+Shopkeep Johnny
+"My family's been merchants
+for generations. {enter}
+There is a way of fighting
+among merchants too...
+And this is my battle!"
+
+#### 9 ####
+Shopkeep Johnny
+"Wanna buy something,
+or fix up your Gear?"
+
+#### 10 ####
+    {fast:FF}Character
+    Gear
+    Nothing
+
+#### 11 ####
+    {fast:FF}Items
+    Accessories
+    Go back
+    Nothing
+
+#### 12 ####
+Shopkeep Johnny
+"Thank ya."
+
+#### 13 ####
+You have too many
+{str}.
+
+#### 14 ####
+ 
+ Received {str}.
+
+#### 15 ####
+You have too many
+{str}.
+
+#### 16 ####
+ 
+ Received {str}.
+

@@ -1,0 +1,232 @@
+#### 1 ####
+Fei
+"Hmm..."
+
+#### 2 ####
+Fei
+"I think I saw some
+info. about this on the
+terminal above us..."
+
+#### 3 ####
+Anima Relic has
+been released.
+
+#### 4 ####
+Enter the code.
+
+#### 5 ####
+{fast:FF}ADDRESS A
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    CANCEL
+
+#### 6 ####
+{fast:FF}That number is locked.
+Enter a different number.
+
+#### 7 ####
+{fast:FF}That number is locked.
+Enter a different number.
+
+#### 8 ####
+{fast:FF}That number is locked.
+Enter a different number.
+
+#### 9 ####
+{fast:FF}That number is locked.
+Enter a different number.
+
+#### 10 ####
+{fast:FF}That number is locked.
+Enter a different number.
+
+#### 11 ####
+Anima Relic has
+been released.
+
+#### 12 ####
+Enter the code.
+
+#### 13 ####
+{fast:FF}ADDRESS B
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    CANCEL
+
+#### 14 ####
+{fast:FF}That number is locked.
+Enter a different number.
+
+#### 15 ####
+{fast:FF}That number is locked.
+Enter a different number.
+
+#### 16 ####
+{fast:FF}That number is locked.
+Enter a different number.
+
+#### 17 ####
+{fast:FF}That number is locked.
+Enter a different number.
+
+#### 18 ####
+{fast:FF}That number is locked.
+Enter a different number.
+
+#### 19 ####
+Anima Relic has
+been released.
+
+#### 20 ####
+Enter the code.
+
+#### 21 ####
+{fast:FF}ADDRESS C
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    CANCEL
+
+#### 22 ####
+{fast:FF}That number is locked.
+Enter a different number.
+
+#### 23 ####
+{fast:FF}That number is locked.
+Enter a different number.
+
+#### 24 ####
+{fast:FF}That number is locked.
+Enter a different number.
+
+#### 25 ####
+{fast:FF}That number is locked.
+Enter a different number.
+
+#### 26 ####
+{fast:FF}That number is locked.
+Enter a different number.
+
+#### 27 ####
+Anima Relic has
+been released.
+
+#### 28 ####
+Enter the code.
+
+#### 29 ####
+{fast:FF}ADDRESS D
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    CANCEL
+
+#### 30 ####
+{fast:FF}That number is locked.
+Enter a different number.
+
+#### 31 ####
+{fast:FF}That number is locked.
+Enter a different number.
+
+#### 32 ####
+{fast:FF}That number is locked.
+Enter a different number.
+
+#### 33 ####
+{fast:FF}That number is locked.
+Enter a different number.
+
+#### 34 ####
+{fast:FF}That number is locked.
+Enter a different number.
+
+#### 35 ####
+Anima Relic has
+been released.
+
+#### 36 ####
+    {fast:FF}Current Code Condition
+    Code Address
+    Release lock
+
+#### 37 ####
+{fast:FF}       {number(s):01}
+       9
+   {number(s):00} 6 7 3 {number(s):02}
+       1
+       {number(s):03}
+
+#### 38 ####
+{fast:FF}       B
+       9
+   A 6 7 3 C 
+       1
+       D
+
+#### 39 ####
+Anima Relic Released!
+
+#### 40 ####
+Ride in the center
+of the lift.
+
+#### 41 ####
+Anima Relic Released!
+
+#### 42 ####
+Ride in the center
+of the lift.
+
+#### 43 ####
+Anima Relic Released!
+
+#### 44 ####
+Ride in the center
+of the lift.
+
+#### 45 ####
+Anima Relic Released!
+
+#### 46 ####
+Ride in the center
+of the lift
+
+#### 47 ####
+Incorrect code error!
+
+#### 48 ####
+    UP
+    DOWN
+
+#### 49 ####
+'0' is the default value.
+Please ignore it.
+

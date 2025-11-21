@@ -1,0 +1,61 @@
+#### 1 ####
+Elly
+"So there is an Anima
+Relic in these ruins."
+
+#### 2 ####
+Elly
+"So there is an Anima
+Relic in these ruins."
+
+#### 3 ####
+Rico
+"Hmph, so ancient people
+worshipped meaningless 
+things too, huh?"
+
+#### 4 ####
+Rico
+"Hmph, so ancient people
+worshipped meaningless 
+things too, huh?"
+
+#### 5 ####
+Rico
+"Who's that?
+Wha'd you say?{enter}
+Say something I understand!
+Who're you!?
+Get outta my head!"
+
+#### 6 ####
+Rico
+"Who's that?
+Wha'd you say?{enter}
+Say something I understand!
+Who're you!?
+Get outta my head!"
+
+#### 7 ####
+Fei
+"Rico, are 
+you okay?"
+
+#### 8 ####
+Rico
+"I've seen that shape 
+somewhere before."
+
+#### 9 ####
+Rico
+"I've seen that shape 
+somewhere before."
+
+#### 10 ####
+Fei
+"Wasn't that Rico's Gear? 
+So it looks like it was
+your turn, Rico!{enter}
+Well anyway, we'll soon
+see when we go outside."
+

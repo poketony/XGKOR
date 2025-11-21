@@ -1,0 +1,37 @@
+#### 1 ####
+You have too many
+{str}.
+
+#### 2 ####
+ 
+ Received {str}.
+
+#### 3 ####
+Fei
+"...It looks like we can
+get out of our Gears and
+go in here on foot."
+
+#### 4 ####
+Fei
+"...The city we saw from
+Emeralda's ruins...{enter}
+...{wait:20}We've come a
+long way from there..."
+
+#### 5 ####
+You have too many
+{str}.
+
+#### 6 ####
+ 
+ Received {str}.
+
+#### 7 ####
+You have too many
+{str}.
+
+#### 8 ####
+ 
+ Received {str}.
+

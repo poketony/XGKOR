@@ -1,0 +1,129 @@
+<TextBlock 1 w:42 h:3>
+Elly
+"Cosa? 
+C'è qualcosa…"<Close><End of Block>
+<TextBlock 2 w:46 h:2>
+Elly
+"Billy, chi è
+il 'compagno'?"<Close><End of Block>
+<TextBlock 3 w:50 h:4>
+Elly
+"Non c'è nulla là.
+Che spavento, è
+solo un pesce!<New>
+Ma il mare è grande.
+La brezza così fresca…
+È così diverso dal
+deserto!!"<Close><End of Block>
+<TextBlock 4 w:50 h:5>
+Elly
+"!!<New>
+Non hai appena detto
+che non avevamo
+nessuna possibilità
+contro di lui?"<Close><End of Block>
+<TextBlock 5 w:40 h:3>
+Shitan
+"Uh? 
+C'è qualcosa…"<Close><End of Block>
+<TextBlock 6 w:48 h:2>
+Shitan
+"Billy… chi è
+il 'compagno'?<Close><End of Block>
+<TextBlock 7 w:52 h:3>
+Shitan
+"Non c'è nulla là.
+Solo un pesce.<New>
+Ahh… il mare. La fresca
+brezza… così differente
+dal deserto!!"<Close><End of Block>
+<TextBlock 8 w:52 h:3>
+Shitan
+"!!<New>
+Non avevi detto che
+non ce l'avremmo fatta
+da soli contro di lui?"<Close><End of Block>
+<TextBlock 9 w:40 h:3>
+Bart
+"Uh? 
+Là c'è qualcosa…?"<Close><End of Block>
+<TextBlock 10 w:54 h:2>
+Bart
+"Ehi Billy, chi è
+il 'compagno'?"<Close><End of Block>
+<TextBlock 11 w:52 h:4>
+Bart
+"Non c'è nulla qui se
+non qualche pesce.<New>
+Amo il mare. La fresca
+brezza… così diversa dal
+deserto! D'ora in poi
+sarò un uomo di mare!"<Close><End of Block>
+<TextBlock 12 w:52 h:4>
+Bart
+"Ehi!<New>
+Embè? Non avevi detto
+che non ce l'avremmo
+fatta da soli contro
+di lui?"<Close><End of Block>
+<TextBlock 13 w:34 h:2>
+Rico
+"E quello…?"<Close><End of Block>
+<TextBlock 14 w:50 h:2>
+Rico
+"Ehi Billy, chi è
+il 'compagno'?"<Close><End of Block>
+<TextBlock 15 w:48 h:3>
+Rico
+"Uh? È solo un pesce.<New>
+Ah, amo il mare.
+La brezza così fresca…
+Nulla a che vedere
+con Kislev."<Close><End of Block>
+<TextBlock 16 w:52 h:4>
+Rico
+"Ehi!<New>
+E ora? Non avevi detto
+che non ce l'avremmo
+fatta da soli contro
+di lui?"<Close><End of Block>
+<TextBlock 17 w:48 h:3>
+Billy
+"Proprio come pensavo.
+Questa nave da trasporto
+è infestata.<New>
+Devo tornare alla
+Chiesa e riferirlo
+al Vescovo Stone…"<Close><End of Block>
+<TextBlock 18 w:54 h:4>
+Billy
+"… Mmh, probabilmente
+è uno dei loro fratelli.
+Un enorme Wels.<New>
+Un'entità che non possiamo
+affrontare da soli. Ma
+state tranquilli, è anche
+molto lenta.<New>
+Anche se quel Wels l'ha
+chiamato, probabilmente
+non ci raggiungerà.<New>
+Comunque, ho chiamato
+il mio Gear giusto per
+stare tranquilli."<Close><End of Block>
+<TextBlock 19 w:46 h:4>
+Billy
+"…<Delay 20>…<Delay 20>
+Più veloce di
+quanto immaginassi.<New>
+Ecco che arriva."<Close><End of Block>
+<TextBlock 20 w:36 h:3>
+Billy
+"Dovrebbe stare
+per arrivare…"<Close><End of Block>
+<TextBlock 21 w:52 h:4>
+Billy
+"Gran tempismo da
+parte dei ragazzi.
+Gliene devo una.<New>
+Bene, tutti pronti
+che sta arrivando!"<Close><Close><End of Block>

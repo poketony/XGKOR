@@ -1,0 +1,38 @@
+#### 1 ####
+Margie
+"Leave the rest
+to me!"
+
+#### 2 ####
+Bart
+"Margie?"
+
+#### 3 ####
+Ramsus
+(He looks... completely
+different... and there's
+no response.){enter}
+(Is it just my
+imagination?
+But that techinique
+was indeed his...){enter}
+(What's more...
+the name Fei....
+where have I...)
+
+#### 4 ####
+Fei...
+That is my child's name...
+
+#### 5 ####
+Ramsus
+"!!"{clear:1E}
+
+#### 6 ####
+Ramsus
+"Gah!"
+
+#### 7 ####
+Ramsus
+"Rats?"{clear:3C}
+

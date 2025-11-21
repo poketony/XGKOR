@@ -1,0 +1,328 @@
+#### 1 ####
+Elly
+"Hold on!{wait:1E}{enter}
+Isn't this the barrier
+generator we heard about
+in Shevat!?"
+
+#### 2 ####
+Elly
+"??{wait:1E}
+Something's not right."
+
+#### 3 ####
+Elly
+"It's falling apart.{wait:1E}
+We need to get out!!"
+
+#### 4 ####
+Citan
+"Could this be the barrier
+generator we heard about
+in Shevat!?"
+
+#### 5 ####
+Citan
+"Something is not quite
+right."
+
+#### 6 ####
+Citan
+"It is collapsing.{wait:1E}
+We must leave at once!!"
+
+#### 7 ####
+Billy
+"Could this possibly be
+the machine that makes
+the barrier we heard{enter}
+about in Shevat!?"
+
+#### 8 ####
+Billy
+"Don't you think
+something's wrong?"
+
+#### 9 ####
+Billy
+"It's coming down.{wait:1E}
+We must escape!!"
+
+#### 10 ####
+Rico
+"Hey, isn't this the
+machine that generated
+the barrier we heard{enter}
+about in Shevat!?"
+
+#### 11 ####
+Rico
+"What the!?"
+
+#### 12 ####
+Rico
+"Not good!{wait:1E}
+We better bail out
+now!!"
+
+#### 13 ####
+{name:07:チュチュ}
+"Isn't that the whachama-
+callit machine the people in
+Shevat were talking about!?"
+
+#### 14 ####
+{name:07:チュチュ}
+"Is something wrong?"
+
+#### 15 ####
+{name:07:チュチュ}
+"We have chu run!!"
+
+#### 16 ####
+Emeralda
+"This...Isn't this the
+gate?"
+
+#### 17 ####
+Emeralda
+"Something...{wait:1E} wrong?"
+
+#### 18 ####
+Emeralda
+"Let's go back!!"
+
+#### 19 ####
+Maria
+"Might this be the
+barrier generator
+Zephyr was talking{enter}
+about!?"
+
+#### 20 ####
+Maria
+"???"
+
+#### 21 ####
+Shakhan
+"This can't be!?
+This is ridiculous!?{enter}
+It should be able to pull
+an adequate amount of
+energy from the gate!{enter}
+There shouldn't have been
+any problems in the design.
+Why!?
+Why doesn't it move?"
+
+#### 22 ####
+Shakhan
+"Wha, {wait:07}Who!"
+
+#### 23 ####
+Shakhan
+"Power?
+What kind of power!?{enter}
+I have the power of the
+gate! As long as I get
+this machine to move!!"
+
+#### 24 ####
+Shakhan
+"What are you saying?
+Superficial power?"
+
+#### 25 ####
+Shakhan
+"Ghunnnuuuaaaaaahh..."{clear:32}
+
+#### 26 ####
+Grahf
+"My fist is the divine
+breath!"
+
+#### 27 ####
+Grahf
+"Blossom, o fallen seed,
+and draw upon thy hidden
+powers!!"
+
+#### 28 ####
+Grahf
+"Grant unto thee the
+power of the glorious
+'Mother of Destruction'!"
+
+#### 29 ####
+Grahf
+"I am Grahf, the seeker
+of power.{wait:20} Doth
+thou desire the power?"
+
+#### 30 ####
+Grahf
+"Your powers are merely
+superficial. The tools
+in which you produced{enter}
+with your immature
+intellect... Now, do you
+think you can win?"
+
+#### 31 ####
+Grahf
+"The meager efforts of
+you land dwellers are
+insignificant next to the{enter}
+true and only power."
+
+#### 32 ####
+Grahf
+"I shall endow you with
+my true powers!"
+
+#### 33 ####
+Fei
+"This is...{wait:1E} the
+gate generator!?"
+
+#### 34 ####
+Bart
+"Punk...{wait:1E}{enter}
+Not only was he sitting
+on the Aveh throne, he
+also controlled this."
+
+#### 35 ####
+Shakhan
+"Exactly."
+
+#### 36 ####
+Shakhan
+"To think you knew about
+the existence of the
+gate...very interesting."
+
+#### 37 ####
+Shakhan
+"The gate which divided
+Solaris from the earth was
+under the supervision of...{enter}
+the 'Ethos'."
+
+#### 38 ####
+Shakhan
+"In the beginning, it was
+supervised without any true
+knowledge of what it did.{enter}
+However, over the years,
+the 'Ethos' did their own
+experiments to reveal its
+true nature."
+
+#### 39 ####
+Shakhan
+"They learned how to use
+it."
+
+#### 40 ####
+Shakhan
+"For the sake of
+freeing ourselves from
+Solaris, we discovered{enter}
+a new way of using it!"
+
+#### 41 ####
+Bart
+"You!{wait:1E}
+This was your original
+intention."
+
+#### 42 ####
+Fei
+"He probably entered
+through this cavern!{enter}
+He just wanted the energy
+from the gate generator!"
+
+#### 43 ####
+Shakhan
+"This can't be!?{enter}
+This is ridiculous!?{enter}
+This thing should be able
+to pull an adequate
+amount of energy from the
+gate!"
+
+#### 44 ####
+Shakhan
+"There shouldn't
+have been any problems
+in the design!{enter}
+Why?"
+
+#### 45 ####
+Shakhan
+"Why doesn't it move?"
+
+#### 46 ####
+Bart
+"What, did you mess up?{enter}
+If my father knew I was set
+up by a jerk like this, 
+he'd turn in his grave."
+
+#### 47 ####
+Shakhan
+"I didn't need this anyway!{enter}
+I'll take you myself!"
+
+#### 48 ####
+Shakhan
+"How...{wait:1E}
+This can't be!"
+
+#### 49 ####
+Bart
+"Shakhan!!{enter}
+12 years ago, if you
+weren't so hungry for
+power, Margie would
+still have her family...{enter}
+...and wouldn't have had
+to live out in the desert!"
+
+#### 50 ####
+Shakhan
+"What would you know, you
+throne born brat!?"
+
+#### 51 ####
+Bart
+"Throne? You can have it!{enter}
+A king's gotta carry the
+heaviest responsibilities
+of all!
+It's a tough racket!{enter}
+Something you'd never
+understand, punk!!"
+
+#### 52 ####
+Shakhan
+"Uwwaaaaaaaahhh!!"
+
+#### 53 ####
+Fei
+"The gate's on fire...!"
+
+#### 54 ####
+     Do you {wait:10}not desire the power?{clear:54}
+
+#### 55 ####
+Bart
+"Him again!?"
+
+#### 56 ####
+Fei
+"How'd he get in
+here!?"
+

@@ -1,0 +1,142 @@
+#### 1 ####
+Citan
+"Let us borrow a
+room here for our
+planning session."{clear:3C}
+
+#### 2 ####
+!{clear:1E}
+
+#### 3 ####
+Ah...
+Excuse me but...{wait:3C}aren't 
+you Prince Bartholomew?
+
+#### 4 ####
+Bart
+"...And you are?"
+
+#### 5 ####
+I was sent here by
+the Nisan Sect. {wait:3C} 
+I'm here to check up
+on Mother Marguerite.{enter}
+Prince Bartholomew,
+I knew you would come
+sooner or later...{clear:3C}
+
+#### 6 ####
+Citan
+"Well, {wait:1E}let us not just
+stand here chatting. 
+Shall we use a room?"
+
+#### 7 ####
+You must be tired. 
+I'll be in my room, 
+please come by later.
+
+#### 8 ####
+That's my room there.
+
+#### 9 ####
+Yeah, after bein' in the
+army for so long even
+after I got out I just
+didn't feel like working.{enter}
+But watching mom work
+like this, it makes me
+think I might want to
+again.
+
+#### 10 ####
+Citan
+"Let us hurry to
+the meeting place."
+
+#### 11 ####
+I'm sorry, we're full today.{wait:3C}
+If you can wait till evening
+I'll have something then...
+
+#### 12 ####
+Welcome.
+
+#### 13 ####
+I'll mark it down to
+40G per person.
+    Thanks
+    No way
+
+#### 14 ####
+How about 50G a person?
+    Okay
+    No way
+    I have a recommendation
+
+#### 15 ####
+How about 50G per person?
+    Okay
+    No way
+
+#### 16 ####
+Whose sent you?
+    Ari
+    Shiffer
+    I don't know
+
+#### 17 ####
+Aw, she never gives her name. But...
+okay, I'll mark it down to 40G each.
+    Thanks
+    No way
+
+#### 18 ####
+I don't know her! 
+50G per person.
+    Okay
+    No way
+
+#### 19 ####
+That's {number(s):01} people, 
+it'll be {number(s):00}G.
+
+#### 20 ####
+You don't have 
+enough money.
+
+#### 21 ####
+Come again!
+
+#### 22 ####
+Hey, don't pull my leg.
+
+#### 23 ####
+It's old and nearly broken,
+so stop messin' with it!
+
+#### 24 ####
+See? You broke it! Now
+you have to pay for it!
+
+#### 25 ####
+That'll be 100G.
+
+#### 26 ####
+What, you 
+don't even have 100G?
+
+#### 27 ####
+    {fast:FF}OFF
+    LOW
+    MID
+    HI
+
+#### 28 ####
+It's locked.
+
+#### 29 ####
+Citan
+"Let us go hear what
+the sister has to say."
+

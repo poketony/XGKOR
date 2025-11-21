@@ -1,0 +1,138 @@
+#### 1 ####
+Elly
+"It's dark..."
+
+#### 2 ####
+Elly
+"What's that weird smell?"
+
+#### 3 ####
+Elly
+"Scared?"
+
+#### 4 ####
+Elly
+"Wels?
+By the way Billy, do
+you have any equipment?"
+
+#### 5 ####
+Elly
+"You mean you don't fight
+physically? How strange."
+
+#### 6 ####
+Citan
+"It is dark..."
+
+#### 7 ####
+Citan
+"What is that odor?"
+
+#### 8 ####
+Citan
+"Is it scary?"
+
+#### 9 ####
+Citan
+"Wels?
+Billy are you equipped
+for this?"
+
+#### 10 ####
+Citan
+"You say you do not fight
+physically? How rare."
+
+#### 11 ####
+Bart
+"It's dark..."
+
+#### 12 ####
+Bart
+"Woo, something stinks..."
+
+#### 13 ####
+Bart
+"Scared?"
+
+#### 14 ####
+Bart
+"Wels?
+So Billy, do you
+have equipment?"
+
+#### 15 ####
+Bart
+"You don't fight hand to
+hand? You're a rare one."
+
+#### 16 ####
+Rico
+"It's dark..."
+
+#### 17 ####
+Rico
+"What's that nasty smell?"
+
+#### 18 ####
+Rico
+"Scared?"
+
+#### 19 ####
+Rico
+"Wels?
+Hey, Billy do you
+have equipment?"
+
+#### 20 ####
+Rico
+"You don't fight with your
+fists? That's rare."
+
+#### 21 ####
+Light on.
+Opened door-lock A.
+
+#### 22 ####
+Billy
+"Shall we return
+to Yggdrasil?"{enter}
+    Go back
+    Stay
+
+#### 23 ####
+A locked.
+
+#### 24 ####
+Billy
+"This unusual smell is
+that of the Wels.{enter}
+It sure looks like 
+they attacked..."
+
+#### 25 ####
+Billy
+"One more thing.
+On the room's middle
+wall is a red switch.{enter}
+Push the switch to turn
+on the lights."
+
+#### 26 ####
+Billy
+"...{wait:1E}
+No...{wait:1E}
+Just a little."
+
+#### 27 ####
+The door won't open.
+
+#### 28 ####
+You have too many
+{str}.
+
+#### 29 ####
+ 
+ Received {str}.
+

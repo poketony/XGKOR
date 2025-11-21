@@ -1,0 +1,98 @@
+#### 1 ####
+Fei
+"Wow...
+So this is the 'Ethos'
+workshop, heh, doc?"
+
+#### 2 ####
+Citan
+"Yes. The 'Ethos' workshops
+are the only places that
+officially repair Gears.{enter}
+Let us see if we can get
+the parts we need to fix
+{name:0B:¥ô¥§¥ë¥È©`¥ë} here.{enter}
+As they say, time is money!
+...So we should do whatever
+we can do as soon as we are
+able to."
+
+#### 3 ####
+Citan
+"Sorry to bother you.{enter}
+Our Gear has broken down,
+so I would like to buy
+some parts to fix it."
+
+#### 4 ####
+Citan
+"Yes, we are hoping to
+replace an X-29 model
+injection bypass circuit."
+
+#### 5 ####
+Citan 
+"I see.
+Sorry to have
+bothered you."
+
+#### 6 ####
+These days the 'Ethos'
+technology has become
+indispensable in people's
+day-to-day lives.{enter}
+We thought we'd use these 
+left over facilites and 
+try and help everyone as 
+much as we can.
+
+#### 7 ####
+You two again?{enter}
+As you can see, this facility
+is for the repair of worker
+Gears only.{enter}
+We simply can't help you out
+with the new model military
+Gear that you have.
+
+#### 8 ####
+This town was orginally a
+haven for treasure hunters
+searching the ruins.{enter}
+Our workshop can hardly keep
+up with the demand for repairs
+on the worker Gears used in
+the excavation of the ruins.
+
+#### 9 ####
+Huh?
+How can we help you?
+
+#### 10 ####
+Tough luck, huh?
+Can you tell me what make
+of parts you are after?
+
+#### 11 ####
+X-29 model injection
+circuit?{enter}
+That's only used on the
+latest military models.
+We don't keep those kind
+of parts in stock here.{enter}
+You can only get such
+special parts by placing
+an order at the 'Ethos'
+headquarters.{enter}
+This workshop is only
+for the repair of
+civilian Gears...
+
+#### 12 ####
+Sorry that we
+can't help you.
+
+#### 13 ####
+Please don't touch it.
+It's being repaired.
+

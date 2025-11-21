@@ -1,0 +1,50 @@
+<TextBlock 1 w:40 h:4>
+Bart
+"Wow…
+Non pensavo che
+saremmo finiti qui…"<Close><End of Block>
+<TextBlock 2 w:30 h:2>
+Fei
+"Dove siamo?"<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+Bart
+"Vedi quelle due
+montagne laggiù?<New>
+Là c'è Bledavik, la
+Capitale Reale di Aveh.
+E là si trova il
+Castello di Fatima.<New>
+Al momento, non c'è
+nessun re vivente.<Delay 20>
+Comunque, quella è
+la mia casa."<Close><End of Block>
+<TextBlock 4 w:28 h:2>
+Fei
+"Casa…"<Close><End of Block>
+<TextBlock 5 w:54 h:3>
+Bart
+"Mi piacerebbe chiudere
+la nostra questione una 
+volta per tutte…<New>
+Ma siamo così vicini ad
+Aveh che sicuramente
+verremmo catturati."<Close><End of Block>
+<TextBlock 6 w:10 h:2>
+Fei
+"…"<Close><End of Block>
+<TextBlock 7 w:48 h:4>
+Bart
+"Ehi, non fare quella
+faccia così triste,
+fratello.<New>
+Farò meglio a portarti
+dal tuo amico al più
+presto o mi morirai di
+maliconconia.<New>
+Comunque, il punto
+di incontro con
+l'Yggdrasil è proprio
+da quella parte.<New>
+Non preoccuparti.
+Lo incontrerai
+molto presto."<Close><Close><End of Block>

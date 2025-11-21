@@ -1,0 +1,63 @@
+#### 1 ####
+Fei
+"Bart!!"{clear:1E}
+
+#### 2 ####
+Margie
+"Ba-arty!"
+
+#### 3 ####
+Margie
+"No!
+I'll fight too!"
+
+#### 4 ####
+Bart
+"Oh yeah?
+You know about me,
+huh?{enter}
+Heh! It's not such a bad
+feeling having your name
+known by someone as
+beautiful as you."
+
+#### 5 ####
+Bart
+"That's nice to know.
+But I can't accept it.{enter}
+See, for me,
+'either way' is bad."
+
+#### 6 ####
+Bart
+"Tch...{wait:14} Margie!
+Hide back behind
+there!"
+
+#### 7 ####
+Bart
+"I don't care,
+just hide!"
+
+#### 8 ####
+Ramsus
+"...Then it's
+decided."
+
+#### 9 ####
+Miang
+"If you truly want to
+protect that child,
+then surrender...{enter}
+Prince Bartholomew!"
+
+#### 10 ####
+Miang
+"You may have had your
+problems with Shakhan,{enter}
+but we won't treat you
+badly.{enter}
+Concerning Shakhan, it
+really doesn't matter
+'either way' to us."
+

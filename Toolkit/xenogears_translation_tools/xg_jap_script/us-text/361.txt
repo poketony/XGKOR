@@ -1,0 +1,263 @@
+#### 1 ####
+Fei
+"Uh...it doesn't move.{wait:14}
+Is it broken...?{enter}
+...?{wait:14}
+There's something small
+written here...{enter}
+'The one who attains the
+dawn, the dusk, and the
+darkness shall climb the
+path to heaven...{wait:14}Wiseman'{enter}
+What is this?"
+
+#### 2 ####
+Fei
+"Alright, then...
+Set those three stones we
+found into here..."
+
+#### 3 ####
+The stepping stone has
+been brought back to life.
+
+#### 4 ####
+Oh, we rarely have
+visitors from the surface.{enter}
+Welcome to the wandering 
+city in the sky, Aphel 
+Aura.
+
+#### 5 ####
+This city used to be the
+capital of Shevat, an
+independent liberal country 
+that fought against Solaris.{enter}
+A place that turns
+yesterday's tears into
+tomorrow's smiles...{wait:14}
+That's what they called
+this city a long time ago...{enter}
+But now, those hopes and
+despairs have been worn
+away long ago...{enter}
+Probably the only things
+that remain are the echoes
+of resentment...
+
+#### 6 ####
+You might be able to find
+something that can solve
+your troubles and sadness.{enter}
+But fate can be cruel
+sometimes...{wait:14}
+Don't forget that.
+
+#### 7 ####
+And, that stone plate
+floating there is called
+a Stepping Stone.{wait:14} It
+moves with people on it.{enter}
+Try and get on it and
+talk to the stone.{wait:14}
+It'll be glad to give
+three of you a ride.
+
+#### 8 ####
+{fast:FF}Do you want to go up?{wait:0A}
+    Yes
+    No
+
+#### 9 ####
+{fast:FF}Do you want to go down?{wait:0A}
+    Yes
+    No
+
+#### 10 ####
+{fast:FF}Do you want to go down?{wait:0A}
+    Yes
+    No
+
+#### 11 ####
+{fast:FF}Do you want to go up?{wait:14}
+    Yes
+    No
+
+#### 12 ####
+Oh, are you new?{wait:14}
+It's been so long since
+last time we had a visitor
+from the surface.{enter}
+This is a 'Plant Shell'.{wait:14}
+Vegetables and fruits
+needed in Shevat are grown 
+in it.
+
+#### 13 ####
+Since we live away from
+the land, we must put
+more effort to get food.{enter}
+Right now, it's a dusty
+season so only the staff
+members are allowed to 
+go in.{enter}
+Humans are good carriers 
+of germs, you know.
+
+#### 14 ####
+I'll bring some fresh
+Thunder Strawberries for
+you to eat.{wait:14} So look
+forward to it.
+
+#### 15 ####
+{fast:FF}Hello, what can I do for
+you?{wait:14}
+    I want thread!
+    Hear a story
+
+#### 16 ####
+{fast:FF}After all, pain only
+causes more pain and
+sadness...{enter}
+How come those guys up
+there don't understand
+such a simple thing...?{enter}
+Just relax, have fun
+fishing like that sage
+who disappeared.
+
+#### 17 ####
+{fast:FF}Do you like fishing?{wait:14}
+    Yes
+    Not really...
+
+#### 18 ####
+{fast:FF}I see. Then, do you want
+to try catching some fish
+in the plaza?{wait:14} Fishing is
+prohibited there though.
+
+#### 19 ####
+{fast:FF}I see...{wait:14}
+The sage loved fishing.
+He used to go to the plaza
+and catch Leviathans.{enter}
+After catching the fish,
+he'd feed it some small
+black stone and let it
+go... {enter}
+I wonder if that was 
+just fish food.
+
+#### 20 ####
+{fast:FF}I have some good thread.
+Want it for 50G?{wait:14}
+    I'll buy it!!
+    No thanks...
+
+#### 21 ####
+{fast:FF}Hey, you already have some
+good spider thread.{enter}
+Try hanging the line in
+the center of the plaza.{wait:14}
+You'll catch a fish if
+you're good.
+
+#### 22 ####
+{fast:FF}Here you go.
+Thanks.{enter}
+Try hanging the line in
+the center of the plaza.{wait:14}
+You'll catch a fish if
+you're good.
+
+#### 23 ####
+Received Spider Web!
+
+#### 24 ####
+{fast:FF}You have no money?{wait:14}
+Come back when you do.
+
+#### 25 ####
+{fast:FF}Are you sure?
+It's good thread...
+
+#### 26 ####
+This city has been
+wandering the sky like
+this for 500 years...{enter}
+Just watching the 
+everchanging countries, 
+the world, and those who
+appeared and disappeared...{enter}
+The people in Shevat lost
+power, so that's all they
+could do...{enter}
+Being able to observe may
+have been a reward for
+those people here.
+
+#### 27 ####
+The people in this city
+had dreamed of going
+down to the land again
+for a long time...{enter}
+They dreamed of the day
+when they could go down
+to the free world after
+fleeing from Solaris...{enter}
+I have a hunch the day
+may not be {wait:14}too far away.
+
+#### 28 ####
+Why do humans hate and
+hurt each other?{wait:14}
+Everyone lives under
+the same blue sky...{enter}
+Will there ever be any
+relief from the pain of
+losing what was precious
+to us?{enter}
+When will it be the day 
+we can understand what
+all this loneliness and
+sorrow was for?{enter}
+In short, we may be
+repeating the same 
+mistake we made
+500 years ago...
+
+#### 29 ####
+This is the end of the
+city.{wait:14} If you're not
+leaving yet, you better
+turn back.
+
+#### 30 ####
+Oh, so you're waiting
+to meet up with Maria?{wait:0A}
+    Yes, that's right!
+    No, we're not.
+
+#### 31 ####
+If that's the case then...
+under there is a house that
+no one lives in anymore.
+
+#### 32 ####
+Maria often used to go there
+and sit all alone in the
+second floor of that house
+and think about things.{enter}
+Why don't you check out the
+place and see what you can
+find while you wait for her
+there...
+
+#### 33 ####
+Oh? So you're not?{wait:0A} Sorry.{wait:14}
+Well anyway, why not rest
+up and unwind in our fair
+city...
+

@@ -1,0 +1,204 @@
+<TextBlock 1 w:46 h:4>
+Shitan
+"Quando un governo sta 
+per cambiare, enormi
+sono le implicazioni.<New>
+Dobbiamo farcela ad
+ogni costo."<Close><End of Block>
+<TextBlock 2 w:48 h:4>
+Bart
+"… Sig, io e due
+uomini andremo al
+piano superiore.<New>
+Shitan, con gli altri
+due uomini, apri il
+cancello del castello…<New>
+… e fa' entrare le
+nostre forze.<New>
+Se catturiamo Shakhan
+avremo avuto successo."<Close><End of Block>
+<TextBlock 3 w:50 h:3>
+Shitan
+"Sì. Appena avrai preso
+Shakhan, da' il segnale.<New>
+Sarà meglio aprire il 
+cancello proprio in
+quel momento."<Close><End of Block>
+<TextBlock 4 w:36 h:4>
+Bart
+"Davanti a noi ci
+sono le mura del
+castello.<New>
+Presto cadranno.
+Shakhan dovrebbe
+essere al piano
+superiore."<Close><End of Block>
+<TextBlock 5 w:46 h:4>
+Sigurd
+"… Nella stanza che
+veniva usata dal padre
+del Padroncino.<New>
+Cercate di non fare
+danni al castello,
+evitate gli scontri
+inutili, e…<New>
+… soprattutto, cercate
+di essere veloci!"<Close><End of Block>
+<TextBlock 6 w:50 h:3>
+Bart
+"Ecco perché ci sono
+pochi di noi.<New>
+Il nostro obiettivo
+è Shakhan! Perciò
+ignorate Geburah e
+i soldati di Aveh."<Close><End of Block>
+<TextBlock 7 w:30 h:3>
+Bart
+"Molto bene,
+muoviamoci!"<Close><End of Block>
+<TextBlock 8 w:46 h:4>
+Sigurd
+"Padroncino, non
+fate l'eroe… Fate
+solo un buon lavoro."<Close><End of Block>
+<TextBlock 9 w:54 h:5>
+Dannato Shakhan…
+Appena lo prendo lo uso
+come scopa per i cessi…
+Dopo avergli fatto un
+trapianto di capelli.<Close><End of Block>
+<TextBlock 10 w:46 h:1>
+Unite le forze.<Close><End of Block>
+<TextBlock 11 w:46 h:3>
+Non combattiamo con
+i nostri cugini che
+stanno nell'esercito
+di Aveh…<New>
+Mettiamo invece fine
+a tutto questo!<Close><End of Block>
+<TextBlock 12 w:46 h:4>
+Presto ritornerò al
+castello! Chissà se
+il vecchio della sala
+pranzo è ancora vivo?<Close><End of Block>
+<TextBlock 13 w:52 h:3>
+Congratulazioni per il
+vostro ritorno, Altezza.<New>
+Sapevo che questo giorno
+sarebbe giunto e ho
+protetto le riserve
+d'acqua.<New>
+Sapevo che non eravate
+morto.<Close><End of Block>
+<TextBlock 14 w:44 h:4>
+Anche se la guerra è
+finita, questo vecchio
+non ha casa o famiglia
+a cui tornare.<New>
+La mia sola famiglia è
+questo gatto randagio.<Close><End of Block>
+<TextBlock 15 w:46 h:4>
+Ragazzo, ma quante volte
+devo dirtelo… eh?<New>
+Quanti anni sono
+passati?<New>
+Non sei cresciuto? Sei
+davvero il ragazzo con
+cui ero solito giocare
+a nascondino?<New>
+Questo è forse uno
+scherzo…?
+Beh, rispondimi!?<Close><End of Block>
+<TextBlock 16 w:50 h:4>
+Bart
+"Ma che cavolo stai
+dicendo?<New>
+Vecchio, anche quando
+ero bambino ti piaceva
+sparare cazzate. Vedo
+che sei peggiorato."<Close><End of Block>
+<TextBlock 17 w:56 h:4>
+Cosa!?
+Cazzate!?
+Ma come ti permetti?
+Tu, piccolo…<New>
+Le sole persone a cui
+permettevo di dirmi
+certe cose erano mia
+madre e il giovane
+principe.<New>
+Sua Altezza…
+come si chiamava?<Close><End of Block>
+<TextBlock 18 w:44 h:3>
+Bart
+"Parli di sua Altezza
+il 'Principe Bartolomeo'."<Close><End of Block>
+<TextBlock 19 w:50 h:3>
+Sì, sua Altezza il
+Principe Bartolomeo!
+Ragazzo, ne sai di
+cose.<New>
+Se Bartolomeo fosse vivo,
+avrebbe all'incirca la
+tua età…<New>
+Sai che lui e la sua
+famiglia sono stati
+uccisi da quello Shakhan?<New>
+Maledetto Shakhan!
+Proteggerò l'acqua di
+Aveh fino alla morte.<New>
+In ricordo della 
+gentilezza del re e del 
+giovane principe.<Close><End of Block>
+<TextBlock 20 w:56 h:4>
+Proteggerò l'acqua di Aveh
+fino alla morte. In ricordo 
+della gentilezza del re e 
+del giovane principe.<Close><End of Block>
+<TextBlock 21 w:50 h:3>
+Bart
+"Davvero? Grazie. 
+Papà ne sarebbe lieto."<Close><End of Block>
+<TextBlock 22 w:48 h:4>
+?<Delay 50> 
+… Che vuol dire, papà?
+Sei il figlio di qualche
+mio parente?<New>
+Ehi, ora ricordo…<Delay 200>
+!<Delay 30>
+No, non può essere…<New>
+Non ricordo che il re
+avesse dei figli segreti.<Close><End of Block>
+<TextBlock 23 w:48 h:4>
+Bart
+"Scusa, ma ora non ho 
+tempo di spiegarti. 
+Ci vediamo!"<Close><End of Block>
+<TextBlock 24 w:32 h:1>
+Ma chi era…?<Close><End of Block>
+<TextBlock 25 w:44 h:3>
+Forse<Delay 5>…<Delay 5> sua
+Altezza Bartolomeo?<Delay 50>
+Quanto tempo è passato!<New>
+Eravate ancora un bambino
+quando vostro padre,
+il re, morì.<New>
+Come rimpiango quei
+giorni. Sono felice di
+vedere che siete ancora
+vivo!<Close><End of Block>
+<TextBlock 26 w:46 h:3>
+Bart
+"Vecchio, quello è il
+passato, oggi è oggi.<New>
+Quando le cose si
+calmeranno, ritornerò."<Close><End of Block>
+<TextBlock 27 w:48 h:3>
+Cosa!? Giochi ancora
+nel serbatoio? Fuori 
+di qui, ragazzo!<Close><End of Block>
+<TextBlock 28 w:46 h:4>
+Cosa!?
+Non puoi entrare là! 
+Tutti bevono da
+quell'acqua!<Close><Close><End of Block>

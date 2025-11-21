@@ -1,0 +1,1461 @@
+<TextBlock 1 w:54 h:4>
+Sigurd
+"Padroncino, secondo
+Margie… c'è davvero un
+sobillatore in Geburah."<Close><End of Block>
+<TextBlock 2 w:48 h:3>
+Bart
+"Già… Ma… chi<Space 1>
+diamine è?"<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+Sigurd
+"Kahran Ramsus<Delay 10> dell'Agenzia
+degli Affari Esteri del
+Sacro Impero di Solaris<Delay 5>…<New>
+In altre parole, è il
+comandante in capo di
+Geburah.<New>
+Dopotutto, non sembra che
+Geburah sia interessata
+solo ai siti di scavi
+intorno ad Aveh."<Close><End of Block>
+<TextBlock 4 w:44 h:3>
+Bart
+"Cioè… non stanno
+cercando il Diaspro?"<Close><End of Block>
+<TextBlock 5 w:52 h:4>
+Sigurd
+"Se quello fosse il
+loro unico intento…<New>
+… non avrebbero mandato
+un uomo importante come
+lui.<New>
+Padroncino, le cose
+potrebbero farsi più
+complicate del previsto…"<Close><End of Block>
+<TextBlock 6 w:36 h:3>
+Fei
+"Doc non è ancora
+tornato, vero?"<Close><End of Block>
+<TextBlock 7 w:6 h:1>
+…<Close><End of Block>
+<TextBlock 8 w:54 h:4>
+Sigurd
+"Hyu…<Delay 10> cioè,<Delay 10> 'Doc'…<Delay 10>
+Non preoccuparti per lui.
+Ci raggiungerà presto."<Close><End of Block>
+<TextBlock 9 w:54 h:4>
+Sigurd
+"Deus si è unificato con lo
+Zohar e si è risvegliato,<Delay 20>
+ma abbiamo scoperto che…<New>
+… Deus è nel centro della
+gigantesca struttura
+creatasi dal Merkabah
+precipitato.<New>
+L'unico modo per riuscire
+a distruggere Deus è di
+penetrare da lì ed aprirci
+la strada verso il centro.<New>
+Quella struttura era sì
+il Merkabah, ma dobbiamo
+assumere che l'interno
+sia molto cambiato.<New>
+Sconosciamo i pericoli
+che lì si nascondono.<Delay 10>
+Fate molta attenzione."<Close><End of Block>
+<TextBlock 10 w:46 h:3>
+Fei
+"Ok, grazie, Sigurd.
+Me ne occuperò io.<New>
+Distruggerò Deus.<Delay 30>
+Dovesse costarmi
+tutto ciò che ho…"<Close><End of Block>
+<TextBlock 11 w:24 h:4>
+Bart
+"Fei…<Delay 30>
+Sei sicuro
+di questo?"<Close><End of Block>
+<TextBlock 12 w:20 h:2>
+Fei
+"Bart…?"<Close><End of Block>
+<TextBlock 13 w:54 h:4>
+Bart
+"So che cosa stai
+pensando.
+Se distruggi Deus…<New>
+… la proliferazione delle
+nanomacchine che stanno
+mutando il pianeta stesso
+in un'arma si fermerà…<New>
+Ma, se così perderai
+Elly che è stata unita a
+Deus con questo intento,
+che beneficio ne avrai?"<Close><End of Block>
+<TextBlock 14 w:24 h:4>
+Bart
+"Fei…<Delay 30>
+Sei sicuro
+di questo?"<Close><End of Block>
+<TextBlock 15 w:20 h:2>
+Fei
+"Bart…?"<Close><End of Block>
+<TextBlock 16 w:54 h:4>
+Bart
+"So che cosa stai
+pensando.
+Se distruggi Deus…<New>
+… la proliferazione delle
+nanomacchine che stanno
+mutando il pianeta stesso
+in un'arma si fermerà…<New>
+Ma, se così perderai
+Elly che è stata unita a
+Deus con questo intento,
+che beneficio ne avrai?"<Close><End of Block>
+<TextBlock 17 w:16 h:2>
+Fei
+"Ma…"<Close><End of Block>
+<TextBlock 18 w:54 h:4>
+Sigurd
+"Ha ragione, Fei.<Delay 20><New>
+Lei è una nostra amica
+e ne ha passate tante
+con noi.<New>
+Credo che salvare un caro
+amico sia importante
+quanto proteggere il
+nostro pianeta…<New>
+… o salvare il mondo…<New>
+Quale ragione migliore
+per combattere?<New>
+Se non puoi salvare i
+tuoi amici, come potrai
+salvare il mondo?<New>
+Non sei d'accordo?"<Close><End of Block>
+<TextBlock 19 w:46 h:4>
+Bart
+"Già, Sig ha ragione!<Delay 20>
+Non gettare ancora la
+spugna, Fei!<New>
+Sei l'unico che può
+liberare Elly dal
+sortilegio di Deus.<New>
+Ma noi ti daremo tutta
+l'assistenza possibile.<Delay 10>
+Così…"<Close><End of Block>
+<TextBlock 20 w:46 h:4>
+Bart
+"Già, Sig ha ragione!<Delay 20>
+Non gettare ancora la
+spugna, Fei!<New>
+Sei l'unico che può
+liberare Elly dal
+sortilegio di Deus.<New>
+Ma noi ti daremo tutta
+l'assistenza possibile.<Delay 10>
+Così…"<Close><End of Block>
+<TextBlock 21 w:34 h:4>
+Fei
+"Grazie.<Delay 20>
+Bart, Sigurd…<Delay 10>
+Non voglio arrendermi."<Close><End of Block>
+<TextBlock 22 w:50 h:4>
+Sigurd
+"Hai combattutto per il
+Padroncino e per noi
+tutti di tua volontà.<New>
+Ora è il nostro turno di
+combattere per te ed Elly.<New>
+Andiamo, Fei…<Delay 10>
+a guadagnarci la vera
+libertà!!"<Close><End of Block>
+<TextBlock 23 w:50 h:4>
+Sigurd
+"Non ci è rimasto
+molto tempo<Delay 10>…<New>
+Andiamo, per vincere
+la nostra libertà!!"<Close><End of Block>
+<TextBlock 24 w:52 h:4>
+Sigurd
+"Alla Fossa di Sargasso?"
+    Certo!
+    Solo un attimo!<Close><End of Block>
+<TextBlock 25 w:42 h:3>
+Sigurd
+"Pare che Fei non sia
+nell'infermeria…<New>
+Si troverà da qualche
+parte a bordo…"<Close><End of Block>
+<TextBlock 26 w:36 h:3>
+Sigurd
+"Dirigiamoci al
+sito di scavi."<Close><End of Block>
+<TextBlock 27 w:30 h:3>
+Sigurd
+"Presto, al Tammuz!!"<Close><End of Block>
+<TextBlock 28 w:42 h:4>
+Sigurd
+"Ci sono dei nuovi pezzi
+all'officina per Gear.<New>
+Perché non andate a
+dare un'occhiata?"<Close><End of Block>
+<TextBlock 29 w:50 h:4>
+Sigurd
+"Siamo arrivati alla
+nave da trasporto<Delay 10>…<New>
+Ora fai attenzione,
+Billy…"<Close><End of Block>
+<TextBlock 30 w:34 h:4>
+Sigurd
+"Buon giorno.<Delay 10> Billy vi
+sta aspettando al bar."<Close><End of Block>
+<TextBlock 31 w:50 h:2>
+Sigurd
+"(U… ugh…<Delay 10>
+Sembra una sbornia…)"<Close><End of Block>
+<TextBlock 32 w:34 h:3>
+Sigurd
+"Billy vi sta
+aspettando
+nel bar."<Close><End of Block>
+<TextBlock 33 w:54 h:4>
+Sigurd
+"Capisco.<New>
+Così… Fei si ristabilirà
+se continua a riposare.
+Sono felice di sentirlo.<New>
+Sembra che l'orfanotrofio
+si trovi a sudest della
+Sede della Chiesa."<Close><End of Block>
+<TextBlock 34 w:54 h:4>
+Sigurd
+"Sembra che la Sede
+della Chiesa si trovi
+a nord del Tammuz.<New>
+Dobbiamo sbrigarci e
+portare Fei là…"<Close><End of Block>
+<TextBlock 35 w:54 h:4>
+Sigurd
+"Questo mi fa venire in
+mente… Margie ha qualcosa
+di cui parlarvi…"<Close><End of Block>
+<TextBlock 36 w:48 h:2>
+Sigurd
+"Fei è privo di sensi…?"<Close><End of Block>
+<TextBlock 37 w:52 h:4>
+Sigurd
+"Che sbadataggine<Delay 10>…<New>
+Non pensavo che Elly
+potesse fare una cosa
+simile…<New>
+Perché non vai a vedere
+come sta, Fei?"<Close><End of Block>
+<TextBlock 38 w:50 h:4>
+Sigurd
+"Padroncino, dove siete
+stato mentre eravamo
+così occupati…?<New>
+Una visita internazionale
+di cortesia con il Tammuz?
+Va bene, comunque…<New>
+Per quanto riguarda i
+rifornimenti del
+sottomarino…"<Close><End of Block>
+<TextBlock 39 w:50 h:4>
+Bart
+"Oh, quello?<Delay 10>
+Vediamo… ordina 16
+siluri addizionali!"<Close><End of Block>
+<TextBlock 40 w:22 h:2>
+Sigurd
+"Sissignore."<Close><End of Block>
+<TextBlock 41 w:52 h:4>
+Sigurd
+"Finalmente il Padroncino
+ha iniziato a capire la
+sua posizione di re."<Close><End of Block>
+<TextBlock 42 w:54 h:4>
+Sigurd
+"Fei, scusami ma…<Delay 10>
+Vorresti ricordare al
+Padroncino di venire qui?"<Close><End of Block>
+<TextBlock 43 w:50 h:4>
+Sigurd
+"Padroncino…
+Non dovreste perdervi
+in facezie in terra
+sconosciuta!"<Close><End of Block>
+<TextBlock 44 w:52 h:3>
+Sigurd
+"Dove un dio disprezza,
+un altro mostra pietà.<New>
+Dobbiamo apprezzare
+le persone con buone
+intenzioni."<Close><End of Block>
+<TextBlock 45 w:40 h:4>
+Sigurd
+"Padroncino…
+Dovreste chiedere scusa
+a quei due."<Close><End of Block>
+<TextBlock 46 w:42 h:4>
+Sigurd
+"Perdonami, Hyuga…<Delay 10>
+Non ho potuto salvare
+Fei ed Elly…"<Close><End of Block>
+<TextBlock 47 w:50 h:4>
+Sigurd
+"Possiamo entrare in
+Nisan attraverso la
+strada segreta.<New>
+Facciamo attenzione ad
+un albero solitario nel
+deserto.<New>
+Esso è il segnale di dove
+la strada sotteranea è
+nascosta…!"<Close><End of Block>
+<TextBlock 48 w:46 h:4>
+Sigurd
+"È giunto il momento di
+intrufolarci in Aveh.<New>
+Innanzitutto, il gruppo
+ispezionerà la città
+ed elaborerà un piano
+d'azione."<Close><End of Block>
+<TextBlock 49 w:44 h:3>
+Sigurd
+"Siamo già al
+rifugio…<New>
+Probabilmente ci
+fermeremo un po' per
+approvvigionamenti e
+riparazioni."<Close><End of Block>
+<TextBlock 50 w:34 h:3>
+Sigurd
+"Vogliamo lanciare
+l'Yggdrasil?"<New>
+    <Opcode 1 255>Avanti!
+    Un momento.<Close><End of Block>
+<TextBlock 51 w:44 h:3>
+Sigurd
+"Al momento siamo
+ancorati a Shevat…"<New>
+    <Opcode 1 255>Lascia Shevat.
+    Ho cambiato idea.<Close><End of Block>
+<TextBlock 52 w:50 h:3>
+Bart
+"Il nostro Yggdrasil
+è rinato con la
+tecnologia di Shevat.<New>
+Questo vascello sarà
+chiamato 'il Terzo'!"<Close><End of Block>
+<TextBlock 53 w:50 h:3>
+Bart
+"Il nostro Yggdrasil
+è rinato con la
+tecnologia di Shevat.<New>
+Questo vascello sarà
+chiamato 'il Terzo'!"<Close><End of Block>
+<TextBlock 54 w:44 h:4>
+Sigurd
+"Le operazioni sono un
+po' differenti dal
+precedente Yggdrasil.<New>
+Perciò dovrai imparare
+di nuovo tutti i
+comandi!"<Close><End of Block>
+<TextBlock 55 w:32 h:2>
+Sì!<Delay 10>
+Farò del mio meglio!<Close><End of Block>
+<TextBlock 56 w:50 h:3>
+Sigurd
+"Al momento siamo
+ancorati al Tammuz…"<New>
+    <Opcode 1 255>Lascia il Tammuz.
+    Ho cambiato idea.<Close><End of Block>
+<TextBlock 57 w:44 h:4>
+Sigurd
+"Così questa è la prima
+volta che vedi il nuovo
+Yggdrasil II…<New>
+Voglio mostrarti le
+caratteristiche del
+nostro nuovo vascello!"<Close><End of Block>
+<TextBlock 58 w:40 h:3>
+Sigurd
+"Al momento siamo
+ancorati a Nisan…<New>
+    <Opcode 1 255>Lascia Nisan.
+    Ho cambiato idea.<Close><End of Block>
+<TextBlock 59 w:44 h:3>
+Sigurd
+"Al momento siamo
+al nostro rifugio…"<New>
+    <Opcode 1 255>Lascia il rifugio.
+    Ho cambiato idea.<Close><End of Block>
+<TextBlock 60 w:46 h:4>
+Bart
+"Ne abbiamo passate
+tante insieme…<New>
+Ma questa sarà davvero
+dura…<Delay 10>
+Ma… non moriremo! <Delay 10>
+Torneremo sani e salvi!<New>
+E vi chiederò di unirvi
+di nuovo a me quando
+tutto ciò sarà finito!"<Close><End of Block>
+<TextBlock 61 w:38 h:2>
+Bart
+"Posso andare in
+ogni momento!"<Close><End of Block>
+<TextBlock 62 w:38 h:3>
+Bart
+"Sig sta bevendo
+nel bar."<Close><End of Block>
+<TextBlock 63 w:38 h:2>
+Bart
+"Posso andare in
+ogni momento!"<Close><End of Block>
+<TextBlock 64 w:32 h:3>
+Bart
+"Siamo già al
+mio nascondiglio!"<Close><End of Block>
+<TextBlock 65 w:2 h:1>
+!<Opcode 2 20><Close><End of Block>
+<TextBlock 66 w:44 h:2>
+Se Sigurd morisse,
+io…!<Close><End of Block>
+<TextBlock 67 w:42 h:3>
+Padroncino, volete
+permettermi di pilotare
+ogni tanto, per favore?<Close><End of Block>
+<TextBlock 68 w:42 h:3>
+Evviva!!<Delay 10>
+Mi farà diventare un
+apprendista timoniere!<Close><End of Block>
+<TextBlock 69 w:48 h:4>
+Grazie alla tecnologia di
+Shevat, l'Yggdrasil III
+ora può volare, ma…<New>
+I comandi sono di nuovo
+cambiati ed io devo
+studiarli di nuovo.<New>
+Vuoi vedere le mie note?
+    <Opcode 1 255>Va bene
+    Non adesso<Close><End of Block>
+<TextBlock 70 w:53 h:4>
+<Opcode 1 255>1)<Delay 10> Il pulsante <Tri> è
+   l'acceleratore.
+   Ti muovi in avanti
+   molto più velocemente!!<New>
+2)<Delay 10> Premendo la
+   croce Direzionale col
+   pulsante <Tri> premuto,
+   puoi…<New>
+ andare giù premendo Su,
+ andare su premendo Giù,
+ e cambiare direzione
+ premendo Sinistra o Destra.<New>
+3)<Delay 10> Quando vuoi girarti
+ velocemente, premi il pulsante
+ L1 per sinistra, o il pulsante
+ R1 per Destra.<New>
+4)<Delay 10> Puoi invertire la
+   rotta premendo R2.<New>
+5)<Delay 10> Con il pulsante
+   <Square> vai sul ponte.
+   Con il pulsante <Circle>
+   atterri.<New>
+ Ma attento…
+ Ci sono posti dove non
+ puoi atterrare, come
+ montagne e foreste.<New>
+ Per il resto si tratta
+ delle stesse condizioni
+ di quando l'Yggdrasil era
+ un Incrociatore del Deserto.<Close><End of Block>
+<TextBlock 71 w:58 h:4>
+Il mio nome è Bingo,
+l'apprendista timoniere.<Delay 10>
+Sigurd mi sta insegnando a
+pilotare l'Yggdrasil!<New>
+Vuoi vedere i miei appunti?
+    <Opcode 1 255>Sì, grazie
+    Non adesso, grazie<Close><End of Block>
+<TextBlock 72 w:62 h:5>
+<Opcode 1 255>1)<Delay 10> L'Yggdrasil può essere
+   pilotato proprio come se ti
+   muovessi a piedi… Usa i
+   pulsanti Direzionali per
+   muoverti nella direzione
+   che vuoi.<New>
+2)<Delay 10> Mentre navighi, se vuoi
+   fermarti e sbarcare col
+   tuo Gear, basta premere
+   il pulsante <Circle>.<New>
+   Per fermarsi e trovarsi
+   sul ponte (cioè qui),
+   premi il pulsante <Square>.<New>
+   Dal ponte, puoi andare
+   ovunque nel vascello<Delay 5>,
+   riposare,<Delay 5> mettere a
+   punto un Gear,<Delay 5> equipaggiarti<Delay 5>
+   e così via!<New>
+3)<Delay 10> Mentre navighi, premi il
+   pulsante Select per attivare
+   il Sistema di Rilevamento.<Delay 10>
+   Indicherà sulla mappa la
+   tua posizione attuale.<New>
+4)<Delay 10> Quando non sai come andare
+   dove dovresti andare, 
+   chiedi prima al navigatore,
+   il Signor Alei, quello che
+   vedi lì usare il binocolo.<New>
+   Lui ti mostrerà le carte
+   di navigazione.<Close><End of Block>
+<TextBlock 73 w:54 h:2>
+Non riesco a sopportare
+l'attesa… Quando diventerò
+un timoniere provetto…?<Close><End of Block>
+<TextBlock 74 w:54 h:2>
+I missili della nave
+potrebbero non funzionare
+su quel mostro…<Close><End of Block>
+<TextBlock 75 w:48 h:5>
+Improvvisamente siamo passati
+dai viaggi terrestri a quelli
+aerei… Dalle due dimensioni
+alle tre dimensioni…
+È difficile…<Close><End of Block>
+<TextBlock 76 w:54 h:4>
+I tubi lanciasiluri ora
+lanciano missili.
+Possiamo sparare Gungany…
+cioè, i 'Missili Bart'!<Close><End of Block>
+<TextBlock 77 w:40 h:2>
+A proposito, come si
+spara verso il basso?<Close><End of Block>
+<TextBlock 78 w:46 h:4>
+Vediamo lo stato delle
+riserve di munizioni…
+Mmh, forse ci servono più
+proiettili antiaerei…<Close><End of Block>
+<TextBlock 79 w:56 h:4>
+La bussola ricevuta da
+Shevat è eccezionale.
+Puoi mirare a 15 diversi 
+bersagli simultaneamente!<Close><End of Block>
+<TextBlock 80 w:34 h:2>
+Mia cara artiglieria,
+tieniti pronta!<Close><End of Block>
+<TextBlock 81 w:50 h:6>
+La visuale è migliore
+di quella del deserto…
+È ideale per osservare
+l'esplosione dei missili.
+Le grosse scie saranno
+facili da individuare.<Close><End of Block>
+<TextBlock 82 w:50 h:4>
+I siluri marini sono costruiti
+più semplicemente rispetto a
+quelli per il deserto.<New>
+Per questo il loro potere
+è doppio di quello delle
+precedenti armi della nave.
+Ma sono cari.<Close><End of Block>
+<TextBlock 83 w:24 h:2>
+Gente, le mie gambe si
+muovono meravigliosamente!<Close><End of Block>
+<TextBlock 84 w:58 h:4>
+Hanno delle munizioni che
+funzionano con la nostra nave?
+È tempo di cambiare anche il
+software del radar!<Close><End of Block>
+<TextBlock 85 w:58 h:4>
+Non pensavo che avessero una
+tale varietà di torpedini
+marine. Comunque anche le
+torpedini normali non sono male.<New>
+Ce ne sono così tante che
+non riesco a decidere…!<Close><End of Block>
+<TextBlock 86 w:52 h:4>
+Per quanto riguarda i cannoni,
+non sai fin dove arriveranno
+i proiettili fin quando non
+li hai sparati.<New>
+Ma… sono disponibili per
+il commercio pirata perché
+sono economici ma ancora
+efficaci…<New>
+D'altro canto però, le
+torpedini distruggono
+ogni cosa, ma sono anche
+molto care…<Close><End of Block>
+<TextBlock 87 w:50 h:3>
+Col clima secco del deserto
+la polvere da sparo brucia
+in modo uniforme e prevedibile.<New>
+Sarebbe meraviglioso se la
+temperatura fosse la stessa
+sia di giorno che di notte.<Close><End of Block>
+<TextBlock 88 w:48 h:4>
+L'albero della nave è basso.<Delay 10>
+Così sarebbe d'aiuto poter
+avere un Gear per osservare
+l'impatto dei cannoni…<New>
+E quando le catapulte
+sono aperte, non puoi
+usare il cannone principale.<Delay 10>
+Ahh, quanti problemi…<Close><End of Block>
+<TextBlock 89 w:52 h:4>
+La bussola azimutale non è
+nella giusta posizione.
+Sarà meglio ripararla non
+appena saremo all'ancora…<Close><End of Block>
+<TextBlock 90 w:50 h:5>
+Voglio cambiare questo con
+un radar da combattimento
+con un miglior filtro…
+Oh, e vorrei anche un
+enorme tubo lanciasiluri…<Close><End of Block>
+<TextBlock 91 w:40 h:4>
+Vance
+"Oh, Padroncino!<Delay 10>
+Io… non sto oziando
+sul lavoro! Giuro!"<Close><End of Block>
+<TextBlock 92 w:6 h:1>
+…<Opcode 2 10><Close><End of Block>
+<TextBlock 93 w:52 h:4>
+Vance
+"Oh, <Delay 10>scusa…<Delay 10>
+Non mi ero accorto
+che fossi qui!<New>
+Vuoi sentire alcuni dei
+suoni che ho registrato?"
+    <Opcode 1 255>Certo.
+    No, grazie.<Close><End of Block>
+<TextBlock 94 w:46 h:4>
+Vance
+"Vuoi sentirne di più?"
+    <Opcode 1 255>Sì, è fantastico!
+    No, ne ho abbastanza!<Close><End of Block>
+<TextBlock 95 w:42 h:3>
+Vance
+"Ahh…
+È un vero peccato."<Close><End of Block>
+<TextBlock 96 w:52 h:4>
+Vance
+"È un vero peccato…<Delay 10>
+Potresti sentire il mondo
+tra i disturbi statici!"<Close><End of Block>
+<TextBlock 97 w:48 h:2>
+<Opcode 1 255>'La Collezione di Vance'
+     Numero <Opcode 10 0><Close><End of Block>
+<TextBlock 98 w:48 h:4>
+Finalmente ho ottenuto la
+possibilità di essere in
+cielo…<Delay 10> Ma non devo ancora
+rilassarmi!<Close><End of Block>
+<TextBlock 99 w:52 h:3>
+Mi vengono i brividi freddi
+tutte le volte che decolliamo
+e atterriamo.<Close><End of Block>
+<TextBlock 100 w:54 h:3>
+… In breve, vola perché
+ha le ali, giusto? È
+difficile da capire!<Close><End of Block>
+<TextBlock 101 w:54 h:4>
+Così in acqua il timone deve
+essere caricato gentilmente
+prima di cercare di girarlo…
+Credo di aver imparato qualcosa.<Close><End of Block>
+<TextBlock 102 w:46 h:4>
+Wow, pensare che qualcosa
+come una Lemora potesse
+vivere nell'oceano… Era
+tutta corazzata!<Close><End of Block>
+<TextBlock 103 w:54 h:4>
+L'altro giorno ho fatto una
+gara con il Padroncino per
+vedere chi sapesse
+capovolgere meglio la nave.<New>
+Il vecchio Maison era
+bianco come un lenzuolo,
+e diceva che tutte le tazze
+da tè erano distrutte…<Close><End of Block>
+<TextBlock 104 w:50 h:5>
+Una Lemora del deserto
+s'era attaccata allo scafo.
+Non mi meraviglia che non
+riuscivamo a prendere 
+velocità…<Close><End of Block>
+<TextBlock 105 w:30 h:3>
+…<Delay 10>
+Mettiamoci più
+passione nel farlo!!<Close><End of Block>
+<TextBlock 106 w:62 h:4>
+Manovre tri-dimensionali
+ad alta velocità? Impossibile!
+Non sono un pilota di Gear!
+Ma non ho scelta!<Close><End of Block>
+<TextBlock 107 w:34 h:4>
+Con il turbo,
+l'accelerazione
+è mostruosa!
+Ma è divertente.<Close><End of Block>
+<TextBlock 108 w:48 h:5>
+Come usare il timone…
+Spiega le aste
+simultaneamente…
+così… Mmh?
+Cos'è un Gorgo?<Close><End of Block>
+<TextBlock 109 w:44 h:4>
+… Mickey e Sephiroth
+i testi… _Ombra_,
+Mat, Chop l'hacking…
+SadNES cITy…
+grumble… grumble…<Space 1><Close><End of Block>
+<TextBlock 110 w:58 h:4>
+Mmh, il timone non funziona
+molto bene, diversamente da
+come si comportava nella
+sabbia… Non sembra per nulla
+né affidabile, né preciso!<Close><End of Block>
+<TextBlock 111 w:58 h:3>
+Ora riesco ad usarlo. Ci
+si può muovere liberamente
+in acqua, una volta saputo
+come si fa!<Close><End of Block>
+<TextBlock 112 w:52 h:4>
+È difficile controllare
+la nave dopo che il
+Padroncino l'ha pilotata.
+È così avventato…<Close><End of Block>
+<TextBlock 113 w:60 h:3>
+Sono accadute molte cose.
+Meglio fare un bel controllo
+alle ruote di propulsione!<Close><End of Block>
+<TextBlock 114 w:46 h:2>
+Tutto ciò che ho sentito sono
+solo disturbi statici…<New>
+Spero che la gente sia ancora
+viva là fuori…<Close><End of Block>
+<TextBlock 115 w:50 h:5>
+Shevat usa uno speciale
+metodo di comunicazione…<Delay 10>
+Mi è stato ordinato di
+lavorare ad un sistema
+che lo decodifichi…<Delay 10>
+Spero di riuscirci!<Close><End of Block>
+<TextBlock 116 w:44 h:3>
+Un faro ad onde radio
+in tre dimensioni?<Delay 10>
+Serve un nuovo software!<New>
+E loro si aspettano
+che lo crei io…
+Giusto…!?<Close><End of Block>
+<TextBlock 117 w:36 h:2>
+Vance è incazzato e
+non vuole aiutarmi…<Close><End of Block>
+<TextBlock 118 w:62 h:5>
+Decodificatore comunicazioni
+Shevat,<Delay 10> carta delle
+coordinate angolari delle
+onde radio del faro e sue
+pulsazioni,<Delay 10> tabella dei
+codici di guida…<New>
+Ci sono molte cose che
+dobbiamo comprare.<Delay 10>
+Le cose sono diventate più
+complicate e costose,
+ora che possiamo volare!<Close><End of Block>
+<TextBlock 119 w:44 h:2>
+Comunicazioni laser…<Delay 10>
+Io… <Delay 5>le voglio…<Close><End of Block>
+<TextBlock 120 w:52 h:3>
+Abbiamo molte difficoltà con
+l'elettricità statica nel
+deserto che causa disturbi.<Close><End of Block>
+<TextBlock 121 w:52 h:4>
+Possiamo usare onde radio
+ad alta frequenza nell'acqua,
+ma la risoluzione è bassa
+ed è difficile decifrarle.<Close><End of Block>
+<TextBlock 122 w:48 h:4>
+… Con l'incremento dell'uso
+delle onde radio, il mio
+lavoro è aumentato.<Delay 10>
+Sono felice ma impegnato!<Close><End of Block>
+<TextBlock 123 w:52 h:5>
+Abbiamo aumentato le antenne,
+ma non posso tenere traccia
+di tutto perché non ho 
+abbastanza selettori di
+canali…<Delay 10> Cazzo!!<Close><End of Block>
+<TextBlock 124 w:54 h:4>
+Appena avrò un po' di tempo
+libero, credo che mi prenderò
+un oscillatore di comunicazioni
+standard.<Close><End of Block>
+<TextBlock 125 w:52 h:4>
+Le onde elettriche utilizzabili
+sono aumentate, così ora anche
+l'antenna deve essere cambiata!<Close><End of Block>
+<TextBlock 126 w:54 h:4>
+Sotto la sabbia non ci sono
+altro che disturbi statici…<Delay 10>
+In realtà, non c'è nulla
+da fare comunque…<Close><End of Block>
+<TextBlock 127 w:48 h:5>
+La sabbia conduce i suoni
+meglio dell'aria.<Delay 10>
+Posso sentire ogni scorreggia
+che Shakhan spara!<Delay 10>
+Ah… Sto scherzando!<Close><End of Block>
+<TextBlock 128 w:42 h:2>
+Comunque le nostre mappe
+non sono di molto aiuto…<Close><End of Block>
+<TextBlock 129 w:50 h:3>
+Padroncino, ha idea di
+dove ci troviamo?<Delay 10>
+Non è segnato sulla mappa!<Close><End of Block>
+<TextBlock 130 w:44 h:2>
+Non è sulla mappa…<Delay 10>
+Dove diavolo siamo?<Close><End of Block>
+<TextBlock 131 w:32 h:1>
+Ho una nuova mappa!<Close><End of Block>
+<TextBlock 132 w:36 h:4>
+Vuoi vedere la carta
+di navigazione?
+    <Opcode 1 255>Sì, mostramela
+    No, grazie.<Close><End of Block>
+<TextBlock 133 w:52 h:4>
+Va bene…<Delay 10>
+Fammi sapere quando
+vuoi vederla…<Delay 10>
+Non mi costa nulla.<Close><End of Block>
+<TextBlock 134 w:48 h:3>
+Quel Jerico ha ragione!<Delay 10>
+Anch'io devo metterci 
+più passione nel farlo!<Close><End of Block>
+<TextBlock 135 w:56 h:4>
+Pensavo di avere più tempo
+libero. Ma devo rimediare
+agli errori di Jerico e sono
+più impegnato di prima…<Close><End of Block>
+<TextBlock 136 w:50 h:3>
+Spero che Jerico non stia
+imparando qualcun'altra
+delle sue strane cose…<Close><End of Block>
+<TextBlock 137 w:60 h:4>
+Non devo più effettuare
+delicati movimenti d'ala,
+ma è più difficile mantenere
+l'equilibrio che nella sabbia.<Close><End of Block>
+<TextBlock 138 w:46 h:3>
+Ora devo ispezionare il
+serbatoio principale.
+Non l'ho ancora fatto.<Close><End of Block>
+<TextBlock 139 w:54 h:3>
+Questa nave usa innumerevoli
+rotori per polverizzare
+la sabbia e attraversarla.<New>
+Se l'equilibrio viene perso, 
+ci rovesceremo nel deserto.<Delay 10>
+È tutto nelle nostre mani!<Close><End of Block>
+<TextBlock 140 w:54 h:4>
+Devo riparare alcune pompe
+che si sono rotte.
+Oh… e devo anche ricoprire
+i rotori…<Close><End of Block>
+<TextBlock 141 w:40 h:3>
+Le mappe devono essere
+riscritte a causa di ciò
+che è successo!<Close><End of Block>
+<TextBlock 142 w:46 h:3>
+Se ignori la scala temporale,
+non ci sono molti cambi nel
+carico di lavoro.<Close><End of Block>
+<TextBlock 143 w:52 h:5>
+Guarda! Guarda!
+L'immagine aerea ricalca
+la mappa che ho fatto tempo
+fa… esattamente! È una
+emozione indescrivibile.<Close><End of Block>
+<TextBlock 144 w:46 h:3>
+È un piccolo mondo.
+Già ricordo tutta la
+terra, il mare e l'aria!!<Close><End of Block>
+<TextBlock 145 w:50 h:2>
+Una carta nautica! 
+Devo comprarne una!<Close><End of Block>
+<TextBlock 146 w:44 h:4>
+Il capitano qui è
+un brav'uomo! Mi ha
+insegnato molte cose
+sul mare. Ma non è
+un grande bevitore!<Close><End of Block>
+<TextBlock 147 w:50 h:3>
+Ero scoraggiato perché
+ci sono così tanti posti
+non segnati sulle mappe…<New>
+Ma allo stesso tempo,
+ero felice di poter
+scrivere nuove carte…<Close><End of Block>
+<TextBlock 148 w:46 h:4>
+L'oceano è così grande…
+Il deserto almeno ha
+dei punti di riferimento
+ai quali rifarsi…<New>
+Ora invece non posso
+avere come riferimento
+la terraferma. Devo
+anche acquisire la
+padronanza nei calcoli
+celesti.<Close><End of Block>
+<TextBlock 149 w:46 h:3>
+Jerico è stato più cauto
+ultimamente, così la
+navigazione è stata più
+tranquilla.<Close><End of Block>
+<TextBlock 150 w:54 h:6>
+Toh, quella è la bananiera
+del capo navigatore.
+Guarda la mappa.<Delay 10>
+Il deserto può sembrare
+piatto e noioso ma è anche
+molto complicato.<New>
+È anche peggio quando
+navighi sottoterra…
+Massi inaspettati e corsi
+d'acqua sotterranei…
+Non puoi levare gli occhi
+dalla mappa per un secondo!<Close><End of Block>
+<TextBlock 151 w:48 h:4>
+Quel Jerico! Lascia che
+l'Yggdrasil se ne vada per
+i fatti suoi, così finiamo
+alla deriva qualunque sia
+il percorso che prendiamo…<Close><End of Block>
+<TextBlock 152 w:56 h:4>
+Il deserto cambia ogni giorno.
+Così io riscrivo le mappe
+con le informazioni che
+otteniamo quando siamo fuori.<Close><End of Block>
+<TextBlock 153 w:56 h:5>
+La raccolta di mappe è il
+grande tesoro dell'Yggdrasil!<Delay 10>
+Questa nave può muoversi
+velocemente perché ha
+queste mappe.<Delay 10>
+È sono tutte fatte da me!<Close><End of Block>
+<TextBlock 154 w:52 h:4>
+Bart
+"Ehi, guarda un po' chi
+c'è… il Dottor Shitan
+Uzuki e<Delay 10>…<New>
+Ehmm,<Delay 10> il suo grande amico!
+Vedo che finalmente vi
+siete svegliati<Delay 10>…<New>
+Mi dispiace per ciò che
+è successo…<Delay 10> Per favore,
+perdonatemi…"<Close><End of Block>
+<TextBlock 155 w:54 h:4>
+Rico
+"Io ho un nome, sai…<Delay 10>
+È Ricardo Banderas…<Delay 10>
+Ma tutti mi chiamano Rico!<New>
+Ma… per che cosa ti
+stai scusando?"<Close><End of Block>
+<TextBlock 156 w:54 h:4>
+Bart
+"…<Delay 10>
+Suppongo che non dovrei
+menar il can per l'aia…<New>
+Non sono il tipo che si
+scusa facilmente, ma…"<Close><End of Block>
+<TextBlock 157 w:50 h:4>
+Shitan
+"Quello che sta tentando
+di dire è questo<Delay 5>…<New>
+Le persone che ci hanno
+abbattuto, e quelle che
+ci hanno salvato, sono<Delay 5>…<New>
+…<Delay 5> l'equipaggio di
+questa nave!"<Close><End of Block>
+<TextBlock 158 w:46 h:3>
+Rico
+"…?<Delay 10><Delay 10>
+Non dirmi che…<New>
+Il Golia nel quale
+ci trovavamo è stato
+abbattuto da…?"<Close><End of Block>
+<TextBlock 159 w:52 h:4>
+Bart
+"Sì, devo dire che sei
+un po' carente di
+comprendonio…<Delay 5> ehmm,<Delay 5> amico!<New>
+Ora il nostro Yggdrasil II
+è in grado di abbattere
+facilmente quel mostro di
+aeroplano!<Delay 5> È stato grande!"<Close><End of Block>
+<TextBlock 160 w:46 h:3>
+Bart
+"Avreste dovuto vederlo!<Delay 10>
+Wow!<Delay 10> Il mio 'Missile Bart'
+era meraviglioso…!!"<Close><End of Block>
+<TextBlock 161 w:32 h:4>
+Rico
+"AAAARRRGGHHH!!<Delay 10>
+Non ti perdonerò
+così facilmente!"<Opcode 2 60><Close><End of Block>
+<TextBlock 162 w:46 h:4>
+Sigurd
+"Fei, il Padroncino
+non è ancora rientrato.
+Come mai?<New>
+Sarebbe troppo chiederti
+di andare a chiamarlo?"<Close><End of Block>
+<TextBlock 163 w:46 h:3>
+Fei
+"Nessun problema!<New>
+Sicuramente starà
+bevendo e mangiando con
+il Capitano del Tammuz!"<Close><End of Block>
+<TextBlock 164 w:60 h:3>
+Ho ricevuto un segnale di
+soccorso!<Delay 10> Sembra che il
+Tammuz sia sotto l'attacco
+di un gruppo di Mietitori!<Close><End of Block>
+<TextBlock 165 w:46 h:4>
+Bart
+"Così questa è la
+purificazione di Solaris
+di cui Stone parlava!?"<Close><End of Block>
+<TextBlock 166 w:46 h:4>
+Bart
+"Così questa è la
+purificazione di Solaris
+di cui Stone parlava!?"<Close><End of Block>
+<TextBlock 167 w:50 h:4>
+Shitan
+"Affrettiamoci!<Delay 10>
+Oppure il Tammuz verrà
+distrutto dai Mietitori!"<Close><End of Block>
+<TextBlock 168 w:50 h:4>
+Shitan
+"Affrettiamoci!<Delay 10>
+Oppure il Tammuz verrà
+distrutto dai Mietitori!"<Close><End of Block>
+<TextBlock 169 w:48 h:4>
+Jessie
+"E la Chiesa?
+Si è completamente
+rovinata da sola!<New>
+Quegli idioti stanno
+andando di male in
+peggio!"<Close><End of Block>
+<TextBlock 170 w:52 h:4>
+Shitan
+"Non pensi che sia giunto
+il momento di dire la
+verità a tuo figlio…<New>
+… amico mio?<New>
+Non te ne eri andato
+in giro solo a bere e
+ad attaccare briga,
+vero?<New>
+Sono sicuro che vuole
+sapere che cos'hai fatto
+finora…<Delay 10>
+Giusto, Billy?"<Close><End of Block>
+<TextBlock 171 w:52 h:4>
+Shitan
+"Non pensi che sia giunto
+il momento di dire la
+verità a tuo figlio…<New>
+… amico mio?<New>
+Non te ne sei andato
+in giro solo a bere e
+ad attaccare briga,
+vero?<New>
+Sono sicuro che vuole
+sapere che cos'hai fatto
+finora…<Delay 10>
+È giusto, Billy?"<Close><End of Block>
+<TextBlock 172 w:52 h:4>
+Billy
+"Sì, questo mi farebbe
+sentire molto meglio.<New>
+Ora so che mio padre si
+preoccupava sempre di me,
+ma devo ancora mettere
+a fuoco la situazione…"<Close><End of Block>
+<TextBlock 173 w:38 h:2>
+Jessie
+"Cosa vuoi dire?"<Close><End of Block>
+<TextBlock 174 w:54 h:4>
+Billy
+"Sono felice che Prim ora
+possa parlare, ma lei
+chiama solo suo padre…<New>
+Ma sono io che mi sono
+preso cura di lei per
+tutto questo tempo<Delay 10>…<New>
+Dove ho sbagliato
+con lei…?"<Close><End of Block>
+<TextBlock 175 w:54 h:4>
+Shitan
+"Calma,<Delay 10> Billy…<Delay 10>
+Sono sicuro che sia
+solo un po' timida.<New>
+Presto comincerà a
+chiamare anche te.<Delay 10><New>
+Sai, neanche mia figlia
+pronuncia il nome di
+suo padre!"<Close><End of Block>
+<TextBlock 176 w:42 h:4>
+Shitan
+"Allora, amico mio…<Delay 10>
+Perché hai lavorato da
+solo tutto questo tempo?"<Close><End of Block>
+<TextBlock 177 w:54 h:4>
+Shitan
+"Calma,<Delay 10> Billy…<Delay 10>
+Sono sicuro che sia
+solo un po' timida.<New>
+Presto comincerà a chiamare
+anche te.<Delay 10> Sai, neanche
+mia figlia pronuncia il
+nome del padre!"<Close><End of Block>
+<TextBlock 178 w:42 h:4>
+Shitan
+"Allora, amico mio…<Delay 10>
+Perché hai lavorato da
+solo tutto questo tempo?"<Close><End of Block>
+<TextBlock 179 w:52 h:4>
+Jessie
+"Non posso farne a meno<Delay 10>…<New>
+Comunque, probabilmente
+avrò bisogno del vostro
+aiuto da qui in poi…"<Close><End of Block>
+<TextBlock 180 w:54 h:4>
+Jessie
+"Ok, ti dirò di più.<Delay 10>
+Andiamo al bar…<Delay 10>
+a farci un goccetto."<Close><End of Block>
+<TextBlock 181 w:32 h:2>
+Fei
+"Non <Delay 10>può essere!"<Close><End of Block>
+<TextBlock 182 w:30 h:3>
+Billy
+"Un'esplosione
+secondaria…!?"<Close><End of Block>
+<TextBlock 183 w:54 h:4>
+Shitan
+"Oh no!<Delay 10>
+Avrei dovuto saperlo.
+Che grave errore!!<New>
+L'esplosione era
+troppo grande<Delay 10>…<New>
+Essa ha reagito con
+il condensatore
+primario sotto il
+cannone principale…<New>
+… e ha indotto
+un'esplosione
+secondaria<Delay 10>…<New>
+Come ho potuto essere
+così stupido…?"<Close><End of Block>
+<TextBlock 184 w:32 h:3>
+Bart
+"Cioè,<Delay 10> l'abbiamo
+sottostimata!?"<Close><End of Block>
+<TextBlock 185 w:38 h:3>
+Shitan
+"Perché non l'ho
+capito prima!?<New>
+Questo significa…<Delay 10>
+Potremmo avere…
+Oh no, Elly…!"<Close><End of Block>
+<TextBlock 186 w:38 h:3>
+Fei
+"Oh…<Delay 10> per la miseria…<Delay 10><Space 1>
+Elly…!!"<Close><End of Block>
+<TextBlock 187 w:28 h:3>
+Billy
+"Cosa c'è<Delay 10>
+questa volta?"<Close><End of Block>
+<TextBlock 188 w:36 h:4>
+Bart
+"Ehi, <Delay 10>Shitan!
+Cosa sta per
+succedere!?"<Close><End of Block>
+<TextBlock 189 w:52 h:4>
+Shitan
+"Qualcosa è accaduto al
+centro del Merkabah…<Delay 10>
+Cosa potrebbe essere…!?"<Close><End of Block>
+<TextBlock 190 w:46 h:4>
+Billy
+"Comunque, grazie per
+avermi aiutato.<New>
+Ad essere onesti, era
+troppo pericoloso per
+me solo.<New>
+Non ce l'avrei fatta
+senza il vostro aiuto…"<Close><End of Block>
+<TextBlock 191 w:50 h:4>
+Bart
+"Il tuo lavoro è sempre
+così pericoloso?<New>
+Ah, non avrei mai pensato
+che avresti chiamato un
+Gear!<Delay 10> Ma… cosa diavolo
+ha in mente la Chiesa?"<Close><End of Block>
+<TextBlock 192 w:50 h:4>
+Bart
+"Il tuo lavoro è sempre
+così pericoloso?<New>
+Ah, non avrei mai pensato
+che avresti chiamato un
+Gear!<Delay 10> Ma… cosa diavolo
+ha in mente la Chiesa?"<Close><End of Block>
+<TextBlock 193 w:42 h:4>
+Billy
+"!<Delay 10> …<Delay 5> Noi Redentori stiamo
+solamente eseguendo la
+nostra missione divina!"<Close><End of Block>
+<TextBlock 194 w:52 h:4>
+Bart
+"Scusami…<Delay 10> Non dovevo
+dirlo.<Delay 10> Non prenderla
+troppo sul serio!<New>
+Allora, stai andando
+a fare rapporto alla
+Chiesa sui risultati
+del tuo lavoro, giusto?<New>
+Ok, se vuoi ti daremo un
+passaggio fino alla Sede
+della Chiesa…<Delay 10>
+È sulla nostra strada."<Close><End of Block>
+<TextBlock 195 w:52 h:4>
+Bart
+"Scusami…<Delay 10> Non dovevo
+dirlo.<Delay 10> Non prenderla
+troppo sul serio!<New>
+Allora, stai andando
+a fare rapporto alla
+Chiesa sui risultati
+del tuo lavoro, giusto?<New>
+Ok, se vuoi ti daremo un
+passaggio fino alla Sede
+della Chiesa…<Delay 10>
+È sulla nostra strada."<Close><End of Block>
+<TextBlock 196 w:42 h:4>
+Billy
+"Sarebbe ottimo, a
+condizione che non
+vi faccia ritardare…<New>
+Ho qualcosa da darvi
+come segno della mia
+gratitudine.<New>
+Per favore,
+accompagnatemi alla
+Sede della Chiesa.
+Andiamo…"<Close><End of Block>
+<TextBlock 197 w:52 h:4>
+Shitan
+"'Ahnenerbe'…<New>
+Il tanto atteso uomo di
+dio, colui che condurrà
+i nati in questo mondo
+verso nuovi orizzonti.<New>
+Questo è il destino
+del 'Contatto'.<Delay 10>
+È così che l'Imperatore
+chiamava Fei…<New>
+Ma non mi ha detto
+perché chiamava Fei
+in quel modo…"<Close><End of Block>
+<TextBlock 198 w:52 h:2>
+Sigurd
+"Ma chi diamine
+è, allora?"<Close><End of Block>
+<TextBlock 199 w:54 h:4>
+Shitan
+"Lui è Fei.<Delay 30>
+Ma è anche colui
+che ha…<New>
+… distrutto Elul,<Delay 10> causato
+serie ferite a Kahr<Delay 10>,
+sprofondato l'Yggdrasil<Delay 10>…<New>
+… ucciso i subordinati
+di Rico a Kislev…<New>
+…<Delay 10>
+Devo continuare?<Delay 10>
+Lui è<Delay 5>…<Delay 5>
+<Delay 5>…<Delay 10> Id."<Close><End of Block>
+<TextBlock 200 w:38 h:3>
+Sigurd
+"Cosa stai dicendo!?<Delay 10>
+Id!?"<Close><End of Block>
+<TextBlock 201 w:38 h:2>
+Jessie
+"Che vuoi dire?"<Close><End of Block>
+<TextBlock 202 w:54 h:4>
+Shitan
+"Lui<Delay 5>…<Delay 10> cioè Fei,<Delay 10> soffre
+di Disordine Dissociativo
+delle Identità…<New>
+Anche conosciuto come
+personalità multiple."<Close><End of Block>
+<TextBlock 203 w:30 h:2>
+Jessie
+"D…<Delay 5> disso…?"<Space 1><Close><End of Block>
+<TextBlock 204 w:52 h:4>
+Shitan
+"Disordine Dissociativo
+delle Identità…<Delay 10>
+o personalità multiple.<New>
+È un disordine mentale
+per il quale una persona
+ha personalità multiple."<Close><End of Block>
+<TextBlock 205 w:46 h:2>
+Sigurd
+"Non può essere vero…"<Close><End of Block>
+<TextBlock 206 w:52 h:4>
+Shitan
+"Oh, ma è la verità!<Delay 10>
+Fei ne è la prova vivente.<New>
+Fei ha dentro di sé una
+personalità distruttiva
+chiamata 'Id'."<Close><End of Block>
+<TextBlock 207 w:54 h:4>
+Shitan
+"All'inizio era stabile…<New>
+La sua dissociazione non
+si è presentata affatto
+mentre ha vissuto in
+Lahan per quei tre anni.<New>
+Ma, dopo che Lahan fu
+attaccata, le cose
+cambiarono.<New>
+Poco a poco, il numero
+dei casi di dissociazione
+e la loro durata sono
+aumentati.<New>
+Fino a Solaris, dove
+si è verificata una
+manifestazione completa
+di Id."<Close><End of Block>
+<TextBlock 208 w:46 h:4>
+Sigurd
+"Cosa l'ha causata?<Delay 10>
+Stava bene quando si
+trovava a Lahan, vero?"<Close><End of Block>
+<TextBlock 209 w:54 h:4>
+Shitan
+"La mia ipotesi è che<Delay 50>…<New>
+… l'apparizione di Grahf
+influenzi Fei in qualche
+modo.<New>
+Probabilmente sapete che
+Fei lavorò con Grahf come
+l'assassino 'Id' prima di…<New>
+… essere portato a vivere
+in Lahan.<New>
+Fu allora che Elul,<Delay 5> il
+paese natale di Dominia,<Delay 5>
+venne annientato.<New>
+Grahf stava provocando
+intenzionalmente
+l'apparizione di Id<Delay 10>
+'all'interno'<Delay 10>…<New>
+… per scegliere una parola
+più appropriata<Delay 5>…<Delay 10> di Fei."<Close><End of Block>
+<TextBlock 210 w:38 h:2>
+Jessie
+"Per quale scopo?"<Close><End of Block>
+<TextBlock 211 w:54 h:4>
+Shitan
+"Distruggere dio<Delay 5>…<Delay 10>
+Questo è ciò che
+Grahf ha detto…<New>
+È tutto ciò che so…
+Anche se potrebbe
+esserci dell'altro…<Delay 10>
+Ma una cosa è certa…<New>
+Grahf stava incoraggiando
+la manifestazione di Id,
+ma non aveva molto
+controllo su di lui."<Close><End of Block>
+<TextBlock 212 w:40 h:4>
+Sigurd
+"In altre parole, era una
+cosa troppo grossa da
+gestire per lui?"<Close><End of Block>
+<TextBlock 213 w:12 h:2>
+Shitan
+"Sì."<Close><End of Block>
+<TextBlock 214 w:54 h:4>
+Jessie
+"Hai detto: 'È tutto ciò
+che so, anche se potrebbe
+esserci dell'altro.' …<New>
+Che cosa intendevi dire?"<Close><End of Block>
+<TextBlock 215 w:54 h:4>
+Shitan
+"È la cosa che intendo
+spiegare ora.<Delay 10><New>
+In realtà, è la cosa
+più importante."<Close><End of Block>
+<TextBlock 216 w:36 h:3>
+Billy
+"Allora…
+Andiamo anche noi?"<Close><End of Block>
+<TextBlock 217 w:66 h:5>
+Ho individuato la flotta della
+Chiesa ed il Tammuz sul radar,
+signore.<Delay 10> Sono nel mare a sud
+di qui.<Delay 10> Viaggiando a tutta
+velocità li raggiungeremo in
+un'ora.<Close><End of Block>
+<TextBlock 218 w:42 h:3>
+Sigurd
+"Perfetto!<Delay 10>
+Salpiamo verso
+il Tammuz!"<Close><End of Block>
+<TextBlock 219 w:28 h:1>
+Agli ordini, signore!<Close><End of Block>
+<TextBlock 220 w:34 h:2>
+Primo Ufficiale!<Delay 10>
+Il radar, signore…!<Close><End of Block>
+<TextBlock 221 w:28 h:2>
+Sigurd
+"Cosa c'è!?"<Close><End of Block>
+<TextBlock 222 w:46 h:4>
+Il radar ha appena
+individuato un enorme
+oggetto!<Delay 10> È apparso
+proprio sopra la flotta!<Close><End of Block>
+<TextBlock 223 w:44 h:3>
+Bart
+"Non dirmi che Stone
+è già lì!?"<Close><End of Block>
+<TextBlock 224 w:44 h:3>
+Bart
+"Non dirmi che Stone
+è già lì!?"<Close><End of Block>
+<TextBlock 225 w:36 h:4>
+No, è molto più
+grande!<Delay 10>
+La grandezza stimata è
+di almeno 2000 metri!<Close><End of Block>
+<TextBlock 226 w:38 h:4>
+Billy
+"È gigantesco…<Delay 10>
+Ma cosa diavolo sta
+succedendo…?"<Close><End of Block>
+<TextBlock 227 w:3 h:1>
+ <Close><Close><End of Block>

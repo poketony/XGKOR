@@ -1,0 +1,195 @@
+<TextBlock 1 w:52 h:2>
+Bart
+"Ehi, ma è enorme.<New>
+Che facciamo? Non penso
+che tu possa romperlo."<Close><End of Block>
+<TextBlock 2 w:54 h:4>
+Bart
+"I miei sensori indicano
+che esiste, dall'altra
+parte, un'enorme caverna.<New>
+Se potessimo toglierci
+dai piedi questo masso…<Delay 30>
+Ma non penso che riusciremo
+a ridurlo in pezzi!"<Close><End of Block>
+<TextBlock 3 w:36 h:3>
+Fei
+"Forse<Delay 30> potremmo
+provare a spingere…"<Close><End of Block>
+<TextBlock 4 w:40 h:3>
+Bart
+"Aspetta, non importa
+quanto ci provi<Delay 30>…<Delay 30>…"<Close><End of Block>
+<TextBlock 5 w:50 h:4>
+Bart
+"Ehi, Fei!<Delay 30>
+I miei sensori hanno
+trovato qualcosa.<New>
+Dall'altra parte sembra
+esserci una enorme
+caverna."<Close><End of Block>
+<TextBlock 6 w:52 h:4>
+Bart
+"Se solo potessimo fare
+qualcosa con questo
+masso<Delay 30>…<New>
+… ma non penso sia
+possibile."<Close><End of Block>
+<TextBlock 7 w:54 h:4>
+Bart
+"Il giunto idromeccanico
+del mio ginocchio è sul
+punto di rompersi.<New>
+Tutto per colpa della
+caduta da lassù… seguita
+dallo sforzo di spostare
+questo masso gigantesco.<New>
+E non sarebbe divertente
+se il mio Gear funzionasse
+male in questa caverna."<Close><End of Block>
+<TextBlock 8 w:40 h:3>
+Bart
+"Non mi piaci molto…<New>
+Accidenti! Ne
+riparleremo quando
+saremo fuori di qui."<Close><End of Block>
+<TextBlock 9 w:50 h:3>
+Fei
+"Sembra che anche un'altra
+persona non ce l'abbia
+fatta…"<Close><End of Block>
+<TextBlock 10 w:50 h:3>
+Fei
+"Sembra che anche un'altra
+persona non ce l'abbia
+fatta…"<Close><End of Block>
+<TextBlock 11 w:50 h:3>
+Fei
+"Possiamo farcela se
+ci aiutiamo a vicenda.<New>
+Vediamo come possiamo
+uscire di qua."<Close><End of Block>
+<TextBlock 12 w:38 h:3>
+Fei
+"I tuoi amici non
+verranno ad aiutarci?"<Close><End of Block>
+<TextBlock 13 w:48 h:4>
+Bart
+"È una perdita di tempo
+aspettare<Delay 30>…<New>
+Probabilmente loro non
+verranno."<Close><End of Block>
+<TextBlock 14 w:44 h:3>
+Fei
+"Ma… non sono
+tuoi amici?"<Close><End of Block>
+<TextBlock 15 w:42 h:3>
+Bart
+"Sì, ma non è questo
+il punto.<New>
+Penseranno che possiamo
+farcela da soli."<Close><End of Block>
+<TextBlock 16 w:32 h:3>
+Fei
+"Chissà se Doc
+sta bene…"<Close><End of Block>
+<TextBlock 17 w:46 h:3>
+Bart
+"Non preoccuparti
+dell'uomo che era
+con noi.<New>
+I miei ragazzi
+l'avranno salvato
+di sicuro."<Close><End of Block>
+<TextBlock 18 w:10 h:2>
+Fei
+"…"<Close><End of Block>
+<TextBlock 19 w:26 h:2>
+Bart
+"Che c'è?"<Close><End of Block>
+<TextBlock 20 w:46 h:3>
+Fei
+"…<Delay 30><New>
+Non saremmo a questo
+punto se solo mi
+avessi dato ascolto."<Close><End of Block>
+<TextBlock 21 w:52 h:4>
+Bart
+"Non prendertela con me!
+Avresti dovuto arrenderti
+invece di sfidarmi.<New>
+Tutto ciò che volevo
+era il tuo Gear."<Close><End of Block>
+<TextBlock 22 w:52 h:3>
+Fei
+"Non essere ridicolo!<New>
+Sei tu che hai attaccato
+per primo. Cos'altro
+potevo fare?<New>
+Ho pensato che sarei
+potuto morire se non
+ti avessi combattuto…"<Close><End of Block>
+<TextBlock 23 w:50 h:4>
+Bart
+"Non facevo sul serio.
+Non potevi dire qualcosa?<Delay 10>
+Sei proprio stupido."<Close><End of Block>
+<TextBlock 24 w:50 h:3>
+Fei
+"Non mentirmi.
+Non scherzavi mica."<Close><End of Block>
+<TextBlock 25 w:44 h:4>
+Bart
+"Cosa!? Ne vuoi un po'!?
+Devi solo chiedere!
+Proprio ora!"<Close><End of Block>
+<TextBlock 26 w:10 h:2>
+Fei
+"…"<Close><End of Block>
+<TextBlock 27 w:46 h:4>
+Bart
+"Aspetta! Dobbiamo
+regolare prima i nostri
+conti.<New>
+Non farò nulla se non
+regoliamo i nostri conti
+adesso, una volta per
+tutte!"<Close><End of Block>
+<TextBlock 28 w:52 h:4>
+Fei
+"Pensavo che volessi
+una tregua! Uscire di
+qua è la nostra priorità!<New>
+Una volta fuori di qui,
+combatteremo finché lo
+vorrai.<Delay 30> Sbrighiamoci
+ad uscire di qui!"<Close><End of Block>
+<TextBlock 29 w:60 h:3>
+<Opcode 1 255> 
+   - SALA SENSORE SABBIA -
+                              <Close><End of Block>
+<TextBlock 30 w:66 h:4>
+Individuate enormi quantità di
+sabbia cadente oltre il livello
+di sicurezza standard.<New>
+La barriera sul lato sud del muro
+del Terrapieno di Pietre è stata
+sigillata per impedirle di
+penetrare nel luogo dello scavo.<New>
+Riaperta la barriera, mettersi
+al sicuro nel ricovero che
+si trova sul lato est della
+barriera. Grazie.<Close><End of Block>
+<TextBlock 31 w:22 h:1>
+Disattivato!<Close><End of Block>
+<TextBlock 32 w:44 h:4>
+Fei
+"Che diavolo stai
+facendo? Vieni a darmi
+una mano!!"<Close><End of Block>
+<TextBlock 33 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 34 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><Close><End of Block>

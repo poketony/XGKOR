@@ -1,0 +1,23 @@
+#### 1 ####
+Fei
+"Let's take care of this
+and move on!"
+
+#### 2 ####
+What are you doing!?{wait:0A}
+You are ordered to
+withdraw!!
+
+#### 3 ####
+What are you doing!?{wait:0A}
+You are ordered to
+withdraw!!
+
+#### 4 ####
+What are you doing!?{wait:0A}
+You are ordered to
+withdraw!!
+
+#### 5 ####
+
+

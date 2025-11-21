@@ -1,0 +1,227 @@
+#### 1 ####
+Fei
+"Enough!{wait:0F} There's no
+purpose in doing this!{enter}
+I have nothing to do
+with you!"
+
+#### 2 ####
+Fei
+"{wait:05}...{wait:05}"
+
+#### 3 ####
+Suzarn
+"R{wait:0A}...{wait:05}ridiculous...{wait:1E} Even
+I lost to you{wait:05}..."
+
+#### 4 ####
+Suzarn
+"Although he was able to
+defeat the other three{wait:05}...{wait:0F}
+He was no match for me."
+
+#### 5 ####
+Suzarn
+"Champ, what shall
+we do with him?"
+
+#### 6 ####
+Vargas
+"Hah! I'll get you
+for this someday."
+
+#### 7 ####
+Vargas
+"Heinrich and Leonardo
+are pitiful to have lost
+to the likes of 'im..."
+
+#### 8 ####
+Heinrich
+"Guh,{wait:05} uuhh{wait:05}...{wait:0F} How could
+I have{wait:05}...{wait:05}"
+
+#### 9 ####
+Heinrich
+"Hahaha. We'll talk again
+when you can beat me."
+
+#### 10 ####
+Leonardo
+"To have lost to
+someone who's just
+recovered{wait:05}...{wait:0F}Sadness."
+
+#### 11 ####
+Leonardo
+"Hunh!{wait:05} No no!!{wait:0F} You ain't
+got the basics,{wait:05} the
+basics."
+
+#### 12 ####
+Rico
+"Kid, you're up front."
+
+#### 13 ####
+Rico
+"Now, I think you've got
+the idea, but I'll tell
+you anyway{wait:05}...{enter}
+All the criminals sent here
+are each given a rank.{wait:0F}
+Deciding what rank you are
+is easy{wait:05}...{enter}
+You get your rank by
+fighting these four
+Battlers."
+
+#### 14 ####
+Rico
+"Relax,{wait:0F} the fights are
+one on one.{enter}
+By now you should've
+realized{wait:05}...{wait:0F}
+Results are everything!{enter}
+If you can defeat these
+four Battlers, you'll be
+promised a certain amount
+of freedom{wait:05}..."
+
+#### 15 ####
+Rico
+"Then,{wait:0F} let the fights
+begin{wait:05}...{wait:05}"
+
+#### 16 ####
+Rico
+"Your first opponent
+will be Leonardo."
+
+#### 17 ####
+Rico
+"Hmph.
+How's the next one?"
+
+#### 18 ####
+Rico
+"That wasn't even a
+match{wait:05}...{wait:05}
+Your rank is D!!"
+
+#### 19 ####
+Rico
+"Hmmm, entertaining.
+How's the next one?"
+
+#### 20 ####
+Rico
+"Is that all{wait:05}...?{wait:05}
+Your rank is C!!"
+
+#### 21 ####
+Rico
+"Not bad. No one's
+defeated Vargas since
+Suzarn{wait:05}...{enter}
+Now for the last one!
+You think you can win?"
+
+#### 22 ####
+Rico
+"That's about right{wait:05}...{wait:05}
+Your rank is C!!"
+
+#### 23 ####
+Rico
+"You've defeated all 4{wait:05}...{wait:19}
+Hah, this is an
+unexpected outcome. {enter}
+Let me give you the
+special treatment. I,
+myself, will be your
+final opponent."
+
+#### 24 ####
+Rico
+"Too bad{wait:05}...{wait:05}
+Your rank is B!!"
+
+#### 25 ####
+Rico
+"No need for a reason.{enter}
+This is the D Block
+tradition!{wait:0F} We must
+determine the pecking
+order."
+
+#### 26 ####
+Rico
+"Get ready!"
+
+#### 27 ####
+Rico
+"Leave him.
+Someone'll find him."
+
+#### 28 ####
+Rico
+"{wait:05}...{wait:05}Let's go."
+
+#### 29 ####
+Rico
+"{wait:05}...{wait:05}A bit tough.
+Well, a win is a win. 
+Your rank is A."
+
+#### 30 ####
+Rico
+"{wait:05}...{wait:05}Didn't you hear?{wait:0F}
+Take him back to
+his quarters."
+
+#### 31 ####
+Rico
+"{wait:05}...{wait:05}And {wait:0F}don't forget that
+one thing{wait:05}..."
+
+#### 32 ####
+Rico
+"That's what I'd like to
+say{wait:05}...{wait:05}but even we have
+some compassion.{enter}
+We'll give you some time{wait:05}...{wait:0F}
+Even though it's one on
+one, you still have to
+fight all four.{enter}
+You should get prepared
+for the battle.{wait:05}
+And one more thing...{enter}
+Don't even think about
+trying to get away from
+here{wait:05}...{wait:0F} After all,
+that's an impossibility."
+
+#### 33 ####
+Suzarn
+"Hey, are you ready?"{wait:0F}
+    Hang on
+    Let's rock
+
+#### 34 ####
+Suzarn
+"{wait:05}...Hurry up.{enter}
+Aside from myself, the
+rest of the gang doesn't
+have much patience."
+
+#### 35 ####
+Suzarn
+"{wait:05}...{wait:05}Champ.
+He's ready{wait:0F}...for his
+'Baptismal Ceremony'."
+
+#### 36 ####
+Rico
+"Hmph,{wait:05} then{wait:0F} let it
+begin{wait:05}..."
+

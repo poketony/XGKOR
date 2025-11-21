@@ -1,0 +1,45 @@
+[Script Info]
+
+;--------------------------------------------
+;|  This is a Sub Station Alpha v4 script   |
+;|                                          |
+;| Created with MEDUSA - Subtitling Station |
+;--------------------------------------------
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00
+Collisions: Normal
+PlayResX: 640
+PlayResY: 480
+PlayDepth: 0
+Timer: 100.0000
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,Arial,25,16777215,0,0,0,0,0,1,2,2,2,20,20,30,0,0
+Style: Normal,Arial,38,16777215,0,0,0,0,0,1,2,2,2,20,20,30,0,0
+
+[Events]
+Format: Marked, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,0:00:00.30,0:00:04.50,Normal,,0000,0000,0000,,Parli come se la responsabilità non fosse tua!
+Dialogue: Marked=0,0:00:04.90,0:00:07.60,Normal,,0000,0000,0000,,No! Io non ho fatto nulla!
+Dialogue: Marked=0,0:00:08.00,0:00:12.40,Normal,,0000,0000,0000,,Sono morti perché hai voluto pilotare quel Gear e iniziare a combattere!
+Dialogue: Marked=0,0:00:13.30,0:00:16.05,Normal,,0000,0000,0000,,Non sono stata io, non riesci a capirlo?
+Dialogue: Marked=0,0:00:27.20,0:00:29.70,Normal,,0000,0000,0000,,Non tutti possono pilotare quelle macchine, lo sai!?
+Dialogue: Marked=0,0:00:30.00,0:00:30.70,Normal,,0000,0000,0000,,Non l'ho fatto io!
+Dialogue: Marked=0,0:00:31.30,0:00:33.50,Normal,,0000,0000,0000,,Perché non vuoi assumertene la responsabilità?
+Dialogue: Marked=0,0:00:34.40,0:00:34.95,Normal,,0000,0000,0000,,Io...
+Dialogue: Marked=0,0:00:36.85,0:00:38.10,Normal,,0000,0000,0000,,Non sono così forte.
+Dialogue: Marked=0,0:00:39.45,0:00:41.85,Normal,,0000,0000,0000,,Perché stai cercando di dare la colpa agli altri?
+Dialogue: Marked=0,0:00:46.25,0:00:48.35,Normal,,0000,0000,0000,,Non ho neanche questo gran talento...
+Dialogue: Marked=0,0:00:52.15,0:00:53.30,Normal,,0000,0000,0000,,Sei una codarda!
+Dialogue: Marked=0,0:00:53.80,0:00:54.90,Normal,,0000,0000,0000,,È vero!
+Dialogue: Marked=0,0:00:55.30,0:00:57.00,Normal,,0000,0000,0000,,Sono un codardo!
+Dialogue: Marked=0,0:00:57.00,0:01:02.00,Normal,,0000,0000,0000,,

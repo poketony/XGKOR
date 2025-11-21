@@ -1,0 +1,147 @@
+<TextBlock 1 w:12 h:1>
+… Ehi.<Close><End of Block>
+<TextBlock 2 w:54 h:4>
+Fei
+"Bene, finalmente ti
+sei svegliata!<New>
+Sei stata immobile per
+così tanto che mi ero
+iniziato a preoccupare…"<Close><End of Block>
+<TextBlock 3 w:32 h:2>
+Donna Misteriosa
+"…"<Close><End of Block>
+<TextBlock 4 w:44 h:2>
+Fei
+"Come ti senti?"<Close><End of Block>
+<TextBlock 5 w:32 h:2>
+Donna Misteriosa
+"…"<Close><End of Block>
+<TextBlock 6 w:54 h:4>
+Fei
+"Hai ancora intenzione di
+uccidermi? Se sì, fallo
+pure e sparami!<New>
+Ma non dovresti farlo
+finché siamo in questa
+foresta.<New>
+I mostri di questo posto
+odiano i rumori forti,
+sai!?"<Close><End of Block>
+<TextBlock 7 w:32 h:2>
+Donna Misteriosa
+"…"<Close><End of Block>
+<TextBlock 8 w:42 h:4>
+Fei
+"Come vuoi.
+Non parlarmi, se è
+così che desideri…<New>
+Ma non ti ucciderebbe
+ringraziarmi per essermi
+preso cura delle tue
+ferite."<Close><End of Block>
+<TextBlock 9 w:2 h:1>
+!<Opcode 2 20><Close><End of Block>
+<TextBlock 10 w:44 h:4>
+Donna Misteriosa
+"Gra… grazie…<Delay 30>
+Ma non avresti dovuto
+aiutarmi.<New>
+Non pensare comunque
+che questo ti salverà
+la vita.<New>
+Non ha cambiato
+assolutamente nulla."<Close><End of Block>
+<TextBlock 11 w:28 h:3>
+Fei
+"Cos'è che ti fa
+così paura?"<Close><End of Block>
+<TextBlock 12 w:52 h:4>
+Donna Misteriosa
+"Non ho paura…<Delay 10> Sono
+soltanto prudente.<New>
+Per me è naturale
+essere così prudente…<Delay 10><New>
+… considerando che ho
+incontrato un abitante
+della superficie
+così sospetto…<New>
+… un -Agnello-."<Close><End of Block>
+<TextBlock 13 w:52 h:3>
+Fei
+"Mmh… Non preoccuparti.
+Non ti farò nulla.<New>
+Inoltre, sei tu ad avere
+un'aria molto più
+sospetta di me."<Close><End of Block>
+<TextBlock 14 w:32 h:2>
+Donna Misteriosa
+"Eh…?"<Close><End of Block>
+<TextBlock 15 w:46 h:2>
+Fei
+"Allora, come ti chiami?"<Close><End of Block>
+<TextBlock 16 w:52 h:3>
+Donna Misteriosa
+"Non dirò il mio nome
+ad un abitante della
+superficie, un -Agnello-."<Close><End of Block>
+<TextBlock 17 w:46 h:4>
+Fei
+"La vuoi smettere
+con questa storia
+degli 'Agnelli'?<New>
+Siamo entrambi persi
+in questa foresta,
+circondati da mostri
+pericolosi…<New>
+Non dovremmo almeno
+aiutarci a vicenda
+finché non riusciremo
+ad uscire da qui?"<Close><End of Block>
+<TextBlock 18 w:32 h:2>
+Donna Misteriosa
+"…"<Close><End of Block>
+<TextBlock 19 w:54 h:4>
+Fei
+"Bene.<Delay 20>
+Allora, come ti chiami?<New>
+Sarà dura aiutarci a
+vicenda senza neanche
+sapere almeno i nostri
+nomi.<New>
+A ogni modo, il mio
+nome è Fei Fong Wong.<Delay 100>
+Puoi chiamarmi Fei."<Close><End of Block>
+<TextBlock 20 w:32 h:4>
+Donna Misteriosa
+"Io sono… Elhaym.
+Ma i miei genitori
+mi chiamano Elly."<Close><End of Block>
+<TextBlock 21 w:34 h:4>
+Fei
+"'Elly', eh?<Delay 20>
+In qualche modo già<Delay 20>
+lo 'sapevo'<Delay 20>…"<Close><End of Block>
+<TextBlock 22 w:4 h:1>
+Elly
+"??"<Close><End of Block>
+<TextBlock 23 w:54 h:4>
+Fei
+"Comunque sia, è troppo
+pericoloso procedere in
+posti come questo…<New>
+… a quest'ora
+della notte…<New>
+Aspettiamo l'alba prima
+di continuare a cercare
+una via d'uscita…<Delay 20>
+Almeno se a te va bene…?"<Close><End of Block>
+<TextBlock 24 w:36 h:3>
+Elly
+"Immagino che non
+abbiamo altra scelta,
+vero?"<Close><End of Block>
+<TextBlock 25 w:36 h:4>
+Fei
+"Ok allora, Elly…<Delay 20>
+Che ne dici di
+mangiare qualcosa?"<Close><Close><End of Block>

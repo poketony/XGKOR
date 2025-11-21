@@ -1,0 +1,105 @@
+<TextBlock 1 w:52 h:4>
+Scusami, mio marito è
+diventato un pochino
+anziano…<Delay 60> Vedi, nostro
+figlio è 'andato in
+vacanza' per evitare
+di entrare nell'esercito.<New>
+Ma non sappiamo nulla
+di lui da dieci anni…<Close><End of Block>
+<TextBlock 2 w:42 h:4>
+All'improvviso, le cose
+stanno girando per il
+meglio. Mi sento di
+nuovo giovane!<Close><End of Block>
+<TextBlock 3 w:44 h:3>
+… I ragazzi dei vicini
+sono tutti tornati.<Delay 60>
+Ma non mio figlio…<Close><End of Block>
+<TextBlock 4 w:2 h:1>
+!<Opcode 2 30><Close><End of Block>
+<TextBlock 5 w:44 h:2>
+Vedi, mio figlio è
+tornato, proprio
+come dicevo!<Close><End of Block>
+<TextBlock 6 w:48 h:4>
+Mio figlio sta combattendo
+per il paese. Tornerà
+tra molto tempo…<Delay 60>
+Dev'essere un lavoro
+duro.<New>
+Eh, scommetto che
+ormai sarà un generale.<Close><End of Block>
+<TextBlock 7 w:2 h:1>
+!<Opcode 2 60><Close><End of Block>
+<TextBlock 8 w:42 h:3>
+… Umph…<Delay 30>
+Pensavo che mio figlio
+fosse tornato.<Close><End of Block>
+<TextBlock 9 w:12 h:1>
+Tu…<Close><End of Block>
+<TextBlock 10 w:2 h:1>
+!<Opcode 2 30><Close><End of Block>
+<TextBlock 11 w:42 h:4>
+Mentre ero via, pa' e
+ma' sono invecchiati…<Delay 50>
+Adesso devono
+prendersela con calma.<Close><End of Block>
+<TextBlock 12 w:18 h:1>
+Sono tornato.<Close><End of Block>
+<TextBlock 13 w:28 h:1>
+Pa', sono tornato.<Close><End of Block>
+<TextBlock 14 w:26 h:3>
+Ohh…<Delay 30>
+Sei tornato!<Delay 50>
+Bentornato a casa.<Close><End of Block>
+<TextBlock 15 w:28 h:1>
+Ma', sono tornato.<Close><End of Block>
+<TextBlock 16 w:42 h:3>
+Sei davvero tu? <Delay 50>
+Non ci hai mai scritto!
+Che stavi facendo?<Close><End of Block>
+<TextBlock 17 w:46 h:3>
+Scusatemi…<Delay 60>
+Ero a Kislev, mandavo
+delle lettere, ma…<New>
+Immagino che non siano 
+mai arrivate qui.<Close><End of Block>
+<TextBlock 18 w:48 h:2>
+Oh, capisco.
+Dev'essere stata dura.<Close><End of Block>
+<TextBlock 19 w:44 h:2>
+Voglio che voi due
+facciate la conoscenza
+di alcune persone…<Close><End of Block>
+<TextBlock 20 w:32 h:1>
+Lei è mia moglie.<Close><End of Block>
+<TextBlock 21 w:36 h:2>
+Piacere di conoscervi,<Delay 30>
+papà, mamma.<Close><End of Block>
+<TextBlock 22 w:18 h:1>
+Mio figlio…<Opcode 2 50><Close><End of Block>
+<TextBlock 23 w:26 h:1>
+E mia figlia!<Close><End of Block>
+<TextBlock 24 w:36 h:2>
+Ciao, nonna, nonno!<Close><End of Block>
+<TextBlock 25 w:16 h:1>
+Ciao…<Close><End of Block>
+<TextBlock 26 w:24 h:2>
+Oh…
+Ciao.<Close><End of Block>
+<TextBlock 27 w:40 h:3>
+Bentornato!
+Sono così felice
+che tu ce l'abbia fatta!<Close><End of Block>
+<TextBlock 28 w:50 h:3>
+La nostra casa a Kislev
+è andata in fiamme,
+perciò abbiamo pensato
+che avremmo vissuto qui.<New>
+Sono così felice che
+la guerra sia finita!<Close><End of Block>
+<TextBlock 29 w:28 h:1>
+Una nuova casa…<Close><End of Block>
+<TextBlock 30 w:38 h:1>
+È una nuova casa…<Close><Close><End of Block>

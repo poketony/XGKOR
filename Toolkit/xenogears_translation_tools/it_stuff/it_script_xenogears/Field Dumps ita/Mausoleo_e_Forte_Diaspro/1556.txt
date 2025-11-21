@@ -1,0 +1,21 @@
+<TextBlock 1 w:48 h:4>
+Fei
+"Non sapevo che ci fosse
+una strada nascosta
+dietro alla cattedrale."<Close><End of Block>
+<TextBlock 2 w:50 h:3>
+Bart
+"Logico.<Delay 30> Di norma
+questa strada
+è chiusa."<Close><End of Block>
+<TextBlock 3 w:44 h:3>
+Fei
+"Allora qui dentro
+c'è il mausoleo?"<Close><End of Block>
+<TextBlock 4 w:46 h:4>
+Bart
+"Già.<New>
+Semmai la città
+fosse in pericolo,
+i cittadini devono
+rifugiarsi qui."<Close><Close><End of Block>

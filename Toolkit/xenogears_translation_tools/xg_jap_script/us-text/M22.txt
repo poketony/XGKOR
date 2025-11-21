@@ -1,0 +1,194 @@
+#### 1 ####
+
+
+
+#### 2 ####
+Stop
+
+#### 3 ####
+Slow
+
+#### 4 ####
+Poison
+
+#### 5 ####
+ACC DOWN
+
+#### 6 ####
+Atk DOWN
+
+#### 7 ####
+Def DOWN
+
+#### 8 ####
+Bart taunts enemy
+
+#### 9 ####
+Block PHY effects
+
+#### 10 ####
+Confusion
+
+#### 11 ####
+Sleep
+
+#### 12 ####
+Can't use Eth Ability
+
+#### 13 ####
+Eth effect DOWN
+
+#### 14 ####
+Block ETH effects
+
+#### 15 ####
+Speed UP
+
+#### 16 ####
+Def UP
+
+#### 17 ####
+Atk UP
+
+#### 18 ####
+ACC UP
+
+#### 19 ####
+EV UP
+
+#### 20 ####
+ACC/EV UP
+
+#### 21 ####
+
+
+
+#### 22 ####
+Eth effect UP
+
+#### 23 ####
+Eth Def UP
+
+#### 24 ####
+
+
+
+#### 25 ####
+Counter UP
+
+#### 26 ####
+Atk UP/Def DOWN
+
+#### 27 ####
+Def UP/Atk DOWN 
+
+#### 28 ####
+Add Wind to Atk
+
+#### 29 ####
+Add Earth to Atk
+
+#### 30 ####
+Add Fire to Atk
+
+#### 31 ####
+Add Water to Atk
+
+#### 32 ####
+Block Earth/Weak point Wind
+
+#### 33 ####
+Block Wind/Weak point Earth 
+
+#### 34 ####
+Block Water/Weak point Fire
+
+#### 35 ####
+Block Fire/Weak point Water
+
+#### 36 ####
+
+
+
+#### 37 ####
+Stop
+
+#### 38 ####
+EP DOWN
+
+#### 39 ####
+Stop Eth Engine 
+
+#### 40 ####
+Fuel leak
+
+#### 41 ####
+Def DOWN
+
+#### 42 ####
+Slow
+
+#### 43 ####
+ACC/EV DOWN
+
+#### 44 ####
+PWR loss
+
+#### 45 ####
+
+
+
+#### 46 ####
+PWR UP
+
+#### 47 ####
+ACC UP
+
+#### 48 ####
+EV UP
+
+#### 49 ####
+No effect in Gear
+
+#### 50 ####
+Play Dead
+
+#### 51 ####
+You're the last one
+
+#### 52 ####
+No effect
+
+#### 53 ####
+Counterattack!
+
+#### 54 ####
+Stop PHY effects
+
+#### 55 ####
+Stop MNT effects
+
+#### 56 ####
+Stop EQP effects
+
+#### 57 ####
+Sorry...I failed
+
+#### 58 ####
+Can't add Elem
+
+#### 59 ####
+Stop all effects
+
+#### 60 ####
+No pistol ammo
+
+#### 61 ####
+No big gun ammo
+
+#### 62 ####
+Charge fuel at 10x
+
+#### 63 ####
+Cancel Slow
+

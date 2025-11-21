@@ -1,0 +1,183 @@
+#### 1 ####
+Fei
+"Doc!"
+
+#### 2 ####
+Elly
+"Citan!"
+
+#### 3 ####
+Fei
+"Doc!"
+
+#### 4 ####
+Bart
+"Margie!"
+
+#### 5 ####
+Billy
+"Citan!"
+
+#### 6 ####
+Rico
+"Citan!"
+
+#### 7 ####
+Maria
+"Citan!"
+
+#### 8 ####
+{name:07:チュチュ}
+"Citan, it's chu!"
+
+#### 9 ####
+Sigurd
+"Come, we must go to
+Marguerite!"
+
+#### 10 ####
+Citan
+"Let us hurry!"
+
+#### 11 ####
+ ! 
+
+#### 12 ####
+ ! 
+
+#### 13 ####
+Bart
+"...{wait:1E}It's locked.{wait:1E}
+Where do you open it
+from?"
+
+#### 14 ####
+You can't hold anymore
+{str}.
+
+#### 15 ####
+Received {str}.
+
+#### 16 ####
+Bart
+"One after the other...{wait:1E}
+Don't these guys give up?"
+
+#### 17 ####
+Shakhan
+"Most impressive, Prince
+Bartholomew.{wait:1E}
+But you'll go no further."
+
+#### 18 ####
+Bart
+"The central area's gone.{wait:1E}
+What can you do now?{enter}
+How about killing yourself
+honorably?{enter}
+What a fitting death
+for a clergyman."
+
+#### 19 ####
+Shakhan
+"There's much more to
+the 'Ethos' than you
+would know.{enter}
+We're not a single unit.
+We each have an agenda.{enter}
+We have no need to admit
+defeat just because the
+central area's gone.{wait:1E}
+I have my own motives.{enter}
+And it is for them, that
+I used Aveh and Gebler.
+Now, the treasure's mine.{wait:1E}
+I suggest you retreat now."
+
+#### 20 ####
+Bart
+"...{wait:1E}Crap!"
+
+#### 21 ####
+"After her!"
+
+#### 22 ####
+Shakhan
+"Hmph...{wait:1E}
+You're actually trying
+to protect the Omnigear?{enter}
+What do you think one
+little girl can do?{enter}
+As they say, out of the
+frying pan and into the
+fire...idiot!"
+
+#### 23 ####
+Shakhan
+"I'm going to take care
+of this once and for all!{enter}
+That detestable girl has
+made a fool of me for the
+last time. I'll send her{enter}
+and everything with her
+to the depths of hell."
+
+#### 24 ####
+Bart
+"Dammit...{wait:1E}
+Get the hell outta
+my way!"
+
+#### 25 ####
+You've gone far enough.
+
+#### 26 ####
+Bart
+"Sig!{wait:1E}
+What're you doin' here!?"
+
+#### 27 ####
+Sigurd
+"I left Maison in
+charge of the capital.{enter}
+I was worried about you
+so I returned here."
+
+#### 28 ####
+Sigurd
+"Shakhan,{wait:1E}{enter}
+it's only a matter of
+time until Bledavik
+returns to us.{enter}
+At this point, you have
+nowhere to go."
+
+#### 29 ####
+Shakhan
+"Errrgh...{wait:1E}
+It's not over yet!{enter}
+I've still got Margie.{enter}
+For now, she'll once
+again be my hostage{enter}
+until I get that
+Omnigear."
+
+#### 30 ####
+Bart
+"Wait!"
+
+#### 31 ####
+Bart
+"Damn,{wait:1E} it won't open!{wait:1E}
+It's locked on the inside."
+
+#### 32 ####
+Sigurd
+"Young master, please wait!"
+
+#### 33 ####
+Sigurd
+"Where were you going!?
+Marguerite is in grave
+danger!"
+

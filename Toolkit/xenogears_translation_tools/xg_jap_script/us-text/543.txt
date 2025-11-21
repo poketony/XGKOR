@@ -1,0 +1,42 @@
+#### 1 ####
+Writing on the wall.{enter}
+"There is a secret in the
+third hole from the door."
+
+#### 2 ####
+Writing on the wall.{enter}
+"Find the hidden passage
+in this room to proceed."
+
+#### 3 ####
+Writing on the wall.{enter}
+"The hidden passage is 
+in the third hole."
+
+#### 4 ####
+Writing on the wall.{enter}
+"The secret is in the
+wall of the third hole."
+
+#### 5 ####
+"Fear not the darkness of
+the walls of the pit, for
+if you keep moving forward
+the path you will find..."
+
+#### 6 ####
+You have too many
+{str}.
+
+#### 7 ####
+ 
+ Received {str}.
+
+#### 8 ####
+You have too many
+{str}.
+
+#### 9 ####
+ 
+ Received {str}.
+

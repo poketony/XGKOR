@@ -1,0 +1,89 @@
+#### 1 ####
+Pirate
+"Hm. Can't you make
+a better plea for
+your life?{enter}
+You come jumping out
+of an Aveh ship and
+claim that you are
+not Aveh soldiers!{enter}
+Stop trying
+to fool me!"
+
+#### 2 ####
+Pirate
+"Tsk.
+How pathetic are you?!{enter}
+Even if you're the
+pettiest of soldiers,
+how's about showing 
+a little spine...{enter}
+...and put up a
+decent fight!"
+
+#### 3 ####
+Pirate
+"How nauseating!
+Why don't you stop
+grumbling,{enter}
+leave the Gear and
+run away?"
+
+#### 4 ####
+Pirate
+"For someone who doesn't
+want to fight, you're
+quite powerful...{enter}
+I see,
+an all-environment
+model... so that's it,
+huh?{enter}
+Now I want it
+even more!"
+
+#### 5 ####
+Pirate
+"Oh-no!{wait:1E}
+This is not good!!"
+
+#### 6 ####
+Pirate
+"In the heat of battle,
+I go get caught in
+quicksand!{enter}
+Darn.
+Me of all people!"
+
+#### 7 ####
+Pirate
+"Damn!
+It's all your fault!{enter}
+Boy are you going to
+get it later.
+So be darn ready!"
+
+#### 8 ####
+Fei
+"Wait one moment!
+We're not
+Aveh soldiers!"
+
+#### 9 ####
+Fei
+"I tell you,
+it's true!"
+
+#### 10 ####
+Fei
+"Stop it! I'm telling
+you I'm no soldier!  I
+don't want to fight!"
+
+#### 11 ####
+Fei
+"!?"
+
+#### 12 ####
+Fei
+"Why!"
+

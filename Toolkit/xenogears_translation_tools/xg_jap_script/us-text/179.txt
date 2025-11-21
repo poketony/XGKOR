@@ -1,0 +1,457 @@
+#### 1 ####
+Ya know, that disk is
+broken.{wait:0F} The box itself
+is as good as new. All we{enter}
+need is a new disk so we
+can listen to it{wait:05}...{wait:05}
+
+#### 2 ####
+Pfh, {wait:05}ah hah hah hah!{clear:2D}
+
+#### 3 ####
+That's the new waitress
+that's supposed to start
+today. She still{enter}
+needs a lot of training,
+so go easy on her today!
+
+#### 4 ####
+Yeah,{wait:05} that's how you
+do it.{wait:05} Good.
+
+#### 5 ####
+I'm trying to work,{wait:05}
+could you get out of the
+way? By the way,{wait:05} {enter}
+I'm tired of that kind
+of stuff.
+
+#### 6 ####
+Out of the way!{clear:2D}
+
+#### 7 ####
+Uh,{wait:05} excuse me. Could
+you please move?{wait:0F} You're
+in the waaaay.{clear:3C}
+
+#### 8 ####
+Hey you,{wait:05} you've got an
+interesting disk.{wait:0F} Lemme
+see.{wait:05} Lemme see.
+
+#### 9 ####
+This{wait:0F}...{wait:0F}is a really
+special type. You won't
+be able to use it on any
+other box{wait:05} except for this{enter}
+one{wait:05}...{wait:05}In addition, I'm
+getting some kind of
+Ether response{wait:0F}...{wait:05}{enter}
+You think it's an Ether
+coated premium disk?
+
+#### 10 ####
+Hunh?{wait:05} Who are youuu?{wait:0F}
+Me?{wait:05} I'm child of the
+dragon tribe.{wait:0F} In the
+dragon tribe,{wait:05} when you{enter}
+get older, you become
+something incredible!
+
+#### 11 ####
+Of course you know
+that though!
+
+#### 12 ####
+G{wait:05}...{wait:05}good afternoon.{wait:0A}
+W,{wait:05} welcome to the
+'Wildcat'. It must be
+tough travelling in such{enter}
+a{wait:05} big group. W, would you
+like to change your
+organization?{wait:0F} I'm not
+used to this{wait:05}...{wait:05}sob...
+
+#### 13 ####
+Um{wait:05}...{wait:05} would you like{enter}
+to change members?{wait:0F}
+    No
+    Change party
+
+#### 14 ####
+H, how could you{wait:05}...{wait:05}
+so{wait:0F}...{wait:05}Please come
+again. But{wait:05}...{wait:05}next time
+please reorganize.
+
+#### 15 ####
+Th, thank you! Well
+then{wait:05}...{wait:05}Master, please
+handle it.
+
+#### 16 ####
+I heard there was a
+title match.{wait:0F} Man, I
+could've shown off my
+graceful Gear fighting{enter}
+and take down the
+infamous Champ but{wait:05}...{wait:05}
+
+#### 17 ####
+When I reached the
+Empire, the tournament
+was already over.{wait:0F} {enter}
+It seems I arrived after
+the infamous Champ was 
+already taken down{wait:0F}
+...{wait:05}oouuhh.
+
+#### 18 ####
+So{wait:05}...{wait:05} cute.{wait:1E}
+Kniqupnii.{wait:05} It's too much
+for me!
+
+#### 19 ####
+Don't you think so?
+
+#### 20 ####
+Oooooh{wait:0F}...{wait:05}too cute.
+
+#### 21 ####
+Argh{wait:05}...{wait:05}damn Aveh.
+Because of that attack,
+Josephine was crushed
+under a chair{wait:05}...{wait:05}
+
+#### 22 ####
+You okay{wait:05}...{wait:0F}Josephine?
+
+#### 23 ####
+Oooh{wait:05}...{wait:0F}Alright{wait:0F}...{wait:05}
+alright.
+
+#### 24 ####
+After being a mercenary
+for Aveh, I was going
+to make money at the
+Imperial Battling{wait:05}...{wait:0F}{enter}
+But the Battling's been
+stopped for now.
+
+#### 25 ####
+{wait:05}...It's too bad for me.
+
+#### 26 ####
+The attack on the
+Empire by Aveh is sure to
+start a war{wait:05}...{wait:0F}{enter}
+A mercenary like me can't
+make a living without
+some conflict.
+
+#### 27 ####
+Kislev and Aveh{wait:05}...{wait:0F}
+Which one should I suck
+the blood from{wait:05}...{wait:05}
+
+#### 28 ####
+If the enemy capital is called
+the 'Desert Fortress'...{wait:0F}
+then our Imperial capital,
+Nortune, would be the
+'Fortress of Steam and Steel'.
+
+#### 29 ####
+That sounds{wait:05}...{wait:05}pretty
+impressive{wait:0F}...boss.
+
+#### 30 ####
+I was surprised by the
+Aveh attack,{wait:05} but I was
+lucky my comrad was from
+the mole tribe.
+
+#### 31 ####
+I'm embarrased{wait:05}...{wait:05}
+boss.
+
+#### 32 ####
+Well, what ever
+happens{wait:05}...
+
+#### 33 ####
+Hmmm, from the looks
+of it, you look like Gear
+pilots. Did you hear
+about some Battling done{enter}
+around here from
+somewhere?
+
+#### 34 ####
+I'm not too sure of
+the details, but this
+time it seems like they
+are going run with some{enter}
+kind of 'point' system. I
+wonder if you can win
+prizes with that?
+
+#### 35 ####
+Welcome to the 'Wildcat'.
+Make yerself comfortable.{wait:0F}
+And{wait:05} leave the cat alone!
+
+#### 36 ####
+Maybe with this we can
+listen to it?
+
+#### 37 ####
+See if it works?
+    Don't
+    Listen
+
+#### 38 ####
+{wait:05}...{wait:05}A jukebox. There's
+only one disk{wait:05}...
+
+#### 39 ####
+See if it works?
+    Don't
+    Listen
+
+#### 40 ####
+The disk seems broken
+
+#### 41 ####
+{fast:FF}Music Change
+    A Theme
+    A Battle
+    Dungeon
+    Nature
+    The World
+    Requiem
+    Emotion
+    Cancel
+
+#### 42 ####
+Track00
+
+#### 43 ####
+Track01
+
+#### 44 ####
+Track02
+
+#### 45 ####
+Track03
+
+#### 46 ####
+Track04
+
+#### 47 ####
+Track05
+
+#### 48 ####
+Track06
+
+#### 49 ####
+Track07
+
+#### 50 ####
+Track08
+
+#### 51 ####
+Track09
+
+#### 52 ####
+Track10
+
+#### 53 ####
+Track00
+
+#### 54 ####
+Track01
+
+#### 55 ####
+Track02
+
+#### 56 ####
+Track00
+
+#### 57 ####
+Track01
+
+#### 58 ####
+Track02
+
+#### 59 ####
+Track03
+
+#### 60 ####
+Track04
+
+#### 61 ####
+Track05
+
+#### 62 ####
+Track06
+
+#### 63 ####
+Track07
+
+#### 64 ####
+Track00
+
+#### 65 ####
+Track01
+
+#### 66 ####
+Track02
+
+#### 67 ####
+Track03
+
+#### 68 ####
+Track04
+
+#### 69 ####
+Track05
+
+#### 70 ####
+Track06
+
+#### 71 ####
+Track07
+
+#### 72 ####
+Track00
+
+#### 73 ####
+Track01
+
+#### 74 ####
+Track02
+
+#### 75 ####
+Track03
+
+#### 76 ####
+Track04
+
+#### 77 ####
+Track05
+
+#### 78 ####
+Track06
+
+#### 79 ####
+Track07
+
+#### 80 ####
+Track08
+
+#### 81 ####
+Track09
+
+#### 82 ####
+Track10
+
+#### 83 ####
+Track11
+
+#### 84 ####
+Track12
+
+#### 85 ####
+Track13
+
+#### 86 ####
+Track14
+
+#### 87 ####
+Track00
+
+#### 88 ####
+Track01
+
+#### 89 ####
+Track02
+
+#### 90 ####
+Track03
+
+#### 91 ####
+Track04
+
+#### 92 ####
+Track05
+
+#### 93 ####
+Track06
+
+#### 94 ####
+Track07
+
+#### 95 ####
+Track00
+
+#### 96 ####
+Track01
+
+#### 97 ####
+Track02
+
+#### 98 ####
+Track03
+
+#### 99 ####
+Track04
+
+#### 100 ####
+B,{wait:05} boss{wait:05}...{wait:05} I, I've done
+as much as I can{wait:05}...{wait:05}
+This feeling in my
+heart{wait:05}...
+
+#### 101 ####
+{wait:05}...{wait:05}Sorry, forgive me.{wait:0F}
+I've said too much{wait:05}...
+
+#### 102 ####
+B, boss{wait:05}...{wait:05} I, my
+heart{wait:05}...{wait:0A}P, pp,{wait:0F} please
+listen.
+
+#### 103 ####
+I see,{wait:05} this is a
+surprise{wait:05}...{wait:05}It's that{wait:05}...
+You've fallen in love
+with someone haven't you?
+
+#### 104 ####
+I,{wait:05} I'm{wait:05} from mole tribe
+but,{wait:05} I've fallen for that
+dragon tribe beauty.
+
+#### 105 ####
+Can a mole love another
+tribe?{wait:05} I...{wait:05}I...{wait:05}
+
+#### 106 ####
+{fast:FF}...I'll permit it!!
+Do whatever you have to
+do.
+
+#### 107 ####
+Wh, whatever{wait:05}...{wait:05}I have
+to do? Right now, I don't
+think I could{wait:05}...{wait:05}
+
+#### 108 ####
+{wait:05}...{wait:05}Okay I will.{wait:0F} We'll
+take it long,{wait:0A} slow{wait:0A} and
+imminently{wait:0A}...right?
+
+#### 109 ####
+Yes{wait:05}...{wait:05}sir.
+

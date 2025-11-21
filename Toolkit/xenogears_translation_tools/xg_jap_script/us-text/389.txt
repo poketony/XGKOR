@@ -1,0 +1,213 @@
+#### 1 ####
+Nikolai
+"I see...{wait:14} You're a giant
+native lifeform of this
+planet...{enter}
+You're not...{wait:14}a young
+rankar.{enter}
+Species name,
+dotesque{name:07:チュチュ}polin
+(intellect, astronomically
+low)!{enter}
+They still haven't gone
+extinct yet?{enter}
+But, through genetic
+engineering, they're
+supposed to have been
+minimized in size...{enter}
+Probably one of the
+survivors that had their
+Limiters removed by the
+wisemen from Shevat.{enter}
+Intriguing... You'd make
+an excellent guinea pig.
+I'll use you for many
+experiments!"
+
+#### 2 ####
+Maria
+"No {name:07:チュチュ}!{wait:14}
+Don't!"
+
+#### 3 ####
+Maria
+"Are you finished talking
+to the Queen?{enter}
+What do you all plan on
+doing...?{wait:14} Are you going to
+fight alongside the people
+of Shevat against Solaris?"
+
+#### 4 ####
+Maria
+"Everyone is searching for
+a reason to live, a reason
+to fight.{enter}
+To understand better the
+meaning of death...{enter}
+However, that is something
+we must find on our own,
+and make it our own...{enter}
+That is what my grandfather
+said. Though I don't
+understand what he meant
+by it..."
+
+#### 5 ####
+Maria
+"It's already been 5 years
+since my grandfather
+brought me to Shevat.{enter}
+Grandfather and the Queen
+always told me not to leave
+Shevat.{wait:14} That I must not go
+to Solaris alone...{enter}
+There's no way I could
+lose to any other Gear in
+my {name:13:ゼプツェン}...{wait:14}
+There's no way...!{enter}
+I'll step on all those
+Solarians with
+{name:13:ゼプツェン}...{wait:0A} Beat them
+down, beat them all down!!"
+
+#### 6 ####
+Maria
+"Why does grandfather and
+the Queen stop me?{enter}
+Don't they care what
+happens to father...?{wait:14} Are
+they just going to stand by
+and watch him die?{enter}
+I can't forgive those
+people who tortured father,{wait:14}
+and those who silently
+stand by and watch...!"
+
+#### 7 ####
+Maria
+"Even as we speak, my
+father in Solaris may
+be..."
+
+#### 8 ####
+Maria
+"..."
+
+#### 9 ####
+Maria
+"{name:07:チュチュ}!!"
+
+#### 10 ####
+Maria
+"Midori!?"
+
+#### 11 ####
+Maria
+"No, you shouldn't be
+here!!{wait:14} It's dangerous here
+so stay in..."
+
+#### 12 ####
+Maria
+"What...?"
+
+#### 13 ####
+Maria
+"..."
+
+#### 14 ####
+Maria
+"...!!"
+
+#### 15 ####
+Maria
+"{name:13:ゼプツェン}!!"{clear:5A}
+
+#### 16 ####
+Nikolai
+"What's with this
+astronomically
+unintellectual...{enter}
+looking low level
+animal...?"
+
+#### 17 ####
+{name:07:チュチュ}
+"Leave it up chu me, Maria.{wait:14}
+No sweat!"
+
+#### 18 ####
+{name:07:チュチュ}
+"Don't chu be rude to me.
+I'm not a low level animal.{wait:14}
+I'm {name:07:チュチュ}."
+
+#### 19 ####
+{name:07:チュチュ}
+"Well, let's get ready chu
+rumble, you bad boy!{enter}
+Get your butt ready chu be
+kicked across the other end
+of the horizon!!"
+
+#### 20 ####
+Big sister Maria...
+
+#### 21 ####
+Midori
+"Calling...{wait:14}
+Your father..."
+
+#### 22 ####
+Midori
+"Uh uh...{wait:14}
+No...{enter}
+It's not...{wait:14}that scary thing
+over there."
+
+#### 23 ####
+Citan
+"Yes...{wait:14}
+I have chosen my own path.{enter}
+There is no turning
+back..."
+
+#### 24 ####
+Citan
+"Indeed...{wait:14}
+But I could not find any
+other path to choose...{enter}
+If I happen to be overcome
+by the dark side...{wait:14} At
+that point, I have
+already..."
+
+#### 25 ####
+Citan
+"Then you too...{wait:1E}
+Please take care of
+Midori."
+
+#### 26 ####
+Yui
+"You're going aren't
+you...{wait:14} To Solaris..."
+
+#### 27 ####
+Yui
+"You will be hurt...{wait:14}
+They will also be hurt..."
+
+#### 28 ####
+Yui
+"Don't say anything more.{wait:14}
+I already know..."
+
+#### 29 ####
+Yui
+"Now, here.{wait:14}
+This is your sword...{enter}
+Please...{wait:14}
+Please come back alive!"
+

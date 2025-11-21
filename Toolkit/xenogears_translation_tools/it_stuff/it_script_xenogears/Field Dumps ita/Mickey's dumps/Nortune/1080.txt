@@ -1,0 +1,320 @@
+<TextBlock 1 w:40 h:3>
+Fei
+"Tu…?<Delay 20> Come fai
+a conoscermi?"<Close><End of Block>
+<TextBlock 2 w:28 h:3>
+Fei
+"Uh, no…<Delay 40>
+Non eravamo…"<Close><End of Block>
+<TextBlock 3 w:36 h:3>
+Fei
+"Uh?
+Cosa vuoi dire?"<Close><End of Block>
+<TextBlock 4 w:32 h:3>
+Rico
+"Tsk!
+Non mi piace!"<Close><End of Block>
+<TextBlock 5 w:10 h:2>
+Rico
+"Ah!"<Opcode 2 20><Close><End of Block>
+<TextBlock 6 w:22 h:2>
+Rico
+"Merda!"<Opcode 2 30><Close><End of Block>
+<TextBlock 7 w:28 h:3>
+Rico
+"Tornerò!
+A presto…"<Opcode 2 20><Close><End of Block>
+<TextBlock 8 w:34 h:3>
+Rico
+"Perché un mutante
+come me è qui?"<Close><End of Block>
+<TextBlock 9 w:14 h:2>
+Sigmund
+"Continua."<Close><End of Block>
+<TextBlock 10 w:36 h:2>
+Sigmund
+"Trovato, eh…?"<Close><End of Block>
+<TextBlock 11 w:16 h:2>
+Sigmund
+"Capisco."<Close><End of Block>
+<TextBlock 12 w:46 h:2>
+Sigmund
+"Come puoi dirlo?"<Close><End of Block>
+<TextBlock 13 w:28 h:4>
+Sigmund
+"Pirati?
+Parli del giovane
+principe?"<Close><End of Block>
+<TextBlock 14 w:22 h:2>
+Sigmund
+"Oh…"<Close><End of Block>
+<TextBlock 15 w:28 h:2>
+Sigmund
+"Scatole nere?"<Close><End of Block>
+<TextBlock 16 w:34 h:2>
+Sigmund
+"Allora è così…"<Close><End of Block>
+<TextBlock 17 w:14 h:2>
+Sigmund
+"Cosa c'è?"<Close><End of Block>
+<TextBlock 18 w:36 h:3>
+Sigmund
+"Vorresti forse
+distruggere Kislev?"<Close><End of Block>
+<TextBlock 19 w:48 h:3>
+Sigmund
+"Certo, sarebbe facile
+sbarazzarsi di Aveh.<New>
+Ma questo esaurirebbe
+anche le nostre risorse."<Close><End of Block>
+<TextBlock 20 w:52 h:4>
+Sigmund
+"Sconfitto Shakhan,
+Solaris lo rimpiazzerebbe
+con un altro burattino.<New>
+Che accadrebbe se noi
+esaurissimo le nostre
+risorse e ci trovassimo
+sotto attacco?<New>
+E poi, dobbiamo ancora
+occuparci di Nisan. Non
+c'è nulla da guadagnare
+a muoversi ora.<Close><End of Block>
+<TextBlock 21 w:32 h:3>
+Sigmund
+"Sembra che 'loro'
+siano arrivati…"<Close><End of Block>
+<TextBlock 22 w:28 h:2>
+Sigmund
+"Chi sei?"<Close><End of Block>
+<TextBlock 23 w:34 h:3>
+Sigmund
+"!!<Delay 30> Capisco…
+Così tu sei Fei…<New>
+Benvenuto."<Close><End of Block>
+<TextBlock 24 w:44 h:4>
+Sigmund
+"Ah ah ah. Scusami.
+Io sono il Kaiser
+di Kislev, Sigmund."<Close><End of Block>
+<TextBlock 25 w:52 h:4>
+Sigmund
+"Può sembrarti
+affrettato…<New>
+… ma che ne dici
+di unire le forze?<New>
+Ho bisogno del tuo
+aiuto."<Close><End of Block>
+<TextBlock 26 w:32 h:2>
+Sigmund
+"!? Uh…?<New>
+Sei TU! Rico!"<Close><End of Block>
+<TextBlock 27 w:44 h:4>
+Sigmund
+"… Mutante!<Delay 20>
+Sicurezza!
+Arrestate l'intruso!"<Opcode 2 20><Close><End of Block>
+<TextBlock 28 w:40 h:3>
+Sigmund
+"Non era con
+te, vero?"<Close><End of Block>
+<TextBlock 29 w:56 h:2>
+Soldato
+"Kaiser, abbiamo
+delle novità."<Close><End of Block>
+<TextBlock 30 w:54 h:4>
+Soldato
+"Abbiamo indagato sulle
+cause dell'esplosione che 
+di recente s'è verificata
+al confine sud di Aveh.<New>
+I dati mostrano che è
+stata rilasciata una
+enorme quantità di
+radiazioni.<New>
+Probabilmente è stata
+causata dal sovraccarico
+del reattore di una nave
+da battaglia.<New>
+La cause ci sono
+ancora ignote.<New>
+L'onda d'urto che si è
+generata ha spazzato via
+due terzi delle forze
+di Aveh e di Geburah.<New>
+Ora, Aveh sta richiamando
+alle armi le sue unità di
+riserva, ma ci vorranno
+parecchi giorni."<Close><End of Block>
+<TextBlock 31 w:52 h:4>
+Soldato
+"Secondo i vostri ordini,
+gli esploratori sono
+giunti nell'area…"<Close><End of Block>
+<TextBlock 32 w:22 h:2>
+Soldato
+"Sissignore."<Close><End of Block>
+<TextBlock 33 w:54 h:4>
+Soldato
+"Sappiamo che quel Gear
+fu trafugato da una base
+di Geburah che si trova
+ad Aveh.<New>
+E durante l'esame della
+macchina, abbiamo preso
+il pilota che era svenuto
+all'interno.<New>
+Il Gear è stato poi
+trasportato alla capitale.<New>
+Crediamo che le
+informazioni sottratte
+ad Aveh siano esatte."<Close><End of Block>
+<TextBlock 34 w:54 h:4>
+Soldato
+"Tutti i Gear tranne
+questo furono distrutti
+a Lahan.<New>
+A giudicare dal segnale
+ID, non era con Aveh ma
+con un gruppo di pirati."<Close><End of Block>
+<TextBlock 35 w:22 h:2>
+Soldato
+"Sissignore."<Close><End of Block>
+<TextBlock 36 w:50 h:4>
+Soldato
+"Stiamo analizzando i
+dati di combattimento.<New>
+Comunque, abbiamo scoperto
+alcune scatole nere che
+potrebbero ritardare le
+analisi."<Close><End of Block>
+<TextBlock 37 w:50 h:4>
+Soldato
+"Quel Gear non è stato
+costruito da noi.<New>
+La struttura di base è
+stata consegnata da
+'loro'."<Close><End of Block>
+<TextBlock 38 w:34 h:2>
+Soldato
+"Uh<Delay 40>… Kaiser?"<Close><End of Block>
+<TextBlock 39 w:40 h:3>
+Soldato
+"Non dovremmo iniziare
+l'attacco su Aveh?"<Close><End of Block>
+<TextBlock 40 w:18 h:2>
+Soldato
+"Eh?"<Close><End of Block>
+<TextBlock 41 w:46 h:3>
+Soldato
+"Ma non possiamo
+perdere questa
+occasione…"<Close><End of Block>
+<TextBlock 42 w:20 h:1>
+Mi scusi!<Opcode 2 40><Close><End of Block>
+<TextBlock 43 w:10 h:1>
+Fiuuu.<Close><End of Block>
+<TextBlock 44 w:10 h:1>
+Fiuuu.<Close><End of Block>
+<TextBlock 45 w:54 h:4>
+Anziano
+"Sigmund è riuscito ad
+arrivare così lontano
+anche dopo la morte di
+sua moglie.<New>
+Ma non passa giorno che
+lui non pensi a lei.<New>
+È così triste…<Delay 20>
+… sob… sob…"<Close><End of Block>
+<TextBlock 46 w:58 h:4>
+Anziano
+"Oh cielo…<Delay 40> A quel gatto
+piacevano solo Sigmund
+e sua moglie… Perché è
+venuto da voi?"<Close><End of Block>
+<TextBlock 47 w:52 h:3>
+'Metronomo Salvadanaio'
+Ferma il braccio nel mezzo
+e guadagnerai denaro.<Close><End of Block>
+<TextBlock 48 w:44 h:2>
+Fallo di seguito e
+guadagnerai di più.<Close><End of Block>
+<TextBlock 49 w:46 h:1>
+0G rimasti.
+Impossibile pagare.<Close><End of Block>
+<TextBlock 50 w:26 h:2>
+    Prova
+    Lascio perdere<Close><End of Block>
+<TextBlock 51 w:24 h:1>
+Ricevi 1G.<Close><End of Block>
+<TextBlock 52 w:24 h:1>
+Ricevi 1G.<Close><End of Block>
+<TextBlock 53 w:63 h:5>
+<Opcode 1 255>    Basta così!
+    Ancora una
+Questa è la <Opcode 10 0>° volta
+# Record: <Opcode 10 2> volte
+# Hai <Opcode 10 1>G<Close><End of Block>
+<TextBlock 54 w:46 h:2>
+Sua moglie era incinta
+quando lei scomparve.<New>
+Se fosse stato un
+maschio, sarebbe
+stato l'erede.<Close><End of Block>
+<TextBlock 55 w:40 h:1>
+Jackpot! 3 consecutivi!<Close><End of Block>
+<TextBlock 56 w:26 h:1>
+Ricevi 10G.<Close><End of Block>
+<TextBlock 57 w:40 h:1>
+Jackpot! 5 consecutivi!<Close><End of Block>
+<TextBlock 58 w:28 h:1>
+Ricevi 100G.<Close><End of Block>
+<TextBlock 59 w:42 h:1>
+Jackpot! 10 consecutivi!<Close><End of Block>
+<TextBlock 60 w:28 h:1>
+Ricevi 500G.<Close><End of Block>
+<TextBlock 61 w:38 h:1>
+Sei bravo.<Close><End of Block>
+<TextBlock 62 w:42 h:1>
+Jackpot! 20 consecutivi!<Close><End of Block>
+<TextBlock 63 w:30 h:1>
+Ricevi 1000G.<Close><End of Block>
+<TextBlock 64 w:42 h:1>
+Jackpot! 30 consecutivi!<Close><End of Block>
+<TextBlock 65 w:30 h:1>
+Ricevi 2000G.<Close><End of Block>
+<TextBlock 66 w:46 h:1>
+Davvero eccezionale!<Close><End of Block>
+<TextBlock 67 w:42 h:1>
+Jackpot! 40 consecutivi!<Close><End of Block>
+<TextBlock 68 w:30 h:1>
+Ricevi 3000G.<Close><End of Block>
+<TextBlock 69 w:54 h:2>
+Ora sei nell'olimpo.<Close><End of Block>
+<TextBlock 70 w:44 h:1>
+Jackpot! 100 consecutivi!<Close><End of Block>
+<TextBlock 71 w:40 h:2>
+Sovraccarico…
+Impossibile calcolare…<Close><End of Block>
+<TextBlock 72 w:44 h:1>
+Auto… distruzione…<Space 1><Close><End of Block>
+<TextBlock 73 w:24 h:1>
+3…<Delay 20> 2…<Delay 20> 1…<Space 2><Opcode 2 30><Close><End of Block>
+<TextBlock 74 w:30 h:1>
+Kabooooooom!!!!<Opcode 2 30><Close><End of Block>
+<TextBlock 75 w:36 h:1>
+… Scherzetto!<Close><End of Block>
+<TextBlock 76 w:46 h:2>
+Hai consumato una vita
+degna di fortuna.<Close><End of Block>
+<TextBlock 77 w:26 h:1>
+Punteggio massimo
+raggiunto!<Close><End of Block>
+<TextBlock 78 w:46 h:1>
+Hai barato, vero?<Close><End of Block>
+<TextBlock 79 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 80 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><Close><End of Block>

@@ -1,0 +1,94 @@
+<TextBlock 1 w:52 h:5>
+Quale missione vuoi fare?<Delay 20>
+    Generatore 1
+    Generatore 2
+    Generatore 3
+    Generatore 4 <Close><End of Block>
+<TextBlock 2 w:40 h:4>
+Quest'unità nemica è già
+stata respinta.<Delay 20> Scegli
+un altro generatore.<Close><End of Block>
+<TextBlock 3 w:40 h:4>
+Quest'unità nemica è già
+stata respinta.<Delay 20> Scegli
+un altro generatore.<Close><End of Block>
+<TextBlock 4 w:40 h:4>
+Quest'unità nemica è già
+stata respinta.<Delay 20> Scegli
+un altro generatore.<Close><End of Block>
+<TextBlock 5 w:40 h:4>
+Quest'unità nemica è già
+stata respinta.<Delay 20> Scegli
+un altro generatore.<Close><End of Block>
+<TextBlock 6 w:36 h:4>
+Vuoi controllare il
+tuo equipaggiamento?<Delay 20>
+    Sì
+    No<Close><End of Block>
+<TextBlock 7 w:36 h:4>
+Vuoi controllare il
+tuo equipaggiamento?<Delay 20>
+    Sì
+    No<Close><End of Block>
+<TextBlock 8 w:36 h:4>
+Vuoi controllare il
+tuo equipaggiamento?<Delay 20>
+    Sì
+    No<Close><End of Block>
+<TextBlock 9 w:36 h:4>
+Vuoi controllare il
+tuo equipaggiamento?<Delay 20>
+    Sì
+    No<Close><End of Block>
+<TextBlock 10 w:44 h:3>
+Fei
+"Bene, posso farcela!<Delay 20>
+Sono pronto!"<Close><End of Block>
+<TextBlock 11 w:38 h:3>
+Shitan
+"Sarò il vostro
+avversario.<Delay 20> Avanti!"<Close><End of Block>
+<TextBlock 12 w:48 h:4>
+Elly
+"Non ho nulla di
+personale contro
+di voi…<New>
+… ma non posso più
+tornare sui miei passi!"<Close><End of Block>
+<TextBlock 13 w:52 h:3>
+Bart
+"Avanti! Chi è il primo?<New>
+Una schifosa unità come
+la vostra non potrà mai
+battere uno come me!!"<Close><End of Block>
+<TextBlock 14 w:48 h:3>
+Rico
+"Umph!<Delay 20> Vi annienterò
+in un battibaleno!!"<Close><End of Block>
+<TextBlock 15 w:50 h:4>
+Billy
+"Riposate in pace,
+rappresentanti del male.<New>
+Che tutti voi
+diveniate polvere."<Close><End of Block>
+<TextBlock 16 w:48 h:4>
+Fei
+"Ce l'abbiamo fatta!<Delay 20><New>
+Tutti e quattro i
+Generatori del Portale
+sono fuori pericolo!"<Close><End of Block>
+<TextBlock 17 w:42 h:3>
+Attualmente siamo in
+stato d'emergenza.<Delay 20>
+Non potete entrare.<Close><End of Block>
+<TextBlock 18 w:42 h:2>
+<Opcode 1 255>Antica Capitale di Shevat
+       Aphel Aura<Close><End of Block>
+<TextBlock 19 w:26 h:2>
+<Opcode 1 255>    Entrata del
+ Palazzo di Shevat<Close><End of Block>
+<TextBlock 20 w:36 h:1>
+Trovi una Roccia dell'Alba!<Close><End of Block>
+<TextBlock 21 w:42 h:2>
+<Opcode 1 255>Piano Inferiore di Shevat
+Entrata del Molo Centrale<Close><End of Block>

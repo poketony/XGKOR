@@ -1,0 +1,24 @@
+<TextBlock 1 w:50 h:3>
+Fei
+"Ma… chi sono!?<Delay 10>
+Sono Gear di Aveh?<New>
+<Delay 10>…<Delay 10>
+Sono preoccupato
+per Doc<Delay 10>…"<Close><End of Block>
+<TextBlock 2 w:40 h:3>
+Fei
+"Forse è meglio che
+segua questi Gear."<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+Fei
+"Un'unità differente?<New>
+Anche loro vanno
+nella direzione di
+quell'oggetto?<New>
+È meglio che li segua,
+prima di perderli di
+vista…"<Close><End of Block>
+<TextBlock 4 w:34 h:3>
+Lasci il deserto?
+    Sì
+    No<Close><End of Block>

@@ -1,0 +1,142 @@
+#### 1 ####
+Fei
+"Can't we go through the 
+door down below?"
+
+#### 2 ####
+Fei
+"Isn't it controlled by 
+that room we just found?"
+
+#### 3 ####
+Fei
+"You are...{wait:0A}
+Dominia!?{enter}
+Wait, {wait:14}do you
+suppose they figured out
+our plan?"
+
+#### 4 ####
+Fei
+"Damn, we blew it."
+
+#### 5 ####
+Fei
+"Darn...{wait:1E}
+Doc...there's
+no turning back."
+
+#### 6 ####
+Fei
+"Damn, here too."
+
+#### 7 ####
+Fei
+"Damn it,
+...taking too much time...{wait:28}
+...can't defend anymore."
+
+#### 8 ####
+Fei
+"Great! {wait:1E}
+Somehow it worked."
+
+#### 9 ####
+Citan
+"Fei, where are we going?
+The mirror control room
+is below us."
+
+#### 10 ####
+Dominia
+"Of course.{enter}
+The ancient mobile gun
+platform floating above
+Ignas...{enter}
+And this reflector,
+here, at Babel Tower...{enter}
+I know of your plan to use
+them together to destroy
+the Gate generator below
+the 'Ethos' headquarters.{enter}
+But, of course, I won't
+let you do it."
+
+#### 11 ####
+Dominia
+"Here I come!"
+
+#### 12 ####
+Dominia
+"I'll let you off easy
+this time.{wait:28} 
+Next time is for real!"
+
+#### 13 ####
+Dominia
+"Amazing how you've held
+up till now.{enter}
+But this next one will be
+your finish."
+
+#### 14 ####
+Dominia
+"Now! {wait:14}
+Destroy the control 
+room!"
+
+#### 15 ####
+Dominia
+"Damn...{wait:14}
+Too late..."
+
+#### 16 ####
+Dominia
+"We'll continue this
+later!
+Let's go Kelvena!"
+
+#### 17 ####
+Kelvena
+"For the Commander's honor{wait:14}
+and the pride of the 
+Elements,{enter}
+you need to be 
+more flexible."
+
+#### 18 ####
+Kelvena
+"How long will it hold?...{wait:28}
+I'm going!"
+
+#### 19 ####
+Kelvena
+"Let's finish this."
+
+#### 20 ####
+Kelvena
+"What should we 
+do Dominia?"
+
+#### 21 ####
+Kelvena
+"Elly,{wait:14} I didn't
+want to be your enemy...{enter}
+But since our motives are
+different, I guess there
+was no choice.{enter}
+We'll meet again.
+And settle things at
+that time."{clear:1E}
+
+#### 22 ####
+The door is locked.
+
+#### 23 ####
+You have too many
+{str}.
+
+#### 24 ####
+ 
+ Received {str}.
+

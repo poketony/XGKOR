@@ -1,0 +1,59 @@
+#### 1 ####
+Soon this area will be
+totally excavated...{enter}
+We'll have to find 
+another place with 
+buried treasure...
+
+#### 2 ####
+Running into those army
+guys is real dangerous...{enter}
+If they find new ruins,
+they'll take them over
+for themselves...{enter}
+So,{wait:0A} I wonder where
+the best place is?
+
+#### 3 ####
+Shh!
+I'm trying to think.
+So, keep it down.
+
+#### 4 ####
+Since the army no longer
+controls the dig sites,
+you can go by yourself...{enter}
+Now the buying prices at
+the 'Ethos' workshop
+have gone down.
+What should we do?
+
+#### 5 ####
+I came here looking for 
+fortune...but all the
+good sites are controlled
+by the military.{enter}
+I'll have to go home a
+failure. What should I do?
+
+#### 6 ####
+I wanted to try my luck 
+at treasure hunting.{enter}
+I'm pretty successful.
+The reason is I found a
+good partner.{enter}
+Even now he's looking at 
+a map, analyzing our next
+step. I sure depend on my
+pal.
+
+#### 7 ####
+   - Come to Dazil! -
+ 
+ If you dig in the ruins, 
+   you too can be rich!
+ 
+          ------
+ 
+  Treasure Hunter Assoc. 
+

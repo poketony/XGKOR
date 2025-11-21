@@ -1,0 +1,37 @@
+#### 1 ####
+Fei
+"Hiyaaaaa!"
+
+#### 2 ####
+Fei
+"Huff,{wait:08} huff{wait:08}.{wait:02}.{wait:02}.{wait:04}
+That's one down!?"
+
+#### 3 ####
+Fei
+"What on earth are you?{enter}
+No matter how often
+I knock you down
+you still get up!"
+
+#### 4 ####
+Fei
+"Guh!
+Boy are you
+persistent!"
+
+#### 5 ####
+Fei
+"Huff,{wait:0A} huff{wait:0A}.{wait:0A}.{wait:0A}.{wait:0A} Damn it!{wait:1E}
+How come...?{wait:5A} Why did it
+have to come to this?"
+
+#### 6 ####
+Citan
+"Fei!{wait:1E} Stop!{wait:1E}
+You must not
+fight here!"
+
+#### 7 ####
+v12.x Preview Release6
+

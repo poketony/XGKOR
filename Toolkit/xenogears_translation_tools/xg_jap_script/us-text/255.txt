@@ -1,0 +1,1628 @@
+#### 1 ####
+Sigurd
+"Young master, according to
+Margie, there's quite a
+troublemaker in Gebler."
+
+#### 2 ####
+Bart
+"Yeah...
+So, who the heck is he?"
+
+#### 3 ####
+Sigurd
+"Kahran Ramsus{wait:0A} of the Holy
+Solaris Empire's Special
+Foreign Affairs Agency{wait:05}...{enter}
+In other words, he's the
+commander in chief of
+Gebler.{enter}
+It seems that Gebler isn't
+just after the excavation
+sites around Aveh after
+all."
+
+#### 4 ####
+Bart
+"You mean, they're not
+after the Jasper?"
+
+#### 5 ####
+Sigurd
+"If that's their only goal
+they wouldn't need to send
+an important man like him!{enter}
+Young master, this could
+become unexpectedly
+complicated..."
+
+#### 6 ####
+Fei
+"Doc hasn't come
+back yet, has he?"
+
+#### 7 ####
+...
+
+#### 8 ####
+Sigurd
+"Hyu...{wait:0A} I mean,{wait:0A} 'doc'...{wait:0A}
+No need to worry about him.
+He'll join us soon."
+
+#### 9 ####
+Sigurd
+"Deus integrated with
+Zohar and awoke...{enter}
+But we've found out Deus
+is in the center of the
+giant structure created
+out of the fallen Merkava.{enter}
+The only way we can think
+of to destroy Deus is to
+penetrate into there and
+make our way to the center.{enter}
+That structure used to be
+Merkava itself, but we
+must assume the inside has
+changed significantly.{enter}
+We don't know what dangers
+await inside of there.{wait:0A}
+Please be very careful.
+
+#### 10 ####
+Fei
+"Yeah, thanks Sigurd.
+Let me take care of it.{enter}
+I will destroy Deus.{wait:1E}
+Even if it costs me
+everything I have..."
+
+#### 11 ####
+Bart
+"Fei...{wait:1E}
+Are you sure
+about this?"
+
+#### 12 ####
+Fei
+"Bart...?"
+
+#### 13 ####
+Bart
+"I know what you must be
+thinking now.
+If you destroy Deus...{enter}
+...the proliferation of the
+nanomachines that are out
+to turn this planet itself
+into a weapon will stop...{enter}
+But, if you end up losing
+Elly who was united with
+Deus for that very purpose,
+then what good will it be?"
+
+#### 14 ####
+Bart
+"Fei...{wait:1E}
+Are you sure
+about this?"
+
+#### 15 ####
+Fei
+"Bart...?"
+
+#### 16 ####
+Bart
+"I know what you must be
+thinking now.
+If you destroy Deus...{enter}
+...the proliferation of the
+nanomachines that are out
+to turn this planet itself
+into a weapon will stop...{enter}
+But, if you end up losing
+Elly who was united with
+Deus for that very purpose,
+then what good will it be?"
+
+#### 17 ####
+Fei
+"But..."
+
+#### 18 ####
+Sigurd
+"That's right, Fei.{wait:14}
+She's our friend who's been
+through a lot with us too.{enter}
+I think that saving a dear
+friend is just as important
+as protecting our planet or
+saving the world...{enter}
+What better reason is there
+to fight? If you can't even
+save your friends, then how
+could you save the world?{enter}
+Don't you agree?"
+
+#### 19 ####
+Bart
+"Yeah, Sig's right!{wait:14}
+Don't you ever give up,
+Fei, no matter what!{enter}
+You're the only one
+who can release Elly
+from Deus' spell.{enter}
+But, we'll give you as
+much backup as we can.{wait:0A}
+So..."
+
+#### 20 ####
+Bart
+"Yeah, Sig's right!{wait:14}
+Don't you ever give up,
+Fei, no matter what!{enter}
+You're the only one
+who can release Elly
+from Deus' spell.{enter}
+But, we'll give you as
+much backup as we can.{wait:0A}
+So..."
+
+#### 21 ####
+Fei
+"Thanks a lot.{wait:14}
+Bart, Sigurd...{wait:0A}
+I won't give up."
+
+#### 22 ####
+Sigurd
+"You volunteered to fight
+for the young master and
+the rest of us.{enter}
+So it's our turn to fight
+for you and Elly.
+Let's go, Fei...{wait:0A}
+to gain true freedom!!"
+
+#### 23 ####
+Sigurd
+"We don't have much time
+left.{wait:0A} Let's go, to win
+ourselves true freedom!!"
+
+#### 24 ####
+Sigurd
+"Ready to go to Sargasso?"
+    Sure!
+    Wait a minute!
+
+#### 25 ####
+Sigurd
+"It seems Fei isn't
+in the infirmary...{enter}
+But he must be
+onboard somewhere..."
+
+#### 26 ####
+Sigurd
+"Let's head to the
+excavation site."
+
+#### 27 ####
+Sigurd
+"Let's hurry to
+the Thames!!"
+
+#### 28 ####
+Sigurd
+"Some new parts were
+brought into our Gear
+Shop down below.{enter}
+Why don't you go and
+check them out!?"
+
+#### 29 ####
+Sigurd
+"We have arrived at the
+transport ship.{wait:0A}
+Be careful now, Billy..."
+
+#### 30 ####
+Sigurd
+"Good morning.{wait:0A}
+Billy is waiting
+in the gun room."
+
+#### 31 ####
+(U...ugh...{wait:0A}
+Feels like a hangover...)
+
+#### 32 ####
+Sigurd
+"Billy is waiting
+in the gun room."
+
+#### 33 ####
+Sigurd
+"I see. So, Fei'll recover
+if he continues to rest.
+I'm relieved to hear that.{enter}
+It seems the orphanage is
+located to the southeast of
+the 'Ethos' headquarters."
+
+#### 34 ####
+Sigurd
+"It appears the 'Ethos'
+headquarters is located
+to the north of the Thames.{enter}
+We must hurry up and take
+Fei there..."
+
+#### 35 ####
+Sigurd
+"That reminds me... Margie
+says that she has something
+to talk to you about..."
+
+#### 36 ####
+Sigurd
+"Fei is unconscious...?"
+
+#### 37 ####
+Sigurd
+"How careless of me.{wait:0A}
+I never thought Elly would
+do a thing like that...{enter}
+Why don't you go and
+see how she is, Fei?"
+
+#### 38 ####
+Sigurd
+"Young master, where did
+you go while we were so
+busy...?{enter}
+An international goodwill
+visit with the Thames?
+Well, whatever...{enter}
+Now about those supplies
+for the submarine..."
+
+#### 39 ####
+Bart
+"Oh, that?{wait:0A}
+Let me see...order an
+additional 16 torpedoes!"
+
+#### 40 ####
+Sigurd
+"Yes, sir."
+
+#### 41 ####
+Sigurd
+"The young master has
+finally started to realize
+his position as a king."
+
+#### 42 ####
+Sigurd
+"Fei, sorry to ask but...{wait:0A}
+Would you mind telling the
+young master to come here?"
+
+#### 43 ####
+Sigurd
+"Young master...
+You shouldn't play pranks
+in an unknown land!"
+
+#### 44 ####
+Sigurd
+"Where one god disdains,
+another god shows mercy.{enter}
+We have to appreciate
+people's good intentions."
+
+#### 45 ####
+Sigurd
+"Young master...
+You should apologize
+to the two of them."
+
+#### 46 ####
+Sigurd
+"Forgive me, Hyuga...{wait:0A}
+I couldn't save Fei
+and Elly..."
+
+#### 47 ####
+Sigurd
+"We shall have to enter
+into Nisan through the
+secret road.{enter}
+Let's keep on the lookout
+for a lone tree in the
+desert as a sign of where
+the road lies buried...!"
+
+#### 48 ####
+Sigurd
+"It's time to sneak
+into Aveh at last.{enter}
+First of all, our party
+should inspect the town
+and work out a plan of
+action."
+
+#### 49 ####
+Sigurd
+"We're almost at the
+hideout...{enter}
+We'll probably stop
+there for a while for
+supplies and repairs."
+
+#### 50 ####
+Sigurd
+"Shall we launch
+the Yggdrasil?"{enter}
+    {fast:FF}Go ahead!
+    Wait a while.
+
+#### 51 ####
+Sigurd
+"We are currently
+anchored at Shevat..."{enter}
+    {fast:FF}Leave Shevat.
+    Changed my mind.
+
+#### 52 ####
+Bart
+"Our Yggdrasil was reborn
+with Shevat technology.{enter}
+This vessel will be
+named 'the Third'!"
+
+#### 53 ####
+Bart
+"Our Yggdrasil was reborn
+with Shevat technology.{enter}
+This vessel will be
+named 'the Third'!"
+
+#### 54 ####
+Sigurd
+"The operations are a
+bit different from the
+previous Yggdrasil.{enter}
+So you'll have to
+learn the workings
+all over again!"
+
+#### 55 ####
+Yes!{wait:0A}
+I'll do my best!
+
+#### 56 ####
+Sigurd
+"We're currently anchored
+at the Thames..."{enter}
+    {fast:FF}Leave Thames.
+    Changed my mind.
+
+#### 57 ####
+Sigurd
+"So this is your first
+time to see our new
+Yggdrasil II...{enter}
+Let me show you our
+reborn vessel's
+improved performance!"
+
+#### 58 ####
+Sigurd
+"Currently anchored
+at Nisan...{enter}
+    {fast:FF}Leave Nisan.
+    Changed my mind.
+
+#### 59 ####
+Sigurd
+"Currently anchored
+at our hideout..."{enter}
+    {fast:FF}Leave the hideout.
+    Changed my mind.
+
+#### 60 ####
+Bart
+"We went through a
+lot together...{enter}
+But this one's going to
+be really tough...{wait:0A}
+But, we won't die! {wait:0A}
+We'll come back alive!{enter}
+I'll be asking you to
+join me again when
+this is all over!"
+
+#### 61 ####
+Bart
+"I can go anytime!"
+
+#### 62 ####
+Bart
+"Sig is drinking in
+the gun room."
+
+#### 63 ####
+Bart
+"I can go anytime!"
+
+#### 64 ####
+Bart
+"We're almost at
+my hideout!"
+
+#### 65 ####
+!{clear:14}
+
+#### 66 ####
+If Sigurd passes away,
+I will...!
+
+#### 67 ####
+Young master, would
+you let me steer once
+in a while, please!?
+
+#### 68 ####
+Yahoo!!{wait:0A}
+He'll let me be an
+apprentice helmsman!"
+
+#### 69 ####
+Yggdrasil III can fly
+now, thanks to Shevat's 
+technology but...{enter}
+The operations have
+changed a little so
+I've gotta study
+them all over again.{enter}
+Wanna see my notes?
+    {fast:FF}Let me see them
+    Not right now
+
+#### 70 ####
+{fast:FF}1){wait:0A} The ¡÷ button is the
+   accelerator.
+   It moves you forward
+   really fast!!{enter}
+2){wait:0A} If you press the
+   Directional button with
+   the ¡÷ button held down,
+   you can...{enter}
+ go down by pressing Up,
+ go up by pressing Down,
+ and change direction by
+ pressing Left or Right.{enter}
+3){wait:0A} When you want to turn
+ quickly, also press the
+ L1 button for left, or
+ the R1 button for right.{enter}
+4){wait:0A} You can reverse by
+   pressing the R2 button.{enter}
+5){wait:0A} Press the ¡õ button
+   to go to the bridge.
+   Press the ¡ð button
+   to land.{enter}
+ But note...
+ There are places where
+ you cannot land, such as
+ mountains and forests.{enter}
+ But then again that was
+ the same conditions the
+ Yggdrasil had when it
+ was a Sand Cruiser.
+
+#### 71 ####
+My name is Bingo, the
+apprentice helmsman.{wait:0A}
+Sigurd has been teaching me
+how to operate the Yggdrasil!{enter}
+Do you want to see my notes?
+    {fast:FF}Yeah, let me see them
+    Not right now, thanks
+
+#### 72 ####
+{fast:FF}1){wait:0A} The Yggdrasil can be
+   operated just as if you are
+   walking... Just use the
+   Directional button to move
+   in the direction you want.{enter}
+2){wait:0A} While cruising, if you want
+   to stop and disembark in
+   your Gear, then just press
+   the ¡ð button.{enter}
+   To stop and come back to
+   the bridge (that is, here),
+   press the ¡õ button.{enter}
+   From the bridge, you can go
+   into the rest of the vessel{wait:05}
+   to rest,{wait:05} tune up a Gear,{wait:05}
+   weigh yourself{wait:05} and so on!{enter}
+3){wait:0A} While cruising, press the
+   Select button to activate
+   the Remote Sensing System.{wait:0A}
+   It will map your current
+   position.{enter}
+4){wait:0A} When you don't know how to
+   get to where you want to go,
+   ask the navigation officer,
+   Mr. Alei, who's looking in
+   the binoculars there.{enter}
+   He will be able to show you
+   the ship's charts.
+
+#### 73 ####
+I can't wait until I become
+a fully-fledged helmsman...
+
+#### 74 ####
+The ship's missiles might
+not work on that monster...
+
+#### 75 ####
+Suddenly we've gone from
+land to air travel...
+From two dimensions to
+three dimensions...
+This is difficult...
+
+#### 76 ####
+Exchange all the torpedo
+tubes to missile launchers.
+We can shoot Gungany...I
+mean, 'Bart Missiles', too!
+
+#### 77 ####
+By the way, how do
+you shoot downwards?
+
+#### 78 ####
+So how's the status of
+our ammo supplies...
+Hmm, maybe we need more
+anti-aircraft shells...
+
+#### 79 ####
+The compass we received
+from Shevat is great.
+You can aim at 15 different 
+targets simultaniously!
+
+#### 80 ####
+My dear artillery
+guns, keep it up!
+
+#### 81 ####
+The command of view is
+better than the desert...
+It's ideal for observing
+missile detonation.
+The giant splashes should
+be really easy to spot.
+
+#### 82 ####
+Water torpedoes are
+built much more simply
+than sand torpedoes.{enter}
+Thanks to that, their
+power is double that of
+our previous ship's arms.
+But they're expensive.
+
+#### 83 ####
+Man, my legs
+move great!
+
+#### 84 ####
+Do they have ammo that
+works with our vessel here?
+It's about time to change the
+radar to water software too!
+
+#### 85 ####
+I didn't think they would
+have such a variety of water
+torpedoes. Their normal
+torpedoes are not bad either.{enter}
+There're so many of them
+that I can't decide...!
+
+#### 86 ####
+When it comes to cannons, 
+you don't know where the
+shells will fly to until
+you've actually shot'em.{enter}
+But, they're suitable
+for the pirating trade
+because they're cheap
+yet intimidating...{enter}
+On the other hand though,
+torpedoes blow everything
+to blazes and are down-
+right expensive too...
+
+#### 87 ####
+It's dry in the desert so
+gunpowder burns steadily
+and easy to predict.{enter}
+It'd be great if the
+temperature would stay
+the same day and night.
+
+#### 88 ####
+This ship's mast is low.{wait:0A}
+So it'd help if we could
+get a Gear to observe
+the shells' impacts...{enter}
+And when the catapults
+are opened, you can't
+use the main cannon.{wait:0A}
+Ahh, so many problems...
+
+#### 89 ####
+The azimuth compass wasn't
+in its proper position.
+I'd better fix it while we
+are at an anchorage...
+
+#### 90 ####
+I want to change this to
+a firing radar with a
+better filter...
+Oh, and I'd love a bigger
+torpedo tube, too...
+
+#### 91 ####
+Franz
+"Oh, young master!{wait:0A}
+I...I'm not loafing
+on the job! Honest!"
+
+#### 92 ####
+...{clear:0A}
+
+#### 93 ####
+Franz
+"Oh, {wait:0A}sorry...{wait:0A}
+I didn't realize that you
+were there! {enter}
+Wanna hear some hot sounds
+that I have recorded?"
+    {fast:FF}Sure.
+    No thanks.
+
+#### 94 ####
+Franz
+"Wanna hear some more?"
+    {fast:FF}Yeah, this is cool!
+    No, enough already!
+
+#### 95 ####
+Franz
+"Ahh...
+Well that's too bad."
+
+#### 96 ####
+Franz
+"That's too bad...{wait:0A}
+You could have seen the
+world between the static!"
+
+#### 97 ####
+{fast:FF}'The Franz Collection'
+     Number {number(s):00}
+
+#### 98 ####
+I'm finally getting used
+to being in the sky...{wait:0A}
+But I shouldn't get too
+relaxed yet!
+
+#### 99 ####
+I still break into a cold 
+sweat everytime I take off
+and land.
+
+#### 100 ####
+...In short, it flies
+cause it has wings, right?
+This is hard to understand!
+
+#### 101 ####
+Hmm, so in water the rudder
+has to be gently engaged
+before trying to turn.
+Guess I learned something.
+
+#### 102 ####
+Wow, to think something
+like a Lemora would be
+in the ocean... It was
+covered in shells!
+
+#### 103 ####
+I had a competition going  
+on with the young master
+the other day to see who
+could tip the boat further.{enter}
+Old Maison literally was
+white as a sheet, saying
+all the teacups were
+destroyed...
+
+#### 104 ####
+There was a desert Lemora
+plastered all over the 
+bottom of the ship.
+No wonder we didn't get 
+any speed...
+
+#### 105 ####
+...{wait:0A}
+Let's put more
+oomph into it!!
+
+#### 106 ####
+High-speed three-dimensional
+maneuvering? ... Impossible!
+I'm not a Gear pilot! Hah! But
+then again, I've got no choice!
+
+#### 107 ####
+With the booster,
+the acceleration
+is monsterous!
+It's fun though.
+
+#### 108 ####
+How to use the rudder...
+Deploy the slats
+simultaneously...
+like this... Hmm?
+What's a Vortex Flow?
+
+#### 109 ####
+...Wingtip-stalls...
+hammerhead-stalls...
+the Helpst maneuver...
+grumble... grumble...
+
+#### 110 ####
+Hmmm, the rudder doesn't work
+as well as it did in sand...
+It doesn't feel secure or
+seem to be reliable at all!
+
+#### 111 ####
+I'm kind of used to it now.
+You can move more freely in
+the water, once you know how!
+
+#### 112 ####
+It's a lot harder to
+control the ship after the
+young master steered it.
+He is so reckless...
+
+#### 113 ####
+We had a lot happen this time.
+I'd better take a good look
+at those propulsion wheels!
+
+#### 114 ####
+All I've heard is
+static since then...{enter}
+I hope people are still
+alive out there...
+
+#### 115 ####
+Shevat uses a special
+communication method...{wait:0A}
+I was ordered to work out
+a system to decode it on
+our ship...{wait:0A} I hope I can!
+
+#### 116 ####
+Three dimension radio
+wave lighthouse?{wait:0A}
+We need new Navi-soft!{enter}
+And they expect me to
+create it all...
+Yeah, right...!?
+
+#### 117 ####
+Franz is sulky and
+won't help me...
+
+#### 118 ####
+Shevat's communication decoder,{wait:0A}
+charts of angular cordinates of
+the radio wave lighthouse and
+it's pulses,{wait:0A} table of guidance
+communication code settings...{enter}
+There're so many things we
+need to buy.{wait:0A}
+Things have gotten a lot more
+complicated and expensive,
+now that we can fly!
+
+#### 119 ####
+Laser communication...{wait:0A}
+I, {wait:05}I want it so bad...
+
+#### 120 ####
+We had a lot of trouble
+with static electricity in
+the desert causing noise.
+
+#### 121 ####
+We can use high frequency
+radio waves in the water,
+but the resolution is low,
+so it's hard to make out.
+
+#### 122 ####
+...With the increase in
+usable radio waves, my
+work load has increased.{wait:0A}
+I'm happy but I'm busy!
+
+#### 123 ####
+We increased the antennas,
+but now I can't keep track
+of everything because I
+don't have enough selector
+channels...{wait:0A} Drats!!
+
+#### 124 ####
+Once I get to a good
+stopping point I guess I'll
+go get me a standard
+communications oscillator.
+
+#### 125 ####
+The usable electric waves
+have increased, so now the
+layout of the antenna mast
+needs to be changed too!
+
+#### 126 ####
+While under the sand, there
+is nothing but static...{wait:0A}
+As a matter of fact, there
+is nothing to do either...
+
+#### 127 ####
+Sand conducts sound much
+better than air does.{wait:0A}
+Why, I can hear every
+gripe Shakhan says!{wait:0A}
+Ha... Just kidding!
+
+#### 128 ####
+Our maps are not much
+of a help anymore...
+
+#### 129 ####
+Young master, do you have
+any idea where we are?{wait:0A}
+It's not on my map!
+
+#### 130 ####
+It's not on the map...{wait:0A}
+Where the heck are we?
+
+#### 131 ####
+I got a new map!
+
+#### 132 ####
+Do you want to see
+the ship's chart?
+    {fast:FF}Yeah, show me!
+    No thanks.
+
+#### 133 ####
+Alright then...{wait:0A}
+Let me know when you
+want to see it...{wait:0A}
+It's no loss to me anyway.
+
+#### 134 ####
+That Jerico is serious!{wait:0A}
+I should put more oomph 
+into it, too!
+
+#### 135 ####
+I thought I'd have more free
+time. But I have to fix up
+Jerico's mistakes, so now
+I'm busier than before...
+
+#### 136 ####
+I hope Jerico doesn't go
+learning any more strange
+things ever again...
+
+#### 137 ####
+I don't have to do delicate
+effect wing movements anymore,
+but it's harder to keep
+balance than it was on sand.
+
+#### 138 ####
+I must inspect the
+extended main tank now.
+I'm not used to it yet.
+
+#### 139 ####
+This ship uses innumerable
+effect wings to pulverize
+sand and wade through it.{enter}
+If our balance is lost, 
+we roll over in the desert.{wait:0A}
+It's all up to our skill!
+
+#### 140 ####
+I have to repair some of
+the pumps that died now.
+Oh, I also have to re-cover
+the effect wings...
+
+#### 141 ####
+The map needs to be
+rewritten because of
+what's happened!
+
+#### 142 ####
+If you ignore the time 
+scale, there isn't much
+change in the workload.
+
+#### 143 ####
+Look! Look!
+The aerial picture matches
+the map I made a long time
+ago...exactly! I'm filled
+with such deep emotion.
+
+#### 144 ####
+It's a small world.
+I already remember all
+the land, sea and air!!
+
+#### 145 ####
+A chart! 
+I need to go buy a chart!
+
+#### 146 ####
+The captain here is a
+good guy! He taught me
+a lot about the sea.
+But he's a mean drunk!
+
+#### 147 ####
+I was kind of discouraged
+that there are so many
+unmapped places...{enter}
+But at the same time,
+I was happy to be able
+to write new charts...
+
+#### 148 ####
+The ocean is so huge...
+The desert at least had
+some kind of landmarks
+to look for...{enter}
+Now I can't just rely
+on knowing the land.
+I've also got to master
+celestial measurement.
+
+#### 149 ####
+Jerico has been careful
+lately, so navigation
+has been made easier.
+
+#### 150 ####
+Oh, that's the chief
+navigator's banana boat.
+Look at the map.{wait:0A}
+The desert may seem to be
+flat and boring but it's
+actually quite complicated.{enter}
+It's even worse when you
+dive underground...
+Unexpected boulders and
+underground waterways...
+You can't take your eyes
+off that map for a second!
+
+#### 151 ####
+That Jerico! He lets the
+Yggdrasil drift, so that
+the time and routes we
+take end up being off...
+
+#### 152 ####
+The desert changes everyday.
+So I rewrite the map with
+the information we collect
+whenever we're out there.
+
+#### 153 ####
+The map box is the greatest
+treasure in the Yggdrasil!{wait:0A}
+This ship can run amuck
+because it has these maps.{wait:0A}
+They're all hand-made by me!
+
+#### 154 ####
+Bart
+"Well if it isn't Doctor
+Citan Uzuki and{wait:0A}...errh,{wait:0A}
+his very big friend!{enter}
+I see you've finally woken
+up.{wait:0A} I am terribly sorry
+about what happened...{wait:0A}
+Please forgive me..."
+
+#### 155 ####
+Rico
+"I have a name, you know...{wait:0A}
+It's Ricardo Banderas...{wait:0A}
+But everyone calls me Rico!{enter}
+So, what are you
+apologizing to us for?"
+
+#### 156 ####
+Bart
+"...{wait:0A}
+I suppose I had better stop
+beating around the bush...{enter}
+I'm not usually this frank
+or apologetic but, well..."
+
+#### 157 ####
+Citan
+"What he is trying to
+say is this{wait:05}...{enter}
+The people who shot us
+down, and the people who
+saved us, are one in the
+same{wait:05}...{wait:05}this ship's crew!"
+
+#### 158 ####
+Rico
+"...?{wait:0A}{wait:0A}
+You don't mean...{enter}
+That Goliath which we
+were riding in was shot
+down by...?"
+
+#### 159 ####
+Bart
+"Yes, you're a bit slow
+there...{wait:05}errh,{wait:05} big friend!{enter}
+Actually our Yggdrasil II
+did a good job in shooting
+down that monster of an
+airplane!!{wait:05} It was great!"
+
+#### 160 ####
+"You should've seen it!{wait:0A}
+Wow!{wait:0A} My 'Bart Missiles'
+sure were awesome...!!"
+
+#### 161 ####
+Rico
+"AAAARRRGGHHH!!{wait:0A}
+I won't forgive
+you so easily!!"{clear:3C}
+
+#### 162 ####
+Sigurd
+"Fei, the young master
+hasn't come back yet.
+What's he up to?{enter}
+Would it be too much to
+ask for you to go and
+call him for me?"
+
+#### 163 ####
+Fei
+"No problem!{enter}
+He's probably wining
+and dining with the
+Captain of the Thames!"
+
+#### 164 ####
+I've detected a rescue signal!{wait:0A}
+It seems the Thames is being
+attacked by a pack of Reapers!
+
+#### 165 ####
+Bart
+"So this is the purging
+by Solaris that Stone
+was talking about!?"
+
+#### 166 ####
+Bart
+"So this is the purging
+by Solaris that Stone
+was talking about!?"
+
+#### 167 ####
+Citan
+"Let us make haste!{wait:0A}
+Otherwise the Thames will
+be destroyed by Reapers!"
+
+#### 168 ####
+Citan
+"Let us make haste!{wait:0A}
+Otherwise the Thames will
+be destroyed by Reapers!"
+
+#### 169 ####
+Jessie
+"What about the 'Ethos'?
+They've completely
+devastated themselves!{enter}
+That mob just goes from
+bad to worse!"
+
+#### 170 ####
+Citan
+"Do you not think it is
+about time you told your
+son the truth, old friend?{enter}
+You were not just
+wandering around drinking
+and picking fights, were
+you?{enter}
+I am sure he wants to
+know what you have been
+up to...{wait:0A}
+Is that right, Billy?"
+
+#### 171 ####
+Citan
+"Do you not think it is
+about time you told your
+son the truth, old friend?{enter}
+You were not just
+wandering around drinking
+and picking fights, were
+you?{enter}
+I am sure he wants to
+know what you have been
+up to...{wait:0A}
+Is that right, Billy?"
+
+#### 172 ####
+Billy
+"Yes, it would certainly
+make me feel a lot better.{enter}
+I now know my dad was
+worried about me the whole
+time, but I haven't worked
+out my feelings yet..."
+
+#### 173 ####
+Jessie
+"What do you mean?"
+
+#### 174 ####
+Billy
+"Well I'm glad Prim can
+speak now, but she only
+calls out for her father...{enter}
+But I am the one who has
+been taking care of her
+all this time...{wait:0A}
+What's wrong with her...?"
+
+#### 175 ####
+Citan
+"Calm down,{wait:0A} Billy...{wait:0A}
+I am sure she is just
+being shy.{enter}
+She will start calling out
+for you soon.{wait:0A} Why, my own
+daughter does not even call
+out her father's name!"
+
+#### 176 ####
+Citan
+"So, old friend...{wait:0A}
+Why were you working
+alone all that time?"
+
+#### 177 ####
+Citan
+"Calm down,{wait:0A} Billy....{wait:0A}
+I am sure she is just
+being shy.{enter}
+She will start calling out
+for you soon.{wait:0A} Why, my own
+daughter does not even call
+out her father's name!"
+
+#### 178 ####
+Citan
+"So, old friend...{wait:0A}
+Why were you working
+alone all that time?"
+
+#### 179 ####
+Jessie
+"It couldn't be helped...{wait:0A}
+Anyway, I'll probably need
+your help from here on..."
+
+#### 180 ####
+Jessie
+"Okay, I'll tell you more.{wait:0A}
+Let's go to the gun room...{wait:0A}
+to get something to drink."
+
+#### 181 ####
+Fei
+"That {wait:0A}can't be!"
+
+#### 182 ####
+Billy
+"A secondary
+explosion...!?"
+
+#### 183 ####
+Citan
+"Oh no!{wait:0A}
+I should have known better.
+What a miscalculation!!{enter}
+The explosion was too big.{wait:0A}
+It reacted with the main
+condenser right under
+the main cannon...{enter}
+...and induced a
+secondary explosion...{wait:0A}
+How could I have been
+so stupid!?"
+
+#### 184 ####
+Bart
+"You mean,{wait:0A}
+we overdid it!?"
+
+#### 185 ####
+Citan
+"Why did I not
+realize it sooner!?{enter}
+This means...{wait:0A}
+We might have...
+Oh no, Elly...!"
+
+#### 186 ####
+Fei
+"Oh...{wait:0A}oh my gosh...{wait:0A}
+Elly...!!"
+
+#### 187 ####
+Billy
+"W,what is it,{wait:0A}
+this time?"
+
+#### 188 ####
+Bart
+"Hey, {wait:0A}Citan!
+What more is going
+to happen!?"
+
+#### 189 ####
+Citan
+"Something is happening in
+the center of Merkava...{wait:0A}
+What could it be...!?"
+
+#### 190 ####
+Billy
+"Thank you for helping
+me, everyone.{enter}
+To be honest, that was
+too dangerous for me on
+my own. I couldn't have
+done it without you..."
+
+#### 191 ####
+Bart
+"Is your job always this
+dangerous?{enter}
+Hah, I never thought you
+would call a Gear!?{wait:0A}
+But, what in hell is the
+'Ethos' thinking anyway?"
+
+#### 192 ####
+Bart
+"Is your job always this
+dangerous?{enter}
+Hah, I never thought you
+would call a Gear!?{wait:0A}
+But, what in hell is the
+'Ethos' thinking anyway?"
+
+#### 193 ####
+Billy
+"!!{wait:0A} ...{wait:05}We Etones
+are merely fulfilling
+our divine mission!"
+
+#### 194 ####
+Bart
+"Sorry...{wait:0A} It was wrong of
+me to say that.{wait:0A} Don't take
+it so seriously!{enter}
+So, you're going to report
+back to the 'Ethos' about
+your job's results, right?{enter}
+Well, if you like we shall
+give you a ride to the
+'Ethos' H.Q...{wait:0A}
+It's on our way."
+
+#### 195 ####
+Bart
+"Sorry...{wait:0A} It was wrong of
+me to say that.{wait:0A} Don't take
+it so seriously!{enter}
+So, you're going to report
+back to the 'Ethos' about
+your job's results, right?{enter}
+Well, if you like we shall
+give you a ride to the
+'Ethos' H.Q...{wait:0A}
+It's on our way."
+
+#### 196 ####
+Billy
+"That would be great,
+so long as it doesn't
+put you out...{enter}
+I have something to
+give you as a sign of
+my gratitude.{enter}
+So please accompany
+me into the 'Ethos'
+headquarters.
+Let's go..."
+
+#### 197 ####
+Citan
+"'Anonelbe'...{enter}
+The long awaited man of
+god, who will take the
+people born in this world
+with him to a new horizon.{enter}
+Such is the destiny of
+the 'Contact'.{wait:0A}
+That is what the emperor
+called Fei...{enter}
+He did not tell me why he
+called Fei that though..."
+
+#### 198 ####
+Sigurd
+"Who the heck is he then?"
+
+#### 199 ####
+Citan
+"He is Fei.{wait:1E}
+But he is also the one
+who...{enter}
+destroyed Elru,{wait:0A} caused Kahr
+serious injury,{wait:0A} sank the
+Yggdrasil,{wait:0A} killed Rico's
+subordinate's in Kislev...{enter}
+...{wait:0A}
+Need I continue further?{wait:0A}
+He is{wait:05}...{wait:05}
+{wait:05}...{wait:0A}Id.
+
+#### 200 ####
+Sigurd
+"What did you say!?{wait:0A}
+Id!?"
+
+#### 201 ####
+Jessie
+"What do you mean?"
+
+#### 202 ####
+Citan
+"He{wait:05}...{wait:0A}Fei that is,{wait:0A} has
+Disassociative Identity
+Disorder...{enter}
+Also known more commonly as
+multiple personalities."
+
+#### 203 ####
+Jessie
+"D...{wait:05}disas...?"
+
+#### 204 ####
+Citan
+"Disassociative Identity
+Disorder...{wait:0A}
+or multiple personalities.{enter}
+It is a mental disorder
+where one person has
+multiple personalities."
+
+#### 205 ####
+Sigurd
+"That can't be real..."
+
+#### 206 ####
+Citan
+"Oh but it is very real!{wait:0A}
+Fei is living proof of it.{enter}
+I have been watching over
+Fei, who has a destroyer
+personality within him
+named 'Id'."
+
+#### 207 ####
+Citan
+"In the beginning he was
+stable...{enter}
+His disassociation did not
+occur at all while he
+lived in Lahan for those
+three years.{enter}
+But then, after Lahan was
+attacked, things changed.{enter}
+Little by little, the
+number of incidences of his
+disassociation and their
+length began to increase.{enter}
+And then at Solaris, a
+complete manifestation
+of Id occurred."
+
+#### 208 ####
+Sigurd
+"What brought it about?{wait:0A}
+He was fine when he
+was in Lahan, right?"
+
+#### 209 ####
+Citan
+"My guess is that{wait:05}...{wait:0A}
+the appearance of Grahf
+affected Fei somehow.{enter}
+You probably know that Fei
+worked with Grahf as the
+assasin 'Id' before he was
+brought to live in Lahan.{enter}
+It was then that Elru,{wait:05}
+the homeland of Dominia,{wait:05}
+was utterly obliterated.{enter}
+Grahf was intentionally
+provoking the manifestation
+of Id{wait:0A} 'within'{wait:05}...{wait:05}for want
+of a better word{wait:05}...{wait:0A}Fei."
+
+#### 210 ####
+Jessie
+"For what purpose?"
+
+#### 211 ####
+Citan
+"To destroy God{wait:05}...{wait:0A}
+That is what Grahf
+was saying...{enter}
+That is all I know...
+Although there might be
+more to it...{wait:0A}
+But one thing is certain...{enter}
+Grahf was encouraging the
+manifestation of Id, but
+did not have adequate
+control over him."
+
+#### 212 ####
+Sigurd
+"In other words, it
+was too much for him
+to handle?"
+
+#### 213 ####
+Citan
+"Yes."
+
+#### 214 ####
+Jessie
+"You said, 'That's all you
+know, although there might
+be more to it.'...{enter}
+What did you mean by that?"
+
+#### 215 ####
+Citan
+"I shall go on to explain
+that now.{wait:0A} Actually, that is
+the most important point."
+
+#### 216 ####
+Billy
+"Well then...
+shall we go, too?"
+
+#### 217 ####
+I've picked up the 'Ethos' fleet
+and the Thames on the radar, sir.{wait:0A}
+They're on the sea south of here.{wait:0A}
+If we travel at full speed we can
+reach them in an hour.
+
+#### 218 ####
+Sigurd
+"Alright!{wait:0A}
+Set sail for Thames!"
+
+#### 219 ####
+Aye, aye, sir!
+
+#### 220 ####
+First mate!{wait:0A}
+The radar sir...!
+
+#### 221 ####
+Sigurd
+"What is it!?"
+
+#### 222 ####
+The radar just detected
+an enormous object!{wait:0A}
+It appeared straight
+above the fleet!
+
+#### 223 ####
+Bart
+"Don't tell me Stone's
+there already!?"
+
+#### 224 ####
+Bart
+"Don't tell me Stone's
+there already!?"
+
+#### 225 ####
+No, it is much
+bigger than that!{wait:0A}
+I estimate it's at
+least 2000 sharls!
+
+#### 226 ####
+Billy
+"That's gigantic...{wait:0A}
+What in the heavens
+is happening...?"
+
+#### 227 ####
+ 
+

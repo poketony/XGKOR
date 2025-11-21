@@ -1,0 +1,22 @@
+<TextBlock 1 w:48 h:3>
+Miang
+"… Hai notato? 
+Il suo Gear si sta
+risvegliando.<New>
+Presto, anche lui
+si risveglierà."<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+Miang
+"I suoi amici si stanno
+dirigendo a Zeboim.<New>
+È stata sigillata per
+4000 anni.<Delay 20> Sai meglio
+di me cosa c'è là.<New>
+Probabilmente lui non
+darà nulla a nessuno.
+Ma è qualcosa di cui
+entrambi abbiamo bisogno.<New>
+Sai che voglio dire?"<Close><End of Block>
+<TextBlock 3 w:32 h:2>
+Miang
+"… Così, ti prego…"<Space 1><Close><Close><End of Block>

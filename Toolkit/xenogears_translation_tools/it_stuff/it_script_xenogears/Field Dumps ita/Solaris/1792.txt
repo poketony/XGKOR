@@ -1,0 +1,106 @@
+<TextBlock 1 w:48 h:4>
+Jessie
+"Perché ci hai impiegato
+così tanto! Mica ho
+munizioni illimitate!<New>
+Sbrigati ad ammazzarli!"<Close><End of Block>
+<TextBlock 2 w:34 h:4>
+Jessie
+"…<Delay 35>
+Che diavolo stai
+facendo?"<Close><End of Block>
+<TextBlock 3 w:50 h:3>
+Jessie
+"Intendi l'Imperatore…?
+Sei sicuro, Hyuga…?"<Close><End of Block>
+<TextBlock 4 w:36 h:4>
+Jessie
+"… Sììì!
+Ce l'abbiamo fatta!!<Delay 35>
+… Eh!?"<Close><End of Block>
+<TextBlock 5 w:44 h:4>
+Jessie
+"Kahr, tu sei un
+nostro nemico…<New>
+… ma perché sei
+così ossessionato
+da quel ragazzo!?<Delay 30>
+Una volta non eri così!"<Close><End of Block>
+<TextBlock 6 w:52 h:3>
+Jessie
+"Ehi, noi andiamocene!<New>
+Non so cosa è successo,
+ma ora non ho tempo per
+occuparmi di lui!"<Close><End of Block>
+<TextBlock 7 w:18 h:2>
+Jessie
+"Hyuga!!"<Close><End of Block>
+<TextBlock 8 w:40 h:4>
+Shitan
+"Mi spiace.
+Debbo occuparmi
+di altre faccende."<Close><End of Block>
+<TextBlock 9 w:42 h:2>
+Shitan
+"Sono gli ordini
+di Sua Maestà…"<Close><End of Block>
+<TextBlock 10 w:52 h:3>
+Shitan
+"Sì. Sua Maestà
+comprende la
+situazione.<New>
+… Dice di lasciar
+fare a 'loro'…"<Close><End of Block>
+<TextBlock 11 w:40 h:3>
+Shitan
+"Ecco fatto!!"<Close><End of Block>
+<TextBlock 12 w:26 h:2>
+Shitan
+"… Kahr…?"<Close><End of Block>
+<TextBlock 13 w:42 h:4>
+Shitan
+"Kahr, è solo che ci
+troviamo in delle
+situazioni diverse.<New>
+Non avevo intenzione
+di tradirti. Ho solo
+deciso di unirmi al
+gruppo di Fei."<Close><End of Block>
+<TextBlock 14 w:24 h:2>
+Shitan
+"K… Kahr…"<Space 1><Close><End of Block>
+<TextBlock 15 w:16 h:2>
+Shitan
+"Ma…"<Close><End of Block>
+<TextBlock 16 w:26 h:2>
+Shitan
+"…<Delay 45> Capisco…"<Space 1><Close><End of Block>
+<TextBlock 17 w:32 h:3>
+Ramsus
+"Lui dov'è…?
+Hyuga…"<Close><End of Block>
+<TextBlock 18 w:32 h:4>
+Ramsus
+"Ma allora…
+anche tu<Delay 35>…
+mi stai tradendo."<Close><End of Block>
+<TextBlock 19 w:50 h:3>
+Ramsus
+"Hai detto 'Fei'!?<New>
+Anche tu… sei dalla
+sua parte… Non ti
+perdonerò mai! MAI!"<Close><End of Block>
+<TextBlock 20 w:48 h:4>
+Ramsus
+"Stai zitto!
+Devo ammazzarlo con
+le mie stesse mani…<New>
+E voi che lavorate
+con lui… voi siete
+miei nemici!<New>
+Nemici che mi stanno
+rubando tutto!
+Nemici! Nemici!!"<Close><End of Block>
+<TextBlock 21 w:34 h:2>
+Ramsus
+"Voi, traditori!!"<Close><Close><End of Block>

@@ -1,0 +1,56 @@
+#### 1 ####
+Miang
+"What's wrong?{wait:32}
+You look like you have
+just had a nightmare...{enter}
+It wasn't that same
+dream again, was it?"
+
+#### 2 ####
+Ramsus
+"No...{wait:1E}
+It was nothing."
+
+#### 3 ####
+Miang
+"Kahr..."{clear:32}
+
+#### 4 ####
+Miang
+"Peeping is not
+very becoming,
+you know...!?"
+
+#### 5 ####
+Miang
+"Heh heh... I saw the boy
+that you are after fight
+in the Tournament...{enter}
+I could tell right away.
+He resembles you greatly."
+
+#### 6 ####
+Grahf
+"You used the influence
+of the Ministry to set
+you up with that man...{enter}
+I don't know what you are
+up to, but don't you dare
+think about plotting
+against me.{enter}
+You stay out of this!"
+
+#### 7 ####
+Miang
+"Oh, I see the news has
+already reached you...{enter}
+As usual, you're the
+first to hear about
+everything.{enter}
+But don't worry{wait:05}...{wait:05}
+I won't steal your
+'prized possession'.{enter}
+I'll cooperate{wait:05}...{wait:0A}
+Besides, you and I
+go back a long way{wait:05}..."
+

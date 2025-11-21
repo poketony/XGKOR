@@ -1,0 +1,11 @@
+#### 1 ####
+-50{clear:14}
+
+#### 2 ####
+You have too many
+{str}.
+
+#### 3 ####
+ 
+ Received {str}.
+

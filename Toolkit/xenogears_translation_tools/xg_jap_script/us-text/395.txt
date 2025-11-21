@@ -1,0 +1,31 @@
+#### 1 ####
+Maria's father, Doctor
+Nikolai, was captured by
+Solaris and nothing has
+been heard from him since.{enter}
+In any case, I'm sure he's
+being forced to do research
+on Gears...{enter}
+If they develop 
+{name:13:ゼプツェン} further into
+a new Gear weapon, and start
+mass-producing them...{enter}
+Well, to say the least,
+it would be more than we
+could ever handle...
+
+#### 2 ####
+Balthasar brought Maria to
+Shevat about 5 years ago,{wait:14}
+along with that
+{name:13:ゼプツェン}.{enter}
+Balthasar said he sneaked
+into Solaris by himself
+and tried to save
+Dr. Nicola and Maria.{enter}
+He laughed as he told me
+that he managed to escape
+with Maria, and take that
+{name:13:ゼプツェン} as a
+souvenir.
+

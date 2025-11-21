@@ -1,0 +1,8 @@
+<TextBlock 1 w:50 h:4>
+Bart
+"Ehi!<New>
+Chi avrebbe immaginato
+che qualcuno potesse
+vivere in un posto
+simile!<New>
+Diamo un'occhiata!"<Close><Close><End of Block>

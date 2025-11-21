@@ -1,0 +1,4 @@
+<TextBlock 1 w:56 h:2>
+<Opcode 14 1>    Mostriamo a quelle stupide
+     bestie, gli Agnelli, il
+       nostro vero potere.<Close><Close><End of Block>

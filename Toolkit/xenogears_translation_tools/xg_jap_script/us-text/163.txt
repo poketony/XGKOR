@@ -1,0 +1,96 @@
+#### 1 ####
+Fei
+"Don't be stupid!
+I'm staying too!"
+
+#### 2 ####
+Fei
+"But..."
+
+#### 3 ####
+Fei
+"...Uahh...
+St...stop it..."
+
+#### 4 ####
+Fei
+"...St...op...
+...Uahh..."
+
+#### 5 ####
+Fei
+"Ah..."
+
+#### 6 ####
+Vanderkaum
+"You there...
+What're you doing ignoring
+me and messing around...?"
+
+#### 7 ####
+Vanderkaum
+"I'll kill all of you!"{clear:23}
+
+#### 8 ####
+Vanderkaum
+"You there...
+What're you doing ignoring
+me and messing around...?"
+
+#### 9 ####
+Maitreya
+"...What was that?
+That guy just now?"
+
+#### 10 ####
+Maitreya
+"...Fei, gather the wounded
+up and return to the young 
+master. Hurry!{enter}
+My unit will stay behind
+and try to buy some time.{enter}
+All operational Gears left
+will provide cover as per
+their commanders' orders,
+and retreat in set order."
+
+#### 11 ####
+Maitreya
+"Shut up and listen, boy!{enter}
+You're the young master's
+guest. I can't let you
+die here."
+
+#### 12 ####
+Maitreya
+"...The young master...{wait:18}
+What he really needs
+is your strength.{enter}
+Please help him.{wait:10} 
+I beg you."
+
+#### 13 ####
+Maitreya
+"Farrant! Vind!
+Let's move out!!"
+
+#### 14 ####
+...Huh? Wha!?{wait:20} 
+Huh?... Oh-no!!"
+
+#### 15 ####
+General!
+General Maitreya!!{enter}
+We have an R code message!
+I'm not sure, but it looks
+like the young master is
+in trouble!!{enter}
+We don't have time 
+for this junker!!"
+
+#### 16 ####
+Fei
+"...It's them...{wait:18}
+Why them...? 
+What did they do?"
+

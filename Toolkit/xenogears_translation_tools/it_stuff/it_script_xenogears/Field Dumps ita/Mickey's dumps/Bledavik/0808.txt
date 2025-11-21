@@ -1,0 +1,25 @@
+<TextBlock 1 w:18 h:1>
+Mappa del Mondo<Close><End of Block>
+<TextBlock 2 w:28 h:1>
+Bledavik Sud<Close><End of Block>
+<TextBlock 3 w:34 h:1>
+Sotto Legge Marziale<Close><End of Block>
+<TextBlock 4 w:28 h:1>
+Bledavik Nord<Close><End of Block>
+<TextBlock 5 w:40 h:1>
+Piazza Shakhan
+     Sud<Close><End of Block>
+<TextBlock 6 w:34 h:2>
+Piazza Bartolomeo
+       Sud<Close><End of Block>
+<TextBlock 7 w:40 h:1>
+Piazza Shakhan
+     Nord<Close><End of Block>
+<TextBlock 8 w:34 h:2>
+Piazza Bartolomeo
+      Nord<Close><End of Block>
+<TextBlock 9 w:26 h:1>
+Castello di Fatima<Close><End of Block>
+<TextBlock 10 w:42 h:1>
+Il portone del Castello
+       è chiuso<Close><Close><End of Block>

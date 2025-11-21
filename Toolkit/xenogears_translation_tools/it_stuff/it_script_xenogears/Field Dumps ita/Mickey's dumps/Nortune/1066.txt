@@ -1,0 +1,160 @@
+<TextBlock 1 w:48 h:4>
+Shitan
+"Hammer dovrebbe essere
+capace di ottenere quel
+tipo di informazioni."<Close><End of Block>
+<TextBlock 2 w:48 h:3>
+Shitan
+"Andiamo a controllare
+al Gattopardo."<Close><End of Block>
+<TextBlock 3 w:36 h:2>
+Rico
+"Non c'è nessuno
+in giro."<Close><End of Block>
+<TextBlock 4 w:56 h:3>
+Rico
+"Avevo ragione.<New>
+Ci sono meno guardie per
+non fare insospettire
+Fei."<Close><End of Block>
+<TextBlock 5 w:50 h:3>
+Rico
+"Mmh… Non credo che
+sia il caso di bussare
+alla porta…"<Close><End of Block>
+<TextBlock 6 w:48 h:4>
+Rico
+"Forse posso entrare
+attraverso quel condotto
+d'aria lassù."<Close><End of Block>
+<TextBlock 7 w:50 h:4>
+Soldato
+"L'attacco su Aveh
+ha scombussolato
+l'equilibio militare.<New>
+Solo il personale militare
+può entrare nel Distretto
+Centrale.<Delay 15> Mi spiace,<Delay 5>
+ma devi andartene."<Close><End of Block>
+<TextBlock 8 w:56 h:4>
+Guardia Imperiale
+"Con l'attacco su Aveh,
+l'intera area è sotto
+legge marziale.<New>
+Solo il personale militare
+può entrare nel Distretto
+Centrale.<Delay 15> Mi spiace,<Delay 5>
+ma devi allontanarti."<Close><End of Block>
+<TextBlock 9 w:36 h:2>
+Soldato
+"Torna ancora."<Close><End of Block>
+<TextBlock 10 w:54 h:2>
+Soldato
+"Fei, te ne stai andando?"<Close><End of Block>
+<TextBlock 11 w:40 h:2>
+Soldato
+"Torna quando vuoi."<Close><End of Block>
+<TextBlock 12 w:48 h:4>
+Soldato
+"Il Kaiser sa essere un
+uomo indulgente, ma per
+farvore, cerca di evitare
+ogni scortesia."<Close><End of Block>
+<TextBlock 13 w:48 h:4>
+Soldato
+"Questo è il Distretto
+Centrale di Kislev.
+Solo il perso…<New>
+Eh? Ma vedi tu se non
+è il Campione, Fei!"<Close><End of Block>
+<TextBlock 14 w:46 h:3>
+Soldato
+"Scusami per prima. 
+Prego, entra."<Close><End of Block>
+<TextBlock 15 w:52 h:4>
+Soldato
+"Solo chi è autorizzato
+deve entrare nel Distretto
+Centrale. Va' via."<Close><End of Block>
+<TextBlock 16 w:48 h:4>
+Soldato
+"Questo è il Distretto
+Centrale di Kislev.
+Solo il perso…<New>
+Eh? Ma vedi tu se non
+è il Campione, Fei!"<Close><End of Block>
+<TextBlock 17 w:46 h:2>
+Soldato
+"Il Kaiser sta aspettando."<Close><End of Block>
+<TextBlock 18 w:48 h:2>
+Soldato
+"Prego, da questa parte."<Close><End of Block>
+<TextBlock 19 w:50 h:4>
+Soldato
+"L'attacco su Aveh
+ha scombussolato
+l'equilibio militare.<New>
+Solo il personale militare
+può entrare nel Distretto
+Centrale.<Delay 15> Mi spiace,<Delay 5>
+ma devi andartene."<Close><End of Block>
+<TextBlock 20 w:56 h:4>
+Guardia Imperiale
+"Con l'attacco su Aveh,
+l'intera area è sotto
+legge marziale.<New>
+Solo il personale militare
+può entrare nel Distretto
+Centrale.<Delay 15> Mi spiace,<Delay 5>
+ma devi allontanarti."<Close><End of Block>
+<TextBlock 21 w:54 h:3>
+Soldato
+"Torna a trovarci
+quando vuoi.
+Ti aspettiamo."<Close><End of Block>
+<TextBlock 22 w:48 h:2>
+Soldato
+"Oh! Fei, torni a casa?"<Close><End of Block>
+<TextBlock 23 w:46 h:3>
+Soldato
+"Fermati pure tutte
+le volte che vuoi."<Close><End of Block>
+<TextBlock 24 w:54 h:4>
+Soldato
+"Il Kaiser sa essere
+indulgente, ma sta'
+attento a ciò che dici."<Close><End of Block>
+<TextBlock 25 w:54 h:4>
+Soldato
+"No, no ! Solo chi è
+autorizzato… Oh, ma
+è Fei, il Campione!"<Close><End of Block>
+<TextBlock 26 w:28 h:3>
+Soldato
+"Scusami. Tu
+puoi passare."<Close><End of Block>
+<TextBlock 27 w:50 h:4>
+Soldato
+"No, no! Solo chi
+è autorizzato può
+passare."<Close><End of Block>
+<TextBlock 28 w:54 h:4>
+Soldato
+"È… tornato ancora…<New>
+Il proprietario è morto
+da poco. Lui ancora non
+non lo sa e aspetta il
+suo ritorno…"<Close><End of Block>
+<TextBlock 29 w:46 h:1>
+"… sniff… sniff…"<Space 2><Close><End of Block>
+<TextBlock 30 w:42 h:1>
+"… sniff… sniff."<Space 1><Opcode 2 30><Close><End of Block>
+<TextBlock 31 w:32 h:2>
+Inizio
+decontaminazione.<Opcode 2 30><Close><End of Block>
+<TextBlock 32 w:36 h:2>
+Prego, aspettare nella
+zona centrale.<Opcode 2 30><Close><End of Block>
+<TextBlock 33 w:30 h:3>
+Decontaminazione
+completata.<Opcode 2 30><Close><End of Block>

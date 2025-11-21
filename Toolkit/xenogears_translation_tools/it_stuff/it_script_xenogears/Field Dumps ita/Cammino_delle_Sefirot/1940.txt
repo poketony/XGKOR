@@ -1,0 +1,5 @@
+<TextBlock 1 w:16 h:1>
+Elhaym!!<Opcode 2 45><Close><End of Block>
+<TextBlock 2 w:16 h:2>
+Abele<Delay 10>…!<Delay 30>
+Vivi<Delay 10>…!<Delay 200><Close><End of Block>

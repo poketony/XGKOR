@@ -1,0 +1,200 @@
+<TextBlock 1 w:14 h:3>
+Fei
+"Elly!?
+Tu<Delay 10>…"<Close><End of Block>
+<TextBlock 2 w:22 h:2>
+Rico
+"NOOOOOO!!"<Delay 100><Delay 100><Close><End of Block>
+<TextBlock 3 w:42 h:2>
+Fei
+"Mi stai intralciando!!"<Close><End of Block>
+<TextBlock 4 w:16 h:2>
+Fei
+"MUOVITI!!"<Close><End of Block>
+<TextBlock 5 w:48 h:4>
+Fei
+"Dobbiamo cambiare la
+direzione della nave o<Delay 10>…<Delay 10>
+<Delay 10>…<Delay 10>!! <New>
+<Delay 10>…<Delay 10> Cosa<Delay 20>… ancora tu!?"<Close><End of Block>
+<TextBlock 6 w:26 h:3>
+Fei
+"È<Delay 15>…<Delay 15>
+assurdo!"<Close><End of Block>
+<TextBlock 7 w:26 h:3>
+Fei
+"Arrgh<Delay 15>…<Delay 15>
+C'ero quasi!"<Close><End of Block>
+<TextBlock 8 w:28 h:3>
+Fei
+"Ci sono due<Delay 10>…<Delay 10>
+nemici…"<Close><End of Block>
+<TextBlock 9 w:48 h:4>
+Rico
+"Un gioco da ragazzi.<Delay 15>
+Perdere tempo con un
+paio di tizi simili…"<Close><End of Block>
+<TextBlock 10 w:14 h:2>
+Fei
+"Rico?"<Close><End of Block>
+<TextBlock 11 w:50 h:4>
+Rico
+"Non mi serve mica
+una ragione per…<New>
+… rompere il culo a
+chiunque mi rompe
+i coglioni.<New>
+E naturalmente questo
+vale anche per te."<Close><End of Block>
+<TextBlock 12 w:26 h:3>
+Fei
+"Anche questo è<Delay 20>
+un buon motivo!"<Close><End of Block>
+<TextBlock 13 w:20 h:3>
+Rico
+"Sta' zitto,
+andiamo."<Close><End of Block>
+<TextBlock 14 w:44 h:4>
+Fei
+"Ok, ora cambiamo la
+direzione dell'ultima
+nave<Delay 10>…<Delay 10>…<Delay 10>"<Close><End of Block>
+<TextBlock 15 w:14 h:2>
+Fei
+"Elly!"<Close><End of Block>
+<TextBlock 16 w:28 h:4>
+Fei
+"…<Delay 20>…<Delay 30> Rico,
+scusa, ma devi
+proseguire da solo."<Close><End of Block>
+<TextBlock 17 w:46 h:4>
+Rico
+"Cosa!?
+Sei arrivato fin qui 
+e ora hai paura?"<Close><End of Block>
+<TextBlock 18 w:52 h:3>
+Fei
+"Arriverò in tempo,
+te lo prometto<Delay 10>…
+<Delay 20>Ti prego, vai."<Close><End of Block>
+<TextBlock 19 w:44 h:4>
+Rico
+"…<Delay 10> Ok, ce la farò
+anche senza di te."<Close><End of Block>
+<TextBlock 20 w:46 h:3>
+Rico
+"Allora… credo che
+andrò avanti."<Close><End of Block>
+<TextBlock 21 w:10 h:2>
+Fei
+"…"<Close><End of Block>
+<TextBlock 22 w:44 h:4>
+Fei
+"Non c'è tempo! 
+Rico, sbrigati!"<Close><End of Block>
+<TextBlock 23 w:30 h:2>
+Fei
+"Uooooaaaaaa!"<Close><End of Block>
+<TextBlock 24 w:46 h:3>
+Fei
+"Dannazione!!
+C'è troppa massa!"<Close><End of Block>
+<TextBlock 25 w:46 h:3>
+Elly
+"Coraggio!<New>
+Con tre Gear possiamo
+evitare un colpo
+diretto al reattore."<Close><End of Block>
+<TextBlock 26 w:22 h:2>
+Fei
+"Ah, ahhh."<Close><End of Block>
+<TextBlock 27 w:52 h:4>
+Rico
+"Ok, l'abbiamo
+allontanata dalla
+stazione energetica.<New>
+Filiamocela! Fei!"<Close><End of Block>
+<TextBlock 28 w:50 h:4>
+Fei
+"Ma… ora si dirige
+sul distretto
+residenziale!"<Close><End of Block>
+<TextBlock 29 w:48 h:3>
+Elly
+"Ha ragione!<New>
+Dobbiamo dirigerla
+là dove non causerà
+troppi danni."<Close><End of Block>
+<TextBlock 30 w:52 h:4>
+Rico
+"Impossibile!<New>
+Non possiamo cambiare
+la sua rotta più di
+così!"<Close><End of Block>
+<TextBlock 31 w:36 h:4>
+Fei
+"No! Dobbiamo
+resistere il più
+a lungo possibile!"<Close><End of Block>
+<TextBlock 32 w:42 h:2>
+Rico
+"Cosa sei, sordo?"<Close><End of Block>
+<TextBlock 33 w:38 h:3>
+Rico
+"Che!? Ci stiamo
+surriscaldando!"<Close><End of Block>
+<TextBlock 34 w:18 h:3>
+Fei
+"Cazzo!
+Non ora!"<Close><End of Block>
+<TextBlock 35 w:52 h:4>
+Rico
+"Non possiamo più fare
+nulla! Restare ancora qui
+sarebbe un suicidio!"<Close><End of Block>
+<TextBlock 36 w:16 h:2>
+Fei
+"Ma…"<Close><End of Block>
+<TextBlock 37 w:46 h:3>
+Rico
+"Ci siamo, io me
+la filo! Andiamo!"<Close><End of Block>
+<TextBlock 38 w:14 h:2>
+Fei
+"Elly!"<Close><End of Block>
+<TextBlock 39 w:38 h:4>
+Fei
+"Ferma! 
+Cosa stai facendo? 
+Se lo fai…"<Close><End of Block>
+<TextBlock 40 w:50 h:4>
+Elly
+"Non preoccuparti. Il
+mio Gear è di Solaris. 
+È ancora… a posto."<Close><End of Block>
+<TextBlock 41 w:38 h:4>
+Fei
+"Elly! Cosa stai
+facendo? Se continui
+sarai…!"<Close><End of Block>
+<TextBlock 42 w:46 h:3>
+Elly
+"Ma…<Delay 10>…<Delay 10> che altro
+possiamo fare?<New>
+Almeno questo ridurrà
+i danni…<Delay 10>
+…<Delay 10> Mi dispiace.<New>
+È comunque meglio che
+non fare nulla."<Close><End of Block>
+<TextBlock 43 w:30 h:2>
+Fei
+"Ellllllllly!!"<Close><End of Block>
+<TextBlock 44 w:48 h:4>
+Elly
+"…<Delay 60>
+Resisti un altro po'!
+Ti prego!"<Close><End of Block>
+<TextBlock 45 w:34 h:3>
+Elly
+"<Delay 10>…<Delay 10>!<Delay 30> Questa<Delay 10>…<Delay 10>
+è<Delay 10>…?"<Close><Close><End of Block>

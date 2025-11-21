@@ -1,0 +1,12 @@
+#### 1 ####
+Falkon
+"Just past this line of
+ships is the flagship
+Kefeinzel!"
+
+#### 2 ####
+Falkon
+"Alright! Dodge the escort!
+The ship in front of
+you is the Kefeinzel!"
+

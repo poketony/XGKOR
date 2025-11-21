@@ -1,0 +1,104 @@
+#### 1 ####
+Fei
+"...Stop! Stop!!"
+
+#### 2 ####
+Fei
+"Wa-a-a-a-a-a-a-a-a-a-a!!"
+
+#### 3 ####
+Executioner
+"Yes, it's clear.{enter}
+It's nothing like the
+half-assed stuff we've
+dealt with before."
+
+#### 4 ####
+Miang
+"I don't think he'll
+get off the stage
+easily this time. {enter}
+Fei's mental energy
+seems to have been
+weakened and...{enter}
+it's similar to 
+'the old days'
+now..."
+
+#### 5 ####
+Miang
+"Ha, ha..."
+
+#### 6 ####
+Miang
+"His feelings haven't
+changed over the years.{enter}
+Maybe you have mixed
+feelings?"
+
+#### 7 ####
+Miang
+"You want him to bring
+her back? Too late.
+Kahr has left already."
+
+#### 8 ####
+Miang
+"What?"
+
+#### 9 ####
+Miang
+"Isn't that what you want?
+Though I induced you to
+feel that way...{enter}
+But, we're almost there.
+Our only actual example
+of success. Let's take
+good care of him."
+
+#### 10 ####
+Miang
+"I agree. We should do
+Kahr a favor and save
+him... shouldn't we?"
+
+#### 11 ####
+Krelian
+"There he was..."
+
+#### 12 ####
+Krelian
+"What's so amusing?"
+
+#### 13 ####
+Krelian
+"Hmph, {wait:20}dont' be stupid.{enter}
+By the way...
+what about Ramsus?"
+
+#### 14 ####
+Krelian
+"I really want to say
+it's a waste of time...
+but, I guess it's alright.{enter}
+He probably made it easier
+to control it...{enter}
+Nevertheless..."
+
+#### 15 ####
+Krelian
+"How can you continue
+to fight without a chance
+of winning..."
+
+#### 16 ####
+Krelian
+"What her true intentions
+are...I don't even know."
+
+#### 17 ####
+Krelian
+"We're going.
+This place will
+soon be gone."
+

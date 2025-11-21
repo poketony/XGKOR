@@ -1,0 +1,114 @@
+#### 1 ####
+Fei
+"What is this place?"
+
+#### 2 ####
+Fei
+"Why are there holograms
+of us in a Solaris place?"
+
+#### 3 ####
+Elly
+"H, holograms of us...!?"
+
+#### 4 ####
+{fast:FF}¡õ Fei
+ Lambs Number 001589750
+ Fei Fong Wong
+ Ether Response...Infinite
+ Anima Alignment...Infinite
+ Comments
+ Contact.
+ Immediate disposal desired.
+
+#### 5 ####
+{fast:FF}¡õ Elly
+ Minister Number 6920188-2
+ Elhaym Van Houten
+ Ether Response...Infinite
+ Anima Alignment...Infinite
+ Comments
+ Possible Antitype.
+ Approval for retrieval and
+ necessary analysis granted.
+
+#### 6 ####
+{fast:FF}¡õ Citan
+ Lambs Number 584921547
+ Hyuga Ricdeau
+ Ether Response...240
+ Anims Alignment...98
+ Comments
+ None.
+
+#### 7 ####
+{fast:FF}¡õ Bart
+ Lambs Number 221589542
+ Bartholomew Fatima
+ Ether Response...210
+ Anima Alignment...90
+ Comments
+ Upon 'Dan' Anima's
+ retrieval, schedule for
+ Animus adjustment.
+
+#### 8 ####
+{fast:FF}¡õ Billy
+ Minister Number 321658-11
+ Billy Black
+ Ether Response...290
+ Anima Alignment...92
+ Comments
+ Schedule for Animus
+ adjustment.
+
+#### 9 ####
+{fast:FF}¡õ Rico
+ Test Mixture Number 000-215914
+ Ricardo Banderas
+ Ether Response...160
+ Anima Alignment...85
+ Comments
+ Created by the 'Ethos' as
+ an a experimental mixture.
+ Used by the Kislev Battling
+ Assoc. to measure battle
+ potential. The data has
+ been transferred. Schedule
+ for Animus adjustment.
+
+#### 10 ####
+{fast:FF}¡õ Emeralda
+ Codename Emeralda
+ Ether Response...N/A
+ Anima Alignment...None
+ Comments Nanomachine Colony.
+ Data analysis complete.
+ Annul and dispose.
+
+#### 11 ####
+{fast:FF}¡õ {name:07:¥Á¥å¥Á¥å}
+ Primitive Animal
+ Ether Response...N/A
+ Anima Alignment...N/A
+ Comments
+ Unusable.
+ Annul and dispose.
+
+#### 12 ####
+{fast:FF}¡õ Maria
+ Lambs Number 54109854
+ Maria Balthasar
+ Ether Response...170
+ Anima Alignment...74
+ Comments
+ Unusable.
+
+#### 13 ####
+You have too many
+{str}.
+
+#### 14 ####
+ 
+ Received {str}.
+

@@ -1,0 +1,76 @@
+<TextBlock 1 w:42 h:2>
+Fei
+"(La parte si adatta
+perfettamente.)"<Close><End of Block>
+<TextBlock 2 w:54 h:2>
+Fei
+"(Ho rimpiazzato
+la parte guasta.)"<Close><End of Block>
+<TextBlock 3 w:42 h:4>
+Fei
+"(Sembra proprio che sia
+esploso un fusibile.)"<Close><End of Block>
+<TextBlock 4 w:44 h:2>
+Fei
+"(Niente di utile.)"<Close><End of Block>
+<TextBlock 5 w:40 h:3>
+Fei
+"(Ho trovato
+un fusibile.)"<Close><End of Block>
+<TextBlock 6 w:42 h:3>
+Fei
+"(C'è qualcosa
+qua dentro.)"<Close><End of Block>
+<TextBlock 7 w:44 h:2>
+Fei
+"(L'energia è
+interrotta.)"<Close><End of Block>
+<TextBlock 8 w:40 h:4>
+Fei
+"(Mi sa che dobbiamo
+sostituire la parte
+danneggiata.)"<Close><End of Block>
+<TextBlock 9 w:42 h:4>
+Fei
+"Chissà se c'è qualche
+pezzo di ricambio in
+quella stanza là dietro…"<Close><End of Block>
+<TextBlock 10 w:44 h:3>
+Fei
+"Eh?<Delay 30>
+Che c'è là…?"<Close><End of Block>
+<TextBlock 11 w:36 h:4>
+Fei
+"Mmh… La porta
+deve essere
+sbloccata…"<Close><End of Block>
+<TextBlock 12 w:32 h:4>
+Fei
+"Credo che dovrò
+dare un'occhiata
+qua in giro."<Close><End of Block>
+<TextBlock 13 w:32 h:2>
+Sistema Blocco Porta
+Area A<Close><End of Block>
+<TextBlock 14 w:32 h:2>
+Sistema Blocco Porta
+Area A<Close><End of Block>
+<TextBlock 15 w:32 h:2>
+Sistema Blocco Porta
+Area A<Close><End of Block>
+<TextBlock 16 w:38 h:1>
+L'Area A è sbloccata.<Close><End of Block>
+<TextBlock 17 w:38 h:2>
+Il Sistema Blocco
+Porta è ora operativo.<Close><End of Block>
+<TextBlock 18 w:32 h:2>
+Blocco Porta Area A
+disattivato.<Close><End of Block>
+<TextBlock 19 w:10 h:1>
+Fatto!<Close><End of Block>
+<TextBlock 20 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 21 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><Close><End of Block>

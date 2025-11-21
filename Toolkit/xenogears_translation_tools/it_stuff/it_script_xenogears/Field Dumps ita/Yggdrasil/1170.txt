@@ -1,0 +1,387 @@
+<TextBlock 1 w:38 h:4>
+Ricevuto un telegramma
+da Shevat!<New>
+A causa dell'indebolimento
+del portale, una città che
+potrebbe essere Solaris è
+stata scoperta!!<Close><End of Block>
+<TextBlock 2 w:36 h:3>
+Fei
+"…<Delay 10>
+…<Delay 10> Bene…<Delay 10><Space 1>
+vediamo…"<Close><End of Block>
+<TextBlock 3 w:40 h:3>
+Fei
+"Che diavolo sta
+dicendo?"<Close><End of Block>
+<TextBlock 4 w:18 h:2>
+Fei
+"Eh…?"<Close><End of Block>
+<TextBlock 5 w:30 h:4>
+Fei
+"Ehi… ehi, tu.
+Mi chiamo Fei.
+Non Kim."<Close><End of Block>
+<TextBlock 6 w:38 h:2>
+Fei
+"… Kim va bene…"<Space 1><Close><End of Block>
+<TextBlock 7 w:30 h:2>
+Fei
+"… Padre?…"<Close><End of Block>
+<TextBlock 8 w:34 h:2>
+Fei
+"Eh?… Ah, sì."<Close><End of Block>
+<TextBlock 9 w:16 h:2>
+Fei
+"Ehi…"<Close><End of Block>
+<TextBlock 10 w:40 h:4>
+Fei
+"Uhmm… Oh…
+… A proposito,
+hai un nome?"<Close><End of Block>
+<TextBlock 11 w:46 h:3>
+Fei
+"Ok, ok.
+Esmeralda, giusto?<New>
+Ve bene, Esmeralda.
+Questa volta resterò
+con te. Lo prometto!"<Close><End of Block>
+<TextBlock 12 w:10 h:2>
+Elly
+"<Delay 10>…<Delay 10>"<Close><End of Block>
+<TextBlock 13 w:36 h:3>
+Elly
+"Fei ti ricorda
+qualcuno che conosci?"<Close><End of Block>
+<TextBlock 14 w:48 h:3>
+Elly
+"Kim? La persona che
+assomiglia a Fei, vero?<New>
+Chi è? È colui che
+ti creò?"<Close><End of Block>
+<TextBlock 15 w:44 h:4>
+Elly
+"Sembra che tu gli
+somigli.<New>
+Somigli a qualcuno
+di importante per lei<Delay 25>…<Delay 20>
+Probabilmente la
+persona che la creò…"<Close><End of Block>
+<TextBlock 16 w:18 h:2>
+Elly
+"Sul serio."<Close><End of Block>
+<TextBlock 17 w:38 h:3>
+Elly
+"Vecchia…!<New>
+Forse dovrei farla
+risprofondare nel
+fondo dell'oceano…"<Close><End of Block>
+<TextBlock 18 w:42 h:3>
+Elly
+"Perché non diventi
+il suo Kim?
+Il Fei… Kim!!"<Close><End of Block>
+<TextBlock 19 w:10 h:2>
+Elly
+"<Delay 10>…<Delay 10>"<Close><End of Block>
+<TextBlock 20 w:44 h:4>
+Elly
+"Fei…?<Delay 24>
+Vuoi dire che somiglia
+a qualcuno che conosci?"<Close><End of Block>
+<TextBlock 21 w:48 h:3>
+Elly
+"Kim? La persona che
+assomiglia a Fei, vero?<New>
+Chi è? È colui che
+ti creò?"<Close><End of Block>
+<TextBlock 22 w:42 h:4>
+Elly
+"Sembra che tu
+gli somigli.<New>
+Somigli a qualcuno di
+importante per lei<Delay 25>…<Delay 20>
+Probabilmente la
+persona che la creò…"<Close><End of Block>
+<TextBlock 23 w:18 h:2>
+Elly
+"Sul serio."<Close><End of Block>
+<TextBlock 24 w:38 h:3>
+Elly
+"Vecchia…!<New>
+Forse dovrei farla
+risprofondare nel
+fondo dell'oceano…"<Close><End of Block>
+<TextBlock 25 w:42 h:3>
+Elly
+"Perché non diventi
+il suo Kim?
+Il Fei… Kim!!"<Close><End of Block>
+<TextBlock 26 w:48 h:3>
+Kim! Kim! Kim! Kim! Kim!
+Kim! Kim! Kim! Kim! Kim!
+Kim! Kim! Kim! Kim! Kim!<Close><End of Block>
+<TextBlock 27 w:46 h:2>
+Cosa vuoi dire con
+'somiglia'? Kim è Kim?<Close><End of Block>
+<TextBlock 28 w:38 h:4>
+Cosa vuoi dire con
+'mi creò'?
+Kim è Kim!
+Non vedi?<Close><End of Block>
+<TextBlock 29 w:50 h:4>
+Kim! Kim! Kim! Kim! Kim!
+Kim! Sei davvero qui!
+Pensavo di star sognando.
+La persona nel mio sogno.<New>
+Sì, Kim! Stavo sognando!
+Un sogno lunghissimo.<Close><End of Block>
+<TextBlock 30 w:44 h:3>
+Ora lo so, Fei è Kim!<New>
+Ascoltami, ascoltami,
+stavo sognando! Un
+sogno lunghissimo!<Close><End of Block>
+<TextBlock 31 w:50 h:3>
+Ascoltami, ascoltami,
+Kim! Stavo sognando
+dei tempi molto
+antichi.<New>
+Kim era molto più
+anziano, ed io ero
+in una specie di
+tubo trasparente…<New>
+Kim stava… mettendo
+molte candele su un
+dolce bianco e soffice…<New>
+Non sapevo perché
+lo stesse facendo…<New>
+Ma intuii che stesse
+aspettando con grande
+impazienza che io
+uscissi fuori dal tubo…<Close><End of Block>
+<TextBlock 32 w:46 h:4>
+<Delay 24>…<Delay 24>
+Ma… in fretta… tutti…
+erano spariti…
+Il mio corpo scomparve…<New>
+Poi fui in un qualche
+posto oscuro per un
+lungo… lungo tempo…<Close><End of Block>
+<TextBlock 33 w:44 h:2>
+Ti prego! Promettimi
+che rimarrai,
+Fei è Kim!?<Close><End of Block>
+<TextBlock 34 w:26 h:1>
+Sul serio?<New>
+Sul serio serio?<Close><End of Block>
+<TextBlock 35 w:42 h:2>
+Non rompere!
+Chi è questa vecchia?<New>
+Stavo parlando con Kim!<Close><End of Block>
+<TextBlock 36 w:44 h:4>
+Oh no! Sei crudele,
+Fei è Kim!<New>
+Sono io, Esmeralda,
+Esmeralda!<New>
+Kim mi chiamò così
+perché ho capelli
+color smeraldo!<New>
+Non ricordi…?<Close><End of Block>
+<TextBlock 37 w:44 h:3>
+Esmeralda
+"Sul serio?<Delay 24>
+Sul serio serio?<Delay 32>
+Sì!"<Close><End of Block>
+<TextBlock 38 w:50 h:3>
+Shitan
+"Per lei, 'Kim' vuol
+dire molto più di
+un semplice nome.<New>
+… Più che altro…
+'padre'."<Close><End of Block>
+<TextBlock 39 w:44 h:3>
+Shitan
+"No, no, intendo che
+ha un significato
+generale."<Close><End of Block>
+<TextBlock 40 w:52 h:4>
+Shitan
+"…<New>
+Dubito che Krelian abbia
+agito da sé per usarla come
+un soldato da scartare
+subito dopo l'utilizzo.<New>
+Dentro di lei esistevano
+alcune informazioni che
+sono passate a Krelian.<New>
+Chissà quale sarà la
+sua prossima mossa…
+Dobbiamo trovare Solaris
+prima che ciò accada…"<Close><End of Block>
+<TextBlock 41 w:34 h:2>
+Shitan
+"Perfetto!!<New>
+Per adesso, torniamo
+a Shevat!"<Close><End of Block>
+<TextBlock 42 w:50 h:3>
+Shitan
+"Per lei, 'Kim' vuol
+dire molto più di
+un semplice nome.<New>
+… Più che altro… 'padre'."<Close><End of Block>
+<TextBlock 43 w:44 h:3>
+Shitan
+"No no, intendo che
+ha un significato
+generale."<Close><End of Block
+<TextBlock 44 w:52 h:4>
+Shitan
+"… Dubito che Krelian abbia
+agito da sé per usarla come
+un soldato da scartare
+subito dopo l'utilizzo.<New>
+Dentro lei esistevano
+alcune informazioni che
+sono passate a Krelian.<New>
+Chissà quale sarà la
+sua prossima mossa.
+Dobbiamo trovare Solaris
+prima che ciò accada…"<Close><End of Block>
+<TextBlock 45 w:48 h:4>
+Shitan
+"Perfetto!!<New>
+Per adesso, torniamo
+a Shevat!"<Close><End of Block>
+<TextBlock 46 w:36 h:3>
+Bart
+"Grazie per averci
+salvato, Vecchio Maison!"<Close><End of Block>
+<TextBlock 47 w:40 h:4>
+Bart
+"Mi spiace che tu
+abbia dovuto essere
+coinvolto…<New>
+Lo apprezzo molto.<New>
+… Ma non capisco
+proprio come tu abbia
+potuto far funzionare
+una cosa come quella."<Close><End of Block>
+<TextBlock 48 w:46 h:3>
+Maison
+"Padroncino,
+torniamo al ponte."<Close><End of Block>
+<TextBlock 49 w:48 h:4>
+Maison
+"La prego di sollevare
+il capo.<New>
+Proteggere il Padroncino
+è il mio dovere.<New>
+Mi spiace di avere
+impiegato così tanto
+tempo per aiutarvi."<Close><End of Block>
+<TextBlock 50 w:44 h:4>
+Maison
+"È un trucco che
+imparai tanto tempo
+fa… Nulla di speciale.<New>
+Non ne sono esperto.
+In realtà, sono un
+po' imbarazzato per
+l'accaduto."<Close><End of Block>
+<TextBlock 51 w:54 h:2>
+Maison
+"La tazza del Padroncino…"<Opcode 2 55><Close><End of Block>
+<TextBlock 52 w:34 h:4>
+Maison
+"Che stia per accadergli
+qualcosa di brutto…?"<Close><End of Block>
+<TextBlock 53 w:50 h:4>
+Sigurd
+"Padroncino!<New>
+Gli eserciti della
+Capitale Reale stanno
+rientrando!<New>
+Siamo stati noi ad avere
+abboccato all'amo!
+Dobbiamo scappare prima
+di essere catturati!<New>
+Dirigetevi verso il
+ponte non appena avrete
+terminato i preparativi!"<Close><End of Block>
+<TextBlock 54 w:48 h:4>
+Shakhan…
+Più lo vedo, più
+odioso diventa.
+Ha anche perso
+dei capelli.<Close><End of Block>
+<TextBlock 55 w:40 h:3>
+Padroncino!
+Non demoralizzatevi
+per questo!<Close><End of Block>
+<TextBlock 56 w:32 h:3>
+Mi sono preoccupato
+quando Maison è venuto
+dentro quella cosa.<Close><End of Block>
+<TextBlock 57 w:46 h:4>
+A proposito, ho sentito
+che lui fosse il
+cavaliere e guardia del
+corpo del re precedente…<Close><End of Block>
+<TextBlock 58 w:0 h:1>
+<End of Block>
+<TextBlock 59 w:32 h:32>
+<End of Block>
+<TextBlock 60 w:71 h:115>
+<End of Block>
+<TextBlock 61 w:32 h:10>
+<End of Block>
+<TextBlock 62 w:72 h:48>
+<End of Block>
+<TextBlock 63 w:32 h:48>
+<End of Block>
+<TextBlock 64 w:73 h:32>
+<End of Block>
+<TextBlock 65 w:32 h:53>
+<End of Block>
+<TextBlock 66 w:74 h:48>
+<End of Block>
+<TextBlock 67 w:32 h:32>
+<End of Block>
+<TextBlock 68 w:75 h:32>
+<End of Block>
+<TextBlock 69 w:32 h:116>
+<End of Block>
+<TextBlock 70 w:76 h:32>
+<End of Block>
+<TextBlock 71 w:32 h:117>
+<End of Block>
+<TextBlock 72 w:77 h:32>
+<End of Block>
+<TextBlock 73 w:32 h:118>
+<End of Block>
+<TextBlock 74 w:78 h:32>
+<End of Block>
+<TextBlock 75 w:32 h:119>
+<End of Block>
+<TextBlock 76 w:79 h:32>
+<End of Block>
+<TextBlock 77 w:32 h:120>
+<End of Block>
+<TextBlock 78 w:80 h:32>
+<End of Block>
+<TextBlock 79 w:10 h:121>
+<End of Block>
+<TextBlock 80 w:48 h:32>
+<End of Block>
+<TextBlock 81 w:48 h:122>
+<End of Block>
+<TextBlock 82 w:32 h:32>
+<End of Block>
+<TextBlock 83 w:51 h:33>
+<End of Block>
+<TextBlock 84 w:48 h:32>
+<End of Block>
+<TextBlock 85 w:32 h:34>
+<End of Block>
+<TextBlock 86 w:32 h:32>
+<Close><End of Block>

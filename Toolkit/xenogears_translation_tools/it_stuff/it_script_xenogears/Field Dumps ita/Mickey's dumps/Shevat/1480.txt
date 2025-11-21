@@ -1,0 +1,179 @@
+<TextBlock 1 w:38 h:3>
+Fei
+"Va bene.<Delay 20>
+Andiamo lassù."<Close><End of Block>
+<TextBlock 2 w:46 h:4>
+Fei
+"Baldassarre…?<Delay 20>
+Ho già sentito
+questo nome."<Close><End of Block>
+<TextBlock 3 w:28 h:4>
+Fei
+"Ci sono!
+Il Vecchio Bal,
+l'eremita!"<Close><End of Block>
+<TextBlock 4 w:54 h:4>
+Fei
+"Mi viene in mente che
+il Gear che ho visto
+somiglia al Gear di Bal…<New>
+… Calamity."<Close><End of Block>
+<TextBlock 5 w:50 h:4>
+Fei
+"L'ho incontrato per
+caso in una caverna
+sotto il deserto di Aveh.<New>
+Non lo conosco
+così bene…<Delay 20>
+Così tu sei la nipote
+del Vecchio Bal."<Close><End of Block>
+<TextBlock 6 w:34 h:4>
+Fei
+"Niente da fare…<Delay 20>
+E poi non funziona
+neanche questo."<Close><End of Block>
+<TextBlock 7 w:42 h:4>
+Fei
+"No…<Delay 20>
+Non è il momento di
+andare giù."<Close><End of Block>
+<TextBlock 8 w:38 h:3>
+Shitan
+"Hai ragione…<New>
+Siamo giunti fin qui.
+Ora non ci è più
+possibile tornare
+indietro, Fei."<Close><End of Block>
+<TextBlock 9 w:48 h:4>
+Elly
+"Shevat…<Delay 20> il solo
+governo che si
+oppone a Solaris…"<Close><End of Block>
+<TextBlock 10 w:50 h:4>
+Bart
+"Ok, prendiamoci 20-30
+di quei Gear che la
+ragazza stava guidando!"<Close><End of Block>
+<TextBlock 11 w:50 h:4>
+Bart
+"Ehi, Fei. Non è lo
+stesso nome di quel
+vecchio eccentrico?<New>
+Ti ricordi di quel
+vecchio un po' pazzo
+che giocava con i
+Gear sotto Aveh?"<Close><End of Block>
+<TextBlock 12 w:48 h:4>
+Bart
+"Ma, pazzo o no,
+tuo nonno sembrava
+stare bene.<New>
+Sembra il tipo che non
+muore mai.<Delay 20> Non
+preoccuparti, piccolina."<Close><End of Block>
+<TextBlock 13 w:50 h:4>
+Bart
+"Scusami.
+Non arrabbiarti,
+picco…<Delay 20> Maria.<New>
+Non volevo offenderti.
+Accetta le mie scuse.<Delay 20>
+Scusami, dai."<Close><End of Block>
+<TextBlock 14 w:6 h:1>
+…<Opcode 2 30><Close><End of Block>
+<TextBlock 15 w:52 h:4>
+Rico
+"Una terra che vola come
+un disco volante, eh…<New>
+Non avrei mai pensato
+che ci saremmo finiti
+sopra."<Close><End of Block>
+<TextBlock 16 w:44 h:4>
+Billy
+"La terra maledetta,
+Shevat…<Delay 20> La risposta
+dev'essere qui."<Close><End of Block>
+<TextBlock 17 w:46 h:4>
+Ragazza
+"Questo è l'hangar ed
+è situato nella parte
+più bassa di Shevat."<Close><End of Block>
+<TextBlock 18 w:42 h:4>
+Ragazza
+"Ci siamo incontrati
+poco fa.<Delay 20> Mi chiamo
+Maria Baldassarre."<Close><End of Block>
+<TextBlock 19 w:50 h:4>
+Maria
+"Calamity!?<Delay 20>
+È il prototipo di Gear
+che ha fatto mio nonno."<Close><End of Block>
+<TextBlock 20 w:48 h:3>
+Maria
+"Conoscete mio nonno?<Delay 20>
+Dove si trova!?"<Close><End of Block>
+<TextBlock 21 w:50 h:4>
+Maria
+"Sì… ma non lo vedo
+da qualche anno…"<Close><End of Block>
+<TextBlock 22 w:46 h:4>
+Maria
+"Disse che stava
+cercando qualcosa di
+molto importante.<New>
+E se ne andò da solo…<New>
+Mio padre fu catturato
+da Solaris e non si sa
+dove si trovi ora…"<Close><End of Block>
+<TextBlock 23 w:44 h:3>
+Maria
+"Non sono
+'piccolina'!!<New>
+E poi, mio nonno non
+è un vecchio pazzo!!"<Close><End of Block>
+<TextBlock 24 w:46 h:4>
+Maria
+"Ho sentito che hai
+già chiesto scusa. Non
+c'è altro da dire."<Close><End of Block>
+<TextBlock 25 w:50 h:3>
+Maria
+"Comunque…
+La Regina Zefiro
+vi sta aspettando.<New>
+Proseguite e prendete
+l'ascensore per andare
+di sopra.<New>
+Io devo finire di
+ispezionare <Seibzehn>."<Close><End of Block>
+<TextBlock 26 w:46 h:3>
+Maria
+"Sono felice di
+sentire che Nonno
+Bal sta bene."<Close><End of Block>
+<TextBlock 27 w:50 h:4>
+Maria
+"Proseguite e prendete
+l'ascensore per andare
+di sopra.<New>
+Io devo finire di
+ispezionare <Seibzehn>."<Close><End of Block>
+<TextBlock 28 w:44 h:4>
+Maria
+"Vi mostrerò la strada
+per il Palazzo quando
+verrà il momento.<New>
+Fino ad allora,
+visitate liberamente
+la città."<Close><End of Block>
+<TextBlock 29 w:42 h:2>
+Maria
+"Ci vediamo dopo."<Close><End of Block>
+<TextBlock 30 w:46 h:3>
+Vuoi scendere?
+    Sì
+    No<Close><End of Block>
+<TextBlock 31 w:42 h:3>
+Vuoi salire?
+    Sì
+    No<Close><Close><End of Block>

@@ -1,0 +1,197 @@
+#### 1 ####
+"We've got sonar.
+...{wait:0A}...{wait:0A}{enter}
+That's not it. This
+type...It matches with
+the Aveh pirate ship,
+Yggdrasil."
+
+#### 2 ####
+Dominia
+"Yggdrasil?
+Wasn't she sunk in 
+another battle?"
+
+#### 3 ####
+"There's no record of
+its sinking. We were too
+busy fighting that red
+Gear to try to confirm it."
+
+#### 4 ####
+Dominia
+"Then, there is a chance
+that it did not sink...{enter}
+I believe the data shows
+the Yggdrasil was the
+carrier for that Gear."
+
+#### 5 ####
+"One moment{wait:1E}...{wait:1E}...{wait:1E}
+Yes, that is correct."
+
+#### 6 ####
+Dominia
+"Excellent.
+Give me the controls."
+
+#### 7 ####
+"Excellent?
+What are you planning on
+doing?"
+
+#### 8 ####
+Dominia
+"Sink it, of course.
+She will never trouble the
+Commander again."
+
+#### 9 ####
+"Wait. The Commander's
+orders were to investigate
+the disappearance of that
+flying battleship. {enter}
+We can't deviate from 
+our mission.{enter}
+Besides, we are low on
+fuel and need to refuel."
+
+#### 10 ####
+Dominia
+"We have enough.
+I'll take her down."
+
+#### 11 ####
+"...Groan... Once you
+start, there is no
+stopping you is there?{enter}
+I hope you know that
+fighting in water is
+totally different than
+fighting on land."
+
+#### 12 ####
+Dominia
+"Of course. Sorry,
+Kelvena."
+
+#### 13 ####
+Bart
+"Dammit! I can barely
+maneuver and you're movin'
+all over the place..."
+
+#### 14 ####
+Fei
+"Looks like you're having
+a tough fight, Bart."
+
+#### 15 ####
+Bart
+"Fei!?
+You're alive!?"
+
+#### 16 ####
+Fei
+"Hey, that's my line."
+
+#### 17 ####
+Elly
+"What about that Gear?"
+
+#### 18 ####
+Dominia
+"Elhaym!!
+What are you doing
+here?"
+
+#### 19 ####
+Elly
+"Dominia!?
+Why are you here?"
+
+#### 20 ####
+Dominia
+"Why? We Gebler need no
+special reasons to sink
+an enemy ship!{enter}
+It is our divine duty to
+rule those crass land
+dwelling Lambs."
+
+#### 21 ####
+Elly
+"But why?
+How are they different from
+us Shepherds, the -Abel- ?"
+
+#### 22 ####
+Dominia
+"To me -Lambs- and -Abel-
+are the same.{enter}
+The only definite
+differenece is
+personal ability.{enter}
+The ignorant must
+be lead by the wise.
+That is our job.{enter}
+Look what you've gained
+as an Element, Elly.
+Why do you even question?{enter}
+Your superiority
+is obvious!"
+
+#### 23 ####
+Elly
+"...So the wise harming
+the weak is a sign of
+ability?{enter}
+I didn't want that...{wait:1E}
+That's all!!"
+
+#### 24 ####
+Fei
+"Elly,
+are you alright?"
+
+#### 25 ####
+Dominia
+"That Gear, you're the
+one? Hah! So that's how
+it is.{enter}
+How amusing, Elhaym.
+All this for a man?
+I guess that story was
+true after all.{enter}
+You were born of those
+lowly Lambs."
+
+#### 26 ####
+Elly
+"Stop!
+Don't say another word!"
+
+#### 27 ####
+Dominia
+"Hmph, what are you going
+to do about it, mongrel!?{enter}
+Are you going to use the
+power you used in that
+incident on me now?{enter}
+Go ahead. Show me.
+Show me your true power!"
+
+#### 28 ####
+Elly
+"...I will.{enter}
+If you Gebler
+are wise...{wait:14}
+then {wait:1E}I'd rather
+be a fool!!"
+
+#### 29 ####
+Dominia
+"Then so be it. Then you
+shall be dealt with as
+the traitor you are."
+

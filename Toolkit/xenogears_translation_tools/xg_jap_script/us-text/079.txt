@@ -1,0 +1,76 @@
+#### 1 ####
+Continuing our pilgrimage
+from the south, we finally
+arrived a few days ago.
+
+#### 2 ####
+Walking around the desert
+is hard work!
+
+#### 3 ####
+Is the rumor that there
+are pirates in the Royal
+Capital true?
+
+#### 4 ####
+Through a special
+arrangement with the town
+representatives, we're
+getting lodging.
+
+#### 5 ####
+I'm very sorry but
+we're all full.
+As an apology please
+accept this...
+
+#### 6 ####
+ 
+ Special Herb Tea! 
+                            
+
+#### 7 ####
+ Reduced weight a bit 
+
+#### 8 ####
+Come again!
+
+#### 9 ####
+We are providing you
+with a vacant house.
+    Okay, understood!
+    What's that there?
+
+#### 10 ####
+Huh?
+...{wait:1E}That?{enter}
+I'm so glad you like it!
+Please take it.
+
+#### 11 ####
+ 
+ Special Herb Tea! 
+                            
+
+#### 12 ####
+We are providing you
+with a vacant house.
+
+#### 13 ####
+Welcome!{enter}
+Since you're the ones who
+saved our town we'll let
+you stay for free.
+
+#### 14 ####
+Stay here?
+    Yes
+    No
+
+#### 15 ####
+Thank you!
+Come again
+
+#### 16 ####
+Come again
+

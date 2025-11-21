@@ -1,0 +1,46 @@
+<TextBlock 1 w:50 h:5>
+Ho visto la fine della guerra
+con Kislev e la caduta di
+di quel Primo Ministro che
+s'è arricchito sfruttando 
+il nostro paese.<New>
+Sono vecchia, ma molto
+felice che potrò vivere
+i miei ultimi giorni in pace
+con i miei nipoti.<Close><End of Block>
+<TextBlock 2 w:58 h:4>
+La zona intorno a questa città
+ha la più alta concentrazione
+di rovine della parte sud del
+continente di Ignis.<New>
+Aveh e Kislev hanno combattuto
+a lungo per queste rovine.
+Sono vecchia e voglio solo
+vivere in pace.<Close><End of Block>
+<TextBlock 3 w:40 h:4>
+Cielo, di nuovo
+non c'è acqua!<Delay 20>
+La starà di nuovo
+usando l'officina…<Close><End of Block>
+<TextBlock 4 w:50 h:4>
+Beh, da quando è arrivata
+la corporazione l'acquedotto ha
+iniziato a funzionare meglio,
+ma<Delay 10>…<Delay 10> nessuno è perfetto<Delay 10>…<Close><End of Block>
+<TextBlock 5 w:50 h:5>
+Mi hanno sempre detto che
+quando diventerò vecchia,
+anch'io avrò problemi con
+l'acquedotto<Delay 10>…<Delay 10> ma non
+riesco a capire che significa!<Close><End of Block>
+<TextBlock 6 w:52 h:2>
+Ultimamente la Nonna è stata
+di umore 'felice' e 'deliziosa'.<Close><End of Block>
+<TextBlock 7 w:50 h:2>
+Ultimamente la Nonna è
+stata di umore 'arrabbiata'
+e 'brontolona'.<Close><End of Block>
+<TextBlock 8 w:50 h:3>
+E si è anche sentita
+'sciocca' e 'sentimentale'.
+<Delay 10>…<Delay 10> Che vuol dire?<Close><Close><End of Block>

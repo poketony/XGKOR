@@ -1,0 +1,1478 @@
+<TextBlock 1 w:36 h:3>
+Fei
+"<Delay 5>…<Delay 5> Dunque<Delay 15> questa è
+l'Arena di Battagliare."<Close><End of Block>
+<TextBlock 2 w:20 h:2>
+Fei
+"<Delay 5>…<Delay 5> Mmh!?"<Close><End of Block>
+<TextBlock 3 w:56 h:4>
+Custode
+"Qui dietro si trova
+il deposito dei Gear
+dei partecipanti.<New>
+Sono spiacente, ma per
+evitare che i piloti
+barino, non è permesso
+che entrino delle
+persone non autorizzate."<Close><End of Block>
+<TextBlock 4 w:50 h:4>
+Supervisore
+"<Delay 5>…<Delay 5> Qui dietro si trova
+l'hangar dei Gear
+dei partecipanti.<New>
+Sono spiacente, ma per
+evitare che i piloti
+barino, non è permesso
+che entrino delle
+persone non autorizzate.
+Si allontani, per favore<Delay 5>"<Close><End of Block>
+<TextBlock 5 w:56 h:4>
+Supervisore
+"Le Gare di Battagliare sono
+attualmente sospese. Mi
+spiace dirle che deve
+andarsene."<Close><End of Block>
+<TextBlock 6 w:52 h:4>
+Addetta alle Informazioni
+"Nulla imparato, nulla
+guadagnato. Chiedi ed
+avrai<Delay 5>…<Delay 5> forse.<New>
+Comunque, 'Combattente',
+cosa ti serve sapere
+riguardo alle Gare di
+Battagliare?"<Close><End of Block>
+<TextBlock 7 w:46 h:5>
+Addetta alle Informazioni
+"Cosa ti spiego?"<Delay 15>
+<Opcode 1 255>    Cos'è Battagliare?
+    I comandi di base…?
+    Tutto a posto, grazie!<Close><End of Block>
+<TextBlock 8 w:54 h:5>
+Addetta alle Informazioni
+"…<Delay 5> Signor Fei,<Delay 5> non ha
+ancora registrato il
+suo Gear.<Delay 30> Ma posso
+spiegarle i controlli di
+base, se le va<Delay 5>…?<Close><End of Block>
+<TextBlock 9 w:52 h:4>
+Fei
+"Come usare i controlli?"<Delay 5>
+    Per favore, spiegami
+    No, grazie lo stesso<Close><End of Block>
+<TextBlock 10 w:36 h:4>
+Addetta alle Informazioni
+"<Delay 5>…<Delay 5 >Oh<Delay 5>…<Delay 5> beh<Delay 5>…<Delay 15>
+Vuoi sapere qualcos'altro?"<Close><End of Block>
+<TextBlock 11 w:52 h:4>
+Addetta alla Ricezione
+"Gli incontri di Battagliare
+odierni sono tutti terminati.<Delay 15>
+Torni ancora, grazie."<Close><End of Block>
+<TextBlock 12 w:64 h:1>
+Ricevi '2500G' come premio!<Close><End of Block>
+<TextBlock 13 w:50 h:4>
+Addetta alla Ricezione
+"Oh, ed il Supervisore B
+ti darà un premio bonus
+in denaro. Continua così!"<Close><End of Block>
+<TextBlock 14 w:44 h:1>
+Ricevi '800G' bonus!<Close><End of Block>
+<TextBlock 15 w:64 h:1>
+Ricevi '2000G' come premio!<Close><End of Block>
+<TextBlock 16 w:50 h:4>
+Addetta alla Ricezione
+"Oh, ed il Supervisore B
+ti darà un premio bonus
+in denaro. Continua così!"<Close><End of Block>
+<TextBlock 17 w:44 h:1>
+Ricevi '500G' bonus!<Close><End of Block>
+<TextBlock 18 w:64 h:1>
+Ricevi '1500G' come premio!<Close><End of Block>
+<TextBlock 19 w:50 h:4>
+Addetta alla Ricezione
+"Oh, ed il Supervisore B
+ti darà un premio bonus
+in denaro. Continua così!"<Close><End of Block>
+<TextBlock 20 w:44 h:1>
+Ricevi '400G' bonus!<Close><End of Block>
+<TextBlock 21 w:64 h:1>
+Ricevi '2500G' come premio!<Close><End of Block>
+<TextBlock 22 w:50 h:4>
+Addetta alla Ricezione
+"Oh, ed il Supervisore B
+ti darà un premio bonus
+in denaro. Continua così!"<Close><End of Block>
+<TextBlock 23 w:46 h:1>
+Ricevi '1000G' bonus!<Close><End of Block>
+<TextBlock 24 w:64 h:1>
+Ricevi '2000G' come premio!<Close><End of Block>
+<TextBlock 25 w:50 h:4>
+Addetta alla Ricezione
+"Oh, ed il Supervisore B
+ti darà un premio bonus
+in denaro. Continua così!"<Close><End of Block>
+<TextBlock 26 w:44 h:1>
+Ricevi '600G' bonus!<Close><End of Block>
+<TextBlock 27 w:64 h:1>
+Ricevi '1500G' come premio!<Close><End of Block>
+<TextBlock 28 w:50 h:4>
+Addetta alla Ricezione
+"Oh, ed il Supervisore B
+ti darà un premio bonus
+in denaro. Continua così!"<Close><End of Block>
+<TextBlock 29 w:44 h:1>
+Ricevi '500G' bonus!<Close><End of Block>
+<TextBlock 30 w:64 h:1>
+Ricevi '2500G' come premio!<Close><End of Block>
+<TextBlock 31 w:64 h:1>
+Ricevi '2000G' come premio!<Close><End of Block>
+<TextBlock 32 w:64 h:1>
+Ricevi '1500G' come premio!<Close><End of Block>
+<TextBlock 33 w:64 h:1>
+Ricevi '1000G' come premio!<Close><End of Block>
+<TextBlock 34 w:50 h:4>
+Addetta alla Ricezione
+"Oh, ed il Supervisore B
+ti darà un premio bonus
+in denaro. Continua così!"<Close><End of Block>
+<TextBlock 35 w:44 h:1>
+Ricevi '300G' bonus!<Close><End of Block>
+<TextBlock 36 w:62 h:1>
+Ricevi '750G' come premio!<Close><End of Block>
+<TextBlock 37 w:50 h:4>
+Addetta alla Ricezione
+"Oh, ed il Supervisore B
+ti darà un premio bonus
+in denaro. Continua così!"<Close><End of Block>
+<TextBlock 38 w:44 h:1>
+Ricevi '200G' bonus!<Close><End of Block>
+<TextBlock 39 w:64 h:1>
+Ricevi '1000G' come premio!<Close><End of Block>
+<TextBlock 40 w:50 h:4>
+Addetta alla Ricezione
+"Oh, ed il Supervisore B
+ti darà un premio bonus
+in denaro. Continua così!"<Close><End of Block>
+<TextBlock 41 w:44 h:1>
+Ricevi '400G' bonus!<Close><End of Block>
+<TextBlock 42 w:62 h:1>
+Ricevi '750G' come premio!<Close><End of Block>
+<TextBlock 43 w:50 h:4>
+Addetta alla Ricezione
+"Oh, ed il Supervisore B
+ti darà un premio bonus
+in denaro. Continua così!"<Close><End of Block>
+<TextBlock 44 w:44 h:1>
+Ricevi '300G' bonus!<Close><End of Block>
+<TextBlock 45 w:64 h:1>
+Ricevi '1000G' come premio!<Close><End of Block>
+<TextBlock 46 w:62 h:1>
+Ricevi '750G' come premio!<Close><End of Block>
+<TextBlock 47 w:62 h:1>
+Ricevi '500G' come premio!<Close><End of Block>
+<TextBlock 48 w:50 h:4>
+Addetta alla Ricezione
+"Oh, ed il Supervisore B
+ti darà un premio bonus
+in denaro. Continua così!"<Close><End of Block>
+<TextBlock 49 w:44 h:1>
+Ricevi '200G' bonus!<Close><End of Block>
+<TextBlock 50 w:62 h:1>
+Ricevi '300G' come premio!<Close><End of Block>
+<TextBlock 51 w:50 h:4>
+Addetta alla Ricezione
+"Oh, ed il Supervisore B
+ti darà un premio bonus
+in denaro. Continua così!"<Close><End of Block>
+<TextBlock 52 w:44 h:1>
+Ricevi '100G' bonus!<Close><End of Block>
+<TextBlock 53 w:62 h:1>
+Ricevi '500G' come premio!<Close><End of Block>
+<TextBlock 54 w:50 h:4>
+Addetta alla Ricezione
+"Oh, ed il Supervisore B
+ti darà un premio bonus
+in denaro. Continua così!"<Close><End of Block>
+<TextBlock 55 w:44 h:1>
+Ricevi '300G' bonus!<Close><End of Block>
+<TextBlock 56 w:62 h:1>
+Ricevi '300G' come premio!<Close><End of Block>
+<TextBlock 57 w:50 h:4>
+Addetta alla Ricezione
+"Oh, ed il Supervisore B
+ti darà un premio bonus
+in denaro. Continua così!"<Close><End of Block>
+<TextBlock 58 w:44 h:1>
+Ricevi '200G' bonus!<Close><End of Block>
+<TextBlock 59 w:62 h:1>
+Ricevi '500G' come premio!<Close><End of Block>
+<TextBlock 60 w:62 h:1>
+Ricevi '300G' come premio!<Close><End of Block>
+<TextBlock 61 w:32 h:4>
+Rue
+"Sei pronto?"<Delay 15>
+<Opcode 1 255>    Ancora no!
+    Puoi scommetterci!<Close><End of Block>
+<TextBlock 62 w:56 h:3>
+Rue
+"Come ho detto prima, non
+c'è molto tempo,<Delay 5> sbrigati!"<Close><End of Block>
+<TextBlock 63 w:42 h:3>
+Rue
+"Molto bene<Delay 5>…<Delay 15>
+Di qua, prego<Delay 5>…"<Close><End of Block>
+<TextBlock 64 w:38 h:2>
+Rue
+"<Delay 5>…<Delay 5> È di là!"<Close><End of Block>
+<TextBlock 65 w:52 h:3>
+Rue
+"Qui dietro ci sono
+l'Arena e gli hangar
+dei Gear<Delay 5>…<Delay 5><New>
+È rimasto poco tempo, il
+primo scontro sta per
+cominciare. Dovresti
+sbrigarti<Delay 5>…"<Close><End of Block>
+<TextBlock 66 w:54 h:3>
+Dipendente
+"Se hai finito di
+prepararti, parla
+con Rue."<Close><End of Block>
+<TextBlock 67 w:22 h:2>
+Dipendente
+"???"<Opcode 2 45><Close><End of Block>
+<TextBlock 68 w:62 h:2>
+Dipendente
+"Rue, signora, <Delay 5>che cosa facciamo?"<Close><End of Block>
+<TextBlock 69 w:26 h:2>
+Dipendente
+"Sissignora<Delay 5>!"<Opcode 2 45><Close><End of Block>
+<TextBlock 70 w:54 h:4>
+Dipendente
+"Manca poco al primo
+incontro, perciò non
+andartene dell'Arena."<Opcode 2 60><Close><End of Block>
+<TextBlock 71 w:54 h:3>
+Dipendente
+"Se hai finito di
+prepararti, parla
+con Rue."<Close><End of Block>
+<TextBlock 72 w:22 h:2>
+Dipendente
+"???"<Opcode 2 45><Close><End of Block>
+<TextBlock 73 w:62 h:2>
+Dipendente
+"Rue, signora, <Delay 5>che cosa facciamo?"<Close><End of Block>
+<TextBlock 74 w:26 h:2>
+Dipendente
+"Sissignora<Delay 5>!"<Opcode 2 45><Close><End of Block>
+<TextBlock 75 w:54 h:4>
+Dipendente
+"Manca poco al primo
+incontro, perciò non
+andartene dell'Arena."<Opcode 2 60><Close><End of Block>
+<TextBlock 76 w:56 h:4>
+Hammer
+"Sono un meccanico,<Delay 5> perciò
+decisi di prendermi la
+libertà di aprire bottega!<New>
+Però non resterò qui
+per sempre, ah!<New>
+Spicciamoci, <Delay 5>o frate,<Delay 10>
+vuoi accattare qualcosa?"<Delay 15>
+<Opcode 1 255>    Non ora!
+    Ok, accattiamo.<Close><End of Block>
+<TextBlock 77 w:50 h:4>
+Hammer
+"Oh, già, <Delay 5>e finché sto
+qui, commercio parti per
+Gear, invece di accessori."<Close><End of Block>
+<TextBlock 78 w:42 h:4>
+Hammer
+"Sì! <Delay 5>Chistu è u me
+frate!<Delay 10> Una persona troppo
+gentile! Grazie assai!"<Close><End of Block>
+<TextBlock 79 w:52 h:4>
+Hammer
+"Che ti serve, o frate?"<Delay 15>
+<Opcode 1 255>    Oggetti di Hammer
+    Parti Gear di Hammer<Close><End of Block>
+<TextBlock 80 w:52 h:4>
+Hammer
+"Le procedure sono state
+una cosa piuttosto
+improvvisa, perciò…<New>
+… il benestare per
+riparare parti per Gear
+non arriverà in tempo
+per le prime gare.<New>
+E, o frate, non ti è
+stato ancora assegnato
+un Gear<Delay 5>…<Delay 5> Mi chiedo che
+Gear ti daranno<Delay 5>…?"<Close><End of Block>
+<TextBlock 81 w:54 h:4>
+Hammer
+"Grazie o frate…<New>
+… ma che ne dici di
+accattare qualcos'altro
+oltre agli oggetti?<New>
+Anche questo aiuta Hammer!<Delay 30>
+<Opcode 1 255>    E basta!
+    Oggetti di Hammer
+    Parti Gear di Hammer<Close><End of Block>
+<TextBlock 82 w:52 h:4>
+Hammer
+"OK, <Delay 5>ora pensa a
+Battagliare.<New>
+Fa' del tuo meglio,<Delay 5>
+o frate!<Delay 15>
+Per il futuro
+di Hammer<Delay 5>…"<Close><End of Block>
+<TextBlock 83 w:4 h:1>
+!?<Opcode 2 15><Close><End of Block>
+<TextBlock 84 w:24 h:2>
+<Opcode 1 255>Hammer
+"Lassa perdere!"<Close><End of Block>
+<TextBlock 85 w:52 h:4>
+Hammer
+"Le procedure sono state
+una cosa piuttosto
+improvvisa, perciò…<New>
+… il benestare per
+riparare parti per Gear
+non arriverà in tempo
+per le prime gare.<New>
+E, o frate, non ti è
+stato ancora assegnato
+un Gear<Delay 5>…<Delay 5> Mi chiedo che
+Gear ti daranno<Delay 5>…?"<Close><End of Block>
+<TextBlock 86 w:54 h:4>
+Hammer
+"Grazie o frate…<New>
+… ma che ne dici di
+accattare qualcos'altro
+oltre alle parti per Gear?<New>
+Anche questo aiuta Hammer!<Delay 30>
+<Opcode 1 255>    E basta!
+    Oggetti di Hammer
+    Parti Gear di Hammer<Close><End of Block>
+<TextBlock 87 w:52 h:4>
+Hammer
+"OK, <Delay 5>ora pensa a
+Battagliare.<New>
+Fa' del tuo meglio,<Delay 5>
+o frate!<Delay 15>
+Per il futuro
+di Hammer<Delay 5>…"<Close><End of Block>
+<TextBlock 88 w:4 h:1>
+!?<Opcode 2 15><Close><End of Block>
+<TextBlock 89 w:24 h:2>
+<Opcode 1 255>Hammer
+"Lassa perdere!"<Close><End of Block>
+<TextBlock 90 w:52 h:4>
+Hammer
+"Le procedure sono state
+una cosa piuttosto
+improvvisa, perciò…<New>
+… il benestare per
+riparare parti per Gear
+non arriverà in tempo
+per le prime gare.<New>
+E, o frate, non ti è
+stato ancora assegnato
+un Gear.<Delay 5>…<Delay 5> Mi chiedo che
+Gear ti daranno<Delay 5>…?"<Close><End of Block>
+<TextBlock 91 w:40 h:3>
+Shitan
+"<Delay 5>…<Delay 5> O l'area di
+ricevimento, ad
+essere esatti."<Close><End of Block>
+<TextBlock 92 w:54 h:5>
+Addetta alla Ricezione
+"Quest'anno, i Giochi Imperiali
+si tengono in cinque giorni.
+I primi tre giorni vengono
+decisi vincendo 2 incontri<Delay 5>…<New>
+I qualificati vanno a gareggiare
+negli incontri del secondo e
+del terzo giorno<Delay 5>…<New>
+Chi vince tre battaglie nelle
+semifinali che si tengono nel
+quarto giorni, si qualifica per
+la Finale dell'ultimo giorno."<Close><End of Block>
+<TextBlock 93 w:56 h:5>
+Addetta alla Ricezione
+"A proposito, Signor Fei,
+i suoi nemici negli scontri
+odierni sono<Delay 5>…<Delay 5> Leonardo
+Sniper nel primo incontro<Delay 5>…<New>
+… e se lo batte, nel secondo
+incontro combatterà<Delay 5>…<Delay 5>
+Heinrich Clive."<Close><End of Block>
+<TextBlock 94 w:56 h:5>
+Addetta alla Ricezione
+"La sua registrazione è
+stata appena effettuata.<Delay 15>
+Segua le istruzioni del
+Supervisore per gareggiare
+nella sua prima gara."<Close><End of Block>
+<TextBlock 95 w:56 h:5>
+Addetta alla Ricezione
+"A causa di un improvviso
+guasto tecnico, il suo
+avversario di ieri, Leonardo
+Sniper, è dovuto ritirarsi<Delay 5>…<New>
+Anche Heinrich Clive ha avuto
+problemi tecnici ed ha dato
+forfait.<Delay 15> Questo significa
+che lei, Fei, ha vinto a
+tavolino e può partecipare
+agli incontri del secondo
+giorno!"<Close><End of Block>
+<TextBlock 96 w:56 h:5>
+Addetta alla Ricezione
+"Se oggi, il secondo giorno
+dei Giochi, vince due sfide,
+potrà passare al terzo gruppo
+d'incontri.<New>
+Vuole partecipare agli
+incontri del secondo giorno?"<Delay 15>
+<Opcode 1 255>    No, lascia stare
+    Fammi partecipare!<Close><End of Block>
+<TextBlock 97 w:56 h:4>
+Addetta alla Ricezione
+"Questa è l'ultima gara del
+secondo giorno. Vinca questa
+per qualificarsi agli
+incontri del terzo giorno.<New>
+Vuole partecipare all'ultimo
+incontro del giorno?"<Delay 15>
+<Opcode 1 255>    Lascia stare
+    Andiamo!<Close><End of Block>
+<TextBlock 98 w:52 h:5>
+Addetta alla Ricezione
+"Oggi è il terzo giorno dei
+giochi. Vinca due incontri
+per qualificarsi alle
+semifinali di domani.<New>
+Vuole partecipare al
+primo incontro del giorno?"<Delay 15>
+<Opcode 1 255>    Lascia stare
+    Fammeli fare a pezzi!<Close><End of Block>
+<TextBlock 99 w:54 h:4>
+Addetta alla Ricezione
+"Questo è l'ultimo incontro
+per il terzo giorno. Vinca
+questo per qualificarsi alle
+semifinali di domani.<New>
+Vuole partecipare all'ultimo
+incontro del giorno?"<Delay 15>
+<Opcode 1 255>    Lascia stare
+    Va bene, andiamo!<Close><End of Block>
+<TextBlock 100 w:50 h:4>
+Addetta alla Ricezione
+"Oggi ci sono le semifinali.
+Vinca tre gare per
+qualificarsi alla Finale.<New>
+Vuole partecipare alle
+semifinali?<Delay 15>
+<Opcode 1 255>    Lascia stare
+    Ci proverò!<Close><End of Block>
+<TextBlock 101 w:54 h:4>
+Addetta alla Ricezione
+"<Delay 5>…<Delay 5> Due incontri da vincere
+prima di qualificarsi per
+la Finale di domani."<New>
+Partecipa al secondo
+incontro delle semifinali?<Delay 15>
+<Opcode 1 255>    Lascia stare
+    Parteciperò!<Close><End of Block>
+<TextBlock 102 w:52 h:4>
+Addetta alla Ricezione
+"Questo è l'ultimo incontro
+del giorno! Lo vinca per
+qualificarsi alla Finale!<New>
+Vuole partecipare all'ultimo
+incontro del giorno?"<Delay 15>
+<Opcode 1 255>    Lascia stare
+    Ma certo che sì!<Close><End of Block>
+<TextBlock 103 w:56 h:5>
+Addetta alla Ricezione
+"Oggi è l'ultimo giorno
+dei Giochi… La Finale!
+Deve sfidare…<Delay 5>
+  Ricardo Banderas !!! "<New>
+Vuole partecipare
+alla Finale?<Delay 15>
+<Opcode 1 255>    Lascia stare
+    Fammi andare da lui!<Close><End of Block>
+<TextBlock 104 w:54 h:4>
+Addetta alla Ricezione
+"Ho confermato l'iscrizione
+del Pilota 'Fei'.<Delay 15>
+Un attimo, per favore<Delay 5>…"<Close><End of Block>
+<TextBlock 105 w:46 h:4>
+Il Gear '<Weltall>' è
+stato inviato all'hangar
+dei partecipanti.
+Pronto ad essere guidato!<Close><End of Block>
+<TextBlock 106 w:56 h:2>
+Pilota Fei! Proceda
+verso l'hangar dei
+partecipanti!<Close><End of Block>
+<TextBlock 107 w:54 h:4>
+Addetta alle Informazioni
+"Okkeeeeey!<Delay 15>
+Benissimo,<Delay 5> ora ti spiego
+un po' cos'è 'Battagliare'."<Close><End of Block>
+<TextBlock 108 w:56 h:5>
+Addetta alle Informazioni
+"Battagliare è quello sport
+in cui i Gear si affrontano
+in degli uno contro uno.<New>
+Battagliare si svolge
+nell'Arena della Capitale
+Imperiale.<New>
+Vuoi spiegato come funziona
+il tutto? Semplice: combatti
+fino a che l'avversario non
+è messo al tappeto.<Delay 10> Per dirlo
+in altri termini: fai a pezzi
+il tuo rivale!<New>
+Ma non devi combattere tanto
+da ridurre il tuo Gear ad un
+mucchio di rottami!<Delay 5> Ti è
+permesso arrenderti durante
+un incontro… così, se non
+puoi vincere<Delay 10>…<Delay 5> beh, lo sai…!"<Close><End of Block>
+<TextBlock 109 w:44 h:4>
+Addetta alle Informazioni
+"Era un riassuntino veloce<Delay 5>
+… Credo.<Delay 30>
+Hai afferrato il punto?<Close><End of Block>
+<TextBlock 110 w:50 h:4>
+Fei
+"Beh, ehmm<Delay 5>…"<Delay 15>
+<Opcode 1 255>    Nessun problema!
+    Scusa, ma non capisco!<Close><End of Block>
+<TextBlock 111 w:56 h:5>
+Addetta alle Informazioni
+"La prossima cosa da fare
+è acquistare esperienza
+Battagliando realmente.<Delay 15>
+Il trucco è abituarsi ai
+controlli!<New>
+Ma<Delay 5> forse gettarti subito in
+una vera battaglia è troppo
+per te?<Delay 15> Allora<Delay 5> perché non
+provare la nostra 'modalità
+allenamento'? Serve a dare
+aiuto con i controlli!<New>
+È una modalità simulazione
+dove puoi fare pratica con
+i controlli basilari.<Delay 15>
+Consigliamo ai principianti
+di allenarsi prima qui!<New>
+Inoltre, c'è una 'modalità
+impara' che fornisce delle
+facili lezioni sui controlli
+di base, grazie ad una
+spiegazione su schermo."<Close><End of Block>
+<TextBlock 112 w:54 h:3>
+Addetta alle Informazioni
+"C'è qualcos'altro che
+vuoi chiedermi?"<Close><End of Block>
+<TextBlock 113 w:58 h:4>
+Addetta alle Informazioni
+"Eh?<Delay 5> Non hai capito?<Delay 10>
+Che strano! Beh, ancora
+una volta ricominciamo…<New>
+(Diamine, e io che pensavo
+che questo tipo fosse sveglio?<Delay 5>
+… Di sicuro mi sbagliavo…<Delay 5> 
+Ma la sua testa è a posto?)<Delay 10>
+Comunque, ora ascolta con
+attenzione!"<Close><End of Block>
+<TextBlock 114 w:58 h:7>
+Addetta alle Informazioni
+"Giusto, i controlli di base!
+Beh<Delay 5> cosa vuoi chiedere?<Delay 15>
+<Opcode 1 255>    Chiedi dei comandi
+    Modalità Impara
+    Modalità Allenamento
+    Chiedi qualcos'altro<Close><End of Block>
+<TextBlock 115 w:54 h:4>
+Addetta alle Informazioni
+"Giusto, i pulsanti di
+controllo. Allora ti spiego 
+come funziona ogni pulsante…"<Close><End of Block>>
+<TextBlock 116 w:54 h:4>
+Addetta alle Informazioni
+"Bene, ora spiegherò i
+controlli di base usando
+lo schermo."<Close><End of Block>
+<TextBlock 117 w:56 h:3>
+Addetta alle Informazioni
+"Allora…<Delay 10> vuoi provare
+i controlli, eh…"<Close><End of Block>
+<TextBlock 118 w:52 h:4>
+Addetta alle Informazioni
+"Oh,<Delay 5> beh<Delay 5>… fa' come vuoi!<Delay 15>
+Cos'altro vuoi chiedermi?"<Close><End of Block>
+<TextBlock 119 w:50 h:8>
+"Di quale pulsante ti
+serve sapere?<Delay 15>
+<Opcode 1 255>    Croce Direzionale
+    Pulsante <Cross>
+    Pulsante <Square>
+    Pulsante <Tri>
+    Pulsante <Circle>
+    Pagina successiva<Close><End of Block>
+<TextBlock 120 w:50 h:7>
+"Cosa devo spiegarti,
+allora?"<Delay 15>
+<Opcode 1 255>    Pulsante L1
+    Pulsante R1
+    Pulsante Start
+    Pagina precedente
+    Basta così<Close><End of Block>
+<TextBlock 121 w:52 h:4>
+Addetta alle Informazioni
+"Oh<Delay 5>… ne hai già abbastanza?
+Qualcos'altro che ti serve
+sapere!?<Delay 15> Non avere paura<Close><End of Block>
+<TextBlock 122 w:56 h:4>
+Addetta alle Informazioni
+"<Delay 5>… Oh,<Delay 5> è così?<Delay 10>
+Beh,<Delay 5> c'è qualcos'altro
+che vuoi chiedermi?"<Close><End of Block>
+<TextBlock 123 w:56 h:5>
+Addetta alle Informazioni
+"OK,<Delay 5> riguardo alla Croce
+direzionale…<Delay 15> Ammettendo che
+il tuo avversario sia alla
+tua destra (secondo il tuo
+punto di vista), allora…<New>
+= SU fa muovere il tuo Gear
+  lontano dallo schermo.<Delay 45>
+= GIÙ fa muovere il tuo Gear
+  verso lo schermo.<New>
+= DESTRA lo fa muovere
+  verso il tuo avversario.<Delay 45>
+= SINISTRA fa allontanare il
+  tuo Gear dall'avversario.<Close><End of Block>
+<TextBlock 124 w:56 h:5>
+Addetta alle Informazioni
+"Infine, quando sei vicino
+al tuo avversario, se premi
+SINISTRA azioni una mossa
+speciale: una brevissima
+retroaccelerazione!!<New>
+Usarla ti permetterà
+di metterti a distanza
+dall'avversario per un
+breve istante (oppure ti
+permette di 'scappare')…<Delay 30>!<New>
+Però ricorda: funziona
+solo se ti muovi nella
+direzione opposta a quella
+dell'avversario.<Close><End of Block>
+<TextBlock 125 w:54 h:5>
+Addetta alle Informazioni
+"In poche parole è tutto qui!<Delay 30>
+Probabilmente è più facile
+capirlo provando dal vivo
+i comandi!"<Close><End of Block>
+<TextBlock 126 w:56 h:4>
+Addetta alle Informazioni
+"Il pulsante <Cross> è usato
+per ATTACCARE.<Delay 15> Ci sono tre
+pulsanti d'attacco, e <Cross> è
+uno di questi.<New>
+Cambia da Gear a Gear, ma di
+norma è usato per combattere
+da vicino.<Delay 15> E non sei costretto
+a colpire l'avversario solo
+una volta.<New>
+Combinando i pulsanti <Cross> e <Square>
+potrai creare una catena di
+attacchi, massimo tre di fila!<New>
+Contando tutti i comandi, ci
+sono 14 tipi di combinazioni
+utilizzabili!"<Close><End of Block>
+<TextBlock 127 w:56 h:4>
+Addetta alle Informazioni
+"Il pulsante <Square> è usato
+per ATTACCARE.<Delay 15> Ci sono tre
+pulsanti d'attacco, e <Square> è
+uno di questi.<New>
+Cambia da Gear a Gear, ma di
+norma è usato per combattere
+da vicino.<Delay 15> E non sei costretto
+a colpire l'avversario solo
+una volta.<New>
+Combinando i pulsanti <Cross> e <Square>
+potrai creare una catena di
+attacchi, massimo tre di fila!<New>
+Contando tutti i comandi, ci
+sono 14 tipi di combinazioni
+che puoi provare!"<Close><End of Block>
+<TextBlock 128 w:56 h:4>
+Addetta alle Informazioni
+"Il pulsante <Tri> serve a
+SALTARE!<Delay 5> Mentre salti
+i comandi per muoverti
+rimangono gli stessi.<New>
+Inoltre, anche mentre salti
+puoi attaccare con i pulsanti
+<Cross> e <Square>!<New>
+Oh, e ti è permesso anche
+usare il pulsante R1 per
+sparare Proiettili Eterei!<Close><End of Block>
+<TextBlock 129 w:53 h:4>
+Addetta alle Informazioni
+"Il pulsante <Circle> serve a
+SCATTARE.<Delay 10> Puoi muovere
+il tuo Gear normalmente.<New>
+L'unico problema è che
+non puoi continuare a
+correre per sempre."<Close><End of Block>
+<TextBlock 130 w:54 h:5>
+Addetta alle Informazioni
+"Per avere più dettagli,
+prova la 'Modalità Impara',
+dove un'altra addetta ti
+spiegherà altre cose."<Close><End of Block>
+<TextBlock 131 w:56 h:6>
+Addetta alle Informazioni
+"Non si deve solo attaccare!<Delay 10>
+Anche se si dice che l'attacco
+è la miglior difesa, ogni
+tanto è importante difendersi.<New>
+È per questo che il pulsante
+L1 è usato per DIFENDERSI!<Delay 15>
+Ma…<Delay 5> non ti protegge del
+tutto dai danni, perciò
+stai attento!"<Close><End of Block>
+<TextBlock 132 w:58 h:5>
+Addetta alle Informazioni
+"Col pulsante R1 lanci un
+attacco speciale chiamato
+'Proiettile Etereo'.<Delay 15> È buono
+per attaccare il tuo
+avversario dalla lunga
+distanza!<New>
+I 'Proiettili Eterei' hanno
+la capacità di autopilotarsi…<New>
+… perciò potresti cadere nella
+tentazione di contare spesso
+su di loro, ma te ne potresti
+pentire se li usi troppo!
+Stai molto attento!"<Close><End of Block>
+<TextBlock 133 w:56 h:5>
+Addetta alle Informazioni
+"Per avere più dettagli,
+prova la 'Modalità Impara',
+dove un'altra addetta ti
+spiegherà altre cose."<Close><End of Block>
+<TextBlock 134 w:56 h:4>
+Addetta alle Informazioni
+"Il pulsante Start ti
+permetterà di fermare
+la battaglia.<New>
+A questo punto, potresti
+voler scegliere l'opzione
+'RESA', se credi di non
+poter vincere."<Close><End of Block>
+<TextBlock 135 w:46 h:5>
+Addetta alle Informazioni
+"Cosa ti devo spiegare?"<Delay 15>
+<Opcode 1 255>    Battagliare
+    Controlli di base
+    So già tutto, grazie!<Close><End of Block>
+<TextBlock 136 w:54 h:5>
+Addetta alle Informazioni
+"…<Delay 5> Signor Fei,<Delay 5> non ha
+ancora registrato
+il suo Gear.<Delay 30>
+Ma, se le va, posso
+spiegarle i controlli
+di base<Delay 5>…?<Close><End of Block>
+<TextBlock 137 w:52 h:4>
+Fei
+"I controlli di base?"<Delay 5>
+    Spiega
+    No, grazie<Close><End of Block>
+<TextBlock 138 w:52 h:4>
+Addetta alle Informazioni
+"Oh,<Delay 5> beh<Delay 5>… fa' come vuoi!<Delay 15>
+Cos'altro vuoi chiedermi?"<Close><End of Block>
+<TextBlock 139 w:56 h:4>
+Addetta alle Informazioni
+"Sì,<Delay 5> sapevo che non avresti
+avuto problemi!<Delay 10> Comunque,<Delay 5>
+ora fa' del tuo meglio!"<Close><End of Block>
+<TextBlock 140 w:56 h:4>
+Addetta alle Informazioni
+"…<Delay 5> Alla fine sei riuscito
+ad arrivare alla Finale!
+Forza! Puoi farcela!"<Close><End of Block>
+<TextBlock 141 w:54 h:3>
+Addetta alle Informazioni
+"Ancora pochissimo per
+arrivare alla Finale!<New>
+Con le tue capacità,
+potresti diventare il
+'Campione di Battagliare'!<New>
+In bocca al lupo!"<Close><End of Block>
+<TextBlock 142 w:54 h:5>
+Addetta alle Informazioni
+"<Delay 5>… Sicuro di non aver bisogno
+di sentire quello che devo
+dire?<Delay 30> Se hai problemi, non
+dare la colpa a me!"<Close><End of Block>
+<TextBlock 143 w:46 h:5>
+Addetta alle Informazioni
+"Cosa ti devo spiegare?"<Delay 15>
+<Opcode 1 255>    Battagliare
+    Controlli di base
+    So già tutto, grazie!<Close><End of Block>
+<TextBlock 144 w:56 h:4>
+Addetta alla Ricezione
+"Qui c'è il premio in denaro
+che viene dato ai vincitori
+di una gara di Battagliare.
+Te lo sei meritato!"<Close><End of Block>
+<TextBlock 145 w:54 h:4>
+Scagnozzo di Rico
+"Ehi, il tuo Gear è
+stato truccato! Lo dirò
+subito al Comitato!"<Close><End of Block>
+<TextBlock 146 w:56 h:5>
+Scagnozzo di Rico
+"Sì, di sicuro si è fatto
+montare sul suo Gear delle
+parti che violano le
+regole, o qualcosa del
+genere, cazzo!"<Close><End of Block>
+<TextBlock 147 w:22 h:2>
+Rico
+"Zitti!!"<Close><End of Block>
+<TextBlock 148 w:56 h:3>
+Rico
+"<Delay 5>…<Delay 5> Non mettetemi ancora in
+imbarazzo, basta così<Delay 5>…<New>
+Inoltre, come potrebbero
+mai esistere queste parti
+speciali di cui parlate!?<New>
+Soprattutto visto che non
+si può uscire dalla
+Capitale Imperiale…<New>
+… mentre si indossano
+questi collari!"<Close><End of Block>
+<TextBlock 149 w:32 h:3>
+Scagnozzo di Rico
+"M…<Delay 5> ma<Delay 15>, Rico<Delay 5>…<Delay 5><Space 1>
+allora…!?"<Close><End of Block>
+<TextBlock 150 w:50 h:3>
+Rico
+"Pensavo d'avervi detto
+di smetterla!<Delay 5>
+…<Delay 5> Chiudete quelle fogne!"<Close><End of Block>
+<TextBlock 151 w:46 h:4>
+Hammer
+"È vero!<Delay 5>
+Quello che dite
+è impossibile!<New>
+U me frate Fei vinse
+solo grazie alla sua
+forza!<Delay 15> Smettetela di
+inventarvi false accuse!"<Close><End of Block>
+<TextBlock 152 w:30 h:2>
+Scagnozzo di Rico
+"Uh<Delay 5>…<Delay 5> amico<Delay 5>…"<Close><End of Block>
+<TextBlock 153 w:50 h:2>
+Fei
+"Basta così, Hammer!"<Close><End of Block>
+<TextBlock 154 w:52 h:4>
+Fei
+"Ho vinto grazie alla
+mia fortuna…<New>
+… e perché ho avuto
+un buon maestro!"<Close><End of Block>
+<TextBlock 155 w:56 h:4>
+Fei
+"<Delay 5>… Inoltre, il tuo braccio
+ferito non ti è ancora
+guarito, non è vero?<New>
+Se non fosse per quella
+ferita, avresti vinto
+tu, non io<Delay 10>…"<Close><End of Block>
+<TextBlock 156 w:56 h:4>
+Rico
+"Una sconfitta è
+una sconfitta…<New>
+La mia ferita non è
+una scusa valida. Il
+Campione di Battagliare
+sei<Delay 5>…<Delay 5> tu!"<Close><End of Block>
+<TextBlock 157 w:24 h:2>
+Fei
+"<Delay 2>…<Delay 2>…<Delay 2>…<Delay 2>…<Delay 2>
+…<Delay 2>…<Delay 2>…<Delay 2>…<Delay 2>…"<Close><End of Block>
+<TextBlock 158 w:54 h:4>
+Rico
+"<Delay 5>…<Delay 5> Beh,<Delay 5> io ho delle cose
+da fare. Ora me ne vado."<Close><End of Block>
+<TextBlock 159 w:44 h:3>
+Scagnozzo di Rico
+"Campione! <Delay 5>Aspetti!<Delay 15>
+Ci faccia venire con lei<Delay 5>…"<Close><End of Block>
+<TextBlock 160 w:56 h:4>
+Rico
+"Non sono più il Campione!
+E voi mi state solo
+rompendo i coglioni!<New>
+Volete smetterla di
+starmi fra i piedi!?<Delay 5>
+Non seguitemi!"<Close><End of Block>
+<TextBlock 161 w:56 h:2>
+Scagnozzo di Rico
+"Romperti… i coglioni…?<Space 1>
+Ma, Campione…!"<Close><End of Block>
+<TextBlock 162 w:30 h:2>
+Scagnozzo di Rico
+"<Delay 5>…<Delay 5> Ri-co--!"<Close><End of Block>
+<TextBlock 163 w:54 h:5>
+Hammer
+<Opcode 1 255>"Questo significa che la
+mia pena è stata annulata!<Delay 5>
+Sono libero<Delay 15>…!<New> 
+Oh,<Delay 5> il mondo, quello al di
+fuori di questo luogo dove
+eravamo prigionieri, ci
+sta chiamando!"<Opcode 2 120><Close><End of Block>
+<TextBlock 164 w:46 h:4>
+Rico
+"<Delay 5>…<Delay 5> Non farmi ridere!<Delay 15>
+La tua forza<Delay 5>…?<Delay 5>
+Ti comporti così?"<Close><End of Block>
+<TextBlock 165 w:24 h:2>
+Fei
+"<Delay 2>…<Delay 2>…<Delay 2>…<Delay 2>…<Delay 2>
+…<Delay 2>…<Delay 2>…<Delay 2>…<Delay 2>…"<Close><End of Block>
+<TextBlock 166 w:56 h:3>
+Rico
+"Avanti, combatti
+ancora contro di me!<New>
+Nelle fogne sembravi
+molto più forte!
+Mostrami la tua
+vera forza!"<Close><End of Block>
+<TextBlock 167 w:48 h:3>
+Rico
+"<Delay 5>…<Delay 5> Non farmi ridere!<Delay 15>
+Di che hai paura?"<Close><End of Block>
+<TextBlock 168 w:24 h:2>
+Fei
+"<Delay 2>…<Delay 2>…<Delay 2>…<Delay 2>…<Delay 2>
+…<Delay 2>…<Delay 2>…<Delay 2>…<Delay 2>…"<Close><End of Block>
+<TextBlock 169 w:56 h:3>
+Rico
+"Avanti, combatti
+ancora contro di me!<New>
+Nelle fogne sembravi
+molto più forte!
+Mostrami la tua
+vera forza!"<Close><End of Block>
+<TextBlock 170 w:50 h:4>
+Hammer
+"O Frate~!<Delay 15>
+Ti sei dimenticato del
+tuo meccanico!<Delay 15> Aspetta!"<Opcode 2 75><Close><End of Block>
+<TextBlock 171 w:52 h:4>
+Rue
+"Benvenuto nell'Arena
+di Battagliare<Delay 5>…<Delay 5>
+Fei<Delay 5>…<New>
+Qualche giorno fa eri
+deciso a non pilotare
+i Gear<Delay 5>…<New>
+È successo qualcosa negli
+ultimi giorni che ti ha
+fatto cambiare idea
+così radicalmente?"<Close><End of Block>
+<TextBlock 172 w:56 h:4>
+Fei
+"Beh, ho le mie ragioni<Delay 15>…<New>
+Diciamo che non si può dire
+che la vita da prigioniero
+sia facile per chi ancora
+non ci è abituato."<Close><End of Block>
+<TextBlock 173 w:54 h:3>
+Fei
+"<Delay 5>…<Delay 5> E c'è anche il problema
+del doversi salvare la
+pelle!"<Close><End of Block>
+<TextBlock 174 w:54 h:4>
+Fei
+"Vivere il resto della mia
+vita con dei mostri delle
+fogne non è così male<Delay 5>…<New>
+È solo, beh…<Delay 5> sono tante
+le cose che influiscono<Delay 5>…"<Close><End of Block>
+<TextBlock 175 w:56 h:3>
+Fei
+"E poi c'è questo collare!<Delay 15>
+Mi da così fastidio!!"<Close><End of Block>
+<TextBlock 176 w:34 h:2>
+Rue
+"Il tuo collare<Delay 5>…<Delay 5>?"<Close><End of Block>
+<TextBlock 177 w:56 h:3>
+Rue
+"Ah ah ah ahm<Delay 5>…<Delay 5>
+Sei divertente!<New>
+Intendi puntare alla
+vittoria anche se questa
+è la prima volta che
+provi a Battagliare?"<Close><End of Block>
+<TextBlock 178 w:42 h:2>
+Fei
+"<Delay 5>…<Delay 5> È forse strano?"<Close><End of Block>
+<TextBlock 179 w:54 h:4>
+Rue
+"No no! Non troppo…<Delay 15>
+Ti prego di scusarmi!<New>
+Sembri essere sicuro di te
+riguardo alle tue abilità
+di combattimento con i Gear…<Delay 5>
+Aspetto con impazienza<Delay 5>…"<Close><End of Block>
+<TextBlock 180 w:4 h:1>
+!?<Opcode 2 15><Close><End of Block>
+<TextBlock 181 w:54 h:3>
+Rue
+"Ops<Delay 15>…<Delay 5> scusami<Delay 15>.<New>
+Beh, credo che ti mostrerò
+come si arriva agli hangar
+per i Gear.
+Abbiamo poco tempo<Delay 5>…"<Close><End of Block>
+<TextBlock 182 w:36 h:2>
+Fei
+"Gli hangar<Delay 5>…?"<Close><End of Block>
+<TextBlock 183 w:54 h:4>
+Rue
+"Ehi, pensi forse che
+combatterai in carne
+ed ossa?<New>
+<Delay 5>…<Delay 5> Ahahaham, non è che non
+mi piacerebbe vederlo, ma<Delay 5>…<New>
+Comunque, questi hangar
+di cui ti ho parlato,
+detti anche paddock,
+sono praticamente dei…<New>
+… 'mini garage' che i
+piloti utilizzano per
+fare la messa a punto
+dei loro Gear…<New>
+Non aspettarti
+chissà che!"<Close><End of Block>
+<TextBlock 184 w:54 h:4>
+Rue
+"Prima ti avevamo detto
+che il comitato avrebbe
+preparato un veicolo
+per te<Delay 5>…<Delay 15><New>
+Hai dimenticato?"<Close><End of Block>
+<TextBlock 185 w:54 h:4>
+Fei
+"Oh, <Delay 5>ehm<Delay 5>…<Delay 15>
+Il Gear che piloterò
+sarà…<Delay 5> ehm<Delay 5>…"<Close><End of Block>
+<TextBlock 186 w:38 h:3>
+Rue
+"Beh, ora vieni.
+Seguimi…"<Close><End of Block>
+<TextBlock 187 w:48 h:4>
+Shitan
+"Aspetti! Non siamo
+ancora pronti<Delay 10>…<New>
+Potrebbe darci un
+altro po' di tempo?"<Close><End of Block>
+<TextBlock 188 w:56 h:4>
+Rue
+"<Delay 5>…<Delay 5> Capito.<Delay 15>
+Ma anche noi non abbiamo
+molto tempo, perciò vi
+prego di sbrigarvi<Delay 5>…"<Close><End of Block>
+<TextBlock 189 w:56 h:5>
+Rue
+"Fate rapporto ai funzionari.<Delay 15>
+Conferma del pilota attuata.
+Suggeriamo che nel primo
+incontro gli sia dato il
+Gear nero…"<Close><End of Block>
+<TextBlock 190 w:56 h:4>
+Hammer
+"Finisti le gare di oggi
+senza problemi, o frate?<New>
+Perché non tornare ai
+tuoi alloggi e riposare
+un pochetto?<New>
+Oppure… potresti accattare
+qualcosa da me!<New>
+Che ne dici, o frate?"<Delay 15>
+    Oggetti di Hammer
+    Parti Gear di Hammer
+    Sto bene così!<Close><End of Block>
+<TextBlock 191 w:56 h:4>
+Hammer
+"Ehi ehi!<Delay 5> Grazie ancora!<Delay 15>
+Il mio portafogli si
+sente meglio, ora!<Delay 10><New>
+E si sente anche molto
+'toccato'…!<Delay 5> Comunque…<Delay 5>
+adesso te ne torni
+negli alloggi, o frate?"<Close><End of Block>
+<TextBlock 192 w:56 h:4>
+Hammer
+"Ehi ehi!<Delay 5> Grazie ancora!<Delay 15>
+Il mio portafogli si
+sente meglio, ora!<Delay 10><New>
+E si sente anche molto
+'toccato'…!<Delay 5> Comunque…<Delay 5>
+te ne torni indietro,
+adesso, o frate?"<Close><End of Block>
+<TextBlock 193 w:56 h:3>
+Hammer
+"Beh, allora è inutile
+restare qui.<New>
+Faremmo meglio a tornare
+nei nostri alloggi al
+più presto possibile.<New>
+Dopo tutti questi sforzi,
+la miglior cosa per te
+è andare a nanna!!<New>
+Dovresti riposarti facendo
+una bella dormita, visto
+che domani è un grande
+giorno!"<Close><End of Block>
+<TextBlock 194 w:54 h:4>
+Hammer
+"O frate,<Delay 5> vincisti!
+Ce l'hai fatta!<New>
+Sei il Campione
+di Battagliare!<Delay 5>
+O…<Delay 5> quasi!<New>
+La vittoria è ad un passo!
+Se vinci la Finale di
+domani…<New>
+… saremo dichiarati
+innocenti e ci
+libereranno!"<Close><End of Block>
+<TextBlock 195 w:54 h:4>
+Fei
+"Ma,<Delay 5> Hammer, lo sai che il
+mio avversario non è certo
+uno qualunque<Delay 10>…!<New>
+Ha una forza incredibile<Delay 5>…<New>
+È il Campione di
+Battagliare da tre
+anni di seguito!<New>
+Batterlo non sarà
+un'impresa facile, lo sai<Delay 5>…<New>
+Fino a oggi, in qualche
+modo sono riuscito a
+vincere…<New>
+… ma domani è un
+altro giorno e dovrò
+affrontare un altro
+problema<Delay 5>…!<New>
+Dubito che vincerò."<Close><End of Block>
+<TextBlock 196 w:54 h:4>
+Hammer
+"<Delay 5>…<Delay 5> Se ti comporti così,
+perderai pur avendo le
+possibilità di vincere!<New>
+Avanti, o frate,<Delay 5> mostra
+un po' di spirito di
+combattimento!"<Close><End of Block>
+<TextBlock 197 w:52 h:4>
+Fei
+"<Delay 5>…<Delay 5> Ahahaha,<Delay 15> non credo che
+tu possa essere il tipo
+adatto a dirlo!"<Close><End of Block>
+<TextBlock 198 w:52 h:4>
+Fei
+"Hai ragione…<Delay 5>!<New>
+Non vincerò se mi faccio
+venire questi complessi
+prima della battaglia.<New>
+Grazie, Hammer!<Delay 15>
+Ok, allora<Delay 5> ora torniamo
+ai nostri alloggi."<Close><End of Block>
+<TextBlock 199 w:56 h:4>
+Hammer
+"Vorrei poter dire 'nessun
+problema', ma la Finale di
+domani è importantissima!<New>
+Non pensi che dovresti
+stare molto attento a
+fare la messa a punto
+sul tuo Gear?<New>
+Il nostro destino dipende
+da questa Finale!"<Close><End of Block>
+<TextBlock 200 w:52 h:4>
+Fei
+"… Messa a punto, eh?<New>
+Lasciarla nelle mani di
+un solo meccanico mi
+preoccupa un po'.<New>
+Chiederò a Doc di dare
+anche lui una mano!"<Close><End of Block>
+<TextBlock 201 w:54 h:3>
+Hammer
+"Ti preoccupi!?<New>
+Minchia, o frate!<Delay 15>
+Questo meccanico qui
+sta facendo del suo
+meglio, lo sai!?<Close><End of Block>
+<TextBlock 202 w:54 h:4>
+Fei
+"Non volevo dire questo,
+Hammer, perciò non fare
+quella faccia incazzata!<New>
+Comunque,<Delay 5> torniamo ai
+nostri alloggi e chiamiamo
+Doc, ok!?"<Close><End of Block>
+<TextBlock 203 w:56 h:4>
+Hammer
+"Aspetta…<Delay 15>!<New>
+Non pensi che prima
+dovresti salvare i tuoi
+successi a Battagliare
+nel 'Cubo di Memoria'!?"<Close><End of Block>
+<TextBlock 204 w:46 h:2>
+Fei
+"Credo di sì…"<Close><End of Block>
+<TextBlock 205 w:54 h:4>
+Hammer
+"O frate,<Delay 15> salvasti i
+risultati ottenuti a
+Battagliare…<New>
+… nel 'Cubo di Memoria',
+non è vero!?"<Close><End of Block>
+<TextBlock 206 w:36 h:2>
+Addetta alla Ricezione
+"Scontro abbandonato!"<Close><End of Block>
+<TextBlock 207 w:46 h:3>
+Addetta alla Ricezione
+"Mmh, battaglia non male!
+Continua così!"<Close><End of Block>
+<TextBlock 208 w:56 h:5>
+Addetta alla Ricezione
+"Wow, sei fortiiiiissimo!
+Cavolo, non c'è stata sfida!
+Oh, mi viene un formicolio
+a pensare al tuo travolgente
+potere!"<Close><End of Block>
+<TextBlock 209 w:52 h:4>
+Addetta alla Ricezione
+"Perciò questo è quello che
+chiamano 'stare sul filo
+del rasoio'? Ben fatto,
+hai vinto per poco!"<Close><End of Block>
+<TextBlock 210 w:56 h:4>
+Addetta alla Ricezione
+"Che peccato, hai perso!
+Di sicuro non hai perso di
+molto, perciò la prossima
+volta potresti vincere,
+non hai grossi problemi!<Close><End of Block>
+<TextBlock 211 w:56 h:5>
+Addetta alla Ricezione
+"Ti darò qualche consiglio!<Delay 15>
+Non devi per forza usare gli
+attacchi fisici con i pulsanti
+<Cross> e <Square>!<New>
+C'è un altro tipo di attacco,
+detto 'Proiettili Etereo', 
+che è utile per attaccare
+a distanza gli avversari.<Delay 15>
+Usarli è semplicissimo,<Delay 5> basta
+premere il pulsante R1,<Delay 5> OK!?"<Close><End of Block>
+<TextBlock 212 w:54 h:4>
+Addetta alla Ricezione
+"Bene, ti basta ricordare
+di premere il pulsante R1
+per sparare 'Proettili
+Eterei'!<New>
+Se lo fai, di sicuro le
+tue possibilità di vincere
+aumenteranno!<Delay 30>
+(… o così speriamo!?)"<Close><End of Block>
+<TextBlock 213 w:48 h:3>
+Addetta alla Ricezione
+"Attaccare mentre si salta
+è una cosa impressionante!
+Impara a farlo!"<Close><End of Block>
+<TextBlock 214 w:56 h:5>
+Addetta alla Ricezione
+"Una delle tue debolezze
+è, osservando il tuo incontro,
+che sembri usare troppe volte
+i 'Proiettili Eterei'.<New>
+Dovresti comprendere meglio
+la natura di questo attacco…
+I 'Proiettili Eterei' fanno
+alzare la tua 'Barra Calore'
+(B.C.) di un bel po'.<New>
+Tre colpi faranno facilmente
+arrivare la tua B.C. al
+MASSIMO. Se continui ad
+attaccare in quello stato,
+il tuo Gear si surriscalderà.<New>
+Il surriscaldamento inizierà
+a farti danni, perciò se non
+stai attento, i tuoi HP
+scenderanno a zero prima che
+tu te ne accorga!"<Close><End of Block>
+<TextBlock 215 w:50 h:4>
+Addetta alla Ricezione
+"Il calore accumulato dal
+tuo Gear viene mostrato su
+schermo nella barra calore.<New>
+Controlla il calore che
+accumuli con l'aiuto di
+questa Barra. Oh, ed adesso
+cerca di non scaldarti
+troppo!"<Close><End of Block>
+<TextBlock 216 w:56 h:6>
+Addetta alla Ricezione
+"Hai perso soprattutto perché
+hai fatto troppo affidamento
+sullo 'Scatto'! Per dirla
+papale papale, giri troppo
+scattando!<New>
+Scattare e girare per l'arena
+può essere una buona strategia,
+ma noterai che la 'Barra Calore'
+(B.C.), che mostra il livello
+di calore del tuo Gear, sale
+molto più in fretta!<New>
+Puoi continuare a SCATTARE anche
+dopo che la tua B.C. raggiunge
+il MASSIMO, ma più il tuo Gear
+si surriscalda, più lo 'Scatto'
+ti danneggerà!<Close>
+Se non ci stai attento, i tuoi
+HP scenderanno a zero, e prima
+che te ne renda conto, non
+potrai usare né lo 'Scatto',
+né i 'Proiettili Eterei'!"<Close><End of Block>
+<TextBlock 217 w:50 h:4>
+Addetta alla Ricezione
+"Il calore accumulato dal
+tuo Gear viene mostrato a
+schermo nella Barra Calore.<New>
+Gestisci il tuo calore
+durante le battaglia con
+l'aiuto di questa Barra.
+Oh, e ora cerca di non
+scaldarti troppo tu!"<Close><End of Block>
+<TextBlock 218 w:54 h:4>
+Addetta alla Ricezione
+"<Delay 5>…<Delay 5> Hai capito perché hai perso,
+vero?<Delay 15> Se no, allora
+te lo dirò io, se vuoi!"<Close><End of Block>
+<TextBlock 219 w:56 h:4>
+Addetta alla Ricezione
+"Vuoi sapere perché hai perso?"<Delay 15>
+<Opcode 1 255>    No, non voglio saperlo!
+    Certo che voglio saperlo!<Close><End of Block>
+<TextBlock 220 w:56 h:5>
+Addetta alla Ricezione
+"Ci sono due motivi per cui
+hai perso. Primo, fai troppo
+affidamento sul pulsante R1,
+lanciando troppi 'Proiettili
+Eterei'.<New>
+I 'Proiettili Eterei' sono
+utili quando l'avversario è
+molto lontano, ma usarli
+troppo vorrà dire causare
+dei problemi al tuo Gear
+per il troppo calore!<New>
+Secondo, usi troppo lo
+'Scatto'. Usare lo 'Scatto'
+ed i 'Proiettili Eterei'
+quando la tua 'Barra Calore'
+è al MASSIMO vuole dire far
+surriscaldare il tuo Gear!<New>
+Mentre sei surriscaldati,
+subirai danni, perciò se non
+stai attento, i tuoi HP
+scenderanno a zero!"<Close><End of Block>
+<TextBlock 221 w:52 h:4>
+Addetta alla Ricezione
+"Il problema è che usare
+troppo entrambe queste
+tecniche è un male per
+il tuo Gear!<New>
+Il calore che esso accumula
+viene mostrato a schermo
+nella 'Barra Calore'.<New>
+Osservare questa Barra
+Calore (B.C.) ti aiuterà
+a gestire il calore
+durante una battaglia.
+'Non scaldarti troppo'!"<Close><End of Block>
+<TextBlock 222 w:56 h:4>
+Addetta alla Ricezione
+"<Delay 5>…<Delay 5> Sapere perché hai perso
+ti aiuterà a combattere
+meglio la prossima volta!"<Close><End of Block>
+<TextBlock 223 w:52 h:4>
+Addetta alla Ricezione
+"Di sicuro lo scontro
+tra i Gear era impari…!
+O forse si trattava
+dei piloti?<New>
+Mi dispiace dirtelo, ma è
+inutile girarci attorno,
+non sei un granché come
+avversario!"<Close><End of Block>
+<TextBlock 224 w:56 h:4>
+Addetta alla Ricezione
+"La pratica rende perfetti!
+Ti consigliamo la nostra
+'Modalità Allenamento.'
+Provala subito!"<Close><End of Block>
+<TextBlock 225 w:42 h:4>
+Addetta alla Ricezione
+"Peccato! Per pochissimo!
+L'avevi quasi battuto!"<Close><End of Block>
+<TextBlock 226 w:54 h:5>
+Addetta alla Ricezione
+"È stato un buon incontro!
+Ciascuno di voi avrebbe
+potuto facilmente vincere!
+Ora metticela tutta per
+per vincere la rivincita!"<Close><End of Block>
+<TextBlock 227 w:56 h:5>
+Addetta alla Ricezione
+"<Delay 5>…<Delay 5> Ma che sei, un pacifista?
+<Delay 5>…<Delay 5> O forse non sai come
+controllare un Gear?<New>
+Devi sapere i controlli
+di base, perciò, forse,
+dovresti provare la nostra
+Modalità Allenamento! Parla
+alla ragazza al bancone
+accanto a me."<Close><End of Block>
+<TextBlock 228 w:54 h:5>
+Addetta alla Ricezione
+"Non puoi non fare nulla
+ed aspettarti di vincere!
+Per capire cosa si deve
+fare, devi prima fare
+pratica!"<Close><Close><End of Block>

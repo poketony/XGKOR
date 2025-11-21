@@ -1,0 +1,174 @@
+#### 1 ####
+Fei
+"Elly!!"{clear:20}
+
+#### 2 ####
+Fei
+"Elly!!"{clear:20}
+
+#### 3 ####
+Fei
+"Doc!
+What is this..."
+
+#### 4 ####
+Fei
+"Hypnosis...?"
+
+#### 5 ####
+Bart
+"I don't get it. At least
+when I saw her up there,{enter}
+she didn't have the eyes
+of a traitor."
+
+#### 6 ####
+Bart
+"It broke again just after
+getting restored. What am
+I gonna do..."
+
+#### 7 ####
+Bart
+"I knew it all along...
+This moll's a mole!"
+
+#### 8 ####
+Bart
+"Damn it! What the hell
+did she do!? What am I
+gonna do!!"
+
+#### 9 ####
+Bart
+"Fei!!{wait:2D}
+Are you leaving her
+here like this?"
+
+#### 10 ####
+Bart
+"Fei!!{wait:2D}
+Where are you going?"
+
+#### 11 ####
+Bart
+"Fei!!{wait:2D}
+This is no time to play
+with Martle!!"
+
+#### 12 ####
+Bart
+"...Citan, if you thought
+it was suspicious, you
+shoulda stopped her."
+
+#### 13 ####
+Elly
+"..."
+
+#### 14 ####
+Elly
+"It's an animal, so
+it can't help it.{enter}
+By the way, the first
+mate wants to see you."
+
+#### 15 ####
+Elly
+"...{wait:20}
+Fei...?"{clear:2D}
+
+#### 16 ####
+Citan
+"...{wait:20}She was given some
+strong hypnosis."
+
+#### 17 ####
+Citan
+"It is a special hypnotism
+that makes a person behave
+in a pre-programmed way.{enter}
+A special condition serves
+as a switch to act...but
+until then no strange
+behavior can be detected.{enter}
+She looked strange when
+coming out of the medical
+room, so I followed her."
+
+#### 18 ####
+Citan
+"Well, if you forcibly
+stop the behavior while
+imprinting,{enter}
+occasionally
+it destroys the mind...{enter}
+But it is true that I
+reacted a little late..."
+
+#### 19 ####
+Citan
+"It may take a while to
+fix it..."
+
+#### 20 ####
+Citan
+"Anyhow, we will take her
+to the medical room first.{enter}
+Fei, go to the room when
+you are done here. No need
+to worry. The hypnotist
+must have been a good one.{enter}
+There are no mental scars."
+
+#### 21 ####
+Citan
+"Wait! Do not worry about
+her. Stopping this is our
+priority."
+
+#### 22 ####
+Citan
+"There...
+How is this..."
+
+#### 23 ####
+Did she do this...{enter}
+Hypnosis?
+...That's pretty
+damned underhanded
+even for Solaris!
+
+#### 24 ####
+How badly are the main
+engines damaged? I need
+more time to see them
+closely...{enter}
+But it looks pretty bad.
+It may take a while.
+
+#### 25 ####
+Whaaat's up? Martle? Eh?{wait:20}
+Huh?
+
+#### 26 ####
+Hey, Miss.{enter}
+I heard you got caught.
+Are you okay?
+
+#### 27 ####
+Easy, Martle!
+It's just the Solarian
+girl. You don't need
+to bark!
+
+#### 28 ####
+...Oh?{wait:20}
+Oh, I see.
+Sorry.
+
+#### 29 ####
+Wha, what's going on?{enter}
+Young master,
+have you done it again?
+

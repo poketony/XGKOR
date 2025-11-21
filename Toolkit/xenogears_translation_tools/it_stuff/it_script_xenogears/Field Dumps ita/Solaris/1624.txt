@@ -1,0 +1,321 @@
+<TextBlock 1 w:14 h:1>
+!%#?&+!<Close><End of Block>
+<TextBlock 2 w:50 h:3>
+Qui davanti c'è Piazza Araboth.<Delay 10>
+Chi non ha nulla d'importante
+da fare in questo posto non
+può entrare!<Close><End of Block>
+<TextBlock 3 w:50 h:4>
+Avete dei biglietti…<Delay 10> 
+Bene, entrate pure.<Delay 10>
+Dovreste sbrigarvi, o
+non arriverete in tempo.<Close><End of Block>
+<TextBlock 4 w:48 h:4>
+Questi sono dei posti
+speciali per la Cerimonia
+di Consacrazione<Delay 10>…<New>
+Eh?<Delay 10> Niente biglietti?<Delay 10>
+Allora non potete entrare…<Close><End of Block>
+<TextBlock 5 w:52 h:3>
+Eh?<Delay 10> Che tipo di persona?<Delay 10> 
+Che domanda è? Una bellezza
+solariana, ovviamente.<Close><End of Block>
+<TextBlock 6 w:52 h:3>
+Per offrire assistenza ai
+cittadini, adesso accettiamo
+informazioni da utilizzare
+nel servizio crea-matrimoni.<New>
+Il Dipartimento di Controllo
+Centrale sceglierà per voi
+il partner più adatto.<New>
+Il nostro motto è:
+'Buone unioni generano
+buona prole'.<New>
+Dopotutto, noi stessi siamo
+la discendenza che ne deriva,
+perciò è ovvio che noi
+siamo i migliori.<Close><End of Block>
+<TextBlock 7 w:48 h:2>
+La Cerimonia di Consacrazione
+è stata incredibile!!<Close><End of Block>
+<TextBlock 8 w:46 h:4>
+Che ne pensate di queste
+Mollascarpe?<Delay 10> Sono state
+create usando le tecnologie
+più avanzate.<New>
+Non fanno sforzare la spina
+dorsale… sono il massimo!<New>
+Poi, il modello Imperiale
+è super ultra mega raro
+e fichissimo!<Close><End of Block>
+<TextBlock 9 w:44 h:3>
+'La Cerimonia termina con
+una grande fanfara'…<Delay 10> 
+È stato stupenda.<Close><End of Block>
+<TextBlock 10 w:36 h:2>
+La Cerimonia di
+Consacrazione
+inizierà presto.<Close><End of Block>
+<TextBlock 11 w:48 h:4>
+'La riuscita del Piano
+di Rimossione del Portale
+Imperiale'…<Delay 10>
+È stato l'Imperatore a
+volerlo.<Close><End of Block>
+<TextBlock 12 w:48 h:4>
+'Il Campo di Difesa di
+Solaris Distrutto'…<Delay 10>
+Quei selvaggi adesso
+sono davvero nei guai.<Close><End of Block>
+<TextBlock 13 w:50 h:4>
+Mmh, il modello più moderno
+di auto antigravitazionale…
+'Blatta'.<Delay 10>
+Però si dovrebbe migliorare
+il suo design.<Close><End of Block>
+<TextBlock 14 w:50 h:4>
+Avete sentito il messaggio
+inviato dall'Imperatore e
+da Krelian?<Delay 10> 
+È stato magnifico…<Delay 10><New>
+Ma quello lì, Ramsus,
+è imperdonabile.<Delay 10>
+È sempre succube
+dell'Imperatore!<Close><End of Block>
+<TextBlock 15 w:50 h:3>
+Sembra che ci sia una grande
+guerra sulla superficie.<New>
+Ma non è assolutamente una
+cosa che ci riguarda.<New>
+Finché l'Imperatore è con
+noi, possiamo vivere in pace.<New>
+Saltare dalla padella potrebbe
+significare cadere nelle brace…<New>
+Quello stupido di Ramsus
+non l'ha ancora capito.<Close><End of Block>
+<TextBlock 16 w:46 h:1>
+Lunga vita all'Imperatore!!<Close><End of Block>
+<TextBlock 17 w:58 h:4>
+Qui puoi ottenere tutto
+ciò che vuoi.<New>
+Guarda, se fossimo in un
+altro posto, avrei perso
+questo braccio in un
+incidente…<New>
+Ma grazie alla tecnologia
+bionica di Solaris, guarda
+un po', non sono rimasto
+sfregiato!<New>
+Qui non c'è nessuno dei
+crimini, dei disastri o
+delle guerre che ci sono
+sulla terra.<New>
+La scienza ci rende ogni
+cosa possibile.<Close><End of Block>
+<TextBlock 18 w:48 h:4>
+Tutte le volte che alzo
+lo sguardo, vedo le navi
+da guerra aeree di Solaris…<Delay 10>
+Mi basta vederle per
+sentirmi al sicuro.<Close><End of Block>
+<TextBlock 19 w:54 h:4>
+Mi basta abbassare lo
+sguardo per pensare che…<Delay 10>
+… quelle povere anime non
+possono vivere in questa
+bellissima città.<New>
+Anche se distruggono il
+Portale, sono tutti sforzi
+inutili…<New>
+Si tratta soltanto di una
+futile resistenza da parte
+di coloro che giammai
+raggiungeranno il nostro
+paradiso.<Close><End of Block>
+<TextBlock 20 w:54 h:3>
+Avete sentito il magnifico
+discorso dell'Imperatore?<New>
+Mi basta sentire la sua
+splendida voce da baritono
+per piangere di gioia.<Delay 10> 
+È lo stesso per voi?<Close><End of Block>
+<TextBlock 21 w:52 h:4>
+Sarà l'Imperatore in persona
+ad effettuare il discorso.<New>
+Non sopporta più vederci in
+una tale confusione, perciò,
+in via del tutto eccezionale,
+si mostrerà in pubblico!<New>
+Dovremmo essergli grati.<Close><End of Block>
+<TextBlock 22 w:46 h:2>
+L'Imperatore è grande,
+ma questo è il DK1200!<Close><End of Block>
+<TextBlock 23 w:36 h:1>
+Sìì! L'Imperatore!<Close><End of Block>
+<TextBlock 24 w:48 h:4>
+Il DK1200 è così forte!
+L'hanno migliorato,
+ed ora danza e canta
+perfettamente<Delay 10>!<New>
+Non vedo l'ora di scaricare
+le nuove canzoni!<Close><End of Block>
+<TextBlock 25 w:52 h:3>
+Poco fa i Cubi di Sicurezza
+stavano inseguendo due
+strane persone…<New>
+Mi chiedo se fossero quelli
+di cui aveva parlato Krelian…?<New>
+Tu sei un cittadino di III
+Classe, ma non faresti mai
+quello che hanno fatto
+quelli, vero?<Close><End of Block>
+<TextBlock 26 w:44 h:3>
+Non avete un biglietto?<Delay 10>
+Fareste meglio a
+procurarvene uno
+in tempo<Close><End of Block>
+<TextBlock 27 w:52 h:4>
+Qui davanti c'è Piazza Araboth.<Delay 10>
+La Cerimonia di Consacrazione
+sta per iniziare, ma visto che
+non avete i biglietti…<Close><End of Block>
+<TextBlock 28 w:50 h:2>
+…<Delay 10>
+Hai uno strano aspetto.<New>
+I cittadini di III Classe
+dovrebbero vestirsi in un
+modo più appropriato.<Close><End of Block>
+<TextBlock 29 w:40 h:4>
+La Cerimonia di Consacrazione
+sta per iniziare.<Delay 10> In città
+saranno tutti agitati.<Close><End of Block>
+<TextBlock 30 w:50 h:2>
+…<Delay 10>
+Hai uno strano aspetto.<New>
+I cittadini di III Classe
+dovrebbero vestirsi in un
+modo più appropriato.<Close><End of Block>
+<TextBlock 31 w:26 h:1>
+Pericolo qui davanti.<Close><End of Block>
+<TextBlock 32 w:44 h:2>
+Ci sarà molto traffico
+durante la Cerimonia.<Close><End of Block>
+<TextBlock 33 w:26 h:1>
+Pericolo qui davanti.<Close><End of Block>
+<TextBlock 34 w:48 h:4>
+State Etemgirando?<Delay 10> Cos'è?<Delay 10>
+Etemgirare vuol dire
+camminare qui a Etemenanki.<New>
+E per farlo si deve
+scaricare la Guida Etem.<New>
+Il Controllo Centrale ha
+sempre delle cose simpatiche.<Delay 10>
+Infatti il loro lavoro è
+tenere felici i cittadini.<Close><End of Block>
+<TextBlock 35 w:31 h:3>
+<]><Delay 5><]><Delay 5><]><Delay 5> Controllo ID.<Space 1> 
+!%#?&+!<Delay 10>
+ … Controllo OK.<Close><End of Block>
+<TextBlock 36 w:33 h:3>
+<]><Delay 5><]><Delay 5><]><Delay 5> Controllo ID.<Space 1>
+!%#?&+!<Delay 10>
+… Controllo OK.<Close><End of Block>
+<TextBlock 37 w:4 h:1>
+!!<Opcode 2 30><Close><End of Block>
+<TextBlock 38 w:49 h:3>
+Notizia Etren Urgente..   
+<]><Delay 5><]><Delay 5><]><Delay 5> La Cerimonia inizierà
+a breve.<Close><End of Block>
+<TextBlock 39 w:50 h:3>
+Servizio Musica di Solaris: 
+Ecco la top list…<New>
+= DK1200/Amore Antigravità
+= Skyhook/Canzone Ascensionale
+= Remi/Tramonto Solaris<New>
+Scaricare quete nuove canzoni
+al terminale più vicino.<New>
+Consigliamo agli utenti del
+DK950 di passare al DK 1200.<Close><End of Block>
+<TextBlock 40 w:32 h:3>
+… Voi due…<Delay 10>
+Cessate tutte le
+vostre azioni…<Close><End of Block>
+<TextBlock 41 w:50 h:3>
+… Elementi sospetti…
+avvistati in Piazza Araboth…
+Investigazione in corso…<Close><End of Block>
+<TextBlock 42 w:28 h:3>
+Fei
+"Elly, eccoli qui!"<Close><End of Block>
+<TextBlock 43 w:48 h:4>
+Elly
+"Se quei Cubi di Sicurezza
+ti prendono, saremo in
+grossi guai!<Delay 10> Fei, di qua!"<Close><End of Block>
+<TextBlock 44 w:12 h:1>
+Elly!!<Opcode 2 20><Close><End of Block>
+<TextBlock 45 w:56 h:1>
+… Fermi! Cessate di muovermi!<Close><End of Block>
+<TextBlock 46 w:6 h:1>
+…<Opcode 2 30><Close><End of Block>
+<TextBlock 47 w:42 h:2>
+Fei
+"Dovrò saltare!!"<Close><End of Block>
+<TextBlock 48 w:4 h:1>
+!!<Opcode 2 15><Close><End of Block>
+<TextBlock 49 w:38 h:1>
+… Sono…<Delay 20> fuggiti!?<Space 1><Close><End of Block>
+<TextBlock 50 w:34 h:1>
+… Affermativo…<Space 1><Close><End of Block>
+<TextBlock 51 w:16 h:1>
+Attaccare!!<Opcode 2 30><Close><End of Block>
+<TextBlock 52 w:26 h:1>
+… Di qua!?<Opcode 2 30><Close><End of Block>
+<TextBlock 53 w:44 h:2>
+… Elementi sospetti fuggiti!!
+… risposta d'emergenza!<Close><End of Block>
+<TextBlock 54 w:48 h:4>
+Elly
+"Cerimonia di
+Consacrazione<Delay 10>…<New>
+Solaris probabilmente
+non se la sta passando
+molto bene."<Close><End of Block>
+<TextBlock 55 w:46 h:4>
+Fei
+"Eh?<Delay 10> Perché
+dobbiamo andare
+a vederla?<New>
+Avevamo deciso di
+incontrarci con gli
+altri.<New>
+Non abbiamo tempo per
+andare a questa festa."<Close><End of Block>
+<TextBlock 56 w:52 h:3>
+Elly
+"Questa non è una
+festa qualsiasi.<New>
+La gente è turbata dalla
+scomparsa del Portale…<New>
+Probabilmente la Cerimonia
+serve per calmare i più.<New>
+Dobbiamo controllare la
+posizione che Solaris ha
+preso contro gli abitanti
+della superficie.<New>
+Fei,<Delay 10> dobbiamo trovare
+dei biglietti."<Close><End of Block>
+<TextBlock 57 w:52 h:4>
+Fei
+"Davvero…<Delay 10>?<New>
+A questo punto, immagino
+che dobbiamo ottenere
+qualche informazione
+sul nemico…"<Close><End of Block>
+<TextBlock 58 w:44 h:4>
+Elly
+"Sbrighiamoci.<Delay 10>
+Manca poco prima che
+la Cerimonia inizi."<Close><End of Block>
+<TextBlock 59 w:0 h:1>
+<Close><End of Block>

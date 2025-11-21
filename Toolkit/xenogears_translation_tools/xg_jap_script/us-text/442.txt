@@ -1,0 +1,108 @@
+#### 1 ####
+Elly
+"Fei!?"
+
+#### 2 ####
+Fei
+"Elly!!"
+
+#### 3 ####
+Elly
+"Fei, you're so careless.{enter}
+If you're trying to
+infiltrate the base,
+you have to be subtle.
+
+#### 4 ####
+Fei
+"Sorry...{wait:0A}
+Well, where are we?"
+
+#### 5 ####
+Elly
+"We're in the 'Solaris 3rd
+Class F block'.{enter}
+There's around 20 blocks
+each with land dwellers
+living in them.{enter}
+We Solarians are privy
+to all personal info...{enter}
+Everyone's DNA structure
+is inscribed on a molecular
+level.{enter}
+And even their class...{wait:0A}
+You know what these
+citizens are called?"
+
+#### 6 ####
+No...
+
+#### 7 ####
+Elly
+"'Worker Bees'.{wait:0A}
+It came from the shape of
+their housing blocks.{enter}
+These people provide the
+manual labor vital to the
+support of Solaris' core.{enter}
+I took a field trip here
+once long ago. I remember
+thinking that their lives
+had nothing to do with me.{enter}
+I never thought I would
+end up here like this..."
+
+#### 8 ####
+Fei
+"Which means, you should
+know your way around here,
+Elly."
+
+#### 9 ####
+Elly
+"Vaguely.{wait:0A}
+We need to escape first..."
+
+#### 10 ####
+Fei
+"Oh yeah, where's doc?"
+
+#### 11 ####
+Elly
+"He took a different pod
+looking for you...{enter}
+He may have ended
+up in a different block."
+
+#### 12 ####
+Fei
+"Damn...{wait:0A}
+We're all spread out."
+
+#### 13 ####
+Elly
+"I wouldn't worry about
+Citan.{wait:0A} He knows this
+city better than I do."
+
+#### 14 ####
+Fei
+"I wonder if Bart and
+them made it OK?"
+
+#### 15 ####
+Elly
+"Jessie's with them, so
+they should be fine."
+
+#### 16 ####
+Fei
+"I hope so..."
+
+#### 17 ####
+Elly
+"Anyway, let's move on."
+
+#### 18 ####
+
+

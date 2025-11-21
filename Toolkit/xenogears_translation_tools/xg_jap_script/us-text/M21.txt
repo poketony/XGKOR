@@ -1,0 +1,164 @@
+#### 1 ####
+
+
+
+#### 2 ####
+Restores HP (50)
+
+#### 3 ####
+Restores HP (150)
+
+#### 4 ####
+Restores HP (500)
+
+#### 5 ####
+Restores HP FULL
+
+#### 6 ####
+Restore HP FULL/All
+
+#### 7 ####
+Restores EP (10)
+
+#### 8 ####
+Restores EP (20)
+
+#### 9 ####
+Restores EP (30)
+
+#### 10 ####
+Restores EP FULL
+
+#### 11 ####
+Removes KO status
+
+#### 12 ####
+Revive/restores HP
+
+#### 13 ####
+Removes PHY effect
+
+#### 14 ####
+Removes MNT effect
+
+#### 15 ####
+Removes all effects
+
+#### 16 ####
+Wind UP/Earth DOWN
+
+#### 17 ####
+Earth UP/Wind DOWN
+
+#### 18 ####
+Fire UP/Water DOWN
+
+#### 19 ####
+Water UP/Fire DOWN
+
+#### 20 ####
+Def UP
+
+#### 21 ####
+Speed
+
+#### 22 ####
+Play Dead
+
+#### 23 ####
+Cancel Play Dead
+
+#### 24 ####
+Block PHY effects
+
+#### 25 ####
+Block MNT effects
+
+#### 26 ####
+Stop PHY effects
+
+#### 27 ####
+Stop MNT effects
+
+#### 28 ####
+Stop EQP effects
+
+#### 29 ####
+Wind Atk
+
+#### 30 ####
+Earth Atk
+
+#### 31 ####
+Fire Atk
+
+#### 32 ####
+Water Atk
+
+#### 33 ####
+In battle: Weapon Atk UP
+
+#### 34 ####
+
+
+
+#### 35 ####
+
+
+
+#### 36 ####
+
+
+
+#### 37 ####
+
+
+
+#### 38 ####
+
+
+
+#### 39 ####
+
+
+
+#### 40 ####
+
+
+
+#### 41 ####
+
+
+
+#### 42 ####
+
+
+
+#### 43 ####
+
+
+
+#### 44 ####
+
+
+
+#### 45 ####
+
+
+
+#### 46 ####
+
+
+
+#### 47 ####
+
+
+
+#### 48 ####
+
+
+
+#### 49 ####
+
+
+

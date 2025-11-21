@@ -1,0 +1,1126 @@
+#### 1 ####
+Became friends
+with Maria!
+
+#### 2 ####
+Fei
+"...!?{wait:14}
+{name:0B:¥ô¥§¥ë¥È©`¥ë} won't
+move!?"
+
+#### 3 ####
+Elly
+"{name:0D:¥ô¥£¥¨¥ë¥¸¥§} isn't
+responding either!"
+
+#### 4 ####
+Bart
+"Damn!
+What's going on?{enter}
+{name:0F:¥Ö¥ê¥¬¥ó¥Ç¥£¥¢} is not
+working right at all!"
+
+#### 5 ####
+Bart
+"{name:0F:¥Ö¥ê¥¬¥ó¥Ç¥£¥¢} won't
+move...!?"
+
+#### 6 ####
+Elly
+"{name:0D:¥ô¥£¥¨¥ë¥¸¥§} isn't
+responding either!"
+
+#### 7 ####
+Fei
+"Doc, what's going
+on...!?"
+
+#### 8 ####
+Elly
+"{name:0D:¥ô¥£¥¨¥ë¥¸¥§} won't
+move...!?"
+
+#### 9 ####
+Fei
+"Doc, what's going
+on...!?"
+
+#### 10 ####
+Bart
+"Damn!
+What's going on?{enter}
+{name:0F:¥Ö¥ê¥¬¥ó¥Ç¥£¥¢} is not
+working right at all!
+
+#### 11 ####
+Billy
+"This one's no good
+either...!!"
+
+#### 12 ####
+Rico
+"Is this his doing?"
+
+#### 13 ####
+Citan
+"Then, could this
+be...?"
+
+#### 14 ####
+Fei
+"At this rate, I can't
+do anything!{enter}
+Are you saying we have
+to sit here and take it?"
+
+#### 15 ####
+Citan
+"That is not what I mean.{wait:14}
+Maybe...
+Maria could..."
+
+#### 16 ####
+Fei
+"Got it!{wait:14}
+We've come this far, we're
+not gonna get beaten now!"
+
+#### 17 ####
+Fei
+"Crap!!{wait:14}
+At this rate, I can't
+do anything!"
+
+#### 18 ####
+Fei
+"Queen Zephyr, we will
+also fight to bring
+down Solaris.{enter}
+To begin with, where
+is Solaris?{wait:14}
+How do you get there?"
+
+#### 19 ####
+Fei
+"I see.{wait:14}
+I can't leave Nisan
+to its fate.{enter}
+Okay, first let's
+head to Nisan!"
+
+#### 20 ####
+Fei
+"I got it.
+Let's go together,
+Maria.{enter}
+We're friends from
+now on, {wait:14}
+you and...
+you and {name:13:¥¼¥×¥Ä¥§¥ó} too."
+
+#### 21 ####
+Fei
+"I got it."
+
+#### 22 ####
+Fei
+"Okay, let's go
+everyone!"
+
+#### 23 ####
+{name:07:¥Á¥å¥Á¥å}
+"I'm going."
+
+#### 24 ####
+{name:07:¥Á¥å¥Á¥å}
+"So...
+please let me go along."
+
+#### 25 ####
+{name:07:¥Á¥å¥Á¥å}
+"No problem.{wait:14}
+The gods will
+look after us.{enter}
+Let's go."
+
+#### 26 ####
+Maria
+"Th, this is..."
+
+#### 27 ####
+Maria
+"Achtzehn...!?"
+
+#### 28 ####
+Maria
+"Achtzehn...{wait:1E}
+is the 2nd Gear my father
+designed...{enter}
+{name:13:¥¼¥×¥Ä¥§¥ó}'s
+sister Gear.{wait:14}
+But Achtzehn wasn't
+completed...!{enter}
+Other than {name:13:¥¼¥×¥Ä¥§¥ó}
+father didn't make anymore,
+he was supposed to have
+burned the plans...!{enter}
+So...{wait:14}
+Why...!?"
+
+#### 29 ####
+Maria
+"That voice...{wait:1E}
+No...{wait:0A}
+Father!?"
+
+#### 30 ####
+Maria
+"Why that...!!{wait:1E}
+Why is father...!?"
+
+#### 31 ####
+Maria
+"But...!!{wait:1E}
+But... {wait:14}
+Father's voice...!?"
+
+#### 32 ####
+Maria
+"...!!{wait:1E}
+But..."
+
+#### 33 ####
+Maria
+"...{wait:1E}
+Okay...
+I understand."
+
+#### 34 ####
+Maria
+"..."
+
+#### 35 ####
+Maria
+"Stop it...!!"{clear:1E}
+
+#### 36 ####
+Maria
+"Why...?{wait:14}
+Why this...?"
+
+#### 37 ####
+Maria
+"Waghhh!"{clear:1E}
+
+#### 38 ####
+Maria
+"...!!"
+
+#### 39 ####
+Maria
+"Stop it!!
+You wouldn't
+know!!"
+
+#### 40 ####
+Maria
+"Even though, it may be,
+I...{wait:1E}
+to me..."
+
+#### 41 ####
+Maria
+"...{wait:14}
+I'm sorry..."
+
+#### 42 ####
+Maria
+"...!?{wait:14}
+What are you saying
+{name:07:¥Á¥å¥Á¥å}!?"
+
+#### 43 ####
+Maria
+"{name:07:¥Á¥å¥Á¥å}...!?"
+
+#### 44 ####
+Maria
+"...{wait:14}
+..."
+
+#### 45 ####
+Maria
+"...{wait:14}
+Yes."
+
+#### 46 ####
+Maria
+"Umm...{wait:14}
+Can you take me along
+with you?"
+
+#### 47 ####
+Maria
+"Yes."
+
+#### 48 ####
+People of Shevat!{wait:14}
+Hear me!
+
+#### 49 ####
+Nikolai
+"I'd heard some interesting
+rats had run into there...{enter}
+Just in time to test
+out Achtzehn.{wait:14}
+I can take you and Shevat
+out all at once!{enter}
+Hello, little rats,
+come on out.{wait:14}
+Come on my cute little
+guinea pigs."
+
+#### 50 ####
+Nikolai
+"So you can be test
+subjects for this guy."
+
+#### 51 ####
+Nikolai
+"Achtzehn's new weapon...{wait:14}
+the anti-Gear Psycho
+Jammer!"
+
+#### 52 ####
+Nikolai
+"That much time is enough
+to erase you from the face
+of the earth."
+
+#### 53 ####
+Nikolai
+"Humans are an imperfect,
+foolish life form...{enter}
+I will show the greatness
+of a perfect life form!{enter}
+Achtzehn, the combination
+of human wisdom and the
+strength of steel."
+
+#### 54 ####
+Zephyr
+"Calm down, Maria!!{enter}
+It doesn't mean that
+Dr. Nikolai is inside!"
+
+#### 55 ####
+Zephyr
+"Maria!!{wait:14}
+Get a hold of yourself!{enter}
+You intend to lose even
+before you fight...?{wait:14}
+Against the very people
+who made you suffer?"
+
+#### 56 ####
+Zephyr
+"Maria...{wait:14}
+You, wait here."
+
+#### 57 ####
+Zephyr
+"Everyone, please.{wait:14}
+Be careful."
+
+#### 58 ####
+Zephyr
+"...{wait:14}
+Listen, Maria...{enter}
+If the other Gears become
+immoblie, you and
+{name:13:¥¼¥×¥Ä¥§¥ó} are the
+only hope.{enter}
+You're full of spirit...{wait:14}
+You can decide what to
+do yourself."
+
+#### 59 ####
+Zephyr
+"Thank you, everyone.{enter}
+The generator is repaired
+and the gate is developing
+as usual.{enter}
+And Maria...
+You did very well.{wait:14}
+It is very regretful
+about Dr. Nikolai...{enter}
+Solaris put the doctor
+through all of that.{enter}
+We must defeat them as
+soon as possible and
+restore freedom!"
+
+#### 60 ####
+Zephyr
+"Solaris is hidden from
+human eyes by three
+gates.{enter}
+One of the gates is under
+the 'Ethos' H.Q. but...{wait:14}
+It is unreachable, even
+with Gears.{enter}
+I don't know where the
+other two are yet.{wait:14}{enter}
+Until we destroy the 3
+gates, the path to Solaris
+will not open.{enter}
+In addition we've received
+some disturbing news.{wait:14}
+Aveh has invaded Nisan."
+
+#### 61 ####
+Zephyr
+"Their target is probably
+somewhere in the earth.{enter}
+The secret royal
+treasure of Aveh.{enter}
+An Omnigear, sealed up
+by Roni Fatima!"
+
+#### 62 ####
+Zephyr
+"Your ship has been
+equipped with an
+aerial module.{enter}
+Originally it was the
+ship used by Bart's
+ancestor Roni.
+Make free use of it."
+
+#### 63 ####
+Zephyr
+"I have one request.{wait:14}
+Fei, take Maria along
+with you.{enter}
+This child, since her youth
+has been destined with no
+choice but to fight.{enter}
+Until she settles her own
+fights, she will not be
+able move on with her life.{enter}
+Go Maria, {wait:14}
+and find your purpose in
+life...on your own."
+
+#### 64 ####
+Zephyr
+"One of the sages,
+Gaspar, has returned.{enter}
+Gaspar is the one who
+taught martial arts to
+Kahn and Wiseman.{enter}
+I'm sure he will be able
+to teach you new techniques
+that will be of help to
+you on your journey.{enter}
+I've already told Gaspar.
+Before you leave you should
+learn from him."
+
+#### 65 ####
+Jessie
+"Okay, it's ready.{wait:14}
+So, the last one is...
+this."
+
+#### 66 ####
+Jessie
+"What's Achtzehn gonna
+do next?
+
+#### 67 ####
+Jessie
+"Shevat's Gear
+forces...!!"
+
+#### 68 ####
+Jessie
+"Beat it!{wait:0A}
+This isn't an opponent
+for you!!"
+
+#### 69 ####
+Jessie
+"Damn it...!{wait:14}
+I'm gonna mess you up!"
+
+#### 70 ####
+Jessie
+"Umph...!!"{clear:1E}
+
+#### 71 ####
+Jessie
+"This is not good..."
+
+#### 72 ####
+Jessie
+"The Gears' response
+circuits are acting strange
+because of a strong shock.{enter}
+Don't worry, it's
+only momentary."
+
+#### 73 ####
+Jessie
+"Achtzehn and its sister
+Gear {name:13:¥¼¥×¥Ä¥§¥ó}...{enter}
+So, it's normal there is
+an anti-jamming shield..."
+
+#### 74 ####
+Jessie
+"More than that...{wait:14}
+I don't wanna say
+it but...{enter}
+Your father is no
+longer in there..."
+
+#### 75 ####
+Jessie
+"I see...oh well...{wait:14}
+Might as well expect
+the worst then."
+
+#### 76 ####
+Elly
+"Shall we change?"
+
+#### 77 ####
+Bart
+"You wanna change?"
+
+#### 78 ####
+Bart
+"What's with that
+creepy Gear...?{enter}
+Do you know anything
+Maria?"
+
+#### 79 ####
+Bart
+"What the...?{wait:14}
+Shakhan?"
+
+#### 80 ####
+Bart
+"Damn!!{wait:14}
+This is no place
+to hesitate!{enter}
+I'm going to Nisan!{wait:14}
+We can't let Shakhan
+have his way!"
+
+#### 81 ####
+Billy
+"Shall we change?"
+
+#### 82 ####
+Rico
+"You wanna change?"
+
+#### 83 ####
+Citan
+"Shall we change?"
+
+#### 84 ####
+Citan
+"Well that is fine.{wait:14}
+Let us consider our
+next move!"
+
+#### 85 ####
+Citan
+"We must repulse the Gear
+forces and protect the
+generator."
+
+#### 86 ####
+Citan
+"To do that let us split
+into four teams, and
+intercept the enemy.{enter}
+The four of us will attack
+independently and defend
+each generator to the death.{wait:14}
+The other two, wait here.{enter}
+It is dangerous...but we
+cannot turn back now.{wait:14}
+If even one generator falls
+it is a defeat for us."
+
+#### 87 ####
+Citan
+"...
+Please Maria."
+
+#### 88 ####
+Citan
+"Next, the formation of
+the enemy Gear forces.{enter}
+At Generator 1, there
+are two small Gears and
+a complement of Solaris
+troops...{enter}
+If you do not hit them
+fast and hard you will
+get bogged down in a
+firefight.{enter}
+At Generator 2, there
+are 3 White Knights.{wait:14}
+They are very fast
+and maneuverable.{enter}
+At Generator 3 there
+is a large Gear and a
+White Knight.{enter}
+Be careful, the large
+Gear has some kind of
+special attack.{enter}
+At Generator 4, there
+is a large Gear and a
+White Knight.{enter}
+The large Gear seems to
+be a power Gear."
+
+#### 89 ####
+{fast:FF}Citan
+"So, who will go to
+Generator 1?"{wait:0A}
+    Fei
+    Citan
+    Elly
+    Bart
+    Rico
+    Billy
+    Hear enemy info.
+
+#### 90 ####
+Citan
+"Fei is already going
+to another generator.
+
+#### 91 ####
+Citan
+"I am already going
+to another generator."
+
+#### 92 ####
+Citan
+"Elly is already going
+to another generator."
+
+#### 93 ####
+Citan
+"Bart is already going
+to another generator."
+
+#### 94 ####
+Citan
+"Rico is already going
+to another generator."
+
+#### 95 ####
+Citan
+"Billy is already going
+to another generator."
+
+#### 96 ####
+{fast:FF}Generator 1
+    Two small Gears
+    and Solaris troops
+Generator 2
+    3 White Knights
+Generator 3
+    Special attack Gear
+    and 1 White Knight
+Generator 4
+    Power Gear and
+    1 White Knight
+
+#### 97 ####
+{fast:FF}Citan
+"Who will go to
+Generator 2?"{wait:0A}
+    Fei
+    Citan
+    Elly
+    Bart
+    Rico
+    Billy
+    Hear enemy info.
+    Start over
+
+#### 98 ####
+Citan
+"Fei is already going
+to another generator."
+
+#### 99 ####
+Citan
+"I am already going
+to another generator."
+
+#### 100 ####
+Citan
+"Elly is already going
+to another generator."
+
+#### 101 ####
+Citan
+"Bart is already going
+to another generator."
+
+#### 102 ####
+Citan
+"Rico is already going
+to another generator."
+
+#### 103 ####
+Citan
+"Billy is already going
+to another generator."
+
+#### 104 ####
+{fast:FF}Generator 1
+    Two small Gears and
+    Solaris troops
+Generator 2
+    3 White Knights
+Generator 3
+    Special attack Gear
+    and 1 White Knight
+Generator 4
+    Power Gear and
+    1 White Knight
+
+#### 105 ####
+Citan
+"Change the assignments?"
+   No, this is fine
+   Yes, start again
+
+#### 106 ####
+{fast:FF}Citan
+"Who will go to
+Generator 3?"{wait:0A}
+    Fei
+    Citan
+    Elly
+    Bart
+    Rico
+    Billy
+    Hear enemy info.
+    Start over
+
+#### 107 ####
+Citan
+"Fei is already going
+to another generator."
+
+#### 108 ####
+Citan
+"I am already going to
+another generator."
+
+#### 109 ####
+Citan
+"Elly is already going to
+another generator."
+
+#### 110 ####
+Citan
+"Bart is already going to
+another generator."
+
+#### 111 ####
+Citan
+"Rico is already going to
+another generator."
+
+#### 112 ####
+Citan
+"Billy is already going to
+another generator."
+
+#### 113 ####
+{fast:FF}Generator 1
+    Two small Gears and
+    Solaris troops
+Generator 2
+    3 White Knights
+Generator 3
+    Special attack Gear
+    and 1 White Knight
+Generator 4
+    Power Gear and
+    1 White Knight
+
+#### 114 ####
+Citan
+"Change the assignments?"
+   No, this is fine
+   Yes, start again
+
+#### 115 ####
+{fast:FF}Citan
+"Who will go to
+Generator 4?"{wait:0A}
+    Fei
+    Citan
+    Elly
+    Bart
+    Rico
+    Billy
+    Hear enemy info.
+    Start over
+
+#### 116 ####
+Citan
+"Fei is already going
+to another generator."
+
+#### 117 ####
+Citan
+"I am already going
+to another generator."
+
+#### 118 ####
+Citan
+"Elly is already going
+to another generator."
+
+#### 119 ####
+Citan
+"Bart is already going
+to another generator."
+
+#### 120 ####
+Citan
+"Rico is already going
+to another generator."
+
+#### 121 ####
+Citan
+"Billy is already going
+to another generator."
+
+#### 122 ####
+{fast:FF}Generator 1
+    Two small Gears and
+    Solaris troops
+Generator 2
+    3 White Knights
+Generator 3
+    Special attack Gear
+    and 1 White Knight
+Generator 4
+    Power Gear and
+    1 White Knight
+
+#### 123 ####
+Citan
+"Change the assignments?"
+   No, this is fine
+   Yes, start again
+
+#### 124 ####
+Citan
+"Understood.{wait:14}
+The target assignments
+are..."
+
+#### 125 ####
+Generator 1
+    Fei
+
+#### 126 ####
+Generator 1
+   Citan
+
+#### 127 ####
+Generator 1
+    Elly
+
+#### 128 ####
+Generator 1
+    Bart
+
+#### 129 ####
+Generator 1
+    Rico
+
+#### 130 ####
+Generator 1
+    Billy
+
+#### 131 ####
+Generator 2
+    Fei
+
+#### 132 ####
+Generator 2
+   Citan
+
+#### 133 ####
+Generator 2
+    Elly
+
+#### 134 ####
+Generator 2
+    Bart
+
+#### 135 ####
+Generator 2
+    Rico
+
+#### 136 ####
+Generator 2
+   Billy
+
+#### 137 ####
+Generator 3
+    Fei
+
+#### 138 ####
+Generator 3
+   Citan
+
+#### 139 ####
+Generator 3
+    Elly
+
+#### 140 ####
+Generator 3
+    Bart
+
+#### 141 ####
+Generator 3
+    Rico
+
+#### 142 ####
+Generator 3
+   Billy
+
+#### 143 ####
+Generator 4
+    Fei
+
+#### 144 ####
+Generator 4
+   Citan
+
+#### 145 ####
+Generator 4
+    Elly
+
+#### 146 ####
+Generator 4
+    Bart
+
+#### 147 ####
+Generator 4
+    Rico
+
+#### 148 ####
+Generator 4
+   Billy
+
+#### 149 ####
+Citan
+"Are these assignments OK?"
+    Yes, so let's go!
+    No, I wanna change'em!
+
+#### 150 ####
+Citan
+"Please hurry and get
+the preparations for
+the battle in order.{enter}
+Now, is this alright?"{wait:0A}
+    Let me get ready
+    Yes, let's go!
+
+#### 151 ####
+Citan
+"When you are ready,
+we will leave for
+the battle...{enter}
+Please hurry, now!{wait:14}
+The enemy is almost
+there!"
+
+#### 152 ####
+Citan
+"Understood.{enter}
+Those defending the
+generators, should now
+depart in their Gears!"
+
+#### 153 ####
+Citan
+"Well, the enemy is
+almost there!{enter}
+Are you ready now?"{wait:14}
+    Need a little longer
+    I'm ready, let's go!
+    Change the assignments
+
+#### 154 ####
+Citan
+"When you are ready,
+we will attack.{wait:14}
+Please hurry!"
+
+#### 155 ####
+Citan
+"Well alright then...{enter}
+Those defending the
+generators, should now
+depart in their Gears!"
+
+#### 156 ####
+Citan
+"Understood.{wait:14}
+The current battle
+assignments are..."
+
+#### 157 ####
+Generator 1
+    Fei
+
+#### 158 ####
+Generator 1
+   Citan
+
+#### 159 ####
+Generator 1
+    Elly
+
+#### 160 ####
+Generator 1
+    Bart
+
+#### 161 ####
+Generator 1
+    Rico
+
+#### 162 ####
+Generator 1
+   Billy
+
+#### 163 ####
+Generator 2
+    Fei
+
+#### 164 ####
+Generator 2
+   Citan
+
+#### 165 ####
+Generator 2
+    Elly
+
+#### 166 ####
+Generator 2
+    Bart
+
+#### 167 ####
+Generator 2
+    Rico
+
+#### 168 ####
+Generator 2
+   Billy
+
+#### 169 ####
+Generator 3
+    Fei
+
+#### 170 ####
+Generator 3
+   Citan
+
+#### 171 ####
+Generator 3
+    Elly
+
+#### 172 ####
+Generator 3
+    Bart
+
+#### 173 ####
+Generator 3
+    Rico
+
+#### 174 ####
+Generator 3
+   Billy
+
+#### 175 ####
+Generator 4
+    Fei
+
+#### 176 ####
+Generator 4
+   Citan
+
+#### 177 ####
+Generator 4
+    Elly
+
+#### 178 ####
+Generator 4
+    Bart
+
+#### 179 ####
+Generator 4
+    Rico
+
+#### 180 ####
+Generator 4
+   Billy
+
+#### 181 ####
+Citan
+"Are these assignments OK?"
+    Yes, so let's go!
+    No, I wanna change'em!
+
+#### 182 ####
+Citan
+"What was that...!?"
+
+#### 183 ####
+Citan
+"Powerful eletrical waves
+are interfering with the
+Gears' response circuits.{enter}
+Dont' worry, it will
+soon pass.{wait:14}
+But..."
+
+#### 184 ####
+Citan
+"That is not what I mean.{wait:14}
+What if...
+If {name:13:¥¼¥×¥Ä¥§¥ó}..."
+
+#### 185 ####
+Citan
+"If {name:13:¥¼¥×¥Ä¥§¥ó} is
+Achtzehn's sister Gear...
+then maybe...just maybe...{enter}
+...What I am saying is that
+it would not be surprising
+if it is equipped with an
+anti-jamming shield."
+

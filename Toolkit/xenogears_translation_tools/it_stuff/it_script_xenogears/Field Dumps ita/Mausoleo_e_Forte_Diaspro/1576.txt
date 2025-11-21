@@ -1,0 +1,12 @@
+<TextBlock 1 w:48 h:3>
+      Ascensore Num. 2
+ (<Down> Stanza di Controllo
+      Blocco Energia   )<Close><End of Block>
+<TextBlock 2 w:30 h:1>
+ Blocco Energia<Close><End of Block>
+<TextBlock 3 w:30 h:1>
+ Blocco Energia<Close><End of Block>
+<TextBlock 4 w:40 h:1>
+ 2° Ascensore blocco<Close><End of Block>
+<TextBlock 5 w:40 h:1>
+ 2° Ascensore blocco<Close><End of Block>

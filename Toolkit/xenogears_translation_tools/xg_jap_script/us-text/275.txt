@@ -1,0 +1,157 @@
+#### 1 ####
+Fei
+"Hey, that's..."
+
+#### 2 ####
+Rico
+"Oh come on, Citan.{enter}
+Just when I thought
+we were saved, now we're
+gonna be turned into
+Swiss cheese."
+
+#### 3 ####
+Citan
+"We are not{wait:0A} particularly
+liked here,{wait:0A} are we?"{clear:28}
+
+#### 4 ####
+!
+
+#### 5 ####
+Citan
+"Fei!
+Elly!
+You are all right."
+
+#### 6 ####
+Elly
+"Somehow."
+
+#### 7 ####
+Rico
+"This is no time for
+tearful reunions."
+
+#### 8 ####
+Fei
+"Yeah...
+Where's Bart?"
+
+#### 9 ####
+Citan
+"He is fighting below.{enter}
+He said he was going to
+hold them back until the
+depth charges were ready.{enter}
+But he left without the
+proper hydropreps...
+We are busy trying to
+ready the depth charges.{enter}
+Your Gears should be able
+to handle underwater
+warfare to some extent.
+Go help him out."
+
+#### 10 ####
+Fei
+"Got it.
+Elly, let's go."
+
+#### 11 ####
+Citan
+"Fei,
+where is Elly?"
+
+#### 12 ####
+Fei
+"The enemy{wait:05}...{wait:0A}
+took her."
+
+#### 13 ####
+Bart
+"Heh,
+I doubt that..."
+
+#### 14 ####
+Fei
+"Bart, what do you
+mean!?"
+
+#### 15 ####
+Citan
+"Stop it!!
+Fei!{enter}
+This is no time for
+bickering.{enter}
+For now, we must find a
+place to finish repairing
+the Yggdrasil."
+
+#### 16 ####
+Fei
+"...{wait:0A}...{wait:0A}Don't worry.
+The ship that saved
+us is nearby.{enter}
+They call it the Thames,
+and it's about the size of
+a small city.
+Their Captain can help us."
+
+#### 17 ####
+Rico
+"That's{wait:0A}...{wait:0A}...{wait:0A}
+the Thames...?"
+
+#### 18 ####
+Dominia
+"If you hadn't..."
+
+#### 19 ####
+Dominia
+"...been around..."
+
+#### 20 ####
+Dominia
+"I'll never forgive
+you..."
+
+#### 21 ####
+Dominia
+"You..."
+
+#### 22 ####
+Dominia
+"TRAITOR!!"
+
+#### 23 ####
+Bart
+"Here they come!"
+
+#### 24 ####
+Elly
+"Hey, that's..."
+
+#### 25 ####
+Bart
+"...Whew.
+She doesn't know
+when to quit."
+
+#### 26 ####
+Elly
+"Wh-what?"
+
+#### 27 ####
+Fei
+"Below!"
+
+#### 28 ####
+Bart
+"Is it what I think it
+is?"
+
+#### 29 ####
+Elly
+"..."
+

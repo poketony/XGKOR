@@ -1,0 +1,49 @@
+<TextBlock 1 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 2 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 3 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 4 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of BlockZ
+<TextBlock 5 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 6 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 7 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 8 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 9 w:70 h:3>
+<Opcode 1 255>Probabilmente lì c'è una guardia…
+    Apri la porta
+    Da' solo un'occhiata<Close><End of Block>
+<TextBlock 10 w:42 h:4>
+<Opcode 14 1>…
+<Opcode 1 1>Non darmi fastidio. 
+Sto facendo le prove
+per l'incontro di
+domani.<Close><End of Block>
+<TextBlock 11 w:48 h:4>
+Sono io quello che si prende
+tutti i problemi quando si
+creano piani per un attacco
+a sorpresa, ed ora mettono
+fine alla guerra!<New>
+Ecco che se ne va la mia
+possibilità di ottenere
+la gloria!<Close><End of Block>
+<TextBlock 12 w:2 h:1>
+!<Opcode 2 30><Close><End of Block>
+<TextBlock 13 w:30 h:3>
+Chi sei?
+Perché hai
+quell'aspetto?<Close><End of Block>

@@ -1,0 +1,122 @@
+#### 1 ####
+Billy
+"What's going on{wait:05}...{wait:05}{enter}
+The Etone are in charge
+of the 'Ethos' military
+but they've been killed
+without signs of struggle."
+
+#### 2 ####
+Reapers are humans turned
+into things by god to pay
+for their crimes.{wait:0F}{enter}
+They're sealed in the
+cursed land of the heavens,
+Shevat.
+
+#### 3 ####
+People belonging to the 
+'Ethos' must act modestly
+with generosity.{enter}
+To do that we often read
+from the sacred scripts
+to return to a purer soul.
+
+#### 4 ####
+This room was prepared 
+for people who have no 
+one to turn to.{enter}
+We hope to save their 
+souls and give them hope
+to live.
+
+#### 5 ####
+They say Babel Tower is 
+connected to Shevat. The 
+exit is under close watch 
+by our people.{enter}
+In spite of that, 
+cursed Reapers continue to 
+appear in this land.{wait:0F}{enter}
+That's why the Etone are 
+here to eliminate them.
+
+#### 6 ####
+We, the Etone, are the
+swords and shields of the
+'Ethos' so to speak.{enter}
+We fight with enemies
+such as Reapers{enter}
+and thieves to save 
+people with faith in god.
+
+#### 7 ####
+Billy!Does your dad
+hold a grudge against
+the 'Ethos'?{enter}
+They say the 'Ethos'
+supply dump was bombed
+again.
+
+#### 8 ####
+Aha! You!{enter}
+Ask Billy if his dad holds
+a grudge against the 
+'Ethos' or not.{enter}
+They say his father bombed
+the 'Ethos' supply dump.
+Oh, my head hurts.
+
+#### 9 ####
+Plundered by war and
+salvagers... Destruction
+by the Reapers...{wait:0A}
+We must meet the people's
+expectations toward the 
+'Ethos'.
+
+#### 10 ####
+Why does Jessie attack
+the 'Ethos' buildings?{wait:0A}
+I heard he was once an
+amazing Etone...
+
+#### 11 ####
+What's happening?
+I'm scared.
+
+#### 12 ####
+Mom...
+
+#### 13 ####
+What happened to the man
+from the 'Ethos'?{enter}
+He hasn't been back since
+he left the room earlier.
+
+#### 14 ####
+Um...someone from the
+'Ethos' got in a huge
+Gear and saved me.{enter}
+Some man named master
+attacked us...It was
+very frightening.
+
+#### 15 ####
+What's going on outside?
+Suddenly, men in black 
+stormed in here.{enter}
+Etones are fighting back
+for us now...
+
+#### 16 ####
+Please tell me, young man.
+Can't you have happiness
+without sacrifice?{enter}
+Can't you go through life
+without misery...?
+
+#### 17 ####
+Everyone...
+Everyone died.
+

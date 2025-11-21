@@ -1,0 +1,66 @@
+<TextBlock 1 w:42 h:1>
+Cos'è questo filmato…?<Close><End of Block>
+<TextBlock 2 w:44 h:3>
+Una registrazione della
+Cultura di Zeboim scomparsa
+4000 anni fa.<Close><End of Block>
+<TextBlock 3 w:42 h:2>
+Un momento!
+Chi è questa donna…?<Close><End of Block>
+<TextBlock 4 w:46 h:4>
+Miang, così come
+appariva nell'era
+di Zeboim. Ma non
+so quale fosse il
+suo corpo ospite.<New>
+Era il braccio destro
+del Primo Ministro,
+e manipolava il mondo
+da dietro le quinte.<Close><End of Block>
+<TextBlock 5 w:36 h:1>
+Per riportare
+in vita dio?<Close><End of Block>
+<TextBlock 6 w:54 h:4>
+All'inizio, sì.
+Ma in seguito le cose
+furono differenti.<New>
+Molte persone non potevano
+aver figli. Erano umani
+imperfetti… Così…
+lei lo fece di nuovo.<Close><End of Block>
+<TextBlock 7 w:56 h:4>
+Appena prima che l'uomo
+fosse ucciso dalla guerra…<New>
+… nacque una nuova vita
+per porre le basi alla
+successiva generazione.<New>
+Ricordate i missili che
+avete visto nel Propulsore?
+Quella era la cosa più
+importante per il popolo
+di Zeboim.<New>
+A causa di ciò, noi siamo
+i discendenti di quelle
+poche persone che allora
+sopravvissero, persone
+più forti delle altre.<Close><End of Block>
+<TextBlock 8 w:54 h:4>
+Fei
+"Crisi economica…
+Aumento del crimine…
+Degrado urbano…<New>
+Una nazione di fanatici
+in cerca del proprio
+spazio vitale…<New>
+… che credeva in capi
+religiosi folli e sotto
+una ferrea dittatura.<New>
+Questa gente non aveva
+alcun futuro a causa
+del danno genetico…<New>
+… e si sarebbe estinta,
+se lasciati continuare
+con le loro macchine.<New>
+Così, Elly ed io unimmo
+le speranze della gente
+e creammo Esmeralda…"<Close><Close><End of Block>

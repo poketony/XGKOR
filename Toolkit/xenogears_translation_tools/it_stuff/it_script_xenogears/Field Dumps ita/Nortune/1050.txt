@@ -1,0 +1,2420 @@
+<TextBlock 1 w:56 h:4>
+Custode
+"Qui dietro si trova
+l'hangar dei Gear
+dei partecipanti.<New>
+Sono spiacente, ma per
+evitare che i piloti
+barino, non è permesso
+che entrino delle
+persone non autorizzate."<Close><End of Block>
+<TextBlock 2 w:52 h:4>
+Addetta alle Informazioni
+"Nulla imparato, nulla
+guadagnato. Chiedi ed
+avrai<Delay 5>…<Delay 5> forse.<New>
+Comunque, 'Combattente',
+cosa ti serve sapere
+riguardo alle Gare di
+Battagliare?"<Close><End of Block>
+<TextBlock 3 w:50 h:5>
+Addetta alle Informazioni
+"Cosa ti spiego?"<Delay 15>
+<Opcode 1 255>    Cos'è Battagliare?
+    I comandi di base…?
+    Tutto a posto, grazie!<Close><End of Block>
+<TextBlock 4 w:54 h:6>
+Ragazza Scambia-BP
+"Cosa posso fare per te?"
+<Opcode 1 255>    BP Attuali
+    Cosa sono i BP?
+    Scambiarli con un oggetto
+    Nulla, grazie!<Close><End of Block>
+<TextBlock 5 w:46 h:2>
+<Opcode 1 255>HAI: <Opcode 10 0> BP
+BP TOTALI: <Opcode 10 1><Space 13><Close><End of Block>
+<TextBlock 6 w:58 h:6>
+Ragazza Scambia-BP
+"I BP, cioè Punti Battaglia,
+sono ciò che guadagni ogni
+volta che vinci una battaglia.<Delay 15>
+I BP vengono registrati in
+due tipologie differenti.<New>
+La prima è: 'BP Attuali'.<Delay 30>
+Questa rappresenta la quantità
+di BP che hai ottenuto.<New>
+Puoi scambiare i 'BP Attuali'
+con diversi premi, come
+degli oggetti.<Delay 30>
+Quando effettui uno scambio,
+il numero di BP richiesto
+verrà sottratto.<New>
+La seconda invece è:
+'BP Totali'.<Delay 30>
+Rappresentano il totale di
+Punti Battaglia che hai
+raccolto fino ad ora.<New>
+I 'BP Totali' di norma non
+sono utilizzati quando prendi
+un oggetto.<Delay 30> Inoltre, quando
+i tuoi 'BP Totali' raggiungono
+dei determinati valori, puoi
+scambiarli con diversi
+'Oggetti Rari'.<New>
+Ma ricorda: chi compra rischia
+sempre! Non è tutto così
+semplice! Ci sono dei premi
+che riducono anche i tuoi
+'BP Totali'! Perciò stai attento
+quando fai gli scambi!<New>
+In quei casi, potrebbe essere
+meglio scegliere i premi che
+non riducono i tuoi BP Totali.
+<Delay 15>…<Delay 5> D'altra parte, questo vale
+se non vuoi nulla d'eccezionale<Delay 5>…<Delay 15>
+comunque, è una tua decisione!"<Close><End of Block>
+<TextBlock 7 w:54 h:6>
+"Ecco il 'Menu di Scambio
+Oggetti'<Delay 5>…<Delay 5> Fai la tua scelta!"<Delay 30>
+<Opcode 1 255>    Parlami di questo Scambio…
+    Scambia con Oggetti Normali
+    Scambia con Oggetti Rari
+    Ho cambiato idea!<Close><End of Block>
+<TextBlock 8 w:56 h:6>
+Ragazza Scambia-BP
+"Quando effettui lo
+Scambio di Oggetti Normali,
+puoi scambiare i BP che hai
+ottenuto dalle gare di
+Battagliare con diversi tipi
+di oggetti, parti Gear, ecc.<New>
+È uno 'scambio', perciò quando
+paghi con i tuoi punti, è
+ovvio che quei punti saranno
+sottratti!!"<Close><End of Block>
+<TextBlock 9 w:54 h:6>
+Ragazza Scambia-BP
+"Una volta che scegli
+l'oggetto per cui vuoi
+scambiare i punti, non
+offriamo risarcimenti!<New>
+A parte per gli oggetti
+difettosi, ovviamente!"<Close><End of Block>
+<TextBlock 10 w:56 h:6>
+Ragazza Scambia-BP
+"L'altro tipo di scambio è
+per gli oggetti rari. Quando
+i tuoi punti totali raggiungono
+un certo livello, ti vengono
+presentati questi oggetti.<New>
+Gli oggetti preparati per te
+non possono essere trovati da
+nessun'altra parte, perciò
+sono alquanto di valore.<New>
+È anche per questo che ti è
+permesso comprarne uno solo
+di ogni tipo!"<Close><End of Block>
+<TextBlock 11 w:56 h:13>
+Ragazza Scambia-BP
+"Scambi i BP per…?"<Delay 30>
+<Opcode 1 255>    #00: Seme Anoressia
+    #01: Seme Bulimia
+    #02: Cuor di Leone
+    #03: Frutto Anoressia
+    #04: Frutto Bulimia
+    #05: Armat. Leggera+1
+    #06: Armat. Leggera+2
+    = PAGINA 2
+    Non ora, grazie.
+ 
+   BP ATTUALI:<Opcode 10 0><Close><End of Block>
+<TextBlock 12 w:52 h:6>
+Ragazza Scambia-BP
+"Vuoi questo premio?"<Delay 30>
+    Scusa, ho sbagliato!
+    Sì, scambia i miei BP!
+<Opcode 1 255>  = #00: 'Seme Anoressia'
+  = BP ATTUALI -250<Close><End of Block>
+<TextBlock 13 w:50 h:5>
+Ragazza Scambia-BP
+"<Delay 5>…<Delay 5> È così?<Delay 15>
+Beh, con quale premio vuoi
+scambiare i tuoi BP?<Delay 30>
+La prossima volta non
+sbagliare!"<Close><End of Block>
+<TextBlock 14 w:46 h:1>
+Ricevi 'Seme Anoressia'!<Close><End of Block>
+<TextBlock 15 w:56 h:5>
+Ragazza Scambia-BP
+"Scusa amore,<Delay 5> ma sembra
+che tu non abbia i punti
+necessari! <Delay 5>…<Delay 15>
+Nulla da fare!"<Close><End of Block>
+<TextBlock 16 w:52 h:6>
+Ragazza Scambia-BP
+"Vuoi questo premio?"<Delay 30>
+    Ops, ho sbagliato!
+    Sì, scambiamolo!
+<Opcode 1 255>  = #01: 'Seme Bulimia'
+  = BP ATTUALI -250<Close><End of Block>
+<TextBlock 17 w:56 h:5>
+Ragazza Scambia-BP
+"<Delay 5>…<Delay 5> È così?<Delay 15>
+Bene, allora, con quale
+oggetto vuoi scambiare
+i tuoi BP?<Delay 30> Questa volta
+scegli bene!"<Close><End of Block>
+<TextBlock 18 w:46 h:1>
+Ricevi 'Seme Bulimia'!<Close><End of Block>
+<TextBlock 19 w:62 h:5>
+Ragazza Scambia-BP
+"Scusami,<Delay 5> ma sembra che
+tu non abbia i punti che
+servono allo scambio! <Delay 5>…<Delay 15>
+Mi sa che non ci siamo!"<Close><End of Block>
+<TextBlock 20 w:52 h:6>
+Ragazza Scambia-BP
+"Vuoi questo premio?"<Delay 30>
+    No, ho sbagliato!
+    Sì, scambiamolo!
+<Opcode 1 255>  = #02: 'Cuor di Leone'
+  = BP ATTUALI -800<Close><End of Block>
+<TextBlock 21 w:54 h:5>
+Ragazza Scambia-BP
+"<Delay 5>…<Delay 5> Oh, davvero?<Delay 15>
+Bene, allora, con quale
+oggetto vuoi scambiare
+i tuoi BP?<Delay 30> Questa volta
+scegli meglio!"<Close><End of Block>
+<TextBlock 22 w:50 h:1>
+Ricevi 'Cuor di Leone'!<Close><End of Block>
+<TextBlock 23 w:54 h:5>
+Ragazza Scambia-BP
+"Scusa bello,<Delay 5> ma non
+hai abbastanza punti!
+Perciò<Delay 5>…<Delay 15> Non posso
+effettuare lo scambio!"<Close><End of Block>
+<TextBlock 24 w:52 h:6>
+Ragazza Scambia-BP
+"Vuoi questo premio?"<Delay 30>
+    No, non è questo, scusa!
+    Sì, ora scambiamolo!
+<Opcode 1 255>  = #03: 'Frutto Anoressia'
+  = BP ATTUALI -750<Close><End of Block>
+<TextBlock 25 w:56 h:5>
+Ragazza Scambia-BP
+"<Delay 5>…<Delay 5> Non dare la colpa a me!<Delay 15>
+Allora, fustacchione, con
+quale oggetti vuoi scambiare
+i tuoi BP?<Delay 30>
+Stavolta scegli bene, OK!?"<Close><End of Block>
+<TextBlock 26 w:48 h:1>
+Ricevi 'Frutto Anoressia'!<Close><End of Block>
+<TextBlock 27 w:58 h:5>
+Ragazza Scambia-BP
+"Credi di essere divertente?<Delay 5> 
+Perché di certo non mi sembra
+che tu abbia abbastanza punti<Delay 5>…!<Delay 15>
+Niente punti, niente oggetto!"<Close><End of Block>
+<TextBlock 28 w:52 h:6>
+Ragazza Scambia-BP
+"Vuoi questo premio?"<Delay 30>
+    Oh no, ho sbagliato!
+    Sì, affare fatto!
+<Opcode 1 255>  = #04: 'Frutto Bulimia'
+  = BP ATTUALI -750<Close><End of Block>
+<TextBlock 29 w:54 h:5>
+Ragazza Scambia-BP
+"<Delay 5>…<Delay 5> Hai sbagliato, eh?<Delay 15>
+Va bene, con quale oggetto
+vuoi scambiare i tuoi BP?<Delay 30>
+Stai più attento!"<Close><End of Block>
+<TextBlock 30 w:48 h:1>
+Ricevi 'Frutto Bulimia'!<Close><End of Block>
+<TextBlock 31 w:56 h:5>
+Ragazza Scambia-BP
+"Oh no,<Delay 5> sembra che tu non
+abbia abbastanza punti<Delay 5>…!<Delay 15>
+Sono sicura che sia solo un
+errore, ma, scusami, non
+posso fare lo scambio!"<Close><End of Block>
+<TextBlock 32 w:52 h:6>
+Ragazza Scambia-BP
+"Vuoi questo premio?"<Delay 30>
+    Ops, ho fatto casino!
+    OK, facciamo lo scambio!
+<Opcode 1 255>  = #05: 'Armat. Leggera+1'
+  = BP ATTUALI -750<Close><End of Block>
+<TextBlock 33 w:56 h:5>
+Ragazza Scambia-BP
+"<Delay 5>…<Delay 5> 'Ops, ho fatto casino'…!?<Delay 15>
+Beh, signor casinista, con
+che oggetto vuoi scambiare
+i tuoi BP?<Delay 30> Scegli con
+attenzione, per favore!"<Close><End of Block>
+<TextBlock 34 w:48 h:1>
+Ricevi 'Armat. Leggera+1'!<Close><End of Block>
+<TextBlock 35 w:54 h:5>
+Ragazza Scambia-BP
+"Vorrei fare lo scambio con
+te,<Delay 5> ma non hai abbastanza
+punti! Scusami<Delay 5>…<Delay 15>
+prova più tardi!"<Close><End of Block>
+<TextBlock 36 w:52 h:6>
+Ragazza Scambia-BP
+"Vuoi questo premio?"<Delay 30>
+    No, ho cambiato idea!
+    Sì, scambiamolo!
+<Opcode 1 255>  = #06: 'Armat. Leggera+2'
+  = BP ATTUALI -1000<Close><End of Block>
+<TextBlock 37 w:58 h:4>
+Ragazza Scambia-BP
+"<Delay 5>…<Delay 5> Cambiato idea?<Delay 15>
+Beh, Mr. Indeciso, con quale
+oggetto vuoi scambiare i
+tuoi BP?<Delay 30> Deciditi!<Close><End of Block>
+<TextBlock 38 w:48 h:1>
+Ricevi 'Armat. Leggera+2'!<Close><End of Block>
+<TextBlock 39 w:48 h:5>
+Ragazza Scambia-BP
+"Che cosa!?<Delay 5> Pensavi che
+fossi nata ieri!?<Delay 15>
+Non hai abbastanza punti!<Delay 5>
+L'affare è saltato!"<Close><End of Block>
+<TextBlock 40 w:56 h:13>
+Ragazza Scambia-BP
+"Scambi i BP per…?"<Delay 30>
+<Opcode 1 255>    #07: Armat. Leggera+3
+    #08: Armat. Specchio
+    #09: Opale
+    #10: Topazio
+    #11: Rubino
+    #12: Acquamarina
+    = PAGINA 1
+    = PAGINA 3
+    Non scambio nulla!
+ 
+   BP ATTUALI:<Opcode 10 0><Close><End of Block>
+<TextBlock 41 w:52 h:6>
+Ragazza Scambia-BP
+"Vuoi questo premio?"<Delay 30>
+    Scusa, ho sbagliato!
+    Sì, scambia i miei BP!
+<Opcode 1 255>  = #07: 'Armat. Leggera+3'
+  = BP ATTUALI -1250<Close><End of Block>
+<TextBlock 42 w:50 h:5>
+Ragazza Scambia-BP
+"<Delay 5>…<Delay 5> È così?<Delay 15>
+Beh, con quale premio vuoi
+scambiare i tuoi BP?<Delay 30>
+La prossima volta potresti
+non sbagliare!?"<Close><End of Block>
+<TextBlock 43 w:48 h:1>
+Ricevi 'Armat. Leggera+3'!<Close><End of Block>
+<TextBlock 44 w:56 h:5>
+Ragazza Scambia-BP
+"Scusa amore,<Delay 5> ma sembra
+che tu non abbia i punti
+necessari! <Delay 5>…<Delay 15>
+Nulla da fare!"<Close><End of Block>
+<TextBlock 45 w:52 h:6>
+Ragazza Scambia-BP
+"Vuoi questo premio?"<Delay 30>
+    Ops, ho sbagliato!
+    Sì, scambiamolo!
+<Opcode 1 255>  = #08: 'Armat. Specchio'
+  = BP ATTUALI -1500<Close><End of Block>
+<TextBlock 46 w:56 h:5>
+Ragazza Scambia-BP
+"<Delay 5>…<Delay 5> È così?<Delay 15>
+Bene, allora, con quale
+oggetto vuoi scambiare
+i tuoi BP?<Delay 30> Questa volta
+scegli bene!"<Close><End of Block>
+<TextBlock 47 w:48 h:1>
+Ricevi 'Armat. Specchio'!<Close><End of Block>
+<TextBlock 48 w:60 h:5>
+Ragazza Scambia-BP
+"Scusami,<Delay 5> ma sembra che
+tu non abbia i punti che
+servono allo scambio! <Delay 5>…<Delay 15>
+Mi sa che non ci siamo!"<Close><End of Block>
+<TextBlock 49 w:52 h:6>
+Ragazza Scambia-BP
+"Vuoi questo premio?"<Delay 30>
+    No, ho sbagliato!
+    Sì, scambiamolo!
+<Opcode 1 255>  = #09: 'Opale'
+  = BP ATTUALI -2000<Close><End of Block>
+<TextBlock 50 w:54 h:5>
+Ragazza Scambia-BP
+"<Delay 5>…<Delay 5> È così?<Delay 15>
+Bene, allora, con quale
+oggetto vuoi scambiare
+i tuoi BP?<Delay 30> Questa volta
+scegli bene!"<Close><End of Block>k>
+<TextBlock 51 w:42 h:1>
+Ricevi 'Topazio'!<Close><End of Block>
+<TextBlock 52 w:54 h:5>
+Ragazza Scambia-BP
+"Scusa amore,<Delay 5> ma non hai
+i punti che servono! Perciò<Delay 5>…<Delay 15>
+non posso fare lo scambio!"<Close><End of Block>
+<TextBlock 53 w:52 h:6>
+Ragazza Scambia-BP
+"Vuoi questo premio?"<Delay 30>
+    No, non è questo, scusa!
+    Sì, facciamo lo scambio!
+<Opcode 1 255>  = #10: 'Topazio'
+  = BP ATTUALI -2000<Close><End of Block>
+<TextBlock 54 w:56 h:5>
+Ragazza Scambia-BP
+"<Delay 5>…<Delay 5> Non dare la colpa a me!<Delay 15>
+Allora, fustacchione, con
+quale oggetti vuoi scambiare
+i tuoi BP?<Delay 30>
+Stavolta scegli bene, OK!?"<Close><End of Block>
+<TextBlock 55 w:44 h:1>
+Ricevi 'Topazio'!<Close><End of Block>
+<TextBlock 56 w:58 h:5>
+Ragazza Scambia-BP
+"Credi di essere divertente?<Delay 5> 
+Perché di certo non mi sembra
+che tu abbia abbastanza punti<Delay 5>…!<Delay 15>
+Niente punti, niente oggetto!"<Close><End of Block>
+<TextBlock 57 w:52 h:6>
+Ragazza Scambia-BP
+"Vuoi questo premio?"<Delay 30>
+    Oh no, ho sbagliato!
+    Sì, affare fatto!
+<Opcode 1 255>  = #11: 'Rubino'
+  = BP ATTUALI -2000<Close><End of Block>
+<TextBlock 58 w:54 h:5>
+Ragazza Scambia-BP
+"<Delay 5>…<Delay 5> Hai sbagliato, eh?<Delay 15>
+Va bene, con quale oggetto
+vuoi scambiare i tuoi BP?<Delay 30>
+Stai più attento!"<Close><End of Block>
+<TextBlock 59 w:42 h:1>
+Ricevi 'Rubino'!<Close><End of Block>
+<TextBlock 60 w:56 h:5>
+Ragazza Scambia-BP
+"Oh no,<Delay 5> sembra che tu non
+abbia abbastanza punti<Delay 5>…!<Delay 15>
+Sono sicura che sia solo un
+errore, ma, scusami, non
+posso fare lo scambio!"<Close><End of Block>
+<TextBlock 61 w:52 h:6>
+Ragazza Scambia-BP
+"Vuoi questo premio?"<Delay 30>
+    Che sfiga, ho sbagliato!
+    OK, l'affare è fatto!
+<Opcode 1 255>  = #12: 'Acquamarina'
+  = BP ATTUALI -2000<Close><End of Block>
+<TextBlock 62 w:56 h:5>
+Ragazza Scambia-BP
+"<Delay 5>…<Delay 5> 'Che sfiga, ho sbagliato'…!?<Delay 15>
+Beh, 'sfigato', con quale
+oggetto vuoi scambiare i tuoi
+BP?<Delay 30> Scegli con attenzione!"<Close><End of Block>
+<TextBlock 63 w:44 h:1>
+Ricevi 'Acquamarina'!<Close><End of Block>
+<TextBlock 64 w:54 h:5>
+Ragazza Scambia-BP
+"Vorrei fare lo scambio con
+te,<Delay 5> ma non hai abbastanza
+punti! Scusami<Delay 5>…<Delay 15>
+prova più tardi!"<Close><End of Block>
+<TextBlock 65 w:56 h:13>
+Ragazza Scambia-BP
+"Scambi i BP per…?"<Delay 30>
+<Opcode 1 255>    #13: Armat. Anti Aria
+    #14: Armat. Anti Terra
+    #15: Armat. Anti Fuoco
+    #16: Armat. Anti Acqua
+    #17: Elemento Aria
+    #18: Elemento Terra
+    = PAGINA 2
+    = PAGINA 4
+    Ho cambiato idea!
+ 
+   BP ATTUALI:<Opcode 10 0><Close><End of Block>
+<TextBlock 66 w:51 h:6>
+Ragazza Scambia-BP
+"Vuoi questo premio?"<Delay 30>
+    No, ho cambiato idea!
+    Sì, scambiamolo!
+<Opcode 1 255>  = #13: 'Armat. Anti Aria'
+  = BP ATTUALI -3500<Close><End of Block>
+<TextBlock 67 w:58 h:5>
+Ragazza Scambia-BP
+Beh, Sig. Indeciso, con quale
+oggetto vuoi scambiare i
+tuoi BP?<Delay 30> Deciditi!<Close><End of Block>
+<TextBlock 68 w:54 h:1>
+Ricevi 'Armat. Anti Vento'!<Close><End of Block>
+<TextBlock 69 w:48 h:5>
+Ragazza Scambia-BP
+"Che cosa!?<Delay 5> Pensavi che
+fossi nata ieri!?<Delay 15>
+Non hai abbastanza punti!<Delay 5>
+L'affare è saltato!"<Close><End of Block>
+<TextBlock 70 w:53 h:6>
+Ragazza Scambia-BP
+"Vuoi questo premio?"<Delay 30>
+    Scusa, ho sbagliato!
+    Sì, scambia i miei BP!
+<Opcode 1 255>  = #14: 'Armat. Anti Terra'
+  = BP ATTUALI -3500<Close><End of Block>
+<TextBlock 71 w:50 h:5>
+Ragazza Scambia-BP
+"<Delay 5>…<Delay 5> È così?<Delay 15>
+Beh, con quale premio vuoi
+scambiare i tuoi BP?<Delay 30>
+La prossima volta non
+sbagliare!"<Close><End of Block>
+<TextBlock 72 w:56 h:1>
+Ricevi 'Armat. Anti Terra'!<Close><End of Block>
+<TextBlock 73 w:56 h:5>
+Ragazza Scambia-BP
+"Scusa amore,<Delay 5> ma sembra
+che tu non abbia i punti
+necessari! <Delay 5>…<Delay 15>
+Nulla da fare!"<Close><End of Block>
+<TextBlock 74 w:52 h:6>
+Ragazza Scambia-BP
+"Vuoi questo premio?"<Delay 30>
+    Ops, ho sbagliato!
+    Sì, scambiamolo!
+<Opcode 1 255>  = #15: 'Armat. Anti Fuoco'
+  = BP ATTUALI -3500<Close><End of Block>
+<TextBlock 75 w:56 h:5>
+Ragazza Scambia-BP
+"<Delay 5>…<Delay 5> È così?<Delay 15>
+Bene, allora, con quale
+oggetto vuoi scambiare
+i tuoi BP?<Delay 30> Questa volta
+scegli bene!"<Close><End of Block>
+<TextBlock 76 w:54 h:1>
+Ricevi 'Armat. Anti Fuoco'!<Close><End of Block>
+<TextBlock 77 w:62 h:5>
+Ragazza Scambia-BP
+"Scusami,<Delay 5> ma sembra che
+tu non abbia i punti che
+servono allo scambio! <Delay 5>…<Delay 15>
+Mi sa che non ci siamo!"<Close><End of Block>
+<TextBlock 78 w:53 h:6>
+Ragazza Scambia-BP
+"Vuoi questo premio?"<Delay 30>
+    No, ho sbagliato!
+    Sì, scambiamolo!
+<Opcode 1 255>  = #16: 'Armat. Anti Acqua'
+  = BP ATTUALI -3500<Close><End of Block>
+<TextBlock 79 w:54 h:5>
+Ragazza Scambia-BP
+"<Delay 5>…<Delay 5> Oh, davvero?<Delay 15>
+Beh, con quale premio vuoi
+scambiare i tuoi BP?<Delay 30>
+La prossima volta non
+sbagliare!"<Close><End of Block>
+<TextBlock 80 w:56 h:1>
+Ricevi 'Armat. Anti Acqua'!<Close><End of Block>
+<TextBlock 81 w:54 h:5>
+Ragazza Scambia-BP
+"Scusa bello,<Delay 5> ma non
+hai abbastanza punti!
+Perciò<Delay 5>…<Delay 15> Non posso
+effettuare lo scambio!"<Close><End of Block>
+<TextBlock 82 w:52 h:6>
+Ragazza Scambia-BP
+"Vuoi questo premio?"<Delay 30>
+    No, non è questo, scusa!
+    Sì, ora scambiamolo!
+<Opcode 1 255>  = #17: 'Elemento Aria'
+  = BP ATTUALI -4500<Close><End of Block>
+<TextBlock 83 w:56 h:5>
+Ragazza Scambia-BP
+"<Delay 5>…<Delay 5> Non dare la colpa a me!<Delay 15>
+Allora, fustacchione, con
+quale oggetti vuoi scambiare
+i tuoi BP?<Delay 30>
+Stavolta scegli bene, OK!?"<Close><End of Block>
+<TextBlock 84 w:46 h:1>
+Ricevi 'Elemento Aria'!<Close><End of Block>
+<TextBlock 85 w:58 h:5>
+Ragazza Scambia-BP
+"Credi di essere divertente?<Delay 5> 
+Perché di certo non mi sembra
+che tu abbia abbastanza punti<Delay 5>…!<Delay 15>
+Niente punti, niente oggetto!"<Close><End of Block>
+<TextBlock 86 w:52 h:6>
+Ragazza Scambia-BP
+"Vuoi questo premio?"<Delay 30>
+    Oh no, ho sbagliato!
+    Sì, affare fatto!!
+<Opcode 1 255>  = #18: 'Elemento Terra'
+  = BP ATTUALI -4500<Close><End of Block>
+<TextBlock 87 w:54 h:5>
+Ragazza Scambia-BP
+"<Delay 5>…<Delay 5> Hai sbagliato, eh?<Delay 15>
+Va bene, con quale oggetto
+vuoi scambiare i tuoi BP?<Delay 30>
+Stai più attento!"<Close><End of Block>
+<TextBlock 88 w:46 h:1>
+Ricevi 'Elemento Terra'<Close><End of Block>
+<TextBlock 89 w:56 h:5>
+Ragazza Scambia-BP
+"Oh no,<Delay 5> sembra che tu non
+abbia abbastanza punti<Delay 5>…!<Delay 15>
+Sono sicura che sia solo un
+errore, ma, scusami, non
+posso fare lo scambio!"<Close><End of Block>
+<TextBlock 90 w:56 h:11>
+Ragazza Scambia-BP
+"Scambi i BP per…?"<Delay 30>
+<Opcode 1 255>    #19: Elemento Fuoco
+    #20: Elemento Idro
+    #21: Pietra Etere LG
+    #22: Pietra Anti Etere
+    = PAGINA 3
+    = PAGINA 1
+    Scusa, non voglio nulla!
+ 
+   BP ATTUALI:<Opcode 10 0><Close><End of Block>
+<TextBlock 91 w:52 h:6>
+Ragazza Scambia-BP
+"Vuoi questo premio?"<Delay 30>
+    Ops, ho fatto casino!
+    OK, facciamo lo scambio!
+<Opcode 1 255>  = #19: 'Elemento Fuoco'
+  = BP ATTUALI -4500<Close><End of Block>
+<TextBlock 92 w:54 h:5>
+Ragazza Scambia-BP
+"<Delay 5>…<Delay 5> 'Ops, ho fatto casino'…!?<Delay 15>
+Beh, signor casinista, con
+che oggetto vuoi scambiare
+i tuoi BP?<Delay 30> Scegli con
+attenzione, per favore!"<Close><End of Block>
+<TextBlock 93 w:46 h:1>
+Ricevi 'Elemento Fuoco'!<Close><End of Block>
+<TextBlock 94 w:54 h:5>
+Ragazza Scambia-BP
+"Vorrei fare lo scambio con
+te,<Delay 5> ma non hai abbastanza
+punti! Scusami<Delay 5>…<Delay 15>
+prova più tardi!"<Close><End of Block>
+<TextBlock 95 w:52 h:6>
+Ragazza Scambia-BP
+"Vuoi questo premio?"<Delay 30>
+    No, ho cambiato idea!
+    Sì, scambiamolo!
+<Opcode 1 255>  = #20: 'Elemento Idro'
+  = BP ATTUALI -4500<Close><End of Block>
+<TextBlock 96 w:56 h:5>
+Ragazza Scambia-BP
+"<Delay 5>…<Delay 5> Cambiato idea?<Delay 15>
+Beh, Mr. Indeciso, con quale
+oggetto vuoi scambiare i
+tuoi BP?<Delay 30> Deciditi!<Close><End of Block>
+<TextBlock 97 w:48 h:1>
+Ricevi 'Elemento Idro'!<Close><End of Block>
+<TextBlock 98 w:48 h:5>
+Ragazza Scambia-BP
+"Che cosa!?<Delay 5> Pensavi che
+fossi nata ieri!?<Delay 15>
+Non hai abbastanza punti!<Delay 5>
+L'affare è saltato!"<Close><End of Block>
+<TextBlock 99 w:52 h:6>
+Ragazza Scambia-BP
+"Vuoi questo premio?"<Delay 30>
+    Scusa, ho sbagliato!
+    Sì, scambia i miei BP!
+<Opcode 1 255>  = #21: 'Pietra Etere LG'
+  = BP ATTUALI -7500<Close><End of Block>
+<TextBlock 100 w:50 h:5>
+Ragazza Scambia-BP
+"<Delay 5>…<Delay 5> È così?<Delay 15>
+Beh, con quale premio vuoi
+scambiare i tuoi BP?<Delay 30>
+La prossima volta non
+sbagliare!"<Close><End of Block>
+<TextBlock 101 w:48 h:1>
+Ricevi 'Pietra Etere LG'!<Close><End of Block>
+<TextBlock 102 w:56 h:5>
+Ragazza Scambia-BP
+"Scusa amore,<Delay 5> ma sembra
+che tu non abbia i punti
+necessari! <Delay 5>…<Delay 15>
+Nulla da fare!"<Close><End of Block>
+<TextBlock 103 w:52 h:6>
+Ragazza Scambia-BP
+"Vuoi questo premio?"<Delay 30>
+    Ops, ho sbagliato!
+    Sì, scambiamolo!
+<Opcode 1 255>  = #22: 'Pietra Anti Etere'
+  = BP ATTUALI -8000<Close><End of Block>
+<TextBlock 104 w:56 h:5>
+Ragazza Scambia-BP
+"<Delay 5>…<Delay 5> È così?<Delay 15>
+Bene, allora, con quale
+oggetto vuoi scambiare
+i tuoi BP?<Delay 30> Questa volta
+scegli bene!"<Close><End of Block>
+<TextBlock 105 w:48 h:1>
+Ricevi 'Pietra Anti Etere L'!<Close><End of Block>
+<TextBlock 106 w:62 h:5>
+Ragazza Scambia-BP
+"Scusami,<Delay 5> ma sembra che
+tu non abbia i punti che
+servono allo scambio! <Delay 5>…<Delay 15>
+Mi sa che non ci siamo!"<Close><End of Block>
+<TextBlock 107 w:52 h:13>
+Ragazza Scambia-BP
+"Scambi i BP per…?"<Delay 30>
+<Opcode 1 255>    #00: Disco M
+    #01: Anello Potere S
+    #02: Anello Vigore S
+    #03: Anello Rapido S
+    #04: Fascia del Prode
+    #05: Bambola di Fei
+    #06: Bambola di Bart
+    = PAGINA 2
+    Non scambio ora!
+ 
+   BP TOTALI:<Opcode 10 0><Close><End of Block>
+<TextBlock 108 w:54 h:7>
+Ragazza Scambia-BP
+"Vuoi questo premio?"<Delay 30>
+    Scusa, ho sbagliato!
+    Sì, scambia i miei BP!
+<Opcode 1 255>  = #00: 'Disco M'
+  = BP ATTUALI : -3500
+  = BP TOTALI  : -4000<Close><End of Block>
+<TextBlock 109 w:56 h:6>
+Ragazza Scambia-BP
+"<Delay 5>…<Delay 5> È così?<Delay 15>
+Beh, con quale premio vuoi
+scambiare i tuoi BP?<Delay 30>
+La prossima volta non
+sbagliare!"<Close><End of Block>
+<TextBlock 110 w:56 h:4>
+Ragazza Scambia-BP
+"Ehi,<Delay 4> aspetta un attimo!<Delay 15>
+Non ne hai già uno?<New>
+I nostri preziosi premi
+non si possono ottenere da
+nessuna altra parte, e questo
+significa che dobbiamo darne
+massimo uno a persona. Scusa!"<Close><End of Block>
+<TextBlock 111 w:36 h:1>
+Ricevi 'Disco M'!<Close><End of Block>
+<TextBlock 112 w:56 h:5>
+Ragazza Scambia-BP
+"Scusa,<Delay 5> ma non sembri avere
+i punti necessari<Delay 5>…!<Delay 15> Peccato,<Delay 5>
+ma non posso effettuare
+lo scambio!"<Close><End of Block>
+<TextBlock 113 w:56 h:5>
+Ragazza Scambia-BP
+"Scusa,<Delay 5> ma non sembri avere
+i punti necessari<Delay 5>…!<Delay 15> Peccato,<Delay 5>
+ma non posso effettuare
+lo scambio!"<Close><End of Block>
+<TextBlock 114 w:54 h:6>
+Ragazza Scambia-BP
+"Vuoi questo premio?"<Delay 30>
+    No, grazie
+    Sì, scambiamolo!
+<Opcode 1 255>  = #01: 'Anello Potere S'
+  = BP TOTALI  : 2000<Close><End of Block>
+<TextBlock 115 w:56 h:6>
+Ragazza Scambia-BP
+"<Delay 5>…<Delay 5> È così?<Delay 15>
+Beh, con quale premio vuoi
+scambiare i tuoi BP?<Delay 30>
+La prossima volta potresti
+non sbagliare!?"<Close><End of Block>
+<TextBlock 116 w:56 h:4>
+Ragazza Scambia-BP
+"Ehi,<Delay 4> aspetta un attimo!<Delay 15>
+Non ne hai già uno?<New>
+I nostri preziosi premi
+non si possono ottenere da
+nessun'altra parte, e questo
+significa che dobbiamo darne
+massimo uno a persona. Scusa!"<Close><End of Block>
+<TextBlock 117 w:48 h:1>
+Ricevi 'Anello Potere S'!<Close><End of Block>
+<TextBlock 118 w:56 h:5>
+Ragazza Scambia-BP
+"Scusa,<Delay 5> ma non sembri avere
+i punti necessari<Delay 5>…!<Delay 15> Peccato,<Delay 5>
+ma non posso effettuare
+lo scambio!"<Close><End of Block>
+<TextBlock 119 w:54 h:6>
+Ragazza Scambia-BP
+"Vuoi questo premio?"<Delay 30>
+    Scusa, lascia stare!
+    Lo voglio, scambia i BP!
+<Opcode 1 255>  = #02: 'Anello Stamina S'
+  = BP TOTALI  : 3000<Close><End of Block>
+<TextBlock 120 w:56 h:6>
+Ragazza Scambia-BP
+"<Delay 5>…<Delay 5> È così?<Delay 15>
+Beh, con quale premio vuoi
+scambiare i tuoi BP?<Delay 30>
+La prossima volta potresti
+non sbagliare!?"<Close><End of Block>
+<TextBlock 121 w:56 h:4>
+Ragazza Scambia-BP
+"Ehi,<Delay 4> aspetta un attimo!<Delay 15>
+Non ne hai già uno?<New>
+I nostri preziosi premi
+non si possono ottenere da
+nessun'altra parte, e questo
+significa che dobbiamo darne
+massimo uno a persona. Scusa!"<Close><End of Block>
+<TextBlock 122 w:52 h:1>
+Ricevi 'Anello Stamina S'!<Close><End of Block>
+<TextBlock 123 w:56 h:5>
+Ragazza Scambia-BP
+"Scusami,<Delay 5> ma non hai
+abbastanza punti! Perciò<Delay 5>…<Delay 15>
+Non posso effettuare
+lo scambio!"<Close><End of Block>
+<TextBlock 124 w:54 h:6>
+Ragazza Scambia-BP
+"Vuoi questo premio?"<Delay 30>
+    No, grazie, non ora!
+    OK, affare fatto!
+<Opcode 1 255>  = #03: 'Anello Rapido S'
+  = BP TOTALI  : 4500<Close><End of Block>
+<TextBlock 125 w:56 h:6>
+Ragazza Scambia-BP
+"<Delay 5>…<Delay 5> È così?<Delay 15>
+Beh, con quale premio vuoi
+scambiare i tuoi BP?<Delay 30>
+La prossima volta potresti
+non sbagliare!?"<Close><End of Block>
+<TextBlock 126 w:56 h:4>
+Ragazza Scambia-BP
+"Ehi,<Delay 4> aspetta un attimo!<Delay 15>
+Non ne hai già uno?<New>
+I nostri preziosi premi
+non si possono ottenere da
+nessun'altra parte, e questo
+significa che dobbiamo darne
+massimo uno a persona. Scusa!"<Close><End of Block>
+<TextBlock 127 w:48 h:1>
+Ricevi 'Anello Rapido S'!<Close><End of Block>
+<TextBlock 128 w:56 h:5>
+Ragazza Scambia-BP
+"Scusami,<Delay 5> ma non hai
+abbastanza punti! Perciò<Delay 5>…<Delay 15>
+Non posso effettuare
+lo scambio!"<Close><End of Block>
+<TextBlock 129 w:54 h:6>
+Ragazza Scambia-BP
+"Vuoi questo premio?"<Delay 30>
+    No, grazie comunque!
+    Sì, per favore!
+<Opcode 1 255>  = #04: 'Fascia del Prode'
+  = BP TOTALI  : 6000<Close><End of Block>
+<TextBlock 130 w:56 h:6>
+Ragazza Scambia-BP
+"<Delay 5>…<Delay 5> È così?<Delay 15>
+Beh, con quale premio vuoi
+scambiare i tuoi BP?<Delay 30>
+La prossima volta potresti
+non sbagliare!?"<Close><End of Block>
+<TextBlock 131 w:56 h:4>
+Ragazza Scambia-BP
+"Ehi,<Delay 4> aspetta un attimo!<Delay 15>
+Non ne hai già uno?<New>
+I nostri preziosi premi
+non si possono ottenere da
+nessun'altra parte, e questo
+significa che dobbiamo darne
+massimo uno a persona. Scusa!"<Close><End of Block>
+<TextBlock 132 w:48 h:1>
+Ricevi 'Fascia del Prode'!<Close><End of Block>
+<TextBlock 133 w:56 h:5>
+Ragazza Scambia-BP
+"Scusami,<Delay 5> ma non hai
+abbastanza punti! Perciò<Delay 5>…<Delay 15>
+Non posso effettuare
+lo scambio!"<Close><End of Block>
+<TextBlock 134 w:54 h:7>
+Ragazza Scambia-BP
+"Vuoi questo premio?"<Delay 30>
+    Non proprio!
+    Sì, dammelo subito!
+<Opcode 1 255>  = #05: 'Bambola di Fei'
+  = BP ATTUALI : - 500
+  = BP TOTALI  : -3000<Close><End of Block>
+<TextBlock 135 w:56 h:6>
+Ragazza Scambia-BP
+"<Delay 5>…<Delay 5> È così?<Delay 15>
+Beh, con quale premio vuoi
+scambiare i tuoi BP?<Delay 30>
+La prossima volta potresti
+non sbagliare!?"<Close><End of Block>
+<TextBlock 136 w:56 h:4>
+Ragazza Scambia-BP
+"Ehi,<Delay 4> aspetta un attimo!<Delay 15>
+Non ne hai già uno?<New>
+I nostri preziosi premi
+non si possono ottenere da
+nessun'altra parte, e questo
+significa che dobbiamo darne
+massimo uno a persona. Scusa!"<Close><End of Block>
+<TextBlock 137 w:48 h:1>
+Ricevi 'Bambola di Fei'!<Close><End of Block>
+<TextBlock 138 w:56 h:5>
+Ragazza Scambia-BP
+"Scusami,<Delay 5> ma non hai
+abbastanza punti! Perciò<Delay 5>…<Delay 15>
+Non posso effettuare
+lo scambio!"<Close><End of Block>
+<TextBlock 139 w:56 h:5>
+Ragazza Scambia-BP
+"Scusa,<Delay 5> ma non sembri avere
+i punti necessari<Delay 5>…!<Delay 15> Peccato,<Delay 5>
+ma non posso effettuare
+lo scambio!"<Close><End of Block>
+<TextBlock 140 w:54 h:7>
+Ragazza Scambia-BP
+"Vuoi questo premio?"<Delay 30>
+    No, non lo voglio!
+    Sì, ora scambio i punti!
+<Opcode 1 255>  = #06: 'Bambola di Bart'
+  = BP ATTUALI : - 500
+  = BP TOTALI  : -3000<Close><End of Block>
+<TextBlock 141 w:56 h:6>
+Ragazza Scambia-BP
+"<Delay 5>…<Delay 5> È così?<Delay 15>
+Beh, con quale premio vuoi
+scambiare i tuoi BP?<Delay 30>
+La prossima volta potresti
+non sbagliare!?"<Close><End of Block>
+<TextBlock 142 w:56 h:4>
+Ragazza Scambia-BP
+"Ehi,<Delay 4> aspetta un attimo!<Delay 15>
+Non ne hai già uno?<New>
+I nostri preziosi premi
+non si possono ottenere da
+nessuna altra parte, e questo
+significa che dobbiamo darne
+massimo uno a persona. Scusa!"<Close><End of Block>
+<TextBlock 143 w:50 h:1>
+Ricevi 'Bambola di Bart'!<Close><End of Block>
+<TextBlock 144 w:56 h:5>
+Ragazza Scambia-BP
+"Scusa,<Delay 5> ma non sembri avere
+i punti necessari<Delay 5>…!<Delay 15> Peccato,<Delay 5>
+ma non posso effettuare
+lo scambio!"<Close><End of Block>
+<TextBlock 145 w:56 h:5>
+Ragazza Scambia-BP
+"Scusami,<Delay 5> ma non hai
+abbastanza punti! Perciò<Delay 5>…<Delay 15>
+Non posso effettuare
+lo scambio!"<Close><End of Block>
+<TextBlock 146 w:48 h:13>
+Ragazza Scambia-BP
+"Scambi i BP per…?"<Delay 30>
+<Opcode 1 255>    #07: Bambola di Billy
+    #08: Guardaspalle
+    #09: Salva Mente
+    #10: Etere x2
+    #11: Guardia Etere
+    #12: Pietra Vitale
+    = PAGINA 1
+    = PAGINA 3
+    Credo lascierò perdere!
+ 
+   BP TOTALI:<Opcode 10 0><Close><End of Block>
+<TextBlock 147 w:56 h:7>
+Ragazza Scambia-BP
+"Vuoi questo premio?"<Delay 30>
+    A ripensarci, no!
+    Sì, scambiamolo!
+<Opcode 1 255>  = #07: 'Bambola di Billy'
+  = BP ATTUALI : - 500
+  = BP TOTALI  : -3000<Close><End of Block>
+<TextBlock 148 w:56 h:6>
+Ragazza Scambia-BP
+"<Delay 5>…<Delay 5> È così?<Delay 15>
+Beh, con quale premio vuoi
+scambiare i tuoi BP?<Delay 30>
+La prossima volta potresti
+non sbagliare!?"<Close><End of Block>
+<TextBlock 149 w:56 h:4>
+Ragazza Scambia-BP
+"Ehi,<Delay 4> aspetta un attimo!<Delay 15>
+Non ne hai già uno?<New>
+I nostri preziosi premi
+non si possono ottenere da
+nessuna altra parte, e questo
+significa che dobbiamo darne
+massimo uno a persona. Scusa!"<Close><End of Block>
+<TextBlock 150 w:52 h:1>
+Ricevi 'Bambola di Billy'!<Close><End of Block>
+<TextBlock 151 w:56 h:5>
+Ragazza Scambia-BP
+"Scusami,<Delay 5> ma non hai
+abbastanza punti! Perciò<Delay 5>…<Delay 15>
+Non posso effettuare
+lo scambio!"<Close><End of Block>
+<TextBlock 152 w:56 h:5>
+Ragazza Scambia-BP
+"Scusami,<Delay 5> ma non hai
+abbastanza punti! Perciò<Delay 5>…<Delay 15>
+Non posso effettuare
+lo scambio!"<Close><End of Block>
+<TextBlock 153 w:54 h:7>
+Ragazza Scambia-BP
+"Vuoi questo premio?"<Delay 30>
+    Ops, ho fatto casino!
+    OK, affare fatto!
+<Opcode 1 255>  = #08: 'Guardaspalle'
+  = BP ATTUALI : - 500
+  = BP TOTALI  : -4000<Close><End of Block>
+<TextBlock 154 w:56 h:6>
+Ragazza Scambia-BP
+"<Delay 5>…<Delay 5> È così?<Delay 15>
+Beh, con quale premio vuoi
+scambiare i tuoi BP?<Delay 30>
+La prossima volta potresti
+non sbagliare!?"<Close><End of Block>
+<TextBlock 155 w:56 h:4>
+Ragazza Scambia-BP
+"Ehi,<Delay 4> aspetta un attimo!<Delay 15>
+Non ne hai già uno?<New>
+I nostri preziosi premi
+non si possono ottenere da
+nessuna altra parte, e questo
+significa che dobbiamo darne
+massimo uno a persona. Scusa!"<Close><End of Block>
+<TextBlock 156 w:44 h:1>
+Ricevi 'Guardaspalle'!<Close><End of Block>
+<TextBlock 157 w:56 h:5>
+Ragazza Scambia-BP
+"Scusa,<Delay 5> ma non sembri avere
+i punti necessari<Delay 5>…!<Delay 15> Peccato,<Delay 5>
+ma non posso effettuare
+lo scambio!"<Close><End of Block>
+<TextBlock 158 w:56 h:5>
+Ragazza Scambia-BP
+"Scusa,<Delay 5> ma non sembri avere
+i punti necessari<Delay 5>…!<Delay 15> Peccato,<Delay 5>
+ma non posso effettuare
+lo scambio!"<Close><End of Block>
+<TextBlock 159 w:54 h:7>
+Ragazza Scambia-BP
+"Vuoi questo premio?"<Delay 30>
+    No, scusa, ho sbagliato!
+    Sì, scambia i miei BP!
+<Opcode 1 255>  = #09: 'Salva Mente'
+  = BP ATTUALI : - 750
+  = BP TOTALI  : -4500<Close><End of Block>
+<TextBlock 160 w:56 h:6>
+Ragazza Scambia-BP
+"<Delay 5>…<Delay 5> È così?<Delay 15>
+Beh, con quale premio vuoi
+scambiare i tuoi BP?<Delay 30>
+La prossima volta potresti
+non sbagliare!?"<Close><End of Block>
+<TextBlock 161 w:56 h:4>
+Ragazza Scambia-BP
+"Ehi,<Delay 4> aspetta un attimo!<Delay 15>
+Non ne hai già uno?<New>
+I nostri preziosi premi
+non si possono ottenere da
+nessuna altra parte, e questo
+significa che dobbiamo darne
+massimo uno a persona. Scusa!"<Close><End of Block>
+<TextBlock 162 w:44 h:1>
+Ricevi 'Salva Mente'!<Close><End of Block>
+<TextBlock 163 w:56 h:5>
+Ragazza Scambia-BP
+"Scusami,<Delay 5> ma non hai
+abbastanza punti! Perciò<Delay 5>…<Delay 15>
+Non posso effettuare
+lo scambio!"<Close><End of Block>
+<TextBlock 164 w:56 h:5>
+Ragazza Scambia-BP
+"Scusami,<Delay 5> ma non hai
+abbastanza punti! Perciò<Delay 5>…<Delay 15>
+Non posso effettuare
+lo scambio!"<Close><End of Block>
+<TextBlock 165 w:54 h:6>
+Ragazza Scambia-BP
+"Vuoi questo premio?"<Delay 30>
+    No, grazie!
+    Sì, scambia i BP!
+<Opcode 1 255>  = #10: 'Etere x2'
+  = BP TOTALI  : 8000<Close><End of Block>
+<TextBlock 166 w:56 h:6>
+Ragazza Scambia-BP
+"<Delay 5>…<Delay 5> È così?<Delay 15>
+Beh, con quale premio vuoi
+scambiare i tuoi BP?<Delay 30>
+La prossima volta potresti
+non sbagliare!?"<Close><End of Block>
+<TextBlock 167 w:56 h:4>
+Ragazza Scambia-BP
+"Ehi,<Delay 4> aspetta un attimo!<Delay 15>
+Non ne hai già uno?<New>
+I nostri preziosi premi
+non si possono ottenere da
+nessuna altra parte, e questo
+significa che dobbiamo darne
+massimo uno a persona. Scusa!"<Close><End of Block>
+<TextBlock 168 w:50 h:1>
+Ricevi 'Etere x2'!<Close><End of Block>
+<TextBlock 169 w:56 h:5>
+Ragazza Scambia-BP
+"Scusami,<Delay 5> ma non hai
+abbastanza punti! Perciò<Delay 5>…<Delay 15>
+Non posso effettuare
+lo scambio!"<Close><End of Block>
+<TextBlock 170 w:54 h:6>
+Ragazza Scambia-BP
+"Vuoi questo premio?"<Delay 30>
+    Scusa, lascia stare!
+    Lo voglio, scambia i BP!
+<Opcode 1 255>  = #11: 'Guardia Etere'
+  = BP TOTALI  : 8500<Close><End of Block>
+<TextBlock 171 w:56 h:6>
+Ragazza Scambia-BP
+"<Delay 5>…<Delay 5> È così?<Delay 15>
+Beh, con quale premio vuoi
+scambiare i tuoi BP?<Delay 30>
+La prossima volta potresti
+non sbagliare!?"<Close><End of Block>
+<TextBlock 172 w:56 h:4>
+Ragazza Scambia-BP
+"Ehi,<Delay 4> aspetta un attimo!<Delay 15>
+Non ne hai già uno?<New>
+I nostri preziosi premi
+non si possono ottenere da
+nessuna altra parte, e questo
+significa che dobbiamo darne
+massimo uno a persona. Scusa!"<Close><End of Block>
+<TextBlock 173 w:46 h:1>
+Ricevi 'Guardia Etere'!<Close><End of Block>
+<TextBlock 174 w:56 h:5>
+Ragazza Scambia-BP
+"Scusami,<Delay 5> ma non hai
+abbastanza punti! Perciò<Delay 5>…<Delay 15>
+Non posso effettuare
+lo scambio!"<Close><End of Block>
+<TextBlock 175 w:54 h:6>
+Ragazza Scambia-BP
+"Vuoi questo premio?"<Delay 30>
+    No, grazie, non ora!
+    OK, affare fatto!
+<Opcode 1 255>  = #12: 'Pietra Vitale'
+  = BP TOTALI  : 9000<Close><End of Block>
+<TextBlock 176 w:56 h:6>
+Ragazza Scambia-BP
+"<Delay 5>…<Delay 5> È così?<Delay 15>
+Beh, con quale premio vuoi
+scambiare i tuoi BP?<Delay 30>
+La prossima volta potresti
+non sbagliare!?"<Close><End of Block>
+<TextBlock 177 w:56 h:4>
+Ragazza Scambia-BP
+"Ehi,<Delay 4> aspetta un attimo!<Delay 15>
+Non ne hai già uno?<New>
+I nostri preziosi premi
+non si possono ottenere da
+nessuna altra parte, e questo
+significa che dobbiamo darne
+massimo uno a persona. Scusa!"<Close><End of Block>
+<TextBlock 178 w:44 h:1>
+Ricevi 'Pietra Vitale'!<Close><End of Block>
+<TextBlock 179 w:56 h:5>
+Ragazza Scambia-BP
+"Scusa,<Delay 5> ma non sembri avere
+i punti necessari<Delay 5>…!<Delay 15> Peccato,<Delay 5>
+ma non posso effettuare
+lo scambio!"<Close><End of Block>
+<TextBlock 180 w:48 h:12>
+Ragazza Scambia-BP
+"Scambi i BP per…?"<Delay 30>
+<Opcode 1 255>    #13: Caricatore S
+    #14: Caricatore X
+    #15: GNRS50
+    #16: Abilita Tecn. 3
+    #17: Scarpette
+    = PAGINA 2
+    = PAGINA 1
+    Non ora, grazie!
+ 
+   BP TOTALI:<Opcode 10 0><Close><End of Block>
+<TextBlock 181 w:54 h:7>
+Ragazza Scambia-BP
+"Vuoi questo premio"<Delay 30>
+    Lascia stare, grazie!
+    Sì, per favore!
+<Opcode 1 255>  = #13: 'Caricatore S'
+  = BP ATTUALI : - 2500
+  = BP TOTALI  : -10000<Close><End of Block>
+<TextBlock 182 w:56 h:6>
+Ragazza Scambia-BP
+"<Delay 5>…<Delay 5> È così?<Delay 15>
+Beh, con quale premio vuoi
+scambiare i tuoi BP?<Delay 30>
+La prossima volta potresti
+non sbagliare!?"<Close><End of Block>
+<TextBlock 183 w:56 h:4>
+Ragazza Scambia-BP
+"Ehi,<Delay 4> aspetta un attimo!<Delay 15>
+Non ne hai già uno?<New>
+I nostri preziosi premi
+non si possono ottenere da
+nessuna altra parte, e questo
+significa che dobbiamo darne
+massimo uno a persona. Scusa!"<Close><End of Block>
+<TextBlock 184 w:42 h:1>
+Ricevi 'Caricatore S'!<Close><End of Block>
+<TextBlock 185 w:56 h:5>
+Ragazza Scambia-BP
+"Scusami,<Delay 5> ma non hai
+abbastanza punti! Perciò<Delay 5>…<Delay 15>
+Non posso effettuare
+lo scambio!"<Close><End of Block>
+<TextBlock 186 w:56 h:5>
+Ragazza Scambia-BP
+"Scusami,<Delay 5> ma non hai
+abbastanza punti! Perciò<Delay 5>…<Delay 15>
+Non posso effettuare
+lo scambio!"<Close><End of Block>
+<TextBlock 187 w:54 h:7>
+Ragazza Scambia-BP
+"Vuoi questo premio?"<Delay 30>
+    Non proprio!
+    Sì, lo voglio!
+<Opcode 1 255>  = #14: 'Caricatore X'
+  = BP ATTUALI : - 3000
+  = BP TOTALI  : -12500<Close><End of Block>
+<TextBlock 188 w:56 h:6>
+Ragazza Scambia-BP
+"<Delay 5>…<Delay 5> È così?<Delay 15>
+Beh, con quale premio vuoi
+scambiare i tuoi BP?<Delay 30>
+La prossima volta potresti
+non sbagliare!?"<Close><End of Block>
+<TextBlock 189 w:56 h:4>
+Ragazza Scambia-BP
+"Ehi,<Delay 4> aspetta un attimo!<Delay 15>
+Non ne hai già uno?<New>
+I nostri preziosi premi
+non si possono ottenere da
+nessuna altra parte, e questo
+significa che dobbiamo darne
+massimo uno a persona. Scusa!"<Close><End of Block>
+<TextBlock 190 w:42 h:1>
+Ricevi 'Caricatore X'!<Close><End of Block>
+<TextBlock 191 w:56 h:5>
+Ragazza Scambia-BP
+"Scusa,<Delay 5> ma non sembri avere
+i punti necessari<Delay 5>…!<Delay 15> Peccato,<Delay 5>
+ma non posso effettuare
+lo scambio!"<Close><End of Block>
+<TextBlock 192 w:56 h:5>
+Ragazza Scambia-BP
+"Scusa,<Delay 5> ma non sembri avere
+i punti necessari<Delay 5>…!<Delay 15> Peccato,<Delay 5>
+ma non posso effettuare
+lo scambio!"<Close><End of Block>
+<TextBlock 193 w:54 h:7>
+Ragazza Scambia-BP
+"Vuoi questo premio?"<Delay 30>
+    No, non lo voglio!
+    Sì, ora scambiamo i BP!
+<Opcode 1 255>  = #15: 'GNRS50'
+  = BP ATTUALI : - 5000
+  = BP TOTALI  : -15000<Close><End of Block>
+<TextBlock 194 w:56 h:6>
+Ragazza Scambia-BP
+"<Delay 5>…<Delay 5> È così?<Delay 15>
+Beh, con quale premio vuoi
+scambiare i tuoi BP?<Delay 30>
+La prossima volta potresti
+non sbagliare!?"<Close><End of Block>
+<TextBlock 195 w:56 h:4>
+Ragazza Scambia-BP
+"Ehi,<Delay 4> aspetta un attimo!<Delay 15>
+Non ne hai già uno?<New>
+I nostri preziosi premi
+non si possono ottenere da
+nessuna altra parte, e questo
+significa che dobbiamo darne
+massimo uno a persona. Scusa!"<Close><End of Block>
+<TextBlock 196 w:36 h:1>
+Ricevi 'GNRS50'!<Close><End of Block>
+<TextBlock 197 w:56 h:5>
+Ragazza Scambia-BP
+"Scusa,<Delay 5> ma non sembri avere
+i punti necessari<Delay 5>…!<Delay 15> Peccato,<Delay 5>
+ma non posso effettuare
+lo scambio!"<Close><End of Block>
+<TextBlock 198 w:56 h:5>
+Ragazza Scambia-BP
+"Scusami,<Delay 5> ma non hai
+abbastanza punti! Perciò<Delay 5>…<Delay 15>
+Non posso effettuare
+lo scambio!"<Close><End of Block>
+<TextBlock 199 w:56 h:7>
+Ragazza Scambia-BP
+"Vuoi questo premio?"<Delay 30>
+    A ripensarci, no!
+    Sì, scambiamolo!
+<Opcode 1 255>  = #16: 'Abilita Tecn. 3'
+  = BP ATTUALI : - 7500
+  = BP TOTALI  : -18000<Close><End of Block>
+<TextBlock 200 w:56 h:6>
+Ragazza Scambia-BP
+"<Delay 5>…<Delay 5> È così?<Delay 15>
+Beh, con quale premio vuoi
+scambiare i tuoi BP?<Delay 30>
+La prossima volta potresti
+non sbagliare!?"<Close><End of Block>
+<TextBlock 201 w:56 h:4>
+Ragazza Scambia-BP
+"Ehi,<Delay 4> aspetta un attimo!<Delay 15>
+Non ne hai già uno?<New>
+I nostri preziosi premi
+non si possono ottenere da
+nessuna altra parte, e questo
+significa che dobbiamo darne
+massimo uno a persona. Scusa!"<Close><End of Block>
+<TextBlock 202 w:48 h:1>
+Ricevi 'Abilita Tecn. 3'!<Close><End of Block>
+<TextBlock 203 w:56 h:5>
+Ragazza Scambia-BP
+"Scusami,<Delay 5> ma non hai
+abbastanza punti! Perciò<Delay 5>…<Delay 15>
+Non posso effettuare
+lo scambio!"<Close><End of Block>
+<TextBlock 204 w:56 h:5>
+Ragazza Scambia-BP
+"Scusami,<Delay 5> ma non hai
+abbastanza punti! Perciò<Delay 5>…<Delay 15>
+Non posso effettuare
+lo scambio!"<Close><End of Block>
+<TextBlock 205 w:54 h:7>
+Ragazza Scambia-BP
+"Vuoi questo premio?"<Delay 30>
+    Scusa, guardavo soltanto!
+    Va bene, affare fatto!
+<Opcode 1 255>  = #17: 'Scarpette'
+  = BP ATTUALI : - 4500
+  = BP TOTALI  : -30000<Close><End of Block>
+<TextBlock 206 w:56 h:6>
+Ragazza Scambia-BP
+"<Delay 5>…<Delay 5> È così?<Delay 15>
+Beh, con quale premio vuoi
+scambiare i tuoi BP?<Delay 30>
+La prossima volta potresti
+non sbagliare!?"<Close><End of Block>
+<TextBlock 207 w:56 h:4>
+Ragazza Scambia-BP
+"Ehi,<Delay 4> aspetta un attimo!<Delay 15>
+Non ne hai già uno?<New>
+I nostri preziosi premi
+non si possono ottenere da
+nessuna altra parte, e questo
+significa che dobbiamo darne
+massimo uno a persona. Scusa!"<Close><End of Block>
+<TextBlock 208 w:46 h:1>
+Ricevi 'Scarpette'!<Close><End of Block>
+<TextBlock 209 w:56 h:5>
+Ragazza Scambia-BP
+"Scusami,<Delay 5> ma non hai
+abbastanza punti! Perciò<Delay 5>…<Delay 15>
+Non posso effettuare
+lo scambio!"<Close><End of Block>
+<TextBlock 210 w:56 h:5>
+Ragazza Scambia-BP
+"Scusami,<Delay 5> ma non hai
+abbastanza punti! Perciò<Delay 5>…<Delay 15>
+Non posso effettuare
+lo scambio!"<Close><End of Block>
+<TextBlock 211 w:53 h:3>
+<Opcode 1 255>= Riparazioni Gear: - 00 G
+= BP vinti        : - 45 P
+= Bonus Speciale  : +000 G<Close><End of Block>
+<TextBlock 212 w:53 h:3>
+<Opcode 1 255>= Riparazioni Gear: - 00 G
+= BP vinti        : - 75 P
+= Bonus Speciale  : +000 G<Close><End of Block>
+<TextBlock 213 w:53 h:3>
+<Opcode 1 255>= Riparazioni Gear: - 00 G
+= BP vinti        : -300 P
+= Bonus Speciale  : +000 G<Close><End of Block>
+<TextBlock 214 w:53 h:3>
+<Opcode 1 255>= Riparazioni Gear: - 10 G
+= BP vinti        : +145 P
+= Bonus Speciale  : +210 G<Close><End of Block>
+<TextBlock 215 w:53 h:3>
+<Opcode 1 255>= Riparazioni Gear: - 30 G
+= BP vinti        : +175 P
+= Bonus Speciale  : +330 G<Close><End of Block>
+<TextBlock 216 w:53 h:3>
+<Opcode 1 255>= Riparazioni Gear: - 50 G
+= BP vinti        : +450 P
+= Bonus Speciale  : +550 G<Close><End of Block>
+<TextBlock 217 w:53 h:3>
+<Opcode 1 255>= Riparazioni Gear: - 00 G
+= BP vinti        : +215 P
+= Bonus Speciale  : +500 G<Close><End of Block>
+<TextBlock 218 w:53 h:3>
+<Opcode 1 255>= Riparazioni Gear: - 00 G
+= BP vinti        : +300 P
+= Bonus Speciale  : +700 G<Close><End of Block>
+<TextBlock 219 w:55 h:3>
+<Opcode 1 255>= Riparazioni Gear: -  00 G
+= BP vinti        : + 900 P
+= Bonus Speciale  : +1000 G<Close><End of Block>
+<TextBlock 220 w:53 h:3>
+<Opcode 1 255>= Riparazioni Gear: - 50 G
+= BP vinti        : + 75 P
+= Bonus Speciale  : +150 G<Close><End of Block>
+<TextBlock 221 w:53 h:3>
+<Opcode 1 255>= Riparazioni Gear: -100 G
+= BP vinti        : +120 P
+= Bonus Speciale  : +300 G<Close><End of Block>
+<TextBlock 222 w:53 h:3>
+<Opcode 1 255>= Riparazioni Gear: -150 G
+= BP vinti        : +245 P
+= Bonus Speciale  : +450 G<Close><End of Block>
+<TextBlock 223 w:53 h:3>
+<Opcode 1 255>= Riparazioni Gear: - 10 G
+= BP vinti        : - 32 P
+= Bonus Speciale  : +000 G<Close><End of Block>
+<TextBlock 224 w:53 h:3>
+<Opcode 1 255>= Riparazioni Gear: - 30 G
+= BP vinti        : - 48 P
+= Bonus Speciale  : +000 G<Close><End of Block>
+<TextBlock 225 w:53 h:3>
+<Opcode 1 255>= Riparazioni Gear: - 50 G
+= BP vinti        : -150 P
+= Bonus Speciale  : +000 G<Close><End of Block>
+<TextBlock 226 w:53 h:3>
+<Opcode 1 255>= Riparazioni Gear: -  5 G
+= BP vinti        : - 27 P
+= Bonus Speciale  : +000 G<Close><End of Block>
+<TextBlock 227 w:53 h:3>
+<Opcode 1 255>= Riparazioni Gear: - 15 G
+= BP vinti        : - 55 P
+= Bonus Speciale  : +000 G<Close><End of Block>
+<TextBlock 228 w:53 h:3>
+<Opcode 1 255>= Riparazioni Gear: - 45 G
+= BP vinti        : -200 P
+= Bonus Speciale  : +000 G<Close><End of Block>
+<TextBlock 229 w:53 h:3>
+<Opcode 1 255>= Riparazioni Gear: - 15 G
+= BP vinti        : - 16 P
+= Bonus Speciale  : +000 G<Close><End of Block>
+<TextBlock 230 w:53 h:3>
+<Opcode 1 255>= Riparazioni Gear: - 45 G
+= BP vinti        : - 32 P
+= Bonus Speciale  : +000 G<Close><End of Block>
+<TextBlock 231 w:53 h:3>
+<Opcode 1 255>= Riparazioni Gear: - 75 G
+= BP vinti        : -175 P
+= Bonus Speciale  : +000 G<Close><End of Block>
+<TextBlock 232 w:53 h:3>
+<Opcode 1 255>= Riparazioni Gear: - 15 G
+= BP vinti        : - 15 P
+= Bonus Speciale  : +000 G<Close><End of Block>
+<TextBlock 233 w:53 h:3>
+<Opcode 1 255>= Riparazioni Gear: - 45 G
+= BP vinti        : - 30 P
+= Bonus Speciale  : +000 G<Close><End of Block>
+<TextBlock 234 w:53 h:3>
+<Opcode 1 255>= Riparazioni Gear: - 75 G
+= BP vinti        : -125 P
+= Bonus Speciale  : +000 G<Close><End of Block>
+<TextBlock 235 w:53 h:3>
+<Opcode 1 255>= Riparazioni Gear: - 30 G
+= BP vinti        : - 45 P
+= Bonus Speciale  : +000 G<Close><End of Block>
+<TextBlock 236 w:53 h:3>
+<Opcode 1 255>= Riparazioni Gear: - 75 G
+= BP vinti        : - 75 P
+= Bonus Speciale  : +000 G<Close><End of Block>
+<TextBlock 237 w:53 h:3>
+<Opcode 1 255>= Riparazioni Gear: -100 G
+= BP vinti        : -155 P
+= Bonus Speciale  : +000 G<Close><End of Block>
+<TextBlock 238 w:53 h:3>
+<Opcode 1 255>= Riparazioni Gear: - 50 G
+= BP vinti        : -145 P
+= Bonus Speciale  : +000 G<Close><End of Block>
+<TextBlock 239 w:53 h:3>
+<Opcode 1 255>= Riparazioni Gear: -100 G
+= BP vinti        : -175 P
+= Bonus Speciale  : +000 G<Close><End of Block>
+<TextBlock 240 w:53 h:3>
+<Opcode 1 255>= Riparazioni Gear: -150 G
+= BP vinti        : -300 P
+= Bonus Speciale  : +000 G<Close><End of Block>
+<TextBlock 241 w:53 h:3>
+<Opcode 1 255>= Riparazioni Gear: - 50 G
+= BP vinti        : - 90 P
+= Bonus Speciale  : +000 G<Close><End of Block>
+<TextBlock 242 w:53 h:3>
+<Opcode 1 255>= Riparazioni Gear: -100 G
+= BP vinti        : -120 P
+= Bonus Speciale  : +000 G<Close><End of Block>
+<TextBlock 243 w:53 h:3>
+<Opcode 1 255>= Riparazioni Gear: -150 G
+= BP vinti        : -175 P
+= Bonus Speciale  : +000 G<Close><End of Block>
+<TextBlock 244 w:53 h:3>
+<Opcode 1 255>= Riparazioni Gear: - 50 G
+= BP vinti        : -100 P
+= Bonus Speciale  : +000 G<Close><End of Block>
+<TextBlock 245 w:53 h:3>
+<Opcode 1 255>= Riparazioni Gear: -100 G
+= BP vinti        : -150 P
+= Bonus Speciale  : +000 G<Close><End of Block>
+<TextBlock 246 w:53 h:3>
+<Opcode 1 255>= Riparazioni Gear: -150 G
+= BP vinti        : -450 P
+= Bonus Speciale  : +000 G<Close><End of Block>
+<TextBlock 247 w:56 h:4>
+"Cosa vuoi fare riguardo
+alla musica in battaglia?"
+    Il solito, grazie!
+    Va bene così.<Close><End of Block>
+<TextBlock 248 w:54 h:4>
+Addetta alla Ricezione
+"Ho confermato l'iscrizione
+del Pilota 'Fei'.<Delay 15>
+Un attimo, per favore<Delay 5>…"<Close><End of Block>
+<TextBlock 249 w:56 h:3>
+'<Weltall>' è stato inviato
+all'hangar dei partecipanti.
+Pronto ad essere guidato!<Close><End of Block>
+<TextBlock 250 w:58 h:3>
+'<Weltall-2>' è stato inviato
+all'hangar dei partecipanti.
+Pronto ad essere guidato!<Close><End of Block>
+<TextBlock 251 w:56 h:3>
+'<Xenogears>' è stato inviato
+all'hangar dei partecipanti.
+Pronto ad essere guidato!<Close><End of Block>
+<TextBlock 252 w:44 h:3>
+Pilota Fei! Proceda
+verso l'hangar dei
+partecipanti!<Opcode 2 60><Close><End of Block>
+<TextBlock 253 w:54 h:4>
+Addetta alle Informazioni
+"Okkeeeeey!<Delay 15>
+Benissimo,<Delay 5> ora ti spiego
+un po' cos'è 'Battagliare'."<Close><End of Block>
+<TextBlock 254 w:56 h:5>
+Addetta alle Informazioni
+"Battagliare è quello sport
+in cui i Gear si affrontano
+in degli uno contro uno.<New>
+Battagliare si svolge nella
+Arena della Capitale Imperiale.<New>
+Vuoi spiegato come funziona
+il tutto? Semplice: combatti
+fino a che l'avversario non
+è messo al tappeto.<Delay 10> Per dirlo
+in altri termini: fai a pezzi
+il tuo rivale!<New>
+Ma non devi combattere tanto
+da ridurre il tuo Gear ad un
+mucchio di rottami!<Delay 5> Ti è
+permesso arrenderti durante
+un incontro… così, se non
+puoi vincere<Delay 10>…<Delay 5> beh, lo sai…!<New>
+Infine, i valori delle armature
+dei Gear vengono uniformati,
+per non dare vantaggi ai
+partecipanti.<New>
+In altre parole, i combattenti
+devono fare affidamento totale
+sulle capacità principali del
+Gear che pilotano."<Close><End of Block>
+<TextBlock 255 w:44 h:4>
+Addetta alle Informazioni
+"Era un riassuntino veloce<Delay 5>
+… Credo.<Delay 30>
+Hai afferrato il punto?<Close><End of Block>
+<TextBlock 256 w:50 h:4>
+<Perso1>
+"Beh, emmh<Delay 5>…"<Delay 15>
+<Opcode 1 255>    Nessun problema!
+    Scusa, ma non capisco!<Close><End of Block>
+<TextBlock 257 w:56 h:5>
+Addetta alle Informazioni
+"La prossima cosa da fare
+è acquistare esperienza
+Battagliando realmente.<Delay 15>
+Il trucco è abituarsi ai
+controlli!<New>
+Ma<Delay 5> forse gettarti subito in
+una vera battaglia è troppo
+per te?<Delay 15> Allora<Delay 5> perché non
+provare la nostra 'modalità
+allenamento'? Serve a dare
+aiuto con i controlli!<New>
+È una modalità simulazione
+dove puoi fare pratica con
+i controlli basilari.<Delay 15>
+Consigliamo ai principianti
+di allenarsi prima qui!<New>
+Inoltre, c'è una 'modalità
+impara' che fornisce delle
+facili lezioni sui controlli
+di base, grazi ad una
+spiegazione su schermo."<Close><End of Block>
+<TextBlock 258 w:54 h:3>
+Addetta alle Informazioni
+"C'è qualcos'altro che
+vuoi chiedermi?"<Close><End of Block>
+<TextBlock 259 w:58 h:4>
+Addetta alle Informazioni
+"Eh?<Delay 5> Non hai capito?<Delay 10>
+Che strano! Beh, ancora
+una volta ricominciamo…<New>
+(Diamine, e io che pensavo
+che questo tipo fosse sveglio?<Delay 5>
+… Di sicuro mi sbagliavo…<Delay 5> 
+Ma la sua testa è a posto?)<Delay 10>
+Comunque, ora ascolta con
+attenzione!"<Close><End of Block>
+<TextBlock 260 w:58 h:7>
+Addetta alle Informazioni
+"Giusto, i controlli di base!
+Beh<Delay 5> cosa vuoi chiedere?<Delay 15>
+<Opcode 1 255>    Chiedi dei comandi
+    Modalità Impara
+    Modalità Allenamento
+    Chiedi qualcos'altro<Close><End of Block>
+<TextBlock 261 w:56 h:4>
+Addetta alle Informazioni
+"Giusto, i pulsanti di
+controllo. Allora ti spiego 
+come funziona ogni pulsante…<Close><End of Block>
+<TextBlock 262 w:54 h:4>
+Addetta alle Informazioni
+"Bene, ora spiegherò i
+controlli di base usando
+lo schermo."<Close><End of Block>
+<TextBlock 263 w:56 h:3>
+Addetta alle Informazioni
+"Allora…<Delay 10> vuoi provare
+i controlli, eh…"<Close><End of Block>
+<TextBlock 264 w:58 h:4>
+Addetta alle Informazioni
+"Oh,<Delay 5> beh<Delay 5>… fa' come vuoi!<Delay 15>
+Cos'altro vuoi chiedermi?"<Close><End of Block>
+<TextBlock 265 w:50 h:8>
+"Di quale pulsante ti
+serve sapere?<Delay 15>
+<Opcode 1 255>    Croce Direzionale
+    Pulsante <Cross>
+    Pulsante <Square>
+    Pulsante <Tri>
+    Pulsante <Circle>
+    Pagina successiva<Close><End of Block>
+<TextBlock 266 w:50 h:7>
+"Cosa devo spiegarti,
+allora?"<Delay 15>
+<Opcode 1 255>    Pulsante L1
+    Pulsante R1
+    Pulsante Start
+    Pagina precedente
+    Basta così<Close><End of Block>
+<TextBlock 267 w:52 h:4>
+Addetta alle Informazioni
+"Oh<Delay 5>… ne hai già abbastanza?
+Qualcos'altro che ti serve
+sapere!?<Delay 15> Non avere paura<Close><End of Block>
+<TextBlock 268 w:56 h:5>
+Addetta alle Informazioni
+"OK,<Delay 5> riguardo alla Croce
+direzionale…<Delay 15> Ammettendo che
+il tuo avversario sia alla
+tua destra (secondo il tuo
+punto di vista), allora…<New>
+= SU fa muovere il tuo Gear
+  lontano dallo schermo.<Delay 45>
+= GIÙ fa muovere il tuo Gear
+  verso lo schermo.<New>
+= DESTRA lo fa muovere
+  verso il tuo avversario.<Delay 45>
+= SINISTRA fa allontanare il
+  tuo Gear dall'avversario.<Close><End of Block>
+<TextBlock 269 w:56 h:5>
+Addetta alle Informazioni
+"Infine, quando sei vicino
+al tuo avversario, se premi
+SINISTRA azioni una mossa
+speciale: una brevissima
+retroaccelerazione!!<New>
+Usarla ti permetterà
+di metterti a distanza
+dall'avversario per un
+breve istante (oppure ti
+permette di 'scappare')…<Delay 30>!<New>
+Però ricorda: funziona
+solo se ti muovi nella
+direzione opposta a quella
+dell'avversario.<Close><End of Block>
+<TextBlock 270 w:54 h:5>
+"In poche parole è tutto qui!<Delay 30>
+Probabilmente è più facile
+capirlo provando dal vivo
+i comandi!"<Close><End of Block>
+<TextBlock 271 w:56 h:4>
+Addetta alle Informazioni
+"Il pulsante <Cross> è usato
+per ATTACCARE.<Delay 15> Ci sono tre
+pulsanti d'attacco, e <Cross> è
+uno di questi.<New>
+Cambia da Gear a Gear, ma di
+norma è usato per combattere
+da vicino.<Delay 15> E non sei costretto
+a colpire l'avversario solo
+una volta.<New>
+Combinando i pulsanti <Cross> e <Square>
+potrai creare una catena di
+attacchi, massimo tre di fila!<New>
+Contando tutti i comandi, ci
+sono 14 tipi di combinazioni
+utilizzabili!"<Close><End of Block>
+<TextBlock 272 w:56 h:4>
+Addetta alle Informazioni
+"Il pulsante <Square> è usato
+per ATTACCARE.<Delay 15> Ci sono tre
+pulsanti d'attacco, e <Square> è
+uno di questi.<New>
+Cambia da Gear a Gear, ma di
+norma è usato per combattere
+da vicino.<Delay 15> E non sei costretto
+a colpire l'avversario solo
+una volta.<New>
+Combinando i pulsanti <Cross> e <Square>
+potrai creare una catena di
+attacchi, massimo tre di fila!<New>
+Contando tutti i comandi, ci
+sono 14 tipi di combinazioni
+che puoi provare!"<Close><End of Block>
+<TextBlock 273 w:56 h:4>
+Addetta alle Informazioni
+"Il pulsante <Tri> serve a
+SALTARE!<Delay 5> Mentre salti
+i comandi per muoverti
+rimangono gli stessi.<New>
+Inoltre, anche mentre salti
+puoi attaccare con i pulsanti
+<Cross> e <Square>!<New>
+Oh, e ti è permesso anche
+usare il pulsante R1 per
+sparare Proiettili Eterei!<Close><End of Block>
+<TextBlock 274 w:53 h:4>
+Addetta alle Informazioni
+"Il pulsante <Circle> serve a
+SCATTARE.<Delay 10> Puoi muovere
+il tuo Gear normalmente.<New>
+L'unico problema è che
+non puoi continuare a
+correre per sempre."<Close><End of Block>
+<TextBlock 275 w:54 h:5>
+Addetta alle Informazioni
+"Per avere più dettagli,
+prova la 'Modalità Impara',
+dove un'altra addetta ti
+spiegherà altre cose."<Close><End of Block>
+<TextBlock 276 w:56 h:6>
+Addetta alle Informazioni
+"Non si deve solo attaccare!<Delay 10>
+Anche se si dice che l'attacco
+è la miglior difesa, ogni
+tanto è importante difendersi.<New>
+È per questo che il pulsante
+L1 è usato per DIFENDERSI!<Delay 15>
+Ma…<Delay 5> non ti protegge del
+tutto dai danni, perciò
+stai attento!"<Close><End of Block>
+<TextBlock 277 w:58 h:5>
+Addetta alle Informazioni
+"Col pulsante R1 lanci un
+attacco speciale chiamato
+'Proiettile Etereo'.<Delay 15> È buono
+per attaccare il tuo
+avversario dalla lunga
+distanza!<New>
+I 'Proiettili Eterei' hanno
+la capacità di autopilotarsi…<New>
+… perciò potresti cadere nella
+tentazione di contare spesso
+su di loro, ma te ne potresti
+pentire se li usi troppo!
+Stai molto attento!"<Close><End of Block>
+<TextBlock 278 w:56 h:5>
+Addetta alle Informazioni
+"Per avere più dettagli,
+prova la 'Modalità Impara',
+dove un'altra addetta ti
+spiegherà altre cose."<Close><End of Block>
+<TextBlock 279 w:56 h:4>
+Addetta alle Informazioni
+"Il pulsante Start ti
+permetterà di fermare
+la battaglia.<New>
+A questo punto, potresti
+voler scegliere l'opzione
+'RESA', se credi di non
+poter vincere."<Close><End of Block>
+<TextBlock 280 w:56 h:4>
+Addetta alle Informazioni
+"Sì,<Delay 5> sapevo che non avresti
+avuto problemi!<Delay 10> Comunque,<Delay 5>
+ora fa' del tuo meglio!"<Close><End of Block>
+<TextBlock 281 w:46 h:5>
+Addetta alle Informazioni
+"Cosa ti devo spiegare?"<Delay 15>
+<Opcode 1 255>    Battagliare
+    Controlli di base
+    So già tutto, grazie!<Close><End of Block>
+<TextBlock 282 w:54 h:3>
+Addetta alla Ricezione
+"Benvenuto nella 'Arena
+di Battagliare' della
+Capitale Imperiale!<New>
+Partecipi ad un incontro?"
+<Opcode 1 255>    Non voglio partecipare
+    Sì, iscrivimi!<Close><End of Block>
+<TextBlock 283 w:50 h:3>
+Addetta alla Ricezione
+"Siamo sempre aperti per
+le iscrizioni a Battagliare!"<Close><End of Block>
+<TextBlock 284 w:52 h:5>
+Addetta alla Ricezione
+"Scegli la modalità di gioco…"<Delay 30>
+<Opcode 1 255>    Cosa? Modalità di gioco?
+    Modalità Speciale 1
+    Modalità Speciale 2<Close><End of Block>
+<TextBlock 285 w:56 h:6>
+Addetta alla Ricezione
+"I Giochi Imperiali di
+Battagliare sono stati
+trasformati in uno sport
+normale<Delay 30>…<New>
+Ci sono due modalità.<New>
+La 'Modalità Speciale 1'
+è uguale ai combattimenti
+normali, se non per<Delay 5>…<Delay 5>
+woo-ooh-ooh<Delay 5>…<Delay 5> beh,<Delay 5>
+scoprilo da solo…<Delay 15>!<New>
+È più veloce provarlo che
+sentirmi spiegarlo!<New>
+La 'Modalità Speciale 2'
+è differente dagli scontri
+normali perché non appena
+vinci un incontro…<New>
+… puoi ottenere, accumulare
+e scambiare dei punti per
+avere dei premi!<Close><End of Block>
+<TextBlock 286 w:56 h:5>
+Addetta alla Ricezione
+"Scegli che Gear pilotare:"<Delay 30>
+<Opcode 1 255>    <Xenogears>
+    <Weltall-2>
+    <Weltall><Close><End of Block>
+<TextBlock 287 w:56 h:5>
+Addetta alla Ricezione
+"Scegli il livello del pilota…"
+<Opcode 1 255>    GEAR-LIVELLO-0
+    GEAR-LIVELLO-1
+    GEAR-LiVELLO-2<Close><End of Block>
+<TextBlock 288 w:56 h:4>
+Addetta alla Ricezione
+"Scegli il livello del pilota…"
+<Opcode 1 255>    GEAR-LIVELLO-0
+    GEAR-LIVELLO-1<Close><End of Block>
+<TextBlock 289 w:48 h:3>
+Ascolti per divertirti un po'?<Delay 15>
+<Opcode 1 255>    Non ascoltare
+    Ascolta<Close><End of Block>
+<TextBlock 290 w:48 h:3>
+Ascolti per divertirti un po'?<Delay 15>
+<Opcode 1 255>    Non ascoltare
+    Ascolta<Close><End of Block>
+<TextBlock 291 w:68 h:1>
+Non hai il disco giusto.<Close><End of Block>
+<TextBlock 292 w:26 h:9>
+CAMBIA MUSICA<Delay 15>
+<Opcode 1 255>    Un Componimento
+    Una Battaglia
+    Dungeon
+    Natura
+    Il mondo
+    Requiem
+    Emozioni
+    Annulla<Close><End of Block>
+<TextBlock 293 w:24 h:11>
+Scegli-traccia<Delay 15>
+<Opcode 1 255>    Traccia 00
+    Traccia 01
+    Traccia 02
+    Traccia 03
+    Traccia 04
+    Traccia 05
+    Traccia 06
+    Traccia 07
+    Traccia 08
+    Traccia 09<Close><End of Block>
+<TextBlock 294 w:14 h:1>
+Traccia 00<Close><End of Block>
+<TextBlock 295 w:14 h:1>
+Traccia 01<Close><End of Block>
+<TextBlock 296 w:14 h:1>
+Traccia 02<Close><End of Block>
+<TextBlock 297 w:14 h:1>
+Traccia 03<Close><End of Block>
+<TextBlock 298 w:14 h:1>
+Traccia 04<Close><End of Block>
+<TextBlock 299 w:14 h:1>
+Traccia 05<Close><End of Block>
+<TextBlock 300 w:14 h:1>
+Traccia 06<Close><End of Block>
+<TextBlock 301 w:14 h:1>
+Traccia 07<Close><End of Block>
+<TextBlock 302 w:14 h:1>
+Traccia 08<Close><End of Block>
+<TextBlock 303 w:14 h:1>
+Traccia 09<Close><End of Block>
+<TextBlock 304 w:24 h:4>
+Scegli Traccia<Delay 15>
+<Opcode 1 255>    Traccia 00
+    Traccia 01
+    Traccia 02<Close><End of Block>
+<TextBlock 305 w:14 h:1>
+Traccia 00<Close><End of Block>
+<TextBlock 306 w:14 h:1>
+Traccia 01<Close><End of Block>
+<TextBlock 307 w:14 h:1>
+Traccia 02<Close><End of Block>
+<TextBlock 308 w:24 h:9>
+Scegli Traccia<Delay 15>
+<Opcode 1 255>    Traccia 00
+    Traccia 01
+    Traccia 02
+    Traccia 03
+    Traccia 04
+    Traccia 05
+    Traccia 06
+    Traccia 07<Close><End of Block>
+<TextBlock 309 w:14 h:1>
+Traccia 00<Close><End of Block>
+<TextBlock 310 w:14 h:1>
+Traccia 01<Close> <Close><End of Block>
+<TextBlock 311 w:14 h:1>
+Traccia 02<Close><End of Block>
+<TextBlock 312 w:14 h:1>
+Traccia 03<Close><End of Block>
+<TextBlock 313 w:14 h:1>
+Traccia 04<Close><End of Block>
+<TextBlock 314 w:14 h:1>
+Traccia 05<Close><End of Block>
+<TextBlock 315 w:14 h:1>
+Traccia 06<Close><End of Block>
+<TextBlock 316 w:14 h:1>
+Traccia 07<Close><End of Block>
+<TextBlock 317 w:24 h:9>
+Scegli Traccia<Delay 15>
+<Opcode 1 255>    Traccia 00
+    Traccia 01
+    Traccia 02
+    Traccia 03
+    Traccia 04
+    Traccia 05
+    Traccia 06
+    Traccia 07<Close><End of Block>
+<TextBlock 318 w:14 h:1>
+Traccia 00<Close><End of Block>
+<TextBlock 319 w:14 h:1>
+Traccia 01<Close><End of Block>
+<TextBlock 320 w:14 h:1>
+Traccia 02<Close><End of Block>
+<TextBlock 321 w:14 h:1>
+Traccia 03<Close><End of Block>
+<TextBlock 322 w:14 h:1>
+Traccia 04<Close><End of Block>
+<TextBlock 323 w:14 h:1>
+Traccia 05<Close><End of Block>
+<TextBlock 324 w:14 h:1>
+Traccia 06<Close><End of Block>
+<TextBlock 325 w:14 h:1>
+Traccia 07<Close><End of Block>
+<TextBlock 326 w:24 h:9>
+Scegli Traccia<Delay 15>
+<Opcode 1 255>    Traccia 00
+    Traccia 01
+    Traccia 02
+    Traccia 03
+    Traccia 04
+    Traccia 05
+    Traccia 06
+    pagina-2<Close><End of Block>
+<TextBlock 327 w:14 h:1>
+Traccia 00<Close><End of Block>
+<TextBlock 328 w:14 h:1>
+Traccia 01<Close><End of Block>
+<TextBlock 329 w:14 h:1>
+Traccia 02<Close><End of Block>
+<TextBlock 330 w:14 h:1>
+Traccia 03<Close><End of Block>
+<TextBlock 331 w:14 h:1>
+Traccia 04<Close><End of Block>
+<TextBlock 332 w:14 h:1>
+Traccia 05<Close><End of Block>
+<TextBlock 333 w:14 h:1>
+Traccia 06<Close><End of Block>
+<TextBlock 334 w:24 h:9>
+Scegli Traccia<Delay 15>
+<Opcode 1 255>    Traccia 07
+    Traccia 08
+    Traccia 09
+    Traccia 10
+    Traccia 11
+    Traccia 12
+    Traccia 13
+    pagina-1<Close><End of Block>
+<TextBlock 335 w:14 h:1>
+Traccia 07<Close><End of Block>
+<TextBlock 336 w:14 h:1>
+Traccia 08<Close><End of Block>
+<TextBlock 337 w:14 h:1>
+Traccia 09<Close><End of Block>
+<TextBlock 338 w:14 h:1>
+Traccia 10<Close><End of Block>
+<TextBlock 339 w:14 h:1>
+Traccia 11<Close><End of Block>
+<TextBlock 340 w:14 h:1>
+Traccia 12<Close><End of Block>
+<TextBlock 341 w:14 h:1>
+Traccia 13<Close><End of Block>
+<TextBlock 342 w:24 h:9>
+Scegli Traccia<Delay 15>
+<Opcode 1 255>    Traccia 00
+    Traccia 01
+    Traccia 02
+    Traccia 03
+    Traccia 04
+    Traccia 05
+    Traccia 06
+    Traccia 07<Close><End of Block>
+<TextBlock 343 w:14 h:1>
+Traccia 00<Close><End of Block>
+<TextBlock 344 w:14 h:1>
+Traccia 01<Close><End of Block>
+<TextBlock 345 w:14 h:1>
+Traccia 02<Close><End of Block>
+<TextBlock 346 w:14 h:1>
+Traccia 03<Close><End of Block>
+<TextBlock 347 w:14 h:1>
+Traccia 04<Close><End of Block>
+<TextBlock 348 w:14 h:1>
+Traccia 05<Close><End of Block>
+<TextBlock 349 w:14 h:1>
+Traccia 06<Close><End of Block>
+<TextBlock 350 w:14 h:1>
+Traccia 07<Close><End of Block>
+<TextBlock 351 w:24 h:6>
+Scegli Traccia<Delay 15>
+<Opcode 1 255>    Traccia 00
+    Traccia 01
+    Traccia 02
+    Traccia 03
+    Traccia 04<Close><End of Block>
+<TextBlock 352 w:14 h:1>
+Traccia 00<Close><End of Block>
+<TextBlock 353 w:14 h:1>
+Traccia 01<Close><End of Block>
+<TextBlock 354 w:14 h:1>
+Traccia 02<Close><End of Block>
+<TextBlock 355 w:14 h:1>
+Traccia 03<Close><End of Block>
+<TextBlock 356 w:14 h:1>
+Traccia 04<Close><End of Block>
+<TextBlock 357 w:56 h:6>
+Diana
+"Da quel giorno, la pace
+si è distrutta.<Delay 45> Ma…<Delay 5>
+noi siamo ancora vivi<Delay 5>…<Delay 5>
+E questa è una verità che
+non può essere cambiata.<New>
+Nulla è finito.<Delay 15>
+Il nostro pianeta è solo
+tornato al suo stato
+originario<Delay 5>…<Delay 5>
+E noi siamo ancora vivi.<Delay 15>
+Non tutto è perduto<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 358 w:54 h:7>
+Diana
+"Osservando i tuoi occhi,<Delay 5>
+so che anche tu non hai
+perso la speranza<Delay 5>…<Delay 20>      
+Eheh<Delay 5>…<Delay 5>
+Ricordo ancora quel giorno
+in cui arrivasti nella
+Capitale Imperiale."<Close><End of Block>
+<TextBlock 359 w:56 h:5>
+Combattente
+"Oh, perciò anche tu hai
+sentito le voci riguardanti
+questo posto e sei venuto
+a provare a Battagliare qui,
+nel posto una volta conosciuto
+come Kislev?<New>
+Il mondo è stato mandato in
+rovina dagli angeli della
+morte, ma noi continuiamo
+a vivere in questo modo.<Delay 15>
+Non abbiamo ancora smesso
+di vivere!"<Close><End of Block>
+<TextBlock 360 w:56 h:5>
+Combattente
+"Io sono un 'Combattente', un<Delay 5>
+guerriero!<Delay 15> Combatterò,<Delay 5> 
+combatterò,<Delay 5> fino alla fine,<Delay 5>
+finché la morte non mi
+prenderà!"<Close><End of Block>
+<TextBlock 361 w:56 h:6>
+Amazzone
+"Il continente di Ignis…
+l'Impero di Kislev ed
+il Regno di Aveh…
+non esistono più.<New>
+Quei nomi sono scomparsi dal
+nostro mondo in quel giorno<Delay 5>…<Delay 5>
+I sopravvissuti si sono
+riuniti nel nevaio, molto
+a sud di qui<Delay 5>…<Delay 5>
+È l'ultima roccaforte
+dell'umanità!"<Close><End of Block>
+<TextBlock 362 w:52 h:6>
+Amazzone
+"Una volta avevo abbandonato
+questo posto, ma è comunque
+la città in cui sono nata!<Delay 15>
+Non posso voltarle le spalle
+così facilmente!<New>
+È per questo che sono tornata<Delay 5>…
+Tornata nel posto che una
+volta era la Capitale
+Imperiale<Delay 15>…<New>
+Anche se questo mondo
+stesse per essere distrutto,
+proteggerò la mia città ed
+il mio mondo!"<Close><End of Block>
+<TextBlock 363 w:58 h:6>
+Ex Guardia della Capitale
+"Ciò che annientò quel giorno
+il nostro mondo fu<Delay 5>…<Delay 5> un angelo<Delay 5>…<Delay 5><Space 1>
+uno<Delay 5> di quelli che<Delay 5> vengono
+detti i messi di dio?<Delay 30>
+Mia sorella,<Delay 5> mia madre,<Delay 5> mio
+padre<Delay 5>…<Delay 5> sono tutti morti!<New>
+Io…<Delay 5> io sono un soldato
+dell'Impero militare di
+Kislev!<Delay 15>
+Ma<Delay 5>…<Delay 5> ma<Delay 5>…<Delay 5> ma non ho potuto<Space 1>
+fare<Delay 5> nulla comunque!!<Delay 15>
+Vaffanculo!<Delay 5> …<Delay 10> Vaffanculo
+a tutto!"<Close><End of Block>
+<TextBlock 364 w:54 h:4>
+Big Joe
+"Tutto il nostro mondo è
+stato distrutto<Delay 5>…<New>
+La morte è scesa su tutti
+i viventi<Delay 10>…<New>
+È stato il destino,<Delay 5>
+un destino che non
+poteva essere evitato!"<Close><End of Block>
+<TextBlock 365 w:56 h:4>
+Big Joe
+"Ragazzi…<New>
+Permettetemi di mostrarvi
+la mia gratitudine per
+tutto ciò che avete fatto.<New>
+Ho portato qui questo coso
+dal bar Il Gattopardo, che
+si trovava nella Capitale
+Imperiale di Nortune<Delay 5>…<New>
+L'ho pure aggiustato
+un po'.<New>
+Ora dovrebbe essere molto
+più facile da usare.<Delay 5> Ma
+non lo saprete finché non
+lo provate<Delay 5>…<New>
+Perciò ascoltatelo
+almeno una volta, ah!<New>
+È stata dura lasciarsi
+alle spalle quell'elegante
+aria color frassino che
+aveva…<New>
+… quando si trovava nel
+locale Il Gattopardo, ma<Delay 5>…<New>
+Beh, comunque, non credete
+che il nuovo color marmo
+chiaro sia all'ultima
+moda?"<Close><End of Block>
+<TextBlock 366 w:56 h:4>
+Big Joe
+"Ehi!<New>
+Ho portato via questo dai
+resti del bar che stava
+nella Capitale Imperiale,
+Nortune.<New>
+Fuori era rotto, perciò ho
+dovuto cambiarlo<Delay 20>…<New>
+È stata dura lasciarsi alle
+spalle quell'elegante aria
+color frassino.<New>
+Beh, comunque, non
+credete che il nuovo
+color marmo chiaro
+sia all'ultima moda?<Delay 15><New>
+Se solo avessi
+un 'Disco M'!<New>
+Con queste si possono
+sentire i 'Dischi M'<Delay 5>…<New>
+… ma diedi il mio Disco M
+alle pupe che stavano
+nella vecchia Capitale
+Imperiale.<New>
+Era un disco premio di
+grandissimo valore, anche
+perfezionato con l'Etere!<Delay 5>
+Se solo l'avessi saputo<Delay 5>…!"<Close><End of Block>
+<TextBlock 367 w:36 h:2>
+Addetta alla Ricezione
+"Scontro abbandonato!"<Close><End of Block>
+<TextBlock 368 w:46 h:3>
+Addetta alla Ricezione
+"Mmh, battaglia non male!
+Continua così!"<Close><End of Block>
+<TextBlock 369 w:56 h:5>
+Addetta alla Ricezione
+"Wow, sei fortiiiiissimo!
+Cavolo, non c'è stata sfida!
+Oh, mi viene la pelle d'oca
+a pensare al tuo travolgente
+potere!"<Close><End of Block>
+<TextBlock 370 w:52 h:4>
+Addetta alla Ricezione
+"Perciò questo è quello che
+chiamano 'stare sul filo
+del rasoio'? Ben fatto,
+hai vinto per poco!"<Close><End of Block>
+<TextBlock 371 w:56 h:4>
+Addetta alla Ricezione
+"Che peccato, hai perso!
+Di sicuro non hai perso di
+molto, perciò la prossima
+volta potresti vincere,
+non hai grossi problemi!<Close><End of Block>
+<TextBlock 372 w:56 h:5>
+Addetta alla Ricezione
+"Ti darò qualche consiglio!<Delay 15>
+Non devi per forza usare gli
+attacchi fisici con i pulsanti
+<Cross> e <Square>!<New>
+C'è un altro tipo di attacco,
+detto 'Proiettili Etereo',
+che è utile per attaccare
+a distanza gli avversari.<Delay 15>
+Usarli è semplicissimo,<Delay 5> basta
+premere il pulsante R1,<Delay 5> OK!?"<Close><End of Block>
+<TextBlock 373 w:54 h:4>
+Addetta alla Ricezione
+"Bene, ti basta ricordare
+di premere il pulsante R1
+per sparare 'Proettili
+Eterei'!<New>
+Se lo fai, di sicuro le
+tue possibilità di vincere
+aumenteranno!<Delay 30>
+(… o così speriamo!?)"<Close><End of Block>
+<TextBlock 374 w:48 h:3>
+Addetta alla Ricezione
+"Attaccare mentre si salta
+è una cosa impressionante!
+Impara a farlo!"<Close><End of Block>
+<TextBlock 375 w:56 h:5>
+Addetta alla Ricezione
+"Una delle tue debolezze
+è, osservando il tuo incontro,
+che sembri usare troppe volte
+i 'Proiettili Eterei'.<New>
+Dovresti comprendere meglio
+la natura di questo attacco…
+I 'Proiettili Eterei' fanno
+alzare la tua 'Barra Calore'
+(B.C.) di un bel po'.<New>
+Tre colpi faranno facilmente
+arrivare la tua B.C. al
+MASSIMO. Se continui ad
+attaccare in quello stato,
+il tuo Gear si surriscalderà.<New>
+Il surriscaldamento inizierà
+a farti danni, perciò se non
+stai attento, i tuoi HP
+scenderanno a zero prima che
+tu te ne accorga!"<Close><End of Block>
+<TextBlock 376 w:50 h:4>
+Addetta alla Ricezione
+"Il calore accumulato dal
+tuo Gear viene mostrato su
+schermo nella barra calore.<New>
+Controlla il calore che
+accumuli con l'aiuto di
+questa Barra. Oh, ed adesso
+cerca di non scaldarti
+troppo!"<Close><End of Block>
+<TextBlock 377 w:56 h:6>
+Addetta alla Ricezione
+"Hai perso soprattutto perché
+hai fatto troppo affidamento
+sullo 'Scatto'! Per dirla
+papale papale, giri troppo
+scattando!<New>
+Scattare e girare per l'arena
+può essere una buona strategia,
+ma noterai che la 'Barra Calore'
+(B.C.), che mostra il livello
+di calore del tuo Gear, sale
+molto più in fretta!<New>
+Puoi continuare a SCATTARE anche
+dopo che la tua B.C. raggiunge
+il MASSIMO, ma più il tuo Gear
+si surriscalda, più lo 'Scatto'
+ti danneggerà!<Close>
+Se non ci stai attento, i tuoi
+HP scenderanno a zero, e prima
+che te ne renda conto, non
+potrai usare né lo 'Scatto',
+né i 'Proiettili Eterei'!"<Close><End of Block>
+<TextBlock 378 w:50 h:4>
+Addetta alla Ricezione
+"Il calore accumulato dal
+tuo Gear viene mostrato a
+schermo nella Barra Calore.<New>
+Gestisci il tuo calore
+durante le battaglia con
+l'aiuto di questa Barra.
+Oh, e ora cerca di non
+scaldarti troppo tu!"<Close><End of Block>
+<TextBlock 379 w:54 h:4>
+Addetta alla Ricezione
+"<Delay 5>…<Delay 5> Hai capito perché hai perso,
+vero?<Delay 15> Se no, allora
+te lo dirò io, se vuoi!"<Close><End of Block>
+<TextBlock 380 w:56 h:4>
+Addetta alla Ricezione
+"Vuoi sapere perché hai perso?"<Delay 15>
+<Opcode 1 255>    No, non voglio saperlo!
+    Certo che voglio saperlo!<Close><End of Block>
+<TextBlock 381 w:56 h:5>
+Addetta alla Ricezione
+"Ci sono due motivi per cui
+hai perso. Primo, fai troppo
+affidamento sul pulsante R1,
+lanciando troppi 'Proiettili
+Eterei'.<New>
+I 'Proiettili Eterei' sono
+utili quando l'avversario è
+molto lontano, ma usarli
+troppo vorrà dire causare
+dei problemi al tuo Gear
+per il troppo calore!<New>
+Secondo, usi troppo lo
+'Scatto'. Usare lo 'Scatto'
+ed i 'Proiettili Eterei'
+quando la tua 'Barra Calore'
+è al MASSIMO vuole dire far
+surriscaldare il tuo Gear!<New>
+Mentre sei surriscaldati,
+subirai danni, perciò se non
+stai attento, i tuoi HP
+scenderanno a zero!"<Close><End of Block>
+<TextBlock 382 w:52 h:4>
+Addetta alla Ricezione
+"Il problema è che usare
+troppo entrambe queste
+tecniche è un male per
+il tuo Gear!<New>
+Il calore che esso accumula
+viene mostrato a schermo
+nella 'Barra Calore'.<New>
+Osservare questa Barra
+Calore (B.C.) ti aiuterà
+a gestire il calore
+durante una battaglia.
+'Non scaldarti troppo'!"<Close><End of Block>
+<TextBlock 383 w:56 h:4>
+Addetta alla Ricezione
+"<Delay 5>…<Delay 5> Sapere perché hai perso
+ti aiuterà a combattere
+meglio la prossima volta!"<Close><End of Block>
+<TextBlock 384 w:52 h:4>
+Addetta alla Ricezione
+"Di sicuro lo scontro
+tra i Gear era ìmpari…!
+O forse si trattava
+dei piloti?<New>
+Mi dispiace dirtelo, ma è
+inutile girarci attorno,
+non sei un granché come
+avversario!"<Close><End of Block>
+<TextBlock 385 w:56 h:4>
+Addetta alla Ricezione
+"La pratica rende perfetti!
+Ti consigliamo la nostra
+'Modalità Allenamento.'
+Provala subito!"<Close><End of Block>
+<TextBlock 386 w:42 h:4>
+Addetta alla Ricezione
+"Peccato! Per pochissimo!
+L'avevi quasi battuto!"<Close><End of Block>
+<TextBlock 387 w:54 h:5>
+Addetta alla Ricezione
+"È stato un buon incontro!
+Ciascuno di voi avrebbe
+potuto facilmente vincere!
+Ora metticela tutta per
+per vincere la rivincita!"<Close><End of Block>
+<TextBlock 388 w:56 h:5>
+Addetta alla Ricezione
+"<Delay 5>…<Delay 5> Ma che sei, un pacifista?
+<Delay 5>…<Delay 5> O forse non sai come
+controllare un Gear?<New>
+Devi sapere i controlli
+di base, perciò, forse,
+dovresti provare la nostra
+Modalità Allenamento! Parla
+alla ragazza al bancone
+accanto a me."<Close><End of Block>
+<TextBlock 389 w:54 h:5>
+Addetta alla Ricezione
+"Non puoi non fare nulla
+ed aspettarti di vincere!
+Per capire cosa si deve
+fare, devi prima fare
+pratica!"<Close><Close><End of Block>

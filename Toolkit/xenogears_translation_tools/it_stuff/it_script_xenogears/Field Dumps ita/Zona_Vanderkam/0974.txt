@@ -1,0 +1,41 @@
+<TextBlock 1 w:42 h:4>
+Fei
+"Vero…<Delay 35> ed è tutto merito
+del vostro aiuto.
+Grazie."<Close><End of Block>
+<TextBlock 2 w:42 h:4>
+Fei
+"Bart ed il suo gruppo…<Delay 40>
+Lui sarà probabilmente
+a posto…<Delay 35><New>
+È arrivato qualche
+messaggio da loro?"<Close><End of Block>
+<TextBlock 3 w:10 h:2>
+Fei
+"…"<Opcode 2 42><Close><End of Block>
+<TextBlock 4 w:50 h:2>
+Maitreya
+"Sìì! Uno a zero
+per noi!!"<Close><End of Block>
+<TextBlock 5 w:53 h:5>
+Maitreya
+"Fermare le unità ai
+confini? Ah… noi le abbiamo
+distrutte! Beh, abbiamo
+fatto il nostro lavoro!<Wait>
+Spero gli altri stiano bene!"<Close><End of Block>
+<TextBlock 6 w:52 h:4>
+Maitreya
+"Niente.<New>
+Però, se non mi sbaglio,
+si dice che… nessuna
+nuova, buona nuova!<New>
+Il mio Gear non possiede
+strumenti di comunicazione
+molto buoni.<Delay 35><New>
+Comunque, probabilmente
+non avranno avuto problemi
+a fare ciò che dovevano."<Close><End of Block>
+<TextBlock 7 w:30 h:2>
+Maitreya
+"Cosa c'è?"<Close><Close><End of Block>

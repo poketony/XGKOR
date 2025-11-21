@@ -1,0 +1,171 @@
+<TextBlock 1 w:40 h:4>
+Fei
+"Stai scherzando?
+Cosa stai facendo
+qui, Elly?<New>
+Pensavo avessi
+deciso di lasciare
+l'esercito!"<Close><End of Block>
+<TextBlock 2 w:40 h:4>
+Fei
+"Mi stai dicendo che
+anche questo è uno
+dei tuoi compiti!?"<Close><End of Block>
+<TextBlock 3 w:46 h:4>
+Fei
+"Parli sul serio?
+Lo sai che cosa stai
+facendo, vero!?<New>
+Come puoi dirlo
+sapendo dove quella
+nave sta andando…<New>
+… e le conseguenze
+che deriveranno
+da questo…?"<Close><End of Block>
+<TextBlock 4 w:30 h:3>
+Fei
+"Dai, Elly!
+Di' qualcosa!"<Close><End of Block>
+<TextBlock 5 w:18 h:2>
+Fei
+"Allora…"<Close><End of Block>
+<TextBlock 6 w:20 h:3>
+Fei
+"Libertà?
+Io?"<Close><End of Block>
+<TextBlock 7 w:40 h:3>
+Fei
+"Perché non lo fai
+anche tu, Elly!?"<Close><End of Block>
+<TextBlock 8 w:18 h:2>
+Fei
+"Elly…"<Close><End of Block>
+<TextBlock 9 w:44 h:3>
+Fei
+"Non ho un posto a
+cui tornare… da
+nessuna parte…"<Close><End of Block>
+<TextBlock 10 w:48 h:4>
+Fei
+"… Bart ed il
+suo equipaggio…
+l'intera nave…<New>
+… sono tutti
+scomparsi… È accaduto
+dopo la battaglia con
+Geburah.<New>
+Non ho più un posto
+a cui ritornare…"<Close><End of Block>
+<TextBlock 11 w:46 h:2>
+Fei
+"… Questo ti diverte?"<Close><End of Block>
+<TextBlock 12 w:46 h:4>
+Fei
+"Invadere il paese di
+qualcun altro e
+distruggerlo…<New>
+Causare la morte
+di tante persone
+innocenti…<New>
+Ti piace davvero
+tanto combattere?<New>
+E ti diverte così
+tanto guardare la
+gente morire!?"<Close><End of Block>
+<TextBlock 13 w:44 h:3>
+Fei
+"Allora, in questo
+caso… vieni con me!"<Close><End of Block>
+<TextBlock 14 w:30 h:4>
+Fei
+"Dimentica ogni
+cosa e vieni
+con me!!"<Close><End of Block>
+<TextBlock 15 w:44 h:4>
+Elly
+"Mi stai
+chiedendo troppo!<New>
+Io sono un ufficiale
+di Geburah!"<Close><End of Block>
+<TextBlock 16 w:36 h:4>
+Elly
+"Sì!
+Il mio compito è di
+scortare l'Hetch.<New>
+E di eliminare
+tutti i nemici che
+incontriamo…<New>
+Quindi farai meglio
+a toglierti dalla
+mia strada…<New>
+Se non lo farai,
+non potrò far altro
+che eliminarti!"<Close><End of Block>
+<TextBlock 17 w:10 h:2>
+Elly
+"…"<Close><End of Block>
+<TextBlock 18 w:32 h:4>
+Elly
+"Lo so!
+So molto bene che
+cosa sto facendo!"<Close><End of Block>
+<TextBlock 19 w:30 h:4>
+Elly
+"Cambiare.<Delay 30>
+Come vorrei
+cambiare<Delay 20>…<New>
+L'ho sempre
+desiderato, ma non
+ho potuto<Delay 10>…<New>
+Non ho la libertà
+che hai tu!"<Close><End of Block>
+<TextBlock 20 w:42 h:4>
+Elly
+"Sì! Sbaglio forse?
+Poter scegliere ciò
+in cui credere…<New>
+E combattere al
+fianco di coloro che
+credono nella stessa
+causa…<New>
+Anche se tu hai
+molti più problemi
+da affrontare…<New>
+… almeno hai la
+libertà di scegliere
+da che parte stare!
+Mentre io…!"<Close><End of Block>
+<TextBlock 21 w:46 h:4>
+Elly
+"Se potessi,
+lo farei subito!
+Ma non posso…<New>
+Il mio posto è qui!
+E non può essere
+altrimenti!"<Close><End of Block>
+<TextBlock 22 w:36 h:3>
+Elly
+"Così… per favore,
+cerca di capirmi…"<Close><End of Block>
+<TextBlock 23 w:12 h:2>
+Elly
+"Uh?"<Close><End of Block>
+<TextBlock 24 w:34 h:4>
+Elly
+"Davvero… Allora,
+dimmi, perché
+ora combatti?<New>
+Per chi…
+O per cosa…?"<Close><End of Block>
+<TextBlock 25 w:10 h:2>
+Elly
+"?"<Close><End of Block>
+<TextBlock 26 w:42 h:4>
+Elly
+"Non essere ridicolo!
+Non ho mai trovato
+piacere in questo!"<Close><End of Block>
+<TextBlock 27 w:24 h:4>
+Elly
+"Cosa!? Cosa
+stai facendo!?"<Close><Close><End of Block>

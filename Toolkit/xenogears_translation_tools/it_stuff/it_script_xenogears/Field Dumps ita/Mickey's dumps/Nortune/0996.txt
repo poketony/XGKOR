@@ -1,0 +1,777 @@
+<TextBlock 1 w:52 h:4>
+Fei
+"Non ho il lasciapassare.<Delay 15>
+Ma sono il Campione. Non
+ti basta?"<Close><End of Block>
+<TextBlock 2 w:48 h:4>
+Fei
+"Puff, puff!<Delay 10> Porca…!<Delay 15>
+Quel tipo è davvero  
+bravo a scappare!"<Opcode 2 90><Close><End of Block>
+<TextBlock 3 w:46 h:4>
+Fei
+"Puff…<Delay 5> puff<Delay 5>…<Delay 15>
+Qui dovrei essere al 
+sicuro, credo<Delay 5>…"<Close><End of Block>
+<TextBlock 4 w:54 h:4>
+Fei
+"<Delay 5>…<Delay 5> Fidanzato?
+Senza capelli<Delay 5>…?<Delay 5> Questa 
+l'ho già sentita…"<Close><End of Block>
+<TextBlock 5 w:52 h:4>
+Shitan
+"L'appuntamento era al
+Gattopardo, un bar nella 
+zona civile, corretto?<New>
+Allora andiamo là!"<Close><End of Block>
+<TextBlock 6 w:30 h:1>
+Provi a bussare<Delay 5>…<Opcode 2 45><Close><End of Block>
+<TextBlock 7 w:46 h:1>
+Chiusa dall'interno!<Opcode 2 30><Close><End of Block>
+<TextBlock 8 w:46 h:1>
+Chiusa dall'interno!<Opcode 2 30><Close><End of Block>
+<TextBlock 9 w:30 h:1>
+Provi a bussare<Delay 5>…<Opcode 2 45><Close><End of Block>
+<TextBlock 10 w:46 h:1>
+Chiusa dall'interno!<Opcode 2 30><Close><End of Block>
+<TextBlock 11 w:46 h:1>
+Chiusa dall'interno!<Opcode 2 30><Close><End of Block>
+<TextBlock 12 w:46 h:1>
+Chiusa dall'interno!<Opcode 2 30><Close><End of Block>
+<TextBlock 13 w:46 h:1>
+Chiusa dall'interno!<Opcode 2 30><Close><End of Block>
+<TextBlock 14 w:54 h:5>
+La mia sorella maggiore si
+è innamorata<Delay 5>…<Delay 15>
+Lei pensa che un giorno
+lui tornerà<Delay 5>…<Delay 5> così lei
+aspetta, e aspetta, e<Delay 5>…<Close><End of Block>
+<TextBlock 15 w:56 h:3>
+Giocare all'aperto fa bene
+alla salute dei bambini.
+È così, giusto<Delay 5>…<Delay 5>!?<New>
+Ma in questa città, coperta
+di smog, non è salutare 
+per noi<Delay 5>…<Close><End of Block>
+<TextBlock 16 w:54 h:4>
+Mia sorella maggiore ha un
+amico chiamato 'fidanzato'!
+Lui non ha i capelli, ma
+è così carino!<Close><End of Block>
+<TextBlock 17 w:58 h:1>
+La nostra casa è proprio là!<Delay 15><Close><End of Block>
+<TextBlock 18 w:54 h:4>
+Abbiamo raccolto
+accessori di tutti i
+tipi per proteggerti
+da ogni tipo di danno!<Close><End of Block>
+<TextBlock 19 w:62 h:4>
+Accessori non solo per farti
+bello, ma alcuni di essi
+hanno effetti particolari.<Delay 15>
+Controllali, mi raccomando!<Close><End of Block>
+<TextBlock 20 w:58 h:4>
+Dall'Aqua all'Omega, abbiamo
+tutti i migliori oggetti.<Delay 15>
+Non puoi andartene senza
+aver comprato qualcosa,
+anche un solo Aquasol!<Close><End of Block>
+<TextBlock 21 w:56 h:4>
+Questa città è chiamata
+"la città dello smog" a
+causa dello smog che si
+posa su qualsiasi cosa.<New>
+Perciò, ogni volta che
+esci di casa, vi rientri
+completamente sudicio!<Delay 15>
+E rovina anche la pelle!<Close><End of Block>
+<TextBlock 22 w:52 h:4>
+Perché mi trovo fuori?
+Non dovrebbe fregarti di
+questi dettagli!
+Sono fatti miei!<Close><End of Block>
+<TextBlock 23 w:54 h:4>
+Big Joe
+"Qual è il problema?<Delay 15>
+È molto più in là.
+<Delay 5>…<Delay 5> Vai, presto!"<Close><End of Block>
+<TextBlock 24 w:54 h:4>
+Big Joe
+"Hai cambiato idea?"<Delay 15>
+    Per niente!
+    Proprio così.<Close><End of Block>
+<TextBlock 25 w:56 h:4>
+Big Joe
+"<Delay 5>…<Delay 5> Dai, non prendermi per
+il culo. Se cambi idea<Delay 5>…<Delay 5>
+beh, lo sai!"<Close><End of Block>
+<TextBlock 26 w:54 h:4>
+Big Joe
+"Eh-eh!<Delay 5> C'è qualcosa di
+molto interessante oltre
+questo punto!<Delay 10> Vuoi vedere?"<Close><End of Block>
+<TextBlock 27 w:44 h:4>
+Big Joe
+"Ti ho fregato!<Delay 15>
+Ah-ah-ah! Ci vediamo,
+coglione! Adios!<Opcode 2 60><Close><End of Block>
+<TextBlock 28 w:50 h:4>
+Big Joe
+"Solo 5000G! Ti va, eh?"<Delay 15>
+    Scherzi!?
+    Affare fatto!<Close><End of Block>
+<TextBlock 29 w:54 h:3>
+Big Joe
+"Ragazzo, non mi stai 
+prendendo in giro, vero?"<Close><End of Block>
+<TextBlock 30 w:36 h:1>
+Gli hai dato 5000G.<Close><End of Block>
+<TextBlock 31 w:52 h:4>
+Big Joe
+"<Delay 5>…<Delay 5> Affare fatto!
+Ora inizia il bello! Non
+temere, io resterò qui!"<Close><End of Block>
+<TextBlock 32 w:54 h:4>
+Big Joe
+"<Delay 5>…<Delay 5> Che, uh!<Delay 15> Non faccio
+affari con chi non ha 
+almeno 5000G! Scu-sa!"<Close><End of Block>
+<TextBlock 33 w:54 h:4>
+Dicono che il mondo sia
+molto grande, ma non c'è
+un'altra città grande
+quanto la capitale!<New>
+Dicono che una città
+più grande si trovi
+lassù nel cielo, ma io
+mi chiedo…<New>
+… si è vista mai una
+città volare?<Close><End of Block>
+<TextBlock 34 w:56 h:3>
+L'attacco di Aveh sulla
+nostra Capitale Imperiale
+è stato terribile!<New>
+Se accadrà di nuovo,
+io me ne vado!
+Forse a Nisan!<Close><End of Block>
+<TextBlock 35 w:56 h:5>
+A nordovest di qui c'è il
+Blocco D della Capitale 
+Imperiale. Viene usato
+come centro di detenzione.<New>
+È un postaccio pieno di
+criminali! Puoi andarci
+e venire liberamente, ma
+nessuno vorrebbe andarci
+come prigioniero!<Close><End of Block>
+<TextBlock 36 w:64 h:3>
+Dicono che una nave da guerra
+volante sia precipitata nella
+zona nordovest del blocco D<Delay 5>…<New>
+Abbiamo evitato un colpo
+diretto.<Delay 15> Meno male che non
+era vicino a un'area civile!<Close><End of Block>
+<TextBlock 37 w:54 h:4>
+Oooh<Delay 5>…<Delay 5> Diana<Delay 5>…<Delay 5> Durante<Space 1>
+l'attacco di Aveh<Delay 5>…<Delay 5> alla
+capitale<Delay 5>…<Delay 15> ha cercato di 
+salvare un bambino<Delay 5>…<New>
+…<Delay 5> Non c'è un dio che ci
+protegge?<Delay 5> …<Delay 5> Perché?<Delay 5> …<Delay 5><Space 2>
+Una donna come lei!<Delay 5> …<Delay 5> Questa
+è la volontà di dio?<Close><End of Block>
+<TextBlock 38 w:42 h:2>
+E non ho potuto<Delay 5>…<Delay 5>
+dirle che<Delay 5>…<Close><End of Block>
+<TextBlock 39 w:58 h:4>
+Diana è andata via per
+occuparsi del Blocco D<Delay 5>…<New>
+Vorrei che fosse lei a
+curare la mia malattia,
+ma ho troppa paura per
+andare al Blocco D!<New>
+Dopo che fu assegnata
+alla zona civile, perse
+un po' del suo buonumore<Delay 5>…<New>
+Forse è stato meglio
+per lei ritornare là!<Close><End of Block>
+<TextBlock 40 w:54 h:4>
+Bene, è ora di farmi male!
+(Ma non troppo, però!)
+E poi<Delay 5>…<Delay 5> di corsa
+a vedere Diana!<Close><End of Block>
+<TextBlock 41 w:54 h:3>
+Che cosa vuoi, eh?<Delay 15> Stavo
+solo passando di qua<Delay 5>…<Delay 5> Ok?<Delay 45>
+Così non scocciarmi.<Delay 5> Ciao!<Close><End of Block>
+<TextBlock 42 w:56 h:4>
+Ho le gambe doloranti
+perché corro tutto il
+giorno! Ti dico una cosa,
+sforzarsi troppo fa male!<Close><End of Block>
+<TextBlock 43 w:54 h:3>
+Mi sono trascurato e così
+ho perso la forma fisica
+di un tempo<Delay 5>…<New>
+Ora cerco di rimettermi in
+forma correndo qua e là.<Close><End of Block>
+<TextBlock 44 w:56 h:2>
+Ma<Delay 5>…<Delay 5> mi pare
+un po' inutile.<Close><End of Block>
+<TextBlock 45 w:60 h:5>
+Con la scusa dell'attacco
+di Aveh sulla capitale,
+stanno iniziando una
+massiccia corsa al riarmo!
+A cosa ci porterà questo?<New>
+Siamo stati così tanto in 
+guerra che non ricordiamo
+più cosa sia la pace<Delay 5>…<Delay 5>
+Quando verrà il giorno in
+cui tutto questo finirà?<Close><End of Block>
+<TextBlock 46 w:56 h:4>
+Guardia Imperiale
+"Questa è l'entrata nord del
+Blocco A. La strada conduce
+al Distretto Centrale.<New>
+Là è dove si trova il
+Governo Imperiale di
+Kislev."<Close><End of Block>
+<TextBlock 47 w:54 h:5>
+Guardia Imperiale
+"Dopo il tramonto, il
+personale non imperiale
+deve avere un permesso
+per poter passare!"<Close><End of Block>
+<TextBlock 48 w:42 h:3>
+Guardia Imperiale
+"Devo chiederti il
+favore di andartene!"<Opcode 2 45><Close><End of Block>
+<TextBlock 49 w:56 h:4>
+Guardia Imperiale
+"Questa è l'entrata nord del
+Blocco A. La strada conduce
+al Distretto Centrale.<New>
+Là è dove si trova il
+Governo Imperiale di
+Kislev."<Close><End of Block>
+<TextBlock 50 w:54 h:4>
+Guardia Imperiale
+"Mi dispiace, ma non
+importa se tu sei il
+Campione.<New>
+Senza un lasciapassare
+non si passa!
+Spiacente, devo chiederti
+di allontanarti!"<Close><End of Block>
+<TextBlock 51 w:58 h:2>
+Guardia Imperiale
+"Per favore, va' via!"<Opcode 2 45><Close><End of Block>
+<TextBlock 52 w:54 h:4>
+Guardia Imperiale
+"Scusami, ma questo è il
+mio dovere.<Delay 15>
+Devo chiederti di
+allontanarti!"<Opcode 2 60><Close><End of Block>
+<TextBlock 53 w:58 h:6>
+Guardia Imperiale
+"Il sole è già tramontato.<Delay 15>
+Avventurarsi al di fuori
+del perimetro della Capitale
+è pericoloso. Ora non posso
+lasciarti andare!"<Close><End of Block>
+<TextBlock 54 w:38 h:2>
+Guardia Imperiale
+"Perbacco<Delay 5>…<Delay 5>!"<Opcode 2 45><Close><End of Block>
+<TextBlock 55 w:38 h:3>
+Guardia Imperiale
+"Non ti ho forse
+detto che<Delay 5>…"<Opcode 2 45><Close><End of Block>
+<TextBlock 56 w:56 h:4>
+Guardia Imperiale
+"Tu sei il Campione!?<New>
+Oltre questo punto lascerai
+la sicurezza della Capitale
+per una regione in cui i
+mostri dominano!<New>
+Forse non hai bisogno
+che te lo dica, ma fai
+molta attenzione!"<Close><End of Block>
+<TextBlock 57 w:56 h:3>
+Guardia Imperiale
+"<Delay 5>…?<Delay 15> Forse mi 
+immagino le cose<Delay 5>…<New>
+Comunque, questa è Nortune,
+la Capitale Imperiale di
+Kislev. Buona permanenza!"<Close><End of Block>
+<TextBlock 58 w:46 h:2>
+Guardia Imperiale
+"Oh, la nostra
+reputazione<Delay 5>…"<Opcode 2 45><Close><End of Block>
+<TextBlock 59 w:46 h:4>
+Guardia Imperiale
+"Nortune, la nostra
+capitale, è un potente
+stato militare.<New>
+Bledavik, la capitale
+del Regno di Aveh, è 
+in guerra contro di noi."<Close><End of Block>
+<TextBlock 60 w:56 h:5>
+Guardia Imperiale
+"<Delay 5>…<Delay 5> Che strano…<Delay 15> Non ci
+siamo già incontrati?<Delay 30>
+Mmh, devo aver sbagliato 
+persona<Delay 5>…<Delay 5> Scusa."<Close><End of Block>
+<TextBlock 61 w:56 h:6>
+Guardia Imperiale
+"L'intera zona della
+Capitale Imperiale è sotto
+legge marziale. I civili
+entrano ed escono solo 
+dalla 'entrata principale'<Delay 5>…<New>
+Si parla anche di detenuti,
+che cercano di scappare
+grazie alla confusione
+causata dall'attacco di
+Aveh sulla nostra Capitale,
+nascosti qua intorno.<Close><End of Block>
+<TextBlock 62 w:52 h:6>
+Guardia Imperiale
+"Mmh<Delay 5>…?<Delay 10> Non ci siamo 
+già conosciuti<Delay 5>…?<Delay 10>
+Mah, forse no.<Delay 15>
+Comunque, le cose vanno
+così, quindi collaborate.<Close><End of Block>
+<TextBlock 63 w:58 h:5>
+Guardia Imperiale
+"Mi spiace, ma dopo il
+tramonto, nessuno può
+passare di qua!
+Neanche il Campione!"<Close><End of Block>
+<TextBlock 64 w:56 h:5>
+Guardia Imperiale
+"Questa è la caserma della
+Capitale Imperiale di Kislev.
+Non si può entrare senza un
+perm…<Delay 5><New>
+Ehi, ma tu non sei il
+Campione?<Delay 15> Permesso?<Delay 5>
+A te non serve!<Delay 5>
+Sei il Campione!"<Close><End of Block>
+<TextBlock 65 w:58 h:2>
+Guardia Imperiale
+"Allora<Delay 5> entra pure."<Close><End of Block>
+<TextBlock 66 w:56 h:5>
+Guardia Imperiale
+"Il cuoco ci ha buttato
+fuori. Mi piacerebbe farti
+entrare, ma per un po' non
+si può entrare nella caserma!"<Close><End of Block>
+<TextBlock 67 w:52 h:3>
+Big Joe
+"Calma, calma!<Delay 15>
+Non mettermi fretta, ok?"<Opcode 2 60><Close><End of Block>
+<TextBlock 68 w:44 h:2>
+Big Joe
+"Oooh,<Delay 5> un secondo!"<Opcode 2 60><Close><End of Block>
+<TextBlock 69 w:40 h:3>
+Big Joe
+"Perfetto, ora
+vai dritto."<Opcode 2 45><Close><End of Block>
+<TextBlock 70 w:32 h:4>
+<Perso1>
+"<Delay 5>…<Delay 5> Uh?<Delay 15>
+Qui qualcuno ha
+perso qualcosa!"<Close><End of Block>
+<TextBlock 71 w:38 h:1>
+Ottieni un Disco M!<Close><End of Block>
+<TextBlock 72 w:46 h:3>
+Fei
+"Ma… cosa!?<Delay 30>
+È un vicolo cieco!?"<Opcode 2 60><Close><End of Block>
+<TextBlock 73 w:56 h:4>
+Hammer
+"Ehi, o frate! Do… Doc
+Shita-n? Dove state
+andando? Mi sentite?"<Opcode 2 90><Close><End of Block>
+<TextBlock 74 w:28 h:2>
+<Opcode 1 255>Fei
+"Oh! Ehi<Delay 5>…!"<Opcode 2 30><Close><End of Block>
+<TextBlock 75 w:36 h:4>
+Signorina Arma
+"Maaa chiii èèèè?<Delay 15>
+Siaaamooo chiuuusiii!"<Close><End of Block>
+<TextBlock 76 w:56 h:4>
+Fei
+"<Delay 5>…<Delay 5> Non puoi fare qualcosa?<Delay 15>
+Apri, così possiamo
+comprare qualcosa!"<Close><End of Block>
+<TextBlock 77 w:54 h:4>
+Signorina Arma
+"Ohhh, va beeenee!<Delay 15>
+Sooolooo peeerchééé
+voooleetee coompraaareee!"<Close><End of Block>
+<TextBlock 78 w:56 h:5>
+Signor Arnese
+"Che c'è? A quest'ora il
+negozio è chiuso!<Delay 15>
+A domani, ok?"<Close><End of Block>
+<TextBlock 79 w:56 h:4>
+Fei
+"<Delay 5>…<Delay 5> Non puoi fare qualcosa?<Delay 15>
+Aprite, così possiamo
+comprare qualcosa!"<Close><End of Block>
+<TextBlock 80 w:54 h:6>
+Signor Arnese
+"Avete detto che avreste
+comprato qualcosa.<Delay 15> Se
+non lo farete, non vi
+lascerò andare via!
+Mi avete capito?"<Close><End of Block>
+<TextBlock 81 w:52 h:2>
+Signor Arnese
+"Va bene,<Delay 5> sto aprendo!"<Close><End of Block>
+<TextBlock 82 w:58 h:4>
+Guardia Imperiale
+"A causa dell'attacco del
+Regno di Aveh alla nostra
+Capitale Imperiale…<New>
+… il personale civile
+non è più ammesso nel
+Distretto Centrale dove
+il governo opera!"<Close><End of Block>
+<TextBlock 83 w:52 h:4>
+Guardia Imperiale
+"Torna indietro!<Delay 30>
+<Delay 5>…<Delay 5> Oh, sai che hai una
+faccia conosciuta<Delay 5>…?"<Close><End of Block>
+<TextBlock 84 w:50 h:3>
+Fei
+"Ah sì!?<Delay 15> …<Delay 5>
+Oops, se mi scusate…"<Close><End of Block>
+<TextBlock 85 w:50 h:4>
+Guardia Imperiale
+"<Delay 5>…<Delay 5> Ehi!<Delay 10>
+Ma non è il ricercato<Delay 5>…<Delay 15>?"<Close><End of Block>
+<TextBlock 86 w:54 h:5>
+Guardia Imperiale
+"<Delay 5>…<Delay 5> Sai,<Delay 15> si dice che in
+questo mondo, ognuno
+di noi ha due o tre
+sosia<Delay 5>…"<Close><End of Block>
+<TextBlock 87 w:56 h:6>
+Guardia Imperiale
+"Inoltre, se anche fosse
+il 'ricercato', che
+possibilità avremmo noi
+guardie contro di lui?
+È l'ex Campione!"<Close><End of Block>
+<TextBlock 88 w:58 h:2>
+Guardia Imperiale
+"Non svegliare il cane
+che dorme, eh!"<Close><End of Block>
+<TextBlock 89 w:56 h:5>
+Guardia Imperiale
+"Esatto! E se anche lo
+vedessimo, si può sempre
+dire che non l'abbiamo
+visto, no?"<Close><End of Block>
+<TextBlock 90 w:50 h:5>
+Guardia Imperiale
+<Opcode 1 255>"Ehi, ma quello è l'ex
+Campione evaso dall'arena
+col suo Gear e che ora
+viene 'ricercato'!"<Close><End of Block>
+<TextBlock 91 w:38 h:2>
+Guardia Imperiale
+<Opcode 1 255>"Ma sei scemo!?"<Close><End of Block>
+<TextBlock 92 w:50 h:4>
+Fei
+"Merda!<Delay 5> Siamo fritti!"<Delay 15>
+    Scappiamo per ora.
+    Forziamo il blocco!<Close><End of Block>
+<TextBlock 93 w:56 h:4>
+Fei
+"Non facciamoci prendere.
+Per il momento credo che
+sia meglio scappare!"<Close><End of Block>
+<TextBlock 94 w:56 h:4>
+Fei
+"Dobbiamo provarci!
+Doc! Elly! Cerchiamo di
+forzare il blocco!"<Close><End of Block>
+<TextBlock 95 w:48 h:3>
+Shitan
+"<Delay 5>…<Delay 5> Questa sarebbe
+l'unica cosa che
+possiamo fare, giusto?"<Close><End of Block>
+<TextBlock 96 w:40 h:4>
+Elly
+"Un attimo solo!
+Davvero vuoi farlo?"<Close><End of Block>
+<TextBlock 97 w:50 h:2>
+Guardia Imperiale
+"Oh no! Fanno sul serio!"<Opcode 2 20><Close><End of Block>
+<TextBlock 98 w:44 h:3>
+Guardia Imperiale
+"Non siamo in grado di
+battere il Campione!!!"<Opcode 2 30><Close><End of Block>
+<TextBlock 99 w:44 h:3>
+Guardia Imperiale
+<Opcode 1 255>"Aahahah! Sarete la
+nostra più grande impresa!"<Opcode 2 30><Close><End of Block>
+<TextBlock 100 w:50 h:3>
+Fei
+"Ehi, sei tu<Delay 5>…<Delay 5> Rico!<Delay 15>
+Che stai facendo qui?"<Close><End of Block>
+<TextBlock 101 w:54 h:4>
+Rico
+"<Delay 5>…<Delay 5> Ho cambiato idea.<New>
+Devo lasciare Nortune per
+un po', almeno finché le
+acque non si saranno
+calmate.<New>
+Avete intenzione di
+impossessarvi della
+nuova mega-nave da
+guerra, il 'Golia'?<New>
+Ok, vi darò una mano.
+<Delay 5>…<Delay 5> Ma senza uscire dai
+confini della città."<Close><End of Block>
+<TextBlock 102 w:46 h:4>
+Fei
+"<Delay 5>…<Delay 15>
+Vorresti combattere
+insieme a noi?"<Close><End of Block>
+<TextBlock 103 w:50 h:4>
+Rico
+"<Delay 5>…<Delay 5> Mettiamo in chiaro
+le cose! Non intendo
+diventare amico vostro!"<Close><End of Block>
+<TextBlock 104 w:52 h:4>
+Rico
+"Ho qualcosa da fare e 
+devo farlo da solo<Delay 5>…!<New>
+Non appena ci saremo
+allontanati dalla zona
+della capitale…<New>
+… mi lascerete andare
+per conto mio… dove
+più vi piace!"<Close><End of Block>
+<TextBlock 105 w:22 h:2>
+Fei
+"<Delay 5>…<Delay 5>…<Delay 5>…"<Close><End of Block>
+<TextBlock 106 w:54 h:4>
+Shitan
+"Almeno finché non saremo
+fuggiti dalla città,
+avremo un alleato in più.<New>
+È un'ottima cosa per
+noi, non è così?"<Close><End of Block>
+<TextBlock 107 w:36 h:2>
+Shitan
+"Non lo credete?"<Close><End of Block>
+<TextBlock 108 w:30 h:3>
+Elly
+"Beh<Delay 5>…<Delay 5> sì<Delay 5>…<Delay 15>
+Credo di sì."<Close><End of Block>
+<TextBlock 109 w:50 h:4>
+Rico
+"Non abbiamo altro 
+tempo da perdere!<New>
+Andiamocene di qua prima
+che arrivino altre guardie
+che hanno sentito tutto
+'sto casino!"<Close><End of Block>
+<TextBlock 110 w:52 h:4>
+Rico
+"La nostra destinazione
+sono le 'terre a nord'
+della capitale, giusto?<New>
+Lo stabilimento militare
+della Capitale Imperiale
+di Kislev ci aspetta!<Delay 15>
+Muoviamoci!"<Close><End of Block>
+<TextBlock 111 w:54 h:4>
+Fei
+"Qualcosa d'interessante?"
+    No, grazie.
+    Darò un'occhiata!<Close><End of Block>
+<TextBlock 112 w:44 h:2>
+Big Joe
+"Che guastafeste!"<Close><End of Block>
+<TextBlock 113 w:56 h:4>
+Big Joe
+"Oh!<Delay 10> Così vuoi dare
+un'occhiata, eh? <Delay 5>…<New>
+Ah, se le cose nel mondo
+fossero così semplici…
+Invece, nulla è gratis a
+questo mondo!<New>
+Quindi… facciamo
+un affaruccio!
+Parlo di soldi, amigo!
+Euro, dollari, lire, G!<New>
+Se non facessi così<Delay 5>…<Delay 5>
+Ecco, tu ne avresti un
+beneficio, ma<Delay 5>…<Delay 5>
+io non guadagnerei nulla!<New>
+Io guadagno, tu guadagni!<Delay 15>
+Questo è il modo giusto!<Delay 5>
+È un patto equo, non ti 
+pare, amigo?"<Close><End of Block>
+<TextBlock 114 w:52 h:4>
+Big Joe
+"È un affare per 5000G!"
+    Che cosa!?
+    Che affare!<Close><End of Block>
+<TextBlock 115 w:48 h:4>
+Big Joe
+"Ehi, prima mi chiedi di
+fare un affare, e poi ti
+tiri indietro?"<Close><End of Block>
+<TextBlock 116 w:36 h:1>
+Gli hai dato 5000G.<Close><End of Block>
+<TextBlock 117 w:52 h:4>
+Big Joe
+"<Delay 5>…<Delay 5> Affare fatto!
+Ora inizia il bello! Non
+temere, io resterò qui!"<Close><End of Block>
+<TextBlock 118 w:54 h:4>
+Big Joe
+"<Delay 5>…<Delay 5> Cosa!?<Delay 15> Non faccio
+affari con chi non ha 
+almeno 5000G! Scu-sa!"<Close><End of Block>
+<TextBlock 119 w:34 h:2>
+Fei
+"Ah! Ehi, aspetta!!"<Opcode 2 45><Close><End of Block>
+<TextBlock 120 w:52 h:4>
+Hammer
+"O frate!<Delay 15><New>
+<Opcode 1 255>Ottenni ora ora, con queste
+orecchie, le ultime
+informazioni sul tuo Gear!"<Opcode 2 90><Close><End of Block>
+<TextBlock 121 w:50 h:3>
+Hammer
+"Eh-eh, ho localizzato
+il tuo Gear, o frate!"<Close><End of Block>
+<TextBlock 122 w:50 h:3>
+Fei
+"<Delay 5>…<Delay 5> Un attimo solo!<New>
+(Non pensi che sia
+pericoloso parlare qui
+di queste cose!?)"<Close><End of Block>
+<TextBlock 123 w:54 h:4>
+Hammer
+"Ah?<Delay 15> Che dici,
+o frate?<Delay 15> Ho informazioni
+sul tuo Gea<Delay 5>…"<Opcode 2 45><Close><End of Block>
+<TextBlock 124 w:42 h:3>
+<Opcode 1 255>Hammer
+"Ehi!!<Delay 10>
+Che…<Delay 5> che<Delay 5> cosa!?"<Close><End of Block>
+<TextBlock 125 w:44 h:3>
+Shitan
+"Poi ti spiegherò!
+Ora muoviamoci!"<Close><End of Block>
+<TextBlock 126 w:40 h:2>
+Hammer
+"Feeeeeerm----<Delay 15>i!"<Opcode 2 45><Close><End of Block>
+<TextBlock 127 w:52 h:4>
+Fei
+"Qui dovremmo essere
+al sicuro.<New>
+Ora Hammer,<Delay 5> dimmi dov'è 
+il mio Gear."<Close><End of Block>
+<TextBlock 128 w:54 h:4>
+Hammer
+"Come Doc aveva
+previsto, o frate…<New>
+… il tuo Gear è stato
+spostato in un altro
+hangar di smaltimento."<Close><End of Block>
+<TextBlock 129 w:40 h:3>
+Shitan
+"Ma allora…<Delay 5> dov'è
+<Weltall>, santo cielo?"<Close><End of Block>
+<TextBlock 130 w:56 h:4>
+Hammer
+"Hai centrato il punto,
+o Shitan! Non è sotto il
+'cielo'…<New>
+È in un hangar sotterraneo
+nel blocco D!<New>
+Ho fatto qualche controllo
+ed ho scoperto che ci sono
+due modi che possiamo
+usare per introdurci lì.<New>
+La prima è passare dalla
+Arena di Battagliare.<Close><End of Block>
+<TextBlock 131 w:54 h:4>
+Fei
+"Beh, non è possibile
+arrivarci dall'Arena
+di Battagliare!<Delay 15><New>
+Qual è il secondo modo?"<Close><End of Block>>
+<TextBlock 132 w:54 h:4>
+Hammer
+"L'altro modo è un po'
+pericoloso, visto che…<New>
+… dovrete usare la
+galleria del treno dei
+rifornimenti.<New>
+Dovete entrare nelle
+condutture della galleria
+e seguirle finché non vi
+portano agli hangar.<New>
+Ma non ho potuto avere
+una piantina del condotto<Delay 5>…<Delay 30>
+Scusami, o frate."<Close><End of Block>
+<TextBlock 133 w:52 h:4>
+Fei
+"<Delay 5>…<Delay 5> Oh, quella galleria, eh?<New>
+Beh, ora che ci siamo
+realmente tolti dalle
+scatole il problema
+della bomba…<New>
+… potremmo anche
+provarci!"<Close><End of Block>
+<TextBlock 134 w:54 h:4>
+Shitan
+"Sì, ma rimaniamo comunque
+ignari degli orari nei
+quali passa il treno.<New>
+Un treno di rifornimenti
+passerà in un orario che
+ci è utile?"<Close><End of Block>
+<TextBlock 135 w:56 h:4>
+Fei
+"Non dobbiamo decidere
+tutto ora.<New>
+Prendiamoci il nostro
+tempo e progettiamo
+attentamente il piano!"<Close><End of Block>
+<TextBlock 136 w:54 h:4>
+Fei
+"Per prima cosa, Hammer,
+mi dispiace darti
+fastidio,<Delay 5> ma…<New>
+Potresti scoprire i giorni
+e le ore in cui il treno
+dei rifornimenti può
+servire alla nostra causa?"<Close><End of Block>
+<TextBlock 137 w:54 h:3>
+Hammer
+"Lassa fare a mia,
+o frate.<Delay 15>
+Faccio subito!<New>
+Bene, allora io vado!"<Close><End of Block>
+<TextBlock 138 w:42 h:4>
+Shitan
+"Vogliamo tornare
+al Blocco D per il 
+momento?"<Close><End of Block>
+<TextBlock 139 w:54 h:3>
+     " IL GATTOPARDO "
+-   Bar ufficiale della
+Capitale Imperiale, Nortune -<Close><Close><End of Block>

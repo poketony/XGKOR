@@ -1,0 +1,190 @@
+<TextBlock 1 w:52 h:4>
+Nicola
+"Capisco…<Delay 20> Sei una
+gigantesca forma vitale
+nativa di questo pianeta…<New>
+Non sei…<Delay 20> una giovane
+rankar.<New>
+Nome della specie:
+tener stulidusque Chu-chu
+(intelligenza,
+astronomicamente bassa)!<New>
+Non si sono ancora
+estinti?<New>
+Ma, per mezzo della
+ingegneria genetica,
+la loro taglia dovrebbe
+essere stata ridotta…<New>
+Forse a qualcuno dei
+sopravvissuti è stato
+rimosso il Limitatore da
+uno dei saggi di Shevat.<New>
+Intrigante… Ciò fa di
+te un'eccellente cavia.
+Ti userò per molti
+esperimenti!"<Close><End of Block>
+<TextBlock 2 w:28 h:3>
+Maria
+"No, <Chu-Chu>!<Delay 20>
+Non farlo!"<Close><End of Block>
+<TextBlock 3 w:54 h:4>
+Maria
+"Avete finito di parlare
+alla Regina?<New>
+Che cosa pensate di
+fare…<Delay 20>?<New>
+Combatterete al fianco
+del popolo di Shevat
+contro Solaris?"<Close><End of Block>
+<TextBlock 4 w:54 h:4>
+Maria
+"Ognuno sta cercando una
+ragione per vivere, una
+ragione per combattere.<New>
+Per capire meglio il
+significato della morte…<New>
+Ma è qualcosa che
+dobbiamo trovare da soli,
+e dobbiamo farlo nostro…<New>
+Questo è ciò che ha detto
+mio nonno. Ma non capisco
+che cosa significhi…"<Close><End of Block>
+<TextBlock 5 w:54 h:4>
+Maria
+"Sono già 5 anni da
+quando mio nonno mi
+ha portato a Shevat.<New>
+Il nonno e la Regina mi
+hanno sempre detto di
+non lasciare Shevat<Delay 20>…<New>
+Che non devo andare
+a Solaris da sola…<New>
+Ma come potrei perdere
+contro un altro Gear 
+con il mio <Seibzehn>…?<Delay 20>
+Impossibile…!<New>
+Avanzerò contro
+quei Solariani con 
+<Seibzehn>…<Delay 10> E li farò
+a pezzi, tutti a pezzi!!"<Close><End of Block>
+<TextBlock 6 w:54 h:4>
+Maria
+"Perché il nonno e la
+Regina mi fermano?<New>
+Non gli importa cosa
+succede a mio padre…?<Delay 20>
+Resteranno a guardare
+mentre lui muore?<New>
+Non perdonerò mai
+coloro che hanno
+torturato mio padre…<New>
+… e coloro che sono
+rimasti in silenzio a
+guardare…!"<Close><End of Block>
+<TextBlock 7 w:42 h:4>
+Maria
+"Anche mentre parliamo,
+a Solaris mio padre
+potrebbe essere…"<Close><End of Block>
+<TextBlock 8 w:10 h:2>
+Maria
+"…"<Close><End of Block>
+<TextBlock 9 w:26 h:2>
+Maria
+"<Chu-Chu>!!"<Close><End of Block>
+<TextBlock 10 w:20 h:2>
+Maria
+"Midori!?"<Close><End of Block>
+<TextBlock 11 w:52 h:4>
+Maria
+"No, non dovresti essere
+qui!!<Delay 20> Qui è pericoloso,
+resta dentro…"<Close><End of Block>
+<TextBlock 12 w:20 h:2>
+Maria
+"Cosa…?"<Close><End of Block>
+<TextBlock 13 w:10 h:2>
+Maria
+"…"<Close><End of Block>
+<TextBlock 14 w:14 h:2>
+Maria
+"…!!"<Close><End of Block>
+<TextBlock 15 w:32 h:2>
+Maria
+"<Seibzehn>!!"<Opcode 2 90><Close><End of Block>
+<TextBlock 16 w:34 h:4>
+Nicola
+"Che gli prende a questo
+astronomicamente deficiente…<New>
+… animale di basso livello…?"<Space 1><Close><End of Block>
+<TextBlock 17 w:54 h:3>
+<Chu-Chu>
+"Ci penso io,
+chu, Maria.<Delay 20>
+Una passeggiata!"<Close><End of Block>
+<TextBlock 18 w:54 h:4>
+<Chu-Chu>
+"Non chu essere
+scortese con me.<New>
+Non sono un animale di
+basso livello-chu.<Delay 20>
+Io sono <Chu-Chu>."<Close><End of Block>
+<TextBlock 19 w:54 h:3>
+<Chu-Chu>
+"Bene, iniziamo le chu
+danze, cattivone!<New>
+Prenderò a calci il tuo
+chu sedere fino a
+spedirti a baciare la
+luna, chu!!"<Close><End of Block>
+<TextBlock 20 w:38 h:1>
+Sorellona Maria…<Close><End of Block>
+<TextBlock 21 w:30 h:3>
+Midori
+"Chiamare…<Delay 20>
+Tuo padre…"<Close><End of Block>
+<TextBlock 22 w:54 h:3>
+Midori
+"Uh uh…<Delay 20>
+No…<New>
+Lui non è…<Delay 20> quella
+cosa spaventosa lì."<Close><End of Block>
+<TextBlock 23 w:52 h:3>
+Shitan
+"Sì…<Delay 20> Ho scelto da
+che parte stare.<New>
+Non c'è modo di tornare
+sui miei passi…"<Close><End of Block>
+<TextBlock 24 w:52 h:4>
+Shitan
+"Certo…<Delay 20>
+Ma potrei non trovare
+un'altra strada…<New>
+Se mi succedesse di
+essere sopraffatto dal
+lato oscuro…<Delay 20> A quel
+punto, avrò già…"<Close><End of Block>
+<TextBlock 25 w:38 h:4>
+Shitan
+"Allora anche tu…<Delay 30>
+Ti prego, prenditi
+cura di Midori."<Close><End of Block>
+<TextBlock 26 w:42 h:3>
+Yui
+"Stai per andare…<Delay 20>
+a Solaris… vero?"<Close><End of Block>
+<TextBlock 27 w:52 h:3>
+Yui
+"Ti farai del male…<Delay 20>
+E anche loro ne
+subiranno…"<Close><End of Block>
+<TextBlock 28 w:50 h:3>
+Yui
+"Non dire altro.<Delay 20>
+Già lo so…"<Close><End of Block>
+<TextBlock 29 w:48 h:3>
+Yui
+"Ora, ecco…<Delay 20>
+Questa è la tua spada…<New>
+Ti prego…<Delay 20>
+Ti prego, torna vivo!"<Close><Close><End of Block>

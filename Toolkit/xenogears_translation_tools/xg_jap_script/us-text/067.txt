@@ -1,0 +1,785 @@
+#### 1 ####
+Maison
+"Thank you, Master Fei!!
+And please take care of
+my young master, Bart."
+
+#### 2 ####
+Maison
+"Master Fei,
+please relax."
+
+#### 3 ####
+Maison
+"{wait:05}...{wait:05}"
+
+#### 4 ####
+What?{wait:0A}
+Don't get all excited.
+
+#### 5 ####
+Hey, newcomer! 
+Where ya from? {wait:0A}
+Lahan? {wait:0A} Don't know it.{enter}
+Hey, I was a 
+Kislev soldier. {enter}
+I didn't like the way 
+they did things in the army 
+so they kicked me out. {enter}
+The young master's got 
+lots of power and
+ambition, just like me.
+
+#### 6 ####
+This guy was once an
+Aveh soldier.{wait:0A} 
+You just can't predict
+destiny, can ya?{enter}
+We used to fight each
+other but now we're pals
+sharing a meal together.
+How about that, eh...!?
+
+#### 7 ####
+Speaking of food, 
+I'm hungry{wait:05}...{wait:05}
+
+#### 8 ####
+This's bad!
+
+#### 9 ####
+You from Aveh? {wait:0A}
+Oh, you're not. 
+Well I was an Aveh soldier.{enter}
+Aveh's Prime Minister,
+Shakhan, has so much
+military clout that he can
+send us students off to war.{enter}
+I wasn't happy with Shakhan.
+So I got out of the army
+and became a pirate.
+
+#### 10 ####
+I wonder if Francois is
+doing well at home{wait:05}...{wait:05}?
+
+#### 11 ####
+What?{wait:05} No! Yuck...
+She's not my girlfriend.
+She's my dog.
+
+#### 12 ####
+In that earlier 
+commotion my model 
+got broken{wait:05}...
+
+#### 13 ####
+Bart
+"Are you still here?
+Get going!"
+
+#### 14 ####
+Ooh, if this shaking
+keeps up, our precious
+model will...!!
+
+#### 15 ####
+This model is really
+nice. Just look at
+the detail work{wait:05}...
+
+#### 16 ####
+Hey Fei!! Don't you
+think this is great?{wait:0A}
+    It's pretty cool!
+    No big deal
+
+#### 17 ####
+It is pretty cool, isn't it?{wait:0A} 
+There's a story behind this
+model.
+Let me tell you about it...{enter}
+Twelve years ago, Sigurd took
+Bart out of Aveh. They stole
+Aveh's most powerful warship
+and totally remodeled it.{enter}
+They renamed it the
+'Yggdrasil'.{enter}
+This is the Yggdrasil
+before the improvements.{wait:0A}
+I have it here to remind 
+me of the hopes I had then.
+
+#### 18 ####
+(Heh heh...it was worth
+the work that the first
+mate and I put in on it.)
+
+#### 19 ####
+Hmph, a minute ago you
+said it wasn't so great{wait:05}...
+
+#### 20 ####
+No big deal?{wait:0A}
+Well, let me tell you the
+story behind it, cause might
+just change your mind...{enter}
+Twelve years ago, Sigurd took
+Bart out of Aveh. They stole
+Aveh's most powerful warship
+and totally remodeled it.{enter}
+They renamed it the
+'Yggdrasil'.
+This is the Yggdrasil before
+the improvements.{enter}
+I have it here to remind 
+me of the hopes I had then.
+But it's not important now,
+I guess...
+
+#### 21 ####
+(Sigh...The first mate and
+I worked so hard on this!)
+
+#### 22 ####
+Is that how you really 
+feel? You're a liar Fei.
+
+#### 23 ####
+I want to make another 
+Yggdrasil model...
+
+#### 24 ####
+Hey! Fei, 
+you did a great job! 
+We're counting on you!
+
+#### 25 ####
+Oh no!{wait:0A}
+All the Gears are supposed
+to be under repair!!
+
+#### 26 ####
+Do you know why such a
+small child is here?
+She is a war orphan...{enter}
+She was found crying in
+the desert. They brought
+her here in the Yggdrasil.{enter}
+We must stop the fighting
+from making any more
+orphans like her.
+
+#### 27 ####
+Margie, you came back!{wait:0A} 
+I'm so happy! {wait:0A}
+I'll come by and see
+you later!
+
+#### 28 ####
+I hear you all did a good
+job in protecting us{wait:05}...{wait:05}
+I'm sorry I can't give you
+a break, but I just can't.
+
+#### 29 ####
+Come back when you
+rescue little Margie!
+Good luck, Bart dear!
+
+#### 30 ####
+Bart
+"Got it!{wait:0A}
+Hold down the fort
+for us know!"
+
+#### 31 ####
+The enemy's coming?{wait:0A} 
+This place is impregnable, 
+you don't have to worry!!
+
+#### 32 ####
+It's best if you 
+take refuge now.
+
+#### 33 ####
+You look tired.{wait:0A}
+Maybe shopping will
+perk you up.{enter}
+(Even though they're
+Bart's friends I have
+to charge them!)
+
+#### 34 ####
+If you want anything 
+just let me know.
+
+#### 35 ####
+What do you want?
+{fast:FF}    Items
+    Accessories
+    Gear parts
+    Leave
+
+#### 36 ####
+Bart dear!{wait:0A}
+I was wondering when 
+you'd show up!
+
+#### 37 ####
+Are you doing well,
+Bart dear?
+
+#### 38 ####
+Oh! Fei dear!
+I believed in you.
+You said you'd help Bart.{wait:0A}
+And thanks from me too.
+
+#### 39 ####
+Bart dear, you don't find
+many friends like this!{wait:0A}
+So you'd better be nice
+to him, now!
+
+#### 40 ####
+Bart
+"Yeah. The next time I
+come back here, it'll
+be with Margie...{enter}
+So I'll be expecting
+you to make something
+good."
+
+#### 41 ####
+Alright dear, you just
+leave it to Granny!
+
+#### 42 ####
+Fei dear!!
+Did you see a little boy
+and girl? I wonder where
+they went?
+
+#### 43 ####
+Well now aren't you Fei? 
+Bart dear said he made a 
+'big strong friend'.
+
+#### 44 ####
+{wait:05}...{wait:05}
+
+#### 45 ####
+Be friends with Bart.
+He's such a sweet child.{wait:0A}
+    Ahh, sure
+    Not interested
+
+#### 46 ####
+Fei
+"I know."
+
+#### 47 ####
+I'm counting on
+you, Fei dear.
+
+#### 48 ####
+Fei
+"It has nothing to
+do with me{wait:05}..."
+
+#### 49 ####
+Well, I see you're
+just like Bart, you
+stand your own ground.{wait:0A} 
+You'll do fine.
+
+#### 50 ####
+If you're with Bart 
+you'll do fine.
+
+#### 51 ####
+Fei dear,{wait:0A}
+{wait:05}...{wait:05}thanks.
+
+#### 52 ####
+Whoa!!
+
+#### 53 ####
+Granny!
+I'm scared!
+
+#### 54 ####
+Hey, Granny.
+
+#### 55 ####
+Oops{wait:05}...{wait:05}
+I'm so embarrassed.{wait:0A}
+But this is how I
+am with children{wait:05}...
+
+#### 56 ####
+It's been a long time 
+since we last had fun.{wait:0A}
+Let's play in the sand!
+
+#### 57 ####
+Dad, this is
+the desert!!
+
+#### 58 ####
+Wahahaha!{wait:0A}
+You got a lot funnier
+since I saw you last!!
+
+#### 59 ####
+Well, see ya!!
+
+#### 60 ####
+Presents, presents!
+Wee! Weeee!
+
+#### 61 ####
+Me, I'm waiting for
+my dad to get back.
+But I'm not gonna cry!{wait:0A}
+Pretty good, huh?
+
+#### 62 ####
+Fei
+"That's really good{wait:05}..."
+
+#### 63 ####
+Daddy!!{wait:0A}
+
+#### 64 ####
+Welcome home, Daddy!!
+
+#### 65 ####
+There, there. Have you
+been a good girl by
+obeying the nice lady?
+
+#### 66 ####
+Yes!!
+
+#### 67 ####
+I was good, {wait:05}so...{wait:05}
+where are my presents?
+
+#### 68 ####
+Presents!?{wait:0A} Look, here's
+a pirate dress up kit!!
+
+#### 69 ####
+Wow!{wait:0A}
+Thanks dad!!
+
+#### 70 ####
+Maison
+"This is the dining hall.{wait:0A}
+I'm sorry it is so gauche."
+
+#### 71 ####
+Maison
+"Please take a seat."
+
+#### 72 ####
+Maison
+"Perhaps you would like 
+some of my famous tea?{wait:0A} 
+Master Fei?{wait:0A} Good Doctor?"
+
+#### 73 ####
+Maison
+"Young visitors are rare
+indeed, the young master
+must be very happy.{enter}
+If things were normal we
+wouldn't be living in the
+desert, but rather back
+in the royal palace{wait:05}...{wait:05}"
+
+#### 74 ####
+Citan
+"Royal palace{wait:05}...?{wait:0A} You mean
+that young one is connected
+to the old Fatima dynasty?"
+
+#### 75 ####
+Maison
+"Pardon?"
+
+#### 76 ####
+Maison
+"N,{wait:05} no...{wait:0A}
+I'm just a senile old fool
+who talks too much{wait:05}...{enter}
+Pay no attention to what
+I just said...
+Ha{wait:05}ha{wait:05}ha{wait:05}..."
+
+#### 77 ####
+Citan
+"But...that one-eyed
+youth does have a
+certain bearing."
+
+#### 78 ####
+Maison
+"Oh{wait:05}...{wait:05}oh{wait:05}...{wait:05}oh{wait:05}...!{wait:0A}
+Well spoken Sir! Awfully
+good of you to notice!"
+
+#### 79 ####
+Maison
+"If I may...
+I would like to tell you.{enter}
+The young gent is the last
+forgotten reminder of the
+once proud Fatima dynasty.{enter}
+...That is, before it was
+destroyed by Shakhan's
+minions...
+
+#### 80 ####
+Prince {wait:0A}
+Bartholomew {wait:0A}
+Fatima.
+
+#### 81 ####
+Citan
+"Bartholomew?{wait:0A}
+Edbart IV's successor{wait:05}...{enter}
+I am sure they announced
+Bartholomew died of an
+illness 12 years ago{wait:05}..."
+
+#### 82 ####
+Maison
+"Officially, yes.{enter}
+However in reality, we
+rescued the young prince
+from Shakhan's evil grasp."
+
+#### 83 ####
+Citan
+"Then why must the prince,
+the rightful heir, resort
+to piracy{wait:05}...?"
+
+#### 84 ####
+Maison
+"{wait:05}...{wait:05}"
+
+#### 85 ####
+Maison
+"Since fleeing here, we
+have had only one wish{wait:05}...{enter}
+...{wait:05}that the young master
+would grow up to be a
+great man{wait:05}..."
+
+#### 86 ####
+Citan
+"Not to{wait:05}...{wait:0A}
+reclaim the throne?"
+
+#### 87 ####
+Maison
+"That is correct.{enter}
+Of course, to say we have
+absolutely no desire to
+restore his rule{wait:05}...{wait:05}
+would be a lie.{enter}
+We have plans for that
+as well."
+
+#### 88 ####
+Citan
+"And part of those plans
+would include piracy...?"
+
+#### 89 ####
+Maison
+"Well, yes{wait:05}...{wait:0A} 
+But there is a reason
+for that{wait:05}..."
+
+#### 90 ####
+Maison
+"Regardless of who gains
+the ruins' technology,
+one thing is certain...{enter}
+Both Kislev and Aveh will
+simply use that power to
+oppress the other.{enter}
+I agreed with the young
+master's idea of creating
+a new power to balance
+things out a little."
+
+#### 91 ####
+Citan
+"I see...{enter}
+It is far more effective
+to plunder from the
+shadows, than to excavate
+the technology oneself."
+
+#### 92 ####
+Maison
+"Of course pillaging is
+an unpardonable act.{enter}
+However{wait:05}...{wait:05}
+for Aveh,{wait:05}
+for Ignas, {wait:05}
+to continue like this{wait:05}..."
+
+#### 93 ####
+"I'm sorry if it sounds
+rather self-righteous."
+
+#### 94 ####
+Citan
+"That is something which
+outsiders like ourselves
+cannot comment upon.{enter}
+From what you have told
+me, I feel that the result
+of what you are doing will
+be good.{enter}
+Seeing your children here
+tells me that."
+
+#### 95 ####
+Maison
+"I am much relieved 
+by your words."
+
+#### 96 ####
+Maison
+"Another cup of tea?"
+
+#### 97 ####
+Citan
+"Yes please.{wait:0A}
+Thank you."
+
+#### 98 ####
+Citan
+"You mentioned you had
+plans. Why have you not
+put them into action?"
+
+#### 99 ####
+Maison
+"With Miss Margie
+imprisoned, we dare
+not do anything."
+
+#### 100 ####
+Citan
+"She would not
+happen to be{wait:0A}
+Nisan's{wait:05}...?"
+
+#### 101 ####
+Maison
+"You are well informed,
+my dear doctor. {enter}
+She is the Great Mother
+Marguerite of Nisan{wait:05}...{wait:0A}
+and the young master's
+cousin, as well."
+
+#### 102 ####
+Citan
+"Why would Shakhan
+take her captive?"
+
+#### 103 ####
+Maison
+"For the 'Fatima Jasper'!"
+
+#### 104 ####
+Citan
+"The Fatima Jasper that
+is said to show where
+great treasure is?"
+
+#### 105 ####
+Maison
+"My, good Doctor!{wait:0A}
+You do know an awful lot.{wait:0A}
+I am most impressed."
+
+#### 106 ####
+Fei
+"No{wait:05}...{wait:05}
+I'm just not
+thirsty now!"
+
+#### 107 ####
+Maison
+"Well, we have no idea
+what the great treasure
+actually is...{enter}
+But it is said to be
+strong enough to save
+our kingdom if it is
+ever in plight!"
+
+#### 108 ####
+Citan
+"And Marguerite has
+the Jasper that tells
+the location?"
+
+#### 109 ####
+Maison
+"Only half of it,
+to be precise.{enter}
+The young master
+and Miss Marguerite
+each have half.{enter}
+Only by combining
+the two halves will
+anyone know where
+the treasure is."
+
+#### 110 ####
+Citan
+"What exactly is
+the Fatima Jasper?{enter}
+When you say a half
+of the Jasper, I
+imagine some kind
+of necklace{wait:05}..."
+
+#### 111 ####
+Maison
+"Only the heirs to Aveh
+and Nisan know what it
+really looks like."
+
+#### 112 ####
+Citan
+"I see.{wait:0A}
+So that is why they
+have her locked up.{enter}
+My guess is that when
+they do find out, her
+chances of living are
+not{wait:05}..."
+
+#### 113 ####
+Citan
+"Ah, I apologize. {wait:0A}
+I simply,{wait:0A}
+I mean{wait:05}...{enter}
+I was only supposing
+the worst case. 
+So please do not take
+it to heart{wait:05}..."
+
+#### 114 ####
+Maison
+"No, that is a terribly
+realistic scenario."
+
+#### 115 ####
+Citan
+"{wait:05}..."
+
+#### 116 ####
+Citan
+"Ahem.{wait:0A}
+What exactly do you mean
+by great treasure{wait:05}...?"
+
+#### 117 ####
+Maison
+"Well,{wait:0A}
+I haven't the foggiest...{wait:05}"
+
+#### 118 ####
+The Gear...!
+He means the Gear!{wait:0A}
+It has to be it!
+
+#### 119 ####
+Maison
+"Young master{wait:05}...{wait:0A}
+are the Gears alright?"
+
+#### 120 ####
+Bart
+"Yeah...{enter}
+Even though they were
+sealed, sand's gotten
+into the joints.{enter}
+It's a pain in the neck
+to fix, so I'm having
+the crew take care of
+it now.{enter}
+My job is just to pilot
+them anyway.{enter}
+Besides, I'm bad with 
+machines,{wait:0A} so I'd just
+get in the way."
+
+#### 121 ####
+Young master{wait:05}...
+
+#### 122 ####
+Bart
+"Anyway...
+What were we
+talking about?"
+
+#### 123 ####
+Citan
+"Whether the great
+treasure could be
+a{wait:05}...{wait:05}Gear?"
+
+#### 124 ####
+Bart
+"Oh, yeah.{enter}
+You know, something like
+that is drawn in one of
+the Aveh picture scrolls."
+
+#### 125 ####
+Citan
+"Picture scrolls?"
+
+#### 126 ####
+{wait:05}...{wait:05}
+
+#### 127 ####
+Bart
+"Well,{wait:05} if you're interested{wait:0A}
+then let's go to the
+planning room{wait:05}...{enter}
+I'll show you what I
+mean{wait:05}...{wait:05}since you're my
+special guests."
+
+#### 128 ####
+Citan
+"That sounds
+interesting."
+
+#### 129 ####
+!{clear:3C}
+
+#### 130 ####
+Maison
+"You do not like my tea,{wait:0A}
+Master Fei?"
+
+#### 131 ####
+
+

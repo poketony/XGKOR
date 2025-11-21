@@ -1,0 +1,777 @@
+<TextBlock 1 w:60 h:6>
+"Il tuo Gear è stato iscritto.
+Cosa vorresti fare?"<Delay 15>
+<Opcode 1 255>    Imparare i comandi
+    Modalità Impara
+    Modalità Allenamento
+    Iniziare la battaglia<Close><End of Block>
+<TextBlock 2 w:56 h:4>
+Addetta alle Informazioni
+"Giusto, i pulsanti di
+controllo. Allora ti spiego 
+come funziona ogni pulsante…<Close><End of Block>
+<TextBlock 3 w:50 h:4>
+Addetta alle Informazioni
+"Bene, ora spiegherò i
+controlli di base usando
+lo schermo."<Close><End of Block>
+<TextBlock 4 w:50 h:3>
+Addetta alle Informazioni
+"Allora…<Delay 10> vuoi provare
+i controlli, eh…"<Close><End of Block>
+<TextBlock 5 w:56 h:4>
+Addetta alle Informazioni
+"Ora inizia lo scontro!<Delay 5> OK?"<Delay 15>
+<Opcode 1 255>    Un attimo!
+    Sono prontissimo!<Close><End of Block>
+<TextBlock 6 w:42 h:1>
+<Opcode 1 255>- Inizia lo scontro -<Close><End of Block>
+<TextBlock 7 w:42 h:8>
+"Di quale pulsante ti
+serve sapere?<Delay 15>
+<Opcode 1 255>    Croce Direzionale
+    Pulsante <Cross>
+    Pulsante <Square>
+    Pulsante <Tri>
+    Pulsante <Circle>
+    Pagina successiva<Close><End of Block>
+<TextBlock 8 w:42 h:7>
+"Cosa devo spiegarti,
+allora?"<Delay 15>
+<Opcode 1 255>    Pulsante L1
+    Pulsante R1
+    Pulsante Start
+    Pagina precedente
+    Basta così<Close><End of Block>
+<TextBlock 9 w:56 h:6>
+Addetta alle Informazioni
+"OK,<Delay 5> riguardo alla Croce
+direzionale…<Delay 15> Ammettendo che
+il tuo avversario sia alla
+tua destra (secondo il tuo
+punto di vista), allora…<New>
+= SU fa muovere il tuo Gear
+  lontano dallo schermo.<Delay 45>
+= GIÙ fa muovere il tuo Gear
+  verso lo schermo.<New>
+= DESTRA lo fa muovere
+  verso il tuo avversario.<Delay 45>
+= SINISTRA fa allontanare il
+  tuo Gear dall'avversario.<Close><End of Block>
+<TextBlock 10 w:54 h:6>
+Addetta alle Informazioni
+"Infine, quando sei vicino
+al tuo avversario, se premi
+SINISTRA azioni una mossa
+speciale: una brevissima
+retroaccelerazione!!<New>
+Usarla ti permetterà di
+metterti a distanza dallo
+avversario per un breve
+istante (oppure ti permette
+di 'scappare')…<Delay 30>!<New>
+Però ricorda: funziona
+solo se ti muovi nella
+direzione opposta a quella
+dell'avversario.<Close><End of Block>
+<TextBlock 11 w:58 h:5>
+Addetta alle Informazioni
+"In poche parole è tutto qui!<Delay 30>
+Probabilmente è più facile
+capirlo provando dal vivo
+i comandi!"<Close><End of Block>
+<TextBlock 12 w:60 h:5>
+Addetta alle Informazioni
+"Il pulsante <Cross> è usato
+per ATTACCARE.<Delay 15> Ci sono tre
+pulsanti d'attacco, e <Cross> è
+uno di questi.<New>
+Cambia da Gear a Gear, ma di
+norma è usato per combattere
+da vicino.<Delay 15> E non sei costretto
+a colpire l'avversario solo
+una volta.<New>
+Combinando i pulsanti <Cross> e <Square>
+potrai creare una catena di
+attacchi, massimo tre di fila!<New>
+Contando tutti i comandi, ci
+sono 14 tipi di combinazioni
+utilizzabili!"<Close><End of Block>
+<TextBlock 13 w:60 h:5>
+Addetta alle Informazioni
+"Il pulsante <Square> è usato
+per ATTACCARE.<Delay 15> Ci sono tre
+pulsanti d'attacco, e <Square> è
+uno di questi.<New>
+Cambia da Gear a Gear, ma di
+norma è usato per combattere
+da vicino.<Delay 15> E non sei costretto
+a colpire l'avversario solo
+una volta.<New>
+Combinando i pulsanti <Cross> e <Square>
+potrai creare una catena di
+attacchi, massimo tre di fila!<New>
+Contando tutti i comandi, ci
+sono 14 tipi di combinazioni
+che puoi provare!"<Close><End of Block>
+<TextBlock 14 w:58 h:5>
+Addetta alle Informazioni
+"Il pulsante <Tri> serve a
+SALTARE!<Delay 5> Mentre salti
+i comandi per muoverti
+rimangono gli stessi.<New>
+Inoltre, anche mentre salti
+puoi attaccare con i pulsanti
+<Cross> e <Square>!<New>
+Oh, e ti è permesso anche
+usare il pulsante R1 per
+sparare Proiettili Eterei!<Close><End of Block>
+<TextBlock 15 w:50 h:4>
+Addetta alle Informazioni
+"Il pulsante <Circle> serve a
+SCATTARE.<Delay 10> Puoi muovere
+il tuo Gear normalmente.<New>
+L'unico problema è che
+non puoi continuare a
+correre per sempre."<Close><End of Block>
+<TextBlock 16 w:54 h:5>
+Addetta alle Informazioni
+"Per avere più dettagli,
+prova la 'Modalità Impara',
+dove un'altra addetta ti
+spiegherà altre cose."<Close><End of Block>
+<TextBlock 17 w:60 h:5>
+Addetta alle Informazioni
+"Non si deve solo attaccare!<Delay 10>
+Anche se si dice che l'attacco
+è la miglior difesa, ogni
+tanto è importante difendersi.<New>
+È per questo che il pulsante
+L1 è usato per DIFENDERSI!<Delay 15>
+Ma…<Delay 5> non ti protegge del
+tutto dai danni, perciò
+stai attento!"<Close><End of Block>
+<TextBlock 18 w:60 h:7>
+Addetta alle Informazioni
+"Col pulsante R1 lanci un
+attacco speciale chiamato
+'Proiettile Etereo'.<Delay 15> È
+buono per attaccare il
+tuo avversario dalla
+lunga distanza!<New>
+I 'Proiettili Eterei' hanno
+la capacità di autopilotarsi…<New>
+… perciò potresti cadere nella
+tentazione di contare spesso
+su di loro, ma te ne potresti
+pentire se li usi troppo!
+Stai molto attento!"<Close><End of Block>
+<TextBlock 19 w:54 h:5>
+Addetta alle Informazioni
+"Per avere più dettagli,
+prova la 'Modalità Impara',
+dove un'altra addetta ti
+spiegherà altre cose."<Close><End of Block>
+<TextBlock 20 w:50 h:4>
+Addetta alle Informazioni
+"Il pulsante Start ti
+permetterà di fermare
+la battaglia.<New>
+A questo punto, potresti
+voler scegliere l'opzione
+'RESA', se credi di non
+poter vincere."<Close><End of Block>
+<TextBlock 21 w:44 h:4>
+Hammer
+"Ma che fu tutto quel
+casino!? È scomparso
+come un f… fulmine!<Opcode 2 90><Close><End of Block>
+<TextBlock 22 w:38 h:4>
+Hammer
+"Io vi conosco solo
+da quando siete
+arrivati qui!<New>
+Cos'è questo
+torneo di Aveh?"<Opcode 2 90><Close><End of Block>
+<TextBlock 23 w:40 h:2>
+Hammer
+"Ma che succede!!??"<Opcode 2 90><Close><End of Block>
+<TextBlock 24 w:30 h:1>
+Ah ah ah ah ah!<Opcode 2 45><Close><End of Block>
+<TextBlock 25 w:42 h:4>
+Voce Misteriosa
+"Come tuo solito, non
+hai imparato nulla,
+n'è vero?"<Opcode 2 70><Close><End of Block>
+<TextBlock 26 w:16 h:2>
+Hammer
+"Ehhh!?"<Opcode 2 45><Close><End of Block>
+<TextBlock 27 w:48 h:3>
+Rico
+"<Delay 5>…<Delay 5> <Stier>.<New>
+Questo è l'ultimo<Delay 5>…<Delay 30>
+Tieni duro, non tradirmi
+proprio ora!"<Close><End of Block>
+<TextBlock 28 w:38 h:2>
+Rico
+"<Delay 5>…<Delay 5> Ucciderlo, io<Delay 5>…<Delay 5>"<Space 2><Close><End of Block>
+<TextBlock 29 w:28 h:2>
+Fei
+"… Tutto qui?"<Close><End of Block>
+<TextBlock 30 w:44 h:4>
+Hammer
+"Sì.<Delay 20> Questo è il
+meglio che si può
+ottenere qui in giro."<Close><End of Block>
+<TextBlock 31 w:38 h:4>
+Fei
+"Pensi che io possa
+vincere con questi
+pezzi schifosi?"<Close><End of Block>
+<TextBlock 32 w:46 h:4>
+Shitan
+"Hai ben afferrato
+il punto<Delay 30>…<New>
+Comparato al Gear del
+Campione, la qualità
+del tuo Gear è
+decisamente inferiore."<Close><End of Block>
+<TextBlock 33 w:52 h:3>
+Hammer
+"Non possiamo fare nulla.<New>
+Il Gear di Mastro Rico è
+un Gear speciale, fornito
+dal Comitato.<New>
+Riceve soltanto il meglio,
+dalla manutenzione alle
+parti per il suo Gear.<New>
+Finché servono i soldi, il
+Campione sarà sempre un
+passo avanti.<New>
+Questo è uno dei motivi
+per cui è così potente<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 34 w:44 h:4>
+Fei
+"Non possiamo ottenere
+delle parti migliori?<Delay 15>
+Queste<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 35 w:26 h:2>
+Fei
+"Chi va là!?"<Close><End of Block>
+<TextBlock 36 w:34 h:2>
+Wiseman
+"Era tanto<Delay 5>…<Delay 15> Fei."<Close><End of Block>
+<TextBlock 37 w:38 h:3>
+Fei
+"Tu sei quello<Delay 5>…<Delay 15> del
+torneo di Aveh<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 38 w:44 h:3>
+Fei
+"Che cosa vuoi?<Delay 10>
+Adesso sono occupato!"<Close><End of Block>
+<TextBlock 39 w:50 h:4>
+Wiseman
+"Umph.<New>
+Non importa quanto possa
+essere buono il tuo Gear,
+semplicemente non potrai
+mai sconfiggerlo."<Close><End of Block>
+<TextBlock 40 w:30 h:3>
+Fei
+"Ma<Delay 5> che cosa 
+stai dicendo!?"<Close><End of Block>
+<TextBlock 41 w:4 h:1>
+!?<Close><End of Block>
+<TextBlock 42 w:44 h:3>
+Wiseman
+"Ancora non comprendi,
+dico bene<Delay 15>…?<New>
+Allora, permettimi di
+darti una piccola
+dimostrazione."<Close><End of Block>
+<TextBlock 43 w:54 h:4>
+Wiseman
+"Combattere la forza bruta
+con la forza bruta è tipico
+dello stolto più grande.<New>
+È palese che un corpo più
+leggero, come il tuo, sarà
+sempre svantaggiato in un
+attacco diretto.<New>
+Ti ho appena dato un buon
+esempio da cui imparare.<New>
+Questa piccola differenza
+tra me e te ha dato questo
+risultato.<New>
+Ora, qualcun altro che,
+come Rico, possiede una
+massa fisica ben maggiore
+della tua…<New>
+… farebbe divenire ancor
+più palese la sconfitta.<Delay 15>
+E questo vale anche per
+i Gear…<New>
+Anche se potessi ottenere
+dei pezzi pari a quelli
+di Rico, c'è sempre quella
+differenza di stazza.<New>
+Per far fronte a ciò, ci
+si deve affidare ad un
+unico, decisivo, colpo…<New>
+… che sfrutti il punto
+debole dell'avversario."<Close><End of Block>
+<TextBlock 44 w:8 h:2>
+Fei
+"<Delay 5>…<Delay 5>?"<Close><End of Block>
+<TextBlock 45 w:52 h:2>
+Wiseman
+"Io ti ho dato l'indizio.<New>
+È compito tuo comprenderlo
+accumulando esperienza."<Close><End of Block>
+<TextBlock 46 w:46 h:4>
+Fei
+"Fermo!<Delay 15> Perché combatti
+con il mio stesso stile
+di combattimento!?<New>
+E come fai a sapere
+il mio nome!?<Delay 15>
+Dimmelo!"<Close><End of Block>
+<TextBlock 47 w:36 h:2>
+Wiseman
+"Umph<Delay 5>…<Delay 15> d'accordo."<Close><End of Block>
+<TextBlock 48 w:50 h:4>
+Wiseman
+"Accadde tre anni fa<Delay 5>…<New>
+Colui che ti portò,<Delay 5> nel
+tuo gravissimo stato di
+salute,<Delay 5> in quel villaggio
+di montagna…<New>
+… altri non era che me."<Close><End of Block>
+<TextBlock 49 w:38 h:3>
+Fei
+"Tu sei quello che
+mi portò a Lahan!?"<Close><End of Block>
+<TextBlock 50 w:36 h:4>
+Wiseman
+"<Delay 5>…<Delay 5> Sì.<Delay 15>
+Come tuo padre
+mi aveva chiesto."<Close><End of Block>
+<TextBlock 51 w:40 h:4>
+Fei
+"Mio padre<Delay 5>…!?<Delay 30>
+Che rapporto c'è tra
+te e mio padre!?"<Close><End of Block>
+<TextBlock 52 w:38 h:3>
+Wiseman
+"Khan ed io eravamo
+compagni di studi."<Close><End of Block>
+<TextBlock 53 w:40 h:3>
+Fei
+"<Delay 5>…<Delay 5> Khan?<Delay 30> Questo è il
+nome di mio padre?"<Close><End of Block>
+<TextBlock 54 w:46 h:4>
+Wiseman
+"Perché chiedi il nome
+di tuo padre?<Delay 20> Non avrai
+perduto la tua<Delay 5>…<Delay 5>?"<Close><End of Block>
+<TextBlock 55 w:44 h:4>
+Fei
+"Sì<Delay 5>…<Delay 5>
+Perciò dimmi tutto ciò
+che puoi.<Delay 30> Lo farai?"<Close><End of Block>
+<TextBlock 56 w:46 h:4>
+Wiseman
+"Capisco<Delay 5>…<Delay 30>
+Nello stato gravissimo
+in cui ti trovavi<Delay 5>…<Delay 5><New>
+Non mi sarei sorpreso<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 57 w:20 h:2>
+Fei
+"Wiseman…"<Close><End of Block>
+<TextBlock 58 w:46 h:4>
+Wiseman
+"<Delay 5>…<Delay 5> Khan Wong.<New>
+Questo è il nome di tuo
+padre<Delay 10>…<New>
+Sin dalla nostra
+giovinezza, Khan ed io
+studiammo assieme le
+arti marziali<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 59 w:36 h:2>
+Fei
+"Mio padre e tu<Delay 5>…<Delay 5>?"<Close><End of Block>
+<TextBlock 60 w:48 h:4>
+Wiseman
+"… Sì. Infine, tuo padre
+divenne un ufficiale di
+una qualche nazione.<New>
+Lì incontrò una giovane
+donna. Ella aveva circa
+20 anni. Si chiamava
+Karen.<New>
+Era come un fiore nel
+pieno del suo rigoglio."<Close><End of Block>
+<TextBlock 61 w:18 h:2>
+Fei
+"Fiore<Delay 5>…<Delay 5>?"<Close><End of Block>
+<TextBlock 62 w:40 h:4>
+Shitan
+"Intende ch'ella era
+straordinariamente
+bella."<Close><End of Block>
+<TextBlock 63 w:30 h:3>
+Fei
+"Ah, capisco.<Delay 15>
+Allora lei è<Delay 5>…<Delay 5>?"<Close><End of Block>
+<TextBlock 64 w:42 h:4>
+Wiseman
+"Sì, tua madre.<Delay 30><New>
+Khan sposò tua madre,
+ed io partii per un
+viaggio, con lo scopo
+di rafforzarmi."<Close><End of Block>
+<TextBlock 65 w:42 h:3>
+Fei
+"E mia madre?<Delay 15>
+Dov'è ora mia madre?"<Close><End of Block>
+<TextBlock 66 w:52 h:3>
+Wiseman
+"Non ricordi neanche
+questo?<Delay 15> <Delay 5>…<Delay 5> Capisco.<New>
+<Delay 5>…<Delay 5> Secondo Khan,<Delay 10> quando
+tu eri solo un bambino,
+lei passò a miglior vita."<Close><End of Block>
+<TextBlock 67 w:12 h:2>
+Fei
+"Oh<Delay 5>…<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 68 w:46 h:3>
+Wiseman
+"Il tempo passò<Delay 30>…<New>
+Durante il mio viaggio,
+ricevetti una lettera
+da Khan."<Close><End of Block>
+<TextBlock 69 w:46 h:4>
+Wiseman
+"La lettera diceva che
+suo figlio…<Delay 5> era stato
+rapito da un uomo.<New>
+Khan una volta mi aveva
+detto che tu avevi dei
+poteri speciali<Delay 20>…<New>
+L'uomo che voleva quel
+potere ti rapì.<Delay 20>
+Quell'uomo era<Delay 15> Grahf."<Close><End of Block>
+<TextBlock 70 w:28 h:3>
+Fei
+"Grahf!?<Delay 10>
+Lui mi rapì!?"<Close><End of Block>
+<TextBlock 71 w:38 h:2>
+Wiseman
+"L'hai<Delay 15> incontrato?"<Close><End of Block>
+<TextBlock 72 w:22 h:3>
+Fei
+"Già<Delay 5>…<Delay 5>
+tre volte."<Close><End of Block>
+<TextBlock 73 w:38 h:4>
+Wiseman
+"È stupefacente che
+tu sia ancora sano
+e salvo."<Close><End of Block>
+<TextBlock 74 w:46 h:4>
+Fei
+"A Grahf è sembrato che
+io non fossi ancora
+abbastanza potente…<New>
+… per raggiungere il suo
+vero obiettivo<Delay 5>…<Delay 5> Comunque,<Delay 15>
+dimmi di più di questa
+storia."<Close><End of Block>
+<TextBlock 75 w:46 h:4>
+Wiseman
+"Khan voleva andare a
+ritrovare suo figlio<Delay 10> e,
+se possibile…<New>
+… voleva il mio
+aiuto<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 76 w:44 h:4>
+Wiseman
+"Accettai la richiesta
+di Khan ed iniziai a
+cercare te…<New>
+… e quell'uomo."<Close><End of Block>
+<TextBlock 77 w:52 h:4>
+Wiseman
+"Poi, 3 anni fa, giunse
+quella fatidica notte.<New>
+Imperversava una violenta
+tempesta. Pareva come se
+essa ci venisse incontro
+con una violenza inaudita.<New>
+Quella notte, Khan mi
+informò di aver scoperto
+dove suo figlio si
+trovasse.<New>
+Ergo, mi diressi verso
+quel luogo, come se non
+potessi farne a meno."<Close><End of Block>
+<TextBlock 78 w:46 h:4>
+Wiseman
+"Tu e Khan eravate
+feriti gravemente.<New>
+Non ho idea di cosa
+fosse successo tra
+voi due e Grahf.<New>
+Quando arrivai, Grahf
+era già sparito.<New>
+Non so perché, ma
+probabilmente fu
+mandato via da Khan.<New>
+Tuo padre decise di
+andare dietro a Grahf.<New>
+E mi lasciò il compito
+di prendermi cura di
+suo figlio.<New>
+Io ti offrii le prime
+cure, e ti lasciai
+sotto la protezione
+di quei paesani.<New>
+Poi partii alla ricerca
+di Khan."<Close><End of Block>
+<TextBlock 79 w:48 h:4>
+Wiseman
+"Probabilmente hai perso
+la memoria allora,
+mentre eri ferito."<Close><End of Block>
+<TextBlock 80 w:34 h:3>
+Fei
+"Perché mio padre
+inseguì Grahf?"<Close><End of Block>
+<TextBlock 81 w:50 h:4>
+Wiseman
+"Questo proprio
+non lo so.<New>
+So solo che disse che
+non era solo per il
+bene di suo figlio…<New>
+… ma anche per il bene
+del mondo<Delay 5>…<Delay 5> Disse
+anche che si doveva
+eliminare quell'uomo.<New>
+Aggiunse anche che se
+gli fosse successo
+qualcosa, avrei dovuto
+prendermi cura del resto<Delay 10>…<New>
+Da allora, non l'ho più
+veduto, né ho avuto
+notizie di lui."<Close><End of Block>
+<TextBlock 82 w:38 h:3>
+Fei
+"Grahf ha detto che
+mio padre è<Delay 10> morto<Delay 5>…"<Close><End of Block>
+<TextBlock 83 w:50 h:4>
+Wiseman
+"Mmmh<Delay 5>…<Delay 5> Se Grahf si è
+rivelato in tua presenza<Delay 5>…<Delay 15>
+è possibile che sia così<Delay 35>…<New>
+Questa è una grande
+sventura…"<Close><End of Block>
+<TextBlock 84 w:36 h:4>
+Wiseman
+"Ricordi qualcosa
+delle tue tecniche
+di combattimento?"<Close><End of Block>
+<TextBlock 85 w:22 h:3>
+Fei
+"Eh?<Delay 15>
+No<Delay 5>…<Delay 5> nulla<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 86 w:50 h:4>
+Wiseman
+"Mmmh,<Delay 5> le tue capacità di
+combattente ti furono
+probabilmente insegnate<Delay 5>…<New>
+… da<Delay 5> Khan.<New>
+Khan ed io studiammo
+entrambi sotto lo
+stesso maestro<Delay 15>…<New>
+Per questo le mie
+tecniche sono simili
+alle tue."<Close><End of Block>
+<TextBlock 87 w:28 h:3>
+Wiseman
+"Bene, ora
+debbo andare."<Close><End of Block>
+<TextBlock 88 w:28 h:2>
+Fei
+"Andare dove?"<Close><End of Block>
+<TextBlock 89 w:40 h:4>
+Wiseman
+"Andrò a cercarlo.<Delay 30>
+Debbo scoprire quali
+siano i suoi piani."<Close><End of Block>
+<TextBlock 90 w:44 h:2>
+Wiseman
+"<Delay 5>…<Delay 5> Ed anche per Khan."<Close><End of Block>
+<TextBlock 91 w:48 h:3>
+Fei
+"Dimmi solo un'altra
+cosa<Delay 15>…!<New>
+Di quale paese mio
+padre era un ufficiale?"<Close><End of Block>
+<TextBlock 92 w:42 h:2>
+Wiseman
+"Vorresti andare lì?"<Close><End of Block>
+<TextBlock 93 w:34 h:4>
+Fei
+"Non lo so.<Delay 20> Prima
+devo occuparmi
+di altre cose<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 94 w:20 h:2>
+Wiseman
+"Capisco."<Close><End of Block>
+<TextBlock 95 w:48 h:4>
+Wiseman
+"La terra fluttuante,
+che cerca di nascondersi
+dietro un muro…<New>
+… protetta da esso,
+come per nascondere
+il suo fallimento.<New>
+Sto parlando di Shevat."<Close><End of Block>
+<TextBlock 96 w:36 h:3>
+Wiseman
+"Quello è il paese
+di tuo padre."<Close><End of Block>
+<TextBlock 97 w:44 h:3>
+Fei
+"Shevat<Delay 5>…<Delay 5>?<Delay 15>
+La<Delay 5>…<Delay 5> terra fluttuante?"<Close><End of Block>
+<TextBlock 98 w:16 h:2>
+Wiseman
+"Addio."<Close><End of Block>
+<TextBlock 99 w:12 h:2>
+Fei
+"Ehi!"<Close><End of Block>
+<TextBlock 100 w:46 h:3>
+Shitan
+"<Delay 5>…<Delay 5> Che persona
+misteriosa.<New>
+Questa è la seconda
+volta che lo incontri?"<Close><End of Block>
+<TextBlock 101 w:44 h:4>
+Fei
+"Eh?<Delay 5> …<Delay 5> Sì.<New>
+La prima volta è stata
+durante il torneo ad
+Aveh.<Delay 15> È proprio una
+persona misteriosa<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 102 w:50 h:4>
+Fei
+"Probabilmente non capirò
+subito ciò che oggi
+voleva dirmi<Delay 5>…<New>
+Ma credo di aver capito,
+più o meno. Forse potrò
+fare qualcosa nella
+finale di domani<Delay 5>…<New>
+Non saranno le differenze
+nel rendimento dei Gear
+a determinare il
+risultato…<New>
+… Beh, almeno non come
+credevo."<Close><End of Block>
+<TextBlock 103 w:44 h:4>
+Shitan
+"Non prendere mai la
+situazione sottogamba.<New>
+Potresti perdere
+malamente…<New>
+… se pensi di poter
+vincere soltanto
+comprendendo il
+concetto di base."<Close><End of Block>
+<TextBlock 104 w:26 h:2>
+Fei
+"Lo so,<Delay 5> Doc."<Close><End of Block>
+<TextBlock 105 w:46 h:4>
+Shitan
+"Beh,<Delay 5> ritorniamo nei
+nostri alloggi e
+riposiamo, Fei<Delay 5>…<New>
+Il tuo destino si trova
+nel risultato della
+gara di domani.<New>
+Hai bisogno di mettere
+in serbo le forze."<Close><End of Block>
+<TextBlock 106 w:36 h:2>
+Fei
+"Ehi, <Delay 5>questo è…!?"<Close><End of Block>
+<TextBlock 107 w:42 h:4>
+Hammer
+"Questo dev'essere il
+Gear fornito dal
+Comitato!"<Close><End of Block>
+<TextBlock 108 w:44 h:3>
+Shitan
+"<Delay 5>…<Delay 5> Cielo, questa è una
+VERA sorpresa."<Close><End of Block>
+<TextBlock 109 w:14 h:2>
+Fei
+"Doc!?"<Close><End of Block>
+<TextBlock 110 w:50 h:3>
+Shitan
+"<Delay 5>…<Delay 5> Mmmh. Non penso questa
+sia una coincidenza<Delay 15>…<New>
+<Delay 5>…<Delay 5> È solo una mia idea…<Delay 5><New>
+… ma probabilmente ti
+hanno fornito <Weltall>
+di proposito…<New>
+… per ottenere
+delle informazioni."<Close><End of Block>
+<TextBlock 111 w:30 h:2>
+Fei
+"Di proposito?"<Close><End of Block>
+<TextBlock 112 w:48 h:4>
+Shitan
+"Proprio Battagliare
+fa parte dei piani di
+Kislev.<New>
+Grazie a Battagliare,
+possono ottenere diverse
+informazioni riguardo
+al combattimento…<New>
+… e scoprire dei
+Combattenti talentuosi
+che possano divenire
+parte dell'esercito."<Close><End of Block>
+<TextBlock 113 w:52 h:4>
+Fei
+"Con esattezza, quali tipi
+d'informazioni potrebbero
+ottenere da me e lui<Delay 5>…<Delay 5>?"<Close><End of Block>
+<TextBlock 114 w:38 h:2>
+Shitan
+"Non saprei dirlo."<Close><End of Block>
+<TextBlock 115 w:52 h:4>
+Shitan
+"Ma posso assicurarti che
+ha qualcosa a che vedere
+con l'incidente con Aveh<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 116 w:52 h:4>
+Shitan
+"Beh, a dispetto di ciò
+cui sta pensando l'impero,
+per noi è una buona cosa."<Close><End of Block>
+<TextBlock 117 w:44 h:4>
+Shitan
+"Puoi avere il Gear
+con il quale sei
+maggiormente avvezzo."<Close><End of Block>
+<TextBlock 118 w:48 h:3>
+Shitan
+"Se ci rifletti un po'…<New>
+… tutto ciò ha aumentato
+le nostre possibilità
+di fuggire<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 119 w:6 h:2>
+Fei
+"<Delay 5>…<Delay 5>"<Close><Close><End of Block>

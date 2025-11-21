@@ -1,0 +1,42 @@
+<TextBlock 1 w:50 h:3>
+Elly
+"Non penso che dovremmo
+lasciare subito Shevat."<Close><End of Block>
+<TextBlock 2 w:36 h:4>
+Shitan
+"Fei,<Delay 20> dove
+pensi di andare?"<Close><End of Block>
+<TextBlock 3 w:44 h:4>
+Bart
+"Non vorrai mica dirci
+che dovremmo già
+andarcene, eh?"<Close><End of Block>
+<TextBlock 4 w:50 h:3>
+Rico
+"Fei, non c'è ragione
+per cui restare in
+questo posto."<Close><End of Block>
+<TextBlock 5 w:48 h:4>
+Billy
+"Torniamo indietro.<Delay 20>
+Prima dovremmo fare
+alcune cose."<Close><End of Block>
+<TextBlock 6 w:44 h:3>
+Esmeralda
+"…<Delay 20>
+Perché siamo qui?"<Close><End of Block>
+<TextBlock 7 w:46 h:4>
+<Chu-Chu>
+"È buissimo qui, chu.<Delay 20>
+A <Chu-Chu> non piacciono
+i posti bui, chu."<Close><End of Block>
+<TextBlock 8 w:44 h:4>
+Maria
+"Andiamo<Delay 20>…<New>
+Non dobbiamo sprecare il
+nostro tempo in posti
+come questo."<Close><End of Block>
+<TextBlock 9 w:42 h:3>
+Vuoi salire?
+    Sì
+    No<Close><Close><End of Block>

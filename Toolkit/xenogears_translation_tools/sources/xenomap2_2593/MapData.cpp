@@ -1,0 +1,196 @@
+// MapData.cpp: implementation of the CMapData class.
+//
+//////////////////////////////////////////////////////////////////////
+
+#include "stdafx.h"
+#include "xenomap.h"
+#include "MapData.h"
+
+#ifdef _DEBUG
+#undef THIS_FILE
+static char THIS_FILE[]=__FILE__;
+#define new DEBUG_NEW
+#endif
+
+#define	YOFFSET	0x94		//<-- Modificare qua :-)
+
+//////////////////////////////////////////////////////////////////////
+// Construction/Destruction
+//////////////////////////////////////////////////////////////////////
+
+CMapData::CMapData()
+{
+	memset(m_data,0,0x1C);
+	m_data[2] = 0x34; //all'offset y va tolto 0x34
+}
+
+CMapData::~CMapData()
+{
+
+}
+
+BOOL CMapData::getData(BYTE *data)
+{
+	memcpy(data, m_data, 0x1C);
+	return TRUE;
+}
+
+BOOL CMapData::setData(BYTE *data)
+{
+	memcpy(m_data, data, 0x1C);
+	return TRUE;
+}
+
+INT CMapData::getXOffsetImage()
+{
+	INT t=0;
+	t = m_data[0] + (m_data[1] << 8);
+	return t;
+}
+
+INT CMapData::getYOffsetImage()
+{
+	INT t=0;
+	t = m_data[2] + (m_data[3] << 8);
+	return t - YOFFSET;
+}
+
+INT CMapData::getWidth()
+{
+	INT t=0;
+	t = m_data[4] + (m_data[5] << 8);
+	return t;
+}
+
+INT CMapData::getHeight()
+{
+	INT t=0;
+	t = m_data[6] + (m_data[7] << 8);
+	return t;
+}
+
+CRect* CMapData::getImageRect(CRect* rect)
+{
+	rect->left = getXOffsetImage();
+	rect->right = getXOffsetImage() + getWidth();
+	rect->top = getYOffsetImage();
+	rect->bottom = getYOffsetImage() + getHeight();
+	return rect;
+}
+
+short CMapData::getXOffsetScreen()
+{
+	short t=0;
+	t = m_data[8] + (m_data[9] << 8);
+	return t;
+	
+}
+
+short CMapData::getYOffsetScreen()
+{
+	short t=0;
+	t = m_data[10] + (m_data[11] << 8);
+	return t;
+}
+
+CPoint* CMapData::getScreenPos(CPoint *point)
+{
+	point->x = getXOffsetScreen();
+	point->y = getYOffsetScreen();
+	return point;
+}
+
+UINT CMapData::getUnknownData(BYTE *data)
+{
+	memcpy(data, m_data+12,16);
+	return 16;
+}
+
+BOOL CMapData::setHeight(UINT height)
+{
+	m_data[6] = (BYTE)(height & 0xFF);
+	m_data[7] = (BYTE)((height & 0xFF00)>>8);
+	return TRUE;
+}
+
+BOOL CMapData::setWidth(UINT width)
+{
+	m_data[4] = (BYTE)(width & 0xFF);
+	m_data[5] = (BYTE)((width & 0xFF00)>>8);
+	return TRUE;
+}
+
+BOOL CMapData::setXOffsetImage(UINT x)
+{
+	m_data[0] = (BYTE)(x & 0xFF);
+	m_data[1] = (BYTE)((x & 0xFF00)>>8);
+	return TRUE;
+}
+
+BOOL CMapData::setYOffsetImage(UINT y)
+{
+	y += YOFFSET;
+	m_data[2] = (BYTE)(y & 0xFF);
+	m_data[3] = (BYTE)((y & 0xFF00)>>8);
+	return TRUE;
+}
+
+BOOL CMapData::setXOffsetScreen(UINT x)
+{
+	m_data[8] = (BYTE)(x & 0xFF);
+	m_data[9] = (BYTE)((x & 0xFF00)>>8);
+	return TRUE;
+}
+
+BOOL CMapData::setYOffsetScreen(UINT y)
+{
+	m_data[10] = (BYTE)(y & 0xFF);
+	m_data[11] = (BYTE)((y & 0xFF00)>>8);
+	return TRUE;
+}
+
+BOOL CMapData::setUnknownData(BYTE *data)
+{
+	memcpy(m_data+12,data,14);
+	return TRUE;
+}
+
+BOOL CMapData::setUnknownData(CString string)
+{
+	BYTE data[16];
+	CString esa;
+
+	for (int i=0; i<16; i++){
+		esa = "0x" + string.Mid(i*2,2);
+		data[i] = (BYTE)strtol(esa,NULL,16);
+	}
+	return setUnknownData(data);
+
+
+}
+
+BOOL CMapData::isFlippedX()
+{
+	return  (m_data[0x1A] == 1);
+}
+
+BOOL CMapData::isFlippedY()
+{
+	return  (m_data[0x1B] == 1);
+}
+
+void CMapData::setFlipX(BOOL bFlip)
+{
+//	if (bFlip)
+//		m_data[0x1A] = 0x01;
+//	else 
+//		m_data[0x1A] = 0x00;
+}
+
+void CMapData::setFlipY(BOOL bFlip)
+{
+//	if (bFlip)
+//		m_data[0x1B] = 0x01;
+//	else 
+//		m_data[0x1B] = 0x00;
+}

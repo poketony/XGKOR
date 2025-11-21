@@ -1,0 +1,48 @@
+<TextBlock 1 w:46 h:3>
+Bart
+"C'è un'altra serratura
+del Diaspro…"<Close><End of Block>
+<TextBlock 2 w:38 h:2>
+Margie
+"Facciamo una prova."<Close><End of Block>
+<TextBlock 3 w:32 h:4>
+Bart
+"Argh!<Delay 30> Io ho solo
+metà del Diaspro
+di Fatima!"<Close><End of Block>
+<TextBlock 4 w:44 h:2>
+Sigurd
+"Si rilassi, Padroncino!"<Close><End of Block>
+<TextBlock 5 w:38 h:3>
+Bart
+"Sig…<Delay 30>
+Cosa devo fare!?"<Close><End of Block>
+<TextBlock 6 w:48 h:4>
+Sigurd
+"Faccia passare la luce
+attraverso il suo occhio
+buono…<Delay 30>!<New>
+Mi occuperò io
+dell'altra metà!"<Close><End of Block>
+<TextBlock 7 w:34 h:2>
+Bart
+"…<Delay 30> Cosa stai dicendo?"<Close><End of Block>
+<TextBlock 8 w:26 h:2>
+Sigurd
+"Lo faccia e basta!"<Close><End of Block>
+<TextBlock 9 w:42 h:2>
+Bart
+"Sì!<Delay 30> S'è aperta!"<Close><End of Block>
+<TextBlock 10 w:48 h:4>
+Bart
+"?<Delay 30> Sig…!<Delay 30>
+Com'è che il TUO occhio
+ha funzionato!?"<Close><End of Block>
+<TextBlock 11 w:48 h:4>
+Sigurd
+"Abbiamo pochissimo tempo!<Delay 30>
+Dobbiamo ritornare subito
+da Margherita!"<Close><End of Block>
+<TextBlock 12 w:12 h:2>
+Bart
+"…?"<Close><Close><End of Block>

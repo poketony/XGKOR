@@ -1,0 +1,116 @@
+<TextBlock 1 w:54 h:4>
+Billy
+"Ma cosa sta succedendo<Delay 5>…<Delay 5><New>
+I Redentori sono i soldati
+della Chiesa…<New>
+… ma sono stati uccisi
+senza aver lasciato segno
+di lotta."<Close><End of Block>
+<TextBlock 2 w:54 h:3>
+I Mietitori sono degli uomini
+trasformati da dio in mostri
+perché paghino per i loro
+peccati<Delay 15>…<New>
+Essi sono rinchiusi nella
+terra maledetta, Shevat.<Close><End of Block>
+<TextBlock 3 w:52 h:3>
+La gente della Chiesa deve
+comportarsi umilmente e
+con liberalità.<New>
+Per fare ciò, noi leggiamo
+spesso le sacre scritture
+perché la nostra anima
+ritorni ad uno stato di
+maggiore purezza.<Close><End of Block>
+<TextBlock 4 w:48 h:3>
+Questa stanza è stata allestita
+per la gente che non ha una
+casa a cui tornare.<New>
+Noi speriamo di poter salvare
+le loro anime e dar loro la
+speranza, perché continuino
+a vivere.<Close><End of Block>
+<TextBlock 5 w:54 h:4>
+Dicono che la Torre di Babele
+abbia a che fare con Shevat.
+L'entrata della Torre è sotto
+stretto controllo da parte
+dei nostri.<New>
+Malgrado ciò, i maledetti
+Mietitori continuano ad
+apparire in questa terra<Delay 15>…<New>
+È per questo che i Redentori
+sono qui, per eliminarli.<Close><End of Block>
+<TextBlock 6 w:50 h:3>
+Noi, i Redentori, siamo lo
+scudo e la spada della
+Chiesa, per così dire.<New>
+Combattiamo i nostri
+nemici…<New>
+Mietitori, ladri e così
+via, per salvare la gente
+che ha fede in dio.<Close><End of Block>
+<TextBlock 7 w:44 h:3>
+Billy! Per caso tuo padre ha
+qualcosa contro la Chiesa?<New>
+Dicono che, ancora una volta,
+il deposito delle provviste
+della Chiesa sia stato fatto
+saltare in aria.<Close><End of Block>
+<TextBlock 8 w:52 h:3>
+Ahah! Voi!<New>
+Chiedete a Billy se suo padre
+ha qualcosa contro la Chiesa
+oppure no.<New>
+Si dice che suo padre abbia
+fatto saltare in aria il
+deposito delle provviste
+della Chiesa.<New>
+Oh, che mal di testa!<Close><End of Block>
+<TextBlock 9 w:50 h:6>
+Depredati dalla guerra e dai
+saccheggiatori… e i Mietitori
+distruggono ogni cosa<Delay 10>…<New>
+Noi dobbiamo andare incontro
+alle aspettative che la gente
+ha nei riguardi della Chiesa.<Close><End of Block>
+<TextBlock 10 w:44 h:4>
+Perché Jessie attacca gli
+edifici della Chiesa?<Delay 10>
+Ho sentito che una volta era
+un magnifico Redentore…<Close><End of Block>
+<TextBlock 11 w:34 h:2>
+Che sta succedendo?
+Ho paura…<Close><End of Block>
+<TextBlock 12 w:12 h:1>
+Mamma…<Close><End of Block>
+<TextBlock 13 w:50 h:2>
+Cos'è successo a quell'uomo
+della Chiesa?<New>
+Non è tornato da quando ha
+lasciato prima la stanza.<Close><End of Block>
+<TextBlock 14 w:42 h:3>
+Umh… una persona della Chiesa
+è entrata in un enorme Gear
+e mi ha salvata.<New>
+Un uomo chiamato 'padrone'
+ci ha attaccati… È stato
+davvero spaventoso.<Close><End of Block>
+<TextBlock 15 w:48 h:3>
+Che sta succedendo lì fuori?
+All'improvviso, degli uomini
+in nero sono penetrati
+a frotte qui dentro.<New>
+Adesso i Redentori ci stanno
+difendendo, sono passati al
+contrattacco…<Close><End of Block>
+<TextBlock 16 w:52 h:3>
+Ti prego… dimmelo, giovane.
+Non si può avere la felicità
+senza dover fare qualche
+sacrificio?<New>
+Non si può passare la vita
+senza la sofferenza…?<Close><End of Block>
+<TextBlock 17 w:28 h:2>
+Tutti… sono
+morti tutti.<Close><Close><End of Block>

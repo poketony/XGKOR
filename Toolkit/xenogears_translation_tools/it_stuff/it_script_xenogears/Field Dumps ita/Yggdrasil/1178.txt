@@ -1,0 +1,156 @@
+<TextBlock 1 w:16 h:2>
+Fei
+"Elly!!"<Opcode 2 32><Close><End of Block>
+<TextBlock 2 w:16 h:2>
+Fei
+"Elly!!"<Opcode 2 32><Close><End of Block>
+<TextBlock 3 w:32 h:3>
+Fei
+"Doc!
+Ma che cosa…"<Close><End of Block>
+<TextBlock 4 w:28 h:2>
+Fei
+"Ipnosi…?"<Close><End of Block>
+<TextBlock 5 w:50 h:3>
+Bart
+"Non capisco! Almeno,
+quando l'abbiamo vista
+di sopra…<New>
+… non aveva gli occhi di
+una traditrice."<Close><End of Block>
+<TextBlock 6 w:52 h:4>
+Bart
+"Si è rotto di nuovo ed
+era stato appena riparato.<Delay 20>
+Cosa faccio ora…?"<Close><End of Block>
+<TextBlock 7 w:46 h:3>
+Bart
+"L'ho sempre saputo…
+Questa troia è una spia!"<Close><End of Block>
+<TextBlock 8 w:46 h:4>
+Bart
+"Merda! Ma che cazzo
+ha fatto!? Che cosa
+devo fare!!??"<Close><End of Block>
+<TextBlock 9 w:38 h:4>
+Bart
+"Fei!!<Delay 45>
+La lasci qui in
+questo modo?"<Close><End of Block>
+<TextBlock 10 w:42 h:3>
+Bart
+"Fei!!<Delay 45>
+Che stai facendo?"<Close><End of Block>
+<TextBlock 11 w:46 h:4>
+Bart
+"Fei!!<Delay 45>
+Non è il momento per
+giocare con Martle!!"<Close><End of Block>
+<TextBlock 12 w:50 h:4>
+Bart
+"… Shitan, se ti eri
+insospettito, avresti
+dovuto fermarla."<Close><End of Block>
+<TextBlock 13 w:10 h:2>
+Elly
+"…"<Close><End of Block>
+<TextBlock 14 w:46 h:3>
+Elly
+"È un animale, perciò
+non può non farlo.<New>
+A proposito, il primo
+ufficiale vuole vederla."<Close><End of Block>
+<TextBlock 15 w:16 h:3>
+Elly
+"…<Delay 32>
+Fei…?"<Opcode 2 45><Close><End of Block>
+<TextBlock 16 w:44 h:3>
+Shitan
+"…<Delay 35> È stata sottoposta
+ad una ipnosi molto
+forte."<Close><End of Block>
+<TextBlock 17 w:52 h:4>
+Shitan
+"È un tipo speciale di
+ipnotismo che costringe
+una persona…<New>
+… ad agire in modo
+prestabilito.<New>
+Per far sì che ciò accada
+deve prima verificarsi una
+determinata condizione…<New>
+Prima che essa accada, è
+impossibile cogliere un
+comportamento sospetto.<New>
+Sembrava strana mentre
+usciva dall'infermeria,
+così l'ho seguita."<Close><End of Block>
+<TextBlock 18 w:50 h:4>
+Shitan
+"Beh, fermarla mentre
+sta eseguendo l'ordine
+datole avrebbe potuto…<New>
+… distruggere la sua
+mente…<Delay 20> Ma è vero che
+ho agito un po' troppo
+tardi…"<Close><End of Block>
+<TextBlock 19 w:46 h:3>
+Shitan
+"Potrebbe volerci un
+po' per ripararlo…"<Close><End of Block>
+<TextBlock 20 w:54 h:4>
+Shitan
+"Comunque, per prima cosa
+portiamola in infermeria.<New>
+Fei, va' lì non appena
+avremo finito qui. Non c'è
+bisogno di preoccuparsi.<New>
+L'ipnotizzatore doveva
+essere assai abile. Non
+vi sono danni mentali."<Close><End of Block>
+<TextBlock 21 w:50 h:4>
+Shitan
+"Fermo!<New>
+Non preoccuparti di lei.
+La nostra priorità è
+fermare il motore."<Close><End of Block>
+<TextBlock 22 w:30 h:3>
+Shitan
+"Ecco…
+Com'è che…"<Close><End of Block>
+<TextBlock 23 w:36 h:4>
+L'ha fatto lei…?<New>
+Ipnosi?
+… È proprio una cosa
+maledettamente subdola,
+anche se fatta da Solaris!<Close><End of Block>
+<TextBlock 24 w:48 h:4>
+Quanto sono danneggati
+i motori principali?
+Mi serve più tempo per
+per dargli un'occhiata…<New>
+Ma sembra siano messi
+male. Ci potrebbe
+volere un po'.<Close><End of Block>
+<TextBlock 25 w:48 h:2>
+Cheeee c'è? Martle?
+Eh?<Delay 32> Eh?<Close><End of Block>
+<TextBlock 26 w:46 h:2>
+Ehi, Signorina.<New>
+Ho sentito che ti
+avevano catturata.
+Ora stai bene?<Close><End of Block>
+<TextBlock 27 w:44 h:4>
+Calmo, Martle!
+È solo la ragazza
+solariana. Non c'è
+bisogno che abbai!<Close><End of Block>
+<TextBlock 28 w:20 h:3>
+… Oh?<Delay 32>
+Ah, capisco.
+Scusa.<Close><End of Block>
+<TextBlock 29 w:46 h:2>
+Che… che cosa
+succede?<New>
+Padroncino, lo
+avete fatto ancora?<Close><Close><End of Block>

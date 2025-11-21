@@ -1,0 +1,347 @@
+#### 1 ####
+Elly
+"Um...Where is Billy?
+I'd like to thank him..."
+
+#### 2 ####
+Citan
+"Then..."
+
+#### 3 ####
+Citan
+"Elly, that is not
+true. You cannot resist
+being hypnotized.{enter}
+More importantly,
+you saved Fei.{enter}
+Fei could not have
+been protected from
+Kahr without you.
+Is that not correct?"
+
+#### 4 ####
+Citan
+"Well, we do not want to 
+disturb his recovery.
+So, shall we go now?{enter}
+It may take a little 
+longer to finish 
+treating Fei."
+
+#### 5 ####
+Citan
+"I agree.
+Fei will feel at ease
+that way. Please let us{enter}
+know when you finish
+treating Fei.
+We will leave the rest
+up to you."
+
+#### 6 ####
+Citan
+"Did Fei regain 
+consciousness?"
+
+#### 7 ####
+Citan
+"I am sorry to have
+bothered you."
+
+#### 8 ####
+Citan
+"We are in Billy's debt.
+We should go thank him."
+
+#### 9 ####
+Citan
+"First of all, let us move
+Fei to the Yggdrasil.{enter}
+It will not be too late to
+go see Billy afterwards."
+
+#### 10 ####
+Citan
+"Then..."
+
+#### 11 ####
+Citan
+"Elly, that is not
+true. You cannot resist
+being hypnotized.{enter}
+More importantly,
+you saved Fei.{enter}
+Fei could not have
+been protected from
+Kahr without you.
+Is that not correct?"
+
+#### 12 ####
+Citan
+"Well, we do not want to
+disturb his recovery.
+So, shall we go now?{enter}
+It may take a little
+longer to finish
+treating Fei."
+
+#### 13 ####
+Citan
+"I agree.
+Fei will feel at ease
+that way. Please let us {enter}
+know when you finish
+treating Fei.
+We will leave the rest
+up to you."
+
+#### 14 ####
+Citan
+"Did Fei regain
+consciousness?"
+
+#### 15 ####
+Citan
+"I am sorry to have
+bothered you."
+
+#### 16 ####
+Citan
+"We are in Billy's debt.
+We should go thank him."
+
+#### 17 ####
+Citan
+"First of all, let us move
+Fei to the Yggdrasil.{enter}
+It will not be too late to
+go see Billy afterwards."
+
+#### 18 ####
+Bart
+"That means..."
+
+#### 19 ####
+Bart
+"Elly, that's not true.
+You can't resist being
+hypnotized. You don't{enter}
+need to feel guilty.
+More importantly, you
+saved Fei. You
+protected him from{enter}
+Ramsus.
+Isn't that right?"
+
+#### 20 ####
+Bart
+"Hey, we don't want to 
+disturb his recovery.
+Let's take a little walk.{enter}
+It may take a little 
+longer to finish 
+treating Fei."
+
+#### 21 ####
+Bart
+"Yeah, why don't you do 
+that. I'm sure Fei'll be 
+happy. {enter}
+Well, call us when you're 
+done with Fei. I'll leave 
+the rest to you."
+
+#### 22 ####
+Bart
+"By the way, did Fei
+regain consciousness?"
+
+#### 23 ####
+Bart
+"Thanks a lot!"
+
+#### 24 ####
+Bart
+"Billy really helped
+us a lot. We'd better
+thank him for that."
+
+#### 25 ####
+Bart
+"First, let's take Fei to 
+the Yggdrasil. We can go 
+thank him afterwards."
+
+#### 26 ####
+Rico
+"Hmm, then..."
+
+#### 27 ####
+Rico
+"At the time, you were
+hypnotized. You couldn't
+help it. Don't feel guilty.{enter}
+He could've been killed
+by Ramsus if you weren't 
+there then."
+
+#### 28 ####
+Rico
+"It may take a little
+longer to finish his
+treatment. Let's go{enter}
+somewhere to kill time."
+
+#### 29 ####
+Rico
+"Do what you need to do.{wait:14}
+Let me know when you're 
+finished with Fei."
+
+#### 30 ####
+Rico
+"Is Fei better?"
+
+#### 31 ####
+Rico
+"You must've put in 
+a lot of time."
+
+#### 32 ####
+Rico
+"...I want to thank Billy
+at least."
+
+#### 33 ####
+Rico
+"First of all, let's take
+Fei to the Yggdrasil.
+And we can go from there."
+
+#### 34 ####
+Elly
+"Even if it was impossible 
+to resist, the reason why 
+I was hypnotized was {enter}
+because I was off my guard.
+I'm partly responsible for
+what happened.{enter}
+So I'd like to be by his
+side till he's awake."
+
+#### 35 ####
+Elly
+"Fei{wait:0A}...{wait:0A}
+I'm sorry."
+
+#### 36 ####
+Elly
+"{wait:0A}...{wait:0A}Will Fei ever 
+regain consciousness?"
+
+#### 37 ####
+Elly
+"{wait:0F}...{wait:0F}I'm sorry, Fei.
+I caused the engine room
+to lose control..."
+
+#### 38 ####
+Elly
+"Thank you..."
+
+#### 39 ####
+Elly
+"I...{wait:0F}would like to
+stay a little while.{wait:0A}
+Is it okay?"
+
+#### 40 ####
+Billy
+"How is he?"
+
+#### 41 ####
+Billy
+"All we can do is 
+wait and see."
+
+#### 42 ####
+He is in stable condition.
+His treatment is almost 
+complete.
+
+#### 43 ####
+W, what's happening?{wait:0F}
+Those men in black are
+killing the 'Ethos'
+people indiscriminately!
+
+#### 44 ####
+You seem to be better.
+I'm glad. I'm really glad.
+
+#### 45 ####
+Has he recovered?
+His treatment was a 
+success, so there's no 
+need to worry.
+
+#### 46 ####
+The patient hasn't regained
+consciousness yet,
+but we see no abnormality
+with his brain.{enter}
+The low water temperature
+lowered his metabolism and
+saved him.{enter}
+One false step and he
+could've suffered from
+brain death.
+
+#### 47 ####
+Yes, don't worry.{wait:0F}
+However, we need to conduct
+more tests for a while.{enter}
+After that, he can be
+treated at your medical
+facilities.
+
+#### 48 ####
+The reason why he hasn't
+regained consciousness is
+physical exhaustion.
+He overworked himself. {enter}
+It'll probably take him a
+few more days, but don't
+worry, he'll wake up.
+
+#### 49 ####
+Please, don't worry.
+I did my job as a 
+clergyman.
+
+#### 50 ####
+Hello, everyone.
+His treatment is finished.
+
+#### 51 ####
+Unfortunately, the patient
+hasn't regained
+consciousness yet. But
+there's no need to worry.{enter}
+When he recovers physically,
+he'll also regain
+consciousness. You can
+take him to your ship now.
+
+#### 52 ####
+Please don't worry.
+I did my job as a 
+clergyman.
+
+#### 53 ####
+Oh yes, brother Billy...{enter}
+He went back to the
+orphanage.
+He was worried about the
+children left behind.
+

@@ -1,0 +1,35 @@
+<TextBlock 1 w:48 h:4>
+Mentre mi dirigevo a 
+  Ignis, lo rincontrai.
+<Delay 30>
+         Kahran Ramsus…<New>
+
+Ancora una volta mi
+  bloccò la strada,
+    nel suo Omnigear,
+     Vendetta…<Close><End of Block>
+<TextBlock 2 w:44 h:5>
+La battaglia fu
+inevitabile.<Delay 60> Utilizzai
+la nuova abilità che
+era stata aggiunta al
+mio secondo <Weltall>…<New>
+
+… il 'Sistema Id'!<Close><End of Block>
+<TextBlock 3 w:46 h:5>
+L'assoluta sicurezza
+    in sé di Ramsus fu
+         fatta a pezzi…<New>
+Lasciando solo un
+ grido d'incredulità
+        e di rancore…<New>
+Il Gear di Ramsus
+    scomparve in un
+       mare di foglie.<New>
+Perché fosse da
+   me ossessionato…
+    Questo non lo so.<New>
+Ma disse queste parole…<Close><End of Block>
+<TextBlock 4 w:36 h:2>
+Se solo tu non
+     esistessi<Delay 30>…<Opcode 2 60><Close><Close>0<UNKNOWN CHUNK 4><Close><Close><Close><Close><Close><End of Block>

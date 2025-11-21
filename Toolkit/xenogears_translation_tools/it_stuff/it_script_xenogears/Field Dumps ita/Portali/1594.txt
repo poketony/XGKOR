@@ -1,0 +1,50 @@
+<TextBlock 1 w:52 h:4>
+Elly
+"Mi chiedo se saremmo
+arrivati prima…<New>
+… se ci fossimo
+passati sopra?"<Close><End of Block>
+<TextBlock 2 w:42 h:2>
+Shitan
+"Che sia una trappola?"<Close><End of Block>
+<TextBlock 3 w:48 h:3>
+Billy
+"Forse stanno cercando
+di attirarci."<Close><End of Block>
+<TextBlock 4 w:52 h:3>
+Rico
+"Non so, ma secondo
+me qui gatta ci cova."<Close><End of Block>
+<TextBlock 5 w:42 h:2>
+Maria
+"Che sia una trappola?"<Close><End of Block>
+<TextBlock 6 w:44 h:2>
+<Chu-Chu>
+"C'è qualcosa che
+mi puzza, chu!"<Close><End of Block>
+<TextBlock 7 w:46 h:3>
+Esmeralda
+"Percepisco qualcosa
+di molto sospetto."<Close><End of Block>
+<TextBlock 8 w:44 h:4>
+Bart
+"Che diavolo!?<Delay 30>
+Questa caverna non
+c'era l'ultima volta!"<Close><End of Block>
+<TextBlock 9 w:46 h:3>
+Fei
+"Sono dei sopravvissuti
+della battaglia di prima!"<Close><End of Block>
+<TextBlock 10 w:44 h:4>
+Fei
+"Quei tipi… era come se
+ci stessero aspettando."<Close><End of Block>
+<TextBlock 11 w:48 h:4>
+Bart
+"Non importa,
+dobbiamo andare!<New>
+Lasciarli scappare
+vorrebbe dire fare una
+figura così di merda che…<New>
+… ce la porteremmo dietro
+per sempre!"<Close><Close><End of Block>

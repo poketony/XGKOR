@@ -1,0 +1,36 @@
+#### 1 ####
+Fei
+"I gotta hurry..."
+
+#### 2 ####
+Repair Bot
+"I watched you from
+the shadows.
+You're very powerful!{enter}
+I've only got the
+same items as before.
+Anything you like?{enter}
+    Gear parts
+    Character items
+    Can't trust you
+    Ignore
+
+#### 3 ####
+Repair Bot
+"I hope to see
+you again."
+
+#### 4 ####
+Repair Bot
+"I hope to see
+you again."
+
+#### 5 ####
+Repair Bot
+"How cruel..."
+
+#### 6 ####
+Fei
+"Looks like the mountain
+peak is right above here!"
+

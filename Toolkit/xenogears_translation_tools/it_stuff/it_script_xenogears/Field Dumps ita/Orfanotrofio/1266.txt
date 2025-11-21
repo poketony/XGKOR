@@ -1,0 +1,30 @@
+<TextBlock 1 w:52 h:2>
+Elly
+"Lo scarico non
+funziona bene…"<Close><End of Block>
+<TextBlock 2 w:38 h:2>
+Bart
+"Lo scarico
+funziona male…"<Close><End of Block>
+<TextBlock 3 w:42 h:2>
+Rico
+"Lo scarico funziona
+in malo modo…"<Close><End of Block>
+<TextBlock 4 w:52 h:2>
+Shitan
+"Lo scarico non
+funziona bene…"<Close><End of Block>
+<TextBlock 5 w:38 h:4>
+Elly
+"Ehi,<Delay 10> c'è qualcosa
+nel gabinetto…<New>
+(Ma non lo toccherò
+mai, sia ben chiaro!)"<Close><End of Block>
+<TextBlock 6 w:42 h:1>
+Ricevi un premio 'sporco'!<Close><End of Block>
+<TextBlock 7 w:40 h:2>
+<Perso1>
+"È sporco, perciò
+lo rimetto a posto!"<Close><End of Block>
+<TextBlock 8 w:0 h:1>
+<Close><End of Block>

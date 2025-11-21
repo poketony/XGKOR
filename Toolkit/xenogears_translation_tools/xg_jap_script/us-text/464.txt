@@ -1,0 +1,65 @@
+#### 1 ####
+Fei
+"Whoa...
+I can't eat anymore..."
+
+#### 2 ####
+Fei
+"That reminds me...
+I'm hungry..."
+
+#### 3 ####
+Fei
+"Let's have a bite here."
+
+#### 4 ####
+Fei
+"What about you, doc?"
+
+#### 5 ####
+Fei
+"Are you sure?
+Then, excuse us..."
+
+#### 6 ####
+Fei
+"Let's eat."{clear:1E}
+
+#### 7 ####
+Fei
+"Whew,
+I'm full."
+
+#### 8 ####
+Fei
+"Well then,
+let's go!"
+
+#### 9 ####
+Elly
+"You're right...{enter}
+We don't know what'll
+happen, so we shouldn't
+ask too much."
+
+#### 10 ####
+Elly
+"Let's eat."{clear:1E}
+
+#### 11 ####
+Citan
+"No, I am fine thank you."
+
+#### 12 ####
+Fei
+"Wow!
+There's some food here."{clear:3C}
+
+#### 13 ####
+You have too many
+{str}.
+
+#### 14 ####
+ 
+ Received {str}.
+

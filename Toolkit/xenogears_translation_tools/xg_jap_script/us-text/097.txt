@@ -1,0 +1,51 @@
+#### 1 ####
+Since the war started
+you can really tell who
+is stupid and isn't.{enter}
+The stupid ones have
+been forced out of
+business.{enter}
+But if you change your
+view, war can be good
+business.{enter}
+When there aren't enough
+people or goods, you can
+sell at a higher price.
+
+#### 2 ####
+A republic...{wait:32}
+I could support that.
+No wait, I'd rather
+be a candidate.{enter}
+Prime Minister of the
+Republic of Aveh...{wait:32}
+What a great job!{enter}
+And I wouldn't have
+to pay taxes either!
+
+#### 3 ####
+...That makes 5 mining 
+Gears and 10 miners.
+
+#### 4 ####
+And make it quick!
+I need some miners
+without families.
+
+#### 5 ####
+Well...{wait:3C} When guys with
+families get killed on
+a dangerous job, I have
+to pay compensation to
+the families.
+It's a real pain.
+
+#### 6 ####
+So that's it. {wait:3C}
+If you find some tell me.
+I'm counting on you.
+
+#### 7 ####
+What's with you all?
+Outta my way!
+

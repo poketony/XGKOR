@@ -1,0 +1,23 @@
+#### 1 ####
+We've been flying up in
+the sky, right?{wait:14}
+It isn't easy getting
+supplies.{wait:14} We can't just
+go and get all our own
+supplies either.{enter}
+We made it this far
+somehow, but if the
+situation continues like
+this...{wait:14}Hmm...we'd better
+do something...
+
+#### 2 ####
+Hmm...this month is going
+to be very tight too.{wait:14} We
+must cut down on rations
+a little to make it...{enter}
+But everyone will
+probably gripe about
+that...{wait:14}
+What am I gonna do...?
+

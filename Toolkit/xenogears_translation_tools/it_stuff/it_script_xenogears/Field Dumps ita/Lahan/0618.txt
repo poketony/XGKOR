@@ -1,0 +1,54 @@
+<TextBlock 1 w:44 h:4>
+Oh, ciao Fei!
+Benvenuto!<New>
+Il gran giorno sta
+finalmente arrivando,
+eh…?<Delay 20> Il matrimonio di
+Alice e Timothy è domani!<New>
+Ehi, che ne dici di prendere
+per loro un'Elisir dell'Amore
+e del Cuor di Leone…<Delay 10>
+Allora, che te ne pare?<New>
+Su, a questo punto devi
+prendere un regalo per
+loro!<Delay 30>
+Siamo l'unico negozio
+in città, lo sai!?<Close><End of Block>
+<TextBlock 2 w:48 h:2>
+Ciao e ancora benvenuto!<Delay 20>
+C'era qualcos'altro?<Close><End of Block>
+<TextBlock 3 w:32 h:2>
+Grazie ancora.
+Torna quando vuoi!<Close><End of Block>
+<TextBlock 4 w:50 h:3>
+Folo pecché Alice fi fta
+fposando non fignifica
+che devi effere tviste.<New>
+Fvei, quando cvescerò,
+sarò tua moglie.<Close><End of Block>
+<TextBlock 5 w:42 h:3>
+Mi aspetterai?<Delay 20>
+    Certo, ti aspetterò!
+    Scusami, non posso!<Close><End of Block>
+<TextBlock 6 w:56 h:3>
+Vevo, vuoi favlo!?<Delay 20>
+Allova fai una cvoce
+sul cuore…!<New>
+Spera di movive.
+Ficcati un ago nell'ovcchio!<New>
+Allora è fvatta…!<Delay 20>
+Il noftro avdente amove è
+ftato unito da catene
+indiftruttibili!<Close><End of Block>
+<TextBlock 7 w:50 h:4>
+Allova non t'impovta quello
+che mi fuccede, Fvei…<Delay 20>
+Fei cofì fveddo!<Delay 20>
+Non pallammi! Umph!<Close><End of Block>
+<TextBlock 8 w:36 h:3>
+Eeh-eeh…<Delay 20>
+Non dimenticave la
+noftra promeffa, Fvei.<Close><End of Block>
+<TextBlock 9 w:36 h:2>
+Non mi pviaci!
+Vai via, Fvei!<Close><Close><End of Block>

@@ -1,0 +1,57 @@
+<TextBlock 1 w:42 h:2>
+Deve essere controllato
+da quel pannello adiacente.<Close><End of Block>
+<TextBlock 2 w:14 h:2>
+    Su?
+    No<Close><End of Block>
+<TextBlock 3 w:46 h:1>
+L'ascensore è bloccato.<Close><End of Block>
+<TextBlock 4 w:42 h:1>
+Buon…<Delay 20> giorno…<Opcode 2 30><Space 1><Close><End of Block>
+<TextBlock 5 w:34 h:2>
+A…<Delay 30> aiuta<Delay 30>… temi…<Delay 20><Space 1>
+Il mio corpo…<Opcode 2 30><Close><End of Block>
+<TextBlock 6 w:40 h:2>
+Uh… la mia testa…?<Delay 20><Space 1>
+Te te te te t…<Opcode 2 30><Close><End of Block>
+<TextBlock 7 w:44 h:2>
+Il mio…<Delay 30> cane, ti prego…<Space 1>
+prenditi cura di lui…<Opcode 2 30><Close><End of Block>
+<TextBlock 8 w:20 h:2>
+Ehilà!
+Da quanto tempo…<Opcode 2 40><Close><End of Block>
+<TextBlock 9 w:44 h:3>
+Sono io! Quello che
+aveva quel cane a Kislev…<Close><End of Block>
+<TextBlock 10 w:54 h:2>
+… Potrei pure apparire
+così, ma il cane sta
+bene…<Close><End of Block>
+<TextBlock 11 w:50 h:3>
+… Per favore, non pensare
+di farmi uscire…<New>
+… anche se sono ancora
+cosciente… alla fine…
+io…<Close><End of Block>
+<TextBlock 12 w:40 h:3>
+L'hai… aperta…<Delay 30>
+Avevo detto…<Delay 40>
+di non aprirla!!<Opcode 2 20><Close><End of Block>
+<TextBlock 13 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 14 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 15 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 16 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 17 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 18 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><Close><End of Block>

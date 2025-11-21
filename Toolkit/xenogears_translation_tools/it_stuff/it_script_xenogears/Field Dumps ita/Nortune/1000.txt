@@ -1,0 +1,95 @@
+<TextBlock 1 w:32 h:3>
+Fei
+"… Quei piccoli
+bastardi!!"<Close><End of Block>
+<TextBlock 2 w:4 h:1>
+!!<Opcode 2 30><Close><End of Block>
+<TextBlock 3 w:22 h:4>
+Shitan
+"Ancora…!<Delay 10>
+Fei, presto,
+salta!!"<Close><End of Block>
+<TextBlock 4 w:50 h:4>
+Shitan
+"Fiuh, c'è mancato
+poco! Stavamo quasi
+per cadere giù."<Close><End of Block>
+<TextBlock 5 w:48 h:3>
+Fei
+"Tutto per colpa di
+quei fottuti teppisti!<New>
+Lo fanno sempre quando
+non c'è il vecchio.
+Oh, beh…"<Close><End of Block>
+<TextBlock 6 w:50 h:4>
+Shitan
+"Alquanto strano sentir
+dire ciò da un 'certo'
+teppistello… ahah."<Close><End of Block>
+<TextBlock 7 w:28 h:3>
+Fei
+"Eh? Hai detto
+qualcosa<Delay 10>?"<Close><End of Block>
+<TextBlock 8 w:46 h:4>
+Shitan
+"Oh, beh…<New>
+Comunque, tutto dovrebbe
+andar bene, se continuiamo
+così.<New>
+Riguardo alla missione…
+fin qui, nulla da dire."<Close><End of Block>
+<TextBlock 9 w:40 h:2>
+Fei
+"Cos'è 'sto rumore?"<Close><End of Block>
+<TextBlock 10 w:36 h:4>
+Shitan
+"Il connettore…!<Delay 10>
+Fei, sbrigati,
+salta!!"<Close><End of Block>
+<TextBlock 11 w:56 h:4>
+Shitan
+"Questo treno sta quasi
+per cadere a pezzi.<Delay 10><New>
+L'abbiamo ancora scampata
+per pochissimo."<Close><End of Block>
+<TextBlock 12 w:38 h:4>
+Fei
+"E se deragliasse
+prima che noi arriviamo
+all'hangar dei Gear…?"<Close><End of Block>
+<TextBlock 13 w:4 h:1>
+!!<Close><End of Block>
+<TextBlock 14 w:52 h:3>
+Shitan
+"Anche questo vagone è
+instabile.<Delay 10> Andiamo
+su quello anteriore!!"<Close><End of Block>
+<TextBlock 15 w:38 h:3>
+Shitan
+"Un disastro dopo
+l'altro…"<Close><End of Block>
+<TextBlock 16 w:36 h:3>
+Fei
+"Senza dubbio un
+treno proprio
+affidabile!"<Close><End of Block>
+<TextBlock 17 w:54 h:4>
+Shitan
+"Dovremmo essere vicini
+al condotto di aerazione.<New>
+Da lì potremo arrivare
+all'hangar dei Gear."<Close><End of Block>
+<TextBlock 18 w:28 h:2>
+Shitan
+"Forza!!"<Opcode 2 90><Close><End of Block>
+<TextBlock 19 w:32 h:1>
+Eccoci qui…<Opcode 2 90><Close><End of Block>
+<TextBlock 20 w:32 h:1>
+Eccoci qui…<Opcode 2 90><Close><End of Block>
+<TextBlock 21 w:36 h:4>
+Uuuaaaaaaaaaaaaaa <Delay 10>
+   aaaaaaaaaaaa <Delay 10>
+     aaaaaaaa <Delay 10>
+       aah! <Opcode 2 30><Close><End of Block>
+<TextBlock 22 w:0 h:1>
+<Close><End of Block>

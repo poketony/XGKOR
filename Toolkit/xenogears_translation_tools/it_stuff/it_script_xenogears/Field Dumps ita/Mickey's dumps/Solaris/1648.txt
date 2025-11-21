@@ -1,0 +1,8 @@
+<TextBlock 1 w:54 h:3>
+Argh!!<Delay 10>
+A causa sua probabilmente
+sarò 'messo a posto'!!<New>
+Dio,<Delay 10> se esisti…
+Ti prego, salvami!<Close><End of Block>
+<TextBlock 2 w:0 h:1>
+<Close><End of Block>

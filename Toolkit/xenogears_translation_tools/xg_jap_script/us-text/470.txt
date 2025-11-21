@@ -1,0 +1,22 @@
+#### 1 ####
+The door is locked.
+
+#### 2 ####
+The door is locked.
+
+#### 3 ####
+You have too many
+{str}.
+
+#### 4 ####
+ 
+ Received {str}.
+
+#### 5 ####
+You have too many
+{str}.
+
+#### 6 ####
+ 
+ Received {str}.
+

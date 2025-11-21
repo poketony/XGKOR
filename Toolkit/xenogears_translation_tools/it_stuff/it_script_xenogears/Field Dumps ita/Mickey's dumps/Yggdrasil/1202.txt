@@ -1,0 +1,141 @@
+<TextBlock 1 w:46 h:4>
+Rico
+"Non li perdonerò per ciò
+che gli hanno fatto…<Delay 10> Non
+ha fatto nulla di male!"<Close><End of Block>
+<TextBlock 2 w:54 h:4>
+Rico
+"Ora non c'è nulla da
+fare.<Delay 10> Potrei aiutarvi,
+se mi volete…"<Close><End of Block>
+<TextBlock 3 w:48 h:4>
+Rico
+"Sono l'unico che deve
+battere Fei!<Delay 10> Non posso
+lasciarlo morire così!"<Close><End of Block>
+<TextBlock 4 w:52 h:3>
+Rico
+"Fa' ciò che devi.<Delay 10>
+Non sono affari miei."<Close><End of Block>
+<TextBlock 5 w:40 h:3>
+Rico
+"Quella ragazza<Delay 5>
+ha gli occhi di
+un prigioniero."<Close><End of Block>
+<TextBlock 6 w:40 h:4>
+Rico
+"Non fraintendere.<Delay 10>
+Ciò non significa che
+sono al tuo fianco."<Close><End of Block>
+<TextBlock 7 w:50 h:2>
+Hammer
+"Sono con te."<Close><End of Block>
+<TextBlock 8 w:36 h:3>
+Hammer
+"N… nave
+fantasma…?<Delay 10>
+Resto qui!!"<Close><End of Block>
+<TextBlock 9 w:40 h:4>
+Hammer
+"È strano per un
+villaggio avere solo
+bambini, vero?"<Close><End of Block>
+<TextBlock 10 w:42 h:3>
+Hammer
+"Oh, ti senti meglio?<Delay 10>
+Fa piacere sentirlo!"<Close><End of Block>
+<TextBlock 11 w:44 h:3>
+Hammer
+"Mio frate ha perso
+i sensi?<Delay 10>
+Ma che dici?<New>
+Quale nemico ha
+potuto battere
+il Campione…?"<Close><End of Block>
+<TextBlock 12 w:50 h:4>
+Hammer
+"Tipico di un solariano…<Delay 10>
+Non sappiamo cosa farà
+Elly la prossima volta…"<Close><End of Block>
+<TextBlock 13 w:40 h:3>
+Rico
+"Hammer,<Delay 5> testa di cazzo!<New>
+Ti spaccherò la testa
+se lo dirai di nuovo!!"<Close><End of Block>
+<TextBlock 14 w:46 h:3>
+Hammer
+"M… mi scusi!!<Delay 10>
+Mi perdoni…!!"<Close><End of Block>
+<TextBlock 15 w:42 h:4>
+Hammer
+"Dov'è questo posto?<Delay 10>
+Mai sentito parlare
+del Tammuz prima."<Close><End of Block>
+<TextBlock 16 w:50 h:4>
+Hammer
+"Così sei Bart, il
+'pirata', eh…<New>
+Hammer, il 'fornitore',
+ha grandi informazioni
+per te…<Delay 10> Shakhan
+controlla ancora Aveh…<New>
+Stava pianificando una
+azione militare a Nisan.<Delay 10>
+Ma per qualche motivo
+Geburah l'ha fermato…<New>
+… Oh,<Delay 5> così già
+lo sapevi?"<Close><End of Block>
+<TextBlock 17 w:46 h:2>
+Hammer
+"Non mi muovo da qui."<Close><End of Block>
+<TextBlock 18 w:30 h:2>
+Hammer
+"Dove siamo?"<Close><End of Block>
+<TextBlock 19 w:16 h:3>
+Hammer,<Delay 10>
+Rico…<Delay 10>
+Svegliatevi!<Close><End of Block>
+<TextBlock 20 w:40 h:3>
+Rico
+"Cos'è questo posto?<Delay 10>
+Qualcosa puzza."<Close><End of Block>
+<TextBlock 21 w:46 h:3>
+Shitan
+"Ci troviamo nella
+nave di Bart e del
+suo equipaggio.<New>
+Ci hanno salvati dopo
+che il Golia è stato
+abbattuto."<Close><End of Block>
+<TextBlock 22 w:42 h:3>
+Rico
+"E chi sarebbero
+'Bart e il suo
+equipaggio'?"<Close><End of Block>
+<TextBlock 23 w:46 h:3>
+Shitan
+"Vediamo<Delay 5>… sono dei
+banditi…<Delay 5> che derubano
+Aveh.<New>
+Bart è il loro capo,<Delay 10>
+anche se è ancora
+molto giovane."<Close><End of Block>
+<TextBlock 24 w:44 h:4>
+Rico
+"Un ladro di questi
+tempi?<Delay 10> Un uomo di
+carattere. Mi piace!!"<Close><End of Block>
+<TextBlock 25 w:48 h:4>
+Shitan
+"…<Delay 10>
+Vorresti andare a
+incontrare Bart?"<Close><End of Block>
+<TextBlock 26 w:36 h:3>
+Rico
+"Mmh…<Delay 10> Mi hai letto
+nel pensiero!"<Close><End of Block>
+<TextBlock 27 w:38 h:2>
+Hammer
+"Io rimango qui!"<Close><End of Block>
+<TextBlock 28 w:0 h:1>
+<Close><End of Block>

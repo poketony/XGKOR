@@ -1,0 +1,35 @@
+#### 1 ####
+Margie
+"Heh heh, I came here,
+too!{enter}
+The inside of the Yggdrasil
+smells like a men's locker
+room.{wait:14}
+I can't stand it anymore."
+
+#### 2 ####
+Margie
+"This country is gentle
+and quiet...{wait:14}but I can
+sense the sorrow within.{enter}
+A sad echo from long ago
+...way out there...{wait:14}
+What happened here 500
+years ago?"
+
+#### 3 ####
+Margie
+"So, what do you need?"{wait:14}
+    Change party
+    Nothing
+
+#### 4 ####
+Margie
+"O.K.{wait:14}
+Well, be careful!"
+
+#### 5 ####
+Want to rest in the bed?{wait:14}
+    Sure!
+    No thanks
+

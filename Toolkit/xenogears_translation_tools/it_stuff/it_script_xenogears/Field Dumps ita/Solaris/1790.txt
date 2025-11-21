@@ -1,0 +1,4 @@
+<TextBlock 1 w:44 h:3>
+"Durante l'allarme, il
+portello di mantenimento
+sarà chiuso."<Close><Close><End of Block>

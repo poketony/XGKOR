@@ -1,0 +1,158 @@
+#### 1 ####
+Fei
+"Argh!{wait:14}
+I'm not gonna lose it."
+
+#### 2 ####
+Fei
+"Argh!{wait:14}
+ here we go!"
+
+#### 3 ####
+Fei
+"Are you sure we can
+catch fish?{wait:14} Even without
+bait?"
+
+#### 4 ####
+Fei
+"..."{clear:1E}
+
+#### 5 ####
+Fei
+"Huh!?{wait:14}
+The fish is biting!"
+
+#### 6 ####
+What do you want to do?{wait:14}
+    Reel it in!
+    Check around
+    Be patient
+
+#### 7 ####
+Fei
+"Okay, here we go!"
+
+#### 8 ####
+Fei
+"I did it!"
+
+#### 9 ####
+Fei
+"Darn it!{wait:14}
+It cut the line!"
+
+#### 10 ####
+Fei
+"I did it!"
+
+#### 11 ####
+Fei
+"Okay, then...
+Like this..."
+
+#### 12 ####
+Fei
+"Yeah...{wait:14}
+Is it gonna work...?{enter}
+The pro's technique is to
+read the opponent's moves
+and make it tired at the
+same time!"
+
+#### 13 ####
+Fei
+"Darn it!{wait:14}
+It cut the line!"
+
+#### 14 ####
+Fei
+"Hmm...{wait:14}
+Almost...{enter}
+I can feel a strong tug
+on the line...{wait:14}
+It's a big one."
+
+#### 15 ####
+Fei
+"Alright...
+Impatience is taboo."
+
+#### 16 ####
+Fei
+"Hmm...not yet...?{wait:14}
+Tenacity makes all the
+difference."
+
+#### 17 ####
+Fei
+"Huh...!?{wait:14}
+What the...?"
+
+#### 18 ####
+Fei
+"Darn it!{wait:14}
+It cut the line!"
+
+#### 19 ####
+Fei
+"...{wait:14}
+There, now!!"
+
+#### 20 ####
+Fei
+"I can't believe it!{wait:14}
+Now, open your mouth 
+and let me see it...{enter}
+I found it!{wait:14}
+This is it!"
+
+#### 21 ####
+Fei
+"...{wait:1E}Y, you aren't getting
+away that easily...!!"
+
+#### 22 ####
+Fei
+"He-he!
+A reasonable catch!"
+
+#### 23 ####
+Yes, yes...{wait:32}
+I'm listening, dear.{enter}
+It reminds me of the good
+old days.{wait:3C} This is the
+place you and I met for
+our first date, isn't it?{enter}
+I recall that on that day,
+you dear, read me a poem
+that you said you wrote
+all by yourself...{enter}
+I thought it funny that
+such a romantic still
+exists in our day and age...{wait:1E}
+But I was delighted by it...{enter}
+Nothing has changed here...{wait:3C}
+Truly important things
+can't be taken away by
+anyone...
+
+#### 24 ####
+Dark Rock has been
+received already.
+
+#### 25 ####
+Lost Spider Web...
+
+#### 26 ####
+Received Dark Rock!
+
+#### 27 ####
+Released the fish that
+was caught.
+
+#### 28 ####
+Do you want to go up?{wait:0A}
+    Yes
+    No
+

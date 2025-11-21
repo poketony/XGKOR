@@ -1,0 +1,202 @@
+<TextBlock 1 w:48 h:4>
+Samson
+"Allora, dopotutto lei
+era al tuo fianco.<Delay 10>
+A te, prendi."<Close><End of Block>
+<TextBlock 2 w:28 h:1>
+… Cos'è?<Close><End of Block>
+<TextBlock 3 w:50 h:3>
+Samson
+"Un permesso di lavoro
+per cittadini di II
+Classe, come il mio.<New>
+Con esso potrai muoverti
+più liberamente senza
+suscitare sospetti.<New>
+Beh, se lei è con te,
+non ci sarà proprio
+alcun problema.<New>
+Io sarò all'entrata
+della torre."<Close><End of Block>
+<TextBlock 4 w:46 h:1>
+<Opcode 1 255>Ricevi permesso di lavoro.<Opcode 2 60><Close><End of Block>
+<TextBlock 5 w:48 h:4>
+Samson
+"La tua amica dovrebbe
+essere da qualche parte
+qua intorno.<New>
+Trovala e torna indietro."<Close><End of Block>
+<TextBlock 6 w:66 h:5>
+Samson
+"Ehi,<Delay 10> perché non vieni con me?<Delay 10>
+La tua forza mi farebbe comodo."
+    Certo!
+    No, meglio di no<Close><End of Block>
+<TextBlock 7 w:52 h:3>
+Samson
+"Questo è lo spirito
+giusto!<Delay 10> A te, prendi."<Close><End of Block>
+<TextBlock 8 w:24 h:1>
+Cos'è?<Close><End of Block>
+<TextBlock 9 w:50 h:3>
+Samson
+"Un permesso di lavoro
+per cittadini di II
+Classe, come il mio.<New>
+Con esso, potrai muoverti
+più liberamente senza
+suscitare sospetti.<New>
+Beh, se lei è con te,
+non ci sarà proprio
+alcun problema.<New>
+Io sarò all'entrata
+della torre."<Close><End of Block>
+<TextBlock 10 w:46 h:1>
+<Opcode 1 255>Ricevi permesso di lavoro.<Opcode 2 60><Close><End of Block>
+<TextBlock 11 w:52 h:3>
+Samson
+"Questo è lo spirito
+giusto!<New>
+Ma sta' attento!<Delay 10>
+È appena passata una
+donna di Geburah…"<Close><End of Block>
+<TextBlock 12 w:36 h:4>
+Fei
+"!?<Delay 10> Dimmi,<Delay 10> aveva
+i capelli castano
+dorato?"<Close><End of Block>
+<TextBlock 13 w:56 h:3>
+Samson
+"Sì, è lei!!<Delay 10>
+Ma… siete amici?<New>
+A pensarci bene, stava
+cercando qualcuno…<New>
+Dovrebbe essere ancora
+qua intorno.
+Dovresti cercarla."<Close><End of Block>
+<TextBlock 14 w:48 h:4>
+Samson
+"Sì?<Delay 10>
+Non voglio forzarti,
+è abbastanza pericoloso.<New>
+Ma se cambi idea, vieni
+a parlare con me."<Close><End of Block>
+<TextBlock 15 w:30 h:2>
+Fei
+"Ti…<Delay 10> Timothy!?"<Close><End of Block>
+<TextBlock 16 w:42 h:3>
+Purtroppo, non
+sono Timothy.<Delay 10>
+Mi chiamo Samson.<New>
+Ehi, ma io ti conosco!<Close><End of Block>
+<TextBlock 17 w:46 h:3>
+Fei
+"Come<Delay 5> fai a conoscermi?<Delay 10>
+Chi sei…?"<Close><End of Block>
+<TextBlock 18 w:48 h:4>
+Samson
+"Dal Torneo…<Delay 10>
+Sfortunatamente, sono
+stato sconfitto al
+primo round.<New>
+Sono svenuto mentre
+me ne tornavo a casa…"<Close><End of Block>
+<TextBlock 19 w:14 h:1>
+E…?<Close><End of Block>
+<TextBlock 20 w:54 h:4>
+Samson
+"Quando sono rinvenuto,
+mi sono ritrovato qui.<New>
+Tutti vengono sottoposti a
+una cosa che chiamano
+essere 'messi a posto'.<New>
+È qualcosa tra il
+lavaggio del cervello
+e l'amnesia.<New>
+Ma con me hanno sbagliato
+qualcosa e mi ricordo
+ancora di tutto."<Close><End of Block>
+<TextBlock 21 w:42 h:3>
+Fei
+"Allora quella persona…?"<Close><End of Block>
+<TextBlock 22 w:56 h:4>
+Samson
+"Già, anche lui.<Delay 10>
+È morto invano…<Delay 5>…<Delay 10>
+Uno dei miei pochi amici…<New>
+Non voglio andarmene
+anch'io così.<Delay 10>
+Vedi quella torre di
+guardia vicino a noi?<New>
+Supererò il blocco di
+II Classe, m'introdurrò
+nel porto e saluterò per
+sempre Solaris."<Close><End of Block>
+<TextBlock 23 w:36 h:2>
+Fei
+"Puoi farlo?"<Close><End of Block>
+<TextBlock 24 w:54 h:4>
+Samson
+"Sì, perché ho un permesso.<Delay 10>
+Me l'hanno dato per farmi
+lavorare al porto.<New>
+Teoricamente, dovrei
+andarmene solo quando è il
+mio turno, ma ho 'risolto'
+questo piccolo problema.<New>
+Ehi,<Delay 10> perché non
+vieni con me?<New>
+Con la tua forza,
+saremmo a posto!"
+    Sì, certo
+    Nah, meglio di no<Close><End of Block>
+<TextBlock 25 w:38 h:2>
+Questo è lo spirito
+giusto!<Delay 10> A te, prendi.<Close><End of Block>
+<TextBlock 26 w:30 h:1>
+… Cos'è?<Close><End of Block>
+<TextBlock 27 w:50 h:3>
+Samson
+"Un permesso di lavoro
+per cittadini di II
+Classe, come il mio.<New>
+Con esso, potrai muoverti
+più liberamente senza
+suscitare sospetti.<New>
+Beh, se lei è con te,
+non ci sarà proprio
+alcun problema.<New>
+Io sarò all'entrata
+della torre."<Close><End of Block>
+<TextBlock 28 w:46 h:1>
+<Opcode 1 255>Ricevi permesso di lavoro.<Opcode 2 60><Close><End of Block>
+<TextBlock 29 w:52 h:3>
+Samson
+"Questo è lo spirito
+giusto!<New>
+Ma sta' attento!<Delay 10>
+È appena passata una
+donna di Geburah…"<Close><End of Block>
+<TextBlock 30 w:36 h:4>
+Fei
+"!?<Delay 10>
+Dimmi,<Delay 10> aveva i
+capelli castano dorato?"<Close><End of Block>
+<TextBlock 31 w:56 h:3>
+Samson
+"Sì, è lei!!<Delay 10>
+Ma siete amici?<New>
+A pensarci bene, lei stava
+cercando qualcuno…<New>
+Dovrebbe essere ancora
+qua intorno.
+Dovresti cercarla."<Close><End of Block>
+<TextBlock 32 w:48 h:4>
+Samson
+"Sì?<Delay 10>
+Non voglio forzarti,
+è abbastanza pericoloso.<New>
+Ma se cambi idea, vieni
+a parlare con me."<Close><End of Block>
+<TextBlock 33 w:0 h:1>
+<Close><End of Block>

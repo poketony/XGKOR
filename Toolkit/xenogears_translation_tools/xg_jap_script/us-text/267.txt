@@ -1,0 +1,59 @@
+#### 1 ####
+It's lukewarm...
+
+#### 2 ####
+Bart
+"That Margie...!{enter}
+Leaving a strange stuffed
+animal in a place like
+this!{wait:0A} Because of this, we
+can't get into the bridge."
+
+#### 3 ####
+{fast:FF}It's not strange!{clear:0F}
+
+#### 4 ####
+Bart
+"Hey, Fei!!{wait:0A}
+Stop the funny
+voices, will ya!?"
+
+#### 5 ####
+Fei
+"Huh? 
+{wait:0A}I{wait:0A} didn't say anything."
+
+#### 6 ####
+Bart
+"...{wait:0A}
+That's weird...{enter}
+Anyway, let's ask
+Margie to get rid
+of it."
+
+#### 7 ####
+Get on the transport ship?
+    Yes
+    Wait a minute
+
+#### 8 ####
+{fast:FF}Preparing for launch.
+Do not open hatch!
+              -Sigurd
+
+#### 9 ####
+{fast:FF}Do not open hatch
+while in motion.
+          -Sigurd
+
+#### 10 ####
+Elly
+"They can't launch the
+Yggdrasil cause Sigurd
+isn't there...{enter}
+He must be in the Gun
+Room or somewhere."
+
+#### 11 ####
+
+

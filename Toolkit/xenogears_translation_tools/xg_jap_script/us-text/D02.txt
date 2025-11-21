@@ -1,0 +1,100 @@
+#### 1 ####
+    {fast:FF}start game
+    to lahan
+    to shitan
+    to kislev
+    to alulu
+    orgel event
+    quit
+
+#### 2 ####
+    {fast:FF}shitan at night
+    attack on lahan
+    lahan ruin
+    now making
+    shevat for the first time
+    to shevat a spy comes
+    quit
+
+#### 3 ####
+    {fast:FF}a spy came
+    a gear dock
+    AHAZEHN came
+    the throne screen
+    battle at generaters
+    attack on Soralis 
+    a justice
+    runaway
+    a hole in melcover
+    melcover angels
+    zeus
+    quit
+
+#### 4 ####
+    {fast:FF}chuchu's angry
+    chuchu vs AHAZEHN
+    maria vs AHAZEHN
+    maria goes to Soralis
+    golgoda
+    carbonated sleep
+    the carbonated broke down
+    snow hideout
+    other
+    quit
+
+#### 5 ####
+pasward {wait:0A}
+    quit
+    quit
+    to start
+    test with face
+    test with no face
+
+#### 8 ####
+  キ-の    で    を  。
+＄ボタンで    。
+〜ボタンで  モ-ドからぬけます。{enter2}
+それでは、  を  してください。
+
+#### 9 ####
+ドアオ-プン  {clear:14}
+
+#### 10 ####
+パスワ-ドがちがいます。
+ しい  を  してください。
+
+#### 11 ####
+  をやめますか��{wait:0A}
+    やめる
+    やめない
+
+#### 12 ####
+{fast:FF}change weight
+    yase
+    futuu
+    futome
+    davy
+
+#### 6 ####
+chuchu
+"This is a test for
+ Xenogears english version.{enter}
+ Need love to feel alive
+ and good.
+ Its only love that
+ alone can make me good."
+
+#### 7 ####
+ This is a test for  Xenogears
+ english version.
+ Now in your face, many wonders,
+ many treasures.
+ I can find a trace of saddnes
+ passing by.
+ Need love to feel alive and good.{enter}
+ Yet there are moments in ones
+ memory. When a vague scene from
+ previous grandeur comes back
+ beggars then withdraw their hand
+ as if sufficient unto the day
+ the gain thereof.

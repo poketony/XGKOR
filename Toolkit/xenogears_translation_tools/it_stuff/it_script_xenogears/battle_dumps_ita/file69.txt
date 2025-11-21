@@ -1,0 +1,84 @@
+<TextBlock 1 w:34 h:2>
+Fei
+"Ah! Ancora tu!?"<Close><End of Block>
+<TextBlock 2 w:32 h:3>
+Fei
+"Ma di che cosa
+stai parlando!?"<Close><End of Block>
+<TextBlock 3 w:30 h:2>
+Fei
+"Uuaaaaahhhhh!"<Opcode 2 30><Close><End of Block>
+<TextBlock 4 w:14 h:2>
+Elly
+"Fei!!"<Opcode 2 30><Close><End of Block>
+<TextBlock 5 w:14 h:2>
+Elly
+"Fei!!"<Close><End of Block>
+<TextBlock 6 w:26 h:3>
+Ramsus
+"Miang, è lui?"<Close><End of Block>
+<TextBlock 7 w:28 h:3>
+Ramsus
+"Bene.
+Lo tengo
+in pugno!"<Close><End of Block>
+<TextBlock 8 w:32 h:4>
+Ramsus
+"Ti stavo
+cercando! Il mio
+peggior nemico!"<Close><End of Block>
+<TextBlock 9 w:40 h:3>
+Ramsus
+"… Vedo che hai un
+veicolo diverso…<New>
+Allora, cos'è accaduto
+al tuo 'altro Gear'!?"<Close><End of Block>
+<TextBlock 10 w:42 h:4>
+Ramsus
+"Non importa…<New>
+A ogni modo, finché
+non t'avrò eliminato,
+per me non ci sarà
+mai nessuna 'luce'!!"<Close><End of Block>
+<TextBlock 11 w:44 h:4>
+Ramsus
+"Tch! Questo
+è tutto quello
+che sai fare!?<New>
+Che peccato!!
+Non importa…
+Non posso lasciarti
+vivere!"<Close><End of Block>
+<TextBlock 12 w:36 h:3>
+Ramsus
+"E ora 'le
+coup de grâce'!!"<Close><End of Block>
+<TextBlock 13 w:26 h:4>
+Ramsus
+"Co… cosa!?
+Aerodi!?
+Ma chi…!?"<Close><End of Block>
+<TextBlock 14 w:24 h:3>
+Ramsus
+"!!
+Uuuooohhhh!"<Close><End of Block>
+<TextBlock 15 w:34 h:4>
+Ramsus
+"Tch! Il mio
+serbatoio
+principale…<New>
+Fei era mio!
+Dannazione!<New>
+… Dobbiamo
+battere in
+ritirata, Miang!"<Close><End of Block>
+<TextBlock 16 w:34 h:4>
+Miang
+"Sì, è nel Gear
+nero, lì al
+centro."<Close><End of Block>
+<TextBlock 17 w:48 h:4>
+<Right>Armatura squarciata!<Delay 30>
+L'acqua sta allagando
+la cabina di pilotaggio!<Delay 30>
+Il pilota sta morendo…<Opcode 2 120><Close><End of Block>

@@ -1,0 +1,62 @@
+#### 1 ####
+You can't let up
+even in peacetime.{enter}
+We always have to keep 
+working hard just in case.
+
+#### 2 ####
+This is the Aveh Army's
+Dazil Guard Station.
+No civilians allowed.{enter}
+If you have no business
+here, please leave.
+
+#### 3 ####
+This town is the center
+of all Gear excavating 
+in Aveh.{enter}
+They take the generators
+out of excavated Gear to
+make new models.{enter}
+Protecting this town is
+essential to beating Kislev.{enter}
+I left my family at home 
+to come here.{wait:0A} 
+I want to finish my duty
+here and go home.
+
+#### 4 ####
+Hey, I haven't seen you
+'round here before.{enter}
+Don't think that if you
+cause trouble you'll get
+away with it!{enter}
+We're Aveh Army Guards!
+...Remember that!
+
+#### 5 ####
+My friend had family in
+Bledavik, so he went back.{enter}
+That's nice. At least he 
+had someone waiting for him.{wait:0F}
+Me...{wait:05} I'm all alone...{wait:05}{enter}
+I think I'll just cry
+myself to sleep today.
+
+#### 6 ####
+The Kislev army is up
+to something in the
+land north of here.{enter}
+But don't worry...
+If anything happens,
+Gebler will back us up.
+
+#### 7 ####
+Hey, I haven't seen you
+'round here before.{enter}
+Don't think that if you
+cause trouble you'll get
+away with it!{enter}
+We're Aveh Army Guards!
+...Remember that!
+

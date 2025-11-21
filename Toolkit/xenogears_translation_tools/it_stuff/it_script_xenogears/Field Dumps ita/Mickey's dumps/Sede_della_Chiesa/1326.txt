@@ -1,0 +1,295 @@
+<TextBlock 1 w:32 h:3>
+Fei
+"Un momento!
+Ciò significa<Delay 5>…?"<Close><End of Block>
+<TextBlock 2 w:52 h:4>
+Fei
+"Il Capitano ed il
+suo equipaggio sono
+in pericolo!<New>
+Non sanno nulla di
+tutto questo!"<Close><End of Block>
+<TextBlock 3 w:42 h:3>
+Fei
+"C'è un portale sotto
+la Sede della Chiesa."<Close><End of Block>
+<TextBlock 4 w:26 h:2>
+Fei
+"Troppo lontano…"<Close><End of Block>
+<TextBlock 5 w:46 h:4>
+Fei
+"Inutile, è impossibile
+raggiungere il portale
+da qui."<Close><End of Block>
+<TextBlock 6 w:42 h:2>
+Elly
+"Quel Gear è enorme!"<Close><End of Block>
+<TextBlock 7 w:32 h:2>
+Elly
+"Un Gear mobile?"<Close><End of Block>
+<TextBlock 8 w:30 h:3>
+Elly
+"Un momento!
+Ciò significa<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 9 w:56 h:4>
+Elly
+"Il Capitano ed il
+suo equipaggio sono
+in pericolo!<New>
+Non sanno nulla di
+tutto questo!"<Close><End of Block>
+<TextBlock 10 w:42 h:3>
+Elly
+"C'è un portale sotto
+la Sede della Chiesa."<Close><End of Block>
+<TextBlock 11 w:38 h:4>
+Elly
+"Come possiamo
+andare là…?
+È troppo lontano."<Close><End of Block>
+<TextBlock 12 w:46 h:4>
+Elly
+"Inutile, è impossibile
+raggiungere il portale
+da qui."<Close><End of Block>
+<TextBlock 13 w:38 h:4>
+Shitan
+"Cosa? <Delay 5>…<Delay 5> Oh, sì.<Delay 10>
+<Delay 5>…<Delay 5> Ma, un momento<Delay 5>…<Delay 10>
+Questo significa<Delay 5>…"<Close><End of Block>
+<TextBlock 14 w:36 h:3>
+Shitan
+"Il Tammuz sta
+correndo un grave
+pericolo!<New>
+Loro sono all'oscuro
+di questa cosa!"<Close><End of Block>
+<TextBlock 15 w:52 h:3>
+Shitan
+"Cosa?<Delay 10>
+Sì, qualcosa 
+di simile."<Close><End of Block>
+<TextBlock 16 w:24 h:3>
+Shitan
+"Sì<Delay 5>…<Delay 5>
+Probabilmente<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 17 w:36 h:3>
+Shitan
+"Il portale è sotto
+la Sede della Chiesa."<Close><End of Block>
+<TextBlock 18 w:46 h:3>
+Shitan
+"Mmh… come andare
+sotto la Sede
+della Chiesa?"<Close><End of Block>
+<TextBlock 19 w:38 h:4>
+Shitan
+"Non è possibile
+raggiungere il
+portale da qui.<New>
+Pensiamo a come
+possiamo fare."<Close><End of Block>
+<TextBlock 20 w:36 h:3>
+Shitan
+"Il portale è sotto
+la Sede della Chiesa."<Close><End of Block>
+<TextBlock 21 w:46 h:3>
+Shitan
+"Mmh… come andare
+sotto la Sede
+della Chiesa?"<Close><End of Block>
+<TextBlock 22 w:38 h:4>
+Shitan
+"Non è possibile
+raggiungere il
+portale da qui.<New>
+Pensiamo a come
+possiamo fare."<Close><End of Block>
+<TextBlock 23 w:36 h:3>
+Bart
+"Cos'è<Delay 10> quell'enorme
+Gear!?"<Close><End of Block>
+<TextBlock 24 w:46 h:3>
+Bart
+"Un Gear mobile!?<Delay 10>
+Che cazzo sarebbe?"<Close><End of Block>
+<TextBlock 25 w:32 h:3>
+Bart
+"Ehi, ehi, ehi!
+Questo significa…!?"<Close><End of Block>
+<TextBlock 26 w:52 h:4>
+Bart
+"Il Capitano e il suo
+equipaggio sono in
+pericolo!<New>
+Non sanno nulla di
+quella cosa mostruosa!"<Close><End of Block>
+<TextBlock 27 w:48 h:3>
+Bart
+"C'è un portale
+sotto la Sede
+della Chiesa."<Close><End of Block>
+<TextBlock 28 w:50 h:4>
+Bart
+"Siamo arrivati fin qua,
+ma come facciamo a
+raggiungere il portale?"<Close><End of Block>
+<TextBlock 29 w:46 h:4>
+Bart
+"Inutile, è impossibile
+raggiungere il portale
+da qui."<Close><End of Block>
+<TextBlock 30 w:52 h:3>
+Billy
+"Credo che l'Yggdrasil
+possa affrontare quel
+Gear.<New>
+Sbrighiamoci e andiamo
+ad aiutare la flotta
+del Tammuz."<Close><End of Block>
+<TextBlock 31 w:50 h:4>
+Billy
+"Si suppone che ci sia
+un portale sotto la
+sede della Chiesa."<Close><End of Block>
+<TextBlock 32 w:42 h:4>
+Billy
+"… E c'è anche un
+bella distanza per
+raggiungere il portale…"<Close><End of Block>
+<TextBlock 33 w:54 h:4>
+Billy
+"Dirigersi al portale da
+qui è impensabile…
+Troviamo in altro modo."<Close><End of Block>
+<TextBlock 34 w:38 h:3>
+Rico
+"Non ho mai visto
+un Gear così enorme!"<Close><End of Block>
+<TextBlock 35 w:34 h:3>
+Rico
+"Come fa a volare
+un Gear così grande!?"<Close><End of Block>
+<TextBlock 36 w:30 h:3>
+Rico
+"Ehi…!
+Ciò significa…!"<Close><End of Block>
+<TextBlock 37 w:52 h:4>
+Rico
+"L'equipaggio del Tammuz è
+in pericolo.<Delay 10> Non c'è
+storia contro quel Gear."<Close><End of Block>
+<TextBlock 38 w:44 h:3>
+Rico
+"Così il portale 
+è sotto la Sede
+della Chiesa."<Close><End of Block>
+<TextBlock 39 w:46 h:3>
+Rico
+"… Come raggiungiamo
+il portale?"<Close><End of Block>
+<TextBlock 40 w:52 h:3>
+Rico
+"Impossibile da qui.
+Dobbiamo trovare
+un'altra via."<Close><End of Block>
+<TextBlock 41 w:38 h:3>
+Esmeralda
+"Il portale è
+sotto la Sede
+della Chiesa…"<Close><End of Block>
+<TextBlock 42 w:52 h:4>
+Esmeralda
+"Come raggiungiamo il
+portale? Non è troppo
+lontano da qui?"<Close><End of Block>
+<TextBlock 43 w:50 h:3>
+Esmeralda
+"Dobbiamo trovare
+un altro modo per
+raggiungere il portale."<Close><End of Block>
+<TextBlock 44 w:38 h:3>
+Esmeralda
+"Il portale è
+sotto la Sede
+della Chiesa…"<Close><End of Block>
+<TextBlock 45 w:46 h:4>
+Esmeralda
+"Come raggiungiamo il
+portale? Non è troppo
+lontano da qui?"<Close><End of Block>
+<TextBlock 46 w:50 h:3>
+Esmeralda
+"Dobbiamo trovare
+un altro modo per
+raggiungere il portale."<Close><End of Block>
+<TextBlock 47 w:34 h:3>
+<Chu-Chu>
+"Così il portale è
+sotto la Sede della
+Chiesa…"<Close><End of Block>
+<TextBlock 48 w:32 h:3>
+<Chu-Chu>
+"Ma, come chu
+andiamo laggiù?"<Close><End of Block>
+<TextBlock 49 w:50 h:4>
+<Chu-Chu>
+"È impossibile chu
+andare al portale
+da qui chu!."<Close><End of Block>
+<TextBlock 50 w:44 h:3>
+Maria
+"Così il portale è
+sotto la Sede della
+Chiesa?"<Close><End of Block>
+<TextBlock 51 w:52 h:3>
+Maria
+"Potrebbe essere
+difficile raggiungerlo
+da qui…"<Close><End of Block>
+<TextBlock 52 w:52 h:3>
+Maria
+"Dobbiamo trovare
+un altro modo per
+raggiungere il portale…"<Close><End of Block>
+<TextBlock 53 w:44 h:3>
+Jessie
+"L'avete mancato di
+un soffio.<Delay 30>
+Pare che Stein sia…"<Close><End of Block>
+<TextBlock 54 w:16 h:2>
+Jessie
+"Là."<Close><End of Block>
+<TextBlock 55 w:53 h:4>
+Jessie
+"Il Gear di Solaris
+era… Alkanshel,<Wait>
+non è così, Hyuga?"<Close><End of Block>
+<TextBlock 56 w:54 h:5>
+Jessie
+"Sarà pure grande, ma è
+lento da manovrare.<New>
+I nostri Gear possono
+farcela.<New>
+Ma la sua potenza di
+fuoco è fenomenale. Con
+una nave come bersaglio,
+BLAM! Ed è tutto finito.<New>
+Dico bene, Hyuga?"<Close><End of Block>
+<TextBlock 57 w:36 h:2>
+Jessie
+"Capisci cosa intendo?"<Close><End of Block>
+<TextBlock 58 w:40 h:3>
+Jessie
+"Il Gear di Solaris,
+Alkanshel."<Close><End of Block>
+<TextBlock 59 w:54 h:4>
+Jessie
+"Sarà pure grande, ma è
+lento da manovrare.<New>
+I nostri Gear possono
+farcela.<New>
+Ma la sua potenza di
+fuoco è fenomenale. Con
+una nave come bersaglio,
+BLAM! ed è tutto finito."<Close><Close><End of Block>

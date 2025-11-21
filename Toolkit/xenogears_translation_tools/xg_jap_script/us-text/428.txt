@@ -1,0 +1,58 @@
+#### 1 ####
+Elly
+"Fei, are you alright?"
+
+#### 2 ####
+Fei
+"Yeah.{wait:0A}
+It was just so sudden."
+
+#### 3 ####
+Fei
+"We gotta get moving!{enter}
+Those weird robots
+are coming after us!"
+
+#### 4 ####
+Fei
+"...?{wait:0A}
+What's wrong, Elly?"
+
+#### 5 ####
+Elly
+"...{wait:0A}So, this is the
+place...{wait:14} I might be
+able to do something.{enter}
+Anyway, let's try to run
+through here!!"
+
+#### 6 ####
+Yeah!!
+
+#### 7 ####
+ 
+
+#### 8 ####
+You have too many
+{str}.
+
+#### 9 ####
+ 
+ Received {str}.
+
+#### 10 ####
+You have too many
+{str}.
+
+#### 11 ####
+ 
+ Received {str}.
+
+#### 12 ####
+You have too many
+{str}.
+
+#### 13 ####
+ 
+ Received {str}.
+

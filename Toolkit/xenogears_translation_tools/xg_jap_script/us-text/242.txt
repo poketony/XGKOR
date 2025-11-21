@@ -1,0 +1,25 @@
+#### 1 ####
+Continue the game?{wait:1E}
+    Wait
+    Continue{wait:0F}
+
+#### 2 ####
+Save current data?{wait:1E}
+    Save
+    Don't save{wait:0F}
+
+#### 3 ####
+Continue the game?{wait:1E}
+    Wait
+    Continue{wait:0F}
+
+#### 4 ####
+Citan
+"That...is...the...Dora.
+It was stationed here?
+That was careless of me...{enter}
+But {wait:20}its condition...{wait:20}
+...{wait:20}...{wait:20}...{wait:20}
+It is just like the others
+that 'he' destroyed..."
+

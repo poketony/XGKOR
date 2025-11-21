@@ -1,0 +1,33 @@
+#### 1 ####
+Ramsus
+"Sigurd!"
+
+#### 2 ####
+Ramsus
+"Why are you abandoning
+this country!? {enter}
+You were supposed to help
+us create an ideal
+nation!"
+
+#### 3 ####
+Ramsus
+"...You traitor!!!"{clear:40}
+
+#### 4 ####
+Sigurd
+"I'm not abandoning it.{enter}
+I've been living here to
+steal this country's
+technology from the
+beginning.{enter}
+Besides, there's someone
+waiting for me.{wait:10}
+Don't be bitter."
+
+#### 5 ####
+Sigurd
+"It wasn't too bad going
+after the same ideals with
+you, for that short time."
+

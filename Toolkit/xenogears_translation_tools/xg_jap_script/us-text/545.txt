@@ -1,0 +1,58 @@
+#### 1 ####
+Writing on the wall.{enter}
+"Not too little or too much.
+   Find a happy medium to
+      succeed in life!     "
+
+#### 2 ####
+Writing on the wall.{enter}
+"Buttons on both sides 
+control the water level."
+
+#### 3 ####
+Writing on the wall.{enter}
+"The water is full at 10."
+
+#### 4 ####
+    Step on it
+    Don't
+
+#### 5 ####
+Nothing happened.
+
+#### 6 ####
+   Looks like the water
+level won't go any higher.
+
+#### 7 ####
+Looks like there is a 
+switch on the floor.
+
+#### 8 ####
+    Step on it
+    Don't
+
+#### 9 ####
+  Looks like the water
+level won't go any lower.
+
+#### 10 ####
+Looks like there is a
+switch on the floor.
+
+#### 11 ####
+There is a button
+with 3 marks on it.
+
+#### 12 ####
+    Push it
+    Don't
+
+#### 13 ####
+There is a button
+with 7 marks on it.
+
+#### 14 ####
+    Push it
+    Don't
+

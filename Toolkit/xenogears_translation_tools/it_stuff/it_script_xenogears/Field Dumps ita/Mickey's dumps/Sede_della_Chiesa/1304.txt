@@ -1,0 +1,39 @@
+<TextBlock 1 w:40 h:3>
+Billy
+"<Delay 10>…<Delay 10> Maledizione.<Delay 15>
+È morto."<Close><End of Block>
+<TextBlock 2 w:24 h:1>
+Ug<Delay 10>gghh<Delay 10>…<Delay 10>…<Space 1><Close><End of Block>
+<TextBlock 3 w:48 h:3>
+Ci sono tonnellate di
+libri che la Chiesa ha
+immagazzinato in questa
+biblioteca.<New>
+È una vera miniera
+di informazioni.<Close><End of Block>
+<TextBlock 4 w:54 h:4>
+Conosci l'enorme torre
+chiamata Torre di Babele?<New>
+Dicono che fu costruita
+da persone che tentavano
+di raggiungere il cielo
+ed incontrare dio.<New>
+Secondo la tradizione,
+dio si adirò con loro ed
+i suoi fulmini distrussero
+la torre.<Close><End of Block>
+<TextBlock 5 w:54 h:4>
+Coloro che avevano
+costruito la Torre erano
+così spaventati dalla
+vendetta di dio che…<New>
+… fuggirono nel cielo.
+Questo luogo è Shevat, la
+'casa degli eremiti peccatori'.<Close><End of Block>
+<TextBlock 6 w:48 h:3>
+Sono stato assegnato
+al sito di scavo
+a Dajil.<New>
+Riesaminerò di nuovo
+le informazioni tecniche
+delle rovine.<Close><Close><End of Block>

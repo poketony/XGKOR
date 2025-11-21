@@ -1,0 +1,45 @@
+#### 1 ####
+Looks like it's controlled
+by that adjacent panel.
+
+#### 2 ####
+    Up?
+    No
+
+#### 3 ####
+The elevator is locked.
+
+#### 4 ####
+Bbbbaababababbbaabu...{clear:1E}
+
+#### 5 ####
+Bbbpbpbpobpobpobpobpyo{clear:1E}
+
+#### 6 ####
+I...{wait:14} kinda feel...{wait:1E} like
+eating you up...{clear:1E}
+
+#### 7 ####
+You have too many
+{str}.
+
+#### 8 ####
+ 
+ Received {str}.
+
+#### 9 ####
+You have too many
+{str}.
+
+#### 10 ####
+ 
+ Received {str}.
+
+#### 11 ####
+You have too many
+{str}.
+
+#### 12 ####
+ 
+ Received {str}.
+

@@ -1,0 +1,14 @@
+<TextBlock 1 w:32 h:3>
+Fei
+"Rinforzi, eh!?"<Close><End of Block>
+<TextBlock 2 w:40 h:4>
+Fei
+"Anche alla mia
+destra!!<Delay 20> Merda!<Delay 20><New>
+Ma quanti ce
+ne sono<Delay 8>…<Delay 8>…<Delay 8>…<Delay 8>?"<Close><End of Block>
+<TextBlock 3 w:40 h:4>
+Fei
+"Penso che<Delay 8>…<Delay 8>…<Delay 8>…<Delay 8> non ci
+sia altra scelta<Delay 8>…<Delay 8>…<Delay 8>…<Delay 60>
+Devo combattere<Delay 8>…<Delay 8>…<Delay 8>…"<Close><Close><Close><Close><Close>J<Close><Close><End of Block>

@@ -1,0 +1,116 @@
+#### 1 ####
+I've been waiting
+for you, Fei!!
+
+#### 2 ####
+Ramsus
+"Fei{wait:05}...{wait:14}
+If only you hadn't
+have been born{wait:05}..."
+
+#### 3 ####
+"I{wait:05}...{wait:14}
+I{wait:05}...{wait:14}
+We're going to
+settle this now!!"
+
+#### 4 ####
+Fei
+"Stop it, Ramsus!{wait:14}
+What reason is there to
+continue fighting me!?{enter}
+Who are you fighting for!?{wait:14}
+Why do you always have a
+bone to pick with me!?{wait:14}
+Tell me why!"
+
+#### 5 ####
+Ramsus
+"It is all because of
+you{wait:05}...{enter}
+If only you hadn't come
+in and destroyed my
+prospects in life{wait:05}..."
+
+#### 6 ####
+My life{wait:05}...{wait:05}was given to
+me within a Nanoreactor
+in Krelian's laboratory. {enter}
+To be born as the superior
+being, above all humans{wait:05}...{wait:1E}
+But then{wait:05}...
+
+#### 7 ####
+Ramsus
+"Because of your existence,
+I was discarded{wait:05}...!{enter}
+I was destined to be the
+representative of god{wait:05}...{wait:05}
+having the might of the
+Emperor.{enter}
+I was destined to be the
+ultimate existence, having
+the power to exercise
+absolute control over all!{enter}
+But{wait:05}...{wait:1E}
+I lost it all{wait:05}...{wait:05}
+because of you!!"
+
+#### 8 ####
+Fei
+"M, my mother{wait:05}...?{wait:14}
+How{wait:05}...{wait:05}do you know her{wait:05}...?{wait:14}
+Ramsus{wait:05}...!"
+
+#### 9 ####
+Dominia
+"Commander!
+Please stop this!{enter}
+Commander, if what you
+say is true, then that
+is even more of a reason
+not to fight!{enter}
+You were just used by
+Krelian and{wait:05}..."
+
+#### 10 ####
+Ramsus
+"Silence!!{wait:14}
+You{wait:05}...{wait:05}even you{wait:05}...{wait:05}
+dare to censure me!?{enter}
+I saved you from nearly
+becoming a test subject
+and now you turn on me!?"
+
+#### 11 ####
+Dominia
+"You are mistaken!{wait:14}
+We are only thinking of
+your best interests..."
+
+#### 12 ####
+Ramsus
+"Silence!!{enter}
+Ultimately, only
+I can help myself!{wait:14}
+I am the only one that
+can correct this!"
+
+#### 13 ####
+Ramsus
+"This is the end for you!!{wait:14}
+En garde!{wait:14}
+Cause, here I come, Fei!!"
+
+#### 14 ####
+Fei
+"What's this{wait:05}...?"
+
+#### 15 ####
+Fei
+"Ramsus!?"
+
+#### 16 ####
+Ramsus
+"Ghuuaaaahh...!!"{clear:14}
+

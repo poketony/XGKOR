@@ -1,0 +1,45 @@
+<TextBlock 1 w:36 h:2>
+Usate quella spada e
+fategliela pagare!<Close><End of Block>
+<TextBlock 2 w:52 h:5>
+Io sono un famoso
+specialista di armi
+per Gear<Delay 20>…<New>
+Ma negli ultimi tempi
+non c'è stato nessun
+lavoro interessante…<New>
+E poi non ci sono neanche
+uomini che abbiano il
+fegato di chiedermi di
+forgiare un'arma per
+combattere Deus…<New>
+Se mi portate una bella
+spada, posso forgiarvela
+e farla diventare qualcosa
+di davvero spettacolare…
+Quando volete…<New>
+Però non lavorerò per
+qualcuno tanto sgarbato da
+chiedermi di controllare
+una spada mentre il suo
+Gear la sta usando!<Close><End of Block>
+<TextBlock 3 w:36 h:3>
+Ohh… la Kishin!<Delay 20>
+Hai proprio una
+strana spada.<New>
+Sembra interessante!<Delay 20>
+Fatemela vedere!<Close><End of Block>
+<TextBlock 4 w:40 h:4>
+È venuta benissimo!<Delay 20>
+È stato come far
+diventare il
+vomere una spada!<New>
+Usate questa spada
+e fatela pagare a
+Deus ed alla sue
+legioni!<Close><End of Block>
+<TextBlock 5 w:56 h:1>
+La Spada 'Kishin' è
+stata migliorata!<Close><End of Block>
+<TextBlock 6 w:46 h:1>
+Ricevi Spada 'Kijin'!<Close><Close><End of Block>

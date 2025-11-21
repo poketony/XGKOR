@@ -1,0 +1,115 @@
+<TextBlock 1 w:52 h:4>
+Sigurd
+"Margherita si sta 
+sforzando molto.<Delay 20><New>
+Padroncino, dovreste
+essere più gentile
+con lei."<Close><End of Block>
+<TextBlock 2 w:42 h:4>
+Sigurd
+"… Resterò qui un altro
+po'. Ho qualcosa su
+cui riflettere."<Close><End of Block>
+<TextBlock 3 w:52 h:3>
+Sigurd
+"Shitan?
+No, non l'ho visto…<New>
+Ma non c'è bisogno di
+preoccuparsi per lui.
+Non avrà problemi."<Close><End of Block>
+<TextBlock 4 w:54 h:4>
+Sigurd
+"Bene, Margherita, ora
+che ti abbiamo salvata…<New>
+… potremmo chiederti
+una cosa…?<New>
+Perché ti sei opposta
+al nemico da sola?"<Close><End of Block>
+<TextBlock 5 w:52 h:4>
+Sigurd
+"Evidentemente…<New>
+… una diceria infondata
+fu messa in giro dal
+nemico per poterti
+attirare."<Close><End of Block>
+<TextBlock 6 w:30 h:2>
+Sigurd
+"Margherita…"<Close><End of Block>
+<TextBlock 7 w:54 h:4>
+Sigurd
+"Margherita si sta 
+sforzando molto.<Delay 20><New>
+Padroncino, dovreste
+essere gentile con
+lei."<Close><End of Block>
+<TextBlock 8 w:46 h:4>
+Bart
+"Allora…<Delay 24> pensavi di
+poterle salvare da
+sola!? Che stupida!!"<Close><End of Block>
+<TextBlock 9 w:20 h:2>
+Bart
+"Margie!!"<Close><End of Block>
+<TextBlock 10 w:50 h:3>
+Bart
+"La prossima volta
+faccelo sapere!!
+Andremo noi per te!"<Close><End of Block>
+<TextBlock 11 w:42 h:4>
+Margie
+"Scusa… ma…
+quel giorno, in città,
+ho sentito una voce…<New>
+Si diceva che le sorelle
+della Setta che erano
+state catturate da Aveh
+fossero ancora vive…"<Close><End of Block>
+<TextBlock 12 w:30 h:4>
+Margie
+"Ci ho creduto!
+E allora!?
+Mi sbagliavo.<New>
+Ma…"<Close><End of Block>
+<TextBlock 13 w:50 h:3>
+Margie
+"Ma… la nonna e la
+mamma erano già state
+giustiziate…"<Close><End of Block>
+<TextBlock 14 w:52 h:4>
+Margie
+"Scusatemi…<Delay 35> per avervi
+trascinato tutti in questa
+faccenda. Non lo farò
+mai più…"<Close><End of Block>
+<TextBlock 15 w:28 h:3>
+Margie
+"Sì…<Delay 32>
+Lo farò."<Close><End of Block>
+<TextBlock 16 w:36 h:4>
+Maison
+"Per favore, non
+siate troppo duro
+con lei…<New>
+La Setta di Nisan è
+la casa di Margherita.
+È perfettamente
+comprensibile."<Close><End of Block>
+<TextBlock 17 w:50 h:4>
+Maison
+"Ad ogni modo,
+Margherita è qui
+illesa.<New>
+Questa è la cosa
+importante!<New>
+Prima che la fortuna
+ci volti le spalle,
+portiamo Margherita
+a Nisan.<New>
+Potremo parlare di
+più lì.<New>
+Ora, vado a
+preparare la sua
+cameretta…<Delay 10>…<New>
+Signorina Margherita,
+posso chiederle di
+accompagnarmi?"<Close><Close><End of Block>

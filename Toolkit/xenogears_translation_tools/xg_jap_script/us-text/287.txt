@@ -1,0 +1,102 @@
+#### 1 ####
+Dominia
+"Cease your naive
+utterances!"
+
+#### 2 ####
+Elly
+"I've said nothing wrong!"
+
+#### 3 ####
+Dominia
+"I have no intention of
+discussing this matter
+further with you!{enter}
+Your traitorous actions
+are already apparent!
+I will beat you down
+right here!!"
+
+#### 4 ####
+Stop it at once.
+
+#### 5 ####
+Miang
+"Are you okay?"
+
+#### 6 ####
+Dominia
+"Miang!
+What are you doing!?
+She is a traitor!"
+
+#### 7 ####
+Miang
+"Such acts will not be
+allowed on a ship under
+Ramsus' command...{enter}
+No matter the reason!{enter}
+I have examined the
+records of the battle
+between the Haishao and
+{name:0D:ヴィエルジェ}...{enter}
+From what I can tell,
+it was you who attacked
+first, wasn't it?{enter}
+She had no choice but to
+defend herself after you
+took it upon yourself to
+attack without permission.{enter}
+Above all, you were meant
+to be under Kelvena's
+command. Were you obeying
+Kelvena's orders?"
+
+#### 8 ####
+Dominia
+"..."
+
+#### 9 ####
+Miang
+"You are not to prosecute
+any soldier for treason
+without proper authority.{enter}
+Even if you both are
+Elements.{wait:0A} Further{wait:05}...{wait:05}{enter}
+Isn't your attitude toward
+the lieutenant, nothing
+more than your own
+personal prejudice{wait:05}...{wait:05}{enter}
+Or am I mistaken?"
+
+#### 10 ####
+Dominia
+"What!?
+I would never..."
+
+#### 11 ####
+Miang
+"Thus far, we still cannot
+determine whether or not
+she is guilty of treason.{enter}
+To investigate the truth
+of this matter further, I
+am placing the lieutenant
+under my supervision.{enter}
+Is that clear?"
+
+#### 12 ####
+Dominia
+"How dare you!
+By what authority!?"
+
+#### 13 ####
+Miang
+"Let's go."
+
+#### 14 ####
+Dominia
+"{wait:05}...{wait:1E}
+Wha{wait:05}...{wait:05}what was that?
+Those eyes{wait:05}...{wait:05}"
+

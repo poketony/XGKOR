@@ -1,0 +1,33 @@
+<TextBlock 1 w:40 h:4>
+Achtzehn
+"Per esser una forma
+di vita di infimo
+livello, che occupa…<New>
+… l'ultimo gradino
+della scala evolutiva,
+non sei poi tanto
+male."<Close><End of Block>
+<TextBlock 2 w:36 h:3>
+Achtzehn
+"Muori, patetica
+bestia! Muori!"<Close><End of Block>
+<TextBlock 3 w:36 h:4>
+<Chu-Chu>
+"Kyow! L'ho fatta!<Delay 90>
+Ho fatto la grande 
+chutrasformazione!"<Close><End of Block>
+<TextBlock 4 w:30 h:2>
+<Chu-Chu>
+"Ho fame…"<Close><End of Block>
+<TextBlock 5 w:42 h:2>
+<Chu-Chu>
+"Ouchu! Fa male…"<Close><End of Block>
+<TextBlock 6 w:48 h:4>
+<Chu-Chu>
+"Non sono una forma di
+vita d'infimo livello.
+Io sono <Chu-Chu>.<New>
+Accetta la sconfitta!
+Se vuoi scusarti, chu,
+dovresti farlo ora,
+quando ancora puoi."<Close><Close><Close><UNKNOWN CHUNK 176><UNKNOWN CHUNK 4><Close><Close><Close><Close><End of Block>

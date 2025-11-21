@@ -1,0 +1,48 @@
+#### 1 ####
+Citan
+"The main Solaris army...{wait:20}
+why...all this...{enter}
+Well let us get down."
+
+#### 2 ####
+Elly
+"I heard there's nothing
+in this excavation site."
+
+#### 3 ####
+Bart
+"There's nothin' in here.{enter}
+Why's Solaris coming 
+here?"
+
+#### 4 ####
+Billy
+"Citan,{enter}
+what is Solaris 
+trying to do?"
+
+#### 5 ####
+Rico
+"Hey Citan,{enter}
+I heard there's nothin'
+here. If Solaris's comin'
+let's get outta here.{enter}
+I hate dark cramped 
+places..."
+
+#### 6 ####
+{name:07:チュチュ}
+"Hey, hey!?
+Is there something tasty
+left on the ground?"
+
+#### 7 ####
+I said you can't go in.
+
+#### 8 ####
+No entry.
+'Ethos' personnel only.
+
+#### 9 ####
+I said you can't go in.
+

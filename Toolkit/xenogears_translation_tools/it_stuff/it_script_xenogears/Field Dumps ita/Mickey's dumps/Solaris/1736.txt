@@ -1,0 +1,42 @@
+<TextBlock 1 w:30 h:2>
+Fei
+"Cos'è questo?"<Close><End of Block>
+<TextBlock 2 w:34 h:2>
+Fei
+"Non ne ho idea."<Close><End of Block>
+<TextBlock 3 w:16 h:2>
+Shitan
+"Mmh…"<Close><End of Block>
+<TextBlock 4 w:56 h:3>
+Shitan
+"Il suono che abbiamo
+udito nell'altra stanza
+è la parola chiave."<Close><End of Block>
+<TextBlock 5 w:50 h:3>
+Shitan
+"Deve esserci una
+parola chiave in
+una delle stanze."<Close><End of Block>
+<TextBlock 6 w:46 h:4>
+<Opcode 1 255>C'è una console per
+inserire la parola chiave.<Delay 10>
+    Immettila
+    No<Close><End of Block>
+<TextBlock 7 w:54 h:3>
+<Opcode 1 255>Attivare il segnale audio
+con i pulsanti direzionali
+Su, Giù, Sinistra, Destra.<New>
+Premere <Cross> per finire.
+Premere <Circle> per uscire.
+Prego, inserire ora il segnale…<Close><End of Block>
+<TextBlock 8 w:46 h:2>
+Segnale audio confermato.
+Apertura porta in corso.<Close><End of Block>
+<TextBlock 9 w:64 h:2>
+<Opcode 1 255>Password errata.
+Prego, inserire il
+segnale corretto.<Close><End of Block>
+<TextBlock 10 w:34 h:3>
+<Opcode 1 255>Annulli l'inserimento?<Delay 10>
+    Sì
+    No<Close><Close><End of Block>

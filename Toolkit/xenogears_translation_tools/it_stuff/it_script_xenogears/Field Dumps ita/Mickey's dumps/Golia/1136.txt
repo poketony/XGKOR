@@ -1,0 +1,13 @@
+<TextBlock 1 w:36 h:2>
+Hai troppe unità
+di Mica.<Close><End of Block>
+<TextBlock 2 w:30 h:2>
+ 
+ Ricevi Mica.<Close><End of Block>
+<TextBlock 3 w:36 h:3>
+Hai troppe unità
+di Pepita da
+trasportare.<Close><End of Block>
+<TextBlock 4 w:44 h:2>
+ 
+ Ricevi Pepita.<Close><Close><End of Block>

@@ -1,0 +1,95 @@
+#### 1 ####
+Fei
+(The part fits well.)
+
+#### 2 ####
+Fei
+(Replaced the broken part.)
+
+#### 3 ####
+Fei
+(It appears that some
+kind of 'fuse'-like
+device has blown.)
+
+#### 4 ####
+Fei
+(Nothing conspicuous.)
+
+#### 5 ####
+Fei
+(Found a 'fuse'-like
+device part.)
+
+#### 6 ####
+Fei
+(Some kind of device
+part is inside here.)
+
+#### 7 ####
+Fei
+(The power's cut off.)
+
+#### 8 ####
+Fei
+(Looks as if we will
+have to replace the
+broken part.)
+
+#### 9 ####
+Fei
+"I wonder if there is
+a replacement in that
+room back there?"
+
+#### 10 ####
+Fei
+"Huh?{wait:1E}
+What's that there...?"
+
+#### 11 ####
+Fei
+"Hmm.
+That door needs to
+be unlocked..."
+
+#### 12 ####
+Fei
+"Guess I'll look
+somewhere around
+here for it."
+
+#### 13 ####
+Door Lock System
+Area A
+
+#### 14 ####
+Door Lock System
+Area A
+
+#### 15 ####
+Door Lock System
+Area A
+
+#### 16 ####
+Area A is unlocked.
+
+#### 17 ####
+Door Lock System
+is now operational.
+
+#### 18 ####
+Door Lock Area A
+deactivated.
+
+#### 19 ####
+Done!
+
+#### 20 ####
+You have too many
+{str}.
+
+#### 21 ####
+ 
+ Received {str}.
+

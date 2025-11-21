@@ -1,0 +1,60 @@
+<TextBlock 1 w:16 h:2>
+Elly
+"Oh! …"<Opcode 2 30><Close><End of Block>
+<TextBlock 2 w:46 h:3>
+Elly
+"S… sì…
+… Mi chiedi perché…?<New>
+È terribilmente triste…
+e dall'aria familiare."<Close><End of Block>
+<TextBlock 3 w:32 h:4>
+Shitan
+"Elly… Ricordi
+d'aver già visto
+questo posto?"<Close><End of Block>
+<TextBlock 4 w:50 h:3>
+<Opcode 1 255>La connessione al database
+è stata inaspettatamente
+interrotta.<New>
+Se non si può ovviare al
+problema, si prega di
+contattare l'amministratore
+del sistema.<Close><End of Block>
+<TextBlock 5 w:34 h:4>
+<Opcode 1 255>Confermato lo stato
+di sicurezza interno
+del Reattore.
+Si prega di azzerare
+il livello d'emergenza.<Close><End of Block>
+<TextBlock 6 w:44 h:4>
+<Opcode 1 255>Azzerare il livello
+d'emergenza?
+     Azzera
+     Lascia stare<Close><End of Block>
+<TextBlock 7 w:42 h:4>
+<Opcode 1 255>Attendere, prego.<Delay 35>
+Azzeramento completato.
+Attualmente, il livello
+d'emergenza è normale.<Close><End of Block>
+<TextBlock 8 w:48 h:4>
+<Opcode 1 255>L'insuccesso dell'azzeramento
+del livello di emergenza
+impedirà l'utilizzo delle
+strutture del laboratorio
+principale.<Close><End of Block>
+<TextBlock 9 w:50 h:3>
+<Opcode 1 255>Livello d'emergenza: 5<New>
+Attualmente, è vietato
+l'accesso a tutti i
+database del laboratorio
+principale.<Close><End of Block>
+<TextBlock 10 w:46 h:2>
+<Opcode 1 255>Livello d'emergenza: 5<New>
+Attualmente, il reattore
+centrale è isolato.<Close><End of Block>
+<TextBlock 11 w:48 h:2>
+Non puoi ricevere <Opcode 4 18>
+perché ne hai già troppi.<Space 6><Close><End of Block>
+<TextBlock 12 w:38 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><Close><End of Block>

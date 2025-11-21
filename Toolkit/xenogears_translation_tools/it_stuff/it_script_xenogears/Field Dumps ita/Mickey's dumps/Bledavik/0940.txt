@@ -1,0 +1,137 @@
+<TextBlock 1 w:26 h:2>
+    Terzo Piano
+    Sotterraneo<Close><End of Block>
+<TextBlock 2 w:26 h:2>
+    Terzo Piano
+    Sotterraneo<Close><End of Block>
+<TextBlock 3 w:46 h:4>
+Shakhan
+"Dopo la cerimonia di
+consacrazione, si tiene
+abitualmente un Torneo…"<Close><End of Block>
+<TextBlock 4 w:50 h:3>
+Ramsus
+"Che cosa mi dici
+dell'incidente
+in quel rapporto?"<Close><End of Block>
+<TextBlock 5 w:54 h:4>
+Shakhan
+"Cosa?<New>
+Oh, sta parlando di
+quell'arma vecchia
+di 500 anni trovata
+nelle rovine?<New>
+Con l'aiuto della
+Chiesa, le riparazioni
+sono state completate.<New>
+Pensavo di fare
+l'annuncio il giorno
+della cerimonia di
+consacrazione…"<Close><End of Block>
+<TextBlock 6 w:46 h:3>
+Ramsus
+"Di quei giocattoli
+dovrebbe occuparsene
+Vanderkam.<New>
+Sto parlando del
+'Diaspro di Fatima'."<Close><End of Block>
+<TextBlock 7 w:48 h:3>
+Shakhan
+"Ho già ottenuto una
+metà del diaspro.<New>
+Ma non sono stato capace
+di farmi dire dove si
+trova l'altra metà.<New>
+È una ragazza con una
+volontà di ferro…"<Close><End of Block>
+<TextBlock 8 w:46 h:3>
+Ramsus
+"Non sei stato
+'scortese' con
+lei, vero?"<Close><End of Block>
+<TextBlock 9 w:44 h:4>
+Shakhan
+"Assolutamente no. Lei,
+signore, disprezza atti
+volgari come quelli."<Close><End of Block>
+<TextBlock 10 w:52 h:4>
+Ramsus
+"Hai detto che la
+ragazza è la Santa
+Madre di Nisan…<Delay 50><New>
+È al piano di sopra?"<Close><End of Block>
+<TextBlock 11 w:24 h:3>
+Shakhan
+"Sì, nella
+torre est."<Close><End of Block>
+<TextBlock 12 w:28 h:4>
+Ramsus
+"Miang, è possibile
+che lei sia un
+'Contenitore'?"<Close><End of Block>
+<TextBlock 13 w:54 h:4>
+Miang
+"Sì, ma non c'è ancora
+risposta. Sembra esserci
+una specie di barriera.<New>
+Comunque, dai dati in
+nostro possesso sappiamo
+che uno è sicuramente in
+questa zona.<New>
+Probabilmente è anche
+molto ben protetto."<Close><End of Block>
+<TextBlock 14 w:42 h:3>
+Ramsus
+"… Andiamo da lei.<New>
+Voglio parlarle faccia
+a faccia. Miang, tu
+verrai con me."<Close><End of Block>
+<TextBlock 15 w:20 h:2>
+Miang
+"Sissignore."<Close><End of Block>
+<TextBlock 16 w:40 h:4>
+Bart
+"Ehi, Fei!
+Sai dove porta
+questo ascensore?"<Close><End of Block>
+<TextBlock 17 w:36 h:3>
+Fei
+"Non lo so.
+Dove?"<Close><End of Block>
+<TextBlock 18 w:34 h:4>
+Bart
+"Sono io che lo
+chiedo a te! Questa
+cosa prima non c'era."<Close><End of Block>
+<TextBlock 19 w:36 h:4>
+Bart
+"Non preoccuparti.<New>
+Ti riporteremo a
+casa… in qualche
+modo."<Close><End of Block>
+<TextBlock 20 w:36 h:2>
+Margie
+"Non sono per nulla
+preoccupata."<Close><End of Block>
+<TextBlock 21 w:38 h:3>
+Bart
+"Ehi, Fei, com'è
+andato il Torneo?"<Close><End of Block>
+<TextBlock 22 w:26 h:3>
+Fei
+"Uh, ho vinto…
+Credo…"<Close><End of Block>
+<TextBlock 23 w:48 h:3>
+Bart
+"Come pensavo.
+Sapevo che ce l'avresti
+fatta."<Close><End of Block>
+<TextBlock 24 w:30 h:3>
+Fei
+"Comunque ho perso
+a metà strada…"<Close><End of Block>
+<TextBlock 25 w:30 h:4>
+Bart
+"Come!?
+Pensavo che avresti
+sicuramente vinto!"<Close><Close><End of Block>

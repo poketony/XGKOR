@@ -1,0 +1,479 @@
+<TextBlock 1 w:54 h:4>
+Margie
+"Le sorelle stanno
+ancora cantando, così
+non ci disturberanno."<Close><End of Block>
+<TextBlock 2 w:32 h:3>
+Margie
+"Andiamo nella
+sala del quadro.<New>
+Probabilmente le
+sorelle saranno di
+ritorno per allora."<Close><End of Block>
+<TextBlock 3 w:42 h:3>
+Margie
+"Chissà che tipo di
+persona era Sofia.<New>
+Mi sarebbe piaciuto
+poterla conoscere."<Close><End of Block>
+<TextBlock 4 w:48 h:1>
+Anch'io farò del
+mio meglio!<Close><End of Block>
+<TextBlock 5 w:54 h:2>
+Una nuova era si avvicina…<Delay 30>
+Dovrò fare del mio meglio!<Close><End of Block>
+<TextBlock 6 w:36 h:2>
+Sono tutti vivi!<Delay 30>
+Grazie a dio.<Close><End of Block>
+<TextBlock 7 w:54 h:2>
+Stiamo trascrivendo delle
+pergamene.<New>
+Quelle molto antiche sono
+molto delicate, così le
+restauriamo.<New>
+È uno dei nostri compiti
+quotidiani.<Close><End of Block>
+<TextBlock 8 w:28 h:1>
+Ora fate attenzione!<Close><End of Block>
+<TextBlock 9 w:54 h:4>
+Solo perché la monarchia
+è stata abolita, questo
+non significa che la pace
+automaticamente prevarrà.<New>
+D'ora in poi, i cittadini
+dovranno costruire il
+paese con le loro mani.<New>
+Senza dubbio, una dura
+prova ci attende.<Close><End of Block>
+<TextBlock 10 w:52 h:1>
+Grazie a dio siete salva!<Close><End of Block>
+<TextBlock 11 w:52 h:3>
+Perché la guerra non
+scompare da questo mondo?<New>
+A me sembra così chiaro
+che essa è inutile…<New>
+Forse è il nostro destino
+quello di essere sempre
+in discordia gli uni
+con gli altri?<Close><End of Block>
+<TextBlock 12 w:46 h:2>
+Noi guardiamo avanti,
+verso l'alba di un
+mondo nuovo!<Close><End of Block>
+<TextBlock 13 w:56 h:4>
+Riconoscere l'esistenza
+di Solaris potrebbe portare
+ad una nuova visione della
+ortodossia di Nisan.<New>
+In un certo senso, credo
+che siamo ad un nuovo
+punto di partenza.<Close><End of Block>
+<TextBlock 14 w:50 h:3>
+Dopo aver visto tutti di
+buonumore, un nuovo senso
+di speranza è in me!<Close><End of Block>
+<TextBlock 15 w:60 h:3>
+La strada che dobbiamo
+intraprendere è là fuori
+da qualche parte.<New>
+Una strada diversa dalla
+confusione che stiamo
+ora affrontando…<New>
+La sorella seduta qui con
+me sta disperatamente
+cercando una risposta.<Close><End of Block>
+<TextBlock 16 w:60 h:4>
+Ho pensato che le future
+generazioni dovrebbero
+conoscere voi e le
+vostre vicissitudini.<New>
+Così ho discusso con Suor
+Agnese e abbiamo deciso che
+i vostri viaggi ed esperienze
+debbano essere registrati.<New>
+Per questa ragione,<Delay 30>
+per favore tornate vivi!<New>
+Le vostre imprese saranno
+ricordate di generazione
+in generazione!<Close><End of Block>
+<TextBlock 17 w:46 h:2>
+(…<Delay 30> Da qualche parte…<Delay 30>
+Deve esserci per forza…<New>
+La verità che ancora
+non conosciamo.)<Close><End of Block>
+<TextBlock 18 w:40 h:1>
+Oh!?<Delay 30> Che spavento.<Close><End of Block>
+<TextBlock 19 w:44 h:2>
+Fei
+"Sei molto devota."<Close><End of Block>
+<TextBlock 20 w:52 h:4>
+Uh, abbastanza…<New>
+Dopo la mia visita nella
+capitale ho iniziato a
+pensare ad un mucchio
+di cose…<New>
+E infine ho realizzato<Delay 30>
+che il mondo non sta
+andando nella giusta
+direzione!<Close><End of Block>
+<TextBlock 21 w:54 h:2>
+Sì,<Delay 30> il mondo non va
+nella giusta direzione!<Close><End of Block>
+<TextBlock 22 w:54 h:2>
+Sì, <Delay 30> il mondo non va
+nella giusta direzione!<Close><End of Block>
+<TextBlock 23 w:50 h:3>
+Le altre sono andate
+ad aiutare i cittadini
+a fuggire.<New>
+Sono qui per aiutare
+Suor Agnese a badare
+a se stessa e alle altre
+cose da fare qui.<Close><End of Block>
+<TextBlock 24 w:56 h:3>
+Avere proclamato una
+repubblica di sua
+volontà è stata
+una cosa fantastica.<New>
+Sarebbe grande se
+Bartolomeo diventasse
+presidente.<New>
+Ma così le cose non
+sarebbero molto diverse
+da come sono ora, vero?<New>
+Comunque, credo che
+Padron Bartolomeo
+andrebbe bene.<Close><End of Block>
+<TextBlock 25 w:48 h:4>
+Agnese
+"Colei dipinta sul quadro
+nella sala del dipinto è
+Sofia.<New>
+Lei è la prima grande
+madre di Nisan.<New>
+Secondo la leggenda,
+quel quadro fu
+dipinto circa 500
+anni fa.<Close><End of Block>
+<TextBlock 26 w:48 h:3>
+Agnese
+"Capisco bene che vi
+sia stato mostrato il
+ritratto di Sofia.<New>
+La signora dipinta in
+quel quadro è la grande
+madre fondatrice di
+Nisan…<New>
+Qualcuno dice che quel
+quadro sia stato dipinto
+oltre 500 anni fa.<Close><End of Block>
+<TextBlock 27 w:52 h:4>
+Shitan
+"500 anni fa…<Delay 30>
+È davvero sorprendente.<New>
+Personalmente, lo trovo
+intrigante. Ha per caso
+altro materiale storico
+su quel periodo?<Close><End of Block>
+<TextBlock 28 w:54 h:3>
+Agnese
+"In realtà, non vi è
+alcun materiale.<New>
+Tutto ciò che riguardava
+Sofia è andato perso…<New>
+Il ritratto è la sola
+cosa rimasta.<New>
+Neanche noi sappiamo
+molto di lei."<Close><End of Block>
+<TextBlock 29 w:44 h:4>
+Shitan
+"È un vero peccato!
+Davvero non è
+rimasto alcunché!?"<Close><End of Block>
+<TextBlock 30 w:56 h:4>
+Agnese
+"Lei ha aiutato Margherita,
+e mi piacerebbe condividere
+tutto quello che so…<New>
+Ma, sfortunatamente, non
+posso aiutarla…"<Close><End of Block>
+<TextBlock 31 w:52 h:4>
+Shitan
+"Oh, non importa.
+È solo che la cosa ha
+acceso la mia curiosità."<Close><End of Block>
+<TextBlock 32 w:54 h:4>
+Shitan
+"Comunque, c'è
+qualcosa di strano…<New>
+Se un edificio maestoso
+come questo è arrivato
+intatto fino a noi…<New>
+… come mai ci sono
+giunte così poche
+informazioni del
+periodo?"<Close><End of Block>
+<TextBlock 33 w:54 h:4>
+Agnese
+"Secondo la tradizione,
+Sofia visse circa 500
+anni fa…<New>
+Sacrificò se stessa per
+gli uomini e fu assunta
+in cielo per essere al
+fianco di dio.<New>
+Questo è tutto ciò
+che posso dirle."<Close><End of Block>
+<TextBlock 34 w:50 h:4>
+Shitan
+"… Capisco.<Delay 30>
+Ogni cosa è andata persa
+nel buio della storia."<Close><End of Block>
+<TextBlock 35 w:50 h:5>
+Agnese
+"Prima ho parlato con
+Margherita, e credo di
+aver capito che state
+per andare ad Aveh."<Close><End of Block>
+<TextBlock 36 w:46 h:4>
+Bart
+"Sì. Potremmo causare
+un po' di problemi alla
+gente di Nisan…<New>
+Ma è qualcosa che non
+posso evitare."<Close><End of Block>
+<TextBlock 37 w:56 h:3>
+Agnese
+"Sì, capisco.<New>
+Allora, se mi permette
+vorrei esprimere ciò
+che sento…<New>
+Vorrei tanto che trovaste
+un modo per riportare la
+pace in questo paese senza
+spargimenti di sangue…<New>
+Ma non tenterò di fermarvi
+ora, Padron Bartolomeo.<New>
+So che la vostra è stata
+una decisione sofferta.<New>
+Noi di Nisan saremo
+sempre al vostro fianco."<Close><End of Block>
+<TextBlock 38 w:32 h:2>
+Bart
+"Grazie, Sorella."<Close><End of Block>
+<TextBlock 39 w:12 h:2>
+Fei
+"Già."<Close><End of Block>
+<TextBlock 40 w:32 h:3>
+Agnese
+"Dov'è Padron
+Bartolomeo?"<Close><End of Block>
+<TextBlock 41 w:42 h:3>
+Fei
+"È in città a parlare
+con Margie."<Close><End of Block>
+<TextBlock 42 w:56 h:3>
+Agnese
+"È con la mia bambina.<Delay 30>
+Per favore, digli…<New>
+ 'Saremo sempre con te,
+ Padron Bartolomeo.'"<Close><End of Block>
+<TextBlock 43 w:44 h:3>
+Fei
+"Di sicuro glielo
+dirò, Sorella."<Close><End of Block>
+<TextBlock 44 w:48 h:4>
+Agnese
+"Colei dipinta sul quadro
+nella sala del quadro è
+Sofia.<New>
+Lei è la prima grande
+madre di Nisan.<New>
+Secondo la leggenda,
+quel quadro fu
+dipinto circa 500
+anni fa.<Close><End of Block>
+<TextBlock 45 w:48 h:3>
+Agnese
+"Capisco che vi sia 
+stato mostrato il
+ritratto di Sofia.<New>
+La signora dipinta in
+quel quadro è la grande
+madre fondatrice di
+Nisan…<New>
+Qualcuno dice che quel
+quadro è stato dipinto
+oltre 500 anni fa.<Close><End of Block>
+<TextBlock 46 w:52 h:4>
+Shitan
+"500 anni fa…<Delay 30>
+È davvero sorprendente.<New>
+Personalmente, lo trovo
+intrigante. Hai altro
+materiale storico su
+quel periodo?<Close><End of Block>
+<TextBlock 47 w:54 h:3>
+Agnese
+"In realtà, non vi è
+alcun materiale.<New>
+Tutto ciò che riguardava
+Sofia è andato perso…<New>
+Il ritratto è la sola
+cosa rimasta.<New>
+Neanche noi sappiamo
+molto di lei."<Close><End of Block>
+<TextBlock 48 w:44 h:4>
+Shitan
+"È un vero peccato!
+Davvero non è
+rimasto alcunché!?"<Close><End of Block>
+<TextBlock 49 w:56 h:4>
+Agnese
+"Hai aiutato Margherita, e
+mi piacerebbe condividere
+tutto quello che so…<New>
+Ma sfortunatamente non
+posso aiutarti…"<Close><End of Block>
+<TextBlock 50 w:52 h:4>
+Shitan
+"Oh, non importa.
+È solo che la cosa ha
+acceso la mia curiosità."<Close><End of Block>
+<TextBlock 51 w:54 h:4>
+Shitan
+"Comunque, c'è
+qualcosa di strano…<New>
+Se un edificio maestoso
+come questo è arrivato
+intatto fino a noi…<New>
+… come mai ci sono
+giunti così pochi dati
+del periodo?"<Close><End of Block>
+<TextBlock 52 w:54 h:4>
+Agnese
+"Secondo la tradizione,
+Sofia visse circa 500
+anni fa…<New>
+Sacrificò se stessa per
+gli uomini e fu assunta
+in cielo per essere al
+fianco di dio.<New>
+Questo è tutto ciò
+che posso dirti."<Close><End of Block>
+<TextBlock 53 w:50 h:4>
+Shitan
+"… Capisco.<Delay 30>
+Ogni cosa è andata persa
+nel buio della storia."<Close><End of Block>
+<TextBlock 54 w:50 h:5>
+Agnese
+"Prima ho parlato con
+Margherita, e credo di
+aver capito che state
+per andare ad Aveh."<Close><End of Block>
+<TextBlock 55 w:46 h:4>
+Bart
+"Sì. Potremmo causare
+un po' di problemi alla
+gente di Nisan…<New>
+Ma è qualcosa che non
+posso evitare."<Close><End of Block>
+<TextBlock 56 w:56 h:3>
+Agnese
+"Sì, capisco.<New>
+Allora, se mi permette
+vorrei esprimere ciò
+che sento…<New>
+Vorrei tanto che trovaste
+un modo per riportare la
+pace in questo paese senza
+spargimenti di sangue…<New>
+Ma non tenterò di fermarvi
+ora, Padron Bartolomeo.<New>
+So che la vostra è stata
+una decisione sofferta.<New>
+Noi di Nisan saremo
+sempre al vostro fianco."<Close><End of Block>
+<TextBlock 57 w:32 h:2>
+Bart
+"Grazie, Sorella."<Close><End of Block>
+<TextBlock 58 w:12 h:2>
+Fei
+"Già."<Close><End of Block>
+<TextBlock 59 w:32 h:3>
+Agnese
+"Dov'è Padron
+Bartolomeo?"<Close><End of Block>
+<TextBlock 60 w:42 h:3>
+Fei
+"È in città a parlare
+con Margie."<Close><End of Block>
+<TextBlock 61 w:56 h:3>
+Agnese
+"È con la mia bambina.<Delay 30>
+Per favore digli…<New>
+ 'Saremo sempre con te,
+ Padron Bartolomeo.'"<Close><End of Block>
+<TextBlock 62 w:44 h:3>
+Fei
+"Di sicuro glielo dirò,
+Sorella."<Close><End of Block>
+<TextBlock 63 w:42 h:4>
+Agnese
+"Voi tutti sarete
+sempre nelle mie
+preghiere."<Close><End of Block>
+<TextBlock 64 w:54 h:3>
+Agnese
+"Siete tutti sani e salvi!
+Oh<Delay 30>… Grazie al cielo.<New>
+Dov'è Margherita?<New>
+Riferitele pure che qui
+va tutto per il meglio."<Close><End of Block>
+<TextBlock 65 w:48 h:4>
+Agnese
+"Spero che nulla sia
+accaduto alla salma
+della grande madre…<New>
+Se il mausoleo viene
+danneggiato, non avrò più
+alcuna ragione di vita."<Close><End of Block>
+<TextBlock 66 w:54 h:4>
+Bart
+"Non essere troppo
+dura con te stessa.<New>
+Le tue sorelle hanno
+fatto del loro meglio
+per proteggere la città.
+Lascia il resto a noi."<Close><End of Block>
+<TextBlock 67 w:54 h:4>
+Agnese
+"Finalmente possiamo
+creare il paese che
+l'ultimo re e la Grande
+Madre desideravano.<New>
+Spero solo di potere
+essere d'aiuto a Padron
+Bartolemeo.<New>
+Ma prima di fare ciò che
+deve essere fatto, bisogna
+capire la vera relazione
+fra Bartolomeo e Margherita…<New>
+Ma, a pensarci bene,
+è una cosa che tocca
+a loro risolvere…"<Close><End of Block>
+<TextBlock 68 w:56 h:5>
+Agnese
+"Per tramandare ai posteri
+le vostre imprese, abbiamo
+deciso di registrare la
+vostra avventura…<New>
+Come coloro che, con la
+Grande Madre Margherita,
+ci hanno guidato verso un
+mondo migliore…<New>
+Vivrete per sempre nei
+cuori e nelle menti
+delle persone che vivono
+su questo pianeta."<Close><Close><End of Block>

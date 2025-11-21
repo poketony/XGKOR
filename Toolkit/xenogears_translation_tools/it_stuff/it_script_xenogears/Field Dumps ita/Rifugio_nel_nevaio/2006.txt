@@ -1,0 +1,137 @@
+<TextBlock 1 w:54 h:4>
+Fei
+"Elly tornerà la persona
+che era prima! Io continuo
+a crederlo.<New>
+Ma anche se questo non
+accadesse… io, comunque…<New>
+… Beh, diciamo che
+sono anche preparato
+per quello!"<Close><End of Block>
+<TextBlock 2 w:52 h:4>
+Zefiro
+"Non devi per forza
+farlo, se non vuoi,
+lo sai.<New>
+Il tuo nemico è la
+persona che ami…<New>
+Se decidi di tirarti
+indietro, nessuno ti
+biasimerà."<Close><End of Block>
+<TextBlock 3 w:54 h:4>
+Fei
+"Farlo sarebbe una
+cosa senza senso.<New>
+A quel punto, tutto ciò
+per cui ho combattuto,
+per cui ho vissuto, non
+avrebbe più senso…<New>
+La gente dovrebbe
+essere libera.<New>
+Con nessuno prigioniero di
+nessuno, e nessuno che
+imprigiona nessuno…<New>
+Dentro di me, c'è una
+parte del mio io che
+desidera questa libertà…<New>
+… ed un'altra parte
+che mi dà la speranza.<New>
+Perciò… io combatterò
+per vincere la vera
+libertà! E questo perché
+noi siamo ancora vivi!<New>
+Noi combattiamo per
+vivere. Questa è la
+ragione per la quale
+combatto.<New>
+È la prova che io sono
+un essere umano.<New>
+Ho promesso a mio padre,
+ed anche a me stesso,
+che avrei liberato Elly
+dalle catene di Deus…<New>
+… che l'avrei salvata…"<Close><End of Block>
+<TextBlock 4 w:54 h:4>
+Zefiro
+"Capisco.<Delay 20><New>
+Allora, continuiamo
+a crederci… E speriamo
+in un miracolo…"<Close><End of Block>
+<TextBlock 5 w:52 h:4>
+Fei
+"Secondo quanto ha detto
+il dottore, adesso sta
+molto meglio.<New>
+Sembra poi che Kahr
+abbia ritrovato la
+voglia di vivere."<Close><End of Block>
+<TextBlock 6 w:50 h:4>
+Fei
+"Sono successe così
+tante cose tra me
+e lui…<New>
+Non appena questa
+battaglia finirà,
+voglio combattere
+con Ramsus…<New>
+Uno contro uno, ma
+come sport, non come
+guerra, e come maestro
+di arti marziali."<Close><End of Block>
+<TextBlock 7 w:24 h:2>
+Fei
+"Forse…"<Close><End of Block>
+<TextBlock 8 w:50 h:4>
+Shitan
+"Sì, beh, all'inizio, lui
+aveva perso la fiducia in
+se stesso…<New>
+… ma ora va meglio.<Delay 50> Kahr
+è riuscito a tornare a
+vivere, ed ha trovato il
+vero senso della sua vita.<New>
+Qualora decida di
+combattere al nostro
+fianco, il nostro potere
+nella lotta…<New>
+… s'accrescerebbe
+notevolmente."<Close><End of Block>
+<TextBlock 9 w:54 h:4>
+Zefiro
+"La neve continua a
+cadere<Delay 20>…<New>
+… coprendo delicatamente
+tutto ciò che c'è in
+questo mondo…<New>
+Il nostro dolore, la
+nostra corruzione, i
+nostri errori<Delay 20>…<New>
+Soltanto potessimo
+mondare quelle cose
+tanto facilmente…<New>
+Cos'abbiamo…<Delay 20> cosa ho…<Delay 20><Space 1>
+fatto…<Delay 20> cosa ho cercato
+di ottenere…<Delay 20> in questi
+ultimi 500 anni?"<Close><End of Block>
+<TextBlock 10 w:42 h:4>
+Zefiro
+"A proposito…<Delay 20> Come sta
+la persona che avete
+salvato dal Merkabah?<New>
+Ho sentito dire
+che abbia ripreso
+conoscenza…"<Close><End of Block>
+<TextBlock 11 w:40 h:3>
+Zefiro
+"Sono sicura che anche
+lui desideri la stessa
+cosa."<Close><End of Block>
+<TextBlock 12 w:52 h:4>
+Zefiro
+"Fei… Posso chiederti
+una cosa?<Delay 20> Si tratta
+di Elly<Delay 20>…<New>
+Cosa faresti se, qualora
+riuscissimo a rompere il
+sortilegio di Deus, lei
+non tornasse normale…?"<Close><Close><End of Block>

@@ -1,0 +1,44 @@
+<TextBlock 1 w:2 h:1>
+!<Opcode 2 15><Close><End of Block>
+<TextBlock 2 w:58 h:6>
+Sofia
+"La fede<Delay 3> in dio<Delay 3>… Non<Delay 3> cercatela
+<Delay 3>all'esterno<Delay 3>…<Delay 3> poiché essa<Delay 3> è
+<Delay 3>una cosa<Delay 3> che<Delay 3> si deve<Delay 3> concepire<Delay 3>
+dentro<Delay 3> se<Delay 3> stessi<Delay 10>…"<Opcode 2 120><Close><End of Block>
+<TextBlock 3 w:36 h:3>
+Krelian
+"Era molto tempo che non
+ci vedevamo, <Delay 5>Lacan."<Close><End of Block>
+<TextBlock 4 w:26 h:3>
+Lacan
+"Krelian…<Delay 15>
+Sei tornato?"<Close><End of Block>
+<TextBlock 5 w:42 h:3>
+Krelian
+"Sono tornato solo
+ieri notte<Delay 15>…<New>
+Tu eri tornato a casa
+per andare a prendere
+dei colori per il
+ritratto, giusto?<New>
+Me l'ha detto Sofia.<Delay 30><New>
+Permettimi di
+accompagnarti."<Close><End of Block>
+<TextBlock 6 w:30 h:2>
+Lacan
+"Sei sicuro?"<Close><End of Block>
+<TextBlock 7 w:50 h:4>
+Krelian
+"Sì.<Delay 10>
+Lascerò qualcun altro in
+comando della mia unità.<New>
+Per colpa di Solaris, in
+questi giorni il pericolo
+è sempre dietro l'angolo<Delay 30>…<New>
+Comunque,<Delay 5> ti sentiresti
+più al sicuro se tu fossi
+assieme a me?"<Close><End of Block>
+<TextBlock 8 w:24 h:2>
+Lacan
+"<Delay 5>…<Delay 5> Ti ringrazio."<Close><Close><End of Block>

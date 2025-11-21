@@ -1,0 +1,172 @@
+#### 1 ####
+Who will play?
+    {name:80:unknown}
+    {name:81:unknown}
+
+#### 2 ####
+Who will play?
+    {name:80:unknown}
+    {name:81:unknown}
+    {name:82:unknown}
+
+#### 3 ####
+One-two
+
+#### 4 ####
+Really quit?
+    No
+    Yes
+
+#### 5 ####
+Ready? {clear:1E}
+
+#### 6 ####
+Start!
+
+#### 7 ####
+You thought I'd battle
+right off? Get real!
+Only the fast do well
+at this game.
+It's a card game for
+'men of the sea'.
+
+#### 8 ####
+I'll explain the rules to you.
+First I deal you and your
+opponent 26 cards each.
+
+#### 9 ####
+Then I will place 4 cards
+in front of each player
+as your current hands.
+
+#### 10 ####
+And then, I place another
+card on the left hand side
+looking from your viewpoint.
+
+#### 11 ####
+Up to here I do automatically
+for you. But from here on the
+game starts.{enter}
+You must take your first 4
+cards and the remaining 21
+cards and place them all on
+top of the two center cards
+faster than your opponent can.{enter}
+Of course there are certain
+rules for placing the cards.
+
+#### 12 ####
+Place a card on top of
+another card if it is
+numerically in order.
+Like one number higher...
+
+#### 13 ####
+In this case, where there
+is a 3 you can play a 4.
+
+#### 14 ####
+Or one number lower...
+
+#### 15 ####
+In this case, where there
+is a 4 you can play a 3.
+
+#### 16 ####
+But if the numbers
+aren't in order...
+
+#### 17 ####
+you can't play the card. But,
+if there is a K (13) you can
+play an A (1) and vice versa.
+
+#### 18 ####
+Now I'll teach you how
+to control the cards.
+First...{enter}
+To move a card from your
+deck into an empty position
+in the hand of 4 cards in
+front of you, use Left and
+Right on the Directional
+button to pick the position.{enter}
+Then use either the
+¡õ button, ¡÷ button,
+L1 button, or R1 button
+to place the card.
+
+#### 19 ####
+And to play a card, 
+move on top of the card
+you want to play...
+
+#### 20 ####
+And press the ¡÷ button
+or R1 button to play on
+the right...
+
+#### 21 ####
+Or press the ¡õ button
+or L1 button to play on
+the left.
+
+#### 22 ####
+Of course your opponent 
+is also playing cards.
+
+#### 23 ####
+What if neither of you
+can play a card, even
+after replacing the set of
+4 cards in front of you?{enter}
+In this case there will be a
+call of 'one-two', and a card
+will be played directly from
+your remaining pile of cards.
+
+#### 24 ####
+One-two
+
+#### 25 ####
+If both players still can't
+play, this will be repeated.
+
+#### 26 ####
+If there are no remaining
+cards on your pile to play
+at the 'one-two' call...{enter}
+then the left-most card from
+the set of cards in front of
+you will be played directly.
+
+#### 27 ####
+One-two
+
+#### 28 ####
+And...
+
+#### 29 ####
+The first player to use
+up all their cards wins.
+In this case you lose.
+
+#### 30 ####
+Oh, and one more thing.{enter}
+By pushing the Select button,
+you can quit a game midway
+through. But of course this
+will mean you lose.
+
+#### 31 ####
+By the way, there are
+lots of good players
+onboard the Thames.{enter}
+How about starting off
+by playing my mate here?
+    Sure
+    No thanks
+

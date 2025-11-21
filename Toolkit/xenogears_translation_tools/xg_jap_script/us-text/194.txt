@@ -1,0 +1,1551 @@
+#### 1 ####
+Fei
+"{wait:05}...{wait:05}So{wait:0F} this is the
+Battling Arena."
+
+#### 2 ####
+Fei
+"{wait:05}...{wait:05}Hmn!?"
+
+#### 3 ####
+Gate Keeper
+"Beyond here is the
+competitors' Gear storage
+paddock.{enter}
+Sorry, but to prevent pilots
+from cheating, unauthorized
+entry is not permitted."
+
+#### 4 ####
+Supervisor
+"{wait:05}...{wait:05}Beyond here is the
+competitors' Gear storage
+paddock.{enter}
+To prevent cheating,
+unauthorized entry is
+prohibited. Please
+keep back{wait:05}..."
+
+#### 5 ####
+Supervisor
+"The Battling Contest is now
+in recess. I'm afraid I'll 
+have to ask you to leave."
+
+#### 6 ####
+Informationist
+"Nothing learned nothing 
+gained. Ask and you shall
+receive{wait:05}...{wait:05}perhaps.{enter}
+Anyway, 'Battler', what do
+you need to know about the
+Battling Contest?"
+
+#### 7 ####
+Informationist
+"What shall I explain?"{wait:0F}
+{fast:FF}    What's Battling?
+    Basic controls
+    I'm alright thanks!
+
+#### 8 ####
+Informationist
+"...{wait:05}Fei, sir,{wait:05} you haven't
+registered your Gear yet.{wait:1E}
+But I can explain the basic
+controls if you like{wait:05}...?
+
+#### 9 ####
+Fei
+"Battling control method?"{wait:05}
+    Please explain
+    No thank you
+
+#### 10 ####
+Informationist
+"{wait:05}...{wait:05}Oh{wait:05}...{wait:05}well{wait:05}...{wait:0F}
+Anything else you 
+want to know?"
+
+#### 11 ####
+Receptionist
+"Today's Battling matches
+have all finished. {wait:0F} Please
+come again."
+
+#### 12 ####
+Received '2500G' in prize money!
+
+#### 13 ####
+Receptionist
+"Oh and Supervisor B will
+pay you a special bonus.
+Keep up the good work!"
+
+#### 14 ####
+Received '800G' bonus!
+
+#### 15 ####
+Received '2000G' in prize money!
+
+#### 16 ####
+Receptionist
+"Oh and Supervisor B will
+pay you a special bonus.
+Keep up the good work!"
+
+#### 17 ####
+Received '500G' bonus!
+
+#### 18 ####
+Received '1500G' in prize money!
+
+#### 19 ####
+Receptionist
+"Oh and Supervisor B will
+pay you a special bonus.
+Keep up the good work!"
+
+#### 20 ####
+Received '400G' bonus!
+
+#### 21 ####
+Received '2500G' in prize money!
+
+#### 22 ####
+Receptionist
+"Oh and Supervisor B will
+pay you a special bonus.
+Keep up the good work!"
+
+#### 23 ####
+Received '1000G' bonus!
+
+#### 24 ####
+Received '2000G' in prize money!
+
+#### 25 ####
+Receptionist
+"Oh and Supervisor B will
+pay you a special bonus.
+Keep up the good work!"
+
+#### 26 ####
+Received '600G' bonus!
+
+#### 27 ####
+Received '1500G' in prize money!
+
+#### 28 ####
+Receptionist
+"Oh and Supervisor B will
+pay you a special bonus.
+Keep up the good work!"
+
+#### 29 ####
+Received '500G' bonus!
+
+#### 30 ####
+Received '2500G' in prize money!
+
+#### 31 ####
+Received '2000G' in prize money!
+
+#### 32 ####
+Received '1500G' in prize money!
+
+#### 33 ####
+Received '1000G' in prize money!
+
+#### 34 ####
+Receptionist
+"Oh and Supervisor B will
+pay you a special bonus.
+Keep up the good work!"
+
+#### 35 ####
+Received '300G' bonus!
+
+#### 36 ####
+Received '750G' in prize money!
+
+#### 37 ####
+Receptionist
+"Oh and Supervisor B will
+pay you a special bonus.
+Keep up the good work!"
+
+#### 38 ####
+Received '200G' bonus!
+
+#### 39 ####
+Received '1000G' in prize money!
+
+#### 40 ####
+Receptionist
+"Oh and Supervisor B will
+pay you a special bonus.
+Keep up the good work!"
+
+#### 41 ####
+Received '400G' bonus!
+
+#### 42 ####
+Received '750G' in prize money!
+
+#### 43 ####
+Receptionist
+"Oh and Supervisor B will
+pay you a special bonus.
+Keep up the good work!"
+
+#### 44 ####
+Received '300G' bonus!
+
+#### 45 ####
+Received '1000G' in prize money!
+
+#### 46 ####
+Received '750G' in prize money!
+
+#### 47 ####
+Received '500G' in prize money!
+
+#### 48 ####
+Receptionist
+"Oh and Supervisor B will
+pay you a special bonus.
+Keep up the good work!"
+
+#### 49 ####
+Received '200G' bonus!
+
+#### 50 ####
+Received '300G' in prize money!
+
+#### 51 ####
+Receptionist
+"Oh and Supervisor B will
+pay you a special bonus.
+Keep up the good work!"
+
+#### 52 ####
+Received '100G' bonus!
+
+#### 53 ####
+Received '500G' in prize money!
+
+#### 54 ####
+Receptionist
+"Oh and Supervisor B will
+pay you a special bonus.
+Keep up the good work!"
+
+#### 55 ####
+Received '300G' bonus!
+
+#### 56 ####
+Received '300G' in prize money!
+
+#### 57 ####
+Receptionist
+"Oh and Supervisor B will
+pay you a special bonus.
+Keep up the good work!"
+
+#### 58 ####
+Received '200G' bonus!
+
+#### 59 ####
+Received '500G' in prize money!
+
+#### 60 ####
+Received '300G' in prize money!
+
+#### 61 ####
+Rue
+"Are you ready?"{wait:0F}
+{fast:FF}    Not yet!
+    You bet!
+
+#### 62 ####
+Rue
+"As I said before, there's
+not much time,{wait:05} so do hurry!"
+
+#### 63 ####
+Rue
+"Very well then{wait:05}...{wait:0F}
+Over there please{wait:05}..."
+
+#### 64 ####
+Rue
+"{wait:05}...{wait:05}It's that way!"
+
+#### 65 ####
+Rue
+"Beyond there is the Gear
+paddock{wait:05}...{wait:05}{enter}
+Not much time till the
+first bout. You had better
+hurry{wait:05}..."
+
+#### 66 ####
+Subordinate
+"If your preparations are
+complete then talk to Rue."
+
+#### 67 ####
+Subordinate
+"???"{clear:2D}
+
+#### 68 ####
+Subordinate
+"Rue, ma'am, {wait:05}what shall we do?"
+
+#### 69 ####
+Subordinate
+"Yes,{wait:05} ma'am!"{clear:2D}
+
+#### 70 ####
+Subordinate
+"There's not much time till
+the first bout so please 
+don't leave the arena."{clear:3C}
+
+#### 71 ####
+Subordinate
+"If your preparations are
+complete then talk to Rue."
+
+#### 72 ####
+Subordinate
+"???"{clear:2D}
+
+#### 73 ####
+Subordinate
+"Rue, ma'am, {wait:05}what shall we do?"
+
+#### 74 ####
+Subordinate
+"Yes,{wait:05} ma'am!"{clear:2D}
+
+#### 75 ####
+Subordinate
+"There's not much time till
+the first bout so please 
+dont't leave the arena."{clear:3C}
+
+#### 76 ####
+Hammer
+"I'm a mechanic, {wait:05}so I took
+the liberty to set up shop
+here for a while.{enter}
+Let's not waste time, {wait:05}bro,{wait:0A}
+care to to make a purchase?"{wait:0F}
+{fast:FF}    Not now!
+    'spose I have to.
+
+#### 77 ####
+Hammer
+"Oh yeah, {wait:05}and while I'm 
+here I deal in Gear parts
+instead of accessories."
+
+#### 78 ####
+Hammer
+"Yeah! {wait:05}That's my bro!{wait:0A}
+You're too kind man!
+Much appreciated!"
+
+#### 79 ####
+Hammer
+"What you be needin' bro?"{wait:0F}
+{fast:FF}    Hammer's items
+    Hammer's Gear parts
+
+#### 80 ####
+Hammer
+"The procedures were quite
+sudden so the approval for{enter}
+servicing Gear parts won't
+make it in time for the 
+first bouts.{enter}
+Oh and bro, you haven't 
+been allocated a Gear yet.
+{wait:05}...{wait:05}I wonder what Gear they
+will give you{wait:05}...?"
+
+#### 81 ####
+Hammer
+"Thanks bro, but how about
+buying something else apart
+from items?{enter}
+It'll help Hammer out too!{wait:1E}
+{fast:FF}    Enough already!
+    Hammer's items
+    Hammer's Gear Parts
+
+#### 82 ####
+Hammer
+"OK, {wait:05}now for the Battling.
+Do your best, {wait:05}bro!{wait:0F}
+For Hammer's future t{wait:05}..."
+
+#### 83 ####
+!?{clear:0F}
+
+#### 84 ####
+{fast:FF}Hammer
+"Forget it!"
+
+#### 85 ####
+Hammer
+"The procedures were quite
+sudden so the approval for{enter}
+servicing Gear parts won't
+make it in time for the 
+first bouts.{enter}
+Oh and bro, you haven't 
+been allocated a Gear yet.
+{wait:05}...{wait:05}I wonder what Gear they
+will provide you with{wait:05}...{wait:05}?"
+
+#### 86 ####
+Hammer
+"Thanks bro, but how about
+buying something else apart
+from Gear parts?{enter}
+It'll help Hammer out too!{wait:1E}
+{fast:FF}    Enough already!
+    Hammer's items
+    Hammer's Gear Parts
+
+#### 87 ####
+Hammer
+"OK, {wait:05}now for the Battling.
+Do your best, {wait:05}bro.!{wait:0F}
+For Hammer's future t{wait:05}..."
+
+#### 88 ####
+!?{clear:0F}
+
+#### 89 ####
+{fast:FF}Hammer
+"Forget it!"
+
+#### 90 ####
+Hammer
+"The procedures were quite
+sudden so the approval for{enter}
+servicing Gear parts won't
+make it in time for the
+first bouts.{enter}
+Oh and bro, you haven't
+been allocated a Gear yet.
+{wait:05}...{wait:05}I wonder what Gear they
+will provide you with{wait:05}...{wait:05}?"
+
+#### 91 ####
+Citan
+"{wait:05}...{wait:05}Or the reception
+area to be exact."
+
+#### 92 ####
+Receptionist
+"This year's Imperial Games
+are held over 5 days. The
+first 3 days are decided 
+with a 2 match victory{wait:05}...{enter}
+The qualifiers go on to
+compete in the second and
+third days' bouts{wait:05}...{enter}
+Those who win 3 battles in
+the semi-final bouts on the
+fourth day, qualify for the
+last-day's Finals League."
+
+#### 93 ####
+Receptionist
+"By the way, Fei, sir, your
+opponents in today's matches
+are{wait:05}...{wait:05}Leonardo Sniper in the
+first bout{wait:05}...{enter}
+and if you win against him 
+then for the second bout you
+fight{wait:05}...{wait:05}Heinrich Clive."
+
+#### 94 ####
+Receptionist
+"Your entry has already been
+made. {wait:0F}Please follow the
+supervisor's instructions to
+compete in your first bout."
+
+#### 95 ####
+Receptionist
+"Due to sudden mechanical
+trouble, your competitor for
+yesterday, Leonardo Sniper,
+has had to drop out{wait:05}...{enter}
+Heinrich Clive has also had
+mechanical problems and has
+pulled out. {wait:0F}This means you,
+Fei, win by default and can
+compete in day 2's bouts!"
+
+#### 96 ####
+Receptionist
+"If you win 2 matches today,
+the second day of the games,
+you can progress on to the
+third set of bouts.{enter}
+Do you want to enter the 
+bouts for day two?"{wait:0F}
+{fast:FF}    Don't enter
+    Let me Enter!
+
+#### 97 ####
+Receptionist
+"It's the last bout for day
+two. Win this to qualify for
+day three's bouts.{enter}
+Do you want to enter the 
+day's final bout?"{wait:0F}
+{fast:FF}    Don't enter
+    Go for it!
+
+#### 98 ####
+Receptionist
+"Today is the third day of
+the games. Win 2 bouts and
+you qualify for tomorrow's
+semi-finals.{enter}
+Do you want to enter day
+three's bouts?"{wait:0F}
+{fast:FF}    Don't enter
+    Let me at'em!
+
+#### 99 ####
+Receptionist
+"It's the last bout for day
+three. Win this to qualify
+for tomorrow's semi-finals.{enter}
+Do you wish to enter the
+day's final bout?"{wait:0F}
+{fast:FF}    Don't enter
+    Let's do it!
+
+#### 100 ####
+Receptionist
+"Today's the semi-finals.
+Win 3 matches to qualify
+for the Finals League.{enter}
+Do you want to enter the
+semi-finals?{wait:0F}
+{fast:FF}    Don't enter
+    Give it a try
+
+#### 101 ####
+Receptionist
+"{wait:05}...{wait:05}2 matches to win before
+you qualify for tomorrow's
+Finals League."{enter}
+Enter the second bout of 
+the semi-finals?{wait:0F}
+{fast:FF}    Don't enter
+    I'll enter!
+
+#### 102 ####
+Receptionist
+"It's the last bout of the
+day! Win this to qualify
+for the Finals League!{enter}
+Do you want to enter the
+day's final bout?"{wait:0F}
+{fast:FF}    Don't enter
+    'course I'll enter!
+
+#### 103 ####
+Receptionist
+"Today's the last day of the
+games...The Finals League!
+You get to challenge...{wait:05}
+ Ricardo Banderas !!! "{enter}
+Do you desire to enter the
+Finals League?{wait:0F}
+{fast:FF}    Don't enter
+    Let me at him!
+
+#### 104 ####
+Receptionist
+"I have confirmed the entry
+of pilot 'Fei'. {wait:0F}
+One moment please{wait:05}..."
+
+#### 105 ####
+The Gear '{name:0B:¥ô¥§¥ë¥È©`¥ë}'
+has been sent to
+the storage paddock.
+Standby for boarding!
+
+#### 106 ####
+Pilot Fei, please proceed to
+the competitor's paddock!
+
+#### 107 ####
+Informationist
+"Okeydokey!{wait:0F}
+Well then, I'll now explain
+a bit about 'Battling'."
+
+#### 108 ####
+Informationist
+"Battling is the sport of
+fighting one-on-one with
+Gears and is held in the
+Imperial capital's arena.{enter}
+The rules of the sport are
+simple - fight until one or
+the other breaks down.{wait:0A}
+In other words, just bash
+your rival to pieces!{enter}
+But you don't have to fight
+till you trash your Gear.{wait:05}
+You are allowed to give up
+during a match...so if you
+can't win{wait:0A}...{wait:05}well, you know!"
+
+#### 109 ####
+Informationist
+"Well that's the rough
+explanation{wait:05}...I guess.{wait:1E}
+Did you get the drift?
+
+#### 110 ####
+Fei
+"Well, errh{wait:05}..."{wait:0F}
+{fast:FF}    Sure, no problem!
+    Sorry I don't get it!
+
+#### 111 ####
+Informationist
+"The next thing to do is to
+gain experience by actually
+Battling. {wait:0F}The key is to
+get used to the controls!{enter}
+But{wait:05} perhaps jumping straight
+into an actual battle is too
+much for you?{wait:0F} Well then,{wait:05} why
+not try our 'practice mode'
+for help with the controls?{enter}
+This is a simulation mode
+where you can practice the
+basic control methods.{wait:0F}
+We recommend that beginners
+should train here first!{enter}
+Also, there is a 'tutorial
+mode' that provides easy 
+lessons, from the basic 
+controls through to an 
+explanation of the screen."
+
+#### 112 ####
+Informationist
+"Is there anything else you
+want to ask about?"
+
+#### 113 ####
+Informationist
+"Huh?{wait:05} You didn't understand?{wait:0A}
+That's strange! Well, once
+again from the beginning...{enter}
+(Gee and I thought this guy
+had it in him?{wait:05} ...Obviously I
+was wrong...{wait:05} Is his head OK?){wait:0A}
+Anyway, listen closely now!"
+
+#### 114 ####
+Informationist
+"Right, the basic controls!
+Well,{wait:05} what do you want to do?{wait:0F}
+{fast:FF}    Ask about button controls
+    Tutorial Mode
+    Practice Mode
+    Ask about something else
+
+#### 115 ####
+Informationist
+"Okay, the button controls.
+I'll explain each button's
+functions accordingly...
+
+#### 116 ####
+Informationist
+"Well, I'll now explain the
+basic control methods using
+the actual screen."
+
+#### 117 ####
+Informationist
+"So, {wait:0A}you want to try out the
+actual controls, huh..."
+
+#### 118 ####
+Informationist
+"Oh,{wait:05} well{wait:05}...have your way!{wait:0F}
+What else do you want to
+enquire about?"
+
+#### 119 ####
+"Which button do you need
+an explanation of?{wait:0F}
+{fast:FF}    Directional button
+    ¡Á button
+    ¡õ button
+    ¡÷ button
+    ¡ð button
+    Next page
+
+#### 120 ####
+"Which shall I explain to
+you about?"{wait:0F}
+{fast:FF}    L1 button
+    R1 button
+    Start button
+    Back to first page
+    End explanation
+
+#### 121 ####
+Informationist
+"Oh{wait:05}...had enough already?
+Anything else you need to
+know?{wait:0F} Don't be afraid now!
+
+#### 122 ####
+Informationist
+"{wait:05}...Oh,{wait:05} is that how it is?{wait:0A}
+Well,{wait:05} is there anything else
+you want to inquire about?"
+
+#### 123 ####
+Informationist
+"O.K.,{wait:05} about the Directional
+button...{wait:0F}assuming that your
+opponent is on your right
+(from your viewpoint) then:{enter}
+¡¤ UP moves your Gear back
+ away from the screen.{wait:2D}
+¡¤ DOWN moves your Gear in
+ towards the screen.{enter}
+¡¤ RIGHT moves your Gear
+ towards your opponent.{wait:2D}
+¡¤ LEFT moves your Gear
+ away from your opponent.
+
+#### 124 ####
+Informationist
+"Lastly, when you're close
+to your opponent, pressing
+LEFT invokes a special move
+momentary back acceleration!{enter}
+This momentarily distances
+you from your opponent (or
+allows you to 'run away')!{wait:1E}
+Just remember the opposite
+direction to your opponent.
+
+#### 125 ####
+Informationist
+"That's it in a nutshell!{wait:1E}
+It's probably easier to get
+the idea by actually trying
+your hand at the controls!"
+
+#### 126 ####
+Informationist
+"The ¡Á button is ATTACK.{wait:0F}
+(There are 3 attack buttons
+and ¡Á is one of them.){enter}
+It changes from Gear to Gear
+but is mainly meant for
+close combat.{wait:0F} And you're not
+limited to just one blow.{enter}
+By combining the ¡Á and ¡õ
+buttons you are able to make
+a chain of attacks up to
+three long!{enter}
+All together there are 14
+such combinations that you
+can use!"
+
+#### 127 ####
+Informationist
+"The ¡õ button is ATTACK.{wait:0F}
+(There are 3 attack buttons
+and ¡õ is one of them.){enter}
+It differs from Gear to Gear
+but is mainly utilized for
+close combat.{wait:0F} And you're not
+limited to just one blow.{enter}
+By combining the ¡Á and ¡õ
+buttons you are able to make
+a chain of attacks up to
+three in length!{enter}
+All together there are 14
+such combinations that you
+can try out!"
+
+#### 128 ####
+Informationist
+"The ¡÷ button is for JUMP!{wait:05}
+Your movement controls are
+the same during jumps.{enter}
+Also, you are able to attack
+with the ¡Á and ¡õ buttons
+during jumps!{enter}
+Oh, and it's alright to use
+the R1 button to make Ether
+Bullet attacks too!
+
+#### 129 ####
+Informationist
+"The ¡ð button is for DASH.{wait:0A}
+Your movement controls are
+the same as usual.{enter}
+The only thing is that you
+cannot continue running
+indefinitely."
+
+#### 130 ####
+Informationist
+"For more details, try
+the 'Tutorial Mode', where
+you'll get an explanation 
+from a different official."
+
+#### 131 ####
+Informationist
+"Attacking isn't everything!{wait:0A}
+Although it is said that 
+'offense is the best form
+of defense', at times it is
+important to defend oneself.{enter}
+That's why we have the L1 
+button to GUARD you! {wait:0F} But,{wait:05} 
+it doesn't prevent all of 
+the damage so be careful!"
+
+#### 132 ####
+Informationist
+"The R1 button launches a 
+special attack called 'Ether 
+Bullet'.{wait:0F} It's good for long
+range attacks on your foe!{enter}
+'Ether Bullets' have homing
+ability so you may tend to
+rely on them, but you might
+regret it if you use them 
+too much! Do be careful!"
+
+#### 133 ####
+Informationist
+"For more details, try our 
+'Tutorial Mode', where you
+will get an explanation from
+a different official."
+
+#### 134 ####
+Informationist
+"The Start button will
+permit you to pause the
+battle.{enter}
+At this time, you may select
+the 'GIVE UP' option if you 
+think you won't win."
+
+#### 135 ####
+Informationist
+"What shall I explain?"{wait:0F}
+{fast:FF}    Battling
+    Basic controls
+    I'm alright thanks!
+
+#### 136 ####
+Informationist
+"...{wait:05}Fei, sir,{wait:05} you haven't
+registered your Gear yet.{wait:1E}
+But I can explain the basic
+controls if you like...?
+
+#### 137 ####
+Fei
+"Battling control method?"{wait:05}
+    Please explain
+    No need, thanks
+
+#### 138 ####
+Informationist
+"Oh,{wait:05} well{wait:05}...have your way!{wait:0F}
+What else do you want to
+enquire about?"
+
+#### 139 ####
+Informationist
+"Yes,{wait:05} I thought you wouldn't
+have any problems! {wait:0A}Anyway,{wait:05}
+give it your best shot, now!
+
+#### 140 ####
+Informationist
+"...{wait:05}You finally made it to
+the Battling Finals League!
+Come'on now! You can do it!"
+
+#### 141 ####
+Informationist
+"Only a little way to go to
+the Battling Finals League!{enter}
+With your ability, you just
+might become 'Battling
+Champion'! Good Luck!
+
+#### 142 ####
+Informationist
+"{wait:05}...Are you sure you don't
+need to hear what I've got
+to say?{wait:1E} If you have trouble
+don't blame it on me!"
+
+#### 143 ####
+Informationist
+"What shall I explain?"{wait:0F}
+{fast:FF}    Battling
+    Basic controls
+    I'm alright thanks!
+
+#### 144 ####
+Receptionist
+"Here's the prize money paid
+to winners of a Battling 
+bout. It's well earned!"
+
+#### 145 ####
+Rico's Henchman
+"Hey, your machine has been
+rigged! I'm gonna tell the
+Committee on you!"
+
+#### 146 ####
+Rico's Henchman
+"Yeah, he's definitely had
+his Gear equipped with parts
+that are in violation of the
+rules, or somethin'!"
+
+#### 147 ####
+Rico
+"Shut up!!"
+
+#### 148 ####
+Rico
+"{wait:05}...{wait:05}Don't embarrass me any
+further{wait:05}...{enter}
+How could such special parts
+exist in the Imperial
+capital anyway!?{enter}
+Especially since you can't
+leave the Imperial Capital 
+with these collars on!"
+
+#### 149 ####
+Rico's Henchman
+"B,b,but{wait:0F},
+Rico{wait:05}...{wait:05}then...!?
+
+#### 150 ####
+Rico
+"I thought I told you to 
+stop! {wait:05}...{wait:05}Keep quiet!"
+
+#### 151 ####
+Hammer
+"That's right!{wait:05}
+It's impossible!{enter}
+Bro won on his
+own strength!{wait:0F}
+Stop trying to trump up
+false accusations!
+
+#### 152 ####
+Rico's Henchman
+"Uh{wait:05}...{wait:05}bro{wait:05}..."
+
+#### 153 ####
+Fei
+"Enough already, Hammer!"
+
+#### 154 ####
+Fei
+"I won because of luck... 
+and because I had a good 
+teacher!"
+
+#### 155 ####
+Fei
+"{wait:05}...Also the wound to your 
+arm hasn't completely healed
+yet, has it?{enter}
+If it wasn't for that wound
+I am sure you would have
+won instead..."
+
+#### 156 ####
+Rico
+"Defeat is defeat... 
+My wound is no excuse. The
+Battling Champion is{wait:05}...{wait:05}you!"
+
+#### 157 ####
+Fei
+"{wait:02}.{wait:02}.{wait:02}.{wait:02}.{wait:02}.{wait:02}.{wait:02}.{wait:02}.{wait:02}. "
+
+#### 158 ####
+Rico
+"{wait:05}...{wait:05}Well,{wait:05} I have something 
+I must see to. I'll be off
+now."
+
+#### 159 ####
+Rico's Henchman
+"Champ! {wait:05}Wait up!{wait:0F}
+Let us go with you{wait:05}..."
+
+#### 160 ####
+Rico
+"I am no longer the champ!
+You guys will just get in my
+way! {wait:0F}Don't follow me!{wait:05} OK!?"
+
+#### 161 ####
+Rico's Henchman
+"In your way...? But Champ!"
+
+#### 162 ####
+Rico's Henchman
+"{wait:05}...{wait:05}Ri-co--!"
+
+#### 163 ####
+Hammer
+"This means I am acquitted!{wait:05}
+I am cleared!{wait:0F} 
+Oh, {wait:05}how the free world
+outside beckons us!"{clear:78}
+
+#### 164 ####
+Rico
+"{wait:05}...{wait:05}Don't give me that!{wait:0F}
+Your strength{wait:05}...?{wait:05}
+Is that your attitude?"
+
+#### 165 ####
+Fei
+"{wait:02}.{wait:02}.{wait:02}.{wait:02}.{wait:02}.{wait:02}.{wait:02}.{wait:02}.{wait:02}. "
+
+#### 166 ####
+Rico
+"C'mon, fight me again!{enter}
+You seemed a lot stronger
+in the sewers!
+Show me your true strength!"
+
+#### 167 ####
+Rico
+"{wait:05}...{wait:05}Don't give me that!{wait:0F}
+What are you scared of?"
+
+#### 168 ####
+Fei
+"{wait:02}.{wait:02}.{wait:02}.{wait:02}.{wait:02}.{wait:02}.{wait:02}.{wait:02}.{wait:02}. "
+
+#### 169 ####
+Rico
+"C'mon man, fight me again!{enter}
+You seemed a lot stronger
+in those sewers!
+Show me your true strength!"
+
+#### 170 ####
+Hammer
+"Yo, Bro¡«!{wait:0F}
+You forgot your mechanic!{wait:0F}
+Wait up a little!"{clear:4B}
+
+#### 171 ####
+Rue
+"Welcome to the Battling
+Arena{wait:05}...{wait:05}
+Fei, Sir{wait:05}...{enter}
+Several days ago you were
+adamant about not piloting
+Gears{wait:05}...{enter}
+Has something happened in 
+the last few days to make
+you change your mind in
+such a large way?"
+
+#### 172 ####
+Fei
+"Well, I have my reasons.{wait:0F}
+For starters, you can't say 
+prison life is that easy."
+
+#### 173 ####
+Fei
+"{wait:05}...{wait:05}And then there's the 
+matter of personal safety!"
+
+#### 174 ####
+Fei
+"Living the rest of my life
+with sewer monsters is not 
+that bad{wait:05}...{enter}
+it's just, {wait:05}well,
+{wait:05}...there are many factors."
+
+#### 175 ####
+Fei
+"Then there's this collar!{wait:0F}
+It gets in the way so much!"
+
+#### 176 ####
+Rue
+"Your collar{wait:05}...{wait:05}?"
+
+#### 177 ####
+Rue
+"Hahahmm{wait:05}...{wait:05}
+You're amusing!{enter}
+Are you intending to aim for
+victory despite it being 
+your first try at Battling?"
+
+#### 178 ####
+Fei
+"{wait:05}...{wait:05}Is that strange?"
+
+#### 179 ####
+Rue
+"No, no! Not the least...{wait:0F}
+Please excuse me!{enter}
+You seem to have quite some
+confidence in fighting with
+Gears...{wait:05}
+I'm looking forward to{wait:05}..."
+
+#### 180 ####
+!?{clear:0F}
+
+#### 181 ####
+Rue
+"Oops{wait:0F}...{wait:05}excuse me!{wait:0F}{enter}
+Well, I guess I'll show you
+the way to the paddocks.
+We don't have much time{wait:05}..."
+
+#### 182 ####
+Fei
+"The paddocks{wait:05}...?"
+
+#### 183 ####
+Rue
+"What, you're thinking that
+you're going to fight with
+flesh and blood?{enter}
+{wait:05}...{wait:05}Hahahmm, not that I 
+wouldn't mind seeing it, 
+but{wait:05}..."
+
+#### 184 ####
+Rue
+"We told you before that
+the committee would prepare
+a machine for you{wait:05}...{wait:0F}{enter}
+What did you forget?"
+
+#### 185 ####
+Fei
+"Oh, {wait:05}err{wait:05}...{wait:0F}
+The Gear I'm going to pilot
+will be, {wait:05}err{wait:05}..."
+
+#### 186 ####
+Rue
+"Well, come on now.
+Walk this way..."
+
+#### 187 ####
+Citan
+"Hold on! We are not
+ready yet{wait:05}...{wait:05} Can you
+spare us a little time?"
+
+#### 188 ####
+Rue
+"{wait:05}...{wait:05}Understood. {wait:0F}But we don't
+have much time to spare, so
+please hurry up now{wait:05}..."
+
+#### 189 ####
+Rue
+"Report to the officials.{wait:0F}
+Pilot confirmation complete.
+Suggest first bout opponent
+to be the black Gear..."
+
+#### 190 ####
+Hammer
+"You finished the day's
+Battling safely, hey, bro?{enter}
+Why not return to your
+quarters and rest up a bit?{enter}
+Or you could buy something!"{wait:0F}
+    Hammer's items
+    Hammer's Gear parts
+    I'm alright for now!
+
+#### 191 ####
+Hammer
+"Hey hey!{wait:05} Thanks again man!{wait:0F}
+That warms me pockets! {wait:0A}So...{wait:05}
+are you heading back now?"
+
+#### 192 ####
+Hammer
+"Hey hey!{wait:05} Thanks again man!{wait:0F}
+That warms me pockets! {wait:0A}So...{wait:05}
+are you heading back now?"
+
+#### 193 ####
+Hammer
+"Well then, no use
+hanging around.{enter}
+We'd better head
+back to our lodgings as 
+early as possible.{enter}
+After all that exercise,
+the best thing for you
+is to go beddy-byes!{enter}
+You had better
+sleep off the day's fatigue,
+cause tommorow's a big day!"
+
+#### 194 ####
+Hammer
+"Bro,{wait:05} you did it! You won!
+You're the Battling Champ!
+{wait:05}...{wait:05}or, close enough anyway!{enter}
+Victory is in reach! If you
+just win tomorrow's Finals
+League we'll have our names
+cleared and be released!"
+
+#### 195 ####
+Fei
+"But Hammer,{wait:05} you know my 
+opponent is no pushover!{wait:05}
+His power is incredible{wait:05}...{enter}
+He's been Battling Champion
+for three years straight!
+Beating him's going to be
+no easy task{wait:05}...{enter}
+Up till today I've managed
+to win somehow,{wait:05} but
+tomorrow is another matter!{wait:05}
+I doubt that I will win."
+
+#### 196 ####
+Hammer
+"{wait:05}...{wait:05}If that's your attitude
+you'll lose even if you
+could've won!{enter}
+Come on bro,{wait:05}
+show some fighting spirit!"
+
+#### 197 ####
+Fei
+"{wait:05}...{wait:05}Hahaha,{wait:0F} I didn't think
+you'd be the type to say
+something like that!"
+
+#### 198 ####
+Fei
+"You're right!{wait:05}
+I'll never win with these
+pre-battle blues.{enter}
+Thanks Hammer!{wait:0F}
+Well then,{wait:05} let's head back
+to our lodgings now."
+
+#### 199 ####
+Hammer
+"I'd like to be able to say
+'no problem', but tomorrow's
+Finals League is important!{enter}
+Don't you think you should
+take care in servicing and
+customizing your Gear?
+Our fates depend on it!"
+
+#### 200 ####
+Fei
+"...Gear servicing, heh?
+Leaving it just to one
+mechanic worries me a bit.{enter}
+I'll ask the doc to give
+us a hand also!"
+
+#### 201 ####
+Hammer
+"A bit of a worry!?{enter}
+That's not so Bro! {wait:0F}
+This here mechanic is doing
+the best he can, y'know!
+
+#### 202 ####
+Fei
+"I didn't mean it that way,
+so don't get all upset now,
+Hammer!{enter}
+Anyway, {wait:05}let's go back to 
+our barracks and call the 
+doc, shall we!?"
+
+#### 203 ####
+Hammer
+"Wait! {wait:0F}Don't you think you 
+should save your Battling
+record in the 'Memory Cube'!
+
+#### 204 ####
+Fei
+"I suppose I should..."
+
+#### 205 ####
+Hammer
+"Oh and bro!{wait:0F} You did save
+your Battling record in the
+'Memory Cube' didn't you?"
+
+#### 206 ####
+Receptionist
+"Match forfeited!"
+
+#### 207 ####
+Receptionist
+"Hmm, not a bad battle!
+Keep up the good work!"
+
+#### 208 ####
+Receptionist
+"Wow, you're sooo strooong!
+Boy, was he ever outmatched!
+Ooh, I get pins and needles
+at your overwhelming power!"
+
+#### 209 ####
+Receptionist
+"So this is what they mean
+by 'taking great risks'?
+Well done on a close win!"
+
+#### 210 ####
+Receptionist
+"Too bad, you lose! It was
+not due to any obvious flaw,
+so you might win next time.
+
+#### 211 ####
+Receptionist
+"I'll give you some advice!{wait:0F}
+You're not limited to just
+the ¡Á and ¡õ button's
+physical attacks!{enter}
+There is another attack work
+called 'Ether Bullets' that
+are useful on distant foes.{wait:0F}
+They are simple to use,{wait:05} just
+press the 'R1 button',{wait:05} OK!"
+
+#### 212 ####
+Receptionist
+"Right, just remember to
+press the 'R1 button' to
+shoot 'Ether Bullets'!{enter}
+This will increase your
+chances of winning for 
+sure!{wait:1E} (...or so we hope!?)"
+
+#### 213 ####
+Receptionist
+"Attacking while jumping
+is awesome! Master it!"
+
+#### 214 ####
+Receptionist
+"One weakness that I can see
+from watching your bout is
+that you seem to use your
+'Ether Bullets' too much.{enter}
+You should better understand
+the nature of the attack...
+'Ether Bullets' raise your
+'Heat Gauge (H.G.)' by quite
+a large percentage.{enter}
+Three shots will easily send
+your H.G. to the MAX 
+condition. If you continue 
+to attack in that condition,
+your machine overheats.{enter}
+The excess heat begins to
+cause damage, so if you
+don't take care, your HP
+will fall to zero before
+you realize it!"
+
+#### 215 ####
+Receptionist
+"The heat accumulated by
+your Gear is shown in the
+on-screen H.G..{enter}
+Manage your heat during
+battle with the aid of 
+this H.G.. Oh, and don't
+forget to stay cool now!"
+
+#### 216 ####
+Receptionist
+"The main cause of your loss
+is this: your over-reliance
+on 'Dash' movement! Simply
+put, you run round too much!{enter}
+Dashing about may be a good
+strategy but you'll notice
+that the 'Heat Gauge (H.G.)'
+which shows your Gear's heat
+level, climbs much faster!{enter}
+You can continue to DASH
+even after your H.G. reaches
+the MAX condition, but as 
+your Gear overheats more and
+more, it will cause damage!
+
+#### 217 ####
+Receptionist
+"The heat accumulated by
+your Gear is shown in the
+on-screen H.G..{enter}
+Manage your heat during
+battle with the aid of 
+this H.G.. Oh, and don't
+forget to keep cool now!"
+
+#### 218 ####
+Receptionist
+"{wait:05}...{wait:05}You do realize why you
+lost don't you?{wait:0F} If not then
+I'll tell you if you want!"
+
+#### 219 ####
+Receptionist
+"Want to know why you lost?"{wait:0F}
+{fast:FF}    No I don't!
+    Of course I do!
+
+#### 220 ####
+Receptionist
+"There are two reasons for
+your loss. First, your over-
+reliance on the 'R1 button'
+to shoot 'Ether bullets'.{enter}
+'Ether Bullets' are useful
+when your foe is far away,
+but using them too much will
+cause problems with your own
+Gear's heat level!{enter}
+Second is your over-use of
+'Dash movement'. The use of
+either of these when your
+'Heat Gauge' is at MAX will
+cause your Gear to overheat!{enter}
+Whilever your overheating,
+you will be taking damage,
+so if you're not careful,
+before you know it, your 
+H.P. will fall to zero!"
+
+#### 221 ####
+Receptionist
+"The point is the over-use
+of either ability is bad 
+for your Gear!{enter}
+"The heat accumulated by
+your Gear is shown in the
+on-screen 'Heat Gauge'.{enter}
+Refer to this Heat Gauge
+(H.G.) to help you manage
+your heat during battle.
+'Keep your cool'!"
+
+#### 222 ####
+Receptionist
+"{wait:05}...{wait:05}Knowing the reasons for
+your defeat will help you to
+fight better next time!"
+
+#### 223 ####
+Receptionist
+"Obviously the Gears were
+unevenly matched...!
+Or was it the pilots?{enter}
+Sorry to say this to you, 
+but either-way, your not 
+much of an opponent!"
+
+#### 224 ####
+Receptionist
+"Practice makes perfect! 
+We recommend our 'Practice 
+Mode' to you. Try it today!"
+
+#### 225 ####
+Receptionist
+"So near yet so far! 
+Too bad!
+You almost had him!"
+
+#### 226 ####
+Receptionist
+"That was a good match! 
+Either of you could have 
+easily won! Now try harder 
+to win on the rebound!"
+
+#### 227 ####
+Receptionist
+"{wait:05}...{wait:05}Are you a pacifist?
+{wait:05}...{wait:05}Or don't know how to 
+control a Gear?{enter}
+You need to know the basic
+controls, so perhaps you 
+should try out our Practice 
+Mode! Speak to the girl at 
+the counter next to me."
+
+#### 228 ####
+Receptionist
+"You can't just do nothing
+and expect to win!
+You need to practice first 
+to get the hang of it!"
+

@@ -1,0 +1,85 @@
+<TextBlock 1 w:34 h:3>
+Fei
+"Non essere stupido!
+Resto anch'io!"<Close><End of Block>
+<TextBlock 2 w:16 h:2>
+Fei
+"Ma…"<Close><End of Block>
+<TextBlock 3 w:32 h:3>
+Fei
+"… Uahh…
+Ba… basta…"<Close><End of Block>
+<TextBlock 4 w:28 h:3>
+Fei
+"… Bas… ta… 
+… Uahh…"<Close><End of Block>
+<TextBlock 5 w:14 h:2>
+Fei
+"Ah…"<Close><End of Block>
+<TextBlock 6 w:52 h:4>
+Vanderkam
+"Ehi, voi…<New>
+Che state facendo mentre
+m'ignorate e girate lì
+attorno senza fare nulla…?"<Close><End of Block>
+<TextBlock 7 w:46 h:2>
+Vanderkam
+"Io vi ucciderò tutti!"<Opcode 2 55><Close><End of Block>
+<TextBlock 8 w:52 h:4>
+Vanderkam
+"Ehi, voi…<New>
+Che state facendo mentre
+m'ignorate e girate lì
+attorno senza fare nulla…?"<Close><End of Block>
+<TextBlock 9 w:38 h:3>
+Maitreya
+"… Che cos'era?
+Il tipo di prima?"<Close><End of Block>
+<TextBlock 10 w:54 h:4>
+Maitreya
+"… Fei, raccogli i feriti
+e ritorna dal Padroncino.
+Presto!<New>
+La mia unità resterà dietro
+e cercherà di ottenere un
+po' di tempo.<New>
+Tutti i Gear ancora operativi
+rimasti forniranno copertura
+ricevendo ordini dai propri
+comandanti, e si ritireranno
+secondo l'ordine stabilito."<Close><End of Block>
+<TextBlock 11 w:50 h:3>
+Maitreya
+"Sta' zitto e ascolta,
+ragazzo!<New>
+Tu sei l'ospite del
+Padroncino. Non posso
+farti morire qui."<Close><End of Block>
+<TextBlock 12 w:46 h:4>
+Maitreya
+"… Il Padroncino…<Delay 25>
+Ciò che davvero gli
+serve è la tua forza.<New>
+Ti prego di aiutarlo.<Delay 20> 
+T'imploro."<Close><End of Block>
+<TextBlock 13 w:34 h:3>
+Maitreya
+"Farrant! Vind!
+Andiamo!!"<Close><End of Block>
+<TextBlock 14 w:32 h:2>
+… Uh? Ah!?<Delay 32> 
+Ah?… Oh, no!!"<Close><End of Block>
+<TextBlock 15 w:52 h:4>
+Generale!
+Generale Maitreya!!<New>
+Abbiamo un messaggio codice
+R! Non ne sono sicuro, ma
+sembra che il Padroncino
+sia nei guai!!<New>
+Non abbiamo il tempo per
+questo tipo qui!!"<Close><End of Block>
+<TextBlock 16 w:36 h:4>
+Fei
+"… Loro…<Delay 25>
+Perché loro…? 
+Cos'hanno fatto?"<Close><Close><End of Block>

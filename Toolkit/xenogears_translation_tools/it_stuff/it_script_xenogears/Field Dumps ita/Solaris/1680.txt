@@ -1,0 +1,135 @@
+<TextBlock 1 w:10 h:1>
+Fei!!<Opcode 2 30><Close><End of Block>
+<TextBlock 2 w:14 h:2>
+Elly
+"…!!"<Close><End of Block>
+<TextBlock 3 w:56 h:4>
+Bart
+"È pericoloso muoversi
+in tanti<Delay 10>…<New>
+Ognuno di noi prenderà
+un percorso diverso."<Close><End of Block>
+<TextBlock 4 w:16 h:2>
+Shitan
+"Sono d'accordo."<Close><End of Block>
+<TextBlock 5 w:52 h:3>
+Hammer
+"Non preoccupatevi, io
+me la cavo bene quando
+si tratta di…<New>
+… raccogliere
+informazioni e
+vedere cosa fa
+la gente!"<Close><End of Block>
+<TextBlock 6 w:56 h:4>
+Rico
+"La verità è che ti
+piace guardare gli
+altri soffrire…<Delay 10>!!<New>
+Ci saresti solo
+d'impiccio."<Close><End of Block>
+<TextBlock 7 w:32 h:3>
+Hammer
+"Perdonami…!!<Delay 10>
+Scusa!!"<Close><End of Block>
+<TextBlock 8 w:20 h:2>
+Shitan
+"Maria…"<Close><End of Block>
+<TextBlock 9 w:24 h:3>
+Maria
+"Sì?<Delay 10>
+Cosa c'è?"<Close><End of Block>
+<TextBlock 10 w:54 h:4>
+Shitan
+"Le interferenze causate
+da <Seibzehn> quando ha
+infranto il portale…<New>
+… sono quasi sparite.<New>
+Tu e gli altri dovete
+andarvene prima che il
+sistema di rilevazione
+dei nemici si riattivi.<New>
+Noi ci prenderemo cura
+di tutto il resto."<Close><End of Block>
+<TextBlock 11 w:24 h:3>
+Maria
+"Ok,<Delay 10> state
+attenti."<Close><End of Block>
+<TextBlock 12 w:52 h:3>
+Fei
+"È come se il mondo fosse
+sottosopra… mi fa venire
+la pelle d'oca."<Close><End of Block>
+<TextBlock 13 w:52 h:3>
+Elly
+"La gravità di Solaris
+è l'opposto di quella
+della superficie.<New>
+Non abbiamo tempo per
+spiegartelo, ma ti ci
+abituerai.<New>
+Anche noi ci sentiamo a
+disagio, quando scendiamo
+per la prima volta sulla
+superficie."<Close><End of Block>
+<TextBlock 14 w:38 h:2>
+Fei
+"Ehi, che cos'è
+questo posto?"<Close><End of Block>
+<TextBlock 15 w:54 h:4>
+Elly
+"Sembra essere un centro
+d'immagazzinamento o di
+distribuzione.<New>
+Non ne sono sicura, ma
+probabilmente lo usano per
+trasferire delle scorte
+aggiuntive, oppure…<New>
+… per diversi materiali
+e carburante.
+Il tutto viene raccolto
+sulla superficie.<New>
+Questi sono i prodotti e
+la tecnologia che voi
+abitanti della superficie
+ricevete dalla Chiesa…"<Close><End of Block>
+<TextBlock 16 w:52 h:3>
+Shitan
+"Per il momento, cerchiamo
+di raccogliere qualche
+informazione…"<Close><End of Block>
+<TextBlock 17 w:50 h:4>
+Fei
+"Questo è un contenitore
+del sistema di trasporto
+di cui parlava Elly?"<Close><End of Block>
+<TextBlock 18 w:44 h:4>
+Elly
+"Beh… non ne sono sicura.<Delay 10>
+Ma credo di avere già
+visto uno di questi cosi…"<Close><End of Block>
+<TextBlock 19 w:32 h:3>
+Fei
+"Gli diamo…<Delay 5> 
+…<Delay 10> un'occhiata?"<Close><End of Block>
+<TextBlock 20 w:44 h:4>
+Elly
+"Che stai dicendo?
+Non abbiamo tempo per
+dargli un'occhiata.<New>
+Dobbiamo uscire di
+qui alla svelta."<Close><End of Block>
+<TextBlock 21 w:48 h:3>
+Fei
+"Ma non avevate detto
+che dovevamo raccogliere
+informazioni?<New>
+Probabilmente potremmo
+entrare di nascosto, se
+usiamo questo coso."<Close><End of Block>
+<TextBlock 22 w:10 h:1>
+Uah!!<Opcode 2 30><Close><End of Block>
+<TextBlock 23 w:10 h:1>
+Fei!!<Opcode 2 20><Close><End of Block>
+<TextBlock 24 w:0 h:1>
+<Close><End of Block>

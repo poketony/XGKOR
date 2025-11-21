@@ -1,0 +1,88 @@
+#### 1 ####
+Fei
+"What...no ceiling?"
+
+#### 2 ####
+Fei
+"Oh yeah! 
+Is there any comm
+equipment nearby?"
+
+#### 3 ####
+Fei
+"Gebler?"{clear:1E}
+
+#### 4 ####
+Fei
+"Wait a minute.
+We just want to..."
+
+#### 5 ####
+Fei
+"So this is where Shevat
+used to be."
+
+#### 6 ####
+Fei
+"There are marks from
+some huge thing..."
+
+#### 7 ####
+Fei
+"...Huh!{wait:1E}
+Up there!"
+
+#### 8 ####
+Elly
+"It seems that it's true.
+Shevat was here before.{wait:1E}
+Look around."
+
+#### 9 ####
+Elly
+"There are marks from 
+some huge thing..."
+
+#### 10 ####
+Elly
+"I don't see anything
+else but..."
+
+#### 11 ####
+Elly
+"Fei! Look up!{wait:1E} 
+Something is closing in!
+...It's a Gear!"{clear:14}
+
+#### 12 ####
+Mystery Girl
+"From here is Shevat's 
+territory.{enter}
+Many people have tried
+to get in, but Seibzehn
+and I remove them."
+
+#### 13 ####
+Mystery Girl
+"Get ready!"
+
+#### 14 ####
+Mystery Girl
+"Sorry. Just
+wanted to test
+your strength."
+
+#### 15 ####
+Mystery Girl
+"The queen is awaiting
+for your arrival above."
+
+#### 16 ####
+Mystery Girl
+"Yes, Queen Zephyr."{clear:28}
+
+#### 17 ####
+That's enough,
+Maria. Bring them
+in.{clear:28}
+

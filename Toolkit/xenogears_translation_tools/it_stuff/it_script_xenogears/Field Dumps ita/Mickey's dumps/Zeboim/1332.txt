@@ -1,0 +1,26 @@
+<TextBlock 1 w:54 h:4>
+Bart
+"Cazzo… Appena in tempo.
+Quel tipo e Wiseman…<New>
+Hanno davvero
+attaccato briga.<New>
+Avverto il Potere Etereo
+fin da qui!"<Close><End of Block>
+<TextBlock 2 w:48 h:4>
+Billy
+"Wow… appena in tempo.
+Quell'uomo e Wiseman…<New>
+Si stanno davvero 
+affrontando.
+Il Potere Etereo si
+avverte fin da qui…"<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+Rico
+"Cazzo… Appena in tempo.<New>
+Wiseman e quel tizio
+stanno davvero
+combattendo.<New>
+Il Potere Etereo si
+avverte fin da qui…"<Close><End of Block>
+<TextBlock 4 w:12 h:1>
+Rotta<Close><Close><End of Block>

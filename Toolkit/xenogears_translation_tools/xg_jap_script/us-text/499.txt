@@ -1,0 +1,124 @@
+#### 1 ####
+Jessie
+"What took you so long!?
+I've only got so many
+bullets!{enter}
+Hurry up and
+blow them away!"
+
+#### 2 ####
+Jessie
+"...{wait:20}
+What the hell are
+you doing?"
+
+#### 3 ####
+Jessie
+"You mean the Emperor...?
+Are you sure, Hyuga...?
+
+#### 4 ####
+Jessie
+"...Yeessss!
+We're outta here!!{wait:23}
+...Huh!?"
+
+#### 5 ####
+Jessie
+"Kahr, you're an enemy
+but why are you so 
+attached to one kid!?{enter}
+You weren't like that 
+before!"
+
+#### 6 ####
+Jessie
+"Hey, we're going!{enter}
+I don't know what went on,
+but I don't have time to 
+deal with him now!"
+
+#### 7 ####
+Jessie
+"Hyuga!!"
+
+#### 8 ####
+Citan
+"I am sorry.
+I have other matters
+to attend to."
+
+#### 9 ####
+Citan
+"To His Majesty's..."
+
+#### 10 ####
+Citan
+"Yes. His Majesty
+understands the situation.{enter}
+...He says to leave it up
+to 'them'..."
+
+#### 11 ####
+Citan
+"There! It is done!!
+Sir!!"
+
+#### 12 ####
+Citan
+"...Kahr...?"
+
+#### 13 ####
+Citan
+"Kahr, we are just in
+different situations.{enter}
+I did not mean to
+betray you.
+I decided to stick
+with Fei's group."
+
+#### 14 ####
+Citan
+"K, Kahr..."
+
+#### 15 ####
+Citan
+"But..."
+
+#### 16 ####
+Citan
+"...{wait:2D}I see..."
+
+#### 17 ####
+Ramsus
+"Where is he...?
+Hyuga..."
+
+#### 18 ####
+Ramsus
+"So...you too{wait:20}...
+you are also
+betraying me."
+
+#### 19 ####
+Ramsus
+"Did you say 'Fei'!?{enter}
+You too...are on his
+side...I'll never forgive
+you! NEVER!"
+
+#### 20 ####
+Ramsus
+"Shut up!
+I've got to get him with
+my own hands...{enter}
+And all of you working
+with him are my enemies!{enter}
+Enemies stealing 'my 
+things'! Enemies!
+Enemies, Enemies!!"
+
+#### 21 ####
+Ramsus
+"You, traitors!!"
+

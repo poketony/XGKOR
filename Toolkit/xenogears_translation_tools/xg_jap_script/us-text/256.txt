@@ -1,0 +1,32 @@
+#### 1 ####
+¡­¡­¡£
+
+#### 2 ####
+We couldn't get as many
+Gear parts as we would
+have liked...{wait:0A}but, by
+all means, use them! 
+
+#### 3 ####
+This door leads to the hall.
+
+#### 4 ####
+Be sure to tune-up
+your Gears for the
+decisive battle!
+
+#### 5 ####
+Oh, young master!
+You're smart not to get
+lost inside the Yggdrasil!{enter}
+All of our guests usually
+get lost around here...
+
+#### 6 ####
+This is the Gear Shop!{wait:0A}
+Look inside if you want
+to tune-up your Gear.
+
+#### 7 ####
+
+

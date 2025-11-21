@@ -1,0 +1,107 @@
+<TextBlock 1 w:36 h:4>
+Fei
+"Questo è il<Delay 20> terzo
+portale<Delay 10>…<Delay 10>…<Delay 10>…<Delay 10>…<Delay 10>?"<Space 3><Close><End of Block>
+<TextBlock 2 w:28 h:2>
+Fei
+"Chi sei?"<Close><End of Block>
+<TextBlock 3 w:18 h:2>
+Io vi<Delay 20>…<Delay 20> ucciderò.<Close><End of Block>
+<TextBlock 4 w:52 h:4>
+Gear Misterioso
+"Piacere di conoscervi!
+Come va? Io sono Kenren,
+uno dei seguaci di Krelian.<New>
+Vi prego di scusarmi, vorrei
+tanto mostrarvi il mio volto,
+ma come risultato della
+fusione tra uomo e macchina…"<Close><End of Block>
+<TextBlock 5 w:48 h:4>
+Elly
+"Un seguace di Krelian!?<Delay 10>
+Non di Ramsus o
+degli Elementi!?"<Close><End of Block>
+<TextBlock 6 w:52 h:3>
+Shitan
+"Tu sei uno di quelli che
+hanno abbandonato Kahr per
+andare sulla superficie<Delay 20>…<New>
+Dovete avere una buona
+ragione per averlo fatto."<Close><End of Block>
+<TextBlock 7 w:52 h:4>
+Bart
+"Un seguace di Krelian?<Delay 10>
+Pensavo che lavorassi per
+quel bellimbusto che si
+crede chissà chi."<Close><End of Block>
+<TextBlock 8 w:50 h:3>
+Billy
+"Non sei con Ramsus…<Delay 10>?<New>
+Ma…<Delay 20> questo Gear mi dà un
+presentimento ancora
+più minaccioso…"<Close><End of Block>
+<TextBlock 9 w:46 h:4>
+Rico
+"Ma chi diavolo sei!?
+Non sembri uno dei
+leccaculo di Ramsus."<Close><End of Block>
+<TextBlock 10 w:54 h:4>
+<Chu-Chu>
+"Sei di Geburah, giusto,
+chu?<Delay 10> E dov'è quello
+che che c'è sempre…<New>
+… quel biondo davvero
+carino?"<Close><End of Block>
+<TextBlock 11 w:50 h:3>
+Maria
+"Sapevo che non eri con
+Ramsus. Sì<Delay 20>…<New>
+Quel Gear è una versione
+evoluta di <Seibzehn> e
+di Achtzehn!"<Close><End of Block>
+<TextBlock 12 w:52 h:4>
+Kenren
+"Per il momento, il nostro
+compito riguarda solamente
+l'ispezione delle prove.<New>
+Una persona fiacca come lui
+rovinerebbe tutto non appena
+arrivato.<New>
+Una persona calma e fredda
+come me sarebbe perfetta
+per quel lavoro.<New>
+Oh,<Delay 10> ma non preoccupatevi.
+Io qui mi limiterò al
+mio lavoro d'ispezione.
+Sarà Esmeralda, che vedete
+qui davanti, ad occuparsi
+di voi."<Close><End of Block>
+<TextBlock 13 w:38 h:2>
+Esmeralda       
+"…<Delay 10>…<Delay 20> Uccidervi…<Delay 10>…"<Space 2><Close><End of Block>
+<TextBlock 14 w:34 h:3>
+Esmeralda
+"Ki…<Delay 10>…<Delay 10> m<Delay 10>…<Delay 10>?<Delay 30>
+Ah, ah-ah-ah, io…"<Close><End of Block>
+<TextBlock 15 w:52 h:4>
+Kenren
+"… Capisco…<Delay 10>
+Sconsiderata…<Delay 20> adesso…<New>
+Dovreste considerare la
+cosa come una…<Delay 10> reminescenza,
+<Delay 10>o forse come una
+registrazione.<New>
+È successo proprio
+come aveva detto Krelian…<New>
+È una manifestazione
+dell'imprinting. In ogni
+caso, ora ne ho la prova.
+Detto ciò, vogliate scusarmi.<New>
+Devo comunicare i risultati.
+Ah, sì,<Delay 10> andatevene pure e
+prendetevi la ragazza.<New>
+Usatela come vi pare e piace.<Delay 50>
+Dopotutto, lei è tua
+'figlia', ragazzo…"<Close><End of Block>
+<TextBlock 16 w:26 h:2>
+Ah… aha-ah-ah-ah-ah!!<Close><Close><End of Block>

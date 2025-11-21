@@ -1,0 +1,283 @@
+<TextBlock 1 w:30 h:3>
+Sembra<Delay 5>…<Delay 5> che<Delay 10> siamo
+andati ancora più
+alla deriva.<Close><End of Block>
+<TextBlock 2 w:50 h:2>
+<Delay 5>…<Delay 5> Per sempre<Delay 5> alla<Delay 5> deriva<Delay 5>…<Delay 10><Space 1>
+Proprio come me.<Close><End of Block>
+<TextBlock 3 w:34 h:1>
+Cosa intendi?<Close><End of Block>
+<TextBlock 4 w:46 h:3>
+L'unica cosa che ho<Delay 5>
+fatto è stata vagare<Delay 5>
+senza una<Delay 5> meta…<New>
+… guidato dalle
+circostanze.<Close><End of Block>
+<TextBlock 5 w:36 h:4>
+No<Delay 5>…<Delay 5> non è così.<New>
+Ad Aveh<Delay 5> hai
+aiutato Bart quando
+ne aveva bisogno.<New>
+E a Kislev,<Delay 5> hai
+dato tutto te stesso
+per difendere,<Delay 10> per
+salvare tutti.<New>
+Hai anche mostrato
+preoccupazione<Delay 5> per
+me<Delay 5> molte volte.<Close><End of Block>
+<TextBlock 6 w:34 h:2>
+No<Delay 5>…<Delay 10>
+Io <Delay 5>sono<Delay 5> un<Delay 5> inetto.<Close><End of Block>
+<TextBlock 7 w:8 h:1>
+Perché?<Delay 5><Close><End of Block>
+<TextBlock 8 w:52 h:4>
+Probabilmente, nel
+profondo di me stesso,
+non sto cercando
+davvero di aiutare.<New>
+Per qualche motivo, sento
+che tutto ciò che ho fatto
+l'ho fatto perché volevo
+essere necessario.<New>
+Che se avessi fatto
+qualcosa per loro<Delay 5>…<Delay 5> forse
+<Delay 5>avrei <Delay 5>avuto un posto al
+quale appartenere<Delay 5>…<New>
+C'è una parte di me che
+si conforta proprio in
+questo modo.<New>
+Non significa che non
+voglio aiutare.<Delay 10> Ma…<Delay 5>
+significa anche che non
+voglio davvero aiutare.<New>
+Potrebbe non essere il
+'nulla', ma, di sicuro,
+non è neanche il 'tutto'.<New>
+Sono andato alla deriva,
+portato in giro, finché
+non t'incontrai, Elly.<New>
+Ora siamo da soli, senza
+nessuno, nell'oceano.<New>
+Perdonami<Delay 5>…<Delay 10> per averti
+coinvolta.<Close><End of Block>
+<TextBlock 9 w:46 h:5>
+Va tutto bene.<Delay 5>
+Non preoccuparti
+per me.<New>
+Ho pensato…<Delay 5>
+perché sono qui?<Delay 5><New>
+Avrei potuto solo
+tornare a casa.<Delay 5> Ma,
+per qualche motivo,<Delay 5>
+non l'ho fatto…<New>
+Probabilmente perché
+hai detto che è
+meglio fare qualcosa
+che non fare nulla.<New>
+Penso sia per questo
+che mi sono resa
+conto di dover fare
+qualcosa.<New>
+Va bene non sentirsi
+'pieni'.<Delay 5><New>
+Anche se ci si sente
+solo parzialmente
+completi, se lo si
+rifà quante volte
+serve, alla fine
+sarai un 'tutto'.<New>
+Una parte<Delay 5>…<Delay 5>
+è meglio che niente.<Close><End of Block>
+<TextBlock 10 w:30 h:2>
+Hai ragione<Delay 5>…<Delay 10>
+Scusami<Delay 5>…<Close><End of Block>
+<TextBlock 11 w:36 h:3>
+Fei
+"Se ci salveranno…<Delay 10>
+tornerai indietro?"<Close><End of Block>
+<TextBlock 12 w:50 h:4>
+Elly
+"Probabilmente non
+con la mia squadra.<New>
+In questo momento, non
+voglio essere lì<Delay 5>…<New>
+Inoltre,<Delay 5> potrei anche
+fare dell'altro…<Delay 5>
+Non devo per forza essere
+nell'esercito.<New>
+Perciò… sto pensando di
+tornare al mio paese."<Close><End of Block>
+<TextBlock 13 w:50 h:3>
+Fei
+"Puoi farlo? E che
+mi dici dell'esercito?"<Close><End of Block>
+<TextBlock 14 w:48 h:3>
+Elly
+"Non credere che tutti
+sappiano cos'ho fatto.<New>
+Probabilmente mi hanno
+già classificata come
+dispersa in azione."<Close><End of Block>
+<TextBlock 15 w:30 h:4>
+Fei
+"Mmh…
+Spero che almeno
+sopravviverai.<New>
+Sono sicuro che
+troverai cosa
+vuoi fare nella
+tua vita."<Close><End of Block>
+<TextBlock 16 w:36 h:4>
+Elly
+"Hai detto… una cosa
+riguardo… all'essere<Delay 20>
+confortati."<Close><End of Block>
+<TextBlock 17 w:12 h:2>
+Fei
+"Sì."<Close><End of Block>
+<TextBlock 18 w:52 h:4>
+Elly
+"Non essere troppo
+duro con te stesso.<Delay 5><New>
+Tutti vogliono essere
+necessari, a volte.<New>
+Tutti noi vogliamo dare
+agli altri, per essere
+accettati, qualcosa che
+è dentro di noi.<New>
+…<Delay 10> Anch'io<Delay 10>…<New>
+Ricordi come ti sei
+sforzato di mangiare
+quelle razioni di
+emergenza?"<Close><End of Block>
+<TextBlock 19 w:22 h:1>
+UUUURRRGHH!<Close><End of Block>
+<TextBlock 20 w:42 h:2>
+Elly
+"Ehi…<Delay 10> stai bene?"<Close><End of Block>
+<TextBlock 21 w:44 h:4>
+Elly
+"Ti avevo detto di non
+mangiare un animale
+così disgustoso."<Close><End of Block>
+<TextBlock 22 w:50 h:4>
+Fei
+"Ha un sapore orribile.<New>
+L'ultima volta che ho
+mangiato del cibo così
+brutto è stato quando
+cucinò Doc."<Close><End of Block>
+<TextBlock 23 w:3 h:1>
+?<Close><End of Block>
+<TextBlock 24 w:34 h:4>
+Fei
+"Ma, se non facciamo
+qualcosa, moriremo."<Close><End of Block>
+<TextBlock 25 w:50 h:4>
+Elly
+"Penso non ci sia
+altra scelta.<New>
+Speravo di conservarle
+per un altro po'…"<Close><End of Block>
+<TextBlock 26 w:54 h:3>
+Elly
+"Dovrebbero bastarci per
+un altro giorno…<New>
+Ma sono solo per dare
+calorie in casi di
+emergenza…<New>
+Perciò non posso
+prometterti che
+avranno un buon sapore."<Close><End of Block>
+<TextBlock 27 w:44 h:4>
+Fei
+"Eh!?<Delay 10> Ma cosa?<Delay 10>
+Sono secche e friabili?"<Close><End of Block>
+<TextBlock 28 w:36 h:4>
+Elly
+"Lo sapevo…
+Non ti piacciono,
+vero?"<Close><End of Block>
+<TextBlock 29 w:42 h:4>
+Fei
+"Che? N… no…<Delay 10>
+Sono buone.
+Già… eh, sono ottime.<New>
+Qualsiasi cosa tu possa
+dividere con me, non
+potrebbe essere poi
+così male, vero?"<Close><End of Block>
+<TextBlock 30 w:52 h:4>
+Elly
+"Prima ti sei sforzato di
+mangiare quelle razioni,
+non è forse così?<New>
+Per la mia sopravvivenza,
+sarebbe stato meglio non
+dividerle.<New>
+Ma guardare te che le
+mangiavi anche se avevano
+un sapore orribile…<Delay 10> mi
+ha confortato.<New>
+Mi sono sentita felice di
+averle divise con te… mi
+ha fatto sentire un po'
+meglio."<Close><End of Block>
+<TextBlock 31 w:40 h:2>
+Fei
+"Per te stessa?"<Close><End of Block>
+<TextBlock 32 w:54 h:4>
+Elly
+"Sì,<Delay 5> per me stessa.<Delay 10>
+Egoista, l'ammetto.<New>
+Ma… credo vada bene
+essere così, all'inizio.<New>
+Ma, a poco a poco, si
+inizia a capire la
+propria felicità…<New>
+E, un giorno, si può
+dividere con qualcun
+altro quella parte
+importante di te.<New>
+Un…<Delay 20> giorno."<Close><End of Block>
+<TextBlock 33 w:14 h:2>
+Elly
+"Ah<Delay 5>…"<Close><End of Block>
+<TextBlock 34 w:22 h:3>
+Fei
+"?<Delay 10>
+Cosa c'è?"<Close><End of Block>
+<TextBlock 35 w:54 h:4>
+Elly
+"… Nulla. Mi è parso come
+se ti avessi detto lo
+stesso tanto tempo fa…<New>
+Deve essere la mia
+immaginazione.<New>
+Non avrei mai potuto
+dirtelo prima, perché
+ci siamo incontrati da
+poco, non è vero?"<Close><End of Block>
+<TextBlock 36 w:46 h:3>
+Elly
+"Sì, probabilmente
+è solo la mia
+immaginazione<Delay 10>…"<Close><End of Block>
+<TextBlock 37 w:20 h:4>
+Fei
+"Elly!
+Ehi, Elly!
+Svegliati!"<Close><End of Block>
+<TextBlock 38 w:38 h:3>
+Elly
+"Buon giorno, Fei.
+Ti sei svegliato
+presto."<Close><End of Block>
+<TextBlock 39 w:50 h:3>
+Fei
+"Non c'è tempo per
+la formalità.
+Guarda lì!!"<Close><End of Block>
+<TextBlock 40 w:12 h:2>
+Elly
+"Eh?"<Close><Close><End of Block>

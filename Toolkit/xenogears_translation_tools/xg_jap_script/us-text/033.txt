@@ -1,0 +1,559 @@
+#### 1 ####
+Fei
+"This is...{wait:0A}
+Dazil..."
+
+#### 2 ####
+Fei
+"Repair {name:0B:¥ô¥§¥ë¥È©`¥ë}..."
+
+#### 3 ####
+Fei
+"Yeah, okay doc,{wait:0F}
+let's check this
+place out then."
+
+#### 4 ####
+Fei
+"...{wait:0A}
+Doc, do you have a moment?
+I need to talk to you."
+
+#### 5 ####
+Fei
+"...{wait:0A}
+Well doc, it's about
+{name:0B:¥ô¥§¥ë¥È©`¥ë}...{enter}
+We can't find the parts
+we need, so is it alright
+if we just don't fix it?"
+
+#### 6 ####
+Fei
+"Well, we've been able to
+come as far as Dazil on
+our own...{enter}
+So doesn't that show that
+we don't need {name:0B:¥ô¥§¥ë¥È©`¥ë}
+as much as we thought.{enter}
+Actually, I've been
+thinking that once things
+cool down I want to go back
+to Lahan and help rebuild.{enter}
+That's all I feel I can
+do now{wait:0A}..."
+
+#### 7 ####
+Fei
+"Move it away?
+But why do we need
+to do that, doc?"
+
+#### 8 ####
+Fei
+"Special Force{wait:0A}...{wait:0A}
+You mean Elly's group?"
+
+#### 9 ####
+Fei
+"New technology?"
+
+#### 10 ####
+Fei
+"Hold on, doc!{wait:0F}
+Won't the Kislev army
+still be in Lahan too!"
+
+#### 11 ####
+Fei
+"The armies will fight over
+who gets {name:0B:¥ô¥§¥ë¥È©`¥ë}...{wait:0A}
+And right near Lahan too."
+
+#### 12 ####
+Fei
+"But, we can't fix it
+in order to move it..."
+
+#### 13 ####
+Fei
+"What do you intend
+on doing, doc?"
+
+#### 14 ####
+Fei
+"So then doc, what do
+you plan on doing with
+this sand buggy?"
+
+#### 15 ####
+Fei
+"Sand buggy?"
+
+#### 16 ####
+Fei
+"The 'Ethos'? {wait:0A}
+What do Gears have to
+do with the 'Ethos'?"
+
+#### 17 ####
+Fei 
+"Huh?"
+
+#### 18 ####
+Citan
+"Yes, that is right.{wait:0F} 
+The desert town of Dazil."
+
+#### 19 ####
+Citan
+"We should be able to find
+out what both Aveh and
+Kislev are up to, here.{enter}
+And we also have to gather
+the things we need to
+repair {name:0B:¥ô¥§¥ë¥È©`¥ë}."
+
+#### 20 ####
+Citan
+"Yes. We must exchange
+the broken parts to fix
+{name:0B:¥ô¥§¥ë¥È©`¥ë}...{enter}
+Otherwise it will not be
+able to function at all!{enter}
+There is an 'Ethos'
+workshop in the southern
+part of this town.{wait:0A}
+Let us go there, Fei."
+
+#### 21 ####
+Citan
+"Only the 'Ethos' has the
+technology to maintain
+generator driven Gear.{enter}
+The 'Ethos' decides which
+Gear gets which generator
+in which country..."
+
+#### 22 ####
+Citan
+"Yes,{wait:05} of course,{wait:05} Fei..."
+
+#### 23 ####
+Citan
+"So Fei, what did you want
+to talk to me about?"
+
+#### 24 ####
+Citan
+"Do not repair it?
+What is the problem, Fei?"
+
+#### 25 ####
+Citan
+"...{wait:0A}I see.
+If that is what you want,
+Fei, then fine.{enter}
+But I think we should
+try and move {name:0B:¥ô¥§¥ë¥È©`¥ë}
+as far away from there
+as possible."
+
+#### 26 ####
+Citan
+"It is only my
+speculation, but...{enter}
+I suspect the incident that
+evening occured because the
+Gebler Special Force stole
+a Kislev Military Gear."
+
+#### 27 ####
+Citan
+"Exactly.{enter}
+When I examined the broken
+Gear in the village, I
+realized the Gebler pilot
+was riding a Kislev Gear.{enter}
+It must have had some new
+technology involved in it
+for the Kislev army to send
+pursuit forces after it."
+
+#### 28 ####
+Citan
+"I suspect that the Gebler
+Force was out to steal a
+new experimental Gear."
+
+#### 29 ####
+Citan
+"I am sure news of the
+Special Force's failure
+has reached the capital.{enter}
+They will be investigating
+the Lahan area to reclaim
+whatever parts of the new
+Gear that they can find."
+
+#### 30 ####
+Citan
+"Most probably.{enter}
+And in that case, there
+will be a conflict between
+Aveh's inspection team and
+Kislev's pursuit troops.{enter}
+If they find where we have
+hidden {name:0B:¥ô¥§¥ë¥È©`¥ë}..."
+
+#### 31 ####
+Citan
+"So, to avoid any problems,
+we should move {name:0B:¥ô¥§¥ë¥È©`¥ë}
+somewhere else right away!"
+
+#### 32 ####
+Citan
+"Right.
+But staying here will
+solve nothing.{enter}
+Fortunately, this is the
+center of all excavation
+work in this country.{enter}
+There is bound to be some
+information on where we
+can find parts...{enter}
+Anyway, the fear is often
+worse than the danger
+itself... We should not let
+such fears hold us back!"
+
+#### 33 ####
+Citan
+"This a sand buggy.{enter}
+{wait:0A}...{wait:0A}
+That is it, Fei!{enter}
+I have thought of a good
+way to get the parts we
+need for {name:0B:¥ô¥§¥ë¥È©`¥ë}.{enter}
+Let us go back to the
+rental shop and rent out
+this buggy."
+
+#### 34 ####
+Citan
+"This is a sand buggy.{enter}
+{wait:0A}...{wait:0A}
+That is it Fei!{enter}
+I have thought of a good
+way to get the parts we 
+need for {name:0B:¥ô¥§¥ë¥È©`¥ë}.{enter}
+First, we have got to
+find out who will rent
+us this buggy."
+
+#### 35 ####
+Citan
+"A sand buggy is a special
+car made for the desert.{enter}
+Its tires do not sink into
+the sand, so it is a must
+for long trips into the
+desert."
+
+#### 36 ####
+Citan
+"Well, leave it to me.
+Just you wait and see."
+
+#### 37 ####
+With that truce with
+Kislev, the war is
+basically over.{enter}
+Now our job will be to
+protect the people
+from desert pirates.
+
+#### 38 ####
+Three weeks ago Kislev
+raided the ruins to the
+north. They're probably
+coming here next.{enter}
+Be careful if you go 
+digging at the ruins.
+
+#### 39 ####
+Hey, I haven't seen you
+round here before.{enter}
+Don't think that if you
+cause trouble you'll get
+away with it!{enter}
+We're Aveh Army Guards!
+...Remember that!
+
+#### 40 ####
+Feels like the war's over.
+Now thing's should get
+better. I'm so relieved.
+
+#### 41 ####
+This is the Aveh Guard
+station.{enter}
+This town is important
+because it's the base for
+excavating the ruins. {enter}
+The elite of our army 
+are stationed here.
+
+#### 42 ####
+Hey, I haven't seen you
+round here before.{enter}
+Don't think that if you
+cause trouble you'll get
+away with it!{enter}
+We're Aveh Army Guards!
+...Remember that!
+
+#### 43 ####
+All's clear!
+
+#### 44 ####
+No enemies sighted!
+
+#### 45 ####
+Peace...
+The war's not over yet
+though.{enter}
+Still, it's like heaven
+compared to when we were
+always expecting enemy
+attacks.
+
+#### 46 ####
+There's a story floating
+around that the Kislev army
+is looking for buried Gear.{enter}
+Be careful if you go
+digging in the ruins.
+
+#### 47 ####
+Hey, I haven't seen you
+round here before.{enter}
+Don't think that if you
+cause trouble you'll get
+away with it!{enter}
+We're Aveh Army Guards!
+...Remember that!
+
+#### 48 ####
+Someone named Sigurd is
+in charge until the
+change to a republic.{enter}
+...Do you think a
+republic is a good
+idea?{enter}
+Anyway, I'm just glad
+that an end to the war
+is in sight.
+
+#### 49 ####
+The battle with Kislev the
+other day in the desert ended
+in a complete victory for us.{enter}
+We need the army because they
+get us generators from the
+Gears found in the ruins.{enter}
+We'll never give this town
+or our ruins to Kislev.
+
+#### 50 ####
+Hey, I haven't seen you
+'round here before.{enter}
+Don't think that if you
+cause trouble you'll get
+away with it!{enter}
+We're Aveh Army Guards!
+...Remember that!
+
+#### 51 ####
+There are burglars out
+looking for treasure
+in the desert ruins!{enter}
+{wait:05}...{wait:05}Brrr{wait:05}...{wait:05}
+{wait:05}...{wait:05}Shivers{wait:05}...!{wait:05}
+Oh,{wait:05} I just wet my pants.{enter}
+You better be careful too.
+
+#### 52 ####
+There's a lotta people
+who get lost in the desert
+and die of starvation!{enter}
+{wait:05}...{wait:05}Brrr{wait:05}...{wait:05}
+{wait:05}...{wait:05}Shivers{wait:05}...!{wait:05}
+Oh,{wait:05} I just pooed my pants.{enter}
+You better be careful too.
+
+#### 53 ####
+Gee, I wanna
+climb up there...
+
+#### 54 ####
+ Welcome! 
+
+#### 55 ####
+I counted on the war so I
+bought a lot of stuff...{enter}
+So what happens to my money
+when we become a republic?
+I'm gonna get wiped out!
+
+#### 56 ####
+Lately there's rumors of
+all out war with Kislev.{enter}
+I'm gonna stock up while
+there're still just small
+border skirmishes.
+
+#### 57 ####
+Hmm, the prices are a
+little high.{enter}
+But we need these things
+to cross the desert...
+
+#### 58 ####
+Shakhan who had been
+ruling this country
+has been chased out!{enter}
+The war with Kislev might
+end, and life will be easy
+again. I'm so happy.
+
+#### 59 ####
+Since those Gebler forces
+came, Aveh's hardly ever
+lost to Kislev.{enter}
+I wish the 'Ethos' would
+give out some of those
+new powerful Gears.
+
+#### 60 ####
+Hmm, you look tired.
+You can stay overnight at
+the bar, so why don't you
+rest there a little bit?{enter}
+Travelling all worn and
+tired, might just get you
+killed.
+
+#### 61 ####
+Hey, why the long face?
+Something bad happen?{enter}
+It's times like this,
+you need a drink...{enter}
+{wait:14}or two,{wait:14} or three{wait:14}...
+
+#### 62 ####
+The army's been sending a
+lot of guys down here...{enter}
+But surely, there has to
+be a more efficient way
+to excavate those ruins!
+
+#### 63 ####
+I'm in a 'fix'...
+The generator sensor
+is broken...{enter}
+It's the only thing
+that can sense buried
+Gear generators...{enter}
+Without that, I'm
+'ruin'ed!
+
+#### 64 ####
+There's a buncha thieves
+out in the desert called
+Sandmen... So you gotta
+equip yourself properly.{enter}
+If you don't, you only
+have yourself to blame.
+
+#### 65 ####
+There's a buncha pirates
+in a sand cruiser out in
+the desert... So you gotta
+equip yourself properly.{enter}
+If you don't, you only
+have yourself to blame.
+
+#### 66 ####
+Taking excavated parts to
+the workshop doesn't pay
+so well anymore.{enter}
+I hear they might downsize
+the workshop...times are
+tough, I tell ya.
+
+#### 67 ####
+Big profits for little work!
+That's the best way to make
+money... That's the knack!{enter}
+We make our money selling
+the parts we excavate to
+the 'Ethos'.{enter}
+The rarer the parts, the
+better the price!{wait:14}
+'Dig it'!?
+
+#### 68 ####
+So...
+What do you
+want to buy?
+
+#### 69 ####
+Fei
+"This town's lively."
+
+#### 70 ####
+Citan
+"This is the center for
+all excavations in Aveh.{enter}
+People come from all over
+Ignas to try and find the
+resources buried in the
+ruins around here."
+
+#### 71 ####
+Treasure Hunter Assoc.
+  Dazil Chapter 
+
+#### 72 ####
+  -Lucky Avenue-  
+ 'A relaxing bar' 
+
+#### 73 ####
+ Workshop Admin. 
+
+#### 74 ####
+ Workshop 
+
+#### 75 ####
+     Extra, extra!
+War in the desert again?
+ 
+   A new unit has been
+   assigned to a Kislev
+   base on the border.
+   An elite Kislev force...
+
+#### 76 ####
+Citan
+"Let us go the that shop
+we visited earlier and
+rent the buggy."
+
+#### 77 ####
+Citan
+"Fei, let us first find
+the person who will
+rent us this buggy."
+

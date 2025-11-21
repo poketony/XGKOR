@@ -1,0 +1,489 @@
+<TextBlock 1 w:14 h:1>
+Margie!<Close><End of Block>
+<TextBlock 2 w:14 h:1>
+Margie!<Close><End of Block>
+<TextBlock 3 w:42 h:2>
+Margie
+"Sono tornata!"<Close><End of Block>
+<TextBlock 4 w:56 h:1>
+Oh, Margie…<New>
+Come sono felice che
+tu sia sana e salva…<Close><End of Block>
+<TextBlock 5 w:44 h:3>
+Margie
+"Sì, e tutto grazie a
+Bart e ai suoi uomini."<Close><End of Block>
+<TextBlock 6 w:48 h:2>
+L'abbiamo appena saputo…<New>
+Così stiamo cantando
+un inno di preghiera e
+di gioia.<New>
+Siamo così felici…
+Oh, che sollievo!<Close><End of Block>
+<TextBlock 7 w:54 h:3>
+Suor Agnese
+"Bentornata, Margie.<New>
+Abbiamo avuto fede che tu
+e tuo cugino Bart sareste
+tornati sani e salvi un
+giorno…<New>
+Tutte noi vi stavamo
+aspettando."<Close><End of Block>
+<TextBlock 8 w:30 h:2>
+Margie
+"Suor Agnese!"<Close><End of Block>
+<TextBlock 9 w:44 h:4>
+Suor Agnese
+"Sfortunatamente,
+vostra madre e la
+benedetta Madre Reale…"<Close><End of Block>
+<TextBlock 10 w:48 h:4>
+Margie
+"Lo so, Suor Agnese<Delay 5>…<Delay 60>
+L'ho saputo nella
+Capitale Reale<Delay 5>…"<Close><End of Block>
+<TextBlock 11 w:52 h:3>
+Margie
+"… Ma infine, io
+sono tornata…<New>
+Non andrò più via, né
+vi lascerò più d'ora
+in poi!<New>
+Non voglio farvi più
+preoccupare… mai più!"<Close><End of Block>
+<TextBlock 12 w:44 h:2>
+Suor Agnese
+"Che siate benedetta…!"<Close><End of Block>
+<TextBlock 13 w:48 h:3>
+Margie
+"Suor Agnese, questo
+non è da voi!<New>
+Eccomi qua sana
+e salva.<New>
+Non potrei essere
+rimproverata come
+ai vecchi tempi?"<Close><End of Block>
+<TextBlock 14 w:38 h:3>
+Suor Agnese
+"Ah…
+Mi dispiace…<New>
+Ma sono così felice
+da non poterne fare
+a meno…"<Close><End of Block>
+<TextBlock 15 w:22 h:1>
+"Sorella…"<Close><End of Block>
+<TextBlock 16 w:54 h:3>
+Suor Agnese
+"Non c'è ragione
+per essere così
+solennemente quieta…"<Close><End of Block>
+<TextBlock 17 w:38 h:3>
+Margie
+"… Grazie, e che
+dio vi benedica tutte!"<Close><End of Block>
+<TextBlock 18 w:48 h:3>
+Margie
+"Oh, sì, Sorella…<Delay 30>
+Posso andare al piano
+di sopra?<New>
+Sono stata via per
+così tanto tempo che
+vorrei anche dare una
+occhiata in giro."<Close><End of Block>
+<TextBlock 19 w:54 h:2>
+Suor Agnese
+"Oh, ma certo, cara!<New>
+Non vi trattengo oltre…<New>
+Solo una cosa…<New>
+Non state più via per
+così tanto tempo."<Close><End of Block>
+<TextBlock 20 w:44 h:3>
+Margie
+"Ah, ah!
+Lo sapevo che
+l'avresti detto.<New>
+Questa è l'Agnese
+che conosco!"<Close><End of Block>
+<TextBlock 21 w:46 h:1>
+"Margie, sono cosi felice!"<Close><End of Block>
+<TextBlock 22 w:52 h:3>
+Bart
+"È passato molto tempo
+dall'ultima volta che
+sono stato qui."<Close><End of Block>
+<TextBlock 23 w:50 h:2>
+Bart
+"…?<New>
+Cos'hai, Margie?"<Close><End of Block>
+<TextBlock 24 w:26 h:2>
+Margie
+"… Niente.<New>
+È solo…"<Close><End of Block>
+<TextBlock 25 w:38 h:4>
+Margie
+"Credo di essermi
+emozionata un po'…
+Eh, eh, eh…"<Close><End of Block>
+<TextBlock 26 w:10 h:2>
+Bart
+"…"<Close><End of Block>
+<TextBlock 27 w:38 h:3>
+Bart
+"Comunque, resta
+calma per un po'.<New>
+… Ne hai già fatte
+abbastanza, ok?"<Close><End of Block>
+<TextBlock 28 w:52 h:3>
+Margie
+"… Se stai cercando di
+farmi piangere, non ci
+riuscirai."<Close><End of Block>
+<TextBlock 29 w:46 h:3>
+Margie
+"Oh sì!<New>
+Mostrerò a Fei e a Shitan
+la nostra cattedrale…<Delay 10>
+Seguitemi!"<Close><End of Block>
+<TextBlock 30 w:44 h:3>
+Shitan
+"Che forte ragazza
+che è…<New>
+Anche se è ovvio
+che vorrebbe solo
+mettersi a piangere…"<Close><End of Block>
+<TextBlock 31 w:48 h:3>
+Bart
+"Già, hai ragione…<New>
+Si è sempre comportata
+in questo modo.<New>
+Nonostante tutto,
+sa molto bene qual
+è la sua posizione…<New>
+Forse c'è qualcosa
+che anch'io potrei
+imparare da lei."<Close><End of Block>
+<TextBlock 32 w:42 h:2>
+Shitan
+"… Che meraviglia!"<Close><End of Block>
+<TextBlock 33 w:50 h:4>
+Margie
+"Ogni volta che Bart ed
+io venivamo rimproverati,
+ci nascondevamo qui."<Close><End of Block>
+<TextBlock 34 w:38 h:4>
+Bart
+"Ehi, smettila con
+queste vecchie storie.
+È imbarazzante!"<Close><End of Block>
+<TextBlock 35 w:50 h:3>
+Margie
+"Per me, Bart non
+è molto cambiato
+da allora."<Close><End of Block>
+<TextBlock 36 w:46 h:4>
+Bart
+"Vorresti dire che
+per te sarei ancora
+un bambino!?"<Close><End of Block>
+<TextBlock 37 w:42 h:3>
+Margie
+"Credo che da qui la
+vista sia la migliore."<Close><End of Block>
+<TextBlock 38 w:28 h:3>
+Shitan
+"Sì, è da togliere
+il fiato!"<Close><End of Block>
+<TextBlock 39 w:54 h:4>
+Shitan
+"…<New>
+La luce esterna brilla
+attraverso il vetro
+colorato della facciata
+della cattedrale…<New>
+Veramente un colpo
+di genio da parte
+dell'artista."<Close><End of Block>
+<TextBlock 40 w:48 h:4>
+Margie
+"Avete visto che ci
+sono due angeli con
+solo un'ala ciascuno…?"<Close><End of Block>
+<TextBlock 41 w:54 h:3>
+     Secondo una leggenda
+     tramandata in Nisan…<New>
+       Dio avrebbe creato
+      perfetti gli uomini…<New>
+          Ma essi non
+    s'aiutavano a vicenda…<New>
+Questo è ciò che simboleggiano
+ questi due grandi angeli con
+         un'ala sola…<New>
+    Per volare, essi devono
+  dipendere l'uno dall'altro.<Close><End of Block>
+<TextBlock 42 w:50 h:4>
+Shitan
+"Ah, così questa è
+la ragione.<Delay 5>
+Capisco…<New>
+Guardando meglio,
+l'angelo a sinistra
+è alquanto mascolino…<New>
+… mentre quello a destra
+è alquanto femminile."<Close><End of Block>
+<TextBlock 43 w:46 h:3>
+Shitan
+"Questa è un'inusuale
+caratteristica, vero?"<Close><End of Block>
+<TextBlock 44 w:52 h:3>
+Shitan
+"Di solito…<New>
+… in queste opere
+artistiche non viene
+rappresentato il sesso
+dei soggetti.<New>
+Ma in questi angeli si
+distinguono chiaramente
+i due sessi."<Close><End of Block>
+<TextBlock 45 w:44 h:4>
+Shitan
+"E lo spazio fra loro
+è la via donde vi è
+la venuta di dio…"<Close><End of Block>
+<TextBlock 46 w:42 h:3>
+Shitan
+"O forse è la via
+che conduce a dio?<New>
+Non saprei dirlo…
+Una o l'altra, o
+forse entrambe."<Close><End of Block>
+<TextBlock 47 w:30 h:2>
+Shitan
+"… Ora capisco!"<Close><End of Block>
+<TextBlock 48 w:48 h:3>
+Shitan
+"Tutto ciò coincide
+con gli insegnamenti
+di Nisan."<Close><End of Block>
+<TextBlock 49 w:54 h:4>
+Margie
+"Ah, ah, ah! Dottor
+Shitan Uzuki… Siete
+un tipo divertente!"<Close><End of Block>
+<TextBlock 50 w:50 h:3>
+Shitan
+"Oh! Scusami.<Delay 40>
+È una mia abitudine…"<Close><End of Block>
+<TextBlock 51 w:48 h:3>
+Fei
+"Doc conosce davvero
+un mucchio di cose…<New>
+Talvolta non riesco
+nemmeno a capire
+quello che dice…"<Close><End of Block>
+<TextBlock 52 w:46 h:4>
+Bart
+"… Ah!
+Costringerli a
+volare insieme…?<New>
+Non sarebbe meno
+fastidioso se 
+potessero volare da
+soli, eh Fei?"<Close><End of Block>
+<TextBlock 53 w:54 h:4>
+Margie
+"Bart!<New>
+Non riesci a vedere il
+profondo significato e
+la bellezza in esso
+racchiusi?"<Close><End of Block>
+<TextBlock 54 w:46 h:4>
+Margie
+"Un giorno vorrei essere
+di aiuto a qualcuno in
+quel modo…"<Close><End of Block>
+<TextBlock 55 w:52 h:4>
+Margie
+"Oh, non avete ancora
+visitato la 'Stanza di
+Sofia', vero?<New>
+Beh, per farlo
+bisognerebbe seguire
+un certo protocollo…<New>
+Ma penso che per questa
+volta si possa fare
+un'eccezione."<Close><End of Block>
+<TextBlock 56 w:18 h:2>
+Fei
+"Sofia?"<Close><End of Block>
+<TextBlock 57 w:44 h:4>
+Margie
+"Sì, Sofia.<New>
+Lei è venerata come la
+madre fondatrice della
+nazione di Nisan…<New>
+… e della religione di
+Nisan portatrice dei
+suoi insegnamenti.<New>
+Di sopra c'è una
+stanza speciale
+con il ritratto
+di Madre Sofia."<Close><End of Block>
+<TextBlock 58 w:50 h:4>
+Shitan
+"Mi piacerebbe davvero
+vederlo! Fei, andiamo
+a dargli un'occhiata!"<Close><End of Block>
+<TextBlock 59 w:48 h:4>
+Margie
+"Dobbiamo andare per la
+galleria al secondo piano
+da qui…"<Close><End of Block>
+<TextBlock 60 w:34 h:2>
+Suor Agnese
+"Molto bene!"<Close><End of Block>
+<TextBlock 61 w:56 h:3>
+Suor Agnese
+"Per celebrare il ritorno
+della nostra cara sorella
+Margie…<New>
+… e per esprimere la
+nostra gioia a dio,
+finiamo di cantare il
+nostro inno."<Close><End of Block>
+<TextBlock 62 w:48 h:3>
+(… Devi avere visitato
+in lungo e in largo
+la Capitale Reale…)<Close><End of Block>
+<TextBlock 63 w:46 h:2>
+Oltre questo punto,
+l'accesso è permesso solo
+alle persone autorizzate.<Close><End of Block>
+<TextBlock 64 w:44 h:3>
+Venire qui alla tua
+età è un segno del tuo
+interesse!<Close><End of Block>
+<TextBlock 65 w:14 h:1>
+( … )<Close><End of Block>
+<TextBlock 66 w:34 h:3>
+Ehi, ehi!
+Non andare là sopra
+in quel modo!<Close><End of Block>
+<TextBlock 67 w:54 h:3>
+Mi sono trasferito da
+un'altra città per
+vivere qui…<New>
+Ma dicono che invece
+i giovani vadano via
+da qui.<New>
+Questo significa che
+vogliono qualcosa di più
+della pace nei loro cuori?<New>
+Questa è la gioventù
+di oggi!<Close><End of Block>
+<TextBlock 68 w:58 h:3>
+Mio marito era un soldato
+nell'esercito di stanza
+alla Capitale Reale…<New>
+Ma è morto alcuni anni
+fa, presso il confine
+di Kislev.<New>
+Ogni anno, nello
+anniversario della sua
+morte, vengo qui.<Close><End of Block>
+<TextBlock 69 w:56 h:3>
+Io vivo nella Capitale,<Delay 30>
+ma tutto questo…<Delay 30> vale
+la fatica del viaggio!<New>
+Mai visto nulla di
+così meraviglioso!<Close><End of Block>
+<TextBlock 70 w:54 h:1>
+Chi era il tipo con
+cui stavi?<New>
+Qual è il suo problema…!?<New>
+(…<Delay 30> 'fanatico di castelli'!?)<Close><End of Block>
+<TextBlock 71 w:28 h:4>
+Fei
+"Uh?<Delay 30>
+Ah… Forse…
+<Delay 30>Credo."<Close><End of Block>
+<TextBlock 72 w:56 h:3>
+Io vivo nella Capitale,<Delay 30>
+ma tutto questo…<Delay 30> vale
+la fatica del viaggio!<New>
+Mai visto nulla di
+così meraviglioso!<Close><End of Block>
+<TextBlock 73 w:36 h:3>
+Bart
+(Mmh…
+Sì, hai ragione!)<Close><End of Block>
+<TextBlock 74 w:38 h:2>
+Il Castello di Fatima
+è nulla comparato a
+questo.<Close><End of Block>
+<TextBlock 75 w:40 h:3>
+Bart
+(Mhh…
+Sì, hai…<Delay 60> Cosa!?)<Close><End of Block>
+<TextBlock 76 w:42 h:4>
+Bart
+"Ehi, tu!<Delay 30>
+Cos'hai contro il
+Castello di Fatima!?"<Close><End of Block>
+<TextBlock 77 w:50 h:1>
+No, io volevo dire…<Close><End of Block>
+<TextBlock 78 w:34 h:1>
+Chi è questo tipo!?<Close><End of Block>
+<TextBlock 79 w:30 h:2>
+Fei
+"E, ehi! Bart!"<Close><End of Block>
+<TextBlock 80 w:50 h:4>
+Bart
+"Non prendermi in giro!
+Non sai neanche con
+chi stai parlando!"<Close><End of Block>
+<TextBlock 81 w:40 h:3>
+Bart
+"Porc… Non importa,
+lascia perdere!"<Close><End of Block>
+<TextBlock 82 w:50 h:4>
+Sto viaggiando per questo
+paese, e recentemente 
+sono stato nella zona
+della Capitale Reale.<New>
+Sono ritornato da pochi
+giorni, ma probabilmente
+me ne andrò fra breve.<Close><End of Block>
+<TextBlock 83 w:46 h:3>
+Voglio vedere con i
+miei occhi cosa
+diventerà questo paese.<Close><End of Block>
+<TextBlock 84 w:64 h:5>
+Dei preparativi stanno per
+iniziare presso il confine
+di questa zona, per ordine
+dell'esercito della Capitale.<New>
+Una mossa sbagliata
+potrebbe provocare la
+risposta del nemico,
+così per un po' agiremo
+al coperto.<New>
+Sto per partire, ma ho
+pensato di offrire una
+preghiera prima di andare.<Close><End of Block>
+<TextBlock 85 w:54 h:4>
+In realtà il tizio
+vicino a me ed io
+siamo nati qui.<New>
+Anni fa, entrambi stanchi
+della pacifica ma noiosa
+vita di questo posto,
+siamo scappati di casa.<New>
+Ma entrambi abbiamo
+finito per arruolarci
+nell'esercito.<New>
+Non è che abbiamo dei
+ricordi felici o altro
+qui…<New>
+È solo che questo è il
+posto dove siamo nati,
+se riesci a capirmi…<Close><Close><End of Block>

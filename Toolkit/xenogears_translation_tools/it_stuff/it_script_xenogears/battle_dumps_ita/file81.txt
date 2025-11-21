@@ -1,0 +1,39 @@
+<TextBlock 1 w:42 h:3>
+Shitan
+"Oh, uno stallone
+selvaggio, eh?<New>
+Allora… è arrivato
+il momento che
+qualcuno ti domi…"<Close><End of Block>
+<TextBlock 2 w:36 h:2>
+Shitan
+"Rinforzi!?"<Opcode 2 30><Close><End of Block>
+<TextBlock 3 w:44 h:4>
+Shitan
+"Paragonato al dolore
+che i miei amici
+stanno sopportando…<New>
+… il tuo è una
+inezia…!!<New>
+Non posso permettere
+a gente come te
+di continuare a
+tormentare coloro…<New>
+… che non possono
+difendersi.<New>
+Proverai sulla tua
+pelle ciò ch'essi
+stanno provando.<Delay 20>
+Fatti sotto!"<Close><End of Block>
+<TextBlock 4 w:30 h:2>
+Broyer
+"Eeeaaarrrgh!!"<Close><End of Block>
+<TextBlock 5 w:26 h:3>
+Broyer
+"Ehi,
+fa male!!"<Close><End of Block>
+<TextBlock 6 w:32 h:4>
+Broyer
+"?<Delay 20>
+Di che stai
+parlando!?"<Close><Close><Close><Close><%b><End of Block>

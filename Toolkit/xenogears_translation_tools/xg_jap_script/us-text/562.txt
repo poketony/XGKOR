@@ -1,0 +1,758 @@
+#### 1 ####
+{fast:FF}You and I must
+become one!!!{clear:78}
+
+#### 2 ####
+Fei
+"What's this...?"
+
+#### 3 ####
+Fei
+"This pendant...{enter}
+Is this Sophia's...
+or my mother's...?"
+
+#### 4 ####
+I'm begging you Fei...{wait:64}{wait:64}{wait:64}
+
+#### 5 ####
+Citan
+"Fei!!
+Where did the real
+you go?{enter}
+Remember!
+Were you not going
+to help Elly?"
+
+#### 6 ####
+Bart
+"Fei!!
+Do you want it to end
+like this?{enter}
+Think!
+Aren't you going
+to help Elly?"
+
+#### 7 ####
+Billy
+"Fei!!
+What have you been
+fighting for up until now?{enter}
+Remember...!?
+It's for her...Elly!
+Aren't you going to help
+her!?"
+
+#### 8 ####
+Rico
+"Fei!
+How long are you
+gonna be like this?{enter}
+Think kid, think!
+Aren't you going
+to help Elly?"
+
+#### 9 ####
+Emeralda
+"Fei!
+Elly waiting!{enter}
+Remember!?
+Elly still there...
+Still waiting!"
+
+#### 10 ####
+{name:07:チュチュ}
+"Fei!
+Wake up!{enter}
+You mustn't forget!
+The one you love...
+Elly!
+You've gotchu help her!"
+
+#### 11 ####
+Maria
+"Fei!
+Be strong!{enter}
+Remember...
+Elly needs
+you now!"
+
+#### 12 ####
+Citan
+"What is that you say?"
+
+#### 13 ####
+Bart
+"What the...?"
+
+#### 14 ####
+Billy
+"What?"
+
+#### 15 ####
+Rico
+"No way...
+Get real!?"
+
+#### 16 ####
+Emeralda
+"!?"
+
+#### 17 ####
+{name:07:チュチュ}
+"Whatchu mean?"
+
+#### 18 ####
+Maria
+"What?"
+
+#### 19 ####
+Citan
+"Contact!?"
+
+#### 20 ####
+Bart
+"Contact!?"
+
+#### 21 ####
+Billy
+"Contact?"
+
+#### 22 ####
+Rico
+"Contact?"
+
+#### 23 ####
+Emeralda
+"Contact?"
+
+#### 24 ####
+{name:07:チュチュ}
+"Contact!?"
+
+#### 25 ####
+Maria
+"Contact?"
+
+#### 26 ####
+Citan
+"Contact!?"
+
+#### 27 ####
+Emeralda
+"Contact?"
+
+#### 28 ####
+Citan
+"Contact!?"
+
+#### 29 ####
+Dad!!
+
+#### 30 ####
+Fei
+"Dad!
+Are you okay?{enter}
+Dad! 
+I'm sorry...
+this is all my fault..."
+
+#### 31 ####
+Khan
+"Fei{wait:0A}...?{enter}
+You've returned to
+your own self...
+You've become one..."
+
+#### 32 ####
+Fei
+"Yes, thanks to you all.
+If all of you hadn't
+called out to me..."
+
+#### 33 ####
+Khan
+"Urgh!"
+
+#### 34 ####
+Fei
+"Dad!"
+
+#### 35 ####
+Khan
+"Don't worry{wait:0A}...{wait:0A}
+This is good{wait:0A}...{wait:0A}
+This is,{wait:0A} after all...{wait:0A}I..."
+
+#### 36 ####
+Fei
+"Dad?"
+
+#### 37 ####
+Khan
+"You and{wait:0A}..."
+
+#### 38 ####
+Fei
+"Huh!?
+G, Grahf!?
+What's going on...?"
+
+#### 39 ####
+Grahf
+"Ha ha...{enter}
+'I' reached the limit of
+the body I possessed, on
+that day 3 years ago...{enter}
+'I' required a body that
+would tide me over until
+your true awakening.{enter}
+That is why 'I' acquired
+the body of your father.{enter}
+Regardless of your
+awakening, your merging,
+and the inherited memories
+you had acquired...{enter}
+...there was no way for
+you to know of this, since
+you had lost your memory
+at that point...{enter}
+At the point in which 'I'
+merged with your father."
+
+#### 40 ####
+Fei
+"Impossible...!
+What about Wiseman...?
+What about father...?"
+
+#### 41 ####
+Grahf
+"Of course they were just
+parts of me... I couldn't
+hold on to Khan totally.{enter}
+His ego was far stronger
+than I imagined. When my
+control weakened he showed
+himself to you as Wiseman."
+
+#### 42 ####
+Fei
+"Arggh..."
+
+#### 43 ####
+Grahf
+"You have awakened.
+This body is now
+useless to me.{enter}
+Now I must return to
+my original body...
+the reincarnation of my
+body that you inhabit."
+
+#### 44 ####
+Fei
+"Stop it...!
+Dad...!"
+
+#### 45 ####
+Grahf
+"I hear you Fei...
+You see, he and I are one.
+I am Khan, Khan is me.{enter}
+He has become one with me,
+so you too should open
+your heart and unite with
+me.{enter}
+Then we can go on to
+eliminate everything!"
+
+#### 46 ####
+Fei
+"No{wait:0A}...{wait:0A}I{wait:0A}...{wait:0A}can't
+{wait:0A}...{wait:0A}allow{wait:0A}...{wait:0A}you{wait:0A}...{wait:0A}to
+{wait:0A}...{wait:0A}control{wait:0A}...{wait:0A}me!"
+
+#### 47 ####
+Grahf
+"Hmph.
+Protecting your master?
+Then so be it.{enter}
+I'll merge with both you
+and your machine then.
+Now come, Fei!
+Fight me!"
+
+#### 48 ####
+Fei
+"It's no use!
+I know you're Lacan, and
+that you're a part of me.{enter}
+But that doesn't change
+you being my father.
+I could never really
+fight you!
+
+#### 49 ####
+Grahf
+"You're so naive!{enter}
+Why don't you understand
+that your naivety is what
+killed Sophia, what killed
+your mother 'Karen'?
+
+#### 50 ####
+Fei
+"I already know that!
+That's why I swore never
+to run away again...{enter}
+...that I must rescue Elly.
+So don't get in my way!
+Wake up! Open your eyes,
+father...-Lacan-!"
+
+#### 51 ####
+Grahf
+"If that's the case
+..then fight me!
+Fight me!!!"
+
+#### 52 ####
+Fei
+"I can't!"
+
+#### 53 ####
+Grahf
+"I see...
+Then there's
+no choice."
+
+#### 54 ####
+Fei
+"!?"
+
+#### 55 ####
+Grahf
+"Since you are so unwilling
+to fight, I believe I'll
+have to use them as bait."
+
+#### 56 ####
+ ! 
+
+#### 57 ####
+Fei
+"Stop it!{enter}
+Don't we have the same
+memories? Can't you also
+remember that sadness
+you felt way back then?{enter}
+Why then...why must you
+destroy everything?
+If we stop Deus, won't
+this all be over!?"
+
+#### 58 ####
+Grahf
+"You still don't understand
+...even after your contact
+with the Existence?{enter}
+I came to understand after
+my contact with the
+Existence that, even if
+Deus was destroyed...{enter}
+...as long as humans still
+inhabit this land, Miang...
+Elhaym, will be born time
+and again.{enter}
+Then all living things may
+as well perish along with
+Deus itself. That's the
+only path to freedom.{enter}
+The path to release us from
+the eternal cycles of life,
+the tragedies of history
+and the spell of fate!{enter}
+Once I awaken Deus as a
+weapon, I'll obliterate
+all living things...{enter}
+Then I'll use your awakened
+self and that machine to
+return everything to
+nothing...{enter}
+That's what I concluded.{enter}
+Miang and Elhaym...are not
+just Deus' mouthpieces.
+That 'woman' is its main
+body!{enter}
+Why can't you see that?"
+
+#### 59 ####
+Fei
+"That's not true.
+She gave her life for me
+by shielding me from harm!{enter}
+Her eyes weren't Miang's!
+Mother came back at the
+last moment!{enter}
+Miang, mother...even Elly,
+were all humans born on
+this planet!
+Deus doesn't matter!{enter}
+You'll see...
+I will bring Elly back!{enter}
+Father{wait:0A}...{wait:0A}
+No, Grahf -Lacan-! 
+If you won't back down..."
+
+#### 60 ####
+Grahf
+"Never!"
+
+#### 61 ####
+Fei
+"Then I have
+no choice...!"
+
+#### 62 ####
+{slow:01}The time has come{wait:0A}
+to truly become one!
+
+#### 63 ####
+Khan
+"What happened
+to Fei{wait:0A}...{wait:1E}
+Id!?"
+
+#### 64 ####
+Id
+"Too bad.
+The new personality of Fei
+that you gave birth to...{enter}
+...and all that work that
+your persona did to make
+him one, perfect, unified
+whole has been wasted.{enter}
+He will be swallowed up
+by me!"
+
+#### 65 ####
+Khan
+"I won't permit it! 
+I will destroy you first!"
+
+#### 66 ####
+Id
+"As if you could...sissy!
+Mother died because of
+your cowardly behavior.{enter}
+And as a result, he ran
+away from that reality
+by entering into his
+memories!{enter}
+And now I continue my
+existence bearing all
+that hatred.{enter}
+You wouldn't be able to
+imagine what it's like!"
+
+#### 67 ####
+Khan
+"I wasn't simply working
+to unify Fei's personality,
+you know!?{enter}
+All that you and I feel{wait:05}...{wait:05}
+the sadness,{wait:05} the hatred{wait:05}...{wait:05}
+Even though he also
+experienced such things{wait:05}...{enter}
+Fei needed to be encouraged
+to build himself up in
+order to be able to
+comprehend all of this.{enter}
+Fei should be able to
+understand all of your
+feelings now!{enter}
+But now you want to erase
+the one who understands you{wait:05}
+...{wait:05}to kill Fei!{wait:0F} What is it
+that you want?"
+
+#### 68 ####
+Id
+"Why ask me such a thing
+now?{enter}
+My purpose is the same as
+his{wait:05}...{wait:0A}total destruction!{wait:0A}
+That and that alone!"
+
+#### 69 ####
+Khan
+"Is this world so bad a
+place{wait:05}...{wait:05}that there is only
+hatred inside of you?"
+
+#### 70 ####
+Id
+"You're the ones who made
+me this way{wait:05}...{wait:05} You and
+that woman!{wait:0A} Admit it!"
+
+#### 71 ####
+Khan
+"Argh{wait:05}...!{wait:1E}
+Fei{wait:05}...!!{wait:0A}
+Can you hear me?{enter}
+Please take this fist
+full of memories I am
+giving you{wait:05}...{enter}
+Become one{wait:05}...{wait:05}
+with yourself{wait:05}...{wait:05}
+and with me!
+
+#### 72 ####
+Khan
+"That's right...
+Karen had become Miang."
+
+#### 73 ####
+Khan
+"It's nothing special.
+Miang does not have
+only one host body.{enter}
+Miang's roots are sealed
+in the genes of all
+women. Any one of them
+could become Miang."
+
+#### 74 ####
+Id
+"It just happened to be
+mother's turn.{enter}
+Only Elly was 'special'
+originally!!"
+
+#### 75 ####
+Khan
+"Nooooooooo!"
+
+#### 76 ####
+Khan
+"Karen, -Miang-, noticed
+that Fei's memory time axis
+had increased 2 or 3 fold.{enter}
+She then became convinced
+that Fei was the
+'Contact'!"
+
+#### 77 ####
+{slow:01}
+...Yes, I was the Contact.
+That's why HE called out
+to me...{enter}
+And why the time had come...
+
+#### 78 ####
+Khan
+"I was a fool.
+It was all my fault.{enter}
+I was so busy with my
+duties in Shevat that
+I didn't notice Karen
+had changed.{enter}
+I couldn't save you
+when you needed my
+help."
+
+#### 79 ####
+Id
+"Save me? ...Hah!
+Why bother saying
+such nonsense now?{enter}
+It's not going to
+change anything!{enter}
+The only thing you
+can do now is die
+by my hand!"
+
+#### 80 ####
+Khan
+"Urrrggh!!{enter}
+Even still{wait:05}...{wait:0A}
+I'll show{wait:05}...{wait:05}you{wait:05}...{wait:0A}
+that I can{wait:05}...{wait:05}save you{wait:05}...!"
+
+#### 81 ####
+Dad!!
+
+#### 82 ####
+Stop it! Id!
+Father has done
+nothing wrong!
+
+#### 83 ####
+I know. This one is
+the real culprit.{enter}
+Mother and father
+had no choice.
+
+#### 84 ####
+Grahf
+"Why don't you
+finish me off?{enter}
+If you don't get
+rid of me, then
+you cannot get
+what you want."
+
+#### 85 ####
+Fei
+"It's alright...dad.
+I understand.
+You are not Grahf.{enter}
+You are my father.
+You and Grahf are one.
+Your will and purpose
+never change.{enter}
+I knew that once we fought.
+But let's stop now.
+Our objectives should be
+the same. {enter}
+It is the same as our
+becoming one.
+We don't have to fight."
+
+#### 86 ####
+Fei
+"Arrghh!
+What...!?
+My body...!?"
+
+#### 87 ####
+Grahf
+"Zohar is after you!
+The last piece to combine
+with Deus' system.{enter}
+It seeks to unify with
+you...the first to have
+been divided from it."
+
+#### 88 ####
+Fei
+"What..!?"
+
+#### 89 ####
+Grahf
+"This is what Lacan wanted
+all along. After all, I'm
+an imperfect existence.{enter}
+It was inevitable that
+it would come to this...
+considering what had
+happened in the past.{enter}
+Lacan's imperfect
+secondary contact with
+the Wave Existence split
+his personality into two.{enter}
+Eventually his body died,
+but the original Lacan
+transmigrated...{enter}
+Bringing the destiny of
+becoming a Contact with
+him, he was reborn as
+your present body.{enter}
+The remaining persona,
+just his desires, lived on
+seperately by possessing
+the bodies of others.{enter}
+That is Grahf...that is
+me.{enter}
+I may have inherited
+Lacan's will, but I'm not
+the same as the 'Contact
+Lacan'.{enter}
+It is impossible for me
+to make real contact.
+There would be no true
+melding and release.{enter}
+Even though our bodies
+may be different, I am
+still half of you.
+That fact remains.{enter}
+Although I'm imperfect, I
+can merge temporarily with
+Zohar, and thus may be
+able to buy you some time.{enter}
+This is the only way I
+can be one with you."
+
+#### 90 ####
+Grahf
+"This is all I can do.
+Deus' system will start
+to look for you again.{enter}
+Before then, you have
+to destroy the newly
+perfected Deus and
+this Zohar modifier.{enter}
+You're the only one
+that can destroy the
+physical barrier that
+encases god's body."
+
+#### 91 ####
+Fei
+"Dad!"
+
+#### 92 ####
+Grahf
+"As you said, that was
+Karen.{enter}
+Through many generations
+Miang is beginning to break
+free from her bounds.{enter}
+Now that Elhaym has merged
+with Deus, she has all of
+her memories back.{enter}
+All the memories from her
+original birth as the
+Contact's complement up to
+her current transmigration.{enter}
+That includes all of the
+lives she has lived as
+Miang, and her substitutes,
+over the centuries.{enter}
+And of course, that
+includes your mother's
+memories too."
+
+#### 93 ####
+Fei
+"Mother's
+memories...?"
+
+#### 94 ####
+Grahf
+"Fei, cut away all the
+binds on mankind...{enter}
+You should be able to
+do that now. Save her
+and all the other women
+bound with her!"
+
+#### 95 ####
+ ? 
+
+#### 96 ####
+Fei
+"It's nothing{wait:05}...{wait:05}
+I'm just talking
+to myself.{enter}
+I'm sorry, for all the
+trouble I've caused
+everyone.{wait:0F}
+Thank you all so much!{enter}
+Anyway, let's get going!{wait:0F}
+There is little time
+left now{wait:05}...{wait:05}for me{wait:05}...{wait:05}
+and for our planet!"
+

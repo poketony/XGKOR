@@ -1,0 +1,378 @@
+<TextBlock 1 w:3 h:1>
+<End of Block>
+<TextBlock 2 w:32 h:1>
+<End of Block>
+<TextBlock 3 w:58 h:1>
+<End of Block>
+<TextBlock 4 w:62 h:1>
+<End of Block>
+<TextBlock 5 w:30 h:1>
+<End of Block>
+<TextBlock 6 w:42 h:1>
+<Close><End of Block>
+<TextBlock 7 w:50 h:1>
+Torneo<Close><End of Block>
+<TextBlock 8 w:48 h:1>
+Giocatore contro Computer<Close><End of Block>
+<TextBlock 9 w:36 h:1>
+Giocatore 1 contro Giocatore 2<Close><End of Block>
+<TextBlock 10 w:56 h:1>
+Modalità Demo<Close><End of Block>
+<TextBlock 11 w:40 h:1>
+Stabilisci Numero Scontri<Close><End of Block>
+<TextBlock 12 w:50 h:1>
+Forza del Nemico (Computer)<Close><End of Block>
+<TextBlock 13 w:40 h:1>
+Imposta Modalità Elastico<Close><End of Block>
+<TextBlock 14 w:58 h:1>
+Continua l'incontro<Close><End of Block>
+<TextBlock 15 w:56 h:1>
+Abbandona e ritorna al menu<Close><End of Block>
+<TextBlock 16 w:62 h:1>
+Modifica impostazioni di gioco<Close><End of Block>
+<TextBlock 17 w:34 h:1>
+Continua sessione di pratica<Close><End of Block>
+<TextBlock 18 w:34 h:1>
+Termina sessione di pratica<Close><End of Block>
+<TextBlock 19 w:54 h:1>
+Imposta algoritmo Gear nemico…<Close><End of Block>
+<TextBlock 20 w:46 h:1>
+Imposta velocità (normale=4)<Close><End of Block>
+<TextBlock 21 w:50 h:1>
+Rallentatore (normale=30fps)<Close><End of Block>
+<TextBlock 22 w:52 h:1>
+Modalità 'Non Fare Nulla'<Close><End of Block>
+<TextBlock 23 w:56 h:1>
+Modalità 'Solo in Guardia'<Close><End of Block>
+<TextBlock 24 w:32 h:1>
+'Controlla con il Controller 2'<Close><End of Block>
+<TextBlock 25 w:34 h:1>
+Modalità 'Attacco Feroce'<Close><End of Block>
+<TextBlock 26 w:30 h:1>
+'Attacco a breve distanza'<Close><End of Block>
+<TextBlock 27 w:44 h:1>
+'Attacco con Proiettili Eterei'<Close><End of Block>
+<TextBlock 28 w:48 h:1>
+'Salto + Att. Proiett. Eterei'<Close><End of Block>
+<TextBlock 29 w:52 h:1>
+Modalità 'Salta Soltanto'<Close><End of Block>
+<TextBlock 30 w:48 h:1>
+Modalità 'Insegui'<Close><End of Block>
+<TextBlock 31 w:40 h:1>
+Modalità 'Scappa'<Close><End of Block>
+<TextBlock 32 w:40 h:1>
+Modalità 'Retroscatto'<Close><End of Block>
+<TextBlock 33 w:32 h:1>
+Modalità Comb. liv. FACILE<Close><End of Block>
+<TextBlock 34 w:44 h:1>
+Modalità Comb. liv. NORMALE<Close><End of Block>
+<TextBlock 35 w:34 h:1>
+Modalità Comb. liv. DIFFICILE<Close><End of Block>
+<TextBlock 36 w:36 h:1>
+Seleziona modalità del Gear 1<Close><End of Block>
+<TextBlock 37 w:42 h:1>
+Seleziona modalità del Gear 2<Close><End of Block>
+<TextBlock 38 w:45 h:1>
+Scegli il tuo Gear<Close><End of Block>
+<TextBlock 39 w:58 h:3>
+Scegli il Gear dell'avversario<Close><End of Block>
+<TextBlock 40 w:58 h:2>
+Scegli il primo Gear<Close><End of Block>
+<TextBlock 41 w:58 h:8>
+Scegli il secondo Gear<Close><End of Block>
+<TextBlock 42 w:44 h:3>
+ATTIVA/DISATTIVA vibrazioni<Close><End of Block>
+<TextBlock 43 w:58 h:3>
+OK? (Annulla con il Pulsante <Circle>)<Close><End of Block>
+<TextBlock 44 w:58 h:1>
+Benvenuto, Combattente! Qui
+puoi imparare di più riguardo
+ai controlli di 'Battagliare'.<Close><End of Block>
+<TextBlock 45 w:60 h:4>
+Scegli l'argomento che vuoi
+imparare, e poi premi <Cross>.<Close><End of Block>
+<TextBlock 46 w:60 h:8>
+'Battagliare' è un gioco dove
+combatti uno-contro-uno con
+dei Gear in un'arena (o campo)
+circolare e molto ampia.<Wait>
+Un incontro termina quando il
+tuo Gear o quello del tuo
+avversario viene danneggiato
+e i suoi HP scendono a zero.<Close><End of Block>
+<TextBlock 47 w:46 h:2>
+Il gioco si svolge su uno
+schermo che mostra i due
+Gear lateralmente.<Close><End of Block>
+<TextBlock 48 w:52 h:7>
+Questo è il tuo Gear. Inizi
+la battaglia sul lato a
+sinistra dello schermo.<Close><End of Block>
+<TextBlock 49 w:61 h:12>
+Questo è il Gear avversario.<Close><End of Block>
+<TextBlock 50 w:61 h:16>
+Queste sono le Barre di
+Resistenza che mostrano la
+quantità di danno subita.<New>
+La barra più in alto è la tua,
+quella più in basso è quella
+del tuo avversario.<New>
+Quando attacchi il tuo nemico,
+la Resistenza del suo Gear
+diminuirà. Essa non si può
+recuperare in alcun modo.<New>
+Quello che riuscirà a far
+esaurire la Barra Resistenza
+(HP) del suo avversario,
+diventerà il vincitore.<Close><End of Block>
+<TextBlock 51 w:60 h:4>
+Questa è la tua Barra Calore.<New>
+Indica la temperatura del tuo
+Gear, e si alza quando usi la
+tua abilità Scatto o quando
+spari Proiettili Eterei.<Wait>
+La temperatura del tuo Gear
+può essere però recuperata,
+e anche questo verrà mostrato
+dalla Barra Calore.<Close><End of Block>
+<TextBlock 52 w:60 h:4>
+Questa è la Barra Calore
+del tuo avversario.<Close><End of Block>
+<TextBlock 53 w:60 h:8>
+Uno di questi segni si
+illuminerà ogni volta
+che vinci uno scontro.
+ <Wait>
+Quando vinci il numero
+stabilito di incontri,
+ti verrà assegnata la
+vittoria della gara.<Close><End of Block>
+<TextBlock 54 w:60 h:8>
+Quando usi i Proiettili Eterei
+o l'abilità Scatto, la tua
+Barra Calore si alzerà. Devi
+evitare di surriscaldarti!<New>
+La barra diminuirà quando usi
+attacchi normali o mentre non
+stai facendo nulla.
+ <Wait>
+Anche mentre corri senza
+scattare essa si abbasserà,
+anche se lentamente.
+ <New>
+Se usi troppo i Proiettili
+Eterei o lo Scatto, il ritmo
+di raffreddamento non terrà il
+passo del surriscaldamento…<Wait>
+Se la Barra Calore raggiunge
+il limite, il tuo Gear si
+surriscalderà eccessivamente…
+ <Wait>
+A questo punto, usare ancora
+queste abilità danneggerà il
+tuo Gear e ti farà perdere
+Resistenza (HP).<Close><End of Block>
+<TextBlock 55 w:56 h:4>
+Quando l'indicatore a fianco
+della Barra Calore è blu, puoi
+usare Proiettili Eterei o lo
+Scatto normalmente.<Wait>
+Ma, se userai queste abilità
+mentre l'indicatore è giallo…
+ 
+ <Wait>
+… la tua Barra Calore supererà
+il suo limite e la tua Barra
+Resistenza (HP) diminuirà.
+ <Wait>
+Quando l'indicatore è rosso,
+non hai più Resistenza (HP),
+perciò non puoi più lanciare
+Proiettili Eterei.<Close><End of Block>
+<TextBlock 56 w:60 h:8>
+Una strategia è quella di
+attaccare il tuo nemico finché
+hai Resistenza (HP) che ti
+avanza.<Close><End of Block>
+<TextBlock 57 w:60 h:16>
+Per avvicinarti all'avversario,
+premi la Croce Direzionale
+verso di lui/lei.<New>
+Per allontanarti, premi la
+Croce Direzionale nella
+direzione opposta.<New>
+Premere Su/Giù sulla Croce
+Direzionale ti farà muovere
+rispettivamente avanti o
+indietro sullo schermo.<New>
+Premi <Tri> per saltare.<Close><End of Block>
+<TextBlock 58 w:63 h:10>
+Tieni premuto <Circle> mentre ti
+muovi per Scattare. Correrai
+a doppia velocità, ma la tua
+Barra Calore si riempirà.<Wait>
+Non puoi Scattare mentre la
+Barra Calore è al massimo o
+quando la tua Barra Resistenza
+(HP) è troppo bassa.<New>
+Inoltre, la Barra Calore non
+si abbasserà durante il tempo
+passato in aria quando salti
+mentre stai Scattando.<Close><End of Block>
+<TextBlock 59 w:60 h:9>
+Quando sei proprio di fronte
+all'avversario e premi la
+Croce Direzionale nella
+direzione opposta a lui/lei…<Wait>
+… puoi eseguire un Retroscatto
+(acceleri momentaneamente
+all'indietro). Usalo per 
+evitare l'avversario.<Close><End of Block>
+<TextBlock 60 w:44 h:1>
+Muoversi nel deserto fa
+aumentare la Barra Calore
+più velocemente. Anche la
+Accelerazione è peggiore.<Close><End of Block>
+<TextBlock 61 w:54 h:4>
+Non puoi Scattare nell'acqua.
+Essa inoltre assorbirà i
+Proiettili Eterei, perciò non
+puoi spararli sott'acqua.<Wait>
+Tuttavia, la Barra Calore
+si abbasserà un po' più
+velocemente mentre sei
+in acqua.<Close><End of Block>
+<TextBlock 62 w:28 h:8>
+Puoi usare i Pulsanti <Square> e <Cross>
+per attaccare.<New>
+Per esempio, se premi una sola
+volta il Pulsante <Square> comincerai
+una sequenza d'attacco.
+ <Wait>
+<Delay 120>Se nel frattempo non premi
+un altro pulsante, eseguirai
+solamente l'attacco del
+Pulsante <Square>.<New>
+Ora osserva che succede se
+premiamo un altro Pulsante
+d'Attacco prima che quello
+precedente sia completato…<Wait>
+Sia <Square> che <Cross> vanno bene, ma ora
+proviamo a premere <Cross> dopo il
+nostro attacco precedente con
+il pulsante <Square>.<Wait><Delay 120>
+… L'attacco col pulsante <Cross>
+verrà sùbito dopo quello del
+pulsante <Square>.
+ <Wait>
+In questo modo, puoi inserire
+in anticipo fino a 3 attacchi,
+ed eseguirli in una sola,
+rapida sequenza.<New>
+Il tipo di attacco cambia a
+seconda dell'ordine e di
+quante volte i Pulsanti <Square> e
+<Cross> sono premuti.<New>
+Cerca di combinare i Pulsanti
+d'Attacco in qualsiasi ordine
+tu voglia. Ad esempio… <Wait><Square><Cross><Square>,<Delay 120>
+<Wait><Square><Square><Square>,<Delay 120> <Wait><Cross><Cross><Square><Delay 120> e così via.<Wait>
+In tutto ci sono 14 differenti
+tipi di combinazioni d'attacco
+da provare.
+ <New>
+Puoi inserire fino a 3
+attacchi, prima che il
+primo sia stato completato.<Wait>
+Tra i tuoi nemici ci sono Gear
+che possono attaccare solo
+massimo 2 volte di fila.
+ <Close><End of Block>
+<TextBlock 63 w:48 h:2>
+Per attacchi da lunga distanza
+puoi premere R1 per lanciare
+un 'Proiettile Etereo'.
+ <Wait>
+Essi hanno la capacità di
+inseguire il nemico, ma si
+dissolveranno a contatto di
+cose come muri o l'acqua.<New>
+Per ogni colpo Etereo, la Barra
+Calore si alzerà di molto.
+ 
+ <Wait>
+Se non stai attento, potresti
+finire tutta la tua Resistenza
+(HP) continuando a sparare
+Proiettili Eterei.<Wait>
+Perciò, sta' sempre attento
+alla tua Barra Calore, per
+paura di perdere Resistenza.<New>
+Se il tuo avversario ti spara
+un Proiettile Etereo, Scatta
+o salta per evitarlo.
+ <Wait>
+Inoltre, se colpisci la schiena
+del tuo nemico mentre sta
+scappando, potresti fermarlo
+facendolo cadere.<Close><End of Block>
+<TextBlock 64 w:62 h:2>
+A volte non puoi evitare
+l'attacco del tuo avversario
+togliendoti semplicemente
+dalla traiettoria.<Wait>
+In quelle occasioni, è meglio
+usare L1 per difenderti dagli
+attacchi del nemico.
+ <New>
+Se stai per essere colpito dal
+nemico e non pensi di poterlo
+evitare…
+ <Wait>
+… premi L1 per metterti
+in posizione di guardia.
+ 
+ <Wait>
+Se riuscirai a difenderti
+in tempo, il danno subito
+verrà dimezzato.
+ <New>
+Tuttavia, non puoi proteggerti
+da attacchi che provengono
+da dietro di te.<New>
+Potrebbe essere difficile
+abituarsi, ma quando ci sarai
+riuscito, difendersi diventerà
+una tattica davvero utile.<Close><End of Block>
+<TextBlock 65 w:62 h:2>
+Battagliare con Elastico<Close><End of Block>
+<TextBlock 66 w:50 h:100>
+E con questo abbiamo finito…
+Perché non provi la nostra
+'Modalità Pratica'? Buona
+fortuna! E divertiti!<Close><End of Block>
+<TextBlock 67 w:9 h:101>
+'Battagliare'
+Lo schermo
+Movimento
+Attacco
+Barra Calore
+Proiett.Eterei
+Difesa
+Fine<Close><End of Block>
+<TextBlock 68 w:54 h:102>
+Leonardo
+"Mh! Non male.<New>
+Fai a modo tuo, allora…
+Basta giocare!<New>
+Facciamo sul serio…"<Close><End of Block>
+<TextBlock 69 w:57 h:105>
+Leonardo
+"Umph! Non era nulla.<New>
+Ora basta con le cretinate!
+Facciamo sul serio…"<Close><End of Block>
+<TextBlock 70 w:10 h:110>
+Fei
+"????<Delay 90> Ma che succede?"<New>
+Fei
+"Ma cosa…!?<Delay 90> Il mio Gear…!?"<Close><Close>ÙÙÙ<Close><End of Block>

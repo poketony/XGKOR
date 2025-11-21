@@ -1,0 +1,139 @@
+<TextBlock 1 w:22 h:2>
+Fei
+"Mmmh…?"<Close><End of Block>
+<TextBlock 2 w:52 h:2>
+Fei
+"Questo è il sistema
+principale?"<Close><End of Block>
+<TextBlock 3 w:24 h:2>
+Fei
+"Qualche idea?"<Close><End of Block>
+<TextBlock 4 w:12 h:2>
+Fei
+"Eh?"<Close><End of Block>
+<TextBlock 5 w:40 h:3>
+Fei
+"È questo? Perché
+non quello?"<Close><End of Block>
+<TextBlock 6 w:44 h:1>
+L'Area B è disattivata.<Close><End of Block>
+<TextBlock 7 w:38 h:2>
+Il Sistema Blocco
+Porta è ora operativo.<Close><End of Block>
+<TextBlock 8 w:32 h:2>
+Blocco Porta Area B
+disattivato.<Close><End of Block>
+<TextBlock 9 w:10 h:1>
+Fatto!<Close><End of Block>
+<TextBlock 10 w:32 h:2>
+Prego, attivare il
+sistema principale!<Close><End of Block>
+<TextBlock 11 w:44 h:1>
+Il sistema principale
+è attivo.<Close><End of Block>
+<TextBlock 12 w:46 h:1>
+Attivazione sistema
+principale.<Close><End of Block>
+<TextBlock 13 w:44 h:1>
+Inserire codice
+di attivazione.<Close><End of Block>
+<TextBlock 14 w:20 h:7>
+<Opcode 1 255> CODICE A?
+    1
+    2
+    3
+    4
+    0
+    Annulla<Close><End of Block>
+<TextBlock 15 w:16 h:6>
+<Opcode 1 255> CODICE B?
+    1
+    2
+    3
+    4
+    0<Close><End of Block>
+<TextBlock 16 w:16 h:6>
+<Opcode 1 255> CODICE C?
+    1
+    2
+    3
+    4
+    0<Close><End of Block>
+<TextBlock 17 w:16 h:6>
+<Opcode 1 255> CODICE D?
+    1
+    2
+    3
+    4
+    0<Close><End of Block>
+<TextBlock 18 w:36 h:8>
+<Opcode 1 255>Conferma Codice…<Space 2>
+    A-<Opcode 10 0>
+    B-<Opcode 10 1>
+    C-<Opcode 10 2>
+    D-<Opcode 10 3>
+ 
+    OK?
+    RIPROVA<Close><End of Block>
+<TextBlock 19 w:46 h:1>
+Attivazione sistema
+principale.<Close><End of Block>
+<TextBlock 20 w:20 h:1>
+Codice Errato<Close><End of Block>
+<TextBlock 21 w:20 h:1>
+Codice Errato<Close><End of Block>
+<TextBlock 22 w:20 h:1>
+Codice Errato<Close><End of Block>
+<TextBlock 23 w:20 h:1>
+Codice Errato<Close><End of Block>
+<TextBlock 24 w:48 h:3>
+La posizione di questi
+blocchi corrisponde ai
+numeri del codice di
+attivazione!<Close><End of Block>
+<TextBlock 25 w:38 h:2>
+I blocchi della linea
+'A' sono tutti isolati.<Close><End of Block>
+<TextBlock 26 w:32 h:2>
+È iscritto come la
+linea 'A'.<Close><End of Block>
+<TextBlock 27 w:40 h:1>
+Ad uso del sistema
+principale.<Close><End of Block>
+<TextBlock 28 w:36 h:2>
+Il blocco numero 3
+è visibile.<Close><End of Block>
+<TextBlock 29 w:34 h:2>
+È iscritto come la
+linea 'B'.<Close><End of Block>
+<TextBlock 30 w:40 h:1>
+Ad uso del sistema
+principale.<Close><End of Block>
+<TextBlock 31 w:42 h:2>
+È iscritto come la
+linea 'C-2' dietro il
+coperchio.<Close><End of Block>
+<TextBlock 32 w:34 h:2>
+È iscritto come la
+linea 'C'.<Close><End of Block>
+<TextBlock 33 w:34 h:2>
+È iscritto come la
+linea 'C'.<Close><End of Block>
+<TextBlock 34 w:40 h:1>
+Ad uso del sistema
+principale.<Close><End of Block>
+<TextBlock 35 w:38 h:2>
+I blocchi della linea
+'D' sono tutti isolati.<Close><End of Block>
+<TextBlock 36 w:34 h:2>
+È iscritto come la
+linea 'D'.<Close><End of Block>
+<TextBlock 37 w:40 h:1>
+Ad uso del sistema
+principale.<Close><End of Block>
+<TextBlock 38 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 39 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><Close><End of Block>

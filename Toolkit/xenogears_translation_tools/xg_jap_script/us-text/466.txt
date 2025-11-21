@@ -1,0 +1,62 @@
+#### 1 ####
+Fei
+"There's something written
+on the wall..."
+
+#### 2 ####
+{fast:FF}View which data?
+    Lock off-code
+    How to input
+    Code specs
+    Nothing
+
+#### 3 ####
+Foreign object detector
+lock off-code
+'0101'{enter}
+Item 1 lock-off code
+'1001'{enter}
+Item 2 lock off-code
+'1111'
+
+#### 4 ####
+Input upper row code only.
+Select from 1 to 4.
+
+#### 5 ####
+Select 'End input' to
+see calculation result
+in the lower row.
+
+#### 6 ####
+When inputing the upper row,
+according to the value of
+the lower row, the value of
+the lower row is determined.
+
+#### 7 ####
+When light is on, 1.
+When light is off, 0.
+
+#### 8 ####
+0，0=1
+1，1=0
+1，0=0
+0，1=0
+
+#### 9 ####
+You have too many
+{str}.
+
+#### 10 ####
+ 
+ Received {str}.
+
+#### 11 ####
+You have too many
+{str}.
+
+#### 12 ####
+ 
+ Received {str}.
+

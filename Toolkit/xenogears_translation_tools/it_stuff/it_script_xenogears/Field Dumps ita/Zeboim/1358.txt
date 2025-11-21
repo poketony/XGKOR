@@ -1,0 +1,18 @@
+<TextBlock 1 w:38 h:3>
+Shitan
+"Questo piano è
+completamente
+attivo."<Close><End of Block>
+<TextBlock 2 w:46 h:2>
+'Aumento della pressione
+atmosferica in corso'.
+Si prega di attendere.<Opcode 2 90><Close><End of Block>
+<TextBlock 3 w:40 h:1>
+'Pressione aumentata'.<Opcode 2 52><Close><End of Block>
+<TextBlock 4 w:42 h:2>
+'Diminuizione della
+pressione atmosferica
+in corso'. Si prega
+di attendere.<Opcode 2 90><Close><End of Block>
+<TextBlock 5 w:40 h:1>
+'Pressione diminuita'.<Opcode 2 52><Close><End of Block>

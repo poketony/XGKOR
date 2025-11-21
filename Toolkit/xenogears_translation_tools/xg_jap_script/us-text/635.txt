@@ -1,0 +1,42 @@
+#### 1 ####
+Citan
+"Oh, a wild stallion,
+eh?{enter}
+Well then, it is high
+time someone broke
+you in..."
+
+#### 2 ####
+Citan
+"Reinforcements!?"{clear:1E}
+
+#### 3 ####
+Citan
+"Compared to the pain
+my friends are going
+through,{enter}
+Yours is
+nothing...!!{enter}
+I cannot allow people
+like you to persist in
+tormenting those who
+cannot fight back.{enter}
+I will take you on in
+their place.{wait:14}
+Come on!"
+
+#### 4 ####
+Broyer
+"Eeeaaarrrgh!!"
+
+#### 5 ####
+Broyer
+"H, hey,
+that hurts!!"
+
+#### 6 ####
+Broyer
+"??{wait:14}
+What are you
+talking about!?"
+

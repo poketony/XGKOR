@@ -1,0 +1,68 @@
+#### 1 ####
+Hey, could you open
+the door?
+
+#### 2 ####
+What, it's easy.
+Just press on that
+panel over there.
+
+#### 3 ####
+Thanks...{wait:1E}
+In return I'll...{wait:28} Eat you!!{clear:14}
+
+#### 4 ####
+K, kill meeeee{clear:1E}
+
+#### 5 ####
+Help...{wait:14} I can't
+control...{wait:1E} Don't kill
+me...{clear:1E}
+
+#### 6 ####
+We were turned into
+the Wels as an
+experimenPO... Huh?
+PAPOPREPAMO...{clear:28}
+
+#### 7 ####
+Ouch, it hurts,
+it hurts...{clear:1E}
+
+#### 8 ####
+Y, you look tasty...{clear:1E}
+
+#### 9 ####
+A mutant in addition
+to a Wels...{clear:1E}
+
+#### 10 ####
+W, Wels are pretty
+good...{wait:1E} H, how 'bout you?{clear:1E}
+
+#### 11 ####
+I, I'm a human...{wait:1E}
+Used to be...{clear:1E}
+
+#### 12 ####
+I, in the sewers...{wait:1E}
+You seemed to have taken
+good care of...{wait:1E} my
+brother...{clear:28}
+
+#### 13 ####
+You have too many
+{str}.
+
+#### 14 ####
+ 
+ Received {str}.
+
+#### 15 ####
+You have too many
+{str}.
+
+#### 16 ####
+ 
+ Received {str}.
+

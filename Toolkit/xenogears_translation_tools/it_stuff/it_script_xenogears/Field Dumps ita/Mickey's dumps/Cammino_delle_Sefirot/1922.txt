@@ -1,0 +1,286 @@
+<TextBlock 1 w:12 h:1>
+Doc…<Delay 255><Close><End of Block>
+<TextBlock 2 w:14 h:1>
+Bart…<Delay 255><Close><End of Block>
+<TextBlock 3 w:14 h:1>
+Rico…<Delay 255><Close><End of Block>
+<TextBlock 4 w:16 h:1>
+Billy…<Delay 255><Close><End of Block>
+<TextBlock 5 w:20 h:1>
+Wiseman…<Delay 255><Close><End of Block>
+<TextBlock 6 w:16 h:1>
+Grahf…<Opcode 2 200><Close><End of Block>
+<TextBlock 7 w:24 h:1>
+Aspettatemi!<Opcode 2 255><Close><End of Block>
+<TextBlock 8 w:16 h:2>
+Dove…<Delay 30>
+… sono?<New>
+<Delay 30>Chi…<Delay 30>
+… sono?<Close><End of Block>
+<TextBlock 9 w:20 h:2>
+Questi sono…<Delay 30> tutti
+i miei ricordi?<Close><End of Block>
+<TextBlock 10 w:28 h:2>
+Tutti i…<Delay 30>
+Miei<Delay 20>…<Delay 20> ricordi.<Close><End of Block>
+<TextBlock 11 w:10 h:1>
+Elly?<Close><End of Block>
+<TextBlock 12 w:14 h:1>
+Madre?<Close><End of Block>
+<TextBlock 13 w:24 h:1>
+Chi sei?<Close><End of Block>
+<TextBlock 14 w:42 h:2>
+Che sorpresa.
+È molto intelligente.<Close><End of Block>
+<TextBlock 15 w:20 h:2>
+Tu sei…
+Id?<Close><End of Block>
+<TextBlock 16 w:42 h:5>
+Ti ho giudicato male.
+Non credevo che tu,
+la falsa personalità,
+avresti creato una
+quarta identità.<Close><End of Block>
+<TextBlock 17 w:30 h:1>
+Quarta identità?<Close><End of Block>
+<TextBlock 18 w:50 h:4>
+Lui non sente nulla.
+Lui vive dentro il tuo
+io senza mai manifestarsi.<New>
+La dura realtà e
+le verità non le
+affronterai mai.<New>
+Tu hai paura di loro, 
+così il tuo desiderio è
+isolarti completamente
+dal mondo esterno.<Close><End of Block>
+<TextBlock 19 w:52 h:4>
+E così hai formato
+una quarta identità.
+Il nome… non importa.<New>
+Lui è l'attore principale.
+Lui è colui che controlla
+il tuo corpo.<New>
+Ma è un'inutile
+forma di resistenza.<Close><End of Block>
+<TextBlock 20 w:26 h:1>
+Vieni con me!<Close><End of Block>
+<TextBlock 21 w:20 h:3>
+Aspetta!
+Cosa stai
+facendo?<Close><End of Block>
+<TextBlock 22 w:30 h:3>
+Lui ha la chiave. Io
+voglio solo prenderla
+in prestito.<New>
+Io devo andare
+in un posto.<Close><End of Block>
+<TextBlock 23 w:22 h:2>
+Stai venendo…
+anche tu?<Close><End of Block>
+<TextBlock 24 w:32 h:2>
+Oltre questo punto
+non puoi andare.<Close><End of Block>
+<TextBlock 25 w:50 h:2>
+Da qui inizia il mio
+mondo e tu non puoi
+entrare.<Close><End of Block>
+<TextBlock 26 w:34 h:1>
+Cosa vuoi dire?<Close><End of Block>
+<TextBlock 27 w:42 h:3>
+Sei un subordinato,
+una falsa personalità…
+ecco perché.<Close><End of Block>
+<TextBlock 28 w:26 h:2>
+Una falsa
+personalità…<Close><End of Block>
+<TextBlock 29 w:52 h:4>
+Sì<Delay 5>…<Delay 10>
+Lui ha parte dei miei
+ricordi di allora<Delay 5>…<New>
+Lui ha sigillato il
+vero significato
+della mia esistenza<Delay 5>…<New>
+il mio spirito<Delay 5>…<Delay 10>
+le mie motivazioni<Delay 5>…<Delay 10>
+il mio subconscio…<Delay 5> -Id-.<New>
+E a causa di ciò,
+sono diventato una
+personalità privata
+di tutto.<New>
+E quindi ho costruito
+una nuova personalità
+basandomi sulle mie
+esperienze…<New>
+… a partire da quel
+momento…
+Questo è quello che
+sei adesso!<Close><End of Block>
+<TextBlock 30 w:32 h:2>
+Lui? 
+Parli di mio padre?<Close><End of Block>
+<TextBlock 31 w:40 h:2>
+Lo chiami padre?<New>
+Lui,<Delay 20> che non ha mai
+fatto nulla per te?<Close><End of Block>
+<TextBlock 32 w:42 h:2>
+È stato a causa del suo
+comportamento codardo<Delay 5>…<New>
+Se solo fosse stato
+capace di proteggermi<Delay 5>…<Close><End of Block>
+<TextBlock 33 w:56 h:2>
+Se l'avesse fatto<Delay 5>…<Delay 10>
+mamma non sarebbe morta<Delay 5>…<Close><End of Block>
+<TextBlock 34 w:46 h:2>
+Mia madre non è morta
+appena dopo il parto?<New>
+Cos'è successo a mia
+madre?<Delay 15> Dimmelo, Id!<Close><End of Block>
+<TextBlock 35 w:54 h:2>
+Non ti serve saperlo.
+Presto tu sparirai.<New>
+Insieme alla tua
+personalità essenziale,
+il 'codardo'.<New>
+Io governerò il mio
+essere attraverso il
+potere dell'Esistenza.<Close><End of Block>
+<TextBlock 36 w:4 h:1>
+??<Close><End of Block>
+<TextBlock 37 w:54 h:3>
+Tu non lo sai, ma è
+impresso nella mia
+memoria metempsicotica.<New>
+La tua personalità è
+falsa, così non ti
+mostrerai mai 'sulla
+scena' coscientemente.<New>
+Non sarai mai in grado
+di prendere possesso
+dei ricordi delle
+tue vite passate.<Close><End of Block>
+<TextBlock 38 w:42 h:3>
+Io ho visto i sogni
+e gli incubi! Li
+conosco molto bene!<Close><End of Block>
+<TextBlock 39 w:38 h:4>
+Loro<Delay 5>…<Delay 5>
+Te li ho mostrati
+di proposito.<New>
+Per spezzare il
+sigillo…<New>
+… ho scelto di
+indebolire il
+potere della tua
+esistenza.<New>
+Se la tua energia
+mentale è indebolita,<Delay 5>
+io sono libero di
+fare ciò che voglio.<Close><End of Block>
+<TextBlock 40 w:10 h:1>
+Cosa?<Close><End of Block>
+<TextBlock 41 w:50 h:3>
+Ci sono cose dentro
+di te che nemmeno
+immagini<Delay 5>…<Close><End of Block>
+<TextBlock 42 w:8 h:1>
+Uh?<Close><End of Block>
+<TextBlock 43 w:54 h:3>
+Qualcuno s'avvicina!
+Forse i tuoi amici.
+Devono avermi seguito…<Close><End of Block>
+<TextBlock 44 w:40 h:1>
+Dove stai andando?<Close><End of Block>
+<TextBlock 45 w:48 h:4>
+Vado a ristabilire
+il contatto con
+l'Esistenza.<New>
+Per legare insieme i fili
+dei tuoi ricordi fin dai
+tempi antichi<Delay 5>…<Delay 5>
+e poi tagliarli<Delay 5>…<New>
+Questo è il destino del
+Contatto<Delay 5>…<Delay 15> Tutto è pronto.
+È il momento del vero
+risveglio!<New>
+Sopprimerò tutti
+coloro che, sin
+dall'inizio…<New>
+… indossavano
+la maschera
+dell'ipocrisia.<Close><End of Block>
+<TextBlock 46 w:32 h:2>
+Aspetta!
+Aspettami, Id!<Close><End of Block>
+<TextBlock 47 w:34 h:2>
+Resta qui
+e osserva!<Close><End of Block>
+<TextBlock 48 w:54 h:3>
+Sì<Delay 10>…<Delay 10>
+Questo è ciò che
+è dentro Id.<New>
+Un mondo ricolmo di
+odio e tristezza.<New>
+È tutto ciò che c'è<Delay 5>…<Delay 10>
+Sì<Delay 5>…<Delay 10>
+Ora capisco, Id.<New>
+Perché odi il mondo…<New>
+Perché non c'è nulla
+dentro di te<Delay 5>…<Delay 10>
+Nulla<Delay 5>…<New>
+Nulla ti è stato dato<Delay 5>…<Delay 10>
+Privato di<Delay 5>…<Delay 10> ogni
+ricordo felice<Delay 5>…<New>
+E poi<Delay 5>…<Delay 10>
+Sente piacere<Delay 5>…<Delay 10>
+Quasi si sente bene<Delay 5>…<New>
+Ora comprendo<Delay 5>…!<Delay 10>
+Non serve resistere.<New>
+In origine ero solo
+un'esistenza creata
+per nascondere Id.<New>
+Così sarebbe meglio
+ritornare in quel luogo<Delay 5>…<New>
+Andiamoci insieme<Delay 5>…<New>
+Per mondare ogni
+cosa<Delay 5>…<Delay 10> compresi
+noi stessi<Delay 5>…<Close><End of Block>
+<TextBlock 49 w:36 h:3>
+Ricorda!
+Non stavi andando
+ad aiutare Elly?<Close><End of Block>
+<TextBlock 50 w:32 h:3>
+Pensa!
+Non stavi andando
+ad aiutare Elly?<Close><End of Block>
+<TextBlock 51 w:40 h:4>
+Ricorda…!?
+È per lei… Elly!
+Non stavi andando
+ad aiutare Elly!?<Close><End of Block>
+<TextBlock 52 w:34 h:3>
+Pensa, ragazzo, pensa!
+Non stavi andando ad
+aiutare Elly!?<Close><End of Block>
+<TextBlock 53 w:38 h:3>
+Ricordi!?
+Elly è ancora là…
+È ancora che ti aspetta!"<Close><End of Block>
+<TextBlock 54 w:46 h:4>
+Non devi dimenticarlo!
+Colei che ami… Elly!
+Tu devi aiutarla, chu!<Close><End of Block>
+<TextBlock 55 w:22 h:3>
+Ricorda…
+Elly ha bisogno
+di te ora!<Close><End of Block>
+<TextBlock 56 w:36 h:3>
+Ricorda!
+Non stavi andando
+ad aiutare Elly?<Close><End of Block>
+<TextBlock 57 w:32 h:3>
+Elly?<Delay 5>
+Sì, è vero<Delay 5>…!<Delay 10>
+Elly<Delay 5>…!<Close><End of Block>
+<TextBlock 58 w:44 h:1>
+Io devo salvare Elly!<Close><Close><End of Block>

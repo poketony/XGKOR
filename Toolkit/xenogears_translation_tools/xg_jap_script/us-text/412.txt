@@ -1,0 +1,276 @@
+#### 1 ####
+Fei
+"What's up?"
+
+#### 2 ####
+Fei
+"You moved it?"
+
+#### 3 ####
+Elly
+"What's wrong?"
+
+#### 4 ####
+Elly
+"You moved it?"
+
+#### 5 ####
+Fei
+"What's wrong?"
+
+#### 6 ####
+Citan
+"Young master was
+operating that..."
+
+#### 7 ####
+Bart
+"No doubt...{wait:1E}
+it's something...{wait:1E}
+I accidentally pushed."
+
+#### 8 ####
+Billy
+"What's wrong?"
+
+#### 9 ####
+Billy
+"Probably because of your
+skillful piloting."
+
+#### 10 ####
+Rico
+"What now?"
+
+#### 11 ####
+Rico
+"Hey, 
+what are you saying?"
+
+#### 12 ####
+{name:07:チュチュ}
+"What's wrong?"
+
+#### 13 ####
+{name:07:チュチュ}
+"Hey, you're moving it!"
+
+#### 14 ####
+Emeralda
+"...?"
+
+#### 15 ####
+Emeralda
+"...?"
+
+#### 16 ####
+Maria
+"What's wrong?"
+
+#### 17 ####
+Maria
+"Isn't it because you
+were controlling it?"
+
+#### 18 ####
+Tolone
+"Alright already.{enter}
+So you were serious!?
+You're really gonna reflect
+a big laser off a mirror...
+Pretty stupid."
+
+#### 19 ####
+Tolone
+"Angling it...?{enter}
+...for the drop ratio?{enter}
+Drop ratio in the
+atmosphere will be huge."
+
+#### 20 ####
+Tolone
+"...Don't you even say a
+word to me!{enter}
+...whatever you're up to
+Tolone's Gear 'Skyghene'
+will surely crush you!"
+
+#### 21 ####
+Tolone
+"Hmmph,{wait:1E} I can't believe
+you'd even think of such a
+stupid plan."
+
+#### 22 ####
+Tolone
+"Keep talking while you
+can.{enter}
+Dominia and Kelvena should
+have taken over Babel Tower
+by now.{enter}
+You get outta here now!"
+
+#### 23 ####
+Seraphita
+"Tolone, Tolone!!
+Oh, oh, there you are!!"
+
+#### 24 ####
+Seraphita
+"Inverted pull-ups are
+really tough!!!{enter}
+But, I can do 300 pull-ups
+you know."
+
+#### 25 ####
+Seraphita
+"Oh yeah, yeah!
+That's it! I remember!{enter}
+It's tofu soup,{wait:1E} right?"
+
+#### 26 ####
+Seraphita
+"Who'd have thought?"
+
+#### 27 ####
+Seraphita
+"...Good!!"
+
+#### 28 ####
+Bart
+"Now Billy, shoot!"
+
+#### 29 ####
+Rico
+"Now Billy, shoot!"
+
+#### 30 ####
+{name:07:チュチュ}
+"Billy, shoot now!"
+
+#### 31 ####
+Maria
+"Now Billy, shoot it!"
+
+#### 32 ####
+Bart
+"Hey! {wait:1E}
+Never know until you try."
+
+#### 33 ####
+Rico
+"We'll find out if it's
+dumb or not right now."
+
+#### 34 ####
+{name:07:チュチュ}
+"Don't chu make fun
+of Bart's Jasper!"
+
+#### 35 ####
+Maria
+"You don't know if you
+don't try it.{enter}
+Aren't you the ones who are
+underestimating the land
+dwellers?"
+
+#### 36 ####
+Bart
+"Calm down and aim!"
+
+#### 37 ####
+Rico
+"Take it easy.
+There's still 
+energy left."
+
+#### 38 ####
+{name:07:チュチュ}
+"Billy, you'll get
+the next one!!"
+
+#### 39 ####
+Maria
+"Don't worry about it.
+There's still energy left."
+
+#### 40 ####
+Bart
+"They're back!"
+
+#### 41 ####
+Rico
+"They're back!"
+
+#### 42 ####
+{name:07:チュチュ}
+"They are back."
+
+#### 43 ####
+Maria
+"Those two are back."
+
+#### 44 ####
+{fast:FF}To the Yggdrasil
+
+#### 45 ####
+{fast:FF}To the Yggdrasil
+
+#### 46 ####
+{fast:FF}To the Yggdrasil
+
+#### 47 ####
+{fast:FF}To the Yggdrasil
+
+#### 48 ####
+{fast:FF}To the Yggdrasil
+
+#### 49 ####
+{fast:FF}To the Yggdrasil
+
+#### 50 ####
+{fast:FF}To the Yggdrasil
+
+#### 51 ####
+Bart
+"We've surfaced!{enter}
+Next open the sky dome."
+
+#### 52 ####
+Bart
+"...Huh?"
+
+#### 53 ####
+Bart
+"What?"
+
+#### 54 ####
+Bart
+"Huh?{wait:1E} No,{wait:1E}
+it's already moving."
+
+#### 55 ####
+Bart
+"No.{enter}
+That's not why."
+
+#### 56 ####
+Ft. Jasper's already up.{enter}
+You'd better go to Babel
+and check the systems.
+
+#### 57 ####
+Tolone
+"Ha!{wait:1E}
+Lambs' taste..."
+
+#### 58 ####
+Seraphita
+"...Taste...!!"
+
+#### 59 ####
+Tolone
+"I thought I told
+you to shut up!"
+

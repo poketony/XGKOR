@@ -1,0 +1,10 @@
+#### 1 ####
+Do you want to go down?{wait:0A}
+    Yes
+    No
+
+#### 2 ####
+Do you want to go up?{wait:0A}
+    Yes
+    No
+

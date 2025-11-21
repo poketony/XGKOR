@@ -1,0 +1,16 @@
+<TextBlock 1 w:12 h:1>
+!%#?&!<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+Vai a salvare il gioco
+in quel Cubo di Memoria.<New>
+Potrai riposare a cuor
+leggero, se mandi i tuoi
+dati regolarmente al
+Dipartimento di Controllo
+Centrale.<New>
+Ho sentito dire che quei
+cosi si trovano in giro,
+in diversi posti, per
+collezionare dati.<Close><End of Block>
+<TextBlock 3 w:0 h:1>
+<Close><End of Block>

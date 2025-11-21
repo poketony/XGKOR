@@ -1,0 +1,112 @@
+#### 1 ####
+So this is where
+Fei's being held!?{wait:14}
+He deserves it!
+
+#### 2 ####
+Dan
+"Let me pray on his weeping
+face as if it were an idol!
+Heh, heh... As if I would!"
+
+#### 3 ####
+...Gah!{wait:14}
+Argh...!!{clear:50}
+
+#### 4 ####
+St...stop...{wait:14}
+Stop... it!!{clear:50}
+
+#### 5 ####
+D a n...{wait:14}
+Mi do ri...!{clear:50}
+
+#### 6 ####
+R...{wait:14}run...{wait:1E}
+Hurry...{wait:14}
+Run a...way!!{clear:1E}
+
+#### 7 ####
+Dan
+"Yech...!{wait:14}
+What,
+what is this...!?"
+
+#### 8 ####
+Dan
+"...{wait:14}
+This is terrible..."
+
+#### 9 ####
+Dan
+"No matter what,
+this is going
+way too far...{enter}
+He's still...
+alive...?{wait:14}
+How could you
+possibly be!?{enter}
+You're human too,
+aren't you!?
+Darn...!"
+
+#### 10 ####
+Dan
+"...{wait:1E}
+Fei...{wait:14}
+Oh, Fei...!?"
+
+#### 11 ####
+Dan
+"Huh...!?"
+
+#### 12 ####
+Dan
+"Midori, it's you...{wait:14}
+Phew...
+Don't scare me like that!"
+
+#### 13 ####
+Dan
+"Crying...?
+Who's crying?{wait:14}
+...!?"
+
+#### 14 ####
+Dan
+"You mean our friend
+Fei is crying?"
+
+#### 15 ####
+Dan
+"What do you mean!?"
+
+#### 16 ####
+Dan
+"Whoa...!
+What the...!?"
+
+#### 17 ####
+Dan
+"Fei!?"
+
+#### 18 ####
+Dan
+"Yikes...!?"{clear:14}
+
+#### 19 ####
+Crying...
+
+#### 20 ####
+Midori
+"Angry...{wait:14}
+Hurt...{enter}
+He'll wake up soon...{wait:14}
+It's calling him..."
+
+#### 21 ####
+There's nothing here.{wait:14}
+He's long gone already.{enter}
+But, wow, to make
+a hole this big...
+

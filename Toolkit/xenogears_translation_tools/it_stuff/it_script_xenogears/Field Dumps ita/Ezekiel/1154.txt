@@ -1,0 +1,108 @@
+<TextBlock 1 w:50 h:2>
+Permettere il contatto
+con Shevat<Delay 5>…<Delay 5>…<Close><End of Block>
+<TextBlock 2 w:38 h:3>
+Non solo Shevat.
+La sconfitta di
+Ignis, la ritirata
+dal Tammuz…<New>
+E… sì, anche Elul…
+tu<Delay 5>…<Delay 5>…<Close><End of Block>
+<TextBlock 3 w:30 h:2>
+Incapace…
+come sempre<Delay 5>…<Delay 5>…<Space 1><Close><End of Block>
+<TextBlock 4 w:26 h:2>
+Un fallimento
+dopo l'altro<Delay 5>…<Close><End of Block>
+<TextBlock 5 w:20 h:1>
+'Rifiuto'<Delay 5>…<Close><End of Block>
+<TextBlock 6 w:52 h:2>
+Ramsus
+"Che… cosa avete detto?"<Close><End of Block>
+<TextBlock 7 w:30 h:2>
+Umph…
+È la verità.<Close><End of Block>
+<TextBlock 8 w:42 h:4>
+E, inoltre, che
+cos'era quel tuo
+comportamento?<New>
+<Delay 5>…<Delay 5>…
+Dovresti dimostrare
+un po' di fedeltà.<Close><End of Block>
+<TextBlock 9 w:50 h:4>
+Ramsus
+"Come osate ridicolizzarmi
+chiamandomi 'rifiuto'?
+Maledetti!"<Close><End of Block>
+<TextBlock 10 w:30 h:2>
+Ramsus
+"Guh… guhaah."<Close><End of Block>
+<TextBlock 11 w:54 h:3>
+Miang
+"Si calmi, Comandante!
+Non le fa certo bene.<New>
+Non si è ancora del
+tutto ripreso dall'ultima
+battaglia!"<Close><End of Block>
+<TextBlock 12 w:38 h:1>
+Non ha importanza.<Close><End of Block>
+<TextBlock 13 w:34 h:4>
+Gli Agnelli sono
+probabilmente in
+procinto di…<New>
+… distruggere il
+portale.<New>
+Ma… non questa
+volta<Delay 5>…<Close><End of Block>
+<TextBlock 14 w:48 h:2>
+Gradirei vedere
+i tuoi poteri
+'intrinseci'.<Close><End of Block>
+<TextBlock 15 w:40 h:3>
+Se non sei il
+'rifiuto' che noi
+pensiamo tu sia<Delay 5>…<Delay 5>…<Space 1><Close><End of Block>
+<TextBlock 16 w:42 h:4>
+Ramsus
+"Miang<Delay 5>…<Delay 5>…<Delay 5>
+Lancia la nave<Delay 5>…<Delay 5>…<Delay 5>
+Devo<Delay 5>… andare da lui<Delay 5>…<Delay 5>…"<Space 1><Close><End of Block>
+<TextBlock 17 w:46 h:4>
+Ramsus
+"Questa volta<Delay 5>…<Delay 5>
+Andrò da solo<Delay 5>…<Delay 5> e
+lo farò a pezzi<Delay 5>…"<Close><End of Block>
+<TextBlock 18 w:50 h:3>
+Miang
+"Comandante, non potete
+uscire in questo stato!"<Close><End of Block>
+<TextBlock 19 w:40 h:4>
+Cherubina
+"Comandante…<New>
+Accetta la nostra
+richiesta di
+controllare la
+situazione?"<Close><End of Block>
+<TextBlock 20 w:20 h:2>
+Miang
+"Voi tutte,
+ragazze?"<Close><End of Block>
+<TextBlock 21 w:48 h:3>
+Dominia
+"Faremo del nostro
+meglio per non deludere
+le vostre aspettative."<Close><End of Block>
+<TextBlock 22 w:40 h:4>
+Cherubina
+"Comandante, la
+prego, lei deve
+farsi curare<Delay 5>…<Delay 5>…"<Space 1><Close><End of Block>
+<TextBlock 23 w:38 h:3>
+Dominia
+"Per rendere realtà
+i nostri ideali."<Close><End of Block>
+<TextBlock 24 w:48 h:2>
+Cherubina
+"Bene allora,
+noi rompiamo
+le righe."<Close><Close><End of Block>

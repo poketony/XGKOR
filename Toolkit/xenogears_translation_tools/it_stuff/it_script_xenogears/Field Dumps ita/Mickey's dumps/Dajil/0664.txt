@@ -1,0 +1,14 @@
+<TextBlock 1 w:46 h:3>
+Questo è l'acquedotto.<Delay 10>
+Tutta l'acqua di Dajil 
+proviene da qui.<Close><End of Block>
+<TextBlock 2 w:46 h:4>
+L'acqua è necessaria per la
+manutenzione dei Gear.<New>
+Così l'acquedotto è stato
+costruito per fornire un 
+rifornimento costante di
+acqua all'officina.<Close><End of Block>
+<TextBlock 3 w:40 h:2>
+   Rifornimento d'acqua
+ previsto per questo mese. <Close><Close><End of Block>

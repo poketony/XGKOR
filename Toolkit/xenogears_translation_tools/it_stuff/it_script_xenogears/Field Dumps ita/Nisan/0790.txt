@@ -1,0 +1,50 @@
+<TextBlock 1 w:42 h:2>
+Alterno il mio turno
+di guardia dell'entrata
+con il tipo là fuori…<Close><End of Block>
+<TextBlock 2 w:52 h:3>
+Voi…<Delay 30>
+non siete di qui.<New>
+Lo so dalla vostra aura.<Delay 30>
+Anch'io vivevo una volta
+vicino la Capitale Reale.<New>
+Quando vivevo lì,
+imbrogliavo la gente
+vendendo roba falsa.<New>
+Alla fine arrivai ad
+odiare ciò che facevo…<New>
+Poi venni a sapere di
+questo posto da alcuni
+pellegrini.<New>
+Ora alterno il turno di
+guardia dell'entrata con
+il tipo fuori… ma farlo
+è alquanto interessante.<New>
+Tutti i giorni vedo i
+volti del pellegrini, e
+capisco come si senta
+questa o quella persona.<New>
+Se questa è molto
+preoccupata<Delay 30>… e così via.<New>
+Io usavo questa capacità
+per spillare soldi alla
+gente…<New>
+Ora non lo penserei mai.<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+Io vengo dall'esercito
+reale appostato a sud.<New>
+Potrei lavorare per il
+governo attuale, ma il mio
+cuore appartiene a Nisan.
+Non posso abbandonarla.<New>
+Ho sentito che c'è
+tantissima gente come me
+che si sta raccogliendo
+qui.<New>
+Gli abitanti di questa
+città mi stanno
+gentilmente affittando
+questa camera…<New>
+Ora aspetterò qui
+finché non accadrà
+qualcosa.<Close><Close><End of Block>

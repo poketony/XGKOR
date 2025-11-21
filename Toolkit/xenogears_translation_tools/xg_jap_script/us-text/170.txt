@@ -1,0 +1,888 @@
+#### 1 ####
+Fei
+"I don't have a permission
+slip.{wait:0F} But I'm the Battling
+Champion. Does that help?"
+
+#### 2 ####
+Fei
+"Puff, puff! {wait:05}...{wait:05}Damn!{wait:0F}
+Boy is that guy quick at
+running away!"{clear:5A}
+
+#### 3 ####
+Fei
+"Puff,{wait:05} puff{wait:05}...{wait:0F}
+Around here should be 
+safe enough I guess{wait:05}..."
+
+#### 4 ####
+Fei
+"{wait:05}...{wait:05}A fiance?
+With no hair{wait:05}...?{wait:05} Hmm.{wait:0F} Where
+have I heard that before?"
+
+#### 5 ####
+Citan
+"The meeting place was the
+'Wildcat', a bar in the 
+civilian area, was it not?{enter}
+Well then, let us go!"
+
+#### 6 ####
+Try knocking{wait:05}...{clear:2D}
+
+#### 7 ####
+Locked from the inside!{clear:1E}
+
+#### 8 ####
+Locked from the inside!{clear:1E}
+
+#### 9 ####
+Try knocking{wait:05}...{clear:2D}
+
+#### 10 ####
+Locked from the inside!{clear:1E}
+
+#### 11 ####
+Locked from the inside!{clear:1E}
+
+#### 12 ####
+Locked from the inside!{clear:1E}
+
+#### 13 ####
+Locked from the inside!{clear:1E}
+
+#### 14 ####
+My big sister has her heart
+set on a someone{wait:05}...{wait:0F}
+She thinks he'll come back
+one day{wait:05}...{wait:05} so she keeps
+waiting and waiting and{wait:05}...
+
+#### 15 ####
+Children should play outside
+for their own health. That's
+common thinking{wait:05}...{wait:05} right!?{enter}
+But in this town, covered in
+dirty steam, it's probably
+not that good for us{wait:05}...
+
+#### 16 ####
+You know, my big sister has
+a friend called a 'fiance'!
+He didn't have any hair,
+but he was sooo kind!
+
+#### 17 ####
+Our house is just over there!{wait:0F}
+
+#### 18 ####
+We have gathered together a
+selection of many types of
+accessories to protect you
+from all sorts of damage!
+
+#### 19 ####
+Accessories not only make you
+look better, but some of them
+also have wonderous effects.{wait:0F}
+I recommend you check them out!
+
+#### 20 ####
+From Aqua to Omega, we have
+all the best items.{wait:0F} You can't
+leave home without our tents
+that totally restore you!
+
+#### 21 ####
+This city's other name is
+"the town of steam" because
+steam is being blown out of
+everywhere the eye can see.{enter}
+Due to this, whenever you go
+out of your house you come
+back pitch black all over!{wait:0F}
+It also roughens your skin!
+
+#### 22 ####
+So why am I outside then?
+You shouldn't be so picky
+about such little details!
+I have my reasons!
+
+#### 23 ####
+Big Joe
+"What's the problem?{wait:0F} It's
+much further in from there.
+{wait:05}...{wait:05}Hurry up, now!"
+
+#### 24 ####
+Big Joe
+"Did you change your mind?"{wait:0F}
+    No way!
+    Well, alright.
+
+#### 25 ####
+Big Joe
+"{wait:05}...{wait:05}C'mon, stop the joshing.
+If you change your mind at
+any time{wait:05}...{wait:05} well you know!
+
+#### 26 ####
+Big Joe
+"Hee-hee!{wait:05} There's something
+really interesting beyond
+here!{wait:0A} Do you want a look?"
+
+#### 27 ####
+Big Joe
+"I sure swindled you!{wait:0F}
+Hah-haaa! See you
+around, sucker! Adios!{clear:3C}
+
+#### 28 ####
+Big Joe
+"Only 5000G! Cheap, huh?"{wait:0F}
+    No deal!
+    It's a deal!
+
+#### 29 ####
+Big Joe
+"Now then boy, you're not 
+making fun of me, are you?"
+
+#### 30 ####
+Handed over 5000G.
+
+#### 31 ####
+Big Joe
+"{wait:05}...{wait:05}Transaction approved!
+The fun starts from here!
+Never fear, I'll be here!"
+
+#### 32 ####
+Big Joe
+"{wait:05}...{wait:05}Wha, huh!{wait:0F} I can't do
+any business with guys who 
+haven't got 5000G! So-rry!"
+
+#### 33 ####
+They say the world's a big
+place, but there's no other
+town nearly as big as our
+capital city, anywhere!{enter}
+They say there's an even
+bigger city in the skies
+above, but I ask you, who's
+ever seen a floating city?
+
+#### 34 ####
+The attack by our enemy
+kingdom Aveh on our Imperial
+capital was really scary!{enter}
+If that ever happens again,
+I'm out of here! Perhaps I
+might move to Nisan!
+
+#### 35 ####
+To the northwest of here is
+the Imperial capital's D 
+Block, which is used as the
+criminal detention area.{enter}
+It's a dirty place full of
+criminals! You can come and
+go freely through here, but
+nobody would ever go there
+out of free will or for fun!
+
+#### 36 ####
+They say that flying battleship
+crashed in the north-western
+area of D Block{wait:05}...{enter}
+Luckily we escaped a direct hit.{wait:0F}
+Boy am I thankful it wasn't
+near our civilian area!
+
+#### 37 ####
+Oooh{wait:05}...{wait:05} Diana{wait:05}...{wait:05} During the
+assault on our capital{wait:05}...{wait:05}
+by Aveh{wait:05}...{wait:0F} she tried to 
+save a child{wait:05}...{enter}
+...{wait:05}Is there no god looking
+over our world?{wait:05} ...{wait:05}Why?{wait:05} ...{wait:05}
+And a woman like her!{wait:05} ...{wait:05}Is
+this the fate god chose?
+
+#### 38 ####
+And I never got to{wait:05}...{wait:05}
+tell her that{wait:05}...
+
+#### 39 ####
+Diana has gone back to look
+after D Block{wait:05}...{wait:05}I'd like to
+have her fix my ills, but I'm
+too scared to go to D Block!{enter}
+But after being assigned to
+the civilian area she lost
+her cheer a little{wait:05}...{wait:05}Perhaps
+going back was best for her!
+
+#### 40 ####
+O.K., now to injure myself!
+(But try not to let it hurt
+too much!) And then{wait:05}...{wait:05}
+it's off to see Diana!
+
+#### 41 ####
+What's with you, huh?{wait:0F}
+I'm just passing by{wait:05}...{wait:05}O.K.{wait:2D}
+So don't bother me.{wait:05} See ya!
+
+#### 42 ####
+My leg's hurt from running
+around in circles all day!
+I tell you, pushing yourself
+too much isn't good for you!
+
+#### 43 ####
+Because of the long balance
+in power, I let myself get
+out of shape{wait:05}...{enter}
+So now I am trying to build
+up my physique by running 
+around in circles.
+
+#### 44 ####
+But 
+{wait:05}...{wait:05}it feels a little futile.
+
+#### 45 ####
+Using Aveh's raid on our
+Imperial capital as a pretext,
+they are going to start yet
+another massive war effort!
+When did this all start?{enter}
+We have been at war for so 
+long that we've forgotten
+what we are fighting over{wait:05}...{wait:05}
+Will there ever be an end
+to all this fighting?
+
+#### 46 ####
+Imperial City Guard
+"This is the north gate of A
+Block. The road leads to the
+Central District.{enter}
+That is where the Kislev
+Imperial Government is."
+
+#### 47 ####
+Imperial City Guard
+"It's after sundown.{wait:0F} Non-
+Imperial capital personnel
+must show a permission slip
+in order to pass!"
+
+#### 48 ####
+Imperial City Guard
+"I'll have to ask you
+to please leave!"{clear:2D}
+
+#### 49 ####
+Imperial City Guard
+"This is the north gate of A
+Block. The road leads to the
+Central District.{enter}
+That is where the Kislev
+Imperial Government is."
+
+#### 50 ####
+Imperial City Guard
+"Too bad, but it doesn't
+matter if you're the
+Battling Champion or not.{enter}
+You cannot pass without
+permission!
+Sorry but I have to ask you
+to withdraw!"
+
+#### 51 ####
+Imperial City Guard
+"Please turn back and leave!"{clear:2D}
+
+#### 52 ####
+Imperial City Guard
+"Sorry but this is my duty.{wait:0F}
+I have to ask you to turn
+round and go back!"{clear:3C}
+
+#### 53 ####
+Imperial City Guard
+"It is after sundown already.{wait:0F}
+journeying outside of the
+Imperial capital's perimeters
+is dangerous. I can not let
+you leave now!"
+
+#### 54 ####
+Imperial City Guard
+"Egads{wait:05}...{wait:05}!"{clear:2D}
+
+#### 55 ####
+Imperial City Guard
+"D, didn't I tell
+you that{wait:05}..."{clear:2D}
+
+#### 56 ####
+Imperial City Guard
+"You're the Battling Champ!?{enter}
+Beyond here you'll leave the
+safety of the Imperial
+capital and enter regions
+where monsters roam!{enter}
+Perhaps you don't need me
+to tell you this, but
+please do take care!"
+
+#### 57 ####
+Imperial City Guard
+"{wait:05}...?{wait:0F} I guess I'm 
+imagining things{wait:05}...{enter}
+Anyway, welcome to Nortune,
+the Kislev Imperial capital.
+Greetings and salutations!
+
+#### 58 ####
+Imperial City Guard
+"Oh, our reputation{wait:05}..."{clear:2D}
+
+#### 59 ####
+Imperial City Guard
+"Nortune, our Empire's
+capital, is a powerful
+military state.{enter}
+Bledavik, the capital
+of the Kingdom of Aveh,
+is at war against us."
+
+#### 60 ####
+Imperial City Guard
+"{wait:05}...{wait:05}That's strange?{wait:0F} Haven't
+I seen you somewhere before?{wait:1E}
+Hmm, I must have the wrong 
+person{wait:05}...{wait:05}errh, sorry."
+
+#### 61 ####
+Imperial City Guard
+"Because martial law has
+been imposed throughout the
+whole Imperial capital area,
+civilians can only pass in 
+and out the 'front gate'{wait:05}...{enter}
+There are also rumors about
+convicts, who attempted to
+escape by taking advantage
+of the confusion during
+Aveh's raid on our capital,
+hiding out in these parts.
+
+#### 62 ####
+Imperial City Guard
+"Hmm{wait:05}...?{wait:0A} Don't I know you 
+from somewhere{wait:05}...?{wait:0A}
+Oh well, guess not.{wait:0F}
+Anyway, that's the way it
+is, so please cooperate.
+
+#### 63 ####
+Imperial City Guard
+"Sorry, but after sunset
+nobody can pass through here!
+That goes for Battling
+Champions as well!"
+
+#### 64 ####
+Imperial City Guard
+"This is the Kislev Imperial
+capital barracks.
+Entrance without permission
+is prohib...{wait:05}{enter}
+Hey aren't you the Battling
+Champion?{wait:0F} Permission?{wait:05}
+Why, you don't need that!{wait:05}
+You're the Champ!"
+
+#### 65 ####
+Imperial City Guard
+"Well then,{wait:05} please do enter."
+
+#### 66 ####
+Imperial City Guard
+"The head-cook told us off.
+I'd like to let you enter,
+but for a while the barracks
+are off limits!"
+
+#### 67 ####
+Big Joe
+"Wait up, already will ya!{wait:0F}
+Stop the hurrying, O.K.!"{clear:3C}
+
+#### 68 ####
+Big Joe
+"Oooh,{wait:05} wait a moment!"{clear:3C}
+
+#### 69 ####
+Big Joe
+"That's right, 
+straight ahead now."{clear:2D}
+
+#### 70 ####
+{name:80:unknown}
+"{wait:05}...{wait:05}huh?{wait:0F}
+Somebody dropped
+something here!"
+
+#### 71 ####
+Obtained an M Disk!
+
+#### 72 ####
+Fei
+"What's with this!?{wait:1E}
+It's just a dead end!?"{clear:3C}
+
+#### 73 ####
+Hammer
+"Wai, bro-! Do, doc, Cita-n?
+Where are you going?{wait:0F}
+Hey, are you listening?"{clear:5A}
+
+#### 74 ####
+{fast:FF}Fei
+"Woh! Hey{wait:05}...!"{clear:1E}
+
+#### 75 ####
+Weapon Lady
+"Whoooo iiis iiit?{wait:0F}
+Weee've shut shop 
+fooor the daaaay!"
+
+#### 76 ####
+Fei
+"{wait:05}...{wait:05} Can't you do something?{wait:0F}
+Please, we'll buy some stuff
+so, come on now, open up!"
+
+#### 77 ####
+Weapon Lady
+"Ohhh, aaalriight!{wait:0F}
+Ooonly caaause yooou said
+yooou'ld buuy soomethiing!"
+
+#### 78 ####
+Tool Guy
+"What is it? Our shop shuts
+at the normal hours, so keep
+it down will ya!{wait:0F} Come back
+tomorrow, alright!"
+
+#### 79 ####
+Fei
+"{wait:05}...{wait:05} Can't you do something?{wait:0F}
+Please, we'll buy some stuff
+so, come on now, open up!"
+
+#### 80 ####
+Tool Guy
+"You said you'd buy some
+stuff now, didn't ya?{wait:0F} I'm
+serious when I say I won't
+let you go till you buy
+something! Be warned, now!"
+
+#### 81 ####
+Tool Guy
+"Alright now,{wait:05} opening up!"
+
+#### 82 ####
+Imperial City Guard
+"Due to the attack on our
+Imperial capital by our
+enemy, the Kingdom of Aveh...{enter}
+non-army personnel are not
+allowed to pass into the 
+Central District where the
+Kaiser Government operates!"
+
+#### 83 ####
+Imperial City Guard
+"Please keep back!{wait:1E}
+{wait:05}...{wait:05}Oh, and by the way, you
+look awfully familiar{wait:05}...?"
+
+#### 84 ####
+Fei
+"Huh-ha!?{wait:0F} ...{wait:05}
+Oops, sorry, my mistake!"
+
+#### 85 ####
+Imperial City Guard
+"{wait:05}...{wait:05}Hey!{wait:0A} Isn't he the guy
+in the 'wanted' poster{wait:05}...{wait:0F}
+perhaps?"
+
+#### 86 ####
+Imperial City Guard
+"{wait:05}...{wait:05}Yeah,{wait:0F} they say that
+everyone has two or three
+people that look exactly
+like them in this world{wait:05}..."
+
+#### 87 ####
+Imperial City Guard
+"Besides, even if he was
+that 'wanted' guy, what
+chance would mere guards
+like us have against him?
+He's the ex-Battling Champ!"
+
+#### 88 ####
+Imperial City Guard
+"Let sleeping dogs lie, huh!"
+
+#### 89 ####
+Imperial City Guard
+"Exactly! So even if we were
+to see him here, then we'd 
+just pretend that we haven't
+seen him, O.K.!"
+
+#### 90 ####
+Imperial City Guard
+{fast:FF}"Hey, that guy! He's the
+ex-Champ who broke out of
+the arena with his Gear
+and is now 'wanted'!"
+
+#### 91 ####
+Imperial City Guard
+{fast:FF}"Are you stupid!?"
+
+#### 92 ####
+Fei
+"Damn!{wait:05} We're done for!"{wait:0F}
+    Run away for now.
+    Try to break through!
+
+#### 93 ####
+Fei
+"We can't let them catch us.
+Let's try running away
+for the time being!"
+
+#### 94 ####
+Fei
+"We've got to give it a try!
+Doc! Elly! Let's try and
+force our way through here!"
+
+#### 95 ####
+Citan
+"{wait:05}...{wait:05} So it is the only
+thing we can do, right?"
+
+#### 96 ####
+Elly
+"Wait a second!
+Do you really intend
+to do this?"
+
+#### 97 ####
+Imperial City Guard
+"Oh no! They're serious!"{clear:14}
+
+#### 98 ####
+Imperial City Guard
+"There's no way we can
+beat the Champion!!!"{clear:1E}
+
+#### 99 ####
+Imperial City Guard
+{fast:FF}"Hahaa! You'll be our
+greatest achievement!"{clear:1E}
+
+#### 100 ####
+Fei
+"Hey, you're{wait:05}...{wait:05}Rico!{wait:0F}
+What are you doing here?"
+
+#### 101 ####
+Rico
+"{wait:05}...{wait:05}I changed my mind.{wait:0F} I'll
+leave Nortune for a while,
+until things calm down.{enter}
+You plan on seizing the new
+mega-battleship 'Goliath'?{wait:0F}
+Well, I'll give you a hand
+{wait:05}...{wait:05}up to the city limits."
+
+#### 102 ####
+Fei
+"{wait:05}...{wait:0F}
+You don't want to fight
+together with us?"
+
+#### 103 ####
+Rico
+"{wait:05}...{wait:05}Make no mistake here!
+I don't intend to become
+friends with you guys!"
+
+#### 104 ####
+Rico
+"I have something I have 
+to do and I have to do it
+on my own{wait:05}...!{enter}
+When we leave the Imperial
+capital's precincts, you 
+can let me out anywhere
+that is convenient, O.K.!"
+
+#### 105 ####
+Fei
+"{wait:05}...{wait:05}...{wait:05}..."
+
+#### 106 ####
+Citan
+"Well, at least until we
+escape from the city area
+we have got a secure ally.{enter}
+That is good enough for us,
+is it not!"
+
+#### 107 ####
+Citan
+"Don't you think?"
+
+#### 108 ####
+Elly
+"Well{wait:05}...{wait:05} yes{wait:05}...{wait:0F}
+I suppose so."
+
+#### 109 ####
+Rico
+"We have no time to 
+dawdle around here!{enter}
+We better get out of here
+before other guards who
+heard this scuffle come
+causing us trouble!"
+
+#### 110 ####
+Rico
+"So our destination is the
+'north lands' of the outer
+Imperial city area, right!{enter}
+Then the Kislev Imperial
+capital's military
+facilities await us!{wait:0F}
+We had better make haste!"
+
+#### 111 ####
+Fei
+"Something interesting...?"
+    No thanks, I'll pass.
+    I want to take a look!
+
+#### 112 ####
+Big Joe
+"What a party-pooper!"
+
+#### 113 ####
+Big Joe
+"Oh!{wait:0A} So you do want to go
+take a look, huh? {wait:05}...{enter}
+Well, young man, if all in
+this world was that easy,
+huh? You know, I can't just
+let you go see for free!{enter}
+So...
+let's make a deal then boy!
+I'm talking money, friend!
+Cash, mullah, wampum, G!{enter}
+If I was just to get out of
+your way and leave{wait:05}...{wait:05} well,
+it would benefit you, but{wait:05}...{wait:05}
+it'd be of no profit to me!{enter}
+If I gain, you gain!{wait:0F}
+That's the way it goes!{wait:05}
+It's a fair trade, is it 
+not, friend?"
+
+#### 114 ####
+Big Joe
+"It's a bargain at 5000G!"
+    No deal!
+    It's a deal!
+
+#### 115 ####
+Big Joe
+"Hey, you allowed me to
+tell you this much, then
+say no! That's not nice!
+
+#### 116 ####
+Handed over 5000G.
+
+#### 117 ####
+Big Joe
+"{wait:05}...{wait:05}Transaction approved!
+The fun starts from here!
+Never fear, I'll be here!"
+
+#### 118 ####
+Big Joe
+"{wait:05}...{wait:05}Wha, huh!{wait:0F} I can't do
+any business with guys who 
+haven't got 5000G! So-rry!"
+
+#### 119 ####
+Fei
+"Ah! Hey, wait!!"{clear:2D}
+
+#### 120 ####
+Hammer
+"Bro---!{wait:0F} With these ears,
+I've picked up the latest
+information on your Gear!"{clear:5A}
+
+#### 121 ####
+Hammer
+"Hee-hee, I've pinpointed
+where your Gear is bro!"
+
+#### 122 ####
+Fei
+"{wait:05}...{wait:05} Hold on a second!{enter}
+(Don't you think it's
+dangerous to talk about
+that stuff around here!)"
+
+#### 123 ####
+Hammer
+"Huh?{wait:0F}
+What's with you, bro?{wait:0F}
+I have info on your Gea{wait:05}..."{clear:2D}
+
+#### 124 ####
+{fast:FF}Hammer
+"Eeek!{wait:0A}
+Wha,{wait:05} wha,{wait:05} what the!?"
+
+#### 125 ####
+Citan
+"I will explain later!
+Just move it, O.K.!"
+
+#### 126 ####
+Hammer
+"Waaaaaaiiiii----{wait:0F}t!"{clear:2D}
+
+#### 127 ####
+Fei
+"It should be safe here.{wait:0F}
+Now Hammer,{wait:05} tell me where 
+my Gear is."
+
+#### 128 ####
+Hammer
+"As the doc predicted, bro,
+your Gear has been moved to
+another dispatchment dock."
+
+#### 129 ####
+Citan
+"So,{wait:05} where on earth 
+is {name:0B:¥ô¥§¥ë¥È©`¥ë}?"
+
+#### 130 ####
+Hammer
+"Not 'on earth', but under
+the earth! It's in an under-
+ground dock in D Block!{enter}
+I've checked into it and 
+found out that there are
+two routes we can use to 
+sneak inside.{enter}
+The first one requires us
+to enter via the Battling
+Arena grounds.
+
+#### 131 ####
+Fei
+"Well there's no way we can
+sneak in via the Battling
+Arena!{wait:0F} What's the second?"
+
+#### 132 ####
+Hammer
+"The second way is a little
+dangerous as it involves 
+the supply train tunnel.{enter}
+You have to get into the
+tunnel's ducts and follow
+them right through till
+they lead to the docks.{enter}
+But I couldn't find out
+the duct's layout{wait:05}...{wait:1E}
+Sorry, bro."
+
+#### 133 ####
+Fei
+"{wait:05}...{wait:05}Oh that tunnel, huh?{enter}
+Well, now that we have the
+bomb problem off of our
+necks, we might be able to
+make a go of it!"
+
+#### 134 ####
+Citan
+"Yes, but we are still left
+with not knowing the times
+that the trains pass by on.{enter}
+Will a supply train pass by
+at a time that is of any
+use to us?"
+
+#### 135 ####
+Fei
+"Not all of this has to be
+decided now. Let's take our
+time and plan it carefully!"
+
+#### 136 ####
+Fei
+"Firstly Hammer, I'm sorry
+to put you out, but{wait:05}...{enter}
+Could you find out the days
+and times that the supply
+trains operate on for us
+please?"
+
+#### 137 ####
+Hammer
+"I'll get right on it, bro.{wait:0F}
+Well then, I'll be off!"
+
+#### 138 ####
+Citan
+"Shall we also return
+to D Block for the 
+time being?"
+
+#### 139 ####
+      " WILDCAT "
+- The official bar of the
+Imperial capital, Nortune -
+

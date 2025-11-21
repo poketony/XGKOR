@@ -1,0 +1,15 @@
+#### 1 ####
+Lacan
+"There{wait:05}...{wait:1E}
+That's what I have
+sought after{wait:05}..."{clear:3C}
+
+#### 2 ####
+But wait!{wait:0F}
+That's not what I want!{wait:0F}
+No!{wait:05}
+This is my very desire!{clear:78}
+
+#### 3 ####
+.{wait:01}.{wait:01}.{wait:01}L{wait:01}i{wait:01}v{wait:01}e{wait:01}!{clear:3C}
+

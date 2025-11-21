@@ -1,0 +1,18 @@
+<TextBlock 1 w:48 h:3>
+Fei
+"Occupiamoci di questa
+cosa e andiamo avanti!"<Close><End of Block>
+<TextBlock 2 w:40 h:3>
+Che stai facendo!?<Delay 10>
+Ti è stato ordinato
+di allontanarti!!<Close><End of Block>
+<TextBlock 3 w:40 h:3>
+Che state facendo!?<Delay 10>
+Andate via, è un
+ordine!!<Close><End of Block>
+<TextBlock 4 w:40 h:3>
+Che state facendo!?<Delay 10>
+Andate via, è un
+ordine!!<Close><End of Block>
+<TextBlock 5 w:0 h:1>
+<Close><End of Block>

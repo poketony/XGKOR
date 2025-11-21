@@ -1,0 +1,83 @@
+Appunti sul mappaggio della grafica del menu (thanks to Chop):
+
+La grafica del menu è mappata tramite il sottofile 2 dell'archivio 2593.unk8.
+All'inizio di questo file, dall'offset 0x4 all'offset 0x305.
+
+All'offset 3660 è mappata la scritta NewGame.
+
+0000 0100 0000 0000 A600 2C00 0900 A5FF 0A00 0400 0000 0000 1001 FD01 C001 9400
+
+(ovviamente tutte le coppie vanno invertite e poi convertite in decimali
+ per ottenere i valori reali)
+
+Dove:
+
+0100 0000 indica da quanti segmenti di grafica quella scritta è composta.
+
+0000      indica la prima coordinata da cui caricare la grafica dalla tim,
+	    quella della X (in questo caso, 0).
+
+A600      ha la stessa funzione sopradescritta, ma indica la coordinata della Y.
+	    Tuttavia, per motivi per ora sconosciuti, per ottenere il reale valore della Y
+	    si dovranno prima sottrarre a questo numero 0x94. Il valore della Y qui è dunque 18.
+
+2C00      indica la lunghezza del segmento di grafica da caricare. Nessuna particolarità,
+	    qui è 44 pixel, ad esempio.
+
+0900      indica l'altezza. Neanche qui ci sono problemi, infatti l'altezza è 9 pixel.
+
+A5FF e 0A00 sono le coordinate (rispettivamente x ed y) tramite le quali
+la grafica è posizionata su schermo.
+
+Sconosciuta per ora la funzione degli altri , 1001 comunque indica la palette con cui visualizzare
+la scritta (1001 corrisponde al bianco, 0001 al rosso).
+
+Riguardo le scritte formate da più parti grafiche:
+
+Le scritte formate da più pezzi di grafica sono spesso mappate "al contrario".
+Segnerò come le scritte sono mappate e metterò tra parentesi quadre
+l'ordine dei pezzi grafici.
+Nulla da dire sull'indicazione sulle coordinate, cominciano semplicemente
+dopo la fine di quelle del pezzo precedente.
+
+Indirizzi nel file2 delle varie scritte grafiche:
+
+NewGame     - 0x3662
+Continue    - 0x3682
+Sound       - 0x36A2
+Exit        - 0x36C2
+Save        - 0x36E2
+Load        - 0x3702
+Copy        - 0x3722 [p, y, Co]
+Delete      - 0x377A
+Status      - 0x379A
+Equip       - 0x37BA [p, ui, q, E]
+Items       - 0x382E [s, Item]
+Abilities   - 0x386A [i, es, Abilit]
+Gear        - 0x38C2
+File        - 0x38E2
+Exit        - 0x3902 (sottomenu)
+Skills      - 0x3922 [s, Skill]
+Abilities   - 0x395E (sottomenu) [i, es, Abilit]
+Equip       - 0x39B6 (sottomenu) [come l'altro]
+Buy         - 0x3A2A [y, Bu]
+Sell        - 0x3A66
+Exit        - 0x3A86
+Items       - 0x3AA6 [s, Item]
+Weapons     - 0x3AE2 [s, on, p, Wea]
+Accessories - 0x3B56 [i, es, Access]
+Equipment   - 0x3BAE [E, p, q, ui, ment]
+Gear Option - 0x3C3E [p, tion, O, Gear]
+Abilities   - 0x3CB2 (sottomenu) [come l'altro]
+Equip       - 0x3D0A (sottomenu) [ui, q, p, E]
+Get ON-OFF  - 0x3D7E (sottomenu)  [-, N, F, F, O, O, t, Ge]
+Stereo      - 0x3E62
+Wide Stereo - 0x3E82 [Stereo, Wide]
+Mono        - 0x3EBE
+Tune up     - 0x3EDE (negozi Gear) [p, u, ne, u, T]
+Weapons     - 0x3F6E [s, on, p, Wea]
+Parts       - 0x3FE2 [P, arts]
+Fuel        - 0x401E [el, u, F]
+Engine      - 0x4076 [ine, g, n, E]
+Frame       - 0x40EA [me, ra, F]
+Armor       - 0x4142 (negozi Gear)  [rmor, A]

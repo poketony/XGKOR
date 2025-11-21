@@ -1,0 +1,148 @@
+<TextBlock 1 w:36 h:2>
+Sigurd
+"Padroncino…?"<Close><End of Block>
+<TextBlock 2 w:44 h:2>
+Bart
+"Già, non riesco
+a dormire."<Close><End of Block>
+<TextBlock 3 w:36 h:3>
+Sigurd
+"Sì, è accaduto davvero
+tanto in poco tempo."<Close><End of Block>
+<TextBlock 4 w:38 h:3>
+Bart
+"Ehi, Sig…<Delay 60> com'era
+tua madre?"<Close><End of Block>
+<TextBlock 5 w:46 h:3>
+Sigurd
+"… Morì quand'ero solo
+un bambino,<Delay 30> perché?"<Close><End of Block>
+<TextBlock 6 w:38 h:3>
+Bart
+"Ricordi qualcosa
+di lei?<New>
+Che tipo di persona
+era?"<Close><End of Block>
+<TextBlock 7 w:48 h:4>
+Sigurd
+"Mmmh, beh…<Delay 30> 
+era molto gentile…<New>
+… ma quando nacqui,
+sembra che il dottore
+le disse che non aveva
+molto da vivere.<New>
+Viveva con una paura
+costante di morire.<New>
+Di conseguenza, anche se
+incontrava qualcuno che
+le piaceva…<New>
+… la sua paura della
+morte era il suo difetto
+e svantaggio.<New>
+Si preoccupava che non
+avrebbe potuto essere
+con me fino alla vera
+fine…"<Close><End of Block>
+<TextBlock 8 w:50 h:2>
+Bart
+"E tuo padre?"<Close><End of Block>
+<TextBlock 9 w:46 h:3>
+Sigurd
+"Si presume che non
+sappia che io sia nato.<New>
+Tuttavia, pur non
+sapendolo, mi trattò
+comunque come un figlio."<Close><End of Block>
+<TextBlock 10 w:44 h:3>
+Bart
+"Perché non gli dicesti
+che eri suo figlio?"<Close><End of Block>
+<TextBlock 11 w:44 h:4>
+Sigurd
+"Se mia madre nascose
+la cosa, doveva
+esserci una ragione."<Close><End of Block>
+<TextBlock 12 w:48 h:4>
+Bart
+"Ci sono altre cose nel
+testamento di mio padre.<New>
+Cose che oggi non ho
+reso note.<New>
+Devo spartire la mia
+eredità con mio
+fratello.<New>
+Lui disse inoltre…
+'Devi dividere la parte
+tua e di tuo fratello
+con la gente.'"<Close><End of Block>
+<TextBlock 13 w:2 h:1>
+!<Opcode 2 30><Close><End of Block>
+<TextBlock 14 w:50 h:4>
+Bart
+"Questa cosa mi aveva
+sempre tormentato, fino
+ad ora.<New>
+Non sapevo cosa mio
+padre volesse dire.<New>
+Questo è tutto quello
+che volevo dire…<Delay 60>
+Buona notte!"<Close><End of Block>
+<TextBlock 15 w:24 h:1>
+Chiuso.<Opcode 2 30><Close><End of Block>
+<TextBlock 16 w:24 h:1>
+Chiuso.<Opcode 2 30><Close><End of Block>
+<TextBlock 17 w:24 h:1>
+Chiuso.<Opcode 2 30><Close><End of Block>
+<TextBlock 18 w:20 h:2>
+    Esci
+    Torna<Close><End of Block>
+<TextBlock 19 w:2 h:1>
+!<Opcode 2 15><Close><End of Block>
+<TextBlock 20 w:40 h:2>
+Ehi, ma qui a cosa stiamo
+facendo la guardia?<Close><End of Block>
+<TextBlock 21 w:38 h:4>
+Siamo qui per inseguire
+chiunque venisse dal
+torneo e si perdesse
+nel castello.<Close><End of Block>
+<TextBlock 22 w:42 h:5>
+Babysitter, eh? <Delay 30>
+Beh, quando si arriva
+ai quarti di finale,
+andremo a controllare
+il Torneo.<Close><End of Block>
+<TextBlock 23 w:28 h:2>
+Sì, facciamolo!<Close><End of Block>
+<TextBlock 24 w:30 h:2>
+Oh cavolo, se
+quel tipo vince…<Close><End of Block>
+<TextBlock 25 w:26 h:1>
+Esatto.<Close><End of Block>
+<TextBlock 26 w:38 h:1>
+Ridammi 100G!<Close><End of Block>
+<TextBlock 27 w:26 h:2>
+Oh, bene.
+Che spreco.<Close><End of Block>
+<TextBlock 28 w:2 h:1>
+!<Opcode 2 15><Close><End of Block>
+<TextBlock 29 w:2 h:1>
+!<Opcode 2 15><Close><End of Block>
+<TextBlock 30 w:2 h:1>
+!<Opcode 2 15><Close><End of Block>
+<TextBlock 31 w:2 h:1>
+!<Opcode 2 15><Close><End of Block>
+<TextBlock 32 w:2 h:1>
+!<Opcode 2 15><Close><End of Block>
+<TextBlock 33 w:2 h:1>
+!<Opcode 2 15><Close><End of Block>
+<TextBlock 34 w:2 h:1>
+!<Opcode 2 15><Close><End of Block>
+<TextBlock 35 w:2 h:1>
+!<Opcode 2 15><Close><End of Block>
+<TextBlock 36 w:2 h:1>
+!<Opcode 2 15><Close><End of Block>
+<TextBlock 37 w:2 h:1>
+!<Opcode 2 15><Close><End of Block>
+<TextBlock 38 w:2 h:1>
+!<Opcode 2 15><Close><End of Block>

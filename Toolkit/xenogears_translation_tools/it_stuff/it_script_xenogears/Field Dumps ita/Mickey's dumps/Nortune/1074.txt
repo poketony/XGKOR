@@ -1,0 +1,115 @@
+<TextBlock 1 w:34 h:2>
+Soldato
+"Soldato 0 qui."<Close><End of Block>
+<TextBlock 2 w:34 h:2>
+Soldato
+"Soldato 1 qui."<Close><End of Block>
+<TextBlock 3 w:34 h:2>
+Soldato
+"Soldato 4 qui."<Close><End of Block>
+<TextBlock 4 w:34 h:2>
+Soldato
+"Soldato 5 qui."<Close><End of Block>
+<TextBlock 5 w:34 h:2>
+Soldato
+"Soldato 6 qui."<Close><End of Block>
+<TextBlock 6 w:34 h:2>
+Soldato
+"Soldato 7 qui."<Close><End of Block>
+<TextBlock 7 w:36 h:2>
+Soldato
+"Soldato 71 qui."<Close><End of Block>
+<TextBlock 8 w:34 h:2>
+Soldato
+"Soldato 8 qui."<Close><End of Block>
+<TextBlock 9 w:34 h:2>
+Soldato
+"Soldato 9 qui."<Close><End of Block>
+<TextBlock 10 w:44 h:4>
+Donna Mascherata
+"Sì. Se vuoi usarlo,
+puoi attraversare la
+barriera.<New>
+Sei libero di andare
+dove vuoi quando vuoi."<Close><End of Block>
+<TextBlock 11 w:44 h:4>
+Donna Mascherata
+"Lui è molto occupato.
+Sono stata incaricata
+di rappresentarlo."<Close><End of Block>
+<TextBlock 12 w:48 h:3>
+Donna Mascherata
+"Te l'ho già detto.<New>
+Desidero solo osservare
+quale sarà il futuro
+del mondo.<New>
+Ci sono molte cose
+che voi dovete sapere.
+Io sono soltanto la
+vostra guida.<New>
+Non posso assistervi
+direttamente. Come
+lo usate siete voi
+a deciderlo."<Close><End of Block>
+<TextBlock 13 w:30 h:4>
+Donna Mascherata
+"Vediamo…
+Allora, che ne
+pensi di questo…?"<Close><End of Block>
+<TextBlock 14 w:40 h:2>
+Donna Mascherata
+"Bene, devo andare…"<Close><End of Block>
+<TextBlock 15 w:38 h:4>
+Sigmund
+"Io sono il Kaiser
+di Kislev, Sigmund.
+Ah ah ah."<Close><End of Block>
+<TextBlock 16 w:26 h:2>
+Sigmund
+"È quello?"<Close><End of Block>
+<TextBlock 17 w:48 h:3>
+Sigmund
+"Quell'uomo… chi era?
+Grahf? È qua intorno?"<Close><End of Block>
+<TextBlock 18 w:50 h:3>
+Sigmund
+"Te lo chiederò solo
+una volta. Perché ci
+aiutate?<New>
+Chi siete voi?
+E chi sei tu?"<Close><End of Block>
+<TextBlock 19 w:44 h:4>
+Sigmund
+"Così mi stai dicendo
+che non vuoi nulla
+in cambio…?"<Close><End of Block>
+<TextBlock 20 w:46 h:3>
+Sigmund
+"… Ma che strana
+richiesta."<Close><End of Block>
+<TextBlock 21 w:50 h:4>
+Sigmund
+"Vogliono che trasferisca
+quel Gear e il suo pilota
+al Blocco D…"<Close><End of Block>
+<TextBlock 22 w:50 h:3>
+Sigmund
+"Comunque, non lo so.<New>
+Ma… dobbiamo loro
+ancora un favore.
+Non possiamo rifiutare
+questa richiesta.<New>
+State attenti!"<Close><End of Block>
+<TextBlock 23 w:34 h:2>
+Soldato
+"Soldato presente!"<Close><End of Block>
+<TextBlock 24 w:38 h:2>
+Soldato
+"Cosa ha detto?"<Close><End of Block>
+<TextBlock 25 w:28 h:3>
+Soldato
+"Blocco D?
+Chissà perché?"<Close><End of Block>
+<TextBlock 26 w:26 h:2>
+Soldato
+"Sissignore…"<Close><Close><End of Block>

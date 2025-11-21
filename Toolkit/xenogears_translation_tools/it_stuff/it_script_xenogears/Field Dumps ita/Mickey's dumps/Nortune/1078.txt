@@ -1,0 +1,54 @@
+<TextBlock 1 w:38 h:3>
+Fei
+"Ehi! Tu là dentro!
+Apri!"<Close><End of Block>
+<TextBlock 2 w:52 h:4>
+Fei
+"Cos'hai in mente?
+Di irrompere nel
+Distretto Centrale?<New>
+Non è una buona
+idea… <Delay 30>Cosa?"<Close><End of Block>
+<TextBlock 3 w:40 h:2>
+Rico
+"…!?<Delay 30>
+Questo odore…"<Close><End of Block>
+<TextBlock 4 w:46 h:3>
+Rico
+"Perché<Delay 40> mi sto
+ricordando di
+questa cosa…<New>
+Questa stanza…?<Delay 30>
+Quel languido odore…"<Close><End of Block>
+<TextBlock 5 w:40 h:2>
+Rico
+"Lascia stare…"<Close><End of Block>
+<TextBlock 6 w:40 h:2>
+Rico
+"Lascia stare…"<Close><End of Block>
+<TextBlock 7 w:48 h:2>
+ 
+ Ricevi Ciondolo.<Close><End of Block>
+<TextBlock 8 w:44 h:2>
+Rico
+"…<Delay 30> L'ho già
+vista…"<Close><End of Block>
+<TextBlock 9 w:42 h:2>
+Rico
+"Quando è<Delay 30>…
+stato…?"<Close><End of Block>
+<TextBlock 10 w:34 h:3>
+Rico
+"Uh? Cos'è questa
+stanza…?"<Opcode 2 40><Close><End of Block>
+<TextBlock 11 w:50 h:2>
+Sigmund
+"E voi chi sareste…?<New>
+…!? <Delay 40>Come siete
+entrati?<New>
+Così mutante, eri tu…"<Close><End of Block>
+<TextBlock 12 w:48 h:4>
+Sigmund
+"Mmh.<Delay 40>
+Se non avete nulla da
+dire, andatevene."<Close><Close><End of Block>

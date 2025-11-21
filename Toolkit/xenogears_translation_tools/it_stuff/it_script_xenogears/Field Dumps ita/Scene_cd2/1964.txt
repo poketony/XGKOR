@@ -1,0 +1,156 @@
+<TextBlock 1 w:48 h:4>
+Roni
+"Perché non vai a
+riposarti,<Delay 15> Krel<Delay 5>…?<New>
+Non dormi da avantieri,
+vero?<Delay 5> Non dovresti
+chiedere troppo da
+te stesso!"<Close><End of Block>
+<TextBlock 2 w:38 h:3>
+Krelian
+"Sto bene, <Delay 10>non è
+un problema<Delay 5>…"<Close><End of Block>
+<TextBlock 3 w:54 h:4>
+Roni
+"Guarda, la controllerò
+io, perciò tu vai a
+dormire.<New>
+Cosa faremmo se anche tu
+ti ammali?<Delay 15> Non dimenticare
+che tu sei il capo della
+milizia della setta."<Close><End of Block>
+<TextBlock 4 w:50 h:3>
+Krelian
+"Va bene<Delay 5>…<Delay 5> Credo
+tu abbia ragione."<Close><End of Block>
+<TextBlock 5 w:30 h:3>
+Lacan
+"Elly<Delay 5>…<Delay 10>
+Mi dispiace
+così tanto…"<Close><End of Block>
+<TextBlock 6 w:44 h:4>
+Lacan
+"Io<Delay 5>…<Delay 15>
+È stato il mio errore
+a farti questo."<Close><End of Block>
+<TextBlock 7 w:54 h:4>
+Lacan
+"Io ero spaventato<Delay 20>…<New>
+Era come se tu potessi
+vedere attraverso di me<Delay 5>…<Delay 15>
+I tuoi occhi<Delay 5>… <Delay 15>
+Quello sguardo<Delay 5>…<New>
+Ero io quello che c'era
+riflesso nei tuoi occhi<Delay 5>…<New>
+Io guardavo me stesso<Delay 5>…<Delay 15>
+E dunque dipingevo me
+stesso<Delay 5>…<Delay 15> Non potevo
+sopportarlo!<Delay 45> È per questo<Delay 5>…<New>
+Oh, Elly<Delay 5>…<Delay 15>
+Mio dio, cos'hai trovato
+di buono dentro di me?"<Close><End of Block>
+<TextBlock 8 w:52 h:4>
+Lacan
+"Quando ti sveglierai,
+penso che te lo
+chiederò<Delay 5>…<Delay 45><New>
+Pensandoci bene,<Delay 5> no<Delay 5>…<Delay 40>
+No,<Delay 5> non voglio opprimerti
+con i miei problemi<Delay 5>…<Delay 30><New>
+Inoltre, non riuscirei
+mai a chiedertelo<Delay 5>…<New>
+Basta che io ti guardi
+negli occhi… anche
+solo una volta e non
+posso dire nulla<Delay 5>…<Delay 45><New>
+Io<Delay 5> non riuscirei neanche
+a dirti<Delay 5> cosa provo<Delay 5>…"<Close><End of Block>
+<TextBlock 9 w:42 h:3>
+Sofia
+"Tu sei la persona
+più dolce<Delay 5>…"<Close><End of Block>
+<TextBlock 10 w:20 h:2>
+Lacan
+"Elly<Delay 5>…!"<Close><End of Block>
+<TextBlock 11 w:54 h:4>
+Elly
+"Tu sei una persona che
+non può sopportare di
+vedere gli altri…<New>
+… feriti da ciò che
+tu stesso fai.<New>
+Dunque nascondi tutto nel
+tuo cuore e soffri tutto
+il pesante fardello<Delay 15>…<New>
+Anche se alla fine ti
+fai male, tu pensi che
+vada bene lo stesso<Delay 5>…"<Close><End of Block>
+<TextBlock 12 w:22 h:4>
+Elly
+"Questo<Delay 5>…<Delay 15> è ciò che
+mi piace di te."<Close><End of Block>
+<TextBlock 13 w:52 h:4>
+Lacan
+"Basta!<Delay 10> Non dirlo<Delay 15>…<New>
+Se diventi una persona
+qualunque… se diventi
+un essere umano come
+gli altri, tutti si<Delay 5>…"<Close><End of Block>
+<TextBlock 14 w:52 h:4>
+Elly
+"Gli umani<Delay 5>…<Delay 5> non sono poi
+così fragili, sai.<New>
+Non hanno bisogno di un
+simbolo che è soltanto
+apparenza.<New>
+Io credo che se si ha la
+luce nel proprio cuore,<Delay 5>
+si possa vincere ogni
+sofferenza.<New>
+L'unica cosa che io faccio
+è<Delay 5> mostrare alla gente che
+questa luce esiste nei
+cuori di tutti."<Close><End of Block>
+<TextBlock 15 w:54 h:4>
+Elly
+"Io sono solo una donna.<New>
+E per adempiere al mio
+ruolo di donna…<Delay 10> sono
+pronta a gettare via
+tutto<Delay 15>…<New>
+Anche la posizione
+che ora occupo.<New>
+Io sto solo recitando il
+ruolo di Sofia.<Delay 15> Ma io
+sono sempre io.<New>
+Non sono cambiata<Delay 5>…<Delay 15> sono
+pusillanime, egoista e…<Delay 10>
+piango troppo<Delay 5>…<Delay 10>
+Sono sempre la stessa."<Close><End of Block>
+<TextBlock 16 w:54 h:4>
+Elly
+"Si può vivere una bugia
+come la mia ed essere
+comunque felici<Delay 5>…?<New>
+Io<Delay 5>…<Delay 5> non voglio farlo."<Close><End of Block>
+<TextBlock 17 w:54 h:4>
+Elly
+"Oh, Lacan<Delay 20>…<New>
+Voglio vivere più
+onestamente con me
+stessa<Delay 5>…<New>
+Voglio poter dire all'uomo
+che amo che lo amo più
+di me stessa<Delay 15>…<New>
+E non mi importa nuocere
+a me stessa o essere
+respinta.<New>
+Abbiamo una vita sola.<New>
+Non voglio in futuro
+voltarmi verso il passato
+e pentirmi di non aver
+fatto queste cose<Delay 5>…"<Close><End of Block>
+<TextBlock 18 w:16 h:3>
+Lacan
+"Io<Delay 5>…<Delay 15>
+  io<Delay 5>…"<Close><Close><End of Block>

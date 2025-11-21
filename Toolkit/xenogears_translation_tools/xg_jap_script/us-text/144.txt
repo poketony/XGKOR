@@ -1,0 +1,203 @@
+#### 1 ####
+{slow:01}There are intruders{wait:0A}
+in the base!{clear:14}
+
+#### 2 ####
+{slow:01}There are three intruders...{clear:1E}
+
+#### 3 ####
+{slow:01}...presently heading{wait:0A}
+for the dock area.{clear:14}
+
+#### 4 ####
+{slow:01}The two men may be killed...{clear:1E}
+
+#### 5 ####
+{slow:01}...but do not harm the girl.{clear:1E}
+
+#### 6 ####
+Elly
+"It sounds like
+they've gone..."
+
+#### 7 ####
+Bart
+"Fei, can you explain
+to me how you know a
+Gebler officer?"
+
+#### 8 ####
+Fei
+"Well..."
+
+#### 9 ####
+Bart
+"I don't know where you
+met her, but no matter
+how you look at it...{enter}
+she's a Gebler officer!
+Not an enemy? Where do
+you get off saying that?"
+
+#### 10 ####
+Elly
+"Yes.
+Special Forces of the
+Sacred Empire of Solaris...{enter}
+also known as Gebler...
+I'm Lt. Elhaym Van Houten
+of the Ignas Army's Third
+Assault Division.{enter}
+And...while returning from
+a mission to capture the
+newest model Gear from a
+Kislev military factory...{enter}
+...I was attacked by
+pursuing Kislev Gears and
+crash-landed in your
+village..."
+
+#### 11 ####
+Fei
+"..."
+
+#### 12 ####
+Elly
+"I wanted to tell you,
+but I just couldn't
+bring myself to...{enter}
+When I heard what my
+crash-landing in your
+village had caused...
+I couldn't tell you..."
+
+#### 13 ####
+Fei
+"...I knew."
+
+#### 14 ####
+Elly
+"!? {wait:14}
+Fei..."
+
+#### 15 ####
+Fei
+"I overheard you
+talking with doc."
+
+#### 16 ####
+Elly
+"Then why?"
+
+#### 17 ####
+Fei
+"It was...all my fault.
+But I lashed out at you 
+with my own feelings...{enter}
+I'm sorry."
+
+#### 18 ####
+Elly
+"No it wasn't..."
+
+#### 19 ####
+Fei
+"Just forget about it.
+You couldn't help it...
+You had your own problems."
+
+#### 20 ####
+Elly
+"But, Fei...
+why are you
+with them?"
+
+#### 21 ####
+Fei
+"I'm cooperating with 
+Bart and his crew.{enter}
+We came to rescue Margie
+who was taken prisoner
+in the castle here."
+
+#### 22 ####
+Elly
+"I see..."
+
+#### 23 ####
+Bart
+"Hey! Just a minute!
+Where do you think 
+you're going?"
+
+#### 24 ####
+Elly
+"You want to get out of
+the castle, right?{enter}
+In this confusion you can
+escape through the Gear
+launch door."
+
+#### 25 ####
+Bart
+"Great idea! But...
+do we really buy that?{enter}
+I don't think so! She talks
+sweet, but she's probably
+planning to turn us over to
+that old bald geezer.{enter}
+It's a trick, Fei!"
+
+#### 26 ####
+Fei
+"..."
+
+#### 27 ####
+Margie
+"Wait Bart!
+She's not a bad person.{enter}
+She said she'd help us,
+so let's go with her plan."
+
+#### 28 ####
+Bart
+"You're always
+like this!{enter}
+Can't you see...
+she's in Gebler!?
+Don't be so damn
+trusting!"
+
+#### 29 ####
+Margie
+"That's not true...
+is it, Elly?"
+
+#### 30 ####
+Bart
+"Oh yeah? Look where
+your ability to judge
+characters got you...!"
+
+#### 31 ####
+Bart
+"Fei, what about you?
+Do you believe her?"
+
+#### 32 ####
+Fei
+"I made up my
+mind long ago."
+
+#### 33 ####
+Elly
+"Fei..."
+
+#### 34 ####
+Bart
+"Gah!
+First you, now her!{enter}
+The whole lot of you
+can go jump off a
+cliff for all I care!"
+

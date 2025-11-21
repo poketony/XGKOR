@@ -1,0 +1,36 @@
+<TextBlock 1 w:6 h:1>
+<Opcode 1 255>!!<Opcode 2 30><Close><End of Block>
+<TextBlock 2 w:18 h:1>
+<Opcode 1 255>Sorellina…!!<Opcode 2 30><Close><End of Block>
+<TextBlock 3 w:38 h:3>
+Franz
+"Dove credete
+di andare?"<Opcode 2 60><Close><End of Block>
+<TextBlock 4 w:28 h:1>
+Ba… basta…<Opcode 2 30><Space 1><Close><End of Block>
+<TextBlock 5 w:54 h:4>
+Franz
+"Ammirevole…<Delay 30> Ora, che
+razza di suono farete
+quando farò questo?"<Opcode 2 60><Close><End of Block>
+<TextBlock 6 w:10 h:1>
+Uah!?<Close><End of Block>
+<TextBlock 7 w:46 h:2>
+Fei
+"Perché stai
+combattendo?"<Close><End of Block>
+<TextBlock 8 w:42 h:3>
+Franz
+"Tu,<Delay 10> che stai facendo!?"<Close><End of Block>
+<TextBlock 9 w:40 h:3>
+Fei
+"Che cosa ottieni
+dal combattere?"<Close><End of Block>
+<TextBlock 10 w:36 h:3>
+Fei
+"E se questo posto
+fosse la tua casa!?"<Close><End of Block>
+<TextBlock 11 w:34 h:1>
+<Opcode 1 255>Aaaaahhhhhhhh!!!!<Opcode 2 10><Close><End of Block>
+<TextBlock 12 w:0 h:1>
+<Close><End of Block>

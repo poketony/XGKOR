@@ -1,0 +1,609 @@
+#### 1 ####
+Bart
+"...So if we destroy that
+Zohar thing, everything
+will be over, right?"
+
+#### 2 ####
+Citan
+"Yes.{enter}
+The source of our Ether
+powers, and the source of
+power for the generators
+that make our Gears work...{enter}
+It all comes from the
+'Zohar Modifier' engine
+which can control any
+potential phenomena.{enter}
+If we destroy it,{wait:05}
+Deus...{wait:05}
+and the -Seraph- angels...{wait:05}
+will all be deactivated...{enter}
+And then we should also be
+able to free Elly, who has
+become bound to the Deus
+weapon system as 'Miang'."
+
+#### 3 ####
+Right, Fei?
+
+#### 4 ####
+Fei
+"Yeah.
+That's what the 'Wave
+Existence' said."
+
+#### 5 ####
+Citan
+"But then there is the
+downside...{enter}
+It will also mean that we
+will no longer be able to
+use our Gears or our Ether
+powers anymore."
+
+#### 6 ####
+Rico
+"What are those -Seraph-
+angels all about anyway?{enter}
+That odd appearance as if
+they lack something...{wait:05}as if
+they were neither living
+beings nor mere weapons..."
+
+#### 7 ####
+Citan
+"Zohar senses the human
+consciousness and
+incarnates the -Seraphs-."
+
+#### 8 ####
+Billy
+"Human consciousness...?"
+
+#### 9 ####
+Citan
+"Zohar itself involves the
+principle of uncertainty.{enter}
+The observer's perception
+of Zohar determines the
+entity it actually becomes.{enter}
+In other words, I believe
+that those angels are
+incarnations of the
+spirits of people...{enter}
+...The people who have
+been absorbed by Deus to
+become parts of it."
+
+#### 10 ####
+Bart
+"So what merit is there for
+them to gain in eliminating
+all of civilization?"
+
+#### 11 ####
+Maria
+"Is it some kind of hatred
+for those humans who have
+survived?"
+
+#### 12 ####
+Citan
+"Of course not.{enter}
+Those people who were
+created and assimilated
+as parts for Deus would
+not have such intentions.{enter}
+Try to remember what
+Elly, when she became
+Miang, said."
+
+#### 13 ####
+Fei
+" 'The creations of god
+   will someday be a
+   hindrance...{enter}
+   That is why they must
+   be eliminated...'"
+
+#### 14 ####
+Citan
+"Yes. That is why Merkava
+is being used to begin the
+destruction.{enter}
+But...Deus is not
+following its programming
+of exterminating all of
+civilization...{enter}
+The -Seraphs-, which are
+terminal interface weapons
+of Deus, are using their
+bodies composed of...{enter}
+...nanomachines to absorb
+massive numbers of people
+regardless of whether
+they are dead or alive.{enter}
+It is not discriminating
+between the mutant and 
+non-mutant people. This
+is highly peculiar...{enter}
+...The fact that the
+people who are meant to
+be destroyed are being
+taken in as well...{enter}
+That is the absolute
+opposite of what it is
+supposed to be doing."
+
+#### 15 ####
+Fei
+"Maybe there aren't
+enough parts?"
+
+#### 16 ####
+Citan
+"That is unlikely.{enter}
+Aside from those bodies
+that were destined to be
+parts for it...{enter}
+...Deus, who has already
+acquired the abilities of
+the nanomachines, can just
+about use any material...{enter}
+...to construct its body.
+It is obvious, it has other
+intentions in mind."
+
+#### 17 ####
+Citan
+"Those intentions{wait:05}...{wait:0A}
+Krelian has called Deus
+the mother.{enter}
+If god is the mother, then
+those motives are coming
+from the Great Mother{wait:05}...{enter}
+Impeding the growth of its
+child, {wait:0A}enveloping it,{wait:0A} to
+bring the child back to the
+womb to become one with it.{enter}
+That is its motive. Such a
+program does not exist
+within its design though.{enter}
+It was probably given this
+unique will by someone.
+Either from Elly who has
+merged with the Deus or{wait:0A}..."
+
+#### 18 ####
+Fei
+"Either way, it doesn't
+change the fact that we
+have to fight.{enter}
+Regardless of what their
+intentions are.
+The problem is how we're
+supposed to deal with them.{enter}
+You think we can do it
+in our current state?"
+
+#### 19 ####
+Zephyr
+"This secret battleship,
+Excalibur, will also take
+part in the final battle.{enter}
+Additionally, the military
+potential of all the
+surface forces will
+assemble here."
+
+#### 20 ####
+Bart
+"Even if we can put
+together a massive force...{enter}
+...we still have the
+problem with the main
+armament of the Merkava.{enter}
+We need to know how to take
+that out. As long as we
+don't do that..."
+
+#### 21 ####
+Citan
+"Merkava's ultra-long-range
+cannon has the ability to
+vaporize any substance.{enter}
+On top of that, they have a
+barrier around their
+perimeter that nullifies
+all attacks."
+
+#### 22 ####
+Zephyr
+"We've fought against the
+Merkava many times to try
+to stop its onslaught.{enter}
+However, we cannot even
+get close. Hence we have
+had to withdraw everytime."
+
+#### 23 ####
+Fei
+"Dammit!
+No matter how much we
+want to save Elly...{enter}
+...if we can't get
+inside the Merkava,
+it's meaningless."
+
+#### 24 ####
+Sigurd
+"To add to that, there
+is the problem of those
+-Seraphs-.{enter}
+...They function as the
+terminal interfaces weapons
+for close defense.{enter}
+I can easily say that their
+attack power is equivalent
+to the Omnigear class."
+
+#### 25 ####
+Bart
+"They even have the
+regenerative ability due
+to the nanomachines."
+
+#### 26 ####
+Taura
+"Don't be concerned
+about that."
+
+#### 27 ####
+Taura
+"I was able to obtain some
+data from Xenogears...{enter}
+You see, Xenogears has
+mutagenically evolved due
+to its contact with Zohar.{enter}
+Using that data, all of
+your new Gears ought to
+be completed soon.{enter}
+Additionally, all the other
+weapons and armaments are
+being modified to implement
+the 'Disassembler-Device'."
+
+#### 28 ####
+Billy
+"Disassembler-Device?"
+
+#### 29 ####
+Taura
+"In contrast to the Nano-
+assemblers, which create
+matter to repair with...{enter}
+...the Disassembers have
+the ability to dismantle
+or destroy matter.{enter}
+They can even deactivate
+the nanomachines' restoring
+ability by disengaging
+their repair programs.{enter}
+This should be sufficiently
+effective even against the
+Deus' -Seraphs-."
+
+#### 30 ####
+Fei
+"Alright, even if we can
+deal with the angels...{enter}
+...just how are we gonna
+deal with that Merkava?
+We can't even get close
+to the thing..."
+
+#### 31 ####
+Citan
+"There is no such thing
+as a perfect defense.
+There is a way."
+
+#### 32 ####
+Citan
+"Look over here."
+
+#### 33 ####
+Merkava's main gun requires
+a 1.2 second interval to
+reload because of its
+tremendous output.{enter}
+Upon firing, although it
+is only sectional, there
+will be a portion of the
+barrier that will be opened.{enter}
+There is a 1.87 second
+delay before the barrier
+reforms in that area. If
+we can use this window of
+time to target and destroy
+that cannon, it will be
+possible to close in on it.{enter}
+If we can get close enough,
+we can break through with
+gravitational-spatial
+correction.
+
+#### 34 ####
+Citan
+"Well, this is the
+rough idea."
+
+#### 35 ####
+Sigurd
+"Unfortunately we don't
+have such a long range
+cannon...{enter}
+...that could acquire
+a target in such
+a brief time frame."
+
+#### 36 ####
+Bart
+"So what you're sayin' is
+we just need to shut that
+annoying cannon up, right?"
+
+#### 37 ####
+Fei
+"...You want to
+go head on into
+Merkava!?"
+
+#### 38 ####
+Billy
+"Now you're being reckless
+again...{wait:0A} That's suicide."
+
+#### 39 ####
+Bart
+"No, listen. We're not
+going to just rush in.{enter}
+The Yggdrasil IV and
+this Excalibur are also
+equipped with barriers.
+That's what we'll use.{enter}
+Although only for a short
+time, we can withstand a
+direct hit from Merkava's
+main cannon.{enter}
+Then we can close in and
+watch for that part of the
+barrier to go down and
+then destroy the cannon."
+
+#### 40 ####
+Fei
+"How long will our
+barrier last?"
+
+#### 41 ####
+Bart
+"About 20 or so seconds."
+
+#### 42 ####
+Fei
+"That's all? It wouldn't
+matter how fast we fly.{enter}
+In that amount of time,
+we'll be without a barrier
+before we can get within
+firing range.{enter}
+And those numbers are valid
+only if the generator is at
+full drive, right?{enter}
+You can only get those
+numbers if we sacrifice
+all other output and
+propulsion."
+
+#### 43 ####
+Bart
+"I'm not suggesting we go
+in with guns blazing
+knowing we're gonna lose.{enter}
+We're going to physically
+put a lid on it,
+directly!!"
+
+#### 44 ####
+ ? 
+
+#### 45 ####
+Bart
+"As you've said...{enter}
+The Yggdrasil IV or
+Excaliber's barrier can't
+sufficiently defend against
+Merkava's attack.{enter}
+At least with one
+generator that is..."
+
+#### 46 ####
+Billy
+"Meaning...?"
+
+#### 47 ####
+Bart
+"Meaning, we can defend
+against the Merkava with
+twice the amount of time...{enter}
+...40 seconds, if we couple
+the 2 generators together.
+This way, we can make it
+into the heart of Merkava."
+
+#### 48 ####
+Maison
+"Then, what about the
+propulsion..."
+
+#### 49 ####
+Bart
+"Just hear me out."
+
+#### 50 ####
+This is what we do...
+First we transform my Yggdrasil
+into heavy assault mode and
+load it onto the Excalibur so
+we can couple the generators.
+
+#### 51 ####
+By doing that, we can
+reduce the energy usage
+down to just supporting
+the hull of the ship and
+generating the barrier.{enter}
+This will allow most of
+the energy to be devoted
+to generating the barrier.{enter}
+Next, shift the barrier to
+full front and focus it to
+a single point where their
+main cannon will make its
+strike.
+
+#### 52 ####
+Now for movement.
+First off, we develop
+a barrier by engaging
+Excalibur's generator
+to maximum power.{enter}
+For propulsion during that
+time, we'll install on the
+Yggdrasil those large solid
+rockets we got from the
+ruins of the Mass-driver.
+
+#### 53 ####
+When Excalibur's barrier
+expires, we'll use the
+Yggdrasil IV's generator
+to develop a barrier.{enter}
+Then we'll also detach
+the solid rockets and
+shift the Excalibur into
+conventional flight.
+
+#### 54 ####
+Using this method, we can
+get right in Merkava's
+face. After it fires,
+it'll be defenseless.{enter}
+During this time, we'll
+block the muzzle of
+Merkava's cannon with
+Excalibur's bow ram.{enter}
+Upon which, we should
+have 0.67 seconds...
+
+#### 55 ####
+With the cannon fire of the
+Excalibur, we'll destroy the
+Yggdrasil IV's slave
+generator and incapacitate
+the Merkava along the way,
+and then...we breakthrough!
+
+#### 56 ####
+Bart
+"...That's what the plan
+is all about.{enter}
+The combination of the
+barriers of both ships...
+Storming the Merkava...{enter}
+The timing of the cannon
+fire of the Excalibur...
+These are all going to
+be crucial.{enter}
+Mess up any one of these
+and the consequences are
+going to be severe.{enter}
+Hence, it'll be necessary
+to have both crews in
+synch with each other.{enter}
+That's why I'd like to
+place Sig in command of
+the Excalibur."
+
+#### 57 ####
+Sigurd
+"I have no qualms
+with that..."
+
+#### 58 ####
+Bart
+"What do you think, Queen?
+Will you lend us your
+battleship?"
+
+#### 59 ####
+Zephyr
+"Since there appears to
+be no other alternative,
+let us go with that.{enter}
+Please use it as you
+see fit."
+
+#### 60 ####
+Citan
+"But are we not cutting it
+uncomfortably close...?{enter}
+...When you calculate the
+arrival time and the
+barrier generation time,
+you will see what I mean!{enter}
+One minor mishap will put
+us in a situation where we
+could run out of barrier
+power before our arrival."
+
+#### 61 ####
+Sigurd
+"Also, we will be devoting
+both generators to keeping
+the barriers up...{enter}
+Won't that leave us
+without perimeter
+defenses?{enter}
+We won't stand a chance
+if we get engaged by the
+-Seraph- angels on our
+way to Merkava."
+
+#### 62 ####
+Fei
+"We'll hold them off.
+You can count on us!{enter}
+You guys just concentrate
+on taking out that main
+cannon."
+
+#### 63 ####
+Bart
+"Thanks.{wait:0A}
+We're depending on you."
+
+#### 64 ####
+Fei
+"Already, everywhere
+else has been taken out.{enter}
+This is the only place
+that's left. This is
+going to be the true
+'final battle'."
+
+#### 65 ####
+ 
+

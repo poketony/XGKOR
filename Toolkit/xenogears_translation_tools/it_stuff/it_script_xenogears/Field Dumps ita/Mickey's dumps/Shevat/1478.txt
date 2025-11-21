@@ -1,0 +1,49 @@
+<TextBlock 1 w:54 h:4>
+Questo negozio sta per
+chiudere.<New>
+In questa città i Gear
+non sono necessari, se
+non per le truppe della
+Regina…<New>
+Ma… da' pure un'occhiata.<Delay 20>
+Non faremo molti affari,
+ma siamo orgogliosi di
+tutti gli oggetti che
+vendiamo.<Close><End of Block>
+<TextBlock 2 w:42 h:5>
+Grazie.
+Per qualsiasi cosa,
+torna a trovarci.<Delay 20>
+Cercheremo di aiutarti
+il più possibile.<Close><End of Block>
+<TextBlock 3 w:50 h:4>
+A che serve avere un
+Gear se non c'è nessuno
+che lo guidi?<New>
+L'unico Gear che ha
+bisogno di manutenzione
+è quello di Maria, che
+viene molto usato.<Close><End of Block>
+<TextBlock 4 w:54 h:4>
+Beh, ad essere onesti,
+in questa guerra non
+abbiamo molte speranze…<Delay 20>
+Se non accade un miracolo.<New>
+La battaglia fu decisa
+probabilmente nel momento
+in cui lasciarono che lei
+fuggisse, durante la
+guerra di 500 anni fa.<Close><End of Block>
+<TextBlock 5 w:50 h:4>
+Non abbiamo attrezzature
+o materiali come Solaris.<Delay 20>
+Ma che diavolo vogliono
+che facciamo?<New>
+Accidenti!<Delay 20> Non siamo
+per nulla in svantaggio
+quando si tratta di
+tecnologia o di idee…<Close><End of Block>
+<TextBlock 6 w:42 h:3>
+Vuoi salire?<Delay 10>
+    Sì
+    No<Close><Close><End of Block>

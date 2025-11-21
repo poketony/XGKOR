@@ -1,0 +1,125 @@
+#### 1 ####
+Hey, you!! {wait:0A}
+Aren't you the one 
+from the dedication...?
+
+#### 2 ####
+...
+
+#### 3 ####
+You're under arrest!{wait:0A}
+Get in that door!!
+
+#### 4 ####
+Hey!{wait:0A} Why are you coming
+out of there!?{wait:0A} Come over
+here!
+
+#### 5 ####
+Elly
+"I'm an Imperial Special
+Forces lieutenant,{wait:0A}
+Elhaym Van Houten.{enter}
+I have just completed
+the collection of the
+special levy of the 3rd
+Class level.{enter}
+I am now in the process
+of taking this surface
+dweller back to HQ.{wait:0A}
+Any problems with that?"
+
+#### 6 ####
+(G, Gebler!?)
+
+#### 7 ####
+N,{wait:05} no,{wait:05} no problems...{wait:0A}
+Please, go on.
+
+#### 8 ####
+Please, go on.
+
+#### 9 ####
+WOMAN
+
+#### 10 ####
+WOMAN2
+
+#### 11 ####
+WOMAN3
+
+#### 12 ####
+WOMAN4
+
+#### 13 ####
+WOMAN5
+
+#### 14 ####
+!%#?&+!
+
+#### 15 ####
+Returning to the
+3rd class level?{wait:0A} {enter}
+Good job.{wait:0A} 
+It must be hard work."
+
+#### 16 ####
+Working hard?
+
+#### 17 ####
+You've got a lot of guts
+going into an area full
+of those barbarians...{wait:0A} {enter}
+Only a Gebler could 
+do that.
+
+#### 18 ####
+Yes, yes...{wait:0A} Oh, there's
+a mistake here.{wait:0A} Please
+try it one more time.{clear:3C}
+
+#### 19 ####
+Not again.{wait:0A} This is why
+I hate government
+offices...{clear:3C}
+
+#### 20 ####
+!%#?&+!
+
+#### 21 ####
+This is the problem
+with government offices
+...grumble...grumble...
+
+#### 22 ####
+!%#?&+!
+
+#### 23 ####
+So the destruction of
+the gate was the
+Emperor's will.{wait:0A} 
+I'm relieved.
+
+#### 24 ####
+Working hard?
+
+#### 25 ####
+The one behind you 
+is the Gebler?{wait:0A} 
+I heard the Lambs destroyed
+the gate...{enter}
+Is everything okay?
+    It's okay
+    It's questionable
+
+#### 26 ####
+Whew, what a relief.
+
+#### 27 ####
+Wha?{wait:0A} Now now,
+quit jokin'.{wait:0A} 
+That's impossible!
+
+#### 28 ####
+
+

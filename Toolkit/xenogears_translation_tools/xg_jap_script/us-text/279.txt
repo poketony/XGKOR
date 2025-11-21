@@ -1,0 +1,424 @@
+#### 1 ####
+Fei
+"Are you always wandering
+the seas like this?"
+
+#### 2 ####
+Fei
+"Why is the 'Ethos'
+involved...?"
+
+#### 3 ####
+...{clear:64}
+
+#### 4 ####
+Elly
+"Big job?"
+
+#### 5 ####
+...{clear:64}
+
+#### 6 ####
+Bart
+"Wah ha ha ha."{clear:50}
+
+#### 7 ####
+Bart
+"They came out...
+one after another...slam,{wait:0A}
+bam,{wait:0A} crash...{wait:0A}that's 
+how it happened..."
+
+#### 8 ####
+Captain
+"Took you a while,{wait:05} but
+things aren't ready yet."
+
+#### 9 ####
+Captain
+"Hey, hurry it up!
+Don't make our
+guests wait."
+
+#### 10 ####
+Captain
+"Sorry, there's no place
+to sit around here."
+
+#### 11 ####
+Captain
+"But, isn't the view just
+splendid from here? This
+beer hall is Thames' pride.{enter}
+You probably think it's a
+wee bit peculiar having a
+beer hall right next to the
+bridge, but tis fine by me.{enter}
+If you don't take time in
+life to enjoy a drink, you
+will be swallowed by the
+waves of anxiety{wait:05}...{enter}
+...{wait:05}But we don't have that
+problem.{wait:05} Thanks to this
+beer hall, everyone here is
+too sloshed to worry!"
+
+#### 12 ####
+Captain
+"Well, normally.
+There is that crane that
+fished you out. {enter}
+We use that or the Gears
+to pull up treasure from
+the sea. We're Salvagers.{enter}
+Recently however,
+there has been almost
+no treasure...{wait:0A}
+just little things.{enter}
+Since we've started the
+big job, well, that's all
+we've had."
+
+#### 13 ####
+Captain
+"Oh, that's a job for the
+'Ethos'.{enter}
+The 'Ethos' is planning
+a really big salvage next.{enter}
+I don't know the details
+but, looks like we'll be
+searching for some buried
+treasure."
+
+#### 14 ####
+Captain
+"Who knows... But, we're
+dependent on the 'Ethos'
+to buy our stuff.{enter}
+So, it won't look good
+if we turn the job down."
+
+#### 15 ####
+Captain
+"Well, dinner's finally
+ready. Let's eat."
+
+#### 16 ####
+Captain
+"Gahahahha."{clear:50}
+
+#### 17 ####
+Captain, your first
+mate is calling you.
+
+#### 18 ####
+Bart
+"They came out...
+one after another...{enter}
+slam,{wait:0A} bam,{wait:0A} crash...{wait:0A}
+that's how it happened..."
+
+#### 19 ####
+Fei
+"Hey Bart, Sigurd was
+asking about you..."
+
+#### 20 ####
+Captain
+"Gahahahahaha.{enter}
+Of course, if you're not 
+strong, you can't be a
+man of the sea."
+
+#### 21 ####
+Bart
+"Yeah, check this arm
+out{wait:0F}...{wait:0F}"
+
+#### 22 ####
+Proof!
+
+#### 23 ####
+Of the men!
+
+#### 24 ####
+Of the sea!!
+
+#### 25 ####
+Captain, your first
+mate is calling you.
+
+#### 26 ####
+Captain
+"Oi, he's interrupting
+our men of the sea story.{enter}
+That Hans, he's such
+an unrefined chap.
+What does he want now?"
+
+#### 27 ####
+Our Lady seems
+to have returned...
+
+#### 28 ####
+Fei
+"Our Lady{wait:0A}...{wait:1E}
+Oh, you mean Elly!"
+
+#### 29 ####
+Captain
+"Fool! 
+Why didn't you
+tell me earlier."
+
+#### 30 ####
+Well...
+
+#### 31 ####
+Fei
+"Well, let's go."
+
+#### 32 ####
+Elly
+"I know you haven't eaten
+for a while but how can
+you eat so much?"
+
+#### 33 ####
+Captain
+"Gah ha ha ha ha...
+This is great, 
+this is great. {enter}
+I like how you eat.
+You weren't drifting 
+around for nuthin'..."
+
+#### 34 ####
+Men have!
+
+#### 35 ####
+Courage!
+
+#### 36 ####
+And have Appetites!
+
+#### 37 ####
+Captain
+"Gah ha hah..."
+
+#### 38 ####
+Elly
+"?{wait:1E}
+Did we just shake?"
+
+#### 39 ####
+Fei
+"You're just imagining it."
+
+#### 40 ####
+Elly
+"I don't think so!"
+
+#### 41 ####
+Captain
+"Got it.
+I'm on the way."
+
+#### 42 ####
+Captain
+"Looks like something's
+up. Sorry, but I have to
+return to the bridge."
+
+#### 43 ####
+Captain
+"But please, 
+enjoy yourselves."
+
+#### 44 ####
+Fei
+"Elly, is that a 
+water spout?"
+
+#### 45 ####
+Elly
+"It's too far, I can't 
+see very well. But it
+looks like...{wait:0A}a battle!"
+
+#### 46 ####
+Fei
+"Let's go to the 
+bridge too."
+
+#### 47 ####
+Elly
+"Okay."
+
+#### 48 ####
+There's nuttin' betta
+than a drink after work.
+
+#### 49 ####
+Hey, hey, I've never seen
+you workin' around here.
+
+#### 50 ####
+Huh? Well, don't worry
+'bout the details
+too much.
+
+#### 51 ####
+Well, let's toast to
+the Thames' survival!"
+
+#### 52 ####
+Now we can drink
+some more.
+
+#### 53 ####
+Amen to that!
+
+#### 54 ####
+Awwwww man!
+I'd die for this
+glass of booze.
+
+#### 55 ####
+Hey, how many times
+do you plan on dying?
+
+#### 56 ####
+No kidding.
+
+#### 57 ####
+But what will our 
+next job be?
+
+#### 58 ####
+What's your job?
+
+#### 59 ####
+Oh, this and that.
+Forget about that.
+
+#### 60 ####
+Kids these days are
+such wimpy drinkers.
+
+#### 61 ####
+They're such wimpy
+drinkers, that's why they
+got beat by the fishbowl
+thing.
+
+#### 62 ####
+Hey, you're doing
+pretty good.
+
+#### 63 ####
+ 
+Received Premier Shoes.
+
+#### 64 ####
+Ha, you're no
+competition.
+
+#### 65 ####
+Hey let's take it
+easy today.
+
+#### 66 ####
+You're new!
+Want me to teach you?
+    Yeah
+    No thanks
+
+#### 67 ####
+{wait:0A}...{wait:0A}Really?
+    Yes
+    No
+
+#### 68 ####
+{wait:0A}...{wait:0A}Do it?
+    Yes
+    No
+
+#### 69 ####
+Hmmph, beat it.
+
+#### 70 ####
+Hmmph, you have no pride.
+
+#### 71 ####
+Well, I'll teach you then!!
+
+#### 72 ####
+Hmmph, don't regret it!
+
+#### 73 ####
+Hey, are yush 
+lishenin' t' me...!
+
+#### 74 ####
+Hey, yush din't drink
+yous, dat wash mine.
+
+#### 75 ####
+Hey, do something about
+this old drunk.
+
+#### 76 ####
+Hey, do something with 
+this old drunk. He's
+worse company than Wels.
+
+#### 77 ####
+Nope.
+I'm not trying to drink.
+
+#### 78 ####
+What, you didn't drink
+anything? Well then don't
+worry 'bout it.
+
+#### 79 ####
+Hey man, I've got a good 
+cure for drinking too
+much.
+
+#### 80 ####
+ 
+ Received Mentsol.
+
+#### 81 ####
+Men are stupid.
+They're so happy
+with that crap.
+
+#### 82 ####
+Men are so weak. 
+They try to forget about
+their fear of the Reapers
+with that crap.
+
+#### 83 ####
+I am {wait:1E}the maste¡«r{wait:2D}
+The best {wait:1E}maste¡«r{wait:2D}
+Thames' {wait:2D}maste¡«r.
+
+#### 84 ####
+Hey, I'm nosh drunk.
+
+#### 85 ####
+I've never been on dry 
+land since I was born.{enter}
+Think about it. You have 
+dirt on your feet. 
+How can you do that?
+
+#### 86 ####
+I didn't go ashore this 
+time either. Even though
+I thought I would.
+

@@ -1,0 +1,269 @@
+<TextBlock 1 w:48 h:3>
+Fei
+"Non dire cazzate!
+Ma che ti prende?
+Hammer!?"<Close><End of Block>
+<TextBlock 2 w:54 h:3>
+Fei
+"Grahf! Merda!
+Non in questo
+momento!"<Close><End of Block>
+<TextBlock 3 w:52 h:2>
+Fei
+"… Tenetevi
+tutti pronti!"<Close><End of Block>
+<TextBlock 4 w:24 h:4>
+Fei
+"Ggh…!
+Elly…
+amici miei…"<Close><End of Block>
+<TextBlock 5 w:50 h:2>
+Fei
+"Ua-a-a-a-a-a-a-a-a-h!!!!"<Close><End of Block>
+<TextBlock 6 w:48 h:3>
+Elly
+"Che… che stai facendo?
+Hammer?"<Close><End of Block>
+<TextBlock 7 w:30 h:2>
+Elly
+"M… madre…"<Space 1><Close><End of Block>
+<TextBlock 8 w:12 h:2>
+Elly
+"Fei!"<Close><End of Block>
+<TextBlock 9 w:20 h:2>
+Elly
+"Mamma!?"<Close><End of Block>
+<TextBlock 10 w:18 h:2>
+Elly
+"Mamma?"<Close><End of Block>
+<TextBlock 11 w:38 h:3>
+Elly
+"… Mamma…<Delay 50>
+… Mam… ma…"<Close><End of Block>
+<TextBlock 12 w:28 h:2>
+Elly
+"Ma… mma…"<Opcode 2 50><Close><End of Block>
+<TextBlock 13 w:18 h:2>
+Elly
+"Padre!"<Close><End of Block>
+<TextBlock 14 w:20 h:2>
+Elly
+"Papà!!"<Close><End of Block>
+<TextBlock 15 w:48 h:4>
+Elly
+"…<Delay 25>…<Delay 25>…<Delay 25>
+Come hai potuto farlo…
+… a mio padre!"<Close><End of Block>
+<TextBlock 16 w:38 h:2>
+Elly
+"Ah-h-h-h-h-h-h-h!!"<Opcode 2 25><Close><End of Block>
+<TextBlock 17 w:18 h:2>
+Elly
+"Padre!"<Close><End of Block>
+<TextBlock 18 w:22 h:2>
+Elly
+"Papà!!!"<Close><End of Block>
+<TextBlock 19 w:48 h:4>
+Elly
+"…<Delay 25>…<Delay 25>…<Delay 25>
+Come hai potuto farlo…
+… a mio padre!"<Close><End of Block>
+<TextBlock 20 w:38 h:2>
+Elly
+"Ah-h-h-h-h-h-h-!!"<Opcode 2 25><Close><End of Block>
+<TextBlock 21 w:44 h:2>
+Rico
+"Hammer!!
+Bastardo!!!"<Close><End of Block>
+<TextBlock 22 w:22 h:2>
+Rico
+"Hammer…"<Close><End of Block>
+<TextBlock 23 w:14 h:2>
+Rico
+"Gha!!"<Opcode 2 24><Close><End of Block>
+<TextBlock 24 w:54 h:4>
+Medena
+"Non mi fermerò.
+Giammai.<New>
+… La mia bambina è in
+pericolo… ed io sono
+sua madre!!"<Close><End of Block>
+<TextBlock 25 w:52 h:4>
+Medena
+"Sono nata e cresciuta in
+una famiglia normale.<New>
+Non sono un soldato come
+mio marito e mia figlia.<New>
+Non ho mai toccato una
+pistola, tantomeno me ne
+hanno puntata una contro<Delay 45>…<New>
+È per questo che sto
+tremando… ma non posso
+fermarmi.<New>
+Io sono solo una madre.
+Una madre normale.<Delay 45>
+E ci sono cose che devo
+proteggere…"<Close><End of Block>
+<TextBlock 26 w:50 h:3>
+Medena
+"Elly, dai, vieni
+qui piano piano.<Delay 15>
+Non preoccuparti.<New>
+C'è la mamma a
+proteggerti. Io
+ti proteggerò
+sempre e comunque."<Close><End of Block>
+<TextBlock 27 w:50 h:3>
+Medena
+"Elly, vieni qui.
+Va tutto bene."<Close><End of Block>
+<TextBlock 28 w:42 h:2>
+Medena
+"Va tutto bene, Elly."<Close><End of Block>
+<TextBlock 29 w:28 h:2>
+Hammer
+"Fe… fermi!!!"<Close><End of Block>
+<TextBlock 30 w:42 h:3>
+Hammer
+"Chiedo alla Signorina
+Elly di venire con me!!"<Close><End of Block>
+<TextBlock 31 w:28 h:3>
+Hammer
+"Non muovetevi!
+Non sto scherzando!!"<Close><End of Block>
+<TextBlock 32 w:52 h:3>
+Hammer
+"Feci una promessa ad
+un uomo chiamato…
+Kre… Krelian.<New>
+Se la Signorina Elly
+torna a casa, lui non
+mi 'cambierà'…"<Close><End of Block>
+<TextBlock 33 w:52 h:3>
+Hammer
+"Credetemi, non voglio
+sparare alla Signorina
+Elly.<New>
+Davvero, lei a me
+piace moltissimo.
+Ma… ma… io…<New>
+Io… non ho altra scelta!
+Perché io sono un
+buono a nulla…<New>
+Non sono forte come mio
+frate, né intelligente
+come il Dottore!"<Close><End of Block>
+<TextBlock 34 w:42 h:4>
+Hammer
+"Io lo so…<Delay 35> tutti pensano
+a me come un tuttofare
+rompiscatole…<New>
+… che parla troppo…<Delay 35><Space 1>
+Io lo so…"<Close><End of Block>
+<TextBlock 35 w:56 h:3>
+Hammer
+"Io sono diverso da voi!
+Non sono speciale come
+lo siete voi!<New>
+Un tipo 'normale' come me
+non ha scelta, deve fare
+come sto facendo ora io!!"<Close><End of Block>
+<TextBlock 36 w:34 h:3>
+Hammer
+"Non… si muova!!
+Ferma! Ferma!"<Close><End of Block>
+<TextBlock 37 w:22 h:2>
+Hammer
+"… Hya<Delay 35>…"<Space 1><Close><End of Block>
+<TextBlock 38 w:40 h:3>
+Hammer
+"… No!
+Si fermi!
+No! No!"<Close><End of Block>
+<TextBlock 39 w:44 h:3>
+Hammer
+"… No!!
+Non venga qui!
+No… no…!"<Close><End of Block>
+<TextBlock 40 w:40 h:3>
+Hammer
+"… Non…
+Non… venga…"<Space 1><Close><End of Block>
+<TextBlock 41 w:50 h:3>
+Hammer
+"… Hya…<Delay 32> hya…<Delay 32>
+Hya-a-a-a-a…<Delay 32> a…<Delay 32> a…"<Space 2><Close><End of Block>
+<TextBlock 42 w:56 h:2>
+Hammer
+"Wa-a-a-a-a-a-a-a-a-a…"<Close><End of Block>
+<TextBlock 43 w:22 h:2>
+Carnefice
+"Oh…?"<Close><End of Block>
+<TextBlock 44 w:42 h:4>
+Carnefice
+"Ahaha… Voi due
+amate troppo
+vostra figlia…"<Close><End of Block>
+<TextBlock 45 w:54 h:4>
+Carnefice
+"Oh, forse ho esagerato?<New>
+Non avete neanche avuto
+il tempo di salutarvi.
+Ma non preoccuparti.<New>
+Vi farò rincontrare
+nell'altro mondo…"<Close><End of Block>
+<TextBlock 46 w:54 h:4>
+Carnefice
+"… Possiede un grandissimo
+controllo Etereo anche se
+non è stata 'risvegliata'…<New>
+Impressionante.<Delay 20>
+Tuttavia…"<Close><End of Block>
+<TextBlock 47 w:44 h:2>
+Grahf
+"Lasciate qui
+la ragazza."<Close><End of Block>
+<TextBlock 48 w:44 h:3>
+Grahf
+"Sei migliorato.
+Ciò non ostante…!!"<Close><End of Block>
+<TextBlock 49 w:48 h:3>
+Erich
+"Me ne occuperò io!
+Voi scappate, subito!"<Close><End of Block>
+<TextBlock 50 w:18 h:2>
+Erich
+"G… gha!"<Close><End of Block>
+<TextBlock 51 w:50 h:4>
+Erich
+"E… Elly…<Delay 45>
+Va' via… ora…<New>
+Elly, non importa cosa
+accadrà in futuro, credi
+in te stessa e continua
+a vivere.<New>
+Noi saremo felici di
+aiutarti in ogni modo
+per noi possibile.<New>
+Questo è il minimo che
+posso fare per essere
+perdonato…<New>
+Elly… Tu sei figlia mia,
+mia e di Medena.
+Qualunque cosa succeda.
+Perciò…"<Close><End of Block>
+<TextBlock 52 w:20 h:2>
+Bart
+"Gha-a-a!"<Opcode 2 24><Close><End of Block>
+<TextBlock 53 w:10 h:2>
+Billy
+"Uah!"<Opcode 2 24><Close><End of Block>
+<TextBlock 54 w:26 h:2>
+Esmeralda
+"Ua-a-a-a-h!!"<Opcode 2 24><Close><End of Block>
+<TextBlock 55 w:32 h:2>
+<Chu-Chu>
+"Ouchuwowowhoa!"<Opcode 2 24><Close><End of Block>
+<TextBlock 56 w:14 h:2>
+Rico
+"Gha!!"<Opcode 2 24><Close><End of Block>

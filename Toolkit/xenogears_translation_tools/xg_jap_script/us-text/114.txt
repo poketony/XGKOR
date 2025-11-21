@@ -1,0 +1,21 @@
+#### 1 ####
+ 
+Welcome to the...
+   'Mirror of Truth'.
+{enter}
+Is this the real world?{wait:1E}
+Is that the real world?{wait:1E}
+I'll show you the truth.
+
+#### 2 ####
+This is great. {wait:1E}
+The three fat stooges!
+
+#### 3 ####
+Finished?
+    Yes
+    Not Yet
+
+#### 4 ####
+The exit's that way.
+

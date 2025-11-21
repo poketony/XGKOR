@@ -1,0 +1,148 @@
+#### 1 ####
+Fei
+"Stop!
+Keep your hands
+off of 'Elly'!"{clear:3C}
+
+#### 2 ####
+Fei
+"Are you alright!?
+Hang in there!"
+
+#### 3 ####
+Mysterious Woman
+"Errh...{wait:1E}
+Turn around!"
+
+#### 4 ####
+Fei
+"..."
+
+#### 5 ####
+Mysterious Woman
+"I said...
+turn around!"
+
+#### 6 ####
+Fei
+"...Are you shaking?"
+
+#### 7 ####
+Mysterious Woman
+"Be quiet!"
+
+#### 8 ####
+Mysterious Woman
+"...You don't seem to be
+one of the Kislev soldiers
+who are after me...{wait:32}but..."{clear:64}
+
+#### 9 ####
+Mysterious Woman
+"Don't move!"
+
+#### 10 ####
+Mysterious Woman
+"I have orders to kill all
+surface dwellers, -Lambs-,
+I come in contact with...{enter}
+It's part of my mission.
+It's nothing personal."
+
+#### 11 ####
+Mysterious Woman
+"I have a question for you.{wait:28}
+...How do I get out of this
+forest?"
+
+#### 12 ####
+Fei
+"Are you...lost?"
+
+#### 13 ####
+Mysterious Woman
+"Just answer my question!
+How do I get out of here?"
+
+#### 14 ####
+Fei
+"Sorry...
+but I'm looking for the
+way out of here too."
+
+#### 15 ####
+Mysterious Woman
+"Oh..."
+
+#### 16 ####
+Fei
+"How long are you
+just going to stand
+there like that?{enter}
+If you're going to
+shoot me, then hurry
+up and do it."
+
+#### 17 ####
+Mysterious Woman
+"What an odd thing to say!
+Don't you understand the
+situation you are in?"
+
+#### 18 ####
+Fei
+"I don't care about
+my situation...{enter}
+I'm just a guy whose
+life is worthless...
+There's no point in
+me living anyway!"
+
+#### 19 ####
+Mysterious Woman
+"Sta, {wait:0A}stay back!"{clear:3C}
+
+#### 20 ####
+Fei
+"What are you aiming at?{wait:1E} 
+Here! Shoot me here!{wait:32}
+C'mon..."
+
+#### 21 ####
+Mysterious Woman
+"Are...{wait:0A}
+are you mocking me?"{clear:50}
+
+#### 22 ####
+Mysterious Woman
+"What's this?
+Who are you?"{clear:1E}
+
+#### 23 ####
+!{clear:1E}
+
+#### 24 ####
+-5{clear:0A}
+
+#### 25 ####
+Mysterious Woman
+"You're weird!"{clear:50}
+
+#### 26 ####
+Mysterious Woman
+"Something's very
+wrong with you!"{clear:1E}
+
+#### 27 ####
+Mysterious Woman
+"You should at least
+resist a little bit!"{clear:50}
+
+#### 28 ####
+You have too many
+{str}.
+
+#### 29 ####
+ 
+ Received {str}.
+

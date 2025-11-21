@@ -1,0 +1,329 @@
+<TextBlock 1 w:32 h:2>
+Elly
+"Dove sono…?"<Close><End of Block>
+<TextBlock 2 w:50 h:2>
+Elly
+"K… Krelian…<Space 1>
+Comandante?"<Close><End of Block>
+<TextBlock 3 w:30 h:2>
+Elly
+"La prego, si fermi!"<Close><End of Block>
+<TextBlock 4 w:12 h:2>
+Elly
+"…?"<Close><End of Block>
+<TextBlock 5 w:38 h:2>
+Elly
+"L'altra me stessa…?"<Close><End of Block>
+<TextBlock 6 w:44 h:3>
+Elly
+"Dov'è Fei? Dove sono
+tutti gli altri…?"<Close><End of Block>
+<TextBlock 7 w:54 h:4>
+Elly
+"Ha intenzione di mandarli
+a fare la stessa fine…<New>
+… di quelle persone
+che si trovano in
+quell'impianto di
+ricerca!<New>
+Fare tutto questo per le
+sue ambizioni egoistiche…<Delay 30>
+Lei sa cosa sta facendo!?<New>
+Persone che giocano con
+le vite di altre persone…
+Che cosa terribile e
+meschina!"<Close><End of Block>
+<TextBlock 8 w:54 h:4>
+Elly
+"Cosa pensa di ottenere
+usando quella macchina
+molecolare?<New>
+Che legame c'è tra me
+e quella macchina?"<Close><End of Block>
+<TextBlock 9 w:24 h:2>
+Elly
+"Madre…?"<Close><End of Block>
+<TextBlock 10 w:10 h:2>
+Elly
+"…"<Close><End of Block>
+<TextBlock 11 w:26 h:2>
+Elly
+"Comandante!?"<Close><End of Block>
+<TextBlock 12 w:30 h:2>
+Elly
+"Cosa state…!?"<Close><End of Block>
+<TextBlock 13 w:14 h:2>
+Elly
+"Cosa?"<Close><End of Block>
+<TextBlock 14 w:32 h:4>
+Elly
+"Fa… fa male!
+La prego!
+Si fermi!"<Close><End of Block>
+<TextBlock 15 w:54 h:4>
+Elly
+"A chi si riferisce
+quando dice 'lui'…<Delay 30>
+Sta parlando di Fei?"<Close><End of Block>
+<TextBlock 16 w:54 h:3>
+Elly
+"R… Ramsus…<Delay 20> quella droga…<Delay 30><Space 1>
+Uno stabilizzatore
+mentale…?<New>
+Per quale motivo lei è
+così sconvolto? Cos'è che
+la spinge a soffrire per
+tutte queste cose?<New>
+Cos'è successo tra lei
+e Fei…"<Close><End of Block>
+<TextBlock 17 w:22 h:2>
+Elly
+"Ramsus…"<Close><End of Block>
+<TextBlock 18 w:44 h:3>
+Krelian
+"Ho esaminato i documenti
+che ti riguardano."<Close><End of Block>
+<TextBlock 19 w:54 h:4>
+Krelian
+"Elhaym Van Houten.
+Quell'incidente accaduto
+a Jugend l'anno scorso…<New>
+Caso 102. La liberazione
+dei tuoi poteri latenti,
+verificatasi grazie alla…<New>
+… somministrazione di
+droghe atte ad amplificare
+i poteri mentali.<New>
+In quel momento, le tue
+abilità Eteree avevano
+superato il valore di 400.<New>
+In quello stesso istante,
+furono gravemente ferite
+2 persone…<New>
+… e 3 ebbero bisogno di
+essere 'riciclate'.<New>
+Dico bene?"<Close><End of Block>
+<TextBlock 20 w:54 h:3>
+Krelian
+"Tuttavia, questi
+documenti si sbagliano.<New>
+Non si trattò dei soliti,
+incontrollabili, effetti
+collaterali mentali."<Close><End of Block>
+<TextBlock 21 w:48 h:4>
+Krelian
+"Il fatto fu causato dal
+'risveglio dell'altra
+te stessa'."<Close><End of Block>
+<TextBlock 22 w:50 h:4>
+Krelian
+"Loro saranno utilizzati
+come offerta per la…<New>
+… risurrezione del
+Ministero di Gazel.<New>
+Subirà lo stesso destino
+la ragazza, l'organismo
+artificiale.<New>
+Da lei ho già ottenuto
+sufficienti campioni.<New>
+Ho già raggiunto il quarto
+stadio del mio piano.
+Tutto ciò che adesso mi
+serve è il fattore finale.<New>
+Perciò, i tuoi amici non
+mi sono più di alcuna
+utilità.<Delay 30> Sono inutili.<New>
+Ma tu… sei diversa."<Close><End of Block>
+<TextBlock 23 w:52 h:4>
+Krelian
+"Capisco…<Delay 30>
+Perciò hai visto
+l'impianto di ricerca.<New>
+Al momento, gli scienziati
+solariani stanno lavorando
+laggiù, in quel posto,
+sull'ingegneria genetica.<New>
+Quel centro è solo un nido
+di imbecilli che hanno
+appreso il disprezzabile
+piacere di…<New>
+… giocare con le proprie
+creazioni organiche.<New>
+Essi vanno alla ricerca di
+due cose: la serendipità
+e la disumanità.<New>
+Tutto ciò non fa per me.<New>
+Io sono specializzato
+nell'ingegneria
+molecolare…
+Nanotecnologia."<Close><End of Block>
+<TextBlock 24 w:54 h:4>
+Krelian
+"Sai di cosa si tratta?
+Di una nanomacchina…
+Una macchina molecolare.<New>
+Questo è un assemblatore,
+una varietà particolare
+di queste nanomacchine.<New>
+Può distruggere molecole
+ed atomi e ricostruirli
+in qualsiasi cosa.<New>
+Ognuna di queste sfere è
+l'equivalente di un atomo.<New>
+Fino a poco tempo fa,
+eravamo capaci solo di
+produrre materiali…<New>
+… ben più voluminosi
+di questo.<New>
+Adesso, grazie a quella
+ragazza, quella che
+abbiamo ottenuto dalle
+rovine della…<New>
+… civilità di Zeboim,
+siamo in grado di creare
+dispositivi così minuti
+e complessi.<New>
+E pensare che un simile
+macchinario fu creato
+4000 anni fa! Che cosa
+stupefacente…<New>
+Prima che scoprissimo
+questa tecnologia, il
+risultato del nostro
+lavoro era…<New>
+… alquanto grezzo.<New>
+Fino ad ora, il meglio che
+potevamo fare era applicare
+soluzioni di aminoacidi
+sulla superficie delle…<New>
+… zone ferite per ottenere
+un miglioramento o per
+inibire alcune capacità
+speciali.<New>
+Sono sicuro che tu, quando
+eri a Jugend, abbia
+ricevuto delle lezioni
+sulla genetica.<New>
+Ciascun tipo di quegli
+enzimi siti nel DNA…<New>
+… è anche una macchina
+molecolare creata dalla
+natura.<New>
+E questo è quanto, qualora
+noi tutti siamo davvero la
+progenie del primissimo,
+vero organismo."<Close><End of Block>
+<TextBlock 25 w:54 h:4>
+Krelian
+"Sebbene le nanomacchine
+potevano fino ad ora
+ricombinare il DNA…<New>
+… non erano in grado di
+portare alla luce nessuna
+informazione a riguardo
+degli introni…<New>
+… che si trovano nei
+ricambi della doppia
+elica.<New>
+Tuttavia, le nuove
+nanomacchine hanno
+potuto scoprire
+facilmente questi dati.<New>
+Dati che, in origine,
+'non sarebbero dovuti
+esistere'.<New>
+E, adesso, stiamo per
+osservarne il risultato."<Close><End of Block>
+<TextBlock 26 w:46 h:4>
+Krelian
+"Mmh… stando alle
+registrazioni trasmesse,
+si disegna la forma di…<New>
+… una frequenza d'onda
+simile a quella prevista."<Close><End of Block>
+<TextBlock 27 w:52 h:3>
+Krelian
+"E… sì, l'Anello
+di Ouroboros…!<New>
+È così, non è vero…?<New>
+Le azioni compiute
+da Miang e da Lacan…<Delay 40>
+Questo spiega tutto."<Close><End of Block>
+<TextBlock 28 w:50 h:3>
+Krelian
+"Elhaym…
+Tu eri la 'madre'…"<Close><End of Block>
+<TextBlock 29 w:54 h:4>
+Krelian
+"Sì.<New>
+Ecco come il tuo esone
+genetico appariva prima
+che fosse sostituito…<New>
+Questa è la forma
+concettualizzata
+dell'introne che contiene
+le informazioni che…<New>
+… non dovrebbero esistere.
+Osserva.<New>
+Questo è l'Anello di
+Ouroboros, che contiene
+le 'informazioni
+dell'introne'…<New>
+… che esistono solo
+in 'alcune persone'.<New>
+Ouroboros… se potessimo
+anatomizzare una tale
+cosa…<New>
+Non t'interesserebbe
+sapere che tipo di
+informazioni ci potrebbe
+offrire?"<Close><End of Block>
+<TextBlock 30 w:54 h:4>
+Krelian
+"Elhaym, tu sei
+bellissima.<New>
+Quando ti guardo, apprezzo
+la dimensione artistica
+della forma umana… la sua
+complessità…<New>
+Non riesco a non avvertire
+la sua importanza.<New>
+È come se la mia macchina
+molecolare non fosse degna
+di te.<New>
+Non sei cambiata
+'da allora'.<New>
+Proprio come l' 'altro',
+Lacan…"<Close><End of Block>
+<TextBlock 31 w:26 h:2>
+Ramsus
+"Do… ve…?"<Close><End of Block>
+<TextBlock 32 w:28 h:4>
+Ramsus
+"Dove…? Ti sto
+chiedendo dove!!"<Close><End of Block>
+<TextBlock 33 w:32 h:3>
+Ramsus
+"Lui! Dov'è!?
+Dove!?<New>
+So che lo sai!
+Portami da lui!"<Close><End of Block>
+<TextBlock 34 w:46 h:2>
+Ramsus             
+"Fei, Fei, Fei…<New>
+Fei qui… Fei lì…"<Space 1><Close><End of Block>
+<TextBlock 35 w:44 h:4>
+Ramsus
+"Fei…!<Delay 20>
+In che modo lui è
+superiore a me!?<New>
+Non lo accetterò.
+Non lo accetterò mai!!"<Close><End of Block>
+<TextBlock 36 w:22 h:2>
+Ramsus
+"Errrrgh…"<Close><End of Block>
+<TextBlock 37 w:32 h:4>
+Ramsus
+"Dannato Fei…<Delay 30>
+Ti mostrerò…<Delay 30>
+Io…"<Close><Close><End of Block>

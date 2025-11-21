@@ -1,0 +1,1240 @@
+#### 1 ####
+Fei
+"{wait:05}...{wait:0F}
+The outskirts of D-Block?"
+
+#### 2 ####
+Hammer
+"Oh, I forgot to tell you!{enter}
+The Battling Arena is on 
+the outskirts of D-Block.{wait:0F}
+Talk to the guard and he 
+should let you pass. Bye!"
+
+#### 3 ####
+Hammer
+"Bro, I have news!{wait:0F}
+News!"{clear:2D}
+
+#### 4 ####
+Hammer
+"The new doctor who was 
+appointed today has just
+arrived!"
+
+#### 5 ####
+Hammer
+"Bro, I have news!{wait:0F}
+News!"{clear:2D}
+
+#### 6 ####
+Hammer
+"The new doctor who was
+appointed today has just
+arrived!"
+
+#### 7 ####
+I know you're being
+pursued, but relax!
+Here in D-Block nobody
+turns on the Champ.{enter}
+'mongst the inmates of
+Nortune's D-Block, the
+Battling Champion is 
+THE absolute sovereign.{enter}
+If any of the Imperial
+capital's officials
+come nosing about, no
+prisoner's gonna squeal!
+
+#### 8 ####
+{wait:05}...{wait:05}What business does an
+ordinary person have here?{enter}
+If you're not a prisoner
+and you come here, then you
+must be either overly
+curious, or plain stupid!
+
+#### 9 ####
+The new doctor that came
+after that lady doctor got
+put in charge of civilians,
+barely works here anymore!{enter}
+It's got to the point that
+if you get injured you have
+to buy Aquasol with your
+own money and cure yourself!{enter}
+Where did he go to?{wait:05}
+Oh,{wait:05} and don't you think he
+looks a lot like the guy
+that hangs around the Champ?
+
+#### 10 ####
+I'm glad you spoke to me!
+See I'm nice to new inmates.
+So ask anything you want to!{enter}
+What's bothering you?
+    Where's the 'supplier'?
+    What's with the sewers?
+    Nothing's bothering me!
+
+#### 11 ####
+{wait:05}...{wait:05}Supplier?
+Oh, you mean Hammer!
+He's probably at the bar.
+You'll know him when you
+see him!{enter}
+Go out the east door, turn
+right, and then keep going
+straight ahead.
+The place with the neon
+sign is the bar!
+
+#### 12 ####
+Ahh, the 'Kislev Sewers'!
+Why not see for yourself!
+Go out the west door and
+climb the ladder{wait:05}...{enter}
+Then once you're on the roof,
+the ladder you can see to
+the northwest descends into
+the 'Kislev Sewers'!
+
+#### 13 ####
+You'll know it by the guy
+standing watch near the
+entrance. That's his job!
+
+#### 14 ####
+If you get stuck, just ask me!
+
+#### 15 ####
+Hey, what's the trouble?
+    Any new information?
+    Not troubled at all!
+
+#### 16 ####
+The lady doctor of the dorm!
+They say she got put in
+charge of A-Block!{wait:0F} ...{wait:05}She
+wasn't downstairs was she?
+
+#### 17 ####
+A-Block's the civilian area
+of the Imperial capital
+Nortune. That's quite a 
+step up for one so young!{enter}
+As a replacement, it looks
+like we will be getting a
+new doctor to look after
+us in D-Block!
+
+#### 18 ####
+If you get stuck, just ask me!
+
+#### 19 ####
+Hey, what's the trouble?
+    Any new information?
+    Not troubled at all!
+
+#### 20 ####
+The new medical doctor who
+just came is quite skilled.{wait:0F}
+Have you seen him yet?
+
+#### 21 ####
+Nope! No new info lately!
+
+#### 22 ####
+Aveh's actions could mean
+disaster for us!{enter}
+Because of these explosive
+collars, us prisoners can't
+flee, even if we wanted to!{enter}
+If they're not careful, all
+of us inmates could die!
+
+#### 23 ####
+I am glad that that sewer
+monster affair is over.
+Now I can get back to work!
+
+#### 24 ####
+Today's earnings weren't so
+great{wait:05}...{wait:05}{enter}
+Boy I wish there was a whole
+nest of monsters somewhere,{wait:05}
+then I'd have it made!{wait:05} Huh!
+
+#### 25 ####
+A body of one of the Champ's
+immediate subordinates was
+found in the sewers!{enter}
+Knowing that a monster big
+enough to do that is lurking
+below us{wait:05}...{wait:05}sure is scary!{wait:0F}
+It gives me the shivers!
+
+#### 26 ####
+Thanks to the Champ, the
+sewer monster problem
+is over.{enter}
+Oh, and I heard from
+the entrance watchman that
+you fought against it too!?
+
+#### 27 ####
+You're quite a fighter,
+aren't you!?
+
+#### 28 ####
+I hear the Imperial capital
+bigwigs are searching to
+question the former champ.{enter}
+I guess it's because of the
+rumors about assassinating
+the Kaiser. I can't wait to
+hear how this turns out!
+
+#### 29 ####
+It seems that after the bout,
+the former champ's Gear moved
+on it's own accord and crashed 
+right into the Kaiser's stand!{enter}
+The pilot, Rico, was not found
+within the Gear, so they put
+it down to the machine going
+out of control!
+
+#### 30 ####
+Another murder in the sewers!{wait:0F}
+This time it was Vargas{wait:05}...!{wait:05}
+What in blazes is going on!?
+
+#### 31 ####
+Say, didn't you{wait:05}...{wait:1E}
+{wait:05}...{wait:05}Nothing, forget it!
+
+#### 32 ####
+{wait:05}...{wait:05}Soon they will start the
+Battling Imperial Games that
+will be watched by the Kaiser
+himself{wait:05}...{wait:05} Right then's{wait:05}...
+
+#### 33 ####
+Yeah{wait:05}...{wait:05}errh{wait:05}...{wait:05}
+right then's our chance! {wait:0F}
+We'll use a Gear{wait:05}...{wait:05}and make
+it look like an accident{wait:05}...
+
+#### 34 ####
+!?{clear:1E}
+
+#### 35 ####
+{fast:FF}What's with you!? Get lost!!
+
+#### 36 ####
+Due to the sewer monster
+commotion, they made it off
+limits!{wait:05} How are we supposed
+to work now?{wait:05} Damn it!
+
+#### 37 ####
+That entrance watchman{wait:05}...{wait:05}
+-the nerve of the bastard!-
+{wait:05}...{wait:05}said he wouldn't let me
+in unless I slip him some
+money! That makes me seethe!
+
+#### 38 ####
+I'm a wandering Battler{wait:05}...!{wait:05}
+The Battling Games are over,
+so I am thinking of leaving
+in search of newer battle-
+fields.{wait:0F} Oh{wait:05}...{wait:05}and don't you
+dare ask me how it went!
+
+#### 39 ####
+I'm a wandering Battler. {wait:0F}
+I came here to participate
+in the Battling matches they
+will be holding here soon.{enter}
+It seems I got here a tad
+bit too early!
+Sooo, now what am I to do?
+
+#### 40 ####
+I'm a wandering Battler. {wait:0F}
+This town's now in a tumult
+over a sewer monster.{wait:0F}
+They say that two expert
+Battlers got killed!{enter}
+It seems they were well
+known around here too!{wait:0F}
+And to think, both killed!{wait:0F}
+Must of been some creature!{wait:0F}
+Ohh, heaven forbid!
+
+#### 41 ####
+What, you want the run-down?
+    Narh, not interested.
+    Yeah, spare no details!
+
+#### 42 ####
+{wait:05}...{wait:05}Suit yourself!
+
+#### 43 ####
+{wait:05}...{wait:05}Well aren't you studious?{wait:0F}
+Here goes the long version!
+
+#### 44 ####
+Nortune, the capital of the
+Kislev Empire, is made up of
+five blocks.{wait:0F}
+D Block is just one of them.
+It serves as a giant prison.
+
+#### 45 ####
+A Block's the general town
+area, while B Block is the 
+industrial area.{enter}
+C Block houses recreational
+facilities, including the 
+Imperial Capital's biggest
+'Battling Arena' .{enter}
+Gear faces Gear in bouts of 
+single combat - that's what
+'Battling' is all about!{enter}
+And lastly, there is the
+'Central Area', from where
+Kaiser Sigmund rules over 
+the whole Kislev Empire.
+
+#### 46 ####
+There's a rumor that, behind
+the scenes, the 'Ethos' is
+actually involved with the
+'B-Info. Center'.{enter}
+Officially the 'Battling
+Committee' is run by the
+Imperial capital, but it
+too is rumored to be an 
+agent of the 'Ethos'.
+
+#### 47 ####
+Of course this is all gossip!
+
+#### 48 ####
+There's talk that recently
+the Champ himself conducted
+a 'Baptismal Ceremony'.{enter}
+I don't know whether it's 
+true, but I feel for which
+ever prisoner received it!
+
+#### 49 ####
+Hmm{wait:05}...{wait:05}but then again{wait:05}...{wait:05}
+it might have been Suzarn.{wait:0F}
+Or,{wait:05} hold on,{wait:05} was it Vargas?{clear:3C}
+
+#### 50 ####
+And to think, the entrance
+watchman helped him out so
+much.{wait:0F} I bet the watchman's
+taking it badly!
+
+#### 51 ####
+There was another victim in
+the sewers.{wait:0F} That makes four!{enter}
+He wasn't a direct subordinate
+of the Champ, but he was a
+skilled extermination worker!
+
+#### 52 ####
+I'm a Battler in training,
+with Prisoner Rank C!{wait:0F}
+Looky here, today's menu is
+{wait:05}...{wait:05}wooh!{wait:05} ...{wait:05}'Stamina Uppen'!{enter}
+Whahow! If I eat this up,
+I'll increase my stamina 
+and before you know it 
+I'll be a Battle Master!{wait:1E}
+{wait:05}...{wait:05}I hope that happens!
+
+#### 53 ####
+¡ù Note: That won't happen!{clear:2D}
+
+#### 54 ####
+I'm a Battler in training,
+with Prisoner Rank C!{wait:0F}
+Goody-goody, today's menu is
+{wait:05}...{wait:05}wooh!{wait:05}...{wait:05}'Ether Omega'!{enter}
+Whahow! When I eat this, my
+Ether value will shoot up
+and, before you know it,
+I'll be an Ether Master!{wait:1E}
+{wait:05}...{wait:05}Man, I hope that happens!
+
+#### 55 ####
+¡ù Note: That won't happen!{clear:2D}
+
+#### 56 ####
+In 'Battling', men and women
+are called different names.{wait:05}
+Generally, males are called 
+'Battlers', while females
+are called 'Amazonesses'.
+
+#### 57 ####
+Male or female doesn't 
+matter on the battlefield!
+Strength is everything!
+Only the strong survive!
+
+#### 58 ####
+A while back, an airborne
+battleship was stolen from
+the military facility north
+of the Imperial capital.{enter}
+Later, contact was lost
+with it somewhere above
+the seas around Aquvy.
+
+#### 59 ####
+I can understand someone
+stealing Gear parts from
+the military facility near
+the capital, but a whole
+flying battleship?
+That's going a bit too far!
+
+#### 60 ####
+Who would have thought that
+someone could beat Ricardo,
+Battling's undefeated Champ!{enter}
+I don't mean disrespect
+to the new champion, but
+I just don't believe it!
+
+#### 61 ####
+Sorry, forget I ever said that!
+
+#### 62 ####
+The sewer monster commotion
+was solved by the efforts of
+Rico, our Champ, and the off
+limits order was lifted!{enter}
+But, I heard the Champ was
+wounded in the arm while
+exterminating the monster.{enter}
+Not suprising seeing that 
+five Battlers got killed!
+
+#### 63 ####
+In this town, when you take
+proof of extermination of
+sewer monsters to 'B-Info.',{enter}
+they will exchange it for G,
+the currency of this world.
+It'll pay to remember this!
+
+#### 64 ####
+Probably went to the bar...?
+But isn't it unusual for the 
+Imperial capital's bigwigs
+to come to D block!?
+
+#### 65 ####
+{wait:05}...{wait:05}The Imperial capital's
+Battling Committee members?
+Hmm, don't see them here now.{enter}
+There was a group of three
+people who came earlier,
+but they've left.
+
+#### 66 ####
+I once heard the sound of a
+bell in the sewers.
+Perhaps it was a monster who
+wore it, but that bell had a
+sorrowful tone when rung.
+
+#### 67 ####
+It was so sorrowful,{wait:05} just
+as if it was recalling
+some sad memory{wait:05}...
+
+#### 68 ####
+{wait:05}...{wait:05}Huh? That means he's even
+more powerful than our
+current champ{wait:05}...{wait:05}doesn't it?
+
+#### 69 ####
+Then that's no good at all!
+It's only made matters worse!{wait:0F}
+Oh, how I want more power{wait:05}...{wait:05}!
+
+#### 70 ####
+{wait:05}...{wait:05}The Champ's strength is 
+incredible. If only someone
+would defeat the Champ{wait:05}...{wait:05}
+then I might have a chance.
+
+#### 71 ####
+They say there was another
+victim found this morning!
+That makes five{wait:05}...{wait:05}and Rank
+A too!{enter}
+I can't believe that
+it was Suzarn, one of the
+Champ's famous gang members!
+
+#### 72 ####
+Nothing like this has ever
+happened up until now!
+Hey, aren't you THAT guy...
+
+#### 73 ####
+Err, nothing, forget it.
+
+#### 74 ####
+Our food is famous throughout
+the Imperial capital!{enter}
+Especially our dishes cooked
+according to Ether theory,
+like 'Boosta Limit' and
+'HeavyWeighter'...{enter}
+We provide according to rank
+A or B, so you can only have
+one or the other.{enter}
+And it differs
+with the individual,
+but they are said to bring 
+about remarkable effects!
+
+#### 75 ####
+Why do you leave food
+on your plates? If you
+can't eat all of it...
+then don't order it!
+
+#### 76 ####
+Haahh!!{clear:1E}
+
+#### 77 ####
+{wait:05}...{wait:05}You shouldn't just 
+walk into the kitchen.{wait:0A}
+That's bad manners!
+
+#### 78 ####
+Oh no you don't!{wait:0A} The kitchen
+is off limits to prisoners!
+
+#### 79 ####
+Cooking requires love that
+is deeper than the seas! And
+enticing the partakers of our
+food to the peaks of bliss is
+the job of cooks like us!
+
+#### 80 ####
+That's right{clear:1E}
+
+#### 81 ####
+Cooking requires love that is
+higher than the skies! And
+enticing the partakers of our
+food to the peaks of bliss is
+the job of cooks like us!
+
+#### 82 ####
+That's right{clear:1E}
+
+#### 83 ####
+Arrgh! Don't talk to me, I'm
+too busy now! If you want to
+make 'ze order, go to 'ze
+other side of 'ze counter!
+
+#### 84 ####
+We use only the finest
+ingredients. Even then, if
+you always eat the same food
+then you'll grow sick of it!{enter}
+So I think you've had enough
+already. If you eat too much
+you'll become a 'fatso'!
+
+#### 85 ####
+I tell ya, if you eat that
+much you'll become a fatty!{wait:0F}
+Nutritionists recommend you
+to always eat in moderation!
+
+#### 86 ####
+Has Monsieur decided what
+he wants from 'ze menu yet?
+    ...What menu?
+    Yep, I've decided!
+
+#### 87 ####
+'Ze menu is on ze pillar
+to your right. We 'ave two
+coursez: ze daily specialz
+and ze dishez a'la rank!
+
+#### 88 ####
+Which would Monsieur like?
+    Dishes a 'la rank
+    The daily special
+    Nothing now, I'm full!
+
+#### 89 ####
+Choose 'ze rank you want...
+    Rank A
+    Rank B
+    Rank C1
+    Rank C2
+    Rank D
+
+#### 90 ####
+One moment pleeze{wait:05}...
+
+#### 91 ####
+We 'ave 'ze order!{wait:0F}
+One 'Battlin Steak' pleeze!
+
+#### 92 ####
+Monsieur's victory iz certain!
+Our glorious 'Battlin Steak'
+haz ze taste assured by ze
+use of ze finest ingredientz!
+
+#### 93 ####
+One moment pleeze{wait:05}...
+
+#### 94 ####
+We 'ave 'ze order!{wait:0F}
+One 'HeavyWeighter' pleeze!
+
+#### 95 ####
+Monsieur wantz to be ze supa
+fatzo, yez? Not recommended
+for ze slim body, here iz ze
+'HeavyWeighter'. Bon appetite!
+
+#### 96 ####
+One moment pleeze{wait:05}...
+
+#### 97 ####
+We 'ave 'ze order!{wait:0F}
+One 'Stamina Uppen' pleeze!
+
+#### 98 ####
+Monsieur needz more stamina?
+'Stamina Uppen' will allow
+you to let loose limit break
+after limit break!
+
+#### 99 ####
+One moment pleeze{wait:05}...
+
+#### 100 ####
+We 'ave 'ze order!{wait:0F}
+One 'Stamina Uppen' pleeze!
+
+#### 101 ####
+Monsieur needz more stamina?
+'Stamina Uppen' will allow
+you to let loose limit break
+after limit break!
+
+#### 102 ####
+One moment pleeze{wait:05}...
+
+#### 103 ####
+We 'ave 'ze order!{wait:0F}
+One 'Fried Grueger' pleeze!
+
+#### 104 ####
+We take one Grueger, divine
+beast of lore (fibber!), and
+deep fry it so it iz crizpy
+and spizy. Here you are, my
+little goumet connoisseur!
+
+#### 105 ####
+One moment pleeze{wait:05}...
+
+#### 106 ####
+We 'ave 'ze order!{wait:0F}
+One 'Boosta Limit' pleeze!
+
+#### 107 ####
+Here iz your 'Boosta Limit'.
+Eat zis to increaze your
+agility! Ze effect differz
+wiz each individual.
+
+#### 108 ####
+One moment pleeze{wait:05}...
+
+#### 109 ####
+We 'ave 'ze order!{wait:0F}
+One 'Nortuna Fish' pleeze!
+
+#### 110 ####
+Ze delicacy of ze Imperial
+capital, 'Nortuna Fish' iz
+said to increase ze wisdom
+(I pull ze legz, no?). Here!
+
+#### 111 ####
+One moment pleeze{wait:05}...
+
+#### 112 ####
+We 'ave 'ze order!{wait:0F}
+One 'Ether Omega' pleeze!
+
+#### 113 ####
+Wiz zis you can be ze 'Ether
+Master'! Zis iz good for ze
+no-brainz muscle man, yez?
+One 'Ether Omega' coming up!
+
+#### 114 ####
+One moment pleeze{wait:05}...
+
+#### 115 ####
+We 'ave 'ze order!{wait:0F}
+One 'Ether Omega' pleeze!
+
+#### 116 ####
+Wiz zis you can be ze 'Ether
+Master'! Zis iz good for ze
+no-brainz muscle man, yez?
+One 'Ether Omega' coming up!
+
+#### 117 ####
+One moment pleeze{wait:05}...
+
+#### 118 ####
+We 'ave 'ze order!{wait:0F}
+One 'Thunder Gruel' pleeze!
+
+#### 119 ####
+Made wiz ze Lightning Radish
+and rice mashed into a gruel,
+zis iz good for ze diet!
+Plenty of ze nutrition for
+zose zat lack ze appetite.
+
+#### 120 ####
+One moment pleeze{wait:05}...
+
+#### 121 ####
+We 'ave 'ze order!{wait:0F}
+One 'Mightymite' pleeze!
+
+#### 122 ####
+Increasez ze defenze ability
+against Ether and phyzical
+attacks. Ze length of ze 
+effects iz a secret! Anway,
+here iz your 'Mightymite'!
+
+#### 123 ####
+One moment pleeze{wait:05}...
+
+#### 124 ####
+We 'ave 'ze order!{wait:0F}
+One 'Baste Grand' pleeze!
+
+#### 125 ####
+'Baste Grand' iz ze supreme
+apex of all gastronomy!
+You must taste it once 
+before you die...!
+
+#### 126 ####
+Make sure you eat well!
+You need ze nutrition!
+
+#### 127 ####
+Certainly ze prisoner must 
+need ze nutrition, no?
+
+#### 128 ####
+We're having a bit of 
+trouble with this door!{enter}
+Sorry, but could you use
+the door on the west side!
+
+#### 129 ####
+It's not that difficult
+a problem!{wait:0A} We'll have it
+fixed in a little while!
+
+#### 130 ####
+This door is under repairs.{wait:0F}
+Sorry, but would you mind
+using the door to the west.
+
+#### 131 ####
+Today's "Dishes a'la Rank": 
+  Rank A - Battlin Steak
+  Rank B - HeavyWeighter
+  Rank C - Stamina Uppen
+  Rank D - Fried Grueger
+  Special of the Day: 
+  Mightymite
+
+#### 132 ####
+Today's "Dishes a'la Rank": 
+  Rank A - Boosta Limit
+  Rank B - Nortuna Fish
+  Rank C - Ether Omega
+  Rank D - Thunder Gruel
+  Special of the Day: 
+  Baste Grand
+
+#### 133 ####
+{name:80:unknown}
+"Let's see{wait:05}...{wait:05}
+how it tastes."
+
+#### 134 ####
+{name:80:unknown}
+"Scrumptious,{wait:0A} flavorsome,
+nicely chewy{wait:05}...quite good!"
+
+#### 135 ####
+{name:80:unknown}
+"Let's see{wait:05}...{wait:05}
+how it tastes."
+
+#### 136 ####
+{name:80:unknown}
+"My body feels{wait:05}...{wait:05}weighed
+down{wait:05}...{wait:05}somewhat!"
+
+#### 137 ####
+{name:80:unknown}
+"Mmm, not bad at all! But,
+I don't feel any different."
+
+#### 138 ####
+{name:80:unknown}
+"Let's see{wait:05}...{wait:05}
+how it tastes."
+
+#### 139 ####
+{name:80:unknown}
+"Amazing{wait:05}...!{wait:0F} My body's 
+brimming with power!"
+
+#### 140 ####
+{name:80:unknown}
+"Let's see{wait:05}...{wait:05}
+how it tastes."
+
+#### 141 ####
+{name:80:unknown}
+"D,d,divine beast of lore?{wait:0A}
+{wait:05}...{wait:05}Sure don't taste divine!"
+
+#### 142 ####
+{name:80:unknown}
+"Which shall I try{wait:05}..."
+
+#### 143 ####
+{name:80:unknown}
+"Can food really have 
+such an effect{wait:05}...{wait:05}?"
+
+#### 144 ####
+{name:80:unknown}
+"Let's see{wait:05}...{wait:05}
+how it tastes."
+
+#### 145 ####
+{name:80:unknown}
+"My body {wait:05}...{wait:05} The air {wait:05}...{wait:05}
+Time {wait:05}...{wait:0F} Everything is {wait:05}..."
+
+#### 146 ####
+{name:80:unknown}
+"Mmm, quite nice! But I sure
+don't see any change{wait:05}...{wait:05}!
+
+#### 147 ####
+{name:80:unknown}
+"Let's see{wait:05}...{wait:05}
+how it tastes."
+
+#### 148 ####
+{name:80:unknown}
+"Nortune's local delicacy?{wait:0F}
+Mmm,{wait:05} fishy,{wait:05} but delicious!"
+
+#### 149 ####
+{name:80:unknown}
+"Which shall I try{wait:05}..."
+
+#### 150 ####
+{name:80:unknown}
+"I feel encircled{wait:05}...{wait:05}
+by a mysterious energy!"
+
+#### 151 ####
+{name:80:unknown}
+"Let's see{wait:05}...{wait:05}
+how it tastes."
+
+#### 152 ####
+{name:80:unknown}
+"Rad{wait:05}...{wait:05}as I expected,{wait:05}
+this is pretty darn spicy!"
+
+#### 153 ####
+{name:80:unknown}
+"Let's see{wait:05}...{wait:05}
+how it tastes."
+
+#### 154 ####
+{name:80:unknown}
+"Mm-mm,
+scrumdidlyumptious!"
+
+#### 155 ####
+Citan
+"Fei!{wait:0F}
+Hold on a second!"{clear:2D}
+
+#### 156 ####
+Fei
+"What is it doc?{wait:0F}
+Last night you said we
+should act separately{wait:05}..."
+
+#### 157 ####
+Citan
+"Yes I know I did.
+But there is something 
+that I am curious about!{enter}
+I shall join you in going
+to the Battling Arena.
+Is it not too late to
+split up after that?"
+
+#### 158 ####
+Fei
+"{wait:05}...?{wait:05} Well{wait:05}...{wait:05}whatever!{wait:0F}
+Anyway, let's get going!"
+
+#### 159 ####
+Hammer
+"Huff, huff, huff{wait:05}...{wait:05}
+I just finished
+signing you up!"
+
+#### 160 ####
+Fei
+"Gee{wait:05}...{wait:05}that was quick!
+Is it really that easy?"
+
+#### 161 ####
+Hammer
+"Normally it isn't so easy!{enter}
+But a woman called Rue from
+the Battling Committee seems
+to have done some pushing
+and pulling on your behalf!"
+
+#### 162 ####
+Fei
+"The Battling Committee...?
+Oh, you mean those three?"
+
+#### 163 ####
+Hammer
+"Well anyway, thanks to
+them, the enrolling process
+went like a breeze!{enter}
+Hey hey! This means you can
+start Battling whenever you
+want to, bro!"
+
+#### 164 ####
+Fei
+"But besides that, Hammer,
+since yesterday, you've
+seemed a little too happy!{enter}
+Is there something strange
+going on behind the scenes
+that I don't know about?"
+
+#### 165 ####
+Hammer
+"{wait:05}...{wait:05}Huh?
+N,n,no! N,nothing! 
+N,n,nothing at all!{enter}
+The mechanic of champions,
+me, has had his sins wiped
+clean so there is nothing
+to be suspect of! Hahaha!"
+
+#### 166 ####
+Fei
+"Hmm, really?"
+
+#### 167 ####
+Hammer
+"What do you mean?
+I told you there is 
+nothing at all!{enter}
+Oooh! 
+I've got a lot to do, so 
+I'll go on ahead of you!"
+
+#### 168 ####
+Fei
+"Oh{wait:05}...{wait:05}!{wait:05}
+Hey{wait:05}...{wait:05}!{wait:05}
+W,w,wait{wait:05}...{wait:05}!"
+
+#### 169 ####
+Fei
+"What are you up to.
+Not saying where
+you're going to{wait:05}...{wait:05}"{clear:0F}
+
+#### 170 ####
+Fei
+"Hammer, you were supposed
+to have been in the bar{wait:05}...{wait:05}"
+
+#### 171 ####
+Hammer
+"Oh, bro!
+You shouldn't worry about
+such little details!{enter}
+If you just rely on me, the
+forefront of information,
+then you will know it all!{wait:0F}
+So about this doctor{wait:05}...{wait:05}"
+
+#### 172 ####
+Fei
+"...About what doctor?"
+
+#### 173 ####
+Hammer
+"What?{wait:0F}
+You didn't know bro?{enter}
+The previous lady doctor got
+transferred to look after
+the civilian sector of town!{enter}
+Makes you envious, huh!{wait:0F}
+So's we gets a new doctor to
+look after D block. 
+They say he just got here!"
+
+#### 174 ####
+Fei
+"...The new doctor, eh?{wait:0A}{enter}
+So, what on earth has this
+new doctor got to do with 
+you, the great 'supplier'?"
+
+#### 175 ####
+Hammer
+"What are you talking about
+bro?{wait:0F} Of course I have
+everything to do with him!{enter}
+If I become chums with him,
+I can expand my connections
+by establishing black market
+medical treatment routes!"
+
+#### 176 ####
+Fei
+"...So that's it, huh?
+Oh, Hammer, what will
+we ever do with you?"
+
+#### 177 ####
+Hammer
+"Whatever bro, whatever.{wait:05}
+Anyway, let's go say
+hello to him, shall we?"
+
+#### 178 ####
+Fei
+"Well, yeah, I suppose we
+should at least say hello."
+
+#### 179 ####
+Rico
+"You're late!{wait:0F}
+You made me wait for ages!"
+
+#### 180 ####
+Fei
+"Oh,{wait:05} errh, sorry!"
+
+#### 181 ####
+Fei
+"Later, the doc said he 
+wanted to pay the courtesy
+of burying the monster...{enter}
+so I waited outside."
+
+#### 182 ####
+Rico
+"{wait:05}...{wait:05}Is that so? Oh well,
+at least the murders have
+been brought to an end!"
+
+#### 183 ####
+Citan
+"Yes, that is right.{wait:0F}
+And Fei has been proved
+innocent as well!"
+
+#### 184 ####
+Rico
+"{wait:05}...{wait:05}{enter}
+And I guess the
+out-of-bounds order on the
+sewers was lifted straight
+after that too {wait:05}...{enter}
+Anyway, my allying with you
+ends here{wait:05}...{wait:05}
+The next time we meet,{wait:05} Fei,{wait:05}
+we will be opponents!"
+
+#### 185 ####
+Rico
+"C'mon, try and beat me!
+I'd enjoy seeing you try to
+settle your scores with me!"
+
+#### 186 ####
+Fei
+"Hey, what about that wound
+to your arm?{wait:0F} You can't try
+to Battle in that state!"
+
+#### 187 ####
+Rico
+"{wait:05}...{wait:1E}
+Can you really afford to 
+worry about your opponent?"
+
+#### 188 ####
+Fei
+"...But, Rico?"
+
+#### 189 ####
+Rico
+"Worry about yourself before
+others!{wait:0F} Don't hold back now!{wait:05}
+Give me your best fight!"
+
+#### 190 ####
+Rico
+"If you don't do your best,{wait:14}
+you could be the one who 
+dies..."
+
+#### 191 ####
+Fei
+"{wait:05}...{wait:1E}
+Understood{wait:05}..."
+
+#### 192 ####
+Rico
+"Right.{wait:0A}
+That's good{wait:05}..."
+
+#### 193 ####
+Citan
+"Right, now that that matter
+is resolved, I have done all
+I can do to help{wait:05}...{enter}
+What is left is up to you,
+Fei.{wait:0F} You must settle this
+other problem with your
+own hands."
+
+#### 194 ####
+Fei
+"{wait:05}...{wait:05}I guess so."
+
+#### 195 ####
+Citan
+"Does his arm wound bother
+you that much?{wait:1E} Fei, you
+realize we don't have{wait:05}..."
+
+#### 196 ####
+Fei
+"I know doc{wait:05}...{wait:05}
+we don't have much time to
+spare!{enter}
+What's more, what he says is
+right - you shouldn't hold
+back in a battle.{wait:0A} Etiquette
+dictates a true fight!"
+
+#### 197 ####
+Citan
+"It seems I was overly
+concerned.{wait:0F}
+Anyway, let us rest up now.{enter}
+Remember, you must win up
+to the Finals League first.{wait:0F}
+And the Champ is not the
+only one you have to beat!"
+
+#### 198 ####
+Citan
+"Right, now that that matter
+is resolved, I have done all
+I can do to help{wait:05}...{enter}
+What is left is up to you,
+Fei.{wait:0F} You must settle this
+other problem with your
+own hands."
+
+#### 199 ####
+Fei
+"{wait:05}...{wait:05}I guess so."
+
+#### 200 ####
+Citan
+"Does his arm wound bother
+you that much?{wait:1E} Fei, you
+realize we do not have{wait:05}..."
+
+#### 201 ####
+Fei
+"I know doc{wait:05}...{wait:05}
+we don't have much time to
+spare!{enter}
+What's more, what he says is
+right - you shouldn't hold
+back in a battle.{wait:0A} Etiquette
+dictates a true fight!"
+
+#### 202 ####
+Citan
+"It seems I was overly
+concerned.{wait:0F}
+Anyway, let's rest up now.{enter}
+Remember, you must win up
+to the Finals League first.{wait:0F}
+And the Champ is not the 
+only one you have to beat!"
+

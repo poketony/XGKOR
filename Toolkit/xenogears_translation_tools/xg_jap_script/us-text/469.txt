@@ -1,0 +1,126 @@
+#### 1 ####
+Fei
+"Th...this...
+can't be..."{clear:14}
+
+#### 2 ####
+Fei
+"What...is this...{wait:28}
+What...{wait:14}the hell is this...!!{clear:28}
+
+#### 3 ####
+Fei
+"Wo-o-o-o-o-!"{clear:32}
+
+#### 4 ####
+Fei
+"Could...this be...true...?
+Doc..."
+
+#### 5 ####
+Elly
+"No...
+You must be kidding..."{clear:14}
+
+#### 6 ####
+Elly
+"Uh..."{clear:14}
+
+#### 7 ####
+Elly
+"Don't be ridiculous!{enter}
+My father'd never take
+part in such a thing!"
+
+#### 8 ####
+Elly
+My father...{wait:28}
+did that...{wait:1E}
+No, it can't be true..."
+
+#### 9 ####
+Citan
+"Soylent System.{enter}
+The organism experiment
+lab and its disposal
+facility in Solaris."
+
+#### 10 ####
+Citan
+"And the production facility
+for food and medicine to
+maintain the Limiter seal.{enter}
+Aquvy's Wels Reapers
+were also made here."
+
+#### 11 ####
+Citan
+"Elly, do you remember
+Dominia's words during our
+infiltration of Shevat?{enter}
+Here is the answer.{enter}
+People of her native
+country served as one of
+the origins for Wels...
+the M plan.{enter}
+They were used that
+way because of their
+peculiar abilites.{enter}
+She is the last survivor.{enter}
+Elly, your father, Erich
+used to be the
+superintendent of this
+facility.{enter}
+He was involved
+in the research with
+Maria's father.
+
+#### 12 ####
+Citan
+"Naturally, Erich always
+had pangs of guilt.{enter}
+So he kept as many land
+dwellers as possible under
+his protection as 3rd
+Class citizens.{enter}
+Then he resigned.
+That's why he is on the
+administrative staff of
+the Special Forces now."
+
+#### 13 ####
+Citan
+"Now, get up, Fei.{wait:1E}
+Get up and look it over..."
+
+#### 14 ####
+Citan
+"..This is reality."
+
+#### 15 ####
+Citan
+"Let's go."
+
+#### 16 ####
+Citan
+"To end a person's life,{wait:1E}
+and then consume their
+flesh.{enter}
+Is that, {wait:14}permissible...?"
+
+#### 17 ####
+You have too many
+{str}.
+
+#### 18 ####
+ 
+ Received {str}.
+
+#### 19 ####
+You have too many
+{str}.
+
+#### 20 ####
+ 
+ Received {str}.
+

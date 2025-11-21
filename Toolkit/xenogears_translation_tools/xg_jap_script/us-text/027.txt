@@ -1,0 +1,17 @@
+#### 1 ####
+This is the waterworks.{wait:0A}
+All of Dazil's water 
+comes from this pump.
+
+#### 2 ####
+Water is needed for the
+maintenance of Gears.{enter}
+So our waterworks was
+also built to provide a
+steady supply of water
+to the workshop.
+
+#### 3 ####
+ This month's water
+  supply schedule.  
+

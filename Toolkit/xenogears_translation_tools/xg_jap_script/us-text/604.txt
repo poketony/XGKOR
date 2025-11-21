@@ -1,0 +1,17 @@
+#### 1 ####
+Fei
+"Reinforcements,
+huh?!"
+
+#### 2 ####
+Fei
+"On my right too!{wait:14}
+Damn it!{wait:14} How many of
+them are there{wait:08}.{wait:08}.{wait:08}.{wait:08}?"
+
+#### 3 ####
+Fei
+"I guess{wait:08}.{wait:08}.{wait:08}.{wait:08}
+there's no choice{wait:08}.{wait:08}.{wait:08}.{wait:3C}
+but to fight{wait:08}.{wait:08}.{wait:08}."
+

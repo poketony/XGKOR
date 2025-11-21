@@ -1,0 +1,230 @@
+<TextBlock 1 w:22 h:1>
+…<Delay 25> Una purificazione!<Opcode 2 80><Close><End of Block>
+<TextBlock 2 w:44 h:4>
+Ramsus
+"Tu<Delay 5>…<Delay 35>
+Se tu non esistessi<Delay 5>…<Delay 5>
+Io<Delay 5>…<New>
+È per questo…<Delay 32>
+che devo<Delay 5>…<Delay 5>
+liberarmi<Delay 5>…<Delay 5>
+di te<Delay 5>…<New>
+Solo allora potrò<Delay 5>…
+sconfiggerlo<Delay 5>…"<Close><End of Block>
+<TextBlock 3 w:34 h:2>
+Ramsus
+"Uuuuaaaahhhhh!!"<Close><End of Block>
+<TextBlock 4 w:36 h:4>
+Krelian
+"Certo che può.<Delay 32>
+È stato creato per
+poterlo fare."<Close><End of Block>
+<TextBlock 5 w:54 h:4>
+Krelian
+"Oh, proprio ora…<New>
+Non m'importa di un gruppo
+di vecchi bislacchi…<New>
+… così ossessionati col
+tenersi strette le loro
+care, miserabili vite…<New>
+… che, per sopravvivere,
+dovettero mutarsi in
+dati informatici nel
+SOL-9000.<New>
+Non è per questo<Delay 10>…<Delay 5>
+La tua esistenza mi
+impedisce di raggiungere
+la mia meta. Tutto qui<Delay 5>…"<Close><End of Block>
+<TextBlock 6 w:46 h:4>
+Krelian
+"Sì, è così.<New>
+Cerco di comandare la
+gente 'a modo mio'.
+Ciò non è cambiato
+assolutamente."<Close><End of Block>
+<TextBlock 7 w:20 h:3>
+Krelian
+"Uccidilo, 'Ramses'!"<Close><End of Block>
+<TextBlock 8 w:38 h:2>
+Shitan
+"La nostra ultima
+preghiera?"<Close><End of Block>
+<TextBlock 9 w:38 h:4>
+Shitan
+"Sì.<Delay 10> Due<Delay 5>…
+<Delay 5>no… <Delay 15>tre volte
+ad essere esatti."<Close><End of Block>
+<TextBlock 10 w:50 h:3>
+Shitan
+"La sua posizione non
+è stata verificata."<Close><End of Block>
+<TextBlock 11 w:48 h:3>
+Shitan
+"Mi è permesso di
+chiedervelo…?<New>
+Perché s'è voluto
+spostarlo in un posto
+come questo…?<Delay 45>
+Sono stati gli anziani?"<Close><End of Block>
+<TextBlock 12 w:18 h:2>
+Shitan
+"Dunque…"<Close><End of Block>
+<TextBlock 13 w:42 h:4>
+Shitan
+"Sarebbe affrettato
+eliminarlo ora.<New>
+Non penso sia troppo
+tardi per aspettare,
+finché non scopriamo
+il suo intento…"<Close><End of Block>
+<TextBlock 14 w:38 h:3>
+Shitan
+"Il vostro volere è
+il mio volere, Vostra
+Maestà.<New>
+Bene allora, consentitemi
+di…"<Close><End of Block>
+<TextBlock 15 w:18 h:2>
+Shitan
+"Sì…?"<Close><End of Block>
+<TextBlock 16 w:50 h:2>
+Shitan
+"…<Delay 32> Cos'è, allora…?"<Space 1><Close><End of Block>
+<TextBlock 17 w:42 h:4>
+Shitan
+"Sì, Vostra Maestà.
+Questa è la risposta
+per la quale opto."<Close><End of Block>
+<TextBlock 18 w:44 h:3>
+Shitan
+"Sì.<New>
+L'umanità ne ha la
+capacità. Lo Stato
+Maggiore non serve
+più."<Close><End of Block>
+<TextBlock 19 w:44 h:3>
+Shitan
+"Sì, come dite, Vostra
+Maestà, se Fei è…"<Close><End of Block>
+<TextBlock 20 w:54 h:4>
+Imperatore Celeste
+"Sì, il -Vangelo-.<New>
+…<Delay 64> Noi siamo la gente
+scacciata dal paradiso…<New>
+… e costretta a vivere
+sulla crudele superficie
+della terra.<New>
+Noi che colmiamo questa
+terra, ancora una volta
+torneremo alla presenza
+di dio nel paradiso…<New>
+… e vivremo lì
+per l'eternità.<New>
+Questo è il -Tempo- del
+-Vangelo-. Questo -Tempo-
+è imminente."<Close><End of Block>
+<TextBlock 21 w:48 h:4>
+Imperatore Celeste
+"Noi Gazel dobbiamo
+trovare il luogo di
+riposo di dio…<New>
+… e allora riportarlo
+in vita.<New>
+Questa è la nostra
+ultima preghiera…"<Close><End of Block>
+<TextBlock 22 w:54 h:4>
+Imperatore Celeste
+"La nostra preghiera
+inappellabile…<New>
+… per fuggire il -Fato-
+che fu determinato
+all'epoca della
+nostra genesi."<Close><End of Block>
+<TextBlock 23 w:38 h:2>
+Imperatore Celeste
+"Si è destato…?"<Close><End of Block>
+<TextBlock 24 w:16 h:2>
+Imperatore Celeste
+"Capisco."<Close><End of Block>
+<TextBlock 25 w:28 h:2>
+Imperatore Celeste
+"Da questa parte…"<Close><End of Block>
+<TextBlock 26 w:48 h:4>
+Imperatore Celeste
+"No.<New>
+Essi sperano in
+una più immediata
+eliminazione.<New>
+Non li biasimo.<Delay 32>
+Provano una paura
+profondamente impressa
+verso di lui."<Close><End of Block>
+<TextBlock 27 w:24 h:3>
+Imperatore Celeste
+"Sì.<Delay 12>
+Probabilmente…"<Close><End of Block>
+<TextBlock 28 w:32 h:4>
+Imperatore Celeste
+"Se questo è il
+tuo giudizio,
+allora così sia."<Close><End of Block>
+<TextBlock 29 w:36 h:2>
+Imperatore Celeste
+"Attendi un attimo…"<Close><End of Block>
+<TextBlock 30 w:26 h:2>
+Imperatore Celeste
+"… Capisco…"<Space 1><Close><End of Block>
+<TextBlock 31 w:48 h:3>
+Imperatore Celeste
+"Il loro giudizio…<Delay 23>
+è passato…"<Close><End of Block>
+<TextBlock 32 w:30 h:3>
+Imperatore Celeste
+"Questa è la 
+tua deduzione…?"<Close><End of Block>
+<TextBlock 33 w:50 h:3>
+Imperatore Celeste
+"Ahnenerbe…
+Pensi di poterlo
+fare?"<Close><End of Block>
+<TextBlock 34 w:38 h:3>
+Imperatore Celeste
+"Il Contatto non è
+nostro nemico?"<Close><End of Block>
+<TextBlock 35 w:40 h:3>
+Imperatore Celeste
+"Allora lascio fare
+a te…<New>
+Espio il mio crimine
+così agendo…"<Close><End of Block>
+<TextBlock 36 w:40 h:3>
+Imperatore Caino
+"Cosa vuoi…
+Ramsus…?"<Close><End of Block>
+<TextBlock 37 w:36 h:4>
+Imperatore Caino
+"Cosa pensi di
+fare? Ramsus…!?"<Close><End of Block>
+<TextBlock 38 w:44 h:4>
+Imperatore Caino
+"È assurdo!<New>
+Pensi di poter
+neutralizzare il
+mio potere!?"<Close><End of Block>
+<TextBlock 39 w:40 h:4>
+Imperatore Caino
+"Krelian…!?
+Adesso non li starai
+appoggiando, vero!?"<Close><End of Block>
+<TextBlock 40 w:52 h:4>
+Imperatore Caino
+"Non hai lavorato per
+il futuro dell'umanità…<New>
+… perché gli uomini
+vivessero più a lungo?<New>
+È per questo che ti
+ho assistito…"<Close><End of Block>
+<TextBlock 41 w:36 h:3>
+Imperatore Caino
+"Krelian, che cosa
+ti succede…!?"<Close><Close><End of Block>

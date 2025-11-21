@@ -1,0 +1,442 @@
+#### 1 ####
+
+
+#### 2 ####
+
+
+#### 3 ####
+
+
+#### 4 ####
+
+
+#### 5 ####
+
+
+#### 6 ####
+
+
+#### 7 ####
+Begin Tournament
+
+#### 8 ####
+Begin Player vs Computer Bout
+
+#### 9 ####
+Begin Player 1 vs Player 2 Bout
+
+#### 10 ####
+Begin Demo Mode
+
+#### 11 ####
+Set Number of Matches
+
+#### 12 ####
+Computer Enemy's Strength
+
+#### 13 ####
+Rubber Band Mode Setting
+
+#### 14 ####
+Continue game bout
+
+#### 15 ####
+Quit game and return to menu
+
+#### 16 ####
+Adjust game settings
+
+#### 17 ####
+Continue practice session
+
+#### 18 ####
+End practice session
+
+#### 19 ####
+Set enemy Gear's algorithm...
+
+#### 20 ####
+Set motion speed (default=4)
+
+#### 21 ####
+Set slow motion (default=30fps)
+
+#### 22 ####
+'Do Nothing' mode
+
+#### 23 ####
+'Guard Only' mode
+
+#### 24 ####
+'Operate with Controller 2'
+
+#### 25 ####
+'Ferocious Attack' mode
+
+#### 26 ####
+'Short-range Attack' mode
+
+#### 27 ####
+'Ether Bullet Attack' mode
+
+#### 28 ####
+'Jump + Ether Bullet Attack'
+
+#### 29 ####
+'Just Jump' mode
+
+#### 30 ####
+'Give Chase' mode
+
+#### 31 ####
+'Run Away' mode
+
+#### 32 ####
+'Reverse Booster' mode
+
+#### 33 ####
+EASY level Battling mode
+
+#### 34 ####
+NORMAL level Battling mode
+
+#### 35 ####
+HARD level Battling mode
+
+#### 36 ####
+Select Gear 1's mode
+
+#### 37 ####
+Select Gear 2's mode
+
+#### 38 ####
+Choose your Gear
+
+#### 39 ####
+Choose opponent's Gear
+
+#### 40 ####
+Choose first Gear
+
+#### 41 ####
+Choose second Gear
+
+#### 42 ####
+Turn vibration ON/OFF
+
+#### 43 ####
+OK? (¡ð Button cancels)
+
+#### 44 ####
+Welcome to the Tutorial Mode.
+Here you can learn more about
+the 'Battling' controls.
+
+#### 45 ####
+Choose a topic to learn about
+and press the ¡Á Button.
+
+#### 46 ####
+Battling is a game where you
+fight one-on-one with Gears
+in a wide-open, circular
+field or arena.{enter2}
+A match ends when either you
+or your opponent's Gear takes
+too much damage and has its
+Durability (H.P.) reach zero.
+
+#### 47 ####
+The game is played on
+a screen that displays
+the two Gears side on.
+
+#### 48 ####
+This is the Gear you control.
+You start the battle on the
+left-hand side of the screen.
+
+#### 49 ####
+This is your opponent's Gear.
+
+#### 50 ####
+These are Durability Gauges
+that show your damage level.
+The top gauge is yours, and
+the bottom is your opponent's.{enter}
+When you attack your opponent,
+his Gear's Durability will be
+depleted. The Durability in
+the gauge cannot be recovered.{enter}
+The one who deplete's his
+opponent's Durability Gauge
+(H.P.) to 0 first will become
+the match winner.
+
+#### 51 ####
+This is your Heat Gauge.{enter}
+It indicates the temperature
+of your Gear, which is raised
+when you use your Dash ability
+or fire Ether Bullets.{enter2}
+Your Gear's temperature can
+be recovered also, and this
+too will be reflected by the
+gauge's level.
+
+#### 52 ####
+This is your opponent's
+Heat Gauge.
+
+#### 54 ####
+When you use Ether Bullets or
+your Dash ability, your Heat
+Gauge will increase. You have
+to avoid heating up too much!{enter}
+The gauge will recover when
+you're using normal attacks
+or just doing nothing at all.
+{enter2}
+Even during your normal
+running movement it will
+slowly drop back down.
+{enter}
+If you use your Ether Bullets
+and Dash abilities too much,
+the rate of heat recovery
+won't be able to keep up...{enter2}
+If your Heat Gauge reaches its
+limit, your Gear will start to
+overheat...
+{enter2}
+At this point, any further use
+of such abilities will damage
+your Gear and cause your
+Durability (H.P.) to decrease.
+
+#### 55 ####
+
+#### 55 ####
+When the indicator alongside
+of your Heat Gauge is blue,
+you can use Ether Bullets and
+Dash abilities as per normal.{enter2}
+But, if you use these
+abilities while the
+indicator is yellow...
+{enter2}
+your Heat Gauge will exceed
+its limit and your Durability
+Gauge (H.P.) will decrease.
+{enter2}
+When the indicator is red,
+you have no Durability (H.P.)
+left and so cannot fire any
+more Ether Bullets.
+
+#### 56 ####
+One strategy is to attack your
+opponent as much as you can
+while you still have
+Durability (H.P.) to spare.
+
+#### 57 ####
+To approach your opponent,
+press the Directional Button
+towards him/her.{enter}
+To retreat from your opponent,
+press the Directional Button
+away from him/her.{enter}
+Pressing Up / Down on the
+Directional Button will move
+you away from / towards the
+screen respectively.{enter}
+Push the ¡÷ Button to jump.
+
+#### 58 ####
+Hold down the ¡ð Button while
+moving to Dash. You will run
+at twice normal speed, but
+your Heat Gauge will rise.{enter2}
+You cannot Dash when your Heat
+Gauge is at maximum or when
+your Durability (H.P.) Gauge
+is low.{enter}
+Also, your Heat Gauge will not
+decrease during the time spent
+in the air when you jump while
+Dashing.
+
+#### 59 ####
+When you are right in front of
+your opponent and you push the
+Directional Button away from
+him/her...{enter2}
+...you can perform a Back-Dash
+(momentary back acceleration).
+Use this to instantaneously
+dodge your opponent's attacks.
+
+#### 60 ####
+Moving while in desert areas
+raises the Heat Gauge faster
+than normal. Acceleration is
+not as responsive either.
+
+#### 61 ####
+You cannot Dash in the water
+areas. Water will also absorb
+Ether Bullets, so you cannot
+fire while under water.{enter2}
+However, the rate of recovery
+of your Heat Gauge is a little
+better while your Gear is in
+the water.
+
+#### 62 ####
+You can use the ¡õ and ¡Á
+Buttons to attack.{enter}
+For example, if you just push
+the ¡õ Button once you will
+enter an attack sequence.{enter2}
+{wait:78}
+If you don't push another
+button in the meantime, you
+will simply execute the ¡õ
+Button's attack and finish.{enter}
+Now watch what happens if we
+push another attack Button
+before the first attack's
+movement is completed...{enter2}
+Either the ¡õ or ¡Á Buttons
+is okay, but here we will try
+pushing the ¡Á Button after
+our initial ¡õ Button attack.{enter2}{wait:78}
+... The ¡Á Button's attack
+will follow immediately after
+the ¡õ Button's attack.
+{enter2}
+In this way, you can enter up
+to three attacks in advance,
+and execute them in one swift
+sequence.{enter}
+The type of attack changes
+with the number of times
+and order that the ¡õ and
+¡Á Buttons are pressed.{enter}
+Try combining the attack
+buttons in any order that
+you like. For example, {enter2}¡õ¡Á¡õ,{wait:78}
+{enter2}¡õ¡õ¡õ,{wait:78} {enter2}¡Á¡Á¡õ{wait:78} and so forth.{enter2}
+In all, there are 14 different
+kinds of attack combinations
+for you to try out.
+{enter}
+You may input up to 3 attacks
+before the first attack is
+completed.{enter2}
+Among your opponents, there
+are Gears that can only attack
+up to 2 times in sequence.
+
+
+#### 63 ####
+For long range attacks, you
+can press the R1 Button to
+launch an 'Ether Bullet'.
+{enter2}
+Ether Bullets have the ability
+to track the enemy, but will
+dissipate upon contact with
+such things as walls or water.{enter}
+For each shot launched, the
+Heat Gauge will rise markedly.{enter2}
+If you're not careful, you
+may lose all your Durability
+(H.P.) by just continually
+firing Ether Bullets.{enter2}
+So always keep an eye on
+your Heat Gauge, for fear
+of losing Durability.
+{enter}
+If your opponent fires an
+Ether Bullet at you, Dash or
+jump to avoid being hit by it.{enter2}
+Also, if you hit your enemy's
+back while he/she is fleeing,
+you may be able knock him/her
+off his feet.
+
+#### 64 ####
+There are times when you can't
+dodge your opponent's attack
+by simply moving out of the
+way.{enter2}
+In those occasions, it is best
+to use the L1 Button to guard
+against enemy attacks.
+{enter}
+If you're about to be hit by
+your enemy and you don't think
+you can dodge it...{enter2}
+then press the L1 Button to
+take a guarding stance.{enter2}
+If you were able to guard
+yourself in time, the damage
+from your opponent's attack
+will be halved.{enter}
+However, you cannot guard
+yourself against attacks
+that come from behind you.{enter}
+It may be difficult to use at
+first, but when you get used
+to it, guarding will probably
+become a useful tactic.
+
+#### 65 ####
+Rubber Banded Battling
+
+#### 66 ####
+This ends the tutorial...
+Now why not try out our
+'Practice Mode'? Good luck!
+Oh, and have fun Battling!
+
+#### 67 ####
+About Battling
+Screen Layout
+Movement
+Attacking
+Heat Gauges
+Ether Bullets
+Defense
+End Tutorial
+
+#### 68 ####
+Leonard
+"Hm! Not bad.{enter}
+Have it your way then...
+Playtime is now over!{enter}
+Let's get serious..."
+
+#### 69 ####
+Leonard
+"Hmph! That was nothing.{enter}
+Enough messing around, already!
+Let's get serious..."
+
+#### 70 ####
+Fei
+"????{wait:5A}... What's going on?"{enter}
+Fei
+"What the...!? {wait:5A} My Gear's...!?"
+
+#### 53 ####
+One of these marks will
+light up each time you
+win a match.{enter2}
+When you win a set number
+of matches you will be
+awarded the bout's overall
+victory.
+

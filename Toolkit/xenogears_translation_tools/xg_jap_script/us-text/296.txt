@@ -1,0 +1,9 @@
+#### 1 ####
+Billy
+"(It's my buddy!! 
+I'll call him over here)"
+
+#### 2 ####
+Um{wait:0A}...{wait:14}
+I'm counting on {wait:1E}you.{clear:14}
+

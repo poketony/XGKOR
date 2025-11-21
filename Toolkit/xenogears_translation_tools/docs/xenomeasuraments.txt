@@ -1,0 +1,38 @@
+XENOGEARS MEASUREMENT UNITS  ____________________________________________
+by Pauzanes Neto (shinji08@geocities.com)
+
+
+I'm just quoting (and editing a bit) Pauzanes' rather interesting text:
+
+
+With the "help" of the people at Square USA, I was able to calculate the
+real world equivalents for the measurements form Xenogears. Square has set
+up a page for XenoGears, and there they have tables with Gear data. Their
+own ratios, however, won't match up a 100% [Ignacio's note : because of
+truncation]. Nonetheless, the accuracy rate of my conversion factors is of
+aproximately 99,36%.  So, I guess we can use it. =)
+
+  Here we go:
+
+   1 Sharl  = 0,964 meters  = 3,1629 feet
+   1 Karn   = 1,080 tons    = 2381,4 lbs.
+   1 Repsol = 0,970 km/h
+   1 Zeitle = 0,017 hours
+
+
+Ex: Let's use Weltall.
+
+Its height is of 16.3 sharls. The conversion factor is: 1 Sharl = .963
+meters.
+
+                            0,964 meters
+    (1)    16,3 Sharls  x   ------------
+                              1 Sharl
+    (2)    16,3 x 0.964 meters          [ Sharls cancel ]
+    (3)    15,71 meters. So Weltall's actual height is of 15,71 meters.
+
+Square USA says it is of 15.811 meters. The Percentage of Accuracy is of:
+
+    (1)    Percent of Accuracy = (Actual / Theoretical) x 100%
+    (2)    Percent of Accuracy = (15,71 / 15,811 ) x 100%
+    (3)    Percent of Accuracy = 99,361%

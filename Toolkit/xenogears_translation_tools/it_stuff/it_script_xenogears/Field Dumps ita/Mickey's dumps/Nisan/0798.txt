@@ -1,0 +1,221 @@
+<TextBlock 1 w:54 h:4>
+Sigurd
+"I nostri camerati di Nisan
+attaccheranno le unità di
+guardia occidentali…<New>
+… indossando uniformi
+di Kislev così come
+pianificato.<New>
+Al momento giusto, noi ci
+dirigeremo al palazzo con
+l'Yggdrasil!"<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+Bart
+"Va bene.<Delay 30>
+Ma evitate ogni morte
+non necessaria.<New>
+Soprattutto fra le truppe
+di Aveh<Delay 30> e la gente di
+Geburah."<Close><End of Block>
+<TextBlock 3 w:30 h:3>
+Sigurd
+"Sì.<Delay 30>
+Comprendiamo."<Close><End of Block>
+<TextBlock 4 w:42 h:4>
+Fei
+"Credo sia il momento
+di scatenare un inferno
+col mio <Weltall>."<Close><End of Block>
+<TextBlock 5 w:48 h:2>
+Sigurd
+"Contiamo su di te!"<Close><End of Block>
+<TextBlock 6 w:52 h:4>
+Margie
+"La prossima volta che
+ci incontreremo non potrò
+più chiamarti 'Bart'…<New>
+… o 'Padroncino'.<New>
+Forse,<Delay 10> 'Vostra Maestà'<Delay 10>…?"<Close><End of Block>
+<TextBlock 7 w:50 h:4>
+Bart
+"Smettila.<Delay 15>
+Bart andrà bene…<Delay 30>
+'Grande<Delay 10> Madre<Delay 10> di<Delay 10> Nisan'!"<Close><End of Block>
+<TextBlock 8 w:30 h:4>
+Margie
+"Ehi…!<Delay 30>
+Lo sai che odio
+quel titolo!"<Close><End of Block>
+<TextBlock 9 w:22 h:2>
+Bart
+"Ah ah ah!"<Close><End of Block>
+<TextBlock 10 w:50 h:2>
+Bart
+"Ok, muoviamoci!"<Close><End of Block>
+<TextBlock 11 w:22 h:3>
+Margie
+"Allora…
+Buona fortuna!"<Close><End of Block>
+<TextBlock 12 w:32 h:3>
+Agnese
+"Margherita e 
+Bartolomeo…<New>
+Vedervi insieme
+apre il mio cuore
+alla speranza."<Close><End of Block>
+<TextBlock 13 w:58 h:3>
+Agnese
+"Tempo fa,<Delay 30> prima che i
+Fatima di Aveh fossero
+chiamati in tal modo…<New>
+I reali e le loro mogli
+regnavano su prosperose
+terre.<New>
+Aspetto con ansia il
+giorno in cui, come
+Grande Madre di Nisan…<New>
+… sarai sul trono al
+fianco di Bartolomeo
+come sua moglie."<Close><End of Block>
+<TextBlock 14 w:44 h:4>
+Margie
+"Cosa!? <Delay 15>Ehi, <Delay 5>ma no!<Delay 10>
+Odio parlare di regine
+e principi azzurri…!<New>
+Bart ed io siamo solo
+buoni amici!"<Close><End of Block>
+<TextBlock 15 w:42 h:3>
+Agnese
+"Ah ah, <Delay 30>il matrimonio
+è la migliore amicizia."<Close><End of Block>
+<TextBlock 16 w:52 h:4>
+Agnese
+"Margherita, nel momento
+in cui diverrai una bella
+donna…<New>
+… non credo che Bart
+continuerà ad ignorarti."<Close><End of Block>
+<TextBlock 17 w:34 h:3>
+Margie
+"Smettila,<Delay 30> mi
+fai arrossire!"<Close><End of Block>
+<TextBlock 18 w:36 h:4>
+Sigurd
+"Completerò i controlli
+che rimangono da fare
+a bordo.<New>
+Lascio il resto nelle
+tue mani, Maison."<Close><End of Block>
+<TextBlock 19 w:50 h:4>
+Maison
+"Come desiderate…
+Avrò l'onore di
+accompagnare gli altri."<Close><End of Block>
+<TextBlock 20 w:40 h:2>
+Bartolomeo, stai bene
+come sempre, no?<Close><End of Block>
+<TextBlock 21 w:32 h:3>
+Bart
+"Sì. Come va
+in città?"<Close><End of Block>
+<TextBlock 22 w:50 h:6>
+Fin da quando si è sparsa
+la voce che un esercito
+si stava forse dirigendo
+sulla Capitale Reale, i
+rappresentanti della
+Setta si sono messi a
+discutere.<Close><End of Block>
+<TextBlock 23 w:30 h:3>
+Bart
+"E cosa avrebbero
+deciso?"<Close><End of Block>
+<TextBlock 24 w:54 h:4>
+Per ora, hanno solo
+pianificato di aumentare
+le difese locali.<New>
+Inoltre, la gente avversa
+a Shakhan si è radunata
+là… forse perché hanno
+capito cosa sta accadendo.<Close><End of Block>
+<TextBlock 25 w:40 h:2>
+Bart
+"Questo mi
+tranquillizza."<Close><End of Block>
+<TextBlock 26 w:50 h:3>
+Sì.<New>
+Tuttavia, i residenti
+hanno iniziato a
+sentirsi a disagio.<New>
+La popolazione sta
+iniziando a rifugiarsi
+sulle montagne a nord.<Close><End of Block>
+<TextBlock 27 w:38 h:2>
+Bart
+"Non posso
+biasimarli."<Close><End of Block>
+<TextBlock 28 w:36 h:2>
+Comunque, come 
+sta Margherita…?<Close><End of Block>
+<TextBlock 29 w:48 h:4>
+Bart
+"Meglio di quello che
+ci aspettassimo.<New>
+Ma io so che ha
+sofferto molto."<Close><End of Block>
+<TextBlock 30 w:24 h:3>
+Margherita!
+Sono così felice
+che tu sia in salvo!<Close><End of Block>
+<TextBlock 31 w:18 h:2>
+Margie
+"Grazie."<Close><End of Block>
+<TextBlock 32 w:46 h:3>
+Tutti i cittadini sono
+in attesa del ritorno
+della Grande Madre.<Close><End of Block>
+<TextBlock 33 w:20 h:2>
+(…<Delay 30>…<Delay 30>…<Delay 30>
+…<Delay 30>…<Delay 30> z<Delay 30>z<Delay 30>z…<Space 2><Close><End of Block>
+<TextBlock 34 w:22 h:1>
+…<Delay 30> O… oh!!<Space 1><Close><End of Block>
+<TextBlock 35 w:42 h:1>
+T… tutto a posto.
+signore!!<Close><End of Block>
+<TextBlock 36 w:36 h:1>
+Nessun problema,
+signore!!<Close><End of Block>
+<TextBlock 37 w:30 h:3>
+Salite sulla nave?
+    Sì
+    No<Close><End of Block>
+<TextBlock 38 w:52 h:3>
+I preparativi sono
+terminati, ma facciamo
+un ultimo controllo.<New>
+Il Padroncino sta
+portando Margherita
+a Nisan.<Close><End of Block>
+<TextBlock 39 w:40 h:1>
+Tutto è pronto.<Close><End of Block>
+<TextBlock 40 w:34 h:1>
+Nessun problema,
+signore!!<Close><End of Block>
+<TextBlock 41 w:34 h:1>
+Nessun problema,
+signore!!<Close><End of Block>
+<TextBlock 42 w:46 h:2>
+Le sorelle stanno
+aspettando nella
+cattedrale.<Close><End of Block>
+<TextBlock 43 w:26 h:1>
+Bentornati.<Close><End of Block>
+<TextBlock 44 w:26 h:1>
+Bentornati.<Close><End of Block>
+<TextBlock 45 w:26 h:1>
+Bentornati.<Close><End of Block>
+<TextBlock 46 w:26 h:1>
+Bentornati.<Close><End of Block>
+<TextBlock 47 w:36 h:2>
+    Lasciamo il porto
+    Al ponte<Close><Close><End of Block>

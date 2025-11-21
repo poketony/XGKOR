@@ -1,0 +1,10 @@
+#### 1 ####
+ Fei
+"Hold on.{wait:1E}
+How...far does this go!?"
+
+#### 2 ####
+ Bart
+"Hang in there.
+It's just a bit more."
+

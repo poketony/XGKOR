@@ -1,0 +1,31 @@
+<TextBlock 1 w:48 h:4>
+Fei
+"Perché vuoi combattere
+così all'improvviso?
+Sei impazzito… o cosa?"<Close><End of Block>
+<TextBlock 2 w:14 h:2>
+Fei
+"Uah!"<Close><End of Block>
+<TextBlock 3 w:20 h:3>
+Fei
+"Fai sul
+serio…?"<Close><End of Block>
+<TextBlock 4 w:48 h:4>
+Fei
+"Ugh uhh…<Delay 30> Quella è la
+mia stessa tecnica…!<Delay 30>
+Ma come…?"<Close><End of Block>
+<TextBlock 5 w:28 h:3>
+Wiseman
+"Basta parlare!
+Prendi questo!"<Close><End of Block>
+<TextBlock 6 w:30 h:4>
+Wiseman
+"Certo! Perciò
+combatti
+seriamente!<New>
+Perché se non
+lo farai, la
+tua vita sarà
+mia!"<Close><Close><Close><Close><Close>Q
+<Close><Close><Close><Close><Close><End of Block>

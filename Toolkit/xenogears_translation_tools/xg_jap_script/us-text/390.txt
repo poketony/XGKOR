@@ -1,0 +1,144 @@
+#### 1 ####
+Fei
+"..."
+
+#### 2 ####
+Elly
+"..."
+
+#### 3 ####
+Bart
+"What!?{wait:14}
+Collecting combat data!?{enter}
+Then, this war that's
+lasted for hundreds of
+years on the Ignas
+continent...{enter}
+It was just a farce 
+plotted by Solaris!?"
+
+#### 4 ####
+Rico
+"...I see...that's how
+it was."
+
+#### 5 ####
+Billy
+"The 'Ethos'...
+supervised...?{enter}
+The land dwellers...like
+domestic animals...?{wait:1E}
+Then I was..."
+
+#### 6 ####
+The Limiter restrains the
+Lambs' abilities. But there
+may be a way to remove it.{enter}
+Taura Melchior, he used
+to be one of the three 
+sages of Shevat.{enter}
+He must know a way to
+remove the Limiter.
+
+#### 7 ####
+The scientists of Solaris
+had bitter experiences in
+the revolt by the Lambs
+500 years ago. {enter}
+So they decided to do
+some work on the Lambs.{wait:14}
+They inserted various
+Limiters so that they would
+never be able to revolt.{enter}
+For the past 500 years,
+Solaris controlled the
+Lambs' consciousness,
+behavior and all.{enter}
+Naturally, Lambs don't
+know anything about it.{wait:14}
+That makes it even more
+unforgivable!!{wait:14} Although
+it's highly efficient...
+
+#### 8 ####
+This land is a testing
+ground for Solaris.{wait:14}
+Their objectives are
+genetic engineering,
+crossbreeding, and mind
+control...{enter}
+They want to collect data
+for the newly created 
+organisms and general 
+combat data.{enter}
+Lambs are mere livestock
+to be raised for Solaris'
+purposes.{wait:14}
+The 'Ethos' was
+established mainly to
+control the Lambs.
+
+#### 9 ####
+It's not a farce.{wait:14}
+To them, it's an important
+simulation under strict
+restrictions.{enter}
+Creating appropriate
+organisms that can align
+themselves with the
+'Anima Relics' is one of
+their important objectives.{enter}
+In any case, the Lambs will
+continue to be Solaris'
+guinea pigs unless someone
+stops them.
+
+#### 10 ####
+They're not doing this
+for fun, either.{wait:14}
+It's an important
+simulation.{enter}
+Creating appropriate
+organisms that can align
+themselves with the
+'Anima Relics' is one of
+their important objectives.{enter}
+In any case, the Lambs will
+continue to be Solaris'
+guinea pigs unless someone
+stops them.
+
+#### 11 ####
+You land dwellers better
+think seriously about it.{wait:14}
+The Lambs'll continue to
+be Solaris' guinea pigs
+unless someone stops them.
+
+#### 12 ####
+The whereabouts of the three
+sages, Melchior, Balthasar
+and Gaspar have not been
+known since the great war.{enter}
+There's even a rumor that
+they lost faith in humans
+because of the tragedy in
+Nisan.{enter}
+Solaris' activities have
+increased once again...{wait:14}
+I wonder where they are
+and what they're up to.
+
+#### 13 ####
+A man named Krelian was
+the mastermind behind
+the planting of the
+Limiter in the Lambs.{enter}
+He was originally a Lamb.
+He learned molecular
+engineering from the sage,
+Melchior, personally.{enter}
+But he misused it for
+such a terrible act!{wait:14}
+An unbelievable monster!
+

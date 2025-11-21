@@ -1,0 +1,678 @@
+<TextBlock 1 w:40 h:2>
+Bart
+"Credo sia proprio così."<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+Bart
+"Davvero?<Delay 30> Pare proprio che
+abbiamo incontrato un
+vero fanatico, eh?"<Close><End of Block>
+<TextBlock 3 w:46 h:4>
+Bart
+"Che ci fa un vecchio
+come te in un luogo 
+simile?"<Close><End of Block>
+<TextBlock 4 w:40 h:3>
+Bart
+"Un collezionista, eh?
+Interessante."<Close><End of Block>
+<TextBlock 5 w:52 h:4>
+Bart
+"Le cose su quello
+scaffale…<New>
+Sono alcune di
+quelle che hai
+trovato?"<Close><End of Block>
+<TextBlock 6 w:44 h:4>
+Vecchio Bal
+"Ti riferisci ai fossili?
+Sono una delle cose
+che colleziono.<New>
+Dai pure uno sguardo."<Close><End of Block>
+<TextBlock 7 w:54 h:4>
+Vecchio Bal
+"Qua intorno puoi scavare
+antiche macchine insieme
+a fossili umani e animali.<New>
+Noti qualcosa di
+particolare su questi
+scaffali?<New>
+Vanno dal più vecchio
+sulla sinistra al
+più recente sulla
+destra."<Close><End of Block>
+<TextBlock 8 w:50 h:3>
+Bart
+"Sei forse una specie di
+archeologo, vecchio?<New>
+Non riesco a notare le
+differenze di cui parli.<New>
+A me sembrano solo un
+mucchio di vecchie ossa.
+Fei, che ne pensi?"<Close><End of Block>
+<TextBlock 9 w:48 h:4>
+Fei
+"… Vediamo.<Delay 30>
+Primo, non ci sono 
+ossa umane fino a qui.<New>
+Poi, da questo punto
+verso destra, c'è
+qualcosa di differente…
+Credo."<Close><End of Block>
+<TextBlock 10 w:52 h:4>
+Vecchio Bal
+"Sì, fino ad un certo
+periodo storico, non ci
+sono fossili umani.<New>
+Quel punto è circa
+10000 anni fa."<Close><End of Block>
+<TextBlock 11 w:44 h:2>
+Bart
+"Che significa?"<Close><End of Block>
+<TextBlock 12 w:48 h:4>
+Vecchio Bal
+"Non chiederlo a me.
+Non so la risposta…<New>
+Ma credo che prima di
+allora non ci fossero
+esseri umani sul pianeta.<Delay 30>
+Almeno così sembra."<Close><End of Block>
+<TextBlock 13 w:44 h:4>
+Bart
+"Come può essere?
+E tutte quelle teorie
+sull'evoluzione?"<Close><End of Block>
+<TextBlock 14 w:48 h:4>
+Vecchio Bal
+"Intendi la teoria della
+evoluzione propugnata
+dalla Chiesa, giusto?<New>
+Tutte sciocchezze!
+Inoltre, io credo nei miti
+e nelle vecchie leggende."<Close><End of Block>
+<TextBlock 15 w:18 h:3>
+Fei
+"Leggende?
+Miti?"<Close><End of Block>
+<TextBlock 16 w:36 h:3>
+Vecchio Bal
+"Non conosci
+questa storia…?"<Close><End of Block>
+<TextBlock 17 w:54 h:4>
+Vecchio Bal
+"Raccontano che gli uomini
+e dio vivessero insieme in
+un paradiso in cielo.<New>
+Grazie alla protezione di
+dio, non vi era la paura
+della morte…<New>
+… ed i disastri naturali
+erano sconosciuti.<New>
+Ma, un giorno, gli uomini
+mangiarono il frutto
+proibito della conoscenza.<New>
+Così dio li punì per il
+loro peccato cacciandoli
+dal paradiso.<New>
+Dopo che furono cacciati
+dal paradiso, gli uomini
+usarono la conoscenza
+per creare dei giganti.<New>
+Con questi giganti, essi
+intendevano sfidare dio.
+Ma dio scatenò su di
+loro la sua ira.<New>
+Tutti coloro che
+sfidarono dio furono
+sconfitti. Ma dio stesso
+non ne uscì illeso.<New>
+Portando il paradiso con
+sé, il dio ferito nascose
+se stesso negli abissi
+degli oceani…<New>
+… per dormire
+per eoni.<New>
+Prima di iniziare il suo
+sonno, usò i suoi poteri
+per creare degli uomini
+di buon cuore…<New>
+… per popolare
+questo pianeta.<New>
+Questi uomini sarebbero
+i… <Delay 30>nostri antenati."<Close><End of Block>
+<TextBlock 18 w:44 h:3>
+Vecchio Bal
+"Bene, comunque… ora
+basta parlare."<Close><End of Block>
+<TextBlock 19 w:36 h:3>
+Fei
+"Comunque, questa 
+caverna ha…"<Close><End of Block>
+<TextBlock 20 w:52 h:4>
+Vecchio Bal
+"Un'uscita?<New>
+C'è un'uscita nel sito di
+scavo oltre la barriera.
+Potete raggiungere
+l'esterno da lì."<Close><End of Block>
+<TextBlock 21 w:48 h:4>
+Bart
+"Barriera? Intendi
+quell'enorme muro che si
+vede dalla tua entrata?"<Close><End of Block>
+<TextBlock 22 w:50 h:4>
+Vecchio Bal
+"Sì, proprio quello.<New>
+Sull'altro lato c'è un
+vecchio sito di scavo
+di Aveh.<New>
+Costruirono il muro quando
+scavavano qui, per tenere
+lontano la sabbia dal
+sito di scavo.<New>
+Ma ora non c'è più
+nessuno."<Close><End of Block>
+<TextBlock 23 w:48 h:3>
+Fei
+"E come apriamo una cosa
+enorme come quella?"<Close><End of Block>
+<TextBlock 24 w:32 h:4>
+Bart
+"Se è un muro,
+forse possiamo
+buttarlo giù."<Close><End of Block>
+<TextBlock 25 w:50 h:3>
+Vecchio Bal
+"Calma, giovanotti.<New>
+Per quanto potenti siano
+i vostri Gear, non
+butterete giù quel muro.<New>
+È troppo resistente.<Delay 30>
+Quindi…
+facciamo un patto."<Close><End of Block>
+<TextBlock 26 w:18 h:2>
+Bart
+"Un patto?"<Close><End of Block>
+<TextBlock 27 w:46 h:4>
+Vecchio Bal
+"Il muro è stato chiuso
+a causa della reazione
+dei 'Sensori'.<New>
+Quindi, ora io non
+posso andare dall'altra
+parte.<New>
+Forse ciò è accaduto
+quando voi due siete
+caduti qui.<New>
+Stavate forse
+combattendo,
+là sopra?"<Close><End of Block>
+<TextBlock 28 w:40 h:3>
+Fei
+"Sembri essere
+onnisciente!<New>
+Comunque, che cosa
+possiamo fare?"<Close><End of Block>
+<TextBlock 29 w:54 h:4>
+Vecchio Bal
+"Semplice.
+Dovete solo disattivare
+i Sensori.<New>
+In questo modo impedirete
+alla barriera di chiudersi
+ancora.<Delay 30> Quando voi avrete
+fatto ciò, io la aprirò."<Close><End of Block>
+<TextBlock 30 w:32 h:2>
+Fei
+"Ok, affare fatto."<Close><End of Block>
+<TextBlock 31 w:52 h:4>
+Vecchio Bal
+"I sensori sono in due
+posti. Dovreste vedere una
+luce rossa lampeggiante.<New>
+Buona fortuna."<Close><End of Block>
+<TextBlock 32 w:32 h:2>
+Fei
+"Andiamo, Bart."<Close><End of Block>
+<TextBlock 33 w:54 h:4>
+Vecchio Bal
+"Oh, prima che andiate…<New>
+Posso scambiare alcuni
+pezzi per Gear e del
+carburante.<Delay 20><New>
+Chiedete pure a me se
+avete bisogno di qualcosa."<Close><End of Block>
+<TextBlock 34 w:54 h:4>
+Bart
+"Grazie, vecchio.<Delay 20>
+Ok, allora manterremo
+gli accordi presi!"<Close><End of Block>
+<TextBlock 35 w:42 h:2>
+Fei
+"Ben fatto, vecchio!"<Close><End of Block>
+<TextBlock 36 w:38 h:2>
+Vecchio Bal
+"Il patto è concluso."<Close><End of Block>
+<TextBlock 37 w:38 h:4>
+Bart
+"Ehi, vecchio.
+C'è una cosa che
+vorrei chiederti."<Close><End of Block>
+<TextBlock 38 w:26 h:2>
+Vecchio Bal
+"Che cosa?"<Close><End of Block>
+<TextBlock 39 w:52 h:4>
+Bart
+"Ho sentito che da qualche
+parte su questo pianeta…<New>
+… c'è un Gear superiore a
+tutti gli altri.<New>
+Chiamato 'il dio Gear',
+fu costruito nei tempi
+antichi e nascosto
+da qualche parte.<New>
+Ne sai qualcosa?"<Close><End of Block>
+<TextBlock 40 w:54 h:4>
+Vecchio Bal
+"Una divinità fatta
+dall'uomo, creata con
+la conoscenza di dio!<New>
+Tale Gear possiede la
+potenza di mille Gear. Un
+gesto del suo braccio può
+distruggere intere città.<New>
+Il suo urlo di battaglia è
+come il fulmine nel cielo.<New>
+Tu stai parlando
+dell' 'Omnigear'."<Close><End of Block>
+<TextBlock 41 w:52 h:4>
+Bart
+"Lo conosci?<New>
+Allora forse è quello di
+cui stavi parlando nella
+storia che ci hai detto
+sulla battaglia con dio…"<Close><End of Block>
+<TextBlock 42 w:50 h:4>
+Vecchio Bal
+"Santo cielo, anche
+tu, ragazzo?<New>
+Queste storie sono nate
+per ispirare l'animo
+dell'uomo.<New>
+Ma sono solo leggende.
+Non esistono nella
+realtà."<Close><End of Block>
+<TextBlock 43 w:44 h:3>
+Vecchio Bal
+"Comunque, fatemi
+dare un'occhiata
+ai vostri Gear.<New>
+Ci vorrà solo un
+attimo. Aspettate
+qui, per favore."<Close><End of Block>
+<TextBlock 44 w:38 h:3>
+Bart
+"Ehi, aspetta!<Delay 30>
+Arhh, è sparito…"<Close><End of Block>
+<TextBlock 45 w:54 h:4>
+Fei
+"Ehi, Bart…<New>
+Pensi che il Gear di
+quella storia sia da
+qualche parte nascosto
+sottoterra?"<Close><End of Block>
+<TextBlock 46 w:34 h:3>
+Bart
+"Penso che sia quello
+che ho sentito."<Close><End of Block>
+<TextBlock 47 w:52 h:3>
+Fei
+"Potrebbe essere uno
+dei nostri Gear?"<Close><End of Block>
+<TextBlock 48 w:40 h:4>
+Bart
+"Sì, come no!
+Che probabilità ci
+sono che sia vero?"<Close><End of Block>
+<TextBlock 49 w:6 h:2>
+Fei
+"?"<Close><End of Block>
+<TextBlock 50 w:50 h:4>
+Bart
+"I Gear che hanno
+trovato ultimamente…<New>
+… sono vecchi di poche
+centinaia di anni.
+Nessuno è antico come
+il Gear della Leggenda."<Close><End of Block>
+<TextBlock 51 w:38 h:3>
+Fei
+"Allora perché si
+trovano nel sottosuolo…?"<Close><End of Block>
+<TextBlock 52 w:44 h:4>
+Bart
+"Non lo so.
+Non ci sono dati.<Delay 30> 
+Eccetto…"<Close><End of Block>
+<TextBlock 53 w:28 h:2>
+Fei
+"Eccetto cosa?"<Close><End of Block>
+<TextBlock 54 w:54 h:4>
+Bart
+"Ci deve essere un fondo
+di verità nelle storie che
+raccontano che essi…<New>
+… furono sotterrati dopo
+una grande guerra…<New>
+I fori di proiettili su
+molte delle armature dei
+Gear sembrano dimostrarlo."<Close><End of Block>
+<TextBlock 55 w:48 h:4>
+Fei
+"Vuoi dire che non ci sono
+dati degli ultimi secoli?<New>
+E prima?"<Close><End of Block>
+<TextBlock 56 w:50 h:4>
+Bart
+"Niente di nessun periodo.<New>
+La Chiesa controlla
+tutti i dati raccolti
+su quel periodo.<New>
+Forse ha anche dati
+più antichi…<New>
+Tutto quello che noi
+sappiamo della nostra
+storia è solo quello
+che scopriamo da soli."<Close><End of Block>
+<TextBlock 57 w:48 h:3>
+Bart
+"Comunque, Fei, che te
+ne pare del vecchio?"<Close><End of Block>
+<TextBlock 58 w:44 h:2>
+Fei
+"Che vuoi dire…?"<Close><End of Block>
+<TextBlock 59 w:46 h:4>
+Bart
+"Perché una persona
+anziana dovrebbe
+vivere da sola…<New>
+… in questa caverna
+abbandonata?"<Close><End of Block>
+<TextBlock 60 w:46 h:4>
+Fei
+"Non lo so.<Delay 30>
+Probabilmente sta
+cercando antichi Gear?"<Close><End of Block>
+<TextBlock 61 w:42 h:3>
+Bart
+"Giusto!
+Lo pensi anche tu?"<Close><End of Block>
+<TextBlock 62 w:54 h:3>
+Fei
+"Ehi!
+Stavo scherzando.<New>
+Non prendere quelle cose 
+sul serio. Sono solo
+leggende, lo sai."<Close><End of Block>
+<TextBlock 63 w:40 h:3>
+Bart
+"No… quel vecchio non
+me la conta giusta!"<Close><End of Block>
+<TextBlock 64 w:36 h:2>
+Vecchio Bal
+"Non può essere…"<Close><End of Block>
+<TextBlock 65 w:8 h:2>
+Fei
+"??"<Close><End of Block>
+<TextBlock 66 w:48 h:2>
+Bart
+"Che succede, vecchio?"<Close><End of Block>
+<TextBlock 67 w:40 h:2>
+Vecchio Bal
+"Questo è il tuo Gear?"<Close><End of Block>
+<TextBlock 68 w:22 h:3>
+Fei
+"Ecco, così sembra…"<Close><End of Block>
+<TextBlock 69 w:46 h:2>
+Vecchio Bal
+"Dove l'hai preso?"<Close><End of Block>
+<TextBlock 70 w:48 h:2>
+Fei
+"L'ho preso in prestito."<Close><End of Block>
+<TextBlock 71 w:20 h:1>
+Questo è…<Opcode 2 30><Close><End of Block>
+<TextBlock 72 w:46 h:2>
+il<Delay 5> corpo<Delay 5> per<Delay 5> lo<Delay 5> spirito<Delay 5>
+dell'<Delay 5>uccisore<Delay 5> di<Delay 30> dio<Delay 30>…<Opcode 2 30><Close><End of Block>
+<TextBlock 73 w:46 h:3>
+Fei
+"Aspetta! 
+Che cosa hai detto?"<Close><End of Block>
+<TextBlock 74 w:48 h:3>
+Vecchio Bal
+"Nulla. Non ho detto
+assolutamente nulla!!"<Close><End of Block>
+<TextBlock 75 w:52 h:3>
+Fei
+"No! Ti ho sentito!
+Hai detto uccisore
+di dio…<New>
+È così, vero?"<Close><End of Block>
+<TextBlock 76 w:52 h:4>
+Vecchio Bal
+"I vostri Gear sono
+a posto. Nulla più vi
+trattiene qui.<New>
+Per me si è fatto tardi.
+Andate per la vostra
+strada!"<Close><End of Block>
+<TextBlock 77 w:52 h:3>
+Fei
+"Andare…?
+Ascolta, vecchio…!!"<Close><End of Block>
+<TextBlock 78 w:48 h:4>
+Fei
+"Cioè, riesci a capire
+cosa non va solo dal
+suono dei suoi passi?"<Close><End of Block>
+<TextBlock 79 w:3 h:1>
+a<Close><End of Block>
+<TextBlock 80 w:44 h:4>
+Vecchio Bal
+"Ho detto di andarvene!"
+    Dicci di più
+    Vendici parti per Gear<Close><End of Block>
+<TextBlock 81 w:54 h:3>
+Vecchio Bal
+"Non ho nient'altro da
+dirvi, andatevene."<Close><End of Block>
+<TextBlock 82 w:54 h:4>
+Vecchio Bal
+"Quando Calamity vi
+avrà fatti a pezzi…<New>
+… mi riprenderò
+comunque quelle parti…<New>
+Se non v'importa, allora
+ve le venderò…!
+    Per Gear
+    Per personaggi<Close><End of Block>
+<TextBlock 83 w:40 h:3>
+Vecchio Bal
+"Primo, prova a
+cambiare il motore."<Close><End of Block>
+<TextBlock 84 w:52 h:4>
+Vecchio Bal
+"Ora sbrigatevi a
+disattivare i sensori.<New>
+O volete chiedermi
+qualcos'altro?"<New>
+    Dove sono i sensori?
+    Funzioni dei Gear
+    Hai pezzi da vendere?
+    Nulla<Close><End of Block>
+<TextBlock 85 w:50 h:4>
+Vecchio Bal
+"Mmh, cosa vi serve?"
+    Per i Gear
+    Per i piloti<Close><End of Block>
+<TextBlock 86 w:52 h:4>
+Vecchio Bal
+"Sembra che abbiate spento
+il 'Sensore' sulla
+sporgenza nella Grande
+Sala…<New>
+Ma c'è un altro 'Sensore'
+sulla strada dalla quale
+potete vedere la cascata.<New>
+È su una roccia, a
+nordovest di dove si
+trova la mia officina
+per riparare i robot.<New>
+Vi serve qualcos'altro?"
+    Funzioni dei Gear
+    Hai pezzi da vendere?
+    Nulla<Close><End of Block>
+<TextBlock 87 w:48 h:4>
+Vecchio Bal
+"Mmh, cosa volete?"
+    Parti per i Gear
+    Oggetti<Close><End of Block>
+<TextBlock 88 w:54 h:4>
+Vecchio Bal
+"Sembra che abbiate spento
+il sensore nella Grotta
+della Cascata.<New>
+Ma ce n'è ancora uno,
+oltre il grande masso,
+nella Grande Sala. Penso
+che l'abbiate già visto.<New>
+Qualcos'altro?"
+    Funzioni dei Gear
+    Hai pezzi da vendere?
+    Nulla<Close><End of Block>
+<TextBlock 89 w:48 h:4>
+Vecchio Bal
+"Mmh, cosa volete?"
+    Parti per i Gear
+    Oggetti<Close><End of Block>
+<TextBlock 90 w:50 h:4>
+Vecchio Bal
+"Oh, ottimo.
+Adesso devo solo aprire
+la barriera."<Close><End of Block>
+<TextBlock 91 w:48 h:3>
+"È da un po' che non
+rifornisco un Gear.
+Sarà divertente."<Close><End of Block>
+<TextBlock 92 w:54 h:4>
+Vecchio Bal
+"La forza di un Gear cambia
+con le parti equipaggiate e
+di come il pilota le usa.<New>
+Innanzitutto, parliamo
+del motore.<New>
+Con un buon motore, sia
+l'attacco che la capacità
+di carico del carburante
+migliorano.<New>
+Gli HP dipendono dal
+Telaio e la Difesa dalla
+Armatura equipaggiata.<New>
+Eccoti una dritta per
+quando hai poco carburante:
+usa 'Carica' per rifornirti
+un po' mentre ti difendi.<New>
+Quando stai combattendo
+un nemico forte, usa
+'Turbo' per aumentare la
+velocità e la forza.<New>
+Ma se usi troppo il Turbo,
+il tuo carburante finirà
+troppo in fretta.<New>
+Pertanto, rifletti con
+attenzione e cerca di
+trovare il tuo stile
+di combattimento."<Close><End of Block>
+<TextBlock 93 w:46 h:3>
+Vecchio Bal
+"Per prima cosa,
+cambiare il motore
+è un'ottima idea."<Close><End of Block>
+<TextBlock 94 w:44 h:4>
+È molto tempo che
+non ho visitatori.
+Cos'è successo? Siete
+caduti dalla superficie?<Close><End of Block>
+<TextBlock 95 w:50 h:3>
+Capisco…
+Una bella sfortuna.<New>
+A giudicare dal rumore,
+entrambi guidate degli
+ottimi Gear…<New>
+Ma sembra che ci sia un
+problema con le gambe.<Close><End of Block>
+<TextBlock 96 w:48 h:4>
+Ah ah ah.
+È facile sapere cosa non
+va in un Gear dal rumore
+che fanno.<New>
+Credo che uno di essi
+abbia bisogno di un nuovo
+giunto idromeccanico.<New>
+Sta facendo un
+brutto rumore.
+Deve essere difficile
+anche camminare.<New>
+Oh… comunque, il mio
+nome è Baldassarre,
+ma potete chiamarmi
+Vecchio Bal.<Close><End of Block>
+<TextBlock 97 w:54 h:4>
+Vecchio Bal
+"Credo che mi si possa
+definire un 'ricercatore
+di fossili'…<New>
+… o un 'collezionista
+di cose'.<New>
+Ci sono molte cose che
+si possono trovare in
+questa caverna."<Close><End of Block>
+<TextBlock 98 w:50 h:4>
+Bart
+"Ehi, Fei! Questa sì
+che è una sorpresa. Ci
+vive qualcuno qui!"<Close><End of Block>
+<TextBlock 99 w:52 h:4>
+Mmh, è stato un attimo,
+ma ho pensato di poter
+sentire il suono di Gear.
+Presuppongo siano vostri…?<New>
+D'accordo, venite qua e
+fate come se foste a casa
+vostra.<Close><End of Block>
+<TextBlock 100 w:48 h:3>
+Fei
+"Non so dove siano.
+Puoi dirmelo?"<Close><End of Block>
+<TextBlock 101 w:54 h:4>
+Vecchio Bal
+"Uno è su una sporgenza
+di roccia oltre il masso
+nella 'Grande Sala'.<New>
+Lo puoi trovare scalando
+il 'Terrapieno di Pietre'
+là fuori e…<New>
+… utilizzando il
+passaggio sul muro
+a nordovest.<New>
+L'altro sensore è sulla
+strada da cui puoi vedere
+la cascata.<New>
+Puoi andare lì dirigendoti
+a nordovest del luogo in
+cui si trovano i Gear.<New>
+È su una sporgenza
+di roccia.<New>
+Lo riconoscerai dalla
+sua forma quadrata e
+dal fatto che emette
+una luce rossa."<Close><Close><End of Block>

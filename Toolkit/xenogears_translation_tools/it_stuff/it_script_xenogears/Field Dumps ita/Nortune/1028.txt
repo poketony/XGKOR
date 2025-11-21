@@ -1,0 +1,1188 @@
+<TextBlock 1 w:52 h:3>
+Fei
+"<Delay 5>…<Delay 15>
+Alla periferia
+del Blocco D?"<Close><End of Block>
+<TextBlock 2 w:52 h:4>
+Hammer
+"Oh, scordai
+di dirtelo!<New>
+L'Arena di Battagliare
+sta alla periferia del
+Blocco D.<Delay 15><New>
+Parla alla guardia e ti
+dovrebbe far passare.
+Ciao!"<Close><End of Block>
+<TextBlock 3 w:36 h:3>
+Hammer
+"O frate, ho delle
+novità!<Delay 15> Novità!"<Opcode 2 45><Close><End of Block>
+<TextBlock 4 w:48 h:4>
+Hammer
+"Il nuovo dottore è
+appena arrivato!"<Close><End of Block>
+<TextBlock 5 w:36 h:3>
+Hammer
+"O frate, ho delle
+novità!<Delay 15> Novità!"<Opcode 2 45><Close><End of Block>
+<TextBlock 6 w:48 h:4>
+Hammer
+"Il nuovo dottore è
+appena arrivato!"<Close><End of Block>
+<TextBlock 7 w:48 h:4>
+So che ti stanno dando
+la caccia, ma rilassati!
+Qui nel Blocco D nessuno
+alzerebbe un dito contro
+il Campione.<New>
+Tra i reclusi del Blocco
+D di Nortune, il Campione
+di Battagliare è IL
+SOVRANO ASSOLUTO.<New>
+Se qualche ufficiale
+della Capitale Imperiale
+viene a ficcare il naso
+qui, nessuno parlerà!<Close><End of Block>
+<TextBlock 8 w:54 h:4>
+<Delay 5>…<Delay 5> Che affari ha qui una
+persona comune?<New>
+Se non vieni qui e non
+sei un prigioniero, allora
+o sei troppo curioso, o
+totalmente stupido!<Close><End of Block>
+<TextBlock 9 w:56 h:4>
+Il nuovo dottore, quello
+che è venuto dopo che la
+dottoressa è passata a
+lavorare coi civili, a
+mala pena lavora qui!<New>
+Si è arrivati al punto che
+se uno si fa male, deve
+comprarsi un Aquasol a
+proprie spese e curarsi da
+solo!<New>
+Ma dov'è andato?<Delay 5>
+Oh,<Delay 5> e non credi che lui
+sembri proprio il tipo che
+gira attorno al Campione?<Close><End of Block>
+<TextBlock 10 w:56 h:4>
+Sono felice che tu mi abbia
+parlato! Vedi, sono sempre
+gentile con i nuovi reclusi.
+Chiedimi quello che vuoi!<New>
+Cos'è che ti preoccupa?
+    Dov'è il 'rifornitore'?
+    Che succede nelle fogne?
+    Non mi preoccupa nulla!<Close><End of Block>
+<TextBlock 11 w:52 h:5>
+<Delay 5>…<Delay 5> Rifornitore?
+Oh, intendi Hammer!
+Probabilmente è al bar.
+Lo riconoscerai non appena
+lo vedrai!<New>
+Esci dalla porta ad est,
+gira a destra e continua
+dritto. Il posto con
+l'insegna al neon è il bar!<Close><End of Block>
+<TextBlock 12 w:58 h:4>
+Ah, le 'Fogne di Kislev'!
+Perché non vedi da te!?
+Esci dalla porta ad ovest
+e sali la scala<Delay 5>…<New>
+Quando sei sul tetto, vedrai
+una scala a nord ovest che
+scende nelle 'Fogne di
+Kislev'!<Close><End of Block>
+<TextBlock 13 w:50 h:3>
+Lo capirai perché vedrai
+un tipo che sta fermo a
+fare la sentinella vicino
+all'entrata. È il suo
+lavoro!<Close><End of Block>
+<TextBlock 14 w:60 h:1>
+Se non sai che fare,
+basta che me lo chiedi!<Close><End of Block>
+<TextBlock 15 w:48 h:3>
+Ehi, qual è il problema?
+    Nuove informazioni?
+    Nessun problema!<Close><End of Block>
+<TextBlock 16 w:56 h:4>
+Ehi, dicono che la dottoressa
+del dormitorio ora si occupi
+del<Delay 15>…<Delay 5> Blocco A!<New>
+Non era al piano di sotto,
+vero?<Close><End of Block>
+<TextBlock 17 w:54 h:4>
+Il Blocco A è l'area civile
+della Capitale Imperiale,
+Nortune. È proprio un gran
+passo avanti per una così
+giovane!<New>
+Pare che, come sostituto,
+ci daranno un nuovo dottore
+che badi a noi nel Blocco D!<Close><End of Block>
+<TextBlock 18 w:60 h:1>
+Se non sai che fare,
+basta che me lo chiedi!<Close><End of Block>
+<TextBlock 19 w:48 h:3>
+Ehi, qual è il problema?
+    Nuove informazioni?
+    Nessun problema!<Close><End of Block>
+<TextBlock 20 w:54 h:3>
+Il nuovo dottore, quello
+appena arrivato, è proprio
+esperto nel suo lavoro.<Delay 15>
+L'hai già visto?<Close><End of Block>
+<TextBlock 21 w:50 h:1>
+No! Negli ultimi tempi
+nessuna nuova informazione!<Close><End of Block>
+<TextBlock 22 w:54 h:3>
+Per noi ciò che ha fatto
+Aveh avrebbe potuto
+significare un disastro!<New>
+Per colpa di questi collari
+esplosivi, noi prigionieri
+non possiamo scappare,
+neanche se lo volessimo!<New>
+Se non stanno attenti, tutti
+noi carcerati potremmo
+morire!<Close><End of Block>
+<TextBlock 23 w:54 h:3>
+Sono felice che il caso
+del mostro delle fogne
+sia finito. Ora posso
+tornare a lavorare!<Close><End of Block>
+<TextBlock 24 w:56 h:3>
+I guadagni odierni non sono
+stati troppo buoni<Delay 5>…<Delay 5><New>
+Diamine, vorrei che qui ci
+fosse un intero nido di
+mostri,<Delay 5> così sarei
+sicuro di farcela!<Delay 5> Ah!<Close><End of Block>
+<TextBlock 25 w:56 h:4>
+Nelle fogne è stato trovato
+il corpo di uno dei diretti
+subordinati del Campione!<New>
+Sapere che un mostro grande
+abbastanza da farlo si sta
+nascondendo sotto di noi<Delay 5>…<Delay 5>
+di certo è spaventoso!<Delay 15>
+Mi fa venire i brividi!<Close><End of Block>
+<TextBlock 26 w:54 h:3>
+Grazie al Campione, il
+problema del mostro delle
+fogne è stato risolto.<New>
+Oh, e ho sentito dal tipo
+che sorveglia l'entrata che
+anche tu hai combattuto!?<Close><End of Block>
+<TextBlock 27 w:46 h:2>
+Sei un ottimo combattente,
+non è vero!?<Close><End of Block>
+<TextBlock 28 w:54 h:4>
+Ho sentito che i pezzi grossi
+della Capitale Imperiale
+stanno cercando di interrogare
+il precedente campione.<New>
+Immagino che sia a causa delle
+voci che dicono che lui abbia
+tentato di assassinare il
+Kaiser. Non vedo l'ora di
+sapere come finirà la cosa!<Close><End of Block>
+<TextBlock 29 w:62 h:4>
+Sembra che, dopo la gara,
+il Gear del precedente
+campione si sia mosso da
+solo e sia precipitato sulla
+tribuna occupata dal Kaiser!<New>
+Il pilota, Rico, non è stato
+trovato dentro il Gear, così
+hanno detto che è stato il
+veicolo ad andare fuori
+controllo!<Close><End of Block>
+<TextBlock 30 w:58 h:3>
+Un altro omicidio nelle fogne!<Delay 15>
+Stavolta è toccato a Vargas<Delay 5>…!<Delay 5>
+Ma che diavolo succede!?<Close><End of Block>
+<TextBlock 31 w:44 h:2>
+Di', non avrai mica<Delay 5>…<Delay 30>
+<Delay 5>…<Delay 5> Nulla, lascia stare!<Close><End of Block>
+<TextBlock 32 w:58 h:4>
+<Delay 5>…<Delay 5> Presto inizierà Battagliare,
+lo Sport Imperiale, a cui
+prenderà parte il Kaiser in
+persona<Delay 5>…<Delay 5> In quel momento<Delay 5>…<Close><End of Block>
+<TextBlock 33 w:54 h:4>
+Sì<Delay 5>…<Delay 5> ehmm<Delay 5>…<Delay 5> in quel
+momento avremo la nostra
+occasione!<Delay 15> Useremo un
+Gear<Delay 5>…<Delay 5> e lo faremo
+sembrare un incidente<Delay 5>…<Close><End of Block>
+<TextBlock 34 w:4 h:1>
+!?<Opcode 2 30><Close><End of Block>
+<TextBlock 35 w:56 h:1>
+<Opcode 1 255>Che cazzo vuoi!? Vattene!!<Close><End of Block>
+<TextBlock 36 w:54 h:4>
+A causa del casino causato
+da quel mostro delle fogne,
+hanno vietato l'accesso alla
+zona!<Delay 5> Come dovremmo lavorare,
+ora!?<Delay 5> Vaffanculo!<Close><End of Block>
+<TextBlock 37 w:56 h:5>
+La sentinella dell'entrata<Delay 5>…<Delay 5>
+- quel figlio di puttana! -
+<Delay 5>…<Delay 5> ha detto che non m'avrebbe
+lasciato entrare finché non
+gli avessi dato dei soldi!
+Quando mi fa incazzare!<Close><End of Block>
+<TextBlock 38 w:56 h:6>
+Io sono un Combattente
+vagabondo<Delay 5>…!<Delay 5> Le Gare di
+Battagliare sono finite,
+perciò sto pensando di
+andarmene, per cercare
+nuovi campi di battaglia.<Delay 15>
+Oh<Delay 5>…<Delay 5> e non osare
+chiedermi com'è andata!<Close><End of Block>
+<TextBlock 39 w:56 h:4>
+Io sono un Combattente
+vagabondo.<Delay 15> Sono venuto qui
+per partecipare agli
+scontri di Battagliare che
+presto si terranno qui.<New>
+Sembra che io sia arrivato
+qui un pochino presto!
+Uffa, cosa devo fare?<Close><End of Block>
+<TextBlock 40 w:54 h:5>
+Io sono un Combattente
+vagabondo.<Delay 15> La città ora è
+in tumulto per colpa di
+un mostro nelle fogne.<Delay 15><New>
+Dicono che due esperti
+Combattenti siano stati
+uccisi!<New>
+Sembra pure che fossero
+molto conosciuti qui in
+giro!<Delay 15> Pensaci, entrambi
+uccisi!<Delay 15> Deve essere stata
+una qualche creatura!<Delay 15><New>
+Oh, il cielo abbia
+pietà di noi!<Close><End of Block>
+<TextBlock 41 w:56 h:3>
+Cosa? Vuoi che io ti dica
+tutto riguardo a Kislev?<New>
+Beh?
+    Nah, non m'interessa.
+    Sì, con tutti i dettagli!<Close><End of Block>
+<TextBlock 42 w:34 h:1>
+<Delay 5>…<Delay 5> Fa' come credi!<Close><End of Block>
+<TextBlock 43 w:56 h:2>
+<Delay 5>…<Delay 5> Ehi, sei curiuso e
+studioso, vero?<Delay 15>
+Ecco qui la lezione
+completa al 100%!<Close><End of Block>
+<TextBlock 44 w:56 h:5>
+Nortune, la capitale
+dell'Impero di Kislev, è
+composta da cinque blocchi.<Delay 15>
+Il Blocco D è soltanto uno
+di questi, ed è usato come
+una gigantesca prigione.<Close><End of Block>
+<TextBlock 45 w:56 h:4>
+Il Blocco A è la normale
+area cittadina, mentre il
+Blocco B è l'area industriale.<New>
+Il Blocco C ospite alcuni
+servizi d'intrattenimento,
+tra cui la più grande Arena
+di 'Battagliare'.<New>
+Qui si scontrano i Gear in
+dei combattimenti uno contro
+uno. 'Battagliare', in poche
+parole, non è che questo!<New>
+E, per concludere, c'è il
+'Distretto Centrale', da
+dove il Kaiser Sigmund
+regna sopra tutto l'Impero
+di Kislev.<Close><End of Block>
+<TextBlock 46 w:56 h:5>
+Si vocifera che, dietro le
+quinte, la Chiesa sia in
+realtà coinvolta nella
+gestione del 'Centro B-Info'.<New>
+Ufficialmente il 'Comitato
+di Battagliare' è gestito
+dalla Capitale Imperiale,
+ma si dice anche che i
+suoi fili siano tirati
+dalla Chiesa.<New>
+Praticamente, secondo
+queste voci, esso agirebbe
+come agente della Chiesa.<Close><End of Block>
+<TextBlock 47 w:58 h:1>
+Ma, ovviamente, sono
+tutte delle dicerie!<Close><End of Block>
+<TextBlock 48 w:54 h:3>
+Si dice che non troppo
+tempo fa il Campione in
+persona abbia condotto
+una 'Cerimonia di Battesimo'.<New>
+Non so se sia vero, ma mi
+spiace per il prigioniero
+che l'ha dovuta subire!<Close><End of Block>
+<TextBlock 49 w:54 h:3>
+Mmh<Delay 5>…<Delay 5> ma d'altra parte<Delay 5>…<Delay 5>
+forse era Suzarn.<Delay 15>
+O,<Delay 5> aspetta,<Delay 5> era Vargas?<Opcode 2 60><Close><End of Block>
+<TextBlock 50 w:52 h:4>
+A pensarci, la guardia della
+entrata lo aiutava molto.<Delay 15><New>
+Scommetto che la guardia
+la stia prendendo male!<Close><End of Block>
+<TextBlock 51 w:60 h:3>
+C'è stata un'altra vittima
+nelle fogne.<Delay 15> E sono quattro!<New>
+Non era un subordinato
+diretto del Campione,
+ma era uno sterminatore
+di mostri professionista!<Close><End of Block>
+<TextBlock 52 w:56 h:5>
+Sono un Combattente
+apprendista, e la mia
+Classe di Prigioniero
+è la C!<Delay 15><New>
+Guarda qua che figata,
+il menu di oggi è<Delay 5>…<Delay 5>
+ooh!<Delay 5>…<Delay 5> 'Vigorsù'!<New>
+Urca! Se lo mangio, questo
+piatto aumenterà la mia
+resistenza, ed in men che
+non si dica, sarò un
+Combattente Maestro!<Delay 30><New>
+<Delay 5>…<Delay 5> Spero che sia vero!<Close><End of Block>
+<TextBlock 53 w:53 h:1>
+# Nota: Non succederà!<Opcode 2 45><Close><End of Block>
+<TextBlock 54 w:56 h:5>
+Sono un Combattente
+apprendista, e la mia
+Classe di Prigioniero
+è la C!<Delay 15><New>
+Perbacco, il menu di
+oggi propone<Delay 5>…<Delay 5>
+ooh!<Delay 5>…<Delay 5> 'Omega Etere'!<New>
+Whaa! Quando lo mangerò, la
+mia potenza Eterea salirà
+alle stelle! Ed in men che
+non si dica, sarò un
+Combattente Maestro!<Delay 30><New>
+<Delay 5>…<Delay 5> Cavolo, spero sia vero!<Close><End of Block>
+<TextBlock 55 w:53 h:1>
+# Nota: Non succederà!<Opcode 2 45><Close><End of Block>
+<TextBlock 56 w:56 h:5>
+A 'Battagliare', gli uomini
+e le donne sono chiamati
+diversamente.<Delay 5>
+Di norma, i maschi vengono
+detti 'Combattenti', mentre
+le femmine 'Amazzoni'.<Close><End of Block>
+<TextBlock 57 w:52 h:4>
+Sul campo di battaglia non
+conta essere maschi o
+femmine! L'unica cosa che
+conta è la forza! Solo i
+forti sopravvivono!<Close><End of Block>
+<TextBlock 58 w:54 h:4>
+Un po' di tempo fa, hanno
+rubato un'aeronave da
+guerra dallo stabilimento
+militare a nord della
+Capitale Imperiale.<New>
+Poi si perse il contatto
+con l'aeronave, da qualche
+parte sopra i mari presso
+Aquvy.<Close><End of Block>
+<TextBlock 59 w:54 h:6>
+Posso capire che si rubino
+delle parti per Gear dallo
+stabilimento militare, ma
+addirittura un'intera
+aeronave!
+Questo vuol dire esagerare!<Close><End of Block>
+<TextBlock 60 w:56 h:3>
+Chi avrebbe pensato che
+qualcuno avrebbe potuto
+battere Ricardo, l'imbattuto
+Campione di Battagliare!<New>
+Non voglio essere irriverente
+nei confronti del nuovo
+campione, ma è solo che non
+riesco ancora a crederci!<Close><End of Block>
+<TextBlock 61 w:62 h:1>
+Diamine, scusa se l'ho detto!<Close><End of Block>
+<TextBlock 62 w:56 h:4>
+Il problema del mostro delle
+fogne è stato risolto grazie
+agli sforzi di Rico, il
+nostro Campione, e l'ordine
+di 'vietato l'accesso' è
+stato annullato!<New>
+Ma ho sentito che il Campione
+è stato ferito al braccio,
+mentre ammazzava il mostro.<New>
+Non mi sorprende, sapendo
+che erano già stati uccisi
+cinque Combattenti!<Close><End of Block>
+<TextBlock 63 w:56 h:3>
+In questa città, quando porti
+al 'Centro B-Info' le prove
+che hai sterminato mostri
+delle fogne, le scambieranno
+con dei G, cioè la moneta
+usata in questo mondo.<New>
+Ricordati queste parole,
+perché tenerle a mente ti
+potrebbe fruttare un bel
+gruzzolo!<Close><End of Block>
+<TextBlock 64 w:58 h:4>
+Forse sono andati al bar…?
+Ma non è strano per dei
+pezzi grossi della capitale
+venire qui, nel Blocco D!?<Close><End of Block>
+<TextBlock 65 w:58 h:3>
+<Delay 5>…<Delay 5> I Membri del Comitato
+Imperiale di Battagliare?
+Mmh, non li vedo qui, ora.<New>
+C'era un gruppetto di tre
+persone che era venuto prima,
+ma ora se ne sono andati.<Close><End of Block>
+<TextBlock 66 w:56 h:5>
+Una volta ho sentito nelle
+fogne il suono di una
+campanella. Forse l'aveva
+divorata un mostro, ma
+emanava delle note cariche
+di dolore, quando suonava.<Close><End of Block>
+<TextBlock 67 w:50 h:3>
+Era così malinconica…<Delay 5>
+proprio come se stesse
+richiamando dei ricordi
+tristi<Delay 5>…<Close><End of Block>
+<TextBlock 68 w:56 h:3>
+<Delay 5>…<Delay 5> Eh? Vuol dire che lui è
+anche più potente del
+nostro Campione<Delay 5>…<Delay 5> giusto?<Close><End of Block>
+<TextBlock 69 w:58 h:3>
+Oh, non va proprio bene!
+Fa solo peggiorare le cose!<Delay 15>
+Oh, voglio più potere<Delay 5>…<Delay 5>!<Close><End of Block>
+<TextBlock 70 w:54 h:4>
+<Delay 5>…<Delay 5> La forza del Campione è
+incredibile. Se solo qualcuno
+sconfiggesse il Campione<Delay 5>…<Delay 5>
+allora potrei avere una
+possibilità.<Close><End of Block>
+<TextBlock 71 w:56 h:4>
+Dicono che questa mattina
+si sia trovata un'altra
+vittima! E sono cinque<Delay 5>…<Delay 5>
+e tutti di Classe A!<New>
+Non posso credere che la
+vittima sia Suzarn, una dei
+membri della famosa banda
+del Campione!<Close><End of Block>
+<TextBlock 72 w:54 h:3>
+Nulla di simile era mai
+successo prima d'ora!
+Ehi, ma tu non sei
+QUEL tipo…<Close><End of Block>
+<TextBlock 73 w:48 h:1>
+Ehm, nulla, lascia stare.<Close><End of Block>
+<TextBlock 74 w:58 h:4>
+Il nostro cibo è famoso
+in tutta la Capitale
+Imperiale!<New>
+Specialmente i nostri
+piatti, cucinati secondo
+la tradizione Eterea…
+come 'Limit Break' e
+'AppesantiPeso'…<New>
+Li forniamo a seconda
+della Classe, A oppure B,
+perciò puoi prendere o
+uno o l'altro.<New>
+Differiscono a seconda
+della persona, ma si dice
+che provochino degli
+effetti straordinari!<Close><End of Block>
+<TextBlock 75 w:44 h:4>
+Perché lasciano il cibo
+nei piatti? Se non si può
+mangiarlo tutto… allora non
+si deve neanche ordinarlo!<Close><End of Block>
+<TextBlock 76 w:14 h:1>
+Aahh!!<Opcode 2 30><Close><End of Block>
+<TextBlock 77 w:44 h:3>
+<Delay 5>…<Delay 5> Non dovresti andare
+nella cucina senza
+motivo.<Delay 10> Dimostri
+cattiva educazione!<Close><End of Block>
+<TextBlock 78 w:56 h:2>
+Oh no, non entrare!<Delay 10>
+In cucina non possono
+entrare i prigionieri!<Close><End of Block>
+<TextBlock 79 w:58 h:5>
+Per cucinare serve un amore
+più profondo del mare!<New>
+Trascinare i componenti di
+ciò che cuciniamo verso
+l'apice della perfezione…<New>
+Questo è il lavoro di noi
+cuochi!<Close><End of Block>
+<TextBlock 80 w:24 h:1>
+D'accordo!<Opcode 2 40><Close><End of Block>
+<TextBlock 81 w:58 h:5>
+Per cucinare serve un amore
+che sale oltre i cieli!<New>
+Trascinare i componenti di
+ciò che cuciniamo verso
+l'apice della perfezione…<New>
+Questo è il lavoro di noi
+cuochi!<Close><End of Block>
+<TextBlock 82 w:24 h:1>
+Va bene!<Opcode 2 40><Close><End of Block>
+<TextBlock 83 w:56 h:4>
+Mon dieu! Non mi pavli,
+sono tvoppo occupata!
+Se vuole ovdinave, vada
+all'altro lato del bancone!<Close><End of Block>
+<TextBlock 84 w:56 h:4>
+Usiamo solo i migliovi
+ingvedienti. Tuttavia, se
+mangia sempve lo stesso
+cibo, poi si disgustevà,
+monsieur!<New>
+Penso lei ne abbia già
+mangiato abbastanza. Se
+mangia tvoppo, diventevà
+un ciccione!<Close><End of Block>
+<TextBlock 85 w:56 h:4>
+Glielo vipeto, se mangia
+così tanto diventevà una
+palla di lavdo!<Delay 15>
+I nutvizionisti vaccomandano
+di mangiave con modevazione!<Close><End of Block>
+<TextBlock 86 w:54 h:4>
+Monsieur, avete già deciso
+cosa ovdinave dal menu?
+    … Che menu?
+    Sì, ho deciso!<Close><End of Block>
+<TextBlock 87 w:52 h:4>
+Il menu è appeso lì a
+destva, monsieur. Abbiamo
+due povtate: la specialità
+del giovno e il 'Piatto
+à la Classe'!<Close><End of Block>
+<TextBlock 88 w:52 h:4>
+Cosa vovvebbe, Monsieur?
+    Piatto à la Classe
+    Specialità del giorno
+    Nulla, sono pieno!<Close><End of Block>
+<TextBlock 89 w:54 h:6>
+Scelga la Classe, Monsieur…
+    Classe A
+    Classe B
+    Classe C1
+    Classe C2
+    Classe D<Close><End of Block>
+<TextBlock 90 w:40 h:1>
+Un momento, s'il vous plaît<Delay 5>…<Close><End of Block>
+<TextBlock 91 w:54 h:2>
+Abbiamo l'ovdine!<Delay 15>
+Una 'Cavne Bellica'!<Close><End of Block>
+<TextBlock 92 w:60 h:4>
+La vittovia pev lei è cevta,
+monsieur! La nostva magnifica
+'Cavne Bellica' ha il suo
+gusto speciale gvazie all'uso
+dei migliovi ingvedienti!<Close><End of Block>
+<TextBlock 93 w:40 h:1>
+Un momento, s'il vous plaît<Delay 5>…<Close><End of Block>
+<TextBlock 94 w:54 h:2>
+Abbiamo l'ovdine!<Delay 15>
+Un 'AppesantiPeso'!<Close><End of Block>
+<TextBlock 95 w:60 h:4>
+Monsieur vuole esseve
+un supev ciccione, oui?
+Questo piatto non è
+consigliato ai secchi…
+Ecco 'AppesantiPeso'.
+Bon appetit!<Close><End of Block>
+<TextBlock 96 w:40 h:1>
+Un momento, s'il vous plaît<Delay 5>…<Close><End of Block>
+<TextBlock 97 w:54 h:2>
+Abbiamo l'ovdine!<Delay 15>
+Un 'Vigovsù'!<Close><End of Block>
+<TextBlock 98 w:56 h:4>
+Monsieur ha bisogno di più
+vesistenza? 'Vigovsù' le
+permettevà di vompeve ogni
+limite!<Close><End of Block>
+<TextBlock 99 w:40 h:1>
+Un momento, s'il vous plaît<Delay 5>…<Close><End of Block>
+<TextBlock 100 w:54 h:2>
+Abbiamo l'ovdine!<Delay 15>
+Un 'Vigovsù'!<Close><End of Block>
+<TextBlock 101 w:56 h:4>
+Monsieur ha bisogno di più
+vesistenza? 'Vigovsù' le
+pevmettevà di vompeve ogni
+limite!<Close><End of Block>
+<TextBlock 102 w:40 h:1>
+Un momento, s'il vous plaît<Delay 5>…<Close><End of Block>
+<TextBlock 103 w:54 h:2>
+Abbiamo l'ovdine!<Delay 15>
+Un 'Gvuegev Fvitto'!<Close><End of Block>
+<TextBlock 104 w:56 h:5>
+Pvendiamo un Gvueger, divina
+bestia del sapeve (bugia!),
+e la fviggiamo finché non è
+cvoccante e piccante. Ecco qua,
+mio cavo goumet connoisseur!<Close><End of Block>
+<TextBlock 105 w:40 h:1>
+Un momento, s'il vous plaît<Delay 5>…<Close><End of Block>
+<TextBlock 106 w:52 h:2>
+Abbiamo l'ovdine!<Delay 15>
+Un 'Limit Bveak'!<Close><End of Block>
+<TextBlock 107 w:56 h:4>
+Ecco qui il suo 'Limit Bveak'.
+Lo mangi pev aumentave la sua
+agilità! Gli effetti sono
+divevsi da pevsona a pevsona.<Close><End of Block>
+<TextBlock 108 w:40 h:1>
+Un momento, s'il vous plaît<Delay 5>…<Close><End of Block>
+<TextBlock 109 w:52 h:2>
+Abbiamo l'ovdine!<Delay 15>
+Un 'Pesce Novtuno'!<Close><End of Block>
+<TextBlock 110 w:56 h:4>
+Si dice che la squisitezza
+della Capitale Impeviale, il
+'Pesce Novtuno', aumenti la
+saggezza (la pvendo pev il
+naso, eh?). Ecco!<Close><End of Block>
+<TextBlock 111 w:40 h:1>
+Un momento, s'il vous plaît<Delay 5>…<Close><End of Block>
+<TextBlock 112 w:50 h:2>
+Abbiamo l'ovdine!<Delay 15>
+Un 'Omega Eteve'!<Close><End of Block>
+<TextBlock 113 w:56 h:4>
+Con questo monsieur
+potvà esseve il 'Maestvo
+dell'Eteve'! È ottimo
+per le zucche vuote, oui?
+Avviva un 'Omega Eteve'!<Close><End of Block>
+<TextBlock 114 w:40 h:1>
+Un momento, s'il vous plaît<Delay 5>…<Close><End of Block>
+<TextBlock 115 w:50 h:2>
+Abbiamo l'ovdine!<Delay 15>
+Un 'Omega Eteve'!<Close><End of Block>
+<TextBlock 116 w:56 h:4>
+Con questo monsieur
+potvà esseve il 'Maestvo
+dell'Eteve'! È ottimo
+per le zucche vuote, oui?
+Avviva un 'Omega Eteve'!<Close><End of Block>
+<TextBlock 117 w:40 h:1>
+Un momento, s'il vous plaît<Delay 5>…<Close><End of Block>
+<TextBlock 118 w:54 h:2>
+Abbiamo l'ovdine!<Delay 15>
+Una 'Pappa Lampo'!<Close><End of Block>
+<TextBlock 119 w:58 h:5>
+Fatta con le LampoVadici e col
+viso pestato assieme alla favina,
+è un ottimo alimento pev la
+dieta! Molto nutvimento pev
+quelli che hanno poco appetito.<Close><End of Block>
+<TextBlock 120 w:40 h:1>
+Un momento, s'il vous plaît<Delay 5>…<Close><End of Block>
+<TextBlock 121 w:48 h:2>
+Abbiamo l'ovdine!<Delay 15>
+Un 'Minipotente'!<Close><End of Block>
+<TextBlock 122 w:56 h:5>
+Aumenta le capacità difensive
+contvo l'Eteve e gli attacchi
+fisici. Quanto duva? È un
+segveto! Comunque, ecco a lei
+il suo 'Minipotente'!<Close><End of Block>
+<TextBlock 123 w:40 h:1>
+Un momento, s'il vous plaît<Delay 5>…<Close><End of Block>
+<TextBlock 124 w:50 h:2>
+Abbiamo l'ovdine!<Delay 15>
+Un 'Gvand Baste'!<Close><End of Block>
+<TextBlock 125 w:54 h:4>
+'Gvand Baste' è l'acme
+supvemo della gastvonomia!
+Lo si deve pvovave almeno
+una volta pvima di movive…!<Close><End of Block>
+<TextBlock 126 w:46 h:2>
+Si assicuri di mangare
+bene! Le sevve nutvimento!<Close><End of Block>
+<TextBlock 127 w:54 h:2>
+Di cevto ai pvigionievi
+sevve una buona
+alimentazione, no?<Close><End of Block>
+<TextBlock 128 w:52 h:2>
+Abbiamo qualche problema
+con questa porta!<New>
+Scusami, ma potresti
+usare quella sul lato
+ovest!?<Close><End of Block>
+<TextBlock 129 w:48 h:3>
+Non è un problema difficile
+da risolvere!<Delay 10> La faremo
+aggiustare molto presto!<Close><End of Block>
+<TextBlock 130 w:54 h:3>
+Questa porta è in riparazione.<Delay 15>
+Scusa, ma ti dispiacerebbe
+usare quella dell'altra parte?<Close><End of Block>
+<TextBlock 131 w:56 h:7>
+"Piatti à la Classe" di oggi: 
+  Classe A - Carne Bellica
+  Classe B - AppesantiPeso
+  Classe C - Vigorsù
+  Classe D - Grueger Fritto
+  Specialità del Giorno: 
+  Minipotente<Close><End of Block>
+<TextBlock 132 w:56 h:7>
+"Piatti à la Classe" di oggi: 
+  Classe A - Limit Break
+  Classe B - Pesce Nortuno
+  Classe C - Omega Etere
+  Classe D - Pappa Lampo
+  Specialità del Giorno: 
+  Baste Grand<Close><End of Block>
+<TextBlock 133 w:30 h:3>
+<Perso1>
+"Vediamo<Delay 5>…<Delay 5> che
+sapore ha."<Close><End of Block>
+<TextBlock 134 w:54 h:3>
+<Perso1>
+"Gustosa,<Delay 10> saporita,
+dura al punto giusto<Delay 5>…
+proprio buona!"<Close><End of Block>
+<TextBlock 135 w:30 h:3>
+<Perso1>
+"Vediamo<Delay 5>…<Delay 5> che
+sapore ha."<Close><End of Block>
+<TextBlock 136 w:48 h:3>
+<Perso1>
+"Sento il mio corpo<Delay 5>…<Delay 5>
+più leggero<Delay 5>…<Delay 5> un po'!"<Close><End of Block>
+<TextBlock 137 w:56 h:3>
+<Perso1>
+"Mmh, niente male! Ma…
+non mi sento diverso."<Close><End of Block>
+<TextBlock 138 w:30 h:3>
+<Perso1>
+"Vediamo<Delay 5>…<Delay 5> che
+sapore ha."<Close><End of Block>
+<TextBlock 139 w:46 h:3>
+<Perso1>
+"Incredibile<Delay 5>…!<Delay 15> Il mio corpo
+è colmo di potere!"<Close><End of Block>
+<TextBlock 140 w:30 h:3>
+<Perso1>
+"Vediamo<Delay 5>…<Delay 5> che
+sapore ha."<Close><End of Block>
+<TextBlock 141 w:56 h:3>
+<Perso1>
+"D… d… divina bestia della
+sapienza?<Delay 10> Di certo<Delay 5>…<Delay 5>
+non ha un sapore divino!"<Close><End of Block>
+<TextBlock 142 w:44 h:2>
+<Perso1>
+"Cosa provo<Delay 5>…?"<Close><End of Block>
+<TextBlock 143 w:44 h:3>
+<Perso1>
+"Ma il cibo può avere
+davvero un simile
+effetto<Delay 5>…<Delay 5>?"<Close><End of Block>
+<TextBlock 144 w:30 h:3>
+<Perso1>
+"Vediamo<Delay 5>…<Delay 5> che
+sapore ha."<Close><End of Block>
+<TextBlock 145 w:54 h:3>
+<Perso1>
+"Il mio corpo<Delay 5>…<Delay 5> L'aria<Delay 5>…<Delay 5><Space 1>
+Il tempo<Delay 5>…<Delay 15> Tutto è<Delay 5>…"<Close><End of Block>
+<TextBlock 146 w:56 h:3>
+<Perso1>
+"Mmh, era buono! Ma di
+certo non sono
+cambiato<Delay 5>…<Delay 5>!"<Close><End of Block>
+<TextBlock 147 w:30 h:3>
+<Perso1>
+"Vediamo<Delay 5>…<Delay 5> che
+sapore ha."<Close><End of Block>
+<TextBlock 148 w:54 h:3>
+<Perso1>
+"La squitezza locale?<Delay 15>
+Mmm,<Delay 5> sa di pesce,<Delay 5>
+ma delizioso!"<Close><End of Block>
+<TextBlock 149 w:44 h:2>
+<Perso1>
+"Cosa provo<Delay 5>…?"<Close><End of Block>
+<TextBlock 150 w:48 h:3>
+<Perso1>
+"Mi sento circondato<Delay 5>…<Delay 5>
+da un'energia misteriosa!"<Close><End of Block>
+<TextBlock 151 w:30 h:3>
+<Perso1>
+"Vediamo<Delay 5>…<Delay 5> che
+sapore ha."<Close><End of Block>
+<TextBlock 152 w:54 h:3>
+<Perso1>
+"Cavolo<Delay 5>…<Delay 5> come prevedevo,<Delay 5>
+è maledettamente piccante!"<Close><End of Block>
+<TextBlock 153 w:30 h:3>
+<Perso1>
+"Vediamo<Delay 5>…<Delay 5> che
+sapore ha."<Close><End of Block>
+<TextBlock 154 w:40 h:3>
+<Perso1>
+"Mm-mmh,
+squisimegadelizioso!"<Close><End of Block>
+<TextBlock 155 w:36 h:3>
+Shitan
+"Fei!<Delay 15>
+Aspetta un attimo!"<Opcode 2 55><Close><End of Block>
+<TextBlock 156 w:50 h:4>
+Fei
+"Cosa c'è, Doc?<Delay 15><New>
+La scorsa sera hai
+detto che avremmo
+agito separatamente<Delay 5>…"<Close><End of Block>
+<TextBlock 157 w:50 h:4>
+Shitan
+"Sì, lo so bene.
+Ma c'è qualcosa per cui
+provo una gran curiosità!<New>
+Andrò con te all'Arena di
+Battagliare.<New>
+Dividerci dopo non vorrà
+certo dire mandare a
+monte i nostri piani,
+non credi?"<Close><End of Block>
+<TextBlock 158 w:50 h:3>
+Fei
+"<Delay 5>…?<Delay 5> Beh<Delay 5>…<Delay 5> come vuoi!<Delay 15>
+Comunque, andiamo!"<Close><End of Block>
+<TextBlock 159 w:40 h:4>
+Hammer
+"Uff, uff, uff<Delay 5>…<Delay 5>
+Ho finito ora di
+iscriverti, o frate!"<Close><End of Block>
+<TextBlock 160 w:48 h:3>
+Fei
+"Ehi<Delay 5>…<Delay 5> hai fatto presto!
+Iscriversi è davvero
+così facile?"<Close><End of Block>
+<TextBlock 161 w:56 h:4>
+Hammer
+"Di norma no!<New>
+Ma 'na fimmina chiamata
+Rue, una del Comitato
+di Battagliare, sembra
+averti raccomandato!"<Close><End of Block>
+<TextBlock 162 w:54 h:3>
+Fei
+"Il Comitato di
+Battagliare? Oh,
+intendi quei tre?"<Close><End of Block>
+<TextBlock 163 w:54 h:4>
+Hammer
+"Beh, comunque…<New>
+Grazie a loro le
+procedure d'iscrizione
+sono filate lisce
+come l'olio!<New>
+Ehi ehi! Significa
+che puoi iniziare a
+Battagliare quando
+vuoi, o frate!"<Close><End of Block>
+<TextBlock 164 w:52 h:4>
+Fei
+"Ma a parte questo, Hammer,
+è da ieri che sembri un po'
+troppo felice!<New>
+C'è qualcosa di strano
+lì dietro le quinte?
+Qualcosa che io non so?"<Close><End of Block>
+<TextBlock 165 w:52 h:4>
+Hammer
+"<Delay 5>…<Delay 5> Eh?
+N… n… no! N… nulla! 
+P… p… proprio nulla!<New>
+Io, il meccanico dei
+campioni, mi sono fatto
+perdonare per tutto
+ciò che ha fatto!<New>
+Tutti i miei reati
+sono acqua passata!<New>
+Perciò non c'è nulla
+per cui insospettirsi!
+Ahahah!"<Close><End of Block>
+<TextBlock 166 w:28 h:2>
+Fei
+"Mmh, davvero?"<Close><End of Block>
+<TextBlock 167 w:50 h:4>
+Hammer
+"Che intendi? Già ti
+dissi che non ti sto
+nascondendo nulla!<New>
+Oooh! 
+Ho da fare molte cose,
+perciò io vado via
+prima di te!"<Close><End of Block>
+<TextBlock 168 w:26 h:4>
+Fei
+"Oh<Delay 5>…<Delay 5>!<Delay 5>
+Ehi<Delay 5>…<Delay 5>!<Delay 5>
+F… f… fermo<Delay 5>…<Delay 5>!"<Space 1><Close><End of Block>
+<TextBlock 169 w:40 h:4>
+Fei
+"Cos'hai in mente?<New>
+Non stai neanche
+dicendo dove vuoi
+andartene<Delay 5>…<Delay 5>"<Opcode 2 30><Close><End of Block>
+<TextBlock 170 w:54 h:3>
+Fei
+"Hammer, tu non
+dovevi essere al bar<Delay 5>…<Delay 5>?"<Close><End of Block>
+<TextBlock 171 w:54 h:4>
+Hammer
+"O frate, non dovresti
+preoccuparti di questi
+minuscoli dettagli!<New>
+Basta che fai affidamento
+su di me, quello che è
+sempre in prima linea se
+si tratta di informazioni…<New>
+Allora saprai tutto!<Delay 15><New>
+Allora, riguardo a questo
+dottore<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 172 w:46 h:2>
+Fei
+"… Che dottore?"<Close><End of Block>
+<TextBlock 173 w:56 h:4>
+Hammer
+"Cosa?<Delay 15>
+Non lo sapevi, o frate?<New>
+La dottoressa precedente è
+stata trasferita. Ora si
+occupa del settore civile!<New>
+Sei invidioso, eh!?<Delay 15>
+Perciò abbiamo ricevuto
+un nuovo dottore che si
+occupi del Blocco D.<New>
+Dicono sia appena
+arrivato!"<Close><End of Block>
+<TextBlock 174 w:54 h:3>
+Fei
+"… Il nuovo dottore, eh?<Delay 10><New>
+Allora, mi spieghi che
+cosa ha a che fare questo
+nuovo dottore con te, il
+grande 'rifornitore'?"<Close><End of Block>
+<TextBlock 175 w:56 h:4>
+Hammer
+"Ma che stai dicendo, o
+frate?<Delay 10> Certo che ho assai
+a che fare con lui!<New>
+Se divento suo compare…<New>
+… potrò espandere i miei
+contatti costruendo un
+mercato nero del traffico
+di medicine!"<Close><End of Block>
+<TextBlock 176 w:44 h:4>
+Fei
+"… Ah, è per questo,
+eh? Oh, Hammer, cosa
+dobbiamo fare con te?"<Close><End of Block>
+<TextBlock 177 w:48 h:4>
+Hammer
+"Fregatene, o frate.<Delay 5>
+Comunque, andiamo a
+salutarlo, no?"<Close><End of Block>
+<TextBlock 178 w:54 h:3>
+Fei
+"Beh, sì, credo che
+dovremmo almeno
+salutarlo…"<Close><End of Block>
+<TextBlock 179 w:54 h:3>
+Rico
+"Sei in ritardo!<Delay 15>
+Mi hai fatto aspettare
+per secoli!"<Close><End of Block>
+<TextBlock 180 w:36 h:2>
+Fei
+"Oh,<Delay 5> ehmm, scusami!"<Close><End of Block>
+<TextBlock 181 w:52 h:4>
+Fei
+"Dopo il fatto…<New>
+… Doc ha detto di voler
+ripagare il favore di
+aver ammazzato il mostro…<New>
+Così ho aspettato fuori."<Close><End of Block>
+<TextBlock 182 w:50 h:4>
+Rico
+"<Delay 5>…<Delay 5> Davvero? Oh, beh,
+almeno abbiamo messo
+fine agli omicidi!"<Close><End of Block>
+<TextBlock 183 w:46 h:4>
+Shitan
+"Sì, è vero.<Delay 15><New>
+E, inoltre, si è
+potuta provare
+l'innocenza di Fei!"<Close><End of Block>
+<TextBlock 184 w:54 h:4>
+Rico
+"<Delay 5>…<Delay 5><New>
+E immagino anche che
+l'ordine di 'vietato
+l'accesso' alle fogne…<New>
+… sia stato tolto subito
+dopo<Delay 5>…<New>
+Comunque, la mia allenza
+con voi finisce qui<Delay 10>…<New>
+<Delay 5>Fei,<Delay 5> la prossima volta
+che c'incontriamo,
+saremo nemici!"<Close><End of Block>
+<TextBlock 185 w:56 h:4>
+Rico
+"Avanti, prova a battermi!<New>
+Mi piacerebbe vederti
+che provi a regolare
+i conti con me!"<Close><End of Block>
+<TextBlock 186 w:54 h:4>
+Fei
+"Ehi, e il braccio ferito?<Delay 15>
+Non puoi Battagliare
+in questo stato!"<Close><End of Block>
+<TextBlock 187 w:54 h:4>
+Rico
+"<Delay 5>…<Delay 30><New>
+Puoi davvero permetterti
+di preoccuparti del tuo
+avversario?"<Close><End of Block>
+<TextBlock 188 w:30 h:2>
+Fei
+"… Ma… Rico?"<Space 1><Close><End of Block>
+<TextBlock 189 w:56 h:4>
+Rico
+"Prima preoccupati di te
+stesso, poi degli altri!<Delay 15>
+Non fermarti ora!<Delay 5><New>
+Offrimi il tuo miglior
+combattimento!"<Close><End of Block>
+<TextBlock 190 w:54 h:4>
+Rico
+"Se non farai del tuo
+meglio,<Delay 20> potresti essere
+tu a morire…"<Close><End of Block>
+<TextBlock 191 w:28 h:3>
+Fei
+"<Delay 5>…<Delay 30>
+Capito<Delay 5>…"<Close><End of Block>
+<TextBlock 192 w:30 h:3>
+Rico
+"Bene.<Delay 10>
+Ottima cosa<Delay 5>…"<Close><End of Block>
+<TextBlock 193 w:56 h:4>
+Shitan
+"Bene, ora che quel
+problema è stato
+risolto…<New>
+… ho fatto tutto ciò
+che potevo per
+aiutarti<Delay 5>…<New>
+Il resto è sulle tue
+spalle, Fei<Delay 15>…<New>
+Devi risolvere questo
+problema con le
+tue stesse mani."<Close><End of Block>
+<TextBlock 194 w:32 h:2>
+Fei
+"<Delay 5>…<Delay 5> Lo credo anch'io."<Close><End of Block>
+<TextBlock 195 w:52 h:4>
+Shitan
+"Il suo braccio ferito ti
+preoccupa davvero così
+tanto?<Delay 30><New>
+Fei, lo capisci che non
+abbiamo<Delay 5>…"<Close><End of Block>
+<TextBlock 196 w:56 h:4>
+Fei
+"Lo so, Doc<Delay 5>…<Delay 5>
+Non abbiamo molto tempo
+da perdere!<New>
+E per di più, quello che
+ha detto è vero.
+In battaglia non ci si
+deve trattenere.<Delay 10><New>
+L'etichetta di un
+combattente impone
+di fare sempre un vero
+combattimento!"<Close><End of Block>
+<TextBlock 197 w:54 h:4>
+Shitan
+"Sembra ch'io fossi
+troppo preoccupato.<Delay 15>
+Comunque, ora riposiamoci.<New>
+Ricorda, per prima cosa
+devi vincere le Finali del
+Torneo.<Delay 15><New>
+Ed il Campione non è
+l'unico che devi battere!"<Close><End of Block>
+<TextBlock 198 w:56 h:4>
+Shitan
+"Bene, ora che quel
+problema è stato risolto…<New>
+… ho fatto tutto ciò che
+potevo per aiutarti<Delay 5>…<New>
+Il resto è sulle tue
+spalle, Fei<Delay 15>…<New>
+Devi risolvere questo
+problema con le tue
+stesse mani."<Close><End of Block>
+<TextBlock 199 w:32 h:2>
+Fei
+"<Delay 5>…<Delay 5> Lo credo anch'io."<Close><End of Block>
+<TextBlock 200 w:52 h:4>
+Shitan
+"Il suo braccio ferito ti
+preoccupa davvero così
+tanto?<Delay 30><New>
+Fei, lo capisci che non
+abbiamo<Delay 5>…"<Close><End of Block>
+<TextBlock 201 w:56 h:4>
+Fei
+"Lo so, Doc<Delay 5>…<Delay 5>
+Non abbiamo molto tempo
+da perdere!<New>
+E per di più, quello che
+ha detto è vero.
+In battaglia non ci si
+deve trattenere.<Delay 10><New>
+L'etichetta di un
+combattente impone
+di fare sempre un vero
+combattimento!"<Close><End of Block>
+<TextBlock 202 w:54 h:4>
+Shitan
+"Sembra ch'io fossi
+troppo preoccupato.<Delay 15>
+Comunque, ora riposiamoci.<New>
+Ricorda, per prima cosa
+devi vincere la Finale del
+Torneo.<Delay 15><New>
+Ed il Campione non è
+l'unico che devi battere!"<Close><End of Block>

@@ -1,0 +1,32 @@
+#### 1 ####
+Fei
+"This is the Tower of
+Babel...{wait:28}
+The path to heaven..."
+
+#### 2 ####
+Fei
+"Wah...{wait:1E}I can't even 
+see the top."{clear:28}
+
+#### 3 ####
+Fei
+"Why on earth was this 
+huge thing built here?"
+
+#### 4 ####
+Fei
+"Darn!
+The 'Ethos' seal!"
+
+#### 5 ####
+Fei
+"Damn, this sucks!
+If we can't break 
+this seal..."
+
+#### 6 ####
+Fei
+"Crap! What, what's this?{wait:28} 
+What is this tower...?"
+

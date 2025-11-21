@@ -1,0 +1,61 @@
+<TextBlock 1 w:30 h:2>
+Fei
+"Cos'è quello?"<Close><End of Block>
+<TextBlock 2 w:44 h:4>
+Shitan
+"Fei, è un attacco aereo
+di Aveh… o dovrei dire<Delay 5>
+di Geburah!<New>
+Hanno davvero intenzione
+di attaccare la Capitale
+Imperiale…"<Close><End of Block>
+<TextBlock 3 w:30 h:4>
+Fei
+"Cosa!?
+Che ne sarà dei
+civili?"<Close><End of Block>
+<TextBlock 4 w:46 h:4>
+Shitan
+"Il loro piano è di 
+attaccare direttamente
+la capitale, Nortune<Delay 10>…<New>
+<Delay 10>…<Delay 10> O mio dio!"<Close><End of Block>
+<TextBlock 5 w:52 h:4>
+Shitan
+"Quella nave si dirige…
+alla centrale energetica!<New>
+Oh no! Quella centrale
+contiene un reattore
+nucleare!<New>
+Quella nave deve essere
+il fulcro del loro attacco!
+Se lanciano qualcosa sul
+reattore…<New>
+… l'intera capitale
+sarà<Delay 10>…!"<Close><End of Block>
+<TextBlock 6 w:38 h:2>
+Fei
+"<Delay 15>…<Delay 15> spazzata via!"<Close><End of Block>
+<TextBlock 7 w:48 h:3>
+Fei
+"Se cambiamo la loro
+rotta, potrebbe aiutare?"<Close><End of Block>
+<TextBlock 8 w:34 h:2>
+Shitan
+"Sì, tuttavia…"<Close><End of Block>
+<TextBlock 9 w:40 h:4>
+Fei
+"Doc, devo tentare.
+Non possiamo…<Delay 15>
+voltarci e scappare."<Close><End of Block>
+<TextBlock 10 w:32 h:3>
+Shitan
+"<Delay 15>…<Delay 15> Va bene.
+Però stai attento."<Close><End of Block>
+<TextBlock 11 w:40 h:4>
+Shitan
+"Se quei civili non 
+si sbrigano a scappare…"<Close><End of Block>
+<TextBlock 12 w:10 h:2>
+Rico
+"…"<Close><Close><End of Block>

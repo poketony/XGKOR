@@ -1,0 +1,15 @@
+<TextBlock 1 w:32 h:3>
+…<Delay 40> Mi chiedo cosa
+lui stia facendo…<New>
+Aveh è così lontana…
+…<Delay 30>… sigh…<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+Non mi servirebbe nient'altro,
+se solo potessi vivere
+insieme alla mia famiglia.
+Soltanto noi tre…<New>
+Perché gli uomini non
+riescono a capirlo?<Delay 20>
+È una cosa così semplice…<Close><End of Block>
+<TextBlock 3 w:20 h:1>
+… sigh…<Space 1><Opcode 2 40><Close><End of Block>

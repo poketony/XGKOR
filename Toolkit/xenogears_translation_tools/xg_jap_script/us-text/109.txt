@@ -1,0 +1,135 @@
+#### 1 ####
+My kid says he wants
+to be a soldier when 
+he gets older.
+
+#### 2 ####
+Too bad.{wait:1E}
+By the time your child
+gets older the war will
+already be over.
+
+#### 3 ####
+Yep, looks like my 
+kid wants to be a soldier 
+when he grows up.
+
+#### 4 ####
+Oh no.{wait:1E}
+He'll change his 
+mind eventually.
+
+#### 5 ####
+Mom...{wait:32}
+Mom...{wait:32}
+Dad...{wait:32}
+They aren't coming back.
+
+#### 6 ####
+Woof {clear:1E}
+
+#### 7 ####
+Will this war ever end?
+    It will
+    No, it won't
+
+#### 8 ####
+Of course. 
+All wars must 
+end sometime.
+
+#### 9 ####
+Oh...
+He's not coming back.
+
+#### 10 ####
+Will my happiness ever end?
+    It will
+    No, it won't
+
+#### 11 ####
+No, I won't let it.
+
+#### 12 ####
+Oh...
+When you say that 
+I get nervous.
+
+#### 13 ####
+Finally I'm back 
+with my girl.
+
+#### 14 ####
+You say the dog talked?
+    Yes
+    No
+
+#### 15 ####
+Wow, that's amazing.
+
+#### 16 ####
+Ha ha ha
+You got me.{wait:1E}
+Yep,
+It was me talking.
+
+#### 17 ####
+The wind feels nice.
+
+#### 18 ####
+Why must people kill 
+each other? Even dogs and
+other animals don't do
+that to each other.
+
+#### 19 ####
+Until recently I was
+killing people on the
+battlefield...{wait:32}{enter}
+Is it right to have so
+much peace?
+
+#### 20 ####
+I'm in training. You've
+got to have a strong
+body to beat Kislev.
+
+#### 21 ####
+Just when I get in
+top shape, the war ends.
+Look.
+
+#### 22 ####
+I trained so hard...
+
+#### 23 ####
+Watching kids playing
+like this makes the the
+battlefield seem like a
+bad dream.
+
+#### 24 ####
+I'm taking care of my
+mom and brother until
+dad comes back!
+
+#### 25 ####
+Dad's back so now I can
+relax and have a lot of
+fun.
+
+#### 26 ####
+My dad's a...
+loo-ten-ant.
+He's really important.
+
+#### 27 ####
+Dad came back so 
+now I can go play.
+
+#### 28 ####
+Just up ahead is the
+castle. Usually you 
+can't get in, but
+festival time is special.
+

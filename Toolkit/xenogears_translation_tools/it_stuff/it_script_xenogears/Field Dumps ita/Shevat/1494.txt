@@ -1,0 +1,30 @@
+<TextBlock 1 w:46 h:3>
+Vuoi scendere?
+    Sì
+    No<Close><End of Block>
+<TextBlock 2 w:46 h:3>
+Vuoi scendere?
+    Sì
+    No<Close><End of Block>
+<TextBlock 3 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 4 w:38 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 5 w:44 h:4>
+Maria
+"Questa…<New>
+… è la mappa dei livelli
+dello strato più basso
+del passaggio d'emergenza.<New>
+Potrete usarla una volta
+che saremo scesi ai
+piani sottostanti."<Close><End of Block>
+<TextBlock 6 w:44 h:4>
+Questa è la mappa dei
+livelli più bassi del
+passaggio d'emergenza.<New>
+Si prega di utilizzarla
+dopo che si sarà scesi
+ai piani sottostanti.<Close><Close><End of Block>

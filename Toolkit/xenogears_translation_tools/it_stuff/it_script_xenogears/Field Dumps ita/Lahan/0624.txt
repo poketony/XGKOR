@@ -1,0 +1,282 @@
+<TextBlock 1 w:28 h:3>
+Fei
+"???<Delay 20>
+Che cos'è?"<Close><End of Block>
+<TextBlock 2 w:34 h:2>
+Fei
+"Un mare di sabbia…?"<Close><End of Block>
+<TextBlock 3 w:32 h:3>
+Fei
+"Mmmh…<Delay 20>
+Beh, non importa."<Close><End of Block>
+<TextBlock 4 w:34 h:3>
+Fei
+"Bene allora,
+grazie."<Close><End of Block>
+<TextBlock 5 w:48 h:5>
+Barista
+"Aaarh, Fei! Quella è
+la porta di servizio!<Delay 20>
+Gira ed entra dall'ingresso
+principale!"<Close><End of Block>
+<TextBlock 6 w:44 h:4>
+Barista
+"Ehi, sei tu, Fei.
+Come te la passi?<New>
+Non c'ho nessuna bevanda
+per ragazzini, sai!<Delay 20> 
+Ritorna quando sarai
+più grande, ok!!?"<Close><End of Block>
+<TextBlock 7 w:48 h:4>
+Barista
+"Un consiglio, Fei.
+Stai molto attento
+all'alcol e alle donne.<New>
+Dietro quelle dolci e
+stupende apparenze c'è
+una profonda, oscura palude.<New>
+Prima di capirlo, sarai in
+trappola, e perderai la
+tua libertà.<New>
+Sono alcuni tra i
+più terribili demoni
+di questo mondo."<Close><End of Block>
+<TextBlock 8 w:32 h:4>
+Barista
+"Ehi, Ellen!<Delay 20>
+Smetti di prendere per
+il culo il ragazzo!"<Close><End of Block>
+<TextBlock 9 w:44 h:5>
+Mmmh…!!<Delay 20>
+Ragazzo, sta' attento!
+Posso sentirlo…<New>
+C'è un buio e gelido
+vento che soffia dove
+stai andando.<New>
+Un vento che alimenta
+dolore e odio, invitando
+la morte, dalla quale
+non vi è salvezza…<New>
+Nessuno potrà sfuggire
+a questo vento! Ma tu,
+e solo tu, dovrai infine
+affrontare quel vento
+oscuro!<Close><End of Block>
+<TextBlock 10 w:38 h:3>
+… Scherzavo!<Delay 20>
+Ho sempre voluto
+provare a dirlo!<New>
+Ti ho spaventato?<Delay 10>
+Scusami tanto!
+Ahahaha…<Close><End of Block>
+<TextBlock 11 w:52 h:4>
+Ma, in realtà, queste
+profezie di digrazie
+tendono a realizzarsi
+una volta pronunciate.<New>
+Dovresti preparti…<New>
+… Ah ah! Scherzavo!<Delay 20>
+Anche questo è
+uno scherzo!<Delay 20>
+Non lasciarti turbare.<Close><End of Block>
+<TextBlock 12 w:40 h:4>
+Invece di credere a 
+quello che gli altri
+dicono, dovresti
+seguire la tua strada.<New>
+Dopotutto, il tuo
+destino sarà ciò
+che tu vorrai farne.<Close><End of Block>
+<TextBlock 13 w:48 h:4>
+Ma… vuoi riascoltare
+la mia profezia? Eh?<Delay 20>
+    Sì, dall'inizio!
+    No, va bene così!<Close><End of Block>
+<TextBlock 14 w:36 h:4>
+Oh, bene!
+Questo è lo spirito!
+Bene, ecco…<Delay 20>
+Sei pronto?<Close><End of Block>
+<TextBlock 15 w:38 h:3>
+Che noia.<Delay 20>
+Un tipo come te non
+sarà mai popolare.<Close><End of Block>
+<TextBlock 16 w:38 h:4>
+Il nonno fa sempre le cose
+più facili di quanto lo
+siano in realtà!<New>
+La verità è che
+attraversare la Foresta
+della Luna nera è proprio
+un'impresa…<New>
+Lì vivono tutti quei
+pericolosi animali e
+quelle spaventose
+lucertole mangia-fuoco…<New>
+Ti avverto, è meglio
+se non ti avvicini a
+quel posto!<Close><End of Block>
+<TextBlock 17 w:54 h:5>
+A sud di qui c'è la
+'Foresta della Luna
+Nera'. Se riuscirai
+ad attraversarla,
+arriverai ad Aveh,
+la grande terra del fuoco!<New>
+Non dovrei sprecare il mio
+tempo in questo piccolo
+villaggio di campagna.
+Già, dovrei andare ad
+Aveh e lavorare lì…!<New>
+Donne stupende e ottimi
+liquori…<Delay 15>
+E, se lavorerò abbastanza,
+sarò ricco in un batter
+d'occhio!<New>
+Eheheh… Non sarebbe
+grandioso!?<Close><End of Block>
+<TextBlock 18 w:44 h:4>
+Non far caso a quell'idiota!
+Dice sempre queste cretinate.<New>
+In realtà, attraversare la
+Foresta della Luna Nera è un
+compito difficile…<New>
+Tantissimi animali pericolosi
+e spaventose lucertole
+mangia-fuoco abitano lì!<New>
+Sarebbe meglio per te
+stare lontano da
+quel posto!<Close><End of Block>
+<TextBlock 19 w:52 h:5>
+Se attraverserai la
+'Foresta della Luna Nera',
+a sud di qui, troverai il
+regno del fuoco, 'Aveh'.<New>
+Invece di sprecare il mio
+tempo in questo piccolo
+villaggio di montagna, dovrei
+andare a divertirmi ad Aveh!<New>
+Ragazze favolose, liquori
+raffinati…<Delay 15>
+Eh, un gentiluomo come me
+è destinato ad attirare
+ragazze ovunque vada!<New>
+Ahw-Ahw-Ahw…
+Non sarebbe stupendo!?<Close><End of Block>
+<TextBlock 20 w:48 h:4>
+Hai sentito le
+ultime dicerie!?<New>
+Si dice in giro che in
+ogni parte del deserto
+meridionale di Aveh ci
+sia un tesoro sottoterra!<New>
+Ci sono centinaia di persone
+che stanno cercando di
+diventare ricche scavando
+dappertutto!<New>
+Un solo colpo potrebbe
+farti incredibilmente ricco.<Close><End of Block>
+<TextBlock 21 w:42 h:3>
+Ma, d'altra parte, non si può
+mai dire quanta sia la verità…<New>
+Nella vita, se sembra troppo
+bello per essere vero, di
+norma lo è. Bah.<Close><End of Block>
+<TextBlock 22 w:48 h:4>
+C'hai qualche problema con
+me<Delay 5>, hic,<Delay 5> che bevo a
+mezzogiorno?<Delay 20> Come posso non
+stare a bere<Delay 5>… Merda…<Close><End of Block>
+<TextBlock 23 w:44 h:6>
+Nessuno sa… Negli abissi…<Delay 10><Space 1>
+del mare…<Delay 15> una lacrima…
+goccia…<Delay 15> versata da…<Delay 15>
+una sirena…<New>
+Non è un sogno…
+Voi, idioti…<Delay 20> Hic…<Close><End of Block>
+<TextBlock 24 w:64 h:4>
+Qualche problema, ragazzo?<Delay 20>
+    No… Co… continua pure!!<Space 1>
+    Sì… odio gli ubriaconi!
+    Bere non risolverà nulla!<Close><End of Block>
+<TextBlock 25 w:48 h:3>
+Ah Ah Ah…
+Mi piaci, ragazzo!<Delay 20>
+Ora vattene e lasciami
+da solo.<Close><End of Block>
+<TextBlock 26 w:50 h:4>
+Ah! Il sentimento
+è reciproco…<New>
+Odio gli impiccioni!
+Visto che ci odiamo a
+vicenda, perché non mi
+lasci solo allora, eh?<Close><End of Block>
+<TextBlock 27 w:46 h:3>
+Zitto! 
+Cosa dovresti sapere!?<New>
+Non sai come mi sento.<Delay 20>
+E non vorrei che tu lo
+sapessi.<Delay 20> Merda…<Close><End of Block>
+<TextBlock 28 w:26 h:2>
+No…<Delay 15>
+Aspetta, ragazzo!<Close><End of Block>
+<TextBlock 29 w:38 h:2>
+Ti darò questa.<Delay 20>
+Prendila.<Close><End of Block>
+<TextBlock 30 w:46 h:3>
+Non ne ho bisogno…<Delay 20>
+Non preoccuparti.
+Prendila e basta.<Close><End of Block>
+<TextBlock 31 w:32 h:6>
+Nessuno sa…<Delay 20> Negli abissi…<Delay 15><Space 1>
+del mare…<Delay 15> una lacrima…
+goccia…<Delay 25> versata da…<Delay 15>
+una sirena…<Close><End of Block>
+<TextBlock 32 w:52 h:1>
+     Ricevi una
+'Lacrima di Sirena'!<Close><End of Block>
+<TextBlock 33 w:44 h:4>
+Accidenti, quell'ubriacone
+aveva la pietra più bella!<Delay 20>
+Mmmh… Mi chiedo chi fosse…?<Space 1><Close><End of Block>
+<TextBlock 34 w:48 h:4>
+Benvenuto, Fei. Hai voglia
+di divertirti un po'?<Delay 20>
+Offro il miglior servizio
+di Lahan, sai!?<Close><End of Block>
+<TextBlock 35 w:48 h:4>
+Ehi! Benvenuto, Fei… Hai
+voglia di divertirti un po'?
+Offro il miglior servizio
+di Lahan, sai!?<Close><End of Block>
+<TextBlock 36 w:38 h:3>
+Ma sì, lo so!<Delay 20>
+È solo uno scherzo…
+stupido!<Close><End of Block>
+<TextBlock 37 w:48 h:3>
+Diamine, ha un ottimo
+udito!<Delay 20> Comunque…<New>
+(Forse la prossima volta,
+ok, Fei!?<Delay 20> Ti aspetterò…<Delay 14>
+Rowrrr!)<Close><End of Block>
+<TextBlock 38 w:48 h:3>
+(Forse la prossima volta,
+ok, Fei!?<Delay 20> Ti aspetterò…<Delay 14>
+Rowrrr!)<Close><End of Block>
+<TextBlock 39 w:44 h:4>
+Ecco, ci risiamo…<Delay 20>
+Come potrebbe esserci
+una sirena nel mezzo
+del mare di sabbia?<Close><End of Block>
+<TextBlock 40 w:50 h:4>
+Cos'è questo, Fei?
+Non hai mai visto
+il mare di sabbia?<New>
+Questo è il mare
+di sabbia…
+È un immenso, turbinoso
+e infinito deserto.<New>
+Questo mare di sabbia 
+copre più della metà del mondo.<Wait>
+Sono sorpreso che tu non ne
+avessi mai sentito parlare.<Close><Close><End of Block>

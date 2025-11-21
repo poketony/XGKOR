@@ -1,0 +1,28 @@
+<TextBlock 1 w:52 h:6>
+Ahh… capisco, così tu
+sei il figlio di Kahn.<Delay 20>
+Hai già incontrato la
+Regina Zefiro?<New>
+Lei ancora ricorda la
+tragedia di Nisan durante
+l'ultima grande guerra,
+500 anni fa.<Delay 20> Anche se
+non è stata colpa sua…<New>
+Suppongo che non perdoni
+a se stessa l'aver tradito
+ed abbandonato i suoi
+compagni, seppure non
+sapeva che cosa stesse
+accadendo…<Close><End of Block>
+<TextBlock 2 w:50 h:6>
+Oh, forse ho detto troppo.
+Ma cosa ne so io di
+queste cose?<Delay 20> Comunque,
+cerca di fare un buon
+lavoro per sconfiggere
+Solaris, giovanotto!<Close><End of Block>
+<TextBlock 3 w:48 h:3>
+Cerca di fare un buon
+lavoro per sconfiggere
+Solaris.<Delay 20>
+Conto su di te.<Close><Close><End of Block>

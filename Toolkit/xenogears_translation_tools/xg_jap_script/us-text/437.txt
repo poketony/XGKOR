@@ -1,0 +1,133 @@
+#### 1 ####
+Uaaaaaaaaaahhh!!{clear:1E}
+
+#### 2 ####
+N, noooo!!{wait:0A}
+Can't handle it anymore!!
+
+#### 3 ####
+Something's wrong with
+all of you!{wait:0A} Working
+like machines day after day...{enter}
+You have no will! {wait:0A}
+This isn't living!!{wait:0A}
+This is...{wait:0A} is...
+
+#### 4 ####
+Stop it!{wait:0A}
+Let go!
+
+#### 5 ####
+{fast:FF} Return to 14-1-6?
+    Yes
+    No
+
+#### 6 ####
+Block under maintenance...
+
+#### 7 ####
+{fast:FF} Return to 13-6-1?
+    Yes
+    No
+
+#### 8 ####
+{fast:FF} Return to 12-3-6?
+    Yes
+    No
+
+#### 9 ####
+{fast:FF} Return to 11-1-1?
+    Yes
+    No
+
+#### 10 ####
+{fast:FF} Return to 10-4-1?
+    Yes
+    No
+
+#### 11 ####
+What a fool... {wait:0A}
+If he hadn't bucked the
+system, he coulda lived
+peacefully.
+
+#### 12 ####
+How can you not be happy
+with all this?{wait:0A}
+Do as you're told
+and get promoted.{enter}
+What is there to be
+discontented about?
+
+#### 13 ####
+All our fates are tied
+together... {wait:0A} It's
+malcontents like him that
+get us all punished.{enter}
+It kills me to think that
+all our work to raise our
+block's rank is ruined.
+
+#### 14 ####
+I want to move up a rank
+to 2nd Class citizen.{wait:0A}
+Then I can finally live with
+the 2nd Class.
+
+#### 15 ####
+K block...{wait:0A}
+They're all bein' 
+'rearranged'.{enter}
+Poor guys...and they
+worked so hard too.
+
+#### 16 ####
+Even if we think so,
+that doesn't mean the
+Administration does...
+
+#### 17 ####
+It's best to follow the
+Administration. It could
+affect your rank, y'know.
+
+#### 18 ####
+A lot of people have
+tried to change their IDs
+and escape lately...{enter}
+They usually get caught
+and 'rearranged', or 
+re-educated.{enter}
+Don't you even think
+of trying to escape.
+
+#### 19 ####
+This is the dust chute. {wait:0A}
+3rd Class citizens have
+nothing to do with this. {wait:0A}
+Go back where you came from.
+
+#### 20 ####
+(...hey...{wait:0A}
+It's me...me. {wait:0A}
+Ready to go?
+
+#### 21 ####
+You've got no business at
+the watchtower. {wait:0A}Beat it.
+
+#### 22 ####
+What are you doing!?{wait:0A}
+You were ordered to return!!
+
+#### 23 ####
+Return to your 'shell'
+immediately!
+
+#### 24 ####
+Return to your 'shell'
+immediately!
+
+#### 25 ####
+
+

@@ -1,0 +1,108 @@
+#### 1 ####
+Fei
+"It's alright, Dan.
+...Enough already.{wait:14}
+I understand.{enter}
+It is my fault.{wait:14}
+I'm sorry I caused
+you such pain..."
+
+#### 2 ####
+Fei
+"I'm just glad that I could
+finally make peace with
+you.{wait:14} Take care, kiddo."
+
+#### 3 ####
+Fei
+"Midori! I had better give
+this back to you...{wait:14} It's 
+your precious ring, right?{enter}
+Be a good little girl,
+and listen to your mother,
+Yui, alright, Midori!{enter}
+Oh and...{wait:14}
+look after Dan
+for me, OK!?"
+
+#### 4 ####
+Fei
+"Yeah...{wait:14}
+I guess you're right!"
+
+#### 5 ####
+Fei
+"Okay...{wait:14}
+Well, I'm going now.
+So see you later!"
+
+#### 6 ####
+Dan
+"..."
+
+#### 7 ####
+Dan
+"In the prison, when I saw
+you change into a monster,
+I understood everything.{enter}
+Living inside of you, Fei,
+there is a monster that's
+not you... He's the bad
+one... He's to blame..."
+
+#### 8 ####
+Dan
+"So...{wait:14}to forgive you, or
+not to forgive you... Well
+...that's not the problem!{enter}
+It's not like it's gonna
+turn back things the way
+they were...{wait:14}but...{wait:14}
+errh, it's just...{enter}
+I don't know how to say it
+properly, but{wait:14} I'm sorry...{wait:14}
+I...I, errh...{wait:14}
+I...!"
+
+#### 9 ####
+Dan
+"..."
+
+#### 10 ####
+Midori
+"Be careful, Fei."
+
+#### 11 ####
+Midori
+"Fei...{wait:14}
+I was scared a little,
+but not really scared.{enter}
+Cause I knew that inside
+of that monster, you were
+doing all you could to
+fight it, Fei. I knew it."
+
+#### 12 ####
+Midori
+"Yep, we, {wait:14}
+are all fine.{enter}
+Fei, you be
+careful too.{enter}
+I'm sure your
+voice will reach
+her too, Fei..."
+
+#### 13 ####
+Midori
+"Here...{wait:14}
+I got this
+from Chu-chu.{enter}
+Fei, you can 
+have it.{wait:14}
+I'll trade you
+for my ring."
+
+#### 14 ####
+  Received a
+Hercules Ring!
+

@@ -1,0 +1,130 @@
+#### 1 ####
+Sorry, he's gone a little
+senile...{wait:3C} You see, our son
+'went on holidays' to get
+out of joining the army.{enter}
+But we haven't heard from
+him in 10 years...
+
+#### 2 ####
+Things have picked up
+around here all of a
+sudden. I feel young
+again.
+
+#### 3 ####
+...The neighbor's kids
+all came back. {wait:3C}
+But not my son...
+
+#### 4 ####
+!{clear:1E}
+
+#### 5 ####
+See, my son came back,
+just like I said.
+
+#### 6 ####
+My son's fighting for
+the country. He won't be
+back soon...{wait:3C}
+It must be a tough job.{enter}
+Yep, I'll bet he's a
+general by now.
+
+#### 7 ####
+!{clear:3C}
+
+#### 8 ####
+...hmph...{wait:1E}
+I thought my son came
+back.
+
+#### 9 ####
+You...
+
+#### 10 ####
+!{clear:1E}
+
+#### 11 ####
+While I was gone mom 
+and pop got old...{wait:32}
+They have to take it 
+easy now.
+
+#### 12 ####
+I'm back.
+
+#### 13 ####
+Pop, I'm back.
+
+#### 14 ####
+Ohh...{wait:1E}
+You're back. {wait:32}
+Welcome home.
+
+#### 15 ####
+Mom, I'm back.
+
+#### 16 ####
+Is it really you? {wait:32}
+You never wrote us.
+What were you doing? 
+
+#### 17 ####
+Sorry...{wait:3C}
+I was in Kislev. 
+I sent letters but...{enter}
+I guess they never got 
+here.
+
+#### 18 ####
+Oh, I see. 
+It must have been rough.
+
+#### 19 ####
+There's someone I want
+you two to meet.
+
+#### 20 ####
+This is my wife.
+
+#### 21 ####
+Nice to meet you. {wait:1E}
+Father, mother.
+
+#### 22 ####
+My son...{clear:32}
+
+#### 23 ####
+And daughter.
+
+#### 24 ####
+Hello gran'ma and 
+gran'pa.
+
+#### 25 ####
+Hello...
+
+#### 26 ####
+Oh...
+Hello there.
+
+#### 27 ####
+Welcome back.
+I'm so glad you made
+it back.
+
+#### 28 ####
+Our house in Kislev
+burned down so we thought
+we'd live here.{enter}
+I'm so glad the war
+is over.
+
+#### 29 ####
+A new house...
+
+#### 30 ####
+It's a new house...
+

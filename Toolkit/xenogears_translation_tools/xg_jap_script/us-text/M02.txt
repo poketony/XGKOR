@@ -1,0 +1,965 @@
+#### 1 ####
+
+
+
+#### 2 ####
+Restores HP (50)
+
+#### 3 ####
+Restores HP (150)
+
+#### 4 ####
+Restores HP (500)
+
+#### 5 ####
+Restores HP to FULL
+
+#### 6 ####
+Restores party's HP to FULL
+
+#### 7 ####
+Restores EP (10)
+
+#### 8 ####
+Restores EP (20)
+
+#### 9 ####
+Restores EP (30)
+
+#### 10 ####
+Restores EP to FULL
+
+#### 11 ####
+Revives from KO status
+
+#### 12 ####
+Revives KO/restores FULL HP
+
+#### 13 ####
+Removes PHY status effects
+
+#### 14 ####
+Removes MNT status effects
+
+#### 15 ####
+Removes all status effects
+
+#### 16 ####
+Wind UP/Earth DOWN
+
+#### 17 ####
+Earth UP/Wind DOWN
+
+#### 18 ####
+Fire UP/Water DOWN
+
+#### 19 ####
+Water UP/Fire DOWN
+
+#### 20 ####
+Increases Defense
+
+#### 21 ####
+Increases Speed
+
+#### 22 ####
+Enables you to Play Dead
+
+#### 23 ####
+Cancels Play Dead
+
+#### 24 ####
+Blocks PHY status effects
+
+#### 25 ####
+Blocks MNT status effects
+
+#### 26 ####
+Stop PHY support effects
+
+#### 27 ####
+Stop MNT support effects
+
+#### 28 ####
+Stop equip. support effects
+
+#### 29 ####
+Add Wind element to attacks
+
+#### 30 ####
+Add Earth element to attacks
+
+#### 31 ####
+Add Fire element to attacks
+
+#### 32 ####
+Add Water element to attacks
+
+#### 33 ####
+Weapon power up 50% (Battle)
+
+#### 34 ####
+Combatant use only
+
+#### 35 ####
+Combatant use only
+
+#### 36 ####
+
+
+
+#### 37 ####
+
+
+
+#### 38 ####
+
+
+
+#### 39 ####
+
+
+
+#### 40 ####
+
+
+
+#### 41 ####
+
+
+
+#### 42 ####
+
+
+
+#### 43 ####
+
+
+
+#### 44 ####
+
+
+
+#### 45 ####
+
+
+
+#### 46 ####
+
+
+
+#### 47 ####
+
+
+
+#### 48 ####
+
+
+
+#### 49 ####
+
+
+
+#### 50 ####
+Restores HP and EP to FULL
+
+#### 51 ####
+Fully restores party's HP&EP
+
+#### 52 ####
+Increases Attack value + 1
+
+#### 53 ####
+Increases Defense value + 1
+
+#### 54 ####
+Increases Ether value + 1
+
+#### 55 ####
+Increases EthDef value + 1
+
+#### 56 ####
+Increases Maximum HP + 20
+
+#### 57 ####
+Increases Maximum EP + 5
+
+#### 58 ####
+Restores HP (50)  Non-battle
+
+#### 59 ####
+Restores HP (150) Non-battle
+
+#### 60 ####
+Restores HP (500) Non-battle
+
+#### 61 ####
+Should sell for a high price
+
+#### 62 ####
+Should sell for a high price
+
+#### 63 ####
+Should sell for a high price
+
+#### 64 ####
+Restores EP (10) Non-battle
+
+#### 65 ####
+Monkey's favorite
+
+#### 66 ####
+Goes good with milk
+
+#### 67 ####
+Goes good with fish
+
+#### 68 ####
+Super-smelly drink
+
+#### 69 ####
+Nisan church water
+
+#### 70 ####
+Aveh tap water
+
+#### 71 ####
+BB's and gas sold separately
+
+#### 72 ####
+1/6 scale model, 24 pieces
+
+#### 73 ####
+Makes you lose some weight
+
+#### 74 ####
+Makes you lose lots'a weight
+
+#### 75 ####
+Makes you gain some weight
+
+#### 76 ####
+Makes you gain lots'a weight
+
+#### 77 ####
+Rock-Paper-Scissors King
+
+#### 78 ####
+Hide and Seek King
+
+#### 79 ####
+Tag King
+
+#### 80 ####
+It shines like a jewel...
+
+#### 81 ####
+Shows a typical Adamski type
+
+#### 82 ####
+Nortune Gear-dock key
+
+#### 83 ####
+Nortune sewer key
+
+#### 84 ####
+Has ornately carved surface
+
+#### 85 ####
+'The Adventures of Big Joe'
+
+#### 86 ####
+Not very comical anymore
+
+#### 87 ####
+Helpful Hellfire Teachings
+
+#### 88 ####
+It wiggles and squiggles
+
+#### 89 ####
+A nutritious-looking egg
+
+#### 90 ####
+Breeder's choice
+
+#### 91 ####
+Should sell for a high price
+
+#### 92 ####
+Tough thread
+
+#### 93 ####
+A Music Disk for a Jukebox
+
+#### 94 ####
+Cuddly doll
+
+#### 95 ####
+No cameras allowed in arena
+
+#### 96 ####
+Old wooden Chu-chu statue
+
+#### 97 ####
+Rusty key
+
+#### 98 ####
+Map of Nortune's sewers
+
+#### 99 ####
+Map of Merkava
+
+#### 100 ####
+Map of Shevat's hangar
+
+#### 101 ####
+Looks useless
+
+#### 102 ####
+A white-colored stone
+
+#### 103 ####
+A red-colored stone
+
+#### 104 ####
+A black-colored stone
+
+#### 105 ####
+Should sell for a high price
+
+#### 106 ####
+Should sell for a high price
+
+#### 107 ####
+Solaris Base keycard
+
+#### 108 ####
+Solaris 3rd class ID
+
+#### 109 ####
+Errh, yuck! Cooties!
+
+#### 110 ####
+
+
+
+#### 111 ####
+
+
+
+#### 112 ####
+
+
+
+#### 113 ####
+
+
+
+#### 114 ####
+
+
+
+#### 115 ####
+
+
+
+#### 116 ####
+
+
+
+#### 117 ####
+
+
+
+#### 118 ####
+
+
+
+#### 119 ####
+
+
+
+#### 120 ####
+
+
+
+#### 121 ####
+
+
+
+#### 122 ####
+
+
+
+#### 123 ####
+
+
+
+#### 124 ####
+
+
+
+#### 125 ####
+
+
+
+#### 126 ####
+
+
+
+#### 127 ####
+
+
+
+#### 128 ####
+
+
+
+#### 129 ####
+
+
+
+#### 130 ####
+
+
+
+#### 131 ####
+
+
+
+#### 132 ####
+
+
+
+#### 133 ####
+
+
+
+#### 134 ####
+
+
+
+#### 135 ####
+
+
+
+#### 136 ####
+
+
+
+#### 137 ####
+
+
+
+#### 138 ####
+
+
+
+#### 139 ####
+
+
+
+#### 140 ####
+
+
+
+#### 141 ####
+
+
+
+#### 142 ####
+
+
+
+#### 143 ####
+
+
+
+#### 144 ####
+
+
+
+#### 145 ####
+
+
+
+#### 146 ####
+
+
+
+#### 147 ####
+
+
+
+#### 148 ####
+
+
+
+#### 149 ####
+
+
+
+#### 150 ####
+
+
+
+#### 151 ####
+
+
+
+#### 152 ####
+
+
+
+#### 153 ####
+
+
+
+#### 154 ####
+
+
+
+#### 155 ####
+
+
+
+#### 156 ####
+
+
+
+#### 157 ####
+
+
+
+#### 158 ####
+
+
+
+#### 159 ####
+
+
+
+#### 160 ####
+
+
+
+#### 161 ####
+
+
+
+#### 162 ####
+
+
+
+#### 163 ####
+
+
+
+#### 164 ####
+
+
+
+#### 165 ####
+
+
+
+#### 166 ####
+
+
+
+#### 167 ####
+
+
+
+#### 168 ####
+
+
+
+#### 169 ####
+
+
+
+#### 170 ####
+
+
+
+#### 171 ####
+
+
+
+#### 172 ####
+
+
+
+#### 173 ####
+
+
+
+#### 174 ####
+
+
+
+#### 175 ####
+
+
+
+#### 176 ####
+
+
+
+#### 177 ####
+
+
+
+#### 178 ####
+
+
+
+#### 179 ####
+
+
+
+#### 180 ####
+
+
+
+#### 181 ####
+
+
+
+#### 182 ####
+
+
+
+#### 183 ####
+
+
+
+#### 184 ####
+
+
+
+#### 185 ####
+
+
+
+#### 186 ####
+
+
+
+#### 187 ####
+
+
+
+#### 188 ####
+
+
+
+#### 189 ####
+
+
+
+#### 190 ####
+
+
+
+#### 191 ####
+
+
+
+#### 192 ####
+
+
+
+#### 193 ####
+
+
+
+#### 194 ####
+
+
+
+#### 195 ####
+
+
+
+#### 196 ####
+
+
+
+#### 197 ####
+
+
+
+#### 198 ####
+
+
+
+#### 199 ####
+
+
+
+#### 200 ####
+
+
+
+#### 201 ####
+
+
+
+#### 202 ####
+
+
+
+#### 203 ####
+
+
+
+#### 204 ####
+
+
+
+#### 205 ####
+
+
+
+#### 206 ####
+
+
+
+#### 207 ####
+
+
+
+#### 208 ####
+
+
+
+#### 209 ####
+
+
+
+#### 210 ####
+
+
+
+#### 211 ####
+
+
+
+#### 212 ####
+
+
+
+#### 213 ####
+
+
+
+#### 214 ####
+
+
+
+#### 215 ####
+
+
+
+#### 216 ####
+
+
+
+#### 217 ####
+
+
+
+#### 218 ####
+
+
+
+#### 219 ####
+
+
+
+#### 220 ####
+
+
+
+#### 221 ####
+
+
+
+#### 222 ####
+
+
+
+#### 223 ####
+
+
+
+#### 224 ####
+
+
+
+#### 225 ####
+
+
+
+#### 226 ####
+
+
+
+#### 227 ####
+
+
+
+#### 228 ####
+
+
+
+#### 229 ####
+
+
+
+#### 230 ####
+
+
+
+#### 231 ####
+
+
+
+#### 232 ####
+
+
+
+#### 233 ####
+
+
+
+#### 234 ####
+
+
+
+#### 235 ####
+
+
+
+#### 236 ####
+
+
+
+#### 237 ####
+
+
+
+#### 238 ####
+
+
+
+#### 239 ####
+
+
+
+#### 240 ####
+
+
+
+#### 241 ####
+
+
+
+#### 242 ####
+
+
+
+#### 243 ####
+
+
+
+#### 244 ####
+
+
+
+#### 245 ####
+
+
+
+#### 246 ####
+
+
+
+#### 247 ####
+
+
+
+#### 248 ####
+
+
+
+#### 249 ####
+
+
+
+#### 250 ####
+
+
+
+#### 251 ####
+
+
+
+#### 252 ####
+
+
+
+#### 253 ####
+
+
+
+#### 254 ####
+
+
+
+#### 255 ####
+
+
+
+#### 256 ####
+
+
+
+#### 257 ####
+
+
+
+#### 258 ####
+
+
+
+#### 259 ####
+
+
+
+#### 260 ####
+
+
+
+#### 261 ####
+
+
+
+#### 262 ####
+
+
+
+#### 263 ####
+
+
+
+#### 264 ####
+
+
+
+#### 265 ####
+
+

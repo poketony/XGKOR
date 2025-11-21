@@ -1,0 +1,196 @@
+<TextBlock 1 w:34 h:4>
+Fei
+"…?<Delay 60>
+C… cos'era quella
+cosa di prima…?"<Close><End of Block>
+<TextBlock 2 w:36 h:1>
+Oh, sei tu, Fei!!<Close><End of Block>
+<TextBlock 3 w:62 h:4>
+Il bordo della rupe è franato
+per la forte pioggia che
+c'è stata recentemente.<Delay 30>
+Tu sei a posto, Fei, puoi fare
+un salto lungo per arrivare 
+dall'altra parte…<New>
+Ma io ho troppa paura…<Delay 30>
+    Ehi, cos'è un salto lungo?
+    È facile, guardami!!<Close><End of Block>
+<TextBlock 4 w:50 h:5>
+Come hai potuto scordarlo…?<Delay 30>
+Un salto lungo si fa
+premendo il pulsante <Tri>
+mentre corri col pulsante
+<Circle> premuto.<New>
+Puoi saltare molto di più
+che con un salto normale.<Delay 30>
+… Fei, tu non hai mai
+nessun problema.<Delay 30>
+Non è giusto.<Close><End of Block>
+<TextBlock 5 w:32 h:2>
+Salutami il
+Dottore!<Close><End of Block>
+<TextBlock 6 w:54 h:3>
+Che mito, Fei…!
+Campione del 12esimo Torneo di
+Salto del Villaggio di Lahan!!<Close><End of Block>
+<TextBlock 7 w:38 h:1>
+Hai trovato un
+nido d'uccello!!<Close><End of Block>
+<TextBlock 8 w:42 h:3>
+Prendi l'uovo?
+    Certo!!
+    No, è troppo crudele!<Close><End of Block>
+<TextBlock 9 w:42 h:2>
+<Opcode 1 255>Ricevuto un nutriente
+  'uovo d'uccello'!!<Opcode 2 90><Close><End of Block>
+<TextBlock 10 w:48 h:4>
+<Opcode 1 255>Piiii, Piiii!!!
+(Ridammi l'uovo!!)
+    OK, te lo ridò!!
+    No, mai!!<Close><End of Block>
+<TextBlock 11 w:28 h:4>
+Fei
+"Uh! Scusami,
+te lo ridò!"<Close><End of Block>
+<TextBlock 12 w:50 h:2>
+Piii, piii, piii! (Bene!
+Hai seguito il suggerimento!)<Close><End of Block>
+<TextBlock 13 w:14 h:1>
+Mai!<Close><End of Block>
+<TextBlock 14 w:36 h:1>
+<Opcode 1 255>Catturato un 'ragno'!<Opcode 2 60><Close><End of Block>
+<TextBlock 15 w:56 h:4>
+<Opcode 1 255><Up> Di qua: Sentiero per passeggio.<Space 1>
+  Attenti ai precipizi!!
+<Left> Di là: casa del Dottore.
+  … Proprio dopo il ponte.<Close><End of Block>
+<TextBlock 16 w:56 h:4>
+<Opcode 1 255><Up> Di qua: Sentiero per passeggiare.<Space 1>
+  Attenti ai precipizi!!
+<Left> Di là: casa del Dottore.
+  … Proprio dopo il ponte.<Close><End of Block>
+<TextBlock 17 w:56 h:4>
+<Opcode 1 255><Up> Di qua: Sentiero per passeggiare.<Space 1>
+  Attenti ai precipizi!!
+<Down> Di là: casa del Dottore.
+  … Proprio dopo il ponte.<Close><End of Block>
+<TextBlock 18 w:56 h:4>
+<Opcode 1 255><Left> Di qua: Sentiero per passeggiare.<Space 1>
+  Attenti ai precipizi!!
+<Right> Di là: casa del Dottore.
+  … Proprio dopo il ponte.<Close><End of Block>
+<TextBlock 19 w:56 h:4>
+<Opcode 1 255><Left> Di qua: Sentiero per passeggiare.<Space 1>
+  Attenti ai precipizi!!
+<Right> Di là: casa del Dottore.
+  … Proprio dopo il ponte.<Close><End of Block>
+<TextBlock 20 w:56 h:4>
+<Opcode 1 255><Down> Di qua: Sentiero per passeggiare.<Space 1>
+  Attenti ai precipizi!!
+<Up> Di là: casa del Dottore.
+  … Proprio dopo il ponte.<Close><End of Block>
+<TextBlock 21 w:56 h:4>
+<Opcode 1 255><Right> Di qua: Sentiero per passeggiare.<Space 1>
+  Attenti ai precipizi!!
+<Up> Di là: casa del Dottore.
+  … Proprio dopo il ponte.<Close><End of Block>
+<TextBlock 22 w:56 h:4>
+<Opcode 1 255><Right> Di qua: Sentiero
+  per passeggiare.
+  Attenti ai precipizi!!
+<Left> Di là: casa del Dottore.<Space 1>
+  … Proprio dopo il ponte.<Close><End of Block>
+<TextBlock 23 w:20 h:3>
+Fei
+"Bene!
+Andiamo!"<Close><End of Block>
+<TextBlock 24 w:45 h:2>
+<Opcode 1 255>Di qua per la casa del
+Dottor Shitan Uzuki! <Up><Space 1><Close><End of Block>
+<TextBlock 25 w:45 h:2>
+<Opcode 1 255>Di qua per la casa del
+Dottor Shitan Uzuki! <Left><Space 1><Close><End of Block>
+<TextBlock 26 w:45 h:2>
+<Opcode 1 255>Di qua per la casa del
+Dottor Shitan Uzuki! <Left><Space 1><Close><End of Block>
+<TextBlock 27 w:45 h:2>
+<Opcode 1 255>Di qua per la casa del
+Dottor Shitan Uzuki! <Left><Space 1><Close><End of Block>
+<TextBlock 28 w:45 h:2>
+<Opcode 1 255>Di qua per la casa del
+Dottor Shitan Uzuki! <Down><Space 1><Close><End of Block>
+<TextBlock 29 w:45 h:2>
+<Opcode 1 255>Di qua per la casa del
+Dottor Shitan Uzuki! <Down><Space 1><Close><End of Block>
+<TextBlock 30 w:45 h:2>
+<Opcode 1 255>Di qua per la casa del
+Dottor Shitan Uzuki! <Right><Space 1><Close><End of Block>
+<TextBlock 31 w:45 h:2>
+<Opcode 1 255>Di qua per la casa del
+Dottor Shitan Uzuki! <Right><Space 1><Close><End of Block>
+<TextBlock 32 w:4 h:1>
+!?<Opcode 2 15><Close><End of Block>
+<TextBlock 33 w:34 h:2>
+Fei
+"Cos'è…?"<Opcode 2 30><Close><End of Block>
+<TextBlock 34 w:24 h:2>
+Fei
+"Giganti…?"<Close><End of Block>
+<TextBlock 35 w:10 h:1>
+Fei!!<Opcode 2 30><Close><End of Block>
+<TextBlock 36 w:40 h:4>
+Fei
+"Doc! Alcuni oggetti
+volanti sono andati
+verso Lahan!!"<Close><End of Block>
+<TextBlock 37 w:52 h:4>
+Shitan
+"Anche tu li hai visti!<Delay 10><New>
+A giudicare dalle loro
+ombre, sembrano essere
+un gruppo di Gear…<New>
+… provenienti dal nostro
+paese confinante, Kislev."<Close><End of Block>
+<TextBlock 38 w:28 h:3>
+Fei
+"Quelli erano…
+Gear…?"<Close><End of Block>
+<TextBlock 39 w:44 h:4>
+Shitan
+"!!<Delay 10>
+Oh no! Sono diretti
+proprio verso Lahan!"<Close><End of Block>
+<TextBlock 40 w:44 h:2>
+Fei
+"Quelli che ho
+appena visto?"<Close><End of Block>
+<TextBlock 41 w:40 h:2>
+Shitan
+"Facciamo presto!"<Close><End of Block>
+<TextBlock 42 w:16 h:2>
+Fei
+"Giusto!"<Close><End of Block>
+<TextBlock 43 w:42 h:4>
+Fei
+"La casa di Doc Uzuki
+è oltre il ponte, e
+poi verso nord."<Close><End of Block>
+<TextBlock 44 w:42 h:4>
+Fei
+"La casa di Doc Uzuki
+è oltre il ponte, e
+poi verso nord."<Close><End of Block>
+<TextBlock 45 w:3 h:1>
+ <Close><End of Block>
+<TextBlock 46 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 47 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 48 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 49 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><Close><End of Block>

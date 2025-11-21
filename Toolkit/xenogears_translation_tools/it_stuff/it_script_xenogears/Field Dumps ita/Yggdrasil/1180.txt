@@ -1,0 +1,436 @@
+<TextBlock 1 w:44 h:4>
+In qualunque caso…<Delay 32>
+Non lasceremo mai
+che quello Shakhan
+lo prenda…<Close><End of Block>
+<TextBlock 2 w:14 h:1>
+Artigliere!<Close><End of Block>
+<TextBlock 3 w:12 h:1>
+Vance!<Close><End of Block>
+<TextBlock 4 w:22 h:1>
+Marseilles!<Close><End of Block>
+<TextBlock 5 w:50 h:3>
+Le unità di Maitreya sono
+pronte negli espulsori.<New>
+Potranno lanciarli un
+minuto dopo la riemersione!<Close><End of Block>
+<TextBlock 6 w:24 h:2>
+Bene!
+Facciamolo!<Close><End of Block>
+<TextBlock 7 w:32 h:1>
+BattCon livello 1!<Close><End of Block>
+<TextBlock 8 w:44 h:1>
+Tutto pronto per lo
+scontro in superficie!<Opcode 2 32><Close><End of Block>
+<TextBlock 9 w:40 h:1>
+Alloggio torpedini…
+Pronto!<Opcode 2 32><Close><End of Block>
+<TextBlock 10 w:44 h:1>
+Cannoni anti-Gear…
+Pronti!<Opcode 2 32><Close><End of Block>
+<TextBlock 11 w:52 h:2>
+Anche gli strumenti di
+navigazione ed i
+macchinari sono pronti!<Opcode 2 32><Close><End of Block>
+<TextBlock 12 w:52 h:3>
+Tutti ai posti di
+combattimento!<New>
+Navigazione in superficie,
+attivare la pompa per
+la sabbia!<New>
+Prepararsi a far fuoco
+con i cannoni a tribordo
+non appena emersi!<Close><End of Block>
+<TextBlock 13 w:50 h:4>
+Vele a tribordo!<Delay 16>
+Il vento è forte lì
+sopra, e potremmo
+perdere l'equilibrio!<New>
+…<Delay 32>
+Jerico!
+Consegnami il timone!<Close><End of Block>
+<TextBlock 14 w:46 h:4>
+Bart
+"In ogni caso, <Delay 32>non c'è
+bisogno di lasciarlo
+andare così in fretta…<New>
+Giusto…?"<Close><End of Block>
+<TextBlock 15 w:18 h:2>
+Bart
+"Artigliere!"<Close><End of Block>
+<TextBlock 16 w:16 h:2>
+Bart
+"Vance!"<Close><End of Block>
+<TextBlock 17 w:34 h:2>
+Bart
+"Andiamo!<New>
+BattCon livello 1!"<Close><End of Block>
+<TextBlock 18 w:54 h:4>
+Bart
+"Tutti ai posti
+di combattimento!<New>
+Navigazione in superficie!
+Chiudere gli sbocchi!<New>
+Rilasciare il serbatoio
+principale!<Delay 35> Prepararsi ad
+una battaglia contraerea
+non appena emersi!"<Close><End of Block>
+<TextBlock 19 w:46 h:4>
+Bart
+"Combattimento
+in superficie!<New>
+Tenere pronti i
+cannoni antiaerei.<New>
+Artigliere!
+Dammi il grilletto
+per i Missili Bart!"<Close><End of Block>
+<TextBlock 20 w:44 h:4>
+Ooooh sì!<New>
+Passare alla modalità
+a salve dopo i primi
+colpi!<New>
+Rallentiamoli!<New>
+Prepararsi a mettergli
+una scopa in culo che
+non dimenticheranno
+molto facilmente!<Close><End of Block>
+<TextBlock 21 w:50 h:4>
+Fate fare a me!<Wait>
+Nave da guerra o no,
+sta trasportando un
+nuovo Gear!<Close><End of Block>
+<TextBlock 22 w:34 h:2>
+Artigliere!
+Fagliela vedere!!<Close><End of Block>
+<TextBlock 23 w:24 h:2>
+Bart
+"Cosa c'è?"<Close><End of Block>
+<TextBlock 24 w:50 h:4>
+Bart
+"Siamo vicino alla
+capitale.<New>
+Probabilmente è
+solo qualche nave
+proveniente da lì."<Close><End of Block>
+<TextBlock 25 w:48 h:4>
+Bart
+"Sotto la sabbia<Delay 20>…?<New>
+Questo è l'unico
+incrociatore del
+deserto in tutta Aveh!<Close><End of Block>
+<TextBlock 26 w:50 h:4>
+Bart
+"… Bene!<Delay 10> Avanti!<Delay 15>
+Preparate le scialuppe
+ad espulsione!"<Delay 20><Close><End of Block>
+<TextBlock 27 w:30 h:3>
+Bart
+"Quando sbarchiamo,
+nascondete la nave!"<Close><End of Block>
+<TextBlock 28 w:28 h:3>
+Bart
+"Va tutto bene,
+Vecchio Maison."<Close><End of Block>
+<TextBlock 29 w:50 h:2>
+Bart
+"Torneremo a Nisan!"<Close><End of Block>
+<TextBlock 30 w:52 h:4>
+Bart
+"Margie e loro sono
+ancora lì. Torniamo!
+Dobbiamo tornare!<New>
+Ora che mi viene in
+mente… E Fei e i suoi
+uomini? Se stanno bene,
+potremmo…"<Close><End of Block>
+<TextBlock 31 w:50 h:3>
+Bart
+"Merda!
+Non può essere vero!"<Close><End of Block>
+<TextBlock 32 w:24 h:2>
+Bart
+"Da poppa…?"<Close><End of Block>
+<TextBlock 33 w:54 h:4>
+Bart
+"Qualcosa sta
+arrivando da poppa!<New>
+Jerico! Dammi il timone…
+No, tienilo tu!
+Spicciati e giralo
+a destra e a manca!!"<Close><End of Block>
+<TextBlock 34 w:44 h:4>
+Bart
+"Ai posti di
+combattimento!<New>
+Schierate le maschere!
+Preparate i generatori
+di suoni!"<Close><End of Block>
+<TextBlock 35 w:52 h:1>
+Tutti ai posti di
+combattimento!<Close><End of Block>
+<TextBlock 36 w:50 h:3>
+Bart
+"Lanciare i generatori
+di suoni! Prepararsi
+a fermare il motore!"<Close><End of Block>
+<TextBlock 37 w:50 h:4>
+Bart
+"Timoniere…<Delay 25> ORA!
+Sterza nella direzione
+opposta fino a che puoi!<New>
+Fermate il motore!
+Allarme scontro!!"<Close><End of Block>
+<TextBlock 38 w:34 h:2>
+Fermate il motore!
+Allarme scontro!!<Close><End of Block>
+<TextBlock 39 w:54 h:4>
+Non sento nulla oltre al
+suono scorrevole della
+sabbia… Nessuna attività
+radar sospetta rilevata!<Close><End of Block>
+<TextBlock 40 w:52 h:4>
+Vance
+"Non sento nulla oltre al
+vento della superficie ed
+al nostro motore.<New>
+Giudicando dal radar e
+dal sonar, la minaccia è
+minima."<Close><End of Block>
+<TextBlock 41 w:12 h:1>
+Oh…?<Close><End of Block>
+<TextBlock 42 w:42 h:4>
+Vance
+"No… per un attimo, ho
+pensato di aver captato
+alcuni suoni innaturali…"<Close><End of Block>
+<TextBlock 43 w:44 h:4>
+Vance
+"Ma non viene dalla
+superficie… Viene da
+sotto la sabbia!"<Close><End of Block>
+<TextBlock 44 w:54 h:4>
+Vance
+"… Non riesco ancora
+a captarlo.<New>
+Potrebbe essere stata
+una balena del deserto…"<Close><End of Block>
+<TextBlock 45 w:46 h:4>
+Vance
+"Ecco…
+Nello strato
+superficiale!<New>
+Rilevo suoni di ancore
+issate e di motori
+attivati!<New>
+La flotta difensiva
+della Capitale Reale
+sicuramente sta
+partendo…!"<Close><End of Block>
+<TextBlock 46 w:48 h:4>
+Vance
+"Non abbiamo avuto
+nessun contatto con
+loro…<New>
+… dopo che abbiamo
+confermato il loro
+ordine d'attacco…"<Close><End of Block>
+<TextBlock 47 w:54 h:4>
+Vance
+"Davanti alla poppa! 300!<New>
+Sto captando il suono di
+torpedini in fase di
+preparazione!<New>
+Un incrociatore del
+deserto!? È grande!
+Velocità 60! Rotta
+relativa 0-0-0!<New>
+Si stavano nascondendo
+dietro un qualche
+deflettore!"<Close><End of Block>
+<TextBlock 48 w:54 h:4>
+Vance
+"Sto captando delle
+propulsioni ad alta
+velocità!<New>
+Si stanno
+allontanando
+dalla nave nemica!<New>
+Torpedini!? Ce ne
+sono 2! Velocità 87!
+Torpedini lanciate
+confermate col sonar.<New>
+Hanno attivato la
+modalità di mira
+automatica!"<Close><End of Block>
+<TextBlock 49 w:38 h:4>
+Vance
+"Torpedine… 1, ci sta
+inseguendo ancora! Merda!
+Impatto in 3!!"<Close><End of Block>
+<TextBlock 50 w:56 h:4>
+La Torretta A 'Anton' e
+la Torretta B 'Belta'
+possono attivare i propri
+ettropometri dopo l'apertura
+dei loro sportelli.<Close><End of Block>
+<TextBlock 51 w:52 h:3>
+Gungany…
+No, Missile Bart, in
+alimentazione!<New>
+Ci vorranno quindici
+secondi dall'apertura
+dello sportello all'innesto
+dell'irradiante!<Close><End of Block>
+<TextBlock 52 w:48 h:3>
+Fuoco alternato tra A 'Anton'
+e B 'Belta'!<Delay 20> Calcolo delle
+correzioni in corso!<Close><End of Block>
+<TextBlock 53 w:52 h:3>
+Padroncino! Sto
+captando un utilizzo
+crescente nell'uso
+della Banda F!<New>
+Questa è la frequenza
+della forza di difesa
+della Capitale Reale!<Close><End of Block>
+<TextBlock 54 w:42 h:4>
+Abbiamo inoltre
+intercettato una
+trasmissione dalla
+pattuglia al confine
+con Kislev!<New>
+Stanno richiedendo
+sostegno immediato
+dalla Capitale Reale!<New>
+Sembra che abbiamo
+davvero creato un
+inferno al confine!<Close><End of Block>
+<TextBlock 55 w:40 h:3>
+Attivare il sistema
+di disturbo!
+Generatori di suoni,
+secondo, quarto
+tubo<Delay 16>… Pronti!<Close><End of Block>
+<TextBlock 56 w:56 h:5>
+Ma… primo ufficiale!<New>
+Ora, con gli alettoni
+non funzionanti, se
+procederete a piena
+velocità, questa nave
+non potrà reggere
+l'attrito!!<Close><End of Block>
+<TextBlock 57 w:24 h:1>
+Primo ufficiale!!<Close><End of Block>
+<TextBlock 58 w:36 h:4>
+P… Padroncino!<Delay 16>
+Cosa succede?
+A cosa è dovuto
+l'allarme…<Close><End of Block>
+<TextBlock 59 w:34 h:1>
+P… Padroncino!!<Opcode 2 96><Close><End of Block>
+<TextBlock 60 w:48 h:3>
+Maison
+"P… Padroncino!
+I Missili Gungany…<New>
+Vi serve il permesso di
+più di metà dei membri
+dell'equipaggio per…"<Opcode 2 120><Close><End of Block>
+<TextBlock 61 w:36 h:3>
+Maison
+"P… Padroncino!<Delay 16>
+Che cosa succede?<New>
+A cosa è dovuto
+l'allarme…?"<Close><End of Block>
+<TextBlock 62 w:52 h:4>
+Padroncino, aspetti!
+Potrebbe essere solo
+una nave civile, non
+una nave da guerra…<Close><End of Block>
+<TextBlock 63 w:42 h:3>
+Maison
+"P… Padroncino!<New>
+Ho un presentimento
+terribilmente brutto
+riguardo a ciò<Delay 15>…<New>
+Siate molto, molto
+prudente!"<Close><End of Block>
+<TextBlock 64 w:52 h:4>
+Maison
+"Sì… sì, Padroncino…<New>
+Ho sentito che, quando
+hanno attaccato il forte
+al confine…<New>
+… le Forze di Geburah,
+comandate da Ramsus,
+li hanno sbaragliati.<New>
+Faremmo meglio a ritirarci
+per ora, e riesaminare…"<Close><End of Block>
+<TextBlock 65 w:34 h:2>
+Maison
+"Padroncino…"<Close><End of Block>
+<TextBlock 66 w:34 h:3>
+Non ancora…?
+Padroncino!
+Aspetti un attimo!<Close><End of Block>
+<TextBlock 67 w:28 h:1>
+Padroncino!!<Opcode 2 96><Close><End of Block>
+<TextBlock 68 w:48 h:2>
+Sigurd
+"Padroncino!
+Ancora!!??"<Close><End of Block>
+<TextBlock 69 w:38 h:3>
+Sigurd
+"Non sa proprio
+quando fermarsi…"<Opcode 2 96><Close><End of Block>
+<TextBlock 70 w:54 h:4>
+Sigurd
+"Non siamo venuti a
+conoscenza di una nuova
+nave.<New>
+Neanche dalle spie site
+al quartier generale
+della Marina di Aveh.<New>
+Vance, puoi riprovare e
+confermarci cosa sia?"<Close><End of Block>
+<TextBlock 71 w:28 h:3>
+Sigurd
+"È inutile!
+Padroncino!"<Close><End of Block>
+<TextBlock 72 w:36 h:2>
+Sigurd
+"Padroncino…?"<Close><End of Block>
+<TextBlock 73 w:14 h:2>
+Sigurd
+"Kahr!"<Close><End of Block>
+<TextBlock 74 w:34 h:2>
+Sigurd
+"Padroncino!!!"<Opcode 2 32><Close><End of Block>
+<TextBlock 75 w:46 h:4>
+Sigurd
+"Motore, prepararsi
+ad attivarlo a piena
+potenza!!<New>
+Jerico! Dammi
+qui il timone!"<Close><End of Block>
+<TextBlock 76 w:52 h:4>
+Sigurd
+"Invece…<New>
+… può 'saltare'
+grazie all'effetto
+Bernoulli sulle
+superfici delle ali!!"<Close><End of Block>
+<TextBlock 77 w:50 h:4>
+Sigurd
+"Non importa!
+L'Yggdrasil è nulla
+senza il Padroncino!<New>
+Potenza al massimo!!
+Massima velocità!!"<Close><End of Block>
+<TextBlock 78 w:46 h:3>
+Sigurd
+"Eeeeeaaaaarrrrgghh!!!!
+Avanti, VAI!!!"<Opcode 2 64><Close><End of Block>
+<TextBlock 79 w:38 h:3>
+Sigurd
+"Sembra che ci
+stia osservando."<Close><Close><End of Block>

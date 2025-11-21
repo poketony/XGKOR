@@ -1,0 +1,2719 @@
+#### 1 ####
+{fast:FF}Singing of the Gentle Wind{clear:D2}
+
+#### 2 ####
+{fast:FF}My Village Is Number One{clear:D2}
+
+#### 3 ####
+{fast:FF}Forest of the Black Moon{clear:D2}
+
+#### 4 ####
+{fast:FF}The Valley Where Wind Is Born{clear:D2}
+
+#### 5 ####
+{fast:FF}Faraway Promise{clear:D2}
+
+#### 6 ####
+{fast:FF}6{clear:D2}
+
+#### 7 ####
+{fast:FF}The Wounded Shall Advance into the Light{clear:D2}
+
+#### 8 ####
+{fast:FF}Knight of Fire{clear:D2}
+
+#### 9 ####
+{fast:FF}Back to Sleep{clear:D2}
+
+#### 10 ####
+{fast:FF}Back to Sleep(long){clear:D2}
+
+#### 11 ####
+{fast:FF}In a Dark Sleep{clear:D2}
+
+#### 12 ####
+{fast:FF}The Sky, the Clouds, and You{clear:D2}
+
+#### 13 ####
+{fast:FF}13{clear:D2}
+
+#### 14 ####
+{fast:FF}14{clear:D2}
+
+#### 15 ####
+{fast:FF}15{clear:D2}
+
+#### 16 ####
+{fast:FF}16{clear:D2}
+
+#### 17 ####
+{fast:FF}17{clear:D2}
+
+#### 18 ####
+{fast:FF}18{clear:D2}
+
+#### 19 ####
+{fast:FF}19{clear:D2}
+
+#### 20 ####
+{fast:FF}20{clear:D2}
+
+#### 21 ####
+{fast:FF}21{clear:D2}
+
+#### 22 ####
+{fast:FF}22{clear:D2}
+
+#### 23 ####
+{fast:FF}23{clear:D2}
+
+#### 24 ####
+{fast:FF}24{clear:D2}
+
+#### 25 ####
+{fast:FF}25{clear:D2}
+
+#### 26 ####
+{fast:FF}26{clear:D2}
+
+#### 27 ####
+{fast:FF}27{clear:D2}
+
+#### 28 ####
+{fast:FF}28{clear:D2}
+
+#### 29 ####
+{fast:FF}29{clear:D2}
+
+#### 30 ####
+{fast:FF}30{clear:D2}
+
+#### 31 ####
+{fast:FF}31{clear:D2}
+
+#### 32 ####
+{fast:FF}32{clear:D2}
+
+#### 33 ####
+{fast:FF}33{clear:D2}
+
+#### 34 ####
+{fast:FF}34{clear:D2}
+
+#### 35 ####
+{fast:FF}35{clear:D2}
+
+#### 36 ####
+{fast:FF}36{clear:D2}
+
+#### 37 ####
+{fast:FF}37{clear:D2}
+
+#### 38 ####
+{fast:FF}38{clear:D2}
+
+#### 39 ####
+{fast:FF}39{clear:D2}
+
+#### 40 ####
+{fast:FF}40{clear:D2}
+
+#### 41 ####
+{fast:FF}41{clear:D2}
+
+#### 42 ####
+{fast:FF}42{clear:D2}
+
+#### 43 ####
+{fast:FF}43{clear:D2}
+
+#### 44 ####
+{fast:FF}44{clear:D2}
+
+#### 45 ####
+{fast:FF}45{clear:D2}
+
+#### 46 ####
+{fast:FF}46{clear:D2}
+
+#### 47 ####
+{fast:FF}47{clear:D2}
+
+#### 48 ####
+{fast:FF}48{clear:D2}
+
+#### 49 ####
+{fast:FF}49{clear:D2}
+
+#### 50 ####
+{fast:FF}50{clear:D2}
+
+#### 51 ####
+{fast:FF}51{clear:D2}
+
+#### 52 ####
+{fast:FF}52{clear:D2}
+
+#### 53 ####
+{fast:FF}53{clear:D2}
+
+#### 54 ####
+{fast:FF}54{clear:D2}
+
+#### 55 ####
+{fast:FF}55{clear:D2}
+
+#### 56 ####
+{fast:FF}56{clear:D2}
+
+#### 57 ####
+{fast:FF}57{clear:D2}
+
+#### 58 ####
+{fast:FF}58{clear:D2}
+
+#### 59 ####
+{fast:FF}59{clear:D2}
+
+#### 60 ####
+{fast:FF}60{clear:D2}
+
+#### 61 ####
+{fast:FF}61{clear:D2}
+
+#### 62 ####
+{fast:FF}62{clear:D2}
+
+#### 63 ####
+{fast:FF}63{clear:D2}
+
+#### 64 ####
+{fast:FF}saitohome
+
+#### 65 ####
+{fast:FF}youkoso!
+
+#### 66 ####
+{fast:FF}wahtrank?
+    Arank
+    Brank
+    Crank1
+    Crank2
+    Drank
+
+#### 67 ####
+{fast:FF}demoflag
+
+#### 68 ####
+{fast:FF}memberchange
+
+#### 69 ####
+{fast:FF}whatmenu?
+    demoflag
+    battring
+    musicmode
+    party+
+    member+
+    change
+    moviemode
+    HPMPrecover
+    quit!
+
+#### 70 ####
+plesewait!
+
+#### 71 ####
+ByBy
+
+#### 72 ####
+{fast:FF}demoflag?
+    def
+    off
+    on
+
+#### 73 ####
+next?
+
+#### 74 ####
+{fast:FF}battringmode?
+    non
+    year
+
+#### 75 ####
+next?
+
+#### 76 ####
+{fast:FF}sflag?
+    giganto
+    kyojintaoshita
+    sharkarntaoshita
+    deus
+    last
+
+#### 77 ####
+{fast:FF}1set
+
+#### 78 ####
+{fast:FF}2set
+
+#### 79 ####
+{fast:FF}3set
+
+#### 80 ####
+{fast:FF}4set
+
+#### 81 ####
+{fast:FF}5set
+
+#### 82 ####
+{fast:FF}battringomakemode!
+
+#### 83 ####
+{fast:FF}party?
+    ellie
+    shitan
+    barto
+    rico
+    billy
+    eme
+    chuchu
+    maria
+    shitan2
+    eme2
+    quit
+
+#### 84 ####
+{fast:FF}boo!boo!
+
+#### 85 ####
+{fast:FF}boo!boo!
+
+#### 86 ####
+{fast:FF}boo!boo!
+
+#### 87 ####
+{fast:FF}boo!boo!
+
+#### 88 ####
+{fast:FF}boo!boo!
+
+#### 89 ####
+{fast:FF}boo!boo!
+
+#### 90 ####
+{fast:FF}boo!boo!
+
+#### 91 ####
+{fast:FF}boo!boo!
+
+#### 92 ####
+{fast:FF}boo!boo!
+
+#### 93 ####
+{fast:FF}boo!boo!
+
+#### 94 ####
+{fast:FF}memberset
+    ellie
+    shitan
+    barto
+    billy
+    rico
+    eme
+    chuchu
+    maria
+    shitan2
+    eme2
+    quit
+
+#### 95 ####
+{fast:FF}movieview
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    page2
+    quit
+
+#### 96 ####
+{fast:FF}disk1
+
+#### 97 ####
+{fast:FF}disk1
+
+#### 98 ####
+{fast:FF}disk1
+
+#### 99 ####
+{fast:FF}disk1
+
+#### 100 ####
+{fast:FF}disk1
+
+#### 101 ####
+{fast:FF}disk1
+
+#### 102 ####
+{fast:FF}disk1
+
+#### 103 ####
+{fast:FF}disk1
+
+#### 104 ####
+{fast:FF}movieview2
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    back
+    page3
+    quit
+
+#### 105 ####
+{fast:FF}disk1
+
+#### 106 ####
+{fast:FF}disk1
+
+#### 107 ####
+{fast:FF}disk1
+
+#### 108 ####
+{fast:FF}disk1
+
+#### 109 ####
+{fast:FF}disk1
+
+#### 110 ####
+{fast:FF}disk1
+
+#### 111 ####
+{fast:FF}disk1
+
+#### 112 ####
+{fast:FF}movieview3
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    back
+    page4
+    quit
+
+#### 113 ####
+{fast:FF}disk2
+
+#### 114 ####
+{fast:FF}disk2
+
+#### 115 ####
+{fast:FF}disk2
+
+#### 116 ####
+{fast:FF}disk2
+
+#### 117 ####
+{fast:FF}disk2
+
+#### 118 ####
+{fast:FF}disk2
+
+#### 119 ####
+{fast:FF}movieview4
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    back
+    page5
+    quit
+
+#### 120 ####
+{fast:FF}disk2
+
+#### 121 ####
+{fast:FF}disk2
+
+#### 122 ####
+{fast:FF}disk2
+
+#### 123 ####
+{fast:FF}disk2
+
+#### 124 ####
+{fast:FF}disk2
+
+#### 125 ####
+{fast:FF}disk2
+
+#### 126 ####
+{fast:FF}disk2
+
+#### 127 ####
+{fast:FF}movieview5
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    top
+    back
+    quit
+
+#### 128 ####
+{fast:FF}disk2
+
+#### 129 ####
+{fast:FF}disk2
+
+#### 130 ####
+{fast:FF}disk2
+
+#### 131 ####
+{fast:FF}disk2
+
+#### 132 ####
+{fast:FF}disk2
+
+#### 133 ####
+{fast:FF}disk2
+
+#### 134 ####
+{fast:FF}disk2
+
+#### 135 ####
+{fast:FF}musicmode
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    quit
+
+#### 136 ####
+{fast:FF}music1
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    next
+    quit
+
+#### 137 ####
+{fast:FF}1
+
+#### 138 ####
+{fast:FF}2
+
+#### 139 ####
+{fast:FF}3
+
+#### 140 ####
+{fast:FF}4
+
+#### 141 ####
+{fast:FF}5
+
+#### 142 ####
+{fast:FF}6
+
+#### 143 ####
+{fast:FF}7
+
+#### 144 ####
+{fast:FF}8
+
+#### 145 ####
+{fast:FF}music2
+    21
+    22
+    23
+    24
+    25
+    26
+    27
+    back
+    next
+    quit
+
+#### 146 ####
+{fast:FF}21
+
+#### 147 ####
+{fast:FF}22
+
+#### 148 ####
+{fast:FF}23
+
+#### 149 ####
+{fast:FF}24
+
+#### 150 ####
+{fast:FF}25
+
+#### 151 ####
+{fast:FF}26
+
+#### 152 ####
+{fast:FF}27
+
+#### 153 ####
+{fast:FF}music3
+    31
+    32
+    33
+    34
+    35
+    36
+    37
+    back
+    next
+    quit
+
+#### 154 ####
+{fast:FF}31
+
+#### 155 ####
+{fast:FF}32
+
+#### 156 ####
+{fast:FF}33
+
+#### 157 ####
+{fast:FF}34
+
+#### 158 ####
+{fast:FF}35
+
+#### 159 ####
+{fast:FF}36
+
+#### 160 ####
+{fast:FF}37
+
+#### 161 ####
+{fast:FF}music4
+    41
+    42
+    43
+    44
+    45
+    46
+    47
+    back
+    next
+    quit
+
+#### 162 ####
+{fast:FF}41
+
+#### 163 ####
+{fast:FF}42
+
+#### 164 ####
+{fast:FF}43
+
+#### 165 ####
+{fast:FF}44
+
+#### 166 ####
+{fast:FF}45
+
+#### 167 ####
+{fast:FF}46
+
+#### 168 ####
+{fast:FF}47
+
+#### 169 ####
+{fast:FF}music5
+    51
+    52
+    53
+    54
+    55
+    56
+    57
+    back
+    next
+    quit
+
+#### 170 ####
+{fast:FF}51
+
+#### 171 ####
+{fast:FF}52
+
+#### 172 ####
+{fast:FF}53
+
+#### 173 ####
+{fast:FF}54
+
+#### 174 ####
+{fast:FF}55
+
+#### 175 ####
+{fast:FF}56
+
+#### 176 ####
+{fast:FF}57
+
+#### 177 ####
+{fast:FF}music6
+    61
+    62
+    63
+    64
+    65
+    66
+    67
+    back
+    next
+    quit
+
+#### 178 ####
+{fast:FF}61
+
+#### 179 ####
+{fast:FF}62
+
+#### 180 ####
+{fast:FF}63
+
+#### 181 ####
+{fast:FF}64
+
+#### 182 ####
+{fast:FF}65
+
+#### 183 ####
+{fast:FF}66
+
+#### 184 ####
+{fast:FF}67
+
+#### 185 ####
+{fast:FF}music7
+    71
+    72
+    73
+    74
+    75
+    76
+    77
+    back
+    next
+    quit
+
+#### 186 ####
+{fast:FF}71
+
+#### 187 ####
+{fast:FF}72
+
+#### 188 ####
+{fast:FF}73
+
+#### 189 ####
+{fast:FF}74
+
+#### 190 ####
+{fast:FF}75
+
+#### 191 ####
+{fast:FF}76
+
+#### 192 ####
+{fast:FF}77
+
+#### 193 ####
+{fast:FF}music8
+    81
+    82
+    83
+    84
+    85
+    86
+    87
+    back
+    next
+    quit
+
+#### 194 ####
+{fast:FF}81
+
+#### 195 ####
+{fast:FF}82
+
+#### 196 ####
+{fast:FF}83
+
+#### 197 ####
+{fast:FF}84
+
+#### 198 ####
+{fast:FF}85
+
+#### 199 ####
+{fast:FF}86
+
+#### 200 ####
+{fast:FF}87
+
+#### 201 ####
+{fast:FF}music9
+    91
+    92
+    93
+    94
+    95
+    top
+    back
+    quit
+
+#### 202 ####
+{fast:FF}91
+
+#### 203 ####
+{fast:FF}92
+
+#### 204 ####
+{fast:FF}93
+
+#### 205 ####
+{fast:FF}94
+
+#### 206 ####
+{fast:FF}95
+
+#### 207 ####
+karel
+item?{wait:1E}
+    {fast:FF}1
+    2
+    3
+    4
+    5
+    6
+    battle
+    next
+    quit
+
+#### 208 ####
+karel
+isee
+
+#### 209 ####
+karel
+item?{wait:1E}
+    {fast:FF}1
+    2
+    3
+    4
+    5
+    6
+    rea
+    top
+    quit
+
+#### 210 ####
+karel
+isee
+
+#### 211 ####
+{fast:FF}testmode?
+    animset
+    battring
+    yug4
+    ellie
+    quit
+
+#### 212 ####
+{fast:FF}battringevt?
+    no
+    yes
+
+#### 213 ####
+{fast:FF}yug4test?
+    no
+    yes
+
+#### 214 ####
+{fast:FF}ellie
+    no
+    yes
+
+#### 215 ####
+isee
+
+#### 216 ####
+{fast:FF}who?
+    fei
+    shitan
+    ellie
+    barto
+    billy
+    rico
+    eme
+    chuchu
+    maria
+    shitan2
+    eme2
+
+#### 217 ####
+{fast:FF}houkou?
+    def
+    n
+    ne
+    e
+    se
+    s
+    sw
+    w
+    nw
+
+#### 218 ####
+{fast:FF}menuchange
+    kyotsu
+    senyou
+    houkou
+    quit
+
+#### 219 ####
+{fast:FF}who?
+    sonomama
+    henkou
+
+#### 220 ####
+{fast:FF}who?
+    fei
+    shitan
+    ellie
+    barto
+    chuchu
+    next
+    topmenu
+
+#### 221 ####
+{fast:FF}allpage7
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+
+#### 222 ####
+{fast:FF}allpage4
+    1
+    2
+    3
+    4
+
+#### 223 ####
+{fast:FF}allpage6
+    1
+    2
+    3
+    4
+    5
+    6
+
+#### 224 ####
+{fast:FF}allpage4
+    1
+    2
+    3
+    4
+
+#### 225 ####
+{fast:FF}allpage7
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+
+#### 226 ####
+{fast:FF}who?
+    eme
+    eme2
+    maria
+    rico
+    billy
+    back
+    manu
+
+#### 227 ####
+{fast:FF}allpage3
+    1
+    2
+    3
+
+#### 228 ####
+{fast:FF}allpage1
+    1
+
+#### 229 ####
+{fast:FF}allpage2
+    1
+    2
+
+#### 230 ####
+{fast:FF}allpage3
+    1
+    2
+    3
+
+#### 231 ####
+{fast:FF}allpage3
+    1
+    2
+    3
+
+#### 232 ####
+{fast:FF}houkou?
+    def
+    n
+    ne
+    e
+    se
+    s
+    sw
+    w
+    nw
+
+#### 233 ####
+{fast:FF}paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    next
+    menu
+
+#### 234 ####
+{fast:FF}paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    format
+    back
+    menu
+
+#### 235 ####
+{fast:FF}paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    next
+    menu
+
+#### 236 ####
+{fast:FF}paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    back
+    next
+    menu
+
+#### 237 ####
+{fast:FF}paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    back
+    next
+    menu
+
+#### 238 ####
+    {fast:FF}1
+    2
+    3
+
+#### 239 ####
+{fast:FF}janken?
+    goo
+    choki
+    par
+
+#### 240 ####
+{fast:FF}paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    back
+    next
+    menu
+
+#### 241 ####
+{fast:FF}paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    back
+    next
+    menu
+
+#### 242 ####
+{fast:FF}paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    back
+    next
+    menu
+
+#### 243 ####
+{fast:FF}paturn?
+    1
+    2
+    3
+    4
+    5
+    top
+    back
+    menu
+
+#### 244 ####
+{fast:FF}paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    next
+    menu
+
+#### 245 ####
+{fast:FF}paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    back
+    next
+    menu
+
+#### 246 ####
+{fast:FF}paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    back
+    next
+    menu
+
+#### 247 ####
+{fast:FF}paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    back
+    next
+    menu
+
+#### 248 ####
+{fast:FF}paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    back
+    next
+    menu
+
+#### 249 ####
+{fast:FF}paturn?
+    1
+    2
+    top
+    back
+    menu
+
+#### 250 ####
+{fast:FF}paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    next
+    menu
+
+#### 251 ####
+{fast:FF}paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    back
+    next
+    menu
+
+#### 252 ####
+{fast:FF}paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    back
+    next
+    menu
+
+#### 253 ####
+{fast:FF}paturn?
+    1
+    2
+    3
+    4
+    top
+    back
+    menu
+
+#### 254 ####
+{fast:FF}paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    next
+    menu
+
+#### 255 ####
+{fast:FF}paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    back
+    next
+    menu
+
+#### 256 ####
+{fast:FF}paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    back
+    next
+    menu
+
+#### 257 ####
+{fast:FF}paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    back
+    menu
+
+#### 258 ####
+{fast:FF}paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    next
+    menu
+
+#### 259 ####
+{fast:FF}paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    back
+    next
+    menu
+
+#### 260 ####
+{fast:FF}paturn?
+    1
+    back
+    menu
+
+#### 261 ####
+{fast:FF}paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    next
+    menu
+
+#### 262 ####
+{fast:FF}paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    back
+    menu
+
+#### 263 ####
+{fast:FF}paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    9
+    menu
+
+#### 264 ####
+{fast:FF}paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    next
+    menu
+
+#### 265 ####
+{fast:FF}paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    next
+    menu
+
+#### 266 ####
+{fast:FF}paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    next
+    menu
+
+#### 267 ####
+{fast:FF}paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    back
+    next
+    menu
+
+#### 268 ####
+{fast:FF}paturn?
+    1
+    back
+    menu
+
+#### 269 ####
+{fast:FF}paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    8
+    next
+    menu
+
+#### 270 ####
+{fast:FF}paturn?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    back
+    next
+    menu
+
+#### 271 ####
+{fast:FF}paturn?
+    1
+    2
+    3
+    4
+    back
+    menu
+
+#### 272 ####
+{fast:FF}menuhenkou
+    def
+    houkou
+    menu
+
+#### 273 ####
+{fast:FF}mapedit2
+
+#### 274 ####
+{fast:FF}what?
+    aflag
+    sflag
+    format
+    quit
+
+#### 275 ####
+{fast:FF}ok
+
+#### 276 ####
+{fast:FF}gokorou
+
+#### 277 ####
+{fast:FF}what?
+    yamamichi
+    jiken
+    kega
+    kakoowari
+    organ
+    next
+    
+
+#### 278 ####
+{fast:FF}yamamichion
+
+#### 279 ####
+{fast:FF}jikenon
+
+#### 280 ####
+{fast:FF}kegaon
+
+#### 281 ####
+{fast:FF}kakoowari
+
+#### 282 ####
+{fast:FF}organon
+
+#### 283 ####
+{fast:FF}what?
+    taoshita
+    jouhou
+    dashu
+    kyuushitsu
+    hehito
+    koujou
+    ubatta
+    yug3
+    last
+    edit2
+
+#### 284 ####
+{fast:FF}taoshitaon
+
+#### 285 ####
+{fast:FF}jouhouon
+
+#### 286 ####
+{fast:FF}dashuon
+
+#### 287 ####
+{fast:FF}kyuushitsu
+
+#### 288 ####
+{fast:FF}hehitoon
+
+#### 289 ####
+{fast:FF}koujouon
+
+#### 290 ####
+{fast:FF}ubattaon
+
+#### 291 ####
+{fast:FF}yug3on
+
+#### 292 ####
+{fast:FF}laston
+
+#### 293 ####
+{fast:FF}mapedit1
+
+#### 294 ####
+{fast:FF}what?
+    evtflag
+    money
+    endstart
+    disk2
+    format
+    quit
+
+#### 295 ####
+{fast:FF}money?
+    def
+    non
+    yes
+
+#### 296 ####
+{fast:FF}turn!
+
+#### 297 ####
+{fast:FF}boo!boo!
+
+#### 298 ####
+{fast:FF}9999999Gget
+
+#### 299 ####
+{fast:FF}format!
+
+#### 300 ####
+{fast:FF}byby
+
+#### 301 ####
+{fast:FF}allpage7
+flagpage?
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+    quit
+
+#### 302 ####
+{fast:FF}flagon?
+    minka
+    enntotsu
+    test
+    kaigi2
+    totsunyuu
+    yuugata
+    shinngataki
+    shosennmae
+    next
+    quit
+
+#### 303 ####
+{fast:FF}minkaon
+
+#### 304 ####
+{fast:FF}enntotsuon
+
+#### 305 ####
+{fast:FF}teston
+
+#### 306 ####
+{fast:FF}kaigi2on
+
+#### 307 ####
+{fast:FF}totsunyuuon
+
+#### 308 ####
+{fast:FF}yuugataon
+
+#### 309 ####
+{fast:FF}shinngatakion
+
+#### 310 ####
+{fast:FF}shosennmaeon
+
+#### 311 ####
+{fast:FF}flagon?
+    resshabotsu
+    zennyasai
+    botsukaiwa
+    saijoi
+    joe
+    joukennka
+    boukyuusai
+    back
+    next
+    quit
+
+#### 312 ####
+{fast:FF}resshabotsuon
+
+#### 313 ####
+{fast:FF}zennyasaion
+
+#### 314 ####
+{fast:FF}botsukaiwaon
+
+#### 315 ####
+{fast:FF}saijoion
+
+#### 316 ####
+{fast:FF}joeon
+
+#### 317 ####
+{fast:FF}joukennkaon
+
+#### 318 ####
+{fast:FF}boukyuusaion
+
+#### 319 ####
+{fast:FF}flagon?
+    kaigi1
+    mezame1
+    taimenn
+    battle
+    mezame2
+    reo
+    hai
+    back
+    next
+    quit
+
+#### 320 ####
+{fast:FF}kaigi1on
+
+#### 321 ####
+{fast:FF}mezame1on
+
+#### 322 ####
+{fast:FF}taimennon
+
+#### 323 ####
+{fast:FF}battleon
+
+#### 324 ####
+{fast:FF}mezame2on
+
+#### 325 ####
+{fast:FF}reoon
+
+#### 326 ####
+{fast:FF}haion
+
+#### 327 ####
+{fast:FF}flagon?
+    bal
+    suza
+    choutatsuya
+    iinnkai
+    uwasabanashi
+    daisennsei
+    daishippai
+    back
+    next
+    quit
+
+#### 328 ####
+{fast:FF}balon
+
+#### 329 ####
+{fast:FF}suzaon
+
+#### 330 ####
+{fast:FF}choutatsuyaon
+
+#### 331 ####
+{fast:FF}iinnkaion
+
+#### 332 ####
+{fast:FF}uwasabanashion
+
+#### 333 ####
+{fast:FF}daisennseion
+
+#### 334 ####
+{fast:FF}daishippaion
+
+#### 335 ####
+{fast:FF}flagon?
+    Bketsui
+    tougijou
+    ookega
+    akakikemono
+    king
+    miss
+    doore
+    back
+    next
+    quit
+
+#### 336 ####
+{fast:FF}Bketsuion
+
+#### 337 ####
+{fast:FF}tougijouon
+
+#### 338 ####
+{fast:FF}ookegaon
+
+#### 339 ####
+{fast:FF}akakikemonoon
+
+#### 340 ####
+{fast:FF}kingon
+
+#### 341 ####
+{fast:FF}misson
+
+#### 342 ####
+{fast:FF}dooreon
+
+#### 343 ####
+{fast:FF}flagon?
+    doorw
+    ressha
+    shuusenn2
+    shuusenn3
+    tennboutou
+    kitoushi
+    saishuusenn
+    back
+    next
+    quit
+
+#### 344 ####
+{fast:FF}doorwon
+
+#### 345 ####
+{fast:FF}resshaon
+
+#### 346 ####
+{fast:FF}shuusenn2on
+
+#### 347 ####
+{fast:FF}shuusenn3on
+
+#### 348 ####
+{fast:FF}tennboutouon
+
+#### 349 ####
+{fast:FF}kitoushion
+
+#### 350 ####
+{fast:FF}saiishuusennon
+
+#### 351 ####
+{fast:FF}flagon?
+    shitennshi
+    rennsatsu1
+    rennsatsu2
+    jikannjiku
+    kaigennrei
+    yumeshoumetsu
+    keibihei
+    back
+    next
+    quit
+
+#### 352 ####
+{fast:FF}shitennshion
+
+#### 353 ####
+{fast:FF}rennsatsu1on
+
+#### 354 ####
+{fast:FF}rennsatsu2on
+
+#### 355 ####
+{fast:FF}jikannjikuon
+
+#### 356 ####
+{fast:FF}kaigennreion
+
+#### 357 ####
+{fast:FF}yumeshoumetsuon
+
+#### 358 ####
+{fast:FF}keibiheion
+
+#### 359 ####
+{fast:FF}what?
+    mezame
+    iinnkai
+    daisennsei
+    nightmear
+    houmonn
+    akakikemono
+    kennja
+    king
+    hehito
+    quit
+
+#### 360 ####
+{fast:FF}where?
+    kislevA
+    kislevD
+    pastevt
+    subworld
+    mapno0
+    quit
+
+#### 361 ####
+{fast:FF}where?
+    def
+    minnka2
+    minnka2toto
+    heisha1fa
+    heisha1fb
+    heisha2f
+    ber
+    weapon
+    item
+    minnka1
+    tower
+    quit
+
+#### 362 ####
+{fast:FF}kannkyou?
+    def
+    yuugata
+
+#### 363 ####
+{fast:FF}evt?
+    def
+    kaigi1
+
+#### 364 ####
+{fast:FF}def
+
+#### 365 ####
+{fast:FF}def
+
+#### 366 ####
+{fast:FF}def
+
+#### 367 ####
+{fast:FF}evt?
+    def
+    kaigi1
+    kaigi2
+
+#### 368 ####
+{fast:FF}minnka2
+
+#### 369 ####
+{fast:FF}minnka2
+
+#### 370 ####
+{fast:FF}minnka2
+
+#### 371 ####
+{fast:FF}minnka2toto
+
+#### 372 ####
+{fast:FF}heisha1fa
+
+#### 373 ####
+{fast:FF}heisha1fb
+
+#### 374 ####
+{fast:FF}heisha2f
+
+#### 375 ####
+{fast:FF}ber
+
+#### 376 ####
+{fast:FF}weapon
+
+#### 377 ####
+{fast:FF}item
+
+#### 378 ####
+{fast:FF}minnka1
+
+#### 379 ####
+{fast:FF}tower
+
+#### 380 ####
+{fast:FF}boo!boo!
+
+#### 381 ####
+{fast:FF}endstartking!
+
+#### 382 ####
+{fast:FF}where?
+    def
+    shukushaima
+    shukushaitem
+    shukushashinnshitsu
+    shukushayokushitsu
+    kyoukai1
+    kyoukai2
+    ber
+    next
+    quit
+
+#### 383 ####
+{fast:FF}def
+
+#### 384 ####
+{fast:FF}where?
+    doore
+    doorw
+
+#### 385 ####
+{fast:FF}shukushaimae
+
+#### 386 ####
+{fast:FF}shukushaimaw
+
+#### 387 ####
+{fast:FF}shukushaitem
+
+#### 388 ####
+{fast:FF}shukushashinnshitsu
+
+#### 389 ####
+{fast:FF}shukushayokushitsu
+
+#### 390 ####
+{fast:FF}kyoukai1
+
+#### 391 ####
+{fast:FF}koyukai2
+
+#### 392 ####
+{fast:FF}ber
+
+#### 393 ####
+{fast:FF}evt?
+    shouzounoma
+    daiseidou
+    nisannmachi
+    kennkyuujo
+    ronitaishou
+    monolog
+    gennsho
+    mahanonn
+    next
+    quit
+
+#### 394 ####
+{fast:FF}shouzounoma
+
+#### 395 ####
+{fast:FF}daiseiidou
+
+#### 396 ####
+{fast:FF}nisannmachi
+
+#### 397 ####
+{fast:FF}kennkyuujo
+
+#### 398 ####
+{fast:FF}joutaiha?
+    1
+    2
+
+#### 399 ####
+{fast:FF}ronitaishou
+
+#### 400 ####
+{fast:FF}ronitaishou
+
+#### 401 ####
+{fast:FF}joutaiha?
+    1
+    2
+
+#### 402 ####
+{fast:FF}party?
+    ellie
+    shitan
+    barto
+    rico
+    billy
+    eme
+    chuchu
+    maria
+    shitan2
+    eme2
+
+#### 403 ####
+{fast:FF}boo!boo!
+
+#### 404 ####
+{fast:FF}boo!boo!
+
+#### 405 ####
+{fast:FF}boo!boo!
+
+#### 406 ####
+{fast:FF}boo!boo!
+
+#### 407 ####
+{fast:FF}boo!boo!
+
+#### 408 ####
+{fast:FF}boo!boo!
+
+#### 409 ####
+{fast:FF}boo!boo!
+
+#### 410 ####
+{fast:FF}boo!boo!
+
+#### 411 ####
+{fast:FF}boo!boo!
+
+#### 412 ####
+{fast:FF}boo!boo!
+
+#### 413 ####
+{fast:FF}joutaiha?
+    1
+    2
+
+#### 414 ####
+{fast:FF}gennsho
+
+#### 415 ####
+{fast:FF}gennsho
+
+#### 416 ####
+{fast:FF}mahanonn
+
+#### 417 ####
+{fast:FF}subworld
+
+#### 418 ####
+{fast:FF}homeselect?
+    katou
+    etou
+    kazuomi
+    toshiaki
+    tane
+    koumoto
+    kigoshi
+    uchimichi
+    matsuhara
+    mapnodoor
+
+#### 419 ####
+{fast:FF}katou
+
+#### 420 ####
+{fast:FF}etou
+
+#### 421 ####
+{fast:FF}kazuomi
+
+#### 422 ####
+{fast:FF}toshiaki
+
+#### 423 ####
+{fast:FF}tane
+
+#### 424 ####
+{fast:FF}koumoto
+
+#### 425 ####
+{fast:FF}kigoshi
+
+#### 426 ####
+{fast:FF}uchimichi
+
+#### 427 ####
+{fast:FF}matsuhara
+
+#### 428 ####
+{fast:FF}mapnodoor
+
+#### 429 ####
+{fast:FF}evt?
+    rahann
+    aisurumono
+    hametsu
+    setsugenn
+    gorugodagisei
+    gorugodakyouki
+    ekusubrig
+    back
+    next
+    quit
+
+#### 430 ####
+{fast:FF}rahann
+
+#### 431 ####
+{fast:FF}joutaiha?
+    1
+    2
+
+#### 432 ####
+{fast:FF}aisurumono
+
+#### 433 ####
+{fast:FF}aisurumono
+
+#### 434 ####
+{fast:FF}joutaiha?
+    1
+    2
+
+#### 435 ####
+{fast:FF}hametsu
+
+#### 436 ####
+{fast:FF}hametsu
+
+#### 437 ####
+{fast:FF}joutaiha?
+    1
+    2
+
+#### 438 ####
+{fast:FF}setsugenn
+
+#### 439 ####
+{fast:FF}setsugenn
+
+#### 440 ####
+{fast:FF}joutaiha?
+    1
+    2
+
+#### 441 ####
+{fast:FF}gorugodagisei
+
+#### 442 ####
+{fast:FF}gorugodagisei
+
+#### 443 ####
+{fast:FF}joutaiha?
+    1
+    2
+
+#### 444 ####
+{fast:FF}gorugodakyouki
+
+#### 445 ####
+{fast:FF}gorugodakyouki
+
+#### 446 ####
+{fast:FF}joutaiha?
+    1
+    2
+
+#### 447 ####
+{fast:FF}ekusbrig
+
+#### 448 ####
+{fast:FF}ekusbrig
+
+#### 449 ####
+{fast:FF}evt?
+    shouzounoma2
+    shouzounoma3
+    ronitaishou2
+    nisannmachi2
+    daiseidou2
+    kennkyuujo
+    back
+    quit
+
+#### 450 ####
+{fast:FF}joutaiha?
+    1
+    2
+
+#### 451 ####
+{fast:FF}shouzounoma2
+
+#### 452 ####
+{fast:FF}shouzounoma2
+
+#### 453 ####
+{fast:FF}joutaiha?
+    1
+    2
+
+#### 454 ####
+{fast:FF}shouzounoma3
+
+#### 455 ####
+{fast:FF}shouzounoma3
+
+#### 456 ####
+{fast:FF}joutaiha?
+    1
+    2
+
+#### 457 ####
+{fast:FF}ronitaishou2
+
+#### 458 ####
+{fast:FF}ronitaishou2
+
+#### 459 ####
+{fast:FF}joutaiha?
+    1
+    2
+
+#### 460 ####
+{fast:FF}nisannmachi2
+
+#### 461 ####
+{fast:FF}nisannmachi2
+
+#### 462 ####
+{fast:FF}joutaiha?
+    1
+    2
+
+#### 463 ####
+{fast:FF}daiseiidou2
+
+#### 464 ####
+{fast:FF}daiseiidou2
+
+#### 465 ####
+{fast:FF}joutaiha?
+    1
+    2
+
+#### 466 ####
+{fast:FF}kennkyuujo2
+
+#### 467 ####
+{fast:FF}kennkyuujo2
+
+#### 468 ####
+{fast:FF}where?
+    ricoroom
+    ricoshinnshitsu
+    minnka1
+    gild1
+    gild2
+    battring1
+    battring2
+    back
+    quit
+
+#### 469 ####
+{fast:FF}ricoroom
+
+#### 470 ####
+{fast:FF}ricoshinnshitsu
+
+#### 471 ####
+{fast:FF}minnka1
+
+#### 472 ####
+{fast:FF}gild1
+
+#### 473 ####
+{fast:FF}gild2
+
+#### 474 ####
+{fast:FF}battring1
+
+#### 475 ####
+{fast:FF}battring2
+
+#### 476 ####
+{fast:FF}monologstory?
+    1
+    2
+    3
+    quit
+
+#### 477 ####
+{fast:FF}monolog1
+
+#### 478 ####
+{fast:FF}monolog2
+
+#### 479 ####
+{fast:FF}monolog3
+
+#### 480 ####
+{fast:FF}evt?
+    memory
+    nano
+    yug4
+    seibo
+    anima
+    nisann
+    hito
+    mahanonn
+    next
+    quit
+
+#### 481 ####
+{fast:FF}evtstart?
+    backstory
+    def
+    quit
+
+#### 482 ####
+{fast:FF}evtstart?
+    backstory
+    def
+    quit
+
+#### 483 ####
+{fast:FF}evtstart?
+    backstory
+    def
+    quit
+
+#### 484 ####
+{fast:FF}evtstart?
+    backstory
+    def
+    quit
+
+#### 485 ####
+{fast:FF}evtstart?
+    backstory
+    def
+    quit
+
+#### 486 ####
+{fast:FF}evtstart?
+    backstory
+    def
+    quit
+
+#### 487 ####
+{fast:FF}evtstart?
+    backstory
+    def
+    quit
+
+#### 488 ####
+{fast:FF}evtstory?
+    backstory
+    def
+    quit
+
+#### 489 ####
+{fast:FF}evtselect
+    fuyuutairiku
+    ellieketsui
+    gorugodanochi
+    melcover
+    karbonight
+    zoharu
+    powermind
+    worlddeth
+    back
+    quit
+
+#### 490 ####
+{fast:FF}evtstart?
+    backstory
+    def
+    quit
+
+#### 491 ####
+{fast:FF}evtstart?
+    backstory
+    def
+    quit
+
+#### 492 ####
+{fast:FF}evtstart?
+    backstory
+    def
+    quit
+
+#### 493 ####
+{fast:FF}evtstart?
+    backstory
+    def
+    quit
+
+#### 494 ####
+{fast:FF}evtstart?
+    backstory
+    def
+    quit
+
+#### 495 ####
+{fast:FF}evtstart?
+    backstory
+    def
+    quit
+
+#### 496 ####
+{fast:FF}evtstart?
+    backstory
+    def
+    quit
+
+#### 497 ####
+{fast:FF}evtstart?
+    backstory
+    def
+    quit
+
+#### 498 ####
+{fast:FF}jyukaitsuiraku
+
+#### 499 ####
+{fast:FF}memory
+
+#### 500 ####
+{fast:FF}bahamurt
+
+#### 501 ####
+{fast:FF}nano
+
+#### 502 ####
+{fast:FF}nano2
+
+#### 503 ####
+{fast:FF}yug4
+
+#### 504 ####
+{fast:FF}soirent
+
+#### 505 ####
+{fast:FF}seibo
+
+#### 506 ####
+{fast:FF}gazel
+
+#### 507 ####
+{fast:FF}anima
+
+#### 508 ####
+{fast:FF}ramsas
+
+#### 509 ####
+{fast:FF}nisann
+
+#### 510 ####
+{fast:FF}gazel
+
+#### 511 ####
+{fast:FF}hito
+
+#### 512 ####
+{fast:FF}gazel
+
+#### 513 ####
+{fast:FF}mahanonn
+
+#### 514 ####
+{fast:FF}yasuragi
+
+#### 515 ####
+{fast:FF}fuyuutairiku
+
+#### 516 ####
+{fast:FF}fuyuutairiku3
+
+#### 517 ####
+{fast:FF}ellieketsui
+
+#### 518 ####
+{fast:FF}ellieketsui
+
+#### 519 ####
+{fast:FF}gorugodanochi
+
+#### 520 ####
+{fast:FF}gazel
+
+#### 521 ####
+{fast:FF}melkaver
+
+#### 522 ####
+{fast:FF}melkaver
+
+#### 523 ####
+{fast:FF}carbonite
+
+#### 524 ####
+{fast:FF}id
+
+#### 525 ####
+{fast:FF}zohar
+
+#### 526 ####
+{fast:FF}final
+
+#### 527 ####
+{fast:FF}powerofmind
+
+#### 528 ####
+{fast:FF}terraform
+
+#### 529 ####
+{fast:FF}world'sdeath
+
+#### 530 ####
+{fast:FF}evttest
+    feidream
+    mezameD
+    taimenn
+    sennrei
+    mezameB
+    iinnkai
+    shitan
+    shitanshippai
+    next
+    quit
+
+#### 531 ####
+{fast:FF}joutaiha?
+    1
+    2
+
+#### 532 ####
+{fast:FF}feidream
+
+#### 533 ####
+feidream
+
+#### 534 ####
+{fast:FF}mezameD
+
+#### 535 ####
+{fast:FF}taimenn
+
+#### 536 ####
+{fast:FF}sennrei
+
+#### 537 ####
+{fast:FF}mezameB
+
+#### 538 ####
+{fast:FF}iinnkai
+
+#### 539 ####
+{fast:FF}shitan
+
+#### 540 ####
+{fast:FF}where?
+    doore
+    doorw
+
+#### 541 ####
+{fast:FF}shukushaimae
+
+#### 542 ####
+{fast:FF}shukushaimaw
+
+#### 543 ####
+{fast:FF}shitanshippai
+
+#### 544 ####
+{fast:FF}cancel
+
+#### 545 ####
+{fast:FF}evttest
+    battring
+    shinngataki
+    ookege
+    jikennshinnsou
+    kenja
+    king
+    shinngataki2
+    back
+    next
+    quit
+
+#### 546 ####
+{fast:FF}battring
+
+#### 547 ####
+{fast:FF}evt?
+    iinnkai
+    toujouki
+
+#### 548 ####
+{fast:FF}shinngataki
+
+#### 549 ####
+{fast:FF}shinngataki
+
+#### 550 ####
+{fast:FF}ookega
+
+#### 551 ####
+{fast:FF}jikennshinnsou
+
+#### 552 ####
+{fast:FF}kenja
+
+#### 553 ####
+{fast:FF}king
+
+#### 554 ####
+{fast:FF}evt?
+    tower
+    minnka2
+
+#### 555 ####
+{fast:FF}shinngataki2
+
+#### 556 ####
+{fast:FF}shinngataki2
+
+#### 557 ####
+{fast:FF}cancel
+
+#### 558 ####
+{fast:FF}evttest
+    plese
+    sennyuu
+    rankerattack
+    shukusei
+    kislevbroken
+    back
+    top
+    quit
+
+#### 559 ####
+{fast:FF}plese
+
+#### 560 ####
+{fast:FF}evt?
+    start
+    miokuri
+    rakkago
+
+#### 561 ####
+{fast:FF}sennyuu
+
+#### 562 ####
+{fast:FF}rankerattack
+
+#### 563 ####
+{fast:FF}shukusei
+
+#### 564 ####
+{fast:FF}evt?
+    saikai
+    boo!boo!
+
+#### 565 ####
+{fast:FF}kislevbroken
+
+#### 566 ####
+{fast:FF}kislevbroken
+
+#### 567 ####
+{fast:FF}cancel
+

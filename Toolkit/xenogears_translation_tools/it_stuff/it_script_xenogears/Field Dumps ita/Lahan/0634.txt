@@ -1,0 +1,67 @@
+<TextBlock 1 w:44 h:3>
+Fei
+"Uh!<Delay 20> E con questo
+ho finito…"<Close><End of Block>
+<TextBlock 2 w:26 h:4>
+Fei
+"Bene…
+Ed ora una
+piccola pausa."<Close><End of Block>
+<TextBlock 3 w:10 h:1>
+Oh!<Opcode 2 30><Close><End of Block>
+<TextBlock 4 w:44 h:1>
+Ricevi una Ragnatela.<Close><End of Block>
+<TextBlock 5 w:34 h:3>
+Riposi nel tuo letto?
+    Sì
+    No<Close><End of Block>
+<TextBlock 6 w:46 h:1>
+Hai preso i tuoi
+soldi nascosti.<Close><End of Block>
+<TextBlock 7 w:28 h:1>
+Ricevi 200G.<Close><End of Block>
+<TextBlock 8 w:56 h:3>
+Domestica
+"Ma ora, sei così in
+salute e forte…<New>
+E tutto grazie al capo del
+nostro villaggio, Lee. Eh,
+dovresti essergli grato!"<Close><End of Block>
+<TextBlock 9 w:54 h:3>
+Domestica
+"Ciao, Fei. Hai un
+bell'aspetto oggi."<Close><End of Block>
+<TextBlock 10 w:64 h:4>
+Domestica
+"Oh, come passa il tempo!<Delay 20>
+Eh, sono già 3 anni da
+quando sei arrivato nel
+nostro villaggio…<New>
+Quando ti videro, portato
+tutto sanguinante e bagnato
+fradicio, a dirti il vero,
+non pensavano che potessi
+farcela.<New>
+E quello strano uomo
+mascherato che ti portò
+qui quel giorno…
+Pensi che fosse il tuo
+vero padre?<New>
+Non ricordi proprio nulla?
+Beh, dicono che tu avessi
+incubi terribili e che
+chiamassi continuamente
+tuo padre."<Close><End of Block>
+<TextBlock 11 w:56 h:3>
+Domestica
+"È un bene per te che ti
+piaccia dipingere, e poi
+tutto il resto…<New>
+Ma, per favore, cerca di
+non fare troppa confusione.<Delay 30>
+Pulire non è un lavoro
+tanto facile, sai!"<Close><End of Block>
+<TextBlock 12 w:34 h:1>
+Ricevi Aquasol.<Close><End of Block>
+<TextBlock 13 w:34 h:1>
+Ricevi Aquasol.<Close><Close><End of Block>

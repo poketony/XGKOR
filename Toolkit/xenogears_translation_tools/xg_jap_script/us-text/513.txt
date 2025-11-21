@@ -1,0 +1,74 @@
+#### 1 ####
+Fei
+"Damn{wait:05}...{wait:05} {wait:0A}The bleeding...
+The bleeding won't stop{wait:05}...{enter}
+If{wait:0A} things don't change{wait:05}...{wait:05}
+At this rate Elly's not
+gonna make it{wait:05}...{wait:05}!"
+
+#### 2 ####
+Elly
+"{wait:05}...{wait:05}Uh{wait:05}..."
+
+#### 3 ####
+Fei
+"Elly!{wait:0A} Hang in there!{wait:0A}
+Elly!{wait:0A} I'll save you,{wait:0A}
+I promise!{enter}
+Elly{wait:05}...!!"
+
+#### 4 ####
+Fei
+"This is incredible!"
+
+#### 5 ####
+Ol' man Bal
+"We meet again!"
+
+#### 6 ####
+Ol' man Bal
+"The host for the spirit
+of the slayer of god...{enter}
+I didn't think I would
+ever work on it again...!"
+
+#### 7 ####
+Fei
+"But why are you both
+helping me...?"
+
+#### 8 ####
+Taura
+"There are some things you
+just can't explain with
+the word{wait:05}...{wait:0A}fate.{enter}
+You're just going to have
+to see it with your own
+eyes."
+
+#### 9 ####
+Emeralda
+"Fei{wait:05}...{wait:0A}
+Going?"
+
+#### 10 ####
+Fei
+"Yeah, I'd better hurry!"
+
+#### 11 ####
+Fei
+"Hey! Where are
+you going?"
+
+#### 12 ####
+Shevat Emissary
+"Fei,{wait:0A}
+please hurry!!"
+
+#### 13 ####
+Fei
+"A,{wait:0A} alright."
+
+#### 14 ####
+ 
+

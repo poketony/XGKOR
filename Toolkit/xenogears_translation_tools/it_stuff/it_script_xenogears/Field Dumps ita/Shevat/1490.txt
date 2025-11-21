@@ -1,0 +1,95 @@
+<TextBlock 1 w:46 h:4>
+Maria
+"Sto arrivando, Solaris!<New>
+<Seibzehn> ed io saremo
+gli angeli oscuri che
+porteranno a tutti
+voi la morte!!"<Close><End of Block>
+<TextBlock 2 w:30 h:3>
+Nicola
+"<Seibzehn>!!<Delay 20>
+Ma quella è Maria?"<Close><End of Block>
+<TextBlock 3 w:36 h:4>
+Maria
+"…
+È vero che io sono
+Maria Baldassarre.<New>
+Ma… tu…<Delay 40>
+Chi sei tu…?"<Close><End of Block>
+<TextBlock 4 w:40 h:3>
+Nicola
+"Ma è ovvio che sono
+io, sono Nicola!<New>
+Guardami, Maria.
+Ecco l'esito delle
+mie ricerche!"<Close><End of Block>
+<TextBlock 5 w:48 h:3>
+Nicola
+"Questo corpo enorme,
+potente e sempre
+splendente!<New>
+Non invecchierò né
+morirò mai.<Delay 20>
+Sono rinato come
+nuova razza."<Close><End of Block>
+<TextBlock 6 w:52 h:4>
+Maria
+"…<Delay 30> Io amavo mio padre in
+quei giorni nei quali
+lui era un uomo…<New>
+Il suo sorriso caloroso…<Delay 20>
+Volevo che lui stesse<Delay 20> al
+mio fianco per sempre!!"<Close><End of Block>
+<TextBlock 7 w:50 h:4>
+Nicola
+"Maria, tu sei mia figlia.<Delay 20>
+Tu sai quanto gli uomini
+sanno essere ottusi.<New>
+Non c'è bisogno che tu
+perisca assieme a questi
+deboli umani.<Delay 20> Ora, vieni,
+Maria. Inizia con me
+una nuova vita!<New>
+Daremo inizio ad un
+nuovo capitolo della
+nostra vita.<Delay 20> Avanti,
+costruiamo assieme un
+radioso avvenire!<New>
+Io sarò al tuo fianco, e
+questa volta ti proteggerò,
+questa volta è sicuro.
+Te lo prometto."<Close><End of Block>
+<TextBlock 8 w:20 h:3>
+Maria
+"…<Delay 30>
+Padre…"<Close><End of Block>
+<TextBlock 9 w:36 h:3>
+Maria
+"…!!          
+<Seibzehn>…!?"<Close><End of Block>
+<TextBlock 10 w:52 h:4>
+Nicola
+"<Seibzehn>…<Delay 20>
+Cosa? Osi ribellarti a
+me, il tuo creatore?"<Close><End of Block>
+<TextBlock 11 w:34 h:3>
+Maria
+"Ma… è…!!<Delay 20>
+<Seibzehn>!?"<Close><End of Block>
+<TextBlock 12 w:50 h:4>
+Nicola
+"Interessante…<Delay 20>
+Accetto la sfida.<New>
+Vi mostrerò la grandiosità   
+di Nicola ed il potere di
+Achtzehn.<Delay 20> Vieni, <Seibzehn>!!"<Close><End of Block>
+<TextBlock 13 w:20 h:3>
+Maria
+"…<Delay 20>
+Padre…"<Close><End of Block>
+<TextBlock 14 w:50 h:5>
+Maria
+"<Seibzehn> ed io saremo
+gli angeli oscuri che
+porteranno a tutti
+voi 'la morte'!!"<Close><End of Block>

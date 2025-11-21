@@ -1,0 +1,165 @@
+<TextBlock 1 w:34 h:3>
+Quanti anni avevo…?<Delay 10>
+Non lo ricordo.
+Forse 8… o 9.<New>
+Fu in quel periodo
+che papà m'insegnò
+come usare una pistola.<Close><End of Block>
+<TextBlock 2 w:32 h:2>
+Poi, un giorno,
+papà scomparve.<Close><End of Block>
+<TextBlock 3 w:44 h:1>
+Se ne andò senza
+dirci nulla.<Close><End of Block>
+<TextBlock 4 w:38 h:1>
+Non tornò mai.<Close><End of Block>
+<TextBlock 5 w:52 h:3>
+Eppure, stavo nella
+sua camera spesso,
+da solo.<New>
+La pistola di papà,<Delay 10> 
+l'odore di papà.<Delay 10><New>
+Queste cose erano
+tutto ciò che mi
+era rimasto per
+ricordarmi di lui.<Close><End of Block>
+<TextBlock 6 w:38 h:2>
+Ma quella felicità
+non durò molto…<Close><End of Block>
+<TextBlock 7 w:50 h:4>
+Quando avevo 12 anni,
+la mia casa fu attaccata
+dai Mietitori e mia
+madre fu uccisa.<New>
+Cercavano papà, ma
+mamma non volle parlare.<Close><End of Block>
+<TextBlock 8 w:56 h:3>
+Ancora posso sentirlo…<Delay 10>
+Il rumore dei proiettili,
+che erano lentamente
+sparati… per tre volte…<New>
+Ricordo addirittura il
+rumore dei bossoli
+vuoti che cadevano
+per terra.<New>
+E dopo, i Mietitori
+gridarono, ed io sentii
+cadere qualcuno.<Close><End of Block>
+<TextBlock 9 w:54 h:2>
+Fu il Vescovo Stone ad
+aiutarci in quel periodo.<Delay 10><New>
+Incontrarlo ha cambiato
+la mia vita sin d'allora.<Close><End of Block>
+<TextBlock 10 w:46 h:3>
+Bart
+"Ehi, ehi, aspetta!<Delay 10> 
+I Mietitori parlano?"<Close><End of Block>
+<TextBlock 11 w:48 h:4>
+Shitan
+"Aspetta un attimo.<Delay 10> 
+I Mietitori parlano
+in un linguaggio umano?"<Close><End of Block>
+<TextBlock 12 w:52 h:4>
+BIlly
+"Sì.<Delay 10> Essi non sono
+solo dei mostri.<New>
+Alcuni di loro sono
+più intelligenti
+degli esseri umani."<Close><End of Block>
+<TextBlock 13 w:48 h:4>
+Primera ed io ci
+nascondemmo nell'ombra,
+sfuggendo alla morte, ma
+lei da quel momento non
+ha più parlato.<Close><End of Block>
+<TextBlock 14 w:52 h:3>
+Come un dono di dio, il
+gentile, forte Vescovo
+Stone mi diede un
+esempio da seguire.<New>
+Volevo aiutare a salvare
+la gente bisognosa, come
+lui ci aveva aiutati.<New>
+Non volevo che ci
+fossero altri bambini
+come Primera…<New>
+Perciò iniziai ad
+addestrarmi presso la
+Chiesa, per diventare
+proprio come lui, come
+il Vescovo Stone.<Close><End of Block>
+<TextBlock 15 w:46 h:3>
+Lasciai Prim nelle
+mani della Chiesa,
+e presi i voti.<Close><End of Block>
+<TextBlock 16 w:40 h:1>
+Molti anni passarono…<Close><End of Block>
+<TextBlock 17 w:40 h:3>
+Finii di addestrarmi
+al monastero, e
+divenni un Redentore.<Close><End of Block>
+<TextBlock 18 w:40 h:2>
+Ritornai a casa per
+aprire l'orfanotrofio…<Close><End of Block>
+<TextBlock 19 w:46 h:2>
+E lui…<Delay 10> era
+inaspettatamente
+tornato.<Close><End of Block>
+<TextBlock 20 w:50 h:3>
+Ma era diverso.<Delay 10>
+Un qualche terribile
+incidente lo aveva
+cambiato.<New>
+Non solo il suo aspetto,
+ma anche il suo carattere
+ed il suo modo di fare
+erano completamente cambiati.<New>
+Io lo ricordavo come
+un uomo calmo…<Close><End of Block>
+<TextBlock 21 w:50 h:3>
+Ma…<Delay 10> più che questo,
+ho pensato che forse
+non lo ricordavo proprio…<Close><End of Block>
+<TextBlock 22 w:48 h:3>
+È per questo…<Delay 10>
+che non ho mai potuto
+ritenerlo un padre…<Close><End of Block>
+<TextBlock 23 w:52 h:3>
+Ma a Prim serviva un
+padre, e gli si era
+affezionata.<New>
+Nel profondo del mio
+cuore, anch'io pensavo
+di volere un padre.<Close><End of Block>
+<TextBlock 24 w:44 h:4>
+Ma…<Delay 10> tuttora, non
+riesco proprio a
+credere che lui sia
+il mio vero padre.<Close><End of Block>
+<TextBlock 25 w:54 h:5>
+Stone
+"4 anni fa…<New>
+Dopo averlo cercato
+per tutti gli angoli
+del mondo…<New>
+… non si riuscì a
+trovare nessuna
+traccia di lui."<Close><End of Block>
+<TextBlock 26 w:48 h:3>
+Stone
+"Rachele, da lui
+insudiciata<Delay 5>…<Delay 5><New>
+… e tu e tua sorella…<Delay 30>
+siete le persone che mi
+fate ricordare di quella
+impurità<Delay 30>…"<Close><End of Block>
+<TextBlock 27 w:52 h:4>
+Stone
+"Grazie alla saggezza di
+Krelian, usando i Wels…<New>
+… salvai Rachele dallo
+squallore di quell'uomo…<New>
+… e dal soffrire
+a causa sua…"<Close><End of Block>
+<TextBlock 28 w:0 h:1>
+<Close><End of Block>

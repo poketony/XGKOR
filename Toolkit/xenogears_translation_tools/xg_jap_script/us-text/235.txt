@@ -1,0 +1,342 @@
+#### 1 ####
+I'm slippin'{clear:28}
+
+#### 2 ####
+Hammer
+"Yiiiiiiiiikkkessssss!!"
+
+#### 3 ####
+Fei
+"Yeah{wait:05}..."{wait:50}
+
+#### 4 ####
+Fei
+"What happened, doc...{wait:0F}
+...{wait:0F}!!"
+
+#### 5 ####
+Fei
+"...{wait:0A}It's him."
+
+#### 6 ####
+Fei
+"I'm going out with
+the Gear..."
+
+#### 7 ####
+Fei
+"...{wait:14}Doc. I don't know how
+to say this but...I've got
+a bad feeling."
+
+#### 8 ####
+Fei
+"It's not that.
+It's not like...{enter}
+It's like this feeling
+of uneasiness that
+I've had before..."
+
+#### 9 ####
+Fei
+"And I feel like we're
+being watched..."
+
+#### 10 ####
+Citan
+"Are you thinking of
+that man in black?{enter}
+Thinking about him will
+not get you anywhere.
+First of all, it is not
+like you..."
+
+#### 11 ####
+Citan
+"You too!?{enter}
+Well, to tell the truth,
+I am getting a terrible
+feeling of deja vu..."
+
+#### 12 ####
+Citan
+"The shaking has
+subsided. We should be
+in good shape for now."
+
+#### 13 ####
+Citan
+"!!
+Fei!"
+
+#### 14 ####
+Citan
+"If it is them,
+they are okay.{enter}
+Nevermind that,
+Hammer, go to
+that trigger!"
+
+#### 15 ####
+Citan
+"You must fire.
+Look, it is coming."
+
+#### 16 ####
+Citan
+"Hammer! Calm down and
+concentrate. It is
+heading straight at us.{enter}
+All you have to do is
+aim well, pull the
+trigger and fire."
+
+#### 17 ####
+Citan
+"Good, keep it there and
+do not move your aim.
+Get ready to fire in..."
+
+#### 18 ####
+{fast:FF}5...{wait:50}4...{wait:50}3...{wait:50}2...{wait:50}1...{wait:50}
+Fire!!{clear:3C}
+
+#### 19 ####
+Rico
+"..."
+
+#### 20 ####
+{fast:FF}Rico
+"Shut up!!!"{wait:78}
+
+#### 21 ####
+Elly
+"That person...{wait:1E}wasn't
+aiming for me.
+Why...{wait:0A}?"
+
+#### 22 ####
+Elly
+"..."
+
+#### 23 ####
+Elly
+"Th, that's..."
+
+#### 24 ####
+Elly
+"Fei,
+where are you going!?"
+
+#### 25 ####
+Elly
+"Fei!"
+
+#### 26 ####
+Hammer
+"Awww, Master Rico...
+please don't be mad.
+It was just a joke.{enter}
+Master Rico, it's because
+of you I am what I am.
+C'mon..."
+
+#### 27 ####
+Hammer
+"Geeze!{wait:14} Why am I the one
+getting yelled at when it
+was me who took'm out..."
+
+#### 28 ####
+Hammer
+"Bro, what're we gonna
+do now?
+Go to Aveh as planned?"
+
+#### 29 ####
+Hammer
+"M, Master!?"
+
+#### 30 ####
+Hammer
+"Even Elly..."
+
+#### 31 ####
+Hammer
+"Aaaaaaah!
+Looook ooouut!!{enter}
+Master Citan!! It's alright
+to throw the black creep,
+but bro and Master Rico as
+well...?"
+
+#### 32 ####
+Hammer
+"Trigger{wait:05}...?{wait:05}
+You mean this?
+What do I do with..."
+
+#### 33 ####
+?
+
+#### 34 ####
+Hammer
+"The¡«y're he¡«re!!"
+
+#### 35 ####
+Hammer
+"Aiming..."
+
+#### 36 ####
+Hammer
+"L, like this?"
+
+#### 37 ####
+Hammer
+"Y,{wait:0F} ye,{wait:0F} ye,{wait:19}
+aaaaaawwww yeeeaaahhh!!!"
+
+#### 38 ####
+Hammer
+"Master, sir, did you
+just see my MAD SKILLZ!?{enter}
+I just might be a genius!{wait:0A}
+...{wait:14}Wha?"
+
+#### 39 ####
+Hammer
+"By the way, what's up
+with bro and the gang?{enter}
+You don't think they
+fell off?"
+
+#### 40 ####
+Hammer
+"Well, at least you
+still got me.{enter}
+It should be a piece
+o'cake with me around.
+Right, Master, sir?"
+
+#### 41 ####
+SMACK!!
+
+#### 42 ####
+Elly
+"What's wrong?"
+
+#### 43 ####
+Fei
+"Oh, it's nothing."
+
+#### 44 ####
+Elly
+"Okay... I'm glad..."
+
+#### 45 ####
+Elly
+"Anyway, Citan is it
+okay? We're flying in
+such a large ship. {enter}
+What if Kislev or Aveh
+finds us..."
+
+#### 46 ####
+Citan
+"We are fine. I thought
+ahead and picked a course
+over the sea.{enter}
+There are not any military
+units stationed out here.{enter}
+Even then, this thing is
+not something that will
+go down so easily..."
+
+#### 47 ####
+Citan
+"This cannot be right!?{wait:0A}
+Are we being attacked!?"
+
+#### 48 ####
+Fei
+"Enemies!?"
+
+#### 49 ####
+Citan
+"I do not know. But I did
+not think they would be
+submerged here..."
+
+#### 50 ####
+Elly
+"Are we okay!?"
+
+#### 51 ####
+Citan
+"...Unfortunately, there
+is no way we can avoid
+descending.{enter}
+Fei, Elly, get out first.
+I will follow later."
+
+#### 52 ####
+Fei
+"But..."
+
+#### 53 ####
+Citan
+"We have no time for a
+debate now, Fei!!{enter}
+Do you think you have the
+skills needed to keep the
+Goliath in the air as long
+as possible!?"
+
+#### 54 ####
+Fei
+"..."
+
+#### 55 ####
+Citan
+"Then hurry up
+and get out."
+
+#### 56 ####
+Citan
+"Now then{wait:0A}...{wait:0A}"
+
+#### 57 ####
+Citan
+"...And you too, Hammer!
+You are going too!"
+
+#### 58 ####
+Hammer
+"Y, yy, yessir!!"
+
+#### 59 ####
+Rico
+"Argh! Quit dawdling.
+We're going."
+
+#### 60 ####
+Hammer
+"Yessir!!"
+
+#### 61 ####
+Citan
+"Now...where did
+they..."
+
+#### 62 ####
+Citan
+"!!{wait:14}
+That ship{wait:0A}...{wait:0A}"
+
+#### 63 ####
+Citan
+"Sigurd{wait:0A}...{wait:0A}{enter}
+I think you need to
+rethink your method of
+discipli
+

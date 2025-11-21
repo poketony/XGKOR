@@ -1,0 +1,58 @@
+#### 1 ####
+Citan
+"Fei!?{wait:0A} This must mean
+this is {name:0B:¥ô¥§¥ë¥È©`¥ë}'s
+transformed appearance!?"
+
+#### 2 ####
+Bart
+"Is that Fei!?{wait:0A}
+Hey, you think this
+is {name:0B:¥ô¥§¥ë¥È©`¥ë}?"
+
+#### 3 ####
+Billy
+"Fei!?{wait:0A}
+Then this must be...
+{name:0B:¥ô¥§¥ë¥È©`¥ë}!?"
+
+#### 4 ####
+Rico
+"Fei!?{wait:0F} I'll be{wait:05}...!{wait:05}
+This means that's gotta
+be{wait:05} {name:0B:¥ô¥§¥ë¥È©`¥ë}!?"
+
+#### 5 ####
+Emeralda
+"Fei!?{wait:0F}
+Then this is{wait:05}...{wait:05}
+{name:0B:¥ô¥§¥ë¥È©`¥ë}?"
+
+#### 6 ####
+{name:07:¥Á¥å¥Á¥å}
+"Is thatchu,{wait:05} Fei!?{wait:0F}
+Hey, then this is
+{name:0B:¥ô¥§¥ë¥È©`¥ë}?"
+
+#### 7 ####
+Maria
+"Fei!?{wait:0F}
+T, then,{wait:05} is this{wait:05}...{wait:05}
+{name:0B:¥ô¥§¥ë¥È©`¥ë}?"
+
+#### 8 ####
+Citan
+"Fei!?{wait:0A} This must mean
+this is {name:0B:¥ô¥§¥ë¥È©`¥ë}'s
+transformed appearance!?"
+
+#### 9 ####
+Emeralda
+"Fei!?{wait:0F}
+Then this{wait:05}...{wait:05}
+{name:0B:¥ô¥§¥ë¥È©`¥ë}?"
+
+#### 10 ####
+{name:80:unknown}
+"..."
+

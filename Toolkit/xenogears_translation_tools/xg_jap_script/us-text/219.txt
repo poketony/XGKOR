@@ -1,0 +1,71 @@
+#### 1 ####
+I'm{wait:0F}...{wait:1E}
+alive?{wait:14}
+...{wait:14}?
+
+#### 2 ####
+Who{wait:0F}...{wait:0F}are you?
+Why, {wait:0F}me?
+
+#### 3 ####
+Wait{wait:0A}...
+
+#### 4 ####
+...{wait:1E}Elly,
+Elly{wait:0A}...{wait:0A}
+
+#### 5 ####
+Who{wait:0A}...?
+
+#### 6 ####
+{wait:0A}...{wait:0A}Elly!
+
+#### 7 ####
+You're{wait:0A}...
+
+#### 8 ####
+Fei?
+
+#### 9 ####
+Elly
+"Fei?"
+
+#### 10 ####
+Fei
+"...{wait:0A}
+Stupid{wait:0A}...{wait:0A}foolish{wait:0A}..."
+
+#### 11 ####
+Elly
+"...{wait:0A}Are you{wait:0A}...{wait:0A}crying?
+{wait:14}...{wait:0A}sorry."
+
+#### 12 ####
+Fei
+"...{wait:0A}It's okay."
+
+#### 13 ####
+Elly
+"Can you{wait:0A}...{wait:0A}
+...{wait:0A}forgive me?"
+
+#### 14 ####
+Fei
+"...{wait:0A}It's not your fault,
+Elly.{wait:0A}
+It's not your fault{wait:0A}..."
+
+#### 15 ####
+Elly
+"Fei..."
+
+#### 16 ####
+Fei
+"Elly, let's 
+go back."
+
+#### 17 ####
+Elly
+"...{wait:14}'That person'{wait:14}
+where{wait:0A}..."
+

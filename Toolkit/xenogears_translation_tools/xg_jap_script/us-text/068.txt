@@ -1,0 +1,187 @@
+#### 1 ####
+Fei
+"I'm{wait:05}...{wait:0A}so {wait:0A}
+very...{wait:0A}tired{wait:05}..."
+
+#### 2 ####
+They must've followed
+us from the Cavern!{wait:0A}
+We screwed up!
+
+#### 3 ####
+That look...{wait:0A} 
+You must think we're a 
+bunch of murderers?{wait:1E} 
+Well, we ain't...{enter}
+We don't murder.
+Hell, we even save the
+lives of our enemies. 
+This is Bart's police.
+
+#### 4 ####
+(I mean, 'Policy'??)
+
+#### 5 ####
+Damn it!! Gebler!!
+
+#### 6 ####
+We'll leave first thing
+tomorrow. Are you ready?
+    {fast:FF}Wait
+    Alright
+
+#### 7 ####
+Let me know when 
+you're ready.
+
+#### 8 ####
+Did you forget anything?
+    {fast:FF}Wait a sec
+    I'm okay
+
+#### 9 ####
+Let me know when 
+you're ready.
+
+#### 10 ####
+Okay. Sleep well.
+
+#### 11 ####
+You wanna rest in a 
+place like this?{enter}
+You've gotta be
+kidding...{wait:1E}
+    {fast:FF}Let me rest
+    Maybe later
+
+#### 12 ####
+Hey! I know it's a 
+dump, but tough it out.
+
+#### 13 ####
+Whenever you wanna rest 
+just lemme know.
+
+#### 14 ####
+That's what I thought.
+
+#### 15 ####
+Huh? {wait:1E}
+I thought it was our
+snoring.
+
+#### 16 ####
+...sniff, sniff...{wait:0A}
+Poor Helen...
+
+#### 17 ####
+!!{clear:0A}
+
+#### 18 ####
+I'm reading, beat it!
+
+#### 19 ####
+This is no time 
+for sleeping!!
+
+#### 20 ####
+You gotta rest when you
+can so you can act when
+you gotta. {wait:0A}{enter}
+Knowing when to do what
+is important.
+
+#### 21 ####
+Which bed's better...?{clear:3C}
+
+#### 22 ####
+Oh my god! 
+We've been found!
+
+#### 23 ####
+We were just one step
+from peace between Aveh
+and Kislev. {enter}
+Then, it is said, Bart's
+father, Edbart IV, was
+assassinated by Shakhan.
+
+#### 24 ####
+You won't get away 
+with this Shakhan!!
+
+#### 25 ####
+He makes my blood boil!
+
+#### 26 ####
+Almost all the Gear 
+are under repair!!
+
+#### 27 ####
+...Sigh... This injury
+is so pathetic...{wait:1E}
+I can't let the Master 
+see me like this.
+
+#### 28 ####
+Owwww!!{wait:1E}
+Please be more careful.
+
+#### 29 ####
+Good medicine always
+tastes bad.{wait:0A} 
+Everyone knows that.{wait:0A} 
+Next is your shot!
+
+#### 30 ####
+Yipes, you're glaring!
+
+#### 31 ####
+Huh, what?
+
+#### 32 ####
+When you are sick, just 
+tell me. I'll give you a
+big shot and fix you up
+right away.
+
+#### 33 ####
+This is no time 
+for games!
+
+#### 34 ####
+Hey, do you have 
+Margarita's card?
+
+#### 35 ####
+Nope, I don't. {wait:0A}
+But I have Beth's.
+
+#### 36 ####
+Has the base been found?
+
+#### 37 ####
+I can't seem to get any.{wait:1E}
+(I mean cards, you fool!)
+
+#### 38 ####
+What is it, what?
+
+#### 39 ####
+A little rest...
+
+#### 40 ####
+What was that crash?
+
+#### 41 ####
+Gears have entered the
+Yggdrasil's dock!{enter}
+5 Gebler special force
+Gears, and one single
+unidentifed large Gear.{enter}
+All pilots report to
+the Gear Hangar!
+
+#### 42 ####
+
+

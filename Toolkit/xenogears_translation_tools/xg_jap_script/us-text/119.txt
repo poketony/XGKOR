@@ -1,0 +1,207 @@
+#### 1 ####
+Citan
+"This...
+is not good..."{clear:3C}
+
+#### 2 ####
+Bart
+"See ya, you bald geezer!
+We'll settle this later.
+Till then...
+go get your
+head waxed!"{clear:50}
+
+#### 4 ####
+Bart
+"Let's go!"
+
+#### 5 ####
+!{clear:14}
+
+#### 6 ####
+Sigurd
+"Crap! An ambush!"
+
+#### 7 ####
+Citan
+"Oh-oh...!{wait:64}
+Where is Kahr...?"
+
+#### 8 ####
+Miang
+"I see you are quick
+to catch on.{enter}
+Ramsus should be taking
+care of all your divided
+forces out by the Nisan
+border as we speak.{enter}
+Ramsus easily saw through
+your plan to use a feint
+attack by Kislev long ago.
+Don't underestimate us...{enter}
+Hyuga, have you lived
+down here so long that
+your mind has slipped?{enter}
+And Sigurd, who would have
+thought you would have
+joined the last survivors
+of the royal dynasty..."
+
+#### 9 ####
+Sigurd
+"Damn it...why are you
+still backing Shakhan?{enter}
+What does it matter to
+you who the king is?"
+
+#### 10 ####
+Miang
+"Hah! You suggest the son
+of murdered King Fatima?
+He refused to cooperate!{enter}
+You mean to say that now
+he wants to be our
+puppet all of a sudden?{enter}
+That I don't believe...
+even coming from the mouth
+of a traitor like you.{enter}
+Ha ha ha... Besides,
+stupidity in puppets
+has its advantages."
+
+#### 11 ####
+Shakhan
+"Stu, stupidity!?
+Miang, what's that
+supposed to mean?"
+
+#### 12 ####
+Miang
+"Minister Shakhan, I'll let
+you handle this. You must
+protect your own position.{enter}
+We don't care who is
+sitting on the throne.
+Any obedient sheep
+would be fine.{enter}
+However, isn't there 
+something that you
+still have to do?{enter}
+If you will only do that,
+then we'll help you as
+much as possible."
+
+#### 13 ####
+Shakhan
+"Yes, you don't have
+to tell me.{enter}
+One must take care of
+one's own country's
+criminals personally."
+
+#### 14 ####
+Miang
+"Then, with your
+permission I shall
+take my leave..."
+
+#### 15 ####
+Bart
+"Hey now! 
+Wait a minute!!"
+
+#### 16 ####
+Miang
+"Goodbye...{wait:32}boys."
+
+#### 17 ####
+Shakhan
+"You pirate...no you're
+just a sandworm. You've
+caused me enough shame.{enter}
+But this is the end. You
+didn't know your place
+and now all that awaits
+you is annihilation.{enter}
+Prepare to fire...!"
+
+#### 18 ####
+Shakhan
+"Wha!?"
+
+#### 19 ####
+Maison
+"You wretched rebel,
+Shakhan!{enter}
+Make one move and
+this gatling gun
+shall be spitting
+fire!"
+
+#### 20 ####
+Bart
+"Old Maison!"
+
+#### 21 ####
+Maison
+"Reinforcements have
+arrived, young master.
+Please come aboard."
+
+#### 22 ####
+Maison
+"Shall we depart?"
+
+#### 23 ####
+Shakhan
+"Is this some kind of joke?{wait:64}
+Hmm, It seems sandworms
+can't fly after all.{enter}
+Just surrender.
+Thanks for the laughs...
+I almost hate to have
+to shoot you."
+
+#### 24 ####
+Bart
+"Crap! I guess we're
+gonna get mauled..."
+
+#### 25 ####
+Maison
+"Everyone...
+please get down."
+
+#### 26 ####
+Bart
+"Do you have a
+plan, Maison?"
+
+#### 27 ####
+Maison
+"Leave it to me."
+
+#### 28 ####
+Bart
+"Maison, you're just
+walking in circles."{clear:64}
+
+#### 29 ####
+Maison
+"Just leave it to me."{clear:3C}
+
+#### 30 ####
+Bart
+"You've saved us the
+trouble of finding you,
+Shakhan! Now get ready!"
+
+#### 31 ####
+Shakhan
+"We've been
+expecting you!"
+
+#### 32 ####
+Bart
+"What!?"
+

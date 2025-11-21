@@ -1,0 +1,56 @@
+<TextBlock 1 w:32 h:4>
+ 
+ Benvenuto al 
+ 'Merry Go Pop' 
+           <Close><End of Block>
+<TextBlock 2 w:52 h:5>
+Le regole sono semplici.<New>
+Palloncini di diverso colore
+usciranno dai quattro
+buchi.<New>
+Devi farli scoppiare.
+A seconda del colore,
+riceverai dei punti.<New>
+    Blu      10 punti
+    Verde    20 punti
+    Giallo   40 punti
+    Viola    80 punti
+    Bianco  -100 punti<New>
+Il premio dipenderà da 
+quanti punti avrai allo 
+scadere del tempo.<Close><End of Block>
+<TextBlock 3 w:34 h:4>
+Scegli il livello
+    Facile
+    Difficile
+    Spiega regole<Close><End of Block>
+<TextBlock 4 w:32 h:3>
+<Opcode 1 255> 
+ Inizia il gioco
+              <Close><End of Block>
+<TextBlock 5 w:28 h:3>
+ 
+ Il tempo è scaduto… 
+            <Close><End of Block>
+<TextBlock 6 w:20 h:3>
+Hai…<Delay 30>
+ 
+<Opcode 12 0> punti.<Close><End of Block>
+<TextBlock 7 w:32 h:2>
+Il premio è…<Delay 30>
+<Opcode 4 0><End of Block>
+<TextBlock 8 w:20 h:2>
+Ricevi
+<Opcode 4 20><Close><End of Block>
+<TextBlock 9 w:20 h:1>
+È tutto.<Close><End of Block>
+<TextBlock 10 w:8 h:1>
+-100<Opcode 2 30><Close><End of Block>
+<TextBlock 11 w:4 h:1>
+10<Opcode 2 30><Close><End of Block>
+<TextBlock 12 w:4 h:1>
+20<Opcode 2 30><Close><End of Block>
+<TextBlock 13 w:4 h:1>
+40<Opcode 2 30><Close><End of Block>
+<TextBlock 14 w:4 h:1>
+80<Opcode 2 30><Close><End of Block>

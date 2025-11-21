@@ -1,0 +1,25 @@
+<TextBlock 1 w:54 h:4>
+Maria
+"Se premi questo
+pulsante…<New>
+… potrai cambiare
+la direzione in
+cui gira l'elica."<Close><End of Block>
+<TextBlock 2 w:42 h:3>
+Vuoi salire?<Delay 10>
+    Sì
+    No<Close><End of Block>
+<TextBlock 3 w:42 h:3>
+Vuoi salire?<Delay 10>
+    Sì
+    No<Close><End of Block>
+<TextBlock 4 w:46 h:3>
+Vuoi scendere?<Delay 10>
+    Sì
+    No<Close><End of Block>
+<TextBlock 5 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 6 w:38 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><Close><End of Block>

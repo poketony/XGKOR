@@ -1,0 +1,15 @@
+<TextBlock 1 w:46 h:4>
+Bart
+"Ah ah ah!!
+Quella è la potenza
+del Missile Bart!!<New>
+Neanche i prototipi
+di Kislev possono
+nulla contro di lui!!"<Close><End of Block>
+<TextBlock 2 w:14 h:3>
+Bart
+"… Uh, ehi<Delay 10>…"<Space 1><Close><End of Block>
+<TextBlock 3 w:30 h:3>
+Bart
+"S… stai indietro<Delay 10>…<Delay 10><Space 1>
+Allontanati!!"<Close><Close><End of Block>

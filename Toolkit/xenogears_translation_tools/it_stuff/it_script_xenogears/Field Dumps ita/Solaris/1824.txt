@@ -1,0 +1,13 @@
+<TextBlock 1 w:52 h:4>
+Ramsus
+"Avanti, avanti, avanti!
+Tu, demonio<Delay 45>…<New>
+E questa volta sono sicuro
+che ti ucciderò!!"<Close><End of Block>
+<TextBlock 2 w:46 h:3>
+Ramsus
+"È così, è così…
+Eh eh<Delay 15>…<New>
+È venuto fin qui solo
+per farsi uccidere…
+<Delay 15>Ygha-a-a-a-a-ah!!"<Close><Close><End of Block>

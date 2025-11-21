@@ -1,0 +1,32 @@
+#### 1 ####
+Central elevator's
+lock is released.
+
+#### 2 ####
+Booting up the
+central elevator's
+lock system.
+
+#### 3 ####
+Releasing the central
+elevator's lock...
+
+#### 4 ####
+Done!
+
+#### 5 ####
+To unlock Anima Relic: {enter}
+Lock-off codes must be
+inputted into terminals
+A to D which are situated
+around this area.{enter}
+Upon completion, the main
+system will be engaged.
+
+#### 6 ####
+Anima Relic lock off code: {enter}
+Input numbers so the
+vertical and horizontal
+sums are equal without
+reusing the same numbers.
+

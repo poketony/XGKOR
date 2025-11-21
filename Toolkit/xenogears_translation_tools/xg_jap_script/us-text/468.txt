@@ -1,0 +1,103 @@
+#### 1 ####
+Fei
+"Is this...
+what we ate earlier...?"
+
+#### 2 ####
+Fei
+"Yak...{wait:1E}
+I don't want to see
+where they make it."
+
+#### 3 ####
+Fei
+"What is it...?{wait:1E}
+What's supposed to be...
+there, exactly?"
+
+#### 4 ####
+Fei
+"Damn, 
+we can't go forward."
+
+#### 5 ####
+Fei
+"Damn, 
+we can't go forward."
+
+#### 6 ####
+Fei
+"Damn, 
+we can't go forward."
+
+#### 7 ####
+Elly
+"I see...{wait:1E}
+The medicine we normally
+use is made here..."
+
+#### 8 ####
+Elly
+"I wonder...{wait:1E}
+what kind of meat
+this is...?"
+
+#### 9 ####
+Elly
+"What about that
+canned food?"
+
+#### 10 ####
+Citan
+"Wait, Fei."
+
+#### 11 ####
+Citan
+"You ate that food.{wait:1E}
+Consider that fact when
+you open that door."
+
+#### 12 ####
+Citan
+"See for yourselves."
+
+#### 13 ####
+Citan
+"The sensor control room
+should have been there."
+
+#### 14 ####
+Citan
+"If you turn off the
+foreign object detector,{enter}
+you will be able to move
+forward."
+
+#### 15 ####
+Foreign object detected,
+discharging object.
+
+#### 16 ####
+Foreign object detected,
+discharging object.
+
+#### 17 ####
+Foreign object detected,
+discharging object.
+
+#### 18 ####
+You have too many
+{str}.
+
+#### 19 ####
+ 
+ Received {str}.
+
+#### 20 ####
+You have too many
+{str}.
+
+#### 21 ####
+ 
+ Received {str}.
+

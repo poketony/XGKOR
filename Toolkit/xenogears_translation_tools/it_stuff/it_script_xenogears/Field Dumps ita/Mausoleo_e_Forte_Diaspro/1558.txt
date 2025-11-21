@@ -1,0 +1,9 @@
+<TextBlock 1 w:50 h:3>
+Fei
+"Aspetta un attimo!<Delay 30>
+Ma… quanto scendono
+ancora 'ste scale!?"<Close><End of Block>
+<TextBlock 2 w:44 h:3>
+Bart
+"Tieni duro.
+Solo un altro po'."<Close><Close><End of Block>

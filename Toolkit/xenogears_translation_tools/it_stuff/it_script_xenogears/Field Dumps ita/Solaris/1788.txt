@@ -1,0 +1,306 @@
+<TextBlock 1 w:38 h:1>
+Fei, tieni duro!<Opcode 2 60><Close><End of Block>
+<TextBlock 2 w:36 h:3>
+Fei
+"…<Delay 20>…<Delay 20>…<Delay 20>…<Delay 20>
+Tu… traditore!!"<Close><End of Block>
+<TextBlock 3 w:50 h:4>
+Fei
+"Ma che 'fermati'
+e 'fermati', Bart!!<New>
+Lui ci ha traditi!
+Ha tradito noi
+ed Elly!"<Close><End of Block>
+<TextBlock 4 w:20 h:3>
+Fei
+"Lasciami!
+Lasciami andare!"<Close><End of Block>
+<TextBlock 5 w:24 h:2>
+Fei
+"Billy…!?"<Close><End of Block>
+<TextBlock 6 w:38 h:4>
+Fei
+"Cosa…?
+Ma prima Doc…
+Ma è vero?"<Close><End of Block>
+<TextBlock 7 w:12 h:2>
+Fei
+"Doc?"<Close><End of Block>
+<TextBlock 8 w:40 h:2>
+Fei
+"Adesso capisco…"<Close><End of Block>
+<TextBlock 9 w:22 h:2>
+Fei
+"È proprio così?"<Close><End of Block>
+<TextBlock 10 w:12 h:2>
+Fei
+"…?"<Close><End of Block>
+<TextBlock 11 w:44 h:4>
+Fei
+"Aspetta!<Delay 20>
+Che è successo ad Elly?
+Tu non eri con lei?"<Close><End of Block>
+<TextBlock 12 w:38 h:2>
+Fei
+"Perché solo Elly…?"<Close><End of Block>
+<TextBlock 13 w:48 h:2>
+Fei
+"È per questo che…
+Elly…?"<Close><End of Block>
+<TextBlock 14 w:40 h:2>
+Fei
+"E Doc, invece…?"<Close><End of Block>
+<TextBlock 15 w:24 h:3>
+Fei
+"Doc!
+Una spada…?"<Close><End of Block>
+<TextBlock 16 w:24 h:3>
+Fei
+"… Capisco…
+… Ma…"<Close><End of Block>
+<TextBlock 17 w:40 h:3>
+Fei
+"Sei sempre così
+imprevedibile, Doc…"<Close><End of Block>
+<TextBlock 18 w:46 h:3>
+Bart
+"Fei, ti sei svegliato?
+Presto! Andiamo!"<Close><End of Block>
+<TextBlock 19 w:32 h:2>
+Bart
+"Fermati! Fei!"<Close><End of Block>
+<TextBlock 20 w:38 h:3>
+Bart
+"Fermati! Fei!
+Ti stai sbagliando!"<Close><End of Block>
+<TextBlock 21 w:42 h:4>
+Bart
+"Ecco…<Delay 35> Quando parla Billy
+tu ascolti, mentre se
+parlo io…"<Close><End of Block>
+<TextBlock 22 w:52 h:4>
+Bart
+"Ascoltami bene!<New>
+Quel coso lì, il
+Limitatore, si trova
+innestato nei nostri
+corpi.<New>
+Al momento, l'unico posto
+dove possiamo farceli
+togliere è proprio questo
+centro di ricerca!<New>
+Shitan ha ingannato
+Krelian e quegli altri
+tipi…<New>
+… e ci ha portati qui
+per farci rimuovere il
+Limitatore!"<Close><End of Block>
+<TextBlock 23 w:14 h:2>
+Bart
+"Sì!"<Close><End of Block>
+<TextBlock 24 w:42 h:4>
+Bart
+"A proposito, Shitan…
+Il Limitatore di Fei
+l'hai rimosso, no?"<Close><End of Block>
+<TextBlock 25 w:46 h:3>
+Bart
+"Bene allora.
+Usciamo da qui!"<Close><End of Block>
+<TextBlock 26 w:44 h:3>
+Bart
+"Non m'importa quale
+sia il motivo!<New>
+Per adesso, andiamo
+ad aiutare Elly ed
+usciamo presto di qui!"<Close><End of Block>
+<TextBlock 27 w:48 h:4>
+Bart
+"Ehi! Shitan!<New>
+Lascia fare a me, per
+quanto riguarda la
+situazione di Fei e
+di Elly!<New>
+Ora che ci è stato
+tolto il Limitatore,
+Solaris è spacciata!"<Close><End of Block>
+<TextBlock 28 w:50 h:2>
+Bart
+"Dici…
+sul serio…?"<Close><End of Block>
+<TextBlock 29 w:34 h:3>
+Billy
+"Calmati, Fei!<New>
+Bart non sta mentendo,
+è stato Shitan ad
+aiutarci!"<Close><End of Block>
+<TextBlock 30 w:54 h:4>
+Billy
+"Non le è stato innestato
+nessun Limitatore?<New>
+Non sarà forse perché
+Elly proviene da
+Solaris?"<Close><End of Block>
+<TextBlock 31 w:50 h:4>
+Billy
+"Hai ragione.<New>
+Se perdiamo tempo qui…<New>
+… rischiamo di mettere in
+pericolo le persone andate
+ad aiutare i genitori
+di Elly."<Close><End of Block>
+<TextBlock 32 w:48 h:4>
+Billy
+"Shitan, noi andremo al
+laboratorio privato di
+Krelian, come pianificato.<New>
+Ci incontreremo nel
+posto prestabilito."<Close><End of Block>
+<TextBlock 33 w:54 h:4>
+Shitan
+"Questa non è la sola
+ragione per la quale
+vi ho portati qui.<New>
+Chi desidera essere
+indipendente da Solaris,
+deve sapere come stanno
+realmente le cose.<New>
+Sapere chi fa cosa
+e perché lo fa."<Close><End of Block>
+<TextBlock 34 w:52 h:4>
+Shitan
+"Sarò franco.<New>
+Ricevetti un ordine
+segreto da parte
+dell'Imperatore.<New>
+Dovevo mettermi in
+contatto con la persona
+bramata dal Ministero…<New>
+… ed inviare loro tutte
+le informazioni.
+E, se possibile, di
+riportare qui il corpo.<New>
+Questo era il mio compito.
+Di conseguenza, non avevo
+scelta, dovevo ingannarti.
+Ti prego di perdonarmi."<Close><End of Block>
+<TextBlock 35 w:40 h:4>
+Shitan
+"Inoltre, io stesso avevo
+una faccenda da sbrigare
+in questo stabilimento…"<Close><End of Block>
+<TextBlock 36 w:50 h:3>
+Shitan
+"Ve ne parlerò dopo che
+saremo fuggiti da qui.<New>
+È una cosa che dovete
+sapere."<Close><End of Block>
+<TextBlock 37 w:42 h:4>
+Shitan
+"… Cosa?<Delay 32>     
+Sì… sì, certo…<Space 1>
+Ovviamente…"<Close><End of Block>
+<TextBlock 38 w:48 h:4>
+Shitan
+"Elly è stata portata al
+laboratorio di ricerca
+di Krelian.<New>
+Non ho potuto impedirlo.
+Mi spiace."<Close><End of Block>
+<TextBlock 39 w:52 h:4>
+Shitan
+"Non lo so…<New>
+Ma c'è una cosa che mi
+turba… Quando Krelian
+ha preso Elly…<New>
+… ho avuto l'occasione
+d'entrare in possesso
+delle informazioni
+cellulari di Elly.<New>
+Le ho analizzate, ed
+ho scoperto una cosa
+interessantissima…<New>
+Scusatemi, volevo
+dire… insolita.<New>
+In lei non è stato
+innestato nessun
+Limitatore."<Close><End of Block>
+<TextBlock 40 w:52 h:4>
+Shitan
+"Quando nascono, anche ai
+cittadini di Solaris esso
+viene innestato.<New>
+Ci sono delle eccezioni
+per alcune persone, come
+me stesso e Ramsus…<New>
+… i cui limitatori possono
+essere rimossi in seguito,
+tramite un trattamento…<New>
+… simile a quello che
+ho usato per Bart.<New>
+Tuttavia, c'è bisogno del
+permesso del Ministero
+per farlo."<Close><End of Block>
+<TextBlock 41 w:50 h:4>
+Shitan
+"Devono esserci altre
+ragioni, oltre a questo.<New>
+Non ne conosco il motivo,
+ma Krelian sembra
+ossessionato dall'analisi
+dei suoi dati."<Close><End of Block>
+<TextBlock 42 w:52 h:4>
+Shitan
+"Resta ancora un problema
+da risolvere.<New>
+Andrò a distruggere
+l'ultimo portale."<Close><End of Block>
+<TextBlock 43 w:54 h:4>
+Shitan
+"Oh, certo!<New>
+A proposito, giovane, per
+quanto riguarda gli
+effetti della rimozione
+del Limitatore…<New>
+Ci vorrà un po' perché i
+risultati divengano ben
+visibili.<New>
+I tuoi Limitatori fisici
+sono stati rimossi in
+maniera naturale.<New>
+La parte che ho rimosso
+io è quella che riguarda
+la parte psicologica.<New>
+Cioè… io ho rimosso la
+paura e la venerazione
+inconscia…<New>
+… nei confronti
+del Ministero e
+dell'Imperatore.<New>
+In poche parole, ora sarai
+in grado di combattere
+contro di loro senza dover
+subire paura o esitazioni.<New>
+Non è che sei diventato
+di colpo più potente…"<Close><End of Block>
+<TextBlock 44 w:52 h:4>
+Shitan
+"… Sì.
+Yui me l'ha data quando
+stavo per partire.<New>
+Solevo utilizzarla prima
+d'incontrarla<Delay 10>…<New>
+Tuttavia, per lungo tempo
+avevo giurato che non la
+avrei usata per uccidere.<New>
+Ma ora non è il momento di
+pensare alla morale. Non è
+giusto che io sia l'unico
+'innocente'."<Close><End of Block>
+<TextBlock 45 w:12 h:2>
+Shitan
+"Davvero?"<Close><End of Block>
+<TextBlock 46 w:48 h:3>
+Shitan
+"È la mia natura.
+Mi spiace, perdonami."<Close><Close><End of Block>

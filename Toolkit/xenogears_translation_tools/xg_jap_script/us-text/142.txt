@@ -1,0 +1,117 @@
+#### 1 ####
+...The number one gate
+generator is 200 kelt
+southwest of Nortune and
+4000 sharl underground.{enter}
+Its interference waves make
+guided weapon use impossible
+in this area. So up to the
+last minute the Hecht must
+be piloted manually.{enter}
+After canceling stealth
+mode, you will provide
+direct escort for the Hecht
+inside the enemy defense
+zone. Any questions?
+
+#### 2 ####
+Elly
+"Well..."
+
+#### 3 ####
+Yes Lieutenant?
+
+#### 4 ####
+Elly
+"I understand our escort
+orders but what is our
+main objective?"
+
+#### 5 ####
+That is classified.
+
+#### 6 ####
+Elly 
+"But without knowing our
+objective, our response to
+any orders will be slow.{enter}
+Even if we're just ordered
+to provide cover.
+We need to at least know
+the attack objective..."
+
+#### 7 ####
+The objective will be issued
+during the mission.
+It will be relayed directly
+to the Hecht's pilots.
+
+#### 8 ####
+Elly
+"But..."
+
+#### 9 ####
+Your only concern is to
+protect the Hecht from
+the enemy's anti-aircraft 
+weapons. {wait:3C}
+Any problems with that?
+
+#### 10 ####
+Elly
+"...No...
+if that's the case..."{clear:1E}
+
+#### 11 ####
+Anything else?
+
+#### 12 ####
+...Then this ends the 
+main briefing.{enter}
+Confirm terrain, weather
+and enemy defense details
+with the information at
+hand.{enter}
+The mission starts at
+1700.
+Until then wait in your
+assigned units.{enter}
+I shouldn't have to
+remind you that this
+mission is a purge.{enter}
+Remember, we have
+complete authority
+over the Lambs.{wait:3C} 
+Dismissed.
+
+#### 13 ####
+Stratski
+"This sucks Lieutenant.{enter}
+How can we go along with
+this? What's he mean the
+objective has nothing to
+do with us?"
+
+#### 14 ####
+Elly
+"Be quiet!
+I'm thinking!"
+
+#### 15 ####
+Stratski
+"Don't snap at me."
+
+#### 16 ####
+Vance
+"I hate hysterical women."{clear:3C}
+
+#### 17 ####
+Elly
+"Are you ready to take
+the consequences for
+that remark?"
+
+#### 18 ####
+Vance
+"Uh..."{clear:1E}
+

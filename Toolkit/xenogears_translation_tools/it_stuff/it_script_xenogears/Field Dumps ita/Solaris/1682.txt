@@ -1,0 +1,185 @@
+<TextBlock 1 w:4 h:1>
+!!<Opcode 2 10><Close><End of Block>
+<TextBlock 2 w:36 h:2>
+Elly!?<Delay 10>
+Elly, sei tu!?<Close><End of Block>
+<TextBlock 3 w:14 h:1>
+Madre!<Close><End of Block>
+<TextBlock 4 w:40 h:4>
+Medena, la madre di Elly
+"Stai…<Delay 10>
+Come sono felice…<Delay 10>
+Stai bene…"<Close><End of Block>
+<TextBlock 5 w:52 h:3>
+Medena
+"Quelli dell'esercito mi
+avevano detto che eri
+dispersa in azione…"<Close><End of Block>
+<TextBlock 6 w:32 h:4>
+Elly
+"No, madre, non è vero!<Delay 10>
+Guarda, io sono viva!"<Close><End of Block>
+<TextBlock 7 w:34 h:3>
+Elly
+"Madre,<Delay 10> dov'è
+mio padre?"<Close><End of Block>
+<TextBlock 8 w:44 h:4>
+Medena
+"È ancora al palazzo.
+Credo che tornerà
+presto…"<Close><End of Block>
+<TextBlock 9 w:20 h:2>
+Elly
+"Ho capito…"<Close><End of Block>
+<TextBlock 10 w:38 h:2>
+Medena
+"Elly, chi è
+questa persona?"<Close><End of Block>
+<TextBlock 11 w:46 h:4>
+Elly
+"Cosa?<Delay 10> Ah<Delay 5>…<Delay 10>
+Uhm,<Delay 10> lui è uno delle
+Forze Speciali…<New>
+Proprio come me.
+Però è stato promosso
+da poco, prima era un
+cittadino di III Classe.<New>
+È grazie a lui che
+sono potuta ritornare."<Close><End of Block>
+<TextBlock 12 w:22 h:1>
+Elly
+"Giusto, Fei?"<Close><End of Block>
+<TextBlock 13 w:54 h:2>
+Fei
+"Cosa?<Delay 10> Uhm…<Delay 10>
+no…<Delay 10> cioè…"<Close><End of Block>
+<TextBlock 14 w:48 h:4>
+Medena
+"Capisco.<New>
+Dev'essere per questo che
+è vestito come un abitante
+della superficie.<New>
+Ma…<Delay 10> Elly, perché lui, a
+differenza di te, non sta
+indossando un'uniforme
+delle Forze Speciali?"<Close><End of Block>
+<TextBlock 15 w:52 h:4>
+Elly
+"P… perdonami, madre.<Delay 5>
+Devo consegnare un
+rapporto,<Delay 10> perciò…"<Close><End of Block>
+<TextBlock 16 w:40 h:2>
+Elly
+"Fei, vieni con me."<Close><End of Block>
+<TextBlock 17 w:26 h:3>
+Erich
+"Elly…<Delay 10>
+Prendi questa…"<Close><End of Block>
+<TextBlock 18 w:44 h:1>
+<Opcode 1 255>Ricevi Carta d'Accesso
+       dell'Esercito.<Opcode 2 60><Close><End of Block>
+<TextBlock 19 w:24 h:2>
+Elly
+"… Padre?"<Close><End of Block>
+<TextBlock 20 w:44 h:4>
+Erich
+"Poter scegliere
+ed intraprendere
+la propria strada…<New>
+Non poterlo fare vuol
+dire non essere umani…"<Close><End of Block>
+<TextBlock 21 w:24 h:2>
+Elly
+"… Papà…"<Close><End of Block>
+<TextBlock 22 w:38 h:4>
+Erich
+"Sembra che la polizia
+militare sia arrivata…"<Close><End of Block>
+<TextBlock 23 w:54 h:4>
+Erich
+"Le Guardie Imperiali?<Delay 10>
+Perché siete qui al posto
+della polizia militare…?"<Close><End of Block>
+<TextBlock 24 w:10 h:1>
+Cosa?<Close><End of Block>
+<TextBlock 25 w:46 h:3>
+Erich
+"Che state facendo?<Delay 10>
+L'intruso è scappato.<New>
+Mia figlia non ha nulla
+a che vedere con tutto
+ciò!"<Close><End of Block>
+<TextBlock 26 w:44 h:4>
+Non posso, Lord Erich.<Delay 10>
+Ci consegni sua figlia.<Delay 10>
+Sono gli ordini di Lord
+Krelian.<Close><End of Block>
+<TextBlock 27 w:54 h:4>
+Erich
+"Lord Krelian?<Delay 10> Cosa vuole<Delay 10>
+fare con mia figlia…<Delay 30>
+Cosa?<New>
+Vuoi dire…<Delay 10> Gazel…!"<Close><End of Block>
+<TextBlock 28 w:48 h:1>
+Non c'è motivo per cui
+lei lo debba sapere.<Close><End of Block>
+<TextBlock 29 w:18 h:1>
+Prendetela!<Close><End of Block>
+<TextBlock 30 w:50 h:3>
+Erich
+"Lasciate stare
+mia figlia!<Delay 10>
+O, altrimenti…!"<Close><End of Block>
+<TextBlock 31 w:20 h:2>
+Elly
+"Padre!?"<Delay 10><Close><End of Block>
+<TextBlock 32 w:52 h:3>
+C… <Delay 10>cosa!?<Delay 10>
+Lord Erich!<Delay 10>
+Siete impazzito?<Close><End of Block>
+<TextBlock 33 w:40 h:3>
+Erich
+"Sono perfettamente
+sano di mente!<Delay 10>
+Lasciatela stare!"<Close><End of Block>
+<TextBlock 34 w:52 h:3>
+Gli ordini di Lord
+Krelian sono gli ordini
+dell'Imperatore.<New>
+Capite cosa accadrà alla
+sua Classe, se dovesse
+disobbedire a quest'ordine?<New>
+Sarà degradato a cittadino
+di III Classe!<Close><End of Block>
+<TextBlock 35 w:48 h:4>
+Erich
+"Lo so.<New>
+Ma anche se questi sono
+gli ordini di Krelian,
+non permetterò che mia
+figlia diventi…<New>
+… una cavia di Gazel
+per i loro esperimenti.<New>
+Elly,<Delay 10> vai via!
+Penserò io al resto!"<Close><End of Block>
+<TextBlock 36 w:16 h:2>
+Elly
+"Ma…"<Close><End of Block>
+<TextBlock 37 w:44 h:3>
+Erich
+"Non preoccuparti per me.<Delay 10>
+Vai ad aiutare Fei."<Close><End of Block>
+<TextBlock 38 w:22 h:2>
+Elly
+"Papà…"<Close><End of Block>
+<TextBlock 39 w:46 h:4>
+Medena
+"Oh, Elly…<Delay 10>
+Che stai facendo nella
+stanza di tuo padre?<New>
+Non ricordi quanto si
+è arrabbiato l'ultima
+volta che l'hai fatto?<New>
+Cosa devo fare con te…?"<Close><End of Block>
+<TextBlock 40 w:0 h:1>
+<Close><End of Block>

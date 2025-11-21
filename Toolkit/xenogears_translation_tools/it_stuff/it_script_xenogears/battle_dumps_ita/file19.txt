@@ -1,0 +1,82 @@
+<TextBlock 1 w:38 h:3>
+Sei entrato in
+possesso del
+ 'Vestito da Sposa'
+          di Alice!<Close><End of Block>
+<TextBlock 2 w:38 h:3>
+Fei
+"Cosa stai facendo
+qui, Dan!?"<Close><End of Block>
+<TextBlock 3 w:32 h:3>
+Fei
+"… Per favore,
+Dan, smettila!"<Close><End of Block>
+<TextBlock 4 w:32 h:4>
+Fei
+"Argh<Delay 200>…<Delay 20>
+Cosa vuoi che io
+faccia…?"<Close><End of Block>
+<TextBlock 5 w:44 h:3>
+Fei
+"…<Delay 20> Non posso.<New>
+Non riesco proprio
+a colpirti, Dan…"<Close><End of Block>
+<TextBlock 6 w:14 h:3>
+Fei
+"Dan<Delay 20>…<Delay 20>
+Io<Delay 20>…<Delay 20>"<Close><End of Block>
+<TextBlock 7 w:38 h:4>
+Dan
+"Mmh!
+Sono scappato
+da casa di Yui!<New>
+E sono qui per
+vendicare la morte
+di mia sorella!"<Close><End of Block>
+<TextBlock 8 w:44 h:4>
+Dan
+"Sta' zitto! Non ti
+perdonerò mai!<Delay 20>
+… Assassino!!"<Close><End of Block>
+<TextBlock 9 w:30 h:4>
+Dan
+"Dannazione,
+Fei!<New>
+Perché non vuoi
+batterti?
+Fatti avanti,
+ti sfido!"<Close><End of Block>
+<TextBlock 10 w:44 h:3>
+Dan
+"… Al diavolo!<New>
+Metterti al tappeto
+così facilmente non
+darà soddisfazione…<New>
+… alle anime di mia
+sorella o di Timothy!<New>
+Vaffanculo!
+Risparmierò le
+forze per il
+prossimo duello.<New>
+La prossima volta
+sarà il tuo funerale,
+pezzo di merda!<New>
+Tieni questo
+fino ad allora!<New>
+Ogni volta che lo
+guarderai…<New>
+… voglio che tu
+soffra e ti senta
+in colpa per ciò
+che hai fatto!"<Close><End of Block>
+<TextBlock 11 w:40 h:4>
+Dan
+"Sta' zitto! Non
+voglio ascoltare le
+tue stupide scuse!<New>
+Fei, sei uno
+schifoso bastardo!!"<Close><End of Block>
+<TextBlock 12 w:22 h:2>
+Semifinali
+del Torneo<Opcode 2 60><Close><Close>?<New>
+<End of Block>

@@ -1,0 +1,1049 @@
+#### 1 ####
+Of course, business is
+better when there's peace.
+
+#### 2 ####
+You said it. 
+The army returned all the
+stuff they confiscated.
+
+#### 3 ####
+Look, prices went down.
+
+#### 4 ####
+Really? {wait:1E}
+Then, can't you give
+it to me cheaper?
+
+#### 5 ####
+My son's coming back and
+our grandchild's excited.{wait:32} 
+She's so hyper, it's hard
+for me to keep up!
+
+#### 6 ####
+Even with my son back,
+taking care of the kids
+is the old folks job.
+
+#### 7 ####
+Grandpa, hurry, hurry!
+We gotta buy the stuff
+for the welcome party
+before dad gets back.
+
+#### 8 ####
+Grandma, hurry, hurry!
+Let's finish shopping and
+go to the festival!
+
+#### 9 ####
+Prince Bartholomew,
+thank you very much
+for ending the war.{enter}
+My son should be
+back any day now.
+
+#### 10 ####
+Are you here for the Tournament?
+    Yes
+    What's that?
+
+#### 11 ####
+Too bad, it's already
+over.
+
+#### 12 ####
+Ah, it's better if you
+don't know. Just enjoy
+Bledavik in peacetime.
+
+#### 13 ####
+Wow, am I busy! Ever
+since I got back, my
+wife's been telling me
+the housework's backed up{enter}
+and won't help with the
+business at all!
+
+#### 14 ####
+Prince Bartholomew.
+I've been awaiting your
+return.{enter}
+May you have a peaceful
+rule in Aveh.
+
+#### 15 ####
+Now I'm not so worried
+about my kids and
+grandkids. I can relax 
+in peace.
+
+#### 16 ####
+Now that the war is 
+over there should be 
+lots of visitors. {wait:32}
+I gotta be ready.
+
+#### 17 ####
+It's great that Prince 
+Bartholomew returned, but 
+what's this Republic 
+thing?
+
+#### 18 ####
+Peace at last! Now we
+can live without fear.
+
+#### 19 ####
+Meat, meat, mee¡«at!
+Get ya meat, me¡«eat!{wait:1E}
+Hey buddy, you gotta
+eat lotsa me¡«at!
+
+#### 20 ####
+Hey buddy, want some meat?
+Everything is 70G.
+    Hob-Jerky
+    Hob-Meat
+    Hob-Steak
+    No thanks {0D:FF}{clear:01}
+
+#### 21 ####
+How about 65G...?
+    Hob-Jerky
+    Hob-Meat
+    Hob-Steak
+    No thanks {0D:FF}{clear:01}
+
+#### 22 ####
+How about 60G...?
+    Hob-Jerky
+    Hob-Meat
+    Hob-Steak
+    No thanks{0D:FF}{clear:01}
+
+#### 23 ####
+Hey meat-head!
+You've got too much already!
+
+#### 24 ####
+Hob-Jerky coming up!{clear:3C}
+
+#### 25 ####
+Hob-Meat coming up!{clear:3C}
+
+#### 26 ####
+Hob-Steak coming up!{clear:3C}
+
+#### 27 ####
+Yep. Eat meat and
+you'll be healthy.
+
+#### 28 ####
+You don't have enough money!
+
+#### 29 ####
+If you don't eat meat
+you'll get sick...
+
+#### 30 ####
+Thanks for lending me 
+that money before.{enter}
+My dad never came back
+but I still don't steal.{enter}
+The two of us are working
+hard. We opened up our
+own business.{enter}
+So now I can give you
+back your money.
+A little at a time.
+
+#### 31 ####
+Even without dad, 
+we'll make it.
+
+#### 32 ####
+Here's the first part.
+And I'll work real hard
+to pay back the rest.
+
+#### 33 ####
+Sorry, I haven't 
+saved any money to 
+give back yet.
+
+#### 34 ####
+I'll be here working hard,
+so stop by sometime and 
+buy some meat.
+
+#### 35 ####
+You got 100G back.
+
+#### 36 ####
+Any monster fangs? {wait:0F}
+Any monster eyeballs? {wait:0F}
+Any monster scales? {wait:0F}
+I pay the most!{clear:3C}
+
+#### 37 ####
+What do you wanna sell?
+    Fang    150G
+    Eyeball 300G
+    Scale   600G
+    No way
+
+#### 38 ####
+If you get any sell them
+to me, I'll beat anyone's
+price.
+
+#### 39 ####
+Come back again.
+
+#### 40 ####
+You don't have a thing!
+
+#### 41 ####
+Alright, got it!
+
+#### 42 ####
+Received {number(s):00}G.
+
+#### 43 ####
+Fruit that's kinda spicy
+Fruit that's kinda large
+Kinda hard to say
+Why it's so bizarre{enter}
+Get your Bizfruit now{clear:64}
+
+#### 44 ####
+I used to sell Lahan
+radishes my mom grew.{wait:32}
+But when I got out of the
+army, Lahan was gone.{enter}
+So now I sell Bizfruit.
+
+#### 45 ####
+One for 10G.
+    Buy one
+    Don't buy any {0D:FF}{clear:01}
+
+#### 46 ####
+Alright,
+how about 9G?
+    Buy one
+    Don't buy any {0D:FF}{clear:01}
+
+#### 47 ####
+Come on.
+How about 8G?
+    Buy one
+    Don't buy any {0D:FF}{clear:01}
+
+#### 48 ####
+Hey, you can't
+carry any more.
+
+#### 49 ####
+Thanks.
+
+#### 50 ####
+Come again!
+
+#### 51 ####
+Won't you buy just one? 
+Mess with a veteran, and
+you might step on a mine.
+
+#### 52 ####
+You hate bizarre things?
+...Too bad.
+
+#### 53 ####
+Bananas Bananas big
+Long bananas! {wait:14}
+Good for body and soul!{wait:14}
+Buy some bananas today!{clear:3C}
+
+#### 54 ####
+Did you bring money?
+    Yes
+    No {0D:FF}{clear:01}
+
+#### 55 ####
+Bring some money. 
+
+#### 56 ####
+Wanna banana?
+Monsters in the western
+forest love them!{enter}
+They're called Elfananas.
+Can't find better bananas
+than these!
+
+#### 57 ####
+You're a nice guy,
+so, only 10G!
+    Buy some
+    Don't buy any {0D:FF}{clear:01}
+
+#### 58 ####
+They're delicious!
+9G?
+    Buy some
+    Don't buy any {0D:FF}{clear:01}
+
+#### 59 ####
+OK, on special! 
+2 bunches for 16G.
+How about it handsome?
+    Buy some
+    Don't buy any {0D:FF}{clear:01}
+
+#### 60 ####
+Hey, you have too much 
+stuff. Come back again.
+
+#### 61 ####
+Thanks!
+You're a good man.
+
+#### 62 ####
+Wow!
+Thanks!
+Come again.
+
+#### 63 ####
+{wait:32}Forgot your wallet?{wait:32}
+Sorry, but I can't give 
+'em to you. Bring your 
+wallet next time.
+
+#### 64 ####
+Well...{wait:1E}
+Eat your bananas and
+you'll grow up to be a
+strong soldier.
+
+#### 65 ####
+Hey! Try these berries!
+Sweet, delicious...
+I'll make you a deal! {clear:64}
+
+#### 66 ####
+Go away!{clear:50}
+
+#### 67 ####
+Delicious berries.
+You can't get Ariberries 
+like these anywhere else.
+Grown with Aveh spring
+water, deep red berries.
+
+#### 68 ####
+One box, for 10G?
+    Buy some
+    Don't buy any {0D:FF}{clear:01}
+
+#### 69 ####
+Alright,
+I'll go 9G.
+    Buy some
+    Don't buy any {0D:FF}{clear:01}
+
+#### 70 ####
+Well, 8G.
+That's my lowest.
+    Buy some
+    Don't buy any {0D:FF}{clear:01}
+
+#### 71 ####
+Hey, you've got too 
+much stuff. Come again.
+
+#### 72 ####
+Thanks!
+
+#### 73 ####
+Hey,You!
+
+#### 74 ####
+Yes!
+They're really good.
+Just try some.
+
+#### 75 ####
+!? {wait:32}No money?
+Stupid! Get outta here!
+
+#### 76 ####
+Too bad, there really 
+good. Maybe next time.
+
+#### 77 ####
+Back home at last.{enter}
+I like helping my wife out
+at home much better than
+giving orders on the 
+battlefield.
+
+#### 78 ####
+Shakhan
+"Hah ha ha ha,
+Bartholomew the pirate.
+I've got Margie.{enter}
+If you don't like it,
+come and get her."
+
+#### 79 ####
+Margie
+"...{wait:1E}Help me
+Bartholomew!"
+
+#### 80 ####
+Bartholomew
+"You coward! Stealing 
+Aveh wasn't enough 
+for you, Margie too?
+
+#### 81 ####
+Shakhan
+"What's that, pirate!? 
+I made this country what
+it is.{enter}
+You just wandered around
+the desert! You louse!"
+
+#### 82 ####
+Bartholomew
+"What the...?{wait:32}
+You bald geez!{enter}
+Take this!
+Pirate kick!"{clear:32}
+
+#### 83 ####
+Shakhan
+"Whoa, you got me.
+You brat."
+
+#### 84 ####
+Shakhan
+"Ramsus!"
+
+#### 85 ####
+Ramsus
+"Ramsus is here!{wait:1E}
+Fight me Bartholomew!"
+
+#### 86 ####
+Bartholomew
+"Whoa, this guy is strong.{wait:1E}
+This is gonna be tough!"
+
+#### 87 ####
+Bartholomew
+"Now it's two on two! 
+Let's go!"
+
+#### 88 ####
+Shakhan
+"Hmph, infidels!
+I'll kill you yet!"
+
+#### 89 ####
+You're no fun!{clear:1E}
+
+#### 90 ####
+Playing Margie 
+is no fun!
+
+#### 91 ####
+Well? You lost at
+paper, rock, scissors.
+
+#### 92 ####
+No! I wanna 
+play the good part.
+
+#### 93 ####
+Stop complaining.
+I don't wanna play the 
+bald coot's part.
+
+#### 94 ####
+Let's play something 
+else.
+
+#### 95 ####
+Yeah, okay.
+
+#### 96 ####
+Well, that's it 
+for today.
+
+#### 97 ####
+Adults do whatever
+they want. First they
+said take out Kislev,{enter}
+now they say let's be
+friends.
+
+#### 98 ####
+Prince Bartholomew
+is so cool.
+Big and strong.
+
+#### 99 ####
+Adults do whatever 
+they want. First they 
+said take out Kislev, {enter}
+now they say let's be 
+friends.
+
+#### 100 ####
+The Raider Boys broke up.
+Kislev's not the enemy
+anymore, now there's 
+nothing to do.
+
+#### 101 ####
+My mom told me to grow
+up to be a great man like
+Prince Bartholomew.
+
+#### 102 ####
+The Raider Boys broke up.
+Kislev's not the enemy
+anymore, now there's 
+nothing to do.
+
+#### 103 ####
+I'm busy, so bug off!
+
+#### 104 ####
+We protected the
+desert's peace.
+
+#### 105 ####
+I wanna grow up now. 
+I hate playin' dumb roles.
+
+#### 106 ####
+We protected the 
+desert's peace.
+
+#### 107 ####
+That's it for
+hide-and-seek...{wait:32}
+I'll have to think of
+something else to play.
+
+#### 108 ####
+I wonder...{wait:1E}
+where's he hiding?
+
+#### 109 ####
+Can you help me too?
+    Okay
+    I'm busy
+
+#### 110 ####
+Thanks
+The rule is you can't 
+hide in houses or where 
+you can't see.
+
+#### 111 ####
+We're busy too!
+
+#### 112 ####
+I don't play hide and 
+seek anymore. You 
+shouldn't play either!
+
+#### 113 ####
+When you leave I'll 
+hide somewhere.
+
+#### 114 ####
+Ah, you found me.
+
+#### 115 ####
+I'm playing hide-and-seek.
+You wanna play too?
+    Play
+    No thanks
+
+#### 116 ####
+When you leave I'll 
+hide, then you gotta 
+find me.
+
+#### 117 ####
+Sigh, I have no 
+confidence.
+
+#### 118 ####
+Good job. 
+Next time I'll hide 
+somewhere harder.
+
+#### 119 ####
+You found me here too. 
+Next time is for real.
+
+#### 120 ####
+I didn't think you'd 
+find me here. You're 
+good. You musta been the
+champ when you were a kid.{enter}
+But, next time you
+won't find me.
+
+#### 121 ####
+Crap! You found me here?
+Now for my secret weapon. 
+You'll never find me there!
+
+#### 122 ####
+Again!
+How'd you find me?
+I quit hide and seek.
+Here's my badge.{enter}
+I don't need it anymore.
+
+#### 123 ####
+ 
+ Received {str}.
+
+#### 124 ####
+The 'Dragon Slaying Boxer'
+is here!{wait:1E}
+Ramsus, Shakhan,
+watch out!
+
+#### 125 ####
+The 'Dragon Slaying Youth'
+is here!{wait:1E}
+Ramsus, Shakhan,
+watch out!
+
+#### 126 ####
+The 'Dragon Slaying Squire'
+is here!{wait:1E}
+Ramsus, Shakhan,
+watch out!
+
+#### 127 ####
+The 'Dragon Slaying Slacker'
+is here!{wait:1E}
+Ramsus, Shakhan,
+watch out!
+
+#### 128 ####
+The 'Ponytailed Boxer'
+is here!{wait:1E}
+Ramsus, Shakhan,
+watch out!
+
+#### 129 ####
+The 'Ponytailed Youth'
+is here!{wait:1E}
+Ramsus, Shakhan,
+watch out!
+
+#### 130 ####
+The 'Squire'
+is here!{wait:1E}
+Ramsus, Shakhan,
+watch out!
+
+#### 131 ####
+The 'Ponytailed Slacker'
+is here!{wait:1E}
+Ramsus, Shakhan,
+watch out!
+
+#### 132 ####
+The 'Wandering Boxer'
+is here!{wait:1E}
+Ramsus, Shakhan,
+watch out!
+
+#### 133 ####
+The 'Wandering Youth'
+is here!{wait:1E}
+Ramsus, Shakhan,
+watch out!
+
+#### 134 ####
+The 'Wandering Squire'
+is here!{wait:1E}
+Ramsus, Shakhan,
+watch out!
+
+#### 135 ####
+The 'Wandering Slacker'
+is here!{wait:1E}
+Ramsus, Shakhan,
+watch out!
+
+#### 136 ####
+The 'Beloved Boxer'
+is here!{wait:1E}
+Ramsus, Shakhan,
+watch out!
+
+#### 137 ####
+The 'Beloved Youth'
+is here!{wait:1E}
+Ramsus, Shakhan,
+watch out!
+
+#### 138 ####
+The 'Beloved Squire'
+is here!{wait:1E}
+Ramsus, Shakhan,
+watch out!
+
+#### 139 ####
+The 'Beloved Slacker'
+is here!{wait:1E}
+Ramsus, Shakhan,
+watch out!
+
+#### 140 ####
+It's the
+'Dragon Slaying Boxer'!{wait:1E}
+Can I have your
+autograph?
+
+#### 141 ####
+It's the
+'Dragon Slaying Youth'!{wait:1E}
+Can I have your
+autograph?
+
+#### 142 ####
+It's the
+'Dragon Slaying Squire'!{wait:1E}
+Can I have your
+autograph?
+
+#### 143 ####
+It's the
+'Dragon Slaying Slacker'!{wait:1E}
+Can I have your
+autograph?
+
+#### 144 ####
+It's the
+'Ponytailed Boxer'!{wait:1E}
+Can I have your
+autograph?
+
+#### 145 ####
+It's the
+'Ponytailed Youth'!{wait:1E}
+Can I have your
+autograph?
+
+#### 146 ####
+It's the
+'Ponytailed Squire'!{wait:1E}
+Can I have your
+autograph?
+
+#### 147 ####
+It's the
+'Ponytailed Slacker'!{wait:1E}
+Can I have your
+autograph?
+
+#### 148 ####
+It's the
+'Wandering Boxer'!{wait:1E}
+Can I have your
+autograph?
+
+#### 149 ####
+It's the
+'Wandering Youth'!{wait:1E}
+Can I have your
+autograph?
+
+#### 150 ####
+It's the
+'Wandering Squire'!{wait:1E}
+Can I have your
+autograph?
+
+#### 151 ####
+It's the
+'Wandering Slacker'!{wait:1E}
+Can I have your
+autograph?
+
+#### 152 ####
+It's the
+'Beloved Boxer'!{wait:1E}
+Can I have your
+autograph?
+
+#### 153 ####
+It's the
+'Beloved Youth'!{wait:1E}
+Can I have your
+autograph?
+
+#### 154 ####
+It's the
+'Beloved Squire'!{wait:1E}
+Can I have your
+autograph?
+
+#### 155 ####
+It's the
+'Beloved Slacker'!{wait:1E}
+Can I have your
+autograph?
+
+#### 156 ####
+Hey, who's stronger?
+The 'Dragon Slaying Boxer'
+or Prince Bartholomew?
+    'Dragon Slaying Boxer'
+    Prince Bartholomew
+
+#### 157 ####
+Hey, who's stronger?
+The 'Dragon Slaying Youth'
+or Prince Bartholomew?
+    'Dragon Slaying Youth'
+    Prince Bartholomew
+
+#### 158 ####
+Hey, who's stronger?
+The 'Dragon Slaying Squire'
+or Prince Bartholomew?
+    'Dragon Slaying Squire'
+    Prince Bartholomew
+
+#### 159 ####
+Hey, who's stronger?
+The 'Dragon Slaying Slacker'
+or Prince Bartholomew?
+    'Dragon Slaying Slacker'
+    Prince Bartholomew
+
+#### 160 ####
+Hey, who's stronger?
+The 'Ponytailed Boxer'
+or Prince Bartholomew?
+    'Ponytailed Boxer'
+    Prince Bartholomew
+
+#### 161 ####
+Hey, who's stronger?
+The 'Ponytailed Youth'
+or Prince Bartholomew?
+    'Ponytailed Youth'
+    Prince Bartholomew
+
+#### 162 ####
+Hey, who's stronger?
+The 'Ponytailed Squire'
+or Prince Bartholomew?
+    'Ponytailed Squire'
+    Prince Bartholomew
+
+#### 163 ####
+Hey, who's stronger?
+The 'Ponytailed Slacker'
+or Prince Bartholomew?
+    'Ponytailed Slacker'
+    Prince Bartholomew
+
+#### 164 ####
+Hey, who's stronger?
+The 'Wandering Boxer'
+or Prince Bartholomew?
+    'Wandering Boxer'
+    Prince Bartholomew
+
+#### 165 ####
+Hey, who's stronger?
+The 'Wandering Youth'
+or Prince Bartholomew?
+    'Wandering Youth'
+    Prince Bartholomew
+
+#### 166 ####
+Hey, who's stronger?
+The 'Wandering Squire'
+or Prince Bartholomew?
+    'Wandering Squire'
+    Prince Bartholomew
+
+#### 167 ####
+Hey, who's stronger?
+The 'Wandering Slacker'
+or Prince Bartholomew?
+    'Wandering Slacker'
+    Prince Bartholomew
+
+#### 168 ####
+Hey, who's stronger?
+The 'Beloved Boxer'
+or Prince Bartholomew?
+    'Beloved Boxer'
+    Prince Bartholomew
+
+#### 169 ####
+Hey, who's stronger?
+The 'Beloved Youth'
+or Prince Bartholomew?
+    'Beloved Youth'
+    Prince Bartholomew
+
+#### 170 ####
+Hey, who's stronger?
+The 'Beloved Squire'
+or Prince Bartholomew?
+    'Beloved Squire'
+    Prince Bartholomew
+
+#### 171 ####
+Hey, who's stronger?
+The 'Beloved Slacker'
+or Prince Bartholomew?
+    'Beloved Slacker'
+    Prince Bartholomew
+
+#### 172 ####
+Yeah, I think so too.
+
+#### 173 ####
+Huh, really?
+That's what my dad says.
+
+#### 174 ####
+I gave a hide-and-seek
+badge to the
+'Dragon Slaying Boxer'.
+
+#### 175 ####
+I gave a hide-and-seek
+badge to the
+'Dragon Slaying Youth'.
+
+#### 176 ####
+I gave a hide-and-seek
+badge to the
+'Dragon Slaying Squire'.
+
+#### 177 ####
+I gave a hide-and-seek
+badge to the
+'Dragon Slaying Slacker'.
+
+#### 178 ####
+I gave a hide-and-seek
+badge to the
+'Ponytailed Boxer'.
+
+#### 179 ####
+I gave a hide-and-
+seek badge to the
+'Ponytailed Youth'.
+
+#### 180 ####
+I gave a hide-and-
+seek badge to the
+'Ponytailed Squire'.
+
+#### 181 ####
+I gave a hide-and-
+seek badge to the
+'Ponytailed Slacker'.
+
+#### 182 ####
+I gave a hide-and-
+seek badge to the
+'Wandering Boxer'.
+
+#### 183 ####
+I gave a hide-and-
+seek badge to the
+'Wandering Youth'.
+
+#### 184 ####
+I gave a hide-and-
+seek badge to the
+'Wandering Squire'.
+
+#### 185 ####
+I gave a hide-and-
+seek badge to the
+'Wandering Slacker'.
+
+#### 186 ####
+I gave a hide-and-
+seek badge to the
+'Beloved Boxer'.
+
+#### 187 ####
+I gave a hide-and-
+seek badge to the
+'Beloved Youth'.
+
+#### 188 ####
+I gave a hide-and-
+seek badge to the
+'Beloved Squire'.
+
+#### 189 ####
+I gave a hide-and-
+seek badge to the
+'Beloved Slacker'.
+
+#### 190 ####
+Oh, Prince Bartholomew!{wait:1E}
+Can I have your autograph?
+
+#### 191 ####
+Thanks.
+
+#### 192 ####
+The real thing 
+is so cool.
+
+#### 193 ####
+Awesome.
+
+#### 194 ####
+Thanks.
+This is great.
+
+#### 195 ####
+I'm gonna be 
+strong too.
+
+#### 196 ####
+It's cool here. {wait:28}
+Cool air blows up 
+from the grate.
+
+#### 197 ####
+I got back from the
+army and then my mom
+collapsed in illness.{enter}
+She was so glad that I
+came back safe.{enter}
+But why does a guy like
+me have to do laundry?{wait:32}
+I need to find a wife,
+and fast.
+

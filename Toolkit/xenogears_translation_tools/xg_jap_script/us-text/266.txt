@@ -1,0 +1,545 @@
+#### 1 ####
+Bart
+"Hey, Margie!{enter}
+Get rid of that strange
+stuffed animal sitting
+in front of the bridge.{wait:0A}
+It's in our way."
+
+#### 2 ####
+Margie
+"It's not a 'strange
+stuffed animal'!{wait:0A}
+It has a name.{enter}
+Its name is..."
+
+#### 3 ####
+Margie
+"Her name is {name:07:チュチュ}!"
+
+#### 4 ####
+Margie
+"But, that's weird.{wait:0A}
+It was just here, where I
+put it, a moment ago..."
+
+#### 5 ####
+Nice chu meet chu!!{wait:0A}
+I'm {name:07:チュチュ}!{enter}
+I fell in love with you
+when I first saw you in
+Bledavik!!{wait:0A} Wherever you
+go, I shall go chu!
+
+#### 6 ####
+Bart
+"What we thought was just
+a stuffed toy is actually
+a living animal! Weird!"
+
+#### 7 ####
+Margie
+"No wonder it felt
+strangely lukewarm!"
+
+#### 8 ####
+Fei
+"Wha, What!?"
+
+#### 9 ####
+Bart
+"Looking good, Fei!!"
+
+#### 10 ####
+Fei
+"Shut up!!"
+
+#### 11 ####
+Bart
+"It's all right.
+I, as the captain, give
+you my permission!"
+
+#### 12 ####
+{name:07:チュチュ}
+"Yeah, yeah!"
+
+#### 13 ####
+Fei
+"...{wait:0A}
+Suit yourself!"
+
+#### 14 ####
+Bart
+"Ha, ha, ha!{enter}
+Well, I don't want
+to interrupt you two,
+so I'll wait outside!"
+
+#### 15 ####
+Margie
+"..."
+
+#### 16 ####
+Margie
+"Thank you for your help
+at the castle.{enter}
+I heard you really riled
+it up at the tournament.{enter}
+Bart was bragging how
+you're both buddies and
+all."
+
+#### 17 ####
+Fei
+"...{wait:0A}
+Re{wait:0A}...really?"
+
+#### 18 ####
+Margie
+"I'm so ashamed...{enter}
+I want to be of help
+to Bart but I ended
+up owing him again."
+
+#### 19 ####
+Margie
+"Fei, have you seen Bart's
+back?{enter}
+He's got scars all over
+his back and it looks so
+painful.{enter}
+Long ago,{wait:05} when the two of
+us got caught by Shakhan,
+Bart protected me from
+getting beaten..."
+
+#### 20 ####
+Margie
+"At that time, I decided
+to be his follower...to
+serve and protect him!{enter}
+But, he is the one who's
+always protecting me..."
+
+#### 21 ####
+Fei
+"..."
+
+#### 22 ####
+Margie
+"Uh, oh, so sorry...{wait:0A}
+Anyway, thanks a lot
+for saving me!"
+
+#### 23 ####
+Margie
+"You're the only ones
+who can save us...{wait:0A}
+We're counting on you!"
+
+#### 24 ####
+Margie
+"Young master...
+You better not die!{wait:0A}
+Promise me!!"
+
+#### 25 ####
+Bart
+"Of course!{wait:0A} I'm not going
+to die!{wait:0A} Quit sayin'
+such weird stuff!"
+
+#### 26 ####
+Margie
+"Sorry{wait:05}...{wait:0A}
+Yeah{wait:05}...{wait:0A}you're right{wait:05}...{wait:0A}
+You'll make it back{wait:05}...{enter}
+When you come back, I'm
+going to{wait:05}...{wait:0A}well{wait:05}...{wait:05}
+I just thought...{enter}
+...maybe I could be{wait:05}...{wait:0A}
+closer to you...{wait:0A}you know..."
+
+#### 27 ####
+Bart
+"Hey, whoa! Quit it.{wait:0A}
+Do you know what
+you're saying!?"
+
+#### 28 ####
+Margie
+"Heh, just kiddin'!!
+Young master, you're
+all panicked!!"
+
+#### 29 ####
+...
+
+#### 30 ####
+Margie
+"Funny...{wait:0A}
+I don't see {name:07:チュチュ}
+anywhere!{enter}
+Where'd she go off to?"
+
+#### 31 ####
+Margie
+"Everyone...
+I'm really worried..."
+
+#### 32 ####
+Margie
+"I feel kinda out of it!{wait:0A}
+But the important stuff is
+about to begin, right!?"
+
+#### 33 ####
+Margie
+"I should be able to help
+Bart this time!"
+
+#### 34 ####
+Margie
+"We may not see each other
+for a while."
+
+#### 35 ####
+Margie
+"Fei?{wait:0A}
+No, he hasn't come here!"
+
+#### 36 ####
+Margie
+"...I knew something was
+up with the 'Ethos'...{enter}
+It's not permissible to use
+religion for wrong doing!"
+
+#### 37 ####
+Margie
+"Wels...
+Kinda scary."
+
+#### 38 ####
+Margie
+"Ghost ship, eh?{enter}
+It reminds me of the days
+Bart and I used to dare
+each other..."
+
+#### 39 ####
+Bart
+"Ma...Margie,{wait:0A}
+stop talking about that!"
+
+#### 40 ####
+Margie
+"Heh, heh, heh!{wait:0A}
+If you insist..."
+
+#### 41 ####
+Margie
+"What a relief!"
+
+#### 42 ####
+Margie
+"I'm glad we've met up
+with such nice people.{enter}
+Anyway, I'd better hurry
+and get back to my church!"
+
+#### 43 ####
+Margie
+"Fei, go to Elly.
+You should be there for
+her in times like this."
+
+#### 44 ####
+{name:07:チュチュ}
+"Don't chu want {name:07:チュチュ}
+to go with you chu?"
+
+#### 45 ####
+Margie
+"You stay here!"
+
+#### 46 ####
+Margie
+"I was the only one who
+escaped Shakhan's grip by
+fleeing Nisan with Bart...{enter}
+I wonder if the sisters
+are all right...{wait:0A}
+The young master will help
+them too, won't he?"
+
+#### 47 ####
+Margie
+"Even though it was the
+sect's wish, it still left
+a bitter feeling..."
+
+#### 48 ####
+Margie
+"Thanks, Fei!!"
+
+#### 49 ####
+Margie
+"How dare you come into
+a girl's room without
+knocking!"
+
+#### 50 ####
+Margie
+"I'm not good enough to
+fight with Bart and his
+comrades...{enter}
+But I can be a manager!{wait:0A}
+Let me know when you want
+to change party members!"
+
+#### 51 ####
+Margie
+"Change party members?"
+    Yes
+    No
+
+#### 52 ####
+Margie
+"Oops, sorry!
+You can't change now!"
+
+#### 53 ####
+Margie
+"Let me know again!"
+
+#### 54 ####
+{name:07:チュチュ}
+"I...may have been
+getting in everyone's
+way up chu now.{enter}
+But, I can't stand chu
+think Fei and all his
+friends may perish away
+like us...{enter}
+I'm going chu fight so
+that this kind of thing
+never happens chu
+anyone again!!"
+
+#### 55 ####
+{name:07:チュチュ}
+"I am ready chu
+fight anytime!"
+
+#### 56 ####
+{name:07:チュチュ}
+"...I admire Primera.{wait:0A}
+She's only a child yet she
+has been through so muchu.{enter}
+But then you look at me...{wait:0A}
+I'd better start chu get
+my act chugether!"
+
+#### 57 ####
+{name:07:チュチュ}
+"Stone was a baddie!?{wait:0A}
+I'll never be able
+chu forgive him!"
+
+#### 58 ####
+{name:07:チュチュ}
+"The boat suddenly started
+chu roll, and now I don't
+feel chu good!!"
+
+#### 59 ####
+{name:07:チュチュ}
+"It's fun chu see more
+and more people here!!"
+
+#### 60 ####
+{name:07:チュチュ}
+"{name:07:チュチュ} can't do muchu
+anything either, so I'll
+just be a dependent chu!"
+
+#### 61 ####
+{name:07:チュチュ}
+"Fei, still sleeping?{enter}
+A maiden's kiss might
+wake him up.{wait:0A}
+Oh, what am I saying!?
+This is chu embarrassing!!"
+
+#### 62 ####
+{name:07:チュチュ}
+"Fei, still sleeping?{enter}
+A maiden's kiss might
+wake you up.{wait:0A}
+Oh, what am I saying!?
+This is chu embarrassing!!"
+
+#### 63 ####
+{name:07:チュチュ}
+"Fei is sleeping now chu?{wait:0A}
+He is suchu a sleepyhead."
+
+#### 64 ####
+{name:07:チュチュ}
+"If I break something,
+Fei will comfort me, right?
+So what should I break?"
+
+#### 65 ####
+{name:07:チュチュ}
+"This place isn't
+chu familiar.{enter}
+But it doesn't matter
+because I didn't know
+muchu about Aveh in
+the first place chu."
+
+#### 66 ####
+{name:07:チュチュ}
+"It's chu noisy.{wait:0A} Is it
+some kind of festival?"
+
+#### 67 ####
+{name:07:チュチュ}
+"Nobody's here, and
+there's nothing chu do!
+I'm so bored!"
+
+#### 68 ####
+{name:07:チュチュ}
+"Wow!{wait:0A} A delicious
+looking spider..."
+
+#### 69 ####
+Munchu munchu
+
+#### 70 ####
+{name:07:チュチュ}
+"Presents are a way
+chu a woman's heart!{wait:0A}
+Here's your reward!"
+
+#### 71 ####
+Received 'Ether Veiler'!
+
+#### 72 ####
+{name:07:チュチュ}
+"My eyes dry out when
+pretending chu be a
+stuffed animal. Ouchu!"
+
+#### 73 ####
+Oh my...{wait:0A}
+I just declared
+my love!!{clear:3C}
+
+#### 74 ####
+Primera
+"..."
+
+#### 75 ####
+Primera
+"..."
+
+#### 76 ####
+Billy
+"Prim!
+Why are you here!?{wait:0A}
+Stay at the orphanage..."
+
+#### 77 ####
+Primera
+"..."
+
+#### 78 ####
+Billy
+"Prim...won't you listen
+to your brother?"
+
+#### 79 ####
+Margie
+"Billy, Primera followed
+you here because she's
+worried about you.{enter}
+Can't you see!?{wait:0A}
+Let her stay a little
+while,{wait:0A} okay?"
+
+#### 80 ####
+"..."
+
+#### 81 ####
+Billy
+"...Well then...{wait:0A}
+Don't you go anywhere,
+okay?"
+
+#### 82 ####
+Primera
+"..."
+
+#### 83 ####
+Billy
+"Margie, please take care
+of my little sister."
+
+#### 84 ####
+{name:07:チュチュ}
+"Why don't chu
+ask me that chu?"
+
+#### 85 ####
+She's holding a note...
+Read it?
+{fast:FF}    Read it
+    No, better not!
+
+#### 86 ####
+{fast:FF}'PriMemo'
+Big brother,
+hang in there...
+
+#### 87 ####
+{fast:FF}'PriMemo'
+There are three types of
+guns that are standard
+equipment for you...{enter}
+ Handgun,
+ Ether-gun,
+ Big-gun.{enter}
+The only gun that can be
+re-equipped is the handgun.{enter}
+You can power-up guns by
+upgrading their respective
+'ammo' or 'bullets'.{enter}
+Equipping ammo is done by
+pressing the Left or Right
+Directional button at the
+equipment menu screen.{enter}
+Doing this will switch the
+equipment window to a sub-
+window where you can change
+the type of ammo you use.{enter}
+There is one thing you have
+to be careful of... There
+is a only a finite amount
+of each type of ammo!{enter}
+Hence, it is important to
+keep an ample supply of
+ammo in reserve and reload
+as often as possible.{enter}
+The only exception to this
+is the Ether gun, which can
+be shot an unlimited amount
+of times.
+
+#### 88 ####
+
+

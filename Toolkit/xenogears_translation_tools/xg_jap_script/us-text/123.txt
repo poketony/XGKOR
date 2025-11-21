@@ -1,0 +1,13 @@
+#### 1 ####
+{fast:FF}There's probably a guard outside...
+    Open the door
+    Just take a peek
+
+#### 2 ####
+You have too many
+{str}.
+
+#### 3 ####
+ 
+ Received {str}.
+

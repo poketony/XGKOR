@@ -1,0 +1,118 @@
+<TextBlock 1 w:54 h:4>
+Elly
+"Queste ferite sono
+davvero orribili.<New>
+Potrebbe non sopravvivere
+in queste condizioni."<Close><End of Block>
+<TextBlock 2 w:38 h:4>
+Elly
+"Chiamiamo l'Yggdrasil
+per farci venire ad
+aiutare."<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+Elly
+"Fatti coraggio!<Delay 30>
+Non preoccuparti!
+Veniamo ad aiutarti!"<Close><End of Block>
+<TextBlock 4 w:32 h:4>
+Elly
+"'Shevat'!?<Delay 30>
+È…<Delay 30> di 'Shevat'!?"<Close><End of Block>
+<TextBlock 5 w:52 h:3>
+Shitan
+"Che ferita terribile!
+La sua vita è in grave
+pericolo."<Close><End of Block>
+<TextBlock 6 w:38 h:4>
+Shitan
+"Contattiamo
+l'Yggdrasil.<New>
+Verranno ad
+aiutarci."<Close><End of Block>
+<TextBlock 7 w:48 h:4>
+Shitan
+"Fatti forza!<Delay 30>
+Non preoccuparti.
+Siamo amici!"<Close><End of Block>
+<TextBlock 8 w:30 h:4>
+Shitan
+"'Shevat'!?<Delay 30>
+Vieni da…<Delay 30>
+'Shevat'!?"<Close><End of Block>
+<TextBlock 9 w:40 h:4>
+Bart
+"È una brutta ferita.
+Se non la aiutiamo,
+morirà!"<Close><End of Block>
+<TextBlock 10 w:48 h:4>
+Bart
+"Chiamerò la mia nave
+e verranno ad aiutarci
+a portarla fuori."<Close><End of Block>
+<TextBlock 11 w:48 h:4>
+Bart
+"Ehi! Tieni gli occhi
+aperti!<Delay 30> Ti stiamo
+portando fuori, ok?"<Close><End of Block>
+<TextBlock 12 w:36 h:4>
+Bart
+"'Shevat'!?
+Ha detto proprio…
+'Shevat'!?"<Close><End of Block>
+<TextBlock 13 w:36 h:3>
+Billy
+"Stai bene!?
+Rispondimi!"<Close><End of Block>
+<TextBlock 14 w:52 h:3>
+Billy
+"Ho chiamato l'Yggdrasil
+per soccorrerla.<New>
+Si prenderanno cura
+di lei. Sbrighiamoci."<Close><End of Block>
+<TextBlock 15 w:52 h:2>
+Rico
+"È davvero una
+brutta ferita."<Close><End of Block>
+<TextBlock 16 w:48 h:3>
+Rico
+"Chiamiamo l'Yggdrasil.
+Verranno ad aiutarla."<Close><End of Block>
+<TextBlock 17 w:40 h:4>
+Rico
+"Ehi tu!
+Fatti forza, dai!<Delay 30>
+Siamo amici!"<Close><End of Block>
+<TextBlock 18 w:40 h:4>
+Rico
+"'Shevat'!?
+Appartiene al
+popolo di 'Shevat'?"<Close><End of Block>
+<TextBlock 19 w:6 h:1>
+…<Close><End of Block>
+<TextBlock 20 w:30 h:1>
+…<Delay 5>…<Delay 5>…<Delay 5>…<Delay 5>…<Delay 5><Space 3><Close><End of Block>
+<TextBlock 21 w:50 h:2>
+<Opcode 14 2>Io…<Delay 5>…<Delay 10> non…<Delay 10> so…<Delay 5>…<Delay 10>
+nulla…<Delay 5>…<Delay 5>…<Delay 10><New>
+Non posso…<Delay 5>…<Delay 5> parlare…<Space 5>
+<Opcode 14 3>più…<Delay 5> di…<Delay 10> così…<Close><End of Block>
+<TextBlock 22 w:26 h:2>
+<Opcode 14 3>…<Delay 5>…<Delay 5>?<Delay 5>
+…<Delay 5>…<Delay 5>…<Delay 5>…<Delay 5>!<Space 3><Close><End of Block>
+<TextBlock 23 w:42 h:2>
+<Opcode 14 3>She<Delay 5>…<Delay 10> vat…<New>
+<Opcode 14 3>De<Delay 5>…<Delay 5> vo<Delay 5>…<Delay 5> contattare<Delay 5>…<Delay 10><Space 1>
+Shev<Delay 5>…<Delay 5> at<Delay 5>…<Delay 5><Close><End of Block>
+<TextBlock 24 w:6 h:1>
+<Opcode 14 3>…<Close><End of Block>
+<TextBlock 25 w:40 h:2>
+Big Joe
+"Oh, il mio amicone!"<Close><End of Block>
+<TextBlock 26 w:44 h:4>
+Big Joe
+"Sei venuto a 
+salvarmi, eh?  
+Bene bene.<New>
+Un giorno ti vanterai 
+di avermi salvato!<Wait>
+Adios, amigos!"<Close><Close><End of Block>

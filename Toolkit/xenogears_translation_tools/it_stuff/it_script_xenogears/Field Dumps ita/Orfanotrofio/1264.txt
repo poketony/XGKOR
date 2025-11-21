@@ -1,0 +1,72 @@
+<TextBlock 1 w:52 h:4>
+Billy
+"Perdonatemi. Quando avrò
+finito, verrò. Perciò voi
+intanto salite a bordo.<New>
+Vi dirò di più
+durante il viaggio…"<Close><End of Block>
+<TextBlock 2 w:4 h:1>
+!!<Opcode 2 30><Close><End of Block>
+<TextBlock 3 w:38 h:2>
+Billy
+"Cosa vi serve?"<Close><End of Block>
+<TextBlock 4 w:52 h:3>
+Billy
+"Scusatemi, ma devo
+andare ad accogliere
+delle persone.<New>
+Vi prego di non mettervi
+a cercare chissà che
+nelle stanze altrui."<Close><End of Block>
+<TextBlock 5 w:52 h:4>
+Billy
+"Cosa state facendo!?<Delay 10><New>
+Non andate a cercare
+chissà che nelle stanze
+degli altri!"<Close><End of Block>
+<TextBlock 6 w:40 h:1>
+C'è spazio per 3 libri…<Close><End of Block>
+<TextBlock 7 w:40 h:1>
+C'è spazio per 3 libri…<Close><End of Block>
+<TextBlock 8 w:34 h:3>
+Fei
+"Mettiamo i libri
+che abbiamo…"<Close><End of Block>
+<TextBlock 9 w:34 h:3>
+Elly
+"Mettiamo il libro
+che ci è stato dato…"<Close><End of Block>
+<TextBlock 10 w:34 h:3>
+Shitan
+"Mettiamo il libro
+che ci è stato dato…"<Close><End of Block>
+<TextBlock 11 w:34 h:3>
+Bart
+"Mettiamo lì il
+libro che abbiamo."<Close><End of Block>
+<TextBlock 12 w:34 h:3>
+Rico
+"Mettiamo lì il
+libro che abbiamo."<Close><End of Block>
+<TextBlock 13 w:34 h:3>
+Billy
+"Questa è la stanza…
+me la ricordo…"<Close><End of Block>
+<TextBlock 14 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 15 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 16 w:44 h:4>
+Billy
+"Questa è<Delay 5>…<Delay 5> di mio padre<Delay 5>…<Delay 10>
+Mi fa ricordare cose<Delay 5>…<Delay 5>
+successe<Delay 15> tanto tempo fa<Delay 5>…"<Close><End of Block>
+<TextBlock 17 w:44 h:4>
+Billy
+"Questa è<Delay 5>…<Delay 5> di mio padre<Delay 5>…<Delay 10>
+Mi fa ricordare cose<Delay 5>…<Delay 5>    
+successe<Delay 5> tanto tempo fa<Delay 5>…"<Close><End of Block>
+<TextBlock 18 w:0 h:1>
+<Close><End of Block>

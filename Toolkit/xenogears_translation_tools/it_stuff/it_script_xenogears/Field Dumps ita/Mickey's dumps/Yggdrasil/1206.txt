@@ -1,0 +1,247 @@
+<TextBlock 1 w:30 h:2>
+Elly
+"Sono sempre pronta!"<Close><End of Block>
+<TextBlock 2 w:36 h:4>
+Maria
+"I legami fra me e mio
+padre non…<Delay 10> possono
+essere spezzati!"<Close><End of Block>
+<TextBlock 3 w:48 h:4>
+Maria
+"Il mio <Seibzehn> è
+troppo grande, così devo
+tenerlo sul ponte di volo.<New>
+Se vi serve, <Seibzehn>
+sarà pronto a decollare
+in ogni momento!"<Close><End of Block>
+<TextBlock 4 w:24 h:3>
+Esmeralda
+"Anche Esmeralda<Delay 5>…<Delay 10>
+va<Delay 5>…"<Close><End of Block>
+<TextBlock 5 w:54 h:4>
+Fei
+"Ah<Delay 5>…<Delay 10> scusami per ciò che è
+successo<Delay 5>… Perdonami…<Delay 10>
+Ma,<Delay 5> voglio spiegarti…<New>
+Ora,<Delay 10> per la prima volta,<Delay 10>
+il popolo della terra e
+quello di Solaris
+diventano uno.<New>
+Però,<Delay 10> non tutti loro<Delay 10>
+sono forti come la
+gente di questa nave,
+o il popolo di Shevat.<New>
+Anche noi talvolta
+perdiamo di vista il
+nostro futuro…<New>
+Così puoi immaginare
+cosa attraversi la
+gente normale.<New>
+Ecco perché il popolo
+ha bisogno di qualcuno
+come te da cui dipendere…<Delay 10>
+Come una luce nel buio.<New>
+Hai liberato i cuori di
+persone che erano state
+usate come oggetti per
+centinaia di anni.<New>
+Elly, sei stata tu!<Delay 10>
+Ed ora tu non appartieni
+più solo a te stessa.<New>
+Per questo non posso farti
+correre alcun pericolo.<Delay 10>
+E per questo voglio che
+tu non combatta più."<Close><End of Block>
+<TextBlock 6 w:48 h:1>
+…<Delay 5> È divertente, vero?<Close><End of Block>
+<TextBlock 7 w:8 h:1>
+Eh?<Close><End of Block>
+<TextBlock 8 w:46 h:4>
+Elly
+"Eravamo nemici,<Delay 5> ma
+ora siamo insieme<Delay 5>…"<Close><End of Block>
+<TextBlock 9 w:50 h:4>
+Elly
+"All'inizio…<Delay 10>
+Credevo di guardarmi
+in uno specchio.<New>
+Sembravamo così simili…<Delay 10>
+Ti trovavi nella mia
+stessa situazione.<New>
+Quando mi stavi vicino,<Delay 5>
+non mi sentivo sola o
+agitata.<Delay 10> Pensavo fosse
+perché mi piacevi…<New>
+Ma non era per quello.<Delay 10>
+Semplicemente non avevo
+il coraggio di guardare
+dentro me stessa.<New>
+Mi volgevo a te per
+scappare da tutto il
+resto…<Delay 10>
+L'ho confuso con l'amore."<Close><End of Block>
+<TextBlock 10 w:54 h:4>
+Elly
+"Ma…<Delay 10> ora è diverso.<Delay 10>
+So affrontare i miei
+problemi<Delay 10>…<New>
+Io sono io<Delay 5>…
+e tu sei tu.<New>
+Ora mi è tutto<Delay 5>
+chiaro.<Delay 10>
+Ho imparato che ho
+davvero bisogno di te…<New>
+Non perché sei la
+panacea di tutti i
+miei problemi.<New>
+Ho bisogno di te
+perché io ti amo."<Close><End of Block>
+<TextBlock 11 w:14 h:1>
+Elly<Delay 5>…<Close><End of Block>
+<TextBlock 12 w:54 h:4>
+Elly
+"Capisco cosa vuoi
+dire,<Delay 5> Fei<Delay 10>…<New>
+So perché sei
+preoccupato per la
+mia incolumità…<New>
+Sai,<Delay 5> ho<Delay 5>…<Delay 5> paura.<Delay 10>
+Paura di non rivederci
+di nuovo<Delay 5>…<Delay 10>
+Ho questa sensazione."<Close><End of Block>
+<TextBlock 13 w:26 h:3>
+Fei
+"Non preoccuparti,<Delay 10>
+non morirò."<Close><End of Block>
+<TextBlock 14 w:52 h:4>
+Elly
+"No,<Delay 5> non è quello<Delay 5>…<Delay 10> È
+qualcosa di completamente
+diverso<Delay 5>…<New>
+È come se fossi portata
+via da qualcosa a cui
+non posso resistere<Delay 5>…<Delay 10>
+Come se non fossi più io<Delay 5>…<New>
+Anche se ritorni sano
+e salvo<Delay 5>…<Delay 10> Ancora<Delay 5>…<Delay 10>
+Mi fa sentire inquieta<Delay 5>…<New>
+Ecco perché ho bisogno
+di venire con te.<Delay 10> Non
+posso resistere quando
+sono lontana da te."<Close><End of Block>
+<TextBlock 15 w:52 h:4>
+Fei
+"Anch'io mi sento così…<Delay 10>
+Fin dal giorno in cui ti
+incontrai nella foresta<Delay 5>…<New>
+Credo sia la stessa
+cosa che stai provando
+tu…<Delay 10> Anch'io stavo
+correndo verso di te.<New>
+Ma devo risolvere i miei
+problemi.<Delay 10>
+Non posso gettare i miei
+problemi su di te."<Close><End of Block>
+<TextBlock 16 w:50 h:4>
+Fei
+"C'è un altro me…<Delay 10>
+Id è dentro di me.<New>
+Ho paura che lui possa
+svegliarsi in qualsiasi
+momento.<New>
+Sei stata l'unica che
+ha potuto impedirmi di
+trasformarmi in Id.<New>
+È perché eri sempre al
+mio fianco che mi ha
+impedito di perdere me
+stesso."<Close><End of Block>
+<TextBlock 17 w:52 h:4>
+Fei
+"Ti prometto che<Delay 5>
+io ritornerò.<New>
+Così…<Delay 5> io…<Delay 5> Elly,<Delay 10>
+voglio che tu sia la mia
+ragione di vita…<Delay 10> La casa
+a cui ritornare…<New>
+Elly,<Delay 5> se aspetterai il
+mio ritorno…<Delay 10>
+anche se saremo in luoghi
+totalmente diversi…<New>
+Fintanto che sarai<Delay 5>
+al mio fianco…<Delay 10>
+Io so che sarò capace
+di fare ogni cosa…"<Close><End of Block>
+<TextBlock 18 w:20 h:1>
+Oh,<Delay 5> Fei<Delay 5>…<Close><End of Block>
+<TextBlock 19 w:36 h:1>
+Stai andando via?<Close><End of Block>
+<TextBlock 20 w:32 h:3>
+Fei
+"Sì, scusami.<Delay 10>
+Ti ho svegliata?"<Close><End of Block>
+<TextBlock 21 w:30 h:4>
+Elly
+"Va tutto bene.<Delay 10>
+Ero già sveglia
+da un po'<Delay 5>…"<Close><End of Block>
+<TextBlock 22 w:20 h:1>
+Da un po'?<Close><End of Block>
+<TextBlock 23 w:44 h:4>
+Elly
+"Sì.<Delay 10>
+Ti guardavo mentre
+dormivi…<New>
+E senza rendermene
+conto, era già mattina…"<Close><End of Block>
+<TextBlock 24 w:6 h:1>
+<Delay 2>…<Delay 2>…<Delay 2>…<Space 2><Close><End of Block>
+<TextBlock 25 w:38 h:2>
+Fei
+"Ok,<Delay 10> sono pronto."<Close><End of Block>
+<TextBlock 26 w:34 h:3>
+Elly
+"Va bene, però<Delay 5>…<Delay 10>
+Sii cauto<Delay 5>…"<Close><End of Block>
+<TextBlock 27 w:38 h:4>
+Fei
+"Sì,<Delay 5> lo sarò…<Delay 20>
+Oh!<Delay 10> Potresti portare
+questa per me?"<Close><End of Block>
+<TextBlock 28 w:42 h:3>
+Elly
+"Cos'è questa?<Delay 10>
+È una<Delay 5>…<Delay 5> croce?"<Close><End of Block>
+<TextBlock 29 w:52 h:4>
+Fei
+"Non so che cosa sia.<Delay 10>
+Era addosso a me quando
+fui portato a Lahan.<New>
+Potrebbe essere mia,<Delay 5>
+oppure<Delay 5>…"<Close><End of Block>
+<TextBlock 30 w:30 h:1>
+Oppure<Delay 5>…?<Close><End of Block>
+<TextBlock 31 w:36 h:4>
+Fei
+"Oh, nulla…<Delay 10>
+La vuoi portare
+per me?"<Close><End of Block>
+<TextBlock 32 w:30 h:4>
+Elly
+"Va bene.<Delay 10>
+La porterò
+per te."<Close><End of Block>
+<TextBlock 33 w:44 h:4>
+Fei
+"Grazie.<Delay 10> …<Delay 5> Credo<Delay 5> che
+questo sia un
+arrivederci!"<Close><End of Block>
+<TextBlock 34 w:20 h:1>
+Oh<Delay 5>…<Delay 5> Fei.<Close><End of Block>
+<TextBlock 35 w:10 h:1>
+Sì?<Close><End of Block>
+<TextBlock 36 w:28 h:2>
+Elly
+"Grazie<Delay 5>…"<Close><End of Block>
+<TextBlock 37 w:0 h:1>
+<Close><End of Block>

@@ -1,0 +1,57 @@
+#### 1 ####
+Do you {wait:10}want the power?{clear:54}
+
+#### 2 ####
+Grahf
+"My fist is the divine 
+breath!"
+
+#### 3 ####
+Grahf
+"Blossom, o fallen seed, 
+and draw upon thy hidden 
+powers!!"
+
+#### 4 ####
+Grahf
+"Grant unto thee the
+power of the glorious
+'Mother of Destruction'!"
+
+#### 5 ####
+Grahf
+"I am Grahf, the seeker 
+of power. Doth thou 
+desire the power?"
+
+#### 6 ####
+Grahf
+"Yes,{wait:10} the power."
+
+#### 7 ####
+Grahf
+"So be it!"
+
+#### 8 ####
+Vanderkaum
+"Uh...I..."
+
+#### 9 ####
+Vanderkaum
+"Wh, who {wait:07}are you!?"
+
+#### 10 ####
+Vanderkaum
+"The power..."
+
+#### 11 ####
+Vanderkaum
+"P, power...
+...the power...{enter}
+I want it...I want 
+the POWER!"
+
+#### 12 ####
+Vanderkaum
+"Urrgghhhhh..."{clear:32}
+

@@ -1,0 +1,59 @@
+#### 1 ####
+!!{clear:20}
+
+#### 2 ####
+That was pretty
+interesting.
+
+#### 3 ####
+But dropping a warship
+on me is cheating...
+Take it back!
+
+#### 4 ####
+Bart
+"Don't over do it, Sig...{wait:1F}
+Trying to make our ship
+'fly'...!?{enter}
+When we get back it'll 
+take a month to get this 
+heap of junk working 
+again."
+
+#### 5 ####
+Bart
+"...Shees!!{wait:2D}
+What was that
+monster anyway?"
+
+#### 6 ####
+Bart
+"Sig!
+What's going on?"
+
+#### 7 ####
+Bart
+"Sig!! Maison!!...{wait:20}
+Uah..."{clear:18}
+
+#### 8 ####
+Sigurd
+"Young master! 
+Are you okay!?"
+
+#### 9 ####
+Sigurd
+"Ha..ha ha...{wait:20}
+You seem to
+be okay!"
+
+#### 10 ####
+Sigurd
+"What...the ship?{wait:2D} 
+The engine should have 
+fallen out, but..."
+
+#### 11 ####
+Sigurd
+"What in the hell?"{clear:2D}
+

@@ -1,0 +1,51 @@
+<TextBlock 1 w:48 h:4>
+Billy
+"Sembra<Delay 10>… <Delay 2>sangue<Delay 2>…<Delay 2>…
+Cos'è accaduto su questa
+nave da trasporto…?<New>
+No, questa è…<Delay 25>
+acqua con ruggine…<Delay 15>
+Sbrighiamoci." <Close><End of Block>
+<TextBlock 2 w:50 h:2>
+Non è chiusa, ma la
+ruggine ne impedisce
+l'apertura.<New>
+Forse con una spallata…?<Close><End of Block>
+<TextBlock 3 w:50 h:1>
+Forse con una spallata…?<Close><End of Block>
+<TextBlock 4 w:40 h:3>
+La apri?
+    Sì
+    Un attimo solo<Close><End of Block>
+<TextBlock 5 w:36 h:1>
+È bloccata dalla ruggine!!<Close><End of Block>
+<TextBlock 6 w:48 h:2>
+È arrugginita…<Delay 20>
+ma cigola un po'.<Close><End of Block>
+<TextBlock 7 w:48 h:2>
+È chiusa, ma
+cigola un po'.<Close><End of Block>
+<TextBlock 8 w:42 h:1>
+Con una spallata…<Close><End of Block>
+<TextBlock 9 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 10 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 11 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 12 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 13 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 14 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 15 w:40 h:1>
+La porta non si apre.<Close><End of Block>
+<TextBlock 16 w:40 h:1>
+La porta non si apre.<Close><Close><End of Block>

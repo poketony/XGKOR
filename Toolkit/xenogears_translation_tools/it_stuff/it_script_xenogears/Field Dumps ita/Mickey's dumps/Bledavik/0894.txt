@@ -1,0 +1,106 @@
+<TextBlock 1 w:40 h:2>
+Non ti interessa il
+gioco d'azzardo, vero?<Close><End of Block>
+<TextBlock 2 w:40 h:2>
+Non ti interessa la
+politica, vero?<Close><End of Block>
+<TextBlock 3 w:6 h:1>
+Già.<Close><End of Block>
+<TextBlock 4 w:40 h:4>
+Che ne pensi di questi
+due qui davanti?
+    Un po' strani
+    Niente<Close><End of Block>
+<TextBlock 5 w:46 h:4>
+In realtà questi due
+sono…<Delay 50> gemelli.<New>
+Dovresti vederli 
+infiltrarsi fra le
+linee nemiche. Il loro
+affiatamento è unico.<Close><End of Block>
+<TextBlock 6 w:36 h:2>
+Già…?<Delay 50> Beh,
+a ognuno il suo..<Close><End of Block>
+<TextBlock 7 w:44 h:3>
+Quanto tempo ci mettono
+a riparare il ventilatore
+sopra il tavolo?<Close><End of Block>
+<TextBlock 8 w:40 h:2>
+Il ventilatore è
+completamente fermo.<Close><End of Block>
+<TextBlock 9 w:48 h:2>
+Guarda!<Delay 30>
+Il ventilatore è stato
+riparato.<Close><End of Block>
+<TextBlock 10 w:52 h:3>
+Quando non abbiamo nulla
+da fare, tutto in questa
+stanza si ferma.<Close><End of Block>
+<TextBlock 11 w:30 h:2>
+Già, una festa
+significa liquori.<Close><End of Block>
+<TextBlock 12 w:22 h:1>
+L'hai detto!<Close><End of Block>
+<TextBlock 13 w:44 h:3>
+Porca troia… Il tizio
+su cui abbiamo scommesso
+ha perso.<New>
+Ora non ci resta altro
+che bere.<Close><End of Block>
+<TextBlock 14 w:22 h:1>
+L'hai detto!<Close><End of Block>
+<TextBlock 15 w:38 h:1>
+Cos'è un'elezione?<Close><End of Block>
+<TextBlock 16 w:34 h:2>
+Possiamo sceglierci
+il re che vogliamo.<Close><End of Block>
+<TextBlock 17 w:16 h:1>
+Davvero?<Close><End of Block>
+<TextBlock 18 w:50 h:1>
+Decidono i cittadini?<Close><End of Block>
+<TextBlock 19 w:44 h:3>
+Ognuno fa la sua
+scelta ed il più
+popolare diventa re.<Close><End of Block>
+<TextBlock 20 w:16 h:1>
+Davvero?<Close><End of Block>
+<TextBlock 21 w:34 h:3>
+Mmh, interessante.
+Vorrei proprio sapere
+chi dovrò scegliere.<Close><End of Block>
+<TextBlock 22 w:38 h:1>
+Ho scelto la mia mamma.<Close><End of Block>
+<TextBlock 23 w:28 h:2>
+Cosa!?
+Non farlo!<Close><End of Block>
+<TextBlock 24 w:44 h:3>
+Se fossimo ancora sotto
+attacco nemico non
+potremmo riposare, giusto?<New>
+Questo è il momento in
+cui un pranzo tranquillo
+è una vera lussuria.<Close><End of Block>
+<TextBlock 25 w:50 h:2>
+Tutto questo tempo libero
+ti fa diventare pigro.<Close><End of Block>
+<TextBlock 26 w:42 h:2>
+Il cuoco del castello
+è un vero artista.<Close><End of Block>
+<TextBlock 27 w:46 h:2>
+Proprio così! Cucina
+per il re, no?<Close><End of Block>
+<TextBlock 28 w:38 h:2>
+Come vorrei che il
+cibo di mia moglie
+fosse così buono!<Close><End of Block>
+<TextBlock 29 w:36 h:2>
+Il cibo della mia vecchia
+signora è mangiabile ma…<Close><End of Block>
+<TextBlock 30 w:70 h:3>
+<Opcode 1 255>Probabilmente lì c'è una guardia…
+    Apri la porta
+    Da' solo un'occhiata<Close><End of Block>
+<TextBlock 31 w:70 h:3>
+<Opcode 1 255>Probabilmente lì c'è una guardia…
+    Apri la porta
+    Da' solo un'occhiata<Close><Close><End of Block>

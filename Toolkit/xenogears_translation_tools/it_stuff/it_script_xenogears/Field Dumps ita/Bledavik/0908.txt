@@ -1,0 +1,404 @@
+<TextBlock 1 w:48 h:4>
+Bart
+"Grazie a voi…<New>
+… abbiamo recuperato
+Aveh dalle grinfie
+di Shakhan e di
+Geburah.<New>
+Grazie.<New>
+Ora, per liberare le
+altre terre da Geburah
+e da Solaris…<New>
+… dobbiamo distruggere
+gli altri due portali,
+ed abbattere Solaris.<New>
+Dalle annotazioni di
+Shakhan abbiamo appreso
+che i portali formano i
+vertici d'un triangolo."<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+Bart
+"Un vertice era il
+Gran Mausoleo<Delay 50>…<New>
+Ne rimangono due, ma noi
+sappiamo dove si trova
+solo uno di essi.<Close><End of Block>
+<TextBlock 3 w:50 h:3>
+Shitan
+"Sì, sotto la Sede della
+Chiesa. Tuttavia…"<Close><End of Block>
+<TextBlock 4 w:50 h:4>
+Billy
+"Esso non era lì,
+quando seguimmo Stone
+sotto la Sede.<New>
+Se è davvero lì…<Delay 30>
+dev'essere sepolto sotto
+la terra ad una grande
+profondità…"<Close><End of Block>
+<TextBlock 5 w:36 h:3>
+Rico
+"E allora come faremo
+a distruggerlo?"<Close><End of Block>
+<TextBlock 6 w:26 h:4>
+<Chu-Chu>
+"Unendo le forze
+dei Gear di
+ognuno di noi."<Close><End of Block>
+<TextBlock 7 w:44 h:3>
+Rico
+"E che dovremmo fare
+con i nostri Gear…<New>
+… scavare un enorme
+buco nella terra?"<Close><End of Block>
+<TextBlock 8 w:26 h:3>
+<Chu-Chu>
+"E che c'è di male?"<Close><End of Block>
+<TextBlock 9 w:50 h:2>
+Sigurd
+"… Ci vorrebbero anni."<Close><End of Block>
+<TextBlock 10 w:38 h:3>
+Fei
+"E se usassimo il
+cannone di Shevat…?"<Close><End of Block>
+<TextBlock 11 w:50 h:3>
+Maria
+"Se ciò funzionasse, ci
+avremmo già provato."<Close><End of Block>
+<TextBlock 12 w:20 h:2>
+Fei
+"… Oh…"<Space 1><Close><End of Block>
+<TextBlock 13 w:48 h:4>
+Shitan
+"Dunque, dovrà trattarsi
+di qualcosa di più potente
+del cannone di Shevat."<Close><End of Block>
+<TextBlock 14 w:40 h:3>
+Elly
+"E noi non possediamo
+una corazzata di
+Geburah."<Close><End of Block>
+<TextBlock 15 w:48 h:3>
+Fei
+"Sulla terra esiste
+un'arma così potente?"<Close><End of Block>
+<TextBlock 16 w:48 h:4>
+Shitan
+"Le corazzate di Geburah
+ed il Cannone di Shevat…<New>
+… sono le armi più potenti
+mai prodotte dall'uomo…"<Close><End of Block>
+<TextBlock 17 w:40 h:4>
+Bart
+"… Ma…<Delay 30>
+Mi sembra di ricordare
+d'aver visto qualcosa…"<Close><End of Block>
+<TextBlock 18 w:14 h:2>
+Sigurd
+"Cosa?"<Close><End of Block>
+<TextBlock 19 w:48 h:4>
+Bart
+"Un'arma con una potenza
+di fuoco pari alla loro…<Delay 200>
+Sì! Ci sono!<New>
+Forte Diaspro!
+Il suo cannone può
+distruggere una montagna!
+Cosa ne dite?"<Close><End of Block>
+<TextBlock 20 w:28 h:2>
+Bart
+"Shitan, cosa c'è?"<Close><End of Block>
+<TextBlock 21 w:56 h:4>
+Shitan
+"Per quanto il Diaspro
+possa esser potente…<New>
+… come faremmo a
+puntarlo sulla Sede?<New>
+Per danneggiare qualcosa
+che giace così in
+profondità…<New>
+… dovremmo attaccarlo
+esattamente da sopra.<New>
+Ma il cannone
+del Diaspro è…"<Close><End of Block>
+<TextBlock 22 w:38 h:2>
+Sigurd
+"Sì, certo…"<Close><End of Block>
+<TextBlock 23 w:48 h:4>
+Rico
+"Cosa?<New>
+Stai dicendo che
+dovremmo spostare Forte
+Diaspro sulla cima di
+Babele?"<Close><End of Block>
+<TextBlock 24 w:50 h:4>
+Billy
+"Ora che me lo dici,
+Babele sovrasta proprio
+la Sede della Chiesa.<New>
+Se faremo fuoco da lì,
+il colpo potrebbe essere
+in grado di raggiungere
+quella profondità."<Close><End of Block>
+<TextBlock 25 w:44 h:3>
+Sigurd
+"Ma… in che modo
+potremmo spostare
+Forte Diaspro?"<Close><End of Block>
+<TextBlock 26 w:48 h:3>
+Elly
+"È impossibile. Una
+cosa così pesante…"<Close><End of Block>
+<TextBlock 27 w:3 h:1>
+!<Opcode 2 30><Close><End of Block>
+<TextBlock 28 w:48 h:4>
+Fei
+"Ma…<New>
+… la sala di controllo
+dentro Babele non
+controllava un cannone,
+o una cosa simile?<New>
+Credo che muovesse il
+gigantesco specchio che
+si trova di fuori."<Close><End of Block>
+<TextBlock 29 w:46 h:3>
+Bart
+"Maria, conosci
+qualcosa del genere?"<Close><End of Block>
+<TextBlock 30 w:50 h:3>
+Maria
+"Non ne ho mai sentito
+parlare, ma…"<Close><End of Block>
+<TextBlock 31 w:46 h:3>
+Fei
+"Ma potrebbe essere lì.
+Andiamo a controllare."<Close><End of Block>
+<TextBlock 32 w:24 h:2>
+Bart
+"D'accordo…"<Close><End of Block>
+<TextBlock 33 w:3 h:1>
+!<Opcode 2 30><Close><End of Block>
+<TextBlock 34 w:52 h:4>
+Shitan
+"Aspetta un attimo…<New>
+Un gigantesco specchio ed
+un gigantesco cannone
+provenienti entrambi dalle
+stesse rovine?<Delay 30><New>
+La cosa potrebbe avere
+un senso…"<Close><End of Block>
+<TextBlock 35 w:24 h:2>
+Bart
+"In che senso?"<Close><End of Block>
+<TextBlock 36 w:28 h:4>
+Shitan
+"Ah…<Delay 30>
+Ho risolto l'enigma…"<Close><End of Block>
+<TextBlock 37 w:44 h:2>
+Sigurd
+"Enigma? Che enigma?"<Close><End of Block>
+<TextBlock 38 w:50 h:4>
+Shitan
+"Le rovine di Babele
+e del Diaspro provengono
+dalla stessa civiltà.<New>
+Una civiltà ben più
+avanzata della nostra…
+Le due strutture non vi
+sembrano simili?<New>
+Io credo che entrambe
+siano state costruite con
+dei Gear e avendo in mente
+un potente avversario."<Close><End of Block>
+<TextBlock 39 w:48 h:3>
+Fei
+"Sì, l'ho notato.
+Ma… cosa significa?"<Close><End of Block>
+<TextBlock 40 w:48 h:4>
+Shitan
+"Significa che la gente
+che costruì il gigantesco
+specchio su Babele…<New>
+… sapeva del gigantesco
+cannone posto sul Diaspro!"<Close><End of Block>
+<TextBlock 41 w:24 h:4>
+Bart
+"E…?<Delay 30>
+A cosa vuoi
+arrivare?"<Close><End of Block>
+<TextBlock 42 w:46 h:4>
+Shitan
+"Possiamo probabilmente
+ammettere che…<New>
+… lo specchio sia
+stato costruito per
+riflettere qualcosa…<New>
+… e che quel qualcosa
+sia un raggio. Un raggio
+emesso dal cannone del
+Diaspro!"<Close><End of Block>
+<TextBlock 43 w:48 h:4>
+Fei
+"Riflettere<Delay 30>…?<New>
+Vuoi dire che quello
+specchio può riflettere
+un attacco composto da
+un raggio?"<Close><End of Block>
+<TextBlock 44 w:12 h:2>
+Shitan
+"Esatto."<Close><End of Block>
+<TextBlock 45 w:38 h:4>
+Rico
+"Tanto tempo fa…<New>
+… Babele ed il Diaspro
+devono essersi ritrovati
+in guerra."<Close><End of Block>
+<TextBlock 46 w:48 h:3>
+Shitan
+"Non esattamente.<New>
+Lo specchio di Babele ed
+il cannone del Diaspro
+erano combinati per
+creare un'unica arma."<Close><End of Block>
+<TextBlock 47 w:30 h:2>
+Rico
+"Che diavolo vuoi dire?"<Close><End of Block>
+<TextBlock 48 w:50 h:4>
+Elly
+"Ma quelle cose sono molto
+lontane, come potrebbero
+essere una sola arma?"<Close><End of Block>
+<TextBlock 49 w:46 h:4>
+Shitan
+"Beh, i portali possono
+pure essere assai lontani…<New>
+… ma non sono comunque
+un unico congegno?"<Close><End of Block>
+<TextBlock 50 w:32 h:3>
+Elly
+"Sì, capisco ciò
+che intendi, ma…"<Close><End of Block>
+<TextBlock 51 w:36 h:3>
+Billy
+"E per cosa usavano
+quell'arma?"<Close><End of Block>
+<TextBlock 52 w:44 h:2>
+Shitan
+"Questo proprio
+non lo so."<Close><End of Block>
+<TextBlock 53 w:46 h:4>
+Bart
+"Lasciamo stare.
+Il punto è: come usiamo
+le due armi come una?"<Close><End of Block>
+<TextBlock 54 w:46 h:3>
+Shitan
+"Punta il cannone del
+Diaspro sullo specchio
+e fai fuoco.<New>
+Lo specchio rifletterà
+il raggio sul portale."<Close><End of Block>
+<TextBlock 55 w:3 h:1>
+!<Opcode 2 30><Close><End of Block>
+<TextBlock 56 w:42 h:3>
+Maria
+"Lei pensa che
+funzionerà?"<Close><End of Block>
+<TextBlock 57 w:42 h:4>
+Shitan
+"Teoricamente.<New>
+La cosa richiederà
+qualche adattamento
+di minor importanza…"<Close><End of Block>
+<TextBlock 58 w:46 h:4>
+Sigurd
+"Regolare lo specchio
+sarà una cosa alquanto
+ardua e tediosa…"<Close><End of Block>
+<TextBlock 59 w:46 h:4>
+Shitan
+"Se le due armi sono
+una sola, allora non
+dovrebbe esserlo troppo.<New>
+Lo spero…"<Close><End of Block>
+<TextBlock 60 w:46 h:3>
+Rico
+"Sembra pericoloso.<New>
+Io credo che sia stato
+concepito per riflettere
+al nemico i suoi stessi
+colpi.<New>
+Se sbaglierete, il colpo
+tornerà indietro e vi
+colpirà."<Close><End of Block>
+<TextBlock 61 w:46 h:4>
+Shitan
+"Sì. È questa la maggior
+difficoltà per chi
+manovra il cannone.<New>
+Lo specchio deve essere
+colpito con precisione."<Close><End of Block>
+<TextBlock 62 w:54 h:4>
+Shitan
+"Avremo bisogno di
+dividerci in due gruppi.<New>
+Uno farà fuoco con il
+cannone, mentre l'altro…<New>
+… regolerà l'angolo dello
+specchio, per assicurare
+che il raggio colpisca
+la Sede della Chiesa.<New>
+Dacché quest'idea è stata
+mia, mi assumerò io il
+rischioso compito di
+regolare lo specchio."<Close><End of Block>
+<TextBlock 63 w:42 h:4>
+Sigurd
+"D'accordo, Hyuga,
+lasceremo che sia
+compito tuo…<New>
+… Sembra il tipo
+di lavoro adatto
+a te."<Close><End of Block>
+<TextBlock 64 w:42 h:3>
+Fei
+"Andrò anch'io.
+Doc potrebbe aver
+bisogno d'aiuto."<Close><End of Block>
+<TextBlock 65 w:48 h:4>
+Elly
+"Fei e Shitan potrebbero
+sentirsi soli. Perciò
+dovrei andare anch'io."<Close><End of Block>
+<TextBlock 66 w:48 h:4>
+Sigurd
+"Va bene, voi tre
+prenderete Babele.<New>
+Ed ora, riguardo al
+cannone?"<Close><End of Block>
+<TextBlock 67 w:50 h:3>
+Billy
+"Sarò io a farlo. Sembra
+il lavoro adatto a me.<New>
+Non preoccupatevi, non
+mancherò l'obiettivo.
+Avrò pure usato una
+pistola per qualcosa."<Close><End of Block>
+<TextBlock 68 w:48 h:3>
+Bart
+"Beh, io, probabilmente,
+dovrei andare al Diaspro."<Close><End of Block>
+<TextBlock 69 w:38 h:3>
+<Chu-Chu>
+"Anch'io, chu! <Chu-Chu> 
+vuole andare, chu!"<Close><End of Block>
+<TextBlock 70 w:50 h:4>
+Bart
+"Allora è deciso.<New>
+Voi andate con Shitan per
+far puntare allo specchio
+la Sede della Chiesa.<New>
+Noi mireremo allo specchio
+con il cannone del Diaspro.<Delay 50>
+Torniamo sull'Yggdrasil e
+muoviamoci!"<Close><Close><End of Block>

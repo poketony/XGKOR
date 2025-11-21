@@ -1,0 +1,306 @@
+<TextBlock 1 w:48 h:3>
+Elly
+"Aspetta…<Delay 30>!<New>
+Ma questo non è il
+generatore della barriera
+di cui abbiamo sentito
+parlare a Shevat!?"<Close><End of Block>
+<TextBlock 2 w:46 h:3>
+Elly
+"??<Delay 30> C'è qualcosa
+che non va."<Close><End of Block>
+<TextBlock 3 w:42 h:3>
+Elly
+"Sta cadendo a pezzi.<Delay 30>
+Dobbiamo andarcene!!"<Close><End of Block>
+<TextBlock 4 w:52 h:4>
+Shitan
+"Che questo sia il
+generatore della barriera…<New>
+… di cui abbiamo sentito
+parlare quando eravamo
+a Shevat!?"<Close><End of Block>
+<TextBlock 5 w:46 h:3>
+Shitan
+"C'è qualcosa
+che non quadra."<Close><End of Block>
+<TextBlock 6 w:48 h:3>
+Shitan
+"Sta esplodendo!<Delay 30>
+Dobbiamo andarcene
+subito!!"<Close><End of Block>
+<TextBlock 7 w:46 h:4>
+Billy
+"Che questo sia il
+congegno che crea
+la barriera…<New>
+… di cui ci hanno
+parlato a Shevat!?"<Close><End of Block>
+<TextBlock 8 w:38 h:3>
+Billy
+"Non pensate ci sia
+qualcosa che non va?"<Close><End of Block>
+<TextBlock 9 w:36 h:3>
+Billy
+"Sta esplodendo!<Delay 30>
+Dobbiamo fuggire!!"<Close><End of Block>
+<TextBlock 10 w:44 h:4>
+Rico
+"Ehi, questo non è il
+congegno che genera
+la barriera…<New>
+… di cui ci hanno
+parlato quelli di
+Shevat!?"<Close><End of Block>
+<TextBlock 11 w:24 h:2>
+Rico
+"Che diamine…!?"<Close><End of Block>
+<TextBlock 12 w:36 h:4>
+Rico
+"Non va bene!<Delay 30>
+Faremmo meglio
+a filarcela!!"<Close><End of Block>
+<TextBlock 13 w:56 h:4>
+<Chu-Chu>
+"Ma quello è il congegno
+chiamalocomecavolochuvuoi…<New>
+… di cui ci hanno
+parlato le persone
+di Shevat!?"<Close><End of Block>
+<TextBlock 14 w:42 h:2>
+<Chu-Chu>
+"Qualcosa non va?"<Close><End of Block>
+<TextBlock 15 w:38 h:2>
+<Chu-Chu>
+"Dobbiamo
+correre, chu!!"<Close><End of Block>
+<TextBlock 16 w:44 h:3>
+Esmeralda
+"Questo… questo non
+è il portale?"<Close><End of Block>
+<TextBlock 17 w:42 h:2>
+Esmeralda
+"Qualcosa…<Delay 30> non va?"<Close><End of Block>
+<TextBlock 18 w:34 h:2>
+Esmeralda
+"Torniamo indietro!!"<Close><End of Block>
+<TextBlock 19 w:36 h:4>
+Maria
+"Che questo sia il
+generatore della
+barriera…<New>
+… di cui parlava
+la Regina Zefiro!?"<Close><End of Block>
+<TextBlock 20 w:10 h:2>
+Maria
+"???"<Close><End of Block>
+<TextBlock 21 w:54 h:4>
+Shakhan
+"Non può essere!?
+È ridicolo!!<New>
+Dovrebbe essere in grado
+di assorbire la quantità
+necessaria di energia
+dal portale!<New>
+Non ci sarebbero dovuti
+essere problemi nel mio
+piano! Perché!?<Delay 10> Perché
+non si muove?"<Close><End of Block>
+<TextBlock 22 w:22 h:2>
+Shakhan
+"Cosa…<Delay 7> Chi!?"<Close><End of Block>
+<TextBlock 23 w:46 h:3>
+Shakhan
+"Potere? Di potere
+far cosa? Che tipo
+di potere!!??<New>
+Io ho il potere del
+portale! Sempre che
+riesca a far funzionare
+questa macchina!!"<Close><End of Block>
+<TextBlock 24 w:42 h:3>
+Shakhan
+"Ma che stai dicendo?
+Un potere superficiale?"<Close><End of Block>
+<TextBlock 25 w:44 h:2>
+Shakhan
+"Ghunnnuuuaaaaaahh…"<Opcode 2 50><Close><End of Block>
+<TextBlock 26 w:44 h:3>
+Grahf
+"La mia mano
+è latrice del
+soffio divino!"<Close><End of Block>
+<TextBlock 27 w:48 h:4>
+Grahf
+"Fiorisci, o immoral
+semenza, e tosto accogli
+i tuoi reconditi poteri!"<Close><End of Block>
+<TextBlock 28 w:50 h:4>
+Grahf
+"Accetta in te il
+potere della gloriosa
+Madre della Distruzione!"<Close><End of Block>
+<TextBlock 29 w:46 h:4>
+Grahf
+"Io sono Grahf, colui
+ch'è in perpetua ricerca
+di potere.<New>
+Desideri tu potere?"<Close><End of Block>
+<TextBlock 30 w:48 h:4>
+Grahf
+"Il tuo potere è meramente
+superficiale, generato con
+gl'utensili che generasti…<New>
+… col tuo acerbo
+intelletto. Ora, credi
+di potere vincere?"<Close><End of Block>
+<TextBlock 31 w:50 h:4>
+Grahf
+"Gli inani sforzi di voi
+abitanti della superficie
+sono insignificanti…<New>
+… se comparati al
+vero ed unico potere."<Close><End of Block>
+<TextBlock 32 w:46 h:3>
+Grahf
+"Ti fornirò il mio
+vero potere!"<Close><End of Block>
+<TextBlock 33 w:34 h:3>
+Fei
+"Questo è…<Delay 30> il
+generatore
+del portale!?"<Close><End of Block>
+<TextBlock 34 w:46 h:3>
+Bart
+"Bastardo<Delay 30>…<New>
+Non solo era seduto sul
+trono di Aveh, addirittura
+controllava questo coso."<Close><End of Block>
+<TextBlock 35 w:20 h:2>
+Shakhan
+"Esattamente."<Close><End of Block>
+<TextBlock 36 w:50 h:4>
+Shakhan
+"E pensare che sapevate
+dell'esistenza del
+portale…<New>
+Molto interessante."<Close><End of Block>
+<TextBlock 37 w:54 h:4>
+Shakhan
+"Il portale che divide
+Solaris dalla terra era
+sotto il controllo…<New>
+… della Chiesa."<Close><End of Block>
+<TextBlock 38 w:54 h:4>
+Shakhan
+"All'inizio, esso era
+sorvegliato senza che
+sapessimo cosa facesse.<New>
+Tuttavia, col passare
+degli anni, la Chiesa
+fece da sé alcuni
+esperimenti per…<New>
+… rivelare la vera natura
+di questo portale."<Close><End of Block>
+<TextBlock 39 w:48 h:3>
+Shakhan
+"Ed ha imparato
+come utilizzarlo."<Close><End of Block>
+<TextBlock 40 w:46 h:4>
+Shakhan
+"Allo scopo di liberarci
+da Solaris, scoprimmo un
+nuovo modo di usarlo!"<Close><End of Block>
+<TextBlock 41 w:44 h:4>
+Bart
+"Tu!<Delay 30> Così questo
+era il tuo vero
+obiettivo!"<Close><End of Block>
+<TextBlock 42 w:50 h:3>
+Fei
+"Probabilmente è entrato
+passando da questa
+caverna!<New>
+Voleva soltanto prendere
+l'energia del generatore
+del portale!"<Close><End of Block>
+<TextBlock 43 w:50 h:4>
+Shakhan
+"Non può essere!?<New>
+È ridicolo!!<New>
+Dovrebbe essere in grado
+di assorbire la quantità
+necessaria di energia
+dal portale!"<Close><End of Block>
+<TextBlock 44 w:44 h:4>
+Shakhan
+"Non ci sarebbero dovuti
+essere problemi nel mio
+piano! Perché<Delay 10>!?"<Close><End of Block>
+<TextBlock 45 w:44 h:2>
+Shakhan
+"Perché non si muove?"<Close><End of Block>
+<TextBlock 46 w:54 h:3>
+Bart
+"Che cosa, hai
+fatto casino!?<New>
+Se mio padre sapesse che
+mi ero fatto fregare da
+uno stupido stronzo come
+'sto tipo qui…<New>
+… si rivolterebbe
+nella tomba!"<Close><End of Block>
+<TextBlock 47 w:54 h:2>
+Shakhan
+"Bah, non ho comunque
+bisogno di questo coso!<New>
+Ti ucciderò da solo!"<Close><End of Block>
+<TextBlock 48 w:30 h:3>
+Shakhan
+"Come…<Delay 30>
+È impossibile!"<Close><End of Block>
+<TextBlock 49 w:54 h:4>
+Bart
+"Shakhan!!<New>
+12 anni fa, se tu non
+fossi stato così avido
+di potere, Margie avrebbe
+ancora la sua famiglia…<New>
+… e non avrebbe dovuto
+vivere nel deserto,
+lontana dalla sua vera
+casa!"<Close><End of Block>
+<TextBlock 50 w:50 h:3>
+Shakhan
+"Ma cosa vorresti saperne
+tu?<New>
+Tu, ragazzaccio figlio
+di re, destinato al trono
+sin dalla nascita!?"<Close><End of Block>
+<TextBlock 51 w:50 h:4>
+Bart
+"Il trono? Ma quello
+puoi prendertelo!<New>
+Un re deve portare sulle
+proprie spalle le più
+pesanti responsabilità!
+E deve vivere duramente!<New>
+Qualcosa che non
+riusciresti mai a
+capire, deficiente!!"<Close><End of Block>
+<TextBlock 52 w:36 h:2>
+Shakhan
+"Uwwaaaaaaaahhh!!"<Close><End of Block>
+<TextBlock 53 w:48 h:2>
+Fei
+"Il portale sta
+andando a fuoco…!"<Close><End of Block>
+<TextBlock 54 w:66 h:1>
+       Non desideri<Delay 20> tu<Delay 10> potere?<Opcode 2 85><Close><End of Block>
+<TextBlock 55 w:26 h:2>
+Bart
+"Ancora lui!?"<Close><End of Block>
+<TextBlock 56 w:32 h:3>
+Fei
+"Com'è arrivato
+qui dentro!?"<Close><Close><End of Block>

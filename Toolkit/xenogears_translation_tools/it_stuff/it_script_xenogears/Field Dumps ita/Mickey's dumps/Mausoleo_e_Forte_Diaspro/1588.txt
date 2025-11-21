@@ -1,0 +1,609 @@
+<TextBlock 1 w:50 h:4>
+Fei
+"Pur essendo stata ferma
+così a lungo, questa cosa
+è in ottime condizioni."<Close><End of Block>
+<TextBlock 2 w:48 h:3>
+Fei
+"…<Delay 30> Somiglia molto
+al tuo Gear, Bart."<Close><End of Block>
+<TextBlock 3 w:44 h:3>
+Fei
+"L'unità di guida è
+stata bloccata…"<Close><End of Block>
+<TextBlock 4 w:42 h:3>
+Fei
+"Ora, come facciamo
+a portarlo fuori?"<Close><End of Block>
+<TextBlock 5 w:54 h:3>
+Fei
+"Avevi detto che<Delay 30>
+l'edificio sarebbe
+emerso in superficie…<New>
+… se tu avessi attivato
+l'apparecchio con gli
+occhi dei Fatima.<New>
+Pensi di poterlo
+davvero muovere?"<Close><End of Block>
+<TextBlock 6 w:22 h:2>
+Fei
+"Andiamo!"<Close><End of Block>
+<TextBlock 7 w:14 h:2>
+Fei
+"Sì!"<Close><End of Block>
+<TextBlock 8 w:50 h:4>
+Elly
+"Pur essendo stata ferma
+così a lungo, questa cosa
+è in ottime condizioni."<Close><End of Block>
+<TextBlock 9 w:44 h:3>
+Elly
+"Sai…<Delay 30> somiglia
+molto al tuo Gear."<Close><End of Block>
+<TextBlock 10 w:36 h:3>
+Elly
+"L'unità di guida
+è bloccata?"<Close><End of Block>
+<TextBlock 11 w:54 h:2>
+Elly
+"Come facciamo a
+portarlo fuori?"<Close><End of Block>
+<TextBlock 12 w:56 h:4>
+Elly
+"Prima…<Delay 30> hai detto che
+l'edificio sarebbe
+emerso in superficie…<New>
+… se tu avessi attivato
+l'apparecchio con gli
+occhi dei Fatima…<Delay 30><New>
+Pensi che questa
+struttura si possa
+muovere?"<Close><End of Block>
+<TextBlock 13 w:22 h:2>
+Elly
+"Andiamo!"<Close><End of Block>
+<TextBlock 14 w:12 h:2>
+Elly
+"Sì!"<Close><End of Block>
+<TextBlock 15 w:56 h:3>
+Shitan
+"In condizioni eccellenti…
+incredibile!"<Close><End of Block>
+<TextBlock 16 w:52 h:3>
+Shitan
+"Un momento…<Delay 30>
+Somiglia…<New>
+… al Gear di Bart.
+Di certo c'è un qualche
+tipo di connessione."<Close><End of Block>
+<TextBlock 17 w:48 h:3>
+Shitan
+"Sembra che l'unità
+di guida sia stata
+bloccata."<Close><End of Block>
+<TextBlock 18 w:42 h:3>
+Shitan
+"Vediamo, come farò a
+portarlo fuori?"<Close><End of Block>
+<TextBlock 19 w:52 h:4>
+Shitan
+"Giovanotto…<Delay 30>
+Non avevi detto che
+la struttura sarebbe…<New>
+… salita in superficie
+se l'apparecchio avesse
+letto gli occhi dei
+Fatima?<New>
+Questa struttura può
+davvero muoversi?"<Close><End of Block>
+<TextBlock 20 w:38 h:2>
+Shitan
+"Dovremmo andare!"<Close><End of Block>
+<TextBlock 21 w:12 h:2>
+Shitan
+"Sì!"<Close><End of Block>
+<TextBlock 22 w:20 h:2>
+Billy
+"… Questo!?"<Space 1><Close><End of Block>
+<TextBlock 23 w:36 h:3>
+Billy
+"Ma…<Delay 30> somiglia
+al Gear di Bart!"<Close><End of Block>
+<TextBlock 24 w:38 h:2>
+Billy
+"È tutto bloccato…"<Close><End of Block>
+<TextBlock 25 w:44 h:4>
+Billy
+"Devo portare questa
+cosa fuori di qui.<Delay 30>
+Come posso fare?"<Close><End of Block>
+<TextBlock 26 w:48 h:3>
+Billy
+"Tu…<Delay 30> hai detto che
+sarebbe emersa in
+superficie se…<New>
+… l'apparecchio avesse
+letto gli occhi dei
+Fatima<Delay 30>…<New>
+Pensi che questa
+struttura si possa
+muovere?"<Close><End of Block>
+<TextBlock 27 w:30 h:2>
+Billy
+"Dobbiamo andare!"<Close><End of Block>
+<TextBlock 28 w:14 h:2>
+Billy
+"Sì!"<Close><End of Block>
+<TextBlock 29 w:32 h:2>
+Rico
+"… Incredibile!"<Close><End of Block>
+<TextBlock 30 w:40 h:4>
+Rico
+"Ehi…<Delay 30> ma questa
+cosa non somiglia al
+tuo Gear?"<Close><End of Block>
+<TextBlock 31 w:46 h:3>
+Rico
+"Mmh, l'unità di guida
+è bloccata…"<Close><End of Block>
+<TextBlock 32 w:48 h:3>
+Rico
+"Come farò a portare
+fuori questo coso?"<Close><End of Block>
+<TextBlock 33 w:52 h:4>
+Rico
+"Ma non hai…<Delay 30> detto
+sarebbe emersa in
+superficie se…<New>
+… l'aggeggio avesse
+letto gli occhi dei
+Fatima…<Delay 30>?<New>
+Pensi che questa
+struttura possa
+muoversi?"<Close><End of Block>
+<TextBlock 34 w:38 h:2>
+Rico
+"Ehi, andiamo!"<Close><End of Block>
+<TextBlock 35 w:14 h:2>
+Rico
+"Sì!"<Close><End of Block>
+<TextBlock 36 w:44 h:3>
+Maria
+"… Che macchina
+impressionante!"<Close><End of Block>
+<TextBlock 37 w:50 h:3>
+Maria
+"Somiglia molto
+al tuo Gear, Bart."<Close><End of Block>
+<TextBlock 38 w:46 h:3>
+Maria
+"C'è qualcos'altro che
+possiamo fare?"<Close><End of Block>
+<TextBlock 39 w:46 h:3>
+Maria
+"Dobbiamo portarlo
+fuori, giusto?"<Close><End of Block>
+<TextBlock 40 w:56 h:4>
+Maria
+"Prima…<Delay 30> hai detto che
+sarebbe emersa in
+superficie se…<New>
+… l'apparecchio avesse
+letto gli occhi dei
+Fatima…<Delay 30><New>
+Pensi che questa
+struttura si possa
+muovere?"<Close><End of Block>
+<TextBlock 41 w:22 h:2>
+Maria
+"Andiamo!"<Close><End of Block>
+<TextBlock 42 w:28 h:2>
+Maria
+"Adesso andiamo!"<Close><End of Block>
+<TextBlock 43 w:48 h:3>
+<Chu-Chu>
+"Waaahaaaooow!<Delay 30>
+È impressionante-chu!"<Close><End of Block>
+<TextBlock 44 w:38 h:3>
+<Chu-Chu>
+"Somiglia al Gear
+di Bart!"<Close><End of Block>
+<TextBlock 45 w:50 h:3>
+<Chu-Chu>
+"Gli antenati non ci
+hanno dato il permesso,
+chu!"<Close><End of Block>
+<TextBlock 46 w:46 h:2>
+<Chu-Chu>
+"Beh chu,
+portiamolo fuori-chu."<Close><End of Block>
+<TextBlock 47 w:50 h:4>
+<Chu-Chu>
+"Prima hai detto…<Delay 30>
+'apparirà in superficie
+se leggerà gli occhi'…<New>
+Sei che sicuro che questa
+cosa si possa muovere-chu?"<Close><End of Block>
+<TextBlock 48 w:36 h:2>
+<Chu-Chu>
+"Stiamo andando chu!"<Close><End of Block>
+<TextBlock 49 w:18 h:2>
+<Chu-Chu>
+"Via!"<Close><End of Block>
+<TextBlock 50 w:16 h:2>
+Esmeralda
+"…<Delay 30>!"<Close><End of Block>
+<TextBlock 51 w:56 h:2>
+Esmeralda
+"Somiglia al
+Gear di Bart."<Close><End of Block>
+<TextBlock 52 w:40 h:3>
+Esmeralda
+"Ci sono ancora
+dei blocchi attivi…"<Close><End of Block>
+<TextBlock 53 w:50 h:3>
+Esmeralda
+"Allora, credo di
+doverla portare fuori."<Close><End of Block>
+<TextBlock 54 w:38 h:2>
+Esmeralda
+"Ma non vola?"<Close><End of Block>
+<TextBlock 55 w:22 h:2>
+Esmeralda
+"Andiamo!"<Close><End of Block>
+<TextBlock 56 w:18 h:2>
+Esmeralda
+"Uh uh!"<Close><End of Block>
+<TextBlock 57 w:54 h:4>
+Bart
+"Uh?<Delay 30>
+Oh sì…<Delay 30>
+Ora che lo dici…<New>
+Beh,<Delay 30> la struttura
+di base di <Brigandier>,
+che poi ho personalizzato,
+proviene da Aveh.<New>
+Non mi sorprenderebbe se
+ci fosse un qualche tipo
+di connessione."<Close><End of Block>
+<TextBlock 58 w:54 h:5>
+Bart
+"Beh…<New>
+Sembra che qui non ci sia
+energia eccetto che per
+le luci di emergenza."<Close><End of Block>
+<TextBlock 59 w:48 h:3>
+Fei
+"Anche il Gear…<Delay 30>
+non ha energia."<Close><End of Block>
+<TextBlock 60 w:48 h:4>
+Bart
+"Mmh…<Delay 30> Il pannello
+di controllo là sotto
+non serve a molto…<New>
+Il che vuol dire che ce
+n'è un altro da qualche
+altra parte."<Close><End of Block>
+<TextBlock 61 w:48 h:4>
+Bart
+"Mmh…<Delay 30>
+Dovrebbe essere
+qua intorno."<Close><End of Block>
+<TextBlock 62 w:46 h:3>
+Bart
+"Va bene, dovrebbe
+funzionare."<Close><End of Block>
+<TextBlock 63 w:46 h:3>
+Margie
+"Ora, come facciamo
+a portarlo fuori?"<Close><End of Block>
+<TextBlock 64 w:14 h:2>
+Bart
+"Hai ragione."<Close><End of Block>
+<TextBlock 65 w:46 h:3>
+Bart
+"Va bene, torniamo
+di sotto e proviamo
+a farlo."<Close><End of Block>
+<TextBlock 66 w:46 h:2>
+Bart
+"Bene, dovrebbe
+funzionare."<Close><End of Block>
+<TextBlock 67 w:42 h:4>
+Bart
+"No.<Delay 30> L'ultima stanza
+sembrava un ponte
+di comando<Delay 30>…<New>
+Controlliamo là!"<Close><End of Block>
+<TextBlock 68 w:54 h:4>
+Bart
+"No.<Delay 30>
+Qui ci deve essere una
+sala di controllo<Delay 30>…<New>
+Troviamola!"<Close><End of Block>
+<TextBlock 69 w:50 h:3>
+Bart
+"Padre,<Delay 30> sembra proprio
+che dobbiamo spostarlo.<New>
+Mi spiace, ma devo
+prenderlo in prestito."<Close><End of Block>
+<TextBlock 70 w:28 h:4>
+Bart
+"Margie!?<Delay 30>
+Sei tu…<Delay 30> che
+l'hai mosso?"<Close><End of Block>
+<TextBlock 71 w:20 h:2>
+Bart
+"… Merda!"<Close><End of Block>
+<TextBlock 72 w:24 h:2>
+Bart
+"Stai bene!?"<Close><End of Block>
+<TextBlock 73 w:54 h:4>
+Margie
+"La mia gamba…<Delay 30>
+è stata colpita<Delay 30>…<New>
+Beh…<Delay 30> sembra che io
+non faccia altro che
+causarti problemi."<Close><End of Block>
+<TextBlock 74 w:44 h:4>
+Bart
+"Stupida!<Delay 30>
+Perché ti sei esposta
+in quel modo!?"<Close><End of Block>
+<TextBlock 75 w:52 h:4>
+Margie
+"Io…<Delay 30> volevo…
+Ho pensato che fosse il
+minimo che potessi fare…<New>
+… per aiutarti."<Close><End of Block>
+<TextBlock 76 w:28 h:3>
+Bart
+"…<Delay 30> Non parlare…<New>
+Scema, stupida!
+<Delay 30>Hai fatto una
+grossissima sciocchezza!"<Close><End of Block>
+<TextBlock 77 w:28 h:2>
+Margie
+"…<Delay 30> Eh, eh."<Close><End of Block>
+<TextBlock 78 w:36 h:2>
+Bart
+"…<Delay 30> Puoi muoverti?"<Close><End of Block>
+<TextBlock 79 w:38 h:2>
+Margie
+"Uh uh…<Delay 30> Credo di sì."<Close><End of Block>
+<TextBlock 80 w:42 h:3>
+Shakhan
+"I danni minori
+possono essere riparati.<New>
+Mirate alla cabina di
+pilotaggio!"<Close><End of Block>
+<TextBlock 81 w:18 h:2>
+Bart
+"Dannazione!"<Close><End of Block>
+<TextBlock 82 w:50 h:4>
+Bart
+"Ora è troppo pericoloso
+andare fuori.<Delay 30>
+Puoi aspettare?"<Close><End of Block>
+<TextBlock 83 w:24 h:3>
+Margie
+"Non preoccuparti<Delay 30>
+per me."<Close><End of Block>
+<TextBlock 84 w:20 h:2>
+Bart
+"…<Delay 30> Dannazione!"<Close><End of Block>
+<TextBlock 85 w:52 h:3>
+Bart
+"Ma…<Delay 30> come!?<Delay 30>
+Non ci sono comandi!<New>
+Come faccio a muoverlo?"<Close><End of Block>
+<TextBlock 86 w:30 h:2>
+"Sta bene,
+padroncino!?"<Close><End of Block>
+<TextBlock 87 w:44 h:4>
+Bart
+"…<Delay 30> Sig!?
+Sai come far muovere
+questo coso?"<Delay 30><Close><End of Block>
+<TextBlock 88 w:46 h:2>
+Sigurd
+"… Che volete dire!?"<Close><End of Block>
+<TextBlock 89 w:46 h:3>
+Bart
+"Non ci sono i comandi!
+Che devo fare?"<Close><End of Block>
+<TextBlock 90 w:26 h:2>
+Bart
+"Uuuaaaaahh!"<Close><End of Block>
+<TextBlock 91 w:40 h:2>
+Shakhan
+"Piccolo impudente…"<Close><End of Block>
+<TextBlock 92 w:32 h:3>
+Bart
+"Ma…<Delay 30> come!?<Delay 30>
+Come si controlla!?"<Close><End of Block>
+<TextBlock 93 w:54 h:2>
+"Ci sono!<Delay 30> Giovane,
+devi pensare!"<Close><End of Block>
+<TextBlock 94 w:46 h:2>
+Bart
+"Questa voce…<Delay 30> Shitan!?"<Close><End of Block>
+<TextBlock 95 w:50 h:5>
+Shitan
+"Apparentemente l'Omnigear
+non funziona tramite dei
+comandi meccanici…<New>
+… ma per mezzo di
+comandi mentali.<New>
+Ricordi come reagivano
+Elly e l'Omnigear che
+si trova a Shevat?"<Close><End of Block>
+<TextBlock 96 w:22 h:2>
+Bart
+"…<Delay 30> Ma…"<Close><End of Block>
+<TextBlock 97 w:54 h:3>
+Shitan
+"Margie probabilmente lo
+ha mosso nello stesso
+modo.<New>
+Giovane, prova ad
+immaginare il Gear
+che si sta muovendo.<New>
+Il Gear dovrebbe reagire
+all'immagine nella tua
+testa."<Close><End of Block>
+<TextBlock 98 w:38 h:2>
+Bart
+"Ora che lo so…<New>
+…<Delay 30> Arrivo!"<Close><End of Block>
+<TextBlock 99 w:32 h:2>
+Shakhan
+"Bastardo d'un
+ragazzino!"<Close><End of Block>
+<TextBlock 100 w:54 h:4>
+Shitan
+"Per fortuna, il
+proiettile non ha
+toccato l'osso.<New>
+La medicazione che ho
+applicato per il momento
+è sufficiente.<New>
+Più tardi, appena tornati
+in città, le dovremmo
+dare un'occhiata più
+approfondita."<Close><End of Block>
+<TextBlock 101 w:42 h:2>
+Bart
+"Bene…<Delay 30>
+Mi togli un peso
+dal cuore<Delay 30>…<New>
+Quando è svenuta ho
+temuto il peggio."<Close><End of Block>
+<TextBlock 102 w:20 h:2>
+Margie
+"…<Delay 30> Bart."<Close><End of Block>
+<TextBlock 103 w:40 h:2>
+Bart
+"…<Delay 30> Come ti senti?"<Close><End of Block>
+<TextBlock 104 w:52 h:3>
+Margie
+"…<Delay 30> Bene.<New>
+Sai,<Delay 30> mentre ero
+svenuta, potevo ancora
+sentire la tua voce.<New>
+Per qualche strana
+ragione, le tue grida
+mi hanno raggiunto.<New>
+È per questo che ho
+pensato di doverti
+aiutare…"<Close><End of Block>
+<TextBlock 105 w:50 h:3>
+Bart
+"…<Delay 30> Oh.<New>
+Abbiamo combattuto
+insieme, non è vero?
+Tu<Delay 30> mi hai protetto."<Delay 30><Close><End of Block>
+<TextBlock 106 w:50 h:4>
+Bart
+"Ma…<Delay 30> è davvero questo
+il leggendario Gear
+della pergamena…<New>
+… che parla della
+fondazione della
+nostra nazione?"<Close><End of Block>
+<TextBlock 107 w:48 h:4>
+Bart
+"Le sensazioni che mi
+dà… Somiglia proprio
+al mio <Brigandier>…<New>
+… A parte il fatto
+che forse è un po'
+più potente."<Close><End of Block>
+<TextBlock 108 w:52 h:4>
+Shitan
+"Forse…<New>
+I comandi, il motore e
+le armi sono simili e si
+adeguano alla forza delle
+onde cerebrali del pilota."<Close><End of Block>
+<TextBlock 109 w:54 h:4>
+Shitan
+"Se così, il pilota deve
+avere elevate capacità
+mentali per potersi…<New>
+… interfacciare con il
+Gear ed ottenere il suo
+vero potere.<New>
+Margherita è stata capace
+di muovere il Gear per il
+suo forte desiderio di
+aiutarti.<New>
+È stata la sua forza
+che l'ha mosso."<Close><End of Block>
+<TextBlock 110 w:50 h:3>
+Bart
+"Il che vuol dire
+che devo prima
+abituarmici?"<Close><End of Block>
+<TextBlock 111 w:50 h:2>
+Shitan
+"Sarebbe il caso."<Close><End of Block>
+<TextBlock 112 w:44 h:4>
+Bart
+"Argh…<Delay 30> Ho già avuto
+un mucchio di problemi
+a prenderlo…"<Close><End of Block>
+<TextBlock 113 w:52 h:4>
+Shitan
+"Non scoraggiarti.<New>
+Ora sappiamo che questi
+Omnigear furono usati
+nella battaglia fra la
+superficie e Solaris.<New>
+Anche ora, la Chiesa e
+Solaris stanno cercando
+gli Omnigear.<New>
+Almeno questo non è
+caduto nelle loro mani.<New>
+Forse, sarai in grado
+di sprigionare il suo
+vero potere.<New>
+Speriamo solo di usarlo
+per la giusta ragione."<Close><End of Block>
+<TextBlock 114 w:60 h:7>
+ 
+"    Pace a tutti coloro
+      che giungono qui.<Delay 30>
+  Temendo un grave disastro,
+  sigillammo questa eredità,
+ affidando il suo fato a voi."
+ <Close><End of Block>
+<TextBlock 115 w:12 h:2>
+Bart
+"…?"<Close><End of Block>
+<TextBlock 116 w:54 h:2>
+Bart
+"Qui c'è scritto
+qualcosa."<Close><End of Block>
+<TextBlock 117 w:54 h:2>
+Bart
+"Qualcuno ha una luce?"<Close><End of Block>
+<TextBlock 118 w:46 h:3>
+Bart
+"Questa…<Delay 30>
+C'è un'iscrizione.<New>
+È nell'antica lingua
+dei Fatima.
+<Delay 30>…<Delay 30>… È il mio
+antenato."<Close><End of Block>
+<TextBlock 119 w:38 h:2>
+Margie
+"Che cosa dice?"<Close><End of Block>
+<TextBlock 120 w:60 h:7>
+ 
+"    Pace a tutti coloro
+      che giungono qui.<Delay 30>
+  Temendo un grave disastro,
+  sigillammo questa eredità,
+ affidando il suo fato a voi."
+ <Close><Close><End of Block>

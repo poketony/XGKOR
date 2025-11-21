@@ -1,0 +1,31 @@
+<TextBlock 1 w:56 h:4>
+Il padre di Maria, il
+Dottor Nicola, fu catturato
+da Solaris e non se ne è
+saputo più nulla.<New>
+In ogni caso, è sicuro
+che viene costretto ad
+eseguire ricerche sui
+Gear…<New>
+Se riescono a sviluppare
+ulteriormente <Seibzehn>
+in una nuova arma Gear,
+e iniziano la produzione…<New>
+Beh, a dirla in breve,
+sarebbe molto più di
+quanto noi potremmo
+affrontare…<Close><End of Block>
+<TextBlock 2 w:52 h:5>
+Baldassarre portò Maria a
+Shevat circa 5 anni fa,<Delay 20>
+insieme a quel Gear,
+<Seibzehn>.<New>
+Baldassarre disse che
+si era introdotto di
+nascosto a Solaris…<New>
+… nel tentativo di salvare
+il Dottor Nicola e Maria.<New>
+Rideva mentre mi diceva
+che, durante la fuga con
+Maria, aveva preso
+<Seibzehn> come ricordo.<Close><Close><End of Block>

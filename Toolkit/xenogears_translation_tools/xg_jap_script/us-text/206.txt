@@ -1,0 +1,136 @@
+#### 1 ####
+Associate
+"Soldier 0 here."
+
+#### 2 ####
+Associate
+"Soldier 1 here."
+
+#### 3 ####
+Associate
+"Soldier 4 here."
+
+#### 4 ####
+Associate
+"Soldier 5 here."
+
+#### 5 ####
+Associate
+"Soldier 6 here."
+
+#### 6 ####
+Associate
+"Soldier 7 here."
+
+#### 7 ####
+Associate
+"Soldier 71 here."
+
+#### 8 ####
+Associate
+"Soldier 8 here."
+
+#### 9 ####
+Associate
+"Soldier 9 here."
+
+#### 10 ####
+Masked Woman
+"Yes. If you use that,
+you can pass through
+the barrier.{enter}
+You will be free to
+go where and when you
+please."
+
+#### 11 ####
+Masked Woman
+"He's rather busy now.
+I was assigned to be
+his representative."
+
+#### 12 ####
+Masked Woman
+"I've told you before.{enter}
+I simply wish to observe
+what is in store for the
+world.{enter}
+There are so many things
+you people must know.
+I am merely your guide.{enter}
+I cannot directly assist
+you. How you use it is
+entirely up to you."
+
+#### 13 ####
+Masked Woman
+"Let me see...
+Well then, how
+about this...?"
+
+#### 14 ####
+Masked Woman
+"Well, I must go..."
+
+#### 15 ####
+Sigmund
+"I am the Kaiser of
+Kislev, Sigmund.
+Hah hah hah."
+
+#### 16 ####
+Sigmund
+"Is that it?"
+
+#### 17 ####
+Sigmund
+"That man...what was it?
+Grahf? Is he around?"
+
+#### 18 ####
+Sigmund
+"I will ask you this
+once. Why do you help us?{enter}
+Who are you people?"
+
+#### 19 ####
+Sigmund
+"So you're telling me
+you do not require any
+recompense?"
+
+#### 20 ####
+Sigmund
+"...But, what a strange
+thing to ask for."
+
+#### 21 ####
+Sigmund
+"They want me to transfer
+that Gear we captured and
+its pilot to D Block..."
+
+#### 22 ####
+Sigmund
+"I don't know either.{enter}
+...But, we still owe them
+a favor. We just can't
+deny them. So see to it!"
+
+#### 23 ####
+Associate
+"Associate here."
+
+#### 24 ####
+Associate
+"What did she say?"
+
+#### 25 ####
+Associate
+"D Block?
+I wonder why?"
+
+#### 26 ####
+Associate
+"Yes, sir..."
+

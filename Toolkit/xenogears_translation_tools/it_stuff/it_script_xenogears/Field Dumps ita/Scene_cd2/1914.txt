@@ -1,0 +1,30 @@
+<TextBlock 1 w:44 h:6>
+Nelle profondità della nave,
+vedemmo una forma aliena.
+Era parzialmente decomposto
+e pietrificato… un enorme
+e grottesco essere<Delay 5>…<Delay 5><New>
+  'Esso', inspiegabilmente,
+  emanava un'aria che ci
+  intimoriva.<New>
+ <Delay 60>
+Forse era più che una
+semplice reazione
+proveniente dal cuore.<New>
+Forse era la paura
+dell' 'Assoluto', che
+viene dalle profondità
+degli istinti ereditati
+dai nostri progenitori…<Close><End of Block>
+<TextBlock 2 w:48 h:3>
+Fei
+"Quello<Delay 5>…<Delay 20> era il
+potere assoluto?"<Close><End of Block>
+<TextBlock 3 w:60 h:4>
+La 'cosa' parzialmente
+decomposta alla fine
+si autodisintegrò.
+ <Delay 70>
+Proseguimmo dentro la nave,
+lasciandoci dietro quel
+posto<Delay 5>…<Close><Close><End of Block>

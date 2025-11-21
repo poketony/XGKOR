@@ -1,0 +1,203 @@
+#### 1 ####
+Elly
+"They're catching up with
+us!!"{clear:1E}
+
+#### 2 ####
+Elly
+"!!"{clear:1E}
+
+#### 3 ####
+Ramsus
+"Slow, too slow!"{clear:1E}
+
+#### 4 ####
+Ramsus
+"Your performance is sad!"{clear:1E}
+
+#### 5 ####
+Ramsus
+"Elhaym{wait:05}...{wait:05}?"
+
+#### 6 ####
+Krelian
+"Yes.{wait:0A} This is the place.{wait:0A}
+I want you to
+bring her here.{enter}
+She is an important woman
+to me."
+
+#### 7 ####
+Ramsus
+"Don't be ridiculous.{wait:0A}
+Why do I have to
+listen to you?{enter}
+If you need her,
+go get her yourself!"
+
+#### 8 ####
+Krelian
+"You're quite right.{wait:0A}
+But, can you say
+the same thing
+after looking at this?"
+
+#### 9 ####
+Ramsus
+"Th,{wait:0A} this is{wait:05}..."
+
+#### 10 ####
+Krelian
+"Your Gear and the
+Anima Relic have been
+aligned{wait:05}...{wait:0A}{enter}
+This is the Omnigear.{wait:0A}
+Now, she is
+with Fei now."
+
+#### 11 ####
+Ramsus
+"What!?"
+
+#### 12 ####
+Krelian
+"Losing those battles
+against Fei again and
+again{wait:05}...{wait:0A}{enter}
+I believe{wait:0A} it's because of
+the difference{wait:05}
+in the performance
+of the Gears.{enter}
+I think{wait:05} you'll be
+able to use 100% of it's
+abilities.{enter}
+So how about it?{wait:0A}
+However, if you still fail
+with this,
+you are truly 'trash'."
+
+#### 13 ####
+Ramsus
+"{wait:05}...{wait:05}"
+
+#### 14 ####
+Krelian
+"Ramsus,{wait:0A} will you go?"
+
+#### 15 ####
+Miang
+"Kahr,{wait:0A} are you going?"
+
+#### 16 ####
+Ramsus
+"Yes.{wait:0A}
+I must get rid of him
+with my own hands."
+
+#### 17 ####
+Miang
+"Be careful.{wait:0A}
+I believe in you
+no matter what others say."
+
+#### 18 ####
+'Fei'!{wait:14}
+What a loathsome name.{wait:14}
+I worked my way up on
+my own.{enter}
+But he ruined it again{wait:05}...
+
+#### 19 ####
+Ramsus
+"!?{wait:0A}
+That signal...!{enter}
+It's him!{wait:0A}
+I'm not trash!
+I'm not worthless!!"
+
+#### 20 ####
+Fei
+"What kinda...{wait:05}{wait:0A}Gear is 
+that{wait:05}...?"
+
+#### 21 ####
+!!
+
+#### 22 ####
+Elly
+"Omnigear!!
+And according to the
+readings{wait:05}...{enter}
+It's clearly different from 
+the one Bart's using or
+the one in Shevat{wait:05}...{enter}
+{wait:05}...You think it's the!?{wait:0A}
+Perfect Gear!?"
+
+#### 23 ####
+Perfect Gear{wait:05}...?
+
+#### 24 ####
+Elly
+"Remember what Citan said?{enter}
+He said that
+the Omnigears are controlled
+by mental waves.{enter}
+The power...the potential
+varies depending on the
+rate of synchronism.{enter}
+The numbers indicate
+complete synchronization."
+
+#### 25 ####
+Ramsus
+"Hmph{wait:05}...{wait:0A}
+I knew you'd be there."
+
+#### 26 ####
+Fei
+"Ramsus!?"
+
+#### 27 ####
+Ramsus
+"Turn Lt. Elhaym{wait:0A}
+over to me,{wait:0A} Fei!"
+
+#### 28 ####
+Fei
+"What!? Why do we have to
+turn Elly over to
+you...!?{enter}
+Oh, I get it, it's
+Krelian's idea, isn't it?{enter}
+I don't think so!
+You can't expect me
+to comply!"
+
+#### 29 ####
+Ramsus
+"I can take her by force,
+if you wish.{enter}
+But{wait:05} then,{wait:05}
+don't ever expect to be
+able to hold her in your
+arms{wait:0A} ever again!"
+
+#### 30 ####
+Fei!!
+
+#### 31 ####
+Fei
+"Don't worry.{wait:0A}
+I'll protect you."
+
+#### 32 ####
+Ramsus
+"Impressive words.{enter}
+Fei, I intend to
+take everything away
+from you!!"
+
+#### 33 ####
+
+

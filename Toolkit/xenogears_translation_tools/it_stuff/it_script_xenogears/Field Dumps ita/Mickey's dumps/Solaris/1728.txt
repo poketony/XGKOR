@@ -1,0 +1,14 @@
+<TextBlock 1 w:48 h:2>
+Probabilmente è
+controllato tramite
+il pannello adiacente.<Close><End of Block>
+<TextBlock 2 w:48 h:2>
+Probabilmente è
+controllato tramite
+il pannello adiacente.<Close><End of Block>
+<TextBlock 3 w:18 h:2>
+    Giù?
+    No<Close><End of Block>
+<TextBlock 4 w:18 h:2>
+    Giù?
+    No<Close><Close><End of Block>

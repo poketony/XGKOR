@@ -1,0 +1,1140 @@
+#### 1 ####
+Maison
+"...sob...sob...
+Oh to think that Marguerite
+has now returned...{enter}
+Come to think of it, this
+is the second time we have
+had to flee from the Royal
+Capital.{enter}
+It seems an awful long
+time ago...
+That night that I took
+them with me to escape..."
+
+#### 2 ####
+Bart
+"Yeah and on top of that he
+was bold enough to steal
+this ship along the way.{enter}
+You know this used to be
+the kingdom's flagship?"
+
+#### 3 ####
+Maison
+"Yes, it was all Sigurd's
+doing.{wait:0A} So courageous of him
+even at such a young age.{enter}
+Anyway, this Yggdrasil can
+be considered as a keepsake
+of the late king for the
+young master."
+
+#### 4 ####
+Bart
+"It kinda feels like you're
+stuck to me for life.{enter}
+Even though you used to be
+my personal knight, right?
+Now I'm just a kid pirate!"
+
+#### 5 ####
+Maison
+"But eventually you will
+become a proud lord."
+
+#### 6 ####
+Bart
+"I gotta hurry up and
+grow up or I'll never
+be proud of myself.{enter}
+And I won't be able
+to win against him!"
+
+#### 7 ####
+Maison
+"..."
+
+#### 8 ####
+Masion
+"Oh, aren't you going
+to rest up a little?"
+
+#### 9 ####
+Maison
+"It appears the final
+hour is approaching...{enter}
+If need be, this Maison
+will also take up arms
+and come to your aid!!"
+
+#### 10 ####
+Maison
+"We may not be able to come
+along, but will be praying
+for your safety."
+
+#### 11 ####
+Maison
+"...
+I have nothing to look
+back on that I regret!"
+
+#### 12 ####
+Maison
+"My, hasn't it gotten
+lively around here."
+
+#### 13 ####
+Maison
+"Do be careful now..."
+
+#### 14 ####
+Maison
+"Master Billy is
+waiting for you
+over yonder..."
+
+#### 15 ####
+Maison
+"A mature yet modern
+atmosphere... That is
+what I offer you...{enter}
+A bartender's life isn't
+all that bad you know!"
+
+#### 16 ####
+Maison
+"For people from a heathen
+nation like us to receive
+such charity...{enter}
+My word, god is so very,
+very tolerant...
+
+#### 17 ####
+Maison
+"Miss Elly...
+and then Master Fei...{enter}
+Why do we continue to have
+misfortunes like this?"
+
+#### 18 ####
+Maison
+"Miss Elly...{wait:0A}
+What kind of spell
+was used on her?"
+
+#### 19 ####
+Maison
+"Y...young master!{wait:0A}
+I heard all about it.{enter}
+International amity
+with the Thames!?{wait:0A}
+Indeed..."
+
+#### 20 ####
+(...Sob...sob...{wait:0A}
+This old man's efforts
+weren't all wasted!)
+
+#### 21 ####
+Maison
+"I have no idea where we
+are.{wait:0A} It's not on the map, 
+either..."
+
+#### 22 ####
+Maison
+"Oh! Doctor Uzuki.{wait:0A}
+I'm sorry to put you
+out so much...{enter}
+We should've stopped
+the young master...{wait:0A}
+I am terribly sorry!"
+
+#### 23 ####
+(Uh{wait:05}...uh{wait:05}...uh...{wait:05}...{wait:05}!{wait:0A}
+My chronic lumbago has
+gotten worse since
+I hustled in Aveh...)
+
+#### 24 ####
+Maison
+"At long last we are
+heading to Bledavik
+tomorrow...{enter}
+Though he is the prince,
+our young master doesn't
+know the Royal Capital
+very well{wait:05}...{enter}
+I'd always felt that was
+an awful pity. But despite
+that, I tried my best to
+raise him as Crown Prince.{enter}
+However, looking back, I
+might have put too much of
+the 'burdens of kingship'
+on him too early in life...{enter}
+And it might have been too
+much for a child with a
+future like his to handle.
+{wait:05}...{enter}
+I must be the most
+terrible minder ever!"
+
+#### 25 ####
+Citan
+"My dear Lord Maison...{wait:0A}
+I hardly think that
+is right!{enter}
+The young one would have
+taken the burden off of
+himself had he not wanted
+to bear it any longer!{enter}
+He is a fine man now...
+far capable of handling
+any such burdens or
+pressures.{enter}
+And I believe you are
+the very ones who have
+given him the strength
+to do so."
+
+#### 26 ####
+Maison
+"Oh my good
+Doctor Uzuki..."
+
+#### 27 ####
+Maison
+"Let us head for Aveh.{wait:0A}
+To save Miss Marguerite!!"
+
+#### 28 ####
+Maison
+"I hope you are not
+too taken back?{enter}
+Lately, there are far too
+many barbaria{wait:0A}...{wait:05} I mean...{wait:05}
+highly energetic lads,
+around the young master.{enter}
+So, yours truly, who is
+in charge of education,
+demanded to have this
+room created!!"
+
+#### 29 ####
+(But, because of that,
+I ended up having to
+take a side job...)
+
+#### 30 ####
+"How may I be of service?"
+{fast:FF}    Items
+    Weapons/Accessories
+    Nothing now, thanks.
+
+#### 31 ####
+"How may I be of service?"
+{fast:FF}    Items
+    Weapons/Accessories
+    Nothing now, thanks.
+
+#### 32 ####
+"How may I be of service?"
+{fast:FF}    Items
+    Weapons/Accessories
+    Nothing now, thanks.
+
+#### 33 ####
+Maison
+"I hope I can be of
+such service again!"
+
+#### 34 ####
+Maison
+"{fast:02}Oh, young master...!
+If the young master doesn't
+come here more often to
+receive an education fit for
+a prince, then old Maison,
+who is in charge of his
+upbringing, will disgrace
+the very memory of King
+Edbart IV... god bless him.
+Typical of the young master
+not to even listen to me!
+The king was peace-loving,
+a very generous person...
+On the contrary, not only
+does the young master, put
+his name on a missile, but
+goes and shoots an unknown
+airplane with it.
+To make the matters worse,
+his good friend Fei and
+company were onboard it..."
+
+#### 35 ####
+Maison
+"Anyway, one must apologize
+to Doctor Uzuki and his
+friend Master Rico, right!?{enter}
+They were on their way
+toward the Gear Hangar..."
+
+#### 36 ####
+Citan
+"I am sure Elly is alive
+and well.{wait:0A} If we just go on
+believing it...!"
+
+#### 37 ####
+Citan
+"I would be more than
+happy to come along!!"
+
+#### 38 ####
+Citan
+"No one can stop our
+old friend now...!"
+
+#### 39 ####
+Citan
+"I would be more than
+happy to come along!!"
+
+#### 40 ####
+Citan
+"Young one,{wait:0A}
+I see you got on well with
+the captain of the Thames.{enter}
+I guess that was expected.{wait:0A}
+He is a man of the sea,
+the type of person you
+would admire..."
+
+#### 41 ####
+Sigurd
+"...{wait:0A}
+Oh, yes... It's time for
+you to depart, right.{enter}
+I'm sorry, old friend,
+but I have a job I must
+do..."
+
+#### 42 ####
+Jessie
+"Oh god, is it that time
+already?{wait:0A} Well then, before
+we go let's do the usual...{enter}
+You know...{wait:05} the 'paint the
+face on your stomach and
+dance around trick'...?{wait:05}
+The three of us together!"
+
+#### 43 ####
+Citan
+"!!{wait:0A}
+Well, actually, we are
+in a hurry so, errh...{enter}
+We will talk about that
+some other time..."
+
+#### 44 ####
+Jessie
+"Oh? Is that right?{wait:0A}
+Well then, I oughta get
+outta here too, huh!"
+
+#### 45 ####
+Citan
+"There is something I
+want to ask you too...{enter}
+So let us get together
+when we have more
+time...!"
+
+#### 46 ####
+Jessie
+"Yeah.{wait:0A}
+I hope I live to have
+the opportunity..."
+
+#### 47 ####
+Citan
+"..."
+
+#### 48 ####
+CRASH!!!{clear:0F}
+
+#### 49 ####
+Elly
+"AAAAAAHHHHH!!{wait:0A}
+Sigurd is...!"
+
+#### 50 ####
+Citan
+"Again!?{wait:0A}
+Sigurd gets drunk so
+easily...!{enter}
+Well that blows it!
+We cannot leave today,{wait:0A}
+perhaps tomorrow..."
+
+#### 51 ####
+Sigurd
+"..."
+
+#### 52 ####
+Jessie
+"The keywords are Nikolai,{wait:0A}
+Maria, {wait:0A}
+a huge Gear{wait:0A}...{wait:05} eh!?"
+
+#### 53 ####
+Jessie
+"Hah...!{wait:0A} Just goes to show
+the kid needs his parents
+around him all the time!"
+
+#### 54 ####
+Jessie
+"Ha, ha, ha!!
+I haven't hit the booze
+for a long while!{enter}
+It's all cause my son
+doesn't let me drink! {wait:0A}
+This is a great bar you've
+got here... old codger!"
+
+#### 55 ####
+Maison
+"Why... errh,
+thank you,
+my good man."
+
+#### 56 ####
+Jessie
+"This old codger, has good
+character...{wait:0A}like his booze!{wait:0A}
+I like him!! Ha, ha, ha!"
+
+#### 57 ####
+Ha, ha, ha! {clear:0A}
+
+#### 58 ####
+Ha, ha, ha! {clear:0A}
+
+#### 59 ####
+Shevat Agent
+"Originally, Shevat was a
+town situated on top of
+'Babel Tower'...{enter}
+They say there was a
+communication facility
+to contact what now is
+Shevat on top of the tower.{enter}
+If only it still exists
+and still works now..."
+
+#### 60 ####
+Phew! I no longer have
+to listen to the roars
+of the old man any more.
+
+#### 61 ####
+The engine's restoration
+is finally finished.{enter}
+Why don't you go down
+the stairs to take a look
+at our beautiful engine.
+
+#### 62 ####
+Billy
+"It was a long journey...{wait:0A}
+But what we did was not
+in vain. Let's prove it!"
+
+#### 63 ####
+Billy
+"I want to journey with
+you and find out the
+truth about this world!!{enter}
+You can count on me to
+help you anytime!"
+
+#### 64 ####
+Sigurd
+"...{wait:0A}
+Now I see why you came
+down to the surface...{enter}
+Alright, I understand you.
+But Kahran Ramsus...
+taking over the post of
+Aveh is pretty annoying."
+
+#### 65 ####
+Citan
+"The home country
+might have had some
+special reasons."
+
+#### 66 ####
+Sigurd
+"Yeah...{wait:0A}
+obviously."
+
+#### 67 ####
+Citan
+"But perhaps there is still
+a chance of success...{enter}
+You and I, who used to be
+called 'Elements' at the
+commander's training school
+'Jugend', are both here!"
+
+#### 68 ####
+Sigurd
+"Hope you are right..."
+
+#### 69 ####
+Citan
+"By the way, 
+she is still...?"
+
+#### 70 ####
+Sigurd
+"According to Fei,
+there was a female aide
+on Kahr's side...{enter}
+And he said that she had
+Indigo blue eyes and hair.
+... 
+So it must be her..."
+
+#### 71 ####
+Citan
+"So all the old 'Elements'
+members are on the surface
+world now..."
+
+#### 72 ####
+Sigurd
+"I guess so..."
+
+#### 73 ####
+Sigurd
+"Hyuga{wait:05}...{wait:0A}
+To be honest with you{wait:05}...{wait:05}
+she scares me.{enter}
+She supports Kahr and
+is kind to anyone, 
+I know that very well.{enter}
+But sometimes I felt
+a strange fear in her.
+That bothers me more than
+Kahr being in this land."
+
+#### 74 ####
+Citan
+"That cannot be true...
+Not in her..."
+
+#### 75 ####
+Sigurd
+"Yeah, I don't want to 
+believe it, either...{enter}
+But don't you remember how
+I could always sense these
+things quite accurately?"
+
+#### 76 ####
+Citan
+"Right..."
+
+#### 77 ####
+Citan
+"By the way, have you told
+the young one yet...?"
+
+#### 78 ####
+Sigurd
+"No, not yet.{enter}
+I don't want him to worry
+until we know exactly what
+Solaris' objectives really
+are.{enter}
+But I have to tell him 
+eventually though...{wait:0A}
+Anyway, Hyuga, have you
+gotten any information?"
+
+#### 79 ####
+Citan
+"Not really....{wait:0A}
+I left there before going
+into the center section..."
+
+#### 80 ####
+(Fei!!){clear:1E}
+
+#### 81 ####
+Fei
+(Oh, it's you Bart!?{wait:0A}
+Don't scare me...!)
+
+#### 82 ####
+Bart
+(Sorry-dorry.{enter}
+It sounds like Sig and your
+doctor friend know each
+other pretty darn well...{enter}
+Sig{wait:05}...{wait:05}
+Damn, I thought I knew
+everything about that
+guy!)
+
+#### 83 ####
+Fei
+(When did doc get back..?)
+
+#### 84 ####
+Jessie
+"I see.{wait:0A}
+This is the place you
+begged to return to, eh?"
+
+#### 85 ####
+Sigurd
+"Well, yes..."
+
+#### 86 ####
+Jessie
+"After you left,
+Billy cried a lot."
+
+#### 87 ####
+Sigurd
+"...{wait:0A}
+I'm sorry."
+
+#### 88 ####
+Citan
+"When you left Solaris,
+the same thing happened.{wait:0A}
+Kahr was quite upset then."
+
+#### 89 ####
+Sigurd
+"I didn't mean to
+betray him..."
+
+#### 90 ####
+Citan
+"His misanthropy has
+gotten even worse
+because of that."
+
+#### 91 ####
+Citan
+"Now, enough about old
+times, old friend.{enter}
+I did not expect to
+find you loitering in
+this land..."
+
+#### 92 ####
+Everyone!
+
+#### 93 ####
+Billy
+"Good morning.{enter}
+They said you were still
+sleeping, so I went
+ahead and came in."
+
+#### 94 ####
+Bart
+"You're dressed lightly.
+Is that enough?"
+
+#### 95 ####
+Rico
+"You're dressed lightly.
+Is that enough?"
+
+#### 96 ####
+Billy
+"We Etones have some
+rather unique equipment.{enter}
+Let me explain about the
+equipment since we're 
+going to be working
+together."
+
+#### 97 ####
+Billy
+"First of all, my basic
+equipment are guns.
+There're three kinds...{enter}
+'Handgun',{wait:0A}
+'Ether-gun',{wait:0A}
+and 'Big-gun'.{enter}
+The handgun is the only one
+that can be replaced with
+other versions of the same
+kind.{enter}
+I made the other two kinds
+of guns myself, so there
+are no others to replace
+them with.{enter}
+You can power-up a gun's
+attack force by changing
+its 'ammo' or 'bullets'
+with more powerful ones!{enter}
+To load ammo, press Right
+or Left on the Directional
+button at the Equip Menu
+Screen.{enter}
+This will display a sub-
+window in place of the
+main Equip window, where
+you can select your ammo.{enter}
+One thing you have to be
+careful of is that the
+number of bullets for
+each gun is limited.{enter}
+To successfully manage your
+ammo, you must keep an
+ample supply and reload
+frequently!{enter}
+But now that I have said
+this, note that Ether-guns
+do not have such a limit.{wait:14}
+Well that's about it...{enter}
+Did you understand?
+    {fast:FF}Yes
+    No, please explain again{wait:0A}
+
+#### 98 ####
+Bart
+"I understood it roughly.
+But it's a bit complicated,
+isn't it?"
+
+#### 99 ####
+Rico
+"...I see.{wait:0A}
+That's very unique..."
+
+#### 100 ####
+Billy
+"...{wait:05}This is a fine gun
+indeed.{wait:0A} I'm sure it has
+a significant history."
+
+#### 101 ####
+Bart
+"Of course!{enter}
+It's the famous rifle
+'Machiganater', handed down
+in the Fatima family."
+
+#### 102 ####
+Billy
+"What a waste...{wait:0A}
+It's too good for you who
+just brandishes a whip..."
+
+#### 103 ####
+Bart
+"Hey!{wait:0A}
+Why are you getting
+sharp with me!?"
+
+#### 104 ####
+Billy
+"Oh, sorry...{wait:0A} It's just...{wait:0A}
+I didn't think you would
+have an interest in guns."
+
+#### 105 ####
+Elly
+"Well anyway...{wait:0A}
+Billy...{enter}
+I'd like to know why you
+became an Etone..."
+
+#### 106 ####
+Bart
+(I'm not interested...){clear:1E}
+
+#### 107 ####
+Billy
+"...{enter}
+Hmm, I see...
+Etones help out strangers,
+so I suppose that would
+make you curious..."
+
+#### 108 ####
+Elly
+"No, I don't mean that.{wait:0A}
+I'm curious about your own 
+intentions, personally.{enter}
+I don't know...
+I just didn't expect you
+to be an Etone at all..."
+
+#### 109 ####
+...
+
+#### 110 ####
+Billy
+"I see...{enter}
+Well, since our job is
+rather unusual, I'll tell
+you about that too as I
+explain..."
+
+#### 111 ####
+Bart
+"...{wait:0A}
+Looks like we've
+made it already..."
+
+#### 112 ####
+Citan
+"...{wait:0A}
+It looks like we
+have arrived..."
+
+#### 113 ####
+Billy
+"Can it be...?{wait:0A}
+The transport ship's being
+attacked by Reapers..."
+
+#### 114 ####
+...
+
+#### 115 ####
+...
+
+#### 116 ####
+Billy
+"Can anyone help us?"
+
+#### 117 ####
+Billy
+"Hah!
+This is going to sound
+pathetic, but...{enter}
+I almost went so far as
+to sell my body to support
+Prim, since we only had
+each other for so long...{enter}
+Despite that, Prim still
+prefers the father that she
+never knew... The one who
+suddenly appeared out of
+nowhere..."
+
+#### 118 ####
+Bart
+"'Almost sold your body'!?
+Don't you know, kid...!?{enter}
+There're things you can
+get back once sold, and
+there are things you just
+can't!{enter}
+Couldn't you see that!?"
+
+#### 119 ####
+Billy
+"Of course I refrained.{wait:0A}
+But they said they'd give
+me 3000G for one night..."
+
+#### 120 ####
+Bart
+"You fool!{wait:0A} Listen...{wait:0A} Next
+time you and your sister
+need help, come to my ship.{enter}
+We're self-sufficient, so
+at least you don't need to
+worry about food and a
+place to sleep!{enter}
+Now, don't you ever say
+'sell your body' in front
+of me ever again...!{wait:0A}
+You understand!?"
+
+#### 121 ####
+Billy
+"Could this be...?{wait:0A}
+Maybe you are a 'nice
+guy' after all...?"
+
+#### 122 ####
+Bart
+"Why don't you just
+come out and say
+'thank you'?{wait:0A} Geez!"
+
+#### 123 ####
+Billy
+"Uh...{wait:0A}errh...{wait:0A}well...{wait:0A}
+you haven't taken care of
+us yet,{wait:0A} so I won't say it!"
+
+#### 124 ####
+Cute, kid, REAL cute!
+
+#### 125 ####
+Elly
+"'Sold your body'{wait:0A}...?
+
+#### 126 ####
+Billy
+"Of course I refrained
+from actually doing it.{enter}
+But they said they'd
+give me 3000G a night..."
+
+#### 127 ####
+Elly
+"..."
+
+#### 128 ####
+Jessie
+"When I was in Solaris, I
+found out about the secret
+plan...{enter}
+That was the 'Malakh' (M)
+Plan.{wait:14}
+And it was done under the
+command of Krelian...{enter}
+In order to proceed with
+the plan, many Lambs were
+gathered by the 'Ethos',
+to become guinea pigs.{enter}
+Or, should I say, to become
+Reapers or -Wels-..."
+
+#### 129 ####
+Jessie
+"Since I was disgusted with
+Solaris' methods, I decided
+to investigate it further.{enter}
+I found out that the main
+scientist central to the M
+Plan moved the true facts
+about it into a test-Gear.{enter}
+Then he let that test-Gear
+escape with his daughter,{wait:05}
+so that the truth would
+not be discovered...{enter}
+And that,{wait:05} I'm afraid,{wait:05} was
+the last information that
+I was able to obtain..."
+
+#### 130 ####
+Jessie
+"Because of what I found
+out, I came down to the
+surface world...{enter}
+And this is where I hid,
+along with my wife,
+Racquel, and son Billy.{enter}
+I've been looking for
+that Gear and the girl
+ever since."
+
+#### 131 ####
+Jessie
+"Finally,{wait:0A} I found out that
+the scientist's daughter
+and Gear may be in Shevat.{enter}
+All very well, except now
+I don't know how in blazes
+to get there, or even how
+to contact the place.{enter}
+Well, Shevat is protected
+by a strong barrier that
+even Solaris can't do
+anything about...{enter}
+So I guess you can say
+it can't be helped...{wait:0A}
+It's just my luck!"
+
+#### 132 ####
+That girl's name
+wouldn't happen
+to be Maria...?
+
+#### 133 ####
+Billy
+"Oh, are you two alright?{wait:0A}
+Shouldn't you get some
+more rest...?"
+
+#### 134 ####
+Shevat Agent
+"Yes, I can stand and
+can even walk now...
+Thank you."
+
+#### 135 ####
+Fei
+"I'm alright, too."
+
+#### 136 ####
+Jessie
+"Maria, eh...?{wait:0A} Hmm...{wait:0A}
+If I remember right, her
+father's name was Nikolai?"
+
+#### 137 ####
+Shevat Agent
+"I don't know that much...{wait:0A}
+But I have heard rumors
+about a girl and a Gear."
+
+#### 138 ####
+Jessie
+"Hmm,{wait:0A} it's got to be them.{wait:0A}
+So that huge Gear is in
+Shevat then!"
+
+#### 139 ####
+Jessie
+"So then...{wait:0A} how can we get
+to this Shevat? Is there a
+way to contact the place?"
+
+#### 140 ####
+Shevat Agent 
+"Unfortunately since I was
+taken captive I have no way
+of contacting them either."
+
+#### 141 ####
+I see...
+
+#### 142 ####
+!!{clear:1E}
+
+#### 143 ####
+Shevat Agent
+"There just may be a way...!
+Originally, Shevat was
+situated on top of
+Babel Tower.{enter}
+They say there is a
+communication facility to
+contact Shevat's native
+country on top of the tower.{wait:0A} 
+If only it still exists..."
+
+#### 144 ####
+Citan
+"Hmm...{enter}
+There is a good
+possibility the
+facility may have
+been destroyed...{enter}
+Especially when you
+consider the fact
+that the tower was
+sealed by the 'Ethos'."
+
+#### 145 ####
+Jessie
+"You're being
+pessimistic again..."
+
+#### 146 ####
+Citan
+"I am just being
+realistic."
+
+#### 147 ####
+...
+
+#### 148 ####
+Bart
+"I guess we have no choice
+but try and go there.{enter}
+As long as the gate exists,
+we can't escape from
+Solaris' influence anyway.{enter}
+In other words, even if we
+recover Aveh from Shakhan,
+it wouldn't immediatley be
+a happy ending."
+
+#### 149 ####
+Billy
+"I think we have no
+choice but to try
+and go there...{enter}
+Either way, as long
+as the gate exists we
+can't escape from the
+shadow of Solaris."
+
+#### 150 ####
+Citan
+"Their 'secret plan' 
+bothers me, too...{enter}
+The real secret is that
+they are using humans
+gathered from earth..."
+
+#### 151 ####
+Fei
+"But I don't quite get this{wait:05}
+secret plan{wait:05} and {wait:05}the 'Ethos'
+involvement{wait:05} and so on...{enter}
+What in the hell does
+Solaris think us surface
+dwelling humans are!?"
+
+#### 152 ####
+Fei
+"...Sorry.{wait:0A}
+I totally forgot that it
+was your country..."
+
+#### 153 ####
+Elly
+"What my country's doing...{wait:0A}
+has nothing to do with me.{enter}
+I myself thought something
+was wrong there, and that's
+why I came here...{wait:0A}
+So, don't worry about me.
+
+#### 154 ####
+Fei
+"We've got nothing to lose,
+so let's try to go there.{enter}
+We need to find the truth
+about those documents found
+in the 'Ethos' H.Q. and
+what Billy's father said.{enter}
+And I must go to Shevat
+too for my own personal
+reasons anyway."
+
+#### 155 ####
+Fei
+"No time like the present,
+huh!?{wait:0A} Let's go to Babel
+Tower right away!"
+
+#### 156 ####
+ 
+

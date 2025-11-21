@@ -1,0 +1,471 @@
+<TextBlock 1 w:6 h:1>
+VIA!<Opcode 2 30><Close><End of Block>
+<TextBlock 2 w:2 h:1>
+!<Opcode 2 30><Close><End of Block>
+<TextBlock 3 w:4 h:1>
+!!<Opcode 2 30><Close><End of Block>
+<TextBlock 4 w:6 h:1>
+…<Opcode 2 30><Close><End of Block>
+<TextBlock 5 w:10 h:1>
+<Opcode 1 255>Sìì!!<Opcode 2 30><Close><End of Block>
+<TextBlock 6 w:8 h:1>
+<Opcode 1 255>Sì!<Opcode 2 30><Close><End of Block>
+<TextBlock 7 w:22 h:1>
+<Opcode 1 255>Certo!!<Opcode 2 30><Close><End of Block>
+<TextBlock 8 w:12 h:1>
+<Opcode 1 255>Sììì!!<Opcode 2 30><Close><End of Block>
+<TextBlock 9 w:48 h:3>
+Perché Primera non
+gioca con lo Zio Stone?<Delay 10>
+È una persona cooosì
+interessante…!<Close><End of Block>
+<TextBlock 10 w:56 h:3>
+Ehhh, state andando a cercare
+il disco volante?<Delay 10>
+Portate anche me!!<Close><End of Block>
+<TextBlock 11 w:48 h:3>
+Billy
+"È Davy che sta attento
+alle cose che succedono
+in questo posto.<New>
+Se sei un bravo bambino,
+potrai andare anche tu,
+qualche volta."<Close><End of Block>
+<TextBlock 12 w:44 h:3>
+Se… <Delay 5>se… <Delay 5> non faccio il bravo
+bambino non posso andare…<Delay 10>
+Uaahhh!!<Close><End of Block>
+<TextBlock 13 w:40 h:2>
+Oggi non si riesce a
+vedere il disco volante.<Delay 10>
+Aa~h!<Close><End of Block>
+<TextBlock 14 w:54 h:4>
+Vuoi sapere qualcosa sul disco
+volante? Basta chiederlo!
+<Opcode 1 255>    Parla pure
+    Lascia stare<Close><End of Block>
+<TextBlock 15 w:56 h:29>
+<Opcode 1 2>Ahem!!
+In realtà successe molto
+tempo fa. Circa 50 anni
+addietro, un vecchio, Henry
+Mingas, disse di essere
+stato rapito dal disco
+volante e che il suo corpo
+fosse stato modificato.
+Beh, nessuno gli credeva,
+ma in seguito si cominciò
+a dire che conoscesse cose
+che prima non sapeva e che
+sapesse usare delle
+tecniche incredibili, che
+prima non aveva.
+Poi, 10 anni fa, furono
+trovati in molti posti
+degli strani simboli
+a forma di cerchi.
+Devi averne sentito parlare.
+No? Beh, comunque, erano
+chiamati 'i cerchi del
+mistero'. A questo punto,
+questo tipo diffuse la voce
+che quei cerchi fossero i
+siti d'atterraggio dei
+dischi volanti, ed a questo
+punto se ne parlò ancora
+di più. Ma c'erano altre
+teorie, oltre a quella dei
+siti d'atterraggio dei
+dischi volanti… ad esempio,
+si parla anche di Uomini
+Diavolo, capitanati da un
+certo Devilman…
+Oppure di draghi e di altre
+strane creature… o ancora
+di uomini venuti dallo
+spazio, comandati da un
+certo Darth Vader…
+Però non c'è nessuna vera
+prova. Ma le sparizioni
+sono accadute sul serio.<New>
+<Opcode 1 0>Oh, ho dimenticato di dirlo,
+ma il disco volante era
+chiamato 'Shevat'. C'è
+addirittura della gente
+che idolatra questo posto.<Close><End of Block>
+<TextBlock 16 w:48 h:2>
+Allora, è servito
+a qualcosa?<Delay 10> Ahem.<Close><End of Block>
+<TextBlock 17 w:38 h:3>
+Quando me lo dicono,
+mi viene più voglia
+di parlarne…<Close><End of Block>
+<TextBlock 18 w:42 h:3>
+Cercate Billy?<Delay 10>
+Dovreste andare alla
+Sede della Chiesa.<Close><End of Block>
+<TextBlock 19 w:12 h:1>
+Sììì!!<Opcode 2 30><Close><End of Block>
+<TextBlock 20 w:38 h:2>
+Billy non è qui, perciò
+io devo lavorare sodo.<Close><End of Block>
+<TextBlock 21 w:54 h:2>
+Billy
+"Starò via solo per poco."<Close><End of Block>
+<TextBlock 22 w:46 h:3>
+È come se dentro ci fosse
+qualcosa, ma non si può
+entrare<Delay 10>…<New>
+Forse è una specie di
+casa infestata dai
+fantasmi?<Delay 10> Brrr…<Close><End of Block>
+<TextBlock 23 w:42 h:2>
+Billy dice di non
+parlare agli estranei…<Close><End of Block>
+<TextBlock 24 w:12 h:1>
+Sììì!!<Opcode 2 30><Close><End of Block>
+<TextBlock 25 w:42 h:1>
+… otto, nove, dieci!!<Close><End of Block>
+<TextBlock 26 w:50 h:1>
+Dove vi nascondete?<Close><End of Block>
+<TextBlock 27 w:50 h:2>
+Chissà se Zio Stone
+tornerà a giocare?<Close><End of Block>
+<TextBlock 28 w:48 h:1>
+Non mi troverai più!<Close><End of Block>
+<TextBlock 29 w:42 h:2>
+Anche Billy a volte
+gioca a nascondino.<Close><End of Block>
+<TextBlock 30 w:46 h:3>
+Ehi, dove sono tutti?
+Dimmi sottovoce dove
+si nascondono.<Close><End of Block>
+<TextBlock 31 w:26 h:2>
+Bravi Bambini
+"Sì!!"<Opcode 2 60><Close><End of Block>
+<TextBlock 32 w:42 h:1>
+Vogliamo bene
+allo Zio Stone!!<Close><End of Block>
+<TextBlock 33 w:56 h:5>
+…<Delay 10> Ma se continuo sempre a
+respirare un'aria così fresca,
+allora dalla mia proboscide
+potrebbe germogliare un ibisco…<Delay 10>
+Mmmh, che situazione!<Close><End of Block>
+<TextBlock 34 w:50 h:3>
+Perché l'aria è così
+salmastra?<Delay 10> Non c'è un
+po' d'aria fresca qui
+attorno?<New>
+Se c'è, voglio respirarla
+fino ad averne pieni i
+polmoni!<Close><End of Block>
+<TextBlock 35 w:42 h:3>
+Cercate Billy?<Delay 10>
+Dovreste andare alla
+Sede della Chiesa.<Close><End of Block>
+<TextBlock 36 w:8 h:1>
+VIA!!<Opcode 2 30><Close><End of Block>
+<TextBlock 37 w:36 h:2>
+Grazie!
+Questo sì che vuol
+dire 'aiutare
+alla grande'!<Close><End of Block>
+<TextBlock 38 w:36 h:2>
+Grazie!<Delay 10> 
+Ti renderò il favore!<Close><End of Block>
+<TextBlock 39 w:38 h:1>
+Ricevi Coppa Acchiapparella.<Close><End of Block>
+<TextBlock 40 w:48 h:2>
+Siamo a <Opcode 10 0>.<Delay 10>
+Devi portarmene ancora
+<Opcode 10 1>.<Close><End of Block>
+<TextBlock 41 w:48 h:2>
+Adesso sono <Opcode 10 0>.<Delay 10>
+Portamene ancora <Opcode 10 1>.<Space 1><Close><End of Block>
+<TextBlock 42 w:48 h:2>
+Adesso sono <Opcode 10 0>.<Delay 10>
+Portamene ancora <Opcode 10 1>.<Space 1><Close><End of Block>
+<TextBlock 43 w:48 h:3>
+Io oggi sono di turno,
+perciò devo mettere
+tutti i polli nel
+recinto…<New>
+Vuoi aiutarmi?<Delay 30>
+<Opcode 1 255>    OK!!
+    È compito tuo.<Close><End of Block>
+<TextBlock 44 w:48 h:3>
+Grazie!!<Delay 10>
+È facile, i polli ti
+seguono quando li chiami.<Close><End of Block>
+<TextBlock 45 w:36 h:2>
+Ummphh,<Delay 30> Billy ha detto
+la stessa cosa.<Close><End of Block>
+<TextBlock 46 w:42 h:3>
+Cercate Billy?<Delay 10>
+Dovreste andare alla
+Sede della Chiesa.<Close><End of Block>
+<TextBlock 47 w:18 h:1>
+Guardate!<Opcode 2 40><Close><End of Block>
+<TextBlock 48 w:38 h:4>
+Mmh, lo Zio Stone è un
+cattivo?<Delay 10> Perché lo
+state dicendo!?<Close><End of Block>
+<TextBlock 49 w:44 h:3>
+Billy dice che rispetta
+lo Zio Stone. Credo che
+anch'io dovrei farlo.<Close><End of Block>
+<TextBlock 50 w:46 h:3>
+Sto lavorando duro, per
+evitare di soffrire nel
+caso ci trovassimo in
+difficoltà, perciò non
+datemi fastidio.<Close><End of Block>
+<TextBlock 51 w:6 h:1>
+…<Close><End of Block>
+<TextBlock 52 w:24 h:1>
+La la la la!<Close><End of Block>
+<TextBlock 53 w:26 h:1>
+Sì,<Delay 10> grande!!<Close><End of Block>
+<TextBlock 54 w:8 h:1>
+VIA!!<Opcode 2 30><Close><End of Block>
+<TextBlock 55 w:30 h:1>
+… Eeh eeh eeh!<Close><End of Block>
+<TextBlock 56 w:24 h:1>
+Lu lu lu lu!<Close><End of Block>
+<TextBlock 57 w:8 h:1>
+VIA!!<Opcode 2 30><Close><End of Block>
+<TextBlock 58 w:50 h:1>
+Siamo tutti buoni amici…<Close><End of Block>
+<TextBlock 59 w:50 h:4>
+Eh? 'Perché non stai
+giocando con loro?'<Delay 30>
+Non dire cretinate…!
+Non posso giocare
+con le ragazze!!<Close><End of Block>
+<TextBlock 60 w:40 h:4>
+Elly
+"Bene, allora dici
+che io non posso
+giocare…<New>
+… perché sono
+una ragazza?"<Close><End of Block>
+<TextBlock 61 w:24 h:1>
+Tu sei a posto!<Close><End of Block>
+<TextBlock 62 w:24 h:2>
+Ehi ehi,
+salite su!<Close><End of Block>
+<TextBlock 63 w:48 h:1>
+Non parlo agli
+sconosciuti!<Close><End of Block>
+<TextBlock 64 w:4 h:1>
+!!<Opcode 2 30><Close><End of Block>
+<TextBlock 65 w:26 h:2>
+Wow!!
+Zio Stone!!<Close><End of Block>
+<TextBlock 66 w:36 h:3>
+Zio Stone
+"Ciao,<Delay 10> siete
+tutti felici?"<Close><End of Block>
+<TextBlock 67 w:28 h:1>
+Billy
+"Vescovo Stone!!"<Close><End of Block>
+<TextBlock 68 w:38 h:2>
+Vescovo Stone
+"Oh, Billy,
+figliuolo mio!"<Close><End of Block>
+<TextBlock 69 w:40 h:3>
+Billy
+"Mi spiace disturbarla
+quando è occupata."<Close><End of Block>
+<TextBlock 70 w:54 h:2>
+Vescovo Stone
+"E chi sono
+queste persone?"<Close><End of Block>
+<TextBlock 71 w:48 h:3>
+Billy 
+"Sono viaggiatori
+provenienti da
+un altro paese."<Close><End of Block>
+<TextBlock 72 w:44 h:4>
+Vescovo Stone
+"Oh<Delay 20>…<New>
+A proposito, riguardo
+al tuo messaggio di
+prima…"<Close><End of Block>
+<TextBlock 73 w:28 h:3>
+Billy
+"Sì,<Delay 10> riguardo
+a quel lavoro…"<Close><End of Block>
+<TextBlock 74 w:52 h:4>
+Vescovo Stone
+"Sì.<New>
+La nave di trasporto della
+Chiesa di cui si erano
+perse le tracce è infine
+ricomparsa<Delay 10>…<New>
+Ma…<Delay 5> non otteniamo
+nessuna risposta…"<Close><End of Block>
+<TextBlock 75 w:40 h:2>
+Billy
+"Cosa vuol dire?"<Close><End of Block>
+<TextBlock 76 w:44 h:3>
+Vescovo Stone
+"Mmmh,<Delay 10> forse sono
+ancora i Mietitori.<New>
+Billy, puoi fare
+il solito?"<Close><End of Block>
+<TextBlock 77 w:48 h:4>
+Billy
+"Certo,<Delay 10> nessun
+problema.<Delay 10><New>
+Lasci fare a me,
+Vescovo Stone."<Close><End of Block>
+<TextBlock 78 w:44 h:4>
+Vescovo Stone
+"Ti ringrazio.<Delay 10> Si trova
+a nordest di qui.<New>
+Ti prego di essere
+prudente. È una
+zona pericolosa.<New>
+Ci sono alcune correnti
+marine alquanto forti,
+ed è meglio starsene
+lontani dai Recuperatori.<New>
+Faresti meglio ad andare
+in una grande nave…"<Close><End of Block>
+<TextBlock 79 w:50 h:4>
+Bart
+"Ehi, per caso è quella
+grande nave di cui Sig
+ci ha parlato prima?"<Close><End of Block>
+<TextBlock 80 w:42 h:3>
+Billy
+"Non so se sia
+così o no."<Close><End of Block>
+<TextBlock 81 w:52 h:4>
+Bart
+"Da quanto ho sentito, è
+un luogo dove le correnti
+sono velocissime.<New>
+Da quanto si sa, è un
+posto molto pericoloso
+per le navi piccole.<New>
+Ma l'Yggdrasil non
+avrà problemi lì.<New>
+Non importa quanto grossi
+siano i flutti o le onde,
+non c'è problema. Inoltre,
+c'è Fei ad aiutarci.<New>
+Saliamo a bordo.<Delay 10>
+Ci vedremo e ci saluteremo
+lì<Delay 10>…<New>
+Pensa te, potremmo
+addirittura aiutarti a
+finire il tuo lavoro!"<Close><End of Block>
+<TextBlock 82 w:48 h:4>
+Elly
+"Sono d'accordo. Tu hai
+salvato Fei.<New>
+Questo è il minimo
+che possiamo fare."<Close><End of Block>
+<TextBlock 83 w:48 h:4>
+Billy
+"Grazie, ma questa
+faccenda non vi
+riguarda<Delay 10>…<New>
+Basto solo io."<Close><End of Block>
+<TextBlock 84 w:44 h:3>
+Elly
+"Ma quello non è un
+posto pericoloso?<New>
+Se c'è qualcosa che
+possiamo fare per
+aiutarti…"<Close><End of Block>
+<TextBlock 85 w:42 h:3>
+Billy
+"Non voglio che voi
+rimaniate coinvolti…"<Close><End of Block>
+<TextBlock 86 w:54 h:4>
+Vescovo Stone
+"Billy, figliuol mio,
+non sciupare le loro
+buone intenzioni.<New>
+Il sottomarino è loro,
+no? Perché non collabori
+con loro…?"<Close><End of Block>
+<TextBlock 87 w:26 h:3>
+Billy
+"…<Delay 10>
+Ma… Vescovo!"<Close><End of Block>
+<TextBlock 88 w:36 h:4>
+Bart
+"Giusto, che
+divertimento c'è nel
+lavorare da soli?<Delay 10><New>
+Ti aiuteremo."<Close><End of Block>
+<TextBlock 89 w:40 h:3>
+Elly
+"Billy, è meglio
+andare con gli amici
+che da soli!"<Close><End of Block>
+<TextBlock 90 w:38 h:3>
+Billy
+"…<New>
+Bene, se insistete…
+Vi ringrazio.<Delay 10>
+L'apprezzo molto."<Close><End of Block>
+<TextBlock 91 w:54 h:4>
+Vescovo Stone
+"Vi ringrazio dal
+profondo del mio cuore.<Delay 10><New>
+Billy,<Delay 5> prenditi cura
+di queste persone.<New>
+Fa' rapporto alla Sede,
+non appena torni."<Close><End of Block>
+<TextBlock 92 w:28 h:2>
+Billy
+"Certo, Vescovo."<Close><End of Block>
+<TextBlock 93 w:48 h:4>
+Billy
+"Grazie.<Delay 10>
+Vediamo cosa ci
+porterà il domani.<New>
+Verrò non appena avrò
+finito di prepararmi
+per domani. Voi
+andate pure.<New>
+Vi dirò di più
+durante il viaggio…"<Close><End of Block>
+<TextBlock 94 w:4 h:1>
+!!<Close><End of Block>
+<TextBlock 95 w:38 h:1>
+Il segnale di Billy…!!<Close><End of Block>
+<TextBlock 96 w:30 h:2>
+Ehi, gente!! È la
+trasformazione G!!<Close><End of Block>
+<TextBlock 97 w:42 h:3>
+Direzione del vento, OK!! 
+Coordinate obiettivo -
+X 1020, Z 303!<Close><End of Block>
+<TextBlock 98 w:36 h:2>
+Roger!!<Delay 10> Attivare
+pilota automatico!<Close><End of Block>
+<TextBlock 99 w:20 h:2>
+Catapulta, 
+pronta!!<Close><End of Block>
+<TextBlock 100 w:24 h:1>
+Avanti,<Delay 10> spingi!!<Close><End of Block>
+<TextBlock 101 w:16 h:2>
+Pronto…<Delay 10>!!<Close><End of Block>
+<TextBlock 102 w:12 h:1>
+Pronti?<Close><End of Block>
+<TextBlock 103 w:26 h:1>
+Distruggili!!<Close><End of Block>
+<TextBlock 104 w:50 h:1>
+Il lancio di oggi è
+stato così così…
+(di certo non ai
+livelli di Trider G7…)<Close><End of Block>
+<TextBlock 105 w:0 h:1>
+<Close><End of Block>

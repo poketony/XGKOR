@@ -1,0 +1,15 @@
+<TextBlock 1 w:56 h:5>
+Falkon
+"Mirate alla nave
+ammiraglia che si sta
+dirigendo ad ovest!<Wait>
+Non combattete con il
+cacciatorpediniere!
+Io tornerò indietro e
+aiuterò!"<Close><End of Block>
+<TextBlock 2 w:46 h:4>
+Falkon
+"Allontanatevi dal
+cacciatorpediniere!
+Sto per usare colpi
+reattivi!"<Close><Close><End of Block>

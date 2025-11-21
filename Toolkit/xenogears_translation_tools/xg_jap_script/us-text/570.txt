@@ -1,0 +1,157 @@
+#### 1 ####
+Roni
+"C'mon guys, {wait:05}eat up.{enter}
+You haven't been able
+to get this kinda food
+around here lately,
+have ya?" 
+
+#### 2 ####
+Roni
+"Well, this is also due
+to my business savvy."
+
+#### 3 ####
+Rene
+"...{wait:05}What's wrong,{wait:05} Lacan?{wait:0F}
+You look kinda down.{wait:0F}
+What's bothering you?{enter}
+Are you worried about
+something?"
+
+#### 4 ####
+Lacan
+"It's nothing{wait:05}...{wait:0F}
+I'm just thinking about
+painting Sophia.{enter}
+I don't know why I agreed 
+to do her portrait{wait:05}..."
+
+#### 5 ####
+Rene
+"Sophia{wait:05}...{wait:05} You mean your
+childhood friend who's now
+the Holy Mother of Nisan?"
+
+#### 6 ####
+Lacan
+"She's not really a
+childhood friend{wait:05}...{enter}
+...{wait:05}I just made her
+acquaintance at the
+monastery near my home
+when I was a child{wait:05}...{enter}
+She went to the clinic
+there for convalescence."
+
+#### 7 ####
+Lacan
+"She was {wait:05}frail."
+
+#### 8 ####
+Rene
+"So{wait:05}...{wait:0F}
+what are you worried
+about painting her for?"
+
+#### 9 ####
+Lacan
+"She{wait:05} does not wish {wait:0F}
+herself to become a 
+symbol of her sect.{enter}
+...{wait:05}Actually,{wait:0A} it seems
+she wasn't interested
+in having her portrait
+painted at first.{enter}
+But,{wait:05} when she heard I
+would be the painter,{wait:05}
+she turned around and
+agreed.{enter}
+That's what I don't
+understand{wait:05}..."
+
+#### 10 ####
+Roni
+"I see{wait:05}..."
+
+#### 11 ####
+Roni
+"Then{wait:05} she must
+like you{wait:05}..."
+
+#### 12 ####
+Lacan
+"What are you
+talking about?"
+
+#### 13 ####
+Roni
+"That's how women are{wait:05}...{wait:0F}
+Right, Krelian{wait:05}...?"
+
+#### 14 ####
+Roni
+"Hey,{wait:05} Krel!"
+
+#### 15 ####
+Krelian
+"Huh?"
+
+#### 16 ####
+Rene
+"...{wait:05}What's up?{wait:0F}
+You're not having any?{wait:1E}
+It's ready to eat."
+
+#### 17 ####
+Krelian
+"Ah,{wait:05} yeah{wait:05}..."
+
+#### 18 ####
+Roni
+"The Holy Mother
+of Nisan,{wait:05} huh?{enter}
+What, are you out
+to offend divine
+providence or
+something, Lacan?"
+
+#### 19 ####
+Lacan
+"Cut it out{wait:05}...!{wait:0F}
+It's not{wait:05}...{wait:05}
+like that{wait:05}..."
+
+#### 20 ####
+Lacan
+"Wh, {wait:05}what?"
+
+#### 21 ####
+You've gotta lighten
+up a little{wait:05}...{clear:78}
+
+#### 22 ####
+Krelian
+"Even so, there was a
+time  when I did some
+pretty vicious things.{enter}
+I lashed out at random{wait:05}...{wait:0F}
+Everyone around me
+feared me{wait:05}...{wait:05}
+Even my friends.{enter}
+I lived a life surrounded
+by people who looked at me
+with fear in their eyes."
+
+#### 23 ####
+Krelian
+"But she was the only one
+who wasn't afraid of me.{wait:0F}
+She would just smile.{enter}
+Peace of mind{wait:05}...{wait:0F}
+She was the one who taught
+me what that was and how I
+could receive it{wait:05}...{enter}
+She taught me how to live
+as a human{wait:05}..."
+

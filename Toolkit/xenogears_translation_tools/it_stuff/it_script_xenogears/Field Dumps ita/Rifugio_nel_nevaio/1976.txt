@@ -1,0 +1,99 @@
+<TextBlock 1 w:50 h:4>
+Fei
+"Ma questo è… il prezioso
+tesoro di quello strano
+vecchietto Chu-chu…<New>
+Mi chiedo cosa gli sia
+successo quando Shevat
+è precipitata sulla
+superficie<Delay 20>…<New>
+Non l'ho più visto…<Delay 30>
+Il suo tesoro… Non è che
+possiamo prendercelo<Delay 20>…?<New>
+Sono sicuro che non
+si arrabbierà, se lo
+prendiamo in prestito…"<Close><End of Block>
+<TextBlock 2 w:38 h:4>
+Fei
+"Lo stiamo solo prendendo
+in prestito. Solo
+prendendo in prestito.<New>
+Ehi, non è che siamo
+dei saccheggiatori di
+tombe o roba del genere!<Delay 20>
+Giusto!?<New>
+Perciò non ci mandate
+il malocchio e non
+ci tormentate, OK!?<Delay 20><New>
+Per favore, ve lo
+chiediamo umilmente."<Close><End of Block>
+<TextBlock 3 w:22 h:3>
+Fei
+"Eh!<Delay 20> Ma
+questo è…"<Close><End of Block>
+<TextBlock 4 w:52 h:1>
+La mitica 'Coppa CSF'!!<Close><End of Block>
+<TextBlock 5 w:54 h:1>
+   La leggendaria
+'Coppa Nascondino'!!<Close><End of Block>
+<TextBlock 6 w:52 h:2>
+La 'Coppa Acchiapparella' per
+ cui qualsiasi collezionista
+       andrebbe matto!!<Close><End of Block>
+<TextBlock 7 w:54 h:4>
+Fei
+"Scommetto che quel
+vecchio Chu-chu doveva
+essere così felice…<New>
+Erano messe in mostra
+così bene, qui…<Delay 20>
+Non posso prendergliele."<Close><End of Block>
+<TextBlock 8 w:46 h:4>
+Fei
+"Scommetto che quel
+vecchio Chu-chu doveva
+essere felicissimo…<New>
+È tutto così pulito,
+così splendente…<Delay 20>
+E tutto messo in
+bella mostra…"<Close><End of Block>
+<TextBlock 9 w:54 h:4>
+Fei
+"Mmh. Sembrano solo dei
+giocattoli di un bambino
+messi in riga…<New>
+È inutile prendere queste
+cose, quando non sappiamo
+neanche che fine farà
+questo mondo."<Close><End of Block>
+<TextBlock 10 w:42 h:4>
+Fei
+"Non è il momento di
+mettersi a guardare
+delle cose come queste."<Close><End of Block>
+<TextBlock 11 w:46 h:3>
+Vuoi scendere?<Delay 10>
+    Sì
+    No<Close><End of Block>
+<TextBlock 12 w:28 h:2>
+Ricevi un
+Turbante!!<Close><End of Block>
+<TextBlock 13 w:26 h:2>
+Ricevi delle
+Scarpette!!<Close><End of Block>
+<TextBlock 14 w:28 h:2>
+  Ricevi un
+Costume Eroe!!<Close><End of Block>
+<TextBlock 15 w:28 h:2>
+  Ricevi un
+Anello Ercole!!<Close><End of Block>
+<TextBlock 16 w:26 h:2>
+ Ricevi una
+Fascia Yamato!!<Close><End of Block>
+<TextBlock 17 w:28 h:2>
+ Ricevi una
+Vera Magica!!<Close><End of Block>
+<TextBlock 18 w:48 h:2>
+Fei mette a posto con
+delicatezza la borsa
+dove l'ha trovata.<Close><Close><End of Block>

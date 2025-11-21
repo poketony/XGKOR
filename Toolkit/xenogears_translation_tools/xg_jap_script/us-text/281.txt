@@ -1,0 +1,80 @@
+#### 1 ####
+{fast:FF}Where are you going?
+    4F (Bridge)
+    3F (Beer Hall)
+    2F (Sick Bay)
+    1F (Deck)
+    B1F (Supply entrance)
+    B2F (Dock)
+    Nevermind
+
+#### 2 ####
+Oh, I feel sick.
+Oh please
+don't spin it
+don't spin it...
+
+#### 3 ####
+Don't spin it!!
+Uhhh!!{clear:1E}
+
+#### 4 ####
+Bart
+"I{wait:0A}...{wait:0A}didn't want to 
+get her involved."
+
+#### 5 ####
+Fei
+"You mean Margie{wait:05}...{enter}
+Sorry, I know I promised{wait:05}...{wait:05}
+that if anything happened,
+I would protect Margie
+and the people of Nisan."
+
+#### 6 ####
+Bart
+"You're worried about that?
+It's okay, you've had it
+tough too.{enter}
+I made it okay. That's my
+job.{wait:0F} When the
+Yggdrasil's fixed, I'm
+going on straight ahead..."
+
+#### 7 ####
+Bart
+"Of course I know Nisan's
+in danger. {enter}
+But since everything's
+messed up there, I thought
+now would be a good time
+to sneak in there.{enter}
+I didn't plan on taking
+her along. As long as I
+knew she was safe there."
+
+#### 8 ####
+Citan
+"But I certainly doubt
+Shakhan will just stand by
+and do nothing..."
+
+#### 9 ####
+Bart
+"That's what the people
+from her Sect said too.{enter}
+But it's still risky,
+so they say they want
+me to stay close to
+her and protect her."
+
+#### 10 ####
+Fei
+"Really{wait:05}...{wait:05}
+And you're okay with
+that?"
+
+#### 11 ####
+Bart
+"{wait:05}...{wait:14}Yeah."
+

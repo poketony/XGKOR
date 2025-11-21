@@ -1,0 +1,141 @@
+#### 1 ####
+Elly
+"What? 
+There's something..."
+
+#### 2 ####
+Elly
+"Billy, who's 'buddy'?"
+
+#### 3 ####
+Elly
+"There's nothing there.
+Don't scare me. It's just
+fish jumping around.{enter}
+But the sea is great.
+The breeze is so cool...
+So different from the
+desert!!"
+
+#### 4 ####
+Elly
+"!! 
+Didn't you just say we
+couldn't stand a chance
+against it by ourselves?"
+
+#### 5 ####
+Citan
+"Huh? 
+Something behind..."
+
+#### 6 ####
+Citan
+"Billy...who is 'buddy'?
+
+#### 7 ####
+Citan
+"There is nothing there.
+Just fish jumping around.{enter}
+Ahh...the sea. The cool
+breeze...so different from
+the desert!!"
+
+#### 8 ####
+Citan
+"!!{enter}
+You did say that we would
+not stand much of a chance
+against it by ourselves?"
+
+#### 9 ####
+Bart
+"Huh? 
+Something there...?"
+
+#### 10 ####
+Bart
+"Yo Billy, what's 'buddy'?"
+
+#### 11 ####
+Bart
+"There's nothing there but
+some fish jumping around.{enter}
+I love the sea. The cool
+breeze...so different from
+the desert. From now on
+I'm a man of the sea."
+
+#### 12 ####
+Bart
+"Hey!{enter}
+What now? Didn't you just
+say that we wouldn't stand
+a chance against that by
+ourselves?"
+
+#### 13 ####
+Rico
+"What's that...?"
+
+#### 14 ####
+Rico
+"Hey Billy, who's buddy?"
+
+#### 15 ####
+Rico
+"Huh? It's just a fish.{enter}
+Aah, I love the sea.
+The breeze is so cool...
+Nothing like Kislev."
+
+#### 16 ####
+Rico
+"Hey!{enter}
+What now? Didn't you just
+say that we wouldn't stand
+a chance against that by
+ourselves?"
+
+#### 17 ####
+Billy
+"Just as I thought. This
+transport's infested.{enter}
+I must go to the
+'Ethos' and tell
+Bishop Stone..."
+
+#### 18 ####
+Billy
+"...Hmm, it's probably
+its brethren. A giant
+Wels.{enter}
+An entity we wouldn't stand
+much of a chance against by
+ourselves. But don't worry,
+they're pretty slow.{enter}
+Even if that Wels called
+it, it probably won't
+reach us in time.{enter}
+But I called for my Gear
+anyway just to be safe."
+
+#### 19 ####
+Billy
+"...{wait:14}...{wait:14}
+Faster than I expected.
+Well, here it comes."
+
+#### 20 ####
+Billy
+"It should be any 
+time now."
+
+#### 21 ####
+Billy
+"Great timing on the part
+of the kids. I owe them
+one.{enter}
+Well, get ready cause here
+it come."
+

@@ -1,0 +1,67 @@
+[Script Info]
+
+;--------------------------------------------
+;|  This is a Sub Station Alpha v4 script   |
+;|                                          |
+;| Created with MEDUSA - Subtitling Station |
+;--------------------------------------------
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00
+Collisions: Normal
+PlayResX: 640
+PlayResY: 480
+PlayDepth: 0
+Timer: 100.0000
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: Default,Arial,25,16777215,0,0,0,0,0,1,2,2,2,20,20,30,0,0
+Style: Normal,Arial,38,16777215,0,0,0,0,0,1,2,2,2,20,20,30,0,0
+
+[Events]
+Format: Marked, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,0:00:20.05,0:00:21.60,Normal,,0000,0000,0000,,Ritorniamo al nostro pianeta...
+Dialogue: Marked=0,0:00:37.65,0:00:38.80,Normal,,0000,0000,0000,,Quella luce...
+Dialogue: Marked=0,0:00:40.50,0:00:42.80,Normal,,0000,0000,0000,,È il punto di contatto col nostro mondo...
+Dialogue: Marked=0,0:00:43.40,0:00:45.50,Normal,,0000,0000,0000,,Ma lo spostamento dimensionale è già iniziato...
+Dialogue: Marked=0,0:00:47.40,0:00:48.45,Normal,,0000,0000,0000,,Possiamo farcela in tempo?
+Dialogue: Marked=0,0:00:51.25,0:00:52.30,Normal,,0000,0000,0000,,Puoi correre?
+Dialogue: Marked=0,0:00:57.80,0:00:59.20,Normal,,0000,0000,0000,,Se siamo di nuovo insieme.
+Dialogue: Marked=0,0:01:31.60,0:01:31.80,Normal,,0000,0000,0000,,Ah!
+Dialogue: Marked=0,0:01:40.35,0:01:42.20,Normal,,0000,0000,0000,,Ellyyyyy!
+Dialogue: Marked=0,0:02:07.40,0:02:08.35,Normal,,0000,0000,0000,,Krelian...
+Dialogue: Marked=0,0:02:08.50,0:02:09.35,Normal,,0000,0000,0000,,Tu...
+Dialogue: Marked=0,0:02:12.65,0:02:14.25,Normal,,0000,0000,0000,,Non c'è più tempo...
+Dialogue: Marked=0,0:02:14.30,0:02:16.60,Normal,,0000,0000,0000,,Questo posto sta per essere distrutto.
+Dialogue: Marked=0,0:02:19.65,0:02:22.60,Normal,,0000,0000,0000,,Adesso, Dio non è più.
+Dialogue: Marked=0,0:02:23.20,0:02:28.15,Normal,,0000,0000,0000,,Non siete più sul loro pianeta, bensì sul vostro.
+Dialogue: Marked=0,0:02:31.05,0:02:33.90,Normal,,0000,0000,0000,,Krelian... Tu non te ne andrai, è così...?
+Dialogue: Marked=0,0:02:34.70,0:02:35.60,Normal,,0000,0000,0000,,No...
+Dialogue: Marked=0,0:02:39.90,0:02:43.75,Normal,,0000,0000,0000,,È da quel momento che ho smesso d'essere umano...
+Dialogue: Marked=0,0:02:44.85,0:02:47.30,Normal,,0000,0000,0000,,Ho commesso così tanti peccati...
+Dialogue: Marked=0,0:02:47.70,0:02:50.60,Normal,,0000,0000,0000,,...che qualsiasi tentativo di vivere come un uomo...
+Dialogue: Marked=0,0:02:51.30,0:02:52.10,Normal,,0000,0000,0000,,...mi è impossibile.
+Dialogue: Marked=0,0:02:52.80,0:02:55.20,Normal,,0000,0000,0000,,L'unico che avrebbe potuto perdonarmi...
+Dialogue: Marked=0,0:02:56.00,0:02:57.35,Normal,,0000,0000,0000,,...è Dio.
+Dialogue: Marked=0,0:03:03.10,0:03:04.70,Normal,,0000,0000,0000,,Non è vero!
+Dialogue: Marked=0,0:03:05.95,0:03:07.80,Normal,,0000,0000,0000,,Sono sicuro che riuscirebbero a capirlo!
+Dialogue: Marked=0,0:03:07.85,0:03:12.60,Normal,,0000,0000,0000,,C'è ancora tanto tempo per espiare i tuoi peccati! E se c'è qualcuno che può farlo, quello sei tu!
+Dialogue: Marked=0,0:03:15.15,0:03:17.50,Normal,,0000,0000,0000,,Fai sempre il pacificatore, eh, Lacan?
+Dialogue: Marked=0,0:03:19.10,0:03:21.70,Normal,,0000,0000,0000,,Forse è questo che significa essere umano...
+Dialogue: Marked=0,0:03:24.80,0:03:28.60,Normal,,0000,0000,0000,,Ma non cambia nulla, non posso venire...
+Dialogue: Marked=0,0:03:29.80,0:03:32.60,Normal,,0000,0000,0000,,Ho già preso la mia decisione.
+Dialogue: Marked=0,0:03:32.55,0:03:34.45,Normal,,0000,0000,0000,,Camminerò con Dio.
+Dialogue: Marked=0,0:03:35.55,0:03:39.55,Normal,,0000,0000,0000,,Anche se per me non esiste più posto al quale fare ritorno...
+Dialogue: Marked=0,0:03:46.45,0:03:47.95,Normal,,0000,0000,0000,,Ora devo andare...
+Dialogue: Marked=0,0:03:50.00,0:03:50.90,Normal,,0000,0000,0000,,Krelian...!
+Dialogue: Marked=0,0:03:59.90,0:04:01.00,Normal,,0000,0000,0000,,In realtà...
+Dialogue: Marked=0,0:04:05.20,0:04:06.55,Normal,,0000,0000,0000,,...io v'invidio.
+Dialogue: Marked=0,0:04:06.55,0:04:11.55,Normal,,0000,0000,0000,,

@@ -1,0 +1,12 @@
+<TextBlock 1 w:14 h:2>
+    SU?
+    NO<Close><End of Block>
+<TextBlock 2 w:18 h:2>
+    GIÙ?
+    NO<Close><End of Block>
+<TextBlock 3 w:32 h:2>
+Sistema Blocco Porta
+Area B<Close><End of Block>
+<TextBlock 4 w:32 h:2>
+Sistema Blocco Porta
+Area B<Close><Close><End of Block>

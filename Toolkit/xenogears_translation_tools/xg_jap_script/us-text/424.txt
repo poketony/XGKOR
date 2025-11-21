@@ -1,0 +1,118 @@
+#### 1 ####
+Fei
+"Is this, {wait:14}
+the 3rd gate{wait:0A}...{wait:0A}...{wait:0A}
+...{wait:0A}...{wait:0A}?"
+
+#### 2 ####
+Fei
+"Who are you?"
+
+#### 3 ####
+I will{wait:0A}...{wait:14}
+kill {wait:0A}you.
+
+#### 4 ####
+Mysterious Gear
+"How do you do?
+I am a Rattan, one of the
+followers of Krelian.{enter}
+Please excuse me, I'd like
+to show you my face but as
+a result of the
+human-machine fusion..."
+
+#### 5 ####
+Elly
+"A follower of Krelian!?{wait:0A}
+Not Ramsus or the
+Elements!?"
+
+#### 6 ####
+Citan
+"You are the ones who left
+Kahr for the surface...{wait:14}{enter}
+You must have a good
+reason."
+
+#### 7 ####
+Bart
+"A follower of Krelian?{wait:0A}
+I thought you were working
+for the shiny gold dude."
+
+#### 8 ####
+Billy
+"It's not Ramsus?{wait:0A}{enter}
+But...{wait:14}I get an even more
+ominous feeling from this
+Gear..."
+
+#### 9 ####
+Rico
+"Who the hell are you!?
+You don't look like one
+of Ramsus' lackeys."
+
+#### 10 ####
+{name:07:チュチュ}
+"You're Gebler, aren't chu?{wait:0A}
+Where's the usual cute
+one?"
+
+#### 11 ####
+Maria
+"I knew it wasn't Ramsus.{enter}
+Yes...{wait:14}that Gear is an
+evolved version of
+Seibzehn and Achtzehn!"
+
+#### 12 ####
+Rattan
+"Our current task is
+totally about inspection
+of the evidence.{enter}
+It'll ruin everything if
+someone as dead to the
+world as he appeared here.{enter}
+A person who's calm and
+cool like myself would be
+perfect for the job.{enter}
+Oh, {wait:0A}but don't worry.
+I'll just be inspecting
+here. Emeralda here, will
+take care of you."
+
+#### 13 ####
+Emeralda
+"...{wait:0A}...{wait:14}Kill...{wait:0A}you."
+
+#### 14 ####
+Emeralda
+"Ki...{wait:0A}...{wait:0A}m{wait:0A}...{wait:0A}?{wait:1E}
+Ah, ah-a-a, I..."
+
+#### 15 ####
+Rattan
+"...I see...{wait:0A}
+Reckless...{wait:14}now that...{enter}
+You should view it as a
+release of...{wait:0A}memory,
+{wait:0A}or maybe a recording.{enter}
+It turned out just as
+Krelian said...{enter}
+It is a manifestation of
+the imprinting.
+At any rate, it is proven.
+With that, excuse me.{enter}
+I must report the results.
+Oh yes, {wait:0A}go ahead and take
+the girl.{enter}
+Use her anyway you like.
+After all, she is your
+'daughter'..."
+
+#### 16 ####
+Ah, a
+aha-a-a-a-a!!
+

@@ -1,0 +1,606 @@
+#### 1 ####
+Fei
+"{wait:05}...{wait:05}I am Fei Fong Wong.{wait:0F}
+And what's your name?{enter}
+I know it's not really
+'Champ'?
+I at least have the right
+to know that much{wait:05}..."
+
+#### 2 ####
+No good. It's locked.{clear:1E}
+
+#### 3 ####
+Suzarn
+"Champ, we've brought
+him to you."
+
+#### 4 ####
+Suzarn
+"Why you...!? 
+How insolent!!"
+
+#### 5 ####
+A man called 'Champ'
+"Thanks Suzarn.{wait:14}
+Hmmm, so you're the
+new inmate{wait:05}...{enter}
+We don't know or care what
+you did to get put in here,
+but welcome to D Block{wait:05}...{wait:05}
+So what name do you go by?"
+
+#### 6 ####
+Champ
+"Calm down Suzarn.
+I don't mind{wait:05}...{wait:1E}
+The name's Rico."
+
+#### 7 ####
+Rico
+"Kid{wait:05}...{wait:05}
+It's good to have guts{wait:05}...{wait:05}
+if it's the real thing{wait:05}...{enter}
+We know it's a bit sudden,
+but we need to see how
+strong you really are{wait:05}..."
+
+#### 8 ####
+Rico
+"Heinrich!"
+
+#### 9 ####
+Rico
+"Vargas!"
+
+#### 10 ####
+Rico
+"Leonardo!"
+
+#### 11 ####
+Rico
+"Suzarn!"
+
+#### 12 ####
+Rico
+"Let's begin his 'Baptism'!
+Take him outside!"
+
+#### 13 ####
+Hammer
+"B,b, {wait:05}bro-!!{wait:0F}
+Are you he-re?"{clear:2D}
+
+#### 14 ####
+Rue
+"Anyway...
+This room is yours to use.{wait:0F}
+Next door is your bedroom.{enter}
+Oh{wait:05}...{wait:05}and, Fei.{wait:0F}
+Now you will be given the
+title of Champion{wait:05} as well as
+special S Rank priviledges."
+
+#### 15 ####
+Rue
+"Well, congratulations
+on winning the Battling
+championship{wait:05}...{enter}
+We were able to take some
+very good data{wait:05}...{wait:05}
+Ha ha hm.{wait:1E}
+One more thing, {wait:05}good news.{enter}
+Kaiser Sigmund would like 
+to meet you, Champion Fei.{enter}
+Please stop by the Central
+Administrative District.
+
+#### 16 ####
+Rue
+"Well{wait:05}...{wait:05} good bye."
+
+#### 17 ####
+Fei
+"There is still some
+time until the train
+passes by{wait:05}..."
+
+#### 18 ####
+Citan
+"Well,{wait:05} if everything is
+ready then,{wait:05} why not
+take a light nap?"
+
+#### 19 ####
+Citan
+"So, you are now free in
+both name and{wait:0F}...{wait:05}reality,{wait:05}
+right?"
+
+#### 20 ####
+Hammer
+"So, {wait:05}what are you
+gonna do now, {wait:05}bro?{wait:0F}
+Leave Nortune?"
+
+#### 21 ####
+Citan
+"We are not yet finished.
+There is one thing left
+to do here."
+
+#### 22 ####
+Fei
+"{wait:05}...{wait:05}I know.{wait:0F}
+It's {name:0B:¥ô¥§¥ë¥È©`¥ë}, right?{enter}
+We can't just leave
+it here.{wait:0F}
+We have to get it 
+back somehow{wait:05}..."
+
+#### 23 ####
+Citan
+"It is best if we assume
+{name:0B:¥ô¥§¥ë¥È©`¥ë} has been moved
+to a different dock{wait:05}..."
+
+#### 24 ####
+Citan
+"So,{wait:05} I guess that is
+where you come in,{wait:05}
+... {wait:0A}Hammer!"
+
+#### 25 ####
+Hammer
+"Got it,{wait:05} doctor!{enter}
+I'll find out where your
+Gear is... I'll bet my name
+as the 'Imperial capital's 
+No.1 Supplier' on it!"
+
+#### 26 ####
+Fei
+"Okay then, let's
+work separately.{enter}
+I'll work by myself,{wait:0A}
+while you,{wait:05} Hammer and
+doc,{wait:05} work together{wait:05}..."
+
+#### 27 ####
+Hammer
+"Bro,{wait:05} don't you trust
+me or something?{enter}
+I work better alone!{wait:0F}
+Nothing against Citan,
+but he'll just get in
+the way, {wait:05}bro."
+
+#### 28 ####
+Hammer
+"So then{wait:05}...{wait:05}
+just leave it to me,{wait:05} OK!"{clear:3C}
+
+#### 29 ####
+Fei
+"That Hammer{wait:05}...{wait:05}"
+
+#### 30 ####
+Citan
+"{wait:02}.{wait:02}.{wait:02}.{wait:02}.{wait:02}.{wait:02}.{wait:0F}
+We should make
+a move too."
+
+#### 31 ####
+Fei
+"{wait:05}...{wait:05} This room!?{wait:0F}
+This is the Champ's{wait:05}...?"
+
+#### 32 ####
+Rue
+"Yes, {wait:05}the room given to 
+the Champion{wait:05}...{wait:0F} 
+Is it not to your
+satisfaction?"
+
+#### 33 ####
+Fei
+"No, {wait:05}it's not that.
+What about Rico{wait:05}...?"
+
+#### 34 ####
+Rue
+"{wait:05}...{wait:05} Rico?{wait:0F}
+He's the 'ex-Champion'{wait:05}...{wait:0F}
+Now you are 'the Champion'!"
+
+#### 35 ####
+Fei
+"But,{wait:05} what happened
+to him{wait:05}...?"
+
+#### 36 ####
+Rue
+"After the Finals League,
+during the group league
+bouts, his Gear went out
+of control.{enter}
+The out of control Gear
+crashed into the Kaiser's
+box seat,{wait:05} and was damaged.{enter}
+Nothing has been heard
+from the former Champion,
+Ricardo,{wait:0A} and no one has seen
+him since the incident{wait:05}..."
+
+#### 37 ####
+Fei
+"{wait:02}.{wait:02}.{wait:02}.{wait:02}.{wait:02}.{wait:02}."
+
+#### 38 ####
+Rue
+"There are no Battling
+competitions for a while
+so you can rest up a bit.{enter}
+The explosive collar has
+been removed.{wait:0F}
+How about taking a walk
+around 'A Block' - the
+civilian area of Nortune?"
+
+#### 39 ####
+Fei
+"{wait:05}...{wait:05}'A Block'...
+civilian area?"
+
+#### 40 ####
+Rue
+"The southeast part of
+the Imperial capital...{wait:0F}
+It is called A Block or the
+ordinary civilian area{wait:05}..."
+
+#### 41 ####
+Rue
+"Well then,{wait:05} we shall
+take our leave{wait:05}..."
+
+#### 42 ####
+Fei
+"So{wait:05}...{wait:05} what do you
+want with us?"
+
+#### 43 ####
+Amazoness
+"The Champ{wait:05}...{wait:05}no I mean{wait:05}...{wait:0F}
+Rico needs your help."
+
+#### 44 ####
+Citan
+"Help{wait:05} the Champion{wait:05}...?"
+
+#### 45 ####
+Fei
+"Hang on,{wait:0F}
+what do you mean?"
+
+#### 46 ####
+Battler
+"Y'know what just happened...{wait:0F}
+The special broadcast on the
+dorm's vid by the Committee!"
+
+#### 47 ####
+Battler
+"Yeah, y'know, the broadcast
+said somthin' like this{wait:05}...{enter}
+This evening,{wait:05} the former
+Champion was found guilty
+of attempting to assassinate
+the Kaiser,{wait:05} as well as
+breaking Imperial Code
+section B{wait:05}..."
+
+#### 48 ####
+Thus,{wait:0F} a public execution
+will be held at the arena{wait:0F}..."
+
+#### 49 ####
+Fei
+"Yes, I know he got caught,{wait:05}
+and was arrested{wait:05}...{enter}
+But,{wait:05} what's this about an
+attempted assassination
+of the Kaiser!?"
+
+#### 50 ####
+Battler
+"Those committee members{wait:05}...{wait:0F}
+The Champ probably got in
+their way somehow{wait:05}..."
+
+#### 51 ####
+Citan
+"{wait:05}...{wait:05}The Battling
+Committee?"
+
+#### 52 ####
+Amazoness
+"The Battling Committee is
+made up mostly of people
+from the 'Ethos'.{enter}
+They used to have a lot of
+pull in the government{wait:05}...{enter}
+But the current Kaiser,
+Sigmund, ousted almost all
+of the 'Ethos' influence
+from the government."
+
+#### 53 ####
+Battler
+"On top of that, these
+past few years{wait:05}...{enter}
+In order to strengthen the
+military or something, the
+Kaiser has started to
+interfere with the Battling
+operated by the 'Ethos'."
+
+#### 54 ####
+Battler
+"The Kaiser probably got in
+the way of them operating
+the Battling smoothly.{wait:0F}
+So, they used the Champ{wait:05}..."
+
+#### 55 ####
+Fei
+"Why Rico{wait:05}...?"
+
+#### 56 ####
+Amazoness
+"Rico was originally
+born in this town{wait:05}...{enter}
+But because Sigmund whipped
+up anti-demihuman sentiment
+Rico was chased out of this
+town when he was young."
+
+#### 57 ####
+Amazoness
+"So Rico hated the Kaiser,
+the capital Nortune, and
+the whole Kislev Empire."
+
+#### 58 ####
+Fei
+"And that's why they
+went after Rico{wait:05}..."
+
+#### 59 ####
+Battler
+"In the past, the Champ has
+had many chances to kill
+the Kaiser.{enter}
+That the earlier crash into
+the box seat was disguised
+as an accident{wait:05}..."
+
+#### 60 ####
+Amazoness
+"But that failed too.
+The committee, fearing
+being exposed, used
+Rico{wait:05}..."
+
+#### 61 ####
+Battler
+"The Champ is being
+manipulated by the
+committee.{enter}
+Please, {wait:05}Fei!
+Help the Champ."
+
+#### 62 ####
+Battler
+"Now,{wait:05} you are the
+Battling Champ, {wait:0F}but
+our Champ is{wait:05}...{clear:3C}
+
+#### 63 ####
+Hammer
+"{wait:05}...{wait:05}Wha?{wait:0F}
+Hey bro, {wait:05}what are you
+doing talking with them?"
+
+#### 64 ####
+Fei
+"Hold on a minute.{enter}
+Hammer, {wait:05}tell me about 
+those supply trains."
+
+#### 65 ####
+Hammer
+"Huh?{wait:0A}
+Is it{wait:05}...{wait:05}alright?{wait:0F}
+With these outsiders{wait:05}...?"
+
+#### 66 ####
+Citan
+"It is alright,{wait:05}
+they are our friends."
+
+#### 67 ####
+Hammer
+"Oh, {wait:05}really?{enter}
+Well, {wait:05}okay{wait:05}...{wait:0F}
+The next supply train's
+operating date is{wait:05}...{wait:0F}
+tonight!{enter}
+But{wait:05}...{wait:05}
+if that's too soon,{wait:0F}
+then the next one is{wait:05}..."
+
+#### 68 ####
+Fei
+"Hammer,{wait:05} did you say that
+a supply train will pass
+by here tonight?"
+
+#### 69 ####
+Hammer
+"What? {wait:0A}Tonight?{wait:0F}
+Well{wait:05} there are trains
+passing through{wait:05}...{enter}
+Um, {wait:05}but bro...{wait:0F}
+we need a thorough plan.
+Tonight is impossible!"
+
+#### 70 ####
+Fei
+"The situation has changed,{wait:05}
+and so have our plans.{wait:0F}
+We move tonight!!"
+
+#### 71 ####
+Hammer
+"We move tonight{wait:05}...?{wait:0F}
+What the{wait:05}...?{wait:05}
+Are you {wait:05}serious?"
+
+#### 72 ####
+Citan
+"{wait:05}...{wait:05} Did you hear any
+interesting tidbits of
+information outside?"
+
+#### 73 ####
+Hammer
+"Well{wait:05}...{wait:0F}the dorms are in
+an uproar over that Master
+Rico thing{wait:05}..."
+
+#### 74 ####
+Citan
+"Do you know any details?
+Rico is to be executed at
+the arena, tonight, right?"
+
+#### 75 ####
+Hammer
+"Master Rico's going
+to be executed{wait:05}...{wait:0F}
+is this true?"
+
+#### 76 ####
+Fei
+"Didn't you say there
+was one more route?"
+
+#### 77 ####
+Hammer
+"Huh?{wait:0F} Oh yeah,{wait:05} you mean
+via the arena,{wait:05} right{wait:05}...{wait:0F}
+Bro!{wait:05} You're not thinking{wait:05}..."
+
+#### 78 ####
+Fei
+"Yes I am thinking
+exactly that!{enter}
+You said it may be
+possible to get out 
+through the Battling 
+Arena,{wait:05} right?"
+
+#### 79 ####
+Citan
+"I see! {wait:05}Then we 
+probably can help
+the Champion{wait:05}..."
+
+#### 80 ####
+Fei
+"Doc."
+
+#### 81 ####
+Citan
+"Hmm{wait:05}...{wait:0F}
+It might just work!"
+
+#### 82 ####
+Hammer
+"Wait a minute!{enter}
+Might just work{wait:05}...?{wait:0F}
+You don't intend to
+just go bursting into
+the arena, do you?"
+
+#### 83 ####
+Fei
+"Either way,{wait:05} we were going
+to escape via the arena,{wait:05} so
+it's on our way{wait:05}...{wait:0F} right!?"
+
+#### 84 ####
+Amazoness
+"Then that means{wait:05}...?"
+
+#### 85 ####
+Fei
+"No problem. It's just one
+more thing to do on the way
+to getting my Gear back..."
+
+#### 86 ####
+Citan
+"Leave the rest to us.{wait:0F}
+And I would like you all to
+go to the arena tonight.{enter}
+We will leave Nortune, but
+if they think you were all
+involved with us, I do not
+know what they might do..."
+
+#### 87 ####
+Battler
+"We're counting on you
+...{wait:05}for the Champ's sake."{clear:2D}
+
+#### 88 ####
+Amazoness
+"Sorry,{wait:0F} we had to ask
+you to do this{wait:05}..."{clear:2D}
+
+#### 89 ####
+Battler
+"We really appreciate 
+what you're doing{wait:05}...{enter}
+Here{wait:05}...{wait:05}
+Please take this."
+
+#### 90 ####
+Received 2000G!
+
+#### 91 ####
+Hammer
+"The supply train times,{wait:05}
+dates and destinations!{wait:0F}
+I got them all... no prob!"{clear:3C}
+
+#### 92 ####
+Fei
+"Hammer, you hide
+yourself somewhere.{enter}
+When we get out into the
+arena, I'm just going to
+go wild in my Gear...{enter}
+We'll play it by ear from
+there to escape from the
+Imperial capital{wait:05}...{wait:1E}
+You got it, Hammer?"
+
+#### 93 ####
+Hammer
+"I got you, bro!{wait:0F}
+Show them your stuff
+for me too,{wait:05} bro!"
+

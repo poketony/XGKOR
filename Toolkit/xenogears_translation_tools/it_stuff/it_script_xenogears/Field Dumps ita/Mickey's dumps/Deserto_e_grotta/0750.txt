@@ -1,0 +1,116 @@
+<TextBlock 1 w:10 h:1>
+Cosa?<Opcode 2 60><Close><End of Block>
+<TextBlock 2 w:50 h:4>
+"Ehi, ora vieni qui!<Delay 30><New>
+Non ti ucciderò.<Delay 30>
+Tutto ciò che voglio è che
+tu lasci questo Gear<Delay 60>…<Delay 60>
+Eh?"<Close><End of Block>
+<TextBlock 3 w:28 h:3>
+"Ehi!?<Delay 30>
+Tu non sei<Delay 20> un
+soldato di Aveh?"<Close><End of Block>
+<TextBlock 4 w:44 h:4>
+Fei
+"Questo te l'avevo già
+detto prima.<New>
+Sei stato tu che non
+hai voluto ascoltarmi,
+o no?"<Close><End of Block>
+<TextBlock 5 w:54 h:4>
+"Ah ah ah! È vero, scusa.
+Sì, ora che ci penso hai
+detto una cosa del genere.<New>
+Mi sono incazzato ed ho
+pensato che tu fossi il
+nemico.<New>
+Ehh, ahem… Il mio nome
+è Bart. E sono il pirata
+che scorrazza da queste
+parti."<Close><End of Block>
+<TextBlock 6 w:52 h:4>
+Fei
+"Io mi chiamo Fei.<New>
+Sono stato arrestato
+senza alcuna ragione, e
+condotto in quella nave
+da trasporto di Aveh…<New>
+… E stavo per essere
+spedito in un campo di
+concentramento quando
+sei arrivato tu.<New>
+Comunque…
+Sono felice di essere
+sopravvissuto."<Close><End of Block>
+<TextBlock 7 w:50 h:4>
+Bart
+"Capisco…
+Sono felice di esserti
+stato di aiuto.<New>
+Ma non mi aspettavo
+che un civile come te
+potesse pilotare un
+Gear militare.<New>
+Inoltre, questo Gear
+è un nuovo modello.
+Non ne ho mai visto
+uno di questo tipo."<Close><End of Block>
+<TextBlock 8 w:40 h:4>
+Fei
+"Diciamo solo che
+sono accadute molte
+cose…<New>
+E non è che mi piace
+pilotarlo!"<Close><End of Block>
+<TextBlock 9 w:48 h:4>
+Fei
+"Comunque, dove siamo?
+Pare che siamo finiti
+in uno strano posto.<New>
+Non avevo mai sentito
+che esistesse una caverna
+con simili stalattiti
+sotto il deserto."<Close><End of Block>
+<TextBlock 10 w:50 h:4>
+Bart
+"Cosa? Possibile che
+tu non sappia nulla?<Delay 30>
+Da dove vieni?<New>
+Il deserto copre solo
+poco meno di 1000 km
+della superficie
+esterna della terra.<New>
+Lo strato sottostante
+consiste in roccia di
+origine lavica."<Close><End of Block>
+<TextBlock 11 w:46 h:4>
+Fei
+"Da un mare di alberi a
+un mare di sabbia… e
+ora questa caverna…<New>
+Il prossimo, che sarà…?"<Close><End of Block>
+<TextBlock 12 w:30 h:3>
+Bart
+"Di che cosa
+stai parlando?"<Close><End of Block>
+<TextBlock 13 w:30 h:3>
+Fei
+"Oh, niente…<Delay 30>
+Non importa…"<Close><End of Block>
+<TextBlock 14 w:48 h:4>
+Bart
+"Siamo nei guai…<Delay 30>
+Guarda, il buco in cui
+siamo caduti è sparito.<New>
+Dovremo trovare un'altra
+strada per uscire…<Delay 30>
+Vogliamo fare una
+tregua per il momento?<New>
+… Almeno fino a quando
+non usciamo fuori di qui."<Close><End of Block>
+<TextBlock 15 w:46 h:3>
+Fei
+"Sì… accetto.<New>
+Per prima cosa dobbiamo
+uscire di qua…
+Quindi, muoviamoci…"<Close><Close><End of Block>

@@ -1,0 +1,13 @@
+#### 1 ####
+Hee hee hee...{clear:2D}
+
+#### 2 ####
+...Just keep sleeping.{clear:2D}
+
+#### 3 ####
+Hee hee hee...{clear:2D}
+
+#### 4 ####
+Hee hee hee...{wait:20}
+...See ya...{clear:2D}
+

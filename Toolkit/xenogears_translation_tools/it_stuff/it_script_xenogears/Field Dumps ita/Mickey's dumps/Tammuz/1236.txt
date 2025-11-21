@@ -1,0 +1,352 @@
+<TextBlock 1 w:50 h:3>
+Fei
+"Ve ne andate sempre
+in giro per i mari
+come fate adesso?"<Close><End of Block>
+<TextBlock 2 w:38 h:3>
+Fei
+"Perché la Chiesa è
+coinvolta…?"<Close><End of Block>
+<TextBlock 3 w:6 h:1>
+…<Opcode 2 100><Close><End of Block>
+<TextBlock 4 w:20 h:2>
+Elly
+"Grosso lavoro?"<Close><End of Block>
+<TextBlock 5 w:6 h:1>
+…<Opcode 2 100><Close><End of Block>
+<TextBlock 6 w:30 h:2>
+Bart
+"Uahhahaha."<Opcode 2 80><Close><End of Block>
+<TextBlock 7 w:50 h:5>
+Bart
+"Venivano fuori… uno
+dopo l'altro… slam,<Delay 10>
+bam,<Delay 10> crash<Delay 10>…<New>
+È successo così…"<Close><End of Block>
+<TextBlock 8 w:50 h:3>
+Capitano
+"Scusate,<Delay 5> ma ci vorrà
+ancora un po' di tempo."<Close><End of Block>
+<TextBlock 9 w:36 h:4>
+Capitano
+"Ehi, sbrigati!
+Non fare aspettare
+i nostri ospiti."<Close><End of Block>
+<TextBlock 10 w:48 h:3>
+Capitano
+"Scusate, qui non ci
+sono posti per sedersi."<Close><End of Block>
+<TextBlock 11 w:54 h:4>
+Capitano
+"Ma non è splendida la
+vista da qui? Questa sala
+è l'orgoglio del Tammuz.<New>
+Forse troverete un po'
+strano avere un pub
+così vicino al ponte
+di comando…<New>
+… ma a me sta
+bene così.<New>
+Che vita sarebbe se
+non trovi nemmeno il
+tempo di farti un
+bicchierino<Delay 5>…<New>
+…<Delay 5> Ma noi non abbiamo
+quel problema<Delay 5>!<New>
+Grazie a questo pub, sono
+tutti troppo sbronzi
+per preoccuparsi!"<Close><End of Block>
+<TextBlock 12 w:50 h:4>
+Capitano
+"Di solito.
+C'è quella gru che vi
+ha ripescato.<New>
+Usiamo quella o i Gear
+per recuperare i tesori
+dal mare.
+Siamo Recuperatori.<New>
+Comunque… di recente,
+ci sono sempre meno
+tesori…<Delay 10> solo piccole
+cose.<New>
+Così abbiamo iniziato un
+grosso lavoro, che è
+tutto ciò che ci rimane."<Close><End of Block>
+<TextBlock 13 w:52 h:4>
+Capitano
+"Oh, è un lavoro
+per la Chiesa.<New>
+Stanno organizzando
+un grosso recupero.<New>
+Non conosco i dettagli,
+ma pare stiano cercando
+un qualche tesoro
+nascosto."<Close><End of Block>
+<TextBlock 14 w:50 h:4>
+Capitano
+"Chissà… Ma dipendiamo
+dalla Chiesa per
+comprare ciò che serve.<New>
+Non fare questo lavoro
+sarebbe un pessimo
+affare."<Close><End of Block>
+<TextBlock 15 w:46 h:3>
+Capitano
+"Bene, il pranzo è
+servito. Mangiamo."<Close><End of Block>
+<TextBlock 16 w:24 h:2>
+Capitano
+"Gahahahah."<Opcode 2 80><Close><End of Block>
+<TextBlock 17 w:40 h:2>
+Capitano, il primo
+ufficiale vi sta
+chiamando.<Close><End of Block>
+<TextBlock 18 w:52 h:3>
+Bart
+"Venivano fuori… uno
+dopo l'altro… slam,<Delay 10>
+bam,<Delay 10> crash<Delay 10>…<New>
+È successo così…"<Close><End of Block>
+<TextBlock 19 w:42 h:3>
+Fei
+"Ehi Bart, Sigurd ti
+sta cercando…"<Close><End of Block>
+<TextBlock 20 w:50 h:3>
+Capitano
+"Gahahahahaha.<New>
+Se non sei forte, non 
+puoi essere un lupo di
+mare."<Close><End of Block>
+<TextBlock 21 w:42 h:3>
+Bart
+"Già, guarda
+che muscoli<Delay 15>…<Delay 15>"<Close><End of Block>
+<TextBlock 22 w:12 h:1>
+Tutto ciò dimostra…!<Close><End of Block>
+<TextBlock 23 w:22 h:1>
+che siamo…!<Close><End of Block>
+<TextBlock 24 w:24 h:1>
+uomini di mare…!<Close><End of Block>
+<TextBlock 25 w:40 h:2>
+Capitano, il primo
+ufficiale la sta
+chiamando.<Close><End of Block>
+<TextBlock 26 w:50 h:3>
+Capitano
+"Ehi, sta interrompendo
+la nostra conversazione.<New>
+Quell'Hans è davvero
+un rompipalle.
+Che vorrà adesso?"<Close><End of Block>
+<TextBlock 27 w:38 h:2>
+La nostra Signorina pare
+essere ritornata…<Close><End of Block>
+<TextBlock 28 w:38 h:3>
+Fei
+"La nostra Signorina<Delay 10>…<Delay 30>
+Oh, Elly!"<Close><End of Block>
+<TextBlock 29 w:34 h:4>
+Capitano
+"Stupido!
+Perché non me l'hai
+detto prima?"<Close><End of Block>
+<TextBlock 30 w:14 h:1>
+Ecco…<Close><End of Block>
+<TextBlock 31 w:34 h:2>
+Fei
+"Andiamo."<Close><End of Block>
+<TextBlock 32 w:50 h:4>
+Elly
+"So che non mangi da
+un po', ma come fai a
+mangiare tanto…?"<Close><End of Block>
+<TextBlock 33 w:44 h:4>
+Capitano
+"Gah ah ah ah ah…
+Ganzo, veramente
+ganzo.<New>
+Mi piace come mangi.
+Non siete andati alla
+deriva per niente…"<Close><End of Block>
+<TextBlock 34 w:18 h:1>
+Gli uomini hanno…!<Close><End of Block>
+<TextBlock 35 w:16 h:1>
+coraggio…!<Close><End of Block>
+<TextBlock 36 w:38 h:1>
+e appetito…!<Close><End of Block>
+<TextBlock 37 w:30 h:2>
+Capitano
+"Gah ah ah…"<Close><End of Block>
+<TextBlock 38 w:38 h:3>
+Elly
+"?<Delay 30>
+Perché la nave
+sta tremando?"<Close><End of Block>
+<TextBlock 39 w:54 h:2>
+Fei
+"Te lo sarai
+immaginato."<Close><End of Block>
+<TextBlock 40 w:38 h:2>
+Elly
+"Non credo proprio!"<Close><End of Block>
+<TextBlock 41 w:32 h:3>
+Capitano
+"Porca…!
+Devo andare."<Close><End of Block>
+<TextBlock 42 w:48 h:4>
+Capitano
+"Sembra che sia
+successo qualcosa.<New>
+Scusatemi, ma devo
+tornare sul ponte
+di comando."<Close><End of Block>
+<TextBlock 43 w:36 h:3>
+Capitano
+"Ma, per favore,
+continuate pure."<Close><End of Block>
+<TextBlock 44 w:34 h:3>
+Fei
+"Elly, cos'è 
+quello?"<Close><End of Block>
+<TextBlock 45 w:46 h:4>
+Elly
+"È troppo lontano, 
+non distinguo bene.
+Sembra una…<Delay 10> battaglia!"<Close><End of Block>
+<TextBlock 46 w:34 h:3>
+Fei
+"Torniamo sul ponte
+di comando."<Close><End of Block>
+<TextBlock 47 w:14 h:2>
+Elly
+"Ok."<Close><End of Block>
+<TextBlock 48 w:48 h:2>
+Non c'è nulla di meglio
+di un sorso dopo il lavoro.<Close><End of Block>
+<TextBlock 49 w:50 h:2>
+Ehi, non ti ho mai visto
+lavorare qui intorno.<Close><End of Block>
+<TextBlock 50 w:44 h:3>
+Uh? Non preoccuparti
+troppo per i dettagli.<Close><End of Block>
+<TextBlock 51 w:44 h:2>
+Brindiamo alla
+sopravvivenza del Tammuz!<Close><End of Block>
+<TextBlock 52 w:32 h:2>
+Adesso possiamo berne
+di più.<Close><End of Block>
+<TextBlock 53 w:26 h:1>
+Amen!<Close><End of Block>
+<TextBlock 54 w:32 h:3>
+Awwwww!
+Morirei per questo
+bicchiere di birra.<Close><End of Block>
+<TextBlock 55 w:42 h:2>
+Ehi, ma quante volte è
+che stai cercando di
+ammazzarti?<Close><End of Block>
+<TextBlock 56 w:22 h:1>
+Niente scherzi.<Close><End of Block>
+<TextBlock 57 w:36 h:2>
+Quale sarà il nostro
+prossimo lavoro?<Close><End of Block>
+<TextBlock 58 w:32 h:1>
+Qual è il tuo lavoro?<Close><End of Block>
+<TextBlock 59 w:36 h:2>
+Oh, questo e quello.
+Lascia perdere.<Close><End of Block>
+<TextBlock 60 w:40 h:2>
+Oggi i giovani sono mezze
+seghe come bevitori.<Close><End of Block>
+<TextBlock 61 w:50 h:4>
+Sono dei bevitori da
+quattro soldi, per
+questo sono stati
+sconfitti da quel
+piatto volante.<Close><End of Block>
+<TextBlock 62 w:34 h:2>
+Ehi, sei davvero
+bravo.<Close><End of Block>
+<TextBlock 63 w:46 h:2>
+ 
+ Ricevi Scarpe Lusso.<Close><End of Block>
+<TextBlock 64 w:26 h:2>
+Ah, non c'è
+stata gara!<Close><End of Block>
+<TextBlock 65 w:34 h:2>
+Ehi, prenditela
+comoda, oggi.<Close><End of Block>
+<TextBlock 66 w:42 h:4>
+Sei nuovo! Vuoi
+che te loinsegni?
+    Già
+    No, grazie<Close><End of Block>
+<TextBlock 67 w:20 h:3>
+<Delay 10>…<Delay 10> Davvero?
+    Sì
+    No<Close><End of Block>
+<TextBlock 68 w:18 h:3>
+<Delay 10>…<Delay 10> Sicuro?
+    Sì
+    No<Close><End of Block>
+<TextBlock 69 w:30 h:1>
+Mmmh, battuto.<Close><End of Block>
+<TextBlock 70 w:50 h:1>
+Mmmh, non hai orgoglio.<Close><End of Block>
+<TextBlock 71 w:54 h:1>
+Ok, allora te l'insegnerò!!<Close><End of Block>
+<TextBlock 72 w:46 h:1>
+Mmmh, non rimpiangerlo!<Close><End of Block>
+<TextBlock 73 w:38 h:2>
+Hic, mi shtai 
+ashcoltando…!?<Close><End of Block>
+<TextBlock 74 w:42 h:2>
+Hic, io? Non shono
+mica shbonzo, hic!<Close><End of Block>
+<TextBlock 75 w:46 h:2>
+Ehi, fa' qualcosa per
+questo vecchio ubriacone.<Close><End of Block>
+<TextBlock 76 w:48 h:3>
+Ehi, fa' qualcosa per
+questo vecchio ubriacone.
+È una compagnia peggiore
+di un Wels.<Close><End of Block>
+<TextBlock 77 w:48 h:2>
+No. Non sto
+cercando di bere.<Close><End of Block>
+<TextBlock 78 w:50 h:3>
+Non hai bevuto nulla?
+Allora non preoccuparti.<Close><End of Block>
+<TextBlock 79 w:50 h:3>
+Ehi, ho trovato
+un'ottima cura per
+chi ha bevuto troppo.<Close><End of Block>
+<TextBlock 80 w:36 h:2>
+ 
+ Ricevi Mentsol.<Close><End of Block>
+<TextBlock 81 w:32 h:3>
+Gli uomini sono stupidi.
+Sono così felici con
+quella schifezza!<Close><End of Block>
+<TextBlock 82 w:50 h:4>
+Gli uomini sono così
+deboli. Cercano di
+dimenticare la paura
+dei Mietitori con
+quella schifezza.<Close><End of Block>
+<TextBlock 83 w:33 h:3>
+Sono <Delay 30>il mae~stro<Delay 45>
+Il miglior <Delay 30>mae~stro<Delay 45>
+Il mae~stro <Delay 45>del Tammuz.<Close><End of Block>
+<TextBlock 84 w:40 h:1>
+Hic, non shono shbronzo!<Close><End of Block>
+<TextBlock 85 w:50 h:3>
+Non sono mai stato 
+sulla terraferma.<New>
+Pensaci. Hai sempre
+i piedi sporchi. Come
+si può sopportarlo?<Close><End of Block>
+<TextBlock 86 w:48 h:3>
+Non sbarcherò neanche 
+stavolta. E pensare
+che lo vorrei tanto…<Close><Close><End of Block>

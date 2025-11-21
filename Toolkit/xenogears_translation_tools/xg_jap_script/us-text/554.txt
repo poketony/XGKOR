@@ -1,0 +1,331 @@
+#### 1 ####
+Doc...{wait:FF}
+
+#### 2 ####
+Bart...{wait:FF}
+
+#### 3 ####
+Rico...{wait:FF}
+
+#### 4 ####
+Billy...{wait:FF}
+
+#### 5 ####
+Wiseman...{wait:FF}
+
+#### 6 ####
+Grahf...{clear:C8}
+
+#### 7 ####
+Wait for me!{clear:FF}
+
+#### 8 ####
+Where...{wait:1E}
+Am I?{enter}
+{wait:1E}Who...{wait:1E}
+am I?
+
+#### 9 ####
+This is...{wait:1E}
+my memory?
+
+#### 10 ####
+Everyone...{wait:1E}
+My{wait:14}...{wait:14}memories.
+
+#### 11 ####
+Elly?
+
+#### 12 ####
+Mother?
+
+#### 13 ####
+Who are you?
+
+#### 14 ####
+I'm surprised.
+That's pretty clever.
+
+#### 15 ####
+You are...
+Id?
+
+#### 16 ####
+I misjudged you.
+I didn't expect you,
+the fake personality,
+would create a fourth
+persona.
+
+#### 17 ####
+Fourth persona?
+
+#### 18 ####
+He can't feel anything.
+He's shut up inside your
+ego.{enter}
+The pressing facts and
+truths you won't face.{enter}
+You're afraid of them, so
+you desired to completely
+shut yourself off from
+the outside world.
+
+#### 19 ####
+And so you formed
+a fourth persona.
+A fourth 'Fei'.
+The name...doesn't matter.{enter}
+He's the one on the stage.
+He's the one who's in
+control of our body.{enter}
+But it is a useless
+form of resistance.
+
+#### 20 ####
+Come with me!
+
+#### 21 ####
+Wait!
+What are
+you doing?
+
+#### 22 ####
+He has the key.
+I merely want
+to borrow it.{enter}
+I've got to
+go somewhere.
+
+#### 23 ####
+Are you...
+coming too?
+
+#### 24 ####
+This is as far
+as you can come.
+
+#### 25 ####
+From here on is my world.
+You can't enter.
+
+#### 26 ####
+What do you mean?
+
+#### 27 ####
+You're a subordinate,
+fake persona...
+that's why.
+
+#### 28 ####
+A subordinate
+fake persona?
+
+#### 29 ####
+Yes{wait:05}...{wait:0A}
+He has part of my
+memories from back then{wait:05}...{enter}
+He has sealed away
+the very meaning of
+my existence{wait:05}...{enter}
+my drive{wait:05}...{wait:0A}
+my motivation{wait:05}...{wait:0A}
+my subconscious{wait:05} -Id-.{enter}
+Because of that,
+I became a basic,
+blank persona.{enter}
+And on top of that, I
+constructed a new persona
+based on my experiences
+since then...{enter}
+That is what you are now!
+
+#### 30 ####
+Him? 
+You mean father?
+
+#### 31 ####
+You call him father?{enter}
+He who never did
+anything for you?
+
+#### 32 ####
+It was because of his
+cowardly behavior{wait:05}...{enter}
+If only he had been
+able to protect me{wait:05}...
+
+#### 33 ####
+If he had done that{wait:05}...{wait:0A}
+mother wouldn't have died{wait:05}...
+
+#### 34 ####
+Didn't my mother die
+right after I was born?{enter}
+What really happened to
+my mother?{wait:05} Tell me Id!
+
+#### 35 ####
+You don't need to know.
+You'll only disappear soon.{enter}
+Along with your basic
+persona, the 'coward'.{enter}
+I'll rule my being through
+the power of the Existence.
+
+#### 36 ####
+??
+
+#### 37 ####
+Of course you don't know.
+But it is etched in my
+metempsychotic memory.{enter}
+Your persona is fake, so
+you'll never stand on the
+'stage' of consciousness.{enter}
+You'll never be able to
+take charge of the memories
+from our past lives.
+
+#### 38 ####
+I know the dreams and
+hallucinations! I've
+seen them many times!
+
+#### 39 ####
+Them{wait:05}...{wait:05}
+I showed them to
+you on purpose.{enter}
+To break the seal,
+I chose to weaken
+the power of your
+existence.{enter}
+If your mental
+energy is weakened,{wait:05}
+I can become free
+to do as I wish.
+
+#### 40 ####
+What?
+
+#### 41 ####
+There are still things
+inside you which you
+haven't been shown yet{wait:05}...
+
+#### 42 ####
+Huh?
+
+#### 43 ####
+Someone's coming!
+It's probably your friends.
+They must have followed me.
+
+#### 44 ####
+Where are you going?
+
+#### 45 ####
+I came to reestablish
+contact with the
+Existence.{enter}
+To tie together all the
+threads of your memories
+since ancient times{wait:05}...{wait:05}
+and then cut them off{wait:05}...{enter}
+That is the fate of the
+Contact{wait:05}...{wait:0F} All is ready.
+It's time for the true
+awakening!{enter}
+I will eliminate all
+those who were full of
+hypocrisy from the very
+beginning.
+
+#### 46 ####
+Wait!
+Wait for me, Id!
+
+#### 47 ####
+You just stay
+here and observe!
+
+#### 48 ####
+Yes{wait:0A}...{wait:0A}
+This is inside Id.{enter}
+A world filled with
+hatred and sadness.{enter}
+That's all that's here{wait:05}...{wait:0A}
+Yes{wait:05}...{wait:0A}
+Now I understand, Id.{enter}
+Why you hate the world.{enter}
+Why there is nothing
+inside you{wait:05}...{wait:0A}
+Nothing{wait:05}...{enter}
+Nothing was given to you{wait:05}...{wait:0A}
+Deprived of{wait:05}...{wait:0A}
+all the happy memories{wait:05}...{enter}
+And yet{wait:05}...{wait:0A}
+It feels pleasant{wait:05}...{wait:0A}
+It almost feels good{wait:05}...{enter}
+Now I get it{wait:05}...!{wait:0A}
+There's no need to resist.{enter}
+I was originally just an
+existence that was created
+as a cover to hide Id.{enter}
+So it would be better to
+return to that place{wait:05}...{enter}
+Let's come together{wait:05}...{enter}
+To wipe away
+everything{wait:05}...{wait:0A}
+Including ourselves{wait:05}...
+
+#### 49 ####
+Remember!
+Were you not going
+to help Elly?
+
+#### 50 ####
+Think!
+Aren't you going
+to help Elly?
+
+#### 51 ####
+Remember...!?
+It's for her...Elly!
+Aren't you going to
+help her!?
+
+#### 52 ####
+Think kid, think!
+Aren't you going
+to help Elly?
+
+#### 53 ####
+Remember!?
+Elly still there...
+Still waiting!"
+
+#### 54 ####
+You mustn't forget!
+The one you love...
+Elly!
+You've gotchu help her!
+
+#### 55 ####
+Remember...
+Elly needs
+you now!
+
+#### 56 ####
+Remember!
+Were you not going
+to help Elly?
+
+#### 57 ####
+Elly?{wait:05}
+That's right{wait:05}...!{wait:0A}
+Elly{wait:05}...!
+
+#### 58 ####
+I've got to save Elly!
+

@@ -1,0 +1,128 @@
+<TextBlock 1 w:42 h:2>
+Fei
+"Dove sei, Doc?"<Close><End of Block>
+<TextBlock 2 w:42 h:2>
+Fei
+"C… che succede?"<Close><End of Block>
+<TextBlock 3 w:30 h:4>
+Fei
+"Doc!!<Delay 20>
+Ecco dov'eri!"<Close><End of Block>
+<TextBlock 4 w:44 h:4>
+Fei
+"Tutto a posto, Doc?<Delay 20>
+Cosa diavolo stai
+combinando lassù?"<Close><End of Block>
+<TextBlock 5 w:40 h:3>
+Fei
+"Ok, Doc.
+Ma sbrigati, per favore.<New>
+Si farà buio prima
+che te ne accorga."<Close><End of Block>
+<TextBlock 6 w:34 h:3>
+Fei
+"Bene, buona
+notte, Doc."<Close><End of Block>
+<TextBlock 7 w:50 h:3>
+Fei
+"Cosa c'è, Doc?<New>
+Non c'è nulla di cui
+preoccuparsi!<Delay 20> Beh,
+comunque, ci vediamo
+domani."<Close><End of Block>
+<TextBlock 8 w:38 h:3>
+Shitan
+"Buona notte, Fei.<Delay 20>
+E sii cauto!"<Close><End of Block>
+<TextBlock 9 w:34 h:3>
+Shitan
+"Oh, Fei!<Delay 30> Sono
+felice di vederti."<Close><End of Block>
+<TextBlock 10 w:52 h:4>
+Shitan
+"Pensavo di riparare
+questo Granchio Terrestre.<New>
+Oh, non devi preoccuparti
+per quell'esplosione.<Delay 20>
+Succede sempre.
+Ah, ah, ah…!"<Close><End of Block>
+<TextBlock 11 w:48 h:4>
+Shitan
+"Potresti aspettare
+un attimo?<Delay 20> Ho quasi
+finito.<New>
+Oh, già. C'è qualcosa
+di interessante nel
+ripostiglio<Delay 20>…<New>
+Perché non dai
+un'occhiata!?"<Close><End of Block>
+<TextBlock 12 w:36 h:2>
+Shitan
+"Sì, buona notte."<Close><End of Block>
+<TextBlock 13 w:42 h:3>
+Shitan
+"Oh, Fei!
+Sii cauto,
+ti prego…"<Close><End of Block>
+<TextBlock 14 w:44 h:4>
+Shitan
+"Ah, voglio dire…<Delay 20>
+la strada è pericolosa
+quando è così buio…"<Close><End of Block>
+<TextBlock 15 w:50 h:3>
+Shitan
+"Bene, allora, andiamo?<New>
+Sta finalmente iniziando…<Delay 20>
+Mi chiedo se ce la 
+faremo a tornare vivi…"<Close><End of Block>
+<TextBlock 16 w:44 h:5>
+Ohhh! Non va bene!<Delay 20>
+Perché usano delle parti
+così mediocri?
+Ecco perché inizia
+la loro interferenza…<Close><End of Block>
+<TextBlock 17 w:38 h:1>
+Trovi dell'Aquasol!<Close><End of Block>
+<TextBlock 18 w:40 h:1>
+Trovi l'Anello
+  di Midori!<Close><End of Block>
+<TextBlock 19 w:40 h:2>
+<Perso1> mette via
+l'anello di nascosto.<Close><End of Block>
+<TextBlock 20 w:34 h:2>
+   Trovi dei
+soldi nascosti!<New>
+Ricevuti 120G!<Close><End of Block>
+<TextBlock 21 w:42 h:1>
+Trovi del mangime
+  per uccelli!<Close><End of Block>
+<TextBlock 22 w:38 h:3>
+Ne hai provato un po',<Delay 20>
+ma non ha un gusto
+molto buono…<Close><End of Block>
+<TextBlock 23 w:42 h:1>
+Trovi del mangime
+  per uccelli!<Close><End of Block>
+<TextBlock 24 w:36 h:3>
+L'hai riprovato,<Delay 20>
+ma il gusto non
+è migliorato…<Close><End of Block>
+<TextBlock 25 w:50 h:3>
+"La fronte splendente è
+la prova dell'onestà! Non
+abbatterti, ma guarisci."<Close><End of Block>
+<TextBlock 26 w:48 h:3>
+"Feriti e malati sono
+tutti ben accetti.
+Entrate!
+Ma nessun deceduto,
+per favore."<Close><End of Block>
+<TextBlock 27 w:28 h:3>
+Torni giù?<Delay 20>
+    Sì
+    No<Close><End of Block>
+<TextBlock 28 w:44 h:4>
+Vuoi guardare attraverso
+il telescopio?<Delay 20>
+    Certo
+    No<Close><Close><End of Block>

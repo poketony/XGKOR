@@ -1,0 +1,26 @@
+#### 1 ####
+Fei
+"Hey!
+It's moving!?"{clear:46}
+
+#### 2 ####
+Do you want to go down?{wait:0A}
+    Yes
+    No
+
+#### 3 ####
+You have too many
+{str}.
+
+#### 4 ####
+ 
+Received {str}.
+
+#### 5 ####
+You have too many
+{str}.
+
+#### 6 ####
+ 
+Received {str}.
+

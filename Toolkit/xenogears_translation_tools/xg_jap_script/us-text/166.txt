@@ -1,0 +1,47 @@
+#### 1 ####
+Bart
+(Behind me!?)
+
+#### 2 ####
+Bart
+"{wait:0A}.{wait:0A}.{wait:0A}.{wait:2D}
+What are you suddenly
+attacking me for!?"
+
+#### 3 ####
+Bart
+"No, I don't know 'him'!{enter}
+...But even if I did, I
+sure wouldn't tell you!"
+
+#### 4 ####
+Heh heh, fine.
+Then play dumb!
+
+#### 5 ####
+You, strong...{enter}
+Huh?
+
+#### 6 ####
+You strong? 
+I'm asking you.
+
+#### 7 ####
+Ramsus
+"You there...
+pirate boy!
+Do you know him!?{enter}
+That's right...
+Weren't you with
+that punk, Fei?"
+
+#### 8 ####
+Ramsus
+"Good!
+Then you won't mind if
+I take care of him."
+
+#### 9 ####
+Ramsus
+"I owe 'him' greatly!"
+

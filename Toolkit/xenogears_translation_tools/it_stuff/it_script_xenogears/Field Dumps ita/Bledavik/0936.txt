@@ -1,0 +1,188 @@
+<TextBlock 1 w:38 h:2>
+<Opcode 14 1>Ci sono degli intrusi<Delay 10>
+nella base!<Opcode 2 20><Close><End of Block>
+<TextBlock 2 w:56 h:1>
+<Opcode 14 1>Al momento tre intrusi…<Opcode 2 30><Close><End of Block>
+<TextBlock 3 w:40 h:2>
+<Opcode 14 1>… si stanno dirigendo<Delay 10>
+verso l'area del molo.<Opcode 2 20><Close><End of Block>
+<TextBlock 4 w:56 h:1>
+<Opcode 14 1>I due uomini possono
+essere uccisi…<Opcode 2 30><Close><End of Block>
+<TextBlock 5 w:56 h:1>
+<Opcode 14 1>… ma non ferite la
+ragazza.<Opcode 2 30><Close><End of Block>
+<TextBlock 6 w:32 h:3>
+Elly
+"Sembra che se
+ne siano andati…"<Close><End of Block>
+<TextBlock 7 w:42 h:4>
+Bart
+"Fei, puoi spiegarmi
+come fai a conoscere un
+ufficiale di Geburah?"<Close><End of Block>
+<TextBlock 8 w:18 h:2>
+Fei
+"Beh…"<Close><End of Block>
+<TextBlock 9 w:50 h:4>
+Bart
+"Non so dove tu la abbia
+incontrata, non importa
+come la vuoi mettere…<New>
+… ma lei è un ufficiale
+di Geburah! Non è un
+nemico? Ma dove pensi di
+andare parlando così!?"<Close><End of Block>
+<TextBlock 10 w:54 h:4>
+Elly
+"Sì.
+Forze Speciali del Sacro
+Impero di Solaris…<New>
+… conosciute anche come
+Geburah…<New>
+Io sono il Tenente
+Elhaym Van Houten, della
+Terza Divisione di Assalto
+di Ignis.<New>
+E… mentre ritornavo da
+una missione rivolta alla…<New>
+… cattura del più recente
+modello di Gear da una
+fabbrica di Kislev…<New>
+… Fui attaccata dagli
+inseguitori, Gear di
+Kislev…<New>
+… ed effettuai un
+atterraggio d'emergenza
+nel tuo villaggio…"<Close><End of Block>
+<TextBlock 11 w:10 h:2>
+Fei
+"…"<Close><End of Block>
+<TextBlock 12 w:46 h:4>
+Elly
+"Volevo dirtelo, ma
+non sono riuscita a
+decidermi…<New>
+Quando sentii cosa
+aveva causato nel tuo
+villaggio il mio
+atterraggio d'emergenza…"<Close><End of Block>
+<TextBlock 13 w:24 h:2>
+Fei
+"… Già lo sapevo."<Close><End of Block>
+<TextBlock 14 w:14 h:3>
+Elly
+"!?<Delay 20>
+Fei…"<Close><End of Block>
+<TextBlock 15 w:36 h:3>
+Fei
+"Per caso ti ho
+sentita mentre
+parlavi con Doc."<Close><End of Block>
+<TextBlock 16 w:22 h:2>
+Elly
+"Ma… allora
+perché…?"<Close><End of Block>
+<TextBlock 17 w:48 h:4>
+Fei
+"Fu… tutta colpa mia.
+Ma io ti colpii con i
+miei sentimenti…<New>
+Perdonami."<Close><End of Block>
+<TextBlock 18 w:34 h:2>
+Elly
+"No, non è vero…"<Close><End of Block>
+<TextBlock 19 w:54 h:4>
+Fei
+"Dimenticalo.
+Non potevi farci nulla.
+Avevi i tuoi problemi."<Close><End of Block>
+<TextBlock 20 w:24 h:4>
+Elly
+"Ma, Fei…
+perché stai
+con loro?"<Close><End of Block>
+<TextBlock 21 w:48 h:3>
+Fei
+"Sto collaborando con
+Bart e la sua ciurma.<New>
+Siamo venuti per salvare
+Margie, che era stata
+presa prigionera nel
+castello qui vicino."<Close><End of Block>
+<TextBlock 22 w:20 h:2>
+Elly
+"Capisco…"<Close><End of Block>
+<TextBlock 23 w:40 h:4>
+Bart
+"Ehi! Aspetta un
+attimo! Dove pensi
+di andare?"<Close><End of Block>
+<TextBlock 24 w:50 h:3>
+Elly
+"Volete uscire dal
+castello, giusto?<New>
+Tra tutta questa
+confusione potete
+scappare attraverso la
+porta di lancio Gear."<Close><End of Block>
+<TextBlock 25 w:54 h:4>
+Bart
+"Grande idea! Ma…
+dobbiamo davvero
+crederci?<New>
+Io non ci credo! Lei parla
+dolce, ma probabilmente
+sta pensando di…<New>
+… consegnarci a quel
+vecchio e calvo idiota.<New>
+È un trucco, Fei!"<Close><End of Block>
+<TextBlock 26 w:10 h:2>
+Fei
+"…"<Close><End of Block>
+<TextBlock 27 w:54 h:3>
+Margie
+"Aspetta, Bart!
+Non è una persona cattiva.<New>
+Ha detto che ci avrebbe
+aiutati, perciò seguiamo
+il suo piano."<Close><End of Block>
+<TextBlock 28 w:34 h:4>
+Bart
+"Sei sempre così!<New>
+Non riesci a
+vederlo…!? Non lo
+capisci!? Lei è
+una di Geburah!<New>
+Non essere così
+fottutamente
+fiduciosa!"<Close><End of Block>
+<TextBlock 29 w:38 h:3>
+Margie
+"Non è vero…
+dico bene, Elly?"<Close><End of Block>
+<TextBlock 30 w:46 h:4>
+Bart
+"Oh, sì!<New>
+Guarda dove sei finita
+grazie alla tua grande
+capacità di saper
+giudicare…!"<Close><End of Block>
+<TextBlock 31 w:42 h:3>
+Bart
+"Fei, tu che mi
+dici? Le credi?"<Close><End of Block>
+<TextBlock 32 w:30 h:3>
+Fei
+"Ho deciso tanto
+tempo fa."<Close><End of Block>
+<TextBlock 33 w:16 h:2>
+Elly
+"Fei…"<Close><End of Block>
+<TextBlock 34 w:44 h:3>
+Bart
+"Ah!
+Prima tu, ora lei!<New>
+Per quanto mi riguarda,
+potreste andare a
+buttarvi a mare!"<Close><Close><End of Block>

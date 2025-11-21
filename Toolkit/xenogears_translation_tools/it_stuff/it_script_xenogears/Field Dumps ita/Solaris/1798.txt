@@ -1,0 +1,166 @@
+<TextBlock 1 w:48 h:4>
+Elly
+"Devo portare al sicuro
+mia madre e mio padre
+subito…!"<Close><End of Block>
+<TextBlock 2 w:16 h:3>
+Elly
+"Padre!
+Madre!"<Close><End of Block>
+<TextBlock 3 w:46 h:2>
+Elly
+"Gra… grazie, Hammer."<Close><End of Block>
+<TextBlock 4 w:22 h:2>
+Elly
+"Padre…"<Close><End of Block>
+<TextBlock 5 w:40 h:4>
+Shitan
+"Fei, sbrighiamoci!!
+In questo posto ci
+troveranno facilmente!"<Close><End of Block>
+<TextBlock 6 w:52 h:3>
+Shitan
+"Ascoltate, non abbiamo
+tempo da perdere."<Close><End of Block>
+<TextBlock 7 w:52 h:4>
+Shitan
+"Per non dare troppo
+nell'occhio, dovremmo
+dividerci in due gruppi.<New>
+Fei, tu hai già fatto
+tanto…<New>
+… ma vorrei che tu andassi
+avanti per primo e che
+portassi con te altre
+due persone.<New>
+Vai a sudovest di qui e
+attraversa due ponti di
+contatto mobile.<New>
+Lì troverai un hangar
+che vi condurrà
+all'esterno.<New>
+Ci incontreremo alla
+passerella lì vicino.<New>
+Se parli ai cubi di
+memoria blu, potrai
+contattare gli altri
+membri del gruppo.<New>
+Dunque potrai cambiare
+il tuo gruppo, decidendo
+le persone da portare."<Close><End of Block>
+<TextBlock 8 w:50 h:3>
+Shitan
+"… Va bene.
+La prego di
+non strafare."<Close><End of Block>
+<TextBlock 9 w:34 h:3>
+Bart
+"Fialiamocela,
+finché possiamo!"<Close><End of Block>
+<TextBlock 10 w:44 h:4>
+Billy
+"Non abbassare la
+guardia prima che
+tutto sia finito.<New>
+Dobbiamo tornarcene
+a casa!!"<Close><End of Block>
+<TextBlock 11 w:54 h:4>
+Rico
+"Quei coglioni di Solaris…
+Spero che abbiano imparato
+la lezione."<Close><End of Block>
+<TextBlock 12 w:50 h:3>
+Rico
+"Dovresti ringraziare
+Hammer!<New>
+È lui che è andato a
+prendere i tuoi genitori
+al momento giusto!
+Dico bene, Hammer!?"<Close><End of Block>
+<TextBlock 13 w:36 h:4>
+Esmeralda
+"Fei è Kim,
+andiamo insieme!
+Andiamo!"<Close><End of Block>
+<TextBlock 14 w:40 h:3>
+Esmeralda
+"Oh, è Fei!!
+Fei è Kim è qui!!"<Close><End of Block>
+<TextBlock 15 w:46 h:4>
+<Chu-Chu>
+"Non sono in forma
+gigante…<New>
+Questo vuol dire che
+per esserlo devo
+desiderarlo."<Close><End of Block>
+<TextBlock 16 w:40 h:3>
+Erich
+"Fei, adesso noi
+siamo uguali a te."<Close><End of Block>
+<TextBlock 17 w:50 h:4>
+Erich
+"Ci piacerebbe ringraziare
+anche te.<New>
+Non avrei mai pensato che
+avrei rivisto ancora mia
+figlia…<Delay 30> Grazie, Hammer."<Close><End of Block>
+<TextBlock 18 w:48 h:4>
+Erich
+"Io andrò per primo
+all'hangar, e prenderò
+un mezzo di trasporto.<New>
+Solaris è in uno stato
+di confusione totale.<New>
+Così, se vado da solo,
+posso usare la mia
+influenza."<Close><End of Block>
+<TextBlock 19 w:30 h:2>
+Erich
+"Sì, lo so."<Close><End of Block>
+<TextBlock 20 w:32 h:3>
+Erich
+"Elly, Medena…
+Ci vediamo dopo."<Close><End of Block>
+<TextBlock 21 w:42 h:4>
+Medena
+"Fei, adesso siamo
+tutti sulla stessa
+barca."<Close><End of Block>
+<TextBlock 22 w:16 h:2>
+Medena
+"Elly!!"<Close><End of Block>
+<TextBlock 23 w:42 h:3>
+Medena
+"Caro… Ti
+prego, stai
+attento…"<Close><End of Block>
+<TextBlock 24 w:50 h:3>
+Hammer
+"P… presto, fuggiamo…<Space 1>
+Sì, fuggiamo.<New>
+Sì, giusto!"<Close><End of Block>
+<TextBlock 25 w:46 h:4>
+Hammer
+"Meglio prepararsi a
+dovere prima della fuga…<New>
+Considerala l'ultima
+svendita di Hammer!"
+     <Opcode 1 255>Oggetti!
+     Accessori!<Close><End of Block>
+<TextBlock 26 w:34 h:3>
+Hammer
+"S… sì…<Delay 32>
+Sì,<Delay 10> giusto…"<Close><End of Block>
+<TextBlock 27 w:54 h:3>
+Jessie
+"Questo paese una volta
+non era così… Credo…<New>
+Beh, forse ero io ad
+essere troppo giovane."<Close><End of Block>
+<TextBlock 28 w:50 h:4>
+Jessie
+"Ho spento tutti gli
+allarmi quando ho
+distrutto il portale.<New>
+Ma è comunque pericoloso.
+State attenti!"<Close><Close><End of Block>

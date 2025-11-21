@@ -1,0 +1,86 @@
+<TextBlock 1 w:26 h:1>
+<Opcode 1 255>Mamma, aiutami!<Opcode 2 5><Close><End of Block>
+<TextBlock 2 w:40 h:1>
+<Opcode 1 255>Cosa state facendo!?<Opcode 2 5><Close><End of Block>
+<TextBlock 3 w:6 h:1>
+<Opcode 1 255>No!<Opcode 2 5><Close><End of Block>
+<TextBlock 4 w:10 h:1>
+<Opcode 1 255>Nooo!<Opcode 2 5><Close><End of Block>
+<TextBlock 5 w:34 h:2>
+<Opcode 14 1>Fu una scena…<Delay 10>
+    infernale!<Delay 100><Close><End of Block>
+<TextBlock 6 w:50 h:4>
+<Opcode 14 1>Mentre papà era lontano
+da casa, <Delay 5>'Fei' fu portato
+in un luogo con macchine
+misteriose.<Close><End of Block>
+<TextBlock 7 w:50 h:2>
+<Opcode 14 1>Là dentro c'era molta
+gente stranamente
+vestita.<Close><End of Block>
+<TextBlock 8 w:54 h:4>
+<Opcode 14 1>Molti tipi di sonde
+furono inserite nel corpo
+di 'Fei', come inizio di
+una serie di esperimenti.<New>
+Questo<Delay 20> causò a Fei
+molto dolore.<Close><End of Block>
+<TextBlock 9 w:52 h:2>
+<Opcode 14 1>Mamma <Delay 10>non andò in
+suo soccorso.<New>
+Il giovane 'Fei' non
+aveva modo di resistere.<New>
+Ma fu capace di
+sopportare.<Close><End of Block>
+<TextBlock 10 w:36 h:3>
+<Opcode 14 1>Alla fine,<Delay 10> gli
+esperimenti divennero
+intollerabili.<Close><End of Block>
+<TextBlock 11 w:46 h:3>
+<Opcode 14 1>Molta gente si riunì
+attorno a 'Fei'.<New>
+Queste persone avevano
+un'alta compatibilità
+con i Contenitori
+dell'Anima.<New>
+Questo contatto psichico
+con Fei era per forzarlo
+a destarsi.<Close><End of Block>
+<TextBlock 12 w:50 h:3>
+<Opcode 14 1>Ma nessuno poté
+mettersi in contatto
+con 'Fei'.<New>
+Il potere estratto da
+'Fei', a dispetto della
+sua volontà, distrusse
+tutti loro.<Close><End of Block>
+<TextBlock 13 w:44 h:3>
+È incredibile!
+Mamma permise
+tutto questo…?<New>
+Contatto psichico?
+Cosa vuoi dire con
+'destare' me?<Close><End of Block>
+<TextBlock 14 w:54 h:3>
+<Opcode 14 1>Per destare dio, ogni
+cosa deve essere fatta
+nel giusto ordine…<New>
+… senza sbagliare…<New>
+Le cose divise nel passato
+devono diventare di nuovo
+complete ed uniche…<Close><End of Block>
+<TextBlock 15 w:42 h:2>
+Morirono innumerevoli
+persone.<Close><End of Block>
+<TextBlock 16 w:44 h:4>
+<Opcode 14 1>Uomini,<Delay 30> donne,<Delay 30>
+i vecchi,<Delay 30> i giovani,<Delay 30>
+anche i mutanti…<New>
+Sofferenza, dolore,
+paura, estasi…<Delay 10>
+Una varietà di emozioni
+e di parole senza fine…<New>
+E caddero intorno a 
+Fei come marionette
+a cui sono stati
+tagliati i fili…<Close><Close><End of Block>

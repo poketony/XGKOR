@@ -1,0 +1,141 @@
+#### 1 ####
+Fei
+"What're you going to do
+to me...?"
+
+#### 2 ####
+As I suspected.
+You know nothing...!
+
+#### 3 ####
+Fei
+"Doc!! {wait:0A}Citan,
+why are you here!?"
+
+#### 4 ####
+Citan
+"I saw Bart's image on
+the Birdvision in the
+dedication."
+
+#### 5 ####
+Fei
+"You saw that too, doc?"
+
+#### 6 ####
+Citan
+"Yes.{wait:0A} But I did not
+see either of you.{enter}
+Soon after, I heard
+there was an intruder
+at the 2nd floor of
+the Arebato Grounds.{enter}
+I suspected
+it was probably you
+so I waited here.{enter}
+After that,
+I did not hear anything
+about the capture of
+any intruders."
+
+#### 7 ####
+Fei
+"How did you know I was
+going to be here?"
+
+#### 8 ####
+Citan
+"The best possible way to
+sneak into the Palace
+is through the dust chute.{enter}
+And to get back to
+the 3rd floor, one must
+pass through this
+observation tower.{enter}
+I have always
+been thinking{wait:05}...{wait:05}{enter}
+Do you think you could
+possibly be a little more
+subtle?{enter}
+When infiltrating
+enemy ground, the most
+basic thing to do is to
+be stealthy.{enter}
+With the amount of
+activity you have stirred
+up, you could even wake
+up the dead."
+
+#### 9 ####
+Fei
+"Well, I was actually
+trying to be subtle..."
+
+#### 10 ####
+Citan
+"By the way, what
+happened to Elly?{wait:0A}
+Was she not with you?"
+
+#### 11 ####
+Fei
+"Elly...{wait:0A} She went back
+home.{enter}
+She really shouldn't have
+any relation with us land
+dwellers.{enter}
+She already has such
+wonderful parents..."
+
+#### 12 ####
+Citan
+"I see...{wait:0A}{enter}
+Yes. It may have been
+better for her that
+way. Let us head for
+the dust chute then."
+
+#### 13 ####
+Yeah!{clear:1E}
+
+#### 14 ####
+Citan
+"Now Fei,{wait:0A} stay very close
+to me.{enter}
+That way it does not pick
+up on your presence."
+
+#### 15 ####
+?{wait:05}?
+
+#### 16 ####
+Fei
+"Doc, hold on. 
+How can you get 
+past here?{enter}
+According to Elly, only
+1st Class citizens
+and military personnel
+can pass through...?"
+
+#### 17 ####
+Citan
+"Uh!?{wait:14} Well{wait:0A}...{wait:0A}that is...{enter}
+P,{wait:0A} probably they have not
+deleted my ID from the days
+I was in the military {enter}
+and it is still stored
+in the data bank."
+
+#### 18 ####
+My, how the Solaris
+monitors are sloppy...{wait:0A}
+Hahaha...
+
+#### 19 ####
+Fei
+"{wait:05}...{wait:05}??"
+
+#### 20 ####
+
+

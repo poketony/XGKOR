@@ -1,0 +1,94 @@
+#### 1 ####
+{fast:FF}Mom, help me!{clear:05}
+
+#### 2 ####
+{fast:FF}What are you doing!?{clear:05}
+
+#### 3 ####
+{fast:FF}No!{clear:05}
+
+#### 4 ####
+{fast:FF}Nooo!{clear:05}
+
+#### 5 ####
+{slow:01}It was a scene...{wait:0A}
+    from hell!{wait:64}
+
+#### 6 ####
+{slow:01}When father was away from
+home, {wait:05}'Fei' was taken to
+a place with mysterious
+machines.
+
+#### 7 ####
+{slow:01}Inside there were many 
+strangely dressed people.
+
+#### 8 ####
+{slow:01}Many types of probes were
+injected into 'Fei's' body,
+as the start to some kind
+of experiments.{enter}
+The tests{wait:14} caused Fei much
+pain.
+
+#### 9 ####
+{slow:01}Mother {wait:0A}didn't come
+to his assistance.{enter}
+Young 'Fei' had no
+way of resisting.{enter}
+But he was able to endure.
+
+#### 10 ####
+{slow:01}Eventually,{wait:0A}
+the experiments 
+became unbearable.
+
+#### 11 ####
+{slow:01}Many people gathered
+around 'Fei'.{enter}
+These people had a high
+compatibility with the
+Anima Relics.{enter}
+This psychic contact
+with Fei was to force
+him to awaken.
+
+#### 12 ####
+{slow:01}But no one could make
+contact with 'Fei'.{enter}
+The power drawn out of
+'Fei', regardless of his
+will, destroyed them all.
+
+#### 13 ####
+This is unbelieveable!
+Mother allowed this to
+take place...?{enter}
+Psychic contact?
+What do you mean by
+'awaken' me?
+
+#### 14 ####
+{slow:01}To awaken god, everything
+had to be in perfect order,
+with nothing lacking...{enter}
+Things divided in the past
+must become one complete
+whole again...
+
+#### 15 ####
+Countless people died
+before Fei's eyes.
+
+#### 16 ####
+{slow:01}Men,{wait:1E} women,{wait:1E}
+the old,{wait:1E} the young,{wait:1E}
+even demi-humans...{enter}
+Suffering, grief,
+fear, ecstasy...{wait:0A}
+A variety of emotions
+and words lingered...{enter}
+And tumbled about Fei 
+like broken dolls...
+

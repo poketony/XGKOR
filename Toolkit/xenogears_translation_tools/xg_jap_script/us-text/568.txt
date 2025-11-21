@@ -1,0 +1,265 @@
+#### 1 ####
+Lacan
+"{wait:05}...{wait:05}What did you say?{wait:0F}{enter}
+What's the name of the 
+teacher you're studying 
+under?"
+
+#### 2 ####
+Krelian
+"Melchior"
+
+#### 3 ####
+Lacan
+"But still,
+why are you studying?"
+
+#### 4 ####
+Krelian
+"Sophia told me the best 
+way to calm the heart is
+to read a book{wait:05}...{wait:05}{enter}
+It's a good opportunity.
+And it has sparked my
+interest in studying."
+
+#### 5 ####
+Krelian
+"{wait:05}...{wait:05}Now,{wait:0F}
+I'm reading 3 books 
+a day."
+
+#### 6 ####
+Lacan
+"If it can change,
+it will."
+
+#### 7 ####
+Lacan
+"{wait:05}...{wait:05}The art of war,{wait:0F}
+that's all you think 
+about{wait:05}...{wait:05}..."
+
+#### 8 ####
+Krelian
+"Hey, {wait:05}that's mean.{wait:0F}
+You know, I'm the best of
+all of his students."
+
+#### 9 ####
+Lacan
+"I see{wait:05}...{wait:05}...{wait:0F}{enter}
+That's great,{wait:05}
+it sounds like you found 
+something to put your 
+heart into{wait:05}...{wait:05}..."
+
+#### 10 ####
+Krelian
+"What do you mean?"
+
+#### 11 ####
+Krelian
+"You have something.{enter}
+Your pictures are 
+splendid.{wait:0F}
+You should be 
+thankful{wait:05}...{wait:05}..."
+
+#### 12 ####
+Krelian
+"Sophia first showed me
+that books are the best
+way to calm the heart{wait:05}...{enter}
+...{wait:05}and now I'm hooked on
+reading."
+
+#### 13 ####
+Krelian
+"I'm not trying to brag{wait:05}...{wait:0F}
+but I've learned a lot of
+things I never knew before.{enter}
+Lately, I've been reading
+this."
+
+#### 14 ####
+Lacan
+"What is it?"
+
+#### 15 ####
+Krelian
+"Something I borrowed 
+from Melchior.{enter}
+It's about a form of
+molecular engineering{wait:05}...{wait:05}
+nanotechnology.{enter}
+I believe it's a book found
+in the ancient ruins of the
+Zeboim civilization.{enter}
+It's a copy of someone's
+research report,{wait:05} but it's
+incomplete.{enter}
+I think there were even
+more wonderful things
+written in it, but we'll
+never know now{wait:05}..."
+
+#### 16 ####
+Margie
+"Elly.{wait:1E}
+Are you okay
+about this?{enter}
+Don't you want
+to be with him?"
+
+#### 17 ####
+Elly
+"Yes{wait:05}...{wait:05}
+But, {wait:0A}it's because
+I believe in him.{enter}
+Just being close to a
+person is not in itself
+an indication of love,
+is it?"
+
+#### 18 ####
+Margie
+"But{wait:05}...{wait:05}
+men are selfish{wait:05}...{enter}
+When something big happens,{wait:0A}
+they say{wait:05}...{wait:0A}
+ 'It's too dangerous{wait:05}...{wait:05}
+  You can't come!'{enter}
+They treat women like we
+are weaklings."
+
+#### 19 ####
+Margie
+"Although, it is true
+I can't help Bart and
+friends much anymore{wait:05}..."
+
+#### 20 ####
+Elly
+"That's not true.{wait:0F}
+Everyone, {wait:05}wants someone 
+special waiting for them.{enter}
+Someone who will protect
+a place they can return
+to.{enter}
+If you don't have that
+peace of mind, then you
+would not be able to get
+anything done{wait:05}..."
+
+#### 21 ####
+Elly
+"Men try to tough it out
+as much as they can, and
+then some...{enter}
+They're cute the way they
+do that, aren't they?"
+
+#### 22 ####
+Margie
+"Yeah,{wait:0F}
+you're right{wait:05}..."
+
+#### 23 ####
+Elly
+"Anyway, we have things
+we have to do too, now.{enter}
+And,{wait:05} while we do them,{wait:05}
+let's pray that everyone
+comes back safely."
+
+#### 24 ####
+Margie
+"To god?"
+
+#### 25 ####
+Elly
+"No{wait:05}...{enter}
+To your own innermost
+feelings that everyone
+believes in{wait:05}..."
+
+#### 26 ####
+Elly
+"What's wrong?"
+
+#### 27 ####
+Margie
+"I knew it{wait:05}...{wait:0F}
+Yes,{wait:05} that must be it!"
+
+#### 28 ####
+Elly
+"What?"
+
+#### 29 ####
+Margie
+"Elly, it's like everyone
+says!{wait:0A} You must be a
+reincarnation of Sophia!{enter}
+You have no way of knowing
+the Nisan Sect's teachings,
+but what you say{wait:05}...{enter}
+...{wait:05}well, it's exactly the
+same as what Sophia always
+said."
+
+#### 30 ####
+Elly
+"Yes{wait:05}...{wait:1E}
+That might be it."
+
+#### 31 ####
+Elly
+"The first time I
+visited here I had the
+most amazing feeling."{clear:96}
+
+#### 32 ####
+Elly
+"Familiar{wait:05}...{wait:0F}
+Sad{wait:05}...{wait:0F}{enter}
+Like I had visited here
+many times in my dreams{wait:05}..."
+
+#### 33 ####
+Elly
+"I know where each room
+is{wait:0A} and what's in them.{enter}
+I just know I must have
+been here in the distant
+past{wait:05}..."
+
+#### 34 ####
+Elly
+"Before, if you had spoken
+of this I'd have brushed
+it off with a laugh.{enter}
+But now{wait:05}..."
+
+#### 35 ####
+Now, I can more or
+less believe it.
+
+#### 36 ####
+Elly
+"The things I couldn't
+do then...{enter}
+I'm probably trying to
+do now{wait:05}..."
+
+#### 37 ####
+Margie
+"Things you couldn't
+do{wait:05}...?"{clear:96}
+
+#### 38 ####
+Elly
+"{wait:05}...{wait:05}Yes.
+Things I couldn't do{wait:05}..."
+

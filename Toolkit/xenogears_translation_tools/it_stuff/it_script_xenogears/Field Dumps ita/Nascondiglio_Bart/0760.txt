@@ -1,0 +1,69 @@
+<TextBlock 1 w:6 h:1>
+…<Close><End of Block>
+<TextBlock 2 w:36 h:4>
+Bart
+"Cazzo!<Delay 10> Che problemi
+ha Fei?<New>
+Tento di diventare
+suo amico e tutto
+d'un tratto ha uno
+scatto d'ira…"<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+Bart
+"Beh, sembra che abbia
+molti pensieri per la
+testa.<Delay 10><New>
+Non voglio obbligarlo.<New>
+Ma sarebbe divertente
+combattere<Delay 5>…<Delay 20> 
+Forse glielo
+richiederò."<Close><End of Block>
+<TextBlock 4 w:42 h:2>
+Se mi nascondo
+dentro l'Yggdrasil…<Close><End of Block>
+<TextBlock 5 w:20 h:3>
+Bart
+"Cosa!?
+Esci!!"<Close><End of Block>
+<TextBlock 6 w:10 h:2>
+Fei
+"…"<Close><End of Block>
+<TextBlock 7 w:42 h:3>
+Bart
+"Arrgghh, 
+che dolore!"<Close><End of Block>
+<TextBlock 8 w:36 h:3>
+Fei
+"Questa è<Delay 5>… la
+benda di Bart!?"<Close><End of Block>
+<TextBlock 9 w:50 h:3>
+Fei
+"Nella foto pare ci
+sia Bart quando era
+un ragazzino…<New>
+La ragazza accanto
+a lui…<Delay 10> deve
+essere Margie!!"<Close><End of Block>
+<TextBlock 10 w:50 h:4>
+Fei
+"In entrambe le foto
+sembra esserci Bart
+quando era un bambino…<New>
+La ragazza accanto a lui…<Delay 10>
+Deve essere quella di cui
+stavano parlando!"<Close><End of Block>
+<TextBlock 11 w:50 h:3>
+Fei
+"Di chi è questa foto? <Delay 30>
+Un ragazzino ed una
+bambina…"<Close><End of Block>
+<TextBlock 12 w:4 h:1>
+!!<Opcode 2 30><Close><End of Block>
+<TextBlock 13 w:3 h:1>
+ <Close><End of Block>
+<TextBlock 14 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 15 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><Close><End of Block>

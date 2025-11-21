@@ -1,0 +1,20 @@
+<TextBlock 1 w:46 h:3>
+Oh no, il mio portafogli…<New>
+Proprio ora che avevo il 
+denaro per riparare il mio
+Gear, l'ho perso.<New>
+Che cosa farò?<Close><End of Block>
+<TextBlock 2 w:50 h:3>
+Bah! Questa dannata Chiesa!<New>
+Solo perché sa riparare
+i Gear pensa di poter
+chiedere qualsiasi prezzo.<New>
+Come pensa che possiamo
+pagare una tale cifra?<Close><End of Block>
+<TextBlock 3 w:44 h:2>
+È sempre ubriaco! È
+davvero un buono a nulla!<Close><End of Block>
+<TextBlock 4 w:56 h:3>
+Gli ho detto di non annegare
+nei suoi dispiaceri, ma non
+ha voluto ascoltarmi…<Close><Close><End of Block>

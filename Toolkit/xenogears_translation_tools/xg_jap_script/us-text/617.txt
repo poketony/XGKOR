@@ -1,0 +1,73 @@
+#### 1 ####
+Elly
+"!!
+Ugh..."
+
+#### 2 ####
+Elly
+"Guh...Fei...
+I, I won't ever
+let go!"
+
+#### 3 ####
+Elly
+"Uuaaahhh...{enter}
+Fei!
+Please!!"
+
+#### 4 ####
+Elly
+"...{wait:1E}Fei."
+
+#### 5 ####
+Elly
+"...Yes.{wait:3C}{enter}
+If that is what will
+satisfy you, then kill
+me.{wait:1E} Now..."
+
+#### 6 ####
+Elly
+"Fei...
+Please, return to
+the real Fei!!"
+
+#### 7 ####
+Id
+"Heh... You.
+You've come to
+die, eh?"
+
+#### 8 ####
+Id
+"Hmph...{wait:1E}
+Good girl...{wait:1E}
+Now, die!"
+
+#### 9 ####
+Id
+"!?{wait:1E}
+Let go..."
+
+#### 10 ####
+Id
+"Errgaah!!{wait:1E}
+W, what!?"
+
+#### 11 ####
+Id
+"Tch...{wait:3C}
+...{wait:1E}This woman{wait:1E}...
+I knew it{wait:1E}..."
+
+#### 12 ####
+Id
+"...{wait:1E} Damn... it...{wait:1E}
+He's{wait:1E}...{wait:1E}
+awake{wait:1E}...ning{wait:1E}..."
+
+#### 13 ####
+Fei
+"...{wait:1E} Uuuhhh{wait:1E}...{wait:1E}
+El{wait:1E}...{wait:1E}ly{wait:1E}..."
+

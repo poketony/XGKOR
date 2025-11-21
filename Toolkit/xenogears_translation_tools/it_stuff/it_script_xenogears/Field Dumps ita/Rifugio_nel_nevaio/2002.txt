@@ -1,0 +1,91 @@
+<TextBlock 1 w:36 h:3>
+Allora è qui che
+tengono prigioniero
+Fei!?<Delay 20> Se lo merita!<Close><End of Block>
+<TextBlock 2 w:54 h:4>
+Dan
+"Adesso prego davanti alla
+sua faccia piangente, come
+se fosse un idolo!<New>
+Eh eh… Col cavolo però
+che lo farei!"<Close><End of Block>
+<TextBlock 3 w:18 h:2>
+… Gah!<Delay 20>
+Argh…!!<Opcode 2 80><Close><End of Block>
+<TextBlock 4 w:24 h:2>
+Ba… basta…<Delay 20><Space 1>
+Ba… sta!!<Opcode 2 80><Close><End of Block>
+<TextBlock 5 w:24 h:2>
+D a n…<Delay 20>
+Mi do ri…!<Opcode 2 80><Close><End of Block>
+<TextBlock 6 w:26 h:3>
+Cor…<Delay 20> rete…<Delay 30><Space 1>
+Presto…<Delay 20>
+Fug… gite!!<Opcode 2 30><Close><End of Block>
+<TextBlock 7 w:36 h:4>
+Dan
+"Ahh…!<Delay 20>
+Ma che cos'è…!?"<Close><End of Block>
+<TextBlock 8 w:40 h:3>
+Dan
+"…<Delay 20>
+È terribile…"<Close><End of Block>
+<TextBlock 9 w:34 h:4>
+Dan
+"Com'è possibile… qui
+stiamo esagerando…<New>
+È ancora… vivo…?<Delay 20>
+Ma come puoi
+essere vivo!?<New>
+Anche tu sei un
+umano, vero!?
+Merda…!"<Close><End of Block>
+<TextBlock 10 w:26 h:4>
+Dan
+"…<Delay 30>
+Fei…<Delay 20>
+Oh, Fei…!?"<Close><End of Block>
+<TextBlock 11 w:20 h:2>
+Dan
+"Eh…!?"<Close><End of Block>
+<TextBlock 12 w:52 h:4>
+Dan
+"Midori, sei tu…<Delay 20>
+Fiuh… Non spaventarmi
+in quel modo!"<Close><End of Block>
+<TextBlock 13 w:26 h:4>
+Dan
+"Piangere…? Chi
+è che piange?<Delay 20>
+…!?"<Close><End of Block>
+<TextBlock 14 w:40 h:3>
+Dan
+"Vuoi dire che il
+nostro amico Fei
+sta piangendo?"<Close><End of Block>
+<TextBlock 15 w:40 h:2>
+Dan
+"Che vuoi dire!?"<Close><End of Block>
+<TextBlock 16 w:28 h:3>
+Dan
+"Uhoa…!
+Ma cosa…!?"<Close><End of Block>
+<TextBlock 17 w:14 h:2>
+Dan
+"Fei!?"<Close><End of Block>
+<TextBlock 18 w:24 h:2>
+Dan
+"Ahhh…!?"<Opcode 2 20><Close><End of Block>
+<TextBlock 19 w:18 h:1>
+Piangere…<Close><End of Block>
+<TextBlock 20 w:42 h:3>
+Midori
+"Rabbia…<Delay 20>
+Dolore…<New>
+Si sveglierà presto…<Delay 20>
+Lo sta chiamando…"<Close><End of Block>
+<TextBlock 21 w:46 h:2>
+Non c'è nulla qui.<Delay 20> Se n'è
+già andato da tempo.<New>
+Però… wow, fare un
+buco così grande…<Close><Close><End of Block>

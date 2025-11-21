@@ -1,0 +1,129 @@
+#### 1 ####
+Barrier Terminated{clear:3C}
+
+#### 2 ####
+Citan
+"I knew it! Jesiah is
+planning on using it!
+He must be stopped!{enter}
+Billy, can you hear me!?{wait:1E}
+Billy!?...{wait:2D} No good...
+There is no response!!"
+
+#### 3 ####
+Citan
+"Too late...!
+Billy!{enter}
+That is a weapon that
+uses its pilot as the
+warhead!"
+
+#### 4 ####
+Billy
+"Father..."
+
+#### 5 ####
+Billy
+"What!?
+Th, then,
+father is...{enter}
+...Oh my {wait:1E}god!!"
+
+#### 6 ####
+Jessie
+"Billy, if we merge
+our Gears
+together...{enter}
+...then we can break
+through that barrier
+with our combined
+attack.{enter}
+I'm gonna borrow your
+shoulder for a moment,
+so start aiming now."
+
+#### 7 ####
+Jessie
+"Billy, you know
+now don't you? {enter}
+Stein's teachings
+were all a deception.{enter}
+That fabricated faith was
+just a worldly system for
+compensating those people
+with fragile souls.{enter}
+But, faith and god aren't
+things which are given to
+you from others, right?{enter}
+They are things you
+have to discover
+within yourself,
+and by yourself.{enter}
+Things that cannot
+be put into words,
+things that cannot
+be expressed...{enter}
+Isn't that what god is
+all about? 'Question
+not thy god, for thy
+god doth not respond.'"
+
+#### 8 ####
+Jessie
+"The reason I taught you
+how to use a gun as a 
+child was to save people.{enter}
+You say that guns
+are just tools for
+killing people.
+But you are wrong.{enter}
+'Guns' don't kill people.
+'People' kill people.{enter}
+Have you ever looked at
+the expressions on the
+faces of those reapers
+you have destroyed?{enter}
+It is an excruciating
+process to be turned
+into a reaper.{enter}
+To ease their torturous
+pain, they seek human
+blood, and attack people
+in order to get it.{enter}
+But, that does not
+vanquish the true pain
+within their hearts.{enter}
+There is only one way to
+be saved from the pain.
+That is by termination.{enter}
+Didn't all those reapers
+put out of their misery
+by you have peaceful
+looks on their faces?{enter}
+Your gun saved those
+people who were turned
+into reapers. It's not
+something anyone can do.{enter}
+The faith that enabled
+you to accomplish that
+was no deception...
+God exists within you!"
+
+#### 9 ####
+Jessie
+"Alright, now!
+Let's go,
+Billy, go!"
+
+#### 10 ####
+Jessie
+"Let's wrap this up once
+and for all, eh Stein?{enter}
+But, I want you to know
+that you aren't gonna
+see Racquel when you
+die...!{enter}
+That's because your
+destination is going
+to be hell!"
+

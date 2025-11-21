@@ -1,0 +1,798 @@
+#### 1 ####
+Fei
+"Isn't it locked?"
+
+#### 2 ####
+Fei
+"A really bright light
+just shot out.{enter}
+...{wait:1E}Did you just do
+something you shouldn't
+have done?"
+
+#### 3 ####
+Error
+This character is
+not in Jasper.
+Please report this bug.
+
+#### 4 ####
+Fei
+"Don't try and fool me!{enter}
+What the heck did you
+just do?"
+
+#### 5 ####
+Elly
+"I think it's locked."
+
+#### 6 ####
+Elly
+"A really bright light
+just shot out.{enter}
+...{wait:1E}Did you just do
+something you shouldn't
+have done?"
+
+#### 7 ####
+Error
+This character is
+not in Jasper.
+Please report this bug.
+
+#### 8 ####
+Error
+This character is
+not in Jasper.
+Please report this bug.
+
+#### 9 ####
+Error
+This character is
+not in Jasper.
+Please report this bug.
+
+#### 10 ####
+Citan
+"I assume it is locked."
+
+#### 11 ####
+Citan
+"What was that bright
+beam of light just now?{enter}
+...{wait:1E} I wonder what its
+heading was?"
+
+#### 12 ####
+Error
+This character is
+not in Jasper.
+Please report this bug.
+
+#### 13 ####
+Error
+This character is
+not in Jasper.
+Please report this bug.
+
+#### 14 ####
+Error
+This character is
+not in Jasper.
+Please report this bug.
+
+#### 15 ####
+Billy
+"Is it locked?"
+
+#### 16 ####
+Billy
+"That was from a beam
+cannon..."
+
+#### 17 ####
+Rico
+"It's probably locked."
+
+#### 18 ####
+Rico
+"That beam cannon...
+This ain't good!"
+
+#### 19 ####
+{name:07:チュチュ}
+"It's probably
+locked."
+
+#### 20 ####
+{name:07:チュチュ}
+"You're really acting
+absent-minded chuday!"
+
+#### 21 ####
+Emeralda
+"..."
+
+#### 22 ####
+Emeralda
+(Hmm...Something doesn't
+feel right.)
+
+#### 23 ####
+Maria
+"..."
+
+#### 24 ####
+Emeralda
+(Hmm...Something doesn't
+feel right.)
+
+#### 25 ####
+Bartholomew!
+
+#### 26 ####
+Bartholomew!
+
+#### 27 ####
+Fei
+"Hey aren't you...{wait:1E} the
+tool guy!?"
+
+#### 28 ####
+Bart
+"You're OK."
+
+#### 29 ####
+Yes, my wife and I
+escaped together.
+
+#### 30 ####
+Bart
+"So, what're you
+doing here!?"
+
+#### 31 ####
+Yeah well, when I
+returned to town, I
+heard you were deep
+in the mausoleum...{enter}
+I thought to myself...{wait:1E}
+'Something's going on!'.{enter}
+I couldn't just stand
+there...so I came here.
+
+#### 32 ####
+Bart
+"It's dangerous, you
+better go back."
+
+#### 33 ####
+Oh no, I've come this
+far, I'm not going back!{enter}
+I'm gonna stay and help you.
+
+#### 34 ####
+    Item
+    Accessory
+    Nevermind
+
+#### 35 ####
+Hang in there Bartholomew!{wait:1E}
+The same for all of you!
+
+#### 36 ####
+Hang in there Bartholomew!{wait:1E}
+The same for all of you!
+
+#### 37 ####
+Hang in there Bartholomew!{wait:1E}
+The same for all of you!
+
+#### 38 ####
+You can't hold anymore
+{str}.
+
+#### 39 ####
+Received {str}.
+
+#### 40 ####
+Bart
+"How much energy's left?"
+
+#### 41 ####
+Rico
+"By the way, how many
+more rounds are there?"
+
+#### 42 ####
+Billy
+"I assume this beam
+cannon doesn't have
+unlimited ammunition?"
+
+#### 43 ####
+{name:07:チュチュ}
+"Can you fire a lot?"
+
+#### 44 ####
+Maria
+"About how many reloads
+do we have?"
+
+#### 45 ####
+Bart
+"Hey, wasn't there a huge
+tank in one of the rooms
+we didn't come down in?"
+
+#### 46 ####
+Rico
+"Yeah, wasn't there a
+giant tank-thing layin'
+'round the other area?"
+
+#### 47 ####
+Error.
+Billy is not in the lead
+position.
+
+#### 48 ####
+{name:07:チュチュ}
+"There was a big round
+thing left in there."
+
+#### 49 ####
+Maria
+"There was a large tank-
+like object in the center
+of the other room."
+
+#### 50 ####
+Bart
+"...that means there's
+only 3 shots left."
+
+#### 51 ####
+Rico
+"...Meaning we've
+got 3 shots."
+
+#### 52 ####
+Billy
+"I recall there were
+3 tanks...3 shots{wait:1E}."
+
+#### 53 ####
+{name:07:チュチュ}
+"There are 3 tanks.
+That's 3 shots left!"
+
+#### 54 ####
+Maria
+"There are 3 existing
+tanks.{wait:1E} 3 shots..."
+
+#### 55 ####
+Bart
+"There's some time
+until the launch...
+I wonder if Citan's OK?"
+
+#### 56 ####
+Rico
+"Looks like there's some
+time before the charge is
+ready.{wait:1E}{enter}
+Now let's hope everything
+is ok in Babel."
+
+#### 57 ####
+Event error.
+Billy is not in the lead
+position.
+
+#### 58 ####
+{name:07:チュチュ}
+"We got chu wait 
+till it's full!"
+
+#### 59 ####
+Maria
+"This charge is
+gonna take a while.{enter}
+Guess I'll wait until
+I hear from the guys
+at Babel."
+
+#### 60 ####
+Bart
+"Almost there!"
+
+#### 61 ####
+Rico
+"It's looking good.{wait:1E}
+Just a bit more."
+
+#### 62 ####
+Event error.
+Billy is not in the lead
+position.
+
+#### 63 ####
+{name:07:チュチュ}
+"Just a little bit more!"
+
+#### 64 ####
+Maria
+"Please hold on for a 
+little longer!"
+
+#### 65 ####
+Bart
+"We've got a Gear on
+radar!"
+
+#### 66 ####
+Rico
+"There's sumthin' on the
+radar! Gears...{wait:1E}
+several of them."
+
+#### 67 ####
+Event error.
+Billy is not in the lead
+position.
+
+#### 68 ####
+{name:07:チュチュ}
+"There's an image 
+on the radar."
+
+#### 69 ####
+Maria
+"Radar response!{wait:1E}
+From the size they're...
+probably Gears."
+
+#### 70 ####
+Bart
+"Here they come."
+
+#### 71 ####
+Rico
+"We got company."
+
+#### 72 ####
+Event error.
+Billy is not in the lead
+position.
+
+#### 73 ####
+{name:07:チュチュ}
+"The enemy's coming!"
+
+#### 74 ####
+Maria
+"Their coming!"
+
+#### 75 ####
+Bart
+"Damn!{wait:1E}
+They found us!"
+
+#### 76 ####
+Rico
+"Damnit!{wait:1E}
+They're on us!"
+
+#### 77 ####
+Event error.
+Billy is not in the lead
+ position.
+
+#### 78 ####
+{name:07:チュチュ}
+"They see us!"
+
+#### 79 ####
+Maria
+"It looks like they know
+we're here!"
+
+#### 80 ####
+Bart
+"I'm goin' out to return
+fire!{wait:1E} Billy,
+you gonna be OK?"
+
+#### 81 ####
+Rico
+"I'm goin' out!{wait:1E}
+Hey Billy, the rest's up
+to you!"
+
+#### 82 ####
+Event error.
+Billy is not in the lead.
+
+#### 83 ####
+{name:07:チュチュ}
+"I'm gonna go smack'em!{wait:1E}
+Billy, will you be OK by
+yourself?"
+
+#### 84 ####
+Maria
+"We're going out for
+defensive maneuvers.{enter}
+Billy, the rest is up
+to you."
+
+#### 85 ####
+Bart
+"Try to get a shot off
+while we hold them 
+back!{wait:1E} Good luck!"
+
+#### 86 ####
+Rico
+"We'll hold them off up
+top, so hurry up and
+blast'em!"
+
+#### 87 ####
+Event error.
+Billy is not in the lead
+position.
+
+#### 88 ####
+{name:07:チュチュ}
+"We'll do something!{wait:1E}
+Just shoot when you can,
+Billy!"
+
+#### 89 ####
+Maria
+"I'm going out."
+
+#### 90 ####
+Don't worry about it.
+
+#### 91 ####
+Billy
+"Bart!"
+
+#### 92 ####
+Don't worry about.
+
+#### 93 ####
+Billy
+"Rico!"
+
+#### 94 ####
+Event error.
+Billy is not in the lead
+position.
+
+#### 95 ####
+{name:07:チュチュ}
+"Don't chu worry."
+
+#### 96 ####
+Billy
+"{name:07:チュチュ}!"
+
+#### 97 ####
+Maria
+"Relax and work on your
+aim, please!"
+
+#### 98 ####
+Billy
+"Maria!"
+
+#### 99 ####
+Nothing happens.
+
+#### 100 ####
+Bart
+"...{wait:1E}Not moving."
+
+#### 101 ####
+Bart
+"Hmm..."
+
+#### 102 ####
+Margie
+"Want to go check out the
+great treasure first?"
+
+#### 103 ####
+Bart
+"Hmmm...{enter}
+From the looks of it,
+Shakhan hasn't found the
+great treasure either."
+
+#### 104 ####
+Fei
+"Yeah...{enter}
+When we were leaving 
+Nisan, Bart and them said
+they've never been here.{enter}
+Well, first of all let's
+go locate the great
+treasure."
+
+#### 105 ####
+Bart
+"Yeah...{enter}
+I know for sure that the
+great treasure is
+somewhere inside the{enter}
+mausoleum. I can't
+pinpoint the location
+though.{enter}
+So, let's go find it
+then we can decide what
+to do next."
+
+#### 106 ####
+Bart
+"Well then...{wait:1E}
+Let's do it!"
+
+#### 107 ####
+Bart
+"There sure are a lot
+of gauges and meters in
+here."
+
+#### 108 ####
+Margie
+"I wonder which is more
+impressive? The pilot
+room on your ship or the{enter}
+one in here?"
+
+#### 109 ####
+Bart
+"My ship of course..."
+
+#### 110 ####
+Bart
+"Uhh, well... since they
+are our ancestors, I
+guess this one's better."
+
+#### 111 ####
+Bart
+"And you, quit asking
+mean questions like that.{enter}
+Anyway, it's not called
+a pilot room. It's the
+bridge, got it?"
+
+#### 112 ####
+Margie
+"Does it really matter?"
+
+#### 113 ####
+Bart
+"All right.{wait:1E}
+I know I can do it!"
+
+#### 114 ####
+Bart
+"...{wait:1E}...{wait:1E}...{wait:1E}...{wait:1E}"
+
+#### 115 ####
+Bart
+"Yesss!
+This is the way!!"
+
+#### 116 ####
+ 
+"Oh REALLY!?"{wait:1E}
+                                   
+
+#### 117 ####
+Bart
+"Wha?{wait:1E}
+What're you talking
+about?"
+
+#### 118 ####
+Fei
+"Quit foolin'!{wait:1E}
+What the heck did you
+just press!?"
+
+#### 119 ####
+Bart
+"...{wait:1E}Ohhh...{wait:1E}
+Well, I wouldn't say it
+was a complete success...{enter}
+but it'll do for now."
+
+#### 120 ####
+Bart
+"Don't worry!{wait:1E}
+I've  never fouled things
+up yet, have I?{enter}
+Well have I!?"
+
+#### 121 ####
+Bart
+"How 'bout... Ladies and
+gentlemen, behold!"
+
+#### 122 ####
+Bart
+"Tis that not Babel Tower
+...over yonder?"
+
+#### 123 ####
+Bart
+"Well?{wait:1E}
+Isn't it way coo{wait:3C}oool!?{enter}
+It floats from the Fatima
+Jasper...{enter}
+I call it Ft. Jasper, and
+you'll be able see it from 
+far off.{enter}
+I'm sure that last beam
+cannon could reach it!"
+
+#### 124 ####
+Bart
+"Well, I guess I wanted to
+show you all its greatness.{enter}
+Have you ever seen such a
+cannon? And don't mix it
+up with Vanderkaum's pea-
+shooter. This one's many 
+times more powerful and
+many times more refined.
+After all, that's why my
+ancestors used it for
+generations to guard the
+treasure.
+Yeah, this is the real
+thing. And don't you
+forget it.
+Now as I was saying,
+I haven't fouled up yet."
+
+#### 125 ####
+Bart
+"So, let's go get this
+treasure and go home!{enter}
+But first, we have to
+open that door in the
+dome!{enter}
+I don't think the switch
+on this control panel
+will do it though."
+
+#### 126 ####
+Bart
+"Over there!"
+
+#### 127 ####
+...
+
+#### 128 ####
+Fei
+(Didn't you say you hit
+the wrong button earlier?)
+
+#### 129 ####
+Bart
+"Hey, they all look alike.
+Ah well, let's start
+hitting some buttons."
+
+#### 130 ####
+Fei
+"Whoa whoa!
+Is that safe!?"
+
+#### 131 ####
+Bart
+"Alright,{wait:1E} let's
+hurry up and get the
+treasure outside."
+
+#### 132 ####
+Well done, Prince
+Bartholomew.{enter}
+Thank you for unlocking
+the seal.
+
+#### 133 ####
+Bart
+"That voice,{wait:1E}
+Shakhan!"
+
+#### 134 ####
+Bart
+"Damn you!{wait:1E}
+This was all a setup!?"
+
+#### 135 ####
+Shakhan
+"Of course."
+
+#### 136 ####
+Shakhan
+"You don't really believe
+that the door would open
+up for just anyone?{enter}
+I simply leaked the
+information and merely
+awaited for your arrival."
+
+#### 137 ####
+Bart
+"Crap, so that's why I
+haven't noticed your
+stench for a while!"
+
+#### 138 ####
+Shakhan
+"Knowing your impulsive
+nature, I knew you would
+come...{enter}
+But I never thought you'd
+go so far as breaking the
+seal for me."
+
+#### 139 ####
+Bart
+"Son of a...{wait:1E}
+Makin' a fool outta me!"
+
+#### 140 ####
+Shakhan
+"My soldiers have already
+secured this area.{enter}
+If you don't like it,
+come here and get some!{enter}
+Hah hah hah!"
+
+#### 141 ####
+Billy
+"Let us begin our
+preparations."
+
+#### 142 ####
+Billy
+"What is the status of
+the charge?"
+
+#### 143 ####
+Billy
+"Argh! We're so close
+to launching!"
+
+#### 144 ####
+Billy
+"I have to do it!"
+
+#### 145 ####
+Billy
+"Let me handle it!"
+
+#### 146 ####
+Billy
+"Fire!"
+
+#### 147 ####
+Billy
+"Missed!"
+
+#### 148 ####
+Billy
+"GO!"
+

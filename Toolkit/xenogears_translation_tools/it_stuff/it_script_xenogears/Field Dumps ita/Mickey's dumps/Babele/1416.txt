@@ -1,0 +1,28 @@
+<TextBlock 1 w:44 h:4>
+Fei
+"Questa è la Torre di
+Babele…<Delay 40> La via per
+il paradiso…"<Close><End of Block>
+<TextBlock 2 w:40 h:3>
+Fei
+"Wow…<Delay 30> Non riesco a
+vederne la cima."<Opcode 2 70><Close><End of Block>
+<TextBlock 3 w:46 h:3>
+Fei
+"Perché una cosa così
+enorme è stata costruita
+proprio qui?"<Close><End of Block>
+<TextBlock 4 w:36 h:3>
+Fei
+"Merda!
+Il sigillo
+della Chiesa!"<Close><End of Block>
+<TextBlock 5 w:36 h:4>
+Fei
+"Oh, no! Se non
+riusciamo a rompere
+questo sigillo…"<Close><End of Block>
+<TextBlock 6 w:52 h:3>
+Fei
+"Merda! Cos'è questo?<Delay 40> 
+Cos'è questa torre…?"<Close><Close><End of Block>

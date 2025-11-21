@@ -1,0 +1,124 @@
+<TextBlock 1 w:30 h:4>
+Fei
+"Fermo!
+Tieni giù le tue
+mani da 'Elly'!"<Opcode 2 60><Close><End of Block>
+<TextBlock 2 w:36 h:3>
+Fei
+"Stai bene!?
+Tieni duro!"<Close><End of Block>
+<TextBlock 3 w:32 h:3>
+Donna Misteriosa
+"Ehmm…<Delay 30>
+Voltati!"<Close><End of Block>
+<TextBlock 4 w:10 h:2>
+Fei
+"…"<Close><End of Block>
+<TextBlock 5 w:32 h:3>
+Donna Misteriosa
+"Ho detto…
+Voltati!"<Close><End of Block>
+<TextBlock 6 w:42 h:2>
+Fei
+"… Stai tremando?"<Close><End of Block>
+<TextBlock 7 w:32 h:2>
+Donna Misteriosa
+"Silenzio!"<Close><End of Block>
+<TextBlock 8 w:52 h:4>
+Donna Misteriosa
+"… Non sembri essere uno
+dei soldati di Kislev che
+mi stanno inseguendo,<Delay 50> ma…"<Opcode 2 100><Close><End of Block>
+<TextBlock 9 w:32 h:2>
+Donna Misteriosa
+"Non muoverti!"<Close><End of Block>
+<TextBlock 10 w:52 h:4>
+Donna Misteriosa
+"Ho l'ordine d'uccidere
+tutti gli abitanti della
+superficie,<Delay 10> gli Agnelli<Delay 10>…<New>
+… con cui venissi
+in contatto.<Delay 10> Fa parte
+della mia missione.
+Nulla di personale."<Close><End of Block>
+<TextBlock 11 w:54 h:4>
+Donna Misteriosa
+"Ho una domanda da
+farti.<Delay 40> … Come esco
+da questa foresta?"<Close><End of Block>
+<TextBlock 12 w:34 h:2>
+Fei
+"Ti sei… persa?"<Close><End of Block>
+<TextBlock 13 w:52 h:3>
+Donna Misteriosa
+"Rispondimi e basta!
+Come esco da qui?"<Close><End of Block>
+<TextBlock 14 w:46 h:4>
+Fei
+"Scusami…<New>
+Ma anche io sto
+cercando l'uscita
+di questo posto."<Close><End of Block>
+<TextBlock 15 w:32 h:2>
+Donna Misteriosa
+"Oh…"<Close><End of Block>
+<TextBlock 16 w:40 h:4>
+Fei
+"Quanto vuoi stare lì
+ferma in quel modo?<New>
+Se hai intenzione di
+spararmi, allora
+sbrigati e fallo."<Close><End of Block>
+<TextBlock 17 w:52 h:4>
+Donna Misteriosa
+"Che strana
+cosa da dire!<New>
+Non comprendi la
+situazione in cui
+ti trovi?"<Close><End of Block>
+<TextBlock 18 w:40 h:4>
+Fei
+"Non m'importa della
+mia situazione…<New>
+Sono solo una persona
+la cui vita è inutile…<New>
+Non ho comunque nessun
+motivo per il quale
+continuare a vivere!"<Close><End of Block>
+<TextBlock 19 w:34 h:2>
+Donna Misteriosa
+"Sta'… <Delay 10>sta' fermo!"<Opcode 2 60><Close><End of Block>
+<TextBlock 20 w:50 h:4>
+Fei
+"A cosa stai mirando?<Delay 30> 
+Qui! Sparami qui!<Delay 50>
+Forza…"<Close><End of Block>
+<TextBlock 21 w:40 h:3>
+Donna Misteriosa
+"Mi…<Delay 15> mi stai
+prendendo in giro?"<Opcode 2 80><Close><End of Block>
+<TextBlock 22 w:32 h:3>
+Donna Misteriosa
+"Che cos'è?
+Chi sei?"<Opcode 2 30><Close><End of Block>
+<TextBlock 23 w:2 h:1>
+!<Opcode 2 30><Close><End of Block>
+<TextBlock 24 w:4 h:1>
+-5<Opcode 2 10><Close><End of Block>
+<TextBlock 25 w:32 h:2>
+Donna Misteriosa
+"Sei strano!"<Opcode 2 80><Close><End of Block>
+<TextBlock 26 w:34 h:3>
+Donna Misteriosa
+"C'è qualcosa che
+proprio non va in te!"<Opcode 2 30><Close><End of Block>
+<TextBlock 27 w:42 h:3>
+Donna Misteriosa
+"Dovresti almeno opporre
+un po' di resistenza!"<Opcode 2 80><Close><End of Block>
+<TextBlock 28 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 29 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><Close><End of Block>

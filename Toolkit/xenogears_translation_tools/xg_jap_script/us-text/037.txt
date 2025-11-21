@@ -1,0 +1,25 @@
+#### 1 ####
+Fei
+"That's amazing.{wait:0A}
+They're doing digging right
+next to this town too?"
+
+#### 2 ####
+Citan
+"This is an Aveh-run
+excavation site.{enter}
+The machines and Gears
+found here are valuable
+resources that could turn
+the tide of the war.{enter}
+They are indispensible
+to the war effort."
+
+#### 3 ####
+Citan
+"Anyway Fei...{wait:0A}
+Let us move on.{enter}
+We have more pressing
+matters to do than
+taking in the 'sites'!"
+

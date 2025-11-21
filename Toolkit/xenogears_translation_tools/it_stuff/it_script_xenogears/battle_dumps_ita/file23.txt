@@ -1,0 +1,50 @@
+<TextBlock 1 w:42 h:4>
+Fei
+"Scusami…<New>
+Oh, ma vedo che
+ti sei fatto una
+ragazza…<New>
+Se la battiamo,
+dovremmo essere in
+grado di cambiare la
+rotta di questa nave.<New>
+Andiamo!"<Close><End of Block>
+<TextBlock 2 w:36 h:2>
+Fei
+"No di certo!<New>
+Non è la nave che
+vogliamo fermare…<New>
+È te che vogliamo
+prendere a calci!"<Close><End of Block>
+<TextBlock 3 w:42 h:3>
+Rico
+"Che diavolo stai
+facendo, Fei!?<New>
+Non ti aspetterai che
+faccia io tutto il
+lavoro sporco?<New>
+Aiutami a far
+piazza pulita di
+questi stronzi!"<Close><End of Block>
+<TextBlock 4 w:40 h:4>
+Dominia
+"Mmmh…<New>
+Un'altra nullità
+non ti aiuterà a
+fermare la 'Nave
+Bombardiera Hecht'!"<Close><End of Block>
+<TextBlock 5 w:42 h:3>
+Dominia
+"Ah! Quale insolenza!<New>
+Ma cos'altro ci si
+può aspettare dagli
+Agnelli…!"<Close><End of Block>
+<TextBlock 6 w:44 h:4>
+Dominia
+"Eeeaaaahh! <Delay 20>… <Delay 20>Uh<Delay 20>………<Delay 20>
+Perché tu<Delay 20>…?
+Ricorda queste parole<Delay 20>…<New>
+Un giorno te la farò
+pagare…<Delay 20>
+Te lo prometto!"<Close><Close><Close><UNKNOWN CHUNK 245>
+<Close><Close>)<Close><Close><Close><Close><Close><Close><Close><Close><End of Block>

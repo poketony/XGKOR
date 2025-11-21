@@ -1,0 +1,128 @@
+<TextBlock 1 w:38 h:4>
+Ramsus
+"Questo è l'ultimo
+avvertimento che
+ti do, Fei.<New>
+Consegnami subito
+il Tenente Elhaym!"<Close><End of Block>
+<TextBlock 2 w:36 h:3>
+Ramsus
+"Ne sei sicuro?<New>
+Poi sarà troppo
+tardi per cambiare
+idea!"<Close><End of Block>
+<TextBlock 3 w:46 h:4>
+Ramsus
+"Ummh…<Delay 20> Bene allora,
+dovrò dimostrarti se mi
+sto vantando o meno!<New>
+Così sia.<Delay 20>
+Non mi tratterrò!<Delay 20>
+Non ti risparmierò
+nulla!"<Close><End of Block>
+<TextBlock 4 w:38 h:4>
+Ramsus
+"Avanti, avanti!
+Che debolezza!
+Che cosa c'è, Fei!?<New>
+Al cospetto del mio
+'Vendetta'… no, che
+dico… di fronte
+alla MIA vendetta…<New>
+… il tuo <Weltall> non
+è che un infante!"<Close><End of Block>
+<TextBlock 5 w:48 h:4>
+Ramsus
+"Incredibile!<New>
+Che differenza
+incommensurabile
+di potere!<New>
+Miang! Mi stai
+guardando!?"<Close><End of Block>
+<TextBlock 6 w:40 h:4>
+Ramsus
+"Di questo passo…
+E con questo potere…
+posso sconfiggerlo!"<Close><End of Block>
+<TextBlock 7 w:42 h:3>
+Ramsus
+"Mh mh mh hm mmh…
+Uah ah ah ah ah!"<Close><End of Block>
+<TextBlock 8 w:48 h:4>
+Ramsus
+"Hyah ah ah ah ah!
+Vincere! Posso vincere!
+Non sono io l'inutile!!"<Close><End of Block>
+<TextBlock 9 w:38 h:3>
+Ramsus
+"È la tua fine!
+Fei Fong Wong!"<Close><End of Block>
+<TextBlock 10 w:46 h:4>
+Ramsus
+"Nuah ah ah ah! Non
+sono io l'inutile!<Delay 40>
+Ah! <Delay 30>Ah<Delay 40> aah…<Delay 50> ah…<New>
+… Eh?"<Close><End of Block>
+<TextBlock 11 w:42 h:4>
+Ramsus
+"!!<Delay 30>
+Ho ucciso anche il
+tenente<Delay 30>…<New>
+Dannazione,<Delay 30> ho
+trascurato i miei
+ordini<Delay 30>…<New>
+Umph<Delay 5>…<Delay 30>
+Oh, beh<Delay 5>…<Delay 30>
+Al diavolo gli
+ordini di Krelian…"<Close><End of Block>
+<TextBlock 12 w:28 h:2>
+Fei
+"Mi rifiuto!"<Close><End of Block>
+<TextBlock 13 w:34 h:3>
+Fei
+"Smetti di darti
+tante arie!"<Close><End of Block>
+<TextBlock 14 w:44 h:3>
+Fei
+"Cosa stai dicendo!?
+Se lo farai…"<Close><End of Block>
+<TextBlock 15 w:24 h:4>
+Fei
+"Ramsus…!?
+Riesci a
+sentirci…?"<Close><End of Block>
+<TextBlock 16 w:30 h:4>
+Elly
+"<Delay 30>…<Delay 30> Ramsus,
+ascoltami!
+Mi arrendo!!<New>
+Perciò smetti
+subito di
+attaccarci!"<Close><End of Block>
+<TextBlock 17 w:42 h:4>
+Elly
+"È me che vuole!<New>
+Non posso metterti
+in pericolo a causa
+mia!"<Close><End of Block>
+<TextBlock 18 w:42 h:3>
+Elly
+"Basta attaccarci!
+Ramsus!<New>
+Se è me che vuoi,
+prendimi e basta!"<Close><End of Block>
+<TextBlock 19 w:42 h:3>
+Elly
+"Eeeeyaaah!"<Close><End of Block>
+<TextBlock 20 w:24 h:2>
+Elly
+"Si è perso nel potere
+travolgente del suo
+stesso Gear…<New>
+Fei, faremmo meglio
+a fuggire!"<Close><End of Block>
+<TextBlock 21 w:44 h:4>
+Fei
+"Uuaaaaaa hhhhhh!!"
+Elly
+"Eeeeyyyaaahhhh!!"<Close><Close><End of Block>

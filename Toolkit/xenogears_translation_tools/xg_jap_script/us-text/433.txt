@@ -1,0 +1,254 @@
+#### 1 ####
+...{wait:18}A purge!{clear:32}
+
+#### 2 ####
+Ramsus
+"You{wait:05}...{wait:20}
+If you didn't exist{wait:05}...{wait:05}
+I{wait:05}...{enter}
+That's why...{wait:20}
+I must{wait:05}...{wait:05}
+get rid{wait:05}...{wait:05}
+of you{wait:05}...{enter}
+Only then will I be
+able to beat him{wait:05}..."
+
+#### 3 ####
+Ramsus
+"Uuuuaaaahhhhh!!"
+
+#### 4 ####
+Krelian
+"Of course he can.{wait:20}
+He was made to be
+able to do so."
+
+#### 5 ####
+Krelian
+"Oh, really now...{enter}
+I don't care about a group
+of old geezers who are so
+obsessed with clinging onto
+their dear little lives...{enter}
+...that they had to resort
+to turning themselves into
+data on the SOL-9000 in
+order to survive.{enter}
+That's not why{wait:05}...{wait:05}
+Your existence obstructs
+me from reaching my goal.
+That's all{wait:05}..."
+
+#### 6 ####
+Krelian
+"Yes, that's right.{enter}
+I try to lead the
+people in 'my own way'.
+That hasn't changed
+in the least."
+
+#### 7 ####
+Krelian
+"Kill him,
+'Ramses'!"
+
+#### 8 ####
+Citan
+"Our final prayer?"
+
+#### 9 ####
+Citan
+"Yes.{wait:0A}
+Twice{wait:05}...{wait:05}no{wait:05}...{wait:0C}three
+times to be exact."
+
+#### 10 ####
+Citan
+"His whereabouts have not
+been verified."
+
+#### 11 ####
+Citan
+"May I ask you this...?{enter}
+Why would he be moved to
+a place like this...?{wait:2D}
+Was it the elders?"
+
+#### 12 ####
+Citan
+"Then..."
+
+#### 13 ####
+Citan
+"It would be hasty to
+dispose of him now.{enter}
+I do not think it is
+too late to wait
+until we find out
+his purpose..."
+
+#### 14 ####
+Citan
+"Your will is my
+will, your Majesty.{enter}
+Well then, allow
+me to..."
+
+#### 15 ####
+Citan
+"Yes...?"
+
+#### 16 ####
+Citan
+"...{wait:20}What is it, then...?"
+
+#### 17 ####
+Citan
+"Yes, your Majesty.
+This is the answer
+that I chose myself."
+
+#### 18 ####
+Citan
+"Yes.{enter}
+Humans have the
+potential. Managers
+are no longer needed."
+
+#### 19 ####
+Citan
+"Yes, as you say your
+Majesty, if Fei is..."
+
+#### 20 ####
+Emperor
+"Yes, the -Gospel-.{enter}
+{wait:40}We are the people expelled
+from paradise and forced
+to live on the cruel
+surface of the earth.{enter}
+We who fill this land will
+once again return to the
+presence of god in paradise
+and live there eternally.{enter}
+That is the -Time- of the
+-Gospel-.
+That -Time- is at hand."
+
+#### 21 ####
+Emperor
+"We the Gazel, must find
+god's resting place by
+then and resurrect him.{enter}
+That is our final prayer
+..."
+
+#### 22 ####
+Emperor
+"Our final prayer to escape
+from the -Fate- that was
+determined at our genesis."
+
+#### 23 ####
+Emperor
+"Has he awoken...?"
+
+#### 24 ####
+Emperor
+"I see."
+
+#### 25 ####
+Emperor
+"Over here..."
+
+#### 26 ####
+Emperor
+"Nay.
+They're hoping for a
+more immediate disposal.{enter}
+I don't blame them.{wait:20}
+They have a deeply
+etched fear of him."
+
+#### 27 ####
+Emperor
+"Yes. {wait:0C}
+Probably..."
+
+#### 28 ####
+Emperor
+"If that is your
+judgment, then,
+so be it."
+
+#### 29 ####
+Emperor
+"Wait a moment..."
+
+#### 30 ####
+Emperor
+"...I see..."
+
+#### 31 ####
+Emperor
+"Their judgement...{wait:17}
+has been handed down..."
+
+#### 32 ####
+Emperor
+"This is your 
+conclusion...?"
+
+#### 33 ####
+Emperor
+"Anonelbe...
+You think you can do it?"
+
+#### 34 ####
+Emperor
+"The contact is not
+our enemy?"
+
+#### 35 ####
+Emperor
+"Then I leave it up
+to you...{enter}
+I atone for my crime
+by doing so..."
+
+#### 36 ####
+Emperor Cain
+"What do you want...
+Ramsus...?"
+
+#### 37 ####
+Emperor Cain
+"What do you think
+you're doing?
+Ramsus...!?"
+
+#### 38 ####
+Emperor Cain
+"That's absurd!
+Do you think you can
+neutralize my power!?"
+
+#### 39 ####
+Emperor Cain
+"Krelian...!?
+Surely you're not on
+their side now!?"
+
+#### 40 ####
+Emperor Cain
+"Haven't you been working
+for humanity's future...
+for humans to live longer?{enter}
+That is why I assisted
+you..."
+
+#### 41 ####
+Emperor Cain
+"Krelian, what's
+got into you...!?"
+

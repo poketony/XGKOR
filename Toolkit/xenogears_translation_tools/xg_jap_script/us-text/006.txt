@@ -1,0 +1,60 @@
+#### 1 ####
+Oh, hi Fei!
+Welcome!{enter}
+The big day's finally
+approaching, huh...?{wait:14}
+Alice and Timothy's
+wedding is tomorrow!{enter}
+Hey, how about gettin'
+them a stamina drink
+of courage and love...{wait:0A}
+What do you think?{enter}
+C'mon, you've gotta
+get'em a present here!{wait:1E}
+We're the only shop
+in town, you know!?
+
+#### 2 ####
+Hello and welcome again!{wait:14}
+Was there anything else?
+
+#### 3 ####
+Thanks again.
+Come by anytime!
+
+#### 4 ####
+Just becawse Awice is
+getting mawwied doesn't
+mean you have to be sad.{enter}
+Fwei, when I get bwigger,
+I'll be your bwide.
+
+#### 5 ####
+Will you wait for me?{wait:14}
+    Sure, I'll wait!
+    Sorry, I can't!
+
+#### 6 ####
+Weally, you mean it!?{wait:14}
+Then cwoss your hweart...!{enter}
+Hope to dwie.
+Stick a needwle in your eye!{enter}
+It's all set then...!{wait:14}
+Our bwurning love has been
+tied by unbweakable bonds!
+
+#### 7 ####
+So you dwon't care what
+happens to me, Fwei...{wait:14}
+You're so cowld-hearted!{wait:14}
+Dwon't tawlk to me! Hmph!
+
+#### 8 ####
+Tee-hee...{wait:14}
+Dwon't fworget our
+pwomise, Fwei.
+
+#### 9 ####
+I dwon't wike you!
+Go away, Fwei!
+

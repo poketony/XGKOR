@@ -1,0 +1,48 @@
+<TextBlock 1 w:50 h:4>
+Elly
+"Sono così felice…
+Stanno tutti bene…<Delay 30>
+E mio padre, invece…?"<Close><End of Block>
+<TextBlock 2 w:40 h:3>
+Shitan
+"L'hangar è proprio
+qui davanti."<Close><End of Block>
+<TextBlock 3 w:42 h:3>
+Bart
+"Penso che ormai
+ci siamo quasi."<Close><End of Block>
+<TextBlock 4 w:48 h:4>
+Billy 
+"Anche se riuscissimo
+a tornare a casa…<New>
+… Prim ed i suoi amici
+saranno al sicuro?" <Close><End of Block>
+<TextBlock 5 w:44 h:3>
+Rico
+"Perfetto! Ci siamo
+quasi, Hammer!"<Close><End of Block>
+<TextBlock 6 w:38 h:2>
+Esmeralda
+"Uscita! Uscita!
+Uscita!"<Close><End of Block>
+<TextBlock 7 w:38 h:3>
+<Chu-Chu>
+"Whew, il cielo
+è così blu…"<Close><End of Block>
+<TextBlock 8 w:40 h:3>
+Medena
+"È difficile… dire
+addio a Solaris…<New>
+Questa rimane sempre
+la mia casa… sempre
+e comunque…"<Close><End of Block>
+<TextBlock 9 w:44 h:3>
+Hammer
+"Eccomi qua!
+Sono arrivato
+fino in fondo…"<Close><End of Block>
+<TextBlock 10 w:48 h:4>
+Jessie
+"Eccoci alla fine di
+tutto. Ma non abbassate
+ancora la guardia!"<Close><Close><End of Block>

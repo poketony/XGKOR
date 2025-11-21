@@ -1,0 +1,807 @@
+<TextBlock 1 w:36 h:3>
+Bart
+"Non c'è tempo
+per questo!"<Opcode 2 40><Close><End of Block>
+<TextBlock 2 w:36 h:3>
+Bart
+"Non c'è tempo
+per questo!"<Opcode 2 40><Close><End of Block>
+<TextBlock 3 w:48 h:4>
+Bart
+"Questa non è
+l'entrata per il
+canale sotterraneo!"<Opcode 2 40><Close><End of Block>
+<TextBlock 4 w:48 h:4>
+Bart
+"Questa non è
+l'entrata per il
+canale sotterraneo!"<Opcode 2 40><Close><End of Block>
+<TextBlock 5 w:38 h:3>
+Bart
+"Ehi, sei abbastanza
+in gamba, nonno!"<Close><End of Block>
+<TextBlock 6 w:38 h:2>
+L'hotel di cui
+sto parlando è…<Opcode 2 100><Close><End of Block>
+<TextBlock 7 w:18 h:1>
+Ehi, tu!<Opcode 2 60><Close><End of Block>
+<TextBlock 8 w:44 h:2>
+Hanno davvero così tanto
+bisogno della guerra?<Close><End of Block>
+<TextBlock 9 w:50 h:4>
+Mi dispiace, ma l'esercito
+ha confiscato ciò che ha
+voluto ed ora sono a
+corto di merce.<Close><End of Block>
+<TextBlock 10 w:38 h:2>
+Oh no, hai di nuovo
+rialzato i prezzi…<Close><End of Block>
+<TextBlock 11 w:40 h:1>
+Ehi, dammi una mano.<Close><End of Block>
+<TextBlock 12 w:30 h:2>
+Spero che questa guerra
+finisca presto.<Close><End of Block>
+<TextBlock 13 w:48 h:2>
+Fiuh, stare al passo con
+mia nipote è dura.<Close><End of Block>
+<TextBlock 14 w:40 h:3>
+Com~pe<~>re<Delay 30>
+Com~pe<~>re<Delay 30>
+Fare compere è bello…<Close><End of Block>
+<TextBlock 15 w:46 h:3>
+Nonna, presto, presto!
+Finiamo le compere che
+poi andiamo alla festa.<Close><End of Block>
+<TextBlock 16 w:46 h:3>
+È già tempo per la
+festa. Speriamo che
+non ci sia troppa
+gente!<Close><End of Block>
+<TextBlock 17 w:72 h:3>
+Sei qui per il Torneo?
+    Sì
+    Uh?<Close><End of Block>
+<TextBlock 18 w:50 h:4>
+Meno male! La guerra
+peggiora, e ci sono
+così pochi turisti…
+Ok, buon divertimento.<Close><End of Block>
+<TextBlock 19 w:48 h:4>
+Che… non lo sai?
+È 'solo' il più grande
+torneo di arti marziali
+del mondo!<New>
+Sono venuta a Bledavik
+solo per vederlo.
+Te ne pentirai se non
+ci andrai.<Close><End of Block>
+<TextBlock 20 w:46 h:4>
+Sono così impegnata!
+Il proprietario è stato
+arruolato e io devo
+occuparmi di tutto!<Close><End of Block>
+<TextBlock 21 w:52 h:5>
+Da quando è morto il
+vecchio re la vita è
+stata molto dura.<New>
+Non che un vecchio come
+me abbia molto di cui
+preoccuparsi…<New>
+Ma i miei figli e nipoti
+sono ancora giovani.
+Chissà se le cose prima o
+poi miglioreranno?<Close><End of Block>
+<TextBlock 22 w:10 h:1>
+Uh!?<Opcode 2 20><Close><End of Block>
+<TextBlock 23 w:26 h:2>
+Mmmh,<Delay 20> chi era
+quello lì…?<New>
+<Delay 20>L'ho dimenticato…<Close><End of Block>
+<TextBlock 24 w:24 h:2>
+Oh sì!
+Ora ricordo!<Opcode 2 100><Close><End of Block>
+<TextBlock 25 w:38 h:3>
+Principe Bartolomeo?
+    Sì!
+    Non lo conosco!<Close><End of Block>
+<TextBlock 26 w:46 h:4>
+Mmh…<Delay 60>
+sarà qualcun altro…<Delay 60>
+Con l'età la memoria
+comincia a fare cilecca.<Close><End of Block>
+<TextBlock 27 w:48 h:4>
+Oh, come siete cresciuto…<New>
+Probabilmente Vostra
+Altezza non si ricorderà
+di me, ma io lavoravo
+nelle cucine del castello.<New>
+Venivate sempre lì e
+assaggiavate ogni cosa.<New>
+Vi piaceva travestirvi
+e dire, "Sono un pirata!
+Datemi il vostro cibo!"…<New>
+Ah, che bei tempi…<Close><End of Block>
+<TextBlock 28 w:52 h:4>
+Benvenuti a Bledavik!
+Ultimamente i turisti
+sono scarsi. Voi siete i
+primi da un po' di tempo!<Close><End of Block>
+<TextBlock 29 w:48 h:4>
+Benvenuti a Bledavik!<New>
+È in corso una festa
+per celebrare la
+fondazione del nostro
+paese, Aveh.<New>
+C'è anche un torneo di
+arti marziali.<New>
+È da molto che non si
+vedevano così tanti
+turisti.<Close><End of Block>
+<TextBlock 30 w:56 h:3>
+Avete già una stanza?
+    Sì
+    Non ancora<Close><End of Block>
+<TextBlock 31 w:40 h:2>
+Davvero? Io conosco
+un buon posto.<Close><End of Block>
+<TextBlock 32 w:46 h:3>
+Fate in fretta a trovare
+una stanza o dormirete 
+sotto le stelle.<New>
+Conosco un buon hotel.<Close><End of Block>
+<TextBlock 33 w:18 h:1>
+Quello.<Close><End of Block>
+<TextBlock 34 w:48 h:3>
+Dite il mio nome alla
+portiera e lei vi
+farà uno sconto.<Close><End of Block>
+<TextBlock 35 w:48 h:3>
+A causa della guerra i
+furti nei negozi sono
+aumentati.<New>
+C'è una tale carenza 
+di merce…<Close><End of Block>
+<TextBlock 36 w:38 h:5>
+Benvenuti!<Delay 20>
+State andando alla
+piazza della festa?
+    Sì
+    No<Close><End of Block>
+<TextBlock 37 w:50 h:4>
+Detto fra di noi…<New>
+La festa per il
+500esimo anniversario
+di Aveh non è così
+eccezionale.<New>
+La guerra si sta
+mettendo molto male
+per noi…<Close><End of Block>
+<TextBlock 38 w:54 h:4>
+Dopotutto andrò a vedere
+il torneo. I ragazzi
+amano la lotta. Ci sei
+anche tu?<Close><End of Block>
+<TextBlock 39 w:46 h:4>
+So che della roba è
+scomparsa… ma quella
+bambina non ha nulla.
+Forse ho sbagliato.<Close><End of Block>
+<TextBlock 40 w:46 h:4>
+Mostrami quello che
+stai nascondendo!<Delay 50> 
+Restituiscimelo e non lo
+dirò ai tuoi genitori.<Opcode 2 50><Close><End of Block>
+<TextBlock 41 w:34 h:1>
+È strano…<Opcode 2 50><Close><End of Block>
+<TextBlock 42 w:48 h:2>
+Prometto che glieli renderò
+quando mio padre ritornerà,
+signore.<Close><End of Block>
+<TextBlock 43 w:34 h:2>
+Non mi scocciare!
+Sto solo guardando!<Close><End of Block>
+<TextBlock 44 w:46 h:2>
+Sta' zitto! Fatti
+gli affaracci tuoi!<Close><End of Block>
+<TextBlock 45 w:2 h:1>
+!<Opcode 2 20><Close><End of Block>
+<TextBlock 46 w:18 h:1>
+(Presto!)<Opcode 2 20><Close><End of Block>
+<TextBlock 47 w:46 h:4>
+Di cosa state parlando,
+signora? Non sto
+nascondendo nulla.
+Volete vedere?<Opcode 2 100><Close><End of Block>
+<TextBlock 48 w:10 h:1>
+Vediamo…<Opcode 2 30><Close><End of Block>
+<TextBlock 49 w:46 h:3>
+Non potete accusare la
+gente senza prove!<Delay 30>
+Per favore, signora!<Opcode 2 30><Close><End of Block>
+<TextBlock 50 w:4 h:1>
+!!<Opcode 2 30><Close><End of Block>
+<TextBlock 51 w:54 h:4>
+Grazie per avermi dato
+il denaro. Non ruberò più.<Delay 30>
+Noi due lavoreremo duro
+fino al ritorno di papà.<Close><End of Block>
+<TextBlock 52 w:38 h:3>
+Che cosa vuoi? 
+Mi stai scocciando, 
+va' fuori dalle palle!<Close><End of Block>
+<TextBlock 53 w:34 h:4>
+Ehi! Ehi, tu!
+Ci compri da mangiare?
+    Certo
+    Ecco…<Close><End of Block>
+<TextBlock 54 w:36 h:3>
+Allora prestami 1000G!
+    Certo
+    Scherzi!?<Close><End of Block>
+<TextBlock 55 w:6 h:1>
+!!<Opcode 2 30><Close><End of Block>
+<TextBlock 56 w:32 h:4>
+Wow, grazie…<Delay 50>
+Sei davvero un
+brav'uomo…
+Cioè… 'signore'.<Close><End of Block>
+<TextBlock 57 w:46 h:3>
+Ehi, se non hai denaro 
+cerca di non farci 
+perdere tempo.<Close><End of Block>
+<TextBlock 58 w:26 h:1>
+Lo immaginavo…<Close><End of Block>
+<TextBlock 59 w:40 h:2>
+Come pensavo, gli
+adulti sanno solo
+parlare.<Close><End of Block>
+<TextBlock 60 w:20 h:1>
+(Ecco…)<Opcode 2 50><Close><End of Block>
+<TextBlock 61 w:16 h:1>
+(Evvai!)<Opcode 2 20><Close><End of Block>
+<TextBlock 62 w:40 h:4>
+Non siete del posto,
+vero? Allora spero
+che la nostra fiera
+vi diverta.<Close><End of Block>
+<TextBlock 63 w:44 h:3>
+Zanne di mostro?<Delay 15>
+Bulbi di mostro?<Delay 15>
+Scaglie di mostro?<Delay 15><New>
+Le compro tutte! 
+Ottimi prezzi.<Opcode 2 60><Close><End of Block>
+<TextBlock 64 w:46 h:5>
+Cosa vuoi vendere?
+    Zanna    150G
+    Bulbo    300G
+    Scaglie  600G
+    Nulla<Close><End of Block>
+<TextBlock 65 w:44 h:2>
+Nessun'altro vi farà
+i miei prezzi.<Close><End of Block>
+<TextBlock 66 w:38 h:1>
+Grazie.
+Alla prossima.<Close><End of Block>
+<TextBlock 67 w:38 h:1>
+Non ne hai!!<Close><End of Block>
+<TextBlock 68 w:32 h:1>
+Ok, affare fatto!<Close><End of Block>
+<TextBlock 69 w:46 h:1>
+ 
+Ricevi <Opcode 10 0>G.<Close><End of Block>
+<TextBlock 70 w:48 h:3>
+Radici!!
+Radici piccanti!
+Accattatavele!<Opcode 2 100><Close><End of Block>
+<TextBlock 71 w:48 h:3>
+Compri una radice?
+Vengono da Lahan, le
+migliori del mondo.<New>
+Sputerai fuoco.
+Prova, paisà.<Close><End of Block>
+<TextBlock 72 w:36 h:3>
+10G a radice.
+    Ne prendo una
+    No, grazie<Opcode 13 255><Opcode 2 1><Close><End of Block>
+<TextBlock 73 w:36 h:4>
+Va bene.
+E per 9G?
+    Ne prendo una
+    No, grazie<Opcode 13 255><Opcode 2 1><Close><End of Block>
+<TextBlock 74 w:36 h:4>
+Prova paisà.
+8G?
+    Ne prendo una
+    No, grazie<Opcode 13 255><Opcode 2 1><Close><End of Block>
+<TextBlock 75 w:58 h:3>
+Uè, tien' tropp cos!
+M' vuò piglià p' cul!<Close><End of Block>
+<TextBlock 76 w:14 h:1>
+Grazie.<Close><End of Block>
+<TextBlock 77 w:40 h:3>
+Uè, guagliò!!
+Vir'è nu' piglià fuoco
+quanno sciat'!<Close><End of Block>
+<TextBlock 78 w:48 h:5>
+<Delay 100>Non volevi comprarne
+una? Si dice che chi
+prende in giro gli
+anziani seccherà come
+una prugna nel deserto.<Close><End of Block>
+<TextBlock 79 w:40 h:3>
+Non ti piacciono le
+cose piccanti?
+Pussa via, sciò!<Close><End of Block>
+<TextBlock 80 w:48 h:4>
+Banane! Banane! 
+Belle banane!<Delay 20>
+Ottime per il corpo
+e per lo spirito!<New>
+Comprate delle banane!<Opcode 2 60><Close><End of Block>
+<TextBlock 81 w:40 h:3>
+Hai i soldi?
+    Sì
+    No<Opcode 13 255><Opcode 2 1><Close><End of Block>
+<TextBlock 82 w:36 h:1>
+Allora non rompere.<Close><Opcode 2 80><Close><End of Block>
+<TextBlock 83 w:50 h:4>
+Compri una banana?
+I mostri della foresta
+ad ovest le amano.
+Si chiamano Elfanana.<New>
+Non troverai migliori
+banane di queste.<Close><End of Block>
+<TextBlock 84 w:50 h:4>
+Mi sembri un bravo
+ragazzo. 10G a casco!
+    Va bene
+    No, grazie<Opcode 13 255><Opcode 2 1><Close><End of Block>
+<TextBlock 85 w:36 h:4>
+Sono deliziose!<Delay 50>
+E per 9G?
+    Va bene
+    No, grazie<Opcode 13 255><Opcode 2 1><Close><End of Block>
+<TextBlock 86 w:44 h:5>
+Ok, prezzo speciale!
+2 caschi, 16G.
+Non le trovi deliziose?
+    Va bene
+    No, grazie<Opcode 13 255><Opcode 2 1><Close><End of Block>
+<TextBlock 87 w:46 h:2>
+Ehi, hai troppa roba. 
+Torna un'altra volta.<Close><End of Block>
+<TextBlock 88 w:36 h:2>
+Grazie!
+Sei una brava persona.<Close><End of Block>
+<TextBlock 89 w:22 h:3>
+Wow!
+Grazie!
+Torna quando vuoi.<Close><End of Block>
+<TextBlock 90 w:50 h:4>
+<Delay 50>Hai dimenticato il
+portafogli?<Delay 50>
+Allora non posso darti
+nulla. Torna quando avrai
+con te il portafogli.<Close><End of Block>
+<TextBlock 91 w:52 h:4>
+Beh…<Delay 30>
+Se non mangi banane 
+non diventerai un forte 
+soldato.<Close><End of Block>
+<TextBlock 92 w:54 h:4>
+Giovanotto, giovanotto!
+Compra delle bacche.
+Dolci, deliziose bacche…
+costano pochissimo.<Opcode 2 100><Close><End of Block>
+<TextBlock 93 w:16 h:1>
+Vai via!<Opcode 2 80><Close><End of Block>
+<TextBlock 94 w:50 h:3>
+Deliziose bacche.
+Non troverai Aribacche
+come queste da nessuna
+altra parte.<New>
+Le bacche rosse crescono
+solo con l'acqua di
+sorgente di Aveh.<Close><End of Block>
+<TextBlock 95 w:36 h:3>
+Il prezzo è 10G.
+    Compra
+    No, grazie<Opcode 13 255><Opcode 2 1><Close><End of Block>
+<TextBlock 96 w:36 h:4>
+Va bene,
+posso fare 9G.
+    Compra
+    No, grazie<Opcode 13 255><Opcode 2 1><Close><End of Block>
+<TextBlock 97 w:42 h:4>
+E va bene, 8G è la
+mia ultima offerta.
+    Compra
+    No, grazie<Opcode 13 255><Opcode 2 1><Close><End of Block>
+<TextBlock 98 w:46 h:2>
+Ehi, hai troppa roba. 
+Torna un'altra volta.<Close><End of Block>
+<TextBlock 99 w:14 h:1>
+Grazie!<Close><End of Block>
+<TextBlock 100 w:40 h:3>
+Ehi!
+Sono davvero buone.
+Prova.<Close><End of Block>
+<TextBlock 101 w:46 h:2>
+CHE? <Delay 50>Niente soldi!?
+Peccato. Ora vattene!<Close><End of Block>
+<TextBlock 102 w:48 h:2>
+Peccato, sono davvero 
+ottime. Forse la
+prossima volta.<Close><End of Block>
+<TextBlock 103 w:64 h:1>
+Capitano, <Delay 10>dei tipi sospetti!<Close><End of Block>
+<TextBlock 104 w:66 h:1>
+Capitano, <Delay 15>dei tipi sospetti!<Close><End of Block>
+<TextBlock 105 w:46 h:3>
+Siamo i Raider Boys!
+Noi proteggiamo la
+pace di Aveh!<Opcode 2 100><Close><End of Block>
+<TextBlock 106 w:44 h:3>
+Proteggiamo la gente
+del deserto dalle teste
+calde di Kislev.<Opcode 2 100><Close><End of Block>
+<TextBlock 107 w:46 h:3>
+Silenzio! <Delay 30>
+Sono il capitano e qui
+parlo solo io!<Opcode 2 100><Close><End of Block>
+<TextBlock 108 w:44 h:4>
+Bene, da domani 
+smettiamo.<Delay 30> 
+Perfetto!<Opcode 2 50><Close><End of Block>
+<TextBlock 109 w:32 h:3>
+Ricominciamo la 
+ronda!<Delay 30>
+Avanti <Delay 20> march!<Opcode 2 100><Close><End of Block>
+<TextBlock 110 w:38 h:2>
+<Opcode 1 1>Kislev teste di cavolo!<Delay 100>
+Gli spaccheremo il…<Opcode 2 100><Close><End of Block>
+<TextBlock 111 w:44 h:2>
+<Opcode 1 1>Quelle zucche vuote
+senza cervello!<Opcode 2 200><Close><End of Block>
+<TextBlock 112 w:38 h:2>
+<Opcode 1 1>Gli staccheremo il
+naso a forza di tirarglielo!<Opcode 2 200><Close><End of Block>
+<TextBlock 113 w:54 h:3>
+<Opcode 1 1>Siamo i Raider Boys!<Delay 100>
+Stiamo proteggendo la pace
+in questa parte del deserto!<Close><End of Block>
+<TextBlock 114 w:10 h:1>
+Sì!<Opcode 2 30><Close><End of Block>
+<TextBlock 115 w:42 h:1>
+<Opcode 1 1>Non siete di Aveh!<Opcode 2 100><Close><End of Block>
+<TextBlock 116 w:28 h:1>
+Compagnia, <Delay 20> alt!<Opcode 2 20><Close><End of Block>
+<TextBlock 117 w:16 h:1>
+Silenzio!<Opcode 2 50><Close><End of Block>
+<TextBlock 118 w:10 h:1>
+Sì!<Opcode 2 30><Close><End of Block>
+<TextBlock 119 w:42 h:1>
+<Opcode 1 1>Siete gente di Kislev!<Close><End of Block>
+<TextBlock 120 w:40 h:3>
+Non fare il
+prepotente!<Delay 20>
+Non è giusto!
+Comandi sempre tu.<Opcode 2 100><Close><End of Block>
+<TextBlock 121 w:46 h:2>
+Ero il primo!<Delay 20>
+E continuerò a comandare!<Close><End of Block>
+<TextBlock 122 w:8 h:1>
+Ehi!<Opcode 2 30><Close><End of Block>
+<TextBlock 123 w:56 h:1>
+<Opcode 1 1>Vieni da Aveh, <Delay 30>di Kislev.<Close><End of Block>
+<TextBlock 124 w:42 h:2>
+Sì, sì, <Delay 20>anch'io
+voglio fare il capitano!<Opcode 2 100><Close><End of Block>
+<TextBlock 125 w:38 h:2>
+Anch'io…<Delay 20> …<Close><End of Block>
+<TextBlock 126 w:20 h:1>
+Vieni qui.<Opcode 2 30><Close><End of Block>
+<TextBlock 127 w:38 h:2>
+Mio fratello è andato
+a combattere…<Close><End of Block>
+<TextBlock 128 w:40 h:5>
+A nord del confine.<Delay 40>
+Prego tutti i giorni
+che ritorni sano e
+salvo a casa…<Close><End of Block>
+<TextBlock 129 w:50 h:2>
+… E anche che prenda a
+calci un mucchio di
+gente di Kislev!<Close><End of Block>
+<TextBlock 130 w:50 h:3>
+Quando diventerò grande
+farò il pilota di Gear
+e sparerò anche io alla
+gente di Kislev.<New>
+Se non lo facciamo ci
+uccideranno o ci
+faranno tutti schiavi.<Close><End of Block>
+<TextBlock 131 w:28 h:3>
+Giusto?
+    Sì
+    Mica tanto<Close><End of Block>
+<TextBlock 132 w:30 h:2>
+Diventerò un soldato
+molto forte!<Close><End of Block>
+<TextBlock 133 w:36 h:5>
+Quelli di Kislev sono
+davvero cattivi!
+E…<Delay 80> hanno ucciso
+mio padre.
+Li ammazzerò tutti!<Close><End of Block>
+<TextBlock 134 w:46 h:3>
+Presto, usalo!
+Non stiamo mica
+giocando qui.<Close><End of Block>
+<TextBlock 135 w:46 h:5>
+Se usi questa cassa puoi
+salire più velocemente.
+La usi?
+    Sì
+    Non mi serve<Close><End of Block>
+<TextBlock 136 w:24 h:1>
+Ti costerà 5G.<Close><End of Block>
+<TextBlock 137 w:50 h:4>
+Anche tu sei povero?<Delay 30>
+Ok, allora te lo dirò.
+Se ti fai indietro e salti
+questa cassa non ti servirà.<Close><End of Block>
+<TextBlock 138 w:12 h:1>
+Va bene.<Close><End of Block>
+<TextBlock 139 w:48 h:4>
+Ha detto che non giocherà
+più a nascondino.
+Non c'è qualcosa di più
+divertente da fare?<Close><End of Block>
+<TextBlock 140 w:36 h:2>
+Chissà…<Delay 30>
+dove si sta
+nascondendo?<Close><End of Block>
+<TextBlock 141 w:40 h:3>
+Vorresti aiutarmi?
+    Va bene
+    Sono impegnato<Close><End of Block>
+<TextBlock 142 w:48 h:4>
+Grazie.
+La regola è che non puoi
+nasconderti nelle case o
+dove si può vedere.<Close><End of Block>
+<TextBlock 143 w:30 h:1>
+Anche noi siamo
+impegnati!<Close><End of Block>
+<TextBlock 144 w:44 h:4>
+Io non gioco più a
+nascondino e neanche
+tu dovresti farlo
+alla tua età!<Close><End of Block>
+<TextBlock 145 w:40 h:2>
+Appena pronti mi
+nasconderò da qualche
+parte.<Close><End of Block>
+<TextBlock 146 w:34 h:1>
+Ah, mi hai trovato.<Close><End of Block>
+<TextBlock 147 w:46 h:4>
+Stiamo giocando a
+nascondino. Giochi?
+    Certo
+    No, grazie<Close><End of Block>
+<TextBlock 148 w:42 h:3>
+Appena pronti mi
+nasconderò e tu
+dovrai trovarmi.<Close><End of Block>
+<TextBlock 149 w:48 h:1>
+Ti rode aver perso, eh?<Close><End of Block>
+<TextBlock 150 w:40 h:3>
+Ottimo lavoro.
+La prossima volta mi
+nasconderò meglio.<Close><End of Block>
+<TextBlock 151 w:44 h:2>
+Mi hai trovato anche qui.
+Ora si fa sul serio.<Close><End of Block>
+<TextBlock 152 w:52 h:2>
+Non credevo mi avresti
+trovato qui. Sei grande.<New>
+Dovevi essere il campione
+da bambino.<New>
+Ma la prossima volta
+non mi troverai.<Close><End of Block>
+<TextBlock 153 w:48 h:3>
+Oh no!!
+Anche qui!!!<New>
+Ora giocherò la mia
+arma segreta! Là non
+mi troverai di sicuro!!<Close><End of Block>
+<TextBlock 154 w:36 h:3>
+Mi arrendo!
+Ma come fai?<New>
+Lascia perdere!
+Non giocherò più
+a nascondino.<New>
+Ecco il mio titolo
+di campione. Non
+mi serve più.<Close><End of Block>
+<TextBlock 155 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 156 w:54 h:4>
+Eh?<Delay 30> Vuoi sapere di quando
+sono sceso nel pozzo?<New>
+È da tanto tempo che
+nessuno me lo chiede.
+Una volta tutti lo
+volevano sapere…<New>
+Vediamo…<Delay 30> Ero ancora
+un bambino quando mi
+nascosi là. In realtà
+mi ero perso!<New>
+Dapprima pensai di uscire
+seguendo la corrente, ma
+la griglia mi fermò.<New>
+Così nuotai
+controcorrente.<New>
+La velocità della corrente
+cambiava spesso, così fu
+veramente molto difficile
+farcela.<New>
+Mi fu di molto aiuto
+sentire il rumore della
+griglia che cambiava la
+velocità della corrente.<New>
+Comunque, andando
+sempre controcorrente
+mi ritrovai proprio
+sotto il castello.<New>
+Non ti nascondo che non
+mi sono mai spaventato
+tanto…<Delay 60> Il pozzo
+è chiuso da allora.<New>
+Era un grande posto per
+nascondersi, ma non è
+per dilettanti.<Close><End of Block>
+<TextBlock 157 w:50 h:3>
+Eh?<Delay 30> La chiave?<New>
+Ce l'ha il vecchio che
+sta sempre seduto sulla
+panca a est del pozzo.<Close><End of Block>
+<TextBlock 158 w:46 h:3>
+La chiave del pozzo?
+Ce l'ho io.<Close><End of Block>
+<TextBlock 159 w:70 h:4>
+Che volete fare con la chiave?
+    Un giretto là sotto
+    Salvare Margie
+    Rubare al castello<Close><End of Block>
+<TextBlock 160 w:42 h:2>
+Stupidi!<Delay 30>
+Vi perderete!<Close><End of Block>
+<TextBlock 161 w:30 h:3>
+Cosa!?<Delay 30>
+Vorreste scontrarvi
+con Shakhan?<Close><End of Block>
+<TextBlock 162 w:44 h:4>
+Ah!<Delay 30>
+Grande!<Delay 30>
+Meraviglioso!<New>
+Mi piacete, ragazzi.
+Vi darò la chiave.
+Datene uno a Shakhan
+anche per me!<Close><End of Block>
+<TextBlock 163 w:36 h:1>
+Ricevi la
+Chiave del Pozzo!<Close><End of Block>
+<TextBlock 164 w:62 h:5>
+Pazzi!!<New>
+Voi ragazzi vi mettete
+a giocare quando intorno
+a voi altri giovani
+muoiono a causa di una
+stupida guerra!<New>
+Vergogna! Dovete solo
+vergognarvi!<Delay 90>
+Questa città sta andando
+davvero in malora…<New>
+E tutto a causa di quel
+fottuto Shakhan!<Close><End of Block>
+<TextBlock 165 w:46 h:3>
+Bart
+"Calmati, nonnino.
+È tutto uno scherzo.<New>
+Guardami. Ti sembro
+forse un ladro?"<Close><End of Block>
+<TextBlock 166 w:38 h:4>
+Ma cosa dici<Delay 20>…<Delay 20>
+…<Delay 20>…<Delay 20>…<Delay 20>…<Delay 20>…<Delay 20>
+Oh?… <Delay 20>Oh!… <Delay 20>Tu…
+Non può essere!<Close><End of Block>
+<TextBlock 167 w:48 h:3>
+Bart
+"Nonno, hai mica
+l'arteriosclerosi?
+Sono proprio io!"<Close><End of Block>
+<TextBlock 168 w:50 h:4>
+Principe Bartolomeo?
+Credevo che foste morto
+in quell'incidente. 
+Siete ancora vivo…<Close><End of Block>
+<TextBlock 169 w:52 h:4>
+Bart
+"Sono ancora qui e sono
+venuto a salvare mia
+cugina.<New>
+Per questo ho bisogno
+del tuo aiuto, nonno."<Close><End of Block>
+<TextBlock 170 w:20 h:1>
+Certamente!<Close><End of Block>
+<TextBlock 171 w:36 h:1>
+Ricevi la
+Chiave del Pozzo!<Close><End of Block>
+<TextBlock 172 w:34 h:3>
+Bart
+"Grazie.
+L'apprezzo molto!"<Close><End of Block>
+<TextBlock 173 w:38 h:2>
+Scusate per quello 
+che ho detto prima…<Opcode 2 60><Close><End of Block>
+<TextBlock 174 w:52 h:3>
+Bart
+"Non preoccuparti.<New>
+Sono contento che ci
+siano persone come te 
+che si preoccupano
+del loro paese."<Close><End of Block>
+<TextBlock 175 w:46 h:3>
+Se il Principe Bartolomeo
+ritorna, riporterà ad
+Aveh il suo vecchio
+spirito.<Close><End of Block>
+<TextBlock 176 w:30 h:1>
+Andiamo a prenderli,
+ragazzo!<Close><End of Block>
+<TextBlock 177 w:36 h:3>
+Fa fresco qui.<Delay 40>
+L'aria fredda soffia
+su dalla grata.<Close><End of Block>
+<TextBlock 178 w:40 h:3>
+Sì! Gente, lui sì
+che è un grand'uomo!
+Per me è come un
+amico d'infanzia!<Close><End of Block>
+<TextBlock 179 w:46 h:4>
+No, no!
+Non l'aprirai senza
+la chiave!<New>
+Molti anni fa un ragazzo
+si perse là sotto.<Delay 20>
+Credo fosse il garzone 
+del negozio di armature…<Close><End of Block>
+<TextBlock 180 w:52 h:4>
+Ho fatto la lavandaia
+qui per 60 anni…
+L'acqua è la sola cosa
+che non è cambiata.<New>
+C'è una fonte che scorre
+sotto il castello.<New>
+Credevo che con la
+morte del re l'acqua
+si sarebbe fermata,
+ma non è successo.<New>
+Quel vecchio là sotto è
+il responsabile dell'acqua,
+e non muove neanche un dito
+per Shakhan.<Close><End of Block>
+<TextBlock 181 w:52 h:4>
+Shitan
+"Il giovane s'intrufolerà
+nel castello attraverso
+i canali sotterranei.<New>
+Non appena saranno tutti
+pronti, entrerà in questo
+pozzo o in quello dalla
+altra parte della città!"<Close><End of Block>
+<TextBlock 182 w:24 h:1>
+Chiuso.<Close><Close><End of Block>

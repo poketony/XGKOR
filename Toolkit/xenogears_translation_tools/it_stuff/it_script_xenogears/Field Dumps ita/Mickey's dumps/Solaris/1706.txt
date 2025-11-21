@@ -1,0 +1,34 @@
+<TextBlock 1 w:28 h:2>
+    Inserire codice
+    Esci<Close><End of Block>
+<TextBlock 2 w:34 h:5>
+    <Opcode 1 255>1
+    2
+    3
+    4
+    Fine inserimento<Close><End of Block>
+<TextBlock 3 w:52 h:1>
+Scanner oggetti estranei:
+        ACCESO<Close><End of Block>
+<TextBlock 4 w:54 h:1>
+Scanner oggetti estranei:
+        SPENTO<Close><End of Block>
+<TextBlock 5 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 6 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 7 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 8 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 9 w:48 h:2>
+Scanner oggetti estranei:
+Codice di sblocco [0101]<Close><End of Block>
+<TextBlock 10 w:52 h:3>
+Il codice di sblocco è
+nella Sala Dati che si
+trova dall'altro lato.<Close><Close><End of Block>

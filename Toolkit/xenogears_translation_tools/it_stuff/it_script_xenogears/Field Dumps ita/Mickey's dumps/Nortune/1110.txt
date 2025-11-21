@@ -1,0 +1,37 @@
+<TextBlock 1 w:38 h:2>
+ 
+ Ricevi Minigear.<Close><End of Block>
+<TextBlock 2 w:50 h:2>
+La sicurezza ha un
+sacco di tempo libero…
+Sei fortunato.<Close><End of Block>
+<TextBlock 3 w:38 h:2>
+Uh? Oh, uh, no,
+n… nulla.<Close><End of Block>
+<TextBlock 4 w:28 h:1>
+L'ho dimenticato…<Close><End of Block>
+<TextBlock 5 w:10 h:1>
+Uh!?<Close><End of Block>
+<TextBlock 6 w:50 h:11>
+Cosa!? Il mio superultra
+eccezionale fantastico
+grande speciale fico
+bellissimo meraviglioso
+definitivo raro mai
+sconfitto che volevo
+mettere sotto una campana
+di vetro a casa mia,
+l'inestimabile Minigear!!<Close><End of Block>
+<TextBlock 7 w:14 h:1>
+Ladri!!<Close><End of Block>
+<TextBlock 8 w:50 h:2>
+La gente pensa sempre
+che noi abbiamo un
+mucchio di tempo libero.<Close><End of Block>
+<TextBlock 9 w:44 h:2>
+Comunque, che ci fai
+tu da queste parti?<Close><End of Block>
+<TextBlock 10 w:38 h:1>
+Oh… va bene.<Close><End of Block>
+<TextBlock 11 w:30 h:1>
+Qui non c'è nessuno.<Close><Close><End of Block>

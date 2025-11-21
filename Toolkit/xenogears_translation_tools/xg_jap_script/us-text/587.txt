@@ -1,0 +1,189 @@
+#### 1 ####
+Hey, I've got all kinds
+of good stuff here.{wait:14}
+Hey, you need anything?
+
+#### 2 ####
+Hey, many thanks!{wait:14}
+Come on back anytime you
+need anything...hey!?
+
+#### 3 ####
+Hey-hey, welcome.
+What can I do for
+you today, hey?
+
+#### 4 ####
+Hey, thanks.
+Come again.
+
+#### 5 ####
+It's gotten awfully cold.{wait:14}
+I hate the cold!
+It's killing me...{enter}
+If the temperature keeps
+dropping like this, we'll
+all be frozen before Deus
+can finish us off.
+
+#### 6 ####
+Us people of Shevat have
+always dreamed of coming
+down to live on the
+planet's surface...{enter}
+But we didn't ever imagine
+this would be how we would
+realize that dream!{wait:14}
+...This is unbearable!
+
+#### 7 ####
+Though this base is the
+last refuge for humans...{wait:14}
+as you can no doubt see we
+have almost no supplies.{enter}
+Anyway, we're using a
+fallen piece of Shevat
+as the main base...{wait:14}
+But you probably could
+have guessed that, huh.{enter}
+If we can take out Deus
+even one day sooner...{wait:14}
+We can't hold out much
+longer like this.
+
+#### 8 ####
+Aveh, Kislev, Nisan...
+We've been feuding for such
+a long time, but finally we
+are coming together as one
+like this...{enter}
+But it's probably already
+too late...{wait:14}
+It's always the case.
+By the time we notice 
+anything, it's way too late.{enter}
+How could we possibly
+stand up to god's army?{wait:14}
+The situation's
+really hopeless.
+
+#### 9 ####
+So many have died...{wait:14}
+If this continues,
+even more will die.{enter}
+It's the same as 500 years
+ago. {wait:14}That tragedy and
+hardship is being repeated
+again...{enter}
+What's going to happen
+to our world...{wait:14}
+What's going to happen
+to us...!
+
+#### 10 ####
+Burn, burn...!{wait:14}
+Burn up this
+whole world...!{enter}
+My home, my whole family,
+everything's been
+destroyed by them...{enter}
+Who cares anymore,
+burn it all up!!
+Hahahaha...
+
+#### 11 ####
+It's not like we're
+born just to die...?{enter}
+What's going to
+happen to us now? {wait:14}
+To this world...{enter}
+We can't carry on without
+at least drinking...{wait:14}
+It's scary and lonely...
+
+#### 12 ####
+Did you say you still
+needed something else?
+
+#### 13 ####
+Hey buddy, did you
+need something?{enter}
+If you need something
+come talk to me at the
+counter.{enter}
+I have to make things
+really clear or else
+it gets on my nerves.
+
+#### 14 ####
+Hey buddy!
+You need something?{wait:14}
+Hey, hang on a minute!
+
+#### 15 ####
+Thanks.
+Come again and I'll
+give you a better deal.{wait:14}
+(Yeah... Better you 
+than me... Haha!)
+
+#### 16 ####
+I'm not giving you your
+money back!{wait:14} They ran away
+after I sold them to you.
+
+#### 17 ####
+Hey, aren't these Picotiles
+cute?{wait:14} They're going 'cheap,
+cheap' too! How about it?
+
+#### 18 ####
+Wanna buy my Picotiles?{wait:14}
+    Buy Picotiles!
+    Don't buy any
+
+#### 19 ####
+Alright!
+20000G for the lot!{wait:14}
+And no haggling for a
+discount! So pay up!
+
+#### 20 ####
+Forced to pay 20000G.
+
+#### 21 ####
+Thanks.{wait:14}
+They're really delicious
+if you grill them...
+
+#### 22 ####
+Aaaaaaaah...!!{clear:3C}
+
+#### 23 ####
+I know nothing!{wait:0A}
+...{wait:05}Nothing!
+
+#### 24 ####
+You don't have enough money.
+Well maybe next time then...
+'Cheepskate'!
+
+#### 25 ####
+Tsk, are you mocking me?
+This isn't a game you know!
+Get outta here!
+
+#### 26 ####
+Argh! Burning! Burning!{wait:14}
+All of my rare first
+edition books and
+valuable autographs!!{enter}
+I know supplies are short,{wait:14}
+but I can't believe they
+are burning my treasures!
+
+#### 27 ####
+Do you want to go up?{wait:0A}
+    Yes
+    No
+

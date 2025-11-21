@@ -1,0 +1,12 @@
+<TextBlock 1 w:52 h:4>
+Questa macchina è stata
+creata con lo scopo di
+'mettere a riposo' i
+criminali brutali ed i
+mostri pericolosi.<New>
+Si crede che non sarà più
+usata, ma è sempre pronta,
+casomai servisse.<New>
+Chi non ha nulla da fare
+qui, dovrebbe andarsene.<Delay 20>
+Uscite, adesso.<Close><Close><End of Block>

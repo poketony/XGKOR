@@ -1,0 +1,139 @@
+<TextBlock 1 w:44 h:4>
+Roni
+"Avanti, ragazzi,<Delay 5>
+finite di mangiare.<New>
+Ultimamente non avete
+neanche potuto mangiare
+del cibo così buono
+da queste parti, vero?"<Close><End of Block>
+<TextBlock 2 w:46 h:3>
+Roni
+"Beh, diciamo che dovete
+ringraziare la mia bravura
+nei piccoli affari."<Close><End of Block>
+<TextBlock 3 w:48 h:4>
+Rene
+"…<Delay 5> Cosa c'è,<Delay 5> Lacan?<Delay 15>
+Mi sembri giù.<Delay 15>
+Che c'è che non va?<New>
+Sei preoccupato
+per qualcosa?"<Close><End of Block>
+<TextBlock 4 w:52 h:4>
+Lacan
+"Non è nulla<Delay 5>…<Delay 15>
+Stavo solo riflettendo
+sul ritratto di Sofia.<New>
+Non so perché ho accettato
+di fare il suo ritratto<Delay 5>…"<Close><End of Block>
+<TextBlock 5 w:52 h:4>
+Rene
+"Sofia<Delay 5>…<Delay 5> Intendi la tua
+amica d'infanzia che ora è
+la Santa Madre di Nisan?"<Close><End of Block>
+<TextBlock 6 w:50 h:4>
+Lacan
+"In realtà non è una
+amica d'infanzia<Delay 5>…<New>
+…<Delay 5> È solo che ho fatto la
+sua conoscenza al
+monastero vicino casa
+mia…<New>
+… quand'ero un bambino<Delay 5>…<Delay 30>
+Lei finì all'ospedale lì
+vicino perché era malata."<Close><End of Block>
+<TextBlock 7 w:32 h:2>
+Lacan
+"Era <Delay 5>fragile."<Close><End of Block>
+<TextBlock 8 w:48 h:4>
+Rene
+"Ma allora<Delay 5>…<Delay 15>
+perché sei preoccupato
+di farle il ritratto?"<Close><End of Block>
+<TextBlock 9 w:44 h:4>
+Lacan
+"Lei<Delay 5> non vuole diventare <Delay 15>
+il simbolo della
+sua setta.<New>
+…<Delay 5> In verità,<Delay 10> sembra che
+a lei, all'inizio, non
+interessasse farsi fare
+un ritratto.<New>
+Ma,<Delay 5> quando ha sentito che
+sarei stato io il pittore,<Delay 5>
+ha cambiato idea ed ha
+accettato.<New>
+È questo che non
+capisco<Delay 5>…"<Close><End of Block>
+<TextBlock 10 w:20 h:2>
+Roni
+"Ho capito<Delay 5>…"<Close><End of Block>
+<TextBlock 11 w:28 h:3>
+Roni
+"Allora<Delay 5> tu le
+devi piacere<Delay 5>…"<Close><End of Block>
+<TextBlock 12 w:30 h:3>
+Lacan
+"Ma che stai dicendo?"<Close><End of Block>
+<TextBlock 13 w:48 h:3>
+Roni
+"Le donne sono fatte in
+questo modo<Delay 5>…<Delay 15>
+Vero, Krelian<Delay 5>…?"<Close><End of Block>
+<TextBlock 14 w:24 h:2>
+Roni
+"Ehi,<Delay 5> Krel!"<Close><End of Block>
+<TextBlock 15 w:14 h:2>
+Krelian
+"Eh?"<Close><End of Block>
+<TextBlock 16 w:44 h:4>
+Rene
+"…<Delay 5> Cosa c'è?<Delay 15>
+Non mangi niente?<Delay 30>
+Dai, ché è pronto."<Close><End of Block>
+<TextBlock 17 w:26 h:2>
+Krelian
+"Ah,<Delay 5> già<Delay 5>…"<Close><End of Block>
+<TextBlock 18 w:36 h:4>
+Roni
+"La Santa Madre
+di Nisan,<Delay 5> eh?<New>
+Ehi, non dirmi che
+vuoi offendere la
+provvidenza divina,
+eh, Lacan?"<Close><End of Block>
+<TextBlock 19 w:30 h:4>
+Lacan
+"E smettila<Delay 5>…!<Delay 15>
+Non è<Delay 5>…<Delay 5> così<Delay 5>…"<Space 1><Close><End of Block>
+<TextBlock 20 w:22 h:2>
+Lacan
+"Co… <Delay 5>cosa?"<Close><End of Block>
+<TextBlock 21 w:40 h:2>
+Dovresti sorridere
+un po' di più e
+calmarti<Delay 5>…<Opcode 2 120><Close><End of Block>
+<TextBlock 22 w:52 h:4>
+Krelian
+"Tuttavia, c'era un tempo
+in cui ero solito compiere
+delle cose non buone.<New>
+Ero un attaccabrighe<Delay 5>…<Delay 15>
+Tutta la gente che
+era attorno a me
+mi temeva<Delay 10>…<New>
+Anche i miei amici.<New>
+Vivevo una vita piena di
+gente che mi guardava con
+gli occhi pieni di paura."<Close><End of Block>
+<TextBlock 23 w:52 h:4>
+Krelian
+"Ma lei era l'unica che
+non aveva paura di me<Delay 15>…<New>
+Lei, semplicemente,
+sorrideva.<New>
+La pace interiore<Delay 5>…<Delay 15>
+Fu lei ad insegnarmi cosa
+essa fosse e come avrei
+potuto ottenerla<Delay 5>…<New>
+Lei mi ha insegnato come
+vivere da uomo<Delay 5>…"<Close><Close><End of Block>

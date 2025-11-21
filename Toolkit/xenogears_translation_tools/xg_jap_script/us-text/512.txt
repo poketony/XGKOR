@@ -1,0 +1,64 @@
+#### 1 ####
+Bart
+"We're gonna get
+caught up in it!?{enter}
+Yggdrasil!!
+Get moving!!"
+
+#### 2 ####
+Bart
+"...{wait:20}...{wait:20}...{wait:20}...{wait:20}
+...{wait:20}Phew...!{enter}
+We made it...{wait:0A}
+...somehow...!?"
+
+#### 3 ####
+Bart
+"Wha, what the?"
+
+#### 4 ####
+Bart
+"Damn!{enter}
+We're spotted!!"
+
+#### 5 ####
+Bart
+"Citan!
+What now?
+What should we do?"
+
+#### 6 ####
+Bart
+"What!?"
+
+#### 7 ####
+Citan
+"Quick!
+Take cover!{enter}
+The Solarian based energy
+descending from the upper
+atmosphere is equivalent
+to a reactive weapon!"
+
+#### 8 ####
+Citan
+"...Elly?{wait:2D}
+...!"
+
+#### 9 ####
+Citan
+"Huh?{wait:18}
+What... You are asking
+me what to do?"
+
+#### 10 ####
+Franz
+"It's that red Gear...!!
+It's coming this way!!!!"
+
+#### 11 ####
+Franz
+"There's someone
+on the deck...
+It's... Elly!?"
+

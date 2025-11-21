@@ -1,0 +1,76 @@
+<TextBlock 1 w:24 h:1>
+<Opcode 1 255>Mercato<Close><End of Block>
+<TextBlock 2 w:30 h:1>
+<Opcode 1 255>Entrata Magazzino<Close><End of Block>
+<TextBlock 3 w:28 h:1>
+<Opcode 1 255>Ascensore a Vite<Close><End of Block>
+<TextBlock 4 w:44 h:5>
+Che ci fai qua in
+giro? Non sai dove
+andare, eh?
+    Hai ragione
+    Ti sbagli<Close><End of Block>
+<TextBlock 5 w:40 h:3>
+Mmh!
+Allora vattene via.
+Devo lavorare.<Close><End of Block>
+<TextBlock 6 w:48 h:4>
+I Mietitori sembrano
+buoni da lontano,
+ma sono molto lontani
+dall'essere buoni.<New>
+Il più grosso errore
+che possono fare è
+avere a che fare con
+un 'forzuto' come me.<Close><End of Block>
+<TextBlock 7 w:50 h:3>
+Toh!! Patetico.<New>
+Ora ascoltami molto
+attentamente. Te lo
+dirò una volta sola.<Close><End of Block>
+<TextBlock 8 w:34 h:1>
+Questo è il ponte!<Close><End of Block>
+<TextBlock 9 w:48 h:4>
+Questa è l'entrata
+dell'ascensore a vite
+che ti permette di
+andare sul ponte.<Close><End of Block>
+<TextBlock 10 w:46 h:3>
+Questa è l'entrata del
+magazzino, ma è anche
+un'Officina per Gear!!<Close><End of Block>
+<TextBlock 11 w:42 h:2>
+Ora che lo sai, fuori
+dai piedi! Va' via!<Close><End of Block>
+<TextBlock 12 w:42 h:4>
+Un altro giorno di
+lavoro… Sott'acqua
+giorno dopo giorno<Delay 10>…
+<Delay 10>…<Delay 10> Sigh…<Close><End of Block>
+<TextBlock 13 w:48 h:4>
+Con il lavoro per la
+Chiesa rovinato…<New>
+… credo non mi resti
+altro che rifarmi una
+vita diversa da questa…
+Sigh…<Close><End of Block>
+<TextBlock 14 w:46 h:4>
+Prima di cominciare,
+devo fare alcuni esercizi
+di riscaldamento.
+Ah, oh, ah, oh…<Close><End of Block>
+<TextBlock 15 w:48 h:4>
+Con i miei esercizi di
+riscaldamento potrò
+salvare tutti quelli
+che stanno per affogare.
+Già…<New>
+Esercizio…
+Ah, oh, ah, oh…<Close><End of Block>
+<TextBlock 16 w:20 h:3>
+Fei
+"Ok<Delay 5>…<Delay 10>
+Andiamo."<Close><End of Block>
+<TextBlock 17 w:22 h:2>
+Elly
+"A… aspetta…"<Space 1><Close><Close><End of Block>

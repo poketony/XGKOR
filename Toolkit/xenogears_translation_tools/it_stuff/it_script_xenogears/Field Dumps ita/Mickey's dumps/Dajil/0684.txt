@@ -1,0 +1,24 @@
+<TextBlock 1 w:54 h:4>
+Fei
+"È fantastico.<Delay 10>
+Stanno scavando anche
+vicino questa città?"<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+Shitan
+"Questo sito è sotto
+il controllo di Aveh.<New>
+Le macchine ed i Gear
+trovati qui sono risorse
+preziose…<New>
+… che possono cambiare
+il corso della guerra.<New>
+Sono indispensabili
+allo sforzo bellico."<Close><End of Block>
+<TextBlock 3 w:46 h:3>
+Shitan
+"Comunque Fei…<Delay 10>
+Muoviamoci.<New>
+Abbiamo cose più
+importanti da fare
+che perdere tempo
+con queste cose!"<Close><Close><End of Block>

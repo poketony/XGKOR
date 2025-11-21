@@ -1,0 +1,212 @@
+#### 1 ####
+Elly
+"That Gear..."{clear:18}
+
+#### 2 ####
+Elly
+"...I know, I know it
+well... Yes...the cavern
+city Zeboim...{enter}
+When we were buried in
+that vast mausoleum."
+
+#### 3 ####
+Elly
+"Huh?...What?{enter}
+...{wait:20}Did I just..."
+
+#### 4 ####
+Citan
+"That voice...{wait:19}Wiseman!{enter}
+...{wait:20}
+...Go!!
+Everyone, hurry!"
+
+#### 5 ####
+Citan
+"Elly!
+Elly!{enter}
+What is wrong!!"
+
+#### 6 ####
+Citan
+"No...{wait:20}
+Hurry on ahead."
+
+#### 7 ####
+Citan
+"Bishop Stone!!
+Wait!!"
+
+#### 8 ####
+Bart
+"Hey, Citan!"{clear:18}
+
+#### 9 ####
+Bart
+"A city...
+A city beneath the ground...{enter}
+Is this...a ruin too?"
+
+#### 10 ####
+Bart
+"...That Gear..."{clear:20}
+
+#### 11 ####
+Bart
+"Who the hell are you?{enter}
+I haven't forgotten to
+pay you back for what you
+did to the Yggdrasil! At
+least give us your name!!"
+
+#### 12 ####
+Bart
+"Too strong...{wait:20}
+Huh?"
+
+#### 13 ####
+Billy
+"What the..."{clear:18}
+
+#### 14 ####
+Billy
+"These are ruins of
+a city...{enter}
+I've heard of it
+but..."
+
+#### 15 ####
+Billy
+"Who are you?
+At least give us 
+your name!"
+
+#### 16 ####
+Billy
+"You're strong...{wait:20}
+Huh?"
+
+#### 17 ####
+Rico
+"Hey! Citan!
+...Ah, nevermind."{clear:20}
+
+#### 18 ####
+Rico
+"!!!?{wait:10}
+What the hell!{enter}
+We're supposed to be 
+underground, how'd we 
+end up in the air?"
+
+#### 19 ####
+Rico
+"!!!?{wait:10}
+Him..."{clear:20}
+
+#### 20 ####
+Rico
+"You're strong...{wait:20}
+Huh?"
+
+#### 21 ####
+Rico
+"Who d'ya think you are?
+What's your name?"
+
+#### 22 ####
+{name:07:チュチュ}
+"Wow! Neato!!
+There's more ground
+underground chu!"
+
+#### 23 ####
+Give it back,
+give it back,
+give it back...{clear:2D}
+
+#### 24 ####
+Wiseman
+"I got him!
+Hurry, go after them!!"
+
+#### 25 ####
+Wiseman
+"Huh?
+...Oh...no..."
+
+#### 26 ####
+Stone
+"Hah.
+Elements, you're not even
+as good as they say...{enter}
+Can't even buy me some
+time."
+
+#### 27 ####
+Stone
+"?"
+
+#### 28 ####
+Stone
+"W, what do you want?
+Wh, who're you?"
+
+#### 29 ####
+Stone
+"Now is our chance!!
+Get back to Krelian..."
+
+#### 30 ####
+Ha hah...{wait:20}
+Hyah ha ha...{wait:2A}
+Har hahahahahaha!!
+
+#### 31 ####
+Ha ha...
+That is mine.
+Give it back!!
+
+#### 32 ####
+To you, it is just a
+used up toy.{enter}
+So give it back.
+It belongs to me..."
+
+#### 33 ####
+Names do not matter...{enter}
+However, if you insist...{wait:32}
+...Id...
+
+#### 34 ####
+Id
+"!!{wait:20}
+...You...?..."
+
+#### 35 ####
+Id
+"Hmph, a little early
+isn't it?{enter}
+...I see, it was that
+woman...{enter}
+Fine.
+You will do fine, as my
+toy...for today."
+
+#### 36 ####
+Id
+"Hah ha
+Hyah ha ha ha..."
+
+#### 37 ####
+Id
+"Hmph..."
+
+#### 38 ####
+...Give it back.{clear:20}
+
+#### 39 ####
+Give it back,
+give it back...{clear:32}
+

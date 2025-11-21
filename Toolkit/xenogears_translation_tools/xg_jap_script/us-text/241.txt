@@ -1,0 +1,11 @@
+#### 1 ####
+Citan
+"Sigurd!!!"
+
+#### 2 ####
+Citan
+"...I am being carried
+by the wind to the
+vicinity of the border{wait:20}...{enter}
+...{wait:05}What is {wait:20}that?"
+

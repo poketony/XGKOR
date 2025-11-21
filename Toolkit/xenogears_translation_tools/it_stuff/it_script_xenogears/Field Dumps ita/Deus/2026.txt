@@ -1,0 +1,104 @@
+<TextBlock 1 w:34 h:2>
+Ti stavo aspettando, Fei!!<Close><End of Block>
+<TextBlock 2 w:36 h:4>
+Ramsus
+"Fei<Delay 5>…<Delay 20>
+Se solo tu non
+fossi nato<Delay 5>…"<Close><End of Block>
+<TextBlock 3 w:36 h:4>
+Ramsus
+"Io<Delay 5>…<Delay 20> io<Delay 5>…<Delay 20>
+Oggi la faremo finita
+una volta per tutte!!"<Close><End of Block>
+<TextBlock 4 w:52 h:4>
+Fei
+"Basta, Ramsus!<Delay 20> Per quale
+motivo continui a
+combattere contro di me!?<New>
+Per chi stai combattendo!?<Delay 20>
+Perché cerchi sempre di
+attaccare briga con me!?<Delay 20>
+Dimmi perché!"<Close><End of Block>
+<TextBlock 5 w:46 h:3>
+Ramsus
+"È tutto per causa
+tua<Delay 5>…<New>
+Se solo tu non fossi mai
+venuto a distruggere ogni
+cosa che avevo in mente
+per la mia vita<Delay 5>…"<Close><End of Block>
+<TextBlock 6 w:52 h:3>
+La vita<Delay 5>…<Delay 5> mi fu donata
+dentro un Nanoreattore che
+si trovava nel laboratorio
+di Krelian.<New>
+Nascere come l'essere
+superiore, ben migliore
+di tutti gli uomini<Delay 5>…<Delay 30>
+Ma poi<Delay 5>…<Close><End of Block>
+<TextBlock 7 w:54 h:4>
+Ramsus
+"Per colpa della
+tua esistenza, io
+fui messo da parte<Delay 5>…!<New>
+Io ero destinato ad
+essere il rappresentante
+di dio<Delay 5>…<Delay 5> dacché posseggo
+il potere dell'Imperatore.<New>
+Ero destinato ad essere
+l'essere assoluto…<New>
+… che possiede la facoltà
+di esercitare su tutto e
+tutti il potere assoluto!<New>
+Ma<Delay 5>…<Delay 30> ho perso tutto
+questo<Delay 5>…<Delay 5> a causa tua!!"<Close><End of Block>
+<TextBlock 8 w:50 h:4>
+Fei
+"M… mia madre<Delay 5>…?<Delay 20>
+Come fai<Delay 5>…<Delay 5> a conoscerla<Delay 5>…?<Delay 20><Space 1>
+Ramsus<Delay 5>…!"<Close><End of Block>
+<TextBlock 9 w:48 h:4>
+Dominia
+"Comandante! La
+prego, si fermi!<New>
+Comandante, se ciò che
+dice è vero, questa è
+una ragione in più
+per non combattere!<New>
+Lei è soltanto stato
+usato da Krelian e<Delay 5>…"<Close><End of Block>
+<TextBlock 10 w:50 h:4>
+Ramsus
+"Silenzio!!<Delay 20>
+Tu<Delay 5>…<Delay 5> anche tu<Delay 5>…<Delay 5>
+osi criticarmi!?<New>
+Ti ho salvato che stavi
+per diventare una cavia
+per esperimenti… ed ora
+ti metti contro di me!?"<Close><End of Block>
+<TextBlock 11 w:46 h:4>
+Dominia
+"Si sta sbagliando!<Delay 20>
+Noi pensiamo soltanto
+al suo bene…"<Close><End of Block>
+<TextBlock 12 w:44 h:4>
+Ramsus
+"Silenzio!!<New>
+In definitiva, solo io
+posso aiutare me stesso!<Delay 20>
+Sono l'unico che può
+fare qualcosa!"<Close><End of Block>
+<TextBlock 13 w:52 h:4>
+Ramsus
+"Questa è la tua fine!!<Delay 20>
+En garde!<Delay 20> Perché sto
+arrivando, Fei!!"<Close><End of Block>
+<TextBlock 14 w:34 h:2>
+Fei
+"Che cosa<Delay 5>…?"<Close><End of Block>
+<TextBlock 15 w:20 h:2>
+Fei
+"Ramsus!?"<Close><End of Block>
+<TextBlock 16 w:34 h:2>
+Ramsus
+"Ghuuaaaahh…!!"<Opcode 2 20><Close><End of Block>

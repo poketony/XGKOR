@@ -1,0 +1,30 @@
+<TextBlock 1 w:24 h:1>
+Ua-a-a-a-a!!<Opcode 2 150><Close><End of Block>
+<TextBlock 2 w:54 h:4>
+Fei
+"Questo deserto non
+finisce mai<Delay 15>…?<New>
+Meglio sbrigarsi, sarà
+notte molto presto…"<Close><End of Block>
+<TextBlock 3 w:50 h:4>
+Fei
+"E adesso? Dei Gear,
+un oggetto volante…
+ed ora questi tizi…<New>
+Spero che Doc
+stia bene!"<Close><End of Block>
+<TextBlock 4 w:16 h:3>
+Fei
+"…<Delay 60>
+Eeeyah!"<Opcode 2 30><Close><End of Block>
+<TextBlock 5 w:48 h:4>
+Fei
+"Ehm, scusami!<Delay 10>
+La prendo in prestito
+per un po'!"<Close><End of Block>
+<TextBlock 6 w:2 h:1>
+?<Opcode 2 100><Close><End of Block>
+<TextBlock 7 w:27 h:1>
+ Ehi, asp~etta! <Close><End of Block>
+<TextBlock 8 w:27 h:1>
+ Ehi, asp~etta! <Close><Close><End of Block>

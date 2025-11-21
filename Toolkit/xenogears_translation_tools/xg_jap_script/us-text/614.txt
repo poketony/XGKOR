@@ -1,0 +1,148 @@
+#### 1 ####
+Maria
+"Father!?{wait:28}
+Is it really you,
+Nikolai, my father!?"
+
+#### 2 ####
+Maria
+"!!!{wait:28}
+...Why did you do such
+a horrid thing!?"
+
+#### 3 ####
+Maria
+"No!"
+
+#### 4 ####
+Maria
+"!?{wait:3C}
+{wait:28}...{wait:28}Seibzehn's trembling.{wait:3C}
+{wait:28}...{wait:28}Are you crying?{enter}
+{wait:28}...{wait:28}Brainwashed by
+Solaris, my real
+father is already{wait:28}...{enter}
+{wait:28}...{wait:28} Achtzehn is{wait:28}...{wait:5A}
+Not my father!"
+
+#### 5 ####
+Maria
+"{wait:28}...{wait:28}Achtzehn!
+I will defeat you!!{wait:3C}
+Seibzehn, let's go!!"
+
+#### 6 ####
+Maria
+"!!{wait:28} Father!{wait:28}
+Have you come
+to your senses!?{enter}
+No!{wait:05}
+I can't do it!!{enter}
+The Graviton Cannon{wait:05}...{wait:05}
+you yourself had it
+sealed up because of
+its destructive power.{enter}
+Father, if I use
+that on you{wait:28}..."
+
+#### 7 ####
+Maria
+"...{wait:1E}I can't. 
+I can't bring
+myself to do it!!{enter}
+Huh! Seibzehn!{wait:1E}
+Don't...{wait:1E} I can't
+control you!{wait:1E} Father,
+are you doing this!?{enter}
+Please, don't make
+him shoot!!"
+
+#### 8 ####
+Maria
+"...Faaaaaatheeerrr!!"
+
+#### 9 ####
+Achtzehn
+"Maria...{wait:28}
+Have you been a
+good little girl?{enter}
+Look, this is Achtzehn.{enter}
+I've been able to merge
+myself with Achtzehn
+through the M Project
+research in Solaris.{enter}
+Observe the birth of the
+ultimate in reflexive
+speed by the unification
+of man and machine!{enter}
+No normal Gear could
+ever hope to defeat
+this Achtzehn!"
+
+#### 10 ####
+Achtzehn
+"Hmph. 'Horrid?'{wait:28}
+No, Maria.{wait:28}
+It is 'glorious.'{enter}
+Yes, yes. I shall also
+modify you and your
+Seibzehn to become one
+entity, just like me."
+
+#### 11 ####
+Achtzehn
+"Hah hah hah.{wait:28} Rebelling?
+I see, you've already
+reached that age{wait:28}...{enter}
+Come now,{wait:28} don't be so
+spoiled like that,{wait:28}
+come{wait:28}...{wait:28} here.{enter}
+Won't{wait:28}... you listen
+to{wait:28}... {wait:28}YOUR FATHER!!
+COME HERE NOW!"
+
+#### 12 ####
+Achtzehn
+"What are you saying{wait:28}...{wait:28}
+It's me{wait:28}...{wait:28}
+Your father{wait:28}... Nikolai..."
+
+#### 13 ####
+Nikolai
+"Maria...{wait:28}
+can you hear me?{enter}
+I'm going to release
+your Graviton Cannon
+from its seal by
+remote control!{enter}
+Use that to
+defeat me."
+
+#### 14 ####
+Nikolai
+"Fire!!{wait:0A} It doesn't
+matter...{wait:0A} I,{wait:05} Nikolai,{wait:05}
+no longer exist...{enter}
+Before I was brain-
+washed by Solaris, I
+implanted a conscience
+circuit in Achtzehn...{enter}
+This would respond and
+activate in the presence
+of Seibzehn. My message
+is coming from there.{enter}
+And, during the battle,
+I transferred all my
+data from there to
+Seibzehn.{enter}
+I may have lost my body,{wait:0A}
+but my spirit is with
+Seibzehn,{wait:5A} no,{wait:0A} with you,
+Maria.{wait:28} Now and forever!"
+
+#### 15 ####
+Nikolai
+"Maria{wait:28}...{wait:28} I will always
+be with you.{wait:28}
+Now and forever{wait:28}...{wait:28}"
+

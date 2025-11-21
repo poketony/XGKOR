@@ -1,0 +1,178 @@
+<TextBlock 1 w:50 h:3>
+Elly
+"Ci sta raggiungendo!!"<Opcode 2 30><Close><End of Block>
+<TextBlock 2 w:8 h:2>
+Elly
+"!!"<Opcode 2 30><Close><End of Block>
+<TextBlock 3 w:34 h:2>
+Ramsus
+"Lento, troppo lento!"<Opcode 2 30><Close><End of Block>
+<TextBlock 4 w:52 h:2>
+Ramsus
+"Ah! Che spettacolo
+patetico!"<Opcode 2 30><Close><End of Block>
+<TextBlock 5 w:24 h:2>
+Ramsus
+"Elhaym<Delay 5>…<Delay 5>?"<Close><End of Block>
+<TextBlock 6 w:50 h:4>
+Krelian
+"Sì.<Delay 10> Questo è il tuo
+compito.<Delay 10> Voglio che tu
+me la porti qui.<New>
+Lei è una donna molto
+importante per me."<Close><End of Block>
+<TextBlock 7 w:42 h:4>
+Ramsus
+"Non sia ridicolo.<Delay 10>
+Per quale motivo la
+devo ascoltare?<New>
+Se ha bisogno di lei,
+vada a prendersela
+da solo!"<Close><End of Block>
+<TextBlock 8 w:46 h:5>
+Krelian
+"Probabilmente
+hai ragione.<New>
+Ma… riesci a dire
+lo stesso dopo aver
+visto questo?"<Close><End of Block>
+<TextBlock 9 w:32 h:2>
+Ramsus
+"Questo<Delay 10> è<Delay 5>…"<Close><End of Block>
+<TextBlock 10 w:42 h:4>
+Krelian
+"Il tuo Gear è stato
+allineato con il
+Contenitore dell'Anima<Delay 15>…<New>
+Ed ecco l'Omnigear.<Delay 10>
+Al momento, lei si
+trova con Fei."<Close><End of Block>
+<TextBlock 11 w:16 h:2>
+Ramsus
+"Che cosa!?"<Close><End of Block>
+<TextBlock 12 w:52 h:4>
+Krelian
+"Perdere, perdere sempre
+contro Fei<Delay 15>…<New>
+Io credo che<Delay 10> sia a causa
+della differenza tra la
+potenza espressa dai Gear.<New>
+Penso che<Delay 5> sarai in grado
+di utilizzare al massimo
+le sue capacità.<New>
+Allora, che ne dici?<Delay 10>
+Tuttavia, se fallisci
+anche con questo Gear,
+sei davvero un 'rifiuto'."<Close><End of Block>
+<TextBlock 13 w:12 h:2>
+Ramsus
+"<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 14 w:44 h:2>
+Krelian
+"Ramsus,<Delay 10> cos'hai
+deciso?"<Close><End of Block>
+<TextBlock 15 w:44 h:2>
+Miang
+"Kahr,<Delay 10> allora vai?"<Close><End of Block>
+<TextBlock 16 w:42 h:4>
+Ramsus
+"Sì.<Delay 10>
+Devo sbarazzarmi di lui
+con le mie stesse mani."<Close><End of Block>
+<TextBlock 17 w:54 h:4>
+Miang
+"Stai attento.<Delay 10> Io credo
+in te… non importa
+cosa dicono gli altri."<Close><End of Block>
+<TextBlock 18 w:50 h:4>
+'Fei'!<Delay 20>
+Che nome disgustoso…<Delay 20>
+Io ho lavorato duramente
+per arrivare dove sono ora.<New>
+Ma lui ha rovinato tutto
+ancora una volta<Delay 5>…<Close><End of Block>
+<TextBlock 19 w:40 h:3>
+Ramsus
+"!?<Delay 10>
+Quel segnale…!<New>
+È lui!<Delay 10>
+Io non sono un rifiuto!
+Non sono inutile!!"<Close><End of Block>
+<TextBlock 20 w:44 h:3>
+Fei
+"Ma che razza…<Delay 15> di
+Gear è quello<Delay 5>…?"<Close><End of Block>
+<TextBlock 21 w:4 h:1>
+!!<Close><End of Block>
+<TextBlock 22 w:56 h:4>
+Elly
+"Un Omnigear!!<New>
+E da quanto vedo
+sugli indicatori
+del nostro Gear<Delay 5>…<New>
+È chiaramente diverso da
+quello che usa Bart o da
+quello che c'è a Shevat<Delay 5>…<New>
+<Delay 5>… Pensi che sia…!?<Delay 10>
+Il Gear perfetto!?"<Close><End of Block>
+<TextBlock 23 w:32 h:1>
+Il Gear perfetto<Delay 5>…?<Close><End of Block>
+<TextBlock 24 w:56 h:3>
+Elly
+"Ricordi cosa
+ha detto Shitan?<New>
+Ha detto che gli Omnigear
+sono controllati dalle
+onde mentali.<New>
+La potenza e il potenziale
+cambiano a seconda del
+tasso di sincronia.<New>
+Ed il numero qui indica
+una sincronia totale!"<Close><End of Block>
+<TextBlock 25 w:46 h:3>
+Ramsus
+"Umph<Delay 5>…<Delay 10>
+Sapevo che eravate qui."<Close><End of Block>
+<TextBlock 26 w:20 h:2>
+Fei
+"Ramsus!?"<Close><End of Block>
+<TextBlock 27 w:34 h:3>
+Ramsus
+"Consegnami il
+Tenente Elhaym,<Delay 10>
+<Delay 10>Fei!"<Close><End of Block>
+<TextBlock 28 w:50 h:4>
+Fei
+"Cosa!? E perché dovrei
+consegnarti Elly…!?<New>
+Ah, ho capito, è
+un'idea di Krelian,
+non è vero?<New>
+Non lo farò mai!
+Non puoi pretendere
+che io lo faccia!"<Close><End of Block>
+<TextBlock 29 w:50 h:4>
+Ramsus
+"Posso prenderla con la
+forza, se così desideri.<New>
+Ma,<Delay 5> in questo caso,<Delay 5> sia
+ben chiara una cosa.<New>
+Non potrai mai più
+tenerla nelle tue
+braccia.<Delay 10> Mai più!"<Close><End of Block>
+<TextBlock 30 w:10 h:1>
+Elly
+"Fei!!"<Close><End of Block>
+<TextBlock 31 w:36 h:3>
+Fei
+"Non preoccuparti.<Delay 10>
+Ti proteggerò io."<Close><End of Block>
+<TextBlock 32 w:40 h:3>
+Ramsus
+"Che parole
+impressionanti.<New>
+Fei, ho intenzione
+di portarti via tutto!
+TUTTO!!"<Close><End of Block>
+<TextBlock 33 w:0 h:1>
+<Close><End of Block>

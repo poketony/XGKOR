@@ -1,0 +1,145 @@
+<TextBlock 1 w:20 h:3>
+Chi gioca?<Space 5>
+    <Perso1>
+    <Perso2><Close><End of Block>
+<TextBlock 2 w:20 h:4>
+Chi gioca?<Space 5>
+    <Perso1>
+    <Perso2>
+    <Perso3><Close><End of Block>
+<TextBlock 3 w:14 h:1>
+Uno-due<Close><End of Block>
+<TextBlock 4 w:16 h:3>
+Rinunci?
+    No
+    Sì<Close><End of Block>
+<TextBlock 5 w:16 h:1>
+Pronti?<Opcode 2 30><Close><End of Block>
+<TextBlock 6 w:24 h:1>
+Si comincia!<Close><End of Block>
+<TextBlock 7 w:36 h:5>
+Pensavi che avrei
+gareggiato subito?<New>
+Sii serio! Solo i
+più veloci possono
+vincere. È un gioco
+di carte per veri
+'uomini di mare'.<Close><End of Block>
+<TextBlock 8 w:50 h:4>
+Ti spiegherò le regole.
+Per prima cosa consegnerò
+a te e al tuo avversario
+26 carte ciascuno.<Close><End of Block>
+<TextBlock 9 w:46 h:3>
+Poi piazzerò 4 carte di
+fronte a ogni giocatore
+come mano corrente.<Close><End of Block>
+<TextBlock 10 w:48 h:2>
+Dopo piazzerò un'altra
+carta alla tua sinistra.<Close><End of Block>
+<TextBlock 11 w:56 h:5>
+Fin qui lo farò io per te.
+Ma da qui in poi inizia
+il gioco.<New>
+Devi prendere le tue prime
+4 carte e le restanti 21 e
+piazzarle più velocemente
+del tuo avversario in cima
+delle due carte centrali.<New>
+Naturalmente ci sono certe
+regole per giocare le carte.<Close><End of Block>
+<TextBlock 12 w:48 h:4>
+Piazza una carta sopra
+un'altra carta se sono
+numericamente in ordine.
+Come un numero più alto…<Close><End of Block>
+<TextBlock 13 w:48 h:2>
+In questo caso, dove c'è
+un 3 puoi giocare un 4.<Close><End of Block>
+<TextBlock 14 w:44 h:1>
+O un numero più basso…<Close><End of Block>
+<TextBlock 15 w:48 h:2>
+In questo caso, dove c'è
+un 4 puoi giocare un 3.<Close><End of Block>
+<TextBlock 16 w:36 h:2>
+Ma se i numeri non
+sono in ordine…<Close><End of Block>
+<TextBlock 17 w:44 h:4>
+… non puoi giocare la
+carta. Ma se c'è un K
+(13) puoi giocare un A
+(1) e viceversa.<Close><End of Block>
+<TextBlock 18 w:52 h:6>
+Ora ti insegnerò come
+puoi controllare le carte.
+Primo…<New>
+Per muovere una carta
+in una posizione vuota,
+usa sinistra o destra
+sul pulsante di
+direzione per scegliere
+la posizione.<New>
+Poi usa il pulsante
+<Cross>, <Tri>, L1 o R1
+per piazzare
+la carta.<Close><End of Block>
+<TextBlock 19 w:48 h:3>
+E per giocare una carta,
+posizionati sulla carta
+che vuoi giocare…<Close><End of Block>
+<TextBlock 20 w:44 h:3>
+E premi il pulsante <Tri>
+o R1 per giocare sulla
+destra…<Close><End of Block>
+<TextBlock 21 w:44 h:3>
+O premi il pulsante <Cross>
+o L1 per giocare sulla
+sinistra.<Close><End of Block>
+<TextBlock 22 w:50 h:3>
+Naturalmente anche il tuo
+avversario giocherà le
+sue carte.<Close><End of Block>
+<TextBlock 23 w:58 h:4>
+Cosa succede se non puoi
+giocare una carta anche
+rimpiazzando le 4 carte
+che sono di fronte a te?<New>
+Ci sarà una chiamata di
+'uno-due', e una carta sarà
+giocata direttamente dal
+tuo rimanente mazzo di carte.<Close><End of Block>
+<TextBlock 24 w:14 h:1>
+Uno-due<Close><End of Block>
+<TextBlock 25 w:46 h:4>
+Se entrambi i giocatori
+ancora non possono
+giocare, si ripeterà
+l'uno-due.<Close><End of Block>
+<TextBlock 26 w:52 h:3>
+Se non sono rimaste carte
+giocabili sul tuo mazzo
+alla chiamata 'uno-due'…<New>
+Sarà giocata la carta più
+a sinistra fra quelle che
+si trovano di fronte a te.<Close><End of Block>
+<TextBlock 27 w:14 h:1>
+Uno-due<Close><End of Block>
+<TextBlock 28 w:4 h:1>
+E…<Close><End of Block>
+<TextBlock 29 w:52 h:3>
+Il primo giocatore che usa
+tutte le carte ha vinto.
+In questo caso hai perso.<Close><End of Block>
+<TextBlock 30 w:54 h:4>
+Oh, un'altra cosa.<New>
+Premendo il pulsante Select
+puoi abbandonare la partita.
+Ma in questo modo perderai.<Close><End of Block>
+<TextBlock 31 w:50 h:4>
+Comunque, ci sono
+molti buoni giocatori
+a bordo del Tammuz.<New>
+Perché non inizi giocando
+con il mio amico qui?
+    Sì
+    No, grazie<Close><End of Block>

@@ -1,0 +1,281 @@
+<TextBlock 1 w:28 h:4>
+Fei
+"Uh?
+Neanche quest'altra
+si apre."<Close><End of Block>
+<TextBlock 2 w:54 h:2>
+Fei
+"A che serve questo
+impianto?"<Close><End of Block>
+<TextBlock 3 w:42 h:2>
+Fei
+"Dalla notte dei tempi?"<Close><End of Block>
+<TextBlock 4 w:42 h:3>
+Fei
+"Stai parlando dei dati
+nel banco di memoria?"<Close><End of Block>
+<TextBlock 5 w:48 h:4>
+Fei
+"Questo significa che
+noi vivevamo per quegli
+anziani…<New>
+… che compongono il
+Ministero di Gazel?"<Close><End of Block>
+<TextBlock 6 w:46 h:4>
+Fei
+"Vuoi dire che anche quei
+mutanti vengono smontati
+in quello stabilimento?"<Close><End of Block>
+<TextBlock 7 w:36 h:3>
+Fei
+"È orribile…<Delay 40>
+Come hanno potuto…"<Close><End of Block>
+<TextBlock 8 w:14 h:2>
+Fei
+"Cosa?"<Close><End of Block>
+<TextBlock 9 w:42 h:3>
+Fei
+"Doc, ma non te
+ne sei accorto
+anche tu…"<Close><End of Block>
+<TextBlock 10 w:46 h:3>
+Fei
+"Ehi, un momento!
+Potrebbe essere stata
+solo fortuna…"<Close><End of Block>
+<TextBlock 11 w:38 h:2>
+Fei
+"Elly, uh, mmmh…"<Close><End of Block>
+<TextBlock 12 w:28 h:2>
+Fei
+"Co… cosa…!"<Space 1><Close><End of Block>
+<TextBlock 13 w:30 h:3>
+Fei
+"Ehi, state bene?
+Elly? Elly…?"<Opcode 2 40><Close><End of Block>
+<TextBlock 14 w:14 h:2>
+Fei
+"Elly!"<Opcode 2 40><Close><End of Block>
+<TextBlock 15 w:30 h:2>
+Fei
+"Doc… Shitan!"<Opcode 2 40><Close><End of Block>
+<TextBlock 16 w:16 h:3>
+Fei
+"Merda!
+Ci hanno beccati!"<Close><End of Block>
+<TextBlock 17 w:30 h:3>
+Fei
+"Elly!<Delay 30> Shitan!<Delay 30>
+Dove siete!?"<Close><End of Block>
+<TextBlock 18 w:30 h:3>
+Fei
+"Merda! Non si
+vuole aprire…"<Close><End of Block>
+<TextBlock 19 w:50 h:4>
+Elly
+"(Perché… conosce il
+codice di disattivazione
+della porta?)"<Opcode 2 5><Close><End of Block>
+<TextBlock 20 w:44 h:3>
+Elly
+"Come può un essere
+umano… vivere per
+10000 anni…?"<Close><End of Block>
+<TextBlock 21 w:48 h:4>
+Elly
+"Stanno prendendo e
+trasferendo al Ministero
+dati sugli esseri viventi…<New>
+… per mezzo dei Cubi di
+Memoria, affinché essi
+possano usarli per far
+risuscitare i loro corpi!?"<Close><End of Block>
+<TextBlock 22 w:48 h:3>
+Elly
+"Shitan, come puoi
+sapere tutte
+queste cose?<New>
+Neanche il governo o
+l'esercito le conosce!"<Close><End of Block>
+<TextBlock 23 w:54 h:4>
+Elly
+"A pensarci bene, pare che
+siamo giunti fin qui con
+uno scopo ben preciso.<New>
+Ci deve essere una via
+più veloce per giungere
+a Bart ed agli altri.<Delay 10>
+Inoltre…<New>
+… l'itinerario per
+giungere a questo blocco
+non può neppure essere
+trasferito sulla mappa.<New>
+Quindi, come facevamo
+a conoscere le strade
+che percorrevamo?"<Close><End of Block>
+<TextBlock 24 w:48 h:3>
+Elly
+"È impossibile.<New>
+In primo luogo, quel
+segmento che abbiamo
+preso per entrare in
+questo blocco…<New>
+Quel pannello era
+protetto da un codice
+di sicurezza di livello
+P4.<New>
+Neanche un ufficiale
+di grado superiore di
+Solaris può entrare qui.<New>
+Pensi che lascerebbero
+un impianto come questo
+aperto e senza alcuna
+protezione?"<Close><End of Block>
+<TextBlock 25 w:46 h:3>
+Elly
+"E tu puoi aprirla?
+In realtà tu…<Delay 10>
+chi sei?"<Close><End of Block>
+<TextBlock 26 w:52 h:4>
+Elly
+"Qualcosa non va…<Delay 40>!<New>
+Sei entrato a Solaris
+mentre era in vigore
+la legge marziale.<New>
+Ti sei introdotto nel
+palazzo e hai superato
+una porta di livello P4.<New>
+E conoscevi anche lo
+scopo dell'impianto…<Delay 30>
+Com'è possibile?"<Close><End of Block>
+<TextBlock 27 w:50 h:4>
+Elly
+"Neanche mio padre
+sapeva queste cose.<New>
+E sono sicura che
+all'epoca tu fossi
+a Solaris."<Close><End of Block>
+<TextBlock 28 w:52 h:4>
+Elly
+"Neanche Jessie, che
+allora si trovava a
+Solaris…<New>
+… conosceva i motivi
+dietro il Progetto M.<New>
+Shitan, perché tu li sai?
+Conosci più dettagli di
+Maria… C'è qualcosa che
+non va… lo sento."<Close><End of Block>
+<TextBlock 29 w:30 h:2>
+Elly
+"Non ho finito!"<Close><End of Block>
+<TextBlock 30 w:40 h:4>
+Elly
+"Non l'avevo notato
+prima. Shitan…<Delay 40>
+Chi sei tu?"<Close><End of Block>
+<TextBlock 31 w:22 h:2>
+Shitan
+"Da questa parte."<Close><End of Block>
+<TextBlock 32 w:50 h:4>
+Shitan
+"…<New>
+Sin dalla notte dei
+tempi, questo luogo
+non è stato creato
+per essere visto.<New>
+Quest'impianto verte
+agli esperimenti sulla
+longevità del Ministero
+e dell'Imperatore."<Close><End of Block>
+<TextBlock 33 w:52 h:4>
+Shitan
+"Sì…<Delay 30> 10000 anni fa.
+Le creature chiamate
+uomini nacquero qui.<New>
+I primi furono
+l'Imperatore e gli
+anziani del Ministero…"<Close><End of Block>
+<TextBlock 34 w:54 h:4>
+Shitan
+"Ora solo l'Imperatore
+è rimasto.<New>
+Il suo destino è
+di non morire mai.<New>
+Comunque, il Ministero
+è differente.<New>
+Una volta, durante
+l'Invasione dei
+Diavoli<Delay 30>…<New>
+… gli anziani del
+Ministero perirono,
+perdendo i loro corpi.<New>
+Il Ministero che al
+momento governa Solaris…
+esiste solo come dati
+nei banchi di memoria.<New>
+Ognuna delle loro
+personalità è composta
+da bit di dati."<Close><End of Block>
+<TextBlock 35 w:52 h:4>
+Shitan
+"Non avendo né carne né
+anima, sono solo dei
+numeri binari.<New>
+Si può dire che essi
+esistono e non esistono
+allo stesso tempo…"<Close><End of Block>
+<TextBlock 36 w:54 h:4>
+Shitan
+"Dopo la Caduta,
+desiderando risuscitare
+i loro corpi…<New>
+… e generarne degno
+contenitore…<New>
+… trasferirono dalla
+terra ad Etemenanki
+un impianto di ricerca…<New>
+… che una volta era
+il Sistema Soylent.<Delay 50>
+Alla fine…<New>
+… lo stabilimento non fu
+più utilizzato solo per
+la vita dell'Imperatore
+e…<New>
+… per la risurrezione del
+Ministero, ma ha iniziato
+a produrre gli alimenti
+e le droghe con additivi…<New>
+… che hanno controllato
+la gente.<New>
+Il cubo di memoria che
+Fei e gli altri usavano
+aveva lo scopo di ottenere
+dati dai viventi.<New>
+Naturalmente, dati
+trasmessi anche dalla
+Chiesa come ausilio."<Close><End of Block>
+<TextBlock 37 w:12 h:2>
+Shitan
+"Sì."<Close><End of Block>
+<TextBlock 38 w:12 h:2>
+Shitan
+"Sì."<Close><End of Block>
+<TextBlock 39 w:50 h:3>
+Shitan
+"Essenzialmente,
+desiderano riutilizzare
+le scorie inutili."<Close><End of Block>
+<TextBlock 40 w:28 h:2>
+Fei
+"Doc, aspetta…"<Close><End of Block>
+<TextBlock 41 w:46 h:3>
+Elly
+"Aspetta, Fei!
+Qualcosa non va!"<Close><End of Block>
+<TextBlock 42 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 43 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><Close><End of Block>

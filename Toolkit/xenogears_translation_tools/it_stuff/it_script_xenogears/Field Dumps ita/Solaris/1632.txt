@@ -1,0 +1,115 @@
+<TextBlock 1 w:16 h:1>
+Samson!!<Opcode 2 15><Close><End of Block>
+<TextBlock 2 w:48 h:3>
+Samson
+"Non male.<Delay 10> Credo che
+passerò io per primo!"<Close><End of Block>
+<TextBlock 3 w:50 h:4>
+Elly
+"Fermo!<Delay 10> 
+Tu non sei un Gazel!<Delay 10>
+Cosa pensi di fare?"<Close><End of Block>
+<TextBlock 4 w:46 h:4>
+Samson
+"Nessun problema. Ho usato
+un metodo da hacker per
+riscrivere il mio ID."<Close><End of Block>
+<TextBlock 5 w:6 h:1>
+…<Opcode 2 10><Close><End of Block>
+<TextBlock 6 w:27 h:2>
+<]><Delay 10><]><Delay 10><]><Delay 10> Errore ID.<Space 1>
+Eliminare.<Opcode 2 30><Close><End of Block>
+<TextBlock 7 w:26 h:2>
+F… fermo!!<Delay 10>
+Ughaaaaaahhh!<Opcode 2 10><Close><End of Block>
+<TextBlock 8 w:4 h:1>
+!!<Close><End of Block>
+<TextBlock 9 w:6 h:1>
+…<Close><End of Block>
+<TextBlock 10 w:46 h:3>
+Fei
+"Bastardo!!<Delay 10>
+Ti distruggerò!!"<Close><End of Block>
+<TextBlock 11 w:6 h:1>
+No!<Opcode 2 30><Close><End of Block>
+<TextBlock 12 w:12 h:1>
+Uaah!!<Opcode 2 30><Close><End of Block>
+<TextBlock 13 w:50 h:4>
+Elly
+"È inutile che lo fai!<New>
+Non potrai mai passare
+senza un ID di Cittadino
+di I classe o un ID
+militare…"<Close><End of Block>
+<TextBlock 14 w:44 h:3>
+Fei
+"E allora che facciamo…?"<Close><End of Block>
+<TextBlock 15 w:52 h:3>
+Elly
+"Beh, non possiamo
+starcene fermi qui…<New>
+Credo che dovremo
+rischiare.<New>
+O tutto, o niente."<Close><End of Block>
+<TextBlock 16 w:48 h:4>
+Fei
+"Stai dicendo che…<New>
+… se non funziona, ce
+ne dovremo preoccupare
+dopo?<Delay 10> Ma non ti stai
+comportando come<Delay 10> Bart?"<Close><End of Block>
+<TextBlock 17 w:38 h:4>
+Elly
+"Come sei scortese!
+Non agisco mai
+senza un piano."<Close><End of Block>
+<TextBlock 18 w:48 h:4>
+<]><Delay 10><]><Delay 10><]><Delay 10> Cittadino di I Classe,<Space 1>
+Gazel, confermato.<Delay 10> Prego,
+passi con calma.<Close><End of Block>
+<TextBlock 19 w:42 h:2>
+Fei
+"Possiamo passare!"<Close><End of Block>
+<TextBlock 20 w:10 h:2>
+Elly
+"…"<Close><End of Block>
+<TextBlock 21 w:28 h:3>
+Fei
+"?<Delay 10>
+Cosa c'è?"<Close><End of Block>
+<TextBlock 22 w:44 h:4>
+Elly
+"Eh?<Delay 10> Ah, beh…<Delay 10><New>
+Ho fatto talmente tante
+cose contro Solaris che…<New>
+… sono sorpresa che ancora
+non m'abbiano classificata
+come una traditrice…"<Close><End of Block>
+<TextBlock 23 w:50 h:3>
+Fei
+"Pensi che sia perché
+non hanno ancora riferito
+le tue azioni?<New>
+Per Geburah, sarebbe come
+ammettere di aver fatto
+un errore."<Close><End of Block>
+<TextBlock 24 w:28 h:2>
+Elly
+"Spero che tu
+abbia ragione…"<Close><End of Block>
+<TextBlock 25 w:40 h:2>
+Fei
+"Comunque, andiamo!!"<Close><End of Block>
+<TextBlock 26 w:40 h:3>
+Elly
+"Ok.<Delay 20> Ah, stammi
+molto vicino.<New>
+In questo modo, il
+computer non dovrebbe
+rilevare la tua
+presenza."<Close><End of Block>
+<TextBlock 27 w:38 h:3>
+Elly
+"Fei, dove stai andando?"<Close><End of Block>
+<TextBlock 28 w:0 h:1>
+<Close><End of Block>

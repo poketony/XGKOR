@@ -1,0 +1,131 @@
+#### 1 ####
+What?{clear:3C}
+
+#### 2 ####
+"Hey, come down here now!{wait:1E}
+I'm not gonna kill you.{wait:1E}
+All I want is for you to
+leave this Gear{wait:3C}...{wait:3C} Huh?"
+
+#### 3 ####
+"Hey!?{wait:1E}
+You're{wait:14} not an
+Aveh soldier?"
+
+#### 4 ####
+Fei
+"I told you that in my
+intercom transmission
+earlier.{enter}
+You're the one who
+refused to listen to
+me, right?"
+
+#### 5 ####
+"Hah, ha, ha. Sorry, sorry.
+Yes, I remember you were
+saying something like that.{enter}
+I went off half-cocked and
+thought you were the enemy.{enter}
+Uhh, ahem...
+My name is Bart.
+I'm the pirate that works
+this territory."
+
+#### 6 ####
+Fei
+"My name is Fei.{enter}
+I was arrested for no
+apparent reason, shoved
+into that Aveh transport
+ship...{enter}
+...And was nearly going to
+be sent to a concentration
+camp until you went and
+blew the thing to blazes.{enter}
+Anyway...
+I'm just glad to have
+been able to survive."
+
+#### 7 ####
+Bart
+"I see...
+Well, I'm glad I at least
+helped you out a little.{enter}
+But I didn't expect a
+civilian like you would
+be riding in a military
+Gear.{enter}
+Besides, this Gear is a
+brand new model.
+I've never seen this type
+before."
+
+#### 8 ####
+Fei
+"Let's just say that
+a lot of things have
+happened...{enter}
+It wasn't like I
+wanted to pilot it!"
+
+#### 9 ####
+Fei
+"Where are we anyway?
+Looks like we fell into
+one weird place.{enter}
+I've never heard of huge
+stalactite caves such as
+this existing under the
+desert before."
+
+#### 10 ####
+Bart
+"What? You don't know
+anything, do you?{wait:1E}
+Where are you from?{enter}
+The desert only covers
+around 1000 sharls of the
+outer layer of the earth.{enter}
+The stratum underneath
+that consists of igneous
+rock."
+
+#### 11 ####
+Fei
+"From a sea of trees to
+a sea of sand...and now
+a stalactite cave...{enter}
+What's next...?"
+
+#### 12 ####
+Bart
+"What are you
+talking about?"
+
+#### 13 ####
+Fei
+"Oh, nothing...{wait:1E}
+Never mind..."
+
+#### 14 ####
+Bart
+"We're in trouble...{wait:1E}
+Look, the hole we fell
+through has disappeared.{enter}
+We'd better find some
+other way out...{wait:1E}
+So, you wanna call a
+truce for now?{enter}
+...At least until we
+find an exit and get
+out of here."
+
+#### 15 ####
+Fei
+"Yes...
+agreed.{enter}
+First, we gotta find
+the way out of here...
+So, let's get going..."
+

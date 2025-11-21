@@ -1,0 +1,356 @@
+#### 1 ####
+Maria
+"This way, please."
+
+#### 2 ####
+We aren't permitted to
+leave here no matter what.{enter}
+So please, take good care
+of Maria for us!
+
+#### 3 ####
+How's the surface doing,
+lately?{enter}
+I'm sure the people down
+there are living blindly
+yet peacefully as usual.
+
+#### 4 ####
+Are you the newcomers from
+the outside?{wait:14} Maria isn't
+with you?
+
+#### 5 ####
+It's truly unfortunate
+about Professor Nikolai...{enter}
+But thanks to you all, we
+were able to repel the
+enemy.{enter}
+Thank you.{wait:14} And let's
+continue to work together
+to take down Solaris!
+
+#### 6 ####
+In hopes of making contact
+with you and your friends
+on the ocean surface...{enter}
+...the shields were
+apparently dropped.{enter}
+That's when they took
+advantage of the situation.{enter}
+Who would've ever thought
+there would actually be a
+spy that would get in!?
+
+#### 7 ####
+I seriously doubt any spy
+would be able to get in.{enter}
+And as I expected, since
+we have new people from
+the surface, there's
+increased security.{enter}
+And you never know what
+might happen...{wait:14} If anything
+ever happened to the Queen,
+it'd be disastrous.
+
+#### 8 ####
+From here on, I cannot
+allow you to freely enter
+or leave.{wait:14} I am sorry.
+
+#### 9 ####
+This is the library where
+many books are gathered.{enter}
+This place is packed with
+many ancient books that
+you cannot find on the
+surface.{enter}
+If you're a book fanatic,
+you'd drool over books
+like our first run prints,
+limited books, autograph...{enter}
+...books, banned books, and
+mountains of hard to find
+books, and more mountains
+and mountains of books...!{enter}
+Ahhh! It's too much!
+
+#### 10 ####
+Well, setting that aside...{enter}
+If there's something you
+want to know about from the
+past, it'd be good to go in
+and talk to the librarians.{enter}
+Don't worry.{wait:14} It's their
+job anyway to tell the new
+people from the surface
+about the past.
+
+#### 11 ####
+...Sigh... Will the day
+ever come when I will be
+able to live peacefully
+on the surface?
+
+#### 12 ####
+Welcome to Shevat.{wait:14} We've
+already heard that you are
+our guests.{enter}
+Please use this room as you
+please.{wait:14} You are welcome to
+use the bed to rest.
+
+#### 13 ####
+When Maria leaves, this
+town's going to be just
+that much more lonelier.{enter}
+But, I guess there's no
+way around it.{enter}
+There comes a time, for
+everyone, when they must
+embark on their own path.
+
+#### 14 ####
+Maria has truly done so
+much for us. As of now...{enter}
+...many of us consider her
+to be the guardian angel
+of Shevat.{enter}
+Regardless of how well
+she can control
+{name:13:ゼプツェン}, she's
+only a 13 years old girl.{enter}
+She's probably worried sick
+about her father who's been
+captured by Solaris...
+
+#### 15 ####
+Who would've ever thought
+that would happen to
+Professor Nikolai...{enter}
+What are we to say to
+Maria?
+
+#### 16 ####
+Balthasar has strongly told
+Maria not to leave Shevat
+under any circumstances.{enter}
+He probably said that
+because he knows that if
+provided with the chance...{enter}
+...that child would
+immediately try to fly off
+to Solaris...{enter}
+All by herself, to rescue
+her captured father,
+riding on the
+{name:13:ゼプツェン}...
+
+#### 17 ####
+The powerless are maimed
+and slaughtered all because
+those crazed leaders give
+out one bloodlusted order.{enter}
+It doesn't matter how
+advanced their technology
+or culture is.{enter}
+It's the same thing. Not
+one thing has changed over
+the years.{enter}
+It's gotten so sad, you can
+almost laugh! Hah! How long
+does this have to last...?
+
+#### 18 ####
+To protect Shevat from the
+outside, the ancient
+technology of the Gate is
+used.{enter}
+It's fundamentally the same
+thing as the stuff Solaris
+has planted on the surface.{enter}
+Even with Solaris'
+technology, the Gate cannot
+be broken through.{enter}
+But at times, I come to
+think about whether this
+Gate is only for protecting
+us from Solaris?{enter}
+Maybe that man left this
+Gate behind to separate us.
+To isolate us from the rest
+of the world.{enter}
+If that was his intention,
+then Krelian is indeed
+dreadful... Does that man's
+resentment run that deep...
+
+#### 19 ####
+Krelian holds the true
+power in Solaris is what
+I'm saying... The irony
+of fate.{enter}
+Once, that man fought
+alongside Roni Fatima,
+Queen Zephyr and Lacan
+against Solaris...
+
+#### 20 ####
+Uuhhh, so hungry... Is the
+meal ready yet?{wait:14} Whatever
+you do, it all goes back to
+food. You got that? Food!{enter}
+For me, I get the feeling
+I'm most alive when I'm
+eating.{wait:14} Isn't it the same
+with you guys?{enter}
+You eat to live or live to
+eat. We don't even know,
+do we?{enter}
+I bet those Solarians are
+always eating all the good
+stuff.{wait:14} Argh!
+That's unforgivable!!
+
+#### 21 ####
+That great war 500 years
+ago, I can remember it
+like it was yesterday...{enter}
+That's something I can't
+get myself to forget.{enter}
+Many lives were lost...
+Much love, many dreams,
+friends, those...{enter}
+...irreplaceably important
+things in our lives were
+scarred and left to
+bleed...{enter}
+Are those days going to
+return once again...?{enter}
+I don't want my children or
+grandchildren to go through
+that nightmare...
+
+#### 22 ####
+You humans are truly
+unusual living beings,
+aren't chu?{enter}
+You're all like shattered
+fragments of a mirror.
+
+#### 23 ####
+Further down is the prison.{wait:14}
+It hasn't been used for
+several hundred years
+though.{enter}
+It isn't anything worth
+seeing.{enter}
+Well, I guess you could
+say we had a similar
+barbaric phase like the
+land dwellers!
+
+#### 24 ####
+This is the tactical
+command room.{enter}
+Currently, we are keeping
+track of the activities of
+both Solaris and the
+land and collecting data.{enter}
+However, who would have
+thought they'd attack in
+such a way...{wait:14} Aren't they
+being a bit hasty?
+
+#### 25 ####
+This is the tactical
+command room.{enter}
+Currently, we are keeping
+track of the activities of
+both Solaris and the
+land and collecting data.{enter}
+Lately, there's been a lot
+of unusual activity down on
+the surface...{enter}
+Hmm. You think Solaris
+found something?
+
+#### 26 ####
+Yeah, that was an
+incredible battle.{wait:14}
+Thanks to you all, we're
+somehow still here.{enter}
+Thank you so much.{wait:14} We're
+depending on you till
+the day we bring freedom
+back to the surface.
+
+#### 27 ####
+So you're the newcomers
+from the surface?{wait:14} Hmm...{enter}
+It seems you all aren't
+like the usual land
+dwellers we get.{enter}
+But we're always happy to
+have more friends to fight
+against Solaris.{enter}
+I look forward to working
+with you.
+
+#### 28 ####
+Go down?{wait:14}
+    Yes
+    No
+
+#### 29 ####
+Oh my, this has gotten
+serious.{wait:14} It seems you can't
+get in because of the
+emergency security.{enter}
+But, you are all lucky.{wait:14}
+A legendary vendor like
+me happens to be here
+through coincidence.{enter}
+I've got a line of quality
+goods, sir... So, if you've
+got anything you need,{wait:14}
+don't hesitate to ask.
+
+#### 30 ####
+Alright, then what
+shall it be?
+
+#### 31 ####
+    Items
+    Weapon/Armor
+    Gear Parts
+    Nevermind
+
+#### 32 ####
+Thank you very much.{wait:14}
+If there's anything you
+need, please come by
+again.
+
+#### 33 ####
+Looong ago, I've heard that
+a lone Chu-chu was taken
+from the town by a wise
+man...{enter}
+It looks like she's been
+well.{wait:14} On top of that, she's
+gotten so big and grand...{enter}
+It's truly a surprise!{wait:14}
+Wonder what she was eating.
+
+#### 34 ####
+Looong ago, I've heard
+that a lone Chu-chu was
+taken from the town by
+Wiseman...{enter}
+I haven't heard what
+happened after that.{wait:14}
+I hope that Chu-chu
+is doing well...
+

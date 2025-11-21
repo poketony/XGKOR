@@ -1,0 +1,185 @@
+<TextBlock 1 w:2 h:1>
+!<Opcode 2 20><Close><End of Block>
+<TextBlock 2 w:20 h:3>
+Elly
+"Presto!
+Di qua!"<Close><End of Block>
+<TextBlock 3 w:18 h:2>
+Elly
+"Fiuh…"<Close><End of Block>
+<TextBlock 4 w:28 h:4>
+Renk
+"Cosa c'è?
+C'è qualcosa che
+le dà fastidio?"<Close><End of Block>
+<TextBlock 5 w:52 h:4>
+Elly
+"Scusa, sono molto tesa.<New>
+Quelle bombe autoesplosive
+non sono altro che unità
+aeree con a bordo delle
+bombe di tipo Kief.<New>
+Non capisco perché
+debbano usarle tutte
+così all'improvviso…<New>
+È solo che ce ne
+sono troppe…<New>
+Una sola di quelle avrebbe
+abbastanza potenza di
+fuoco, ma usarne otto vuol
+dire distruzione totale.<New>
+Non ci hanno ancora detto
+il nostro obiettivo, e di
+certo non le sganceremo
+solo per divertimento.<New>
+Potete scommetterci che
+sono preoccupata."<Close><End of Block>
+<TextBlock 6 w:32 h:3>
+Helmholtz
+"Forse per purificare
+gli Agnelli?"<Close><End of Block>
+<TextBlock 7 w:48 h:4>
+Elly
+"Sono umani…
+proprio come noi, no?<New>
+Devono darci una ragione.
+Non posso continuare a
+farlo solo perché è un
+ordine."<Close><End of Block>
+<TextBlock 8 w:16 h:2>
+Renk
+"Mmh…"<Close><End of Block>
+<TextBlock 9 w:14 h:2>
+Elly
+"Che c'è?"<Close><End of Block>
+<TextBlock 10 w:24 h:2>
+Renk
+"Nulla…"<Close><End of Block>
+<TextBlock 11 w:54 h:4>
+Renk
+"Anche se siamo chiamati
+Solariani, noi siamo
+Cittadini di III Classe.<New>
+Detti anche 'Api Operaie'.<New>
+Posso capire se fossimo
+noi a dubitare di questi
+ordini…<New>
+Ma voi… voi siete diversa.
+Siete una pura Cittadina
+di I Classe, e venite
+da una buona famiglia.<New>
+Ho sentito dire che vostro
+padre ha molto peso tra
+i militari…"<Close><End of Block>
+<TextBlock 12 w:42 h:4>
+Elly
+"Mio padre e la
+mia famiglia…<New>
+… non hanno nulla
+a che vedere con
+questa faccenda."<Close><End of Block>
+<TextBlock 13 w:48 h:4>
+Renk
+"Beh, se me lo chiede,
+una Cittadina di I Classe
+che la pensa così…<New>
+… è un po' strano."<Close><End of Block>
+<TextBlock 14 w:40 h:3>
+Elly
+"Non proprio…
+È piuttosto naturale."<Close><End of Block>
+<TextBlock 15 w:42 h:3>
+Helmholtz
+"… Allora, cosa
+ne pensa? Lo farà?"<Close><End of Block>
+<TextBlock 16 w:42 h:4>
+Strakki
+"L'esercito ci degraderà
+tutti a Cittadini di
+III Classe!"<Close><End of Block>
+<TextBlock 17 w:48 h:4>
+Elly
+"Non preoccupatevi.
+Compirò solo il mio
+dovere.<New>
+Ma l'unica cosa che
+farò sarà scortare
+l'Hecht.<New>
+Non farò null'altro."<Close><End of Block>
+<TextBlock 18 w:48 h:3>
+Helmholtz
+"… Ma… e se
+succede qualcosa?<New>
+Si sta solo mettendo
+nell'angolo."<Close><End of Block>
+<TextBlock 19 w:40 h:3>
+Elly
+"… Non posso farne
+a meno, credo…"<Close><End of Block>
+<TextBlock 20 w:44 h:4>
+Renk
+"Beh, per noi non c'è
+differenza.<New>
+Faccia solo ciò che
+le viene detto.
+Altro non importa."<Close><End of Block>
+<TextBlock 21 w:2 h:1>
+!<Opcode 2 20><Close><End of Block>
+<TextBlock 22 w:12 h:2>
+Elly
+"Fei!"<Close><End of Block>
+<TextBlock 23 w:30 h:4>
+Fei
+"Sei tu… Elly?
+Cosa stai
+facendo qui?"<Close><End of Block>
+<TextBlock 24 w:24 h:3>
+Elly
+"Dovrei essere io
+a chiederlo a te!"<Close><End of Block>
+<TextBlock 25 w:42 h:3>
+Elly
+"Fei, non dirmi che
+gli intrusi siete voi?"<Close><End of Block>
+<TextBlock 26 w:12 h:2>
+Fei
+"Eh?"<Close><End of Block>
+<TextBlock 27 w:42 h:3>
+Bart
+"Se ci è d'intralcio,
+basta solo che…"<Close><End of Block>
+<TextBlock 28 w:44 h:4>
+Fei
+"Fermo un attimo, Bart!"
+Lei<Delay 5>…<Delay 10> Elly non è un
+nemico!"<Close><End of Block>
+<TextBlock 29 w:52 h:4>
+Bart
+"Non è un nemico? Ma
+sei pazzo!? Guarda la
+sua uniforme!<New>
+È un ufficiale di
+Geburah!"<Close><End of Block>
+<TextBlock 30 w:10 h:2>
+Fei
+"…"<Close><End of Block>
+<TextBlock 31 w:2 h:1>
+!<Opcode 2 20><Close><End of Block>
+<TextBlock 32 w:42 h:2>
+Elly
+"Aspettate un attimo."<Close><End of Block>
+<TextBlock 33 w:40 h:3>
+Elly
+"La via è libera!
+Presto, seguitemi!"<Close><End of Block>
+<TextBlock 34 w:36 h:1>
+Sono corsi di qua! <Opcode 2 60><Close><End of Block>
+<TextBlock 35 w:40 h:4>
+Dominia
+"Krelian<Delay 5>…?<Delay 50>
+Un'esistenza di
+contrapposizione<Delay 5>…?<New>
+Quella Miang<Delay 5>…<Delay 5>
+cos'ha in mente<Delay 5>…?<Delay 50>
+Farei meglio ad avvisare
+il Comandante<Delay 5>…!"<Close><Close><End of Block>

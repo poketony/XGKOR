@@ -1,0 +1,190 @@
+<TextBlock 1 w:50 h:3>
+Quello è Lacan…
+No, l'oscuro. Il secondo
+avvento di Grahf!<New>
+Dobbiamo imprigionarlo
+e sigillarlo, altrimenti
+non sappiamo quello che
+potrebbe accadere!<Close><End of Block>
+<TextBlock 2 w:50 h:3>
+Zefiro
+"Smettila immediatamente!<New>
+Vogliamo almeno aspettare
+il ritorno di Wiseman
+prima di prendere una
+qualsiasi decisione?"<Close><End of Block>
+<TextBlock 3 w:54 h:4>
+Anche se è un abile tattico,
+perché ponete così grande
+fiducia in lui?<New>
+Ho taciuto sin dalla morte di
+Khan per tutto questo tempo,
+poiché era stato direttamente
+reclutato dalla Regina.<New>
+Tuttavia, ora vi chiedo
+perché volete usare una
+simile persona i cui
+principi difettano…<New>
+… di qualsiasi
+comprensione del
+sacrificio?<Close><End of Block>
+<TextBlock 4 w:36 h:2>
+Zefiro
+"Beh, ecco…"<Close><End of Block>
+<TextBlock 5 w:50 h:3>
+Dobbiamo guardare
+in faccia la realtà!
+L'esistenza di quel
+potere!<Close><End of Block>
+<TextBlock 6 w:38 h:4>
+Bart
+"Ehi, aspetta.
+Cos'è il secondo
+avvento di Grahf?"<Close><End of Block>
+<TextBlock 7 w:54 h:4>
+Il Giorno della Caduta
+fu causato da Grahf.
+Grahf manipolò i Diavoli
+per distruggere questo mondo.<New>
+E il potere di Id è troppo
+simile a quello di Grahf.
+Non possiamo permettere
+che sia lasciato libero.<New>
+Dobbiamo immediatamente
+congelarlo nella carbonite.
+Altrimenti… aspettatevi il
+peggio in qualsiasi momento…<Close><End of Block>
+<TextBlock 8 w:42 h:4>
+Elly
+"No…! Ma il Fei
+di adesso non
+è il vero Fei?<New>
+Se è così, allora
+perché…"<Close><End of Block>
+<TextBlock 9 w:52 h:3>
+È comunque troppo
+pericoloso! Pensaci.<New>
+Con le proprie mani ha
+annientato la capitale
+di Solaris!<New>
+Non possiamo lasciarlo
+libero.<Close><End of Block>
+<TextBlock 10 w:54 h:4>
+Jessie
+"Non solo per quello.<New>
+Nel passato, non si
+contano le città che
+sono state distrutte
+dal potere di Id.<New>
+Non conosco le loro
+intenzioni, ma Grahf
+e Krelian erano sempre
+coinvolti in qualche modo.<New>
+Ed uno di questi incidenti
+fu Elul.<New>
+La patria di Dominia.<New>
+La soppressione della
+rivolta nella città di
+Elul fu fatta per mezzo
+di Id. Perché?<New>
+Per testarne le capacità.<Delay 10>
+Il risultato fu non solo
+la caduta di Elul…<New>
+… ma anche l'eliminazione
+di tutte le unità di
+Solaris lì presenti…"<Close><End of Block>
+<TextBlock 11 w:46 h:3>
+Bart
+"È colpa sua se l'Ygg…
+e i nostri…"<Close><End of Block>
+<TextBlock 12 w:44 h:4>
+Rico
+"E così era lui
+che uccideva i miei
+subordinati nelle fogne…"<Close><End of Block>
+<TextBlock 13 w:54 h:4>
+Elly
+"Che cosa avete tutti?
+Non dovreste essere i
+suoi amici!?"<Close><End of Block>
+<TextBlock 14 w:52 h:4>
+Shitan
+"Sembra che tutti siano
+d'accordo… I rischi
+sono troppo elevati."<Close><End of Block>
+<TextBlock 15 w:36 h:4>
+Elly
+"Shitan!?
+No…
+È terribile!"<Close><End of Block>
+<TextBlock 16 w:12 h:2>
+Zefiro
+"…"<Close><End of Block>
+<TextBlock 17 w:52 h:3>
+È deciso allora. Sarà
+congelato nel carbonio,
+domani.<Close><End of Block>
+<TextBlock 18 w:62 h:4>
+Ciò che il Ministero di Gazel
+di Solaris sta disperatamente
+cercando sono…<New>
+… i 12 Contenitori
+dell'Anima creati dalla
+sapienza di dio.<New>
+Unendo un Contenitore
+dell'Anima con un Gear si
+può ottenere un Omnigear…<New>
+Ma il soggetto deve essere
+perfettamente sincronizzato
+o la trasformazione non si
+verificherà.<New>
+Alcuni Contenitori sono stati
+già trovati, ma ne rimangono
+altri ancora celati nelle
+profondità della terra.<New>
+Abbiamo dedicato tutto il
+nostro tempo alla ricerca…
+ma senza risultati…<Close><End of Block>
+<TextBlock 19 w:58 h:4>
+Il potere degli Omnigear era
+così grande che provocarono
+la Caduta dei Diavoli 500
+anni fa.<New>
+Se uno o più di essi cade
+nelle mani del nemico…<New>
+Il nostro futuro e quello
+degli abitanti della
+superficie sarà…!!<New>
+Vi prego in ginocchio!
+Ci serve il vostro aiuto.<New>
+Shevat deve avere i
+restanti Contenitori
+dell'Anima ad ogni costo!<Close><End of Block>
+<TextBlock 20 w:48 h:3>
+Mmh…<Delay 20>
+Così i Contenitori
+dell'Anima furono creati
+dalla sapienza di dio.<New>
+Chissà se questo è
+davvero il caso…<Close><End of Block>
+<TextBlock 21 w:50 h:3>
+Tutto sommato, quell'unità
+è stata preparata per
+fondersi con qualche
+cosa di inorganico…<New>
+Quello sarebbe il
+giusto presupposto…<Close><End of Block>
+<TextBlock 22 w:46 h:3>
+È la stupidità umana
+che li fa chu dipendere
+da simili cose, chu…<Close><End of Block>
+<TextBlock 23 w:52 h:2>
+Ops, ho detto troppo,
+chu.<Delay 20> Dimenticate ciò
+che ho detto, chu.<Close><End of Block>
+<TextBlock 24 w:54 h:3>
+Uh, eh già…
+il Contenitore…<New>
+Chissà dov'è andato il
+piccolo Contenitore
+dell'Anima…<Close><Close><End of Block>

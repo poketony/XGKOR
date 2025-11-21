@@ -1,0 +1,38 @@
+<TextBlock 1 w:44 h:8>
+Si stabilì, esaminando
+l'interno del relitto,
+che 10000 anni fa
+accadde in questa nave
+un qualche incidente<Delay 5>…<Delay 5> che
+la costrinse a schiantarsi
+sul nostro pianeta.<Close><End of Block>
+<TextBlock 2 w:54 h:9>
+"Alieni giunti nel
+nostro pianeta da una
+lontanissima galassia
+eoni or sono<Delay 5>…"
+ <Delay 60>
+Che possa essere che i nostri
+antenati furono i passeggeri
+di questa nave, e che abbiano
+fatto un atterraggio di
+emergenza su questo pianeta<Delay 15>…?<Close><End of Block>
+<TextBlock 3 w:60 h:4>
+Cercando dio e la sua divina
+conoscenza, 'L'Albero di Raziel'…
+che, si dice, giaccia qui
+dentro Mahanon, avanzammo.<Close><End of Block>
+<TextBlock 4 w:40 h:1>
+Desideri salvare?<Delay 30><Close><End of Block>
+<TextBlock 5 w:46 h:3>
+Continui<Delay 5> il gioco?<Delay 30>
+    Aspetta
+    Continua<Delay 15><Close><End of Block>
+<TextBlock 6 w:42 h:3>
+    Apri il menu
+    Cambia gruppo
+    Continua il gioco<Delay 15><Close><End of Block>
+<TextBlock 7 w:46 h:3>
+Continui<Delay 5> il gioco?<Delay 30>
+    Aspetta
+    Continua<Delay 15><Close><End of Block>

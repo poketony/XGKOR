@@ -1,0 +1,138 @@
+<TextBlock 1 w:8 h:1>
+<Delay 2>…<Delay 2>…<Delay 2>…<Space 2><Close><End of Block>
+<TextBlock 2 w:10 h:1>
+Ouch<Delay 5>…<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+Bart
+"Credo che i Missili Bart
+non siano stati una buona
+idea…<New>
+Abbiamo potuto salvare te
+ed i tuoi amici, Shitan<Delay 5>…<Delay 10>
+Ma vorrei sapere cos'è
+accaduto a Fei e ad Elly<Delay 5>…"<Close><End of Block>
+<TextBlock 4 w:44 h:4>
+Bart
+"Sono sicuro<Delay 5>…<Delay 15> che sono
+vivi da qualche parte…<Delay 15>
+E, ancora una volta…"<Close><End of Block>
+<TextBlock 5 w:50 h:3>
+Bart
+"Ehi!<Delay 10><New>
+La brezza marina mi fa
+bruciare l'occhio<Delay 5>…<Delay 10> E così
+questo è il mare<Delay 5>…"<Close><End of Block>
+<TextBlock 6 w:46 h:3>
+Bart
+"Innanzitutto, devo
+scusarmi con quei due."<Close><End of Block>
+<TextBlock 7 w:16 h:2>
+Billy
+"Padre…"<Close><End of Block>
+<TextBlock 8 w:34 h:4>
+Shitan
+"Billy…<Delay 10> Non avrei
+dovuto permettere
+una cosa simile…"<Close><End of Block>
+<TextBlock 9 w:34 h:4>
+Shitan
+"Billy…<Delay 10> Non avrei
+dovuto permettere
+una cosa simile…"<Close><End of Block>
+<TextBlock 10 w:22 h:3>
+Billy
+"No, non è
+colpa tua…"<Close><End of Block>
+<TextBlock 11 w:40 h:4>
+Billy
+"Questo è il miglior
+modo di salutare mio
+padre."<Close><End of Block>
+<TextBlock 12 w:38 h:2>
+Jessie
+"Hai ragione…<Delay 10>
+Grazie, figlio mio."<Close><End of Block>
+<TextBlock 13 w:20 h:2>
+Billy
+"P… papà!"<Close><End of Block>
+<TextBlock 14 w:30 h:3>
+Shitan
+"Vecchio mio!<Delay 10>
+Ti senti bene?"<Close><End of Block>
+<TextBlock 15 w:30 h:3>
+Shitan
+"Vecchio mio!<Delay 10>
+Ti senti bene?"<Close><End of Block>
+<TextBlock 16 w:46 h:4>
+Jessie
+"Ci puoi giurare!<New>
+Non avevo intenzione di
+lasciare quello stupido
+rottame così com'era!
+Io<Delay 10> l'ho migliorato!"<Close><End of Block>
+<TextBlock 17 w:42 h:4>
+Jessie
+"Ahiah-ahi-ahi-ahi!!<Delay 10>
+Ma non voglio rifarlo
+di nuovo…"<Close><End of Block>
+<TextBlock 18 w:44 h:4>
+Shitan
+"Tuttavia…<Delay 5> parlare
+dell'inferno…<New>
+Sono sorpreso che un
+ateo come te possa
+credere alla vita dopo
+la morte…"<Close><End of Block>
+<TextBlock 19 w:44 h:4>
+Shitan
+"Ma…<Delay 5> parlare
+dell'inferno…<New>
+Sono sorpreso che un
+ateo come te possa
+credere alla vita dopo
+la morte…"<Close><End of Block>
+<TextBlock 20 w:50 h:3>
+Jessie
+"Oh?<Delay 10>
+Così stavi ascoltando?<New>
+Era solo una maledizione.<Delay 10>
+Non è una fine adatta
+a lui?"<Close><End of Block>
+<TextBlock 21 w:26 h:3>
+Shitan
+"È proprio il
+tuo stile."<Close><End of Block>
+<TextBlock 22 w:26 h:3>
+Shitan
+"È proprio il
+tuo stile."<Close><End of Block>
+<TextBlock 23 w:20 h:2>
+Primera
+"Pa<Delay 5>… pà<Delay 5>…"<Space 1><Close><End of Block>
+<TextBlock 24 w:22 h:2>
+Billy
+"P… Prim!?"<Close><End of Block>
+<TextBlock 25 w:32 h:4>
+Billy
+"Prim, che cosa
+hai detto prima?<Delay 10>
+Eh, Prim?"<Close><End of Block>
+<TextBlock 26 w:20 h:2>
+Primera
+"Pa…<Delay 5> pà…<Delay 5>"<Space 1><Close><End of Block>
+<TextBlock 27 w:46 h:3>
+Jessie
+"Ah, ah, hai sentito…<Delay 10>!?<New>
+Sembra che i problemi
+di Primera siano stati
+risolti!"<Close><End of Block>
+<TextBlock 28 w:46 h:4>
+Billy
+"Ah…!<Delay 10>
+Prim ha parlato!<Delay 10>
+Prim ha appena parlato!<New>
+Ehi, Prim…<Delay 10>
+Ora di' il mio nome.<Delay 10>
+Di' Billy!"<Close><End of Block>
+<TextBlock 29 w:0 h:1>
+<Close><End of Block>

@@ -1,0 +1,34 @@
+<TextBlock 1 w:36 h:2>
+Il blocco dell'ascensore
+centrale è stato disattivato.<Close><End of Block>
+<TextBlock 2 w:36 h:3>
+Inizializzazione del
+sistema di blocco
+dell'ascensore centrale.<Close><End of Block>
+<TextBlock 3 w:42 h:2>
+Disattivazione del blocco
+dell'ascensore centrale…<Close><End of Block>
+<TextBlock 4 w:10 h:1>
+Fatto!<Close><End of Block>
+<TextBlock 5 w:50 h:4>
+Per sbloccare il
+Contenitore dell'Anima:<New>
+I codici di sblocco vanno
+immessi nei terminali A
+fino a D, i quali sono
+situati attorno all'area.<New>
+Subito dopo che l'operazione
+sarà stata completata, il
+sistema principale sarà
+attivato.<Close><End of Block>
+<TextBlock 6 w:54 h:4>
+Codice di sblocco del
+Contenitore dell'Anima:<New>
+Immetti i numeri in modo
+che le somme dei numeri
+posizionati in verticale
+ed in orizzontale siano
+identiche.<New>
+Non si può utilizzare
+lo stesso numero più
+di una volta.<Close><Close><End of Block>

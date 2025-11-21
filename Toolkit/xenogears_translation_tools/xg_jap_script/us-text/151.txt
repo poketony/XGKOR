@@ -1,0 +1,45 @@
+#### 1 ####
+Repair Bot
+"I seem to have become
+a little lost in here.{enter}
+Oh and I saw some really
+strong-looking Gears
+flying around above here.{enter}
+By the way, I found these
+things during my travels.
+See anything you like...?{enter}
+    Gear parts
+    Character items
+    Can't trust you
+    Ignore
+
+#### 2 ####
+Repair Bot
+"I hope to see
+you again."
+
+#### 3 ####
+Repair Bot
+"I hope to see
+you again."
+
+#### 4 ####
+Repair Bot
+"How cruel..."
+
+#### 5 ####
+You have too many
+{str}.
+
+#### 6 ####
+ 
+ Received {str}.
+
+#### 7 ####
+You have too many
+{str}.
+
+#### 8 ####
+ 
+ Received {str}.
+

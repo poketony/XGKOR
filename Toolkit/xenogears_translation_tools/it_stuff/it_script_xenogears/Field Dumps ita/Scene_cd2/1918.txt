@@ -1,0 +1,125 @@
+<TextBlock 1 w:20 h:2>
+Fei
+"Uhhhh…"<Close><End of Block>
+<TextBlock 2 w:42 h:4>
+Grahf
+"Immagino che questo sia
+il meglio che puoi fare,
+per ora<Delay 30>…<New>
+Sei frustrato?<New>
+Ma questo è<Delay 5>…<Delay 5>
+'del tutto normale'<Delay 10>…<New>
+Dopotutto, tu sei
+incompleto, e dunque
+imperfetto."<Close><End of Block>
+<TextBlock 3 w:26 h:2>
+Fei
+"Imperfetto!?"<Close><End of Block>
+<TextBlock 4 w:40 h:4>
+Grahf
+"Sì. Di una
+cosa tu manchi
+al momento.<New>
+Vale a dire… manchi
+dell'odio.<Delay 40>
+E ciò tace il tuo
+vero potere!"<Close><End of Block>
+<TextBlock 5 w:28 h:2>
+Fei
+"L'odio<Delay 5>…<Delay 5>?"<Close><End of Block>
+<TextBlock 6 w:54 h:4>
+Grahf
+"La volontà di uccidere
+il prossimo, la brama di
+annientare e massacrare…<New>
+Questo vuol dire odiare.
+L'odio è fonte di potere
+per l'animo!<New>
+Esso si ottiene tramite
+l'inappellabile bisogno
+di uccidere il proprio
+nemico.<New>
+E dunque, avviene una
+trasmutazione. Ed è
+proprio essa che alluma
+il proprio potere latente!<Delay 20><New>
+Ma tu<Delay 10> ti avvinghi alla
+tua ragione, trattenendo
+il tuo odio, respingendo
+ciò che tu desideri.<New>
+Liberare il tuo vero
+potere e assurgere ad
+esso è per te un sogno
+del tutto irrealizzabile…<New>
+Sai che è la verità.<New>
+Quella macchina non ha
+forse reagito quando
+infondesti l'odio nel
+tuo cuore?<New>
+Colui che trasse seco il
+potere di quella macchina
+era davvero la guida e
+origine della tua anima<Delay 5>…<New>
+L'essenza stessa
+del desiderio.<Delay 10>
+È Id. Il tuo Id.<New>
+Il segno che indicasse
+lo scopo della tua vita…<New>
+… che tanto bramavi di 
+conoscere, altro non è
+che questo…<New>
+Tu sei assassino
+di nascita!"<Close><End of Block>
+<TextBlock 7 w:34 h:4>
+Fei
+"Non è vero!<Delay 20>
+È impossibile!
+Totalmente falso!"<Close><End of Block>
+<TextBlock 8 w:36 h:3>
+Fei
+"Io… non sono Id!
+Io<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 9 w:42 h:3>
+Grahf
+"Il momento è giunto…<New>
+M'impossesserò della tua
+anima, la consumerò e…<New>
+… porterò a sommo limite
+il suo potere!"<Close><End of Block>
+<TextBlock 10 w:18 h:2>
+Krelian
+"Basta così!"<Close><End of Block>
+<TextBlock 11 w:36 h:4>
+Grahf
+"Mmh? Per quale
+cagione mi stai
+fermando?"<Close><End of Block>
+<TextBlock 12 w:42 h:4>
+Krelian
+"Lui è un'esca.<New>
+Se tu uccidi l'esca,
+l'uccellino che
+desideriamo catturare
+volerà via.<New>
+Sai<Delay 5>…<Delay 5> un uccellino
+molto importante<Delay 5>…<Delay 40>
+Il mio prezioso uccellino…<New>
+… senza il quale non posso
+esaudire le mie sincere e
+misericordiose preghiere.<New>
+<Delay 5>…<Delay 5> Tu mi capisci, non è
+vero, Lacan<Delay 5>…<Delay 5>?"<Close><End of Block>
+<TextBlock 13 w:30 h:3>
+Grahf
+"…<Delay 30>
+Fa' ciò che vuoi."<Close><End of Block>
+<TextBlock 14 w:46 h:4>
+Krelian
+"Li crocifiggeremo.<New>
+Nella terra ad ovest di
+qui, sulla cima della
+'Collina del Golgotha'…<New>
+… detta anche
+'il Calvario'.<New>
+Raccogliete tutti
+i Gear guasti!!"<Close><Close><End of Block>

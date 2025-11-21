@@ -1,0 +1,45 @@
+#### 1 ####
+Use that sword and
+make them pay!
+
+#### 2 ####
+I'm a celebrated Gear
+weapons specialist...{wait:14}
+But lately there's been
+no interesting work...{enter}
+There are no men with
+enough guts to ask me
+to forge them a weapon
+to fight Deus...{enter}
+If you bring me a nifty
+sword, I can forge it into
+something truly amazing
+for you, anytime...{enter}
+But I won't work for
+anyone rude enough
+to ask me to check a
+weapon while it's still
+equipped to their Gear!
+
+#### 3 ####
+Ohh...the Kishin!{wait:14}
+You sure have a
+novel sword.{enter}
+Looks interesting!{wait:14}
+Lemme take a peek!
+
+#### 4 ####
+This came out great!{wait:14}
+It was like turning
+plowshares into a
+sword!{enter}
+Use this sword and
+make Deus and his
+legions pay!
+
+#### 5 ####
+'Kishin' sword was enhanced!
+
+#### 6 ####
+Received 'Kijin' sword!
+

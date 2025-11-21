@@ -1,0 +1,490 @@
+<TextBlock 1 w:42 h:4>
+Bart
+"Ehi, Margie!<New>
+Sbarazzati di quello
+strano peluche seduto
+davanti al ponte di
+comando.<Delay 10><New>
+Ci sta dando fastidio."<Close><End of Block>
+<TextBlock 2 w:34 h:4>
+Margie
+"Non è uno
+'strano peluche'!<Delay 10>
+Ha un nome.<New>
+Ovvero…"<Close><End of Block>
+<TextBlock 3 w:46 h:3>
+Margie
+"Il suo nome è <Chu-Chu>,
+ed è una 'lei'!"<Close><End of Block>
+<TextBlock 4 w:52 h:4>
+Margie
+"Cavolo, che strano.<Delay 10>
+Era proprio qui, dove la
+avevo messa un attimo fa…"<Close><End of Block>
+<TextBlock 5 w:48 h:3>
+Piacere di chunoscervi!!<Delay 10>
+Io sono <Chu-Chu>!<New>
+Mi sono innamorata di te
+dalla prima volta che ti
+ho visto a Bledavik!!<Delay 10><New>
+Dove andrai verrò
+anch'io, chu!<Close><End of Block>
+<TextBlock 6 w:48 h:4>
+Bart
+"Quello che pensavamo
+fosse solo un giocattolo
+di pezza…<New>
+… è in realtà un essere
+vivente!<Delay 30> Che strano!"<Close><End of Block>
+<TextBlock 7 w:46 h:3>
+Margie
+"Nulla di strano che la
+sentivo così tiepida!"<Close><End of Block>
+<TextBlock 8 w:24 h:2>
+Fei
+"Co… cosa!?"<Close><End of Block>
+<TextBlock 9 w:34 h:3>
+Bart
+"Che bella coppia
+che fate, Fei!!"<Close><End of Block>
+<TextBlock 10 w:28 h:2>
+Fei
+"Sta' zitto!!"<Close><End of Block>
+<TextBlock 11 w:42 h:4>
+Bart
+"Va tutto bene.
+Io, come capitano, vi
+do il mio permesso!"<Close><End of Block>
+<TextBlock 12 w:18 h:2>
+<Chu-Chu>
+"Sì, sì!"<Close><End of Block>
+<TextBlock 13 w:30 h:3>
+Fei
+"…<Delay 10>
+Fa' come vuoi!"<Close><End of Block>
+<TextBlock 14 w:32 h:4>
+Bart
+"Ah, ah, ah!<New>
+Beh, non voglio
+interrompervi,
+perciò aspetterò
+fuori!"<Close><End of Block>
+<TextBlock 15 w:12 h:2>
+Margie
+"…"<Close><End of Block>
+<TextBlock 16 w:48 h:3>
+Margie
+"Grazie d'avermi
+aiutata al castello.<New>
+Ho sentito che hai fatto
+un gran casino lì al
+torneo.<New>
+Bart si vantava dicendo
+che voi due siete amici
+e compagni."<Close><End of Block>
+<TextBlock 17 w:26 h:3>
+Fei
+"…<Delay 10>
+Da<Delay 10>… davvero?"<Close><End of Block>
+<TextBlock 18 w:42 h:4>
+Margie
+"Mi vergogno così
+tanto…<New>
+Volevo essere d'aiuto
+a Bart, ma ho finito
+col dovergli ancora
+qualcosa."<Close><End of Block>
+<TextBlock 19 w:52 h:4>
+Margie
+"Fei, hai visto la
+schiena di Bart?<New>
+Ha delle cicatrici su
+tutta la schiena… sembra
+così doloroso…<New>
+Molto tempo fa,<Delay 5> quando noi
+due fummo catturati da
+Shakhan, Bart mi protesse
+dall'essere percossa…"<Close><End of Block>
+<TextBlock 20 w:50 h:4>
+Margie
+"In quel momento decisi
+di essere sua seguace… di
+servirlo e proteggerlo!<New>
+Ma è lui quello che
+mi protegge sempre…"<Close><End of Block>
+<TextBlock 21 w:6 h:2>
+Fei
+"…"<Close><End of Block>
+<TextBlock 22 w:44 h:4>
+Margie
+"Eh… oh, scusami…<Delay 10>
+Comunque, grazie mille
+per avermi salvata!"<Close><End of Block>
+<TextBlock 23 w:42 h:4>
+Margie
+"Voi siete gli unici
+che possono salvarci…<Delay 10>
+Contiamo su di voi!"<Close><End of Block>
+<TextBlock 24 w:40 h:4>
+Margie
+"Padroncino… Farai
+meglio a non morire!<Delay 10>
+Promettilo!!"<Close><End of Block>
+<TextBlock 25 w:44 h:4>
+Bart
+"Certo!<Delay 10> Io non
+morirò!<Delay 10> Smetti di
+dire queste cavolate!"<Close><End of Block>
+<TextBlock 26 w:48 h:4>
+Margie
+"Scusami<Delay 5>…<Delay 10>
+Sì<Delay 5>…<Delay 10> hai ragione<Delay 5>…<Delay 10>
+Ce la farai<Delay 5>…<New>
+E quando tornerai, io
+ti sarò<Delay 5>…<Delay 10> beh<Delay 5>…<Delay 5>
+L'ho appena pensato…<New>
+… forsei potrei
+esserti<Delay 5>…<Delay 10> più
+vicina…<Delay 10> sai…"<Close><End of Block>
+<TextBlock 27 w:34 h:4>
+Bart
+"Cazzo! Smettila!<Delay 10>
+Ma sai quello che
+stai dicendo!?"<Close><End of Block>
+<TextBlock 28 w:44 h:4>
+Margie
+"Eh, scherzavo!!!
+Padroncino, ti sei
+terrorizzato a morte!"<Close><End of Block>
+<TextBlock 29 w:2 h:1>
+…<Close><End of Block>
+<TextBlock 30 w:40 h:4>
+Margie
+"Strano…<Delay 10>
+Non vedo <Chu-Chu> da
+nessuna parte!<New>
+Dove se n'è andata?"<Close><End of Block>
+<TextBlock 31 w:40 h:3>
+Margie
+"Ragazzi… Sono molto
+preoccupata…"<Close><End of Block>
+<TextBlock 32 w:50 h:4>
+Margie
+"Mi sento un po' messa
+da parte!<Delay 10> Ma il bello
+sta per venire, giusto!?"<Close><End of Block>
+<TextBlock 33 w:40 h:3>
+Margie
+"Stavolta dovrei
+poter aiutare Bart!"<Close><End of Block>
+<TextBlock 34 w:42 h:3>
+Margie
+"Potremmo non vederci
+per un po'…"<Close><End of Block>
+<TextBlock 35 w:28 h:3>
+Margie
+"Fei?<Delay 10> No, non
+è venuto qui!"<Close><End of Block>
+<TextBlock 36 w:52 h:3>
+Margie
+"… Sapevo che la Chiesa
+stava combinando qualcosa…<New>
+Non è ammissibile usare
+la religione per fare
+del male!"<Close><End of Block>
+<TextBlock 37 w:30 h:3>
+Margie
+"Wels… Alquanto
+spaventosi!"<Close><End of Block>
+<TextBlock 38 w:42 h:3>
+Margie
+"Nave fantasma, eh?<New>
+Mi ricorda dei giorni
+in cui Bart e io ci
+sfidavamo…"<Close><End of Block>
+<TextBlock 39 w:24 h:4>
+Bart
+"Ma… Margie,<Delay 10>
+smettila di
+parlarne!"<Close><End of Block>
+<TextBlock 40 w:24 h:3>
+Margie
+"Eh, eh, eh!<Delay 10>
+Se insisti…"<Close><End of Block>
+<TextBlock 41 w:30 h:2>
+Margie
+"Che sollievo!"<Close><End of Block>
+<TextBlock 42 w:54 h:4>
+Margie
+"Sono felice che ci
+siamo incontrarti con
+della così brava gente.<New>
+Comunque, dovrei
+sbrigarmi e tornare
+alla mia chiesa!"<Close><End of Block>
+<TextBlock 43 w:48 h:4>
+Margie
+"Fei, va' da Elly.
+Dovresti stare con lei
+in momenti come questo."<Close><End of Block>
+<TextBlock 44 w:46 h:3>
+<Chu-Chu>
+"Non chu volete che
+<Chu-Chu> venga con voi?"<Close><End of Block>
+<TextBlock 45 w:30 h:2>
+Margie
+"Tu resti qui!"<Close><End of Block>
+<TextBlock 46 w:46 h:4>
+Margie
+"Sono stata l'unica a
+sfuggire alle grinfie
+di Shakhan…<New>
+… fuggendo da Nisan
+con Bart…<New>
+Mi chiedo se le sorelle
+stiano bene…<Delay 10>
+Il Padroncino aiuterà
+anche loro, vero?"<Close><End of Block>
+<TextBlock 47 w:52 h:4>
+Margie
+"Anche se è stata la setta
+a volerlo, m'è rimasta una
+sensazione d'amarezza…"<Close><End of Block>
+<TextBlock 48 w:30 h:2>
+Margie
+"Grazie, Fei!!"<Close><End of Block>
+<TextBlock 49 w:48 h:4>
+Margie
+"Come osi entrare nella
+camera di una ragazza
+senza neanche bussare!?"<Close><End of Block>
+<TextBlock 50 w:52 h:4>
+Margie
+"Non sono abbastanza brava
+per combattere con Bart ed
+i suoi compagni…<New>
+Ma posso fare la
+dirigente!<Delay 10> Fammi sapere
+quando vuoi cambiare i
+membri del gruppo!"<Close><End of Block>
+<TextBlock 51 w:54 h:4>
+Margie
+"Vuoi cambiare i
+membri del gruppo?"<New>
+    Sì
+    No<Close><End of Block>
+<TextBlock 52 w:40 h:3>
+Margie
+"Oops, scusami! Non
+puoi cambiarli ora!"<Close><End of Block>
+<TextBlock 53 w:34 h:3>
+Margie
+"Fammi sapere
+quando ti serve!"<Close><End of Block>
+<TextBlock 54 w:46 h:4>
+<Chu-Chu>
+"Io… potrei avere dato
+fastidio a tutti,
+fino ad adesso.<New>
+Ma non posso sopportare
+l'idea che Fei e tutti
+i suoi amici possano
+morire come noi…<New>
+Sono chu pronta a
+combattere, così questa
+cosa non riaccadrà mai
+più a nessuno!!"<Close><End of Block>
+<TextBlock 55 w:42 h:3>
+<Chu-Chu>
+"Sono sempre chu
+pronta a combattere!"<Close><End of Block>
+<TextBlock 56 w:52 h:4>
+<Chu-Chu>
+"… Ammiro Primera.<Delay 10>
+È solo una bambina, ma ne
+ha già passate così tante…<New>
+Guarda me, invece…<Delay 10>
+Dovrei proprio iniziare a
+fare sul serio!"<Close><End of Block>
+<TextBlock 57 w:40 h:4>
+<Chu-Chu>
+"Stone era cattivo!?<Delay 10>
+Non potrò mai
+perdonarlo, chu!"<Close><End of Block>
+<TextBlock 58 w:42 h:4>
+<Chu-Chu>
+"La barca ha iniziato
+improvvisamente a
+ondeggiare, chu…<New>
+… e ora non mi
+sento molto bene!!"<Close><End of Block>
+<TextBlock 59 w:44 h:3>
+<Chu-Chu>
+"È divertente vedere
+altra e altra gente!!"<Close><End of Block>
+<TextBlock 60 w:46 h:4>
+<Chu-Chu>
+"<Chu-Chu> non sa fare
+molte cose, chu, perciò
+devo dipendere da voi!"<Close><End of Block>
+<TextBlock 61 w:44 h:4>
+<Chu-Chu>
+"Fei ancora dorme?<New>
+Il bacio di una dama
+potrebbe svegliarlo…<Delay 10>
+Oh, ma che dico, chu!?
+È così imbarazzante!!"<Close><End of Block>
+<TextBlock 62 w:44 h:4>
+<Chu-Chu>
+"Fei ancora dorme?<New>
+Il bacio di una dama
+potrebbe svegliarlo.<Delay 10>
+Oh, ma che dico, chu!?
+È così imbarazzante!!"<Close><End of Block>
+<TextBlock 63 w:46 h:4>
+<Chu-Chu>
+"Fei sta dormendo in
+questo momento, chu?<Delay 10>
+È un gran dormiglione!"<Close><End of Block>
+<TextBlock 64 w:48 h:3>
+<Chu-Chu>
+"Se rompo qualcosa, Fei
+mi consolerà, vero, chu?<New>
+Allora… che dovrei
+rompere?"<Close><End of Block>
+<TextBlock 65 w:46 h:3>
+<Chu-Chu>
+"Questo posto non mi
+è familiare, chu.<New>
+Ma non importa, perché
+già da prima non sapevo
+molto su Aveh, chu."<Close><End of Block>
+<TextBlock 66 w:46 h:4>
+<Chu-Chu>
+"C'è così tanto rumore,
+chu.<Delay 10> È forse una
+qualche festa?"<Close><End of Block>
+<TextBlock 67 w:46 h:4>
+<Chu-Chu>
+"Non c'è nessuno qui, e
+non c'è niente da fare,
+chu! Che noia!!!"<Close><End of Block>
+<TextBlock 68 w:40 h:3>
+<Chu-Chu>
+"Wow!<Delay 10> Un ragno
+dall'aspetto
+così buono…"<Close><End of Block>
+<TextBlock 69 w:28 h:1>
+Munchu munchu!<Close><End of Block>
+<TextBlock 70 w:48 h:4>
+<Chu-Chu>
+"I regali sono uno dei
+modi di conquistare il
+cuore di una donna, chu!<Delay 10><New>
+Ecco la tua ricompensa!"<Close><End of Block>
+<TextBlock 71 w:46 h:1>
+Ricevi un 'Cela Etere'!<Close><End of Block>
+<TextBlock 72 w:42 h:4>
+<Chu-Chu>
+"Mi si seccano gli
+occhi quando mi fingo
+un peluche. Ouchu!"<Close><End of Block>
+<TextBlock 73 w:28 h:4>
+<Chu-Chu>
+"Oh, cielo…<Delay 10>
+Mi sono appena
+dichiarata!!"<Opcode 2 60><Close><End of Block>
+<TextBlock 74 w:14 h:2>
+Primera
+"…"<Close><End of Block>
+<TextBlock 75 w:14 h:2>
+Primera
+"…"<Close><End of Block>
+<TextBlock 76 w:48 h:3>
+Billy
+"Prim! Perché sei qui!?<Delay 10>
+Resta all'orfanotrofio…"<Close><End of Block>
+<TextBlock 77 w:14 h:2>
+Primera
+"…"<Close><End of Block>
+<TextBlock 78 w:30 h:4>
+Billy
+"Prim… non vuoi
+ascoltare tuo
+fratello?"<Close><End of Block>
+<TextBlock 79 w:44 h:4>
+Margie
+"Billy, Primera ti ha
+seguito perché si
+preoccupa per te.<New>
+Non lo capisci!?<Delay 10>
+Lasciala stare qui per
+un po',<Delay 10> ok?"<Close><End of Block>
+<TextBlock 80 w:6 h:1>
+Billy
+"…"<Close><End of Block>
+<TextBlock 81 w:46 h:3>
+Billy
+"… Beh, a questo punto…<Delay 10><Space 1>
+Ma resta qui, va bene?"<Close><End of Block>
+<TextBlock 82 w:14 h:2>
+Primera
+"…"<Close><End of Block>
+<TextBlock 83 w:40 h:4>
+Billy
+"Margie, per favore,
+prenditi cura della
+mia sorellina."<Close><End of Block>
+<TextBlock 84 w:36 h:4>
+<Chu-Chu>
+"Perché non lo
+chiedi anche a
+me, chu?"<Close><End of Block>
+<TextBlock 85 w:50 h:4>
+Ha degli appunti in mano…
+Li vuoi leggere?
+<Opcode 1 255>    Leggili
+    No, meglio di no!<Close><End of Block>
+<TextBlock 86 w:24 h:3>
+<Opcode 1 255>'PriAppunti'
+Fratellone,
+tieni duro…<Close><End of Block>
+<TextBlock 87 w:52 h:4>
+<Opcode 1 255>'PriAppunti'
+Ci sono tre tipi di armi
+da fuoco che sono il tuo
+equipaggiamento base…<New>
+ Pistola,
+ Pistola Eterea,
+ Fucile.<New>
+L'unica arma che può
+essere riequipaggiata
+è la pistola.<New>
+Puoi potenziare le tue
+armi migliorando le
+'munizioni', oppure i
+'proiettili'…<New>
+… se si tratta del fucile.<New>
+Per equipaggiarli, premi
+Sinistra o Destra mentre
+ti trovi nel menu 
+equipaggiamento.<New>
+Fare ciò farà comparire
+una sottofinestra…<New>
+… dove potrai cambiare il
+tipo di munizioni che stai
+usando.<New>
+C'è una cosa alla quale 
+devi stare attento… Tutti
+i tipi di munizioni non
+sono illimitati!<New>
+Quindi è importante avere
+molte munizioni di riserva
+e ricaricarle ogni volta
+che ti è possibile.<New>
+L'unica eccezione è la
+pistola Eterea, che può
+sparare un numero
+illimitato di colpi.<Close><End of Block>
+<TextBlock 88 w:0 h:1>
+<Close><End of Block>

@@ -1,0 +1,50 @@
+#### 1 ####
+Fei
+"Sorry about that...
+Oh, but I see you've
+made a girlfriend...{enter}
+If we can defeat her,
+we should be able to
+change the course of
+this ship. Let's go!"
+
+#### 2 ####
+Fei
+"Of course not!{enter}
+We're not gonna take
+'this ship' down.
+We're gonna take
+'you' down!"
+
+#### 3 ####
+Rico
+"What the heck were
+you doing, Fei!?{enter}
+Were you expectin' me
+to do all the dirty work
+of clearing away these
+punks for you, alone?"
+
+#### 4 ####
+Dominia
+"Hmph.{enter}
+Just one more extra
+runt isn't going to
+allow you to down
+the 'Ship-Bomb Hecht'!"
+
+#### 5 ####
+Dominia
+"Hah! What insolence!
+But what do you expect
+coming from Lambs...!"
+
+#### 6 ####
+Dominia
+"Eeeaaaahh! {wait:14} ...{wait:14}Guh{wait:14}...{wait:14}
+Why you{wait:14}...
+Remember this{wait:14}...{enter}
+One day I'll pay
+you back for this...{wait:14}
+I promise!!"
+

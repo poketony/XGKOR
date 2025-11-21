@@ -1,0 +1,39 @@
+<TextBlock 1 w:32 h:4>
+Verlaine
+"Ah ah, Billy.
+Come sta il tuo
+amato padre?"<Close><End of Block>
+<TextBlock 2 w:54 h:4>
+Verlaine
+"… Non ho nulla a che fare
+con coloro che non sono
+associati con la Chiesa."<Close><End of Block>
+<TextBlock 3 w:48 h:4>
+Questa è la stanza del
+Pontefice. I visitatori
+non possono entrare.
+Vi prego di andarvene.<Close><End of Block>
+<TextBlock 4 w:48 h:4>
+Questa è la stanza del
+Pontefice. I visitatori
+non possono entrare.
+Vi prego di andarvene.<Close><End of Block>
+<TextBlock 5 w:50 h:3>
+Il Vescovo è preoccupato
+per i Mietitori, i profughi,
+i Redentori, la fede…<Close><End of Block>
+<TextBlock 6 w:54 h:3>
+"(<Delay 10>… Ci sono troppi 
+Wels. Più di quanti ne
+possiamo affrontare…<Delay 20><New>
+Cosa avranno in
+mente 'loro'?)"<Close><End of Block>
+<TextBlock 7 w:32 h:1>
+Purificare!
+Purificare…!<Close><End of Block>
+<TextBlock 8 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 9 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><Close><End of Block>

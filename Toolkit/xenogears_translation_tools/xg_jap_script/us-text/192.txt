@@ -1,0 +1,36 @@
+#### 1 ####
+{wait:05}...{wait:05}I can rest here.{wait:0F}
+    Don't
+    Rest
+
+#### 2 ####
+Citan
+"No time for that.{wait:0F}
+We must hurry{wait:05}...{wait:05}"
+
+#### 3 ####
+Citan
+"Hold on,{wait:05} Fei.{wait:05}
+Are you fully prepared?{wait:0F}{enter}
+You know there is no
+turning back now."
+
+#### 4 ####
+Fei
+"Huh?{wait:05} Yeah,{wait:05} you're right."{wait:0F}
+    Go get prepped
+    I'm ready 
+
+#### 5 ####
+Citan
+"{wait:05}...{wait:05}Good.{wait:0F}
+Shall we go?{wait:05}
+There is not much time."
+
+#### 6 ####
+Citan
+"{wait:05}...{wait:05}There is still some
+time before the train
+arrives{wait:05}...{wait:0F} Let us rest{enter}
+here for a while."
+

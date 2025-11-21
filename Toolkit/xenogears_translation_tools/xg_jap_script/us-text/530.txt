@@ -1,0 +1,167 @@
+#### 1 ####
+Fei
+"Unnnh...?"
+
+#### 2 ####
+Fei
+"Is this the main system?"
+
+#### 3 ####
+Fei
+"Any hints?"
+
+#### 4 ####
+Fei
+"Huh?"
+
+#### 5 ####
+Fei
+"Is this the one?
+How about that one?"
+
+#### 6 ####
+Area B is deactivated.
+
+#### 7 ####
+Door Lock System
+is now operational.
+
+#### 8 ####
+Door Lock Area B
+deactivated.
+
+#### 9 ####
+Done!
+
+#### 10 ####
+Please activate
+the main system!
+
+#### 11 ####
+Main system is active.
+
+#### 12 ####
+Activating main system.
+
+#### 13 ####
+Input activation code.
+
+#### 14 ####
+{fast:FF} CODE A?
+    1
+    2
+    3
+    4
+    0
+    Cancel
+
+#### 15 ####
+{fast:FF} CODE B?
+    1
+    2
+    3
+    4
+    0
+
+#### 16 ####
+{fast:FF} CODE C?
+    1
+    2
+    3
+    4
+    0
+
+#### 17 ####
+{fast:FF} CODE D?
+    1
+    2
+    3
+    4
+    0
+
+#### 18 ####
+{fast:FF} Confirm Code... 
+    A-{number(s):00}
+    B-{number(s):01}
+    C-{number(s):02}
+    D-{number(s):03}
+ 
+    OK?
+    RETRY
+
+#### 19 ####
+Activating main system.
+
+#### 20 ####
+Code Error
+
+#### 21 ####
+Code Error
+
+#### 22 ####
+Code Error
+
+#### 23 ####
+Code Error
+
+#### 24 ####
+The position of these
+blocks correspond to the
+activation code numbers!
+
+#### 25 ####
+Line A's Blocks are
+all closed off.
+
+#### 26 ####
+It's incribed as
+the 'A' line.
+
+#### 27 ####
+For main system use.
+
+#### 28 ####
+The number 3 block
+is visible.
+
+#### 29 ####
+It's inscribed as
+the 'B' line.
+
+#### 30 ####
+For the main system.
+
+#### 31 ####
+It's inscribed as
+'C-2' behind the lid.
+
+#### 32 ####
+It's inscribed as
+the 'C' line.
+
+#### 33 ####
+It's inscribed as
+the 'C' line.
+
+#### 34 ####
+For main system use.
+
+#### 35 ####
+Line D's blocks are
+all closed off.
+
+#### 36 ####
+It's inscribed as
+the 'D' line.
+
+#### 37 ####
+For main system use.
+
+#### 38 ####
+You have too many
+{str}.
+
+#### 39 ####
+ 
+ Received {str}.
+

@@ -1,0 +1,171 @@
+<TextBlock 1 w:46 h:5>
+Benvenuti!
+Cosa posso darvi?
+    Bart Vodka
+    Cocktail Margherita
+    Nulla<Close><End of Block>
+<TextBlock 2 w:18 h:1>
+Sono 40G.<Close><End of Block>
+<TextBlock 3 w:34 h:3>
+Ti sei scolato un
+Bart Vodka in un
+sorso solo.<Close><End of Block>
+<TextBlock 4 w:44 h:1>
+Sei ingrassato un po'.<Close><End of Block>
+<TextBlock 5 w:34 h:2>
+Fermo!
+Non c'hai soldi!?<Close><End of Block>
+<TextBlock 6 w:18 h:1>
+Sono 50G.<Close><End of Block>
+<TextBlock 7 w:38 h:3>
+Ti sei bevuto un
+Cocktail Margherita
+in un sorso solo.<Close><End of Block>
+<TextBlock 8 w:44 h:1>
+Sei ingrassato un po'.<Close><End of Block>
+<TextBlock 9 w:28 h:2>
+Che cazzo…?
+Non hai soldi?<Close><End of Block>
+<TextBlock 10 w:40 h:4>
+Sergente, sono stato
+via dalla città per
+così tanto tempo che
+non so cosa fare.<Close><End of Block>
+<TextBlock 11 w:48 h:2>
+Già…<Delay 30>
+Che ne dici della festa?<Close><End of Block>
+<TextBlock 12 w:20 h:1>
+La festa…?<Close><End of Block>
+<TextBlock 13 w:52 h:3>
+La festa per celebrare
+la tregua con Kislev…<New>
+… il ritorno del Principe
+Bartolomeo e la fondazione
+della Repubblica.<Close><End of Block>
+<TextBlock 14 w:40 h:5>
+Oh, già!<Delay 30> 
+Andiamo.<Delay 30>
+Non siamo potuti
+tornare per l'ultima
+festa.<Close><End of Block>
+<TextBlock 15 w:40 h:2>
+OK, sono prontissimo
+ad andare!<Close><End of Block>
+<TextBlock 16 w:40 h:4>
+Sì, sono felice che
+abbiano fatto questa
+festa, non è vero,
+Sergente?<Close><End of Block>
+<TextBlock 17 w:38 h:3>
+Smetti di chiamarmi
+Sergente, non siamo
+più nell'esercito.<Close><End of Block>
+<TextBlock 18 w:64 h:4>
+I pesci sono carinissimi! Potrei
+guardarli per tutto il giorno.
+    L'hai detto!
+    Vorrei mangiarmeli!<Close><End of Block>
+<TextBlock 19 w:50 h:4>
+Il tipo che era solito
+lavorare qui è tornato
+dall'esercito…<New>
+E ha detto che mi avrebbe
+portata al mare.<New>
+Ha detto che l'acqua non
+ha mai fine, proprio
+come il deserto.<New>
+Ha anche detto che
+potremmo vedere molti
+pesci carini.
+Non vedo l'ora…<Close><End of Block>
+<TextBlock 20 w:44 h:4>
+Cosa ordinate?
+    Un pasto squisito
+    Un pasto economico
+    Un pasto veloce<Close><End of Block>
+<TextBlock 21 w:20 h:1>
+Un attimo…<Close><End of Block>
+<TextBlock 22 w:24 h:1>
+Godetevelo.<Opcode 2 50><Close><End of Block>
+<TextBlock 23 w:14 h:1>
+Grazie.<Close><End of Block>
+<TextBlock 24 w:22 h:1>
+Sono <Opcode 10 0>G.<Space 3><Close><End of Block>
+<TextBlock 25 w:30 h:2>
+Grazie mille, 
+tornate ancora.<Close><End of Block>
+<TextBlock 26 w:34 h:3>
+Ehi, non avete
+abbastanza soldi,
+non è così?<Close><End of Block>
+<TextBlock 27 w:46 h:5>
+Nei vecchi tempi, sarei
+corso verso il posto
+del proprietario,
+e tutti mi avrebbero
+inseguito.<New>
+Ma ora è diverso.
+Il tipo che lavorava
+qui prima mi ha detto…<New>
+"Arraffa qualcosa di
+loro, quando se ne
+presenta l'occasione".<Close><End of Block>
+<TextBlock 28 w:12 h:1>
+…<Delay 10>…<Delay 10>…<Delay 10>…<Delay 10>…<Delay 10>…<Opcode 2 10><Space 5><Close><End of Block>
+<TextBlock 29 w:48 h:3>
+… Beh, non avete nulla
+che valga il prezzo
+del pranzo.<New>
+Portatemi un po' di
+soldi la prossima volta.<Close><End of Block>
+<TextBlock 30 w:14 h:1>
+Ottimo.<Opcode 2 30><Close><End of Block>
+<TextBlock 31 w:30 h:1>
+Ha preso <Opcode 4 16>G.<Space 3><Close><End of Block>
+<TextBlock 32 w:46 h:2>
+Non è abbastanza per
+pagare tutto il pranzo.<Close><End of Block>
+<TextBlock 33 w:50 h:3>
+Questo pagherà il pranzo.<Delay 50>
+La prossima volta
+portate abbastanza soldi.<Close><End of Block>
+<TextBlock 34 w:32 h:2>
+HP/EP recuperati
+del tutto!<New>
+Ingrassi un po'!<Close><End of Block>
+<TextBlock 35 w:32 h:2>
+HP/EP recuperati
+un po'!<New>
+Ingrassi molto!<Close><End of Block>
+<TextBlock 36 w:32 h:2>
+HP/EP recuperati
+parzialmente!<New>
+Ingrassi un po'!<Close><End of Block>
+<TextBlock 37 w:36 h:1>
+Che buono che era!<Close><End of Block>
+<TextBlock 38 w:36 h:3>
+Oh, scusatemi.
+Tavolo per quanti?
+Di qua, prego.<Close><End of Block>
+<TextBlock 39 w:52 h:3>
+Capo! Abbiamo ancora degli
+imbroglioni che mangiano
+e se la filano!<Close><End of Block>
+<TextBlock 40 w:48 h:5>
+Sai…<Delay 50>
+Da quando tutti gli
+uomini sono tornati,
+io e mio figlio ci
+vergogniamo così tanto!<New>
+Ma, rispetto alle mogli
+che hanno perso figli e
+mariti, o li hanno
+ritrovati feriti…<New>
+… siamo alquanto felici.<Close><End of Block>
+<TextBlock 41 w:50 h:4>
+Ho pensato… perché
+non smettere di bere?<New>
+La ragione per cui sono
+diventato un alcolizzato
+era per evitare di andare
+in guerra.<Close><Close><End of Block>

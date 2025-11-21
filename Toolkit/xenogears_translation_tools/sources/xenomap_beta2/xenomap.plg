@@ -1,0 +1,38 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: xenomap - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\user\IMPOST~1\Temp\RSP154.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Release/xenomap.pch" /Yu"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"C:\Documents and Settings\user\Desktop\Xenogears\xenotools\Tools\xenomap_beta2\MapData.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\user\IMPOST~1\Temp\RSP154.tmp" 
+Creating temporary file "C:\DOCUME~1\user\IMPOST~1\Temp\RSP155.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:no /pdb:"Release/xenomap.pdb" /machine:I386 /out:"Release/xenomap.exe" 
+".\Release\ImageDlg.obj"
+".\Release\MapData.obj"
+".\Release\MappedImage.obj"
+".\Release\StdAfx.obj"
+".\Release\xenomap.obj"
+".\Release\xenomapDlg.obj"
+".\Release\xenomap.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\user\IMPOST~1\Temp\RSP155.tmp"
+<h3>Output Window</h3>
+Compiling...
+MapData.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+xenomap.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

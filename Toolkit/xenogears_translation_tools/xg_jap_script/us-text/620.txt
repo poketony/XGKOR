@@ -1,0 +1,142 @@
+#### 1 ####
+Ramsus
+"This is your final
+warning. Hand over
+Lt. Elhaym, now!"
+
+#### 2 ####
+Ramsus
+"Are you sure you
+want to refuse me?{enter}
+It'll be too late
+for you to change
+your mind later!"
+
+#### 3 ####
+Ramsus
+"Humm...{wait:14} Well then,
+I'll have to show you
+if I'm boasting or not!{enter}
+So be it.{wait:14}
+No holding back!{wait:14}
+And no holds barred!"
+
+#### 4 ####
+Ramsus
+"Come on, come on!
+What poor form!
+What's wrong, Fei!?{enter}
+In the presence of
+my 'Vendetta', your
+{name:0B:¥ô¥§¥ë¥È©`¥ë} is but
+only a infant!"
+
+#### 5 ####
+Ramsus
+"Incredible!
+This undeniable
+difference in power!{enter}
+Miang!
+Are you watching this!?"
+
+#### 6 ####
+Ramsus
+"At this rate...
+And with this power,
+I can defeat him!"
+
+#### 7 ####
+Ramsus
+"Hm Hm Hm Hm Hmm...
+Wah hah hah hah hah!"
+
+#### 8 ####
+Ramsus
+"Hyah hah hah hah hah!
+Win! I can win! I am
+not the worthless one!!"
+
+#### 9 ####
+Ramsus
+"It's over for you!
+Fei Fong Wong!"
+
+#### 10 ####
+Ramsus
+"Nuah hah hah hah! I am
+not the worthless one!{wait:28}
+Hah! {wait:1E}Uha,{wait:28} haah...{wait:32} haah{enter}
+... Huh?"
+
+#### 11 ####
+Ramsus
+"!!{wait:1E}
+I've even taken out
+the lieutenant too{wait:1E}...{enter}
+Damn,{wait:1E}
+I forgot my orders{wait:1E}...{enter}
+Hmph{wait:05}...{wait:1E}
+Oh well{wait:05}...{wait:1E}
+To hell with
+Krelian's orders..."
+
+#### 12 ####
+Fei
+"I refuse to!"
+
+#### 13 ####
+Fei
+"Stop your stupid
+boasting!"
+
+#### 14 ####
+Fei
+"What are you saying!?
+If you do that..."
+
+#### 15 ####
+Fei
+"Ramsus...!?
+Can't you
+hear us...?"
+
+#### 16 ####
+Elly
+"{wait:1E}...{wait:1E}
+Ramsus, listen!
+I surrender!!{enter}
+So please stop
+attacking us
+this instant!"
+
+#### 17 ####
+Elly
+"It is me he wants!
+I can't drag you into
+danger just over me!"
+
+#### 18 ####
+Elly
+"Stop attacking!
+Ramsus!{enter}
+If I'm what you want,
+then just take me!"
+
+#### 19 ####
+Elly
+"Eeeeyaaah!"
+
+#### 20 ####
+Elly
+"He's lost himself in
+the overwhelming power
+of that gear of his...{enter}
+Fei, we had
+better run!"
+
+#### 21 ####
+Fei
+"Uuaaaaaahhhhhh!!"
+Elly
+"Eeeeyyyaaahhhh!!"
+

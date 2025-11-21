@@ -1,0 +1,479 @@
+#### 1 ####
+Etone? I saw him
+earlier but he left.
+
+#### 2 ####
+Margie
+"Really? 
+Where'd they go?"
+
+#### 3 ####
+I don't know...
+
+#### 4 ####
+Bart
+"What're you 
+doing Margie?"
+
+#### 5 ####
+Margie
+"Hi, Bart. I just heard
+from Citan. I also was
+looking for that Etone.{enter}
+This person's seen that
+Etone before."
+
+#### 6 ####
+Bart
+"Really?"
+
+#### 7 ####
+Hey, quit resistin'!!
+
+#### 8 ####
+Elly
+"Bart!!
+Look!!"
+
+#### 9 ####
+If you wouldn't resist I
+could sell you for more.
+
+#### 10 ####
+Elly
+"What are you doing?"
+
+#### 11 ####
+What the?
+Who are you?
+
+#### 12 ####
+Instead of the brat
+why don't I sell
+you off?
+
+#### 13 ####
+Bart
+"What! You want some!?
+Come get some ya losers!"
+
+#### 14 ####
+You think you're all
+that!?
+
+#### 15 ####
+Wha!
+
+#### 16 ####
+What the!?
+
+#### 17 ####
+You!
+What're you doing?
+
+#### 18 ####
+Wait,
+this guy's{wait:0A}...
+
+#### 19 ####
+Oh no{wait:0A}...
+Jesiah!!
+
+#### 20 ####
+Damn,
+I'll remember this!
+
+#### 21 ####
+Bart
+"What do you think 
+you're doing?"
+
+#### 22 ####
+Jesiah
+"Don't move."
+
+#### 23 ####
+Margie
+"Wa, wait..."
+
+#### 24 ####
+Jesiah
+"Shut up, 
+you dog of Solaris."
+
+#### 25 ####
+Elly
+"..."
+
+#### 26 ####
+Wait!!
+
+#### 27 ####
+Citan
+"A carbine rifle,
+that gun technique,
+you must be Jesiah.{enter}
+No Jesiah, you are
+misunderstanding.{enter}
+You always rush into
+things. She was only
+helping the girl."
+
+#### 28 ####
+Jesiah
+"What? 
+Butt kissin' talker, is
+that you Hyuga{wait:0A}...{wait:0A}"
+
+#### 29 ####
+Girl
+"..."
+
+#### 30 ####
+Jesiah
+"Yeh yeah, I know,
+Primera.
+My misunderstanding."
+
+#### 31 ####
+Jesiah
+"Sorry, young lady.
+Please, stand up."
+
+#### 32 ####
+Jesiah
+"Looks like you were 
+just trying to help. That's
+what she says.{enter}
+Sorry about the
+misunderstanding. This is
+Primera. My daughter.{enter}
+I am...
+Call me Jessie. It's
+enough that the little
+brats call me Jesiah."
+
+#### 33 ####
+Primera
+"..."
+
+#### 34 ####
+Elly
+"?"
+
+#### 35 ####
+Jessie
+"She says thank you.{enter}
+Something happened to her
+and she hasn't spoken 
+since then."
+
+#### 36 ####
+Citan
+"...Is this the girl
+that brought about your
+shotgun wedding?"
+
+#### 37 ####
+Jessie
+"That's a damn rude thing
+to ask! Look at how old
+she is.{enter}
+Primera is my
+second child. That other
+kid is already 16."
+
+#### 38 ####
+Citan
+"Please excuse me.
+How is your wife?"
+
+#### 39 ####
+Jessie
+"...{wait:0A}She's dead.
+I wasn't even there for
+her when she died."
+
+#### 40 ####
+Citan
+"I see...{wait:0A}
+What are you doing here?"
+
+#### 41 ####
+Jessie
+"I have to go shopping 
+sometime.{enter}
+Besides my son 
+has some unsavory
+business in this area..."
+
+#### 42 ####
+Ah...
+That Etone you were looking
+for has just arrived.
+
+#### 43 ####
+Bart
+"What!? Where?"
+
+#### 44 ####
+Doctor
+"...{wait:0A}...{wait:0A}is the reason why,
+so somehow, we need your
+help."
+
+#### 45 ####
+Etone
+"I see{wait:0A}...{wait:0A}..."
+
+#### 46 ####
+Jessie
+"Quit beating 'round the
+bush and just help."
+
+#### 47 ####
+Etone
+"Fa, father?
+And Prim too?"
+
+#### 48 ####
+Jessie
+"This is my son Billy."
+
+#### 49 ####
+Billy
+"Where have you been until
+now?{enter}
+Things are pretty
+serious at the
+headquarters."
+
+#### 50 ####
+Jessie
+"What do you mean serious?{enter}
+What's wrong with going
+out shopping with my
+daughter?"
+
+#### 51 ####
+Billy
+"I don't know the details
+but you have been labeled as
+an undesirable element.{enter}
+What did you do this time?
+Fight? Gamble? 
+Go after someone's wife
+again!?"
+
+#### 52 ####
+Jessie
+"Hmmph, that's just a
+rumor about me. A rumor.{enter}
+Don't you believe that.
+Ever since you went into
+the 'Ethos' you've become
+such a stiff."
+
+#### 53 ####
+Billy
+"..."
+
+#### 54 ####
+Jessie
+"This lady prevented
+Primera from getting
+kidnapped.{enter}
+Why don't you just
+help out?"
+
+#### 55 ####
+Elly
+"Well...can we get an
+introduction to the
+'Ethos' then?"
+
+#### 56 ####
+Billy
+"Oh yes, please excuse my
+rudeness. I didn't know
+you saved my sister.{enter}
+Let me contact the
+medical department
+at my headquarters.{enter}
+I have other matters I
+must attend to, considering
+I am not only a priest but
+also an Etone...{enter}
+So I cannot make any
+promises."
+
+#### 57 ####
+Elly
+"Then you'll introduce
+us?"
+
+#### 58 ####
+Billy
+"Yes. Let's stop by the
+'Ethos' headquarters
+after this."
+
+#### 59 ####
+Margie
+"Hmm. A priest and an
+Etone at the same time...
+Isn't that unsual?{enter}
+The 'Ethos' is obviously
+very different from my
+Nisan Sect."
+
+#### 60 ####
+Billy
+"Your Nisan Sect? Are
+you from Nisan?"
+
+#### 61 ####
+Margie
+"Yep, I'm Marguerite. 
+Nice to meet you, Father."
+
+#### 62 ####
+Billy
+"The pleasure is mine.{enter}
+I've never had a proper
+chance to speak to others
+about their religions.
+Can we talk later?"
+
+#### 63 ####
+Margie
+"Sure, that's fine. {enter}
+But I can't take that 
+much time. I'm a little 
+busy now."
+
+#### 64 ####
+Billy
+"Thank you.{enter}
+Hmm...Marguerite? 
+Where have I heard that
+name before?"
+
+#### 65 ####
+Bart
+"Forget about it,
+relax...{enter}
+I came here to talk
+to the 'Ethos'.
+Let's get moving."
+
+#### 66 ####
+Billy
+"What an impolite fellow.{enter}
+You should learn how to
+speak a little more
+politely."
+
+#### 67 ####
+Bart
+"Why you!"
+
+#### 68 ####
+Billy
+"Well everyone, {enter}
+I'll go tell the
+'Ethos' headquarters
+that you're coming.{enter}
+When you've taken
+care of business here,
+please come by the
+'Ethos'."
+
+#### 69 ####
+Bart
+"I know, I know. 
+Let's go." 
+
+#### 70 ####
+Jessie
+"Hey Billy, I have 
+some business to take 
+care of.{enter}
+If you're going back to 
+the headquarters can you
+take Primera back to the
+brat house for me?"
+
+#### 71 ####
+Billy
+"...{wait:0A}...{wait:1E}Alright.
+Let's go Prim."
+
+#### 72 ####
+Jessie
+"Alright, well I've got
+to get going.{enter}
+Later Hyuga.
+I know I'll be seein' you
+around."
+
+#### 73 ####
+Citan
+"Uh, who knows."
+
+#### 74 ####
+Jessie
+"Well, whatever.
+See you ladies later."
+
+#### 75 ####
+Citan
+"He never changes..."
+
+#### 76 ####
+Citan
+"Sigurd said he would be
+done with the Yggdrasil
+soon."
+
+#### 77 ####
+Bart
+"What, really?
+Alright, this time we can
+really leave port."
+
+#### 78 ####
+Elly
+"Are we returning...{wait:0A}
+to Aveh?"
+
+#### 79 ####
+Bart
+"Are you kidding?
+We've got to take
+care of Fei first.{enter}
+That smart aleck kid
+said he'd introduce
+us to the 'Ethos'.{enter}
+So I guess we'll just
+have to go to the 'Ethos'
+headquarters then..."
+
+#### 80 ####
+Elly
+"...{wait:0A}Thank you."
+
+#### 81 ####
+Bart
+"Why do I have to get
+thanked by you?"
+
+#### 82 ####
+Margie
+"Heh, that's right,
+Elly."
+
+#### 83 ####
+Elly
+"...Yes, you're right."
+

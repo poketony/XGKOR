@@ -1,0 +1,20 @@
+#### 1 ####
+Lacan
+"{wait:05}...{wait:05}Elly!?"
+
+#### 2 ####
+Miang
+"If only you had power{wait:05}...{wait:05}
+you could have saved her."
+
+#### 3 ####
+Miang
+"You want it, don't you?{wait:0F}
+Unrivaled power{wait:05}...!"
+
+#### 4 ####
+Miang
+"Don't you want to
+become{wait:05}...{wait:0F}
+the absolute being{wait:05}...!?"
+

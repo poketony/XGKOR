@@ -1,0 +1,251 @@
+#### 1 ####
+Fei
+"Can't we go into 
+the cathedral?"
+
+#### 2 ####
+Elly
+"Can't we go into 
+the cathedral?"
+
+#### 3 ####
+Elly
+"It's no use...
+He can't survive
+with those wounds."
+
+#### 4 ####
+Elly
+"It's possible
+with him."
+
+#### 5 ####
+Citan
+"Are we not allowed
+inside the cathedral?"
+
+#### 6 ####
+Citan
+"...Unfortunately,
+he passed away."
+
+#### 7 ####
+Citan
+"It is possible with him."
+
+#### 8 ####
+Bart
+"Can't we go into 
+the cathedral?"
+
+#### 9 ####
+Bart
+"Forget it.
+He's dead."
+
+#### 10 ####
+Bart
+"It's possible with him."
+
+#### 11 ####
+Billy
+"T,{wait:0A} this is{wait:0A}...!
+What{wait:0A}, what happened here?"
+
+#### 12 ####
+Billy
+"Are you alright?{wait:0A}
+What happened?"
+
+#### 13 ####
+Billy
+"Hey, {wait:14}hang in there!{wait:0A}
+Hey!"
+
+#### 14 ####
+Billy
+"Why...{wait:0A}
+Why did this happen?{enter}
+{wait:0A}...{wait:0A}...{wait:0A}...{wait:0A}...
+...This is...?"
+
+#### 15 ####
+Billy
+"This is father's
+shell casing{wait:0A}...{enter}
+Dammit... Don't tell
+me he stormed into the
+'Ethos' headquarters
+in desperation?"
+
+#### 16 ####
+Rico
+"Guess we can't get in 
+the cathedral."
+
+#### 17 ####
+Rico
+"I guess it's too late."
+
+#### 18 ####
+Rico
+"I can't deny that."
+
+#### 19 ####
+Billy
+"The infirmary is this way.
+Let's go."
+
+#### 20 ####
+Billy
+"We have been waiting
+for you.{enter}
+I received permission
+to treat Fei so long as
+it is in the practice
+hall's infirmary.{enter}
+Let us 'Ethos' staff
+take care of the rest."
+
+#### 21 ####
+Elly
+"Please,
+take care of Fei for me{wait:04}..."
+
+#### 22 ####
+Billy
+"The brothers from the
+'Ethos' are looking after
+Fei in the infirmary.{enter}
+Let me take you there.
+Please follow me,{wait:0F}
+this way."
+
+#### 23 ####
+Billy
+"This way."
+
+#### 24 ####
+Billy
+"..."
+
+#### 25 ####
+Billy
+"We are father and son in
+blood only!{wait:0A} I have nothing
+to do with that man{wait:05}..."
+
+#### 26 ####
+Billy
+"...{wait:0A}That father of mine...{wait:0A}
+I wish he'd think about my
+position before acting."
+
+#### 27 ####
+Verlaine
+"Billy, I hear your
+father has been
+rather active again."
+
+#### 28 ####
+Verlaine
+"It is said that there was
+an attack on an excavation
+site which injured many of
+my 'brothers' and workers."
+
+#### 29 ####
+Verlaine
+"Well, you're such a fine
+Etone - destroying Reapers
+and proving the justice of
+the 'Ethos' to the world.{enter}
+But your father is..."
+
+#### 30 ####
+Verlaine
+"Don't get me wrong.
+I don't suspect you,
+our good 'brother'.{enter}
+I just wanted to
+inform you about
+your father."
+
+#### 31 ####
+This is a practice hall.
+This facility was built 
+for us Etone.
+
+#### 32 ####
+No.
+Only 'Ethos' members or
+those with known identities
+can enter the cathedral
+and its related facilities.{enter}
+The same thing applies to
+this practice hall, but the
+bishop made an exception
+for brother Billy.
+
+#### 33 ####
+B, {wait:14}Billy{wait:0A}...
+
+#### 34 ####
+I{wait:0A} don't know{wait:0A}...{wait:0A}...
+Suddenly, {wait:0A}I heard a gun shot{wait:14}...{wait:1E}...{wait:32}
+
+#### 35 ####
+True faith comes from
+a stern doctrine.
+
+#### 36 ####
+The peace and order here
+in Aquvy is getting worse
+day by day.{enter}
+Saving people who have
+nowhere else to turn...{wait:0F}
+This too is a duty of
+the 'Ethos'.
+
+#### 37 ####
+Many people visit the 
+'Ethos' to get help.
+...They're the same as 
+us Etone.{enter}
+We also came to the
+'Ethos' with hearts 
+filled with sorrow.
+
+#### 38 ####
+The 'Ethos' was created
+to save people--
+to save people's souls and
+revive lost technology.{enter}
+We wish happiness to all
+the people of the world.
+
+#### 39 ####
+I used to live in Aveh,
+but I lost my house in
+the war with Kislev.{enter}
+The 'Ethos' accepted
+me as a believer.
+This is my home now.
+
+#### 40 ####
+Reapers destroyed my
+village...{enter}
+I'll become an Etone
+and create a world with
+no hardships!
+
+#### 41 ####
+Da--dd--y.
+Where did mommy go?
+
+#### 42 ####
+We don't know Fei's 
+condition yet.{wait:1E}
+... Let's stay here
+a little longer.
+

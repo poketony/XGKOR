@@ -1,0 +1,22 @@
+#### 1 ####
+Maitreya
+"Head for the mountain peak.
+There's no time to waste.{wait:0A}
+Deploy!"
+
+#### 2 ####
+You have too many
+{str}.
+
+#### 3 ####
+ 
+ Received {str}.
+
+#### 4 ####
+You have too many
+{str}.
+
+#### 5 ####
+ 
+ Received {str}.
+

@@ -1,0 +1,105 @@
+#### 1 ####
+Maria
+"I'm coming, Solaris!{enter}
+{name:13:ゼプツェン} and I 
+shall be the dark wings
+which carry you all to
+your deaths!!"
+
+#### 2 ####
+Nikolai
+"{name:13:ゼプツェン}!!{wait:14}
+Is that Maria?"
+
+#### 3 ####
+Maria
+"...
+It's true that I'm
+Maria Balthasar.{enter}
+But, you...{wait:28}
+who are you...?"
+
+#### 4 ####
+Nikolai
+"Of course it's me, 
+Nikolai!{enter}
+Look at this, Maria.
+The results of my 
+research!"
+
+#### 5 ####
+Nikolai
+"This huge, powerful,
+forever shining body!{enter}
+There'll be no aging and
+death.{wait:14} I was reborn as
+a new breed."
+
+#### 6 ####
+Maria
+"...{wait:1E}
+I loved my father in those
+days when he was human...{enter}
+His warm smile...{wait:14}
+I wanted him to be{wait:14} by my
+side forever!!"
+
+#### 7 ####
+Nikolai
+"Maria, you're my
+daughter.{wait:14} You know how
+stupid humans can be.{enter}
+You don't need to perish
+along with these feeble
+humans.{wait:14} Now, come, Maria.
+Start a new life with me.{enter}
+We shall begin a new
+chapter in life.{wait:14} Let's
+build a bright future
+together.{enter}
+I'll be by your side and
+protect you this time for
+sure. I promise you."
+
+#### 8 ####
+Maria
+"...{wait:1E}
+Father..."
+
+#### 9 ####
+Maria
+"...!!
+{name:13:ゼプツェン}...!?"
+
+#### 10 ####
+Nikolai
+"{name:13:ゼプツェン}...{wait:14}
+What? You dare stand 
+against me, your creator?"
+
+#### 11 ####
+Maria
+"T...this is...!!{wait:14}
+{name:13:ゼプツェン}!?"
+
+#### 12 ####
+Nikolai
+"Interesting...{wait:14}
+I'll take you on.{enter}
+I'll show you how great
+Nikolai is, and the power
+of the Achtzehn.{wait:14}
+Come on, {name:13:ゼプツェン}!!"
+
+#### 13 ####
+Maria
+"...{wait:14}
+Father..."
+
+#### 14 ####
+Maria
+"{name:13:ゼプツェン} and I shall
+be the dark wings which
+carry you all to your
+'deaths'!!"
+

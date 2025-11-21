@@ -1,0 +1,12 @@
+<TextBlock 1 w:44 h:2>
+Non sembra che si
+sposterà di più.<Close><End of Block>
+<TextBlock 2 w:26 h:2>
+Dovrebbe spostarsi
+se lo spingi.<Close><End of Block>
+<TextBlock 3 w:34 h:2>
+Ha troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 4 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><Close><End of Block>

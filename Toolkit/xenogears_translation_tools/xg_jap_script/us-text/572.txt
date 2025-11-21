@@ -1,0 +1,28 @@
+#### 1 ####
+Krelian
+"You're neglecting
+yourself too much!{enter}
+Why aren't you kinder
+to yourself, Mistress?"
+
+#### 2 ####
+Krelian
+"Sophia!"
+
+#### 3 ####
+Krelian
+"Sophia{wait:05}..."
+
+#### 4 ####
+Krelian
+"Lacan!
+What are you doing?
+
+#### 5 ####
+You keep back!{wait:0A}
+I knew we couldn't leave
+Sophia in your care!{enter}
+I'll protect her{wait:05}...{wait:05}
+even if it costs me
+my life!"
+

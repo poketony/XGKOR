@@ -1,0 +1,69 @@
+<TextBlock 1 w:50 h:4>
+Salvate voi stessi ma
+lasciate affondare i
+vostri amici in un mare
+di sabbia…<New>
+Non credete nel
+cameratismo?<Close><End of Block>
+<TextBlock 2 w:18 h:2>
+Shitan
+"Wooh…"<Close><End of Block>
+<TextBlock 3 w:22 h:2>
+Shitan
+"Oops…"<Close><End of Block>
+<TextBlock 4 w:54 h:4>
+Shitan
+"Ah ah ah…<Delay 16> Bene,
+Dottor Shitan Uzuki!<New>
+Sembra che tu abbia dato
+il ben servito ai tuoi
+sacculi…<New>
+… e stimolato i tuoi
+utriculi abbastanza
+per una vita intera!
+Wow, sono sconcertato!"<Close><End of Block>
+<TextBlock 5 w:48 h:4>
+Shitan
+"Fei, stavo scherzando.<Delay 18><New>
+Stare nella mano di
+<Weltall> non è una
+cosa malvagia.<New>
+Ho potuto studiare le
+ottime caratteristiche
+di questa macchina
+segreta di Kislev."<Close><End of Block>
+<TextBlock 6 w:24 h:3>
+Shitan
+"Davvero…?<Delay 24>
+Fantastico…!"<Close><End of Block>
+<TextBlock 7 w:10 h:3>
+Shitan
+"? …"<Opcode 2 32><Close><End of Block>
+<TextBlock 8 w:22 h:4>
+Fei
+"Dai, Doc!
+Di qua!
+Presto!"<Close><End of Block>
+<TextBlock 9 w:40 h:2>
+Fei
+"Stai bene, Doc?"<Close><End of Block>
+<TextBlock 10 w:52 h:4>
+Fei
+"Scusa, Doc!<New>
+Non ho avuto il tempo
+di aprire la cabina di
+pilotaggio…<New>
+Stai davvero bene, Doc?"<Close><End of Block>
+<TextBlock 11 w:54 h:4>
+Fei
+"Già,<Delay 15> appena iniziato
+il casino ha cominciato
+a fare tutto da solo…<New>
+Il sistema di risposta
+ambientale e di riduzione
+del peso in sospensione…<New>
+… lo ha fatto muovere in
+avanti<Delay 5>…<Delay 5> automaticamente!"<Close><End of Block>
+<TextBlock 12 w:16 h:2>
+Fei
+"…!!??"<Opcode 2 32><Close><End of Block>

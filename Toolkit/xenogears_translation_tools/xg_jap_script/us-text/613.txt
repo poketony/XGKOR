@@ -1,0 +1,89 @@
+#### 1 ####
+Took possession of
+ Alice's
+   'Wedding Dress'!
+
+#### 2 ####
+Fei
+"What are you doing
+here, Dan!?"
+
+#### 3 ####
+Fei
+"...Please, Dan.
+Stop it!"
+
+#### 4 ####
+Fei
+"Ergh{wait:14}...{wait:14}
+What do you want
+me to do...?"
+
+#### 5 ####
+Fei
+"...{wait:14}I can't.{enter}
+There's no way I could
+ever bring myself to
+strike you, Dan..."
+
+#### 6 ####
+Fei
+"Dan{wait:14}...{wait:14}
+I{wait:14}...{wait:14}"
+
+#### 7 ####
+Dan
+"Hmph!
+I escaped from
+Yui's place!{enter}
+I'm here to avenge
+my sister's death!"
+
+#### 8 ####
+Dan
+"Shut ya mouth! I will
+never forgive you.{wait:14}
+...You murderer!!"
+
+#### 9 ####
+Dan
+"Damn you, Fei!
+Why don't you
+fight back?{enter}
+C'mon,
+I challenged
+you!"
+
+#### 10 ####
+Dan
+"...Darn!{enter}
+Taking you down so
+easily like this isn't
+going to satisfy{enter}
+the souls of my sister
+or Timothy!{enter}
+Blast! I'll save this
+duel for later.{enter}
+The next time I meet
+you, it's going to be
+your funeral! Scum!{enter}
+Until then,
+hang on to this!{enter}
+Every time you look
+at it,{enter}
+I want you to suffer
+and feel the guilt for
+what you did !"
+
+#### 11 ####
+Dan
+"Shut up!
+I don't want to hear
+your stupid excuses!{enter}
+Fei, you're such
+a bastard!!"
+
+#### 12 ####
+Tournament
+Semi-Finals{clear:3C}
+

@@ -1,0 +1,9 @@
+#### 1 ####
+Who is it?
+
+#### 2 ####
+Chief Lee
+"Wh, who are you?{wait:14} ...{wait:14}
+What?{wait:05} You want me to
+look after this boy?"
+

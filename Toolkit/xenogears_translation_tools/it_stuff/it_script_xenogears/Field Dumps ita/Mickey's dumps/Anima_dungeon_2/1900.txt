@@ -1,0 +1,32 @@
+<TextBlock 1 w:48 h:3>
+Fei
+"Se stiamo fermi,
+andrà tutto bene."<Opcode 2 30><Close><End of Block>
+<TextBlock 2 w:14 h:3>
+Fei
+"Cosa!?
+Di nuovo?"<Opcode 2 30><Close><End of Block>
+<TextBlock 3 w:20 h:3>
+Fei
+"Uh? 
+E adesso?"<Opcode 2 30><Close><End of Block>
+<TextBlock 4 w:8 h:2>
+Fei
+"!?"<Opcode 2 30><Close><End of Block>
+<TextBlock 5 w:20 h:3>
+Fei
+"Attenzione!
+Saltate!"<Opcode 2 30><Close><End of Block>
+<TextBlock 6 w:34 h:4>
+Fei
+"Merda!
+Il soffitto si
+abbassa di nuovo!!"<Opcode 2 40><Close><End of Block>
+<TextBlock 7 w:30 h:4>
+Fei
+"Ehi!!
+Il soffitto!
+Si sta abbassando!!"<Opcode 2 40><Close><End of Block>
+<TextBlock 8 w:42 h:2>
+  Mostra del coraggio
+e resta fermo in piedi!<Close><Close><End of Block>

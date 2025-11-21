@@ -1,0 +1,244 @@
+<TextBlock 1 w:40 h:3>
+Fei
+"Non so come…<Delay 30> ma
+li ho sconfitti!"<Close><End of Block>
+<TextBlock 2 w:28 h:2>
+Fei
+"C… che cosa?"<Close><End of Block>
+<TextBlock 3 w:46 h:3>
+Fei
+"Tu sei quello
+di…<Delay 40> Lahan…!!"<Close><End of Block>
+<TextBlock 4 w:44 h:4>
+Fei
+"Quanto potere ho
+mostrato? Ma di che
+cosa stai parlando?"<Close><End of Block>
+<TextBlock 5 w:50 h:3>
+Fei
+"Farmi pilotare il Gear?
+L'hai pianificato tu?"<Close><End of Block>
+<TextBlock 6 w:42 h:4>
+Fei
+"Allora tu sei
+quello che ha
+causato tutto!?"<Close><End of Block>
+<TextBlock 7 w:18 h:2>
+Fei
+"Che schifo…"<Close><End of Block>
+<TextBlock 8 w:52 h:4>
+Fei
+"Hai detto di volere
+il mio potere? Cosa
+vorresti farne!?"<Close><End of Block>
+<TextBlock 9 w:44 h:4>
+Fei
+"Cos'è successo fra
+voi due? Cosa gli
+hai fatto!?"<Close><End of Block>
+<TextBlock 10 w:16 h:2>
+Fei
+"Cosa!?"<Close><End of Block>
+<TextBlock 11 w:36 h:4>
+Fei
+"Aspetta!
+Non abbiamo ancora
+finito di parlare!!"<Close><End of Block>
+<TextBlock 12 w:50 h:4>
+Fei
+"Hai attaccato il mio
+villaggio solo per farmi
+pilotare il Gear!?<New>
+Perché!?<Delay 20>
+Spiegami perché è dovuta
+morire tanta gente!?"<Close><End of Block>
+<TextBlock 13 w:54 h:4>
+Fei
+"No!!<Delay 30>
+Cercavo solo di salvare il
+villaggio e gli abitanti!<New>
+Non volevo distruggerlo!!"<Close><End of Block>
+<TextBlock 14 w:40 h:4>
+Fei
+"Stai zitto!<New>
+Anche se fosse vero,
+non sei forse tu
+quello che ha
+causato tutto!?<New>
+Se tu non fossi venuto,
+questa tragedia non
+sarebbe accaduta!"<Close><End of Block>
+<TextBlock 15 w:34 h:2>
+Fei
+"Distruggere dio?"<Close><End of Block>
+<TextBlock 16 w:48 h:4>
+Fei
+"Ridicolo!
+Non voglio avere nulla
+a che fare con questo!<New>
+Non voglio distruggere
+il tuo dio, e se vuoi
+fare qualcosa… falla
+da solo!!"<Close><End of Block>
+<TextBlock 17 w:42 h:4>
+Fei
+"Mio padre?<Delay 25>
+Il mio vero padre?<Delay 30>
+Tu lo conosci!?"<Close><End of Block>
+<TextBlock 18 w:14 h:2>
+Fei
+"Cosa?"<Close><End of Block>
+<TextBlock 19 w:42 h:2>
+Shitan
+"Eccoci di nuovo…"<Close><End of Block>
+<TextBlock 20 w:48 h:4>
+Uomo in Nero
+"Vedo che il tuo ardente
+desiderio di battaglia
+non è stato domato."<Close><End of Block>
+<TextBlock 21 w:48 h:4>
+Uomo In Nero
+"Il mio nome è <Delay 10>Grahf<Delay 10>…<Delay 10>
+Colui ch'è in perpetua
+ricerca di potere.<New>
+E tu a Lahan ne hai
+ben mostrato, n'è
+vero, Fei!?"<Close><End of Block>
+<TextBlock 22 w:54 h:4>
+Grahf
+"Un potere maggiore…
+è ciò che mi serve per
+raggiungere la mia meta.<New>
+Inviai io <Weltall>…<New>
+… allo scopo di ridestare
+il tuo potere, una volta
+che tu fossi entrato in
+contatto col tuo Gear."<Close><End of Block>
+<TextBlock 23 w:44 h:4>
+Grahf
+"Sì.<Delay 10>
+È stato necessario per
+ridestare il tuo potere."<Close><End of Block>
+<TextBlock 24 w:54 h:4>
+Grahf
+"Proprio così.<Delay 10>
+La morte dei tuoi cari…<New>
+E tu impotente di fronte
+ad essa<Delay 10>…<New>
+Il dolore,<Delay 10> le urla del
+tuo cuore generate a
+causa della tragedia…<Delay 40>
+Ecco!<New>
+Tutto ciò è l'origine
+del tuo potere ed il
+prezzo da pagare per
+ridestarlo."<Close><End of Block>
+<TextBlock 25 w:54 h:4>
+Grahf
+"Non lo so.<New>
+Non provo nulla nel
+veder morire quelle
+inutili creature…<New>
+Non erano altro che
+miserabili vermi…<New>
+… che vivevano la loro
+vita senza neanche
+adempiere a ciò cui
+erano destinati!<New>
+E poi… hai dimenticato?<Delay 10>
+Fosti tu a distruggere
+il villaggio<Delay 10>…<New>
+Io mi sono limitato a
+compiere un cenno con
+una mano."<Close><End of Block>
+<TextBlock 26 w:50 h:4>
+Grahf
+"È davvero così?<Delay 15>
+Sicuro di non averla
+sentita?<New>
+La tua vera essenza…
+La voce di desiderio
+dentro di te che anela
+alla distruzione."<Close><End of Block>
+<TextBlock 27 w:52 h:4>
+Grahf
+"Ah, dunque incolpi
+gli altri? Capisco…<New>
+Sembra qualcosa che
+'tu' vorresti dire.
+Ottimo.<Delay 30><New>
+La tua vera natura
+verso la distruzione
+permane immutata."<Close><End of Block>
+<TextBlock 28 w:44 h:4>
+Grahf
+"Lo sai…<Delay 10>
+È per distruggere…<Delay 30>
+il <Delay 10>creatore<Delay 10>…"<Close><End of Block>
+<TextBlock 29 w:52 h:4>
+Grahf
+"Sì, noi distruggeremo<Delay 30>
+dio.<Delay 25> È il nostro fine…<New>
+Siamo nati per compiere
+questo destino!!"<Close><End of Block>
+<TextBlock 30 w:34 h:4>
+Grahf
+"Ah, ah, ah…
+Rassomigli a
+tuo padre."<Close><End of Block>
+<TextBlock 31 w:50 h:4>
+Grahf
+"Quello di tuo padre
+era…<Delay 5> un urlo delizioso.
+Ne fui estasiato.<New>
+Nulla è più dolce
+del disperato urlo
+di morte di un uomo."<Close><End of Block>
+<TextBlock 32 w:50 h:4>
+Grahf
+"Umph, davvero
+vuoi saperlo?<New>
+Non vi è utilità alcuna
+nel rivelartelo adesso."<Close><End of Block>
+<TextBlock 33 w:42 h:4>
+Grahf
+"Il tuo potere non è
+ancora sufficiente
+per i miei scopi.<New>
+Una cosa inusabile
+deve essere provata
+fino a che non diventi
+adatta."<Close><End of Block>
+<TextBlock 34 w:54 h:4>
+Grahf
+"Cosa farai, Fei?
+Se la morte qui ti
+attende, così sia.<New>
+Potresti guadagnare
+una certa felicità dal
+disconoscere la verità!<New>
+Ma, certamente, non è
+questo ciò che tu in
+realtà desideri…<New>
+Se vuoi conoscere la
+verità… ed è questo che
+vuoi, n'è vero Fei…<Delay 5><New>
+Devi dimostrarmi che
+hai raggiunto il livello
+di forza che richiedo…<New>
+E per fare questo… devi
+distruggere gli altri
+servendoti della tua
+stessa forza!<New>
+Allora riotterrai tutto
+ciò che fu perduto in
+cambio di quell'urlo
+di morte!<Delay 15><New>
+Ah, ah, ah, ah!!"<Close><End of Block>
+<TextBlock 35 w:38 h:1>
+AH, AH, AH, AH!<Close><End of Block>
+<TextBlock 36 w:24 h:4>
+Fei
+"!!
+Ma cosa diavolo
+è quello!?"<Close><Close><End of Block>

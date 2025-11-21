@@ -1,0 +1,82 @@
+#### 1 ####
+Citan
+"What is that{wait:0A}...?"
+
+#### 2 ####
+Citan
+"This{wait:05} must be{wait:05}
+the place{wait:0A}..."
+
+#### 3 ####
+Bart
+"Hey, what's that{wait:0A}...?"
+
+#### 4 ####
+Bart
+"This has gotta{wait:14}
+be the place{wait:0A}..."
+
+#### 5 ####
+Billy
+"What is that{wait:05}
+over there{wait:0A}...?"
+
+#### 6 ####
+Billy
+"This must be{wait:14}
+the place{wait:0A}...!"
+
+#### 7 ####
+Rico
+"What's that there{wait:0A}...?"
+
+#### 8 ####
+Rico
+"This has to be{wait:14}
+the right place{wait:0A}...{wait:0A}"
+
+#### 9 ####
+Emeralda
+"What that{wait:0A}...?"
+
+#### 10 ####
+Emeralda
+"This is{wait:14}
+right place{wait:0A}...!?"
+
+#### 11 ####
+{name:07:チュチュ}
+"Whatchu think that is?"
+
+#### 12 ####
+{name:07:チュチュ}
+"This has chu be{wait:14}
+the right place{wait:0A}..."
+
+#### 13 ####
+Maria
+"What's that{wait:0A}...?"
+
+#### 14 ####
+Maria
+"This is{wait:14}
+the place{wait:0A}..."
+
+#### 15 ####
+Citan
+"What is that{wait:0A}...?"
+
+#### 16 ####
+Citan
+"This{wait:05} must be
+the place{wait:05}..."
+
+#### 17 ####
+Emeralda
+"What that{wait:0A}...?"
+
+#### 18 ####
+Emeralda
+"This is {wait:14}
+right place{wait:0A}..."
+

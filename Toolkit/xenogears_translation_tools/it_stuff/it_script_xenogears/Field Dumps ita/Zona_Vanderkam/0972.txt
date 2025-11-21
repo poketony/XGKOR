@@ -1,0 +1,47 @@
+<TextBlock 1 w:44 h:1>
+  Vuoi tu<Delay 25> potere?<Opcode 2 85><Close><End of Block>
+<TextBlock 2 w:46 h:3>
+Grahf
+"La mia mano
+è latrice del
+soffio divino!"<Close><End of Block>
+<TextBlock 3 w:50 h:4>
+Grahf
+"Fiorisci, o immoral
+semenza, e tosto accogli
+i tuoi reconditi poteri!"<Close><End of Block>
+<TextBlock 4 w:50 h:4>
+Grahf
+"Accetta in te il
+potere della gloriosa
+Madre della Distruzione!"<Close><End of Block>
+<TextBlock 5 w:48 h:4>
+Grahf
+"Io sono Grahf, colui
+ch'è in perpetua ricerca
+di potere.<New>
+Vuoi tu potere?"<Close><End of Block>
+<TextBlock 6 w:34 h:2>
+Grahf
+"Sì,<Delay 20> potere."<Close><End of Block>
+<TextBlock 7 w:22 h:2>
+Grahf
+"Così sia!"<Close><End of Block>
+<TextBlock 8 w:22 h:2>
+Vanderkam
+"Uh… io…"<Close><End of Block>
+<TextBlock 9 w:38 h:2>
+Vanderkam
+"Chi…<Delay 5> chi <Delay 10>sei!?"<Close><End of Block>
+<TextBlock 10 w:28 h:2>
+Vanderkam
+"Potere…"<Close><End of Block>
+<TextBlock 11 w:38 h:3>
+Vanderkam
+"Potere…
+… potere…<New>
+Lo voglio… io
+voglio POTERE!"<Close><End of Block>
+<TextBlock 12 w:30 h:2>
+Vanderkam
+"Arrgghhhhh…"<Opcode 2 50><Close><End of Block>

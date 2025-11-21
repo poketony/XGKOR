@@ -1,0 +1,226 @@
+#### 1 ####
+Fei
+"...So,{wait:1E}
+what's gonna happen?"
+
+#### 2 ####
+Fei
+"...You haven't..."
+
+#### 3 ####
+Fei
+"You haven't forgotten
+what we need to do?"
+
+#### 4 ####
+Fei
+(...Is{wait:1E} everything
+gonna be OK...?{enter}
+I'm beginning to have my
+doubts...)
+
+#### 5 ####
+Elly
+"...So,{wait:1E}
+what's going to happen
+now?"
+
+#### 6 ####
+Fei
+"...You haven't..."
+
+#### 7 ####
+Fei
+"You haven't forgotten
+what we needed to do...?"
+
+#### 8 ####
+Elly
+(...Are{wait:1E} we
+going to be OK...?{enter}
+I've got a bad
+feeling...)
+
+#### 9 ####
+Citan
+"My, was that not the
+longest flight of
+stairs!?{enter}
+...So, what is our plan?"
+
+#### 10 ####
+Fei
+"...You haven't..."
+
+#### 11 ####
+Fei
+"You haven't forgotten
+what we needed to do..?"
+
+#### 12 ####
+Citan
+(...{wait:1E}Are we going
+to be okay..?)
+
+#### 13 ####
+Fei
+"...You haven't.."
+
+#### 14 ####
+Fei
+"You haven't forgotten
+what we needed to do...?"
+
+#### 15 ####
+Dummy tag.
+Bart is not in the lead
+position.
+
+#### 16 ####
+Billy
+"Phew..."
+
+#### 17 ####
+Billy
+"...{wait:1E} Looks like a
+deadend. Were you going
+to do something?{enter}
+I'll try to help in
+any way I can..."
+
+#### 18 ####
+Billy
+"...You haven't..."
+
+#### 19 ####
+Billy
+"You haven't forgotten
+what we needed to do..?"
+
+#### 20 ####
+Billy
+"Is this person...{wait:1E}
+okay?"
+
+#### 21 ####
+Rico
+"What the...?{wait:1E}
+What's this about?"
+
+#### 22 ####
+Rico
+"...You haven't..."
+
+#### 23 ####
+Rico
+"You haven't forgotten
+what we needed to do...?"
+
+#### 24 ####
+Rico
+(Are...{wait:1E} are we
+gonna be okay?)
+
+#### 25 ####
+Maria
+"...What is this place?{wait:1E}
+You want me to go in more?"
+
+#### 26 ####
+Emeralda
+"...You haven't..."
+
+#### 27 ####
+Emeralda
+"You haven't forgotten
+what we needed to do...?"
+
+#### 28 ####
+Emeralda
+(This...{wait:1E} is not
+good.)
+
+#### 29 ####
+{name:07:チュチュ}
+"It's a deadend."
+
+#### 30 ####
+{name:07:チュチュ}
+"...Oh no..."
+
+#### 31 ####
+{name:07:チュチュ}
+"Did you forget what
+we needed chu do...?"
+
+#### 32 ####
+{name:07:チュチュ}
+(...{wait:1E} a rather poor memory 
+if I've ever seen one...)
+
+#### 33 ####
+Maria
+"Now...{wait:0A}what?"
+
+#### 34 ####
+Maria
+"...You haven't..."
+
+#### 35 ####
+Maria
+"You haven't forgotten
+what we needed to do...?"
+
+#### 36 ####
+Maria
+(Uhh...{wait:1E} Not as
+reliable as he looks).
+
+#### 37 ####
+Margie
+"Ya want me to open it?"
+
+#### 38 ####
+There's something that
+resembles a panel.
+
+#### 39 ####
+Move it?
+    Move it
+    Forget it
+
+#### 40 ####
+Bart
+"Awww yeah!
+This is it!"
+
+#### 41 ####
+Bart
+"We're here."
+
+#### 42 ####
+Bart
+"Hey now, don't rush me."
+
+#### 43 ####
+Bart
+"Hey, lay off and
+shut up!"
+
+#### 44 ####
+Bart
+"... It's been a while,
+so don't blame me.{enter}
+...{wait:1E} Crap,
+I really forgot."
+
+#### 45 ####
+    NO! I'm gonna remember!
+    ...Please...
+
+#### 46 ####
+Bart
+"Oh yeah!! Hah!{wait:1E}
+That's it, that's what
+I thought it was!"
+

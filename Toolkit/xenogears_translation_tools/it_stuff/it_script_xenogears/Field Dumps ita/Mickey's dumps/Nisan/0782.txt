@@ -1,0 +1,730 @@
+<TextBlock 1 w:42 h:2>
+Bart
+"Dividiamoci!<New>
+Io andrò al Mausoleo.<Delay 30>
+Porterò Fei e…"<Delay 30><Close><End of Block>
+<TextBlock 2 w:54 h:3>
+Bart
+"Va bene, capisco.<Delay 30>
+Allora, va' ad
+aiutare Sig!"<Close><End of Block>
+<TextBlock 3 w:34 h:1>
+Bart
+"In questo caso…"<Close><End of Block>
+<TextBlock 4 w:48 h:2>
+Bart
+"Allora è deciso!<New>
+Tutti gli altri
+collaboreranno con Sig!"<Close><End of Block>
+<TextBlock 5 w:40 h:4>
+Bart
+"Eh?<Delay 30>
+Non hai…<Delay 30>
+Oh, già.<New>
+Scusa, Margie.
+Vieni pure con noi."<Close><End of Block>
+<TextBlock 6 w:36 h:4>
+Bart
+"Va bene, ripongo
+la mia fiducia in
+ciascuno di voi!<New>
+È un uomo morto la
+prossima volta che
+l'incontro!"<Close><End of Block>
+<TextBlock 7 w:40 h:2>
+Com'è la situazione 
+a Bledavik?<Close><End of Block>
+<TextBlock 8 w:46 h:4>
+È sotto legge marziale,
+così è molto difficile
+contattare i nostri
+agenti in città.<New>
+In base alle notizie
+raccolte, le cose al
+momento sono molto
+tranquille.<New>
+Pensiamo che sia il
+momento per attaccare e
+ci stiamo preparando…"<Close><End of Block>
+<TextBlock 9 w:38 h:1>
+La possibilità c'è.<Close><End of Block>
+<TextBlock 10 w:52 h:4>
+Comunque, ho sentito che
+le forze di Shakhan nella
+capitale stanno andando
+indebolendosi.<New>
+È probabilmente più debole
+di quel che pensiamo.<Close><End of Block>
+<TextBlock 11 w:46 h:2>
+Comunque, sta accadendo
+e ci stiamo preparando.<Close><End of Block>
+<TextBlock 12 w:44 h:1>
+Anch'io la penso così.<Close><End of Block>
+<TextBlock 13 w:34 h:2>
+Ora che ci penso,
+12 anni fa…<Close><End of Block>
+<TextBlock 14 w:50 h:4>
+Fin dal colpo di stato di
+Shakhan, c'è stata molta
+tensione nel nostro
+paese.<New>
+Con il ritorno di
+Margherita, penso che 
+la dinastia precedente
+possa tornare a regnare.<Close><End of Block>
+<TextBlock 15 w:46 h:2>
+Tutti la pensano così,
+ma guardiamo la realtà.<New>
+Abbiamo la forza per
+poterlo fare?<Close><End of Block>
+<TextBlock 16 w:48 h:6>
+Dicono che Bartolomeo,
+colui che ha salvato
+Margherita, abbia
+iniziato a muoversi allo
+scoperto. Shakhan starà
+preparando l'esercito.<Close><End of Block>
+<TextBlock 17 w:46 h:2>
+Shakhan potrebbe essere
+presto qui…<Close><End of Block>
+<TextBlock 18 w:2 h:1>
+…<Close><End of Block>
+<TextBlock 19 w:52 h:2>
+Cosa ci accadrà se si
+impadronirà di quest'area?<Close><End of Block>
+<TextBlock 20 w:30 h:1>
+Ucciderà tutti?<Close><End of Block>
+<TextBlock 21 w:46 h:4>
+Ne dubito.<Delay 30>
+Vorrà evitare qualsiasi
+rischio che provochi la
+reazione dei cittadini.<New>
+Specialmente in una
+situazione come questa,
+vorrà evitare di
+compromettersi.<Close><End of Block>
+<TextBlock 22 w:40 h:3>
+Per ogni evenienza,
+dovremmo preparare un
+rifugio segreto…<Close><End of Block>
+<TextBlock 23 w:18 h:1>
+Forse là…<Close><End of Block>
+<TextBlock 24 w:48 h:4>
+Sigurd
+"Sono andato al negozio
+a farmi prestare un
+tavolo.<New>
+Il titolare ha detto…
+'qualsiasi cosa serva al
+Padroncino, basta solo
+chiedere.'"<Close><End of Block>
+<TextBlock 25 w:30 h:3>
+Bart
+"Ringrazialo da
+parte mia."<Close><End of Block>
+<TextBlock 26 w:44 h:4>
+Bart
+"Quand'ero ragazzo,<Delay 30> mi
+prendevo la roba e
+lo mettevo nei guai."<Close><End of Block>
+<TextBlock 27 w:20 h:3>
+Fei
+"Prendevi…<Delay 30>
+che cosa?"<Close><End of Block>
+<TextBlock 28 w:48 h:4>
+Bart
+"Una nave giocattolo.<Delay 30>
+Ero solito riempirla
+di fuochi d'artificio…<New>
+… lasciandola poi andare
+alla deriva sul lago
+della cattedrale. Era
+il mio passatempo."<Close><End of Block>
+<TextBlock 29 w:42 h:4>
+Bart
+"Immaginavo che il
+lago fosse il mare
+aperto e che io…<New>
+… fossi il comandante
+di una flotta."<Close><End of Block>
+<TextBlock 30 w:44 h:4>
+Bart
+"Ma… quello è il
+passato.<Delay 30>
+Pensiamo al presente."<Close><End of Block>
+<TextBlock 31 w:38 h:4>
+Bart
+"Primo…<Delay 30>
+Geburah è il
+problema più grande."<Close><End of Block>
+<TextBlock 32 w:44 h:4>
+Shitan
+"Sì, Ramsus si è mosso
+raggiungendo i propri
+scopi.<New>
+La prova è che ora
+egli è il comandante
+di Geburah…<New>
+Un uomo qualsiasi<Delay 10> non
+sarebbe capace di
+simili progressi in
+così breve tempo.<New>
+E ora egli si trova
+proprio qui in Ignis."<Close><End of Block>
+<TextBlock 33 w:46 h:4>
+Shitan
+"A dire la verità, la
+situazione non ci è
+molto favorevole.<New>
+Abbiamo la necessità di
+trovare un punto debole
+da poter attaccare."<Close><End of Block>
+<TextBlock 34 w:40 h:4>
+Bart
+"Per prima cosa,
+concentriamoci
+su Shakhan.<New>
+Con lui eliminato e
+Aveh di nuovo salva,
+ci occuperemo di
+Geburah."<Close><End of Block>
+<TextBlock 35 w:52 h:4>
+Bart
+"Con le nostre forze
+attuali possiamo far
+fronte alle guardie reali.<New>
+Il problema è come
+occuparci delle forze
+di Geburah allo stesso
+tempo…<New>
+Esse si muoveranno alla
+richiesta di Shakhan.
+Non se ne staranno sedute
+a guardare."<Close><End of Block>
+<TextBlock 36 w:42 h:3>
+Shitan
+"… Posso dare uno
+sguardo, per favore?"<Close><End of Block>
+<TextBlock 37 w:50 h:3>
+Shitan
+"In breve, Geburah deve
+lasciarci stare per un
+po'…<New>
+Almeno fino al momento in
+cui avremo preso la
+capitale, Bledavik."<Close><End of Block>
+<TextBlock 38 w:46 h:3>
+Sigurd
+"Il problema è…<New>
+Un attacco alle unità di
+guardia di confine farà
+muovere Geburah?"<Close><End of Block>
+<TextBlock 39 w:48 h:4>
+Shitan
+"Per esserne sicuri,
+dovrà sembrare che Nisan
+si schieri con Kislev.<New>
+Se lo crederanno,
+di sicuro faranno una
+mossa."<Close><End of Block>
+<TextBlock 40 w:40 h:3>
+Bart
+"Intendi usare Nisan
+come un'esca?"<Close><End of Block>
+<TextBlock 41 w:14 h:2>
+Fei
+"Doc!?"<Close><End of Block>
+<TextBlock 42 w:46 h:4>
+Sigurd
+"Shakhan è molto
+sensibile alle azioni
+di Nisan e di Kislev.<New>
+Se Nisan inizia a
+muoversi, probabilmente
+vorrà che se ne occupi
+Geburah, ma…"<Close><End of Block>
+<TextBlock 43 w:40 h:4>
+Shitan
+"Non è proprio ciò
+che avrei voluto
+fare, ma…<New>
+… a giudicare dalla
+situazione, dobbiamo
+rischiare il tutto
+per tutto."<Close><End of Block>
+<TextBlock 44 w:8 h:1>
+Mmh…<Close><End of Block>
+<TextBlock 45 w:40 h:4>
+Bart
+"Per prima cosa, ci
+introdurremo nella
+capitale.<New>
+Per stanare Shakhan,
+dobbiamo incontrarci
+con i nostri agenti
+già in città."<Close><End of Block>
+<TextBlock 46 w:40 h:3>
+Shitan
+"Stiamo dimenticando
+una cosa…<New>
+Le unità dislocate
+lungo il confine con
+Kislev."<Close><End of Block>
+<TextBlock 47 w:8 h:2>
+Bart
+"…!"<Close><End of Block>
+<TextBlock 48 w:36 h:4>
+Bart
+"Porca…<Delay 30>
+Questo ci mette in
+grave pericolo!"<Close><End of Block>
+<TextBlock 49 w:44 h:4>
+Shitan
+"Non t'angosciare.<New>
+Vorrei solo capire la
+distribuzione attuale
+delle forze in campo
+nell'area.<New>
+Nel peggiore dei casi,
+il loro intervento non
+dovrebbe essere un 
+grosso problema."<Close><End of Block>
+<TextBlock 50 w:34 h:2>
+Bart
+"Cosa vuoi dire?"<Close><End of Block>
+<TextBlock 51 w:50 h:4>
+Shitan
+"Ho delle informazioni
+addizionali sulla flotta
+di confine di Aveh.<New>
+Il precedente comandante
+supremo di Aveh è stato
+trasferito là.<New>
+Non solo trasferito,<Delay 30>
+direi <Delay 30>degradato…<Delay 30>
+Il suo nome è Vanderkam."<Close><End of Block>
+<TextBlock 52 w:24 h:2>
+Sigurd
+"Vanderkam…"<Close><End of Block>
+<TextBlock 53 w:36 h:4>
+Sigurd
+"Non sarà per caso
+lo stesso Vanderkam
+di Jugend?"<Close><End of Block>
+<TextBlock 54 w:28 h:2>
+Shitan
+"Proprio lui."<Close><End of Block>
+<TextBlock 55 w:52 h:4>
+Shitan
+"Giovanotto, egli mal si
+adatta ai cambiamenti di
+tattica…<New>
+… soprattutto se si
+tratta di Gear…<New>
+Un uomo totalmente
+dipendente dalla potenza
+dei suoi cannoni."<Close><End of Block>
+<TextBlock 56 w:46 h:3>
+Bart
+"Cioè…<Delay 15> è una testa
+di cazzo.<New>
+Tutto muscoli e senza
+una vera preparazione
+militare.<New>
+Un eccellente bersaglio
+per un pirata."<Close><End of Block>
+<TextBlock 57 w:38 h:4>
+Maison
+"Padroncino!<Delay 30>
+Questo non sarà un
+atto di pirateria!"<Close><End of Block>
+<TextBlock 58 w:38 h:2>
+Bart
+"Stavo scherzando."<Close><End of Block>
+<TextBlock 59 w:52 h:4>
+Shitan
+"Sembra che il numero di
+Gear assegnati alla flotta
+sia stato ridotto."<Close><End of Block>
+<TextBlock 60 w:46 h:3>
+Shitan
+"A parte ciò…<New>
+È così pieno di sé
+da pensare di fare
+sempre la cosa giusta."<Close><End of Block>
+<TextBlock 61 w:46 h:4>
+Bart
+"È davvero tanto
+stupido? Sarà
+divertente provocarlo."<Close><End of Block>
+<TextBlock 62 w:26 h:2>
+Maison
+"Padroncino!"<Close><End of Block>
+<TextBlock 63 w:34 h:4>
+Bart
+"Lo so! Lo so!<New>
+Comunque, Shitan,
+pensi che possa
+battere i nostri
+Gear?"<Close><End of Block>
+<TextBlock 64 w:48 h:3>
+Shitan
+"Non è quello il vero
+problema.<New>
+Anche con Vanderkam,
+abbiamo abbastanza forze
+per un diversivo.<New>
+Comunque, è saggio non
+sottostimare i propri
+avversari."<Close><End of Block>
+<TextBlock 65 w:14 h:2>
+Fei
+"Io…!?"<Close><End of Block>
+<TextBlock 66 w:38 h:4>
+Sigurd
+"Calma!<Delay 30>
+Non c'è motivo per
+coinvolgere tutti!"<Close><End of Block>
+<TextBlock 67 w:40 h:2>
+Fei
+"… Lo farò.<New>
+Sì, ho deciso.
+Quando ci muoviamo?"<Close><End of Block>
+<TextBlock 68 w:30 h:2>
+Bart
+"… Sei sicuro?"<Close><End of Block>
+<TextBlock 69 w:38 h:3>
+Fei
+"Quante ne abbiamo
+passate…<New>
+Ehi, siamo amici
+per la pelle, ora!"<Close><End of Block>
+<TextBlock 70 w:42 h:4>
+Shitan
+"La velocità è tutto.
+Lo faremo non appena
+sarà possibile."<Close><End of Block>
+<TextBlock 71 w:36 h:2>
+Bart
+"Va bene, domani!"<Close><End of Block>
+<TextBlock 72 w:32 h:4>
+Sigurd
+"Vi sono davvero
+grato…<Delay 30> Fei…<Delay 30>
+Shitan."<Close><End of Block>
+<TextBlock 73 w:14 h:2>
+Bart
+"Sììì!"<Close><End of Block>
+<TextBlock 74 w:32 h:4>
+Bart
+"Non possiamo
+perdere!<Delay 30> Nessuno
+morirà invano!"<Close><End of Block>
+<TextBlock 75 w:24 h:3>
+Maison
+"Ben detto,
+Padroncino!"<Close><End of Block>
+<TextBlock 76 w:42 h:3>
+Margie
+"Stai bene?<Delay 30>
+Sorella, sei ferita?"<Close><End of Block>
+<TextBlock 77 w:48 h:4>
+Suor Agnese
+"Sto bene.<Delay 30>
+Margherita e Bartolomeo,
+mi dispiace…"<Close><End of Block>
+<TextBlock 78 w:50 h:4>
+Sigurd
+"Ho preso delle truppe
+e ho cercato nella zona,
+ma non ho trovato nulla."<Close><End of Block>
+<TextBlock 79 w:20 h:2>
+Bart
+"Davvero?"<Close><End of Block>
+<TextBlock 80 w:36 h:3>
+Suor Agnese
+"Prima,<Delay 30> dopo la
+fuga di tutti…"<Close><End of Block>
+<TextBlock 81 w:48 h:4>
+Suor Agnese
+"Più della metà
+dei residenti è
+fuggita da Nisan.<New>
+Dopo ciò, la posizione di
+Shakhan nel paese è stata
+seriamente compromessa…<New>
+E così ha deciso di
+lasciar perdere la sua
+reputazione e di
+attaccare questo paese."<Close><End of Block>
+<TextBlock 82 w:48 h:3>
+Shitan
+"Capisco.<New>
+Un piano disperato nel
+tentativo di capovolgere
+la situazione…"<Close><End of Block>
+<TextBlock 83 w:38 h:4>
+Bart
+"Sorella, quindi
+la popolazione
+rimasta in città…?"<Close><End of Block>
+<TextBlock 84 w:36 h:4>
+Suor Agnese
+"Sì,<Delay 30> si sta
+nascondendo
+nel Mausoleo."<Close><End of Block>
+<TextBlock 85 w:42 h:4>
+Fei
+"Mausoleo…?<Delay 30>
+Si stanno nascondendo
+in una tomba?"<Close><End of Block>
+<TextBlock 86 w:42 h:4>
+Margie
+"Là riposano le Sante
+Madri e i Re di Aveh
+del passato."<Close><End of Block>
+<TextBlock 87 w:38 h:3>
+Bart
+"Non è una semplice
+tomba."<Close><End of Block>
+<TextBlock 88 w:28 h:3>
+Suor Agnese
+"Bartolomeo,
+c'è una cosa…"<Close><End of Block>
+<TextBlock 89 w:36 h:3>
+Suor Agnese
+"Shakhan e il
+Diaspro di Fatima…<New>
+Vuole il tesoro di
+Fatima."<Close><End of Block>
+<TextBlock 90 w:46 h:4>
+Shitan
+"Tesoro…?<Delay 30> Se lui
+vuole il tesoro, perché
+sta attaccando qui…?"<Close><End of Block>
+<TextBlock 91 w:20 h:2>
+Bart
+"Eh?<Delay 30> Ahh…"<Delay 30><Close><End of Block>
+<TextBlock 92 w:42 h:4>
+Bart
+"In realtà, il
+Tesoro di Fatima è
+nel Mausoleo.<New>
+Là vi sono anche le
+ultime volontà di mio
+padre, ma non l'ho
+mai detto a nessuno…"<Close><End of Block>
+<TextBlock 93 w:40 h:4>
+Fei
+"Tesoro…<New>
+Parli di quella cosa
+nella pergamena che
+mi hai mostrato nella
+tua base?"<Close><End of Block>
+<TextBlock 94 w:46 h:3>
+Bart
+"Già.<New>
+Secondo la leggenda, si
+tratta di un oggetto di
+enorme potere."<Close><End of Block>
+<TextBlock 95 w:36 h:3>
+Sigurd
+"Dobbiamo fermarlo
+in qualche modo."<Close><End of Block>
+<TextBlock 96 w:36 h:3>
+Bart
+"Non c'è problema.
+Il Diaspro è…"<Close><End of Block>
+<TextBlock 97 w:42 h:4>
+Suor Agnese
+"Hanno in mente di
+usare le retine della
+precedente Madre."<Close><End of Block>
+<TextBlock 98 w:24 h:2>
+Bart
+"Co…<Delay 30> cosa!?"<Close><End of Block>
+<TextBlock 99 w:44 h:4>
+Suor Agnese
+"Rimuovere le retine
+della Madre defunta,<Delay 30> e
+rompere il sigillo."<Close><End of Block>
+<TextBlock 100 w:42 h:3>
+Bart
+"Usare il corpo della
+madre di Margie?"<Close><End of Block>
+<TextBlock 101 w:20 h:2>
+Margie
+"Mamma…!!"<Close><End of Block>
+<TextBlock 102 w:46 h:4>
+Suor Agnese
+"Mi spiace. Hanno usato
+persone innocenti e gente
+della setta come scudi
+umani.<New>
+Non avevamo scelta…<New>
+La verità sulla vera
+forma del Diaspro e su
+come si usasse a noi
+detta da Margie…<New>
+Ora lo sanno…<Delay 30>
+Mi dispiace tanto."<Close><End of Block>
+<TextBlock 103 w:46 h:4>
+Bart
+"Beh…<Delay 30> Non avete colpa.
+Avevano degli ostaggi!"<Close><End of Block>
+<TextBlock 104 w:38 h:4>
+Shitan
+"Un momento.<Delay 30>
+Retine… di che cosa
+stai parlando?"<Close><End of Block>
+<TextBlock 105 w:50 h:4>
+Bart
+"Il Diaspro di Fatima è
+la pupilla blu topazio
+della dinastia di Fatima…<New>
+In altre parole…<Delay 30>
+il nostro modello
+retinale.<New>
+Le porte del tesoro si
+aprono con quello…<Delay 30>
+O così si dice."<Close><End of Block>
+<TextBlock 106 w:46 h:4>
+Bart
+"Comunque, nessuno lo ha
+mai usato. Non è per i
+piccoli conflitti.<New>
+Le porte devono essere
+aperte solo se il Regno
+è davvero in pericolo.<New>
+Nemmeno io,<Delay 30>
+o mio padre,<Delay 30>
+o mio nonno…<New>
+… o il mio bisnonno
+l'hanno mai usato."<Close><End of Block>
+<TextBlock 107 w:46 h:3>
+Shitan
+"Così, quella <Delay 30>è la vera
+forma del Diaspro…"<Close><End of Block>
+<TextBlock 108 w:18 h:2>
+Bart
+"Porca…!"<Close><End of Block>
+<TextBlock 109 w:42 h:4>
+Bart
+"Quel pelatone <Delay 30>vuole
+profanare il corpo di
+una santa?<New>
+È inammissibile!"<Close><End of Block>
+<TextBlock 110 w:46 h:4>
+Shitan
+"È un segreto molto ben
+protetto, ma le persone
+della Chiesa…<New>
+… non sono dei santi.
+Sono solo supervisori."<Close><End of Block>
+<TextBlock 111 w:42 h:3>
+Fei
+"Sì, non hanno
+certo sentimenti!<New>
+Andiamo, Bart!<Delay 30>
+Prima che il Mausoleo
+sia distrutto."<Close><End of Block>
+<TextBlock 112 w:20 h:2>
+Bart
+"Va bene!"<Close><End of Block>
+<TextBlock 113 w:34 h:3>
+Sigurd
+"Padroncino!<Delay 30>
+Ho una proposta."<Close><End of Block>
+<TextBlock 114 w:30 h:2>
+Bart
+"Cosa c'è, Sig?"<Close><End of Block>
+<TextBlock 115 w:54 h:5>
+Sigurd
+"Al momento…<New>
+… Aveh è in totale
+confusione a causa
+della pazzia di
+Shakhan.<New>
+Dovrebbe essere facile
+impadronirsi del centro
+senza unità di Geburah
+intorno.<New>
+È il momento migliore
+per far ritorno alla
+capitale."<Close><End of Block>
+<TextBlock 116 w:48 h:4>
+Shitan
+"È una buona idea.<New>
+Shakhan starà pensando
+che il Diaspro di Fatima
+sia la sua ultima carta.<New>
+Mentre noi impediamo a
+Shakhan di mettere le
+mani sul tesoro…<New>
+… un'altra forza dovrà
+prendere la capitale.
+Allora egli non avrà
+posto ove nascondersi."<Close><End of Block>
+<TextBlock 117 w:42 h:3>
+Bart
+"Approvo…<Delay 30>
+È perfetto.<New>
+Lo ripagheremo con la
+stessa moneta!"<Close><End of Block>
+<TextBlock 118 w:22 h:6>
+    Elly
+    Shitan
+    Billy
+    Rico
+    Maria
+    <Chu-Chu><Close><End of Block>
+<TextBlock 119 w:34 h:2>
+Elly
+"Bene, andrò io."<Close><End of Block>
+<TextBlock 120 w:46 h:4>
+Shitan
+"Se possibile, vorrei
+ritornare alla capitale
+con Sigurd.<New>
+Due vecchi solariani
+detronizzeranno la
+Chiesa… Che ironia."<Close><End of Block>
+<TextBlock 121 w:22 h:2>
+Billy
+"Andrò io."<Close><End of Block>
+<TextBlock 122 w:28 h:2>
+Rico
+"Ci penso io."<Close><End of Block>
+<TextBlock 123 w:32 h:2>
+Maria
+"Vi darò aiuto."<Close><End of Block>
+<TextBlock 124 w:36 h:3>
+<Chu-Chu>
+"Non ho scelta se 
+non chuandare!"<Close><End of Block>
+<TextBlock 125 w:22 h:5>
+    Elly     
+    Billy
+    Rico
+    Maria
+    <Chu-Chu><Close><End of Block>
+<TextBlock 126 w:22 h:2>
+Elly
+"Andrò io."<Close><End of Block>
+<TextBlock 127 w:22 h:2>
+Billy
+"Andrò io."<Close><End of Block>
+<TextBlock 128 w:28 h:2>
+Rico
+"Ci penso io."<Close><End of Block>
+<TextBlock 129 w:32 h:2>
+Maria
+"Vi darò aiuto."<Close><End of Block>
+<TextBlock 130 w:36 h:3>
+<Chu-Chu>
+"Non ho scelta se 
+non chuandare!"<Close><End of Block>
+<TextBlock 131 w:30 h:3>
+Margie
+"Dai!<Delay 30> Verrò
+anch'io con te!"<Close><Close><End of Block>

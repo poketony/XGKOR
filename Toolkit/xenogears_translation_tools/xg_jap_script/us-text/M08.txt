@@ -1,0 +1,256 @@
+#### 1 ####
+
+
+
+#### 2 ####
+Restores HP (50)
+
+#### 3 ####
+Restores HP (150)
+
+#### 4 ####
+Restores HP (500)
+
+#### 5 ####
+Restores HP to FULL
+
+#### 6 ####
+Restores party's HP to FULL
+
+#### 7 ####
+Restores EP (10)
+
+#### 8 ####
+Restores EP (20)
+
+#### 9 ####
+Restores EP (30)
+
+#### 10 ####
+Restores EP to FULL
+
+#### 11 ####
+Revives from KO status
+
+#### 12 ####
+Revives KO/restores FULL HP
+
+#### 13 ####
+Removes PHY status effects
+
+#### 14 ####
+Removes MNT status effects
+
+#### 15 ####
+Removes all status effects
+
+#### 16 ####
+Wind UP/Earth DOWN
+
+#### 17 ####
+Earth UP/Wind DOWN
+
+#### 18 ####
+Fire UP/Water DOWN
+
+#### 19 ####
+Water UP/Fire DOWN
+
+#### 20 ####
+Increases Defense
+
+#### 21 ####
+Increases Speed
+
+#### 22 ####
+Enables you to Play Dead
+
+#### 23 ####
+Cancels Play Dead
+
+#### 24 ####
+Blocks PHY status effects
+
+#### 25 ####
+Blocks MNT status effects
+
+#### 26 ####
+Stop PHY support effects
+
+#### 27 ####
+Stop MNT support effects
+
+#### 28 ####
+Stop equip. support effects
+
+#### 29 ####
+Add Wind element to attacks
+
+#### 30 ####
+Add Earth element to attacks
+
+#### 31 ####
+Add Fire element to attacks
+
+#### 32 ####
+Add Water element to attacks
+
+#### 33 ####
+Weapon power up 50% (Battle)
+
+#### 34 ####
+
+
+
+#### 35 ####
+
+
+
+#### 36 ####
+
+
+
+#### 37 ####
+
+
+
+#### 38 ####
+
+
+
+#### 39 ####
+
+
+
+#### 40 ####
+
+
+
+#### 41 ####
+
+
+
+#### 42 ####
+
+
+
+#### 43 ####
+
+
+
+#### 44 ####
+
+
+
+#### 45 ####
+
+
+
+#### 46 ####
+
+
+
+#### 47 ####
+
+
+
+#### 48 ####
+
+
+
+#### 49 ####
+
+
+
+#### 50 ####
+Restores HP and EP to FULL
+
+#### 51 ####
+Fully restores party's HP&EP
+
+#### 52 ####
+Increases Attack value + 1
+
+#### 53 ####
+Increases Defense value + 1
+
+#### 54 ####
+Increases Ether value + 1
+
+#### 55 ####
+Increases EthDef value + 1
+
+#### 56 ####
+Increases Maximum HP + 20
+
+#### 57 ####
+Increases Maximum EP + 5
+
+#### 58 ####
+Restores HP (50)  Non-battle
+
+#### 59 ####
+Restores HP (150) Non-battle
+
+#### 60 ####
+Restores HP (500) Non-battle
+
+#### 61 ####
+
+
+
+#### 62 ####
+
+
+
+#### 63 ####
+
+
+
+#### 64 ####
+Restores EP (10) Non-battle
+
+#### 65 ####
+
+
+
+#### 66 ####
+
+
+
+#### 67 ####
+
+
+
+#### 68 ####
+
+
+
+#### 69 ####
+
+
+
+#### 70 ####
+
+
+
+#### 71 ####
+
+
+
+#### 72 ####
+
+
+
+#### 73 ####
+Makes you lose some weight
+
+#### 74 ####
+Makes you lose lots'a weight
+
+#### 75 ####
+Makes you gain some weight
+
+#### 76 ####
+Makes you gain lots'a weight
+

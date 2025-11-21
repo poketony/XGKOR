@@ -1,0 +1,66 @@
+#### 1 ####
+Billy
+"Looks {wait:0A}like {wait:02}blood {wait:02}...{wait:02}...
+What happened on this 
+transport...{enter}
+No wait, this is...{wait:19}
+water with rust in it.{wait:0F}
+Let's hurry on ahead." 
+
+#### 2 ####
+It's unlocked but the 
+door is rusted shut.{enter}
+Maybe if you ran into it?
+
+#### 3 ####
+Maybe if you ran into it?
+
+#### 4 ####
+Unlock it?
+    Yes
+    Hold on a second
+
+#### 5 ####
+It's rusted shut!!
+
+#### 6 ####
+It's rusted...{wait:14}
+but it rattles a little.
+
+#### 7 ####
+It's locked
+but it rattles a little.
+
+#### 8 ####
+If you run into it...
+
+#### 9 ####
+You have too many
+{str}.
+
+#### 10 ####
+ 
+ Received {str}.
+
+#### 11 ####
+You have too many
+{str}.
+
+#### 12 ####
+ 
+ Received {str}.
+
+#### 13 ####
+You have too many
+{str}.
+
+#### 14 ####
+ 
+ Received {str}.
+
+#### 15 ####
+The door won't open.
+
+#### 16 ####
+The door won't open.
+

@@ -1,0 +1,312 @@
+#### 1 ####
+シャーカーン
+「ええい、いったい何を
+　手間どっておるのだ！
+
+#### 2 ####
+シャーカーン
+「ばかもの！
+　乗っているのは小娘だぞ！{wait:1E}
+　何ができるというのだ！{enter}
+　さっさと取り押さえんか！
+
+#### 3 ####
+しかし……{wait:1E}
+相手はギアバーラー……。
+
+#### 4 ####
+{name:03:バルト}
+「マルー！　{wait:1E}
+　どこにいるんだ！？
+
+#### 5 ####
+{name:03:バルト}
+「マルー……{wait:1E}
+　あの中に……！　
+
+#### 6 ####
+{name:00:フェイ}
+「とにかく行ってみよう！　
+
+#### 7 ####
+シャーカーン
+「ええい、もう少しのところで！　
+
+#### 8 ####
+{name:03:バルト}
+「あ！　{wait:1E}
+　てめえ待ちやがれ！　
+
+#### 9 ####
+{name:03:バルト}
+「あの野郎逃がさねえぞ！　
+
+#### 10 ####
+{name:02:シタン}
+「待ってください若くん！
+　マルーさんは大丈夫なんですか？　
+
+#### 11 ####
+{name:03:バルト}
+「あ……そうだった！　
+
+#### 12 ####
+{name:03:バルト}
+「おいマルー大丈夫……{wait:1E}
+　マルー！　{wait:1E}
+　おいマルーしっかりしろ！！　
+
+#### 13 ####
+{name:03:バルト}
+「マルー！　
+
+#### 14 ####
+{fast:FF}　　　mapjump
+　　　flying CAMERA
+　　　global FLAG clear
+　　　MENU
+　　　ucon + endcamera
+　　　setVsync
+　　　battle ENCOUNT off
+　　　PRINT
+　　　c-and-f.src　off
+　　　DEMOFLAG on
+　　　EXIT    [11/01]
+
+#### 15 ####
+コードができるまでお休み中
+
+#### 16 ####
+クリアしたよ
+
+#### 17 ####
+{fast:FF}　　元通り
+　　1/20
+　　1/15
+　　exit
+
+#### 18 ####
+{fast:FF}　　0    wakeup
+　　01   wakeup
+　　012  wakeup
+　　0123 wakeup
+　　0    sleep
+　　01   sleep
+　　012  sleep
+　　0123 sleep
+　　exit
+
+#### 19 ####
+{fast:FF}どこでもじゃぁんぷ
+　　　　このマップ
+　　　　俺んち
+　　　　0～99
+　　　　100～199
+　　　　200～299
+　　　　300～399
+　　　　400～499
+　　　　500～599
+　　　　600～699
+　　　　700～799
+　　　　やめた
+
+#### 20 ####
+{fast:FF}きかくtestmap
+　　かとう
+　　えとう
+　　すずき長髮
+　　すずき短髮
+　　たね
+　　こうもと
+　　きごし
+　　うちみち
+　　さいとう
+　　まつはら
+　　やめた
+
+#### 21 ####
+{fast:FF}　　　　　戾る
+　　　　　{number(s):00}00～{number(s):00}09
+　　　　　{number(s):00}10～{number(s):00}19
+　　　　　{number(s):00}20～{number(s):00}29
+　　　　　{number(s):00}30～{number(s):00}39
+　　　　　{number(s):00}40～{number(s):00}49
+　　　　　{number(s):00}50～{number(s):00}59
+　　　　　{number(s):00}60～{number(s):00}69
+　　　　　{number(s):00}70～{number(s):00}79
+　　　　　{number(s):00}80～{number(s):00}89
+　　　　　{number(s):00}90～{number(s):00}99
+
+#### 22 ####
+{fast:FF}　　　　　戾る
+　　　　　{number(s):00}{number(s):01}0
+　　　　　{number(s):00}{number(s):01}1
+　　　　　{number(s):00}{number(s):01}2
+　　　　　{number(s):00}{number(s):01}3
+　　　　　{number(s):00}{number(s):01}4
+　　　　　{number(s):00}{number(s):01}5
+　　　　　{number(s):00}{number(s):01}6
+　　　　　{number(s):00}{number(s):01}7
+　　　　　{number(s):00}{number(s):01}8
+　　　　　{number(s):00}{number(s):01}9
+
+#### 23 ####
+{fast:FF}マップナンバー{number(s):02}だね？
+　　　　　うん
+　　　　　あ、まちがえちゃった
+　　　　　やっぱりやめようかな
+
+#### 24 ####
+{fast:FF}マップパラメータ通常は(0)
+map={0C:01},{0C:02} 
+para={0C:00}
+　　　ジャンプする
+　　　plus
+　　　minus
+　　　ギアマップジャンプ
+　　　やめる
+
+#### 25 ####
+{fast:FF}メニューコール
+　　　ノーマルメニュー
+　　　名前變更
+　　　ショップ
+　　　メンツ變更（未对応）
+　　　load game
+　　　やめた
+
+#### 26 ####
+{fast:FF}キャラを選んで
+　　　フェイ　　{name:00:フェイ}
+　　　エリィ　　{name:01:エリィ}
+　　　シタン　　{name:02:シタン}
+　　　バルト　　{name:03:バルト}
+　　　ビリー　　{name:04:ビリー}
+　　　リコ　　　{name:05:リコ}
+　　　エメラダ　{name:06:エメラダ}
+　　　チュチュ　{name:07:チュチュ}
+　　　やめた
+
+#### 27 ####
+{fast:FF}ショップテスト　now = {number(s):00}
+　　たす  　
+　　ひく
+　　キャラショップに入る　　
+　　ギアショップに入る
+　　おかねげっとぉ
+　　ぬける
+
+#### 28 ####
+{fast:FF}カメラで飛ぶぞモード[Ver.2.8]
+
+#### 29 ####
+　　　{fast:FF}　angle = {0C:00} , dip = {0C:01}
+　　　なにもしない
+　　　始点覚える
+　　　終点覚える
+　　　やってみる
+　　　データ見る
+　　　レンズ/スピード變える
+　　　Look-ATにアクターを置く
+　　　カメラEND
+
+#### 30 ####
+{fast:FF}    eyespeed {0C:02} , atspeed {0C:03}
+　 　 eye +1
+　 　     -1
+　 　     +5
+　 　     -5
+　 　     x2
+　 　     /2
+　  　at  +1
+　 　     -1
+　 　     +5
+　  　    -5
+　 　     x2
+　 　     /2
+　   　play
+
+#### 31 ####
+{fast:FF}カメラのデータ
+　　見ない
+　　見る
+　　ひとつだけ見たいなぁ
+
+#### 32 ####
+　　{fast:FF}やっぱいいや
+　　start AT  pos
+　　      EYE pos
+　　      parameter
+　　end   AT  pos
+　　      EYE pos
+　　      parameter
+　　runcamera speed & roll
+
+#### 33 ####
+{fast:FF}レンズ變更は上下キーで行います
+　　　レンズ變更スタート
+　　　レンズ變更END
+　　　元の数値へ
+　　　ロールする
+　　　ロールしない
+　　　2倍速
+　　　1／2倍速
+　　　ぬける
+now speed = {0C:00} , angle = {0C:01}
+
+#### 34 ####
+{fast:FF}　　　wakeup
+　　　sleep
+　　　+16len
+　　　-16len
+　　　+64len
+　　　-64len
+　　　+256len
+　　　-256len
+now length {0C:00}
+
+#### 35 ####
+{fast:FF}　　　カメラ戾してEND
+　　　カメラそのままEND
+
+#### 36 ####
+{fast:FF}START eye POSITION
+ eye X = {0C:00}
+     Z = {0C:01}
+     Y = {0C:02}
+
+#### 37 ####
+{fast:FF}START at POSITION
+  at X = {0C:00}
+     Z = {0C:01}
+     Y = {0C:02}
+
+#### 38 ####
+{fast:FF}START PARAMETER
+    angle = {0C:00}
+    dip   = {0C:01}
+    len   = {0C:02}
+
+#### 39 ####
+{fast:FF}END eye POSITION
+ eye X = {0C:00}
+     Z = {0C:01}
+     Y = {0C:02}
+
+#### 40 ####
+{fast:FF}END at POSITION
+  at X = {0C:00}
+     Z = {0C:01}
+     Y = {0C:02}
+
+#### 41 ####
+{fast:FF}END PARAMETER
+    angle = {0C:00}
+    dip   = {0C:01}
+    len   = {0C:02}
+
+#### 42 ####
+{fast:FF}RUN CAMERA SPEED
+    eye  = {0C:02} ,at = {0C:03}
+    roll = {0C:00}
+

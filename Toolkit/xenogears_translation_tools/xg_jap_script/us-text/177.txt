@@ -1,0 +1,57 @@
+#### 1 ####
+Hmm,{wait:05} no matter how much
+I sleep, it's not enough.
+I still feel weak{wait:05}...{wait:0F}{enter}
+The more I sleep the more
+lethargic I get.
+They say sleep makes strong
+children...is that true?
+
+#### 2 ####
+Uuuh, now I can't fall
+asleep{wait:05}...{wait:0F} I keep
+thinking Aveh might attack
+any minute now I can't get{enter}
+to sleep{wait:05}...{wait:1E}
+Ahh,{wait:05}I hope this war
+ends soon.
+
+#### 3 ####
+Now we're training{wait:05}
+for the Kaiser Sigmund
+defense parade{wait:05}...{wait:05}
+and...hey, who're you?{enter}
+There are a lot of high
+officials in this room,{wait:05}
+we want to impress them
+and get promotions.{wait:05}{enter}
+So beat it.
+
+#### 4 ####
+Now,{wait:05} start again!{wait:0F}
+Hey,{wait:05} out of the way!
+
+#### 5 ####
+Well,{wait:05}they liked me
+fairly well, {wait:05}but
+the officer pressing for
+my promotion{wait:05} died in the{enter}
+last air assault. 
+
+#### 6 ####
+That opportunity was
+right in front of me.{wait:2D}
+{wait:05}...{wait:05}Life is harsh.{wait:0F} At this{enter}
+rate,{wait:05} they're going to
+send me out to the battle
+field.
+
+#### 7 ####
+Hmm, that young one
+over there{wait:05}...{wait:05}
+It's a shame to keep him
+a private{wait:05}...{wait:05}{enter}
+But, that one over there's
+been sitting there all
+this time. Who is he?
+

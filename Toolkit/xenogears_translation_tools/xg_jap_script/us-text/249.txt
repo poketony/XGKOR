@@ -1,0 +1,81 @@
+#### 1 ####
+Fei
+"...Don't call me 'son'.
+Cuz you sure ain't my
+pops."
+
+#### 2 ####
+Fei
+"You too..."
+
+#### 3 ####
+Fei
+"...{wait:05}Don't jinx yourself!{wait:20}
+It's not like you{wait:05}...{enter}
+But{wait:05}...{wait:05}I'll take care
+of them.{wait:0A} Don't worry."
+
+#### 4 ####
+Bart
+"Though the warship is
+outdated, you're only
+going in as a small unit.{enter}
+It's going to be a tough
+fight, but you could
+change Aveh's future.
+I'm counting on you."
+
+#### 5 ####
+Bart
+"Fei,{wait:05} it's odd for me to
+say this since I'm the one
+who got you involved{wait:05}...{enter}
+but{wait:05}...{wait:05}be careful,{wait:05} okay!?"
+
+#### 6 ####
+Bart
+"If{wait:05}...{wait:05}anything happens
+to me{wait:05}...{wait:05}take care of
+Margie and them for me!"
+
+#### 7 ####
+Maitreya
+"Each squad of Gears take
+off, in order, from here
+to avoid being picked up.{enter}
+We'll meet at the Rockies
+by the border tomorrow at
+1200.
+Got it?"
+
+#### 8 ####
+Maitreya
+"Leave it up to us,
+young master! {enter}
+We'll drag Vanderkaum's 
+tail around and around!!"
+
+#### 9 ####
+Maitreya
+"Right, son!?"
+
+#### 10 ####
+Maitreya
+"Huh? Ha, ha, ha, ha..."
+
+#### 11 ####
+Maitreya
+"Well, young master...we
+promise to make something
+out of this battle!"
+
+#### 12 ####
+O.K.!{clear:20}
+
+#### 13 ####
+I'm pumped!{clear:20}
+
+#### 14 ####
+The time has
+finally come.{clear:20}
+

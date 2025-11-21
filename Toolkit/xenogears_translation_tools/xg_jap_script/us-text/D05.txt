@@ -1,0 +1,375 @@
+#### 1 ####
+a
+
+#### 2 ####
+show
+
+#### 3 ####
+open
+
+#### 4 ####
+stay
+
+#### 5 ####
+{fast:FF}where?{enter}
+    not jump
+    sho
+    iwa
+    zombi
+    ninboku
+    mahanon
+    last
+
+#### 6 ####
+    {fast:FF}blg
+    yav
+    radi-chr
+    out
+    radi-2
+    ret
+
+#### 7 ####
+    {fast:FF}yav
+    sky
+    sef
+    ret
+
+#### 8 ####
+    {fast:FF}ranch10
+    ranch2
+    ranch3
+    camp
+    core1
+    core2
+    core3
+    core4
+    core5
+    ranch11
+    ret
+
+#### 9 ####
+    {fast:FF}zombi
+    cockpit
+    engine
+    trailer1
+    trailer2
+    trailer3
+    ret
+
+#### 10 ####
+    {fast:FF}iwa-4
+    iwa-1
+    iwa-2
+    iwa-3
+    iwa-kai
+    iwa-31
+    ret
+4231
+
+#### 11 ####
+    {fast:FF}sho-1
+    sho-21
+    sho-22
+    sho-23
+    sho-24
+    sho-3
+    sho-4
+    baru
+    sho-11
+    baru
+    sho-0
+    ret
+
+#### 12 ####
+{fast:FF}WorldMapJumpTest
+      set ScenarioFlag
+      set JumpNumber
+      set EventNumber
+      Jump?
+      Exit
+  S-Flag   = {number(s):03}
+  MapNum   = {number(s):02}
+  JumpNum  = {number(s):00}
+  EventNum = {number(s):01}
+
+#### 13 ####
+{fast:FF}set scenario flag
+      plus
+      minus
+      10 plus
+      10 minus
+      50 plus
+      50 minus
+      end
+  sflag   = {number(s):03}
+
+#### 14 ####
+{fast:FF}SET JumpNumber
+      plus
+      minus
+      10 plus
+      10 minus
+      end
+  JumpNum  = {number(s):00}
+
+#### 15 ####
+{fast:FF}SET EventNumber
+      plus
+      minus
+      10 plus
+      10 minus
+      default
+      end
+  EventNum = {number(s):01}
+  default  = {number(s):03}
+
+#### 16 ####
+{fast:FF}      mapjump
+      flying CAMERA
+      global FLAG clear
+      MENU
+      ucon + endcamera
+      setVsync
+      battle ENCOUNT off
+      PRINT
+      c-and-f.src  off
+      DEMOFLAG on
+      EXIT    [11/01]
+
+#### 17 ####
+¥³-¥É¤¬¤Ç¤­¤ë¤Þ¤Ç¤ª ¤ß 
+
+#### 18 ####
+¥¯¥ê¥¢¤·¤¿¤è
+
+#### 19 ####
+{fast:FF}      ¤ê
+    1/20
+    1/15
+    exit
+
+#### 20 ####
+{fast:FF}    0    wakeup
+    01   wakeup
+    012  wakeup
+    0123 wakeup
+    0    sleep
+    01   sleep
+    012  sleep
+    0123 sleep
+    exit
+
+#### 21 ####
+{fast:FF}¤É¤³¤Ç¤â¤¸¤ã¤¡¤ó¤×
+        ¤³¤Î¥Þ¥Ã¥×
+         ¤ó¤Á
+        0¡«99
+        100¡«199
+        200¡«299
+        300¡«399
+        400¡«499
+        500¡«599
+        600¡«699
+        700¡«799
+        ret
+
+#### 22 ####
+{fast:FF}¤­¤«¤¯testmap
+    ¤«¤È¤¦
+    ¤¨¤È¤¦
+    ¤¹¤º¤­  
+    ¤¹¤º¤­  
+    ¤¿¤Í
+    ¤³¤¦¤â¤È
+    ¤­¤´¤·
+    ¤¦¤Á¤ß¤Á
+    ¤µ¤¤¤È¤¦
+    ¤Þ¤Ä¤Ï¤é
+    ret
+
+#### 23 ####
+{fast:FF}           ¤ë
+          {number(s):00}00¡«{number(s):00}09
+          {number(s):00}10¡«{number(s):00}19
+          {number(s):00}20¡«{number(s):00}29
+          {number(s):00}30¡«{number(s):00}39
+          {number(s):00}40¡«{number(s):00}49
+          {number(s):00}50¡«{number(s):00}59
+          {number(s):00}60¡«{number(s):00}69
+          {number(s):00}70¡«{number(s):00}79
+          {number(s):00}80¡«{number(s):00}89
+          {number(s):00}90¡«{number(s):00}99
+
+#### 24 ####
+{fast:FF}           ¤ë
+          {number(s):00}{number(s):01}0
+          {number(s):00}{number(s):01}1
+          {number(s):00}{number(s):01}2
+          {number(s):00}{number(s):01}3
+          {number(s):00}{number(s):01}4
+          {number(s):00}{number(s):01}5
+          {number(s):00}{number(s):01}6
+          {number(s):00}{number(s):01}7
+          {number(s):00}{number(s):01}8
+          {number(s):00}{number(s):01}9
+
+#### 25 ####
+{fast:FF}¥Þ¥Ã¥×¥Ê¥ó¥Ð-{number(s):02}¤À¤Í£¿
+          ¤¦¤ó
+          ¤¢¡¢¤Þ¤Á¤¬¤¨¤Á¤ã¤Ã¤¿
+          ¤ä¤Ã¤Ñ¤ê¤ä¤á¤è¤¦¤«¤Ê
+
+#### 26 ####
+{fast:FF}¥Þ¥Ã¥×¥Ñ¥é¥á-¥¿  ¤Ï(0)
+map={0C:01},{0C:02} 
+para={0C:00}
+      ¥¸¥ã¥ó¥×¤¹¤ë
+      plus
+      minus
+      ¥®¥¢¥Þ¥Ã¥×¥¸¥ã¥ó¥×
+      ¤ä¤á¤ë
+
+#### 27 ####
+{fast:FF}¥á¥Ë¥å-¥³-¥ë
+      ¥Î-¥Þ¥ë¥á¥Ë¥å-
+          
+      ¥·¥ç¥Ã¥×
+      ¥á¥ó¥Ä  £¨   £©
+      load game
+      ret
+
+#### 28 ####
+{fast:FF}¥­¥ã¥é¤ò ¤ó¤Ç
+      ¥Õ¥§¥¤    ¥Õ¥§¥¤¡ð¡ð¡ð
+      ¥¨¥ê¥£    {name:01:¥¨¥ê¥£}
+      ¥·¥¿¥ó    {name:02:¥·¥¿¥ó}
+      ¥Ð¥ë¥È    {name:03:¥Ð¥ë¥È}
+      ¥Ó¥ê-    {name:04:¥Ó¥ê©`}
+      ¥ê¥³      {name:05:¥ê¥³}
+      ¥¨¥á¥é¥À  {name:06:¥¨¥á¥é¥À}
+      ¥Á¥å¥Á¥å  ¥Á¥å¥Á¥å¡ð¡ð
+      ret
+
+#### 29 ####
+{fast:FF}¥·¥ç¥Ã¥×¥Æ¥¹¥È  now = {number(s):00}
+    ¤¿¤¹    
+    ¤Ò¤¯
+    ¥­¥ã¥é¥·¥ç¥Ã¥×¤Ë ¤ë    
+    ¥®¥¢¥·¥ç¥Ã¥×¤Ë ¤ë
+    ¤ª¤«¤Í¤²¤Ã¤È¤©
+    ¤Ì¤±¤ë
+
+#### 30 ####
+{fast:FF}¥«¥á¥é¤Ç ¤Ö¤¾¥â-¥É[Ver.2.8]
+
+#### 31 ####
+      {fast:FF}  angle = {0C:00} , dip = {0C:01}
+      ¤Ê¤Ë¤â¤·¤Ê¤¤
+         ¤¨¤ë
+         ¤¨¤ë
+      ¤ä¤Ã¤Æ¤ß¤ë
+      ¥Ç-¥¿ ¤ë
+      ¥ì¥ó¥º/¥¹¥Ô-¥É ¤¨¤ë
+      Look-AT¤Ë¥¢¥¯¥¿-¤ò ¤¯
+      ¥«¥á¥éEND
+
+#### 32 ####
+{fast:FF}    eyespeed {0C:02} , atspeed {0C:03}
+      eye +1
+          -1
+          +5
+          -5
+          x2
+          /2
+      at  +1
+          -1
+          +5
+          -5
+          x2
+          /2
+       play
+
+#### 33 ####
+{fast:FF}¥«¥á¥é¤Î¥Ç-¥¿
+     ¤Ê¤¤
+     ¤ë
+    ¤Ò¤È¤Ä¤À¤± ¤¿¤¤¤Ê¤¡
+
+#### 34 ####
+    {fast:FF}¤ä¤Ã¤Ñ¤¤¤¤¤ä
+    start AT  pos
+          EYE pos
+          parameter
+    end   AT  pos
+          EYE pos
+          parameter
+    runcamera speed & roll
+
+#### 35 ####
+{fast:FF}¥ì¥ó¥º  ¤Ï  ¥­-¤Ç ¤¤¤Þ¤¹
+      ¥ì¥ó¥º  ¥¹¥¿-¥È
+      ¥ì¥ó¥º  END
+       ¤Î  ¤Ø
+      ¥í-¥ë¤¹¤ë
+      ¥í-¥ë¤·¤Ê¤¤
+      2  
+      1£¯2  
+      ¤Ì¤±¤ë
+now speed = {0C:00} , angle = {0C:01}
+
+#### 36 ####
+{fast:FF}      wakeup
+      sleep
+      +16len
+      -16len
+      +64len
+      -64len
+      +256len
+      -256len
+now length {0C:00}
+
+#### 37 ####
+{fast:FF}      ¥«¥á¥é ¤·¤ÆEND
+      ¥«¥á¥é¤½¤Î¤Þ¤ÞEND
+
+#### 38 ####
+{fast:FF}START eye POSITION
+ eye X = {0C:00}
+     Z = {0C:01}
+     Y = {0C:02}
+
+#### 39 ####
+{fast:FF}START at POSITION
+  at X = {0C:00}
+     Z = {0C:01}
+     Y = {0C:02}
+
+#### 40 ####
+{fast:FF}START PARAMETER
+    angle = {0C:00}
+    dip   = {0C:01}
+    len   = {0C:02}
+
+#### 41 ####
+{fast:FF}END eye POSITION
+ eye X = {0C:00}
+     Z = {0C:01}
+     Y = {0C:02}
+
+#### 42 ####
+{fast:FF}END at POSITION
+  at X = {0C:00}
+     Z = {0C:01}
+     Y = {0C:02}
+
+#### 43 ####
+{fast:FF}END PARAMETER
+    angle = {0C:00}
+    dip   = {0C:01}
+    len   = {0C:02}
+
+#### 44 ####
+{fast:FF}RUN CAMERA SPEED
+    eye  = {0C:02} ,at = {0C:03}
+    roll = {0C:00}
+

@@ -1,0 +1,48 @@
+#### 1 ####
+Big Joe
+"How do ya like my shop? 
+Pretty good, huh?"
+
+#### 2 ####
+It's Joe's shop, so of 
+course it's all Joe brand.
+     {fast:FF}Items
+     Gear parts
+
+#### 3 ####
+Big Joe
+"So? How do ya like it?
+Come again sometime!!"
+
+#### 4 ####
+You have too many
+{str}.
+
+#### 5 ####
+ 
+Received {str}.
+
+#### 6 ####
+You have too many
+{str}.
+
+#### 7 ####
+ 
+Received {str}.
+
+#### 8 ####
+You have too many
+{str}.
+
+#### 9 ####
+ 
+Received {str}.
+
+#### 10 ####
+You have too many
+{str}.
+
+#### 11 ####
+ 
+Received {str}.
+

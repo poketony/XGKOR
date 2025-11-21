@@ -1,0 +1,106 @@
+<TextBlock 1 w:42 h:2>
+Fei
+"Che posto è questo?"<Close><End of Block>
+<TextBlock 2 w:52 h:3>
+Fei
+"Perché ci sono degli
+ologrammi che ci
+rappresentano…<New>
+… qui a Solaris?"<Close><End of Block>
+<TextBlock 3 w:50 h:2>
+Elly
+"O… ologrammi che
+ci rappresentano…!?"<Close><End of Block>
+<TextBlock 4 w:56 h:8>
+<Opcode 1 255># Fei
+ Numero Agnello: 001589750
+ Fei Fong Wong
+ Reazione Eterea… Infinita
+ Allineamento Anima… Infinito
+ Commenti:
+ Contatto. Sollecitata
+ eliminazione immediata.<Close><End of Block>
+<TextBlock 5 w:56 h:9>
+<Opcode 1 255># Elly
+ Numero Ministero: 6920188-2
+ Elhaym Van Houten
+ Reazione Eterea… Infinita
+ Allineamento Anima… Infinito
+ Commenti:
+ Possibile Antitipo.
+ Concesso benestare 
+ per recupero e per
+ le necessarie analisi.<Close><End of Block>
+<TextBlock 6 w:46 h:7>
+<Opcode 1 255># Shitan
+ Numero Agnello: 584921547
+ Hyuga Rikudo
+ Reazione Eterea… 240
+ Allineamento Animo… 98
+ Commenti:
+ Nessuno.<Close><End of Block>
+<TextBlock 7 w:48 h:9>
+<Opcode 1 255># Bart
+ Numero Agnello: 221589542
+ Bartolomeo Fatima
+ Reazione Eterea… 210
+ Allineamento Anima… 90
+ Commenti:
+ Dopo il recupero dell'Anima
+ 'Dan', è in programma un
+ adattamento dell'Animo.<Close><End of Block>
+<TextBlock 8 w:52 h:8>
+<Opcode 1 255># Billy
+ Numero Ministero: 321658-11
+ Billy Black
+ Reazione Eterea… 290
+ Allineamento Anima… 92
+ Commenti:
+ È in programma un
+ adattamento per l'Animo.<Close><End of Block>
+<TextBlock 9 w:62 h:13>
+<Opcode 1 255># Rico
+ Numero Esperimento: 000-215914
+ Ricardo Banderas
+ Reazione Eterea… 160
+ Allineamento Anima… 85
+ Commenti:
+ Creato dalla Chiesa come
+ esperimento genetico. Usato dalla
+ Ass. di Battagliare di Kislev per
+ misurare il potenziale bellico.
+ Le informazioni sono state
+ trasferite. In programma un
+ adattamento per l'Animo.<Close><End of Block>
+<TextBlock 10 w:58 h:7>
+<Opcode 1 255># Esmeralda
+ Nome in codice: Esmeralda
+ Reazione Eterea… N/D
+ Allineamento Anima… Nessuno
+ Commenti:
+ Colonia di Nanomacchine.
+ Analisi delle informazioni
+ completata. Annullare ed
+ eliminare.<Close><End of Block>
+<TextBlock 11 w:44 h:7>
+<Opcode 1 255># <Chu-Chu>
+ Animale Primitivo
+ Reazione Eterea… N/D
+ Allineamento Anima… N/D
+ Commenti:
+ Inutilizzabile.
+ Annullare ed eliminare.<Close><End of Block>
+<TextBlock 12 w:44 h:7>
+<Opcode 1 255># Maria
+ Numero Agnello: 54109854
+ Maria Baldassarre
+ Reazione Eterea… 170
+ Allineamento Anima… 74
+ Commenti:
+ Inutilizzabile.<Close><End of Block>
+<TextBlock 13 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 14 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><Close><End of Block>

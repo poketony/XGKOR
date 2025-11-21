@@ -1,0 +1,260 @@
+#### 1 ####
+Ramsus
+"Cancel the alert status.
+Begin repairs and
+resupply immediately."
+
+#### 2 ####
+Miang
+"The Prime Minister and
+General Vanderkaum are here
+to see you, Commander."
+
+#### 3 ####
+Ramsus
+"Hmph, what a
+dismal welcome."
+
+#### 4 ####
+Miang
+"What do you expect?
+We're on the 'surface'."
+
+#### 5 ####
+Ramsus
+"Miang, let's
+disembark."
+
+#### 6 ####
+Miang
+"Yes, sir."
+
+#### 7 ####
+We have the coordinates
+of those recent
+dimensional vibrations.{enter}
+N24, E92, Ignas, in the
+Lahan region, the
+northeast ocean.{enter}
+From the wave pattern,
+it's definitely a Gatekeeper.
+
+#### 8 ####
+There are no regular
+mainland flights.
+
+#### 9 ####
+Ramsus
+"Could it be Shevat's
+Aphel Aura?"
+
+#### 10 ####
+No. The mass is
+different. It's a much
+smaller pattern.
+
+#### 11 ####
+I can't believe that
+the Lambs have a ship
+equipped with a
+Gatekeeper. 
+
+#### 12 ####
+Ramsus
+"It probably is Kislev's.
+The last purge was not 
+complete."
+
+#### 13 ####
+Ramsus
+"Damn you..."
+
+#### 14 ####
+Grahf
+"Shouldn't you pursue?"
+
+#### 15 ####
+Ramsus
+"What?"
+
+#### 16 ####
+Grahf
+"The one who caused
+you so much pain and 
+grief is on that ship.{enter}
+And it's headed for
+Aquvy."
+
+#### 17 ####
+Ramsus
+"Put all the crew members
+on emergency alert. We're
+attacking the Kislev ship."
+
+#### 18 ####
+Miang
+"We can't, Commander!
+We don't have orders 
+from the capital yet.{enter}
+If we move from here..."
+
+#### 19 ####
+Ramsus
+"I don't care!
+I won't allow them
+to escape!"
+
+#### 20 ####
+We will take the boundary
+between gates 1 and 2,
+it's the shortest way to
+Aquvy.
+
+#### 21 ####
+Ramsus
+"Fine."
+
+#### 22 ####
+Message from Kelvena.{enter}
+Dominia is withdrawing
+in Haishao. She will
+pursue the aerial
+battleship.
+
+#### 23 ####
+Dimensional 
+vibrations, level 8!
+A huge formation is 
+coming this way!
+
+#### 24 ####
+Miang
+"Here is the engagement
+report between Haishao
+and the enemy Gear."
+
+#### 25 ####
+Ramsus
+"!!
+This is the..."
+
+#### 26 ####
+Miang
+"I'm sure of it.{enter}
+It's currently at Thames.
+If not, somewhere in the
+ocean nearby."
+
+#### 27 ####
+Ramsus
+"Change course!
+Head for Thames..."
+
+#### 28 ####
+Miang
+"Wait. Their mother ship
+Yggdrasil seems to be
+able to submerge.{enter}
+If they submerge,
+they'll have the upper
+hand on Haishao.{enter}
+Any attack we might make
+would just be wasted
+since they could
+simply dive.{enter}
+But if we eliminate that
+function first, it's
+still not too late.{enter}
+I've already made the
+proper 'arrangements'."
+
+#### 29 ####
+Ramsus
+"Arrangements?"
+
+#### 30 ####
+Miang
+"Yes, sir."
+
+#### 31 ####
+Ramsus
+"All right.
+We'll try it your way."
+
+#### 32 ####
+Miang
+"Thank you, Commander."
+
+#### 33 ####
+Ramsus
+"By the way... What
+happened between you and
+Dominia? She was livid."
+
+#### 34 ####
+Miang
+"I'm sorry. It had to
+do with that Yggdrasil
+incident earlier.{enter}
+Those girls work hard.
+Especially for you...
+It's my job to be hated."
+
+#### 35 ####
+Ramsus
+"Out of the way!{wait:1E}
+Let me through!{enter}
+That bastard!{wait:1E}
+I'll hunt him
+out myself...!"
+
+#### 36 ####
+Kelvena
+"Please calm down,
+Commander!"
+
+#### 37 ####
+Tolone
+"We'll take care of
+him and his friends!"
+
+#### 38 ####
+Ramsus
+"What could you fools do?
+Imbeciles!{wait:32}
+Only I can beat him!{enter}
+Only I, who transcends
+all other humans, can
+possibly take him down!"
+
+#### 39 ####
+Ramsus
+"Move!!"{clear:32}
+
+#### 40 ####
+Dominia
+"Commander!
+Wait!!!"
+
+#### 41 ####
+Begin docking 
+procedure. {clear:32}
+
+#### 42 ####
+Hull secure. {clear:32}
+
+#### 43 ####
+Hull secure. {clear:32}
+
+#### 44 ####
+Hull, all sections 
+secure. {clear:32}
+
+#### 45 ####
+Docking complete. {clear:32}
+
+#### 46 ####
+Gravity distribution
+normal. Shutting down
+propulsion system. {clear:32}
+

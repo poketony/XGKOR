@@ -1,0 +1,181 @@
+<TextBlock 1 w:54 h:4>
+Là, umani combattevano
+avidamente fra di loro
+nel tentativo disperato
+di continuare a vivere.<New>
+Era una terribile lotta
+per la sopravvivenza.
+O così sarebbe apparsa ad
+uno spettatore casuale…<New>
+Per me, essi cercavano
+disperatamente di vivere.
+Là si mostrava la vera
+natura umana di ogni
+persona.<Close><End of Block>
+<TextBlock 2 w:46 h:5>
+C'erano i 'ricchi'
+e i 'poveri'…<Delay 90>
+E… fra di loro…
+c'erano molti dei miei
+vecchi amici di Solaris…<Close><End of Block>
+<TextBlock 3 w:48 h:8>
+Volevano la nostra carne
+e sangue. Ci dissero: I
+'ricchi' devono dividere
+con i 'poveri'.<Delay 60>
+ 
+Mi chiesero se una
+'ricca' come me potesse
+capire il loro dolore…<Close><End of Block>
+<TextBlock 4 w:56 h:9>
+Non seppi rispondere…<Delay 60>
+ 
+Qualsiasi cosa avessi
+detto sarebbe parsa la
+vanteria di una 'ricca'…<Delay 60>
+ 
+Allora, volli alleviare
+la loro sofferenza…
+E così decisi di fare.<Close><End of Block>
+<TextBlock 5 w:54 h:3>
+Proprio come la persona
+nel ricordo dei miei sogni…<Delay 60>
+nel lontano passato…<Close><End of Block>
+<TextBlock 6 w:62 h:7>
+Poi, improvvisamente, il
+Sistema andò fuori controllo!
+La 'Massa Sphar', un mostruoso
+organismo ancora in fase di
+amalgama, infranse la barriera
+dell'impianto di supporto vitale
+e si alzò dinnanzi a noi.<Close><End of Block>
+<TextBlock 7 w:58 h:8>
+Non più una forma umana…
+iniziò a divorare la
+gente raccolta là in
+cerca di sollievo…<New>
+Dovemmo combatterlo…
+Per salvare la gente,
+per salvare 'lui'…
+ 
+Gli occhi di colui una
+volta umano mi guardarono,
+implorando la<Delay 5>…<Delay 5> morte<Delay 5>…<Delay 5>
+la fine dell'agonia.<Close><End of Block>
+<TextBlock 8 w:28 h:4>
+Elly
+"Shitan…<Delay 20> per favore,
+prestami la tua spada."<Close><End of Block>
+<TextBlock 9 w:54 h:4>
+Elly
+"Vi prego!<Delay 10> Ascoltatemi!<Delay 10>
+Smettetela di battervi
+fra di voi.<New>
+Siamo tutti esseri umani!"<Close><End of Block>
+<TextBlock 10 w:54 h:4>
+Elly
+"Questo impianto fu
+costruito dal Ministero
+di Solaris…<New>
+Fu creato per
+implementare il loro
+piano di riciclaggio.<New>
+Tali impianti servivano
+a convertire gli umani
+mutati in armi per 
+servire le loro ambizioni.<New>
+Esso è soltanto una
+parte del loro piano
+di purificazione
+razziale."<Close><End of Block>
+<TextBlock 11 w:48 h:4>
+Sofia
+"Naturalmente, appena
+si è sotto la loro
+ala protettrice…<New>
+… si può evitare
+la morte in sé stessa.
+Ma quella è vita?<New>
+Quando si è rimasti soli,
+quando si è privi di un
+cuore, cosa significa
+tutto ciò?"<Close><End of Block>
+<TextBlock 12 w:52 h:4>
+Elly
+"Tutti voi, volete essere
+amati… avete bisogno di
+qualcuno, così…<New>
+… tutti noi dipendiamo
+dagli altri…<New>
+Singolarmente siamo
+soli, così cerchiamo
+di avvicinarci agli
+altri per vivere…<New>
+Questo vuol dire essere
+esseri umani… È così
+che la gente vive.<New>
+Una mano sola non
+può applaudire."<Close><End of Block>
+<TextBlock 13 w:44 h:4>
+Sofia
+"Per alleviare il nostro
+dolore, darò tuttavia
+molta della mia carne…<New>
+… di cui avete bisogno.
+Perciò<Delay 30>…<New>
+… non gettate via la
+vostra dignità come
+esseri umani…<New>
+Non perdete il vostro
+cuore umano…"<Close><End of Block>
+<TextBlock 14 w:40 h:4>
+Fei
+"Elly…!
+Ti senti bene?<Delay 30>
+Cosa stai facendo?"<Close><End of Block>
+<TextBlock 15 w:42 h:3>
+Elly
+"Pensi che io stia
+facendo qualcosa di…
+stupido?"<Close><End of Block>
+<TextBlock 16 w:14 h:2>
+Fei
+"No…"<Close><End of Block>
+<TextBlock 17 w:50 h:4>
+Elly
+"Ho fatto ciò che ho
+potuto. Forse sono una
+ipocrita.<New>
+Una che 'ha tutto'.<Delay 40>
+Forse è solo pietà
+per i 'poveri'…<New>
+Ma se riuscirò a conoscere
+la gioia del dare anche
+solo una piccola parte
+della mia vita…<New>
+… allora forse un giorno
+sarà possibile che un
+umano possa davvero dare
+amore ad un altro…<New>
+Le persone possono farlo…
+Davvero, io lo credo.
+Ecco perché…"<Close><End of Block>
+<TextBlock 18 w:18 h:2>
+Fei
+"Elly…"<Close><End of Block>
+<TextBlock 19 w:30 h:3>
+Salvi il gioco?<Delay 30>
+    Salva
+    Non salvare<Close><End of Block>
+<TextBlock 20 w:34 h:3>
+Riprendi il gioco?<Delay 30>
+    Aspetta
+    Riprendi il gioco<Close><End of Block>
+<TextBlock 21 w:34 h:3>
+    Apri il menu
+    Cambia gruppo
+    Riprendi il gioco<Close><End of Block>
+<TextBlock 22 w:34 h:3>
+Riprendi il gioco?<Delay 30>
+    Aspetta
+    Riprendi il gioco<Close><Close><End of Block>

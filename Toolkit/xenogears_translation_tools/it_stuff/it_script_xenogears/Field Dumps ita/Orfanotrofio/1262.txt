@@ -1,0 +1,73 @@
+<TextBlock 1 w:14 h:2>
+Primera
+"…"<Close><End of Block>
+<TextBlock 2 w:14 h:2>
+Primera
+"…"<Close><End of Block>
+<TextBlock 3 w:46 h:1>
+Posso confortarmi
+da solo!!<Close><End of Block>
+<TextBlock 4 w:42 h:2>
+Il campanello di papà
+fa un così bel suono!<Close><End of Block>
+<TextBlock 5 w:52 h:4>
+Fa un bel suono, eh?<Delay 10>
+Mio papà mi diede questo
+campanello perché non
+mi perdessi mai.<New>
+Ma anche mio padre non ha
+il senso dell'orientamento,
+ed anche lui si perde spesso!
+Anche lui aveva lo stesso
+tipo di campanellino.<New>
+Andò alla Sede della Chiesa,
+ma non è mai ritornato…<New>
+Deve essersi perso durante
+il viaggio…<Delay 10> È così scemo!<Close><End of Block>
+<TextBlock 6 w:48 h:3>
+Cosa?<Delay 10> 
+Quel campanellino…<Delay 10>
+Come l'avete avuto?<New>
+Ehi, non è che avete
+incontrato mio padre?<Delay 10>
+Dov'è?<Close><End of Block>
+<TextBlock 7 w:10 h:2>
+Rico
+"…"<Close><End of Block>
+<TextBlock 8 w:32 h:3>
+Rico
+"(Oh no!<Delay 10> 
+Non ditemi che quello…
+era suo padre…!?)"<Close><End of Block>
+<TextBlock 9 w:52 h:4>
+Rico
+"Ascolta, ragazzo! Tuo
+padre è andato in un posto
+lontano<Delay 10>…<New>
+Ecco, questo è il suo
+companellino, prendilo!"<Close><End of Block>
+<TextBlock 10 w:48 h:4>
+Mio padre è un bugiardo!!<Delay 10>
+Aveva detto che saremmo
+andati via ed avremmo
+vissuto da soli…<Delay 10>
+solo noi due…<New>
+Ho aspettato… così tanto…<Delay 10>
+Oh, papà…<Delay 10> perché?<Delay 10>         
+Buu-uuh-uuh!<Close><End of Block>
+<TextBlock 11 w:44 h:3>
+Sob,<Delay 10> sob…<Delay 10>
+Ma…<Delay 10> grazie.<New>
+Grazie per avermi riportato<Delay 10>
+il campanellino di papà.<Delay 10>
+Mi consolerà averlo
+qui con me…!!<Close><End of Block>
+<TextBlock 12 w:46 h:2>
+Come ringraziamento, vi
+darò il libro preferito
+di papà.<Close><End of Block>
+<TextBlock 13 w:42 h:2>
+      Ricevi il     
+'Credo della Chiesa'.<Close><End of Block>
+<TextBlock 14 w:0 h:1>
+<Close><End of Block>

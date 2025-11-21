@@ -1,0 +1,238 @@
+#### 1 ####
+Elly
+"No---!"
+
+#### 2 ####
+Fei
+"...That voice!?{wait:0A}
+.{wait:03}.{wait:03}.{wait:14}Elly?{wait:0A}
+Elly, is that you?!?"
+
+#### 3 ####
+Fei
+"Elly!?{wait:14}
+Your face{wait:14}...!?{wait:14}
+What's wrong?{enter}
+Don't tell me you're
+using that personality-
+changing drug{enter}
+that Bart told us
+about!?"
+
+#### 4 ####
+Fei
+"Elly, stop it!
+Why must we
+fight!?"
+
+#### 5 ####
+Fei
+"Elly,
+snap out of it!{enter}
+Your emotions are
+being controlled
+by the drug!"
+
+#### 6 ####
+Fei
+"That's a lie!
+You once felt
+responsible,{enter}
+blaming yourself for
+causing the incident
+in Lahan by landing
+there.{enter}
+You were considerate
+of me when I was
+troubled...{enter}
+The real you would
+never say anything
+like that!!"
+
+#### 7 ####
+Fei
+"...Argh!{wait:14}
+Elly{wait:0A}...{wait:14}
+Must I fight you!?"
+
+#### 8 ####
+Fei
+"...What happened?
+There's something
+wrong with Elly.{enter}
+I can probably
+stop her now!!"
+
+#### 9 ####
+Fei
+"Elly!{wait:0A}
+Wake up and
+snap out of it!"
+
+#### 10 ####
+Fei
+"Are you okay!? Elly!
+What!?{enter}
+Are the effects of
+the drug wearing
+off?"
+
+#### 11 ####
+Fei
+"Is that it? Elly!{wait:14}
+Is that what's
+happening!?"
+
+#### 12 ####
+Fei
+"Hang in there, Elly!{wait:0A}
+Don't let go of your
+true self!"
+
+#### 13 ####
+Elly
+"It has nothing to do
+with you.{enter}
+And would you quit
+trying to be so
+friendly!"
+
+#### 14 ####
+Elly
+"Why? It's obvious.
+It's divine
+providence!{enter}
+We are the chosen
+people, the Abel...{enter}
+Our purpose of existence
+is to subordinate
+the earth dwelling
+'Lambs'.{enter}
+...Those who stand
+in our way must be
+eliminated!"
+
+#### 15 ####
+Elly
+"This is my true nature!
+There is no other!"
+
+#### 16 ####
+Elly
+"You talk as if you
+would know... Yet
+you know nothing!"
+
+#### 17 ####
+Elly
+"Hahaha! Writhe!
+Dance!! Die and rot in
+obscurity here!"
+
+#### 18 ####
+Elly
+"It looks like
+it's over for
+you.{enter}
+I'll put you out
+of your misery
+now!"
+
+#### 19 ####
+Elly
+"Fear not!{enter}
+In return for treating
+me so kindly, I will
+kill you painlessly.
+Farewell,{wait:14} Fei{wait:14}...{wait:14}"
+
+#### 20 ####
+Elly
+"Fei{wait:14}...{wait:14}
+What're you doing? You
+shouldn't be here!"
+
+#### 21 ####
+Elly
+"!!{enter}
+That's{wait:14}...{wait:14}not{wait:14}...{wait:14}true{wait:14}...{wait:14}
+I{wait:14}...{wait:14} No{wait:14}...{wait:14}I{wait:14}...{wait:14}don't{wait:14}
+want{wait:14} this...{wait:14} Guh!"
+
+#### 22 ####
+Elly
+"H,{wait:14} hel...{wait:14}p...{wait:14}
+Th,{wait:14} this{wait:14}... isn't...{wait:14}
+This isn't{wait:14}...{wait:14} me..."
+
+#### 23 ####
+Elly
+"Uhh!...{wait:0A}
+Aagh{wait:0A}...{wait:14} Ah...{wait:0A}
+M,{wait:0A} my head..."
+
+#### 24 ####
+Elly
+"Ugh!...{wait:1E} Silence!
+Impertinent fool!{enter}
+I will not listen
+to a Lamb..."
+
+#### 25 ####
+Elly
+"Uuahh!"
+
+#### 26 ####
+Elly
+"Sh,{wait:0A} shut up!{enter}
+I've no need for
+outward appearances
+of compassion.{enter}
+...{wait:14}I,{wait:14} I, ...{wait:14} erh{wait:14}
+F{wait:14}...{wait:14}Fe...{wait:14}i...{wait:14}"
+
+#### 27 ####
+Broyer
+"Wow!
+Did you see that?!"
+
+#### 28 ####
+Renk
+"Those were Aerods!"
+
+#### 29 ####
+Vance
+"Aerods?"
+
+#### 30 ####
+Helmholz
+"Animum Ether Response-
+Offensive Drones...{enter}
+Commonly known as
+Aerods...{enter}
+Within Gebler, there
+are only a handful of
+people capable of
+using them...{enter}
+From what I hear,
+it should only be
+people from the
+Elements Class."
+
+#### 31 ####
+Stratski
+"B, but isn't it like,
+a side effect of the
+'Drive'?{enter}
+It's no big deal,
+right...?"
+
+#### 32 ####
+Renk
+"...No, the Drive can
+only draw upon the
+potential that already
+exists in her.{enter}
+Your looking at...
+the real thing boys!"
+

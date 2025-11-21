@@ -1,0 +1,46 @@
+<TextBlock 1 w:14 h:2>
+Fei
+"Qui?"<Close><End of Block>
+<TextBlock 2 w:40 h:2>
+Fei
+"Ehi! È partito!"<Close><End of Block>
+<TextBlock 3 w:40 h:2>
+Fei
+"Va bene. Andiamo!"<Close><End of Block>
+<TextBlock 4 w:42 h:3>
+Fei
+"Ehi! Stiamo uscendo
+sul muro esterno."<Close><End of Block>
+<TextBlock 5 w:40 h:3>
+Fei
+"Dov'è che stiamo
+salendo?"<Close><End of Block>
+<TextBlock 6 w:42 h:2>
+Fei
+"Un colpo, da
+dove proviene?"<Opcode 2 50><Close><End of Block>
+<TextBlock 7 w:38 h:4>
+Fei
+"Merda! Il binario
+è rotto. Andiamo
+subito all'esterno!"<Close><End of Block>
+<TextBlock 8 w:12 h:2>
+Fei
+"Che!?"<Close><End of Block>
+<TextBlock 9 w:50 h:3>
+Fei
+"Pare che il sedile
+di guida sia qui
+accanto."<Close><End of Block>
+<TextBlock 10 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 11 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 12 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 13 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><Close><End of Block>

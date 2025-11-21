@@ -1,0 +1,21 @@
+#### 1 ####
+Fei
+"What's that sound?"
+
+#### 2 ####
+Citan
+"That is..."
+
+#### 3 ####
+Citan
+"It is probably an audio
+signal password."
+
+#### 4 ####
+You have too many
+{str}.
+
+#### 5 ####
+ 
+ Received {str}.
+

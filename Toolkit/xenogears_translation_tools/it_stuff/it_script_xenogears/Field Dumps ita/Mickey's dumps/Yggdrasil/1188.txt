@@ -1,0 +1,28 @@
+<TextBlock 1 w:9 h:2>
+…<Close><End of Block>
+<TextBlock 2 w:46 h:4>
+Non possiamo avere così
+tanti pezzi di Gear quanti
+ne vorremmo…<Delay 10> ma…
+usali, in tutti i sensi!<Close><End of Block>
+<TextBlock 3 w:56 h:1>
+Questa porta conduce
+al corridoio.<Close><End of Block>
+<TextBlock 4 w:36 h:3>
+Mettete bene a punto
+i vostri Gear per la
+battaglia decisiva!<Close><End of Block>
+<TextBlock 5 w:52 h:3>
+Oh, Padroncino! Siete
+davvero intelligente,
+visto che non vi perdete
+nell'Yggdrasil!<New>
+In genere tutti i nostri
+ospiti si perdono…<Close><End of Block>
+<TextBlock 6 w:46 h:3>
+Questa è l'Officina per
+Gear!<Delay 10> Dai un'occhiata
+se vuoi potenziare il
+tuo Gear.<Close><End of Block>
+<TextBlock 7 w:0 h:1>
+<Close><End of Block>

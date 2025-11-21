@@ -1,0 +1,133 @@
+#### 1 ####
+Bart
+"Fei, if anything, I'm
+your friend right?"
+
+#### 2 ####
+Bart
+"Sig...you won't change 
+no matter what I do, 
+will you?"
+
+#### 3 ####
+Maison
+"What is the matter,
+young master...?"
+
+#### 4 ####
+Bart
+"Nah...I guess I have to
+do what I was asked."
+
+#### 5 ####
+Bart
+"My good people of Aveh...{enter}
+This is Bartholomew Fatima
+the 19th king of Aveh,
+son of Edbart Fatima IV
+the 18th king of Aveh.{enter}
+First, one must apologize
+for the trouble caused by
+one's unavoidably lengthy
+absence from the palace.{enter}
+One especially wants to
+give one's condolences to
+those who lost family in
+the war with Kislev.{enter}
+One will immediately call a
+truce with Kislev and begin
+reparations to victims of
+both countries.{enter}
+All citizens drafted as
+soldiers will also be
+allowed to return home.{enter}
+Let us work together
+towards the rebuilding
+of Aveh!"
+
+#### 6 ####
+Bart
+"...One also has
+another final but
+important message...{enter}
+A declaration from the
+will of Edbart IV who
+wished only for peace
+for his kingdom, Aveh.{enter}
+I Bartholomew Fatima, 
+the 19th King of Aveh,
+do hearby declare...{enter}
+from this day forward
+I shall abandon the
+monarchy and create
+the Republic of Aveh!"
+
+#### 7 ####
+Sigurd
+"Young master..."
+
+#### 8 ####
+Maison
+"What in Aveh 
+are you doing...?"
+
+#### 9 ####
+Bart
+"This is my father's wish.{enter}
+I am sorry. You both have
+worked so hard for many
+long years to restore me
+to the throne.{enter}
+Now I'm no longer in line to
+be king, nor anything else
+for that matter, the two of
+you are free to go."
+
+#### 10 ####
+Maison
+"What are you saying...?"
+
+#### 11 ####
+Sigurd
+"Unbelievable."
+
+#### 12 ####
+Maison
+"Master Sigurd?"
+
+#### 13 ####
+Sigurd
+"Can't you hear the 
+crowd outside?{enter}
+They have chosen you as
+their king. You're going
+to be very busy."
+
+#### 14 ####
+Bart
+"Sig..."
+
+#### 15 ####
+Sigurd
+"Won't you need some
+capable assistance?"
+
+#### 16 ####
+Bart
+"Well...here goes 
+nothing."
+
+#### 17 ####
+!{clear:1E}
+
+#### 18 ####
+!{clear:1E}
+
+#### 19 ####
+We will protect Aveh.
+
+#### 20 ####
+This is the former 
+Gebler base. It's under 
+inspection, no entry.
+

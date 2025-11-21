@@ -1,0 +1,726 @@
+<TextBlock 1 w:28 h:2>
+<Opcode 1 255>    Tu ed io dobbiamo
+divenire un unico essere!!!<Opcode 2 120><Close><End of Block>
+<TextBlock 2 w:34 h:2>
+Fei
+"Che cos'è…?"<Close><End of Block>
+<TextBlock 3 w:38 h:2>
+Fei
+"Questa croce…<New>
+È quella di Sofia…
+o di mia madre…?"<Close><End of Block>
+<TextBlock 4 w:44 h:1>
+Ti supplico, Fei…<Delay 100><Delay 100><Delay 100><Close><End of Block>
+<TextBlock 5 w:36 h:4>
+Shitan
+"Fei!! Dov'è finito
+il vero te stesso?<New>
+Ricordati! Non volevi
+aiutare Elly?"<Close><End of Block>
+<TextBlock 6 w:42 h:4>
+Bart
+"Fei!!
+Vuoi che finisca
+tutto così?<New>
+Pensaci!
+Non volevi
+aiutare Elly?"<Close><End of Block>
+<TextBlock 7 w:52 h:4>
+Billy
+"Fei!!
+Per cosa hai combattuto
+fino ad ora?<New>
+Non ricordi…!?
+È per lei… per Elly!
+Non la vuoi aiutare!?"<Close><End of Block>
+<TextBlock 8 w:38 h:4>
+Rico
+"Fei! Per quanto
+ancora vuoi restare
+in questo stato?<New>
+Pensa ragazzo, pensa!
+Non vuoi più
+aiutare Elly?"<Close><End of Block>
+<TextBlock 9 w:38 h:3>
+Esmeralda
+"Fei! Elly ti
+sta aspettando!<New>
+Ricordi!?
+Elly è ancora lì…
+Ancora ti aspetta!"<Close><End of Block>
+<TextBlock 10 w:48 h:4>
+<Chu-Chu>
+"Fei! Svegliati!
+Non la devi dimenticare!<New>
+La donna che ami…
+Elly!
+Devi aiutarla, chu!"<Close><End of Block>
+<TextBlock 11 w:22 h:3>
+Maria
+"Fei!
+Sii forte!<New>
+Ricorda…
+Elly ora ha
+bisogno di te!"<Close><End of Block>
+<TextBlock 12 w:46 h:2>
+Shitan
+"Che stai dicendo!?"<Close><End of Block>
+<TextBlock 13 w:28 h:2>
+Bart
+"Che diavolo…?"<Close><End of Block>
+<TextBlock 14 w:14 h:2>
+Billy
+"Cosa?"<Close><End of Block>
+<TextBlock 15 w:22 h:3>
+Rico
+"Impossibile…
+Fai sul serio!?"<Close><End of Block>
+<TextBlock 16 w:16 h:2>
+Esmeralda
+"!?"<Close><End of Block>
+<TextBlock 17 w:30 h:2>
+<Chu-Chu>
+"Cosa significa, chu?"<Close><End of Block>
+<TextBlock 18 w:14 h:2>
+Maria
+"Cosa?"<Close><End of Block>
+<TextBlock 19 w:22 h:2>
+Shitan
+"Il contatto!?"<Close><End of Block>
+<TextBlock 20 w:22 h:2>
+Bart
+"Il contatto!?"<Close><End of Block>
+<TextBlock 21 w:20 h:2>
+Billy
+"Il contatto?"<Close><End of Block>
+<TextBlock 22 w:20 h:2>
+Rico
+"Il contatto?"<Close><End of Block>
+<TextBlock 23 w:20 h:2>
+Esmeralda
+"Il contatto?"<Close><End of Block>
+<TextBlock 24 w:22 h:2>
+<Chu-Chu>
+"Il contatto!?"<Close><End of Block>
+<TextBlock 25 w:20 h:2>
+Maria
+"Il contatto?"<Close><End of Block>
+<TextBlock 26 w:22 h:2>
+Shitan
+"Il contatto!?"<Close><End of Block>
+<TextBlock 27 w:20 h:2>
+Esmeralda
+"Il contatto?"<Close><End of Block>
+<TextBlock 28 w:22 h:2>
+Shitan
+"Il contatto!?"<Close><End of Block>
+<TextBlock 29 w:10 h:1>
+Papà!!<Close><End of Block>
+<TextBlock 30 w:48 h:3>
+Fei
+"Papà!
+Stai bene?<New>
+Papà!
+Scusami… è tutta
+colpa mia…"<Close><End of Block>
+<TextBlock 31 w:42 h:3>
+Khan
+"Fei<Delay 10>…?<New>
+Sei ritornato ad
+essere te stesso…
+Sei tornato uno…"<Close><End of Block>
+<TextBlock 32 w:48 h:4>
+Fei
+"Sì, e questo grazie a
+voi tutti. Se voi non
+mi aveste chiamato…"<Close><End of Block>
+<TextBlock 33 w:14 h:2>
+Khan
+"Urgh!"<Close><End of Block>
+<TextBlock 34 w:12 h:2>
+Fei
+"Papà!"<Close><End of Block>
+<TextBlock 35 w:52 h:4>
+Khan
+"Non proccuparti<Delay 10>…<Delay 10>
+Va tutto bene<Delay 10>…<Delay 10>
+Bene,<Delay 10> dopotutto…<Delay 10> io…"<Space 1><Close><End of Block>
+<TextBlock 36 w:12 h:2>
+Fei
+"Papà?"<Close><End of Block>
+<TextBlock 37 w:24 h:2>
+Khan
+"Tu e<Delay 10>…"<Close><End of Block>
+<TextBlock 38 w:40 h:4>
+Fei
+"Eh!? G… Grahf!?
+Ma che succede…?"<Close><End of Block>
+<TextBlock 39 w:52 h:4>
+Grahf
+"Ah ah ah…<New>
+'Io' son giunto ai limiti
+del corpo di cui ero in
+possesso da quel giorno
+di tre anni or sono…<New>
+'Io' necessitavo di un
+corpo che mi permettesse
+di pervenire al giorno
+del tuo vero risveglio.<New>
+Per questo 'io' presi
+possesso del corpo di
+tuo padre.<New>
+A dispetto del tuo
+risveglio, della tua
+fusione e delle memorie
+avute in eredità…<New>
+… che adesso possiedi,
+t'era impossibile saperlo,
+dato che avevi perduto la
+memoria in quel momento…<New>
+Nel momento nel quale 'io'
+mi fusi con tuo padre."<Close><End of Block>
+<TextBlock 40 w:44 h:4>
+Fei
+"Impossibile…!
+E Wiseman…?
+E mio padre…?"<Close><End of Block>
+<TextBlock 41 w:54 h:4>
+Grahf
+"Ovviamente, essi erano
+soltanto delle parti di
+me…<New>
+Ma non riuscivo a tenere
+in pugno del tutto Khan.<New>
+Il suo ego era ben
+più forte di quanto
+immaginassi.<New>
+Quando la mia
+padronanza sul mio
+corpo si infiacchiva…<New>
+… lui si rivelava
+a te come Wiseman."<Close><End of Block>
+<TextBlock 42 w:20 h:2>
+Fei
+"Arggh…"<Close><End of Block>
+<TextBlock 43 w:46 h:4>
+Grahf
+"Adesso ti sei
+risvegliato.<New>
+Questo mio corpo
+mi è ora inutile.<New>
+Ora, debbo ritornare nel
+mio corpo originario…<New>
+Cioè la reincarnazione
+del mio corpo, nel quale
+tu vivi."<Close><End of Block>
+<TextBlock 44 w:24 h:3>
+Fei
+"Basta…!
+Papà…!"<Close><End of Block>
+<TextBlock 45 w:52 h:4>
+Grahf
+"Ma io ti sento, Fei…
+Vedi, io e lui siamo uno.<New>
+Io sono Khan,
+e Khan è me.<New>
+Fei, io sono tuo padre.<New>
+Lui è divenuto uno con me,
+dunque anche tu dovresti
+dischiudere il tuo cuore
+ed unirti a me.<New>
+Poi potremo continuare a
+distruggere ogni cosa!"<Close><End of Block>
+<TextBlock 46 w:38 h:4>
+Fei
+"No<Delay 10>…<Delay 10> io<Delay 10>…<Delay 10> non posso
+<Delay 10>…<Delay 10> permetterti<Delay 10>…<Delay 20> di…<Delay 10><Space 2>
+<Delay 10>…<Delay 10> controllarmi<Delay 10>…<Delay 10>!"<Close><End of Block>
+<TextBlock 47 w:48 h:4>
+Grahf
+"Umph. Proteggi
+il tuo padrone?
+Così sia.<New>
+Mi amalgamerò sia
+con te che con la
+tua macchina.<New>
+Ora, Fei, vieni a
+me! Combattimi!"<Close><End of Block>
+<TextBlock 48 w:50 h:4>
+Fei
+"Non posso, è inutile!
+Io so che sei Lacan, e
+che tu sei parte di me.<New>
+Ma questo non cambia il
+fatto che sei mio padre.
+Non potrei mai combatterti
+sul serio!"<Close><End of Block>
+<TextBlock 49 w:52 h:4>
+Grahf
+"Sei così ingenuo!<New>
+Perché non riesci a capire
+che è stata proprio la
+tua ingenuità a uccidere
+Sofia…<New>
+… a uccidere tua madre
+Karen?"<Close><End of Block>
+<TextBlock 50 w:54 h:4>
+Fei
+"Ma questo già lo so!<New>
+È per questo che giurai
+di non scappare mai più…<New>
+… ho giurato di dover
+salvare Elly. Perciò…
+non intralciarmi!<New>
+Avanti, risvegliati!
+Apri gli occhi, papà…
+Lacan!"<Close><End of Block>
+<TextBlock 51 w:38 h:4>
+Grahf
+"Se questo è il caso…
+allora combattimi!
+Forza, combattimi!!!"<Close><End of Block>
+<TextBlock 52 w:20 h:2>
+Fei
+"Non posso!"<Close><End of Block>
+<TextBlock 53 w:24 h:4>
+Grahf
+"Capisco…
+Dunque non v'è
+altra scelta."<Close><End of Block>
+<TextBlock 54 w:8 h:2>
+Fei
+"!?"<Close><End of Block>
+<TextBlock 55 w:54 h:4>
+Grahf
+"Dacché sei così restio
+a combattere, credo che
+dovrò usarli come esca."<Close><End of Block>
+<TextBlock 56 w:6 h:1>
+!<Close><End of Block>
+<TextBlock 57 w:48 h:4>
+Fei
+"Smettila!<New>
+Noi non abbiamo gli stessi
+ricordi? Non ricordi anche
+tu la tristezza che hai
+provato tanto tempo fa?<New>
+Allora perché… perché devi
+distruggere ogni cosa?
+Se fermiamo Deus, non
+finirà tutto questo!?"<Close><End of Block>
+<TextBlock 58 w:54 h:4>
+Grahf
+"… Anche dopo il tuo
+contatto con l'Esistenza
+non riesci a comprendere?<New>
+Io giunsi a capirlo dopo
+il mio contatto con
+l'Esistenza… che, anche
+se Deus fosse distrutto…<New>
+… fintanto che gli uomini
+abitano questa terra…
+Miang… Elhaym nascerebbero
+ancora ed ancora.<New>
+Dunque, periscano assieme
+a Deus stesso tutti gli
+esseri viventi!<New>
+Questa è l'unica via
+verso la vera libertà.<New>
+La via per assolverci
+dall'eterno cerchio
+della vita, dalle
+tragedie della storia…<New>
+… e del sortilegio del
+fato! Una volta ch'avrò
+risvegliato Deus come
+arma…<New>
+… io annienterò ogni
+traccia di vita…<Delay 40>
+Poi, ora che tu ti
+sei risvegliato…<New>
+… utilizzerò te e quella
+macchina per riportare
+il tutto al nulla…<New>
+Questo è ciò che
+ho concluso.<New>
+Miang ed Elhaym… non sono
+solo intermediarî di Deus.
+Quella 'donna' è il
+suo vero corpo!<New>
+Perché non riesci
+a capirlo?"<Close><End of Block>
+<TextBlock 59 w:52 h:4>
+Fei
+"Non è vero! Lei mi ha
+donato la sua vita per
+salvarmi!<New>
+I suoi occhi non erano
+quelli di Miang! Mia
+madre tornò in sé
+all'ultimo istante!<New>
+Miang, mia madre… anche
+Elly, sono tutti esseri
+umani nati su questo
+pianeta!<New>
+Deus non c'entra!
+Vedrai… io salverò
+e porterò a casa Elly!<New>
+Padre<Delay 10>…<Delay 10>
+No, Grahf… -Lacan-! 
+Se non ti tiri indietro…"<Close><End of Block>
+<TextBlock 60 w:16 h:2>
+Grahf
+"Giammai!"<Close><End of Block>
+<TextBlock 61 w:28 h:3>
+Fei
+"Allora non
+ho scelta…!"<Close><End of Block>
+<TextBlock 62 w:40 h:2>
+<Opcode 14 1>È giunto il momento<Delay 10>
+di divenire davvero
+una cosa sola!<Close><End of Block>
+<TextBlock 63 w:28 h:4>
+Khan
+"Cos'è successo
+a Fei<Delay 10>…<Delay 30>
+Id!?"<Close><End of Block>
+<TextBlock 64 w:52 h:4>
+Id
+"Che peccato… La nuova
+personalità di Fei, che
+tu avevi creato…<New>
+… e tutto quel lavoro
+che la tua personalità
+ha fatto per renderlo
+uno, perfetto ed unito…<New>
+… è stato sprecato.<Delay 40>
+Io lo farò scomparire
+dentro di me!"<Close><End of Block>
+<TextBlock 65 w:52 h:3>
+Khan
+"Non te lo permettero!
+Prima che ciò accada,
+io ti distruggerò!"<Close><End of Block>
+<TextBlock 66 w:50 h:4>
+Id
+"Come se tu potessi…
+Povera femminuccia!<New>
+Mia madre morì per colpa
+del tuo comportamento
+cordardo.<New>
+E, come risultato, lui
+è fuggito dalla realtà
+rifiugiandosi nei suoi
+ricordi!<New>
+Ed ora io continuo a
+vivere sopportando
+tutto quell'odio.<New>
+Tu non saresti mai in
+grado d'immaginare cosa
+questo voglia dire!"<Close><End of Block>
+<TextBlock 67 w:54 h:4>
+Khan
+"Io non ho lavorato solo
+alla riunificazione della
+personalità di Fei, sai!?<New>
+Tutto ciò che tu ed io
+proviamo<Delay 5>…<Delay 5> la tristezza,<Delay 5>
+l'odio<Delay 10>…<New>
+Benché anche lui abbia
+provato queste emozioni<Delay 5>…<New>
+Fei aveva bisogno d'essere
+incoraggiato per crescere
+ed essere capace di
+comprendere tutto ciò.<New>
+Fei adesso dovrebbe
+essere in grado di
+comprendere tutti i
+tuoi sentimenti!<New>
+Ma ora tu vuoi uccidere
+l'unico che ti capisce<Delay 5>…<Delay 5>
+uccidere Fei!<Delay 15> Ma tu…
+cosa vuoi in realtà?"<Close><End of Block>
+<TextBlock 68 w:50 h:3>
+Id
+"Perché mi chiedi una
+cosa del genere adesso?<New>
+Il mio obiettivo è lo
+stesso del suo<Delay 5>…<Delay 10> la
+distruzione totale!<Delay 10>
+Solo e soltanto questo!"<Close><End of Block>
+<TextBlock 69 w:52 h:4>
+Khan
+"Questo mondo è davvero
+così terribile<Delay 10>…<New>
+… da far sviluppare
+dentro di te soltanto
+l'odio?"<Close><End of Block>
+<TextBlock 70 w:50 h:4>
+Id
+"Voi siete quelli che mi
+avete fatto diventare
+così<Delay 15>…<New>
+Tu e quella donna!<Delay 10>
+Ammettilo!"<Close><End of Block>
+<TextBlock 71 w:44 h:4>
+Khan
+"Argh<Delay 5>…!<Delay 30>
+Fei<Delay 5>…!!<Delay 10>
+Puoi sentirmi?<New>
+Ti prego, prendi questi
+ricordi che ti sto dando
+tramite la mia mano<Delay 5>…<New>
+Diventa uno<Delay 5>…<Delay 5>
+con te stesso<Delay 5>…<Delay 5>
+e con me!<New>
+Solo tu puoi fermare
+Id!!<Delay 5> Fei, ti prego!!"<Close><End of Block>
+<TextBlock 72 w:48 h:3>
+Khan
+"È vero… Karen era
+divenuta Miang."<Close><End of Block>
+<TextBlock 73 w:48 h:4>
+Khan
+"Non è nulla di speciale.
+Miang non ha un solo
+corpo ospite.<New>
+L'essenza di Miang è
+insita nei geni di tutte
+le donne. Ognuna di esse
+può divenire Miang."<Close><End of Block>
+<TextBlock 74 w:46 h:3>
+Id
+"Semplicemente, capitò
+che fosse il turno di
+mia madre.<New>
+Solo Elly era 'speciale'
+sin dall'origine!!"<Close><End of Block>
+<TextBlock 75 w:26 h:2>
+Khan
+"Nooooooooo!"<Close><End of Block>
+<TextBlock 76 w:54 h:4>
+Khan
+"Karen, -Miang-, s'accorse
+che l'asse temporale della
+memoria di Fei…<New>
+… si era raddoppiato
+o triplicato.<New>
+Dunque, lei si convinse
+che Fei fosse il
+'Contatto'!"<Close><End of Block>
+<TextBlock 77 w:56 h:4>
+<Opcode 14 1>
+… Sì, io ero il Contatto.
+È per questo che LUI mi
+chiamò…<New>
+È per questo che giunse
+il momento…<Close><End of Block>
+<TextBlock 78 w:42 h:4>
+Khan
+"Sono stato uno stupido.
+Fu tutta colpa mia.<New>
+Ero così occupato col
+mio lavoro a Shevat…
+che non mi accorsi del
+cambiamento di Karen.<New>
+Non potei salvarti
+quando tu avevi
+bisogno del mio
+aiuto…"<Close><End of Block>
+<TextBlock 79 w:36 h:4>
+Id
+"Salvarmi? … Ah!
+Perché dire solo ora
+queste idiozie?<New>
+Non cambierà nulla!<New>
+L'unica cosa che ora
+puoi fare è morire,
+ucciso dalle mie
+stesse mani!"<Close><End of Block>
+<TextBlock 80 w:52 h:3>
+Khan
+"Urrrggh!!<New>
+Anche così<Delay 5>…<Delay 10>
+Ti<Delay 5>…<Delay 5> mostrerò<Delay 5>…<Delay 10> che
+posso<Delay 5>…<Delay 5> salvarti<Delay 5>…!"<Space 1><Close><End of Block>
+<TextBlock 81 w:10 h:1>
+Papà!!<Close><End of Block>
+<TextBlock 82 w:30 h:3>
+Fermati! Id! Nostro
+padre non ha fatto
+nulla di sbagliato!<Close><End of Block>
+<TextBlock 83 w:38 h:2>
+Lo so. Questo qui è
+il vero colpevole.<New>
+Nostra madre e nostro
+padre non avevano
+altra scelta.<Close><End of Block>
+<TextBlock 84 w:32 h:4>
+Grahf
+"Perché non mi uccidi
+dandomi il colpo di
+grazia?<New>
+Se non ti sarai liberato
+di me, non potrai mai
+conseguire ciò che vuoi."<Close><End of Block>
+<TextBlock 85 w:54 h:4>
+Fei
+"Va tutto bene… papà.
+Ora capisco.
+Tu non sei Grahf.<New>
+Tu sei mio padre.
+Tu e Grahf siete una
+persona sola.<New>
+La tua volontà ed
+il tuo scopo non
+cambieranno mai.<New>
+Sapevo che una volta
+ci siamo già battuti.
+Ma adesso… basta.<New>
+I nostri obiettivi
+dovrebbero essere
+gli stessi.<New>
+È la stessa cosa che
+divenire una persona
+sola. Non dobbiamo
+combattere."<Close><End of Block>
+<TextBlock 86 w:26 h:4>
+Fei
+"Arrghh!
+Cosa…!?
+Il mio corpo…!?"<Close><End of Block>
+<TextBlock 87 w:50 h:4>
+Grahf
+"Lo Zohar sta cercandoti!
+L'ultimo pezzo da unire
+al sistema Deus.<New>
+Esso cerca d'unificarsi
+con te… il primo ad
+essersi da esso diviso."<Close><End of Block>
+<TextBlock 88 w:20 h:2>
+Fei
+"Che cosa…!?"<Close><End of Block>
+<TextBlock 89 w:52 h:4>
+Grahf
+"Questo è ciò che Lacan
+voleva da sempre.<New>
+Dopotutto, io sono
+un'esistenza imperfetta.<New>
+Tutto ciò era inevitabile…
+considerando quello che
+era accaduto nel passato.<New>
+Il secondo ed imperfetto
+contatto di Lacan con
+l'Esistenza Ondulatoria…<New>
+… divise in due la
+sua personalità.<New>
+Infine, il suo corpo morì,
+ma il Lacan originale
+trasmigrò…<New>
+Apportando seco il destino
+del divenire un Contatto,
+rinacque nel tuo corpo
+attuale.<New>
+La personalità rimanente,
+fatta unicamente dai
+suoi desideri, continuò
+a vivere separatamente…<New>
+… prendendo possesso
+dei corpi altrui.<New>
+Questo è Grahf…
+questo sono io.<New>
+Potrei pure aver ereditato
+il volere di Lacan, ma io
+non sono identico al
+'Contatto Lacan'.<New>
+Mi è impossibile attuare
+un vero contatto. Non
+ci sarebbe nessuna vera
+fusione o liberazione.<New>
+Anche se i nostri corpi
+possono essere diversi,
+io resto comunque metà
+di te.<New>
+Questo fatto permane.<New>
+Pur essendo imperfetto…
+posso fondermi
+temporaneamente
+con lo Zohar…<New>
+… e dunque potrei
+procurarti del tempo.<New>
+Questo è l'unico modo
+col quale posso essere
+uno con te."<Close><End of Block>
+<TextBlock 90 w:46 h:4>
+Grahf
+"Questo è tutto ciò
+che posso fare.<New>
+Il sistema Deus, però,
+ricomincerà a cercarti.<New>
+Prima di allora, dovrai
+distruggere l'appena
+perfezionatosi Deus…<New>
+… ed il Modificatore
+Zohar.<New>
+Tu sei l'unico che può
+distruggere le barriere
+fisiche che cingono
+il corpo di dio."<Close><End of Block>
+<TextBlock 91 w:12 h:2>
+Fei
+"Papà!"<Close><End of Block>
+<TextBlock 92 w:54 h:4>
+Grahf
+"Come hai detto,
+lei era Karen.<New>
+Miang sta iniziando a
+rompere i suoi vincoli
+e ad essere libera.<New>
+Ora che Elhaym s'è unita
+con Deus…<New>
+… ella ha riottenuto
+tutti i suoi ricordi.<New>
+Tutti i ricordi, dalla
+sua nascita originaria
+come complemento del
+Contatto…<New>
+… fino alla sua attuale
+trasmigrazione.<New>
+E questo include tutte le
+vite che ha vissuto come
+Miang…<New>
+… e come tutte le sue
+sostitute durante i
+secoli.<New>
+E, ovviamente, anche
+i ricordi di tua
+madre."<Close><End of Block>
+<TextBlock 93 w:26 h:3>
+Fei
+"I ricordi di
+mia madre…?"<Close><End of Block>
+<TextBlock 94 w:46 h:4>
+Grahf
+"Fei, recidi tutte le
+catene che costringono
+l'umanità…<New>
+Dovresti essere in grado
+di farlo, adesso.<New>
+Salva lei e tutte le
+altre donne con lei
+prigioniere!"<Close><End of Block>
+<TextBlock 95 w:6 h:1>
+?<Close><End of Block>
+<TextBlock 96 w:48 h:4>
+Fei
+"Non è nulla<Delay 5>…<Delay 5>
+Stavo solo parlando
+da solo.<New>
+Scusatemi… per tutti i
+guai che ho causato
+a tutti…<Delay 15> Vi ringrazio
+infinitamente!<New>
+Comunque, muoviamoci!<Delay 15>
+È rimasto poco tempo<Delay 5>…<Delay 5>
+sia per me<Delay 5>…<Delay 5> che per
+il nostro pianeta!"<Close><Close><End of Block>

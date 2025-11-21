@@ -1,0 +1,27 @@
+<TextBlock 1 w:42 h:3>
+Shitan
+"No, Elly!
+Ritorna qui
+immediatamente!!"<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+Elly
+"No… io…<Delay 20> io lo farò!
+Perciò… ti prego,    
+permettimi di farlo!"<Close><End of Block>
+<TextBlock 3 w:44 h:2>
+Shitan
+"È troppo
+pericoloso!"<Close><End of Block>
+<TextBlock 4 w:54 h:4>
+Elly
+"Lo so…<New>
+Ma… è proprio come quando
+Fei rischiò la vita per
+salvarmi…<New>
+Ora tocca a me salvare
+Fei… Purché questo serva
+a qualcosa, non m'importa
+cosa mi succederà!"<Close><End of Block>
+<TextBlock 5 w:18 h:2>
+Shitan
+"Elly…"<Close><Close><End of Block>

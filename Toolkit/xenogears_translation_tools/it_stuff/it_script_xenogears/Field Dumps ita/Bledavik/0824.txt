@@ -1,0 +1,48 @@
+<TextBlock 1 w:48 h:3>
+Da quando è iniziata la
+guerra, si può davvero
+dire chi è stupido e chi
+no.<New>
+Gli stupidi sono stati
+costretti ad abbandonare
+gli affari.<New>
+Ma, se si cambia il
+proprio punto di vista,
+la guerra può essere un
+buon affare.<New>
+Quando non ci sono
+abbastanza persone o
+cose, puoi vendere tutto
+ad un prezzo più alto.<Close><End of Block>
+<TextBlock 2 w:42 h:4>
+Una repubblica…<Delay 50>
+Potrei appoggiarla.
+No, aspetta, piuttosto
+dovrei candidarmi.<New>
+Primo Ministro della
+Repubblica di Aveh…<Delay 50>
+Che grande carica!<New>
+E non dovrei neanche
+pagare le tasse!<Close><End of Block>
+<TextBlock 3 w:46 h:2>
+… Fanno 5 Gear minatori 
+e 10 minatori umani.<Close><End of Block>
+<TextBlock 4 w:36 h:3>
+E fate presto!
+Mi servono alcuni
+minatori senza
+famiglia.<Close><End of Block>
+<TextBlock 5 w:46 h:6>
+Beh…<Delay 60> Quando, durante
+un lavoro pericoloso,
+crepa la gente che ha
+famiglia, devo pagare
+ai parenti un indennizzo.<Close><End of Block>
+<TextBlock 6 w:50 h:3>
+Allora è così.<Delay 60>
+Se ne trovate qualcuno,
+ditemelo. Conto su di
+voi.<Close><End of Block>
+<TextBlock 7 w:40 h:2>
+Ma che cosa vi prende?
+Fuori dalle scatole!<Close><Close><End of Block>

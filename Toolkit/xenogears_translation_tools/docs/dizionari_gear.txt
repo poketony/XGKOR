@@ -1,0 +1,125 @@
+	else if (strTemp == "<Weltall>")
+	{
+		pTempData[nTempOffset++] = 0x0F;
+		pTempData[nTempOffset++] = 0x05;
+		pTempData[nTempOffset++] = 0x0B;
+		nLen = 7;
+	}
+	else if (strTemp == "<Weltall-2>")
+	{
+		pTempData[nTempOffset++] = 0x0F;
+		pTempData[nTempOffset++] = 0x05;
+		pTempData[nTempOffset++] = 0x0C;
+		nLen = 7;
+	}
+	else if (strTemp == "<Vierge>")
+	{
+		pTempData[nTempOffset++] = 0x0F;
+		pTempData[nTempOffset++] = 0x05;
+		pTempData[nTempOffset++] = 0x0D;
+		nLen = 6;
+	}
+	else if (strTemp == "<Heimdal>")
+	{
+		pTempData[nTempOffset++] = 0x0F;
+		pTempData[nTempOffset++] = 0x05;
+		pTempData[nTempOffset++] = 0x0E;
+		nLen = 7;
+	}
+	else if (strTemp == "<Brigandier>")
+	{
+		pTempData[nTempOffset++] = 0x0F;
+		pTempData[nTempOffset++] = 0x05;
+		pTempData[nTempOffset++] = 0x0F;
+		nLen = 9;
+	}
+	else if (strTemp == "<Renmazuo>")
+	{
+		pTempData[nTempOffset++] = 0x0F;
+		pTempData[nTempOffset++] = 0x05;
+		pTempData[nTempOffset++] = 0x10;
+		nLen = 8;
+	}
+	else if (strTemp == "<Stier>")
+	{
+		pTempData[nTempOffset++] = 0x0F;
+		pTempData[nTempOffset++] = 0x05;
+		pTempData[nTempOffset++] = 0x11;
+		nLen = 5;
+	}
+	else if (strTemp == "<BigChu-chu>")
+	{
+		pTempData[nTempOffset++] = 0x0F;
+		pTempData[nTempOffset++] = 0x05;
+		pTempData[nTempOffset++] = 0x12;
+		nLen = 10;
+	}
+	else if (strTemp == "<Seibzehn>")
+	{
+		pTempData[nTempOffset++] = 0x0F;
+		pTempData[nTempOffset++] = 0x05;
+		pTempData[nTempOffset++] = 0x13;
+		nLen = 8;
+	}
+	else if (strTemp == "<Crescens>")
+	{
+		pTempData[nTempOffset++] = 0x0F;
+		pTempData[nTempOffset++] = 0x05;
+		pTempData[nTempOffset++] = 0x14;
+		nLen = 8;
+	}
+	else if (strTemp == "<Regurus>")
+	{
+		pTempData[nTempOffset++] = 0x0F;
+		pTempData[nTempOffset++] = 0x05;
+		pTempData[nTempOffset++] = 0x15;
+		nLen = 7;
+	}
+	else if (strTemp == "<Fenrir>")
+	{
+		pTempData[nTempOffset++] = 0x0F;
+		pTempData[nTempOffset++] = 0x05;
+		pTempData[nTempOffset++] = 0x16;
+		nLen = 6;
+	}
+	else if (strTemp == "<Andvari>")
+	{
+		pTempData[nTempOffset++] = 0x0F;
+		pTempData[nTempOffset++] = 0x05;
+		pTempData[nTempOffset++] = 23;
+		nLen = 7;
+	}
+	else if (strTemp == "<Renmazuo2>")
+	{
+		pTempData[nTempOffset++] = 0x0F;
+		pTempData[nTempOffset++] = 0x05;
+		pTempData[nTempOffset++] = 24;
+		nLen = 8;
+	}
+	else if (strTemp == "<Stier-2>")
+	{
+		pTempData[nTempOffset++] = 0x0F;
+		pTempData[nTempOffset++] = 0x05;
+		pTempData[nTempOffset++] = 25;
+		nLen = 5;
+	}
+	else if (strTemp == "<Xenogears>")
+	{
+		pTempData[nTempOffset++] = 0x0F;
+		pTempData[nTempOffset++] = 0x05;
+		pTempData[nTempOffset++] = 26;
+		nLen = 9;
+	}
+	else if (strTemp == "<BARTHOS>")
+	{
+		pTempData[nTempOffset++] = 0x0F;
+		pTempData[nTempOffset++] = 0x05;
+		pTempData[nTempOffset++] = 27;
+		nLen = 7;
+	}
+	else if (strTemp == "<Yggdra>")
+	{
+		pTempData[nTempOffset++] = 0x0F;
+		pTempData[nTempOffset++] = 0x05;
+		pTempData[nTempOffset++] = 28;
+		nLen = 6;

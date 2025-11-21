@@ -1,0 +1,72 @@
+#### 1 ####
+Fei
+"What is that?"
+
+#### 2 ####
+Citan
+"Fei, it is an aerial
+attack by Aveh, or
+should I say, Gebler!{enter}
+They really are intent
+on attacking the
+Imperial capital..."
+
+#### 3 ####
+Fei
+"What!?
+What about the 
+civilians?"
+
+#### 4 ####
+Citan
+"They plan on directly 
+attacking the Imperial
+capital, Nortune{wait:0A}...{enter}
+{wait:0A}...{wait:0A}oh my god!"
+
+#### 5 ####
+Citan
+"That ship is heading...
+to the power plant! Oh no!
+That is a nuclear reactor!{enter}
+Most likely that ship is
+their main line of attack!
+If they drop something on
+the reactor...{enter}
+the whole Imperial capital
+will{wait:0A}...!"
+
+#### 6 ####
+Fei
+"{wait:0F}...{wait:0F}Be blown away!"
+
+#### 7 ####
+Fei
+"If we can change their 
+course, will that help?"
+
+#### 8 ####
+Citan
+"Yes, however..."
+
+#### 9 ####
+Fei
+"Doc, I'm gonna try.
+We can't just...{wait:0F}
+turn and run away."
+
+#### 10 ####
+Citan
+"{wait:0F}...{wait:0F}Alright.
+Be careful now."
+
+#### 11 ####
+Citan
+"If those civilians 
+do not hurry and 
+get out..."
+
+#### 12 ####
+Rico
+"..."
+

@@ -1,0 +1,843 @@
+#### 1 ####
+"Your Gear has been entered.
+What do you wish to do?"{wait:0F}
+{fast:FF}    Learn Controls
+    Tutorial Mode
+    Practice Mode
+    Begin battle
+
+#### 2 ####
+Informationist
+"Okay, the button controls.
+I'll explain each button's
+functions accordingly...
+
+#### 3 ####
+Informationist
+"Well, I'll now explain the
+basic control methods using
+the actual screen."
+
+#### 4 ####
+Informationist
+"So, {wait:0A}you want to try out the
+actual controls, huh..."
+
+#### 5 ####
+Informationist
+"About to start a bout!{wait:05} OK?"{wait:0F}
+{fast:FF}    One moment!
+    A'bout time!
+
+#### 6 ####
+{fast:FF}- Beginning Bout -
+
+#### 7 ####
+"Which button do you need
+an explanation of?{wait:0F}
+{fast:FF}    Directional button
+    ¡Á button
+    ¡õ button
+    ¡÷ button
+    ¡ð button
+    Next page
+
+#### 8 ####
+"Which shall I explain to
+you about?"{wait:0F}
+{fast:FF}    L1 button
+    R1 button
+    Start button
+    Back to first page
+    End explanation
+
+#### 9 ####
+Informationist
+"O.K.,{wait:05} about the Directional
+button...{wait:0F}assuming that your
+opponent is on your right
+(from your viewpoint) then:{enter}
+¡¤ UP moves your Gear back
+ away from the screen.{wait:2D}
+¡¤ DOWN moves your Gear in
+ towards the screen.{enter}
+¡¤ RIGHT moves your Gear
+ towards your opponent.{wait:2D}
+¡¤ LEFT moves your Gear
+ away from your opponent.
+
+#### 10 ####
+Informationist
+"Lastly, when you're close
+to your opponent, pressing
+LEFT invokes a special move
+momentary back acceleration!{enter}
+This momentarily distances
+you from your opponent (or
+allows you to 'run away')!{wait:1E}
+Just remember the opposite
+direction to your opponent.
+
+#### 11 ####
+Informationist
+"That's it in a nutshell!{wait:1E}
+It's probably easier to get
+the idea by actually trying
+your hand at the controls!"
+
+#### 12 ####
+Informationist
+"The ¡Á button is ATTACK.{wait:0F}
+(There are 3 attack buttons
+and ¡Á is one of them.){enter}
+It changes from Gear to Gear
+but is mainly meant for
+close combat.{wait:0F} And you're not
+limited to just one blow.{enter}
+By combining the ¡Á and ¡õ
+buttons you are able to make
+a chain of attacks up to
+three long!{enter}
+All together there are 14
+such combinations that you
+can use!"
+
+#### 13 ####
+Informationist
+"The ¡õ button is ATTACK.{wait:0F}
+(There are 3 attack buttons
+and ¡õ is one of them.){enter}
+It differs from Gear to Gear
+but is mainly utilized for
+close combat.{wait:0F} And you're not
+limited to just one blow.{enter}
+By combining the ¡Á and ¡õ
+buttons you are able to make
+a chain of attacks up to
+three in length!{enter}
+All together there are 14
+such combinations that you
+can try out!"
+
+#### 14 ####
+Informationist
+"The ¡÷ button is for JUMP!{wait:05}
+Your movement controls are
+the same during jumps.{enter}
+Also, you are able to attack
+with the ¡Á and ¡õ buttons
+during jumps!{enter}
+Oh, and it's alright to use
+the R1 button to make Ether
+Bullet attacks too!
+
+#### 15 ####
+Informationist
+"The ¡ð button is for DASH.{wait:0A}
+Your movement controls are
+the same as usual.{enter}
+The only thing is that you
+cannot continue running
+indefinitely."
+
+#### 16 ####
+Informationist
+"For more details, try
+the 'Tutorial Mode', where
+you'll get an explanation 
+from a different official."
+
+#### 17 ####
+Informationist
+"Attacking isn't everything!{wait:0A}
+Although it is said that 
+'offense is the best form
+of defense', at times it is
+important to defend oneself.{enter}
+That's why we have the L1
+button to GUARD you! {wait:0F} But,{wait:05} 
+it doesn't prevent all of
+the damage so be careful!"
+
+#### 18 ####
+Informationist
+"The R1 button launches a 
+special attack called 'Ether 
+Bullet'.{wait:0F} It's good for long
+range attacks on your foe!{enter}
+'Ether Bullets' have homing
+ability so you may tend to
+rely on them, but you might
+regret it if you use them 
+too much! Do be careful!"
+
+#### 19 ####
+Informationist
+"For more details, try our 
+'Tutorial Mode', where you
+will get an explanation from
+a different official."
+
+#### 20 ####
+Informationist
+"The Start button will
+permit you to pause the
+battle.{enter}
+At this time, you may select
+the 'GIVE UP' option if you 
+think you won't win."
+
+#### 21 ####
+Hammer
+"What was all that
+about!? He disappeared
+like the w, w, wind!{clear:5A}
+
+#### 22 ####
+Hammer
+"I've only known you
+since you arrived here!{enter}
+What is this Aveh
+tournament?"{clear:5A}
+
+#### 23 ####
+Hammer
+"What is going on!!"{clear:5A}
+
+#### 24 ####
+Hah ha ha ha ha!{clear:2D}
+
+#### 25 ####
+Mysterious Voice
+"As usual, you haven't
+learned anything have
+you?"{clear:2D}
+
+#### 26 ####
+Hammer
+"Yikes!?"{clear:2D}
+
+#### 27 ####
+Rico
+"{wait:05}...{wait:05}{name:11:¥·¥å©`¥Æ¥£¥¢}. 
+This is the last{wait:05}...{wait:1E}
+Hang in there with me!"
+
+#### 28 ####
+Rico
+"{wait:05}...{wait:05}Get him, myself{wait:05}...{wait:05}"
+
+#### 29 ####
+Fei
+"...Is that all?"
+
+#### 30 ####
+Hammer
+"Yep.{wait:14}
+This is the best that can
+be obtained 'round here."
+
+#### 31 ####
+Fei
+"You think I can win with
+these crude parts?"
+
+#### 32 ####
+Citan
+"You have got a point.{wait:1E}{enter}
+Compared to the Champ's
+Gear, the quality just
+does not match up."
+
+#### 33 ####
+Hammer
+"There's nothing we can do.{enter}
+Master Rico's Gear is a
+special make of Gear
+provided by the Committee.{enter}
+From maintainence to parts,
+it receives the best of
+everything.{enter}
+As long as money is
+involved, the Champ will go
+all out.{enter}
+That's one of the reasons
+he's so powerful{wait:05}...{wait:05}"
+
+#### 34 ####
+Fei
+"Can't we get better
+parts?{wait:0F} This{wait:05}...{wait:05}"
+
+#### 35 ####
+Fei
+"Who's there!?"
+
+#### 36 ####
+Wiseman
+"Long time{wait:05}...{wait:0F} Fei."
+
+#### 37 ####
+Fei
+"You're the one{wait:05}...{wait:0F}
+from the Aveh
+tournament{wait:05}...{wait:05}"
+
+#### 38 ####
+Fei
+"What do you want?{wait:0A}
+I'm busy right now!"
+
+#### 39 ####
+Wiseman
+"Hmph.{enter}
+No matter how high
+quality your Gear may
+be, you won't be able
+to defeat him."
+
+#### 40 ####
+Fei
+"Wh,{wait:05} what're you
+talking about!?"
+
+#### 41 ####
+!?
+
+#### 42 ####
+Wiseman
+"You still do not
+understand do you?{wait:0F} Then
+let me show you."
+
+#### 43 ####
+Wiseman
+"Fighting brute strength
+with brute strength is a
+sign of a great fool.{enter}
+It's obvious that a lighter
+body such as yours will
+always be at a disadvantage
+in a head-on attack.{enter}
+I just gave you a good
+example. That minor
+difference between you and
+I had this outcome.{enter}
+Now, someone else with a
+mass several times as you,
+like Rico, the outcome
+becomes highly apparent.{enter}
+This applies to Gears
+as well...{enter}
+Even if you were to get
+parts comparable to
+Rico's, there is still
+that difference in mass.{enter}
+To make up for this, one
+must commit to a single
+final strike that thrusts
+at the opponent's fissure."
+
+#### 44 ####
+Fei
+"{wait:05}...{wait:05}?"
+
+#### 45 ####
+Wiseman
+"I have given you the
+hint.{enter}
+It's up to you to figure
+it out through experience."
+
+#### 46 ####
+Fei
+"Wait!{wait:0F} Why is it that you
+have the same fighting
+style as I!?{enter}
+And, how do you know my
+name!?{wait:0F}
+Tell me!"
+
+#### 47 ####
+Wiseman
+"Hmph{wait:05}...{wait:0F}fine."
+
+#### 48 ####
+Wiseman
+"It was 3 years ago{wait:05}...{enter}
+The one who took you,{wait:05} in
+your mutilated state,{wait:05} to
+that mountain village was
+none other than myself."
+
+#### 49 ####
+Fei
+"You're the one who
+brought me to Lahan!?"
+
+#### 50 ####
+Wiseman
+"{wait:05}...{wait:05}Yes.{wait:0F}
+At your father's
+request."
+
+#### 51 ####
+Fei
+"My father's{wait:05}...!?{wait:1E}
+What's your relation to
+my father!?"
+
+#### 52 ####
+Wiseman
+"Khan and I were
+fellow students."
+
+#### 53 ####
+Fei
+"{wait:05}...{wait:05}Khan?{wait:1E} Is that my
+father's name?"
+
+#### 54 ####
+Wiseman
+"Why do you ask for your
+father's name?{wait:14} You
+haven't lost your{wait:05}...{wait:05}?"
+
+#### 55 ####
+Fei
+"Yeah{wait:05}...{wait:05}
+So tell me anything you
+can.{wait:1E} Will you?"
+
+#### 56 ####
+Wiseman
+"I see{wait:05}...{wait:1E}
+In your injured state{wait:05}...{wait:05}{enter}
+I wouldn't have been
+surprised{wait:05}...{wait:05}"
+
+#### 57 ####
+Fei
+"Wiseman."
+
+#### 58 ####
+Wiseman
+"{wait:05}...{wait:05}Khan Wong.{enter}
+That is your father's
+name.{wait:05} Since our youth,
+Khan and I studied the
+martial arts together{wait:05}...{wait:05}"
+
+#### 59 ####
+Fei
+"Father and you{wait:05}...{wait:05}?"
+
+#### 60 ####
+Wiseman
+"...Yes. Eventually, your
+father became an officer
+of a certain country.{enter}
+There he met a young
+woman.
+She was about 20 years old.
+Her name was 'Karen'.{enter}
+She was like a flower in
+full bloom."
+
+#### 61 ####
+Fei
+"Flower{wait:05}...{wait:05}?"
+
+#### 62 ####
+Citan
+"He means that she was
+extraordinarily
+beautiful."
+
+#### 63 ####
+Fei
+"I, see.{wait:0F}
+Then she's{wait:05}...{wait:05}?"
+
+#### 64 ####
+Wiseman
+"Yes, your mother.{wait:1E}{enter}
+Khan married your mother,
+and I left on a journey
+to strengthen myself."
+
+#### 65 ####
+Fei
+"Then my mother?{wait:0F}
+Where is my mother now?"
+
+#### 66 ####
+Wiseman
+"You do not remember that
+either?{wait:0F} {wait:05}...{wait:05}I see.{enter}
+{wait:05}...{wait:05}According to Khan,{wait:0A}
+when you were but a
+child, she passed away."
+
+#### 67 ####
+Fei
+"Oh{wait:05}...{wait:05}...{wait:05}"
+
+#### 68 ####
+Wiseman
+"Time passed.{wait:1E} During my
+journey, I received a
+letter from Khan."
+
+#### 69 ####
+Wiseman
+"The letter said that,
+his son{wait:05}...{wait:0F}was taken away
+by a man.{enter}
+Khan once said you had
+special powers.{wait:14}
+The man who wanted that
+power took you.{enter}
+That man was{wait:0F} Grahf."
+
+#### 70 ####
+Fei
+"Grahf!?{wait:0A}
+He took me away!?"
+
+#### 71 ####
+Wiseman
+"You've{wait:0F} met him?"
+
+#### 72 ####
+Fei
+"Yeah{wait:05}...{wait:05}
+three times."
+
+#### 73 ####
+Wiseman
+"It's amazing you are
+still in one piece."
+
+#### 74 ####
+Fei
+"It seemed to Grahf,
+that I was still not
+powerful enough to{enter}
+achieve his ultimate
+goal{wait:05}...{wait:05} Anyway,{wait:0F} let me
+hear more about this
+story."
+
+#### 75 ####
+Wiseman
+"Khan wished to go find
+his son,{wait:0A} and if possible,
+he wanted my help{wait:05}...{wait:05}"
+
+#### 76 ####
+Wiseman
+"I agreed to Khan's
+request and began
+searching for you...{enter}
+...and that man."
+
+#### 77 ####
+Wiseman
+"Then came that one
+fateful night 3 years
+ago.{enter}
+There was a violent
+storm. The storm felt
+as if it was thrown at
+us through sheer rage.{enter}
+That night, Khan
+notified me that he
+had located his son.{enter}
+So I headed for that
+location, as if I was
+drawn to it."
+
+#### 78 ####
+Wiseman
+"You and Khan were
+wounded badly.{enter}
+I have no idea what had
+happened between you two
+and Grahf. By then, Grahf
+had already gone.{enter}
+I don't know why, but
+probably he was driven
+away by Khan.{enter}
+Khan decided to pursue
+Grahf and left me to
+care for his son.{enter}
+I provided you with the
+necessary first aid and
+left you in the custody
+of those village people.{enter}
+Then I followed after
+Khan."
+
+#### 79 ####
+Wiseman
+"You probably lost
+your memory when you
+were injured then."
+
+#### 80 ####
+Fei
+"Why did my father
+pursue Grahf?"
+
+#### 81 ####
+Wiseman
+"I do not even know.
+Just that he said it was
+not only for the sake of{enter}
+his son, but also for the
+sake of the world, that
+that man had to be
+disposed of{wait:05}...{wait:05}He added{enter}
+that if something were to
+happen to him, I would
+have to take care of the
+rest{wait:05}...{wait:05}I haven't seen or{enter}
+heard from him since."
+
+#### 82 ####
+Fei
+"Grahf said that my
+father was{wait:0A} dead{wait:05}..."
+
+#### 83 ####
+Wiseman
+"Hmmm{wait:05}...{wait:05} If Grahf has
+been appearing in your
+presence{wait:05}...{wait:0F} then that is{enter}
+a possibility{wait:05}...{wait:1E} That is
+truly unfortunate..."
+
+#### 84 ####
+Wiseman
+"Do you remember anything
+about your fighting
+techniques?"
+
+#### 85 ####
+Fei
+"Huh?{wait:0F}
+No{wait:05}...{wait:05}nothing{wait:05}...{wait:05}"
+
+#### 86 ####
+Wiseman
+"Hmmm,{wait:05} your fighting
+skills{wait:05} were probably
+taught to you by{wait:05} Khan.{enter}
+Khan and I both studied
+under the same master.{wait:0F}
+That is why my techniques
+are similar to yours."
+
+#### 87 ####
+Wiseman
+"Well then, I must
+be off."
+
+#### 88 ####
+Fei
+"To where?"
+
+#### 89 ####
+Wiseman
+"I will go find him.{wait:1E}
+I need to pinpoint what
+his intentions are."
+
+#### 90 ####
+Wiseman
+"{wait:05}...{wait:05}And also, for
+Khan's sake."
+
+#### 91 ####
+Fei
+"Just tell me one thing.{wait:0F}
+What country was my
+father an officer for?"
+
+#### 92 ####
+Wiseman
+"Are you going there?"
+
+#### 93 ####
+Fei
+"I don't know.{wait:14}
+There are other things I
+have to take care of{wait:05}...{wait:05}"
+
+#### 94 ####
+Wiseman
+"Yes."
+
+#### 95 ####
+Wiseman
+"The floating land
+which tries to hide
+behind a wall, protected,{enter}
+as if to conceal their
+failure. That is Shevat."
+
+#### 96 ####
+Wiseman
+"That is your father's
+country."
+
+#### 97 ####
+Fei
+"Shevat{wait:05}...{wait:05}?{wait:0F}
+The{wait:05}...{wait:05}floating land?"
+
+#### 98 ####
+Wiseman
+"Farewell."
+
+#### 99 ####
+Fei
+"Hey!"
+
+#### 100 ####
+Citan
+"{wait:05}...{wait:05}What a mysterious
+person. {enter}
+Is this the second time
+you have met him?"
+
+#### 101 ####
+Fei
+"Huh?{wait:05} ...{wait:05}Yeah.{enter}
+Since that tournament in
+Aveh.{wait:0F} He sure is a
+mysterious person{wait:05}...{wait:05}"
+
+#### 102 ####
+Fei
+"I probably won't
+understand straight away
+what he meant today{wait:05}...{enter}
+But I think I get the
+general idea. I might be
+able to do something in
+tomorrow's final round{wait:05}...{enter}
+The differences in the
+performance of the Gear
+parts are not going to
+influence the outcome...{enter}
+...Well, not as much as I
+thought before."
+
+#### 103 ####
+Citan
+"Never underestimate the
+situation.{enter}
+You might lose pretty
+badly if you think you
+can just win by getting
+a grasp of the concept."
+
+#### 104 ####
+Fei
+"I know,{wait:05} doc."
+
+#### 105 ####
+Citan
+"Well,{wait:05} let us return to
+our quarters and rest,
+Fei{wait:05}...{enter}
+Your fate lies in the
+outcome of tomorrow's
+competition. You need to
+preserve your strength."
+
+#### 106 ####
+Fei
+"Hey, {wait:05}is this...!?"
+
+#### 107 ####
+Hammer
+"This must be the Gear
+that was furnished by
+the committee!"
+
+#### 108 ####
+Citan
+"{wait:05}...{wait:05}My this IS a
+surprise."
+
+#### 109 ####
+Fei
+"Doc!?"
+
+#### 110 ####
+Citan
+"{wait:05}...{wait:05}Hmmm. I do not think
+this is coincidental{wait:05}...{wait:05}
+{wait:05}...{wait:05}I am simply assuming,{wait:05}{enter}
+but they probably
+intentionally furnished
+you with {name:0B:¥ô¥§¥ë¥È©`¥ë} to
+collect some data."
+
+#### 111 ####
+Fei
+"Intentionally?"
+
+#### 112 ####
+Citan
+"Battling itself serves
+as one of Kislev's plans.{enter}
+From Battling, they can
+obtain the various combat
+data...{enter}
+...and talented Battlers
+which can be used for the
+military."
+
+#### 113 ####
+Fei
+"Exactly what kind of
+data could they get outta
+him and I{wait:05}...{wait:05}?"
+
+#### 114 ####
+Citan
+"I would not know."
+
+#### 115 ####
+Citan
+"But I can assure you
+that this has something
+to do with that incident{enter}
+with Aveh{wait:05}...{wait:05}"
+
+#### 116 ####
+Citan
+"Well, regardless of what
+the empire is up to,
+this is good for us."
+
+#### 117 ####
+Citan
+"You are able to get the
+Gear you are most used
+to."
+
+#### 118 ####
+Citan
+"If you think about it,
+this just enhanced our
+probability of escaping{wait:05}...{wait:05}"
+
+#### 119 ####
+Fei
+"{wait:05}...{wait:05}"
+

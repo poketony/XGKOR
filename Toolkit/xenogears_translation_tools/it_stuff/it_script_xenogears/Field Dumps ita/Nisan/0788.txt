@@ -1,0 +1,56 @@
+<TextBlock 1 w:50 h:3>
+Nisan è proprio un posto
+piuttosto popolare tra
+gli artisti.<New>
+In parte è grazie al
+paesaggio, ma la vera
+ragione è il ritratto
+della Grande Madre.<New>
+Si dice che esso si
+trovi nella cattedrale.<New>
+Sfortunatamente, alla
+gente non è permesso
+andare a vederlo.<Close><End of Block>
+<TextBlock 2 w:54 h:1>
+No…<Delay 30> c'è qualcosa
+che non va.<Close><End of Block>
+<TextBlock 3 w:48 h:4>
+… Scusami, ma adesso
+non dovresti parlarmi.<New>
+Sto dipingendo ciò che
+ho visto ieri mattina
+dal lago.<Delay 30><New>
+Sto ricordando cosa ho
+provato tramite quella
+luce.<Close><End of Block>
+<TextBlock 4 w:24 h:1>
+… L'ho dimenticato.<Close><End of Block>
+<TextBlock 5 w:40 h:1>
+Oh… ora lo ricordo
+di nuovo.<Close><End of Block>
+<TextBlock 6 w:18 h:1>
+Ci sono!<Close><End of Block>
+<TextBlock 7 w:50 h:3>
+Stavo pensando di
+dipingere su tela
+l'arrivo di una
+nuova era.<Close><End of Block>
+<TextBlock 8 w:52 h:4>
+Fei
+"(Pennelli…<Delay 30><New>
+Non li ho più toccati
+da quando ho lasciato
+il villaggio.)"<Close><End of Block>
+<TextBlock 9 w:28 h:2>
+Mmh? …<Delay 30> Anche tu
+sei un pittore?<Close><End of Block>
+<TextBlock 10 w:24 h:2>
+Fei
+"Ah…<Delay 30> no…"<Close><End of Block>
+<TextBlock 11 w:26 h:2>
+Oh…<Delay 30> i quadri sono
+meravigliosi.<Close><End of Block>
+<TextBlock 12 w:28 h:3>
+Fei
+"Oh…<Delay 30>
+Oh, <Delay 30>è vero…"<Close><Close><End of Block>

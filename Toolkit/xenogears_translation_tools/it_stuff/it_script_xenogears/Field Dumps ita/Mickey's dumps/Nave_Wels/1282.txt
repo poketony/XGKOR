@@ -1,0 +1,116 @@
+<TextBlock 1 w:28 h:2>
+Elly
+"È buio…"<Close><End of Block>
+<TextBlock 2 w:52 h:2>
+Elly
+"Cos'è questo strano
+odore?"<Close><End of Block>
+<TextBlock 3 w:18 h:2>
+Elly
+"Paura?"<Close><End of Block>
+<TextBlock 4 w:48 h:4>
+Elly
+"Wels?<New>
+Comunque, Billy, hai
+l'equipaggiamento adatto?"<Close><End of Block>
+<TextBlock 5 w:50 h:3>
+Elly
+"Vuoi dire che non
+combatti fisicamente?
+Che strano…"<Close><End of Block>
+<TextBlock 6 w:30 h:2>
+Shitan
+"È buio…"<Close><End of Block>
+<TextBlock 7 w:40 h:2>
+Shitan
+"Cos'è questo odore?"<Close><End of Block>
+<TextBlock 8 w:28 h:2>
+Shitan
+"Hai paura?"<Close><End of Block>
+<TextBlock 9 w:44 h:4>
+Shitan
+"Wels?
+Billy, sei attrezzato
+per questo?"<Close><End of Block>
+<TextBlock 10 w:50 h:3>
+Shitan
+"Combatti senza entrare
+in contatto fisico?
+È una rarità."<Close><End of Block>
+<TextBlock 11 w:28 h:2>
+Bart
+"È buio…"<Close><End of Block>
+<TextBlock 12 w:52 h:2>
+Bart
+"Ehi, ma che puzza…"<Close><End of Block>
+<TextBlock 13 w:18 h:2>
+Bart
+"Paura?"<Close><End of Block>
+<TextBlock 14 w:32 h:4>
+Bart
+"Wels?
+Billy, hai il tuo
+equipaggiamento?"<Close><End of Block>
+<TextBlock 15 w:50 h:3>
+Bart
+"Non combatti corpo a
+corpo? Sei il primo
+che incontro."<Close><End of Block>
+<TextBlock 16 w:28 h:2>
+Rico
+"È buio…"<Close><End of Block>
+<TextBlock 17 w:52 h:2>
+Rico
+"Cos'è questo schifo
+di odore?"<Close><End of Block>
+<TextBlock 18 w:18 h:2>
+Rico
+"Paura?"<Close><End of Block>
+<TextBlock 19 w:34 h:4>
+Rico
+"Wels?
+Ehi, Billy hai il
+tuo equipaggiamento?"<Close><End of Block>
+<TextBlock 20 w:52 h:3>
+Rico
+"Non combatti
+fisicamente?
+Che rarità."<Close><End of Block>
+<TextBlock 21 w:38 h:2>
+Luce accesa.
+Porta A aperta.<Close><End of Block>
+<TextBlock 22 w:32 h:3>
+Billy
+"Vogliamo ritornare
+all'Yggdrasil?"<New>
+    Torniamo
+    Restiamo qui<Close><End of Block>
+<TextBlock 23 w:18 h:1>
+Porta A chiusa.<Close><End of Block>
+<TextBlock 24 w:44 h:3>
+Billy
+"Questo odore è
+quello dei Wels.<New>
+Sembra che essi
+abbiano attaccato…"<Close><End of Block>
+<TextBlock 25 w:46 h:4>
+Billy
+"Un'altra cosa.<New>
+Sul muro della stanza
+centrale c'è un
+pulsante rosso.<New>
+Premete il pulsante per
+accendere le luci."<Close><End of Block>
+<TextBlock 26 w:30 h:4>
+Billy
+"…<Delay 30>
+No…<Delay 30>
+Solo un po'."<Close><End of Block>
+<TextBlock 27 w:40 h:1>
+La porta non si apre.<Close><End of Block>
+<TextBlock 28 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 29 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><Close><End of Block>

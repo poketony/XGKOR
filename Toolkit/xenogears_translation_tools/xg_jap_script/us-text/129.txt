@@ -1,0 +1,135 @@
+#### 1 ####
+We're not interested
+in gambling, right?
+
+#### 2 ####
+We're not interested
+in politics, right?
+
+#### 3 ####
+Yep
+
+#### 4 ####
+What do you think of
+those two in front?
+    Kinda strange
+    Nothing
+
+#### 5 ####
+Actually those two 
+are...{wait:32}twins.{enter}
+You should see them 
+infiltrate enemy 
+positions. Their timing
+is simply amazing.
+
+#### 6 ####
+Yeah...?{wait:32} Well,
+to each his own...
+
+#### 7 ####
+I wonder how long it's
+gonna take to fix the 
+fan above the table?
+
+#### 8 ####
+The fan's completely
+stopped.
+
+#### 9 ####
+Look! {wait:1E}
+The fan's finally fixed.
+
+#### 10 ####
+Whenever we've got nothing
+to do, we all tend to hang
+around this room.
+
+#### 11 ####
+Yep, a festival
+means liquor.
+
+#### 12 ####
+You got it!
+
+#### 13 ####
+Oh man...
+The guy we all bet on 
+lost his first fight.{enter}
+Now all we can do is
+drink.
+
+#### 14 ####
+You got it!
+
+#### 15 ####
+What's an election?
+
+#### 16 ####
+We can choose any
+ol' king we want.
+
+#### 17 ####
+Oh yeah?
+
+#### 18 ####
+Everyone in Aveh decides?
+
+#### 19 ####
+Everyone picks one guy
+and the most popular
+one becomes king.
+
+#### 20 ####
+Oh yeah?
+
+#### 21 ####
+Hmm, interesting.
+I wonder who I
+should pick?
+
+#### 22 ####
+I'm pickin' my mom.
+
+#### 23 ####
+What!?
+Don't do that!
+
+#### 24 ####
+If we were ever under
+enemy attack then we
+couldn't rest, right?{enter}
+That's the time when a
+leisurely meal is a 
+real luxury.
+
+#### 25 ####
+This much free time makes
+the body soft.
+
+#### 26 ####
+The castle cook makes
+excellent food.
+
+#### 27 ####
+Of course! He cooks for
+the king, don't he?
+
+#### 28 ####
+I wish my wife's 
+food was this good.
+
+#### 29 ####
+My old lady's food
+is edible but...
+
+#### 30 ####
+{fast:FF}There's probably a guard outside...
+    Open the door
+    Just take a peek
+
+#### 31 ####
+{fast:FF}There's probably a guard outside...
+    Open the door
+    Just take a peek
+

@@ -1,0 +1,146 @@
+<TextBlock 1 w:54 h:4>
+Ramsus
+"Una volta che i loro
+alettoni saranno distrutti…<New>
+… sprofonderanno e saranno
+incapaci di muoversi.<New>
+Emergere è stata una
+mossa scaltra.<New>
+Addetto alle Torpedini del
+deserto! Ben fatto! Hai
+ridotto le loro capacità di
+combattimento! Geniale!!"<Close><End of Block>
+<TextBlock 2 w:32 h:4>
+Ramsus
+"Bene…<Delay 20> cosa ne
+facciamo di loro…?"<Close><End of Block>
+<TextBlock 3 w:56 h:3>
+Ramsus
+"Ho fatto una promessa
+ad un vecchio amico…
+Non devo strafare…"<Close><End of Block>
+<TextBlock 4 w:38 h:3>
+Ramsus
+"Un vecchio… amico…<Delay 35><Space 1>
+…"<Close><End of Block>
+<TextBlock 5 w:52 h:4>
+Ramsus
+"Ufficiale delle
+Comunicazioni!<New>
+Utilizza il mio nome ed
+esortali ad arrendersi.<New>
+Di' loro di arrendersi,
+se desiderano che Nisan
+sia salva."<Close><End of Block>
+<TextBlock 6 w:52 h:3>
+Ramsus
+"A tutte le unità: cessate
+il fuoco, ma rimanete in
+allerta!<New>
+Se una nave nemica tenta
+di attaccare, sparate,
+ma solo ad essa!"<Close><End of Block>
+<TextBlock 7 w:46 h:2>
+Ramsus
+"… È inevitabile, eh?"<Space 1><Close><End of Block>
+<TextBlock 8 w:46 h:4>
+Ramsus
+"A tutte le unità:
+procedura di contenimento
+annullata!<Delay 20><New>
+… Ricominciate ad
+attaccare!"<Close><End of Block>
+<TextBlock 9 w:54 h:4>
+Ramsus
+"Que… quel Gear! Non posso
+sbagliarmi! È lui! Il
+Demone di Elul…!<Delay 50><New>
+Miang! Andiamo!"<Close><End of Block>
+<TextBlock 10 w:26 h:3>
+Ramsus
+"Ah…<Delay 16>
+Ma è…!!"<Close><End of Block>
+<TextBlock 11 w:40 h:4>
+Miang
+"Oh?<Delay 25>
+Per lei è insolito
+rimanere confuso."<Close><End of Block>
+<TextBlock 12 w:52 h:2>
+Miang
+"Comandante…?
+Ah, ah, ah."<Close><End of Block>
+<TextBlock 13 w:56 h:3>
+Miang
+"Calmati.<Delay 32> Ponete
+l'immagine analizzata
+sullo schermo."<Close><End of Block>
+<TextBlock 14 w:48 h:3>
+Miang
+"Comandante! Aspetti!
+Comandante!!"<Close><End of Block>
+<TextBlock 15 w:22 h:2>
+Miang
+"Ah, ah…"<Close><End of Block>
+<TextBlock 16 w:54 h:4>
+Confermato, percepisco
+il rumore dovuto alla
+distruzione della nave…<New>
+… seguito da un suono
+rapido di un'esplosione.<New>
+La nave nemica sta
+probabilmente fluttuando
+rapidamente verso la
+superficie.<Close><End of Block>
+<TextBlock 17 w:56 h:4>
+Confermato, un Gear nemico
+è stato attivato. Prosegue
+in linea retta. Sta
+aumentando il rumore causato
+dal motore della nave nemica…<New>
+… confermato il suono dovuto
+alla sterzata della nave,
+cambiamento di percorso…
+Sta attuando una manovra
+evasiva.<Close><End of Block>
+<TextBlock 18 w:54 h:4>
+A… aspetti!!!<Delay 35><New>
+Confermate le esplosioni
+lungo il perimetro della
+flotta. Percepiamo suoni
+che indicano la distruzione
+di diverse navi!<New>
+Reazioni ad alta energia…
+Ma che sviluppo energetico
+è mai questo!? Comandante!!
+Non posso crederci! Questo…
+Gear…?<New>
+È come se dei dischi reattivi
+stessero volando qui intorno…<Close><End of Block>
+<TextBlock 19 w:24 h:1>
+Sissignora…<Close><End of Block>
+<TextBlock 20 w:50 h:4>
+Il fluido statico attorno
+alla nave nemica sta
+diminuendo. La manovrabilità
+sotto la sabbia della nave
+nemica è scesa del 60%.<New>
+… Sembra che il motore
+principale e gli alettoni
+siano stati messi fuori uso.<Close><End of Block>
+<TextBlock 21 w:42 h:1>
+Non si deve disturbare,
+signore.<Close><End of Block>
+<TextBlock 22 w:56 h:4>
+Abbassate i lanciasiluri
+1-3, missile Namthal.
+Impostate l'1 ed il 2 per
+l'auto orientamento, il 3
+per l'anti-radar.<New>
+Lanciasiluri 4-5, torpedini
+del deserto Makara Mk5.
+Dopo aver acquisito
+l'obiettivo, impostateli
+tutti a orientamento passivo.<New>
+Tutte le unità, date inizio
+al fuoco difensivo. Mirate
+alla nave principale.<Close><Close><End of Block>

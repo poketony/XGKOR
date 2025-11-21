@@ -1,0 +1,667 @@
+#### 1 ####
+Haagh!{wait:05} Just when I thought
+I could finally earn a
+living, along comes a
+humongously strong monster
+in the sewers{wait:05}...{wait:05} D-oh!{wait:05}...
+
+#### 2 ####
+It seems that Champ beat the
+monster, but that doesn't
+mean it was the only one{wait:05}...{wait:1E}
+I don't like the idea,{wait:05} but
+I need the money.{wait:0A} Damn it!
+
+#### 3 ####
+Ah,{wait:0A} should I earn my living
+in the sewers?{wait:0F}
+Or should I follow my true 
+calling in life?{wait:0F}
+Ooooh,{wait:0A} I'm sooo confused!
+
+#### 4 ####
+I lost the preliminaries
+of the Imperial Games, but
+my prisoner ranking went
+up by 1.{wait:0F} As a result my
+reward money went up too!
+
+#### 5 ####
+It makes me want to try
+harder at sewer monster
+extermination!{wait:05} Haha-!
+
+#### 6 ####
+Today's earnings are 40
+'Hob-Jerky' and 10 'Scales'.
+You also collected 13
+'Fangs' and 'Eyeballs'.{wait:0F}
+Total reward is{wait:0A} 14595G !!
+
+#### 7 ####
+Hmmm, as I thought! When ya
+rank goes up, suddenly ya
+motivation increases too!
+Now I'll work like mad to
+make my fortune!
+
+#### 8 ####
+Today's earnings are{wait:05}... 15
+'Eyeballs' and 22 'Fangs'?
+Total reward is{wait:05}...{wait:0F}ummmh{wait:05}...{wait:2D}
+3150G.{wait:05} Not bad{wait:05}...{wait:05}perhaps.
+
+#### 9 ####
+You also earned a lot, hey?{wait:1E}
+Oh how the money you risk ya
+life for warms the heart!
+
+#### 10 ####
+Today's earnings are{wait:05}...{wait:05}
+3 'Scales' and {wait:0A}8 'Hob-Meat'?
+Total reward is 2700G
+{wait:05}...{wait:05}Not much is it!?{enter}
+'Hob-Meat' is quite a rare
+booty around here but it
+is not registered with the
+B-Info. Center for exchange
+with prisoner class people.
+
+#### 11 ####
+Aah{wait:05}...{wait:05}too bad!
+
+#### 12 ####
+'Battling' - that's what
+Nortune is famous for!{wait:0F} Need
+parts to customize your Gear?{enter}
+The best Gear parts are
+found here at the Imperial
+capital's 'B-Info. Center'!
+
+#### 13 ####
+Just in time for the movement to
+strengthen our military power in 
+opposition to Aveh's assaults on 
+our Imperial capital{wait:05}...{wait:05}
+we have new lines of GEAR PARTS!{wait:05}
+Don't miss out on getting yours!
+
+#### 14 ####
+For all your Gear needs
+come to the B-Info. Center!{wait:0F}
+We await your next custom!
+
+#### 15 ####
+{wait:05}...{wait:05}I'd like to help but
+prisoners don't have Gears,
+do they!?{wait:0F} Come back when you 
+become a 'Battler', OK!
+
+#### 16 ####
+Operator
+"Welcome to B-Info. Center!
+We give the best prices for
+whatever spoils are on offer!{enter}
+Huh-huh, and by the looks of
+it you've seen your fair
+share of battles! I expect
+you'll earn a pretty penny!"
+
+#### 17 ####
+Operator
+"How's it going,{wait:05} newcomer?{wait:0A}
+Think you earned your keep?{wait:05}
+Anyway, let's see what you
+have got to exchange..."
+
+#### 18 ####
+Operator
+"Choose items to exchange:"{wait:1E}
+{fast:FF}    ，Hob-Jerky:  50G
+    ，Fang     : 100G
+    ，Eyeball  : 150G
+    ，Scale    :1200G
+    Nothing now, thanks!
+
+#### 19 ####
+Operator
+"{wait:05}...{wait:05}Yes, we'll trade them in!{wait:0F}
+You can exchange up to 30 at
+a time!{wait:1E} Here's your payment!"
+
+#### 20 ####
+Operator
+"Total reward money we pay{wait:05}...{wait:2D}
+  Total reward: {number(s):00}G{wait:1E}
+Keep up the good work now!"
+
+#### 21 ####
+Operator
+"Oh?{wait:05} But you don't have
+any to cash in!{wait:0F} Too bad
+but no goods, no deal!"
+
+#### 22 ####
+Operator
+"{wait:05}...{wait:05}Yes, we'll trade them in!{wait:0F}
+You can exchange up to 30 at
+a time!{wait:1E} Here's your payment!"
+
+#### 23 ####
+Operator
+"Total reward money we pay{wait:05}...{wait:2D}
+  Total reward: {number(s):00}G{wait:1E}
+Keep up the good work now!"
+
+#### 24 ####
+Operator
+"Oh?{wait:05} But you don't have
+any to cash in!{wait:0F} Too bad
+but no goods, no deal!"
+
+#### 25 ####
+Operator
+"{wait:05}...{wait:05}Yes, we'll trade them in!{wait:0F}
+You can exchange up to 30 at
+a time!{wait:1E} Here's your payment!"
+
+#### 26 ####
+Operator
+"Total reward money we pay{wait:05}...{wait:2D}
+  Total reward: {number(s):00}G{wait:1E}
+Keep up the good work now!"
+
+#### 27 ####
+Operator
+"Oh?{wait:05} But you don't have
+any to cash in!{wait:0F} Too bad
+but no goods, no deal!"
+
+#### 28 ####
+Operator
+"{wait:05}...{wait:05}Yes, we'll trade them in!{wait:0F}
+You can exchange up to 30 at
+a time!{wait:1E} Here's your payment!"
+
+#### 29 ####
+Operator
+"Total reward money we pay{wait:05}...{wait:2D}
+  Total reward: {number(s):00}G{wait:1E}
+Keep up the good work now!"
+
+#### 30 ####
+Operator
+"Oh?{wait:05} But you don't have
+any to cash in!{wait:0F} Too bad
+but no goods, no deal!"
+
+#### 31 ####
+Operator
+"Choose items to exchange:"{wait:1E}
+{fast:FF}    ，Hob-Jerky:  45G
+    ，Fang     :  90G
+    ，Eyeball  : 125G
+    ，Scale    :1000G
+    Nothing now, thanks!
+
+#### 32 ####
+Operator
+"{wait:05}...{wait:05}Yes, we'll trade them in!{wait:0F}
+You can exchange up to 30 at
+a time!{wait:1E} Here's your payment!"
+
+#### 33 ####
+Operator
+"Total reward money we pay{wait:05}...{wait:2D}
+  Total reward: {number(s):00}G{wait:1E}
+Keep up the good work now!"
+
+#### 34 ####
+Operator
+"Oh?{wait:05} But you don't have
+any to cash in!{wait:0F} Too bad
+but no goods, no deal!"
+
+#### 35 ####
+Operator
+"{wait:05}...{wait:05}Yes, we'll trade them in!{wait:0F}
+You can exchange up to 30 at
+a time!{wait:1E} Here's your payment!"
+
+#### 36 ####
+Operator
+"Total reward money we pay{wait:05}...{wait:2D}
+  Total reward: {number(s):00}G{wait:1E}
+Keep up the good work now!"
+
+#### 37 ####
+Operator
+"Oh?{wait:05} But you don't have
+any to cash in!{wait:0F} Too bad
+but no goods, no deal!"
+
+#### 38 ####
+Operator
+"{wait:05}...{wait:05}Yes, we'll trade them in!{wait:0F}
+You can exchange up to 30 at
+a time!{wait:1E} Here's your payment!"
+
+#### 39 ####
+Operator
+"Total reward money we pay{wait:05}...{wait:2D}
+  Total reward: {number(s):00}G{wait:1E}
+Keep up the good work now!"
+
+#### 40 ####
+Operator
+"Oh?{wait:05} But you don't have
+any to cash in!{wait:0F} Too bad
+but no goods, no deal!"
+
+#### 41 ####
+Operator
+"{wait:05}...{wait:05}Yes, we'll trade them in!{wait:0F}
+You can exchange up to 30 at
+a time!{wait:1E} Here's your payment!"
+
+#### 42 ####
+Operator
+"Total reward money we pay{wait:05}...{wait:2D}
+  Total reward: {number(s):00}G{wait:1E}
+Keep up the good work now!"
+
+#### 43 ####
+Operator
+"Oh?{wait:05} But you don't have
+any to cash in!{wait:0F} Too bad
+but no goods, no deal!"
+
+#### 44 ####
+Operator
+"Choose items to exchange:"{wait:1E}
+{fast:FF}    ，Hob-Jerky: 30G
+    ，Fang     : 75G
+    ，Eyeball  :100G
+    ，Scale    :900G
+    Nothing now, thanks!
+
+#### 45 ####
+Operator
+"{wait:05}...{wait:05}Yes, we'll trade them in!{wait:0F}
+You can exchange up to 30 at
+a time!{wait:1E} Here's your payment!"
+
+#### 46 ####
+Operator
+"Total reward money we pay{wait:05}...{wait:2D}
+  Total reward: {number(s):00}G{wait:1E}
+Keep up the good work now!"
+
+#### 47 ####
+Operator
+"Oh?{wait:05} But you don't have
+any to cash in!{wait:0F} Too bad
+but no goods, no deal!"
+
+#### 48 ####
+Operator
+"{wait:05}...{wait:05}Yes, we'll trade them in!{wait:0F}
+You can exchange up to 30 at
+a time!{wait:1E} Here's your payment!"
+
+#### 49 ####
+Operator
+"Total reward money we pay{wait:05}...{wait:2D}
+  Total reward: {number(s):00}G{wait:1E}
+Keep up the good work now!"
+
+#### 50 ####
+Operator
+"Oh?{wait:05} But you don't have
+any to cash in!{wait:0F} Too bad
+but no goods, no deal!"
+
+#### 51 ####
+Operator
+"{wait:05}...{wait:05}Yes, we'll trade them in!{wait:0F}
+You can exchange up to 30 at
+a time!{wait:1E} Here's your payment!"
+
+#### 52 ####
+Operator
+"Total reward money we pay{wait:05}...{wait:2D}
+  Total reward: {number(s):00}G{wait:1E}
+Keep up the good work now!"
+
+#### 53 ####
+Operator
+"Oh?{wait:05} But you don't have
+any to cash in!{wait:0F} Too bad
+but no goods, no deal!"
+
+#### 54 ####
+Operator
+"{wait:05}...{wait:05}Yes, we'll trade them in!{wait:0F}
+You can exchange up to 30 at
+a time!{wait:1E} Here's your payment!"
+
+#### 55 ####
+Operator
+"Total reward money we pay{wait:05}...{wait:2D}
+  Total reward: {number(s):00}G{wait:1E}
+Keep up the good work now!"
+
+#### 56 ####
+Operator
+"Oh?{wait:05} But you don't have
+any to cash in!{wait:0F} Too bad
+but no goods, no deal!"
+
+#### 57 ####
+Operator
+"Choose items to exchange:"{wait:1E}
+{fast:FF}    ，Hob-Jerky: 20G
+    ，Fang     : 60G
+    ，Eyeball  : 90G
+    ，Scale    :750G
+    Nothing now, thanks!
+
+#### 58 ####
+Operator
+"{wait:05}...{wait:05}Yes, we'll trade them in!{wait:0F}
+You can exchange up to 30 at
+a time!{wait:1E} Here's your payment!"
+
+#### 59 ####
+Operator
+"Total reward money we pay{wait:05}...{wait:2D}
+  Total reward: {number(s):00}G{wait:1E}
+Keep up the good work now!"
+
+#### 60 ####
+Operator
+"Oh?{wait:05} But you don't have
+any to cash in!{wait:0F} Too bad
+but no goods, no deal!"
+
+#### 61 ####
+Operator
+"{wait:05}...{wait:05}Yes, we'll trade them in!{wait:0F}
+You can exchange up to 30 at
+a time!{wait:1E} Here's your payment!"
+
+#### 62 ####
+Operator
+"Total reward money we pay{wait:05}...{wait:2D}
+  Total reward: {number(s):00}G{wait:1E}
+Keep up the good work now!"
+
+#### 63 ####
+Operator
+"Oh?{wait:05} But you don't have
+any to cash in!{wait:0F} Too bad
+but no goods, no deal!"
+
+#### 64 ####
+Operator
+"{wait:05}...{wait:05}Yes, we'll trade them in!{wait:0F}
+You can exchange up to 30 at
+a time!{wait:1E} Here's your payment!"
+
+#### 65 ####
+Operator
+"Total reward money we pay{wait:05}...{wait:2D}
+  Total reward: {number(s):00}G{wait:1E}
+Keep up the good work now!"
+
+#### 66 ####
+Operator
+"Oh?{wait:05} But you don't have
+any to cash in!{wait:0F} Too bad
+but no goods, no deal!"
+
+#### 67 ####
+Operator
+"{wait:05}...{wait:05}Yes, we'll trade them in!{wait:0F}
+You can exchange up to 30 at
+a time!{wait:1E} Here's your payment!"
+
+#### 68 ####
+Operator
+"Total reward money we pay{wait:05}...{wait:2D}
+  Total reward: {number(s):00}G{wait:1E}
+Keep up the good work now!"
+
+#### 69 ####
+Operator
+"Oh?{wait:05} But you don't have
+any to cash in!{wait:0F} Too bad
+but no goods, no deal!"
+
+#### 70 ####
+Operator
+"Choose items to exchange:"{wait:1E}
+{fast:FF}    ，Hob-Jerky:  65G
+    ，Fang     : 150G
+    ，Eyeball  : 200G
+    ，Scale    :1500G
+    ，Rare Items:????G
+    Nothing now, thanks!
+
+#### 71 ####
+Operator
+"Choose items to exchange:"{wait:1E}
+{fast:FF}    ，Hob-Meat  :200G
+    ，Hob-Steak :450G
+    ，Ivory :2000G
+    ，Items :????G
+    Nothing now, thanks!
+
+#### 72 ####
+Operator
+"{wait:05}...{wait:05}Oh, too bad.{wait:0F}
+Well, anyway, whenever you
+want to exchange, you know
+where we are!"
+
+#### 73 ####
+Operator
+"Sorry but we are not able
+to deal in that booty for
+a little while.{enter}
+There's an over-supply this
+time of year!{wait:0F} And somebody's
+been stocking up on them in
+the city of Bledavik {wait:05}then...{enter}
+...{wait:05}bringing them all the way
+to the Imperial Capital and
+trying to sell them here!{wait:0F}
+That's why they got banned!"
+
+#### 74 ####
+Operator
+"{wait:05}...{wait:05}Yes, we'll trade them in!{wait:0F}
+You can exchange up to 30 at
+a time!{wait:1E} Here's your payment!"
+
+#### 75 ####
+Operator
+"Total reward money we pay{wait:05}...{wait:2D}
+  Total reward: {number(s):00}G{wait:1E}
+Keep up the good work now!"
+
+#### 76 ####
+Operator
+"Oh?{wait:05} But you don't have
+any to cash in!{wait:0F} Too bad
+but no goods, no deal!"
+
+#### 77 ####
+Operator
+"{wait:05}...{wait:05}Yes, we'll trade them in!{wait:0F}
+You can exchange up to 30 at
+a time!{wait:1E} Here's your payment!"
+
+#### 78 ####
+Operator
+"Total reward money we pay{wait:05}...{wait:2D}
+  Total reward: {number(s):00}G{wait:1E}
+Keep up the good work now!"
+
+#### 79 ####
+Operator
+"Oh?{wait:05} But you don't have
+any to cash in!{wait:0F} Too bad
+but no goods, no deal!"
+
+#### 80 ####
+Operator
+"{wait:05}...{wait:05}Yes, we'll trade them in!{wait:0F}
+You can exchange up to 30 at
+a time!{wait:1E} Here's your payment!"
+
+#### 81 ####
+Operator
+"Total reward money we pay{wait:05}...{wait:2D}
+  Total reward: {number(s):00}G{wait:1E}
+Keep up the good work now!"
+
+#### 82 ####
+Operator
+"Oh?{wait:05} But you don't have
+any to cash in!{wait:0F} Too bad
+but no goods, no deal!"
+
+#### 83 ####
+Operator
+"{wait:05}...{wait:05}Yes, we'll trade them in!{wait:0F}
+You can exchange up to 30 at
+a time!{wait:1E} Here's your payment!"
+
+#### 84 ####
+Operator
+"Total reward money we pay{wait:05}...{wait:2D}
+  Total reward: {number(s):00}G{wait:1E}
+Keep up the good work now!"
+
+#### 85 ####
+Operator
+"Oh?{wait:05} But you don't have
+any to cash in!{wait:0F} Too bad
+but no goods, no deal!"
+
+#### 86 ####
+Operator
+"{wait:05}...{wait:05}Yes, we'll trade them in!{wait:0F}
+You can exchange up to 30 at
+a time!{wait:1E} Here's your payment!"
+
+#### 87 ####
+Operator
+"Total reward money we pay{wait:05}...{wait:2D}
+  Total reward: {number(s):00}G{wait:1E}
+Keep up the good work now!"
+
+#### 88 ####
+Operator
+"Oh?{wait:05} But you don't have
+any to cash in!{wait:0F} Too bad
+but no goods, no deal!"
+
+#### 89 ####
+Operator
+"{wait:05}...{wait:05}Yes, we'll trade them in!{wait:0F}
+You can exchange up to 30 at
+a time!{wait:1E} Here's your payment!"
+
+#### 90 ####
+Operator
+"Total reward money we pay{wait:05}...{wait:2D}
+  Total reward: {number(s):00}G{wait:1E}
+Keep up the good work now!"
+
+#### 91 ####
+Operator
+"Oh?{wait:05} But you don't have
+any to cash in!{wait:0F} Too bad
+but no goods, no deal!"
+
+#### 92 ####
+Operator
+"{wait:05}...{wait:05}Yes, we'll trade them in!{wait:0F}
+You can exchange up to 30 at
+a time!{wait:1E} Here's your payment!"
+
+#### 93 ####
+Operator
+"Total reward money we pay{wait:05}...{wait:2D}
+  Total reward: {number(s):00}G{wait:1E}
+Keep up the good work now!"
+
+#### 94 ####
+Operator
+"Oh?{wait:05} But you don't have
+any to cash in!{wait:0F} Too bad
+but no goods, no deal!"
+
+#### 95 ####
+Informer
+"B-Info. Center{wait:05}...{wait:0A}
+What do you want to know?"{wait:0F}
+{fast:FF}    Exchangeable items
+    How to exchange
+    Nothing thanks
+
+#### 96 ####
+Informer
+"There are four exchangeable
+items, as follows{wait:05}..."{wait:1E}
+{fast:FF}  ，Hob-Jerky:  65G
+  ，Fangs    : 150G
+  ，Eyeballs : 200G
+  ，Scales   :1500G
+
+#### 97 ####
+Also there are the following
+'Rare Items'{wait:05}...{wait:1E}
+  ，Hob-Meat : 200G
+  ，Hob-Steak: 450G
+  ，Ivory    :2000G{enter}
+To make a total of 7 items
+we exchange.{wait:0F} So if you find
+any of these items during 
+your travels,{wait:05} don't forget 
+to bring them here,{wait:05} to the
+B-Info. Center'!"
+
+#### 98 ####
+Informer
+"These are the top rewards
+we pay to ordinary Battlers.
+Prisoners are paid differing
+awards according to their
+Prisoner Rank!"
+
+#### 99 ####
+Informer
+"Here at the B-Info. Center,
+we exchange G for the proof
+of extermination of sewer
+monsters.{enter}
+But for 'Battlers' and other
+special customers, we also
+pay G for the 'booty' or
+proof of the extermination
+of other monsters too.{enter}
+'Scales','Eyeballs','Fangs'
+& 'Hob-Jerky'. So bring such
+booty here to cash them in.
+You can earn lots of G!
+
+#### 100 ####
+Informer
+"...Well, if you're stuck
+for money, you know where to
+go! As we always say...
+It pays to 'B Info-rmed'!"
+

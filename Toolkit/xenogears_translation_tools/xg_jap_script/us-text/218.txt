@@ -1,0 +1,177 @@
+#### 1 ####
+Citan
+"Everyone, over here!
+Hurry!"
+
+#### 2 ####
+Hammer
+"Master, there're people
+over there that can't get
+out! We're doomed!"
+
+#### 3 ####
+Citan
+"Don't give up, Hammer!
+Fei is fighting too!{enter}
+Fei{wait:0A}...{wait:0A}no longer wants to
+watch innocent people lose
+their homes, their town,
+those that are important
+to them..."
+
+#### 4 ####
+Rico
+"My{wait:0A}...{wait:0A}
+{wait:0A}...{wait:0A}town?"
+
+#### 5 ####
+Rico
+"Hmph, don't make me laugh.
+Who gives a damn about this
+crap town..."
+
+#### 6 ####
+Even you must have
+things left to do here!
+
+#### 7 ####
+Rico
+"...{wait:0A}...{wait:0A}I'm,{wait:0A}
+crap too."
+
+#### 8 ####
+Fei
+"Let's go!"
+
+#### 9 ####
+Elly
+"Ouch! 
+What?"
+
+#### 10 ####
+Fei
+"Just come!"
+
+#### 11 ####
+Fei
+"Look at this town!
+Take a good long look! 
+This is what you've done?{enter}
+Does the word, 'duty'
+justify all of this?
+Does it!?
+
+#### 12 ####
+Fei
+"Elly!"
+
+#### 13 ####
+Elly
+"But that's all that
+was left!"
+
+#### 14 ####
+Fei
+"You're still saying
+that?"
+
+#### 15 ####
+Fei
+"...{wait:0F}...{wait:0F}
+It's just not like you.{enter}
+If you don't want to then 
+don't do it.{enter}
+You shouldn't have to 
+force it just to have a
+place to belong..."
+
+#### 16 ####
+Elly
+"..."
+
+#### 17 ####
+Fei
+"What was I fighting
+you for just now?
+...{wait:0A}...{wait:0A}You wanted to know?{enter}
+I don't really know. I
+know I was helping Bart
+and the others.{enter}
+But I still don't know
+what I should do.
+Maybe I'm just looking
+for a place to fit in.{enter}
+But I think it's better
+to fight than do nothing.
+If fighting helps you or
+your friends even a bit,{enter}
+then it's worthwhile. 
+That's{wait:0A}...{wait:0A}...{wait:0A}
+not nothing.{wait:0A}
+...{wait:0A}...{wait:0A}it's something."
+
+#### 18 ####
+Elly
+"Fei!"
+
+#### 19 ####
+Fei
+"I'm going."
+
+#### 20 ####
+Elly
+"No! You can't! 
+Dominia is not like
+the other soldiers!{enter}
+She is an elite within
+the Gebler elite.
+She's one of the Elements,
+Ramsus' personal guard!{enter}
+You won't stand a chance!"
+
+#### 21 ####
+Fei
+"Still, I have to 
+stop this."
+
+#### 22 ####
+Elly
+"Fei..."
+
+#### 23 ####
+Fei
+"Citan and Hammer
+have nothing to do
+with Kislev...{enter}
+but they're trying
+desperately to get the
+civilians to safety.{enter}
+Even Rico, who must hate
+this town, still stays
+with me. That's why I
+have to go."
+
+#### 24 ####
+Elly
+"Fei..."
+
+#### 25 ####
+Save your data?{wait:1E}
+    Save
+    Don't save
+
+#### 26 ####
+Resume?{wait:1E}
+    Wait
+    Resume {wait:0F}
+
+#### 27 ####
+    Go to the menu?
+    Member change
+    Resume {wait:0F}
+
+#### 28 ####
+Resume?{wait:1E}
+    Wait
+    Resume {wait:0F}
+

@@ -1,0 +1,10 @@
+<TextBlock 1 w:46 h:3>
+Bingo!<Delay 32> Proprio come
+diceva il rapporto. Una
+nave di trasporto di Aveh…<New>
+E guarda cosa c'è sopra…!<Close><End of Block>
+<TextBlock 2 w:54 h:4>
+È così! È il nuovo
+modello di Kislev!<Delay 20> 
+Proprio quello rubato che
+tutti stanno cercando!!<Close><Close><End of Block>

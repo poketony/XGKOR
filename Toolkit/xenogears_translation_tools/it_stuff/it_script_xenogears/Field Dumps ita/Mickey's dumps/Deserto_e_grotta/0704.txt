@@ -1,0 +1,14 @@
+<TextBlock 1 w:52 h:4>
+Fei
+"Dov'è finito Doc?
+<Delay 10>…<Delay 5> E ho anche perso
+di vista quei Gear."<Close><End of Block>
+<TextBlock 2 w:38 h:2>
+Fei
+"Cosa sta succedendo?"<Close><End of Block>
+<TextBlock 3 w:4 h:1>
+!!<Close><End of Block>
+<TextBlock 4 w:34 h:3>
+Fei
+"Ma… che diavolo
+è quella cosa?"<Close><Close><End of Block>

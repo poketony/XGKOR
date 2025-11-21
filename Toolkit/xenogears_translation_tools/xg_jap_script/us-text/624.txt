@@ -1,0 +1,26 @@
+#### 1 ####
+Hold
+
+#### 2 ####
+Ramsus
+"I've finally found you!
+Now, I must
+challenge you!!"
+
+#### 3 ####
+Ramsus
+"Guaaah!
+This can't be!
+You m, monster..."
+
+#### 4 ####
+Ramsus
+"...Guha!{wait:1E}
+D...{wait:1E} damn you...{wait:1E} If it
+weren't for you{wait:1E}...{wait:1E}"
+
+#### 5 ####
+Bart
+"Tch!
+Keep back!!"
+

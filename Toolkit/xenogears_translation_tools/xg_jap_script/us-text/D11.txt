@@ -1,0 +1,86 @@
+#### 1 ####
+ 
+
+#### 2 ####
+ 
+
+#### 3 ####
+ 
+
+#### 4 ####
+{fast:FF}menu
+    exit
+    dajill
+    wc 
+    schebat 
+    melkaber
+    the history of human racing
+    houin
+
+#### 5 ####
+    {fast:FF}exit
+    gear's remains
+    new entry
+    as free
+    after the Shakhan's adjustment
+
+#### 6 ####
+    {fast:FF}exit
+    Fein in injury 
+    as free
+    houin , after charch broken
+    secret of charch
+    work
+
+#### 7 ####
+   {fast:FF} ¤±¤ë
+   ¥·¥§¥Ð¥È¡¤¥¨¥ì¥Ù-¥¿¥·¥ã¥Õ¥È1
+   ¥·¥§¥Ð¥È¡¤¥¨¥ì¥Ù-¥¿¥·¥ã¥Õ¥È2
+   ¥·¥§¥Ð¥È¡¤¥¨¥ì¥Ù-¥¿¥·¥ã¥Õ¥È3
+   ¥·¥§¥Ð¥È¡¤¥¨¥ì¥Ù-¥¿¥·¥ã¥Õ¥È4
+   ¥·¥§¥Ð¥È¡¤¥¨¥ì¥Ù-¥¿¥·¥ã¥Õ¥È5
+   ¥·¥§¥Ð¥È¡¤¥¨¥ì¥Ù-¥¿¥·¥ã¥Õ¥È  1
+   ¥·¥§¥Ð¥È¡¤¥¨¥ì¥Ù-¥¿¥·¥ã¥Õ¥È  2 
+
+#### 8 ####
+   {fast:FF} ¤±¤ë
+   ¥á¥ë¥«¥Ð-¡¤    ¥Þ¥Ã¥×
+   ¥á¥ë¥«¥Ð-¡¤    ¥Þ¥Ã¥×¤½¤Î2
+   ¥á¥ë¥«¥Ð-¡¤¥Ï¥Ë¥«¥à  ¥Þ¥Ã¥×
+   ¥á¥ë¥«¥Ð-¡¤¥·¥ã¥Õ¥È¥Þ¥Ã¥×
+   ¥á¥ë¥«¥Ð-¡¤  ¥·¥Ê¥×¥¹¥Þ¥Ã¥×
+   ¥á¥ë¥«¥Ð-¡¤   2£­1¥Þ¥Ã¥×
+   ¥á¥ë¥«¥Ð-¡¤   2£­2¥Þ¥Ã¥×
+   ¥á¥ë¥«¥Ð-¡¤¥·¥ã¥Õ¥È¥Þ¥Ã¥×¤½¤Î2 
+
+#### 9 ####
+   {fast:FF} ¤±¤ë
+      ¤Î  
+     ¤Î £¯¥®¥¢¥³¥¯¥Ô¥Ã¥È
+   ¥é¥«¥ó¤Î ¤ß
+     ¤Î £¯¥½¥Õ¥£¥¢¤ò  
+     ¤Î £¯¥«¥ì¥ë¥ì¥ó¤Î ¤ê 
+   ¥é¥Ï¥ó £¯¥°¥é-¥Õ¤È¥Õ¥§¥¤
+
+#### 10 ####
+   {fast:FF} ¤±¤ë
+   FIX1£º¥Õ¥§¥¤¤Î  ¤·¤¿  
+   FIX2£º  ¥«¥¤¥ó¤È¤Î  
+   FIX3£º¡º  ¡»¤Î    
+   FIX4£º  ¤¹¤ë¥«¥ì¥ë¥ì¥ó
+   FIX5£º¥¢¥Ï¥Ä¥§¥ó  ¤¹¤ë
+   FIX6£º  ¤µ¤ì¤ë¥é¥à¥µ¥¹
+   FIX7£º¡± ¡±¤Î¡±   ¡±
+   FIX8£º¥¤¥É¤Î  ¤á¤È  
+   FIX9£º ¤­¤Æ¤¤¤¿¡¢¥Õ¥§¥¤
+   FIX10£º¥ê¥ß¥Ã¥¿-  ¤µ¤ë
+    ¤Î¥Ú-¥¸¤Ø
+
+#### 11 ####
+   {fast:FF} ¤±¤ë
+   FIX11£º  ¤È¥«¥¤¥ó¤Î   
+   FIX12£º¥ß¥¢¥ó¤Ø¤Î    
+   FIX13£º¥é¥à¥µ¥¹¡¢ ¤Á ¤à
+   FIX15£º¥²-¥Æ¥£¥¢¤Î   
+   FIX16£º£¼    £¾¤Î  
+

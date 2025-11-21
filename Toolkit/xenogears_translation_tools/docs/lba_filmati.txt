@@ -1,0 +1,36 @@
+Qui di seguito elencherò l'lba dei vari filmati contenuti nel
+cd 1 e 2 di Xenogears). Poiché i filmati si trovano prima dei
+dati di gioco, questi lba sono validi anche se si utilizza un
+file immagine editato da xenoiso.
+I filmati contrassegnati da * hanno come voci delle semplici
+"esclamazioni" o grida, dunque non vanno sottotitolati, ma,
+forse, l'audio giapponese va reinserito.
+Quelli non segnati sono del tutto privi di voci.
+
+CD 1
+
+0002.str : 825		(flashback di Fei, suo padre, Grahf e Id s'incontrano)
+0003.str : 4705		(come sopra, qui parla il padre di Fei)
+0006.str : 16743		(morte di Timothy e distruzione di Lahan, poche parole dette da Dan e Shitan)
+0007.str : 22911		(Incontro tra Fei ed Elly)
+0008.str : 25941		(flashback, Fei, o meglio Abel, bambino)
+0009.str : 36637		(flashback di Elly, le viene data della codarda)
+0010.str : 45581		(primo Incontro tra Fei e Grahf)
+0014.str : 54133		(filmato iniziale)
+
+CD 2
+
+0001.str : 41		(filmato finale, più crediti)
+0005.str : 79569        (penultimo filmato, Fei, Elly e Krelian nella dimensione della Wave Existence)
+0009.str : 149313		(filmato dove Elly si taglia con la katana di Shitan)
+
+ATTENZIONE
+
+Il CD 2 giapponese presenta una particolarità assurda.
+Circa 4 FILMATI della versione USA sono uniti in un solo filmato, che contiene anche
+spezzoni di filmati dummy e di quello finale.
+Non ci sarebbe nessun problema, se non fosse che... l'audio non c'è!
+O meglio, c'è la canzone dei titoli di coda.
+Ho però scoperto come agisce la versione giapponese... carica alcuni file audio
+dalla cartella 5, e li utilizza poi per far "parlare" i personaggi.
+La versione USA, essendo più recente, non presenta quest'assurda particolarità.

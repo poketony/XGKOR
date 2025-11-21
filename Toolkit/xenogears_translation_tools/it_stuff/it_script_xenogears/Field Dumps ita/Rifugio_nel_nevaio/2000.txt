@@ -1,0 +1,95 @@
+<TextBlock 1 w:38 h:4>
+Fei
+"Va tutto bene, Dan.
+… Basta così.<Delay 20>
+Lo capisco.<New>
+È colpa mia.<Delay 20>
+Mi dispiace di
+averti fatto
+soffrire tanto…"<Close><End of Block>
+<TextBlock 2 w:54 h:4>
+Fei
+"Sono felice di aver
+potuto, alla fine, fare
+pace con te<Delay 20>…<New>
+Stammi bene, ragazzo."<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+Fei
+"Midori! Farei meglio a
+ridarti questo…<Delay 20> È il
+tuo prezioso anello, vero?<New>
+Sii una brava bambina, e
+ascolta tua madre Yui…
+Va bene, Midori!?<New>
+Oh, eh…<Delay 20> prenditi cura
+di Dan da parte mia,
+OK!?"<Close><End of Block>
+<TextBlock 4 w:44 h:3>
+Fei
+"Sì…<Delay 20> Penso tu
+abbia ragione!"<Close><End of Block>
+<TextBlock 5 w:40 h:4>
+Fei
+"Ok…<Delay 20> Beh, io
+adesso vado. Ci
+vediamo dopo!"<Close><End of Block>
+<TextBlock 6 w:10 h:2>
+Dan
+"…"<Close><End of Block>
+<TextBlock 7 w:52 h:4>
+Dan
+"Nella prigione, quando ti
+ho visto trasformarti in
+un mostro…<New>
+… ho capito tutto.<New>
+Dentro di te, Fei, c'è
+un mostro che non sei
+tu… È lui il cattivo…
+È sua la colpa…"<Close><End of Block>
+<TextBlock 8 w:52 h:4>
+Dan
+"Perciò…<Delay 20> perdonarti, o
+non perdonarti… Beh, non
+è questo il problema!<New>
+Non che le cose torneranno
+com'erano prima…<Delay 20> però…<Delay 20>
+ehmm, è solo che…<New>
+Non so come dirlo, ma<Delay 20>
+scusami…<Delay 20> Io…
+io, ehmm…<Delay 20> io…!"<Close><End of Block>
+<TextBlock 9 w:10 h:2>
+Dan
+"…"<Close><End of Block>
+<TextBlock 10 w:36 h:2>
+Midori
+"Stai attento, Fei."<Close><End of Block>
+<TextBlock 11 w:52 h:4>
+Midori
+"Fei…<Delay 20>
+Ero un po' spaventata,
+ma non troppo.<New>
+Perché sapevo che dentro
+quel mostro, tu stavi
+facendo del tuo meglio
+per combatterlo, Fei.<New>
+Ed io lo sapevo."<Close><End of Block>
+<TextBlock 12 w:32 h:3>
+Midori
+"Sì, noi stiamo<Delay 20>
+tutti bene.<New>
+Fei, stai attento
+anche tu.<New>
+Sono sicura che la tua
+voce raggiungerà lei,
+Fei…"<Close><End of Block>
+<TextBlock 13 w:28 h:4>
+Midori
+"Ecco…<Delay 20> Me l'ha
+dato <Chu-Chu>.<New>
+Fei, puoi
+prendertelo<Delay 20>…<New>
+Te lo darò in cambio
+del mio anello."<Close><End of Block>
+<TextBlock 14 w:28 h:2>
+  Ricevi un
+Anello Ercole!<Close><Close><End of Block>

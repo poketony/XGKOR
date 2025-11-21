@@ -1,0 +1,241 @@
+#### 1 ####
+Uh...{wait:1E} Uhn...?
+
+#### 2 ####
+Fei
+"Huh...!{wait:14}
+Where am I...!?"
+
+#### 3 ####
+Fei
+"Doc!!"
+
+#### 4 ####
+Fei
+"Doc...
+What happened...?{enter}
+Where's Chief Lee,
+Timothy, Alice...?{wait:14}
+What did I...?"
+
+#### 5 ####
+Fei
+"...!?{wait:14}
+Dan,
+what do you mean...?"
+
+#### 6 ####
+Fei
+"...!?"{clear:1E}
+
+#### 7 ####
+Fei
+"Dan...!!{clear:1E}
+E, everyone...{wait:0A}
+
+#### 8 ####
+Fei
+"..."
+
+#### 9 ####
+Fei
+"I guess you're right...{wait:14}
+This disaster happened
+because I was here..."
+
+#### 10 ####
+Fei
+"But...{wait:14}what am I
+supposed to do now...?"
+
+#### 11 ####
+Fei
+"Okay...{wait:14}
+I understand, doc..."
+
+#### 12 ####
+Fei
+"Well anyway...{wait:14} Please
+take care of the rest of
+the things here, doc."
+
+#### 13 ####
+Fei
+"..."
+
+#### 14 ####
+Fei
+"Gh...!!"
+
+#### 15 ####
+Citan
+"Oh, you have finally
+gained consciousness,
+Fei..."
+
+#### 16 ####
+Citan
+"Yes...{wait:14}
+Well that is..."
+
+#### 17 ####
+Citan
+"Dan!"
+
+#### 18 ####
+Why did you have to
+fight in the middle
+of the village...?
+
+#### 19 ####
+How do you even know
+how to operate such
+a monster...?
+
+#### 20 ####
+Mother...?{wait:14}
+Where mother...?
+
+#### 21 ####
+See, I told you so...{wait:14}
+I said allowing someone
+we knew nothing about
+into our village would
+spell disaster...
+
+#### 22 ####
+Owww...{wait:14}
+Hurts...It hurts...
+
+#### 23 ####
+Citan
+"Dan...{wait:14}{enter}
+There is nothing to be
+gained from putting the
+blame all on Fei alone.{enter}
+What is more, you know
+Fei had no control over
+the malfunction of that
+Gear.
+
+#### 24 ####
+Citan
+"It might be better if
+we left him by himself
+for a little while...{enter}
+He does not know what
+to do with his grief,
+his anger..."
+
+#### 25 ####
+Citan
+"And Fei...{wait:14}
+It may be a good idea for
+you to leave this place.{enter}
+There is no guarantee
+that reinforcements from
+yesterday's unit are not
+going to come...{enter}
+They will probably want
+to know what happened
+to their comrades.{enter}
+Also, if you stay here, I
+do not think the atmosphere
+is going to be very joyful
+...if you know what I mean.{enter}
+It is probably best for
+both you and all the
+other villagers here.
+
+#### 26 ####
+Citan
+"Yes, well... {wait:14}Why not go
+through the Blackmoon
+Forest and head for Aveh?{enter}
+I am sure those soldiers
+from yesterday were not
+from Aveh.{enter}
+If you can manage to get
+to the Aveh side, they
+will not be able to track
+you down very easily."
+
+#### 27 ####
+Citan
+"Of course...{wait:14}
+Well, do take care now."
+
+#### 28 ####
+{fast:01}Now, Fei, allow me to
+spill the blood out of
+love... {wait:14}Like the sea of
+hell, {wait:0A}crimson, deep...!{wait:C8}{wait:32}{clear:64}
+
+#### 29 ####
+Dan
+"You murderer!!"
+
+#### 30 ####
+Dan
+"Fei..."{clear:1E}
+
+#### 31 ####
+Dan
+"It...{wait:0A}was because you
+had to go get in that
+monster...{enter}
+Alice and Timothy...{wait:14}
+The people of the
+village are all...!!"
+
+#### 32 ####
+Dan
+"You killed everyone
+using that monster...!!"
+
+#### 33 ####
+Dan
+"Murderer!!
+My sister...{wait:14}
+Give me back my sister!!"
+
+#### 34 ####
+Dan
+"I...{wait:14}
+I know that!"
+
+#### 35 ####
+Dan
+"But...{wait:1E}
+But...!!
+
+#### 36 ####
+Dan
+"I HATE YOU!!"
+
+#### 37 ####
+{fast:01}You killed everyone with
+that monster...!!
+
+#### 38 ####
+{fast:01}Murderer!!{wait:14} My sister...{wait:14}
+Give me back my sister!!
+
+#### 39 ####
+Dan
+"Uuuaaaaaaahhhhh...!!"{clear:1E}
+
+#### 40 ####
+Yikes...!{clear:1E}
+
+#### 41 ####
+No! Keep away...
+I'm scared...{clear:1E}
+
+#### 42 ####
+Waaaaaaahhh...{clear:1E}
+
+#### 43 ####
+Fei
+"Dan...!?"{clear:1E}
+

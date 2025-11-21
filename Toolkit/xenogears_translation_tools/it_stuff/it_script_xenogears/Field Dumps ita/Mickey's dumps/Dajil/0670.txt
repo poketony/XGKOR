@@ -1,0 +1,15 @@
+<TextBlock 1 w:46 h:3>
+Ho sentito dire che
+Padron Sigurd è davvero
+molto bello…<New>
+… È vero?<Close><End of Block>
+<TextBlock 2 w:48 h:3>
+Ho sentito dire che le
+truppe di Kislev hanno
+attaccato un villaggio qui vicino…<New>
+… È vero?<Close><End of Block>
+<TextBlock 3 w:40 h:4>
+Un savco di avulti vengono
+a scavare nelle rowine.
+Vengono tuvti guivando
+in grandi 'Geeaar'.<Close><Close><End of Block>

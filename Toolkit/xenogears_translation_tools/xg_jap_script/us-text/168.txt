@@ -1,0 +1,193 @@
+#### 1 ####
+Black enemy Gear,
+inside units, stick 
+to your escort!
+
+#### 2 ####
+Roger.
+Flagship to all ships...
+You are free to fire at will!
+Let's dance!{clear:20}
+
+#### 3 ####
+All Rapid Fire Control
+Systems
+...commence operation!{clear:20}
+
+#### 4 ####
+Lay aerial mines.
+Projection pattern, 
+mark 3!{clear:20}
+
+#### 5 ####
+How many machines
+are on air patrol!?{clear:20}
+
+#### 6 ####
+Destroyer Iltus'
+engine is down!{clear:2D}
+
+#### 7 ####
+Flash signal from Luveh!
+'Luveh, rudder out, 
+rudder out, end.'{clear:40}
+
+#### 8 ####
+3 remaining allies!{clear:20}
+
+#### 9 ####
+Enemy Gear above! Enemy
+Gear diving from above!
+
+#### 10 ####
+All personnel, evacuate!
+All personnel, evacuate!{wait:10}
+Abandon ship!
+Repeat, evacuate!{clear:4B}
+
+#### 11 ####
+Vanderkaum
+"Aviation Officer, wait!"
+
+#### 12 ####
+Vanderkaum
+"Comm officer!
+Change of orders.{enter}
+Contact Von Hipper...
+Have the second destroyer
+squadron approach the
+enemy flank.{enter}
+Open the fleet's side
+and bait them into
+entering the Kefeinzel's
+main gun's firing arc."
+
+#### 13 ####
+Vanderkaum
+"Fire control!
+Gunnery chief!
+Ready the type 3 shells.{enter}
+Pull back the deck gunners
+and prepare to engage the
+Kefeinzel's main cannon...{enter}
+I'll annihilate them into
+pure energy..."
+
+#### 14 ####
+Vanderkaum
+"Quiet down,
+Aviation Officer!{enter}
+Thanks for your valuable
+opinion but I am in 
+charge, not you! {enter}
+What use are pea shooters
+and 40 sem guns?"
+
+#### 15 ####
+Vanderkaum
+"Discussion over.
+Captain! Not too fast!{enter}
+We don't want to leave 
+the enemy behind."
+
+#### 16 ####
+Vanderkaum
+"That moron, Hipper!
+Pursue them, they're
+just playing with him.{enter}
+You're not good enough
+to be my dog!"
+
+#### 17 ####
+Vanderkaum
+"Fire control! Gunnery 
+Chief! It hasn't fired
+a shot yet!{enter}
+Range for Type 3 is
+within 500. Don't fire
+till you see the whites 
+of their eyes."
+
+#### 18 ####
+Vanderkaum
+"This whole ship!{wait:20}
+All of you are morons!"
+
+#### 19 ####
+Vanderkaum
+"Idiotic! Idiotic!{wait:20}
+What is this mess...?"
+
+#### 20 ####
+Vanderkaum
+"Go down, dammit!{wait:2D}
+Or Ramsus will
+have my hide."
+
+#### 21 ####
+Vanderkaum
+"Fire control! Gunnery 
+Chief! What are you doing?{enter}
+You're not even close!
+Are you blind?"
+
+#### 22 ####
+Vanderkaum
+"Right...{wait:40}
+I still have that...
+I still have that..."
+
+#### 23 ####
+Vanderkaum
+"Yes...
+I still have that...{enter}
+I still have that...yes.
+I still have that..."
+
+#### 24 ####
+Relay to all ships!
+Fire at will, begin 
+evasive action!{enter}
+But, don't let fire 
+support positions 
+collapse!
+
+#### 25 ####
+Huh?{enter2}
+It's stupid!{enter}
+There's no way the
+flagship's gun can
+hit speeding Gears...
+
+#### 26 ####
+Admiral!
+What are you doing pulling
+the anti-gear gunners back!?
+
+#### 27 ####
+(Your plan will
+never work...!)
+
+#### 28 ####
+Our mobility is
+too different...
+
+#### 29 ####
+Gears at battle speed can
+move at 2000 per hour.
+
+#### 30 ####
+(You're the biggest moron!)
+
+#### 31 ####
+Bogeys incoming
+vector 3-3-6!
+2 groups, about 7-8 
+machines, distance 2000!
+
+#### 32 ####
+A, admiral...
+
+#### 33 ####
+Forget him!!
+

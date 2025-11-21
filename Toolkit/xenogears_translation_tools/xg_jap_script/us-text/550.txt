@@ -1,0 +1,45 @@
+#### 1 ####
+It was determined, by
+examining the inside
+of the wreckage, that
+some kind of accident
+occured on this ship
+about 10,000 years ago
+{wait:05}...{wait:05}which forced it to
+crash onto our planet.
+
+#### 2 ####
+"Alien beings that came
+to our planet from a far
+off galaxy, aeons ago{wait:05}..."
+ {wait:3C}
+Could it possibly have been
+that our ancestors were the
+passengers of this ship and
+had crash landed here on
+this planet{wait:05}...
+
+#### 3 ####
+Seeking god and his divine
+wisdom...'Razael's Tree'...
+which, it is said, lie here in
+Mahanon, we proceeded further.
+
+#### 4 ####
+Do you wish to save?{wait:1E}
+
+#### 5 ####
+Continue {wait:05}with the game?{wait:1E}
+    Wait
+    Continue{wait:0F}
+
+#### 6 ####
+    Open a menu
+    Change members
+    Continue the game{wait:0F}
+
+#### 7 ####
+Continue {wait:05}with the game?{wait:1E}
+    Wait
+    Continue{wait:0F}
+

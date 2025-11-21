@@ -1,0 +1,93 @@
+<TextBlock 1 w:36 h:3>
+Rico
+"<Delay 5>…<Delay 5> Perché?<Delay 15>
+Perché sei qui?"<Close><End of Block>
+<TextBlock 2 w:52 h:4>
+Fei
+"Per riprendermi
+questo Gear.<Delay 15><New>
+Non è che sono venuto
+qui per salvarti<Delay 10>…<New>
+È successo che l'ascensore
+che ho usato per scappare
+mi ha portato in questa
+arena.<New>
+Ed ho visto che eri
+attaccato…<Delay 15> È per questo
+che ti ho salvato<Delay 5>…<Delay 5>
+tutto qui."<Close><End of Block>
+<TextBlock 3 w:38 h:4>
+Rico
+"Per essere una
+coincidenza…<New>
+… è una coincidenza
+davvero curiosa<Delay 10>…<New>
+Sei davvero molto
+bravo a raccontare
+cazzate<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 4 w:48 h:3>
+Fei
+"Pensala come vuoi<Delay 5>…<Delay 5>
+Allora,<Delay 30> cosa vorresti
+fare adesso?"<Close><End of Block>
+<TextBlock 5 w:26 h:2>
+Rico
+"… Fare cosa?"<Close><End of Block>
+<TextBlock 6 w:50 h:4>
+Fei
+"Mi sono introdotto nella
+arena.<Delay 15> Siamo tutti e due
+dei fuggitivi<Delay 10>…<New>
+E perciò dobbiamo fuggire.<New>
+Se resti qui, ti faranno
+probabilmente combattere
+quel mostro di nuovo.<New>
+E questa volta morirai<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 7 w:48 h:2>
+Fei
+"È questo che vuoi?"<Close><End of Block>
+<TextBlock 8 w:10 h:2>
+Rico
+"<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 9 w:34 h:4>
+Fei
+"Anche tu devi avere
+delle cose da fare
+a questo mondo!<New>
+Ma ora, nel tuo
+stato d'animo<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 10 w:38 h:4>
+Rico
+"Silenzio! Sta' zitto!<Delay 30>
+La seconda volta!<Delay 15> È la
+seconda volta che mi hai<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 11 w:50 h:4>
+Rico
+"<Delay 5>…<Delay 5> Se vuoi fuggire
+dall'Impero, fallo
+adesso.<New>
+Io non ho intenzione di
+andarmene.<Delay 15> Anche se ciò
+vorrà dire che morirò!!"<Close><End of Block>
+<TextBlock 12 w:32 h:3>
+Fei
+"<Delay 5>…<Delay 5> Mmh?
+Che cos'è<Delay 5>…<Delay 5>?"<Opcode 2 60><Close><End of Block>
+<TextBlock 13 w:46 h:3>
+Fei
+"Un<Delay 5>…<Delay 5> tuono?<Delay 15>
+Cos'è<Delay 5> questa vibrazione?"<Close><End of Block>
+<TextBlock 14 w:48 h:4>
+Rico
+"Questa vibrazione<Delay 5>…<Delay 15>
+Viene<Delay 5>…<Delay 5> no?<Delay 15> Non
+viene dalla terra."<Close><End of Block>
+<TextBlock 15 w:44 h:3>
+Rico
+"Ma questa<Delay 5>…<Delay 5> vibrazione<Delay 15>
+è nell'atmosfera?"<Close><End of Block>
+<TextBlock 16 w:44 h:3>
+Fei
+"… Uhoa.
+Non mi sembra
+nulla di buono."<Opcode 2 90><Close><End of Block>

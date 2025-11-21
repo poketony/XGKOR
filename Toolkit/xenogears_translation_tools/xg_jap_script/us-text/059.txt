@@ -1,0 +1,220 @@
+#### 1 ####
+Bart
+"Hey, this is huge.{enter}
+What can we do with this?
+I doubt you can break it."
+
+#### 2 ####
+Bart
+"My sensors detect what
+appears to be a huge cave
+on the other side of here.{enter}
+If we could only do some-
+thing about this boulder...{wait:1E}
+But I doubt we can just
+smash it to pieces!
+
+#### 3 ####
+Fei
+"I guess{wait:1E} we could
+try pushing it..."
+
+#### 4 ####
+Bart
+"Wait, no matter how
+you look at it{wait:1E}...{wait:1E}"
+
+#### 5 ####
+Bart
+"Hey, Fei!{wait:1E}
+My sensors are responding
+to something.{enter}
+There appears to be quite
+a large cavern on the
+other side of here."
+
+#### 6 ####
+Bart
+"If we can get rid of this
+rock...{wait:1E}but I don't think
+it's possible."
+
+#### 7 ####
+Bart
+"The hydromechanic pipe for
+my knee joint is on the
+verge of breaking down.{enter}
+It's all because of that
+fall from the ceiling...
+followed by pushing this
+mega-colossal boulder.{enter}
+It won't be funny if my
+Gear malfunctions in a
+huge cavern like this."
+
+#### 8 ####
+Bart
+"I don't like you
+very much...{enter}
+Damn it!
+I'll get you when we
+get outta here."
+
+#### 9 ####
+Fei
+"Looks like even a person
+couldn't fit through..."
+
+#### 10 ####
+Fei
+"Looks like even a person
+couldn't fit through..."
+
+#### 11 ####
+Fei
+"We can get by if we help
+each other.{enter}
+Let's keep it up so we
+can get out of here."
+
+#### 12 ####
+Fei
+"Your friends won't
+come and help us?"
+
+#### 13 ####
+Bart
+"It'd be a waste of time
+waiting.{wait:1E} They probably
+won't come."
+
+#### 14 ####
+Fei
+"But, aren't they your
+friends?"
+
+#### 15 ####
+Bart
+"We believe in a
+liberal upbringing.{enter}
+They'll think we can
+escape by ourselves."
+
+#### 16 ####
+Fei
+"I wonder if doc
+is okay."
+
+#### 17 ####
+Bart
+"Don't worry about the
+man you were with.{enter}
+I'm sure our guys saved
+him by now."
+
+#### 18 ####
+Fei
+"..."
+
+#### 19 ####
+Bart
+"What is it?"
+
+#### 20 ####
+Fei
+"...{wait:1E}{enter}
+We wouldn't have fallen
+in here if you had only
+listened to me."
+
+#### 21 ####
+Bart
+"Don't blame it on me!
+You should've surrendered
+instead of challenging me.{enter}
+All I wanted was your
+Gear."
+
+#### 22 ####
+Fei
+"Don't be ridiculous!{enter}
+You're the one who blindly
+attacked me. What else was
+I supposed to do?{enter}
+I thought I might die if
+I didn't fight you."
+
+#### 23 ####
+Bart
+"I was taking it easy on
+you. Couldn't you tell?{wait:0A}
+Then you're a bit dense."
+
+#### 24 ####
+Fei
+"Don't lie to me.
+I know you were serious."
+
+#### 25 ####
+Bart
+"What! You want some!?
+Let's have it out!
+Right here!"
+
+#### 26 ####
+Fei
+"..."
+
+#### 27 ####
+Bart
+"Wait! Settling it
+right here comes first.{enter}
+I won't be able to get
+anything done until we
+settle this once and
+for all!"
+
+#### 28 ####
+Fei
+"I thought you wanted a
+truce for now? Getting out
+of here should come first!{enter}
+Once we're out of here,
+then I'll fight you all
+you want.{wait:1E} Let's hurry up
+and move on out of here!"
+
+#### 29 ####
+{fast:FF} 
+ - GREAT HALL SAND SENSOR -
+                              
+
+#### 30 ####
+Detected amounts of falling sand
+above the standard safety figure.{enter}
+The sand barrier on the south
+wall of the Terrace Stones has
+been sealed to prevent sand from
+penetrating the excavation site.{enter}
+Until the barrier is reopened,
+please assemble at the safety
+shelter to the east of the
+barrier wall. Thank-you.
+
+#### 31 ####
+Disengaged!
+
+#### 32 ####
+Fei
+"What the heck are you
+doing? Hurry up and
+help!!"
+
+#### 33 ####
+You have too many
+{str}.
+
+#### 34 ####
+ 
+ Received {str}.
+

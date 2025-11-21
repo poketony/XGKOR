@@ -1,0 +1,14 @@
+#### 1 ####
+Ramsus
+Come on, come on, come on!
+You devil...{wait:2D}I'll be sure
+to kill you this time!!
+
+#### 2 ####
+Ramsus
+That's it, that's it...
+Heh heh...{wait:0C}{enter}
+He came all this way,
+just to be killed...
+{wait:0C}ugha-a-a-a-a-a-!!
+

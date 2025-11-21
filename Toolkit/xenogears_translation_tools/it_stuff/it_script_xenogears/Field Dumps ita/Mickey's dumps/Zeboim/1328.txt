@@ -1,0 +1,44 @@
+<TextBlock 1 w:50 h:3>
+Shitan
+"L'esercito di Solaris…<Delay 32>
+Perché… tutto questo…<New>
+Beh, scendiamo."<Close><End of Block>
+<TextBlock 2 w:50 h:3>
+Elly
+"Ho sentito che non c'è
+nulla in questo sito di
+scavi."<Close><End of Block>
+<TextBlock 3 w:50 h:2>
+Bart
+"Qui non c'è nulla.<New>
+Perché Solaris sta
+venendo qui?"<Close><End of Block>
+<TextBlock 4 w:32 h:2>
+Billy
+"Shitan…<New>
+Cosa sta cercando
+di fare Solaris?"<Close><End of Block>
+<TextBlock 5 w:50 h:3>
+Rico
+"Ehi, Shitan…<New>
+Ho sentito che qui non
+c'è nulla. Se sta venendo
+Solaris, meglio uscire
+di qua.<New>
+Odio i posti bui
+e stretti…"<Close><End of Block>
+<TextBlock 6 w:48 h:4>
+<Chu-Chu>
+"Ehi, ehi!?
+C'è rimasto qualcosa di
+saporito per terra, chu?"<Close><End of Block>
+<TextBlock 7 w:46 h:1>
+Ho detto che non
+potete entrare.<Close><End of Block>
+<TextBlock 8 w:46 h:2>
+Vietato entrare.
+Solo il personale della
+Chiesa può entrare.<Close><End of Block>
+<TextBlock 9 w:46 h:1>
+Ho detto che non
+potete entrare.<Close><End of Block>

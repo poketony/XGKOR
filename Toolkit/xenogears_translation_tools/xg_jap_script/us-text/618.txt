@@ -1,0 +1,178 @@
+#### 1 ####
+Spectators
+"Boo¡«! Boo¡«!"
+"Booooring!"
+"C'mon, fight properly!!"
+
+#### 2 ####
+Spectators
+"...grumble grumble..."{enter}
+Referee
+"...{wait:1E}Uhh,{wait:2D} ahem.{wait:1E}
+It appears that
+competitor Wiseman
+has forfeited...{enter}
+The remaining
+competitor will
+automatically be
+awarded victory!"{enter}
+Spectators
+"What!? Are you serious!?"
+"Booo! Booooo!!"
+"Yeah! I won the bet!!"
+
+#### 3 ####
+Tournament's Final Bout{clear:3C}
+
+#### 4 ####
+Fei
+(This is not good.{wait:1E}
+At this rate...)
+
+#### 5 ####
+Fei
+"??"
+
+#### 6 ####
+Fei
+"Who cares where...
+Come on, now...
+Put up a serious fight!"
+
+#### 7 ####
+Fei
+"Why do you
+ask that for?"
+
+#### 8 ####
+Fei
+"My reasons for
+fighting are none
+of your business!"
+
+#### 9 ####
+Fei
+"Would you shut up!
+I'm in the middle of
+finding for my purpose!"
+
+#### 10 ####
+Fei
+"What!?"
+
+#### 11 ####
+Fei
+"How would
+you know...?"
+
+#### 12 ####
+Fei
+"Argh!
+Shut up!!"
+
+#### 13 ####
+Fei
+"!!{wait:1E}
+How do you
+know my name!?{enter}
+I deliberately didn't
+use my real name when
+I entered this contest.{enter}
+And that thing about
+me recovering from my
+wounds{wait:14}...{wait:28}!?{wait:14} You aren't{wait:14}
+who I think you are!?"
+
+#### 14 ####
+Fei
+"!! Wait!
+I want to
+ask you...!"
+
+#### 15 ####
+Fei
+"Wiseman..."
+
+#### 16 ####
+Wiseman
+"...Just as I thought."
+
+#### 17 ####
+Wiseman
+"You, where did you
+learn that technique?"
+
+#### 18 ####
+Wiseman
+"Hmm.
+So then why
+do you fight?{enter}
+For yourself?
+Or for the sake
+of others?"
+
+#### 19 ####
+Wiseman
+"Doesn't there have to
+be a reason or a goal,
+for a person to fight?"
+
+#### 20 ####
+Wiseman
+"So, you are you
+fighting for no
+reason or goal?"
+
+#### 21 ####
+Wiseman
+"... Then forget it!
+For there's no way
+you could find such."
+
+#### 22 ####
+Wiseman
+"You appear to be
+looking forward...{enter}
+...but in reality,
+you are only
+looking downward!{enter}
+You're only looking
+at yourself.
+Like that, you will
+find nothing."
+
+#### 23 ####
+Wiseman
+"I know... By exchanging
+blows with you, I can
+tell a great deal..."
+
+#### 24 ####
+Wiseman
+"Weak, weak... You won't
+even graze me with those
+kinds of attacks...{enter}
+But superficially, at
+least, it seems you've
+matured physically."
+
+#### 25 ####
+Wiseman
+"You've done well in
+recovering from those
+wounds,{wait:2D} Fei..."
+
+#### 26 ####
+Wiseman
+"...Hm!?"
+
+#### 27 ####
+Wiseman
+"Oh my...{wait:1E}
+Is it already
+that time...?{enter}
+...{wait:1E} I guess it can't
+be helped...{wait:2D}
+I've got to be
+on my way!"
+

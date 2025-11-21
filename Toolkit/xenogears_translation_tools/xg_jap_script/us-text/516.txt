@@ -1,0 +1,311 @@
+#### 1 ####
+Taura...{clear:1E}
+
+#### 2 ####
+Citan
+"Fei!!"
+
+#### 3 ####
+Fei
+"Doc!!"{wait:1E}
+
+#### 4 ####
+Citan
+"I heard from Taura and
+hurried right over here!{enter}
+Boy, was that lucky.{wait:0A}
+You were fortunate to have
+come down near Taura's
+research facility{wait:05}..."
+
+#### 5 ####
+Taura
+"Hm...{wait:05} This is no
+research facility. {wait:0A}
+It is 'a man's hideaway'!"
+
+#### 6 ####
+Taura
+"Citan told me about you.{enter}
+I was shocked to see a
+couple lying down with
+blood all over them."
+
+#### 7 ####
+A couple...
+
+#### 8 ####
+Citan
+"At any rate,
+you had a narrow
+escape.{enter}
+Fei, make sure
+you thank Taura!"
+
+#### 9 ####
+Fei
+"Taura,{wait:0A}
+thank you very much{wait:05}...{wait:0A}
+for helping Elly{wait:05}..."
+
+#### 10 ####
+Fei
+"Both Elly and I were
+hurt so badly...{wait:1E}
+What is that machine...?"
+
+#### 11 ####
+Taura
+"It's called a Nanoreactor.{enter}
+It is a device that can
+rebuild substances at
+the molecular level.{enter}
+Not only can it just heal
+humans, but theoretically
+it should also be able to
+create many substances."
+
+#### 12 ####
+Fei
+"Is that the same thing
+as that guy in Solaris...?{enter}
+I mean...
+Is that the same thing
+as Krelian is studying?"
+
+#### 13 ####
+Taura
+"Yes, that's right."
+
+#### 14 ####
+Taura
+"I{wait:0A} was the one who taught
+Nanotechnology to him..."
+
+#### 15 ####
+Fei
+"You did?"
+
+#### 16 ####
+Taura
+"We shouldn't waste time
+talking about such an{wait:0A}
+unimportant subject.{enter}
+Looks like her treatment
+is done."
+
+#### 17 ####
+Taura
+"Oh, you don't
+need to come.{wait:0A}
+Just wait there."
+
+#### 18 ####
+Fei
+"..."
+
+#### 19 ####
+Citan
+"Fei..."
+
+#### 20 ####
+Fei
+"Elly!!"
+
+#### 21 ####
+Elly
+"Fei...{wait:14}
+I..."
+
+#### 22 ####
+Taura
+"Ahem! Now, why don't you
+two go get some fresh air
+outside?{enter}
+It ought to ease the
+shock of the change."
+
+#### 23 ####
+Shevat Emissary
+"Fei...!{wait:0A}
+We've got problems!!"
+
+#### 24 ####
+Shevat Emissary
+"Today, a peace settlement
+between Aveh and Kislev
+is being held at Shevat...{enter}
+But, Solaris' mobile
+weapons are approaching
+Shevat as we speak!{wait:0A}
+Please, help us!"
+
+#### 25 ####
+Taura
+"That has nothing to do
+with this young man!!"
+
+#### 26 ####
+Shevat Emissary
+"Taura!!"
+
+#### 27 ####
+Taura
+"You're getting on my
+nerves for being so
+selfish.{enter}
+Citan told me about you.
+You showed up after
+finding out that Id is
+now controllable...{enter}
+Aren't you ashamed? You
+haven't changed since
+then. You only care
+about yourselves."
+
+#### 28 ####
+Taura
+"Fei! You don't need to
+listen to these guys who
+once tried to kill you!!"
+
+#### 29 ####
+Fei
+"But..."
+
+#### 30 ####
+Citan
+"..."
+
+#### 31 ####
+Elly
+"Please go.
+I'll go to the
+Mass-driver..."
+
+#### 32 ####
+Fei
+"Elly?"
+
+#### 33 ####
+Elly
+"No matter what happened
+before, Shevat needs your
+help now.{enter}
+Although you may be saving
+some selfish people...{enter}
+there is still the world
+and its countries with
+many more innocent people.{enter}
+Please,
+don't forget that."
+
+#### 34 ####
+Elly
+"Bart and his people are
+fighting to protect those
+same lives, aren't they?{enter}
+So, please go help them!"
+
+#### 35 ####
+Fei
+"Are you sure?{wait:0A}
+What about you?"
+
+#### 36 ####
+Elly
+"Don't worry about me.{wait:0A}
+I'll manage somehow."
+
+#### 37 ####
+Fei
+"But, all by yourself..."
+
+#### 38 ####
+Citan
+"I will accompany Elly.{wait:0A}
+You do not need to worry.{enter}
+I have brought along my
+own Omnigear."
+
+#### 39 ####
+Fei
+"Your own Omnigear...?"
+
+#### 40 ####
+Citan
+"Yes my Omnigear,
+'{name:16:Ｅ，フェンリル}'.{enter}
+It is the same one I
+brought from Solaris.
+I left it with Gaspar
+in case of emergencies."
+
+#### 41 ####
+Fei
+"Doc...{wait:1E}
+Alright.{wait:0A} Please take
+care of her for me."
+
+#### 42 ####
+Fei
+"Elly,{wait:0A} be careful."
+
+#### 43 ####
+Elly
+"I will."
+
+#### 44 ####
+Shevat Emissary
+"We are truly grateful
+for your kindness,{wait:0A} Fei!!"
+
+#### 45 ####
+Taura
+"Hmph!{wait:0A}
+Suit yourselves."
+
+#### 46 ####
+Fei
+"Ignas, right?"
+
+#### 47 ####
+Shevat Emissary
+"Yes.{wait:0A}
+The goal of the enemy is to
+destroy the cities in Ignas.{enter}
+They have already destroyed
+half of Bledavik and will
+probably reach Nisan in 
+about four hours.{enter}
+Shevat will try to drive
+them back with all the
+power it has!"
+
+#### 48 ####
+Fei
+"Four hours...{wait:0A}
+That's cutting it close!"
+
+#### 49 ####
+Taura
+"No need to worry.
+Balthasar and I fixed your
+Gear with the nanomachines.{enter}
+It's much more powerful
+than it ever was before.
+Why, you should get there
+in half the time."
+
+#### 50 ####
+Fei
+"What?{wait:0A}
+Is old man Bal here?"
+
+#### 51 ####
+Citan
+"Emeralda is here as well."
+
+#### 52 ####
+
+

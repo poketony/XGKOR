@@ -1,0 +1,276 @@
+#### 1 ####
+Elly
+"Standby, OK!!"
+
+#### 2 ####
+Maria
+"The bonds between
+my father and I...{wait:0A}
+can't be broken!"
+
+#### 3 ####
+Maria
+"My {name:13:ゼプツェン} is too
+big, so I'm having it
+kept on the deck.{enter}
+If you need {name:13:ゼプツェン}
+he'll be ready for
+take-off anytime!
+
+#### 4 ####
+Emeralda
+"Emeralda{wait:05}...{wait:0A}
+go too{wait:05}..."
+
+#### 5 ####
+Fei
+"Ah{wait:05}...{wait:0A}sorry about what just
+happened{wait:05}...{wait:0A} Forgive me...{wait:0A}
+But,{wait:05} I want to explain...{enter}
+Now{wait:0A} for the first time,{wait:0A}
+people, on both earth and
+Solaris, are becoming one.{enter}
+But then,{wait:0A} not all of them{wait:0A}
+are strong like the crew
+of this ship, or the
+people in Shevat.{enter}
+Even we almost lose sight
+of our future at times...{wait:0A}
+so you can imagine what
+regular people go through.{enter}
+That's why people need
+someone like you to
+depend on...{wait:0A}
+As a light to guide us.{enter}
+You freed the hearts of the
+people that have been used
+as tools by that Ministry
+for hundreds of years.{enter}
+Elly, it was you!{wait:0A}
+And now your body doesn't
+just belong to you alone
+anymore.{enter}
+That's why I can't let you
+be in any danger.{wait:0A}
+And that's why I don't want
+you to fight anymore."
+
+#### 6 ####
+...{wait:05}It's funny, isn't it?
+
+#### 7 ####
+Huh?
+
+#### 8 ####
+Elly
+"We used to be enemies,{wait:05}
+but now we're together
+like this{wait:05}..."
+
+#### 9 ####
+Elly
+"In the beginning...{wait:0A}
+I think I saw myself
+in you.{enter}
+We seemed to overlap...{wait:0A}
+You being in a similar
+situation as I was in.{enter}
+When I was with you,{wait:05}
+I didn't feel alone or
+apprehensive.{wait:0A} That's why
+I thought I liked you...{enter}
+But, it wasn't that.{wait:0A}
+I simply didn't have
+the courage to look at
+my true self.{enter}
+I turned to you to run
+away from it all...{wait:0A}
+I mistook that for love."
+
+#### 10 ####
+Elly
+"But,{wait:0A} it's different now.{wait:0A}
+I can face my own problems.{wait:0A}
+I am me{wait:05}...and you are you.{enter}
+It has all become {wait:05}clear
+to me now.{wait:0A}
+I also learned that I
+really do need you...{enter}
+It's not because I need
+you as a sanctuary for
+my problems.{wait:0A} I need you
+because I truly love you."
+
+#### 11 ####
+Elly{wait:05}...
+
+#### 12 ####
+Elly
+"I know what you're saying,{wait:05}
+Fei.{wait:0A} I know why you're so
+concerned for my safety...{enter}
+But you know,{wait:05} I'm{wait:05}...{wait:05}scared.{wait:0A}
+I fear we may never see
+each other again{wait:05}...{wait:0A}
+I just have this feeling."
+
+#### 13 ####
+Fei
+"Don't worry,{wait:0A}
+I won't die."
+
+#### 14 ####
+Elly
+"No,{wait:05} it's not that{wait:05}...{wait:0A}
+It's something completely
+different{wait:05}...{enter}
+It's as if I'm being torn
+apart by something I can't
+resist{wait:05}...{wait:0A}
+That I'm no longer me{wait:05}...{enter}
+Even if you come back
+safely{wait:05}...{wait:0A} It still{wait:05}...{wait:0A}
+It just feels so uneasy{wait:05}...{enter}
+That is why I need to go
+with you.{wait:0A}
+I can't bear to be away
+from you."
+
+#### 15 ####
+Fei
+"I feel the same way...{wait:0A}
+Ever since the time I met
+you in that forest{wait:05}...{enter}
+I think it's the same
+feeling that you've been
+having...{wait:0A}
+I was also running to you.{enter}
+But I have to solve my own
+problems.{wait:0A}
+I can't throw my problems
+onto you."
+
+#### 16 ####
+Fei
+"There is another me...{wait:0A}
+'Id' is within me.{enter}
+I fear that at any moment
+Id may awaken within me.{enter}
+You're the only one that
+has been able to keep me
+from giving in to Id.{enter}
+It was because you were
+always by my side that I
+was still able to keep
+from losing myself."
+
+#### 17 ####
+Fei
+"I promise you that{wait:05}
+I will return.{enter}
+So...{wait:05}that is...{wait:05}Elly,{wait:0A}
+I want you to be my reason
+to return...{wait:0A} To be my home
+that I can return to...{enter}
+Elly,{wait:05} if you will wait for
+me to come back...{wait:0A}
+even if we are in totally
+different places...{enter}
+As long as you will stay{wait:05}
+by my side...{wait:0A}
+I know I'll be able
+to do anything..."
+
+#### 18 ####
+Oh,{wait:05} Fei{wait:05}...
+
+#### 19 ####
+Are you going now?
+
+#### 20 ####
+Fei
+"Yeah, sorry.{wait:0A}
+Did I wake you?"
+
+#### 21 ####
+Elly
+"It's okay.{wait:0A}
+I've been awake
+all along{wait:05}..."
+
+#### 22 ####
+All along?
+
+#### 23 ####
+Elly
+"Uh-huh.{wait:0A}
+I was watching over
+you while you slept...{enter}
+And before I realized
+it, it was morning..."
+
+#### 24 ####
+{wait:02}.{wait:02}.{wait:02}.
+
+#### 25 ####
+Fei
+"W,{wait:05} well,{wait:0A} I'm off."
+
+#### 26 ####
+Elly
+"Alright then{wait:05}...{wait:0A}
+Do be careful{wait:05}..."
+
+#### 27 ####
+Fei
+"Yeah,{wait:05} I will...{wait:14}
+Oh!{wait:0A} Could you hold
+on to this for me?"
+
+#### 28 ####
+Elly
+"What is this?{wait:0A}
+Is this a{wait:05}...{wait:05}pendant?"
+
+#### 29 ####
+Fei
+"I don't know whose it is.{wait:0A}
+It seems it was on me when
+I was brought into Lahan.{enter}
+It may be mine,{wait:05} or it
+could be{wait:05}..."
+
+#### 30 ####
+It could be{wait:05}...?
+
+#### 31 ####
+Fei
+"Oh, nothing...{wait:0A}
+Will you just hold
+on to it for me?"
+
+#### 32 ####
+Elly
+"Alright.{wait:0A}
+I'll hold on
+to it for you."
+
+#### 33 ####
+Fei
+"Thanks.{wait:0A}
+...{wait:05}Well,{wait:05}
+I guess it's goodbye!"
+
+#### 34 ####
+Oh{wait:05}...{wait:05} Fei.
+
+#### 35 ####
+Yeah?
+
+#### 36 ####
+Elly
+"Thank you{wait:05}..."
+
+#### 37 ####
+
+

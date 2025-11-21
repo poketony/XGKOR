@@ -1,0 +1,97 @@
+#### 1 ####
+Bart
+"Yeah, we were saved when
+we were thrown out into
+the sky.{enter}
+The rest of my crew were
+aleady picked up and
+they're in the Yggdrasil
+right now."
+
+#### 2 ####
+Bart
+"I'm not lying...{enter}
+We saw it with our own
+eyes. The very sight of
+him turning into Id..."
+
+#### 3 ####
+Elly
+"...{enter}
+...Citan...Maria...?"
+
+#### 4 ####
+Elly
+"Oh...{enter}
+...
+...Fei...?
+What about Fei?{enter}
+...
+Is he on the Yggdrasil
+too?"
+
+#### 5 ####
+Elly
+"Solaris!!
+...That red Gear!?{enter}
+What is going on,
+Citan?
+What's happened to Fei?"
+
+#### 6 ####
+Elly
+"We'd better help him!!
+Fei's still there, isn't
+he!? We must hurry!!"
+
+#### 7 ####
+Elly
+"So he's already in the
+Yggdrasil, right...
+Maria?"
+
+#### 8 ####
+Elly
+"What!!"
+
+#### 9 ####
+Elly
+"!?
+You're kidding!?
+I don't believe that!"
+
+#### 10 ####
+Elly
+"Fei...is...Id...{wait:2D}
+Don't be ridiculous!"
+
+#### 11 ####
+Elly!{wait:18}
+Are you OK? Elly!
+
+#### 12 ####
+Citan
+"Elly?
+Have you come to
+your senses yet?"
+
+#### 13 ####
+Citan
+"Calm down, Elly.
+Fei...is alright."
+
+#### 14 ####
+Citan
+"Calm down, Elly. Listen!
+Fei is riding in that Gear.{enter}
+That Gear is actually
+{name:0B:¥ô¥§¥ë¥È©`¥ë} in its true
+form after transformation."
+
+#### 15 ####
+Citan
+"Another Fei within him
+has awakened.{enter}
+Fei and Id are the
+same person..."
+

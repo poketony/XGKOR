@@ -1,0 +1,342 @@
+#### 1 ####
+ 
+ Received Gold Nugget.
+
+#### 2 ####
+Hey! {wait:03}
+If you need something
+from my store, go talk
+to my stupid son.
+
+#### 3 ####
+Hey!{wait:03}
+I'm not closing down even
+if the Wels show up.{enter}
+If you need something,
+talk to my stupid son.
+
+#### 4 ####
+Hey!{wait:03}
+You've got your eyes on
+something good...Damn.{wait:03}
+You know what this is?
+
+#### 5 ####
+...is what it is.
+Pretty cool, huh?
+
+#### 6 ####
+...{clear:1E}
+
+#### 7 ####
+Hey, wait a minute.
+This isn't for sale.
+Sorry, I can't sell it.
+
+#### 8 ####
+Hey!{wait:03}
+For being so young you
+have good taste. Damn.{wait:03}
+This is...
+
+#### 9 ####
+...is what it is.
+Isn't this just bad?
+
+#### 10 ####
+...{clear:1E}
+
+#### 11 ####
+Hey, wait a minute.
+This is not for sale.
+Sorry, I can't sell it.
+
+#### 12 ####
+Hey!{wait:03}
+I'm damn sure you'll like
+this.{wait:03}
+This is...
+
+#### 13 ####
+Oh?{clear:14}
+
+#### 14 ####
+Ohhh?{clear:14}
+
+#### 15 ####
+...is what it is.
+Isn't this just great?
+
+#### 16 ####
+...{clear:1E}
+
+#### 17 ####
+Hey, wait a minute.
+This is not for sale.
+Sorry, I can't sell it.
+
+#### 18 ####
+Whaddya saying?{wait:03}
+Stupid kid!!{enter}
+There ain't no way you
+could ever understand
+the soul and romance of
+a Thames' man!
+
+#### 19 ####
+Hey, come on in.
+
+#### 20 ####
+Damn!!
+You dumb old man.{enter}
+All you make is useless
+crap! Why don't you make
+something that'll sell!?
+
+#### 21 ####
+What the?
+The soul of a Thames' man!?{enter}
+If they were all as dumb as
+you, the Thames'd have gone
+under long ago!"
+
+#### 22 ####
+Hey, have you met the
+Captain yet? He is sooo
+cool! I wanna grow up to
+be just like him.
+
+#### 23 ####
+I am!
+
+#### 24 ####
+A man!
+
+#### 25 ####
+of the sea{wait:0A}...{wait:0A}
+...Hey wait? Oops.
+
+#### 26 ####
+It's over here.
+I still need more
+practice.
+
+#### 27 ####
+I'm sure the Wels are
+followin' us 'cus of the
+Captain.
+
+#### 28 ####
+Men!
+
+#### 29 ####
+of the sea!
+
+#### 30 ####
+never lose...{wait:0A}...{wait:0A}
+...Hey!
+
+#### 31 ####
+Ah, here,
+yep, just a little more.
+
+#### 32 ####
+Hey, welcome.
+Rare finds from the sea
+bottom on parade.
+
+#### 33 ####
+Come again soon.
+
+#### 34 ####
+My lil' sister pushed me.
+She always picks on me.
+I'm so scared.
+
+#### 35 ####
+My lil' sister pushed me.
+She always bullies me.
+I'm so scared.{enter}
+I'm scared of the Wels too.
+
+#### 36 ####
+My big brother's a real
+wimp, he's scared of
+heights...{enter}
+Pathetic. 
+Just calm down.
+
+#### 37 ####
+My big brother is so scared
+of the Wels he won't go to
+the bathroom alone.{enter}
+Pathetic.
+Just calm down.
+
+#### 38 ####
+It's so{wait:0A}...{wait:0A}hot.
+
+#### 39 ####
+The Reapers{wait:0A}...{wait:0A}are scary.
+
+#### 40 ####
+It's so{wait:0A}...{wait:0A}hot.
+
+#### 41 ####
+The Reapers{wait:0A}...{wait:0A}are scary.
+
+#### 42 ####
+I lost.
+You get this.
+Let's play again.
+
+#### 43 ####
+ 
+ Received a Zetasol DX.
+
+#### 44 ####
+ 
+ Received a Physimentsol.
+
+#### 45 ####
+ 
+ Received a Rosesol.
+
+#### 46 ####
+ 
+ Received a Rosesol S.
+
+#### 47 ####
+ 
+ Received a Zetasol.
+
+#### 48 ####
+ 
+ Received an Aquasol S.
+
+#### 49 ####
+ 
+Received a DeathBlower1.
+
+#### 50 ####
+Hmm, you're not
+ready yet.
+
+#### 51 ####
+Hmm, you're not
+ready yet.
+
+#### 52 ####
+Hey you look good.{enter}
+Wanna play?
+    Okay
+    Nope
+
+#### 53 ####
+Sigh,
+you'll be sorry.
+
+#### 54 ####
+I see, it must be
+for your health.
+
+#### 55 ####
+Wow, you suck. Why don't
+you come back when you've
+gotten a little better!{enter}
+You'd better practice
+somewhere other than
+Thames. What? You don't
+know what I'm talking
+about? Hah! I KNOW you
+know what I'm talking
+about!
+
+#### 56 ####
+Queenie is so strong.
+
+#### 57 ####
+Queenie is so beautiful.
+
+#### 58 ####
+I was so surprised
+there are people living
+afloat on the vast sea.{enter}
+On top of that, you
+were with two Gears.
+That's unheard of.
+
+#### 59 ####
+Elly
+"Thanks. 
+You helped us out..."
+
+#### 60 ####
+You'd better thank the
+Captain. {enter}
+The one who gave the order
+for us to pull you two
+floaters out was the
+Captain o' the Thames.
+
+#### 61 ####
+Fei
+"Thames? {wait:05}
+Captain...?"
+
+#### 62 ####
+The Thames, the city at sea.
+That is where you are now.{enter}
+The captain here is a bit
+of a strange old chap.{enter}
+You'll see when you meet
+him. That's not to say
+he's a bad old blighter.
+
+#### 63 ####
+Elly
+"Um...
+What about our Gears?"
+
+#### 64 ####
+Don't worry about it. We
+put them inside the Thames
+through the supply dock.{enter}
+Sea water got inside so
+it'll take some time to
+fix them.
+
+#### 65 ####
+Fei
+"You're repairing 
+them for us?"
+
+#### 66 ####
+Pretty strange for us to
+be so nice, I bet that's
+what you're thinking.{enter}
+But really, we had no
+choice because it's the
+Captain's orders...
+
+#### 67 ####
+Well, I have to go now.
+I'm a busy guy, y'know!{enter}
+Come to the bridge after
+you've looked around the
+ship a while.{enter}
+I'm sure the Captain would
+want to meet you.
+
+#### 68 ####
+Elly
+"Fei, 
+what's wrong?"
+
+#### 69 ####
+Fei
+"I feel like I've seen
+that guy somewhere
+before...{wait:0A}{enter}
+Never mind."
+

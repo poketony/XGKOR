@@ -1,0 +1,8 @@
+#### 1 ####
+The door is locked.
+
+#### 2 ####
+Please unlock this door
+at the southwestern
+briefing room.
+

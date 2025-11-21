@@ -1,0 +1,751 @@
+<TextBlock 1 w:48 h:3>
+Fei
+"<Delay 5>…<Delay 5> Non è neanche qui…<Delay 15><Space 1>
+È già andato via?"<Close><End of Block>
+<TextBlock 2 w:12 h:2>
+Fei
+"Uh?"<Close><End of Block>
+<TextBlock 3 w:32 h:2>
+Fei
+"… Gear, eh?"<Opcode 2 50><Close><End of Block>
+<TextBlock 4 w:16 h:2>
+Fei
+"Uhoa!?"<Opcode 2 15><Close><End of Block>
+<TextBlock 5 w:52 h:4>
+Hammer
+"O frate, non ti pare come
+se mancasse qualcosa qui
+nel Blocco D?<New>
+Qualcosa che puoi trovare
+altrove, ma non qui?<New>
+È così? Lo pensi
+anche tu, o frate?"<Delay 20>
+    … No, per niente
+    Sì, così pare<Close><End of Block>
+<TextBlock 6 w:32 h:4>
+Hammer
+"Che cosa? No?
+Davvero? Mmh…
+È strano."<Close><End of Block>
+<TextBlock 7 w:54 h:4>
+Hammer
+"Già, mancano i negozi…
+Per non parlare delle
+armerie…"<Close><End of Block>
+<TextBlock 8 w:48 h:4>
+Hammer
+"Che accatti, o frate?"<Delay 15>
+    Oggetti di Hammer
+    Accessori di Hammer<Close><End of Block>
+<TextBlock 9 w:44 h:3>
+Hammer
+"In altri posti è
+anche più costoso!
+Sì!<New>
+Sai, deve essere
+grazie alla 'Borsa
+dell'Etere di Hammer'!"<Close><End of Block>
+<TextBlock 10 w:44 h:3>
+Hammer
+"In altri posti è
+anche più costoso!
+Sì!<New>
+Sai, deve essere
+grazie alla 'Borsa
+dell'Etere di Hammer'!"<Close><End of Block>
+<TextBlock 11 w:54 h:4>
+Uomo Bestia
+"Oh, permettimi di
+presentarmi… Mi chiamo
+'Hammer - il Rifornitore'.<New>
+Era da tempo che non si
+vedeva un criminale così
+forte qui al Blocco D!<New>
+Eh eh, diventerai molto
+famoso in questa città.
+Sei al centro della
+attenzione, o frate!"<Close><End of Block>
+<TextBlock 12 w:52 h:4>
+Uomo Bestia
+"Oh, permettimi di
+presentarmi… Mi chiamo
+'Hammer - il Rifornitore'.<New>
+In realtà è la seconda
+volta che ci vediamo<Delay 5>…<Delay 12>
+L'altra volta, o frate,
+eri steso al tappeto<Delay 5>…"<Close><End of Block>
+<TextBlock 13 w:52 h:4>
+Uomo Bestia
+"Oh, permettimi di
+presentarmi… Mi chiamo
+'Hammer - il Rifornitore'.<New>
+In realtà è la seconda
+volta che ci vediamo<Delay 5>…<Delay 12>
+L'altra volta, o frate,
+eri steso al tappeto<Delay 5>…"<Close><End of Block>
+<TextBlock 14 w:52 h:4>
+Uomo Bestia
+"Oh, permettimi di
+presentarmi… Mi chiamo
+'Hammer - il Rifornitore'.<New>
+In realtà è la seconda
+volta che ci vediamo<Delay 5>…<Delay 12>
+L'altra volta, o frate,
+eri steso al tappeto<Delay 5>…"<Close><End of Block>
+<TextBlock 15 w:52 h:4>
+Uomo Bestia
+"Oh, permettimi di
+presentarmi… Mi chiamo
+'Hammer - il Rifornitore'.<New>
+In realtà è la seconda
+volta che ci vediamo<Delay 5>…<Delay 12>
+L'altra volta, o frate,
+eri steso al tappeto<Delay 5>…"<Close><End of Block>
+<TextBlock 16 w:24 h:2>
+Uomo Bestia
+"Ah!?"<Close><End of Block>
+<TextBlock 17 w:46 h:3>
+Uomo Bestia
+"Ehi frate! O frate!
+<Delay 5>…<Delay 5> Da questa parte!"<Close><End of Block>
+<TextBlock 18 w:52 h:4>
+Hammer
+"Ehi, o frate!<New>
+Dallo sguardo che hai
+negli occhi pare che tu
+stia cercando qualcosa, 
+giusto?<New>
+Lo sapevo, o frate! Vuoi
+accattare degli oggetti!
+    Non ora
+    Perché no?<Close><End of Block>
+<TextBlock 19 w:52 h:4>
+Hammer
+"Che strano… Non ti
+serve nulla? Beh, sarà
+per la prossima volta!"<Close><End of Block>
+<TextBlock 20 w:38 h:4>
+Hammer
+"Lo sapevo! I miei
+occhi sono più acuti
+di quelli di un falco!"<Close><End of Block>
+<TextBlock 21 w:48 h:4>
+Hammer
+"Accatti, o frate?"<Delay 15>
+    Oggetti di Hammer
+    Accessori di Hammer<Close><End of Block>
+<TextBlock 22 w:44 h:3>
+Hammer
+"In altri posti è
+anche più costoso!
+Sì!<New>
+Sai, deve essere
+grazie alla 'Borsa
+dell'Etere di Hammer'!"<Close><End of Block>
+<TextBlock 23 w:44 h:3>
+Hammer
+"In altri posti è
+anche più costoso!
+Sì!<New>
+Sai, deve essere
+grazie alla 'Borsa
+dell'Etere di Hammer'!"<Close><End of Block>
+<TextBlock 24 w:46 h:2>
+'Hammer - il Rifornitore'
+"Oh<Delay 5>…<Delay 5> o frate."<Opcode 2 25><Close><End of Block>
+<TextBlock 25 w:62 h:5>
+Latina
+"Sapevo che la tua forza
+era autentica! Hai battuto
+anche il Campione!<New>
+Questo spiega come mai non
+sono riuscita a batterti.<Delay 5>
+Come avrei potuto!?"<Close><End of Block>
+<TextBlock 26 w:54 h:6>
+Latina
+"Youch ouch ouch<Delay 5>…<New>
+C<Delay 5>… ciao,<Delay 5> Fei.
+Il nostro combattimento
+è stato<Delay 5> divertente,<Delay 5>
+non è vero?
+…<Delay 5> Non ri ricordi<Delay 5>…?<Space 1><New>
+Ah bene<Delay 5>…<Delay 5>
+L'ultimo incontro prima
+delle finali è stato <Delay 5>con me.<Delay 5>
+Ouch<Delay 5> ouch ouch<Delay 5>…<Delay 5> Ahahahah,<Delay 5>
+Come sono patetica…<New>
+Non vedo l'ora di assistere
+alla finale.<Delay 15> Credo che
+tu possa riuscire a battere
+il Campione, Ricardo.<Delay 15>
+È dura dirlo, ma vinci
+anche per me!"<Close><End of Block>
+<TextBlock 27 w:62 h:5>
+Latina
+"Finalmente i casi di omicidi
+nelle fogne sono stati risolti!
+Si cominciava a dire che
+fossi tu il colpevole.<New>
+Ma, adesso, possiamo
+lasciarci tutto questo
+alle spalle…
+Sono felice per te.<New>
+Oh, hanno anche tolto
+la sospensione del Torneo
+di Battagliare!<New>
+Quel che hai fatto ha reso
+felice un mucchio di persone!"<Close><End of Block>
+<TextBlock 28 w:48 h:4>
+Latina
+"L'esplosione avvenuta
+al torneo mi ha davvero
+sorpresa.<New>
+Non è stato un incidente<Delay 5>…<Delay 15>
+Ah, lascia stare<Delay 5>…<Delay 30>
+Ti senti meglio?"<Close><End of Block>
+<TextBlock 29 w:44 h:5>
+Latina
+"Così anche tu
+parteciparai al
+Torneo, eh?<Delay 30>
+Eh eh, <Delay 5>buona fortuna!"<Close><End of Block>
+<TextBlock 30 w:54 h:3>
+Latina
+"Benvenuto al
+'Bar di Latina'.<Delay 15>
+Mettiti pure comodo!"<Close><End of Block>
+<TextBlock 31 w:54 h:5>
+Latina
+"Oh, Fei, aspetta.<Delay 15>
+Hammer ha lasciato un
+messaggio per te.<New>
+Vuole che lo incontri al
+bar 'Il Gattopardo',
+nella zona civile della
+città, non appena ti sarai
+occupato di tutto. Ok!?"<Close><End of Block>
+<TextBlock 32 w:56 h:4>
+Donna misteriosa
+"<Delay 5>…<Delay 5> Finalmente ci
+incontriamo. Sei Fei, giusto?<Delay 45>
+<Delay 5>…<Delay 5> E, uh, fuori dai piedi!!"<Close><End of Block>
+<TextBlock 33 w:56 h:5>
+Signora Cohen
+"Siete davvero una palla
+al piede!<Delay 15> Ecco perché non
+voglio venire con voi due.<New>
+Mmh,<Delay 15> mi presento da sola.<Delay 10>
+Sono Rue Cohen, membro del
+'Comitato Imperiale di
+Battagliare', nel Blocco
+B della Capitale Imperiale."<Close><End of Block>
+<TextBlock 34 w:42 h:3>
+Rue
+"Oh, ssst!
+Fate silenzio!!"<Opcode 2 30><Close><End of Block>
+<TextBlock 35 w:48 h:3>
+Rue
+"Allora,<Delay 20> spero di parlare
+di nuovo con te… presto!"<Opcode 2 50><Close><End of Block>
+<TextBlock 36 w:8 h:1>
+!?<Opcode 2 15><Close><End of Block>
+<TextBlock 37 w:58 h:2>
+Dipendente della Donna?
+"Uh, ci perdoni,
+Signora Cohen!!"<Opcode 2 50><Close><End of Block>
+<TextBlock 38 w:52 h:2>
+Dipendente
+"Sì, chiediamo troppo!"<Opcode 2 50><Close><End of Block>
+<TextBlock 39 w:48 h:2>
+Dipendente
+"Uh, scusate, Signora Cohen!!"<Opcode 2 50><Close><End of Block>
+<TextBlock 40 w:8 h:1>
+!?<Opcode 2 15><Close><End of Block>
+<TextBlock 41 w:58 h:2>
+Dipendente della Donna?
+"Uh, ci perdoni,
+Signora Cohen!!"<Opcode 2 50><Close><End of Block>
+<TextBlock 42 w:52 h:2>
+Dipendente
+"Sì, chiediamo troppo!"<Opcode 2 50><Close><End of Block>
+<TextBlock 43 w:48 h:2>
+Dipendente
+"Uh, scusate, Signora Cohen!!"<Opcode 2 50><Close><End of Block>
+<TextBlock 44 w:50 h:2>
+'Tina<Delay 5>…<Delay 5> Latina… <Delay 5>hic…<Delay 5>
+Dammi<Delay 5> ancora<Delay 5> da bere…<Close><End of Block>
+<TextBlock 45 w:60 h:4>
+Latina è splendida
+come sempre.<New>
+È la nostra Venere.
+Non lo pensi anche tu?<Delay 10>
+Ed in più, è anche una
+autentica Amazzone<Delay 5>…<New>
+Non m'importerebbe di
+essere picchiato<Delay 5>…<Delay 5>
+se a farlo fosse Latina!<Close><End of Block>
+<TextBlock 46 w:52 h:4>
+Oh,<Delay 5> ma guarda<Delay 5>…<Delay 5> chi c'è!<Delay 5>
+Ehi,<Delay 5> ma non sei il
+<Delay 5>Campione!?<New>
+C'è qualcosa che posso
+fare per te? Ti prego,<Delay 5>
+Perdona ogni mia
+passata scortesia.<New>
+Oh sì,<Delay 5> puoi scambiare
+gli oggetti dei mostri per
+premi al centro B-Info
+della Capitale Imperiale…<Delay 5> uh<Delay 5>…<New>
+Ma che sto dicendo!?<Close><End of Block>
+<TextBlock 47 w:56 h:5>
+Mi sembri uno nuovo qui,
+così voglio darti un
+buon consiglio.<New>
+Qua intorno, se non
+lavori non sopravvivi.
+In breve, 'Se non lavori,
+non mangi', hai capito!?<New>
+Là è dove i prigionieri si
+guadagnano la pagnotta<Delay 5>…<Delay 10>
+Il tuo lavoro è pulire
+le fogne.<Delay 10> E non è il
+solito lavoro<Delay 5>…<New>
+Oh già, non fraintendere.<Delay 20>
+Quando dico pulire, mica
+parlo di scopa e stracci
+per pulire i pavimenti<Delay 5>…<New>
+Nel Blocco D, 'pulire'
+significa sterminare i
+mostri che vivono giù
+nelle fogne.<New>
+Più mostri elimini nelle
+fogne, meno problemi
+avrai a campare.<Delay 15>
+Il resto spetta a te<Delay 5>…<Close><End of Block>
+<TextBlock 48 w:60 h:3>
+Ah,<Delay 5> non sono un prigioniero.<Delay 15>
+Sono uno dei tanti affaristi
+che puoi trovare ovunque.<New>
+Anche se non sei un
+prigioniero,<Delay 5> puoi sempre
+scambiare gli oggetti con
+del denaro, qui.<Close><End of Block>
+<TextBlock 49 w:62 h:5>
+Se vieni mandato qui, quasi
+sicuramente è per sempre.<Delay 15>
+…<Delay 5> Probabilmente non vedrò
+più il mio paese natio<Delay 5>…<Delay 5> sigh…<Space 1><Close><End of Block>
+<TextBlock 50 w:52 h:3>
+Non dovrei affogare la 
+mia tristezza con l'alcol<Delay 5>…<Delay 5>
+Lo so<Delay 15>…<Delay 5> ma non
+riesco a fermarmi!<Close><End of Block>
+<TextBlock 51 w:62 h:4>
+Qua intorno, ci sono più
+criminali che abitanti<Delay 5>…
+I deboli non hanno speranze
+di poter sopravvivere.<Close><End of Block>
+<TextBlock 52 w:46 h:6>
+<Delay 5>…<Delay 5> Ancora tu?<Delay 15>
+Eh? <Delay 5>…<Delay 5> Campione?
+Non mi interessano
+queste cose. Ma…
+è una buona cosa?<Close><End of Block>
+<TextBlock 53 w:58 h:4>
+La tua faccia mi è del
+tutto sconosciuta.<New>
+Del resto, non è che mi
+freghi di tutte le facce
+che vedo<Delay 5>…<Close><End of Block>
+<TextBlock 54 w:46 h:4>
+Guardia
+"Ero incaricato della
+sicurezza della zona
+civile<Delay 5>…<New>
+Ma a causa di un
+piccolo errore, mi
+hanno sbattuto nel
+Blocco D<Delay 5>…"<Close><End of Block>
+<TextBlock 55 w:28 h:4>
+Guardia
+"Forse io<Delay 5>…<Delay 15>
+non sono tagliato
+per questo lavoro?"<Close><End of Block>
+<TextBlock 56 w:42 h:4>
+Hammer è andato via.
+Senza di lui<Delay 10>…<Delay 15>
+questo bar<Delay 5> è<Delay 5> un
+posto così triste.<Close><End of Block>
+<TextBlock 57 w:50 h:3>
+Ho la vaga sensazione
+che Hammer mi stia
+fregando.<New>
+I suo oggetti sono
+davvero così a buon
+mercato<Delay 5>…?<Delay 5> Mmh…<Close><End of Block>
+<TextBlock 58 w:52 h:3>
+Fei
+"<Delay 5>…<Delay 5> La smetti di chiamarmi
+'o frate'?<Delay 20> Mi chiamo Fei!"<Close><End of Block>
+<TextBlock 59 w:50 h:4>
+'Hammer - il Rifornitore'
+"<Delay 5>…<Delay 5> Che fu, ah?
+Mica ti sto insultando.<New>
+Preferisci essere
+chiamato 'signore'
+o qualcosa del genere?"<Close><End of Block>
+<TextBlock 60 w:52 h:3>
+Fei
+"<Delay 5>…<Delay 5>
+Oh, fa' come vuoi."<Close><End of Block>
+<TextBlock 61 w:54 h:4>
+'Hammer - il Rifornitore'
+"Allora è deciso.
+Per me sarai sempre e
+solo 'o frate'!<New>
+Comunque, o frate,
+dicono che tu sia
+davvero forte.<New>
+Sai, non molti ottengono
+la Classe A.
+Sono impressionato!<New>
+<Delay 5>…<Delay 5> E poi, o frate,
+mi sembri diverso dagli
+altri prigionieri."<Close><End of Block>
+<TextBlock 62 w:40 h:4>
+Fei
+"<Delay 5>…<Delay 5> Diverso, eh?
+Non è che tu sembri
+tanto normale!"<Close><End of Block>
+<TextBlock 63 w:52 h:4>
+'Hammer - il Rifornitore'
+"Non voleva essere un
+insulto<Delay 5>…<Delay 5> solo ciò che
+penso.<Delay 15> E basta!<New>
+Oh, e se hai qualche
+problema, parla con me!<Delay 15>
+Sono anche un rifornitore,
+se capisci cosa intendo!"<Close><End of Block>
+<TextBlock 64 w:48 h:4>
+Fei
+"Così sei Hammer<Delay 5>…<New>
+Ho sentito il tuo nome
+dalla dottoressa<Delay 5>…<Delay 5>
+Ma non pensavo che
+non fossi<Delay 5>, emh,<Delay 5> umano."<Close><End of Block>
+<TextBlock 65 w:48 h:4>
+'Hammer - il Rifornitore'
+"Che crudeltà. Umani,
+uomini bestia… siamo
+tutti esseri viventi!<New>
+Anche se naturalmente
+all'esterno siamo
+differenti."<Close><End of Block>
+<TextBlock 66 w:48 h:4>
+Fei
+"Perdonami.
+Tu mi hai salvato ed
+io ti sto<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 67 w:54 h:4>
+'Hammer - il Rifornitore'
+"Oh, uh, va tutto bene.<Delay 15>
+Oh sì, ho i risultati
+del tuo Battesimo!<New>
+Grandioso!<Delay 5> Ha messo giù
+quel fottuto Vargas come
+nulla fosse. Questa è
+un'ottima notizia!<New>
+Mi fa sentire molto
+meglio!<Delay 15> Comunque è un
+tipo molto vendicativo<Delay 5>…<New>
+Fai molta attenzione!"<Close><End of Block>
+<TextBlock 68 w:54 h:4>
+'Hammer - il Rifornitore'
+"La cosa può sembrarti
+improvvisa, ma d'ora in poi
+ti chiamero 'o frate'!"<Close><End of Block>
+<TextBlock 69 w:48 h:4>
+Fei
+"Ehi!!
+Cos'è questo 'o frate'?<Delay 20>
+Mi chiamo Fei."<Close><End of Block>
+<TextBlock 70 w:50 h:4>
+'Hammer - il Rifornitore'
+"Qual è il problema?
+Non ti piace essere
+chiamato 'o frate'?"<Close><End of Block>
+<TextBlock 71 w:34 h:3>
+Fei
+"Non è che non
+mi piaccia<Delay 5>…"<Close><End of Block>
+<TextBlock 72 w:52 h:4>
+'Hammer - il Rifornitore'
+"Ok, allora è deciso!<Delay 20>
+Oh, e se hai dei
+problemi, parla con me.<New>
+Sono un rifornitore, e
+ho i contatti giusti
+ai posti giusti!<New>
+Se hai un'emergenza,
+Hammer, 'il Rifornitore',
+ti risolve il problema!"<Close><End of Block>
+<TextBlock 73 w:50 h:4>
+Fei
+"Oh, così sei Hammer<Delay 5>…<Delay 5>
+Ehi, quanto sei strano!
+Perché quel costume?"<Close><End of Block>
+<TextBlock 74 w:50 h:4>
+'Hammer - il Rifornitore'
+"Costume<Delay 5>…?<Delay 20> O frate,
+non sono umano! Sei
+scortese, lo sai?"<Close><End of Block>
+<TextBlock 75 w:52 h:4>
+Fei
+"Huh? Oh, Scusami.
+<Delay 5>…<Delay 5> Un uomo bestia?
+Allora non sei umano?"<Close><End of Block>
+<TextBlock 76 w:54 h:4>
+'Hammer - il Rifornitore'
+"Comunque, circa il
+tuo Battesimo…<New>
+Non devi essere deluso di
+come sono andate le cose.
+Ho sentito che eri ferito
+quendo sei arrivato…<New>
+Questo significa che devi
+ancora esprimere il tuo
+vero potenziale!"<Close><End of Block>
+<TextBlock 77 w:32 h:4>
+Fei
+"<Delay 5>…<Delay 5> Chi lo sa?
+Non è così facile
+come pensi<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 78 w:54 h:4>
+'Hammer - il Rifornitore'
+"Mi sembri un po' giù,
+o frate. E facendo così
+le cose non migliorano!"<Close><End of Block>
+<TextBlock 79 w:44 h:4>
+Fei
+"<Delay 5>…<Delay 5> Non te l'ho detto?
+Il mio nome è Fei.<Delay 15>
+Non chiamarmi 'o frate'!"<Close><End of Block>
+<TextBlock 80 w:48 h:4>
+'Hammer - il Rifornitore'
+"Stai calmo, o frate.
+Hammer sta solo cercando
+di aiutarti, sai."<Close><End of Block>
+<TextBlock 81 w:48 h:4>
+Fei
+"<Delay 5>…<Delay 5> Scusami,
+ma ultimamente non me
+ne va bene una."<Close><End of Block>
+<TextBlock 82 w:50 h:3>
+'Hammer - il Rifornitore'
+"<Delay 5>…<Delay 5> Mmh, non<Delay 5>…<Delay 5> vuoi<Space 1>
+che ti chiami<Delay 5>…<Delay 5> 'o frate'?"<Close><End of Block>
+<TextBlock 83 w:44 h:4>
+Fei
+"Oh<Delay 5>…<Delay 5> perché no…<Delay 5>
+Chiamami come vuoi,
+<Delay 5>…<Delay 5> Non mi arrabbierò."<Close><End of Block>
+<TextBlock 84 w:52 h:4>
+'Hammer - il Rifornitore'
+"<Delay 5>…<Delay 5> Perfetto!<Delay 15>
+O frate, se hai qualche
+problema, parlane con me!<New>
+Prometto che farò tutto
+il possibile, o non mi
+chiamerò più 'Hammer -
+il Rifornitore'.<New>
+E ricorda bene che sono
+un rifornitore e ho i
+contatti giusti nei
+posti giusti!"<Close><End of Block>
+<TextBlock 85 w:46 h:4>
+Fei
+"<Delay 5>…<Delay 5> Rifornitore?<Delay 15> Se sei
+qui, anche tu sei un
+prigioniero?"<Close><End of Block>
+<TextBlock 86 w:54 h:4>
+'Hammer - il Rifornitore'
+"Beh, ho fatto un errore e
+mi hanno arrestato!<Delay 5> …<Delay 20>
+Comunque, le tue ferite?"<Close><End of Block>
+<TextBlock 87 w:52 h:3>
+Fei
+"Eh?
+Oh, a posto grazie a te…<New>
+Oh già, non ti ho ancora
+ringraziato… Scusa il
+fastidio che ti ho dato<Delay 5>…"<Close><End of Block>
+<TextBlock 88 w:52 h:4>
+'Hammer - il Rifornitore'
+"Ma non scherziamo…!
+Perché tu lo sappia,
+anch'io sono Classe D!<New>
+E poi, come potrebbe un
+rifornitore come me
+battere quei Combattenti?<New>
+Così vanno le
+cose, o frate!"<Close><End of Block>
+<TextBlock 89 w:52 h:4>
+Fei
+"Ma che è 'sto 'o frate'?<Delay 15>
+Mi chiamo Fei. La smetti
+di chimarmi 'o frate'<Delay 5>…?"<Close><End of Block>
+<TextBlock 90 w:52 h:4>
+'Hammer - il Rifornitore'
+"Dai! Siamo entrambi di
+Classe D. E siamo amici.
+Ti preeegooo!"<Close><End of Block>
+<TextBlock 91 w:34 h:3>
+Fei
+"<Delay 5>…<Delay 5>
+Oh, fa' come ti pare!"<Close><End of Block>
+<TextBlock 92 w:52 h:4>
+'Hammer - il Rifornitore'
+"Ehi, o frate!<Delay 20> Se hai
+qualche problema, vieni
+a parlare con me!<New>
+Conosco ogni cosa del
+Blocco D! E sono anche
+un rifornitore, se hai
+capito cosa intendo!"<Close><End of Block>
+<TextBlock 93 w:52 h:4>
+Fei
+"<Delay 5>…<Delay 5> Comitato Imperiale
+di Battagliare?<Delay 15>
+Cosa volete da me?"<Close><End of Block>
+<TextBlock 94 w:56 h:4>
+Rue
+"<Delay 5>…<Delay 5> Arrivo al punto.
+Vogliamo che tu partecipi
+al Torneo di Battagliare."<Close><End of Block>
+<TextBlock 95 w:28 h:2>
+Fei
+"<Delay 5>…<Delay 5> Battagliare?"<Close><End of Block>
+<TextBlock 96 w:56 h:6>
+Rue
+"Qui è lo sport nazionale,
+dove Gear affrontano altri
+Gear o anche mostri.
+Questo a seconda di ciò
+che il programma prevede.<New>
+Al momento non ci sono
+regole per competere.<Delay 10>
+E noi, il comitato,
+raramente interpelliamo
+direttamente i partecipanti.<Delay 10>
+Dovresti esserne onorato.<New>
+Fortunatamente il tuo
+incidente con il Campione
+ha attirato la nostra
+attenzione.<New>
+<Delay 5>…<Delay 5> Che ne dici?<Delay 25>
+Meglio Combattente
+che prigioniero<Delay 5>…<Delay 10>
+Non è un cattivo affare
+dopotutto."<Close><End of Block>
+<TextBlock 97 w:54 h:4>
+Fei
+"<Delay 5>…<Delay 5> Spiacente, ma non mi
+piacciono i Gear.<New>
+Non mi interessano questi
+tipi di sport.<New>
+E poi, non ho neanche un
+Gear, così anche se
+volessi partecipare, non
+potrei. Chiedete troppo!"<Close><End of Block>
+<TextBlock 98 w:44 h:4>
+Rue
+"Mmh,<Delay 10> perdonami<Delay 5>…<Delay 5>
+Non devi preoccuparti
+dell'ultimo problema.<New>
+Il Gear ti verrà
+fornito dal comitato.<New>
+<Delay 5>…<Delay 5> Allora, vuoi
+partecipare?"<Close><End of Block>
+<TextBlock 99 w:42 h:3>
+Fei
+"Non fatemi ripetere.<New>
+Odio i Gear e non mi
+interessa questo
+genere di cose!"<Close><End of Block>
+<TextBlock 100 w:60 h:5>
+Rue
+"Se non vuoi cambiare
+idea, allora<Delay 5>…<Delay 15>
+Già, tu sei nuovo qui.
+Ti darò ancora tempo.<New>
+Forse siamo stati troppo
+precipitosi<Delay 5>…<Delay 20> Ma pensa
+seriamente alla nostra
+offerta. Resterò in
+attesa di una tua
+risposta positiva."<Close><End of Block>
+<TextBlock 101 w:28 h:2>
+Fei
+"Ha… Hammer!?"<Close><End of Block>
+<TextBlock 102 w:42 h:3>
+Hammer
+"O frate, ma
+cosa mi combini?"<Close><End of Block>
+<TextBlock 103 w:30 h:4>
+Fei
+"Scusa, Hammer.
+Ma di che cosa
+stai parlando?"<Close><End of Block>
+<TextBlock 104 w:52 h:4>
+Hammer
+"Non riesco a credere a
+ciò che dicisti! Perché
+rifiutasti l'invito?<New>
+È una cosa molto rara
+essere contattati dal
+comitato personalmente!<New>
+Sei ancora in tempo!
+Fallo, o frate! Sai che
+puoi farcela, <Delay 10>no?<Delay 15> Sarai un
+Combattente…<Delay 5> Ci pensi?"<Close><End of Block>
+<TextBlock 105 w:48 h:4>
+Fei
+"Oh, quello<Delay 5>…<Delay 15>
+Se hai sentito,
+dovresti già saperlo.<New>
+Non mi piace combattere.
+E i Gear, poi<Delay 5>…!<Delay 20>
+Non ho una sola ragione
+per volerlo fare."<Close><End of Block>
+<TextBlock 106 w:50 h:4>
+Hammer
+"Se sarai un Combattente,
+lascerai la prigione e
+vivrai nel lusso!<New>
+Qui la forza è tutto!
+I deboli<Delay 5>…<Delay 5> non sono
+altro che spazzatura!!<Delay 20>
+Dai,<Delay 5> provaci!"<Close><End of Block>
+<TextBlock 107 w:32 h:2>
+Fei
+"<Delay 5>…<Delay 5><New>
+<Delay 5>…<Delay 5> Hai finito?"<Close><End of Block>
+<TextBlock 108 w:36 h:3>
+Hammer
+"Uh? 
+Che vuoi dire?"<Close><End of Block>
+<TextBlock 109 w:36 h:2>
+Fei
+"<Delay 5>…<Delay 5> Te ne andresti?"<Close><End of Block>
+<TextBlock 110 w:20 h:2>
+Hammer
+"<Delay 5>…<Delay 5> Andarmene?"<Close><End of Block>
+<TextBlock 111 w:52 h:4>
+Fei
+"Se hai finito<Delay 5>…<Delay 15>
+Potresti toglierti
+dai piedi?<New>
+Hammer, scusa, ma credo 
+che non cambierò idea<Delay 5>…<Delay 30>
+Odio sia combattere,
+che i Gear!"<Close><Close><End of Block>

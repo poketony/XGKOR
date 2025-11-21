@@ -1,0 +1,35 @@
+#### 1 ####
+When the war is over,
+he'll come back{wait:05}...{wait:05} He
+didn't leave because he
+couldn't bear the war.{wait:0F}{enter}
+I know{wait:05}...{wait:05}he'll be back.
+
+#### 2 ####
+The war will end, grandma.
+It's almost over{wait:05}...{wait:05} So
+don't say 'before I die'.'
+
+#### 3 ####
+My daughter was engaged to
+a man, but he left the
+Empire because he couldn't
+stand this long war.
+
+#### 4 ####
+This war will never end.{wait:05}
+...{wait:05} Before I die, I
+want to see the face of my
+grandchild.
+
+#### 5 ####
+'W-a-r'. I'm not really
+sure what it means, but I
+think it's just beating the
+enemy, right?
+
+#### 6 ####
+A portrait{wait:05}бн{wait:05}бн
+...? I've seen that face
+before.
+

@@ -1,0 +1,2 @@
+<TextBlock 1 w:32 h:1>
+"Un<Delay 5>…<Delay 5>… <Delay 5>ritratto?"<Close><End of Block>

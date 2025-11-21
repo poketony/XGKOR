@@ -1,0 +1,42 @@
+<TextBlock 1 w:52 h:4>
+Maison
+"Sia Aveh che Kislev si
+dedicano a portare alla
+luce le rovine.<New>
+La forza di ognuno di
+questi due paesi aumenta
+di giorno in giorno.<New>
+Anche se ottenessimo
+l'aiuto di tutti i nostri
+compagni per far iniziare
+una rivoluzione…<New>
+… la forza congiunta di
+noi tutti non sarebbe
+comunque sufficiente.<New>
+Saremmo sicuramente
+eliminati dalle guardie
+di Shakhan in un batter
+d'occhio."<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+Abbiamo bisogno di potere.<New>
+Abbiamo provato a scavare
+nelle rovine usando
+l'Yggdrasil…<New>
+… ma non ha funzionato
+bene come ci aspettavamo.<Close><End of Block>
+<TextBlock 3 w:48 h:3>
+Scavare richiede un
+tremendo ammontare di
+tempo, di lavoro e di
+capitale.<New>
+Il massimo che possiamo
+fare con il nostro
+incrociatore del deserto
+è…<New>
+… trovare piccoli oggetti
+nella sabbia.<Close><End of Block>
+<TextBlock 4 w:38 h:2>
+Shitan
+"E la pirateria…"<Close><End of Block>
+<TextBlock 5 w:0 h:1>
+<Close><End of Block>

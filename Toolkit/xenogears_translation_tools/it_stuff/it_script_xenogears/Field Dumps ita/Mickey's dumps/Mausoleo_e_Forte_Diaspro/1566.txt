@@ -1,0 +1,97 @@
+<TextBlock 1 w:28 h:3>
+Fei
+"<Delay 30>È terribilmente
+buio qui."<Close><End of Block>
+<TextBlock 2 w:54 h:2>
+Fei
+"C'è un tale<Delay 30>…
+odore di muffa…"<Close><End of Block>
+<TextBlock 3 w:30 h:2>
+Elly
+"<Delay 30>È buio."<Close><End of Block>
+<TextBlock 4 w:22 h:3>
+Elly
+"<Delay 30>C'è puzza<Delay 30>
+di muffa."<Close><End of Block>
+<TextBlock 5 w:34 h:3>
+Shitan
+"<Delay 30>Credo proprio che
+non ci sia luce."<Close><End of Block>
+<TextBlock 6 w:46 h:4>
+Shitan
+"Mmh, non c'è
+ventilazione.<New>
+Questo spiega l'odore
+di muffa."<Close><End of Block>
+<TextBlock 7 w:36 h:2>
+Billy
+"<Delay 30>Certo che è buio!"<Close><End of Block>
+<TextBlock 8 w:54 h:3>
+Billy
+"<Delay 30>Forse per questo<Delay 30>
+c'è questo odore
+di muffa."<Close><End of Block>
+<TextBlock 9 w:20 h:2>
+Rico
+"<Delay 30>È buio."<Close><End of Block>
+<TextBlock 10 w:44 h:2>
+Rico
+"<Delay 30>E puzza di muffa."<Close><End of Block>
+<TextBlock 11 w:30 h:2>
+Maria
+"<Delay 30>È buio."<Close><End of Block>
+<TextBlock 12 w:42 h:4>
+Maria
+"La sento solo io,<Delay 30>
+o qui c'è puzza
+di muffa?"<Close><End of Block>
+<TextBlock 13 w:44 h:2>
+<Chu-Chu>
+"<Delay 30>Che oscurità!"<Close><End of Block>
+<TextBlock 14 w:28 h:3>
+<Chu-Chu>
+"<Delay 30>Peewww!<Delay 30>
+Che puzza, chu!"<Close><End of Block>
+<TextBlock 15 w:34 h:3>
+Esmeralda
+"<Delay 30>Oscurità.<Delay 30>
+Come essere morti."<Close><End of Block>
+<TextBlock 16 w:34 h:2>
+Esmeralda
+"<Delay 30>Uno strano odore."<Close><End of Block>
+<TextBlock 17 w:56 h:3>
+ Sistema di bloccaggio della
+ energia attivo. L'ascensore
+ Num. 1 non è operativo.    <Close><End of Block>
+<TextBlock 18 w:47 h:2>
+   1° Ascensore blocco
+ (<Down> Potenza Direzionale) <Space 1><Close><End of Block>
+<TextBlock 19 w:47 h:2>
+   2° Ascensore blocco
+ (<Up> Energia Direzionale) <Space 1><Close><End of Block>
+<TextBlock 20 w:46 h:4>
+Bart
+"Oh, avranno tolto
+l'energia perché qui
+non c'è nessuno."<Close><End of Block>
+<TextBlock 21 w:50 h:4>
+Margie
+"Usiamo quest'area
+sotterranea come
+un mausoleo.<New>
+C'è sempre un livello
+minimo di energia
+disponibile.<New>
+Ma neanche le sorelle
+possono entrarci."<Close><End of Block>
+<TextBlock 22 w:40 h:4>
+Bart
+"È ovvio.<Delay 30> Praticamente
+là non c'è mai stato
+nessuno."<Close><End of Block>
+<TextBlock 23 w:46 h:3>
+Bart
+"Muoviamoci!<New>
+Dobbiamo prendere il
+tesoro prima che
+Shakhan arrivi."<Close><Close><End of Block>

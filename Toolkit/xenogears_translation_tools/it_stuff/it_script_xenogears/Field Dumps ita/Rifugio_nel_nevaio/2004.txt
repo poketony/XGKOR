@@ -1,0 +1,12 @@
+<TextBlock 1 w:44 h:2>
+Fei
+"Potrebbe… aprirsi…"<Space 1><Close><End of Block>
+<TextBlock 2 w:58 h:6>
+'Specchio della Verità'<Space 2>
+Cosa desideri vedere?
+    Riflesso di <Perso1>
+    Riflesso di <Perso2>
+    Riflesso di <Perso3>
+    Nulla<Close><End of Block>
+<TextBlock 3 w:26 h:1>
+Non c'è nessuno lì.<Close><End of Block>

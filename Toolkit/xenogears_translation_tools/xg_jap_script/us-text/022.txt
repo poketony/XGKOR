@@ -1,0 +1,365 @@
+#### 1 ####
+{fast:FF}Fei
+"Them!{wait:3C}
+Them!!{wait:3C}
+Them!!!"{clear:3C}
+
+#### 2 ####
+Fei?
+
+#### 3 ####
+Elly
+"...Are you awake?"
+
+#### 4 ####
+Elly
+"Yesterday you said your
+life was worthless. What
+did you mean by that?"
+
+#### 5 ####
+Fei
+"Why are you asking?"
+
+#### 6 ####
+Elly
+"Why? Yesterday you looked
+like you had a death wish.{enter}
+You think it wouldn't make
+me wonder...?{wait:14} Say, how did
+you get stranded in this
+forest in the first place?"
+
+#### 7 ####
+Fei
+"I should ask you
+the same question."
+
+#### 8 ####
+Elly
+"Huh? Well,
+I, errh..."
+
+#### 9 ####
+Fei
+"I...{wait:1E}ran away...{wait:1E}
+from my village...{wait:1E}
+or what's left of it..."
+
+#### 10 ####
+Elly
+"Village...?
+You don't mean...!?"
+
+#### 11 ####
+Fei
+"Lahan...{enter}
+It was a small village that
+existed between this forest
+and the mountain range.
+I ran away from there."
+
+#### 12 ####
+Elly
+"That village...?"
+
+#### 13 ####
+Fei
+"It was a nice, peaceful
+village. Everyone there
+treated me like family.{enter}
+Then, last night, a group
+of Gears suddenly appeared
+and started fighting right
+in the middle of the place.{enter}
+The village was engulfed in
+flames... I couldn't just
+stand there and watch
+Lahan be destroyed...{enter}
+So to try and save the
+villagers, I got in an
+empty Gear...without even
+knowing how to operate it.{enter}
+I just thought maybe I
+could do it...no...it
+was more like someone
+whispering to me...{enter}
+Someone whispering to me...
+telling me to do it...
+But it was a disaster!
+The village..."
+
+#### 14 ####
+Elly
+"Was it destroyed by
+the Kislev army?"
+
+#### 15 ####
+Elly
+"Fei...?"
+
+#### 16 ####
+Fei
+"No... The village was
+destroyed...{wait:32}by me..."
+
+#### 17 ####
+!?{clear:1E}
+
+#### 18 ####
+Fei
+"Yes. It was me.
+I destroyed Lahan.
+I'm sure of it..."
+
+#### 19 ####
+Elly
+"What do you mean
+you destroyed it?{enter}
+I thought you were
+trying to help save
+the villagers?"
+
+#### 20 ####
+Fei
+"I did try to help.
+I actually took out
+a few Gears.{enter}
+But then I came under
+heavy fire from a new
+group of Gears...{enter}
+And then my friend...{wait:0A}
+Timothy...{wait:0A}was hit by
+a hail of bullets...{enter}
+Then I lost it...{wait:0A}
+Everything just went
+dark..."
+
+#### 21 ####
+Fei
+"I don't remember anything
+after that.{enter}
+The Gear I was in went out
+of control...
+Well, that's what doc said.{enter}
+When I came to...
+the village...
+and everyone in it...
+was...{enter}
+Alice... She was such a...
+Alice and Timothy...
+Oh god...! Everybody...
+All such good people..."
+
+#### 22 ####
+Elly
+"Went out of control...?
+The Gear...?
+What about the village?"
+
+#### 23 ####
+Elly
+"Fei?"
+
+#### 24 ####
+Fei
+"...Yes, the Gear!{enter}
+If only those Gears
+had never landed in
+the village...!"
+
+#### 25 ####
+Fei
+"If they had never come
+to the village, never
+started fighting there...{enter}
+Then I wouldn't have
+tried to pilot that Gear.
+It's all their fault...
+Not mine!{enter}
+They're the ones to blame.
+If they'd never come...
+none of this would have...
+...if not for them!"
+
+#### 26 ####
+Elly
+"Enough of that!"
+
+#### 27 ####
+!?
+
+#### 28 ####
+Elly
+"You're a coward!"
+
+#### 29 ####
+Fei
+"A coward?
+...Me?"
+
+#### 30 ####
+Elly
+"Yes, you're a coward.
+All you're saying is
+'them, them, them'.{enter}
+Don't talk as if you
+had no part of the
+blame, as well!"
+
+#### 31 ####
+Fei
+"I'm to blame...?"
+
+#### 32 ####
+Elly
+"Yes, that's right!{enter}
+Of course the direct cause
+of the battle was that a
+Gear made an emergency
+landing in your village.{enter}
+But all Kislev wanted was
+the Gear, right?
+They weren't invading or
+out to destroy Lahan.{enter}
+The real damage occured
+because you climbed in a
+Gear and tried to fight
+back!"
+
+#### 33 ####
+Fei
+"..."
+
+#### 34 ####
+Elly
+"What ever made you get
+into that Gear?{enter}
+Not just anyone can pilot
+them! It takes training!
+There is no way a civilian
+could hope to pilot one!{enter}
+Besides...you should have
+been helping the villagers
+flee to safety instead!{enter}
+How can you blame the
+damage on a Gear when it
+was your decision to fight
+in it in the first place?{enter}
+Why don't you take some of
+the responsiblity yourself?
+Why are you putting all the
+blame on others?{enter}
+That's just running away!
+That's what makes you a
+coward!"
+
+#### 35 ####
+Fei
+"Well, if you put it that
+way... Yes...that's right,
+I am a coward!{enter}
+I didn't realize my own
+strength and have been
+blaming what happened as a
+result of that on others.{enter}
+I'm a pitiful excuse for a
+man.
+But...{enter}
+I just felt this rush of
+blood in me and I couldn't
+help myself! Couldn't help
+myself...or help others."
+
+#### 36 ####
+Elly
+"Fei, I, I'm..."
+
+#### 37 ####
+Fei
+"Shut up!!
+What do you know!?{enter}
+When I came to I was
+surrounded by piles
+of rubble...{enter}
+I didn't know what had
+happened or what I had
+done. I remembered
+absolutely nothing.{enter}
+All I knew was that my
+hands could still feel
+what they had done.{enter}
+The only things that
+penetrated the Gear's
+barrier were screams...{enter}
+Screams accompanied by
+the stench of blood, the
+sound of crushing bones,
+and my own curses.
+
+#### 38 ####
+Look! Look at my hands!
+Can you hear their voices?
+Can you understand this
+feeling?{enter}
+The feeling of having
+destroyed your village
+with your own hands...?{enter}
+Of not being able to do
+anything for the children
+left behind...?{enter}
+Now they have nothing...
+I have nothing...
+I have nowhere...
+no one..."
+
+#### 39 ####
+Fei
+"I didn't want to get in
+it... I had no choice...
+There was no other way..."
+
+#### 40 ####
+Fei
+"Oh no!"
+
+#### 41 ####
+Elly
+"Fei..."
+
+#### 42 ####
+!
+
+#### 43 ####
+¡û Path up.
+Watch the cliffs!
+
+#### 44 ####
+¡û Lahan village
+             Aveh ¡ú
+Beware of landslides!
+
+#### 45 ####
+You have too many
+{str}.
+
+#### 46 ####
+ 
+ Received {str}.
+
+#### 47 ####
+You have too many
+{str}.
+
+#### 48 ####
+ 
+ Received {str}.
+
+#### 49 ####
+You have too many
+{str}.
+
+#### 50 ####
+ 
+ Received {str}.
+

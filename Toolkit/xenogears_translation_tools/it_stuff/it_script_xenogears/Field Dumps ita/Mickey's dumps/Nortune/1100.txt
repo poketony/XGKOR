@@ -1,0 +1,156 @@
+<TextBlock 1 w:42 h:3>
+Shitan
+"Presto, tutti
+per di là!!"<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+Hammer
+"Dottore, là c'è gente
+che non può uscire!
+Siamo condannati!"<Close><End of Block>
+<TextBlock 3 w:52 h:5>
+Shitan
+"Non arrenderti, Hammer!
+Anche Fei sta lottando!<New>
+Fei<Delay 10>…<Delay 10> non vuole più
+vedere persone innocenti
+perdere le loro case, la
+loro città…<New>
+… le loro cose
+più importanti…"<Close><End of Block>
+<TextBlock 4 w:18 h:3>
+Rico
+"La mia<Delay 10>…<Delay 10>
+<Delay 10>…<Delay 10> città?"<Close><End of Block>
+<TextBlock 5 w:54 h:4>
+Rico
+"Ma non farmi ridere!
+Chi se ne fotte di
+questa città di merda…"<Close><End of Block>
+<TextBlock 6 w:46 h:2>
+Anche tu devi avere
+delle cose da fare
+a questo mondo!<Close><End of Block>
+<TextBlock 7 w:22 h:3>
+Rico
+"…<Delay 15> Anch'io…<Delay 10>
+faccio schifo."<Close><End of Block>
+<TextBlock 8 w:22 h:2>
+Fei
+"Andiamo!"<Close><End of Block>
+<TextBlock 9 w:14 h:3>
+Elly
+"Ouch! 
+Cosa?"<Close><End of Block>
+<TextBlock 10 w:24 h:2>
+Fei
+"Vieni!"<Close><End of Block>
+<TextBlock 11 w:50 h:4>
+Fei
+"Guarda questa città!
+Guardala bene! Questo
+è ciò che hai fatto…?<New>
+Può la parola 'dovere'
+giustificare tutto
+questo? Rispondimi!?"<Close><End of Block>
+<TextBlock 12 w:14 h:2>
+Fei
+"Elly!"<Close><End of Block>
+<TextBlock 13 w:40 h:3>
+Elly
+"Ma è tutto quello
+che mi è rimasto!"<Close><End of Block>
+<TextBlock 14 w:40 h:3>
+Fei
+"Continui a dire
+le stesse cose?"<Close><End of Block>
+<TextBlock 15 w:52 h:3>
+Fei
+"…<Delay 15>…<Delay 15>
+Questa non sei tu.<New>
+Se non vuoi allora non 
+farlo.<New>
+Non sei costretta per 
+il solo fatto che così
+puoi avere qualcosa in
+cui credere…"<Close><End of Block>
+<TextBlock 16 w:10 h:2>
+Elly
+"…"<Close><End of Block>
+<TextBlock 17 w:50 h:4>
+Fei
+"Per quale motivo mi
+sto battendo con te?
+…<Delay 10>…<Delay 10> Vorresti saperlo?<New>
+Davvero non lo so. So
+solo che stavo aiutando
+Bart e gli altri.<New>
+Ma ancora non so che
+cosa farò. Forse sto
+solo cercando un luogo
+adatto a me.<New>
+Ma credo che sia
+molto meglio battersi
+che non fare nulla.<New>
+E se lottando aiuti te
+stesso o i tuoi amici,
+allora è utile.<New>
+Forse<Delay 10>…<Delay 10>…<Delay 10>
+sarà poco…<Delay 10>
+…<Delay 10>…<Delay 10> ma è qualcosa."<Close><End of Block>
+<TextBlock 18 w:12 h:2>
+Elly
+"Fei!"<Close><End of Block>
+<TextBlock 19 w:24 h:2>
+Fei
+"Io vado."<Close><End of Block>
+<TextBlock 20 w:52 h:4>
+Elly
+"No! Non puoi! 
+Dominia non è come
+gli altri soldati!<New>
+Lei è fra i migliori
+dell'élite di Geburah.<New>
+È una degli Elementi,
+le guardie personali
+di Ramsus! Non hai
+speranze contro di lei!"<Close><End of Block>
+<TextBlock 21 w:36 h:3>
+Fei
+"Devo comunque
+fermare tutto
+questo."<Close><End of Block>
+<TextBlock 22 w:16 h:2>
+Elly
+"Fei…"<Close><End of Block>
+<TextBlock 23 w:48 h:4>
+Fei
+"Shitan e Hammer
+non hanno nulla a
+che fare con Kislev…<New>
+Stanno solo tentando
+disperatemente di
+mettere i civili in
+salvo.<New>
+Anche Rico, che odia
+questa città, è ancora
+con me. Ecco perché
+devo andare."<Close><End of Block>
+<TextBlock 24 w:16 h:2>
+Elly
+"Fei…"<Close><End of Block>
+<TextBlock 25 w:30 h:3>
+Vuoi salvare?<Delay 30>
+    Salva
+    Non salvare<Close><End of Block>
+<TextBlock 26 w:22 h:3>
+Riprendi?<Delay 30>
+    Aspetta
+    Riprendi<Delay 15><Close><End of Block>
+<TextBlock 27 w:38 h:3>
+    Vai al menu?
+    Cambia membri
+    Riprendi<Delay 15><Close><End of Block>
+<TextBlock 28 w:22 h:3>
+Riprendi?<Delay 30>
+    Aspetta
+    Riprendi<Delay 15><Close><Close><End of Block>

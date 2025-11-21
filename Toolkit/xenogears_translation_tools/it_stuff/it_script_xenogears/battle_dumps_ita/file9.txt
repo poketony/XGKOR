@@ -1,0 +1,35 @@
+<TextBlock 1 w:15 h:1>
+"Fe~i!"<Close><End of Block>
+<TextBlock 2 w:48 h:4>
+Shitan
+"Fei! Ti stavo
+cercando! Ecco, puoi
+utilizzare questo!"<Close><End of Block>
+<TextBlock 3 w:38 h:4>
+Shitan
+"Fei…
+Preghiamo che ciò
+non accada!"<Close><End of Block>
+<TextBlock 4 w:38 h:3>
+Fei
+"Elly! Stai bene!?
+Merda! È svenuta!"<Close><End of Block>
+<TextBlock 5 w:46 h:4>
+Fei
+"Ehi! Fermo un attimo!
+Dirmi che posso usarlo
+è una cosa…"<Close><End of Block>
+<TextBlock 6 w:18 h:3>
+Fei
+"Elly…<Delay 15>
+Merda!"<Close><End of Block>
+<TextBlock 7 w:44 h:4>
+Fei
+"Doc! Ho un favore
+da chiederti!<New>
+Sconfiggerò questo
+mostro!<New>
+Ma, se sembra che io
+stia per impazzire 
+come la scorsa volta,
+allora sparami!"<Close><Close><Close><Close><Close><...><Close><End of Block>

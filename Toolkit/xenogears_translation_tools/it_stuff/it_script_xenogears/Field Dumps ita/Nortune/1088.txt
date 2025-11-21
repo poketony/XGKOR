@@ -1,0 +1,204 @@
+<TextBlock 1 w:24 h:2>
+Fei
+"Un campanellino…?"<Close><End of Block>
+<TextBlock 2 w:48 h:2>
+Fei
+"Ne sai qualcosa?"<Close><End of Block>
+<TextBlock 3 w:26 h:2>
+Fei
+"Anche qui…"<Close><End of Block>
+<TextBlock 4 w:46 h:3>
+Fei
+"Credo di sentire
+dell'odore di bruciato…<New>
+Ho già sentito un
+odore simile."<Close><End of Block>
+<TextBlock 5 w:28 h:2>
+Fei
+"Che cos'è?"<Close><End of Block>
+<TextBlock 6 w:10 h:2>
+Fei
+"…"<Close><End of Block>
+<TextBlock 7 w:14 h:2>
+Fei
+"…!?"<Close><End of Block>
+<TextBlock 8 w:30 h:3>
+Fei
+"Non sembra rotto…"<Close><End of Block>
+<TextBlock 9 w:34 h:4>
+Fei
+"Ah!
+C'è qualcosa dentro.<New>
+…!?<Delay 30>
+Preso!"<Close><End of Block>
+<TextBlock 10 w:50 h:3>
+Fei
+"Ah!
+C'è qualcosa dentro.<New>
+!?<Delay 30>
+Che cos'è?"<Close><End of Block>
+<TextBlock 11 w:34 h:3>
+Fei
+"Con queste possiamo
+aprire la porta?"<Close><End of Block>
+<TextBlock 12 w:40 h:3>
+Fei
+"Mi chiedo a cosa
+servano queste chiavi…?"<Close><End of Block>
+<TextBlock 13 w:38 h:2>
+Fei
+"Andiamo a vedere."<Close><End of Block>
+<TextBlock 14 w:32 h:3>
+Fei
+"È coperto dalla bava."<Close><End of Block>
+<TextBlock 15 w:20 h:2>
+Fei
+"Qui…?"<Close><End of Block>
+<TextBlock 16 w:14 h:2>
+Shitan
+"…!?"<Opcode 2 60><Close><End of Block>
+<TextBlock 17 w:38 h:4>
+Shitan
+"Il suono di un
+campanellino<Delay 40>…<New>
+Ho sentito qualcosa che
+sembra il suono emesso
+da un campanellino!"<Close><End of Block>
+<TextBlock 18 w:28 h:3>
+Shitan
+"Odore di bruciato…?<Delay 30>
+Mmh, capisco…"<Close><End of Block>
+<TextBlock 19 w:44 h:4>
+Shitan
+"Sembra che questa bava
+sia stata lasciata qui
+dal mostro."<Close><End of Block>
+<TextBlock 20 w:30 h:2>
+Shitan
+"Che cos'è?"<Opcode 2 80><Close><End of Block>
+<TextBlock 21 w:52 h:3>
+Shitan
+"…<Delay 30> Abbiamo tolto
+le chiavi, perché
+non si muove?"<Close><End of Block>
+<TextBlock 22 w:50 h:2>
+Shitan
+"L'impianto delle
+acque di scolo?"<Close><End of Block>
+<TextBlock 23 w:38 h:2>
+Shitan
+"Che stranezza…<New>
+Dove si trova?"<Close><End of Block>
+<TextBlock 24 w:42 h:3>
+Shitan
+"No. Non dev'essere
+una di quelle che
+ha già usato."<Close><End of Block>
+<TextBlock 25 w:50 h:3>
+Rico
+"Cosa c'è, Shitan…?<Delay 30>
+C'è qualcosa qui?"<Close><End of Block>
+<TextBlock 26 w:22 h:3>
+Rico
+"Un campanellino!<Delay 30> 
+Un campanellino…?"<Close><End of Block>
+<TextBlock 27 w:44 h:3>
+Rico
+"Ora che me lo fai
+notare…<New>
+Si dice che quaggiù ci
+sia uno strano suono…
+… il suono di
+un campanellino…"<Close><End of Block>
+<TextBlock 28 w:44 h:3>
+Rico
+"Ugh! …<Delay 40> C'è ancora
+quell'odore.<New>
+Sembra che qualcosa
+stia bruciando…"<Close><End of Block>
+<TextBlock 29 w:40 h:2>
+Rico
+"Ehi, guardate qui."<Close><End of Block>
+<TextBlock 30 w:34 h:3>
+Rico
+"Questa è
+una macchina
+spazza-ratti."<Close><End of Block>
+<TextBlock 31 w:48 h:3>
+Rico
+"Le chiamiamo gli
+'Sgombra Ratti
+senza Gatti'!"<Close><End of Block>
+<TextBlock 32 w:42 h:4>
+Rico
+"No…<Delay 60>
+Non è rotta…<Delay 60>
+Perché non si muove?"<Close><End of Block>
+<TextBlock 33 w:30 h:2>
+Rico
+"Fatemi vedere un po'."<Close><End of Block>
+<TextBlock 34 w:50 h:4>
+Rico
+"!!<Delay 20>… Queste erano le chiavi
+di Vargas, quelle da
+usare qui nelle fogne.<New>
+Devono essere state
+prese da 'sto coso.<Delay 20> 
+È per questo che
+non si muoveva?"<Close><End of Block>
+<TextBlock 35 w:52 h:3>
+Rico
+"Queste sono le chiavi
+per andare all'impianto
+di depurazione."<Close><End of Block>
+<TextBlock 36 w:44 h:3>
+Rico
+"È lì che finiscono
+tutte le acque
+di scarico."<Close><End of Block>
+<TextBlock 37 w:50 h:4>
+Rico
+"Partendo da qui, si trova
+a nordest, dietro la
+porta e vicino alla…<New>
+… cascata più lontana."<Close><End of Block>
+<TextBlock 38 w:54 h:2>
+Rico
+"Sì, dovrebbe
+essere lì."<Close><End of Block>
+<TextBlock 39 w:30 h:2>
+Rico
+"E muoviti, cazzo!"<Close><End of Block>
+<TextBlock 40 w:38 h:3>
+Rico
+"La bava scorre anche
+da quel canale di
+scolo."<Close><End of Block>
+<TextBlock 41 w:54 h:3>
+<Opcode 1 255>                           
+      "VIETATO ENTRARE!"        
+                           <Close><End of Block>
+<TextBlock 42 w:28 h:3>
+<Opcode 1 255>Ricevi le Chiavi.<Close><End of Block>
+<TextBlock 43 w:4 h:1>
+-3<Opcode 2 20><Close><End of Block>
+<TextBlock 44 w:4 h:1>
+-5<Opcode 2 20><Close><End of Block>
+<TextBlock 45 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 46 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 47 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 48 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 49 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 50 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><Close><End of Block>

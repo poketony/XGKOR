@@ -1,0 +1,336 @@
+#### 1 ####
+Elly
+"Where am I...?"
+
+#### 2 ####
+Elly
+"K, Krelian...Commander?"
+
+#### 3 ####
+Elly
+"Please, stop!"
+
+#### 4 ####
+Elly
+"...?"
+
+#### 5 ####
+Elly
+"My other self...?"
+
+#### 6 ####
+Elly
+"Where's Fei? Where is
+everyone...?"
+
+#### 7 ####
+Elly
+"You're planning on sending
+them to the same fate as...{enter}
+...those people in that
+research facility!{enter}
+Doing all this for your
+own selfish ambitions...{wait:1E}
+Do you know what you're
+doing!?{enter}
+People playing with other
+people's lives. That's
+deplorable!"
+
+#### 8 ####
+Elly
+"What do you think of
+accomplishing by using that
+molecular machine?{enter}
+What connection do I have
+with it?"
+
+#### 9 ####
+Elly
+"Mother...?"
+
+#### 10 ####
+Elly
+"..."
+
+#### 11 ####
+Elly
+"Commander!?"
+
+#### 12 ####
+Elly
+"What're you!?"
+
+#### 13 ####
+Elly
+"What?"
+
+#### 14 ####
+Elly
+"Th, that hurts!
+P, please!
+Please stop!"
+
+#### 15 ####
+Elly
+"Who're you referring to
+when you say that man...{wait:1E}
+Are you talking about Fei?"
+
+#### 16 ####
+Elly
+"R, Ramsus...{wait:14}that drug...{wait:1E}
+A mental stabilizer...?{enter}
+Why are you so shook up
+like that? What's forcing
+you to go through all this?{enter}
+What happened between you
+and Fei..."
+
+#### 17 ####
+Elly
+"Ramsus..."
+
+#### 18 ####
+Krelian
+"I've looked into your
+records."
+
+#### 19 ####
+Krelian
+"Elhaym Van Houten.
+That incident at the Jugend
+one year ago...{enter}
+Case 102. The release of
+your latent powers from
+that systematic...{enter}
+...administration of mental
+enhancment drugs.{enter}
+In that instant, your Ether
+value had increased beyond
+400.{enter}
+And in that moment, 2
+were critically wounded
+and 3 required recycling.{enter}
+Am I right?"
+
+#### 20 ####
+Krelian
+"But, this record is wrong.{enter}
+This wasn't the usual
+uncontrollable mental
+side effects."
+
+#### 21 ####
+Krelian
+"This was caused by the
+'awakening of your other
+inner self'."
+
+#### 22 ####
+Krelian
+"They will be used as an
+offering for the...{enter}
+...resurrection of the
+Gazel Ministry.{enter}
+The same fate awaits that
+girl, the artificial
+organism.{enter}
+I've already taken enough
+samples from her.{enter}
+I'm already well into the
+fourth stage of my plan.
+All I need now is the
+final factor.{enter}
+Hence, your friends are
+no longer of any use to
+me.{wait:1E} They're worthless.{enter}
+But, you are different."
+
+#### 23 ####
+Krelian
+"I see...{wait:1E}
+So you've seen the
+research facility.{enter}
+Presently, the Solaris
+researchers are working
+on genetic engineering
+down there.{enter}
+It's just a nest for fools
+who've learned the
+despicable pleasure of...{enter}
+...playing with their own
+organic creations. They
+seek only serendipity and
+inhumanity.{enter}
+That is not my place.
+I specialize in
+molecular engineering...
+Nanotechnology."
+
+#### 24 ####
+Krelian
+"Do you know what this is?
+A nanomachine...a molecular
+machine.{enter}
+This is the assembler,
+which is one of those
+nanomachine machines.{enter}
+It can break down molecules
+and atoms and reconstruct
+it into anything.{enter}
+Each of these spheres are
+equivalent to an atom.{enter}
+Until recently, we were
+only able to produce...{enter}
+...materials which were
+several times the
+size of this.{enter}
+Thanks to that girl, the
+one we obtained from the
+ruins of the Zeboim
+civilization,{enter}
+we are now able to make it
+this compact and elaborate.{enter}
+To think that such a
+mechanism was created 4000
+years ago. It's quite
+astonishing.{enter}
+Up until we discovered
+this, the work was rather
+crude.{enter}
+The best we could possibly
+do until now was to apply
+amino acid solutions to
+wounded areas for...{enter}
+...amelioration or to seal
+up any peculiar abilities.{enter}
+I'm sure you've had some
+exposure to genetics when
+you were in the Jugend.{enter}
+Each type of those enzymes
+inside the DNA...are also
+molecular machines that
+were created by nature.{enter}
+That is, if we are indeed
+the progeny of the very
+first organism."
+
+#### 25 ####
+Krelian
+"Although the nanomachines
+up until now could
+recombine DNA...{enter}
+...they couldn't uncover
+any information in the
+intron which are located
+in the replacements...{enter}
+...of the double helix.
+However, the newer
+nanomachines easily
+discovered this data.{enter}
+Data that originally
+'should not have existed'.
+And we are about to see the
+results of that."
+
+#### 26 ####
+Krelian
+"Hmm, according to the
+tranferred record, it
+depicts...{enter}
+...a similar wave
+frequency as expected."
+
+#### 27 ####
+Krelian
+"And...yes, the Urobolus
+Ring...!{enter}
+That is it, isn't it...?{enter}
+Miang, and Lacan's
+actions...{wait:28}
+This explains everything."
+
+#### 28 ####
+Krelian
+"Elhaym...
+You were the 'mother'..."
+
+#### 29 ####
+Krelian
+"Yes.{enter}
+This is what your genetic
+exon looked like before
+replacement...{enter}
+This is the conceptualized
+form of the intron which
+carries information that
+isn't supposed to exist.{enter}
+Observe. This is the
+Urobulos Ring which
+contains 'intron
+information' which only...{enter}
+...exists in 'certain
+people'. Urobolus...if
+we were to anatomize such
+a thing...{enter}
+Wouldn't you be interested
+in what type of information
+it would have to offer us?"
+
+#### 30 ####
+Krelian
+"Elhaym, you are beautiful.{enter}
+When I look at you, I
+appreciate the artistic
+aspect of the human form,
+its elaborateness...{enter}
+I can't help but feel the
+importance of that.{enter}
+As if my molecular machine
+is unworthy of you.{enter}
+You haven't changed
+'since then'.{enter}
+Just like the 'other one',
+Lacan..."
+
+#### 31 ####
+Ramsus
+"Wh...re...?"
+
+#### 32 ####
+Ramsus
+"Where...?
+I'm asking you
+where!!"
+
+#### 33 ####
+Ramsus
+"Where is he!?
+Where!?{enter}
+I know you know!
+Take me to him!"
+
+#### 34 ####
+Ramsus
+"Fei, Fei, Fei...{enter}
+Fei this...Fei that..."
+
+#### 35 ####
+Ramsus
+"Fei...!{wait:14}
+In what way is he more
+superior than I!?{enter}
+I will not accept it.
+I will not!!"
+
+#### 36 ####
+Ramsus
+"Errrrg..."
+
+#### 37 ####
+Ramsus
+"Dammit Fei...{wait:1E}
+I'll show you...{wait:1E}
+I..."
+

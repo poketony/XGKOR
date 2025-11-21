@@ -1,0 +1,57 @@
+#### 1 ####
+Fei
+"Here?"
+
+#### 2 ####
+Fei
+"Hey! It's started!"
+
+#### 3 ####
+Fei
+"Alright. Let's go!"
+
+#### 4 ####
+Fei
+"Hey! We're going out
+on the outer wall."
+
+#### 5 ####
+Fei
+"Where are we going 
+to climb to?"
+
+#### 6 ####
+Fei
+"A shot, from where?"{clear:14}
+
+#### 7 ####
+Fei
+"Crap! The track's 
+gone. We're goin'
+outside!"
+
+#### 8 ####
+Fei
+"Wha?"
+
+#### 9 ####
+Fei
+"Looks like the driver's 
+seat is next to it."
+
+#### 10 ####
+You have too many
+{str}.
+
+#### 11 ####
+ 
+ Received {str}.
+
+#### 12 ####
+You have too many
+{str}.
+
+#### 13 ####
+ 
+ Received {str}.
+

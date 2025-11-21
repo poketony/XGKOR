@@ -1,0 +1,180 @@
+#### 1 ####
+Sigurd
+"Young master...?"
+
+#### 2 ####
+Bart
+"Yeah, I can't sleep."
+
+#### 3 ####
+Sigurd
+"Yes, so much has 
+happened at once."
+
+#### 4 ####
+Bart
+"Hey Sig...{wait:3C}what was
+your mother like?"
+
+#### 5 ####
+Sigurd
+"...She died when I was
+but a child, {wait:1E} why?"
+
+#### 6 ####
+Bart
+"Do you have any 
+memories of her?{enter}
+What kind of person
+was she?"
+
+#### 7 ####
+Sigurd
+"Hmmm, well...{wait:1E} 
+she was very kind...{enter}
+but when I was born it
+seems the doctor told 
+her she did not have
+long to live.{enter}
+She lived in constant
+fear of that.{enter}
+As a result, even if she
+met someone she liked,
+her fear of death was
+her drawback.{enter}
+She worried that she
+could not be with me
+to the very end..."
+
+#### 8 ####
+Bart
+"What about your father?"
+
+#### 9 ####
+Sigurd
+"He isn't supposed to
+know that I was born.{enter}
+However, even for not
+knowing he still
+treated me like a son."
+
+#### 10 ####
+Bart
+"Why didn't you tell
+him you were his son?"
+
+#### 11 ####
+Sigurd
+"If my mother hid that
+fact, there had to be
+a reason."
+
+#### 12 ####
+Bart
+"There is more to my
+father's will than what
+I declared today.{enter}
+I must share my
+inheritance with
+my brother.{enter}
+He also said...
+'You must split you
+and your brother's
+share with the people.'"
+
+#### 13 ####
+!{clear:1E}
+
+#### 14 ####
+Bart
+"That had always bugged
+me up until now. I didn't
+know what he meant.{enter}
+That's all I wanted to
+say...{wait:3C}
+Good night!"
+
+#### 15 ####
+It's locked.{clear:1E}
+
+#### 16 ####
+It's locked.{clear:1E}
+
+#### 17 ####
+It's locked.{clear:1E}
+
+#### 18 ####
+    Go out
+    Return
+
+#### 19 ####
+!{clear:0F}
+
+#### 20 ####
+Hey, what is it that
+we're guarding here?
+
+#### 21 ####
+We're here to chase
+out anyone from the
+Tournament who gets
+lost in the castle.
+
+#### 22 ####
+Babysitters, huh? {wait:1E}
+Well, when it gets to
+the pre-semi-finals
+we'll go check out
+the Tournament.
+
+#### 23 ####
+Yeah, 
+let's do that.
+
+#### 24 ####
+Oh man, if that
+guy wins...
+
+#### 25 ####
+That's right.
+
+#### 26 ####
+Gimme my 100G back!
+
+#### 27 ####
+Oh well.
+What a waste.
+
+#### 28 ####
+!{clear:0F}
+
+#### 29 ####
+!{clear:0F}
+
+#### 30 ####
+!{clear:0F}
+
+#### 31 ####
+!{clear:0F}
+
+#### 32 ####
+!{clear:0F}
+
+#### 33 ####
+!{clear:0F}
+
+#### 34 ####
+!{clear:0F}
+
+#### 35 ####
+!{clear:0F}
+
+#### 36 ####
+!{clear:0F}
+
+#### 37 ####
+!{clear:0F}
+
+#### 38 ####
+!{clear:0F}
+

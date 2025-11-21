@@ -1,0 +1,137 @@
+<TextBlock 1 w:42 h:4>
+Maria
+"Padre!?<Delay 40>
+Sei davvero tu,
+Nicola, mio padre!?"<Close><End of Block>
+<TextBlock 2 w:44 h:4>
+Maria
+"!!!<Delay 40>
+Perché hai fatto una
+cosa così orribile!?"<Close><End of Block>
+<TextBlock 3 w:10 h:2>
+Maria
+"No!"<Close><End of Block>
+<TextBlock 4 w:48 h:4>
+Maria
+"!?<Delay 60>
+<Delay 40>… <Delay 40>Siebzehn sta tremando.<Delay 60>
+<Delay 40>… <Delay 40>Stai piangendo?<New>
+<Delay 40>… <Delay 40>Soggiogato da
+Solaris, il mio vero
+padre è già<Delay 40>…<New>
+<Delay 40>… <Delay 40> Achtzehn è<Delay 40>…<Delay 90>
+Non sei mio padre!"<Close><End of Block>
+<TextBlock 5 w:42 h:4>
+Maria
+"<Delay 40>… <Delay 40>Achtzehn!
+Ti sconfiggerò!!<Delay 60>
+Siebzehn, andiamo!!"<Close><End of Block>
+<TextBlock 6 w:44 h:4>
+Maria
+"!!<Delay 40> Padre!<Delay 40>
+Sei forse impazzito!?<New>
+No!<Delay 5>
+Non posso farlo!!<New>
+Il Cannone Graviton<Delay 5>…<Delay 5>
+che tu stesso hai
+sigillato a causa del
+suo potere distruttivo…<New>
+Padre, se lo uso
+su di te<Delay 40>…"<Close><End of Block>
+<TextBlock 7 w:40 h:4>
+Maria
+"… <Delay 30>Non posso…
+Non posso fare una cosa simile!!<New>
+Uh!! Siebzehn!<Delay 30>
+Non…<Delay 30> Ho perso il
+controllo!<Delay 30> Padre, sei
+tu, vero!?<New>
+Per favore, non
+farlo sparare!!"<Close><End of Block>
+<TextBlock 8 w:44 h:2>
+Maria
+"… Paaaaaaapààààà!!"<Close><End of Block>
+<TextBlock 9 w:48 h:4>
+Achtzehn
+"Maria… <Delay 40>
+Hai fatto la
+brava bambina?<New>
+Guarda, questo è
+Achtzehn.<New>
+Sono stato capace di
+unire me stesso con
+Achtzehn grazie al
+Progetto di ricerca
+M di Solaris.<New>
+Osserva la nascita della
+creatura perfetta
+che unifica uomo e
+macchina!<New>
+I normali Gear non
+hanno la minima
+possibilità contro
+<End of Block>
+<TextBlock 10 w:44 h:4>
+Achtzehn!"<Close>Achtzehn
+"Mmh. 'Orribile?'<Delay 40>
+No, Maria.<Delay 40>
+'Meravigliosa.'<New>
+Sì, sì. Modificherò
+anche te ed il tuo
+Siebzehn per divenire
+una sola entità…<New>
+…proprio come me."<Close><End of Block>
+<TextBlock 11 w:48 h:4>
+Achtzehn
+"Ah ah ah.<Delay 40> Ti ribelli?
+Capisco, hai già
+raggiunto quell'età<Delay 40>…<New>
+Vieni,<Delay 40> non fare la
+bambina capricciosa.<Delay 40>
+Vieni<Delay 40>…<Delay 40> qui.<New>
+Non vuoi<Delay 40>… ascoltare
+<Delay 40>… <Delay 40>TUO PADRE!!
+VIENI QUI SUBITO!"<Close><End of Block>
+<TextBlock 12 w:52 h:4>
+Achtzehn
+"Cosa stai dicendo<Delay 40>…?<Delay 40>
+Sono io<Delay 40>…<Delay 40>
+Tuo padre<Delay 40>… Nicola…"<Close><End of Block>
+<TextBlock 13 w:40 h:4>
+Nicola
+"Maria…<Delay 40>
+Puoi sentirmi?<New>
+Sto liberando il tuo
+Cannone Graviton dal
+suo sigillo con il
+comando a distanza!<New>
+Usalo per
+sconfiggermi."<Close><End of Block>
+<TextBlock 14 w:48 h:4>
+Nicola
+"Fai fuoco!!<Delay 10> Ormai non
+importa…<Delay 10> Io,<Delay 5> Nicola,<Delay 5>
+non esisto più…<New>
+Prima di essere
+soggiogato da Solaris…<New>
+… ho impiantato un
+circuito di coscienza
+dentro Achtzehn…<New>
+Dovrebbe rispondere
+ed attivarsi in
+presenza di Siebzehn.<New>
+Il mio messaggio
+sta venendo da lì.<New>
+E, durante la battaglia,
+ho trasferito tutti
+i miei dati da lì a
+Siebzehn.<New>
+Avrò perso il mio corpo,<Delay 10>
+ma il mio spirito è con
+Siebzehn,<Delay 90> no,<Delay 10> con te,
+Maria.<Delay 40> Ora e sempre!"<Close><End of Block>
+<TextBlock 15 w:46 h:4>
+Nicola
+"Maria<Delay 40>…<Delay 40> Sarò sempre
+con te.<Delay 40>
+Ora e sempre<Delay 40>…<Delay 40>"<Close><Close><End of Block>

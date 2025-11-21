@@ -1,0 +1,360 @@
+#### 1 ####
+{fast:FF}Fei
+"Elly!!"
+
+#### 2 ####
+Fei
+"Yeah...I guess so."
+
+#### 3 ####
+Citan
+"That fight with the
+Rankar was remarkable.{enter}
+An ordinary Gear could
+not defeat that monster.
+And you certainly keep
+yourself in good shape..."
+
+#### 4 ####
+Fei
+"Why did you bring
+this here, doc?"
+
+#### 5 ####
+Citan
+"This...?
+You mean {name:0B:¥ô¥§¥ë¥È©`¥ë}?"
+
+#### 6 ####
+Fei
+"...{name:0B:¥ô¥§¥ë¥È©`¥ë}?{wait:14}
+This is the Gear that
+destroyed our village.{enter}
+Why did you bother
+bringing it here?
+I never want to see
+another Gear again..."
+
+#### 7 ####
+Citan
+"I understand how
+you must feel...{enter}
+But, in order to
+protect yourself
+you need a certain
+degree of strength.{enter}
+Even more since we
+are being pursued."
+
+#### 8 ####
+Fei
+"I agree that a certain
+degree of strength is
+needed for self-defense.{enter}
+And if it weren't for this
+Gear here, Elly and I'd be
+in that Rankar's stomach
+right now...{enter}
+But its power goes beyond
+what is necessary. Does
+one really need the power
+to destroy everything?"
+
+#### 9 ####
+Citan
+"..."
+
+#### 10 ####
+Fei
+"I don't need that
+kind of power...
+I just hate Gears."
+
+#### 11 ####
+Citan
+"Fei, using power or being
+used by power...is that not
+a problem of the heart...?{enter}
+If humans do not use their
+power for wrong it can be
+a good thing...I believe
+such power can help us.{enter}
+In that respect, I know
+you will be fine.
+It sure helped you out
+this time.{enter}
+Am I right?"
+
+#### 12 ####
+Fei
+"I want to believe that.
+But something is holding
+me back. This Gear..."
+
+#### 13 ####
+Fei
+"Well, whatever...
+At least Elly is
+safe now."
+
+#### 14 ####
+Citan
+"She seems to
+have come to."
+
+#### 15 ####
+Elly
+"Huh...?"
+
+#### 16 ####
+Citan
+"I am Citan...
+a friend of Fei's.{enter}
+You almost did not make it.
+If Fei had not have helped
+you, I hate to think what
+may have happened.{enter}
+But I was not too pleased
+with his rashness in trying
+to take on that Rankar
+with just his bare fists."
+
+#### 17 ####
+Elly
+"Bare fists?"
+
+#### 18 ####
+Citan
+"Well, I am glad that you
+were able to find a use
+for what I brought you."
+
+#### 19 ####
+Elly
+"!!"
+
+#### 20 ####
+Citan
+"Let us just say we are
+borrowing what the Kislev
+army left behind..."
+
+#### 21 ####
+Elly
+"...Oh."
+
+#### 22 ####
+Elly
+"Thank you, Fei.
+This makes twice."
+
+#### 23 ####
+Fei
+"Don't mention it.
+I'll just put it
+on your tab."
+
+#### 24 ####
+Citan
+"It is getting dark.
+Let us make camp now and
+start out early tomorrow.{enter}
+The both of you look tired
+and I need to make some
+repairs on our friend
+here..."
+
+#### 25 ####
+?{clear:1E}
+
+#### 26 ####
+Elly
+"Why did I go and
+say that to him...?"{clear:3C}
+
+#### 27 ####
+Elly
+"Yes...
+that's right...
+I am a coward..."
+
+#### 28 ####
+{fast:FF}!?{clear:14}
+
+#### 29 ####
+Citan
+"Fei!
+Are you alright?"
+
+#### 30 ####
+Fei
+"Has Elly gone yet?"
+
+#### 31 ####
+Citan
+"Oh, so you were awake?"
+
+#### 32 ####
+Fei
+"Yes, I woke up midway, so
+I only heard part of what
+you two were discussing."
+
+#### 33 ####
+Citan
+"..."
+
+#### 34 ####
+Fei
+"Elly...
+so that's what she is?"
+
+#### 35 ####
+Citan
+"Fei, she is..."
+
+#### 36 ####
+Fei
+"I know. 
+It's not Elly's fault.{enter}
+What happened to the
+village is all my fault.{enter}
+I took out all my pent up
+feelings on Elly. I'm the
+one who should apologize."
+
+#### 37 ####
+Citan
+"Fei, do not blame 
+yourself. It was not 
+your fault either.{enter}
+You were just trying to
+protect the village."
+
+#### 38 ####
+Fei
+"Thanks, doc...
+By the way, how is everyone
+from the village going?"
+
+#### 39 ####
+Citan
+"Do not worry, Yui is
+taking care of them.{enter}
+I told her to leave soon
+and take them all to a
+certain place.{enter}
+They should be safe for a
+while. So you just worry
+about yourself for now."
+
+#### 40 ####
+Fei
+"Okay, doc."
+
+#### 41 ####
+Citan
+"Now to think what we
+should do next...{enter}
+Shall we leave this forest
+and head for the desert
+town of Dazil?{enter}
+We may learn what Aveh and
+Kislev are up to...
+not to mention getting some
+parts for {name:0B:¥ô¥§¥ë¥È©`¥ë}.{enter}
+The leader of Aveh is not
+going to sit back and let
+the other night's fiasco
+go by unpunished!"
+
+#### 42 ####
+Fei
+"What is that...?"
+
+#### 43 ####
+Citan
+"I would assume it is
+an aerial battleship
+from Aveh..."
+
+#### 44 ####
+Fei
+"An aerial battleship?
+I've never heard of Aveh
+having anything like that."
+
+#### 45 ####
+Citan
+"Of course it does
+not come from Aveh
+originally...{enter}
+Most likely it belongs
+to the Gebler forces
+stationed in Aveh."
+
+#### 46 ####
+Fei
+"Gebler?"
+
+#### 47 ####
+Citan
+"Special forces from the
+Sacred Empire of Solaris
+known as Gebler.{enter}
+I am sure you have heard
+something about them.{enter}
+They are an organization
+providing large scale
+military aide to the
+Kingdom of Aveh.{enter}
+They showed up in Ignas
+several months ago.
+Until then, Aveh was
+being routed by Kislev.{enter}
+But with Gebler's help
+they have managed to
+regain half their loses.{enter}
+They are now expanding
+their territory and
+gathering resources
+buried in the ruins."
+
+#### 48 ####
+Fei
+"I've heard the village
+elders talk about it...{wait:1E}
+Is Elly a part of that?"
+
+#### 49 ####
+Citan
+"Quite possibly so.
+Their group has superior
+technology and power.{enter}
+It is rumored they are
+here solely to get the
+resources in the ruins.{enter}
+I am surprised they are
+using something as
+powerful as that ship...{enter}
+It must be to supress the
+recent border skirmishes."
+
+#### 50 ####
+Fei
+"So they are fighting
+the Kislev Empire?"
+
+#### 51 ####
+Citan
+"Yes. It seems they have
+found new ruins on the
+northern edge of Aveh.{enter}
+Those ruins are under a
+five-hundred-year-old
+temple.{enter}
+Three weeks ago Kislev
+took over those ruins.
+Most likely they are
+fighting over that."
+

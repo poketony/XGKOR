@@ -1,0 +1,750 @@
+#### 1 ####
+Bart
+"I guess that's it."
+
+#### 2 ####
+Bart
+"Oh yeah? {wait:1E}
+So looks like we've got a
+real fanatic here, huh!"
+
+#### 3 ####
+Bart
+"What's an old man like
+you doing in a place 
+like this?"
+
+#### 4 ####
+Bart
+"A collector, huh?
+Sounds interesting."
+
+#### 5 ####
+Bart
+"The things on this shelf,
+are they some of the stuff
+you have found?"
+
+#### 6 ####
+Ol' man Bal
+"You mean the fossils?
+They're one of the 
+things I collect.{enter}
+Feel free to have a
+look at them."
+
+#### 7 ####
+Ol' man Bal
+"Around here you can dig up
+ancient machines along with
+human and animal fossils. {enter}
+Notice anything particular
+on these shelves? They go
+from oldest on the left,
+to newest on the right."
+
+#### 8 ####
+Bart
+"Are you an archaeologist
+or something, old man?{enter}
+I don't quite see what
+you're talking about.{enter}
+They just look like a
+bunch of old bones to me.
+Fei, what do you think?"
+
+#### 9 ####
+Fei
+"...Let me see.{wait:1E}
+First, there are no
+human bones up to here.{enter}
+Then, from here on over
+to the right, something
+is slightly different...
+I guess."
+
+#### 10 ####
+Ol' man Bal
+"Yes, from a certain point
+in time, human fossils
+suddenly no longer appear.{enter}
+That point is roughly
+10,000 years ago."
+
+#### 11 ####
+Bart
+"What does that mean?"
+
+#### 12 ####
+Ol' man Bal
+"Don't ask me.
+I don't know for sure...{enter}
+But my guess is, there
+were no humans on this
+planet before then.{wait:1E}
+At least it appears so."
+
+#### 13 ####
+Bart
+"How could that be?
+What about all that
+talk about evolution?"
+
+#### 14 ####
+Ol' man Bal
+"You mean the theory of
+evolution as taught by
+the 'Ethos', right?{enter}
+You can't trust that!
+Rather, I believe in the
+old legends and myths."
+
+#### 15 ####
+Fei
+"Legends?
+Myths?"
+
+#### 16 ####
+Ol' man Bal
+"Haven't you heard
+of this story...?"
+
+#### 17 ####
+Ol' man Bal
+"They say that humans and
+god lived together in a
+paradise in the sky.{enter}
+With god's protection,
+there was no fear of death
+and natural disasters were
+entirely unknown.{enter}
+Then one day, the humans
+ate a forbidden fruit
+which gave them incredible
+wisdom.{enter}
+But god drove mankind from
+the paradise for their sin.{enter}
+Bitter at having been
+driven out of paradise,
+humans used the wisdom they
+had gained to make giants.{enter}
+With these giants, they
+planned to challenge god
+himself. But god poured
+his wrath down on them.{enter}
+All who defied god were
+destroyed. 
+But god himself did not
+escape unharmed.{enter}
+Taking paradise with him,
+the wounded god buried
+himself deep beneath the
+ocean to sleep for eons.{enter}
+Before going to sleep, god
+used his remaining power to
+create right-hearted humans
+to live on this planet.{enter}
+These people are said to
+be...{wait:1E}our ancestors."
+
+#### 18 ####
+Ol' man Bal
+"Well, anyway, I'll
+stop my rambling now."
+
+#### 19 ####
+Fei
+"By the way, does 
+this cave have..."
+
+#### 20 ####
+Ol' man Bal
+"An exit?{enter}
+There is an exit in the
+excavation site beyond the
+sand barrier. You can get
+outside through there."
+
+#### 21 ####
+Bart
+"Sand barrier? You mean
+that huge wall you can
+see from your entrance?"
+
+#### 22 ####
+Ol' man Bal
+"Yes, that's it.
+On the other side is an
+old Aveh excavation site.{enter}
+They built the wall when
+Aveh was excavating here
+to keep the sand from
+falling in from above.{enter}
+But they've stopped work
+there now."
+
+#### 23 ####
+Fei
+"So, how do we open such
+a huge thing like that?"
+
+#### 24 ####
+Bart
+"If it's a wall,
+you can probably
+break it down."
+
+#### 25 ####
+Ol' man Bal
+"Hold your horses
+there young'uns.{enter}
+No matter how good a Gear
+you have, you'll never
+break that wall down.{enter}
+It's much too strong.{wait:1E}
+So...
+let's make a deal." 
+
+#### 26 ####
+Bart
+"A deal?"
+
+#### 27 ####
+Ol' man Bal
+"The wall was closed
+due to the reaction of
+the 'Sand Sensors'.{enter}
+Thanks to that, now I
+can't get through to
+the other side either.{enter}
+Maybe it happened when
+you two fell in here.
+Were you boys fighting
+up there or something?"
+
+#### 28 ####
+Fei
+"You seem to be able
+to tell everything!{enter}
+Anyway, so what can
+we do about it?"
+
+#### 29 ####
+Ol' man Bal
+"It's very simple.
+You just have to turn off
+the Sand Sensor switches.{enter}
+Doing that will keep the
+barrier from closing again.{wait:1E}
+While you two are doing
+that, I'll open it up."
+
+#### 30 ####
+Fei
+"Right, got it."
+
+#### 31 ####
+Ol' man Bal
+"The sensors are in two
+places. You should see
+their flashing red lights.{enter}
+Well, good luck then." 
+
+#### 32 ####
+Fei
+"Let's go Bart."
+
+#### 33 ####
+Ol' man Bal
+"Oh, before you go...{enter}
+I can share some parts
+and fuel with you.{wait:14}
+Just talk to me whenever
+you need something, right."
+
+#### 34 ####
+Bart
+"Thanks, old man.{wait:14}
+Well, we'll go and finish
+our part of the deal then!"
+
+#### 35 ####
+Fei
+"Well done, old man!"
+
+#### 36 ####
+Ol' man Bal
+"Our deal is done."
+
+#### 37 ####
+Bart
+"Hey, old man.
+There's one thing I
+want to ask you."
+
+#### 38 ####
+Ol' man Bal
+"What is it?"
+
+#### 39 ####
+Bart
+"I've heard somewhere on
+this planet is a Gear far
+superior to all others.{enter}
+I've heard that it was
+called 'the god Gear' and
+was made in ancient times
+but hidden away somewhere.{enter}
+Do you know anything
+about it?"
+
+#### 40 ####
+Ol' man Bal
+"A man-made god, created
+with the wisdom of god!{enter}
+Such a Gear would have the
+power of a thousand Gears.
+In a wave of its arm, it
+could destroy whole cities.{enter}
+Its battle cries would
+thunder in the heavens.{enter}
+You must be speaking of
+the 'Omnigear'."
+
+#### 41 ####
+Bart
+"You know of it? {enter}
+Then perhaps it was what
+you were speaking about in
+that tale you told us of
+the battle with god..."
+
+#### 42 ####
+Ol' man Bal
+"Goodness gracious,
+you too, boy?{enter}
+Those stories were made
+to inspire man's soul.
+But they're just legends.
+They don't really exist."
+
+#### 43 ####
+Ol' man Bal
+"Anyway, allow me take
+a look at your Gears.{enter}
+It'll only take a
+little while, so
+wait here please."
+
+#### 44 ####
+Bart
+"Hey, wait!{wait:1E}
+Arhh, he's gone..."
+
+#### 45 ####
+Fei
+"Hey Bart. Do you think the
+Gear in that story's buried
+in the ground somewhere?"
+
+#### 46 ####
+Bart
+"I think that's
+what I've heard."
+
+#### 47 ####
+Fei
+"Could one of the Gears we
+are using possibly be it?"
+
+#### 48 ####
+Bart
+"Yeah, right!
+What are the chances
+of that happening?
+
+#### 49 ####
+Fei
+"?"
+
+#### 50 ####
+Bart
+"The Gears that are
+excavated lately...{enter}
+...are usually only a
+few hundred years old.
+Nowhere nearly as old as
+the Gear in that legend."
+
+#### 51 ####
+Fei
+"Then why were they
+in the ground...?"
+
+#### 52 ####
+Bart
+"I don't know.
+There are no records.{wait:1E} 
+Except..."
+
+#### 53 ####
+Fei
+"Except what?"
+
+#### 54 ####
+Bart
+"There must be some truth
+in the tales that they were
+buried after a great war...{enter}
+The bullet wounds covering
+most of the Gear's armor
+would appear to confirm
+that."
+
+#### 55 ####
+Fei
+"You mean that there are
+no records from the last
+several hundred years?{enter}
+How about before that?"
+
+#### 56 ####
+Bart
+"None from either period.{enter}
+The 'Ethos' controls
+all the records from
+that time period.{enter}
+Maybe they have some very
+ancient records too...{enter}
+All we know about our
+history is from the
+little pieces that we
+find for ourselves."
+
+#### 57 ####
+Bart
+"Anyway Fei, what do you
+make of the old man?"
+
+#### 58 ####
+Fei
+"What do you mean...?"
+
+#### 59 ####
+Bart
+"Why would such an old 
+man live all alone in
+this abandoned cave?"
+
+#### 60 ####
+Fei
+"I don't know.{wait:1E} Probably
+digging for ancient
+Gears or something?"
+
+#### 61 ####
+Bart
+"Right!
+So you think so too?"
+
+#### 62 ####
+Fei
+"Hey!
+I just said that as a joke.{enter}
+Don't take all that stuff 
+seriously. They're only
+legends, you know."
+
+#### 63 ####
+Bart
+"No...that old man 
+is up to something!"
+
+#### 64 ####
+Ol' man Bal
+"This can't be..."
+
+#### 65 ####
+Fei
+"??"
+
+#### 66 ####
+Bart
+"What's wrong, old man?"
+
+#### 67 ####
+Ol' man Bal
+"Is this your Gear?"
+
+#### 68 ####
+Fei
+"Well, 
+sort of..."
+
+#### 69 ####
+Ol' man Bal
+"Where did you get it?"
+
+#### 70 ####
+Fei
+"I'm just borrowing it."
+
+#### 71 ####
+This is...{clear:1E}
+
+#### 72 ####
+the{wait:05} host{wait:05} for{wait:05} the{wait:05} spirit{wait:05}
+of{wait:05} the{wait:05} slayer{wait:05} of{wait:1E} god{wait:1E}...{clear:1E}
+
+#### 73 ####
+Fei
+"Wait a moment! 
+What did you just say?"
+
+#### 74 ####
+Ol' man Bal
+"Nothing.
+I didn't say anything!!"
+
+#### 75 ####
+Fei
+"No! I heard you!
+You said, slayer of god...{enter}
+That's what you said,
+isn't it old man!!"
+
+#### 76 ####
+Ol' man Bal
+"Your Gears are fixed.
+You have no more
+business here.{enter}
+This is a bad time for me.
+Be on your way!"
+
+#### 77 ####
+Fei
+"Be on our way...?
+Listen here, old man...!!"
+
+#### 78 ####
+Fei
+"You mean, you can tell
+what's wrong just by the
+sound of its footsteps?"
+
+#### 79 ####
+a
+
+#### 80 ####
+Ol' man Bal
+"I told you to leave!"
+    Tell us some more
+    Sell us Gear parts
+
+#### 81 ####
+Ol' man Bal
+"I have nothing more to say
+to you, so just leave."
+
+#### 82 ####
+Ol' man Bal
+"When Calamity beats you,
+I'll just get these parts
+back anyway...{enter}
+If you don't mind that then
+I'll sell them to you...!"
+    For Gear
+    For characters
+
+#### 83 ####
+Ol' man Bal
+"First, try changing
+the engine."
+
+#### 84 ####
+Ol' man Bal
+"Now hurry and shut off
+the Sand Sensors.{enter}
+Or do you have something
+else you want to ask?"{enter}
+    Where are the sensors?
+    About Gear functions
+    Got any parts to sell?
+    Nothing
+
+#### 85 ####
+Ol' man Bal
+"Hmm, which do you want?"
+    For Gear use
+    For character use
+
+#### 86 ####
+Ol' man Bal
+"You seem to have shut off
+the 'Sand Sensor' on the
+ledge in the Great Hall...{enter}
+But there's another 'Sand
+Sensor' on the road from
+which you can see the
+waterfalls.{enter}
+It's on a rock ledge,
+northwest of where my
+repair robot stands.{enter}
+Anything else you want?"
+    Explain Gear functions
+    Got any parts to sell?
+    Nothing
+
+#### 87 ####
+Ol' man Bal
+"Hmm, what do you want?"
+    Parts for Gears
+    Character items
+
+#### 88 ####
+Ol' man Bal
+"You seem to have shut
+off the Sand Sensor in
+Waterfall Grotto. {enter}
+But there's still one more,
+above the big boulder in
+the Great Hall. I think
+you've seen it already.{enter}
+Anything else?"
+    Explain Gear functions
+    Got any parts to sell?
+    Nothing
+
+#### 89 ####
+Ol' man Bal
+"Hmm, what do you want?"
+    Parts for Gears
+    Character items
+
+#### 90 ####
+Ol' man Bal
+"Oh, good timing.
+I was just about to open
+up the sand barrier now."
+
+#### 91 ####
+"It's been a while since
+I last serviced a Gear.
+This should be fun."
+
+#### 92 ####
+Ol' man Bal
+"A Gear's strength changes
+with the parts equipped and
+how the pilot handles it.{enter}
+First, let's talk about
+the Engine.{enter}
+With a good Engine your
+Attack Power and fuel 
+capacity go up.{enter}
+HP depends on the Frame
+and Defense Ability on
+the Armor equipped.{enter}
+Here's a tip for when your
+fuel is low: use 'Charge'
+to replenish it a little
+as you defend yourself.{enter}
+When you are fighting a
+strong enemy, use 'Booster'
+to increase your mobility
+and power.{enter}
+If you use Booster too
+much though, your fuel
+will run out.{enter}
+So think carefully and
+try to find your own
+style of fighting."
+
+#### 93 ####
+Ol' man Bal
+"First, changing the
+engine is a good idea."
+
+#### 94 ####
+It's been a long time
+since my last visitor.
+What happened? Did you
+fall from the surface?
+
+#### 95 ####
+I see...
+That's too bad. {enter}
+I can tell from the sound
+that you both ride good
+Gears...{enter}
+But the legs seem to be
+playing up a bit.
+
+#### 96 ####
+Ha ha ha.
+It's easy to know what's
+wrong with Gears by the
+sounds they make.{enter}
+My guess is that one
+of them needs a new
+hydromechanic pipe
+in its joints.{enter}
+It's making a
+nasty sound.
+It must be hard to
+walk with too.{enter}
+Oh, by the way, the
+name's Balthazar,
+but you can call me
+Ol' man Bal.
+
+#### 97 ####
+Ol' man Bal
+"I guess you can call me a
+'fossicker' or a 'collector
+of things'.{enter}
+There is much to be found
+lying around in this here
+stalactite cavern."
+
+#### 98 ####
+Bart
+"Hey, Fei! This is a
+surprise! There's someone
+living in this place!"
+
+#### 99 ####
+Hmm, it's been a while,
+but I thought I could hear
+the sound of Gears.
+I assume they are yours?{enter}
+Well anyway, come on back
+in here and make yourself
+at home.
+
+#### 100 ####
+Fei
+"I don't know where they
+are. Can you tell me?"
+
+#### 101 ####
+Ol' man Bal
+"One is up on the rock
+ledge above the boulder
+in the 'Great Hall'.{enter}
+You can find it by climbing
+the 'Terrace Stones' out
+there and heading into the
+passage on northwest wall.{enter}
+The other sensor is on
+the road from which you
+can see the waterfalls.{enter}
+You can get to it by going
+northwest from the place
+where the Gear is standing.
+It is on a rock ledge.{enter}
+You can tell that it is a
+Sand Sensor by its square
+shape and the flashing red
+light it emits."
+

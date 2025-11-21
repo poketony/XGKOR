@@ -1,0 +1,324 @@
+#### 1 ####
+
+
+
+#### 2 ####
+Armor Defense value+2
+
+#### 3 ####
+Armor Defense value+5
+
+#### 4 ####
+Armor Defense value+8
+
+#### 5 ####
+Armor Defense value+10
+
+#### 6 ####
+Armor Defense value+20
+
+#### 7 ####
+Armor Defense value+30
+
+#### 8 ####
+Armor Defense value+50
+
+#### 9 ####
+Armor Defense value+80
+
+#### 10 ####
+Armor Defense value+100
+
+#### 11 ####
+Armor Defense value+15
+
+#### 12 ####
+Armor Defense value+40
+
+#### 13 ####
+Armor Defense value+60
+
+#### 14 ####
+Gel damage down 50%
+
+#### 15 ####
+Gel damage down 50%
+
+#### 16 ####
+Armor Defense value+30
+
+#### 17 ####
+Armor Defense value+30
+
+#### 18 ####
+Beam damage down 50%
+
+#### 19 ####
+Beam damage down 50%
+
+#### 20 ####
+Beam damage down 50%
+
+#### 21 ####
+Electric damage down 30%
+
+#### 22 ####
+Electric damage down 30%
+
+#### 23 ####
+Electric damage down 30%
+
+#### 24 ####
+Stress damage down 10%
+
+#### 25 ####
+Stress damage down 20%
+
+#### 26 ####
+Stress damage down 30%
+
+#### 27 ####
+Spin damage down 10%
+
+#### 28 ####
+Seal damage down 50%
+
+#### 29 ####
+Seal damage down 75%
+
+#### 30 ####
+Angel damage down 30%
+
+#### 31 ####
+Angel damage down 50%
+
+#### 32 ####
+Angel damage down 50%
+
+#### 33 ####
+Armor EthDef value+50
+
+#### 34 ####
+Armor EthDef value+100
+
+#### 35 ####
+Armor EthDef value+150
+
+#### 36 ####
+Armor EthDef value+200
+
+#### 37 ####
+Defense vs. Earth Ether
+
+#### 38 ####
+Defense vs. Wind Ether
+
+#### 39 ####
+Defense vs. Water Ether
+
+#### 40 ####
+Defense vs. Fire Ether
+
+#### 41 ####
+Armor Defense value+2
+
+#### 42 ####
+Increases Response & Defense
+
+#### 43 ####
+Increases Response & Defense
+
+#### 44 ####
+Increases Response
+
+#### 45 ####
+Increases Defense
+
+#### 46 ####
+Increases Agility in Barrens
+
+#### 47 ####
+Increases Agility in Snow
+
+#### 48 ####
+Increases Agility in Desert
+
+#### 49 ####
+Increases Agility in Water
+
+#### 50 ####
+Increases Eth Mach & EthDef
+
+#### 51 ####
+
+
+
+#### 52 ####
+
+
+
+#### 53 ####
+
+
+
+#### 54 ####
+
+
+
+#### 55 ####
+Increases Agility in Desert
+
+#### 56 ####
+
+
+
+#### 57 ####
+
+
+
+#### 58 ####
+
+
+
+#### 59 ####
+
+
+
+#### 60 ####
+Increases Agility in Desert
+
+#### 61 ####
+Beam damage down 75%
+
+#### 62 ####
+Electric damage down 50%
+
+#### 63 ####
+Stress damage down 25%
+
+#### 64 ####
+Gas damage down 20%
+
+#### 65 ####
+Sonic damage down 100%
+
+#### 66 ####
+Angel damage down 100%
+
+#### 67 ####
+Increases Agility in water
+
+#### 68 ####
+Increases Response
+
+#### 69 ####
+Armor Defense value+30
+
+#### 70 ####
+Gel damage down 100%
+
+#### 71 ####
+Seal damage down 100%
+
+#### 72 ####
+Catalyst
+
+#### 73 ####
+Catalyst
+
+#### 74 ####
+Catalyst
+
+#### 75 ####
+Catalyst
+
+#### 76 ####
+Catalyst
+
+#### 77 ####
+Catalyst
+
+#### 78 ####
+Saves Fuel Usage
+
+#### 79 ####
+Increase Guard's Restore
+
+#### 80 ####
+Increases Eth Mach Strength
+
+#### 81 ####
+Prevents Camera Damage
+
+#### 82 ####
+Doubles Elemental Defense
+
+#### 83 ####
+Can block Ether Weapons
+
+#### 84 ####
+Protects Ether Machine
+
+#### 85 ####
+Protects Gear's Engine
+
+#### 86 ####
+Prevents Pilot Confusion
+
+#### 87 ####
+Stop Fuel Leaks and Drainage
+
+#### 88 ####
+Prevents Loss of Armor Def
+
+#### 89 ####
+Prevents 'Slow' Status
+
+#### 90 ####
+Prevents Armor Corrosion
+
+#### 91 ####
+Restores 10% of Frame HP
+
+#### 92 ####
+Restores 30% of Frame HP
+
+#### 93 ####
+Restores 50% of Frame HP
+
+#### 94 ####
+Restores 70% of Frame HP
+
+#### 95 ####
+Restores 90% of Frame HP
+
+#### 96 ####
+'Charge' removes Status FX
+
+#### 97 ####
+Enables Level 1 Deathblows
+
+#### 98 ####
+Enables Level 2 Deathblows
+
+#### 99 ####
+Enables Level 3 Deathblows
+
+#### 100 ####
+Engine Output up 20%
+
+#### 101 ####
+Engine Output up 50%
+
+#### 102 ####
+'Charge' restores 50 Fuel
+
+#### 103 ####
+'Charge' restores 100 Fuel
+
+#### 104 ####
+'Charge' restores 200 Fuel
+
+#### 105 ####
+'Charge' restores 500 Fuel
+

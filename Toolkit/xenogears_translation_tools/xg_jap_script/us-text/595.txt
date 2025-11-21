@@ -1,0 +1,400 @@
+#### 1 ####
+Fei
+"Okay, here we go!"
+
+#### 2 ####
+Elly
+"...!
+Fei, look!"
+
+#### 3 ####
+Elly
+"Do you think we need to
+use that gate to get to
+the lower floor?"
+
+#### 4 ####
+Elly
+"Here we go, Fei."
+    Jump in the gate
+    Not yet
+
+#### 5 ####
+Elly
+"What, is this?"
+
+#### 6 ####
+Elly
+"Let's investigate it."
+
+#### 7 ####
+Citan
+"Fei, there..."
+
+#### 8 ####
+Citan
+"We might be able to
+get to a lower floor
+through that gate."
+
+#### 9 ####
+Citan
+"Shall we go Fei?"
+    Jump in the gate
+    Not yet
+
+#### 10 ####
+Citan
+"What might this be...?"
+
+#### 11 ####
+Citan
+"Fei, we should
+investigate this."
+
+#### 12 ####
+Citan
+"Fei, over there..."
+
+#### 13 ####
+Citan
+"We might be able to
+get to a lower floor
+through that gate."
+
+#### 14 ####
+Citan
+"Shall we go, Fei?"
+    Jump in the gate
+    Not yet 
+
+#### 15 ####
+Citan
+"What might this be...?" 
+
+#### 16 ####
+Citan
+"Fei, we should
+investigate this."
+
+#### 17 ####
+Bart
+"Hey, Fei. Look over
+there!" 
+
+#### 18 ####
+Bart
+"It looks like we can
+go down through there."
+
+#### 19 ####
+Bart
+"Fei, let's go."
+    Jump in the gate
+    Not yet 
+
+#### 20 ####
+Bart
+"What the..." 
+
+#### 21 ####
+Bart
+"Let's check it out."
+
+#### 22 ####
+Billy
+"Huh? Over there..." 
+
+#### 23 ####
+Billy
+"I believe we must go
+through that gate to get
+to the lower floor."
+
+#### 24 ####
+Billy
+"Shall we go?"
+    Jump in the gate
+    Not yet 
+
+#### 25 ####
+Billy
+"What kind of device
+might this be?" 
+
+#### 26 ####
+Billy
+"Shall we look it over?" 
+
+#### 27 ####
+Rico
+"Eh, Fei. Look at that." 
+
+#### 28 ####
+Rico
+"That gate leads to the
+lower floor!" 
+
+#### 29 ####
+Rico
+"Fei, we're going."
+    Jump in the gate
+    Not yet 
+
+#### 30 ####
+Rico
+"What the hell?" 
+
+#### 31 ####
+Rico
+"Fei, check it out."
+
+#### 32 ####
+Emeralda
+"..."
+
+#### 33 ####
+Emeralda
+"It looks like we go
+down from there..." 
+
+#### 34 ####
+Emeralda
+"...Go?"
+    Jump in the gate
+    Not yet 
+
+#### 35 ####
+Emeralda
+"What is this...?" 
+
+#### 36 ####
+Emerald
+"...Are you going to
+check it?" 
+
+#### 37 ####
+Emeralda
+"..."
+
+#### 38 ####
+Emeralda
+"It looks like we go
+down from there..." 
+
+#### 39 ####
+Emeralda
+"...Go?"
+    Jump in the gate
+    Not yet 
+
+#### 40 ####
+Emeralda
+"What is this...?" 
+
+#### 41 ####
+Emerald
+"...Are you going to
+check it?" 
+
+#### 42 ####
+{name:07:チュチュ}
+"Fei,
+what is that?" 
+
+#### 43 ####
+{name:07:チュチュ}
+"It looks like we can
+go down through there.{wait:14}
+Let's hurry over there." 
+
+#### 44 ####
+{name:07:チュチュ}
+"Here we go!"
+    Jump in the gate
+    Not yet 
+
+#### 45 ####
+{name:07:チュチュ}
+"What's this?" 
+
+#### 46 ####
+{name:07:チュチュ}
+"Check it out!" 
+
+#### 47 ####
+Maria
+"Fei, please look over
+there."
+
+#### 48 ####
+Maria
+"We may be able to get
+down through that gate."
+
+#### 49 ####
+Maria
+"Fei, we should go."
+    Jump in the gate
+    Not yet 
+
+#### 50 ####
+Maria
+"What do you think this
+device is used for, Fei?" 
+
+#### 51 ####
+Maria
+"Fei, you think we should
+look it over?" 
+
+#### 52 ####
+{fast:FF}Do you want to go up? {wait:0A}
+    Yes
+    No
+
+#### 53 ####
+{fast:FF}Do you want to go down?{wait:0A}
+    Yes
+    No
+
+#### 54 ####
+{fast:FF}Do you want to go down?{wait:0A}
+    Yes
+    No
+
+#### 55 ####
+{fast:FF}Do you want to go up? {wait:0A}
+    Yes
+    No
+
+#### 56 ####
+{fast:FF}Do you want to go up? {wait:0A}
+    Yes
+    No
+
+#### 57 ####
+{fast:FF}Do you want to go down?{wait:0A}
+    Yes
+    No
+
+#### 58 ####
+{fast:FF}Do you want to go up? {wait:0A}
+    Yes
+    No
+
+#### 59 ####
+{fast:FF}Do you want to go down?{wait:0A}
+    Yes
+    No
+
+#### 60 ####
+{fast:FF}Do you want to go down?{wait:0A}
+    Yes
+    No
+
+#### 61 ####
+{fast:FF}Do you want to go up? {wait:0A}
+    Yes
+    No
+
+#### 62 ####
+{fast:FF}Do you want to go down?{wait:0A}
+    Yes
+    No
+
+#### 63 ####
+{fast:FF}Do you want to go up? {wait:0A}
+    Yes
+    No
+
+#### 64 ####
+{fast:FF}Do you want to go down?{wait:0A}
+    Yes
+    No
+
+#### 65 ####
+{fast:FF}Do you want to go up? {wait:0A}
+    Yes
+    No
+
+#### 66 ####
+{fast:FF}Do you want to go up? {wait:0A}
+    Yes
+    No
+
+#### 67 ####
+{fast:FF}Do you want to go down?{wait:0A}
+    Yes
+    No
+
+#### 68 ####
+{fast:FF}Do you want to go down?{wait:0A}
+    Yes
+    No
+
+#### 69 ####
+{fast:FF}Do you want to go up? {wait:0A}
+    Yes
+    No
+
+#### 70 ####
+{fast:FF}Do you want to go up? {wait:0A}
+    Yes
+    No
+
+#### 71 ####
+{fast:FF}Do you want to go down?{wait:0A}
+    Yes
+    No
+
+#### 72 ####
+{fast:FF}Do you want to go down?{wait:0A}
+    Yes
+    No
+
+#### 73 ####
+{fast:FF}Do you want to go up? {wait:0A}
+    Yes
+    No
+
+#### 74 ####
+{fast:FF}Do you want to go down?{wait:0A}
+    Yes
+    No
+
+#### 75 ####
+{fast:FF}Do you want to go up? {wait:0A}
+    Yes
+    No
+
+#### 76 ####
+{fast:FF}Do you want to go down?{wait:0A}
+    Yes
+    No
+
+#### 77 ####
+{fast:FF}Do you want to go up? {wait:0A}
+    Yes
+    No
+
+#### 78 ####
+Gear restoration
+system engaged...
+
+#### 79 ####
+You have too many
+{str}.
+
+#### 80 ####
+ 
+Received {str}.
+
+#### 81 ####
+You have too many
+{str}.
+
+#### 82 ####
+ 
+Received {str}.
+

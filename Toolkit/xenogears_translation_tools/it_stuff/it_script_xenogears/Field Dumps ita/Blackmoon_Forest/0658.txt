@@ -1,0 +1,327 @@
+<TextBlock 1 w:52 h:4>
+Shitan
+"È inutile.<New>
+Il meccanismo del
+ginocchio e il circuito
+di deviazione sono
+entrambi rovinati.<New>
+Il meccanismo può essere
+riparato, ma si deve
+sostituire il circuito…"<Close><End of Block>
+<TextBlock 2 w:38 h:3>
+Shitan
+"Oh, non riesci
+a dormire?"<Close><End of Block>
+<TextBlock 3 w:18 h:2>
+Elly
+"Già…"<Close><End of Block>
+<TextBlock 4 w:52 h:3>
+Shitan
+"Lo immaginavo.<Delay 10>
+È stata una
+dura giornata."<Close><End of Block>
+<TextBlock 5 w:54 h:4>
+Shitan
+"Questo è il veicolo che
+Fei ha utilizzato…<New>
+… quando il villaggio
+è stato attaccato.<New>
+C'era un altro veicolo
+abbandonato ai margini
+del villaggio…<New>
+Nil bayer dars legus?
+(Era tuo, vero?)"<Close><End of Block>
+<TextBlock 6 w:2 h:1>
+!<Opcode 2 20><Close><End of Block>
+<TextBlock 7 w:54 h:4>
+Shitan
+"Proprio come pensavo…<New>
+Il pilota mancante dal
+Gear che ha effettuato un
+atterraggio di emergenza
+a Lahan…<New>
+… e la misteriosa donna
+che girovagava perduta
+nella foresta… sono in
+realtà la stessa persona.<New>
+Giudicando dalla tua 
+uniforme, direi anche che
+sei con le forze armate…
+Ho ragione?"<Close><End of Block>
+<TextBlock 8 w:26 h:3>
+Elly
+"Ma come…?
+Chi sei tu?"<Close><End of Block>
+<TextBlock 9 w:54 h:4>
+Shitan
+"Ho controllato
+le targhette di
+identificazione…<New>
+… dei soldati morti
+durante l'attacco a
+Lahan…<New>
+La forma delle loro
+targhette e l'aspetto
+della tua uniforme sono
+gli stessi."<Close><End of Block>
+<TextBlock 10 w:3 h:1>
+!<Close><End of Block>
+<TextBlock 11 w:48 h:3>
+Shitan
+"Non preoccuparti, sono
+state date loro giuste
+sepolture.<New>
+Ma… potrebbero non
+essere stati troppo
+felici di morire in
+terra straniera."<Close><End of Block>
+<TextBlock 12 w:22 h:2>
+Elly
+"… Probabilmente."<Close><End of Block>
+<TextBlock 13 w:30 h:3>
+Shitan
+"Fei sa di te?"<Close><End of Block>
+<TextBlock 14 w:36 h:3>
+Elly
+"Non credo l'abbia
+ancora realizzato."<Close><End of Block>
+<TextBlock 15 w:48 h:4>
+Shitan
+"Molto probabile…
+Fei non sa nulla del
+mondo fuori da Lahan."<Close><End of Block>
+<TextBlock 16 w:30 h:3>
+Elly
+"Capisco…
+Ecco come mai…"<Close><End of Block>
+<TextBlock 17 w:54 h:4>
+Shitan
+"… In ogni caso, è meglio
+non curiosare più sui
+nostri passati."<Close><End of Block>
+<TextBlock 18 w:16 h:2>
+Elly
+"Ma…"<Close><End of Block>
+<TextBlock 19 w:48 h:4>
+Shitan
+"Diciamo solo che so come
+gira il mondo più della
+maggior parte della gente."<Close><End of Block>
+<TextBlock 20 w:42 h:4>
+Shitan
+"Comunque, Elly…
+Devo chiederti un
+favore…"<Close><End of Block>
+<TextBlock 21 w:32 h:2>
+Elly
+"… Che favore?"<Close><End of Block>
+<TextBlock 22 w:54 h:3>
+Shitan
+"Va' dritta e arriverai
+ad una strada.<New>
+Poi ti basta continuare…
+Potresti, per favore,
+andartene mentre Fei
+ancora dorme?"<Close><End of Block>
+<TextBlock 23 w:4 h:1>
+!?<Close><End of Block>
+<TextBlock 24 w:50 h:4>
+Shitan
+"Cose infelici continuano
+ad accadere intorno a Fei.<New>
+Vorrei proteggerlo, se
+possibile… Non voglio che
+rimanga coinvolto in
+qualche inutile sforzo.<New>
+Dico ciò anche a tuo
+vantaggio. Elly, tu non
+fai parte di questo mondo.<New>
+Ritorna dalla tua
+famiglia."<Close><End of Block>
+<TextBlock 25 w:22 h:2>
+Elly
+"Uhm… Io…"<Space 1><Close><End of Block>
+<TextBlock 26 w:48 h:4>
+Shitan
+"Non preoccuparti.
+Non rivelerò a Fei qual
+è la tua vera identità.<New>
+Gli dirò solo che… sei
+andata per incontrarti
+con la tua famiglia…"<Close><End of Block>
+<TextBlock 27 w:40 h:4>
+Elly
+"No, non è questo!
+È che gli ho fatto
+qualcosa di terribile…<New>
+Perciò… volevo…
+chiedergli scusa."<Close><End of Block>
+<TextBlock 28 w:42 h:2>
+Shitan
+"Qualcosa di terribile?"<Close><End of Block>
+<TextBlock 29 w:44 h:4>
+Elly
+"Fei mi ha detto che è
+stata colpa nostra se
+il vostro villaggio…<New>
+… è stato distrutto.<New>
+Fei continuava a dire…
+ ' se solo non
+ fossero venuti…'<New>
+Poi, ho chiamato Fei
+codardo perché stava
+cercando di scappare
+dalla responsabilità…<New>
+Ma, in realtà, ero io
+quella che cercava di
+evitare di assumersi
+la colpa…"<Close><End of Block>
+<TextBlock 30 w:54 h:4>
+Elly
+"Se non avessi dovuto
+fare un atterraggio
+di emergenza lì…<New>
+… tutti loro starebbero
+ancora vivendo in pace.<New>
+Tutta quella gente
+innocente non si sarebbe
+trovata coinvolta in
+quella tragedia.<New>
+Ma io ho accusato Fei…"<Close><End of Block>
+<TextBlock 31 w:54 h:4>
+Shitan
+"Sei una rarità.<New>
+Non mi aspettavo che
+il tuo popolo avrebbe
+mai pensato come stai
+facendo tu.<New>
+Per la tua gente, gli
+abitanti della superficie
+non sono nulla più di
+animali domestici.<New>
+Non è così…?"<Close><End of Block>
+<TextBlock 32 w:54 h:4>
+Elly
+"…<New>
+'I pastori, gli -Abele-,
+ presero il controllo
+ sugli abitanti della
+ superficie, gli -Agnelli-<New>
+ … avendo il diritto di
+ dare a questi vita e
+ morte, a seconda di come
+ paia loro opportuno…' "<Close><End of Block>
+<TextBlock 33 w:50 h:4>
+Shitan
+"Esattamente.<New>
+Tuttavia, tu sembri
+provare colpa verso
+Fei e gli abitanti.<New>
+Per quale cagione?"<Close><End of Block>
+<TextBlock 34 w:46 h:3>
+Elly
+"Non lo so neanch'io…<New>
+A Jugend mi fu insegnato
+che gli abitanti della
+superficie fossero stupidi
+e spregevoli…<New>
+… Ed è per questo motivo
+che dobbiamo avere il
+controllo su di loro…<Delay 20>
+Ma…"<Close><End of Block>
+<TextBlock 35 w:48 h:4>
+Shitan
+"Ma subito dopo esserti
+incontrata con Fei…<New>
+… qualcosa di suo
+ti ha fatto credere
+diversamente?"<Close><End of Block>
+<TextBlock 36 w:50 h:4>
+Elly
+"Sì.<New>
+Non è diverso da noi…
+infatti mi è  sembrato
+più fiducioso in sé…<New>
+Come se possedesse…
+… qualcosa che noi
+non possediamo.<Delay 10><New>
+Ha anche rischiato la
+sua vita per salvarmi…<Delay 15>
+due volte."<Close><End of Block>
+<TextBlock 37 w:44 h:4>
+Shitan
+"La maggior parte della
+tua gente proverebbe
+vergogna per ciò.<New>
+Ma… tu sei
+grata a Fei…?"<Close><End of Block>
+<TextBlock 38 w:52 h:4>
+Elly
+"Probabilmente è
+grazie a mio padre.<New>
+Ha una mente aperta
+nei riguardi degli
+abitanti della
+superficie.<New>
+La mia tata era… una
+abitante della
+superficie.<New>
+Nessuno sapeva
+di lei, però…<New>
+Inoltre… io sono
+come Fei…"<Close><End of Block>
+<TextBlock 39 w:22 h:2>
+Shitan
+"Come Fei?"<Close><End of Block>
+<TextBlock 40 w:28 h:3>
+Elly
+"No, nulla.
+Lascia perdere…"<Close><End of Block>
+<TextBlock 41 w:54 h:4>
+Shitan
+"Uhmm.
+Credo d'aver capito.<New>
+Mi spiace. Proprio dopo
+aver detto che non
+dovremmo curiosare sui
+nostri passati…<New>
+È la mia indole, sai?
+Mia moglie dice sempre
+che sono troppo ostinato
+e che parlo troppo.<New>
+Ma, personalmente, non
+credo che quest'ultima
+cosa sia vera."<Close><End of Block>
+<TextBlock 42 w:40 h:4>
+Shitan
+"Probabilmente per te
+tornare al tuo paese è
+la cosa migliore.<New>
+Non dovresti proprio
+essere qui."<Close><End of Block>
+<TextBlock 43 w:34 h:4>
+Elly
+"Tornerò al Quartier
+Generale.<Delay 10> Ma poi
+cosa…"<Close><End of Block>
+<TextBlock 44 w:40 h:2>
+Shitan
+"Sei preoccupata…"<Close><End of Block>
+<TextBlock 45 w:16 h:2>
+Elly
+"Sì…"<Close><End of Block>
+<TextBlock 46 w:48 h:4>
+Shitan
+"Preoccuparsi è naturale…
+ 'Anche io mi preoccupavo,
+  una volta, sai!?'"<Close><End of Block>
+<TextBlock 47 w:28 h:2>
+Elly
+"Oh, Shitan…"<Close><End of Block>
+<TextBlock 48 w:46 h:4>
+Shitan
+"Comunque…<New>
+Lascia fare a me per
+quanto riguarda cosa
+dire a Fei…
+Dovresti andare, ora."<Close><Close><End of Block>

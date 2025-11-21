@@ -1,0 +1,32 @@
+#### 1 ####
+Well, now that my motor
+coil's warmed up...{wait:28}
+...let's start the main 
+event!!{clear:96}
+
+#### 2 ####
+Bart
+"Today's my unlucky day.
+Why does this have to
+happen now?{enter}
+Oh well...
+Let's get it over with!"
+
+#### 3 ####
+Ramsus
+"Don't do anything 
+unwarranted, Miang! 
+I still have one arm!!"
+
+#### 4 ####
+Miang
+"Commander...
+let's pull out!"
+
+#### 5 ####
+Miang
+"We're pulling out!{enter}
+...That mad dog seems
+to have a new toy to
+play with."
+

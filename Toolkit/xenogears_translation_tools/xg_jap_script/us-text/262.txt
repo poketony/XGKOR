@@ -1,0 +1,163 @@
+#### 1 ####
+{wait:02}.{wait:02}.{wait:02}.
+
+#### 2 ####
+Ouch{wait:05}...
+
+#### 3 ####
+Bart
+"I guess the Bart Missiles
+weren't such a good idea,
+huh...{enter}
+We were able to save you
+and your friends, Citan{wait:05}...{wait:0A}
+But I wonder what happened
+to Fei and Elly{wait:05}..."
+
+#### 4 ####
+Bart
+"I'm sure{wait:05}...{wait:0F}they're alive
+somewhere...{wait:0F}
+And, once again..."
+
+#### 5 ####
+Bart
+"Man!{wait:0A}{enter}
+The sea breeze stings my
+eye{wait:05}...{wait:0A} So this is what
+they call the sea{wait:05}..."
+
+#### 6 ####
+Bart
+"First of all, I have to
+apologize to those two."
+
+#### 7 ####
+Billy
+"Dad..."
+
+#### 8 ####
+Citan
+"Billy...{wait:0A}
+I should not have
+made such a thing..."
+
+#### 9 ####
+Citan
+"Billy...{wait:0A}
+I should not have
+made such a thing..."
+
+#### 10 ####
+Billy
+"No, it's not
+your fault..."
+
+#### 11 ####
+Billy
+"This's the best way
+to see father off."
+
+#### 12 ####
+You're right...{wait:0A}
+Thanks, son.
+
+#### 13 ####
+Billy
+"D, dad!"
+
+#### 14 ####
+Citan
+"Old friend!{wait:0A}
+Are you alright?"
+
+#### 15 ####
+Citan
+"Old friend!{wait:0A}
+Are you alright?"
+
+#### 16 ####
+Jessie
+"You'd better believe it!{enter}
+I ain't gonna leave that
+stupid junk alone!
+I{wait:0A} improved it!"
+
+#### 17 ####
+Jessie
+"Ouchy-wow-wow!!{wait:0A}
+But I never wanna do
+that again though..."
+
+#### 18 ####
+Citan
+"But still...{wait:05}
+talking about hell...{enter}
+I am surprised to know
+an irreligious person
+like you would believe
+in life after death..."
+
+#### 19 ####
+Citan
+"But still...{wait:05}
+talking about hell...{enter}
+I am surprised to know
+an irreligious person
+like you would believe
+in life after death..."
+
+#### 20 ####
+Jessie
+"Oh?{wait:0A}
+So you were listening?{enter}
+That was a curse.{wait:0A}
+Isn't that a fitting
+end for him?"
+
+#### 21 ####
+Citan
+"It is definitely
+your style."
+
+#### 22 ####
+Citan
+"It is definitely
+your style."
+
+#### 23 ####
+Primera
+"Pa{wait:05}...pa{wait:05}..."
+
+#### 24 ####
+Billy
+"P, Prim!?"
+
+#### 25 ####
+Billy
+"Prim, what did
+you just say?{wait:0A}
+Huh, Prim?"
+
+#### 26 ####
+Primera
+"Pa...{wait:05}pa...{wait:05}"
+
+#### 27 ####
+Jessie
+"Ha, ha, did you hear that?{wait:0A}
+Primera's problem seems to
+have been solved!"
+
+#### 28 ####
+Billy
+"Hah...!{wait:0A}
+Prim talked!{wait:0A}
+Prim just talked!{enter}
+Hey, Prim...{wait:0A}
+Now say my name.{wait:0A}
+Say 'Billy'!"
+
+#### 29 ####
+
+

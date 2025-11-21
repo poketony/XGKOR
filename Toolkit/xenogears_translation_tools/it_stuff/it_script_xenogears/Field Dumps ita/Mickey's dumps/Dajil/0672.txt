@@ -1,0 +1,22 @@
+<TextBlock 1 w:52 h:3>
+Con la pace i nostri figli 
+possono giocare all'aperto.
+Non è meraviglioso?<Close><End of Block>
+<TextBlock 2 w:40 h:2>
+Ultimamente la città è
+diventata molto vivace.<New>
+È bello vedere i
+bambini così felici.<Close><End of Block>
+<TextBlock 3 w:54 h:3>
+Ehi, è successo qualcosa
+di bello? Ultimamente i
+soldati sono tutti sorridenti.<New>
+E sono così gentili!
+È meraviglioso!<Close><End of Block>
+<TextBlock 4 w:50 h:2>
+Ehi, tutti i soldati sono qui
+per scavare nelle rovine?<New>
+Pensavo che fossero
+alle calcagna di quel
+'Don Giovanni'…<New>
+Forse sbagliavo.<Close><Close><End of Block>

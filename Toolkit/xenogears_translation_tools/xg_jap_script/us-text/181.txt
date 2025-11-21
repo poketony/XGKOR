@@ -1,0 +1,57 @@
+#### 1 ####
+Locked with a special key.{wait:1E}
+It doesn't look like it's
+going to open.
+
+#### 2 ####
+Tool Guy
+"Better keep your promise.{wait:0F}
+It doesn't matter what it
+is, just buy anything.
+
+#### 3 ####
+Tool Guy
+"Sorry I yelled at you
+earlier.{wait:0F}
+That key was just a joke."
+
+#### 4 ####
+Tool Guy
+"{wait:05}...{wait:05}Come by next time
+when it's not night."
+
+#### 5 ####
+Tool Guy
+"We're the tool shop. We've
+got what you need for long
+trips or just everyday!"
+
+#### 6 ####
+Tool Guy
+"Thanks!{wait:05} Come again."
+
+#### 7 ####
+Busy busy,{wait:0A} busy busy.{clear:2D}
+
+#### 8 ####
+Th, this goes there{wait:05}...{wait:0F}
+This{wait:05}...{wait:0A} over there!{clear:2D}
+
+#### 9 ####
+Dad's always like that to
+customers who come late.{wait:05} {enter}
+It's my hobby to see the 
+look on their face when 
+it happens.
+
+#### 10 ####
+Ah hahaha,{wait:05} ooh sorry.
+
+#### 11 ####
+Kuhehehe{wait:0A}...{wait:05}welcome.{wait:0F}
+If you buy something
+I'll open the lock for you.
+
+#### 12 ####
+I locked the door!{clear:1E}
+

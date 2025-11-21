@@ -1,0 +1,46 @@
+APPUNTI SUL FORMATO DELLA MAPPATURA DELLA GRAFICA IN BATTLE IN XENOGEARS
+by chop
+
+La mappatura della grafica in battle è contenuta nel sottofile 0 del file 2614.
+
+Il file contiene 234 (0xEA) immagini mappate.
+I primi quattro byte sono il numero di immagini mappate (234 appunto), seguono a coppie
+di byte dei puntatori all'inizio della mappatura per ognuna di queste 234 immagini.
+La mappa vera e propria inizia all'offset 0x1d8
+
+Il formato della mappa è il seguente:
+4 byte indicano il numero di pezzi di cui è formata l'immagine.
+Ogni pezzo è rappresentato con 28 (0x1C) byte. 
+Il formato è:
+2   byte offset x
+2   byte offset y+0x34
+2   byte larghezza
+2   byte altezza
+2   byte offset a video x
+2   byte offset a video y
+4   byte sconosciuti
+1?  byte indica il numero della palette (forse più di uno?)
+11? byte sconosciuti (i rimanenti)
+
+Di seguito un elenco più dettagliato di come è mappata la grafica
+
+offset	scritta		numero pezzi	note
+0x1d8	3 Points	6 		forse la s si può unire al pezzo prima
+0x284	2 Points	6		idem
+0x330	1 Points	5
+0x3c0	cancel end	4
+0x434	fuel		1		è la stessa scritta messa a video in posizioni diverse
+0x454	fuel		1
+0x474	fuel		1
+0x494	-		1		pezzo 12x12 "Eth mach shutdown"
+0x4B4	-		1		pezzo 12x12 "Eth mach shutdown"
+0x4D4	-		1		pezzo 12x12 "Eth mach shutdown"
+0x4F4	-		1		pezzo 12x12 "Eth mach shutdown"
+0x514	-		1		pezzo 12x12 "Camera damaged"
+0x534	-		1		pezzo 12x12 "Eth mach shutdown"
+0x554	-		1		pezzo 12x12 "Eth mach shutdown"
+0x574	-		1		pezzo 12x12 "Eth mach shutdown"
+0x594	0		1		numeri in piccolo in alto a destra nel raw
+0x5B4	1		1		numeri in piccolo in alto a destra nel raw
+
+

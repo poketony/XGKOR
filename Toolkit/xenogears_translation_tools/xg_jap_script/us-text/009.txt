@@ -1,0 +1,332 @@
+#### 1 ####
+Fei
+"???{wait:14}
+What is that?"
+
+#### 2 ####
+Fei
+"Sea of sand...?"
+
+#### 3 ####
+Fei
+"Hmmm...{wait:14}
+Well, whatever."
+
+#### 4 ####
+Fei
+"Well then,
+thanks for this."
+
+#### 5 ####
+Barkeep
+"Aaarh, Fei!
+That's the back door!{wait:14}
+Go around and come in
+through the front door!"
+
+#### 6 ####
+Barkeep
+"Hey, it's Fei.
+How's it going?{enter}
+I ain't got any drinks
+for kids, ya know!{wait:14} 
+Come back when you're
+older, alright!!?"
+
+#### 7 ####
+Barkeep
+"Here's a tip, Fei.
+Be very cautious of
+alcohol and women.{enter}
+Behind those sweet and
+beautiful appearances
+lies a deep, dark swamp.{enter}
+Before you realize it,
+you are trapped, and
+lose your freedom.{enter}
+They are the most
+fearsome demons
+in this world."
+
+#### 8 ####
+Barkeep
+"Hey, Ellen!{wait:14}
+Quit teasing the
+innocent kid!"
+
+#### 9 ####
+Hmmm...!!{wait:14}
+Young one, beware!
+I can see it...{enter}
+There is a dark and
+icy wind that blows
+where you are going.{enter}
+A wind that nurtures
+grief and resentment,
+inviting death from
+which there is no
+salvation...{enter}
+No one will be able
+to escape from it!
+But you, and only you,
+must eventually face
+up to that dark wind!
+
+#### 10 ####
+... Just kidding!{wait:14}
+I've always wanted
+to try saying that!{enter}
+Did I scare you?{wait:0A}
+I'm really sorry!
+Wahaha...
+
+#### 11 ####
+But in reality, these
+premonitions of misfortune
+tend to take on their own
+shape once uttered.{enter}
+You ought to be
+prepared...{enter}
+... Hah hah! Just kidding!{wait:14}
+It's also a joke!{wait:14}
+Don't let it get to you.
+
+#### 12 ####
+Instead of believing
+what others say, you
+should follow your
+own path.{enter}
+After all, your
+fate will be what
+you make of it.
+
+#### 13 ####
+But, do you want to hear
+my prediction again? Eh?{wait:14}
+    Yeah, from the top!
+    No, enough already!
+
+#### 14 ####
+Oh good!
+That's the spirit!
+Well, here goes...{wait:14}
+Are you ready?
+
+#### 15 ####
+How boring.{wait:14}
+A guy like you will
+never be popular.
+
+#### 16 ####
+Gramps always makes
+things out to be
+easier than they
+really are!{enter}
+It's actually quite
+a tremendous feat
+to get through that
+Blackmoon Forest...{enter}
+All those dangerous
+beasts and fearsome
+fire-eating lizards
+live there...{enter}
+I tell you, it's
+better if you don't
+go near the place!
+
+#### 17 ####
+South of here is the
+'Blackmoon Forest'.
+If you can make it through
+there, you'll come to Aveh,
+the great land of fire!{enter}
+I shouldn't be wasting my
+time here in this little
+country village.
+Why, I oughta go to Aveh
+and work there...!{enter}
+Beautiful women and good
+liquor...{wait:0F}
+And if I work hard enough,
+I'll be rich in no time!{enter}
+Hehehe...
+Wouldn't that be good!
+
+#### 18 ####
+Pay no attention to
+the fool!
+He's always saying all
+this carefree stuff.{enter}
+In reality, it's an
+incredibly hard task
+to get through the
+Blackmoon Forest...{enter}
+Lots of dangerous
+beasts and fearsome
+fire-eating lizards
+make their home there!{enter}
+It'd be better for
+you to stay away
+from there!
+
+#### 19 ####
+If you get through the
+'Blackmoon Forest' to
+the south of here, you
+will find the kingdom of
+fire, 'Aveh'.{enter}
+Instead of just wasting
+away here in this little
+mountain village, I should
+go have some fun in Aveh!{enter}
+Beautiful girls, tasty
+liquor...{wait:0F}
+Why, a gentleman like
+myself is bound to draw
+the babes wherever I go!{enter}
+Haw-haw-haw...
+Wouldn't that be good!
+
+#### 20 ####
+Have you heard the
+latest rumors!?{enter}
+It's said that, in the
+southern desert of Aveh
+there is buried treasure
+all over the place!{enter}
+There's hundreds of
+people who are trying
+to strike it rich by
+digging everywhere!{enter}
+A single strike could 
+make you totally rich.
+
+#### 21 ####
+But then again, you
+never can tell how
+much is the truth...{enter}
+In life, if it sounds
+too good to be true,
+it usually is. Bah.
+
+#### 22 ####
+You gotta problem with
+me{wait:05}, hic,{wait:05} drinkin' at
+midday?{wait:14} How can I not be
+drinkin'{wait:05}... Damn it...
+
+#### 23 ####
+Nobody knows...{wait:0A}
+In the depths...{wait:0A}
+of the sea...{wait:0F}
+a tear...drop...{wait:0F}
+shed by...{wait:0F}
+a mermaid...{enter}
+It's not some dream...
+You idiots...{wait:14}
+Hic...
+
+#### 24 ####
+You got a problem, boy?{wait:14}
+    No... Go, go, go for it!!
+    Yeah... I hate drunks!
+    Drinking won't help matters!
+
+#### 25 ####
+Hya hah hah...
+I like you, boy!{wait:14} Now go
+away and leave me alone.
+
+#### 26 ####
+Hah!
+The feeling's mutual...{enter}
+I hate nosy people!
+Since we both hate each
+other, why don't you just
+leave me alone then, eh?
+
+#### 27 ####
+Shut up! 
+What would you know!?{enter}
+You don't know how I
+feel.{wait:14} I wouldn't want
+you to know.{wait:14} Damn it...
+
+#### 28 ####
+No...{wait:0F}
+Wait up, boy!
+
+#### 29 ####
+I'll give you this.{wait:14}
+Take it.
+
+#### 30 ####
+I have no use for it...{wait:14}
+Don't worry 'bout it.
+Just take it.
+
+#### 31 ####
+Nobody knows...{wait:14}
+In the depths...{wait:0F}
+of the sea...{wait:0F}
+a tear...drop...{wait:19}
+shed by...{wait:0F}
+a mermaid...
+
+#### 32 ####
+Received a 'Mermaid Tear'!
+
+#### 33 ####
+My, that drunk had the
+most beautiful stone!{wait:14}
+Hmmm...
+I wonder what it was?
+
+#### 34 ####
+Welcome, Fei.
+You wanna have some fun?{wait:14}
+I give the best service
+in Lahan, you know!?
+
+#### 35 ####
+Oh my! Welcome Fei...
+You wanna have some fun?
+I give the best service
+in Lahan, you know!?
+
+#### 36 ####
+Yeah, yeah! I know!{wait:14}
+It's just a joke...
+you blockhead!
+
+#### 37 ####
+Gee, he's got sharp
+hearing!{wait:14} Anyway...{enter}
+(Maybe next time, okay,
+Fei!?{wait:14} I'll be waiting...{wait:0E}
+Rowrrr!)
+
+#### 38 ####
+(Maybe next time, okay,
+Fei!?{wait:14} I'll be waiting...{wait:0E}
+Rowrrr...)
+
+#### 39 ####
+There he goes again...{wait:14}
+How could there be a
+mermaid in the middle
+of the sea of sand?
+
+#### 40 ####
+What's this, Fei?
+You've never seen
+the sea of sand?{enter}
+This is what the
+sea of sand is...
+It's a vast, swirling,
+bottomless desert.{enter}
+More than half the world
+is this sea of sand.{enter2}
+I'm surprised you haven't
+heard anything about it.
+

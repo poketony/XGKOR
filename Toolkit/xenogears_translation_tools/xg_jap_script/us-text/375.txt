@@ -1,0 +1,478 @@
+#### 1 ####
+Maria
+"{name:13:ゼプツェン},
+sally forth!!"{clear:32}
+
+#### 2 ####
+Maria
+"{name:13:ゼプツェン},
+Let's go!!"{clear:32}
+
+#### 3 ####
+{fast:03}Hmph, it's you again...{wait:14}
+You pests aren't making
+my job any easier.
+
+#### 4 ####
+{fast:02}Elly
+"Dominia...!{wait:14}
+Is that you!?"
+
+#### 5 ####
+{fast:02}Fei
+"Dominia!"
+
+#### 6 ####
+{fast:02}Elly
+"Dominia!{wait:14}
+I can't let you have the
+Gear!"
+
+#### 7 ####
+{fast:02}Fei
+"I can't let you have the
+Gear!"
+
+#### 8 ####
+{fast:02}Maria
+"...!?{wait:14}
+What do you mean?"
+
+#### 9 ####
+{fast:02}Dominia
+"What do I mean?{wait:14}
+You'll understand it
+when you hear the story."
+
+#### 10 ####
+{fast:02}Dominia
+"I don't lie, Maria.{wait:14}
+This is the truth.{enter}
+Your splendid father
+succeeded in fusing man
+and machine.{enter}
+And he opened the gates
+to hell for the Lambs."
+
+#### 11 ####
+{fast:02}Don't you think you've
+said enough, Dominia?
+
+#### 12 ####
+{fast:02}Jessie
+"Why are women so 
+gossipy?{enter}
+They jabber about
+things they shouldn't
+be talking about.
+Hopeless..."
+
+#### 13 ####
+Billy
+"D, dad!?"
+
+#### 14 ####
+Dominia
+"Jesiah!?{wait:14}
+You...!?{enter}
+What're you doing in
+Shevat!?{enter}
+At one point, weren't
+you considered to be
+the next Gebler
+commander-in-chief!?"
+
+#### 15 ####
+Fei
+"Hey Maria.{wait:14}
+Don't mind what she
+told you..."
+
+#### 16 ####
+Fei
+"Wait!{wait:14}
+Dominia!"
+
+#### 17 ####
+Fei
+"...!?{wait:14}
+This...is...?"
+
+#### 18 ####
+{fast:02}Maria
+"Where is the
+intruder...!?"
+
+#### 19 ####
+{fast:02}Maria
+"Undoubtedly, I am the
+daughter of Nikolai,
+Maria Balthasar!{enter}
+What about it...?"
+
+#### 20 ####
+{fast:02}Maria
+"That's a lie!!{wait:14}
+My father wouldn't do
+such a horrible thing!!"
+
+#### 21 ####
+{fast:02}Maria
+"...!!"
+
+#### 22 ####
+Maria
+"...{wait:14}
+Father..."
+
+#### 23 ####
+Maria
+"..."
+
+#### 24 ####
+Maria
+"{name:13:ゼプツェン}..."{clear:C8}
+
+#### 25 ####
+Maria
+"{name:13:ゼプツェン}!!"
+
+#### 26 ####
+Maria
+"I'm sorry,{wait:14} 
+I'm late...{enter}
+Let's go!
+Solaris'...{wait:3C}
+Solaris'...{wait:32} enemy is
+awaiting!!"
+
+#### 27 ####
+Dominia
+"Never thought I'd come
+across {name:13:ゼプツェン}
+in my place of escape."
+
+#### 28 ####
+Dominia
+"I'll take
+{name:13:ゼプツェン}.{enter}
+Originally, this 
+belonged to us,
+Solaris."
+
+#### 29 ####
+Dominia
+"Fool, not even knowing
+this Gear is the point
+of contact between us."
+
+#### 30 ####
+Dominia
+"Heh, then try and
+stop me!"
+
+#### 31 ####
+Dominia
+"Huh...?"{clear:14}
+
+#### 32 ####
+Dominia
+"That child...
+Hey, you...{wait:14}{enter}
+Are you the daughter
+of Nikolai...?"
+
+#### 33 ####
+Dominia
+"I see...{enter}
+So you're his beloved
+daughter to whom he offered
+himself to undertake that 
+difficult task..."
+
+#### 34 ####
+Dominia
+"Hey, young girl.{wait:14}
+Want to hear
+an interesting story?{enter}
+Let's see...{wait:14}
+How about the cursed
+secret of
+{name:13:ゼプツェン}?"
+
+#### 35 ####
+For the past several
+decades, our scientists
+had put so much effort
+into the research to
+create evolved Gears.{enter}
+Regardless of how great a
+pilot one is, as long it
+is human, there will
+always exist a time lag
+and human error when
+interfacing with a
+machine.{enter}
+That's when your father,
+Nikolai was targeted.{wait:14}
+He was a genius in the
+field of cranial nerve
+mechanisms.{enter}
+They made Nikolai search
+for a way for humans to
+go beyond humans...{wait:14} By
+merging humans and
+machines.{enter}
+In other words, they were
+trying to create a new
+life, an ultimate living
+weapon,{wait:0A} by connecting a
+living human brain to a
+Gear directly.{enter}
+It would've stayed as a
+mere fantasy{wait:0A} without
+Nikolai.{wait:14} But that genius
+made the fantasy come
+true...
+
+#### 36 ####
+As a matter of fact,
+various data and
+components obtained from
+the war in Ignas, and the
+Battling in Kislev, were
+used as experimental
+materials.{enter}
+That is how the special
+humanoid mutants, Wels
+were born.{wait:14} Wels created
+in Solaris were tested
+on the surface.{enter}
+Only the Wels that passed
+the tests were dismantled,
+restructured, and reborn.{wait:14}
+They became the Gear's
+central control circuit...
+and became part of the
+machine...{enter}
+It's all the result of
+your father's great
+research.{wait:14}
+{name:13:ゼプツェン}, is the
+prototype of 
+a man-machine fusion
+Gear.{enter}
+In other words...
+{name:13:ゼプツェン} was completed
+at the cost of innumerable
+land dwellers' lives.
+
+#### 37 ####
+And in the nerve circuit
+of {name:13:ゼプツェン} lies...
+
+#### 38 ####
+Dominia
+"Hmph, fools!
+Don't get so cocky.{wait:14}
+The party's just begun.{enter}
+But, I guess it's alright.
+My mission is complete.{wait:14}
+All that's left is..."
+
+#### 39 ####
+Dominia
+"Maria, I'm afraid I must
+go now.{enter}
+Enjoy your party.{wait:14}
+Hah hah hah...!"
+
+#### 40 ####
+{fast:02}Dominia
+"Who is it!?"{clear:1E}
+
+#### 41 ####
+Jessie
+"Don't get so excited.{clear:1E}
+It's not good for your
+beauty, Dominia.{enter}
+We adults have our own
+reasons.{wait:14} But you kids
+wouldn't understand."
+
+#### 42 ####
+Jessie
+"I think you've played
+with enough fire for
+today.{wait:14} Just go home.{enter}
+Maria is the only
+one who can operate
+{name:13:ゼプツェン}.{enter}
+You should be well aware
+of that."
+
+#### 43 ####
+Jessie
+"It looks like our guests
+have arrived.{wait:14}
+Let's go upstairs.{enter}
+The Yggdrasil is also
+accommodated in the dock.{wait:14}{enter}
+I'm sure the other
+guys are making a
+fuss over it."
+
+#### 44 ####
+Jessie
+"I have an ominous
+premonition...{enter}
+I doubt it but...
+they could've..."
+
+#### 45 ####
+{fast:02}"It'll take a bit 
+more time to inspect
+{name:13:ゼプツェン}.{enter}
+Please go up there,
+and take a look around
+town."
+
+#### 46 ####
+Maria
+"This {name:13:ゼプツェン} was
+developed by my father.{enter}
+At the research
+institute in Solaris..."
+
+#### 47 ####
+Maria
+"I just turned five years
+old at that time, and had
+no clue what was happening.{enter}
+Using me as a hostage,
+they forced my father to
+continue the research..."
+
+#### 48 ####
+Maria
+"But he never showed his
+pain or sorrow in front
+of me...{enter}
+He always smiled 
+and said...{enter}
+'Don't worry, Maria,
+ {name:13:ゼプツェン} will be
+ by your side to
+ protect you...' "
+
+#### 49 ####
+Maria
+"Five years ago, that day,
+when I fell behind in our
+escape...{enter}
+My father protected me
+and ended up
+being left behind..."
+
+#### 50 ####
+Maria
+"My father's voice, his
+smiles...{wait:14}are leaving me.{enter}
+They are far away, 
+becoming obscure...{enter}
+I believed this would
+never happen...{wait:14}I swore
+I'd never forget...!{enter}
+Now, the only connection
+between my father and me
+is this {name:13:ゼプツェン}..."
+
+#### 51 ####
+Maria
+"But...I'll save my
+father someday!{enter}
+I'll bring back my
+father's smile!{wait:14}
+{name:13:ゼプツェン} and I will
+do it, I swear...!!{enter}
+I swear...!!
+..."
+
+#### 52 ####
+Maria
+"Sorry...{wait:14}I shouldn't have
+told you such a bizarre
+story...{enter}
+It has nothing to do with
+you..."
+
+#### 53 ####
+{fast:02}I never thought it'd turn
+out that way...{wait:14}
+I was scared to death.{enter}
+We restored the Yggdrasil
+to perfection.
+It can fly anytime.
+
+#### 54 ####
+{fast:02}Well, talking about
+servicing, it's not like
+we know everything about
+{name:13:ゼプツェン}.{enter}
+Realistically, all we can do
+is check for abnormalities
+and do simple repairs.
+
+#### 55 ####
+{fast:02}Don't worry,
+I'll also take a look at
+your Gears later.
+
+#### 56 ####
+{fast:02}It was amazing, I was so
+impressed!{wait:14} As long as
+Maria and you're with us,
+we have the power of a
+1000 Gears.{enter}
+We gave it our all to fix
+the Gears and the Yggdra!{wait:14}
+At this rate, we can beat
+Solaris in one shot!
+
+#### 57 ####
+...Maybe.{clear:28}
+
+#### 58 ####
+{fast:02}They say the fight between
+you and {name:13:ゼプツェン}
+was well matched?{enter}
+Amazing...{wait:14}
+There are still people
+from the surface that can
+do all that.{enter}
+No sweat. If we all work
+together, we can teach
+Solaris a thing or two!
+
+#### 59 ####
+...Maybe{clear:28}
+
+#### 60 ####
+How could Solaris do such
+a terrible thing...!!{wait:14}
+Damn it!{enter}
+It's unbearable...to see
+the genius, Dr. Nikolai
+ending his life like
+that...
+
+#### 61 ####
+But, this is such a
+monster...{wait:14}Maria's father
+designed something really
+extraordinary.{enter}
+I hear he's a Solaris
+scientist, but I still
+respect him. He proved to
+me a genius really exists.
+

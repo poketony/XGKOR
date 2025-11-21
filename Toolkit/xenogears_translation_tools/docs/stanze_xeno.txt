@@ -1,0 +1,734 @@
+ve pI file contrassegnati da un punto interrogativo sono zone che non riconosco.
+
+
+Quando ad un file è associata la dicitura 'stanza', vuol dire che
+contiene solo testi di ritrovamento oggetti o poco altro.
+
+NOTA: Per ottenere il numero del file nel cd2, sottrarre 5 unità al numero.
+NOTA 2: Totale files FIELD da tradurre (contando 1 doppione 1248 con tasti usa): 624
+
+Lahan
+
+0608 - Lahan, esterni
+0610 - Scena iniziale del gioco e scena dell'attacco in cui Fei ritrova Dan.
+0612 - Scena dell'esilio di Fei.
+0614 - Introduzione al gioco.
+0616 - Stanza dove vengono fornite spiegazioni sul gioco al giocatore.
+0618 - Emporio di Lahan.
+0620 - Casa della persona con cui si gioca Carta Sasso Forbici.
+0622 - Casa dove Fei parla di come considera Lahan.
+0624 - Bar di Lahan.
+0626 - Lahan, casa.
+0628 - Casa di Alice, piano inferiore.
+0630 - Casa di Alice, piano superiore, dialogo tra lei ed Alice.
+0632 - Casa di Fei e Chief Lee, piano superiore, primo incontro con Dan.
+0634 - Stanza di Fei non appena inizia il gioco.
+1974 - Contiene un brevissimo dialogo che appare durante un flashback all'inizio del gioco
+	 (quando Fei è dato a Chief Lee).
+
+Mountain Path
+
+0636 - Zona tra Lahan e casa di Shitan, quella in cui si parla col bambino del big jump.
+
+Shitan's House
+
+0640 - Cortile della casa di Shitan.
+0644 - Interni della casa di Shitan.
+0648 - Ripostiglio della casa di Shitan.
+
+Blackmoon Forest
+
+0650 - Incontro tra Fei ed Elly
+0652 - Crisi di Fei, Elly gli dà del 'codardo'.
+0654 - Scena dopo il combattimento col Rankar.
+0656 - Dialogo tra Elly e Fei, Elly gli si presenta.
+0658 - Dialogo "notturno" tra Shitan e Elly. Elly lascia il gruppo.
+0660 - Qui Elly viene colpita nel suo Gear ed è costretta ad atterrare.
+
+Dajil
+
+0664 - Casa (manutenzione dell'acquedotto).
+0666 - Officina Gear (?).
+0668 - Casa.
+0670 - Casa.
+0672 - Casa.
+0674 - Casa.
+0676 - Esterni di Dajil.
+0678 - Shitan e Fei dialogano sul noleggio di una Dune Buggy, probabilmente è il negozio dove la si affitta.
+0680 - Probabilmente è l'edificio dell'Ass. Cacciatori di Tesori.
+0682 - Stazione di Guardia dell'esercito di Aveh.
+0684 - Sconosciuto, dialogo tra Shitan e Fei riguardo degli scavi vicini a Dajil.
+0686 - Bar, primo incontro con Big Joe.
+0692 - Probabilmente una casa.
+0694 - Edificio.
+0696 - Officina Gear della Chiesa.
+0698 - Sconosciuto.
+
+Deserto di Ignis e Dunemen Island (la zona va contata come una sola)
+
+0700 - Incontro con i Dunemen e dialogo con quello che può portare fuori dall'isola
+	 i personaggi usando una jeep.
+0704 - Soliloquio di Fei nel deserto.
+0706 - Incontro tra Fei ed alcuni Dunemen. Qui lui ruba una loro jeep.
+0710 - Ritrovamento della Mumyo Sword.
+0712 - Altro dialogo di Fei.
+0714 - Incontro nel deserto tra Fei e Shitan che gli porta Weltall.
+0716 - Incontro tra Fei e Grahf.
+0718 - Cella di Fei e Shitan nella nave di Aveh.
+0720 - Sconosciuto, parla Shitan.
+0722 - Stanza
+0724 - Scena in cui Shitan e Fei fuggono dalla nave dove erano tenuti prigionieri.
+       Fei sale su Weltall.
+0728 - Incontro tra Fei e Bart.
+0730 - Probabilmente parla Bart. Fei e Shitan sono rimproverati, dicendo loro che
+	 sono dei codardi perché fanno morire i loro compagni salvando solo loro stessi.
+0732 - Scena in cui, mi pare, Bart si rende conto che la nave che stanno osservando
+	 contiene il nuovo modello di Gear di Kislev.
+
+Stalactite Cave
+
+0734 - Prima stanza, quella del masso.
+0736 - Stanza sensore grotta.
+0738 - Stanza prima della casa di Baldassarre.
+0744 - Stanza con l'interruttore, prima di Calamity.
+0748 - Casa dell'Ol' Man Bal.
+0750 - Fei scende da Weltall, primo incontro a piedi con Bart.
+0752 - Uscita della caverna.
+
+Bart's Hideout
+
+0754 - Ascensore.
+0756 - Bar.
+0758 - Dormitorio.
+0760 - Stanza di Bart.
+0762 - Stanza con lo schermo a terra, dove viene spiegato il piano per il salvataggio di Margie.
+0764 - Molo d'attracco dell'Yggdrasil.
+0766 - Attacco degli ufficiali di Gebler alla base di Bart.
+0768 - Dialogo tra Maison e Shitan, è una sorta di flashback.
+0770 - Franz (Vance) Attacca due bambini, Fei li salva.
+0772 - Fei arriva in aiuto di Bart e Shitan.
+0774 - È l'hangar dei Gear del rifugio di Bart.
+
+Nisan con Chiesa
+
+0776 - Negozio.
+0778 - Casa, lunghissimo dialogo tra tutti i personaggi, si parla di Solaris.
+0780 - Albergo di Nisan.
+0782 - Sala del consiglio.
+0784 - Il gruppo discute del piano contro Vanderkam.
+0786 - Stanza?
+0788 - Casa del pittore.
+0790 - Stanza delle guardie?
+0792 - Esterni di Nisan.
+0794 - Mappa di Nisan.
+0796 - Cattedrale.
+0798 - Il gruppo discute dell'attacco a Vanderkam, è una copia del molo dell'Yggdrasil.
+0800 - Stanza delle suore.
+0802 - Stanza dove c'è il ritratto di Sophia.
+1554 - Esterni di Nisan, usata nella scena prima di andare al Mausoleo.
+1592 - Scena del cd2, Elly parla con Margie mentre il resto del gruppo è a Mahanon.
+
+Bledavik
+
+0808 - Mappa di Bledavik.
+0810 - Esterni con mercato.
+0812 - Mercato dopo la pace.
+0814 - Albergo.
+0816 - Stanza della suora.
+0822 - Camera dell'albergo.
+0824 - Casa-negozio.
+0826 - Casa.
+0828 - Casa.
+0830 - Casa? Si parla del cameriere del ristorante.
+0832 - Casa, si parla del bambino che gioca a nascondino.
+0834 - Negozio d'armature.
+0836 - Casa.
+0838 - Casa piena di gatti.
+0840 - Piano di sopra della casa dei gatti.
+0842 - Bar, 'prima versione'.
+0846 - Armeria.
+0848 - Officina Chiesa. Un tipo si lamenta perché gli si parla da dietro il bancone.
+0852 - Bar, 'seconda versione'.
+0854 - Casa.
+0856 - Esterni della piazza.
+0858 - Interno tendone con minigiochi.
+0860 - Merry go Pop.
+0862 - Whose Balloons.
+0864 - Mirror of Truth.
+0866 - Porta della chiusa?
+0868 - Piazza del Torneo.
+0870 - Bart instaura una repubblica, parla al popolo.
+0872 - Sigurd parla a Bart del suo passato.
+0874 - Cortile del castello.
+0876 - Arena del Torneo?
+0878 - Stanza del castello.
+0880 - Stanza del castello.
+0882 - Stanza del castello.
+0884 - Stanza del castello.
+0886 - Stanza del castello.
+0888 - Stanza del castello, Bart e Maison parlano.
+0890 - Stanza del castello.
+0892 - Stanza del castello.
+0894 - Castello, cucina.
+0896 - Castello, biblioteca.
+0898 - Stanza del castello.
+0900 - Castello, stanza idrica.
+0902 - Tenda, arena del Torneo.
+0904 - Tenda nel Torneo, incontro tra Fei, Dan e Wiseman.
+0906 - Stanza del trono, castello.
+0908 - Il gruppo discute dei generatori dei portali, stanza da pranzo del castello.
+0910 - Corridoio del castello, incontro tra Ramsus, Margie e Bart.
+0914 - Castello, camera di Margie.
+0916 - Castello, corridoio.
+0926 - Camera da letto, Ramsus e Miang assieme.
+0928 - Incubo di Ramsus.
+
+Base di Geburah
+
+0930 - Base di Gebler, al gruppo di Elly vengono dati gli ordini d'attacco su Nortune.
+0934 - Discorso tra Elly ed il suo gruppo.
+0936 - Base di Gebler, Bart non crede che Elly voglia aiutare il gruppo a fuggire.
+0938 - Dialogo tra Miang e Grahf, dopo l'attacco al Golia.
+0940 - Credo base di Gebler, dialogo tra Shakhan e Ramsus nell'ascensore.
+0942 - Elly dà a Fei il codice di avviamento Gear.
+0946 - Elly e Dominia discutono della 'purificazione' di Nortune.
+0948 - Incontro tra Ramsus e Vanderkam.
+
+Zona della flotta di Vanderkam
+
+0950 - Zona con il bot riparatore.
+0952 - Altro bot.
+0954 - Il gruppo di Elly incontra Fei.
+0956 - Parla Maitreya.
+0958 - Flashback sul passato di Elly.
+0960 - Incontro tra Fei ed Elly dopo la battaglia.
+0962 - Base di Vanderkam?
+0964 - La nave di Ramsus avvista Id.
+0966 - ? Credo sempre base di Vanderkam.
+0968 - Come sopra.
+0972 - Incontro tra Grahf e Vanderkam.
+0974 - Fei e Maitreya parlano.
+0976 - Vanderkam dice: I will kill you.
+0978 - Vanderkam attacca Maitreya, Fei e gli altri.
+0980 - Scena nell'Yggdrasil? Riguarda comunque l'attacco di Id.
+0984 - Esterni dell'Yggdrasil durante l'attacco di Id.
+0986 - Bart e Ramsus incontrano Id.
+0990 - Dialogo di Id.
+0992 - Nave di Vanderkam, interni.
+
+Nortune & Stabilimento Golia
+
+0994 - Mappa di Nortune.
+0996 - Blocco A.
+0998 - Blocco D.
+1000 - Sul treno, Shitan e Fei.
+1002 - Mappa di Nortune, CD1.
+1004 - Fei combatte con Rico ed i suoi compari.
+1006 - Casa della Dott.ssa Diana.
+1010 - Caserma Blocco A.
+1012 - Casa.
+1014 - Stanza di una casa.
+1016 - Bar 'Il Gattopardo'.
+1018 - Negozio.
+1020 - Negozio del Tool Guy.
+1022 - Casa.
+1024 - Centro B-Info.
+1026 - Stanza del fanatico dei Gear.
+1028 - Mensa degli alloggi di Fei.
+1030 - Stanza.
+1032 - Dormitorio dell'alloggio.
+1034 - Sala docce.
+1036 - Istituto di Nisan.
+1040 - Bar di Latina.
+1042 - Stanza di Rico.
+1044 - Sala da letto della casa del Campione.
+1046 - Stanza.
+1048 - Battling Arena, durante il torneo per la liberazione di Fei.
+1050 - Battling Arena 2.
+1052 - Incontro tra Wiseman, Hammer, Shitan e Fei.
+1054 - Rico contro il Rankar.
+1056 - Incontro, durante l'attacco su Kislev, di Fei e Rico.
+1058 - Stanza del distretto.
+1060 - Stanza del distretto centrale.
+1062 - Stanza di una gru del distretto.
+1064 - Flashback di Rico, suo passato.
+1066 - Corridoio del distretto.
+1068 - Altro corridoio.
+1070 - Stanza.
+1072 - Stanza.
+1074 - Attracco dell'Ezekiel.
+1076 - Stanza.
+1078 - Stanza della moglie del Kaiser.
+1080 - Stanza del Kaiser.
+1084 - Fogne.
+1086 - Altra stanza delle fogne, con il vecchio.
+1088 - Fogne, secondo piano, dove si trovano le chiavi.
+1090 - Fogne.
+1092 - Flashback con filmatino.
+1094 - Attacco su Nortune. Dialogo tra Shitan e Fei.
+1096 - Attacco su Nortune, Fei, Elly e Rico su Gear.
+1098 - Elly con i suoi subordinati.
+1100 - Scena dell'attacco su Nortune.
+1102 - Dialogo tra Fei ed Elly.
+1106 - Negozio Gear Automatico (?).
+1108 - Stanza.
+1110 - Stanza con Minigear.
+1112 - Stanza.
+1114 - Stanza.
+1116 - Stanza.
+1118 - Stanza.
+1120 - Stanza.
+1124 - Stanza.
+1126 - Stanza.
+
+Goliath Factory
+
+1130 - Entrata del Goliath Factory.
+1136 - Stanza.
+1138 - Stanza.
+1146 - Stanza di comando del Goliath.
+1148 - Bart vede il Golia cadere addosso a lui.
+0938 - Dialogo tra Miang e Grahf, dopo l'attacco al Golia. *
+
+Ezekiel
+
+1150 - Ramsus e Miang arrivano a Bledavik, è il ponte di comando della loro nave.
+1152 - Stanza del Ministero di Gazel.
+1154 - Ramsus viene chiamato 'trash' dal Ministero di Gazel.
+
+Yggdrasil
+
+1156 - Sala comando, testi che appaiono durante l'attacco di Id.
+1158 - Shitan lascia l'Yggrasil dopo l'attacco di Id.
+1160 - Shitan vede il Dora distrutto da Id.
+1162 - Dialogo tra Elly e Id (probabilmente cd 2).
+1164 - Bart vede il Golia, poche frasi.
+1166 - Yggdrasil vista dall'esterno, c'è solo una frase detta da Shitan.
+1168 - Yggdrasil, esterni; la stanza dovrebbe essere usata solo nella scena del deserto.
+1170 - Bar, stanza usata in alcune scene.
+1172 - Ponte (notturno e non) dell'Yggdrasil, alcune cutscenes (come dopo Zeboim).
+1174 - Scena prima dell'attacco dei plotoni nel deserto.
+1176 - Dialogo con Margie.
+1178 - Sala motori dell'Yggdrasil, solo tradimento Elly.
+1180 - Sala comandi, ma i dialoghi sono quelli utilizzati in alcune cutscene.
+1182 - Bar.
+1184 - Dormitorio.
+1186 - Yggdrasil, sala comandi.
+1188 - Hangar dei Gear, 'esterni'.
+1190 - Dialogo tra Shitan e Bart dopo l'attacco al Golia, è anche il negozio Gear.
+1192 - Zona di manutenzione dei Gear (parte a sinistra).
+1194 - Scena nell'Excalibur.
+1196 - Sala motori.
+1198 - Zona di manutenzione dei Gear (parte a destra).
+1200 - Esterni, scena dopo aver sconfitto Stone.
+1202 - Stanza dove Rico e Hammer 'alloggiano'.
+1204 - Infermeria dell'Yggdrasil.
+1206 - Stanza dove 'alloggiano' Elly, Maria ed Esmeralda.
+1208 - Stanza di Margie, dove si cambia il gruppo.
+1210 - Piccola stanza che fa da collegamento tra il ponte di comando dell'Yggdrasil e
+       il resto della nave.
+1212 - 'Replica' del bar, qui c'è una scena del cd2.
+1214 - Corridoio dell'Yggdrasil.
+1216 - Mappa.
+1218 - Mappa
+1220 - Mappa con testi alla fine, si discute dei Portali di Solaris.
+1382 - Scontro con Stone dopo la sua trasformazione.
+1828 - Scena nell'Yggdrasil, Id si dirige verso la nave.
+
+Tammuz
+
+1222 - Non è il vero Tammuz, bensì la piattaforma dove atterrano Fei ed Elly dopo
+	 l'attacco al Golia.
+1224 - Sempre la piattaforma, ma è una scena di notte, dove Fei ed Elly parlano.
+1228 - Yggdrasil sotto attacco di Dominia, tornano Fei ed Elly dal Tammuz.
+1230 - Molo.
+1232 - Infermeria.
+1234 - Sala di comando.
+1236 - Pub.
+1238 - Mercato.
+1240 - Ascensore.
+1242 - Magazzino.
+1244 - Ponte del Tammuz.
+1246 - Il gruppo incontra Jesiah, Billy e Primera.
+1248 - Gioco delle carte.
+1252 - Dialogo tra Dominia, Cherubina ed Elly. Attaccano l'Yggdrasil.
+1254 - Dominia viene ripresa da Miang per aver rimproverato Elly.
+1256 - Miang ipnotizza Elly.
+
+Orfanotrofio
+
+1258 - Cortile dell'orfanotrofio.
+1260 - Sala da pranzo di Billy.
+1262 - Stanza di Primera e del bambino del campanellino.
+1264 - Stanza di Billy, quella con la libreria.
+1266 - Bagno.
+1268 - Stanza dei bambini.
+1270 - Flashback di Billy.
+
+Nave dei Wels
+
+1274 - Billy chiama Renmazuo.
+1276 - Esterni della nave, prima del boss Wels.
+1278 - Stanze delle docce.
+1280 - Stanza con delle porte (?).
+1282 - Prima stanza della nave.
+
+Sede della Chiesa
+
+1284 - Entrata della Cattedrale.
+1286 - Stanza.
+1288 - Stanza del Pontefice.
+1294 - Un vescovo muore.
+1298 - Corridoio per l'infermeria.
+1300 - Stanza.
+1302 - Stanza.
+1304 - Stanza, si parla di Babele.
+1308 - Stanza.
+1310 - Infermeria.
+1312 - Muore il pontefice.
+1316 - Incontro tra Billy e Verlaine.
+1318 - Stanza con Big Joe e la donna di Shevat.
+1324 - Banca dati della Chiesa.
+1326 - Si parla del Portale.
+
+Zeboim
+
+1328 - Entrata.
+1332 - Si parla dell'arrivo di Wiseman.
+1334 - Parla Miang.
+1336 - Stanza con scritto solo Up, Down, Cancel. Forse un ascensore?
+1338 - Parla Krelian.
+1342 - Stanza, forse ospedale?
+1344 - Stanza con computer.
+1350 - Il gruppo parla di come la costruzione in cui sono sia un labirinto.
+1352 - Stanza dove si deve resettare lo stato d'allarme.
+1354 - Stanza.
+1356 - Stanza simile alla 1352.
+1358 - Shitan dice che "questo piano è attivo".
+1362 - Elly parla del "vessel for a new soul".
+1364 - Stanza di Esmeralda.
+1366 - Morte di Kim ed Elly.
+1368 - Dopo il flashback di Fei, Id gli dice di continuare a dormire.
+1372 - Prima stanza, incontro con Id e Wiseman.
+1378 - Stanza dummy piena di "here".
+1382 - * Controllare zona Yggdrasil.
+1384 - Kim ed Elly, nel loro laboratorio, lavorano su Esmeralda.
+1386 - Dopo aver fatto l'amore con Elly, Kim pensa al suo lavoro su Esmeralda.
+1388 - Edificio, si parla del livello Iper dei Gear.
+1390 - Stanza dove c'è scritta la storia di Big Joe.
+1392 - Stanza-negozio di Big Joe.
+1394 - Stanza col filmato su Zeboim.
+1396 - Stanza.
+1398 - Esmeralda diventa adulta.
+1400 - Stanza.
+1406 - Kim ed Elly al ristorante, a capodanno.
+1408 - Sfogo di Kim contro l'umanità.
+1410 - Esterni del faro, cd2.
+1412 - Esterni della città.
+
+Torre di Babele
+
+1416 - Esterni.
+1418 - Fei dice: "Sembra una stazione relè", probabilmente interni della torre.
+1420 - Probabilmente stazione relè.
+1422 - Forse come sopra.
+1424 - Interni della torre.
+1426 - Stanza di comando?
+1428 - Esterni della torre, 'balcone', attacco di Ramsus.
+1430 - Interni, presso lo specchio, battaglia contro Dominia.
+1434 - Stanza.
+1438 - Stanza.
+1440 - Stanza di controllo dello specchio.
+1442 - Stanza con Robot riparatore.
+1444 - Stanza.
+1446 - Cima della torre.
+1448 - C'è una frase.
+
+Shevat
+
+1452 - Mappa di Shevat (più attacco ai generatori).
+1454 - Esterni di Aphel Aura.
+1456 - Caserma.
+1458 - Molo dell'Yggdrasil.
+1460 - Casa.
+1462 - Stanza del Saggio di Shevat con l'Idolo Chu-Chu.
+1464 - Bar Deep Sea Bros.
+1466 - Stanza dei Chu-Chu.
+1468 - Piazza dove si pesca nella fontana.
+1470 - Stanza con lo specchio della verità.
+1474 - Stanza distrutta, quella che apparteneva a dei bambini.
+1476 - Casa.
+1478 - Negozio per Gear.
+1480 - Ascensore, stanza principale da cui si accede alle varie zone.
+1482 - Scena di quando l'ascensore si blocca ed il gruppo affronta poi un dungeon.
+1484 - Stanza dummy.
+1486 - Sconosciuto, il gruppo dice a Fei di non uscire da Shevat.
+1488 - Hangar di Siebzehn.
+1490 - Scontro tra Maria e Achtzehn.
+1494 - Prima stanza del dungeon di Shevat.
+1496 - Stanza con Big Joe.
+1498 - Stanza.
+1500 - Stanza.
+1502 - Ultima stanza.
+1504 - Stanza con elica.
+1506 - Stanza.
+1508 - Stanza principale del palazzo.
+1510 - Corridoio per la stanza di Zefiro.
+1512 - Prima sala del trono.
+1514 - Scena in cui Gaspare rimuove i limitatori ai personaggi.
+1516 - Stanza da letto di Zefiro.
+1518 - Chu-Chu contro Achtzehn, esterni.
+1524 - Alcune persone parlano al party dei limitatori.
+1526 - Stanza di comando, Fei viene congelato nella carbonite.
+1528 - Si parla della Diabolos' War, biblioteca.
+1530 - Stanza, una persona dice a Fei che assomiglia a Khan.
+1532 - Stanza, qui invece già una persona sa che Fei è il figlio di Khan.
+1534 - Stanza, si parla del Dr. Nicola.
+1536 - Si parla della leggenda di Mahanon e di dio.
+1538 - Stanza con Margie.
+1540 - Prigione, c'è il dialogo tra Fei ed Elly prima della loro fuga, fine del cd1.
+1542 - Altra stanza della prigione.
+1544 - Stanza con una persona che critica i pezzi grossi di Shevat e parla di Miang.
+1546 - Stanza di Yui.
+1548 - Stanza con una persona che parla della mancanza di provviste.
+1552 - Seconda stanza del trono, utilizzata solo alcune volte.
+
+Mausoleo di Fatima e Forte Diaspro
+
+1554 - Città di Nisan ma vuota, usata solo in questa cutscene.
+1556 - Vestibolo del Mausoleo.
+1558 - Scale, si scende per il Mausoleo.
+1560 - Entrata, Bart si scorda come si apre la porta segreta.
+1562 - Stanza principale dal mausoleo.
+1566 - Prima stanza del Forte.
+1568 - Stanza con le statue d'angeli, Bart usa il Diaspro assieme a Margie.
+1570 - Stanza di comando del Forte.
+1572 - Esterni del Forte, probabilmente attacco degli Elementi durante il lancio del raggio verso lo specchio.
+1574 - Stanza.
+1576 - Stanza con ascensore.
+1578 - Incontro con Shakhan, Margie fugge verso Andvari.
+1580 - Stanza con 'serratura' da aprire col diaspro di fatima.
+1582 - Credo sia la stanza ovale precedente a quella di Andvari.
+1588 - Salone di Andvari.
+1592 - Vedi Nisan.
+
+Portali verso Solaris
+
+1594 - Entrata della caverna del portale di Ignis.
+1596 - Stanza del generatore, incontro tra Grahf e Shakhan.
+1608 - Stanza.
+1610 - Stanza.
+1614 - Stanza, probabilmente del Sargasso Point, c'è scritto "I heard a sound somewhere".
+1616 - Portale, incontro con Esmeralda.
+
+Solaris
+
+1620 - Krelian parla con Elly mentre la 'analizza'.
+1622 - Stanza.
+1624 - Solaris, esterni della città.
+1626 - Elly e Fei scappano dai Cubi di Sicurezza, probabilmente sono le fogne.
+1628 - Siebzenh rompe la barriera di Solaris.
+1630 - Incontro con Samson nella torre-labirinto che porta alla città di Solaris.
+1632 - Stanza di accesso alla città, muore Samson.
+1634 - Cain pronuncia una frase.
+1636 - Stanza dell'Emperor Cain.
+1638 - Uscita da Solaris.
+1640 - Flashback, Sigurd abbandona Solaris da giovane.
+1642 - Discorso di Cain al popolo di Solaris.
+1644 - Esterni del settore dei cittadini di III Classe.
+1646 - Tubo di uscita della polvere?
+1648 - 'Nido' di un cittadino di III Classe.
+1650 - Nido di Samson.
+1652 - Nido.
+1654 - Nido dove si trova Elly.
+1656 - Shitan usa la Card per attivare il coso-tipo-aspirapolvere.
+1658 - Stanza?
+1660 - Fei reincontra Shitan.
+1662 - Hall prima della città.
+1664 - Piazza Araboth.
+1666 - Negozio.
+1668 - Stanza.
+1670 - Stanza del tipo che dà a Fei i biglietti.
+1672 - Stanza di Big Joe.
+1674 - Stanza.
+1680 - Il gruppo atterra sulla superficie di Solaris.
+1682 - Corridoio della casa di Elly.
+1684 - Cucina, parla la cameriera.
+1686 - Medena dice a Fei ed ad Elly di pranzare.
+1688 - Stanza del padre di Elly.
+1690 - Stanza di Elly.
+1692 - Esterni della casa.
+1694 - Fei dice che per poco non diventava spazzatura.
+1696 - Stanza.
+1700 - Fei ed Elly pranzano prima di entrare nel Soylent.
+1702 - Stanza.
+1704 - Stanza in cui ci sono i codici del Soylent.
+1706 - Stanza in cui si immettono i codici.
+1708 - Stanza prima del momento in cui il gruppo scopre del 'fatto'.
+1710 - Fei ed Elly scoprono di aver mangiato carne umana/mutante.
+1716 - Stanza.
+1726 - Stanza.
+1728 - Stanza.
+1736 - Corridoio dove c'è il portone con la password sonora.
+1738 - Scena in cui Shitan 'tradisce'.
+1740 - Stanza.
+1742 - Stanza con alcuni mutanti.
+1744 - Stanza.
+1746 - Stanza con altri mutanti (tra cui uno di Kislev).
+1748 - Altra stanza con mutanti.
+1750 - Stanza in cui il gruppo vede Fenrir.
+1752 - Stanza.
+1754 - Stanza dei cubi di memoria.
+1756 - Stanza.
+1758 - Stanza.
+1760 - Stanza.
+1764 - Stanza in cui Shitan e gli Anziani parlano con Fei/Id.
+1766 - Stanza con gli ologrammi.
+1768 - Stanza.
+1770 - Stanza.
+1772 - Stanza.
+1774 - Stanza.
+1776 - Stanza.
+1778 - Stanza.
+1780 - Stanza.
+1782 - Stanza.
+1784 - Stanza della password.
+1788 - Bart e Billy si ritrovano con Fei.
+1790 - Stanza.
+1792 - Shitan e Jessie incontrano Ramsus mentre distruggono l'ultimo portale.
+1794 - Condotto sopra il lab. di Krelian, parla Billy.
+1796 - Elly e Fei si ritrovano.
+1798 - Il gruppo di riunisce prima del tradimento di Hammer.
+1808 - Stanza.
+1812 - Stanza.
+1814 - Stanza.
+1816 - Stanza.
+1818 - Stanza.
+1820 - Tradimento di Hammer, muore Medena.
+1822 - Id si rivela, parlano Miang e Krelian.
+1824 - Ramsus aspetta dentro Wyvern il Gear di Id.
+1826 - Elly si risveglia, assieme a Shitan, nella mano di Siebzenh.
+1828 - Scena nell'Yggdrasil, Id si dirige verso la nave.
+
+Casa di Taura
+
+1830 - Esterni della casa, scena con Elly ferita e con Weltall-2.
+1832 - Ramsus distrugge Weltall e ferisce Elly.
+1824 - Altri esterni, scena 'intima' di Fei e di Elly.
+1836 - Interni della casa.
+1838 - Laboratorio dentro la casa.
+
+Scene CD2
+
+1840 - Prima stanza a sfondo nero con mologhi.
+1842 - Seconda stanza a sfondo nero con mologhi.
+1844 - Dovrebbe essere l'Albero di Raziel, dentro Mahanon. Dummy presente.
+1846 - Sistema Soylent di Ignis, scena 1.
+1848 - Sistema Soylent di Ignis, scena 2.
+1850 - Continua la scena, e parla anche Elly.
+1852 - Continua la scena.
+1854 - Continua la scena.
+1856 - Continua la scena.
+1858 - Continua la scena.
+1910 - Arrivo a Mahanon, inizio.
+1912 - Continua la scena.
+1914 - Continua la scena.
+1916 - Continua, si arriva al Raziel.
+1918 - Grahf sconfigge Fei a Mahanon.
+2002 - Fei fugge dalla prigione di carbonite.
+1944 - Kadmoni.
+1946 - Stanza del ritratto di Sofia, molti flashback.
+1948 - Lacan, in preghiera, incontra l'appena tornato Krelian.
+1950 - Esterni di Nisan, due flashback. Lacan e Krelian ed Elly e Margie.
+1952 - Laboratorio di Krelian, flashback nascita di Ramsus e poi discorso tra Krelian e Miang.
+1954 - Dialogo tra Roni e Lacan, poi parla Krelian del suo passato.
+1956 - Stanza dummy, a Lacan viene commissionato il ritratto.
+1958 - Come sopra.
+1960 - Parla Krelian.
+1962 - Krelian biasima Lacan per non aver protetto Sofia.
+1964 - Sofia malata, Lacan le si dichiara.
+1966 - Incontro tra Miang e Lacan.
+1968 - Lacan, trasformatosi in Grahf-Id, parla.
+1970 - Scena dopo la morte di Sofia.
+1972 - Sacrificio di Sofia.
+1974 - Flashback con Wiseman che dà Fei a Chief Lee.
+
+Primo Dungeon Anima Relic
+
+1862 - Esterni, combattimento con Dominia.
+1864 - Stanza con il fusibile rotto.
+1866 - Stanza con l'immissione del codice.
+1868 - Stanza con le istruzioni per trovare il codice.
+1870 - Primo corridoio, scontro 'verbale' con gli Elementi.
+1872 - Stanza.
+1874 - Stanza.
+1876 - Stanza dove va immesso il codice.
+1882 - Anima Relic di Billy.
+
+Secondo Dungeon Anima Relic
+
+1886 - Rico s'impossessa della seconda Anima Relic.
+1888 - Inizio del dungeon, incontro con lo Shopkeep Johnny.
+1890 - Ancora lo Shopkeep Johnny.
+1892 - Stanza con il puzzle delle roccie.
+1894 - Stanza.
+1896 - Stanza.
+1898 - Stanza con delle scritte.
+1900 - Stanza in cui 'cade il soffitto'.
+1902 - Stanza con il puzzle della 'vasca con l'acqua'.
+1904 - Stanza con alcune scritte.
+1906 - Ultimo incontro con Hammer.
+1908 - Stanza.
+
+Path of Sephiroth
+
+1922 - Dentro la mente di Fei, prima stanza con Id.
+1924 - Il gruppo arriva da Id.
+1926 - Credo come sopra.
+1928 - Il gruppo vede Weltall trasformatosi in Xenogears rosso.
+1930 - Dentro Fei, si parla di sua madre.
+1932 - Si parla ancora della madre di Fei.
+1934 - Id parla della storia di Lacan-Grahf.
+1936 - La stanza del 'codardo'.
+1938 - Stanza principale della zona, incontro Fei-Id-Wiseman-Grahf.
+1940 - Flashback con la morte della primissima Elly.
+1942 - Incontro tra Fei e la Wave Existence.
+2002 - Fei fugge dalla prigione di carbonite.
+
+Rifugio nel Nevaio
+
+1976 - La stanza che era dei Chu-chu.
+1978 - Stanza con dei bambini ed altra gente.
+1982 - Stanza con Hanz e la moglie.
+1986 - Stanza con la madre del tipo che dà la lacrima di sirena.
+1988 - Altra stanza con della gente.
+1990 - Stanza con un sopravvissuto della Chiesa.
+1992 - Stanza.
+1994 - Stanza col tipo che scava per il juke-box.
+1996 - Stanza principale della zona.
+1998 - Stanza con qualcuno che parla.
+2000 - Stanza di Dan e Midori.
+2002 - Vedere sezione 'path of sephiroth e scene cd2'.
+2004 - Stanza con lo specchio della verità.
+2006 - Cima della torre, c'è Zefiro.
+2008 - Stanza col tipo che fa la KishinSword.
+
+Deus
+
+2012 - Prima stanza, Fei dice che la mappa di Deus è pronta.
+2018 - Stanza dove il gruppo salta in un qualche 'buco' dopo il labirinto.
+2026 - Stanza dell'incontro con Ramsus.
+2028 - Stanza con Fei e Miang (forse).
+2030 - Miang e Krelian rubano le Anima Relics al gruppo.
+2032 - Ramsus uccide Miang e dialoghi precedenti.
+2034 - Miang si fonde con Elly.
+2038 - Stanza da cui si può tornare alla Mappa del Mondo.
+2040 - Stanza dove c'è Deus.
+2042 - Xenogears corre verso Elly/Deus.
+2044 - Fine del gioco.
+
+Altro
+
+0606 - Debug room.
+1586 - Schermata d'inizio gioco.
+2046 - Altra debug room con qualche testo.

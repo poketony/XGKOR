@@ -1,0 +1,108 @@
+<TextBlock 1 w:36 h:3>
+Bart
+"Merda! Ci mancava
+così poco!"<Close><End of Block>
+<TextBlock 2 w:42 h:2>
+Billy
+"Così vicini, eppure…!"<Close><End of Block>
+<TextBlock 3 w:26 h:3>
+Rico
+"Cazzo! Eravamo
+così vicini…!"<Close><End of Block>
+<TextBlock 4 w:36 h:2>
+Esmeralda
+"Oh, così vicini…!"<Close><End of Block>
+<TextBlock 5 w:42 h:3>
+<Chu-Chu>
+"Che peccato, chu!
+Ci mancava così poco…!"<Close><End of Block>
+<TextBlock 6 w:44 h:2>
+Maria
+"Ci mancava così poco…!"<Close><End of Block>
+<TextBlock 7 w:44 h:4>
+Arrivammo in un'enorme
+caverna che era tanto
+grande da poter contenere
+l'intera capitale di Aveh.<Close><End of Block>
+<TextBlock 8 w:46 h:2>
+Al centro c'erano due
+oggetti che risplendevano
+di una dolce luce.<Close><End of Block>
+<TextBlock 9 w:46 h:3>
+Era l'origine della
+sapienza divina<Delay 5>…<Delay 5>
+Era<Delay 10> 'L'Albero di Raziel'…<Close><End of Block>
+<TextBlock 10 w:42 h:3>
+E la caverna stessa era
+il gigantesco computer
+chiamato Raziel.<Close><End of Block>
+<TextBlock 11 w:52 h:4>
+La sapienza di dio,<Delay 5>
+nascosta dentro Raziel<Delay 5>…<Delay 5>
+Una volta riusciti ad
+accedere ai suoi dati,
+trovammo l'inimmaginabile.<Close><End of Block>
+<TextBlock 12 w:54 h:7>
+Un'immensa arma strategica
+automatizzata ed il suo
+esercito di armi ad
+interfaccia terminale, che
+viaggiavano da un sistema
+solare all'altro.<Delay 5>
+E una gigantesca nave madre
+usata per trasportarli…<Delay 5>…<Close><End of Block>
+<TextBlock 13 w:50 h:7>
+La creazione dell'angelo
+<Delay 5>-Malak-…<Delay 5> L'armata di dio,
+con la quale regnare
+sull'immenso universo…<Delay 5>…<Delay 5>
+ <Delay 20>
+E la costruzione dell'arca
+di dio…<Delay 5>…<Close><End of Block>
+<TextBlock 14 w:56 h:3>
+L'insieme di queste armi era
+chiamato…<Delay 60> 'Jahvé',<Delay 5> l'arma di
+invasione interplanetaria.<Close><End of Block>
+<TextBlock 15 w:54 h:2>
+Ciò che il Ministero di Gazel
+stava cercando era proprio qui.<Close><End of Block>
+<TextBlock 16 w:54 h:4>
+Secondo quanto riferito dai dati,
+il gigantesco e decomposto
+organismo che avevamo appena
+sconfitto… era di fatto il
+nucleo di questo sistema.<Close><End of Block>
+<TextBlock 17 w:58 h:5>
+Eravamo sul punto di accedere
+ai dati riguardanti l'oggetto
+chiamato…
+         'Zohar'       <New>
+… il circuito neurale centrale
+che controlla l'intero sistema,
+dalla nave madre alle armi…<Close><End of Block>
+<TextBlock 18 w:28 h:2>
+Quando, improvvisamente,
+'LUI' apparve.<Close><End of Block>
+<TextBlock 19 w:42 h:4>
+Krelian
+"Ah, ecco i dati nascosti
+all'interno dell'Albero
+di Raziel…<New>
+Fatevi da parte.<New>
+Questi dati sono
+per voi impossibili
+da comprendere…"<Close><End of Block>
+<TextBlock 20 w:54 h:4>
+Fei
+"Dobbiamo proteggerlo a
+costo delle nostre vite!<New>
+Non possiamo permettere
+che prendano i dati del
+Raziel!"<Close><End of Block>
+<TextBlock 21 w:54 h:4>
+Shitan
+"Voi intratteneteli!
+Io cercherò di estrarre
+più dati che posso!<New>
+Se qualcosa andrà male…
+distruggerò questo posto!"<Close><End of Block>

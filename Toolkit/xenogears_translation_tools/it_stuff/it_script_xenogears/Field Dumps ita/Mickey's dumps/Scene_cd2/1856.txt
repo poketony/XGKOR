@@ -1,0 +1,21 @@
+<TextBlock 1 w:58 h:11>
+  Vai in quegli impianti e
+  sarai liberato da questa
+  insopportabile agonia…
+ 
+Così la gente si raccoglie,
+in attesa del compimento di
+questa promessa.<Delay 30>
+  C'è la salvezza qui…<Delay 30>
+ 
+Le notizie si diffondono…
+benché nessuno ne parli.<Close><End of Block>
+<TextBlock 2 w:38 h:4>
+Il loro sangue alterato
+probabilmente diceva
+a questa gente di
+'raccogliersi' là…<Close><End of Block>
+<TextBlock 3 w:48 h:2>
+Andammo là per
+distruggere il
+Sistema Soylent…<Close><Close><End of Block>

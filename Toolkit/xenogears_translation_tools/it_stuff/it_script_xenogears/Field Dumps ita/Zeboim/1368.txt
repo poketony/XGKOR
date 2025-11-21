@@ -1,0 +1,10 @@
+<TextBlock 1 w:28 h:1>
+Eeh eeh eeh…<Delay 45> <Opcode 2 15><Close><End of Block>
+<TextBlock 2 w:44 h:1>
+… Basta che continui
+a dormire.<Delay 45> <Opcode 2 15><Close><End of Block>
+<TextBlock 3 w:28 h:1>
+Eeh eeh eeh…<Delay 45> <Opcode 2 15><Close><End of Block>
+<TextBlock 4 w:28 h:2>
+Eeh eeh eeh…<Delay 35>
+… Ci vediamo…<Delay 45> <Opcode 2 15><Close><End of Block>

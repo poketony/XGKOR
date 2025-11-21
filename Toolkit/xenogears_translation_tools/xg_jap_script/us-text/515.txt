@@ -1,0 +1,280 @@
+#### 1 ####
+Fei
+"I knew it was you..."
+
+#### 2 ####
+Elly
+"Fei...?"
+
+#### 3 ####
+Fei
+"When you came in the
+room just then...{enter}
+I was afraid you may have
+forgotten about me and
+everything else..."
+
+#### 4 ####
+Elly
+"What do you mean...?"
+
+#### 5 ####
+Fei
+"I mean...because...
+Elly, you seemed a little
+different than before..."
+
+#### 6 ####
+Elly
+"Has my face{wait:0A}...changed?"
+
+#### 7 ####
+Fei
+"No, that's not it...
+It's more like..."
+
+#### 8 ####
+Fei
+"I mean your atmosphere or
+impression is different...{wait:1E}
+just a little..."
+
+#### 9 ####
+Fei
+"But, I felt something
+familiar...{enter}
+I felt the same way when
+I met you for the first
+time...{enter}
+Some peculiar feeling
+like we've met before,
+somewhere..."
+
+#### 10 ####
+Elly
+"Fei..."
+
+#### 11 ####
+Fei
+"Yes?"
+
+#### 12 ####
+Elly
+"I don't remember much
+what happened after we
+were shot down..."
+
+#### 13 ####
+Fei
+"It's better that way."
+
+#### 14 ####
+Elly
+"But I heard someone
+calling my name...{enter}
+I felt I was covered with{wait:0A}
+something very warm...{enter}
+I remember that clearly..."
+
+#### 15 ####
+Fei
+"..."
+
+#### 16 ####
+Elly
+"Thank you, Fei."
+
+#### 17 ####
+Fei
+"Elly..."
+
+#### 18 ####
+Elly
+"Fei..."
+
+#### 19 ####
+Taura
+"Hey, it's almost time
+for you to come back.{enter}
+There's something
+important we need to
+talk to you about."
+
+#### 20 ####
+...
+
+#### 21 ####
+Fei
+"A,{wait:05} alright,{wait:05}
+we're coming!"
+
+#### 22 ####
+Fei
+"Well,{wait:05} Elly,{wait:05}
+shall we go
+see what's up?"
+
+#### 23 ####
+Elly
+"S,{wait:05} sure..."
+
+#### 24 ####
+Citan
+"Are you sure you want to
+go through with this?{enter}
+You wanted to live quietly
+away from the battle
+field, did you not?"
+
+#### 25 ####
+Elly
+"I noticed{wait:0A} myself running
+away from reality...{enter}
+At first, I thought
+my situation was
+similar to his.{enter}
+I thought Fei would{wait:0A}
+understand my feelings{wait:05}...{wait:05}
+I didn't know if my love
+for him was real...{enter}
+I might have been desperate
+after losing my mother and
+father..."
+
+#### 26 ####
+Citan
+"Elly..."
+
+#### 27 ####
+Elly
+"Despite all that{wait:05}...{wait:0A}
+I may still love him{wait:05}...{enter}
+That's why, I want to
+see what Fei can do{wait:05}
+and what I can do.{enter}
+I want us to be apart
+and think about
+ourselves again."
+
+#### 28 ####
+Elly
+"I want to see{wait:05}...{wait:0A}
+how I really feel{wait:05}..."
+
+#### 29 ####
+...
+
+#### 30 ####
+Citan
+"You have changed a lot,
+Elly.{enter}
+What happened to you
+in the past three weeks?"
+
+#### 31 ####
+Elly
+"Really?{wait:0A}
+I don't think
+I've changed..."
+
+#### 32 ####
+Citan
+"Yes, you have.{wait:0A}
+I should say{wait:0A}...
+you have matured{wait:0A}...{enter}
+...Like a mother..."
+
+#### 33 ####
+Elly
+"Excuse me!{wait:0A}
+I'm only 18 years old.{enter}
+I'm nowhere near the
+age of being your
+mother!"
+
+#### 34 ####
+Citan
+"Sorry.{wait:0A}
+You gave me that
+impression. That is all."
+
+#### 35 ####
+Elly
+"Anyway Citan,{wait:0A}
+I'm going now."
+
+#### 36 ####
+Citan
+"Alright.{wait:0A}
+I will follow you as soon
+as I finish off here..."
+
+#### 37 ####
+Emeralda
+"I,{wait:0A} I go, too."
+
+#### 38 ####
+What?
+
+#### 39 ####
+I go!
+
+#### 40 ####
+Elly
+"Emeralda, I can't take
+anyone else along with me
+for something like this.{enter}
+I'll be fine on my own."
+
+#### 41 ####
+Emeralda
+"If Elly go, I go too.{wait:0A}
+Emeralda have to go
+with you."
+
+#### 42 ####
+Elly
+"Emeralda...?"
+
+#### 43 ####
+Emeralda
+"No!
+Emeralda go too!"
+
+#### 44 ####
+Citan
+"Why not let her go?{wait:0A}
+I am sure Solaris has a
+hunch about the Limiter.{enter}
+They may interfere,{wait:0A} so
+you may feel uneasy going
+it alone.{wait:0A} I think Emeralda
+is cut out for this job."
+
+#### 45 ####
+Citan
+(...Besides, she is going
+to want to go no matter
+what.{enter}
+Take care of her until I
+can join you,{wait:0A} please?)
+
+#### 46 ####
+Elly
+"Okay, you win.{wait:0A}
+Let's help each other, 
+alright?"
+
+#### 47 ####
+Emeralda
+"I can do it alone.{wait:0A}
+You just watch."
+
+#### 48 ####
+Elly
+"Fei, where are you going?
+Taura is calling you!"
+
+#### 49 ####
+
+

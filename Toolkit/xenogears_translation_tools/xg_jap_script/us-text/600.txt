@@ -1,0 +1,439 @@
+#### 1 ####
+Fei
+"Ghaah!"
+
+#### 2 ####
+Billy
+"Sh, she took my gun...!?"
+
+#### 3 ####
+Bart
+"W, why did
+you do that,{wait:14}
+Elly...?"
+
+#### 4 ####
+Citan
+"Elly!?{wait:14}
+What happened to you!?{wait:14}
+How could you!?"
+
+#### 5 ####
+Bart
+"Don't tell me
+she's been{wait:05}...{wait:05}
+brainwashed!?"
+
+#### 6 ####
+Krelian
+"It has nothing to do
+with brainwashing..."
+
+#### 7 ####
+Citan
+"Unify with
+the mother...?"
+
+#### 8 ####
+Krelian
+"That girl{wait:05}...{wait:05}Elhaym,
+is our 'mother'."
+
+#### 9 ####
+Elly
+"Yes.
+I am the mother of
+all humans..."
+
+#### 10 ####
+Fei
+"Elly...!?"
+
+#### 11 ####
+Bart
+"What are you babbling
+on about!?{wait:14}
+Snap out of it, Elly!!"
+
+#### 12 ####
+Elly
+"You're as dense as
+usual...{wait:14} But, I don't
+blame you...{enter}
+So be it.
+I will explain to
+you all about it."
+
+#### 13 ####
+Elly
+"This Deus, the one you call
+god, is an 'inter-planetary
+invasion weapon system' that
+was built in ancient times by
+humans from another planet.{enter}
+It was created as an automatic
+weapon which could act upon
+its own will to take control
+of a targeted planet.{wait:14} But you
+should've known this much from
+looking at the Razael records.{enter}
+Anyway, during a test run,
+Deus became uncontrollable.
+It released its power and
+annihilated a whole planet.{enter}
+The creators of 'Deus' found
+its immeasurable power to be
+too much of a threat and hence
+forcibly shut it down.{enter}
+In order to analyze the cause
+of the problem, its core was
+dismantled and placed on an
+inter-planetary emigrant
+passenger ship to be
+transported to another planet.{enter}
+Becoming aware of this, the
+dissasembled Deus resisted.
+It tried to  take over the
+passenger ship that was
+transporting it.{enter}
+However, as a last line of
+defense against the escape
+of Deus, its creators,
+unexpectedly destroyed the
+whole ship, sending it
+crashing to this planet.{enter}
+Deus knew that it would not
+be able to get away from the
+explosion or the imminent
+impact and so it detached its
+core from the 'Zohar' power
+reactor."
+
+#### 14 ####
+Fei
+"Zo...har...?"
+
+#### 15 ####
+Elly
+"Yes, 'Zohar'...
+It is what drives all of
+the Gears on this planet.{enter}
+It is the master generator
+that transmits its energy
+to the slave generators
+in our Gears.{enter}
+It is also the source of
+all the Ether power that
+the inhabitants of this
+planet utilize.{enter}
+By utilizing the energy
+displacements caused by
+actualizing potential
+future phenomenon...{enter}
+...this 'Zohar Modifier'
+has the ability to produce
+infinite amounts of
+energy."
+
+#### 16 ####
+Bart
+"The source of all
+our Ether power!?"
+
+#### 17 ####
+Citan
+"Are you saying all our
+energy comes from that one
+power reactor or engine?"
+
+#### 18 ####
+Elly
+"Yes, but there is more...{enter}
+The core that was detached 
+from Zohar, the 'Biological
+Computer Kadomony' crashed
+onto this primitive planet.{enter}
+It activated -Persona-,
+its life support plant,
+that can generate organic
+material.{enter}
+Using this it prepared for
+itself a genetic-based
+system for the day when
+Deus would be resurrected.{enter}
+Thus, the first humans were
+created from there...{wait:14}
+Emperor Cain and the elders
+of the Gazel Ministry."
+
+#### 19 ####
+Rico
+"Are you saying the Emperor
+and them Gazel geezers were
+people born from Deus!?"
+
+#### 20 ####
+Elly
+"Do you know why the Gazel
+Ministry desired the Anima
+Relics and your bodies?{wait:0A}
+Well, here's the reason...{enter}
+Before becoming human, the
+bodies of the Ministry were
+once part of the organic
+elements in the core circuit
+that made up 'Deus'.{enter}
+There were two types of
+organic elements.
+The female type was called
+'Anima', while the male
+type was called 'Animus'.{enter}
+They were also created with
+the added ability to become
+mobile weapons by merging
+with machinery that was
+suited for use as terminal
+interface weapons for Deus.{enter}
+In other words, those
+Omnigears you were using
+were one form of such
+weapons.{enter}
+The Ministry, which were
+Animus, were to become one
+again with their separated
+Anima at the time of the
+resurrection of god...{enter}
+But, in a war 500 years ago,
+they all lost their physical
+bodies.{enter}
+It was then that they
+decided to extract their own
+genetic factor from certain
+individuals of their human
+descendants who carried the
+appropriate sets of D.N.A..{enter}
+All so each of them could
+become one with their
+respective Anima again."
+
+#### 21 ####
+Maria
+"Descendants!?"
+
+#### 22 ####
+Bart
+"Then we're all...!?"
+
+#### 23 ####
+Elly
+"Yes, you humans are all
+descendants of Cain and
+the Gazel Ministry...{enter}
+They were born from the
+-Persona-, gave birth,
+and propagated.{enter}
+They followed their
+inbuilt program to
+someday resurrect the
+heavily damaged Deus."
+
+#### 24 ####
+Citan
+"All the people in the
+world were created solely
+to resurrect Deus!?"
+
+#### 25 ####
+Elly
+"Yes.{wait:14}
+But it wasn't just to
+restore its old body.{enter}
+More than half of Deus is
+constructed of biological
+parts.{wait:14} Do you remember
+those mutated humans?{enter}
+Those are all people who
+were destined to become
+replacement parts for
+Deus."
+
+#### 26 ####
+Billy
+"We humans are...{wait:14}
+parts for god..."
+
+#### 27 ####
+Elly
+"Yes, almost all the
+people are destined to
+become parts for Deus.{enter}
+But you people gathered
+here are all different.{enter}
+You could say...you
+escaped that destiny by
+existing through multiple
+generations...{enter}
+In actuality, there wasn't
+enough parts for Deus...{wait:14}
+But, Krelian compensated
+for what was lacking.{enter}
+The reduction in the number
+of parts, was due to humans
+living through multiple
+generations...{enter}
+But that deficiency in the
+human factor, was made up
+for by the nanomachines
+created by Krelian.{enter}
+Not only that, but his
+nanomachines added
+additional functions.{enter}
+Deus has thus evolved into
+the perfect weapon.
+
+#### 28 ####
+Fei
+"Elly{wait:05}...{enter}
+What has happened{wait:05}...?{wait:14}
+Why{wait:05}...{wait:05}do you know
+all{wait:05}...{wait:05}that{wait:05}...?"
+
+#### 29 ####
+Elly
+"I am Miang.{wait:14} The keeper of
+time.{wait:14} The representative of
+our god -Deus-.{enter}
+I was born to guide the
+people toward the path of
+the resurrection of Deus."
+
+#### 30 ####
+Bart
+"That's ridiculous!{wait:14}
+Miang was just..."
+
+#### 31 ####
+Elly
+"You're limited in your
+ability to understand...{enter}
+Miang's factor exists
+within all women.{enter}
+The one who trascends the
+generations, the caretaker
+of humans.{enter}
+When the previous one dies,
+somewhere another Miang is
+awakened.{enter}
+It is programmed into all
+womens' DNA to be that way.{enter}
+Who inherits the duty is
+just a matter of
+probability, Fei.{enter}
+That Miang over there and
+I are the same existence.{wait:14} 
+We are all parts of Deus...
+All caretakers of humans."
+
+#### 32 ####
+Elly
+"Let us end this
+discussion now.{wait:14} 
+Deus has awakened.{enter}
+I am one of the parts
+that composes Deus.{wait:14}
+Hence, I must become
+one with it."
+
+#### 33 ####
+Citan
+"Elly!{wait:14}
+Why did it have to be
+you?{enter}
+If Miang is a part for
+Deus, why did it not
+happen earlier...?"
+
+#### 34 ####
+Krelian
+"It's still not enough
+for her just to have
+awakened.{enter}
+Although she may be
+Miang, she still isn't
+the 'true Miang'."
+
+#### 35 ####
+Citan
+"The 'true Miang'...?"
+
+#### 36 ####
+Elly
+"Let's go, Krelian.{enter}
+All that is left to do is
+to vanquish this planet's
+civilization and return
+it to how it was.{enter}
+Then I can complete my
+unification with the
+final fragment of Deus...
+the 'Zohar Modifier'...{enter}
+The power reactor that
+fell upon this planet and
+became our genesis, and
+now, our apocalypse..."
+
+#### 37 ####
+Citan
+"The eradication of
+civilization!?{enter}
+What is the purpose
+of doing that!?"
+
+#### 38 ####
+Elly
+"Who knows...?{wait:14}
+The creations of god will
+someday be a hindrance.{enter}
+That is why they must be
+eliminated.{wait:14}
+I am just programmed to
+act in this way..."
+
+#### 39 ####
+Krelian
+"Come...{enter}
+It is time for
+the awakening of
+the true 'mother'."
+
+#### 40 ####
+Fei
+"Please{wait:05}...{wait:05}
+wait{wait:05}...{wait:14}
+Elly{wait:05}...!"
+
+#### 41 ####
+Elly
+"Farewell{wait:05}...{wait:05}Fei.{wait:14}
+May you have a peaceful
+'awakening'{wait:05}..."
+
+#### 42 ####
+Citan
+"Fei!{wait:14}
+Now you hang
+in there!"
+
+#### 43 ####
+Krelian
+"The majority of my
+body is comprised of
+a nanomahine colony.{enter}
+Not only for longevity
+{wait:05}...{wait:05}but also to unify
+with the 'mother'{wait:05}...{enter}
+So don't be surprised.
+This much damage can
+be recovered rather
+quickly."
+

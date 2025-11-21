@@ -1,0 +1,254 @@
+<TextBlock 1 w:50 h:4>
+Fei
+"Uh… non si muove.<Delay 20>
+È rotta…?<New>
+…?<Delay 20>
+C'è qualcosa scritto
+in caratteri molto
+piccoli…<New>
+'Colui il quale ottenesse
+l'alba, il crepuscolo e
+la notte, salirà la strada
+per il paradiso…<Delay 20> il Saggio'<New>
+Ma che cos'è?"<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+Fei
+"Bene, allora… Mettiamo
+qui queste tre pietre
+che abbiamo trovato…"<Close><End of Block>
+<TextBlock 3 w:52 h:2>
+Hai riportato alla vita
+la Pietra di Trasporto.<Close><End of Block>
+<TextBlock 4 w:52 h:3>
+Oh, abbiamo raramente dei
+visitatori provenienti
+dalla superficie.<New>
+Benvenuti nella città
+che vagabonda nel cielo,
+Aphel Aura.<Close><End of Block>
+<TextBlock 5 w:56 h:5>
+Questa città una volta era
+la capitale di Shevat, un
+paese indipendente e dalle
+larghe vedute, che combatté
+contro Solaris.<New>
+Un luogo che muta le lacrime
+di ieri nei sorrisi di
+domani…<Delay 20>
+È così che chiamavano questa
+città, molto tempo fa…<New>
+Ma adesso, quelle speranze
+e quelle disperazioni sono
+state distrutte da lungo
+tempo…<New>
+Probabilmente, l'unica
+cosa che sopravvive è
+l'eco del rancore…<Close><End of Block>
+<TextBlock 6 w:52 h:3>
+Potresti essere in grado di
+trovare qualcosa che risolva
+i tuoi problemi e la tua
+tristezza.<New>
+Ma, a volte, il destino sa
+essere crudele…<Delay 20>
+Non dimenticarlo mai.<Close><End of Block>
+<TextBlock 7 w:48 h:4>
+Ah, dimenticavo. Quella
+pietra si chiama 'Pietra
+di Trasporto'.<Delay 20> Si muove
+quando della gente
+ci sale sopra.<New>
+Prova a salirci ed a
+parlare alla pietra.<Delay 20>
+Essa sarà felice di dare
+a voi tre un passaggio.<Close><End of Block>
+<TextBlock 8 w:42 h:3>
+<Opcode 1 255>Vuoi salire?<Delay 10>
+    Sì
+    No<Close><End of Block>
+<TextBlock 9 w:46 h:3>
+<Opcode 1 255>Vuoi scendere?<Delay 10>
+    Sì
+    No<Close><End of Block>
+<TextBlock 10 w:46 h:3>
+<Opcode 1 255>Vuoi scendere?<Delay 10>
+    Sì
+    No<Close><End of Block>
+<TextBlock 11 w:42 h:3>
+<Opcode 1 255>Vuoi salire?<Delay 10>
+    Sì
+    No<Close><End of Block>
+<TextBlock 12 w:54 h:4>
+Oh, siete dei nuovi arrivati?<Delay 20>
+È passato tantissimo tempo
+dall'ultima volta che abbiamo
+avuto dei visitatori dalla
+superficie.<New>
+Questa è una 'Pianta Guscio'.<Delay 20>
+Shevat è autosufficiente
+nella produzione della frutta
+e della verdura che serve
+ai suoi abitanti.<Close><End of Block>
+<TextBlock 13 w:50 h:4>
+Dal momento che abitiamo
+lontani dalla terra,
+dobbiamo sforzarci di più
+per ottenere il cibo.<New>
+In questi giorni ci troviamo
+in una stagione molto incerta
+dal punto di vista del
+rendimento…<New>
+Perciò, soltanto le persone
+che lavorano qui possono
+entrare.<New>
+Gli uomini sono buoni
+portatori di germi,
+sapete!<Close><End of Block>
+<TextBlock 14 w:48 h:4>
+Vi porterò da mangiare
+delle Fragole Tonanti
+appena colte.<Delay 20>
+Immagino non vediate
+l'ora di mangiarle!<Close><End of Block>
+<TextBlock 15 w:48 h:4>
+<Opcode 1 255>Salve, cosa posso fare
+per te?<Delay 20>
+    Voglio un filo!
+    Narrami una storia<Close><End of Block>
+<TextBlock 16 w:46 h:3>
+<Opcode 1 255>In fin dei conti, il dolore
+causa solo altro dolore
+e tristezza…<New>
+Come mai i tipi lassù non
+capiscono una cosa così
+semplice…?<New>
+Tu rilassati e divertiti
+a pescare… proprio come
+quel saggo che svanì
+nel nulla tempo fa.<Close><End of Block>
+<TextBlock 17 w:40 h:3>
+<Opcode 1 255>Ti piace pescare?<Delay 20>
+    Sì
+    No…<Close><End of Block>
+<TextBlock 18 w:50 h:4>
+<Opcode 1 255>Capisco. Allora vuoi provare
+a pescare qualche pesce
+qui nella piazza?<Delay 20> Tuttavia,
+qui la pesca è proibita.<Close><End of Block>
+<TextBlock 19 w:52 h:4>
+<Opcode 1 255>Capisco…<Delay 20>
+Il saggio amava pescare.
+Era solito andare alla piazza
+e catturare dei Leviatani.<New>
+Dopo aver preso il pesce,
+gli dava da mangiare una
+piccola pietra nera e
+lo lasciava andare…<New>
+Mi chiedo se quello fosse
+del cibo per pesci…<Close><End of Block>
+<TextBlock 20 w:48 h:4>
+<Opcode 1 255>Ho dei buonissimi fili.
+Ne vuoi uno per 50G?<Delay 20>
+    Lo compro!!
+    No, grazie…<Close><End of Block>
+<TextBlock 21 w:52 h:4>
+<Opcode 1 255>Ehi, ma tu hai di già
+alcuni ottimi fili
+di ragnatela.<New>
+Prova a pescare con questi
+al centro della piazza.<Delay 20>
+Se sei bravo, prenderai
+un pesce.<Close><End of Block>
+<TextBlock 22 w:48 h:4>
+<Opcode 1 255>Ecco qua.
+Grazie.<New>
+Prova a pescare con questo
+al centro della piazza.<Delay 20>
+Se sei bravo, prenderai
+un pesce.<Close><End of Block>
+<TextBlock 23 w:40 h:1>
+Ricevi Ragnatela!<Close><End of Block>
+<TextBlock 24 w:44 h:2>
+<Opcode 1 255>Non hai soldi?<Delay 20>
+Torna quando li avrai.<Close><End of Block>
+<TextBlock 25 w:38 h:2>
+<Opcode 1 255>Sei sicuro?
+È un ottimo filo…<Close><End of Block>
+<TextBlock 26 w:54 h:4>
+Questa città vaga per i
+cieli in questo stesso,
+identico modo da oltre
+500 anni…<New>
+E si limita ad osservare
+i continui mutamenti che
+avvengono nei diversi
+paesi e nel mondo…<New>
+E osserva anche chi appare
+e chi scompare…<New>
+La gente di Shevat ha perso
+il potere, perciò questo è
+tutto ciò che possono fare…<New>
+Essere in grado di osservare
+potrebbe essere stata una
+ricompensa per la gente
+di questo posto…<Close><End of Block>
+<TextBlock 27 w:48 h:4>
+Per lungo tempo la gente
+di questa città aveva
+sognato di tornare giù
+sulla terra.<New>
+Sognava il giorno in cui
+avrebbe potuto tornare
+giù, in un mondo libero,
+dopo essere scappata
+da Solaris…<New>
+Ho il presentimento che
+questo giorno potrebbe
+non essere troppo <Delay 20>lontano.<Close><End of Block>
+<TextBlock 28 w:48 h:4>
+Perché gli uomini si
+odiano e si fanno del
+male a vicenda?<Delay 20>
+Tutte le persone vivono
+sotto lo stesso cielo blu…<New>
+Potremo mai alleviare il
+dolore di aver perso ciò
+che ci era tanto prezioso?<New>
+Quando verrà il giorno in
+cui riusciremo a capire
+per quale motivo c'erano
+e ci sono tutta questa
+tristezza e questo dolore?<New>
+In breve, potremmo star
+ripetendo lo stesso
+errore che facemmo
+500 anni fa…<Close><End of Block>
+<TextBlock 29 w:46 h:4>
+Qui finisce la città.<Delay 20>
+Se non volete ancora
+andarvene, fareste
+meglio a tornarvene
+indietro.<Close><End of Block>
+<TextBlock 30 w:44 h:4>
+Ah, perciò siete in attesa
+d'incontrarvi con Maria?<Delay 10>
+    Sì, esattamente!
+    No, ti sbagli.<Close><End of Block>
+<TextBlock 31 w:54 h:3>
+Se è così… andate sotto,
+lì c'è una casa dove
+nessuno abita più.<Close><End of Block>
+<TextBlock 32 w:56 h:4>
+Maria spesso andava lì, e si
+sedeva, tutta sola, nel
+secondo piano di quella casa.
+E meditava.<New>
+Perché non controllate quel
+posto e vedete cosa potete
+trovare, intanto che la
+aspettate lì…?<Close><End of Block>
+<TextBlock 33 w:50 h:4>
+Oh? Non è così?<Delay 10> Scusatemi.<Delay 20>
+Bene, allora perché non
+riposarvi e rilassarvi
+nella nostra bella città…?<Close><Close><End of Block>

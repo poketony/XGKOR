@@ -1,0 +1,56 @@
+#### 1 ####
+Wanna go back?
+    Yes
+    No
+
+#### 2 ####
+This is...
+'Merry Go Pop'
+1 time is 10G
+
+#### 3 ####
+Do you want to play?
+    Play
+    No way
+
+#### 4 ####
+Who will play?
+    {name:80:unknown}
+    {name:81:unknown}
+    {name:82:unknown}
+
+#### 5 ####
+Not enough money...
+
+#### 6 ####
+This is...
+'Whose Balloons'
+1 time is 10G.
+
+#### 7 ####
+Do you want to play?
+    Play
+    No way
+
+#### 8 ####
+Who will play?
+    {name:80:unknown}
+    {name:81:unknown}
+    {name:82:unknown}
+
+#### 9 ####
+Not enough money...
+
+#### 10 ####
+This is...
+'Mirror of Truth'
+1 time is 10G.
+
+#### 11 ####
+Do you want to play?
+    Play
+    No way
+
+#### 12 ####
+Not enough money...
+

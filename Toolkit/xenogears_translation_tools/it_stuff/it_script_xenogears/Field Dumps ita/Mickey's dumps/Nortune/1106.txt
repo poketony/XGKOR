@@ -1,0 +1,11 @@
+<TextBlock 1 w:14 h:3>
+Fei
+"!<Delay 30>
+Ehi…"<Close><End of Block>
+<TextBlock 2 w:42 h:2>
+Questo è l'Officina
+per Gear automatica.<Close><End of Block>
+<TextBlock 3 w:46 h:3>
+Grazie, e speriamo di
+potervi essere ancora
+utili in futuro.<Close><Close><End of Block>

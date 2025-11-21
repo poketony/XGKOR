@@ -1,0 +1,147 @@
+<TextBlock 1 w:10 h:2>
+Fei
+"…"<Close><End of Block>
+<TextBlock 2 w:10 h:2>
+Elly
+"…"<Close><End of Block>
+<TextBlock 3 w:48 h:4>
+Bart
+"Cosa!?<Delay 20>
+Collezionare dati
+di combattimento!?<New>
+Allora, questa guerra
+che dura da centinaia
+di anni sul continente
+di Ignis…<New>
+Era solo una farsa
+organizzata da Solaris!?"<Close><End of Block>
+<TextBlock 4 w:44 h:3>
+Rico
+"… Capisco…
+Ecco com'è andata."<Close><End of Block>
+<TextBlock 5 w:48 h:3>
+Billy
+"Sotto il controllo…
+della Chiesa…?<New>
+Gli abitanti della
+superficie… usati come
+animali domestici…?<Delay 30>
+Allora io stavo…"<Close><End of Block>
+<TextBlock 6 w:54 h:3>
+Il Limitatore blocca le
+capacità degli Agnelli.
+Ma deve esserci un modo
+per rimuoverlo.<New>
+Taura Melchiorre era
+uno dei tre saggi di 
+Shevat.<New>
+Dovrebbe conoscere il
+modo di rimuovere il
+Limitatore.<Close><End of Block>
+<TextBlock 7 w:54 h:5>
+Gli scienziati di Solaris
+hanno avuto delle brutte
+esperienze durante la
+la rivolta degli Agnelli…<New>
+… di 500 anni fa. Così
+decisero di fare degli
+innesti su di essi.<Delay 20>
+Inserirono numerosi
+Limitatori, che
+avrebbero impedito
+loro di ribellarsi.<New>
+Per gli ultimi 500 anni,
+Solaris ha controllato
+la coscienza degli
+Agnelli, il loro…<New>
+… comportamento. Tutto
+insomma. E, naturalmente,
+gli Agnelli sono
+all'oscuro di tutto.<New>
+Hanno fatto qualcosa di
+imperdonabile!!<Delay 20> Però è
+molto efficiente…<Close><End of Block>
+<TextBlock 8 w:50 h:6>
+Questa terra è un terreno
+di prova per Solaris.<Delay 20>
+Il loro obiettivo è
+l'ingegneria genetica,
+l'incrocio fra le razze e
+il controllo della mente.<New>
+Collezionano dati dagli
+organismi di nuova
+creazione e dai vari
+combattimenti.<New>
+Gli Agnelli non sono
+altro che bestiame utile
+per soddisfare i bisogni
+di Solaris.<Delay 20>
+La Chiesa fu creata
+principalmente per
+controllare gli Agnelli.<Close><End of Block>
+<TextBlock 9 w:54 h:5>
+Non è una farsa.<Delay 20>
+Per loro è un'importante
+simulazione sotto rigide
+restrizioni.<New>
+La creazione di organismi
+appropriati che possano
+allinearsi con i
+'Contenitori dell'Anima'
+è uno dei loro più
+importanti obiettivi.<New>
+Comunque, gli Agnelli
+continueranno ad essere
+le cavie di laboratorio
+di Solaris fino a che
+qualcuno non li fermerà.<Close><End of Block>
+<TextBlock 10 w:54 h:5>
+Non stanno facendo tutto
+questo per divertimento.<Delay 20>
+È un'importante
+simulazione.<New>
+La creazione di organismi
+appropriati che passono
+allinearsi con i
+'Contenitori dell'Anima'
+è uno dei loro più
+importanti obiettivi.<New>
+Comunque, gli Agnelli
+continueranno ad essere
+le cavie di laboratorio
+di Solaris fino a che
+qualcuno non li fermerà.<Close><End of Block>
+<TextBlock 11 w:52 h:5>
+Voi abitanti delle
+superficie dovreste
+pensare seriamente a
+questo.<New>
+Gli Agnelli continueranno
+ad essere le cavie di
+di Solaris fino a che
+qualcuno non li fermerà.<Close><End of Block>
+<TextBlock 12 w:56 h:4>
+Dalla grande guerra, si
+sono perse le tracce dei
+tre saggi, Melchiorre,
+Baldassarre e Gaspare.<New>
+Si dice che abbiano
+perso la loro fede negli
+uomini a causa della
+tragedia di Nisan.<New>
+Le attività di Solaris
+sono di nuovo aumentate…<Delay 20>
+Chissà dove sono e cosa
+stanno facendo.<Close><End of Block>
+<TextBlock 13 w:52 h:4>
+Un uomo chiamato Krelian
+è dietro alla tecnologia
+dell'impianto del
+Limitatore negli Agnelli.<New>
+In origine lui era un
+Agnello. Ha imparato
+l'ingegneria molecolare
+dal saggio Melchiorre.<New>
+Ma l'ha svilita usandola
+in un simile modo!<Delay 20>
+Una mostruosità assoluta!<Close><Close><End of Block>

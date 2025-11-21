@@ -1,0 +1,151 @@
+#### 1 ####
+Fei
+"...!?"{clear:1E}
+
+#### 2 ####
+Rico
+"No.
+Down's not good..."
+
+#### 3 ####
+Rico
+"I'll hide over
+there for now."
+
+#### 4 ####
+Rico
+"Hey!
+The Kaiser's calling you."
+
+#### 5 ####
+Rico
+"Hey, it does open."{clear:1E}
+
+#### 6 ####
+Rico
+"Nothing...{wait:1E}
+I just came in through
+the entrance."
+
+#### 7 ####
+Rico
+"Well... I'll be seein'
+ya around sometime."
+
+#### 8 ####
+DNA error{clear:28}
+
+#### 9 ####
+The Kaiser is in this room.
+
+#### 10 ####
+This is the Kaiser's wife's
+room.{enter}
+No one's been allowed in
+ever since she disappeared.{enter}
+Please, leave.
+
+#### 11 ####
+What! Is that true?
+
+#### 12 ####
+...Yeah{enter}
+This door won't open for
+anyone except the Kaiser
+and his wife.
+
+#### 13 ####
+Ridiculous!
+It shouldn't open unless it
+scans the right DNA. It
+couldn't open that easily!
+
+#### 14 ####
+Yessir!{clear:14}
+
+#### 15 ####
+No one knows what happened
+to his wife. Even now, the
+Kaiser doesn't know.
+
+#### 16 ####
+This is the Kaiser's wife's
+room.{enter}
+No one's been allowed in
+ever since she disappeared.{enter}
+Please, leave.
+
+#### 17 ####
+Hey! Is it okay?{clear:1E}
+
+#### 18 ####
+Yessir!{clear:14}
+
+#### 19 ####
+Sigmund
+"You...{wait:1E}
+How did you get in here?"
+
+#### 20 ####
+Sigmund
+"...It was probably a
+malfunction."
+
+#### 21 ####
+Sigmund
+"It doesn't matter...{wait:1E}
+Arrest the intruder.{enter}
+The Battling Committee
+is after him for breaking
+his contract. Let them
+deal with him."
+
+#### 22 ####
+Sigmund
+"...No{wait:1E}...can't
+possibly{wait:14} be..."
+
+#### 23 ####
+Sigmund
+"That man was suspected of
+trying to assassinate me.{enter}
+The police are looking into
+the matter now.{enter}
+Well, I have some sudden
+matters to attend to, so
+if you'll excuse me.{enter}
+Please tour the district at
+your leisure. Oh, and about
+my proposition...{enter}
+I'll be awaiting a positive
+response."
+
+#### 24 ####
+Sigmund
+"Good day."
+
+#### 25 ####
+Nice work.
+This is the tactical
+command room.
+
+#### 26 ####
+Good job.
+On the right hand side,
+you can get to the 3rd
+pathway in the basement.
+
+#### 27 ####
+Good.
+Above us is the bridge,
+the Kaiser's room and
+other related facilities.
+
+#### 28 ####
+Soldier
+"This is the Central
+District.{enter}
+The Kaiser's room is up
+this elevator and up the
+west wing stairs."
+

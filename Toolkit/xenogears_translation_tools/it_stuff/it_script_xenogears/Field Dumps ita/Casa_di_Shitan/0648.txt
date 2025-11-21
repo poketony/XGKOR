@@ -1,0 +1,183 @@
+<TextBlock 1 w:10 h:1>
+Uah!?<Opcode 2 40><Close><End of Block>
+<TextBlock 2 w:42 h:2>
+Fei
+"Che…<Delay 30> che cos'è…?"<Space 1><Close><End of Block>
+<TextBlock 3 w:42 h:3>
+Fei
+"Allora era questa la
+cosa di cui parlava Doc.<New>
+Vediamo…<Delay 30> che cosa
+c'è di così
+interessante…"<Close><End of Block>
+<TextBlock 4 w:40 h:4>
+Fei
+"Questa musica…?<Delay 20>
+L'ho<Delay 10> già sentita prima
+da qualche parte…?"<Close><End of Block>
+<TextBlock 5 w:16 h:2>
+Fei
+"Doc…"<Close><End of Block>
+<TextBlock 6 w:52 h:3>
+Shitan
+"Ancora ciao, Fei.
+Scusami per averti
+fatto aspettare."<Close><End of Block>
+<TextBlock 7 w:52 h:3>
+Shitan
+"La musica è qualcosa
+di misterioso…<New>
+A volte fa ricordare
+alle persone cose che
+non si aspettano.<New>
+Molti pensieri,
+sentimenti, ricordi… 
+cose quasi dimenticate…<New>
+A dispetto della volontà
+di colui che ascolta, 
+sia che voglia ricordarle
+o meno…"<Close><End of Block>
+<TextBlock 8 w:48 h:4>
+Shitan
+"È stato riportato alla
+luce da alcune antiche
+rovine…<New>
+… ed è ancora in 
+riparazione.<New>
+Ovviamente è un congegno
+sonoro di qualche tipo."<Close><End of Block>
+<TextBlock 9 w:54 h:4>
+Shitan
+"Nel passato, la gente
+avrebbe ascoltato questa
+melodia…<New>
+… proprio come noi
+stiamo facendo ora…<New>
+Talvolta saranno stati
+rallegrati… Mentre a
+volte saranno arrivati
+a piangere."<Close><End of Block>
+<TextBlock 10 w:48 h:3>
+Shitan
+"A proposito, cosa
+ti porta qui oggi?"<Close><End of Block>
+<TextBlock 11 w:40 h:4>
+Shitan
+"Oh, già. 
+Il suo matrimonio
+è domani, giusto…?"<Close><End of Block>
+<TextBlock 12 w:42 h:4>
+Shitan
+"Ho capito.
+Bene, dovremmo
+prepararle, allora."<Close><End of Block>
+<TextBlock 13 w:52 h:4>
+Shitan
+"Oh, inoltre la cena
+dovrebbe essere
+pronta tra poco<Delay 20>…<New>
+Ti piacerebbe mangiare
+con noi?"<Close><End of Block>
+<TextBlock 14 w:42 h:4>
+Shitan
+"Ho ancora da
+riordinare qualche
+cosa là fuori.<New>
+Ti dispiacerebbe fare
+un po' di compagnia a
+Midori, in casa?"<Close><End of Block>
+<TextBlock 15 w:48 h:4>
+Shitan
+"Ah, ah, ah.
+Non preoccuparti.<New>
+Ma non mi assumerò la
+responsabilità se ti
+sarai preso un mal di
+stomaco…<New>
+… dopo aver assaggiato
+la cucina di mia moglie
+Yui."<Close><End of Block>
+<TextBlock 16 w:50 h:4>
+Shitan
+"Potrebbe semplicemente
+essere perché hai qualcuno
+che vive dentro di te…<New>
+… E anche lui deve aver
+amato questa musica,
+molto tempo prima che
+divenisse parte di te…<Close><End of Block>
+<TextBlock 17 w:52 h:4>
+Shitan
+"Il matrimonio di Timothy
+e Alice è davvero domani…<New>
+Potrebbe in realtà essere
+meglio vivere una vita
+normale, in questo stato…<Delay 30>
+Come essere umano…"<Close><End of Block>
+<TextBlock 18 w:48 h:4>
+Shitan
+"Beh, comunque sia…<New>
+Credo che dovrei
+almeno riparare
+l'autogiro…"<Close><End of Block>
+<TextBlock 19 w:22 h:2>
+Shitan
+"Eh…!?"<Opcode 2 50><Close><End of Block>
+<TextBlock 20 w:36 h:4>
+Shitan
+"Non può essere…<Delay 60>
+È… è questo…
+un presagio…?"<Close><End of Block>
+<TextBlock 21 w:36 h:4>
+Shitan
+"…<Delay 40>
+Adesso… cosa starà
+per accadere…?"<Close><End of Block>
+<TextBlock 22 w:36 h:2>
+Cosa ne pensi?<Delay 30>
+Non male, eh?<Close><End of Block>
+<TextBlock 23 w:46 h:2>
+Fei
+"Doc, che cos'è
+questo…?"<Close><End of Block>
+<TextBlock 24 w:10 h:2>
+Fei
+"…"<Close><End of Block>
+<TextBlock 25 w:48 h:3>
+Fei
+"Oh, già, è vero!<New>
+Alice mi ha chiesto di
+prendere in prestito
+qualche macchina
+fotografica da te."<Close><End of Block>
+<TextBlock 26 w:30 h:4>
+Fei
+"Mi piacerebbe eccome!<Delay 30>
+Stavo proprio sperando
+che me lo chiedessi."<Close><End of Block>
+<TextBlock 27 w:44 h:3>
+Fei
+"Ok.
+Prenditi il tempo che
+ti serve, Doc.<New>
+Andrò e mangerò quando
+la cena sarà pronta!"<Close><End of Block>
+<TextBlock 28 w:46 h:4>
+Fei
+"Doc…<Delay 20>
+Mi sento strano quando
+ascolto questa musica…<New>
+Sento qualcosa di caldo
+dentro di me…"<Close><End of Block>
+<TextBlock 29 w:10 h:2>
+Fei
+"…"<Close><End of Block>
+<TextBlock 30 w:38 h:3>
+C'è qualcosa inciso
+in piccole lettere
+nell'angolo…<Close><End of Block>
+<TextBlock 31 w:68 h:3>
+"    Celebrando la nascita
+        di mia figlia:
+ … siano tuoi tutti i sogni,
+l'ardore e l'amore del mondo… "<Close><Close><End of Block>

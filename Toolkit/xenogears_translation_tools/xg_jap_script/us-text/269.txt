@@ -1,0 +1,132 @@
+#### 1 ####
+{name:07:チュチュ}
+"I'm changing, so
+don't chu come in."
+
+#### 2 ####
+Citan
+"This room seems to be
+for ladies' use only.
+Let us excuse ourselves."
+
+#### 3 ####
+Bart
+"Maybe not here..."
+
+#### 4 ####
+Fei isn't here!{wait:0A}
+I wonder where he went?
+
+#### 5 ####
+So-o-o-rry.{wait:0A}
+The Shevat agent is in
+intensive care...{wait:05} So...{wait:0A}
+No visitors are allowed!!
+
+#### 6 ####
+(I've always wanted to say
+that...!{wait:0A}
+ "No visitors are allowed!"{wait:0A}
+Now I'm so{wait:05}-o-{wait:05}o-o{wait:05} happy!!)
+
+#### 7 ####
+Gawd... I've been standing
+here for such a long time...{enter}
+Was I of any help to you?
+    Of course
+    Hmmm, I dunno
+
+#### 8 ####
+Well I'm happy to hear
+that... Even if you're
+not being truthful!
+
+#### 9 ####
+Oh yeah...!?{wait:0A}
+Well...there are a lot of
+people who get lost around
+here, y'know...{wait:0A} Hah!{enter}
+(Now where was I...!?)
+
+#### 10 ####
+Young master, I've
+learned my lesson!
+
+#### 11 ####
+What? Why am I here?
+Well never mind that!
+(It's not like I'm hiding
+the fact that I broke the
+wall or anything.){enter}
+Oh, and by the way...
+You can go through this
+door to the Gun Room, or
+go down the stairs to the
+Engine Room.
+
+#### 12 ####
+I'll remember to obey
+lights-out from now on...{wait:0A}
+So, please come back alive.
+
+#### 13 ####
+What?{wait:0A} Can't find Fei?
+N,{wait:05} no,{wait:05} I wouldn't know.{wait:0A}
+(Not that I was sleeping
+on the job or anything...)
+
+#### 14 ####
+Young master, c'mon,
+forgive me! Please!
+
+#### 15 ####
+What? Why am I here?{wait:0A}
+Can't we put that behind us?{enter}
+It's not like I'm being made
+to stand here as punishment
+for not obeying lights-out,
+or anything like that, is it?{enter}
+Beyond this door is the
+Gear Hangar.{wait:0A}
+The Gear Shop is located
+in the Gear Hangar too!{enter}
+Now be careful...!{wait:0A}
+The Gears are so big that
+you'll look very small and
+you might get lost.
+
+#### 16 ####
+You may not have noticed it,
+but even since the time you
+guys came here, that tree's
+grown a little bit.{enter}
+It may only be little by
+little, but it still means
+our hopes and dreams are
+also growing to fruition!
+
+#### 17 ####
+Oh, young master!{wait:0A}
+This one's gotten bigger!{enter}
+Right now, it's taller
+than you, young master.
+
+#### 18 ####
+Grow bigger! Grow...!
+
+#### 19 ####
+This tree was planted
+when the young master was
+born. It grew along with
+the young master.{enter}
+With it, our hopes and
+dreams grow to fruition
+too...{enter}
+Anyhow, the door next to
+you is the elevator.{wait:0A}
+Use the switch inside to
+go up or down.
+
+#### 20 ####
+
+

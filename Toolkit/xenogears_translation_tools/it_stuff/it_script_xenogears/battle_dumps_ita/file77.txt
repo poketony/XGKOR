@@ -1,0 +1,24 @@
+<TextBlock 1 w:44 h:3>
+Bart
+"Ma quanti Gear
+ci sono!?<New>
+Pensavo di aver
+eliminato i pesci
+piccoli, ma…!"<Close><End of Block>
+<TextBlock 2 w:20 h:2>
+Bart
+"Merda!"<Close><End of Block>
+<TextBlock 3 w:48 h:4>
+Ufficiale di Bart
+"Ne sono rimasti
+quattro, forse
+cinque!<New>
+La loro abilità e
+tecnica è maggiore di
+quelli che abbiamo
+affrontato prima!"<Close><End of Block>
+<TextBlock 4 w:44 h:3>
+Ufficiale di Bart
+"Padroncino!!
+Si stanno
+avvicinando!!"<Close><Close><End of Block>

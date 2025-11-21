@@ -1,0 +1,102 @@
+#### 1 ####
+Rico
+"{wait:05}...{wait:05}Why?{wait:0F}
+Why are you here?"
+
+#### 2 ####
+Fei
+"To get this back.{wait:0F}
+It's not that I came here
+to save you{wait:05}...{wait:05} {enter}
+The elevator I happened
+to use to escape put me in
+the arena. I saw you were
+getting attacked.{wait:0F} That's{enter}
+why I saved you{wait:05}...{wait:05}
+nothing more than that."
+
+#### 3 ####
+Rico
+"For a coincidence,
+that's a convenient
+story{wait:05}...{wait:05}"
+
+#### 4 ####
+Fei
+"It's up to you what you
+think of it{wait:05}...{wait:05}{enter}
+So,{wait:1E} what're you gonna
+do now?"
+
+#### 5 ####
+Rico
+"...Do what?"
+
+#### 6 ####
+Fei
+"I barged into the arena.{wait:0F}
+We're also fugitives{wait:05}...{wait:05}
+that's why we must{enter}
+escape. If you stay,
+they'll probably make you
+fight that monster again.{enter}
+This time you're gonna
+die{wait:05}...{wait:05}"
+
+#### 7 ####
+Fei
+"Is that what you want?"
+
+#### 8 ####
+Rico
+"{wait:05}...{wait:05}"
+
+#### 9 ####
+Fei
+"Even you must
+have things
+left to do here!{enter}
+But in your
+state of mind{wait:05}...{wait:05}"
+
+#### 10 ####
+Rico
+"Silence! Shut up!{wait:1E}
+Twice.{wait:0F} That's twice
+you've{wait:05}...{wait:05}"
+
+#### 11 ####
+Rico
+"{wait:05}...{wait:05}If you want to escape
+from the Empire, do it
+now. I have no intentions{enter}
+of leaving.{wait:0F} Even if this
+is going to be the end
+for me!!"
+
+#### 12 ####
+Fei
+"{wait:05}...{wait:05}Hmn?
+What's that{wait:05}...{wait:05}?"{clear:3C}
+
+#### 13 ####
+Fei
+"A{wait:05}...{wait:05}rumbling?{wait:0F}
+What's{wait:05} this vibration?"
+
+#### 14 ####
+Rico
+"This vibration{wait:05}...{wait:0F}
+That's{wait:05}...{wait:05}no?{wait:0F} It's not
+coming from the ground."
+
+#### 15 ####
+Rico
+"Is it the{wait:05}...{wait:05}vibration{wait:0F}
+in the atmosphere?"
+
+#### 16 ####
+Fei
+"...Whoa. That doesn't
+sound good."{clear:5A}
+

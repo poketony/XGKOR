@@ -1,0 +1,14 @@
+#### 1 ####
+Maria
+"This is the... barrier!!
+Please, {wait:05}{name:13:ゼプツェン}!!"
+
+#### 2 ####
+Maria
+"A grav field {wait:05}is opening!{wait:0A}
+The space distortion
+correction is starting!"
+
+#### 3 ####
+ 
+

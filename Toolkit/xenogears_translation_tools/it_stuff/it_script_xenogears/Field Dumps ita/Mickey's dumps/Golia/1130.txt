@@ -1,0 +1,39 @@
+<TextBlock 1 w:42 h:4>
+Hammer
+"Pare che della mala
+gente sia in arrivo.<New>
+Anch'io voglio darvi
+una mano!<New>
+Che cosa vuoi?"
+    Cambiare gruppo
+    Negozio
+    Nulla<Close><End of Block>
+<TextBlock 2 w:50 h:3>
+Hammer
+"Buona fortuna. Ci
+vedremo più tardi."<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+Hammer
+"O frate, sono andato
+avanti e ho aperto le
+serrature per voi.<New>
+Cosa? Il Gear? Nah, non
+preoccuparti dei dettagli.
+Io sono l'informatore!<New>
+Non c'è nulla che non
+riesco a sapere.<New>
+Ma, o frate, non ci
+sono nemici! La cosa
+è molto sospetta.<New>
+Oh, già, puoi cambiare
+il gruppo e anche
+accattare roba.<New>
+Ti serve qualcosa?"
+    Cambiare gruppo
+    Negozio
+    Nulla<Close><End of Block>
+<TextBlock 4 w:44 h:3>
+Hammer
+"Fagli vedere chi
+sei! A più tardi,
+o frate."<Close><Close><End of Block>

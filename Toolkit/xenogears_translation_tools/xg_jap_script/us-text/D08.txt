@@ -1,0 +1,395 @@
+#### 1 ####
+{fast:FF}¤É¤³¤¸¤ã¤¤?
+   ¤ä¤Þ¤ß¤Á¤½¤Î¤¿
+   azito
+   billy
+   solaris
+   tola¤´¤ä
+   yggdra
+   ¤ä¤Ã¤Ñ¤ä¡«¤á¤¿¤¡¡« 
+
+#### 2 ####
+{fast:FF}¤É¤³¤¸¤ã¤¤?
+   ¤ä¤Þ¤ß¤Á
+   ¤ß¤¢¤²gearmap
+   kislev¤ì¤Ã¤·¤ãmap
+   ¤»¤Ä¤²¤óazito
+   ¤â¤É¤ë 
+
+#### 3 ####
+{fast:FF}azito¤Î¤É¤³¤¸¤ã¤¤?
+   ¤í¤¦¤«
+   ¤·¤ç¤¯¤É¤¦
+   ¤·¤ó¤·¤Ä
+   bartho¤·¤·¤Ä
+   ¤µ¤¯¤»¤ó¤«¤¤¤®¤·¤Ä
+   yggdradoc£¨¤·¤ç¤¦£©
+   gearhunger
+   yggdradoc£¨¤À¤¤£©
+   gear¤è¤¦map
+   gear¤è¤¦map2£¨drill¤Þ¤¸¤ó£©
+   ¤ä¤á¤Þ¤¹ 
+
+#### 4 ####
+{fast:FF}billy¤Î¤É¤³¤¸¤ã¤¤?
+   ¤½¤È
+   ¤ì¤¤¤Ï¤¤¤É¤¦
+   prim
+   billy
+   toilet
+   ¤³¤É¤â¤Ù¤ä
+   ¤ä¤á¤Þ¤¹ 
+
+#### 5 ####
+{fast:FF}really?
+
+#### 6 ####
+{fast:FF}solaris¤Î¤É¤³¤¸¤ã¤¤?
+   solaris miniworld
+   solaris¤Ò¤ó¤ß¤ó
+   solaris¤·¤¬¤¤
+   solariselly¤ó¤Á
+   ¤ä¤á¤Þ¤¹ 
+
+#### 7 ####
+{fast:FF}¤Ò¤ó¤ß¤ó¤Î¤É¤³¤¸¤ã¤¤?
+   solaris¤·¤å¤¦¤»¤­
+   solaris¤Ò¤ó¤ß¤ó¤½¤È
+   solaris¤Ò¤ó¤ß¤ó
+   solaris¤Ò¤ó¤ß¤ó
+   solaris¤Ò¤ó¤ß¤ó
+   solaris¤Ò¤ó¤ß¤ó
+   solaris¤Ò¤ó¤ß¤ó
+   solaris¤Ò¤ó¤ß¤ódust
+   solaris¤«¤ó¤·1
+   solaris¤«¤ó¤·2
+   solaris¤«¤ó¤·
+   solaris¤«¤ó¤·elveter
+   solaris¤«¤ó¤·¤¦¤±¤Ä¤±
+   ¤â¤É¤ë 
+
+#### 8 ####
+{fast:FF}¤Þ¤Á¤Î¤É¤³¤¸¤ã¤¤?
+   ¤Þ¤Á¤½¤È
+   ¤Þ¤Á¤½¤È2
+   ¤Þ¤Áshop3
+   ¤Þ¤Ámanshon41
+   manshon42
+   ¤Þ¤Ámanshon51
+   ¤Þ¤Ámanshon52
+   ¤Þ¤Áelveter61
+   ¤Þ¤Áelveter62
+   ¤·¤ç¤¦¤¹¤¤¤É¤¦dungeon
+   ¤Æ¤ó¤Æ¤¤map
+   ¤«¤ó¤«¤ó¤·¤­map
+   ¤â¤É¤ë 
+
+#### 9 ####
+{fast:FF}elly¤ó¤Á¤Î¤É¤³¤¸¤ã¤¤?
+   elly¤ó¤Á11
+   elly¤ó¤Á12
+   elly¤ó¤Á13
+   elly¤ó¤Á21
+   elly¤ó¤Á22
+   elly¤ó¤Á¤½¤È
+   ¤â¤É¤ë 
+
+#### 10 ####
+{fast:FF}tola¤Î¤É¤³¤¸¤ã¤¤?
+tola¤½¤È    
+    ¤Ê¤«1
+    ¤Ê¤«2
+    ¤¸¤å¤«¤¤map
+    ¤¸¤å¤«¤¤¤¸¤å¤¦¤¯¤¦map
+    tola¤Ï¤¸¤á¤«¤é
+    ¤ä¤á¤Þ¤¹ 
+
+#### 11 ####
+{fast:FF}yggdra¤Î¤É¤³¤¸¤ã¤¤?
+    ¤­¤ç¤¸¤å¤¦¤¯
+    gear¤«¤¯¤Î¤¦¤³
+    bridge¡¤¤½¤È
+    ¤â¤É¤ë 
+
+#### 12 ####
+{fast:FF}    ¤í¤¦¤«
+    gunroom
+    tako¤Ø¤ä
+    ¤¤¤à¤·¤Ä
+    ¤¢¤­¤Ù¤ä
+    ¤­¤«¤ó¤·¤Ä
+    ¤­¤ã¤¯¤Þ¤À¤ó¤·
+    ¤­¤ã¤¯¤Þ¤¸¤ç¤·
+    ¤â¤É¤ë
+    ¤ä¤á¤ë 
+
+#### 13 ####
+{fast:FF}    gear¤«¤¯¤Î¤¦¤³£¨¤Ç¤«£©
+    gearshop
+    gearhunger
+    gearhunger2
+    ¤â¤É¤ë
+    ¤ä¤á¤ë 
+
+#### 14 ####
+{fast:FF}    bridge£¨¤Ê¤«£©
+    airrock
+    sailbridge£¨¤½¤È£©
+    UFO¤Èyggdra
+    ¤â¤É¤ë
+    ¤ä¤á¤ë 
+
+#### 15 ####
+{fast:FF}sinarioflag¤É¤¦¤·¤Þ¤Ã¤«?
+    ¤ä¤Þ¤ß¤Á
+    azito
+    billy
+    solaris
+    yggdra
+    ¤ä¤á¤Þ¤¹
+
+#### 16 ####
+{fast:FF}    aruru¤Ë¤¢¤Ã¤¿-1
+    aruru¤Ë¤¢¤Ã¤¿
+    ¤æ¤¦¤·¤ç¤¯¤½¤·¤Æ¤¸¤±¤ó
+    fei¤à¤é¤ò¤¢¤È¤Ë
+    ¤â¤É¤ë
+    ¤ä¤á¤ë
+
+#### 17 ####
+{fast:FF}    ¤·¤ç¤¦¤Ë¤å¤¦¤É¤¦¤«¤é¤À¤Ã¤·¤å¤Ä
+    azito¤Ø¤Ï¤¤¤Ã¤¿
+    bartho¤Ï¤Ê¤·¤¿
+    sigrd¤Ï¤Ê¤·¤¿
+    azito¤ª¤½¤ï¤ì¤¿
+    gebura¤·¤ê¤¾¤±¤¿
+    ¤â¤É¤ë
+    ¤ä¤á¤ë 
+
+#### 18 ####
+{fast:FF}    fei¤Ê¤ª¤ë
+    billy¤È¤Ï¤Ê¤·¤¿
+    stone¤È¤¦¤¸¤ç¤¦
+    billy¤·¤å¤Ã¤Ñ¤Ä¤·¤¿
+    ¤â¤É¤ë
+    ¤ä¤á¤ë 
+
+#### 19 ####
+{fast:FF}    solaris¤»¤ó¤Ë¤å¤¦
+    ¤Æ¤ó¤Æ¤¤news¤ß¤¿
+    elly¤Î¤¤¤¨¤È¤¦¤Á¤ã¤¯
+    fei¤Ò¤È¤ê¤Ç¤Ç¤¿
+    ¤â¤É¤ë
+    ¤ä¤á¤ë 
+
+#### 20 ####
+{fast:FF}    ave¤¸¤ç¤¦¤À¤Ã¤·¤å¤Ä
+    nisan¤È¤¦¤Á¤ã¤¯
+    ¤µ¤¯¤»¤ó¤«¤¤¤®
+    gigant¤¦¤Ð¤Ã¤¿
+    ¤¦¤ß¤Çshevat¤ß¤¿
+    yggdra¤Ë¤å¤¦¤³¤¦
+    elly¤µ¤¤¤ß¤ó¤¦¤±¤ë
+    elly¤­¤«¤ó
+    elly¤·¤ç¤¦¤­¤Ë¤â¤É¤ë
+    ¤â¤É¤ë
+    ¤Ä¤®page
+    ¤ä¤á¤ë 
+
+#### 21 ####
+{fast:FF}    fei¤Õ¤·¤ç¤¦
+    billy¤Ë¤¢¤Ã¤¿
+    fei¤Ê¤ª¤ë
+    ¤­¤ç¤À¤¤zombi¤¿¤ª¤·¤¿
+    stone¤Ë¤²¤¿
+    eme¤µ¤é¤ï¤ë
+    feidoc¤Ç¤Ï¤Ã¤±¤ó
+    stone¤·¤å¤¦¤²¤­
+    shevat¤¸¤ç¤¦¤Û¤¦¤­¤¤¤¿
+    ¤â¤É¤ë
+    ¤Þ¤¨¤Îpage
+    ¤Ä¤®¤Îpage
+    ¤ä¤á¤ë 
+
+#### 22 ####
+{fast:FF}    ¤¹¤¤¤Á¤å¤¦¤½¤¦¤Ó¤«¤ó¤ê¤ç¤¦
+    zepthen2¤¿¤ª¤·¤¿
+    yggdra3¤·¤å¤Ã¤³¤¦
+    shakan¤¿¤ª¤·¤¿
+    solaris¤»¤ó¤Ë¤å¤¦¤µ¤¯¤»¤ó
+    ¤µ¤¤¤´¤Î¤á¤¶¤á
+    ¤Þ¤¨¤Îpage
+    ¤ä¤á¤ë 
+
+#### 23 ####
+{fast:FF}event¤É¤¦¤·¤Þ¤Ã¤«?
+    ¤ä¤Þ¤ß¤Á
+    azito
+    billy
+    solaris
+    yggdra
+    tola
+    reset
+    ¤Ê¤ó¤Ç¤â¤Ê¤¤ 
+
+#### 24 ####
+    {fast:FF}aruru¤¢¤ï¤º
+    aruru¤Ë¤¢¤Ã¤¿
+    shitan¤È¤Ï¤Ê¤·¤¿
+    ¤ä¤Þ¤ß¤Á¤è¤ë£¨¤²¤ó¤«¤¯£©
+    gearevent
+    shitan¤È¤´¤¦¤ê¤å¤¦
+    ¤ä¤á¤ë 
+
+#### 25 ####
+    {fast:FF}azito¤Ï¤¸¤á¤«¤é
+    azito¤Ï¤¸¤á¤«¤éinhach
+    ¤í¤¦¤«¡ú¤·¤ç¤¯¤É¤¦mason¤Ï¤Ê¤·
+    mason¤Ï¤Ê¤·¤Ï¤¸¤á¤«¤é
+    mason¤Ï¤Ê¤· ¤È¤Á¤å¤¦¤«¤é
+    azito¤Çpcon¤Ë1
+    bartho¤¤¤»¤­¤»¤Ä¤á¤¤
+    azito¤Çpcon¤Ë2
+    bartho¤«¤ó¤æ¤¦inhach
+    sigrd¤»¤Ã¤È¤¯hunger¤«¤é
+    azito¤Çpcon¤Ë3
+    mason¤»¤Ä¤á¤¤¤¤¤Á¤Þ¤¤¤¨
+    ¤Ä¤®¤Îpage¤Ø
+    ¤â¤É¤ë 
+
+#### 26 ####
+    {fast:FF}yggdradoc¤·¤å¤¦¤²¤­
+    azito¤·¤å¤¦¤²¤­in¤·¤ó¤·¤Ä
+    ¤·¤å¤¦¤²¤­inhach
+    shitan¤·¤å¤Ä¤²¤­¤·¤¿
+    bartho¤¿¤Áfei¤ò¤è¤Ö
+    ¤³¤É¤â¤ª¤½¤ï¤ìfei¤È¤¦¤¸¤ç¤¦
+    ¤É¤ê¤ë¤Þ¤¸¤ó¤È¤¦¤¸¤ç¤¦
+    ¤·¤å¤¦¤²¤­¤´
+    ¤Þ¤¨¤Îpage
+    ¤Ê¤ó¤Ç¤â¤Ê¤¤ 
+
+#### 27 ####
+    {fast:FF}billy¤Ï¤¸¤á¤«¤é
+    billy¤Û¤ó¤À¤Ê¡ústone
+    billy¤¿¤Á¤Ç¤ë
+    yggdra¤«¤³event
+    gearevent
+    3¤µ¤Ä¤Î¤Û¤ó
+    zombi¤Ç¤ë¤Æ¤Þ¤¨
+    ¤ä¤á¤ë 
+
+#### 28 ####
+    {fast:FF}¤Æ¤ó¤«¤¤solaris
+    maria¤È¤Ä¤Ë¤å¤¦!
+    ¤µ¤«¤µ¤Þmap
+    ¤¤¤è¤¤¤è¤À¤Ã¤½¤¦
+    etemen¤Ë¤Ç¤¿
+    ticket¤Æ¤Ë¤¤¤ì¤¿
+    solaris¤«¤ó¤«¤ó¤·¤­
+    solaris¤«¤ó¤«¤ó¤·¤­¤È¤Á¤å¤¦¤«¤é
+    solaris¤«¤ó¤«¤ó¤·¤­¤µ¤¤¤´
+    robo¤Ë¤ª¤¤¤«¤±¤é¤ì¤ë
+    ¤ä¤á¤ë 
+
+#### 29 ####
+    {fast:FF}shitan  sigrd
+    prim¤ª¤·¤ã¤Ù¤ê¤·¤¿
+    salgaso¤Ø¤¤¤¯¤¾
+    ¤«¤¤¤®inexkariba
+    lovelovemode¤Á¤ç¤¯¤¼¤ó
+    lovelovemode£¨dmk2£©
+    shevat¤«¤é¤¢¤¤¤Î¤È¤¦¤Ò¤³¤¦
+    ¤¿¤ª¤ì¤¿fei¤¤¤à¤·¤Ä
+    ramsas¤­¤å¤¦¤µ¤¤
+    bridge¤·¤å¤¦
+    ¤Ä¤®¤Îpage¤Ø
+    ¤ä¤á¤ë 
+
+#### 30 ####
+    {fast:FF}bartho¤è¤ó¤Ç¤³¤¤
+    tams¤ª¤½¤ï¤ì¤Æ
+    jesy¤Î¤Ï¤Ê¤·
+    zombicluiser
+    ¤·¤Þ¤Ã¤¿¤¡¡«
+    ido¤Ë¤Ä¤¤¤Æ
+    billy¤»¤ó¤È¤¦¤Ç¤Ø¤­¤®¤ç¤¯¤Ø
+    ezekieru¤«?
+    ¤ä¤á¤ë 
+
+#### 31 ####
+    {fast:FF}ramsas¤¯¤¦¤Á¤å¤¦¤Ë¤Æ
+    ¤¸¤å¤«¤¤¤Ë¤ª¤Á¤¿
+    tola¤Ç¤á¤¶¤á¤ë
+    tola¤Ç¤ß¤Ä¤á¤¢¤¤
+    veltol2
+    shitan£¦elly¤Èeme
+    tola¡¢graf¤Ë¤¢¤¦
+    kareruren¤«¤³event
+    ¤ä¤á¤ë 
+
+#### 32 ####
+{fast:FF}    bara
+    xono
+    wp¤¹¤Ù¤Æon!
+    ¤Æ¤¤¤Ï¤¯flag
+    ¤è¤Ó
+    ¤ä¤á¤ë
+
+#### 33 ####
+{fast:FF}    nisan¤Æ¤¤¤Ï¤¯
+    shevat¤Æ¤¤¤Ï¤¯
+    tams¤Æ¤¤¤Ï¤¯
+    azito¤Æ¤¤¤Ï¤¯
+    ¤ä¤á¤ë
+
+#### 34 ####
+{fast:FF}party¤Ø¤ó¤»¤¤reset
+
+#### 35 ####
+    {fast:FF}¤Ì¤±¤ë
+    member¤Ø¤ó¤»¤¤
+    party¤Ø¤ó¤»¤¤
+
+#### 36 ####
+    {fast:FF}¤Ä¤¤¤«
+    ¤µ¤¤¤·¤ç¤«¤é
+    ¤ª¤ï¤ê
+
+#### 37 ####
+{fast:FF}¤Þ¤ºparty¡£
+
+#### 38 ####
+{fast:FF}partychara
+
+#### 39 ####
+    {fast:FF}fei
+    elly
+    shitan
+    bartho
+    billy
+    rico
+    eme
+    chuchu
+    maria
+    shitan2
+    eme2
+
+#### 40 ####
+    {fast:FF}fei
+    elly
+    shitan
+    bartho
+    billy
+    rico
+    eme
+    chuchu
+    maria
+    shitan2
+    eme2
+
+#### 41 ####
+    {fast:FF}¤Ä¤Å¤±¤ë
+    EVERSTAY
+    RET 
+

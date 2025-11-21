@@ -1,0 +1,239 @@
+<TextBlock 1 w:20 h:2>
+Fei
+"Che c'è?"<Close><End of Block>
+<TextBlock 2 w:28 h:2>
+Fei
+"L'hai mosso?"<Close><End of Block>
+<TextBlock 3 w:22 h:2>
+Elly
+"Cosa c'è?"<Close><End of Block>
+<TextBlock 4 w:28 h:2>
+Elly
+"L'hai mosso?"<Close><End of Block>
+<TextBlock 5 w:22 h:2>
+Fei
+"Cosa c'è?"<Close><End of Block>
+<TextBlock 6 w:38 h:3>
+Shitan
+"Il Padroncino lo
+stava utilizzando…"<Close><End of Block>
+<TextBlock 7 w:48 h:4>
+Bart
+"Nessun dubbio…<Delay 30>
+è qualcosa che…<Delay 30>
+ho premuto per sbaglio."<Close><End of Block>
+<TextBlock 8 w:22 h:2>
+Billy
+"Cosa c'è?"<Close><End of Block>
+<TextBlock 9 w:42 h:4>
+Billy
+"Probabilmente grazie
+alle tue splendide
+abilità di pilota."<Close><End of Block>
+<TextBlock 10 w:16 h:2>
+Rico
+"E ora?"<Close><End of Block>
+<TextBlock 11 w:28 h:3>
+Rico
+"Ehi, che stai
+dicendo?"<Close><End of Block>
+<TextBlock 12 w:22 h:2>
+<Chu-Chu>
+"Cosa c'è?"<Close><End of Block>
+<TextBlock 13 w:48 h:2>
+<Chu-Chu>
+"Ehi, lo stai muovendo!"<Close><End of Block>
+<TextBlock 14 w:18 h:2>
+Esmeralda
+"…?"<Close><End of Block>
+<TextBlock 15 w:18 h:2>
+Esmeralda
+"…?"<Close><End of Block>
+<TextBlock 16 w:22 h:2>
+Maria
+"Cosa c'è?"<Close><End of Block>
+<TextBlock 17 w:42 h:4>
+Maria
+"Non è che è successo
+perché eri tu a
+controllarlo?"<Close><End of Block>
+<TextBlock 18 w:48 h:4>
+Trone
+"Bene bene.<New>
+Allora facevate sul
+serio!? Volete davvero
+riflettere un grosso
+raggio laser…<New>
+… su uno specchio.
+Siete alquanto stupidi…"<Close><End of Block>
+<TextBlock 19 w:40 h:3>
+Trone
+"Deviarne
+l'angolazione…?<New>
+… e il tasso di
+ricaduta?<New>
+Il tasso di ricaduta
+nell'atmosfera sarà
+enorme."<Close><End of Block>
+<TextBlock 20 w:50 h:4>
+Trone
+"… Non ditemi neanche
+una parola!<New>
+… a qualunque cosa stiate
+pensando, il Gear di
+Trone, Skyghene, vi
+schiaccerà di sicuro!"<Close><End of Block>
+<TextBlock 21 w:52 h:4>
+Trone
+"Ummph<Delay 30>…<New>
+Non riesco neanche a
+credere che abbiate
+pensato ad un piano
+così stupido."<Close><End of Block>
+<TextBlock 22 w:48 h:4>
+Trone
+"Continuate pure a
+parlare, finché potete.<New>
+A quest'ora, Dominia e
+Cherubina dovrebbero già
+aver preso il controllo
+della Torre di Babele.<New>
+Adesso toglietevi
+dalle scatole!"<Close><End of Block>
+<TextBlock 23 w:42 h:3>
+Seraphita
+"Trone, Trone!!
+Oh, oh, eccoti qui!!"<Close><End of Block>
+<TextBlock 24 w:50 h:4>
+Seraphita
+"Flettersi?<New>
+Fare le trazioni al
+contrario è davvero
+difficile!!!<New>
+Ma, sapete, io riesco
+a farne 300 di trazioni!"<Close><End of Block>
+<TextBlock 25 w:48 h:3>
+Seraphita
+"Oh già, già!
+Giusto! Ora ricordo!<New>
+È la zuppa di tofu,<Delay 30> no?"<Close><End of Block>
+<TextBlock 26 w:28 h:3>
+Seraphita
+"Chi l'avrebbe
+mai pensato?"<Close><End of Block>
+<TextBlock 27 w:20 h:2>
+Seraphita
+"… Bene!!"<Close><End of Block>
+<TextBlock 28 w:40 h:2>
+Bart
+"Ora, Billy, spara!"<Close><End of Block>
+<TextBlock 29 w:38 h:2>
+Rico
+"Ora Billy, spara!"<Close><End of Block>
+<TextBlock 30 w:38 h:2>
+<Chu-Chu>
+"Billy, spara ora!"<Close><End of Block>
+<TextBlock 31 w:42 h:2>
+Maria
+"Billy, sparalo ora!"<Close><End of Block>
+<TextBlock 32 w:48 h:3>
+Bart
+"Ehi!<Delay 30> Finché non lo si
+prova, non si può dire
+che è stupido."<Close><End of Block>
+<TextBlock 33 w:48 h:3>
+Rico
+"Adesso scopriremo se
+è o meno una cretinata."<Close><End of Block>
+<TextBlock 34 w:42 h:4>
+<Chu-Chu>
+"Non prendetevi gioco
+del Diaspro di Bart,
+chu!"<Close><End of Block>
+<TextBlock 35 w:52 h:3>
+Maria
+"Finché non lo si prova,
+non lo si può dire.<New>
+Non siete voi quelli che
+sottovalutano gli abitanti
+della superficie?"<Close><End of Block>
+<TextBlock 36 w:34 h:2>
+Bart
+"Calmati e mira!"<Close><End of Block>
+<TextBlock 37 w:36 h:4>
+Rico
+"Non preoccuparti.
+È rimasta ancora
+dell'energia."<Close><End of Block>
+<TextBlock 38 w:38 h:3>
+<Chu-Chu>
+"Billy, il prossimo
+sarà a posto!!"<Close><End of Block>
+<TextBlock 39 w:40 h:4>
+Maria
+"Non preoccupartene.
+È rimasta ancora
+dell'energia."<Close><End of Block>
+<TextBlock 40 w:30 h:2>
+Bart
+"Sono tornate!"<Close><End of Block>
+<TextBlock 41 w:30 h:2>
+Rico
+"Sono tornate!"<Close><End of Block>
+<TextBlock 42 w:30 h:2>
+<Chu-Chu>
+"Sono tornate."<Close><End of Block>
+<TextBlock 43 w:28 h:3>
+Maria
+"Quelle due
+sono tornate."<Close><End of Block>
+<TextBlock 44 w:26 h:1>
+<Opcode 1 255>All'Yggdrasil<Close><End of Block>
+<TextBlock 45 w:26 h:1>
+<Opcode 1 255>All'Yggdrasil<Close><End of Block>
+<TextBlock 46 w:26 h:1>
+<Opcode 1 255>All'Yggdrasil<Close><End of Block>
+<TextBlock 47 w:26 h:1>
+<Opcode 1 255>All'Yggdrasil<Close><End of Block>
+<TextBlock 48 w:26 h:1>
+<Opcode 1 255>All'Yggdrasil<Close><End of Block>
+<TextBlock 49 w:26 h:1>
+<Opcode 1 255>All'Yggdrasil<Close><End of Block>
+<TextBlock 50 w:26 h:1>
+<Opcode 1 255>All'Yggdrasil<Close><End of Block>
+<TextBlock 51 w:36 h:2>
+Bart
+"Siamo emersi!<New>
+Ora apriamo la
+cupola sul tetto."<Close><End of Block>
+<TextBlock 52 w:14 h:2>
+Bart
+"… Eh?"<Close><End of Block>
+<TextBlock 53 w:14 h:2>
+Bart
+"Cosa?"<Close><End of Block>
+<TextBlock 54 w:30 h:3>
+Bart
+"Eh?<Delay 30> No,<Delay 30> si sta
+già muovendo."<Close><End of Block>
+<TextBlock 55 w:36 h:2>
+Bart
+"No.<New>
+Non è per questo."<Close><End of Block>
+<TextBlock 56 w:50 h:3>
+Forte Diaspro è già emerso.<New>
+Dovreste andare a Babele
+a controllare i sistemi
+dello specchio.<Close><End of Block>
+<TextBlock 57 w:48 h:3>
+Trone
+"Ah!<Delay 30> Il gusto
+degli Agnelli…"<Close><End of Block>
+<TextBlock 58 w:24 h:2>
+Seraphita
+"… Gusto…!!"<Space 1><Close><End of Block>
+<TextBlock 59 w:34 h:4>
+Trone
+"Pensavo d'averti
+detto di startene
+muta!"<Close><Close><End of Block>

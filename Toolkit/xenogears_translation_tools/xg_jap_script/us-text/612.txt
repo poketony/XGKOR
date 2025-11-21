@@ -1,0 +1,192 @@
+#### 1 ####
+Fei
+"You're kidding?
+What are you doing
+here, Elly?{enter}
+I thought you agreed
+to get out of the
+military!"
+
+#### 2 ####
+Fei
+"Then, you're saying
+this is also one of
+your duties!?"
+
+#### 3 ####
+Fei
+"Are you serious?
+You do know what you're
+doing, don't you!?{enter}
+How can you say that
+knowing where that ship
+is headed and what the
+outcome may be...?"
+
+#### 4 ####
+Fei
+"C'mon, Elly!
+Say something!"
+
+#### 5 ####
+Fei
+"Then..."
+
+#### 6 ####
+Fei
+"Freedom? 
+Me?"
+
+#### 7 ####
+Fei
+"Then why don't you
+do that too, Elly!?"
+
+#### 8 ####
+Fei
+"Elly..."
+
+#### 9 ####
+Fei
+"I don't have a place
+I belong in either..."
+
+#### 10 ####
+Fei
+"... Bart and crew,
+even their whole ship,
+are all missing...{enter}
+They disappeared after
+the battle with Gebler.
+So, I don't have a place
+to belong to anymore..."
+
+#### 11 ####
+Fei
+"...Do you enjoy this?"
+
+#### 12 ####
+Fei
+"Barging into someone
+else's country, and
+destroying the place...{enter}
+Dragging innocent
+people into
+becoming victims...{enter}
+Do you enjoy fighting
+that much!? Is it that
+much fun for you to
+watch people die!?"
+
+#### 13 ####
+Fei
+"If that's the case...
+then come with me!"
+
+#### 14 ####
+Fei
+"Just forget
+everything and
+come with me!!"
+
+#### 15 ####
+Elly
+"That's asking for too
+much! I'm an officer
+of the Gebler forces!"
+
+#### 16 ####
+Elly
+"Yes!
+My duty is to
+escort the Hecht.{enter}
+And to eliminate
+all enemies that
+get in its way...{enter}
+So you better get
+out of the way...{enter}
+Cause if you don't
+move then I'll
+have no choice but
+to eliminate you!"
+
+#### 17 ####
+Elly
+"..."
+
+#### 18 ####
+Elly
+"I know!
+I do understand
+what I'm doing!"
+
+#### 19 ####
+Elly
+"Change.{wait:1E}
+How I wanted
+to change{wait:14}...{enter}
+I've thought of
+changing, but
+I couldn't{wait:0A}...{enter}
+I don't have
+the freedom
+like you do!
+
+#### 20 ####
+Elly
+"Yes! Am I wrong?
+To be able to choose
+where you belong...{enter}
+To be able to fight
+alongside those who
+believe in their
+own cause...{enter}
+Even if you have
+much more anguish
+to deal with...{enter}
+At least you have the
+freedom to choose
+your own path!
+Unlike me...!"
+
+#### 21 ####
+Elly
+"If I could, I would
+already be doing it!
+But I can't...{enter}
+This is my place. And
+that's how it is here!"
+
+#### 22 ####
+Elly
+"... So... please,
+understand..."
+
+#### 23 ####
+Elly
+"Huh?"
+
+#### 24 ####
+Elly
+"Really...
+Then, why are you
+fighting now?{enter}
+Who are you
+fighting for...?"
+
+#### 25 ####
+Elly
+" ? "
+
+#### 26 ####
+Elly
+"Don't be ridiculous!
+I would never find
+pleasure in that!"
+
+#### 27 ####
+Elly
+"Wha!?
+What are
+you doing!?"
+

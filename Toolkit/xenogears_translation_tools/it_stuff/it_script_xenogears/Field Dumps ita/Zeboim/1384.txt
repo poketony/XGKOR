@@ -1,0 +1,56 @@
+<TextBlock 1 w:46 h:4>
+Kim
+"Questo, questo è il
+nuovo ricettacolo per
+l'anima…<New>
+… che romperà
+la maledizione."<Close><End of Block>
+<TextBlock 2 w:54 h:4>
+Kim
+"Non si è ancora
+risvegliata.<New>
+La sua forma è stata
+data dalle nanomacchine…<New>
+… ma l'Assemblatore non
+ha ancora creato la
+simulazione neurale.<New>
+È fisicamente stabile, ma
+ancora non funziona come
+creatura vivente."<Close><End of Block>
+<TextBlock 3 w:46 h:4>
+Kim
+"Non importa quante
+volte riscriviamo…<New>
+… il patrimonio
+genetico ereditario…<New>
+… le caratteristiche
+impresse nei nostri
+corpi non possono
+essere fermate.<New>
+Era necessario
+spingersi oltre,
+fino a questo punto.<New>
+Abbiamo dovuto ricreare
+il livello molecolare…
+No…<New>
+… in verità, il livello
+atomico, riferendoci al
+mio ed al tuo modello
+strutturale."<Close><End of Block>
+<TextBlock 4 w:38 h:4>
+Kim
+"Questa bambina…
+tiene nelle sue mani…
+il nostro futuro…<New>
+… e le nostre
+aspettative…"<Close><End of Block>
+<TextBlock 5 w:50 h:2>
+Elly
+"Una colonia di
+nanomacchine…"<Close><End of Block>
+<TextBlock 6 w:44 h:4>
+Elly
+"Questa bambina…<New>
+… può essere l'angelo
+capace di donarci
+più tempo…?"<Close><Close><End of Block>

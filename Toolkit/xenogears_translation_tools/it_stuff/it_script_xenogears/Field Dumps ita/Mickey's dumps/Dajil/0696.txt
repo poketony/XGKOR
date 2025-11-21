@@ -1,0 +1,88 @@
+<TextBlock 1 w:44 h:4>
+Fei
+"Wow… così questa è
+l'officina della
+Chiesa, eh, Doc?"<Close><End of Block>
+<TextBlock 2 w:54 h:4>
+Shitan
+"Sì. Queste officine sono
+gli unici luoghi dove è
+possibile riparare i Gear.<New>
+Vediamo se qui troviamo
+i pezzi che ci servono
+per riparare <Weltall>.<New>
+Come dicono, il
+tempo è denaro!<New>
+… Quindi facciamo
+quello che dobbiamo fare
+nel modo più veloce di
+cui siamo capaci."<Close><End of Block>
+<TextBlock 3 w:50 h:3>
+Shitan
+"Scusi il disturbo.<New>
+Il nostro Gear è rotto,
+così vorremmo comprare
+i pezzi per ripararlo."<Close><End of Block>
+<TextBlock 4 w:52 h:4>
+Shitan
+"Sì, quello che ci serve è
+il circuito di iniezione,
+modello X-29."<Close><End of Block>
+<TextBlock 5 w:28 h:4>
+Shitan 
+"Capisco. Spiacente
+di averla importunata."<Close><End of Block>
+<TextBlock 6 w:52 h:4>
+Di questi tempi la tecnologia
+della Chiesa è diventata
+indispensabile per la vita
+di tutti i giorni.<New>
+Noi pensiamo di dover
+utilizzare tutte le nostre
+scoperte per aiutare il
+maggior numero di persone.<Close><End of Block>
+<TextBlock 7 w:58 h:3>
+Ancora voi due?<New>
+Come vi ho già detto, in
+questa officina si
+riparano solo i Gear
+civili.<New>
+Non possiamo esservi d'aiuto
+con il vostro nuovo modello
+di Gear militare.<Close><End of Block>
+<TextBlock 8 w:60 h:4>
+Originariamente questa città
+era il paradiso per i cacciatori
+di tesori delle rovine.<New>
+La nostra officina riesce a
+fatica a far fronte alle
+richieste di riparazione dei
+Gear utilizzati per lo scavo
+nelle rovine.<Close><End of Block>
+<TextBlock 9 w:40 h:2>
+Uh?
+Come possiamo aiutarvi?<Close><End of Block>
+<TextBlock 10 w:50 h:3>
+Sfortuna, eh?
+Quale pezzo di ricambio
+state cercando?<Close><End of Block>
+<TextBlock 11 w:48 h:4>
+Circuito di iniezione
+modello X-29?<New>
+Viene usato solo sugli
+ultimi modelli di Gear
+militari. Qui non abbiamo
+questo tipo di ricambi.<New>
+Questi pezzi si possono
+avere solo facendo un
+ordine speciale alla
+Sede della Chiesa.<New>
+In questa officina si
+riparano solo Gear di
+tipo civile…<Close><End of Block>
+<TextBlock 12 w:30 h:2>
+Mi dispiace di non
+potervi aiutare.<Close><End of Block>
+<TextBlock 13 w:44 h:2>
+Per favore, non toccatelo.
+Deve essere riparato.<Close><Close><End of Block>

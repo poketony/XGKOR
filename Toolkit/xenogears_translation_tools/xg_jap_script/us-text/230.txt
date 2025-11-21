@@ -1,0 +1,41 @@
+#### 1 ####
+Hammer
+"Looks like some bad
+guys are comin' out.
+I'll try to help too.{enter}
+What do you want?"
+    Party change
+    Shop
+    Nothing
+
+#### 2 ####
+Hammer
+"Well, good luck. I'll
+catch up with you later."
+
+#### 3 ####
+Hammer
+"Muahahah! Hey bro, I
+went ahead and opened up
+the locks for you.{enter}
+What? The Gear? Nah, don't
+worry about the details.
+I'm the information man!{enter}
+There's nothing outta my
+reach.{enter}
+But hey, there aren't
+any enemies though.
+Something's suspicious.{enter}
+Oh yeah, you can
+change your party and
+even shop.{enter}
+Need anything?"
+    Party change
+    Shop
+    Nothing
+
+#### 4 ####
+Hammer
+"Go get'em. I'll catch
+up with you later."
+

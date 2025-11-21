@@ -1,0 +1,181 @@
+#### 1 ####
+Elly
+"I have to get my mother
+and father to a safe
+place quickly...!"
+
+#### 2 ####
+Elly
+"Father!
+Mother!"
+
+#### 3 ####
+Elly
+"T, thank you, Hammer."
+
+#### 4 ####
+Elly
+"Father..."
+
+#### 5 ####
+Citan
+"Fei, let us hurry!!
+They will find us
+here easily!"
+
+#### 6 ####
+Citan
+"Listen everyone, we have 
+no time to waste."
+
+#### 7 ####
+Citan
+"So that we do not stand
+out, we should split up
+into two groups.{enter}
+Fei, you have done a lot,
+but I would like to have
+you move on ahead and take
+two more members with you.{enter}
+Move along southwest of
+here and cross two mobile
+contact bridges.{enter}
+There you will find a
+hangar that will lead to
+the outside.{enter}
+We will meet at the
+footbridge near there.{enter}
+If you talk to the blue
+memory cubes you will be
+able to make contact with
+the other party members.{enter}
+You can thus change which
+members you wish to have
+in your current party."
+
+#### 8 ####
+Citan
+"...Okay.
+Please do not overdo it."
+
+#### 9 ####
+Bart
+"Let's bail while
+we can!"
+
+#### 10 ####
+Billy
+"Don't let down your
+guard until it's over.
+We must get back!!"
+
+#### 11 ####
+Rico
+"Those morons in Solaris...
+Hope they've learned 
+their lesson."
+
+#### 12 ####
+Rico
+"You should thank Hammer!{enter}
+Hammer got your parents
+at the right time.
+Right, Hammer!?"
+
+#### 13 ####
+Emeralda
+"Fei's Kim,
+let's go together!
+Let's go!"
+
+#### 14 ####
+Emeralda
+"Oh, that's Fei!!
+Fei's Kim is here!!"
+
+#### 15 ####
+{name:07:チュチュ}
+"I'm not in giant form
+so it leaves something 
+chu be desired."
+
+#### 16 ####
+Erich
+"Fei, now we're the 
+same as you."
+
+#### 17 ####
+Erich
+"We'd like to thank you,
+too. I never thought I'd 
+see my daughter again...{enter}
+Thank you, Hammer."
+
+#### 18 ####
+Erich
+"I'll go to the hangar
+beforehand, and arrange
+a ride for us.{enter}
+Solaris is in confusion
+now, so if I go alone I 
+can pull some strings."
+
+#### 19 ####
+Erich
+"Yeah, I know."
+
+#### 20 ####
+Erich
+"Elly, Medena...
+See you again."
+
+#### 21 ####
+Medena
+"Fei,
+now we're in the same
+boat as you."
+
+#### 22 ####
+Medena
+"Elly!!"
+
+#### 23 ####
+Medena
+"Dear...
+Please be careful..."
+
+#### 24 ####
+Hammer
+"H, h, hurry, run away...
+Yeah, run away.{enter}
+Yeah, that's right!"
+
+#### 25 ####
+Better make proper
+preparations before
+you flee, so...{enter}
+Consider this Hammer's
+last closing down sale!
+     {fast:FF}Items!
+     Accessories!
+
+#### 26 ####
+Hammer
+"Y, yes...{wait:20}
+Yes...exactly..."
+
+#### 27 ####
+Jessie
+"This country wasn't like 
+this long ago...I think...{enter}
+Well, maybe I was just too 
+young."
+
+#### 28 ####
+Jessie
+"I shut down alarms here
+and there when I was 
+breaking gates.{enter}
+But it's still dangerous.
+Be careful!"
+

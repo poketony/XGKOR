@@ -1,0 +1,71 @@
+<TextBlock 1 w:52 h:4>
+La stanza delle doccie è
+fuori servizio.<Delay 20>
+Per sempre.<Delay 15>
+<Delay 5>…<Delay 5> In realtà, è rotta.<Delay 45>
+Qualcuno che la aggiusti?<Delay 15>
+Magari.<Close><End of Block>
+<TextBlock 2 w:52 h:6>
+Bilancia-fino-a-1 t
+"Chi vuoi pesare?"
+<Opcode 1 255>    <Perso1>
+    <Perso2>
+    <Perso3>
+    Non pesare nessuno<Close><End of Block>
+<TextBlock 3 w:46 h:2>
+Bilancia-fino-a-1 t
+"<Perso1><Delay 5>…<Delay 5>
+dico bene?"<Close><End of Block>
+<TextBlock 4 w:52 h:2>
+Bilancia-fino-a-1 t
+"<Delay 5>…<Delay 5> Non c'è nessuno lì."<Close><End of Block>
+<TextBlock 5 w:46 h:2>
+Bilancia-fino-a-1 t
+"<Perso2><Delay 5>…<Delay 5>
+dico bene?"<Close><End of Block>
+<TextBlock 6 w:52 h:2>
+Bilancia-fino-a-1 t
+"<Delay 5>…<Delay 5> Non c'è nessuno lì."<Close><End of Block>
+<TextBlock 7 w:46 h:2>
+Bilancia-fino-a-1 t
+"<Perso3><Delay 5>…<Delay 5>
+dico bene?"<Close><End of Block>
+<TextBlock 8 w:38 h:2>
+Bilancia-fino-a-1t
+"<Delay 5>…<Delay 5> Torna ancora."<Close><End of Block>
+<TextBlock 9 w:48 h:3>
+Bilancia-fino-a-1 t
+"Sei pelle ed ossa<Delay 5>…<Delay 15>
+Dovresti mangiare di
+più. Specialmente se
+sei donna.<Delay 20>
+(ma io questo non
+posso capirlo!)"<Close><End of Block>
+<TextBlock 10 w:46 h:4>
+Bilancia-fino-a-1 t
+"Mmh,<Delay 5> bene bene.<Delay 30>… Sii felice.
+<Delay 10>Sei al tuo peso forma.<Delay 50>
+Però qualche altro chiletto
+non ti farebbe male, se sei
+donna.<Delay 20>
+(ma io questo non
+posso capirlo!)"<Close><End of Block>
+<TextBlock 11 w:50 h:4>
+Bilancia-fino-a-1 t
+"Mmh,<Delay 5> bene bene.<Delay 15>
+Un po' sovrappeso,<Delay 5> ma
+non preoccuparti.<Delay 50>
+Hai invece un ottimo
+fisico, se sei donna.<Delay 20>
+(ma io questo non
+posso capirlo!)"<Close><End of Block>
+<TextBlock 12 w:50 h:2>
+Bilancia-fino-a-1 t
+"<Delay 5>…<Delay 30> Mangi molto, eh?
+Ricordati di tenerti
+sempre in forma, ma è
+meglio non esagerare.<Delay 20>
+Se sei donna, (ma io
+questo non posso capirlo!)
+sta a te decidere cosa fare.
+Per me, sei troppo sexy."<Close><Close><End of Block>

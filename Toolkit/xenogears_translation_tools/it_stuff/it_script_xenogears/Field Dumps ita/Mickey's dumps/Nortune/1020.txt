@@ -1,0 +1,46 @@
+<TextBlock 1 w:52 h:3>
+Chiusa con una chiave speciale.<Delay 30>
+Non sembra volersi aprire.<Close><End of Block>
+<TextBlock 2 w:52 h:4>
+Signor Arnese
+"Mantieni la tua promessa.<Delay 15>
+Non importa cosa, ma
+compra qualcosa.<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+Signor Arnese
+"Scusa se prima ti
+ho sgridato.<Delay 15>
+Quella chiave è solo
+uno scherzo."<Close><End of Block>
+<TextBlock 4 w:42 h:3>
+Signor Arnese
+"<Delay 5>…<Delay 5> La prossima volta
+non venire di notte."<Close><End of Block>
+<TextBlock 5 w:54 h:4>
+Signor Arnese
+"Abbiamo di tutto per
+tutti. Dal lungo viaggio
+alla scampagnata!"<Close><End of Block>
+<TextBlock 6 w:42 h:2>
+Signor Arnese
+"Grazie!<Delay 5> Alla prossima."<Close><End of Block>
+<TextBlock 7 w:42 h:1>
+Lavoro,<Delay 10> lavoro…<Opcode 2 45><Close><End of Block>
+<TextBlock 8 w:44 h:2>
+Questo va lì<Delay 5>…<Delay 15>
+Questo<Delay 5>…<Delay 10> di là!<Opcode 2 45><Close><End of Block>
+<TextBlock 9 w:50 h:3>
+Papà si comporta sempre
+così con i clienti che
+vengono troppo tardi.<Delay 5><New>
+Mi diverte vedere la 
+loro faccia quando 
+questo succede.<Close><End of Block>
+<TextBlock 10 w:42 h:1>
+Ah ahahah…<Delay 5> ops, scusa.<Close><End of Block>
+<TextBlock 11 w:54 h:3>
+Eheheheh<Delay 10>…<Delay 5> salve.<Delay 15>
+Compra qualcosa e ti
+farò uscire dal negozio.<Close><End of Block>
+<TextBlock 12 w:36 h:1>
+Ho chiuso la porta!<Opcode 2 30><Close><End of Block>

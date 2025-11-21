@@ -1,0 +1,75 @@
+#### 1 ####
+{fast:FF} 
+ - WATERFALL GROTTO SAND SENSOR - 
+                                 
+
+#### 2 ####
+Detected amounts of falling sand
+above the standard safety figure.{enter}
+The sand barrier on the south
+wall of the Terrace Stones has
+been sealed to prevent sand from
+penetrating the excavation site.{enter}
+Until the barrier is reopened,
+please assemble at the safety
+shelter to the east of the
+barrier wall. Thank-you.
+
+#### 3 ####
+Disengaged!
+
+#### 4 ####
+- Aveh excavation sight#8 -
+-       Gear No. 3        -
+    Tell current situation
+    Surrounding area info.
+
+#### 5 ####
+Sand barrier, being opened
+from outside terminal.
+
+#### 6 ####
+Sand sensors have detected
+an abnormal amount of sand.{enter}
+The sand barrier south of
+'Terrace Stones' has been
+sealed to prevent sand from
+entering excavation site.
+
+#### 7 ####
+There are two sand sensors.
+One is on top of the ledge
+located north-northwest
+of here.{enter}
+Another one is located at
+the end of the bridge you
+can see from here.{enter}
+You can get to the bridge
+from the northwest side
+of 'Terrace Stones'.
+
+#### 8 ####
+There is a barrier wall in
+the southeast of 'Terrace
+Stones' that was built to
+stop the shifting of sand.{enter}
+Until the barrier reopens,
+please assemble at the
+shelter located to the
+east of the barrier wall.
+
+#### 9 ####
+Bart
+"What's with this Gear?{enter}
+It's well maintained for
+a Gear just left lying
+around like this."
+
+#### 10 ####
+You have too many
+{str}.
+
+#### 11 ####
+ 
+ Received {str}.
+

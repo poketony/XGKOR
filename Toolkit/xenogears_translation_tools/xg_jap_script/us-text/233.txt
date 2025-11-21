@@ -1,0 +1,17 @@
+#### 1 ####
+You have too many 
+Micas.
+
+#### 2 ####
+ 
+ Received Mica.
+
+#### 3 ####
+You have too many 
+Gold Nuggets
+to carry.
+
+#### 4 ####
+ 
+ Received Gold Nugget.
+

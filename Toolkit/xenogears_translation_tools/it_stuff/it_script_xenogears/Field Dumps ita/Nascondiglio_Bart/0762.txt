@@ -1,0 +1,351 @@
+<TextBlock 1 w:48 h:4>
+Shitan
+"Sei pronto?<Delay 10>
+Io andrò dopo, perciò
+riposati un po', prima."<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+Shitan
+"Fei, non c'è bisogno di
+essere arrabbiato con Bart.<Delay 10>
+Perdonalo."<Close><End of Block>
+<TextBlock 3 w:50 h:4>
+Shitan
+"Fei, non c'è bisogno
+di essere arrabbiato
+con Bart.<Delay 10> Perdonalo."<Close><End of Block>
+<TextBlock 4 w:54 h:3>
+Sigurd
+"Partiremo domani di
+buon mattino.<Delay 10><New>
+È meglio prepararsi oggi
+per il viaggio e riposarsi
+nelle nostre camere.<Close><End of Block>
+<TextBlock 5 w:40 h:3>
+Sigurd
+"Sto cercando nella
+rete d'informazioni…<New>
+… rapporti sulla
+condizione di Aveh."<Close><End of Block>
+<TextBlock 6 w:54 h:7>
+Sigurd
+"Cosa vuoi sapere?"<Delay 10>
+    <Opcode 1 255>Chi è Margie?
+    Chi è Shakhan?
+    Cos'è il Diaspro di Fatima?
+    Parlami di Nisan
+    Nulla<Close><End of Block>
+<TextBlock 7 w:46 h:4>
+Sigurd
+"Margie è la Madre
+Margherita di Nisan.<New>
+Ma Shakhan di Aveh l'ha
+imprigionata ed al momento
+è alla ricerca del Diaspro
+di Fatima.<New>
+Bart potrebbe non
+sembrarlo, ma in realtà
+è preoccupatissimo."<Close><End of Block>
+<TextBlock 8 w:50 h:4>
+Sigurd
+"Shakhan era il Primo
+Ministro di Aveh.<New>
+Ma, adesso, è di fatto
+il capo del paese.<Delay 10><New>
+Il suo governo è ciò
+che ha posto Aveh in
+subbuglio."<Close><End of Block>
+<TextBlock 9 w:48 h:3>
+Sigurd
+"Margie possiede metà
+del Diaspro di Fatima.<New>
+Shakhan lo vuole perché
+esso rivela l'ubicazione
+del grande tesoro."<Close><End of Block>
+<TextBlock 10 w:46 h:4>
+Sigurd
+"Nisan è un piccolo paese
+sacro situato nella parte
+occidentale di Ignis.<New>
+Nel suo centro vi è
+un'enorme cattedrale
+meravigliosamente
+adornata.<New>
+Il paese fu fondato
+da Sofia.<New>
+Ella è chiamata dai
+suoi seguaci, i -Kahal-,
+'Madre della Conoscenza'.<New>
+Fu anche la prima Madre
+di Nisan."<Close><End of Block>
+<TextBlock 11 w:38 h:2>
+Spedizione delle
+ultime informazioni!<Close><End of Block>
+<TextBlock 12 w:40 h:2>
+Preghiamo che il
+salvataggio abbia
+successo!<Close><End of Block>
+<TextBlock 13 w:48 h:4>
+Il percorso di Fuga 4 è
+per i civili, tutti i
+civili nell'area del molo
+si rifugino nell'Yggdrasil!<Close><End of Block>
+<TextBlock 14 w:48 h:3>
+Dodici anni fa, Sigurd 
+fuggì da Aveh con il
+Padroncino.<New>
+Siamo stati buoni amici
+sin d'allora.<Close><End of Block>
+<TextBlock 15 w:38 h:2>
+Spedizione delle
+ultime informazioni!<Close><End of Block>
+<TextBlock 16 w:52 h:3>
+Trasferiremo le ultime
+informazioni sull'Yggdrasil.
+Buona fortuna per il
+salvataggio di Margie!<Close><End of Block>
+<TextBlock 17 w:46 h:1>
+Sono entrati nel cancello 4.<Close><End of Block>
+<TextBlock 18 w:44 h:3>
+Stiamo registrando un
+calore non identificato
+nel condotto di aerazione.<Delay 10><New>
+Sono Gear! Il Cancello 3
+è stato distrutto!<Close><End of Block>
+<TextBlock 19 w:48 h:2>
+Energia principale
+interrotta!!<Delay 10> 
+Passare a quella di
+emergenza!<Close><End of Block>
+<TextBlock 20 w:52 h:4>
+Mi chiedo se Margie stia
+bene…<Delay 10> Spero non sia ferita…
+Siamo solo degli operatori,
+ma ci preoccupiamo lo stesso.<New>
+Non possiamo fare nulla.<Delay 10>
+… Sniff…<Close><End of Block>
+<TextBlock 21 w:38 h:2>
+Spedizione delle
+ultime informazioni!<Close><End of Block>
+<TextBlock 22 w:38 h:2>
+Buona fortuna per il
+salvataggio di Margie!<Close><End of Block>
+<TextBlock 23 w:44 h:4>
+Abbiamo perso dei Gear! 
+Gear in funzione: 5 
+Impiegati: 1 
+Estranei: 1<New>
+A tutti i piloti: fare
+immediatamente rapporto
+sulla situazione
+dell'hangar dei Gear!<Close><End of Block>
+<TextBlock 24 w:22 h:1>
+Cessato allarme!!<Close><End of Block>
+<TextBlock 25 w:52 h:3>
+Shitan
+"Questo posto è
+incredibile!<New>
+Probabilmente neanche
+nella capitale possiedono
+una simile attrezzatura."<Close><End of Block>
+<TextBlock 26 w:42 h:4>
+Bart
+"Eh eh. Sorpreso?<Delay 10>
+È grazie a Sig che abbiamo
+questa tecnologia."<Close><End of Block>
+<TextBlock 27 w:52 h:4>
+Bart
+"Ehi, Fei!<Delay 10>
+Non stare fermo sullo
+schermo.<Delay 10><New>
+Non riusciamo a
+vedere!"<Close><End of Block>
+<TextBlock 28 w:46 h:4>
+Bart
+"Bene, uomini!<Delay 10><New>
+Mostrate il mio file
+speciale sullo schermo
+principale."<Close><End of Block>
+<TextBlock 29 w:36 h:2>
+Shitan
+"Che cos'è…?"<Close><End of Block>
+<TextBlock 30 w:50 h:4>
+Bart
+"Un disegno su una
+pergamena, vecchia
+quasi di 500 anni.<New>
+Questo è il Re Fatima I<Delay 10>…<New>
+… 'il corpo celato nelle
+fiamme, che sancisce un
+giuramento di sangue
+coi giganti'.<New>
+Dicono abbia usato la
+forza dei giganti per
+fondare Aveh."<Close><End of Block>
+<TextBlock 31 w:54 h:4>
+Shitan
+"È sbalorditivo che esista
+una pergamena così antica…
+ed in così buon stato!<New>
+Pensavo che la Chiesa
+controllasse tutte le
+cose come questa…"<Close><End of Block>
+<TextBlock 32 w:38 h:3>
+Bart
+"Di norma è così.<New>
+Ma questa era una
+delle proprietà più
+preziose di mio padre."<Close><End of Block>
+<TextBlock 33 w:14 h:2>
+Bart
+"Il prossimo file!"<Close><End of Block>
+<TextBlock 34 w:54 h:4>
+Bart
+"Dopo aver fondato il
+paese, Fatima impose ai
+giganti di dormire<Delay 5>…<New>
+…<Delay 5> per proteggere la
+gente del suo regno, se
+necessario in futuro.<Delay 15><New>
+Ma non sappiamo dove
+siano nascosti.<New>
+In un altro documento, uno
+dei giganti è chiamato il
+'Grande Tesoro di Fatima'."<Close><End of Block>
+<TextBlock 35 w:28 h:3>
+Shitan
+"E riguardo
+al 'Diaspro'?"<Close><End of Block>
+<TextBlock 36 w:40 h:3>
+Bart
+"Ehi…<Delay 10> sai proprio
+tante cose.<New>
+Forse sei una delle
+spie di Shakhan?"<Close><End of Block>
+<TextBlock 37 w:52 h:4>
+Shitan
+"Ovviamente no.<Delay 10>
+È solo un interesse
+intellettuale…"<Close><End of Block>
+<TextBlock 38 w:50 h:4>
+Bart
+"Stavo scherzando.<Delay 10><New>
+Sembra che il Diaspro
+sia la chiave per trovare
+il nostro tesoro."<Close><End of Block>
+<TextBlock 39 w:38 h:3>
+Shitan
+"Una chiave…<New>
+Che possa essere
+ciò che Shakhan
+sta cercando?"<Close><End of Block>
+<TextBlock 40 w:32 h:4>
+Bart
+"Non solo lui.<Delay 10>
+Anche Geburah la
+sta cercando."<Close><End of Block>
+<TextBlock 41 w:38 h:3>
+Shitan
+"Davvero?<New>
+In tal caso, dobbiamo
+salvare Margherita il
+più presto possibile."<Close><End of Block>
+<TextBlock 42 w:40 h:2>
+Bart
+"A chi lo dici!"<Close><End of Block>
+<TextBlock 43 w:52 h:4>
+Bart
+"Visto che vi abbiamo
+aiutati<Delay 15>…<New>
+… mi stavo chiedendo
+se potessi, in cambio,
+chiedervi un favore…?"<Close><End of Block>
+<TextBlock 44 w:36 h:4>
+Shitan
+"Per caso vuoi<Delay 5>…<Delay 5>
+che ti aiutiamo a
+salvarla<Delay 10>…?"<Close><End of Block>
+<TextBlock 45 w:50 h:4>
+Bart
+"Brillante!<Delay 10>
+È proprio così.<New>
+L'ho sentito da Sigurd<Delay 5>…<Delay 10>
+Sembra che sia Aveh
+che Kislev vi stiano
+inseguendo!<New>
+Perciò noi possiamo
+aiutare voi e voi
+potete aiutare noi<Delay 5>…<Delay 10>
+Che ne dite?<Delay 10><New>
+Non vi chiedo tanto."<Close><End of Block>
+<TextBlock 46 w:52 h:4>
+Shitan
+"Beh, se ciò mi fornisce
+vitto e alloggio<Delay 20>…<New>
+… sarò ben felice di
+aiutarvi in qualsiasi
+modo…"<Close><End of Block>
+<TextBlock 47 w:48 h:4>
+Shitan
+"Cosa ne pensi, Fei?<Delay 10>
+È da un po' che non
+dici nulla…"<Close><End of Block>
+<TextBlock 48 w:52 h:4>
+Bart
+"Già.<Delay 10> Sei stato grande
+prima, in quella caverna
+di stalattiti.<New>
+La tua sola forza è più
+grande di quella di dieci
+o venti guardie di Shakhan
+messe assieme."<Close><End of Block>
+<TextBlock 49 w:6 h:1>
+…<Close><End of Block>
+<TextBlock 50 w:34 h:4>
+Bart
+"Mi piacerebbe
+avere il tuo potere
+al mio fianco!"<Close><End of Block>
+<TextBlock 51 w:46 h:3>
+Fei
+"Perché tutti vogliono
+farmi combattere?"<Close><End of Block>
+<TextBlock 52 w:42 h:4>
+Bart
+"Eh…?<Delay 10>
+Che ti prende
+all'improvviso?"<Close><End of Block>
+<TextBlock 53 w:8 h:1>
+Fei?<Close><End of Block>
+<TextBlock 54 w:54 h:4>
+Fei 
+"Semplicemente non voglio!
+'Piacerebbe avere il mio
+potere'?<Delay 10> Io non ne ho!<New>
+Che cosa vi prende…<Delay 5>
+Doc…<Delay 5> tutti<Delay 5>…<Delay 10>
+Mi state spingendo
+al limite.<New>
+E poi c'è quel Gear<Delay 5>…<Delay 5>
+Grahf e mio padre<Delay 5>…<New>
+Non ho il tempo di
+risolvere i vostri
+problemi quando già ne
+ho abbastanza di miei!!"<Close><End of Block>
+<TextBlock 55 w:34 h:4>
+Bart
+"Che gli prende?<Delay 10>
+È sempre così
+di malumore?"<Close><End of Block>
+<TextBlock 56 w:48 h:4>
+Shitan
+"No, non è questo…<Delay 10>
+Mi spiace.<New>
+Così tante cose sono
+accadute così in fretta
+che non ha avuto il tempo
+di affrontarle tutte.<Delay 10><New>
+Cerca di capire."<Close><End of Block>
+<TextBlock 57 w:6 h:1>
+…<Close><End of Block>
+<TextBlock 58 w:0 h:1>
+<Close><End of Block>

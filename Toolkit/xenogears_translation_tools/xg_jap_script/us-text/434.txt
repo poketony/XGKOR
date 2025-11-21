@@ -1,0 +1,55 @@
+#### 1 ####
+Elly
+"I'm so glad...
+everybody is safe and
+sound...{enter}
+What about my father...?"
+
+#### 2 ####
+Citan
+"The hangar is just 
+over there."
+
+#### 3 ####
+Bart
+"I guess we're almost
+there."
+
+#### 4 ####
+Billy 
+"Even if we make it back
+home...will Prim and her
+friends be safe?" 
+
+#### 5 ####
+Rico
+"All right!
+Almost there, Hammer!"
+
+#### 6 ####
+Emeralda
+"Exit! Exit! Exit!"
+
+#### 7 ####
+{name:07:チュチュ}
+"Whew,
+the sky is blue..."
+
+#### 8 ####
+Medena
+"Saying good-bye to
+Solaris...is hard...{enter}
+This is my home no 
+matter what..."
+
+#### 9 ####
+Hammer
+"Here I am.
+I came all the way..."
+
+#### 10 ####
+Jessie
+"This is the last of the
+last. Don't let your
+guard down yet!"
+

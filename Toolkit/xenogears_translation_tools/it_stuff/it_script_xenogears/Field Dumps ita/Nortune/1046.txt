@@ -1,0 +1,70 @@
+<TextBlock 1 w:48 h:4>
+Mio figlio se n'è andato<Delay 5>…<Delay 15>
+E non appena arriverà
+l'alba di domani, mia
+figlia lascerà casa
+nostra.<Close><End of Block>
+<TextBlock 2 w:26 h:1>
+<Delay 5>…<Delay 5>… sigh…<Space 2><Close><End of Block>
+<TextBlock 3 w:40 h:2>
+<Delay 5>…<Delay 5> L'avrei dovuto sapere<Delay 15>
+che era uno sbaglio.<Close><End of Block>
+<TextBlock 4 w:48 h:4>
+<Delay 5>…<Delay 5> Eh?<Delay 15> E tu chi saresti?<Delay 5>
+Entrare in casa mia è
+una cosa terribilmente
+da maleducati.<New>
+Ma immagino che sarebbe
+inutile dire ciò ad un
+criminale<Delay 5>…<Delay 15> Ora, per
+favore, vattene.<Close><End of Block>
+<TextBlock 5 w:14 h:1>
+Sigh<Delay 5>…<Opcode 2 45><Close><End of Block>
+<TextBlock 6 w:50 h:4>
+Credo che costruire la
+mia casa dei sogni nel
+Blocco D sia stato uno
+sbaglio, anche se l'ho
+pagata due soldi<Delay 5>…<Opcode 2 60><Close><End of Block>
+<TextBlock 7 w:48 h:3>
+Escludendo mio figlio,
+mia figlia ha solo 5 anni<Delay 5>…<Delay 5><New>
+Non lascerà questa casa
+prima di molto tempo.<Delay 30> Mi
+preoccupo sempre così
+tanto<Delay 5>…<Delay 5><Close><End of Block>
+<TextBlock 8 w:50 h:3>
+È vero che questa casa
+in sé non è male<Delay 5>…<Delay 15><New>
+Ma era davvero necessario
+costruirla in questo
+Blocco-Prigione?<Close><End of Block>
+<TextBlock 9 w:46 h:4>
+Finalmente sono un
+soldato imperiale!<Delay 15>
+Ero un peso per i miei
+genitori.<Delay 5> Ma li
+ripagherò lavorando sodo.<New>
+Un giorno, vivrò nel
+Blocco A.<Close><End of Block>
+<TextBlock 10 w:42 h:4>
+E avrò una bellissima
+sposa<Delay 5>…<Delay 5> e una famiglia
+unita<Delay 5>…<Delay 5> Ehi! Cosa mi
+stai facendo dire!?<Close><End of Block>
+<TextBlock 11 w:40 h:3>
+Hrnoww,<Delay 5> mi girano
+gli occhi.<Delay 30> Tutti girano<Delay 15>…<Delay 5>
+No.<Close><End of Block>
+<TextBlock 12 w:55 h:4>
+Mi lasciano uscire solo
+quando andiamo in chiesa
+nel fine settimana…
+Mi secco a stare chiusa
+in casa…<Delay 5>…<Delay 5>…<New>
+Vorrei poter andare a
+giocare con la gente
+della chiesa.<Close><End of Block>
+<TextBlock 13 w:32 h:2>
+Che palle, che palle!
+Sono cooooosì annoiata!<Close><Close><End of Block>

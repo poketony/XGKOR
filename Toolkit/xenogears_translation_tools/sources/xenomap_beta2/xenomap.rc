@@ -1,0 +1,335 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ABOUTBOX DIALOG DISCARDABLE  0, 0, 235, 55
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Inofrmazioni su Xenomap"
+FONT 8, "MS Sans Serif"
+BEGIN
+    LTEXT           "Xenomap Versione beta2",IDC_STATIC,40,10,119,8,
+                    SS_NOPREFIX
+    LTEXT           "Realizzato da Chop (2005)",IDC_STATIC,40,25,119,8
+    DEFPUSHBUTTON   "OK",IDOK,175,20,50,14,WS_GROUP
+    LTEXT           "www.sadnescity.it",IDC_STATIC,40,40,119,8
+END
+
+IDD_XENOMAP_DIALOG DIALOGEX 0, 0, 197, 246
+STYLE DS_MODALFRAME | WS_POPUP | WS_VISIBLE | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_APPWINDOW
+CAPTION "xenomap"
+MENU IDR_MAINMENU
+FONT 8, "MS Sans Serif"
+BEGIN
+    EDITTEXT        IDC_IMAGENUM,50,10,30,10,ES_RIGHT | ES_AUTOHSCROLL | 
+                    ES_NUMBER | WS_DISABLED
+    CONTROL         "Spin1",IDC_SPINIMAGE,"msctls_updown32",UDS_SETBUDDYINT | 
+                    UDS_AUTOBUDDY | UDS_ARROWKEYS | WS_DISABLED,80,10,11,10
+    EDITTEXT        IDC_PIECENUM,50,26,30,10,ES_RIGHT | ES_AUTOHSCROLL | 
+                    ES_NUMBER | WS_DISABLED
+    CONTROL         "Spin2",IDC_SPINPIECE,"msctls_updown32",UDS_SETBUDDYINT | 
+                    UDS_AUTOBUDDY | UDS_ARROWKEYS | WS_DISABLED,80,26,11,10
+    EDITTEXT        IDC_IMAGEX,50,85,30,10,ES_RIGHT | ES_AUTOHSCROLL | 
+                    ES_NUMBER | WS_DISABLED
+    EDITTEXT        IDC_IMAGEY,50,100,30,10,ES_RIGHT | ES_AUTOHSCROLL | 
+                    ES_NUMBER | WS_DISABLED
+    EDITTEXT        IDC_SIZEX,50,120,30,10,ES_RIGHT | ES_AUTOHSCROLL | 
+                    ES_NUMBER | WS_DISABLED
+    EDITTEXT        IDC_SIZEY,151,120,30,10,ES_RIGHT | ES_AUTOHSCROLL | 
+                    ES_NUMBER | WS_DISABLED
+    EDITTEXT        IDC_SCREENX,151,85,30,10,ES_RIGHT | ES_AUTOHSCROLL | 
+                    WS_DISABLED
+    EDITTEXT        IDC_SCREENY,151,100,30,10,ES_RIGHT | ES_AUTOHSCROLL | 
+                    WS_DISABLED
+    EDITTEXT        IDC_UNKNOWN,35,150,145,10,ES_AUTOHSCROLL | WS_DISABLED
+    RTEXT           "Immagine:",IDC_STATIC,5,10,40,10
+    LTEXT           "di",IDC_STATIC,95,10,10,10
+    EDITTEXT        IDC_IMAGENUMMAX,105,10,35,10,ES_RIGHT | ES_AUTOHSCROLL | 
+                    ES_NUMBER | WS_DISABLED
+    EDITTEXT        IDC_PIECENUMMAX,105,26,35,10,ES_RIGHT | ES_AUTOHSCROLL | 
+                    ES_NUMBER | WS_DISABLED
+    LTEXT           "di",IDC_STATIC,95,26,10,10
+    RTEXT           "Pezzo:",IDC_STATIC,15,26,30,10
+    RTEXT           "Offset X:",IDC_STATIC,15,85,30,10
+    RTEXT           "Offset Y:",IDC_STATIC,15,100,30,10
+    RTEXT           "Schermo X:",IDC_STATIC,105,85,40,10
+    RTEXT           "Larghezza:",IDC_STATIC,10,120,35,10
+    RTEXT           "Schermo Y:",IDC_STATIC,105,100,40,10
+    RTEXT           "Altezza:",IDC_STATIC,111,120,35,10
+    RTEXT           "Altro:",IDC_STATIC,10,150,20,10
+    GROUPBOX        "Pezzo",IDC_STATIC,5,40,185,125
+    PUSHBUTTON      "Aggiungi",IDC_ADD,40,55,50,14,WS_DISABLED
+    PUSHBUTTON      "Rimuovi",IDC_REMOVE,110,55,50,14,WS_DISABLED
+    EDITTEXT        IDC_XORIGINE,50,205,30,10,ES_RIGHT | ES_AUTOHSCROLL | 
+                    ES_NUMBER
+    EDITTEXT        IDC_YORIGINE,95,205,30,10,ES_RIGHT | ES_AUTOHSCROLL | 
+                    ES_NUMBER
+    EDITTEXT        IDC_RAWPATH,10,185,140,10,ES_AUTOHSCROLL | WS_DISABLED
+    PUSHBUTTON      "Apri",IDC_OPENRAW,155,185,30,10
+    LTEXT           "Origine",IDC_STATIC,10,205,25,10
+    LTEXT           "X:",IDC_STATIC,40,205,10,10
+    LTEXT           "Y",IDC_STATIC,85,205,11,10
+    GROUPBOX        "Raw",IDC_STATIC,5,175,185,65
+    PUSHBUTTON      "Visualizza",IDC_RENDER,130,220,55,15,WS_DISABLED
+    CONTROL         "Flip Orizzontale",IDC_HFLIP,"Button",BS_AUTOCHECKBOX | 
+                    BS_LEFTTEXT | WS_DISABLED | WS_TABSTOP,115,135,65,10
+    CONTROL         "Flip Verticale",IDC_VFLIP,"Button",BS_AUTOCHECKBOX | 
+                    BS_LEFTTEXT | WS_DISABLED | WS_TABSTOP,25,135,55,10
+    CONTROL         "Tutta l'immagine",IDC_VIEWALL,"Button",BS_AUTOCHECKBOX | 
+                    BS_LEFTTEXT | WS_DISABLED | WS_TABSTOP,55,225,70,10
+END
+
+
+#ifndef _MAC
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904B0"
+        BEGIN
+            VALUE "CompanyName", "\0"
+            VALUE "FileDescription", "xenomap MFC Application\0"
+            VALUE "FileVersion", "1, 0, 0, 1\0"
+            VALUE "InternalName", "xenomap\0"
+            VALUE "LegalCopyright", "Copyright (C) 2005\0"
+            VALUE "LegalTrademarks", "\0"
+            VALUE "OriginalFilename", "xenomap.EXE\0"
+            VALUE "ProductName", "xenomap Application\0"
+            VALUE "ProductVersion", "1, 0, 0, 1\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1200
+    END
+END
+
+#endif    // !_MAC
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_ABOUTBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 228
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 48
+    END
+
+    IDD_XENOMAP_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 190
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 239
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    IDS_ABOUTBOX            "&About xenomap..."
+END
+
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// Italian (Italy) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ITA)
+#ifdef _WIN32
+LANGUAGE LANG_ITALIAN, SUBLANG_ITALIAN
+#pragma code_page(1252)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)\r\n"
+    "#ifdef _WIN32\r\n"
+    "LANGUAGE 9, 1\r\n"
+    "#pragma code_page(1252)\r\n"
+    "#endif //_WIN32\r\n"
+    "#include ""res\\xenomap.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""afxres.rc""         // Standard components\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON    DISCARDABLE     "res\\xenomap.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_IMAGE DIALOGEX 0, 0, 186, 95
+STYLE DS_MODALFRAME | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_TOOLWINDOW
+CAPTION "Immagine"
+FONT 8, "MS Sans Serif"
+BEGIN
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_IMAGE, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 179
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 88
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Accelerator
+//
+
+IDR_MAINACCEL ACCELERATORS DISCARDABLE 
+BEGIN
+    VK_ESCAPE,      ACC_ESC,                VIRTKEY, NOINVERT
+    VK_RETURN,      ACC_RETURN,             VIRTKEY, NOINVERT
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_MAINMENU MENU DISCARDABLE 
+BEGIN
+    POPUP "&File"
+    BEGIN
+        MENUITEM "&Apri...",                    ID_FILE_APRI
+        MENUITEM "&Salva",                      ID_FILE_SALVA
+        MENUITEM "Sal&va con nome..",           ID_FILE_SALVACONNOME
+        MENUITEM SEPARATOR
+        MENUITEM "&Esci",                       ID_FILE_ESCI
+    END
+END
+
+#endif    // Italian (Italy) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE 9, 1
+#pragma code_page(1252)
+#endif //_WIN32
+#include "res\xenomap.rc2"  // non-Microsoft Visual C++ edited resources
+#include "afxres.rc"         // Standard components
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

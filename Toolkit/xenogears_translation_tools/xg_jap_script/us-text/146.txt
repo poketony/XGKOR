@@ -1,0 +1,152 @@
+#### 1 ####
+    3rd Floor
+    Basement
+
+#### 2 ####
+    3rd Floor
+    Basement
+
+#### 3 ####
+Shakhan
+"There is a customary
+Tournament after the
+dedication ceremony..."
+
+#### 4 ####
+Ramsus
+"What about the incident 
+in that report?"
+
+#### 5 ####
+Shakhan
+"What? Oh, you mean the
+500-year-old mobile weapon
+excavated from the ruins?{enter}
+Thanks to the help of the
+'Ethos', the repairs are
+complete.{enter}
+I thought we could announce
+it on the day of the
+dedication ceremony..."
+
+#### 6 ####
+Ramsus
+"Toys like that should
+be given to Vanderkaum.{enter}
+I'm talking about the
+'Fatima Jasper'."
+
+#### 7 ####
+Shakhan
+"I already have obtained
+one half of the crest.{enter}
+But I haven't been able
+to get her to tell me
+where the other half is.{enter}
+She is a rather strong-
+willed girl..."
+
+#### 8 ####
+Ramsus
+"You're not being rough
+with her, are you?"
+
+#### 9 ####
+Shakhan
+"Of course not. I know
+how you despise vulgar
+acts like that."
+
+#### 10 ####
+Ramsus
+"You said that girl is the
+Holy Mother of Nisan...{wait:32}
+Is she upstairs?"
+
+#### 11 ####
+Shakhan
+"Yes, in the
+east tower."
+
+#### 12 ####
+Ramsus
+"Miang, could
+it possibly be
+a 'Relic'?"
+
+#### 13 ####
+Miang
+"Yes. But there is still no
+response. There seems to be
+a barrier or something.{enter}
+However, we do know from
+the 500-year-old records
+that one certainly exists
+in this vicinity.{enter}
+It's probably well
+preserved too."
+
+#### 14 ####
+Ramsus
+"...Let's meet her.{enter}
+I want to talk to her
+directly. Miang, you
+come with me."
+
+#### 15 ####
+Miang
+"Yes sir."
+
+#### 16 ####
+Bart
+"Hey, Fei!
+Do you know where
+this elevator goes?"
+
+#### 17 ####
+Fei
+"I don't know.
+Where does it go?"
+
+#### 18 ####
+Bart
+"I'm asking you!
+This thing wasn't
+here before."
+
+#### 19 ####
+Bart
+"Don't worry.
+We'll get you back
+home...somehow!"
+
+#### 20 ####
+Margie
+"I'm not worried."
+
+#### 21 ####
+Bart
+"Hey Fei, how did
+the Tournament go?"
+
+#### 22 ####
+Fei
+"Uh, I won...
+I guess..."
+
+#### 23 ####
+Bart
+"That's what I thought.
+I knew you could do it."
+
+#### 24 ####
+ Fei
+"I lost halfway
+through..."
+
+#### 25 ####
+ Bart
+"No way!?
+I thought you'd
+win for sure!"
+

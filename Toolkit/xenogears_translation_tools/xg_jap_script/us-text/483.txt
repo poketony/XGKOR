@@ -1,0 +1,16 @@
+#### 1 ####
+Security system is
+deactivated.
+
+#### 2 ####
+Security system
+lock OFF
+
+#### 3 ####
+You have too many
+{str}.
+
+#### 4 ####
+ 
+ Received {str}.
+

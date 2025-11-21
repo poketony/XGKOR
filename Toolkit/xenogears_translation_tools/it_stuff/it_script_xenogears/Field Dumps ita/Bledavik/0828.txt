@@ -1,0 +1,28 @@
+<TextBlock 1 w:50 h:4>
+Da quando il più grande
+dei miei figli è stato
+chiamato alle armi, mi
+sento così sola…<New>
+Mio figlio più piccolo è
+sul tetto, e guarda
+verso nord…<Delay 10>
+Ahh…<Delay 10> Spero che mio
+figlio torni a casa salvo…<New>
+È un ragazzo così gentile!
+Sono preoccupata… chissà
+se ce la farà nell'esercito…<New>
+Era solito occuparsi dei
+fiori che stanno al piano
+di sopra…<New>
+Ma ora sono io ad
+occuparmene, e mentre lo
+faccio prego perché
+ritorni salvo.<Close><End of Block>
+<TextBlock 2 w:50 h:3>
+Il mio figlio più
+grande è tornato!<New>
+Le mie preghiere sono
+state esaudite!
+Ora tutti i miei sforzi
+saranno rivolti verso
+la cucina!<Close><Close><End of Block>

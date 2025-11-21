@@ -1,0 +1,73 @@
+#### 1 ####
+Fei
+"Whew!{wait:14}
+That about does it..."
+
+#### 2 ####
+Fei
+"Alright...
+Now for a
+short break."
+
+#### 3 ####
+Whoa!{clear:1E}
+
+#### 4 ####
+Received a Spider Web.
+
+#### 5 ####
+Rest in your bed?
+    Yes
+    No
+
+#### 6 ####
+Took your hidden money.
+
+#### 7 ####
+Received 200G.
+
+#### 8 ####
+Maid
+"But now, you're so
+healthy and strong...{enter}
+And it's all thanks to our
+village chief, Lee.
+My, should you be grateful!"
+
+#### 9 ####
+Maid
+"Hello, Fei.
+You're looking well today."
+
+#### 10 ####
+Maid
+"My, how time flies!{wait:14} Why, it
+has already been 3 years since
+you came to our village...{enter}
+When they first saw you brought
+in all bloody and soaken, to
+tell you the truth, they didn't
+think you were going to make it.{enter}
+And that strange masked man who
+carried you here that day...
+Do you think that maybe he was
+your real father?{enter}
+Don't you remember anything?
+Why, they say you had terrible
+nightmares and constantly
+called out for your father."
+
+#### 11 ####
+Maid
+"It's alright for you to
+like painting and all...{enter}
+But please try not to make
+so much mess.{wait:1E} Cleaning isn't
+such an easy job you know!"
+
+#### 12 ####
+Received Aquasol.
+
+#### 13 ####
+Received Aquasol.
+

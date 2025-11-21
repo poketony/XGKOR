@@ -1,0 +1,7 @@
+<TextBlock 1 w:40 h:3>
+Billy
+"Secondo quanto ha
+detto Shitan…<New>
+… il laboratorio privato
+di Krelian dovrebbe
+essere sotto di noi."<Close><Close><End of Block>

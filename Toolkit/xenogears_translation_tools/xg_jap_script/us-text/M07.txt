@@ -1,0 +1,542 @@
+#### 1 ####
+
+
+
+#### 2 ####
+
+
+
+#### 3 ####
+
+
+
+#### 4 ####
+
+
+
+#### 5 ####
+
+
+
+#### 6 ####
+
+
+
+#### 7 ####
+
+
+
+#### 8 ####
+
+
+
+#### 9 ####
+
+
+
+#### 10 ####
+
+
+
+#### 11 ####
+
+
+
+#### 12 ####
+
+
+
+#### 13 ####
+
+
+
+#### 14 ####
+
+
+
+#### 15 ####
+
+
+
+#### 16 ####
+
+
+
+#### 17 ####
+
+
+
+#### 18 ####
+
+
+
+#### 19 ####
+
+
+
+#### 20 ####
+
+
+
+#### 21 ####
+
+
+
+#### 22 ####
+
+
+
+#### 23 ####
+
+
+
+#### 24 ####
+
+
+
+#### 25 ####
+
+
+
+#### 26 ####
+
+
+
+#### 27 ####
+
+
+
+#### 28 ####
+
+
+
+#### 29 ####
+
+
+
+#### 30 ####
+
+
+
+#### 31 ####
+
+
+
+#### 32 ####
+Evade% / Eth Def values + 10
+
+#### 33 ####
+Ether / Defense values + 10
+
+#### 34 ####
+
+
+
+#### 35 ####
+
+
+
+#### 36 ####
+
+
+
+#### 37 ####
+
+
+
+#### 38 ####
+
+
+
+#### 39 ####
+
+
+
+#### 40 ####
+
+
+
+#### 41 ####
+
+
+
+#### 42 ####
+
+
+
+#### 43 ####
+
+
+
+#### 44 ####
+
+
+
+#### 45 ####
+
+
+
+#### 46 ####
+
+
+
+#### 47 ####
+
+
+
+#### 48 ####
+
+
+
+#### 49 ####
+
+
+
+#### 50 ####
+Defense UP when ally KO'd
+
+#### 51 ####
+Defense DOWN when ally KO'd
+
+#### 52 ####
+
+
+
+#### 53 ####
+Defense UP when ally KO'd
+
+#### 54 ####
+
+
+
+#### 55 ####
+
+
+
+#### 56 ####
+
+
+
+#### 57 ####
+
+
+
+#### 58 ####
+
+
+
+#### 59 ####
+
+
+
+#### 60 ####
+
+
+
+#### 61 ####
+
+
+
+#### 62 ####
+
+
+
+#### 63 ####
+
+
+
+#### 64 ####
+
+
+
+#### 65 ####
+
+
+
+#### 66 ####
+
+
+
+#### 67 ####
+
+
+
+#### 68 ####
+
+
+
+#### 69 ####
+
+
+
+#### 70 ####
+
+
+
+#### 71 ####
+
+
+
+#### 72 ####
+
+
+
+#### 73 ####
+
+
+
+#### 74 ####
+
+
+
+#### 75 ####
+
+
+
+#### 76 ####
+
+
+
+#### 77 ####
+
+
+
+#### 78 ####
+
+
+
+#### 79 ####
+
+
+
+#### 80 ####
+
+
+
+#### 81 ####
+
+
+
+#### 82 ####
+
+
+
+#### 83 ####
+
+
+
+#### 84 ####
+
+
+
+#### 85 ####
+
+
+
+#### 86 ####
+
+
+
+#### 87 ####
+
+
+
+#### 88 ####
+
+
+
+#### 89 ####
+
+
+
+#### 90 ####
+
+
+
+#### 91 ####
+Attack value + 2
+
+#### 92 ####
+Attack value + 5
+
+#### 93 ####
+Defense value + 2
+
+#### 94 ####
+Defense value + 5
+
+#### 95 ####
+Accuracy up (HIT% value + 2)
+
+#### 96 ####
+Accuracy up (HIT% value + 5)
+
+#### 97 ####
+Evade% value + 2
+
+#### 98 ####
+Evade% value + 5
+
+#### 99 ####
+Ether value + 2
+
+#### 100 ####
+Ether value + 5
+
+#### 101 ####
+Eth Def value + 2
+
+#### 102 ####
+Eth Def value + 5
+
+#### 103 ####
+Agility value + 1
+
+#### 104 ####
+Agility value + 2
+
+#### 105 ####
+Maximum HP up 10% / restore
+
+#### 106 ####
+Maximum HP up 25% / restore
+
+#### 107 ####
+Halves EP usage in battles
+
+#### 108 ####
+Deathblow learning rate UP
+
+#### 109 ####
+Exp points gained UP 50%
+
+#### 110 ####
+Rare Item gain rate UP
+
+#### 111 ####
+Doubles support effect times
+
+#### 112 ####
+Heaven Cent Deathblow Effect
+
+#### 113 ####
+Doubles amount of HP restore
+
+#### 114 ####
+As HP go DOWN/Attack goes UP
+
+#### 115 ####
+Increases Defense
+
+#### 116 ####
+Increases Evasiveness
+
+#### 117 ####
+Attack / Eth Def values + 10
+
+#### 118 ####
+Attack / Defense values + 5
+
+#### 119 ####
+Blocks PHYSICAL effects
+
+#### 120 ####
+Blocks MENTAL effects
+
+#### 121 ####
+Blocks Poison effect
+
+#### 122 ####
+Blocks Sleep effect
+
+#### 123 ####
+Blocks Confusion effect
+
+#### 124 ####
+Blocks Forget effect
+
+#### 125 ####
+Time between turns halved
+
+#### 126 ####
+Increases Defense
+
+#### 127 ####
+Uses 2x EP to do 2x effect
+
+#### 128 ####
+Block Attacks that absorb EP
+
+#### 129 ####
+Defense vs. Wind Elemental
+
+#### 130 ####
+Defense vs. Earth Elemental
+
+#### 131 ####
+Defense vs. Fire Elemental
+
+#### 132 ####
+Defense vs. Water Elemental
+
+#### 133 ####
+HP UP if hit by Def'd Elem.
+
+#### 134 ####
+Doubles Elemental Defense
+
+#### 135 ####
+Elem Def blocks Ether-Weapon
+
+#### 136 ####
+Handmade by Chu-chu (?)
+
+#### 137 ####
+Handmade by Chu-chu (?)
+
+#### 138 ####
+Handmade by Chu-chu (?)
+
+#### 139 ####
+Creator unknown (?)
+
+#### 140 ####
+Creator unknown (?)
+
+#### 141 ####
+Ether and Defense values +10
+
+#### 142 ####
+Deathblow learning rate UP
+
+#### 143 ####
+The Chu-chu tribe's treasure
+
+#### 144 ####
+
+
+
+#### 145 ####
+
+
+
+#### 146 ####
+
+
+
+#### 147 ####
+
+
+
+#### 148 ####
+
+
+
+#### 149 ####
+
+
+
+#### 150 ####
+
+
+

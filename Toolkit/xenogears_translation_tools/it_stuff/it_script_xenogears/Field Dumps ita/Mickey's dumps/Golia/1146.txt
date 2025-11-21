@@ -1,0 +1,296 @@
+<TextBlock 1 w:24 h:1>
+Sto scivolando!<Opcode 2 40><Close><End of Block>
+<TextBlock 2 w:48 h:2>
+Hammer
+"Bedda matri!!"<Close><End of Block>
+<TextBlock 3 w:18 h:2>
+Fei
+"Già<Delay 5>…"<Delay 80><Close><End of Block>
+<TextBlock 4 w:44 h:3>
+Fei
+"Che succede, Doc…<Delay 15>
+…<Delay 15>!!"<Close><End of Block>
+<TextBlock 5 w:28 h:2>
+Fei
+"…<Delay 10> È lui."<Close><End of Block>
+<TextBlock 6 w:38 h:3>
+Fei
+"Sto uscendo con
+il Gear…"<Close><End of Block>
+<TextBlock 7 w:52 h:4>
+Fei
+"…<Delay 20> Doc, non so come
+dirlo, ma…<New>
+… ho un brutto
+presentimento."<Close><End of Block>
+<TextBlock 8 w:44 h:3>
+Fei
+"Non è quello.
+Come dire…<New>
+È una sensazione di
+inquietudine che ho
+già avuto prima…"<Close><End of Block>
+<TextBlock 9 w:44 h:3>
+Fei
+"E mi sento come se
+fossimo osservati…"<Close><End of Block>
+<TextBlock 10 w:46 h:4>
+Shitan
+"Non starai pensando
+a quell'uomo in nero?<New>
+Pensare a lui non ci
+porterà da nessuna parte.
+E poi, non è da te…"<Close><End of Block>
+<TextBlock 11 w:48 h:3>
+Shitan
+"Anche tu!?<New>
+Ecco, a dire la verità,
+anche io sto provando
+un terribile senso di
+déjà vu…"<Close><End of Block>
+<TextBlock 12 w:46 h:4>
+Shitan
+"Le vibrazioni stanno
+scemando. D'ora in poi
+dovrebbe andar meglio."<Close><End of Block>
+<TextBlock 13 w:10 h:3>
+Shitan
+"!!
+Fei!"<Close><End of Block>
+<TextBlock 14 w:30 h:3>
+Shitan
+"Se si tratta di
+loro, va tutto
+bene.<New>
+Non importa,
+Hammer, vai a
+quel grilletto!"<Close><End of Block>
+<TextBlock 15 w:40 h:3>
+Shitan
+"Sarai tu a far fuoco.
+Guarda, sta venendo."<Close><End of Block>
+<TextBlock 16 w:46 h:4>
+Shitan
+"Hammer! Rilassati
+e concentrati.<New>
+Si dirige diretto
+su di noi.<New>
+Tutto ciò che dovrai
+fare è premere il
+grilletto e fare
+fuoco."<Close><End of Block>
+<TextBlock 17 w:48 h:4>
+Shitan
+"Ottimo, continua a
+tenerlo sotto mira.
+Pronto a sparare in…"<Close><End of Block>
+<TextBlock 18 w:40 h:2>
+<Opcode 1 255>5… <Delay 80>4… <Delay 80>3… <Delay 80>2… <Delay 80>1…<Delay 80><Space 4>
+Fuoco!!<Opcode 2 60><Close><End of Block>
+<TextBlock 19 w:10 h:2>
+Rico
+"…"<Close><End of Block>
+<TextBlock 20 w:24 h:2>
+<Opcode 1 255>Rico
+"Sta' zitto!!!"<Delay 120><Close><End of Block>
+<TextBlock 21 w:42 h:4>
+Elly
+"Quella persona…<Delay 30> non
+mi stava attaccando.
+Perché…<Delay 10>?"<Close><End of Block>
+<TextBlock 22 w:10 h:2>
+Elly
+"…"<Close><End of Block>
+<TextBlock 23 w:30 h:2>
+Elly
+"Ma quello…"<Close><End of Block>
+<TextBlock 24 w:44 h:3>
+Elly
+"Fei, dove
+stai andando!?"<Close><End of Block>
+<TextBlock 25 w:12 h:2>
+Elly
+"Fei!"<Close><End of Block>
+<TextBlock 26 w:50 h:4>
+Hammer
+"Awww, Mastro Rico…
+non si arrabbi!
+Era solo uno scherzo.<New>
+Mastro Rico, è lei che
+mi ha fatto diventare
+ciò che sono. Su…"<Close><End of Block>
+<TextBlock 27 w:50 h:4>
+Hammer
+"…!?<New>
+Ma perché sono io
+che mi becco gli urli,
+quando fui io ad
+ammazzarlo?"<Close><End of Block>
+<TextBlock 28 w:46 h:4>
+Hammer
+"O frate, che si fa
+adesso? Si va ad Aveh
+come pianificato?"<Close><End of Block>
+<TextBlock 29 w:26 h:2>
+Hammer
+"M… Mastro!?"<Close><End of Block>
+<TextBlock 30 w:28 h:2>
+Hammer
+"Anche Elly…"<Close><End of Block>
+<TextBlock 31 w:54 h:4>
+Hammer
+"Aaaaaaah!
+Attenzione!!<New>
+Dottor Shitan!!<New>
+Va bene sparare su
+quel tipaccio, ma
+anche su nostru frate
+e su Mastro Rico…?"<Close><End of Block>
+<TextBlock 32 w:42 h:4>
+Hammer
+"Grilletto<Delay 5>…?<Delay 5>
+Questa cosa?
+Cosa ci dovrei fare…"<Close><End of Block>
+<TextBlock 33 w:3 h:1>
+?<Close><End of Block>
+<TextBlock 34 w:38 h:2>
+Hammer
+"Ecco~lo qu~i!!"<Space 1><Close><End of Block>
+<TextBlock 35 w:22 h:2>
+Hammer
+"Puntare…"<Close><End of Block>
+<TextBlock 36 w:30 h:2>
+Hammer
+"C… così?"<Close><End of Block>
+<TextBlock 37 w:50 h:3>
+Hammer
+"E…<Delay 15> e…<Delay 15> e…<Delay 25><Space 2>
+eevvvaaaiii, sììì!!!"<Close><End of Block>
+<TextBlock 38 w:50 h:3>
+Hammer
+"Dottore, signore, avete
+visto quanto sono BRAVO!?
+Bravo…? BRAVISSIMISSIMO!<New>
+Oserei dire quasi geniale!<Delay 10>
+…<Delay 20> Che?"<Close><End of Block>
+<TextBlock 39 w:44 h:3>
+Hammer
+"Ma, coma va con
+nostru frate e
+con gli altri?<New>
+Non pensa che siano
+caduti?"<Close><End of Block>
+<TextBlock 40 w:44 h:3>
+Hammer
+"Beh, comunque ci
+sono sempre io.<New>
+È una fortuna che
+io sia con voi.
+Giusto, Dottore,
+signore?"<Close><End of Block>
+<TextBlock 41 w:14 h:1>
+BAM!!<Close><End of Block>
+<TextBlock 42 w:30 h:2>
+Elly
+"Che succede,
+Fei?"<Close><End of Block>
+<TextBlock 43 w:38 h:2>
+Fei
+"Oh, non è nulla."<Close><End of Block>
+<TextBlock 44 w:42 h:2>
+Elly
+"Ok…
+Sono contenta…"<Close><End of Block>
+<TextBlock 45 w:44 h:4>
+Elly
+"Comunque, come va,
+Shitan? Voliamo in una
+nave così grande…<New>
+Cosa accadrà se Kislev
+o Aveh ci trovano…?"<Close><End of Block>
+<TextBlock 46 w:52 h:4>
+Shitan
+"Non preoccuparti. È
+per questo motivo che
+ho scelto questa rotta.<New>
+Non ci sono unità militari
+di stanza qua intorno.<New>
+Inoltre, questa cosa
+non precipita così
+facilmente…"<Close><End of Block>
+<TextBlock 47 w:48 h:3>
+Shitan
+"Ma come può essere!?<Delay 10>
+Veniamo attaccati!?"<Close><End of Block>
+<TextBlock 48 w:22 h:2>
+Fei
+"Nemici!?"<Close><End of Block>
+<TextBlock 49 w:50 h:4>
+Shitan
+"Non saprei. Ma non
+immaginavo che fossero
+qui in immersione…"<Close><End of Block>
+<TextBlock 50 w:30 h:2>
+Elly
+"Va tutto bene!?"<Close><End of Block>
+<TextBlock 51 w:50 h:4>
+Shitan
+"Sfortunatamente, non
+c'è alcun modo di
+impedire la caduta.<New>
+Fei, Elly, uscite
+voi per primi. Io vi
+seguirò più tardi."<Close><End of Block>
+<TextBlock 52 w:16 h:2>
+Fei
+"Ma…"<Close><End of Block>
+<TextBlock 53 w:52 h:4>
+Shitan
+"Ora non abbiamo il
+tempo di discutere,
+Fei!!<New>
+Pensi davvero di avere
+le capacità necessarie…<New>
+… a mantenere il Golia
+in volo il più a lungo
+possibile!?"<Close><End of Block>
+<TextBlock 54 w:10 h:2>
+Fei
+"…"<Close><End of Block>
+<TextBlock 55 w:28 h:3>
+Shitan
+"Allora sbrigati
+ad uscire di qua."<Close><End of Block>
+<TextBlock 56 w:26 h:2>
+Shitan
+"Ora<Delay 10>…<Delay 10>"<Close><End of Block>
+<TextBlock 57 w:48 h:3>
+Shitan
+"… Anche tu, Hammer!
+Esci di qua!"<Close><End of Block>
+<TextBlock 58 w:34 h:2>
+Hammer
+"S… sì, signore!!"<Close><End of Block>
+<TextBlock 59 w:42 h:3>
+Rico
+"Argh! Smettila di fare
+il cretino e di perdere
+tempo. Andiamo."<Close><End of Block>
+<TextBlock 60 w:20 h:2>
+Hammer
+"Sissignore!!"<Close><End of Block>
+<TextBlock 61 w:32 h:3>
+Shitan
+"Ora…
+dove…"<Close><End of Block>
+<TextBlock 62 w:26 h:3>
+Shitan
+"!!<Delay 20>
+Quella nave<Delay 10>…<Delay 10>"<Close><End of Block>
+<TextBlock 63 w:44 h:3>
+Shitan
+"Sigurd<Delay 10>…<Delay 10><New>
+Credo proprio che
+tu debba ripensare
+ai tuoi metodi di
+disciplina<Delay 10>…<Delay 10>"<Close><Close><End of Block>

@@ -1,0 +1,87 @@
+<TextBlock 1 w:50 h:4>
+Bart
+"Sì, ci ha salvati nel
+momento in cui siamo
+stati scagliati in cielo.<New>
+Gli altri sono già
+stati portati dentro
+l'Yggdrasil."<Close><End of Block>
+<TextBlock 2 w:46 h:3>
+Bart
+"È la verità…<Delay 15>
+L'abbiamo visto con i
+nostri stessi occhi.<New>
+Sì, noi l'abbiamo visto
+trasformarsi in Id…"<Close><End of Block>
+<TextBlock 3 w:42 h:2>
+Elly
+"…<New>
+… Shitan…
+Maria…?"<Close><End of Block>
+<TextBlock 4 w:44 h:3>
+Elly
+"Oh…<New>
+…
+… Fei…?
+Che è successo
+a Fei?<New>
+…
+Anche lui è
+sull'Yggdrasil?"<Close><End of Block>
+<TextBlock 5 w:48 h:3>
+Elly
+"Solaris!!
+… Il Gear rosso!?<New>
+Che sta succedendo,
+Shitan? Cosa è
+successo a Fei?"<Close><End of Block>
+<TextBlock 6 w:48 h:4>
+Elly
+"Dobbiamo aiutarlo!!
+Fei è ancora lì, vero!?
+Dobbiamo sbrigarci!!"<Close><End of Block>
+<TextBlock 7 w:46 h:4>
+Elly
+"Allora è già dentro
+l'Yggdrasil, giusto…
+Maria?"<Close><End of Block>
+<TextBlock 8 w:16 h:2>
+Elly
+"Cosa!!"<Close><End of Block>
+<TextBlock 9 w:44 h:4>
+Elly
+"!?
+Stai scherzando!?
+Non ci credo!"<Close><End of Block>
+<TextBlock 10 w:42 h:3>
+Elly
+"Fei… è… Id…<Delay 45>
+Non essere ridicolo!"<Close><End of Block>
+<TextBlock 11 w:34 h:2>
+Elly!<Delay 24> Stai
+bene? Elly!<Close><End of Block>
+<TextBlock 12 w:34 h:4>
+Shitan
+"Elly?
+Ti sei già
+risvegliata?"<Close><End of Block>
+<TextBlock 13 w:36 h:3>
+Shitan
+"Calmati, Elly.
+Fei… sta bene."<Close><End of Block>
+<TextBlock 14 w:54 h:3>
+Shitan
+"Calmati, Elly,
+ascoltami! Fei sta
+guidando quel Gear.<New>
+Quel Gear è in realtà la
+vera forma di <Weltall>,
+raggiunta dopo una        
+trasformazione."<Close><End of Block>
+<TextBlock 15 w:46 h:3>
+Shitan
+"Un altro Fei, che si
+trova dentro di lui,
+si è risvegliato.<New>
+Fei e Id sono la
+stessa persona…"<Close><Close><End of Block>

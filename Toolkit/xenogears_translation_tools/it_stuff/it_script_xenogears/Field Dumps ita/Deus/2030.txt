@@ -1,0 +1,229 @@
+<TextBlock 1 w:16 h:2>
+<Opcode 1 255>Fei
+"Elly!!"<Close><End of Block>
+<TextBlock 2 w:28 h:3>
+Shitan
+"Aspetta!!<Delay 20>
+Fei!<New>
+Non attivare
+il sistema!!"<Close><End of Block>
+<TextBlock 3 w:46 h:4>
+Bart
+"Shitan, fermo!!<New>
+Così stiamo mettendo a
+repentaglio la nostra
+vita…<Delay 20>!<New>
+Usciamo di qui,
+per ora!!"<Close><End of Block>
+<TextBlock 4 w:50 h:3>
+Miang
+"Ora, è giunto il momento
+del grande risveglio!"<Close><End of Block>
+<TextBlock 5 w:54 h:4>
+Miang
+"Questo è il vero scopo
+per cui furono creati i
+-Contenitori dell'Anima-…<New>
+Ottenere il loro -Animo-
+rispettivo e tornare
+alla -Persona-.<New>
+I Contenitori dell'Anima
+sono davvero delle parti
+che compongono -Deus-, la
+rivelazione fisica di dio.<New>
+Essi recuperano i loro
+poteri originali, o, per
+meglio dire, le loro
+funzioni…<New>
+… allineandosi con
+l'altra loro metà
+predestinata…<New>
+Un Omnigear che ha perduto
+il rispettivo Contenitore
+dell'Anima, non è altro
+che un fantoccio.<New>
+Diviene un semplice
+ricettacolo, nel quale
+non vi è nulla."<Close><End of Block>
+<TextBlock 6 w:46 h:4>
+Krelian
+"Ed anche questa ragazza
+era destinata a divenire
+tutt'uno con dio…<New>
+Vedete… anche Elhaym è
+davvero una delle
+parti di dio…"<Close><End of Block>
+<TextBlock 7 w:54 h:4>
+Krelian
+"Per dirla schiettamente…<New>
+… voi mi siete serviti
+a mettere assieme, in
+questo posto, tutte le
+parti di dio per me.<New>
+Siete soltanto un
+gruppetto d'idioti<Delay 20>…<New>
+È come se voi tutti
+foste solo dei
+buffoni…"<Close><End of Block>
+<TextBlock 8 w:50 h:4>
+Miang
+"Voi credevate nella
+leggenda sulla genesi
+del mondo e dell'universo…<New>
+Ma siamo stati io ed il
+Ministero ad ideare quella
+stessa leggenda, molto
+tempo fa.<New>
+Questo perché essa si
+confacesse ai nostri
+scopi."<Close><End of Block>
+<TextBlock 9 w:52 h:4>
+Miang
+"Penso che presto vi
+accorgerete che…<New>
+… anche gli Omnigear dei
+vostri amici sono inerti…<New>
+Sto parlando dei vostri
+amici da cui vi siete
+divisi e che…<New>
+… hanno preso un'altra
+strada, diversa dalla
+vostra, che li portasse
+in questo posto…<New>
+Essi sono tutti parti di
+dio, che erano state
+smembrate nel passato…<New>
+… ma che, ancora una
+volta, sono tutte qui
+riunite."<Close><End of Block>
+<TextBlock 10 w:50 h:4>
+Krelian
+"Sì.<Delay 50> Questo è davvero
+il momento per la
+risurrezione di dio."<Close><End of Block>
+<TextBlock 11 w:50 h:3>
+Ma… allora per cosa…<Delay 20><Space 1>
+Tutto ciò che ho
+fatto fino ad ora…<Close><End of Block>
+<TextBlock 12 w:34 h:4>
+Fei
+"Che cos'è…?<Delay 30>
+…!!<Delay 30>
+Ma è <Delay 20>Elly!!"<Close><End of Block>
+<TextBlock 13 w:34 h:3>
+Fei
+"Merda,<Delay 5> cosa sta
+succedendo!?<New>
+Eh!?<Delay 20>
+Ehi<Delay 5>…<Delay 5>
+Quello è<Delay 5>…!?"<Close><End of Block>
+<TextBlock 14 w:38 h:3>
+Fei
+"I nostri Omnigear<Delay 5>…?<Delay 20>
+No, non sono loro!!<New>
+Quelli sono<Delay 5>…<Delay 20> i nostri
+Contenitori dell'Anima!?"<Close><End of Block>
+<TextBlock 15 w:42 h:3>
+Fei
+"Deus…<Delay 30> li sta
+consumando…!?"<Close><End of Block>
+<TextBlock 16 w:34 h:4>
+Fei
+"Deus sta… ingoiando
+i nostri Contenitori
+dell'Anima!?"<Close><End of Block>
+<TextBlock 17 w:40 h:3>
+Fei
+"Ma cosa diavolo
+state dicendo!?"<Close><End of Block>
+<TextBlock 18 w:50 h:3>
+Fei
+"È una bugia!!<Delay 20> Come
+può essere vero…?"<Close><End of Block>
+<TextBlock 19 w:44 h:3>
+Shitan
+"Gwah…!<Delay 20>
+Che… possa
+essere…!?"<Close><End of Block>
+<TextBlock 20 w:38 h:3>
+Bart
+"Che diavolo!?<New>
+Il mio corpo…<Delay 20>
+Lo sento come se lo
+stessero squarciando!!"<Close><End of Block>
+<TextBlock 21 w:38 h:3>
+Bart
+"Mi… mi sta…<Delay 5><Space 1>
+attirando…!!"<Close><End of Block>
+<TextBlock 22 w:34 h:4>
+Bart
+"Ma che succede?<Delay 20>
+Il mio Omnigear<Delay 5>…<Delay 5>
+non si muove!?<New>
+Sembra come se
+fosse morto<Delay 5>…!?"<Close><End of Block>
+<TextBlock 23 w:38 h:4>
+Rico
+"Gwah…!?<Delay 20>
+Cos'è questo dolore
+terribile…!?"<Close><End of Block>
+<TextBlock 24 w:52 h:3>
+Rico
+"Quella cosa lì, Deus!?<Delay 20>
+Sta cercando di
+ingoiarci!?"<Close><End of Block>
+<TextBlock 25 w:46 h:3>
+Rico
+"Merda, ma che succede!?
+Il mio Omnigear non si
+muove!<New>
+Sembra… morto."<Close><End of Block>
+<TextBlock 26 w:50 h:3>
+Billy
+"Argh…!?<Delay 20> Mi sento come
+se mi stessero
+facendo a pezzi!?"<Close><End of Block>
+<TextBlock 27 w:46 h:4>
+Billy
+"Quella cosa…!<Delay 20>
+Sta cercando…
+di mangiarci!?"<Close><End of Block>
+<TextBlock 28 w:42 h:4>
+Billy
+"Che sta succedendo?
+Il mio Omnigear…
+Non si muove.<New>
+Penso sia morto…"<Close><End of Block>
+<TextBlock 29 w:22 h:2>
+Esmeralda
+"Grrr…!!"<Close><End of Block>
+<TextBlock 30 w:30 h:3>
+<Chu-Chu>
+"…?<Delay 20>
+Che succede!?"<Close><End of Block>
+<TextBlock 31 w:34 h:3>
+Maria
+"Uh…!!<Delay 20>
+Che cos'è…!?"<Close><End of Block>
+<TextBlock 32 w:26 h:3>
+Shitan
+"Sono i nostri…<Delay 20>
+Omnigear!?"<Close><End of Block>
+<TextBlock 33 w:46 h:4>
+Shitan
+"Sta cercando di separare
+i Contenitori dell'Anima
+dei nostri Omnigear!?"<Close><End of Block>
+<TextBlock 34 w:52 h:3>
+Shitan
+"…<New>
+Sembra che i Contenitori
+dell'Anima siano caduti
+nelle mani del nemico."<Close><End of Block>
+<TextBlock 35 w:22 h:2>
+Esmeralda
+"Grrr…!!"<Close><End of Block>
+<TextBlock 36 w:54 h:3>
+Vuoi saltarci dentro?<Delay 20>
+    Sì
+    No<Close><Close><End of Block>

@@ -1,0 +1,29 @@
+#### 1 ####
+!%#?&!
+
+#### 2 ####
+ One,{wait:05} two,{wait:05} one,{wait:05} two !!{wait:0F}
+...I'm practicing dancing
+don't bug me!!
+
+#### 3 ####
+!%#?&!
+
+#### 4 ####
+ One,{wait:05} two,{wait:05} one,{wait:05} two !!{clear:1E}
+
+#### 5 ####
+!%#?&+!
+
+#### 6 ####
+ One,{wait:05} two,{wait:05} one,{wait:05} two !!{clear:1E}
+
+#### 7 ####
+ One,{wait:05} two,{wait:05} three,{wait:05} four !!{clear:1E}
+
+#### 8 ####
+ One,{wait:05} two,{wait:05} three,{wait:05} four !!{clear:1E}
+
+#### 9 ####
+
+

@@ -1,0 +1,535 @@
+<TextBlock 1 w:48 h:4>
+Fei
+"Oh, sta soltanto
+gironzolando di là…<New>
+Sta pensando al matrimonio
+di sua sorella e sembra
+non sapersi calmare.<New>
+Gli piace parlare e farsi
+grande, ma è indubbiamente
+ancora un bambino…
+Piuttosto grazioso, eh?"<Close><End of Block>
+<TextBlock 2 w:52 h:4>
+Fei
+"Probabilmente è
+da qualche parte
+qui attorno<Delay 20>…<New>
+A combinare i
+suoi soliti guai!"<Close><End of Block>
+<TextBlock 3 w:50 h:3>
+Fei
+"Fiuh!
+C'è mancato poco…<New>
+Questo posto è
+pericoloso…<Delay 20>
+Forse è meglio se non
+mi ci avvicino più."<Close><End of Block>
+<TextBlock 4 w:52 h:4>
+Fei
+"Ehi…<Delay 20>
+Cosa stai
+dicendo, Dan?<New>
+Sia Timothy che Alice
+sono i miei migliori
+amici.<Delay 20> Sai che non
+posso farlo!"<Close><End of Block>
+<TextBlock 5 w:52 h:3>
+Fei
+"Va bene, Dan,
+hai vinto tu…<New>
+Penso proprio che rapirò
+Alice e me ne fuggirò a
+gambe levate!"<Close><End of Block>
+<TextBlock 6 w:48 h:3>
+"Timothy è stupido
+e calvo! E anche suo
+padre è stupido e calvo!"<Close><End of Block>
+<TextBlock 7 w:54 h:4>
+"Sentiero per la Montagna!
+Guardatevi dagli hob-gob
+succhia HP!!<New>
+Chi volesse andare a trovare
+il dottore, sulla cima della
+montagna, dovrebbe procedere
+con coraggio e convinzione."<Close><End of Block>
+<TextBlock 8 w:32 h:2>
+"Alice e Fei
+si aaamanoooo!!"<Close><End of Block>
+<TextBlock 9 w:36 h:3>
+"Da tutta la favolosa
+   gente di Lahan…
+    Buenos Dias!"<Close><End of Block>
+<TextBlock 10 w:42 h:3>
+"-    Taverna della Volpe 
+     allegra & del Maiale  - 
+Gli ubriachi sono i benvenuti!"<Close><End of Block>
+<TextBlock 11 w:58 h:3>
+" - Emporio di Lahan - 
+        Lo vuoi?
+ Noi lo abbiamo… (forse)!"<Close><End of Block>
+<TextBlock 12 w:50 h:3>
+Dal fondo del pozzo
+ti arriva dell'aria
+gelida! Oh, beh…!<Close><End of Block>
+<TextBlock 13 w:48 h:2>
+Bene, bene, bene!
+Hai trovato un
+Anello del Potere!!<Close><End of Block>
+<TextBlock 14 w:56 h:2>
+Tutto è bene quel
+che finisce bene!
+Hai trovato un Aquasol S!!<Close><End of Block>
+<TextBlock 15 w:24 h:3>
+Ben fatto!<Delay 20>
+Hai trovato uno
+strano oggetto!!<Close><End of Block>
+<TextBlock 16 w:52 h:3>
+'Ehilà', ciao Fei!<New>
+Sapevi che oltre la
+foresta nera si trova
+il grande regno di Aveh?<New>
+Ha una grande capitale
+con tantissima gente
+che ci vive.<New>
+Mio padre sta lavorando
+da qualche parte ad Aveh.<Close><End of Block>
+<TextBlock 17 w:48 h:4>
+Fra poco mio padre verrà
+a prendere mia madre e
+me, così che possiamo
+vivere tutti assieme ad Aveh.<Close><End of Block>
+<TextBlock 18 w:48 h:2>
+Oh, papà!
+Ti prego, torna presto…<Close><End of Block>
+<TextBlock 19 w:44 h:3>
+Ehi ehi, Fei!
+Qualche volta andiamo ancora 
+a pescare i gamberi!<Close><End of Block>
+<TextBlock 20 w:36 h:1>
+Ti prenderò!<Opcode 2 40><Close><End of Block>
+<TextBlock 21 w:44 h:4>
+Ehi ehi, Fei!
+Aiutami a trovare un altro
+nido di passeroelefante
+qualche altra volta, ok!!??<Close><End of Block>
+<TextBlock 22 w:18 h:1>
+Scappo!<Opcode 2 40><Close><End of Block>
+<TextBlock 23 w:42 h:3>
+Ehi, Fei. La prossima volta
+insegnami di più di quel
+tuo kung fu.<Close><End of Block>
+<TextBlock 24 w:36 h:1>
+Ti prenderò!<Opcode 2 40><Close><End of Block>
+<TextBlock 25 w:32 h:3>
+Ehi, Fei! Andiamo
+ancora a prendere
+in giro le ragazze!<Close><End of Block>
+<TextBlock 26 w:18 h:1>
+Scappo!<Opcode 2 40><Close><End of Block>
+<TextBlock 27 w:46 h:4>
+Gli uccelli sono stupendi…<Delay 20>
+Possono volare così in alto
+nel cielo ed andare dovunque
+vogliano…<Close><End of Block>
+<TextBlock 28 w:40 h:4>
+Sai, Fei…<Delay 20> Mamma
+diceva che potresti
+provenire da un luogo
+tanto lontano…<Close><End of Block>
+<TextBlock 29 w:38 h:4>
+Se tu fossi un uccello,
+potresti tornare indietro
+volando alla tua vera casa
+ogni volta che tu lo volessi.<Close><End of Block>
+<TextBlock 30 w:46 h:4>
+Dan
+"Beh, il minimo che
+possiamo fare è…<New>
+… pregare per la
+felicità di Alice,
+eh, Fei!"<Close><End of Block>
+<TextBlock 31 w:46 h:3>
+Dan
+"Allora, Fei, te la senti?<New>
+Forza, facciamolo!<Delay 20>
+    Ok, facciamolo!!
+    Basta fare lo scemo!<Close><End of Block>
+<TextBlock 32 w:36 h:3>
+Dan
+"Oh, bene, Fei!
+Sei pronto a parlare?"<Close><End of Block>
+<TextBlock 33 w:52 h:4>
+Dan
+"Come sai, domani è
+finalmente il giorno del
+matrimonio di mia sorella…<New>
+Perciò, quello di
+cui voglio parlarti
+è proprio questo…
+il matrimonio di Alice!"<Close><End of Block>
+<TextBlock 34 w:42 h:3>
+Dan
+"Fei, ad essere del tutto
+sincero con te…<New>
+Ho sempre desiderato che
+tu potessi essere mio
+fratello."<Close><End of Block>
+<TextBlock 35 w:50 h:4>
+Dan
+"Non è ancora troppo tardi!<New>
+Puoi rapire Alice e
+scappare con lei!<Delay 20>
+Se ti servo come aiutante,
+sarei felice di aiutarti!"<Close><End of Block>
+<TextBlock 36 w:56 h:4>
+Dan
+"Potrebbe essere strano
+per me dire questo,<Delay 10> ma…<New>
+… mia sorella è bellissima,
+ed è una buona cuoca…<New>
+(e questo lo dico tra me
+e te, ma lei è anche un
+gran bella gnocca!<Delay 20>
+Eh eh eh!)"<Close><End of Block>
+<TextBlock 37 w:42 h:4>
+Dan
+"Allora forza! Provaci!
+    Facciamolo!!
+    È una follia!<Close><End of Block>
+<TextBlock 38 w:48 h:4>
+Dan
+"Davvero!? Sapevo
+che mi piacevi, Fei!
+Questo è lo spirito!"<Close><End of Block>
+<TextBlock 39 w:50 h:4>
+Dan
+"… Se soltanto
+fosse così facile…<New>
+Non è che possiamo cambiare
+i loro sentimenti…<Delay 40>
+E tu dovresti anche
+amarla…"<Close><End of Block>
+<TextBlock 40 w:52 h:3>
+Dan
+"Ma non lo
+dimenticherò, Fei!<New>
+Eri davvero disposto
+ad arrivare a tanto
+per aiutarmi<Delay 10>…<New>
+Fei, sei una
+brava persona!"<Close><End of Block>
+<TextBlock 41 w:46 h:4>
+Dan
+"Tch, sì, lo so.
+Beh, se la metti
+in quel modo…"<Close><End of Block>
+<TextBlock 42 w:48 h:4>
+Dan
+"Ma se cambi idea,
+vieni e parla
+con me!"<Close><End of Block>
+<TextBlock 43 w:54 h:2>
+Quel Dan…! Quando
+diavolo crescerà!?<Close><End of Block>
+<TextBlock 44 w:42 h:3>
+Oh, Fei!<Delay 20>
+Forse puoi aiutarmi…
+Hai visto Dan?<Close><End of Block>
+<TextBlock 45 w:54 h:3>
+Davvero? Ho qualche
+sospetto, comunque…<New>
+Alice diceva che le serviva
+per qualcosa…<Delay 15> Scometto
+che lui mi sta evitando…<Close><End of Block>
+<TextBlock 46 w:54 h:4>
+Alice diceva che le
+serviva per qualcosa…<New>
+Come può essere un
+ragazzaccio come lui
+imparentato con Alice?<Delay 15>
+Oh, diamine…!<Close><End of Block>
+<TextBlock 47 w:54 h:4>
+Hai ragione! Davanti ho
+ancora tutta la mia vita!<Delay 20>
+Devo sforzarmi di più per
+raggiungere i miei obiettivi.<Close><End of Block>
+<TextBlock 48 w:48 h:2>
+Sigh…<Delay 20> Le infinite
+sofferenze di una donna.<Close><End of Block>
+<TextBlock 49 w:42 h:4>
+Tutta la città parla del
+matrimonio di domani 
+di Alice e Timothy.<New>
+Immagino comunque che fosse 
+una cosa prevedibile…<Delay 20>
+È tra gli eventi più importanti
+della vita di una persona.<Close><End of Block>
+<TextBlock 50 w:50 h:4>
+Le donne del villaggio sono
+nate, cresciute, si sposano
+e vivono il resto della
+loro vita qui.<New>
+Deve esserci della felicità
+in tutto ciò, ma…<Delay 24>
+Di tanto in tanto
+ci rifletto…<New>
+A volte vorrei essere
+nata uomo, così potrei
+viaggiare per il mondo
+e vivere una vita
+mai monotona…<Close><End of Block>
+<TextBlock 51 w:56 h:3>
+Eh… È strano, non è vero?<Delay 12>
+    Già, è proprio strano!
+    No, per nulla!<Close><End of Block>
+<TextBlock 52 w:46 h:3>
+Ooooooh! La pensi così?<Delay 20>
+Forse devo ripensarci…<Close><End of Block>
+<TextBlock 53 w:46 h:4>
+Davvero? Lo pensi?<Delay 30>
+Ah, sapevo che l'avresti
+detto per me, Fei.<New>
+Ecco, è il mio Aquasol
+fatto in casa.
+Le nostre orsomucche
+lo amano!<Delay 20> 
+Provalo qualche volta!<Close><End of Block>
+<TextBlock 54 w:46 h:2>
+Hai ricevuto un Aquasol,
+il preferito di tutte le
+orsomucche.<Close><End of Block>
+<TextBlock 55 w:42 h:3>
+Ciao, Fei.
+Domani è il gran giorno
+per Alice e Timothy.<New>
+Non è eccitante!?
+Sono certa che Alice
+sarà una moglie amabile.<New>
+Ahh… spero che un bellissimo
+principe giunga presto
+nella mia vita!<Close><End of Block>
+<TextBlock 56 w:38 h:3>
+Ehi! Smetti di palpare!<Delay 30>
+Cosa sei… una
+specie di depravato!?<Opcode 2 60><Close><End of Block>
+<TextBlock 57 w:50 h:4>
+Quel dottore è strano!<Delay 20>
+Perché qualcuno vorrebbe
+vivere sulla cima
+di quella montagna?<New>
+Dovrebbe vivere più vicino
+al villaggio…<New>
+Ehi, tu sei un buon amico
+del dottore.<Delay 20> Perché non
+gli chiedi di trasferirsi
+più vicino al villaggio!?<Close><End of Block>
+<TextBlock 58 w:54 h:4>
+Ultimamente, le mie gambe
+sono diventate più deboli…<Delay 20>
+E questo mi causa
+tantissimi problemi.<New>
+Mi piacerebbe andare lì
+e farmi dare una controllata
+dal Dottor Uzuki e vedere 
+se può aiutarmi…<New>
+Ma salire per quel sentiero
+di montagna per visitare
+il dottore è uno sforzo enorme.<Delay 20>
+Sto invecchiando, senza dubbio…<Close><End of Block>
+<TextBlock 59 w:48 h:4>
+Quel dottore è eccentrico!<Delay 20>
+Chi altri vivrebbe
+in quel modo, sulla
+cima di una montagna?<New>
+Avrebbe dovuto trasferirsi
+più vicino al villaggio!<New>
+Fei, tu sei un buon amico
+del dottore…<Delay 20>
+Chiedigli di trasferirsi
+più vicino al villaggio per noi!<Close><End of Block>
+<TextBlock 60 w:56 h:4>
+Ultimamente, le mie gambe
+mi causano tanti problemi.<Delay 20>
+È una cosa molto fastidiosa!<New>
+Mi piacerebbe andare dal
+Dottor Shitan Uzuki, farmi
+visitare e farmi dire
+qual è il problema…<New>
+Ma scalare quel sentiero di
+montagna per visitare il
+dottore è uno sforzo
+spaventoso.<Delay 20>
+Dev'essere un segno
+dell'età.<Close><End of Block>
+<TextBlock 61 w:54 h:4>
+Uuh… Sob…<Delay 10>
+Come ha potuto Alice
+abbandonarmi e maritarsi…<Delay 30>
+e con quello stupido
+palestrato, Timothy…!!<New>
+Io…<Delay 20> la amo…<Delay 20> da quando<Space 1>
+ero un bambino…!!<Delay 20><Wait>
+Cosa devo fare?
+Come farò a vivere!?<Close><End of Block>
+<TextBlock 62 w:42 h:1>
+<Opcode 14 2>AAAAAARRRRRGGGGHHH!!<Opcode 1 0> <Opcode 2 120><Close><End of Block>
+<TextBlock 63 w:38 h:2>
+Sob…<Delay 30> La vita…
+sa essere così ingiusta…<Close><End of Block>
+<TextBlock 64 w:26 h:2>
+Uh… Sob…<Delay 20>
+Povero me…!<Close><End of Block>
+<TextBlock 65 w:32 h:1>
+Zzzzzz, ronf…<Close><End of Block>
+<TextBlock 66 w:34 h:3>
+Uh, uhn…?<Delay 20>
+Oh, sei tu, Fei!
+Cosa vuoi?<Close><End of Block>
+<TextBlock 67 w:38 h:3>
+Finalmente alla mia età
+posso vivere in pace.<New>
+Di questo passo, probabilmente
+camperò fino a cent'anni!
+Ahahahh!<Close><End of Block>
+<TextBlock 68 w:42 h:3>
+No, no!<Delay 20>
+Non distruggere del cibo
+così buono in quel modo!<Opcode 2 50><Close><End of Block>
+<TextBlock 69 w:46 h:3>
+Fei!!<Delay 10>
+Pensavo di averti detto di
+non camminare sul mio cibo!<Opcode 2 60><Close><End of Block>
+<TextBlock 70 w:54 h:3>
+Sai che non uscirai tutto
+d'un pezzo se provi a fare
+qualcosa alla sposa!<Close><End of Block>
+<TextBlock 71 w:30 h:3>
+Toh, ciao Fei.
+Sei qui per
+vedere Alice?<Close><End of Block>
+<TextBlock 72 w:58 h:4>
+Veramente, è usanza non
+lasciar entrare nessun uomo
+a vedere la sposa,
+in questo giorno…<Delay 40>
+Tuttavia, tu puoi essere
+un'eccezione.<Close><End of Block>
+<TextBlock 73 w:44 h:3>
+Benvenuto nel villaggio
+di Lah…<Delay 40>
+Oh, sei tu, Fei!?<Close><End of Block>
+<TextBlock 74 w:46 h:4>
+Oh, non preoccuparti…
+Noi ormai ti consideriamo
+un orgoglioso membro della
+comunità di Lahan!<New>
+Allora, che ne diresti di
+trovare moglie e anche di
+stabilirti nel nostro
+villaggio?<New>
+Sono sicura che se vivrai
+qui una vita pacifica,
+la tua memoria tornerà,
+prima o poi.<Close><End of Block>
+<TextBlock 75 w:56 h:5>
+Mi dicono che hai una
+naturale abilità nel
+dipingere e sai praticare
+le arti marziali molto bene!<Delay 20><New>
+Scommetto che è perché
+il tuo corpo ricorda
+queste cose.<New>
+Potrai fare un respiro
+di sollievo, quando
+la memoria ti sarà
+ritornata…<Delay 20><New>
+E non preoccuparti!
+Sono sicura che
+succederà!<Close><End of Block>
+<TextBlock 76 w:46 h:3>
+Ciao, Fei!
+Alice è senza dubbio
+diventata carina, eh!<New>
+A ripensarci…
+Alice, Timothy e tu
+eravate sempre assieme.<New>
+Scommetto che anche tu avevi
+una cotta per Alice, eh?<Delay 20>
+Ho ragione? Ahahahah!<Close><End of Block>
+<TextBlock 77 w:46 h:4>
+Oh, ciao, Fei.<New>
+A ripensarci, è già un bel po'
+da quando sei arrivato nel
+nostro villaggio…<New>
+Presumo che ancora non ricordi
+nulla della tua vita prima del
+del tuo arrivo qui, vero?<New>
+Dev'essere terribile non sapere
+nulla sulla propria identità e
+su tutta la propria vita…<New>
+Oh, mi spiace! Che maleducata
+che sono…<Delay 20> Per favore, non
+prenderla male.<Close><End of Block>
+<TextBlock 78 w:44 h:4>
+Scusami.
+Questo è tutto
+l'Aquasol che ho.<New>
+Ma ho tantissimi dei miei
+straordinari fertilizzanti.
+Ne vuoi?
+Ahahah!<Close><End of Block>
+<TextBlock 79 w:46 h:1>
+Oh, va bene. Tieni qua!<Close><End of Block>
+<TextBlock 80 w:34 h:1>
+Ricevuto un Aquasol.<Close><End of Block>
+<TextBlock 81 w:38 h:4>
+Ah già, dimenticavo!
+Ecco un po' del mio
+Aquasol fatto in casa!<New>
+Ho usato il mio
+fertilizzante, così
+dovrebbe funzionare davvero
+bene! Ah-ah-ah!<Close><End of Block>
+<TextBlock 82 w:34 h:1>
+Ricevuto un Aquasol.<Close><End of Block>
+<TextBlock 83 w:40 h:3>
+Mmmh…<Delay 20> Ah, stavo solo
+meditando su cosa dovrei
+piantare dopo.<Close><End of Block>
+<TextBlock 84 w:50 h:4>
+Ci vuole un sacco di lavoro
+solo per far crescere
+i raccolti.<New>
+Ma farlo è un'esperienza
+eccezionale, Fei.<New>
+In questa grande campagna
+affiora nuova vita…<New>
+Non dico che siamo noi a
+fare ciò<Delay 30>…<New>
+Sono la terra, la pioggia ed
+il sole che agiscono assieme…<Delay 5><New>
+… per dare nutrimento a
+queste nuove esistenze
+che si sforzano di vivere.<New>
+Noi le aiutamo soltanto.<Close><End of Block>
+<TextBlock 85 w:44 h:4>
+Zucchebacche… Giglimele…<Delay 10><Space 1>
+Rafani… Mmmh,<Delay 40>
+sembrano tutti buoni…<Space 1><Close><End of Block>
+<TextBlock 86 w:48 h:4>
+Questa è la casa del
+consulente del villaggio.<Delay 20>
+Può insegnarti tutti
+i tipi di cose.<New>
+Prima di metter piede fuori
+dal nostro villaggio, sarebbe
+una buona idea fermarsi qui
+per qualche consiglio.<Close><End of Block>
+<TextBlock 87 w:52 h:3>
+Questo è l'emporio.<Delay 20>
+Anche se non offrono
+una vasta scelta…<New>
+Ma, d'altra parte, siamo
+lontani, in campagna…<Delay 20>
+perciò non possiamo
+lamentarci<Delay 20> (troppo).<Close><Close><End of Block>

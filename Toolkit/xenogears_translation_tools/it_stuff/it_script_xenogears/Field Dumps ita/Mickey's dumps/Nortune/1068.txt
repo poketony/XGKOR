@@ -1,0 +1,133 @@
+<TextBlock 1 w:14 h:2>
+Fei
+"…!?"<Opcode 2 30><Close><End of Block>
+<TextBlock 2 w:38 h:3>
+Rico
+"No.
+Giù non va bene…"<Close><End of Block>
+<TextBlock 3 w:30 h:3>
+Rico
+"Mi nasconderò
+là per il momento."<Close><End of Block>
+<TextBlock 4 w:52 h:3>
+Rico
+"Ehi!
+Il Kaiser vi
+sta chiamando."<Close><End of Block>
+<TextBlock 5 w:40 h:2>
+Rico
+"Ehi, si apre."<Opcode 2 30><Close><End of Block>
+<TextBlock 6 w:44 h:4>
+Rico
+"Facile…<Delay 30>
+Sono solo passato
+dalla porta."<Close><End of Block>
+<TextBlock 7 w:46 h:3>
+Rico
+"Allora… ci si
+rivede in giro."<Close><End of Block>
+<TextBlock 8 w:18 h:1>
+Errore DNA<Opcode 2 40><Close><End of Block>
+<TextBlock 9 w:54 h:1>
+Il Kaiser è in
+questa stanza.<Close><End of Block>
+<TextBlock 10 w:54 h:2>
+Questa è la stanza della
+moglie del Kaiser.<New>
+A nessuno è permesso
+entrarci dal giorno
+della sua scomparsa.<New>
+Per favore, andate via.<Close><End of Block>
+<TextBlock 11 w:38 h:1>
+Cosa!? È vero?<Close><End of Block>
+<TextBlock 12 w:48 h:3>
+… Sì.<New>
+Questa porta non si apre
+per nessuno, eccetto il
+Kaiser e la sua defunta
+moglie.<Close><End of Block>
+<TextBlock 13 w:54 h:4>
+Ridicolo! Non dovrebbe
+aprirsi se non con il
+giusto DNA. Non può
+aprirsi così facilmente!<Close><End of Block>
+<TextBlock 14 w:14 h:1>
+Sissignore!<Opcode 2 20><Close><End of Block>
+<TextBlock 15 w:52 h:3>
+Nessuno sa cos'è successo
+a sua moglie. Anche ora,
+il Kaiser continua ad
+ignorarlo.<Close><End of Block>
+<TextBlock 16 w:54 h:2>
+Questa è la stanza della
+moglie del Kaiser.<New>
+A nessuno è permesso
+entrare dal giorno
+della sua scomparsa.<New>
+Per favore, andate via.<Close><End of Block>
+<TextBlock 17 w:32 h:1>
+Ehi! Dici che non
+ci saranno problemi?<Opcode 2 50><Close><End of Block>
+<TextBlock 18 w:14 h:1>
+Sissignore!<Opcode 2 20><Close><End of Block>
+<TextBlock 19 w:50 h:3>
+Sigmund
+"Tu…<Delay 30>
+Come sei entrato qui?"<Close><End of Block>
+<TextBlock 20 w:42 h:3>
+Sigmund
+"Probabilmente ci
+sarà un guasto."<Close><End of Block>
+<TextBlock 21 w:50 h:4>
+Sigmund
+"Ma non importa…<Delay 30>
+Arrestate l'intruso.<New>
+Il Comitato lo sta
+cercando perché ha
+violato il contratto.
+Consegnatelo a loro."<Close><End of Block>
+<TextBlock 22 w:30 h:3>
+Sigmund
+"… No<Delay 30>… non
+può essere<Delay 20> vero…"<Close><End of Block>
+<TextBlock 23 w:54 h:3>
+Sigmund
+"Quell'uomo era
+sospettato di aver
+cercato di assassinarmi.<New>
+Proprio ora la polizia
+sta indagando sul fatto.<New>
+Ora importanti impegni
+richiedono la mia
+attenzione, così, se
+volete scusarmi…<New>
+Visitate pure il distretto
+a vostro piacimento. Oh,
+e circa la mia proposta…<New>
+Sarò in attesa di una
+risposta positiva."<Close><End of Block>
+<TextBlock 24 w:22 h:2>
+Sigmund
+"Buongiorno."<Close><End of Block>
+<TextBlock 25 w:40 h:3>
+Buon lavoro.
+Questa è la sala
+tattica di comando.<Close><End of Block>
+<TextBlock 26 w:48 h:4>
+Ottimo lavoro. Dal lato
+destro, puoi accedere
+al terzo corridoio
+nel piano interrato.<Close><End of Block>
+<TextBlock 27 w:50 h:4>
+Ottimo. Sopra di noi
+c'è il ponte, la stanza
+del Kaiser ed i relativi
+servizi.<Close><End of Block>
+<TextBlock 28 w:48 h:3>
+Soldato
+"Questo è il
+Distretto Centrale.<New>
+Per andare alle stanze
+del Kaiser si usa questo
+ascensore, e poi su per
+le scale dell'ala ovest."<Close><Close><End of Block>

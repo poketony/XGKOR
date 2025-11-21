@@ -1,0 +1,58 @@
+<TextBlock 1 w:44 h:4>
+Salve, gente della
+superficie. Guardate
+questa foto.<New>
+Siamo io e mia moglie
+molto tempo fa.<Close><End of Block>
+<TextBlock 2 w:54 h:4>
+Può sembrare difficile da
+credere, ma c'è stato un
+tempo in cui anche noi
+eravamo giovani…<New>
+… pieni di sogni e di
+speranze.<Delay 20> Mia moglie
+è morta due anni fa.<New>
+Così ho chiesto alla
+gente del mondo di sotto
+di seppellire le sue
+ceneri nella terra.<New>
+Presto verrà il mio
+momento…<Delay 20> E voi, potreste
+seppellire anche le mie
+ceneri nella terra…?<New>
+Sono stanco di aspettare
+e credere…<Delay 20>
+Voglio riposare in pace
+nella terra.<Close><End of Block>
+<TextBlock 3 w:48 h:4>
+Mi stavo domandando cosa
+significasse vivere
+senza invecchiare come
+la Regina Zefiro…<New>
+Cosa avrà visto e
+sentito durante gli
+ultimi 500 anni?<New>
+E quello che ha visto
+e sentito, l'avrà resa
+felice…?<Delay 20>
+Beh, non lo so.<Close><End of Block>
+<TextBlock 4 w:56 h:4>
+Questo paese non ha
+più molte speranze.<Delay 20>
+Non abbiamo più la forza
+di combattere Solaris…<Close><End of Block>
+<TextBlock 5 w:48 h:3>
+Voi gente del mondo di
+sotto dovreste andare
+al palazzo reale.<New>
+La Regina Zefiro
+ascolterà i vostri
+desideri e vi mostrerà
+la via da seguire.<New>
+Potreste essere la nuova
+speranza per coloro che
+si battono contro Solaris…<Close><End of Block>
+<TextBlock 6 w:46 h:3>
+Vuoi scendere?<Delay 10>
+    Sì
+    No<Close><Close><End of Block>

@@ -1,0 +1,29 @@
+<TextBlock 1 w:54 h:4>
+Margie
+"Eh eh, vengo anch'io!<New>
+L'interno dell'Yggdrasil
+puzza come il bagno degli
+uomini.<Delay 20>
+Non resisto più."<Close><End of Block>
+<TextBlock 2 w:48 h:4>
+Margie
+"Questo paese è gentile
+e quieto…<Delay 20> ma…<New>
+… avverto una tristezza
+strisciate, una triste
+eco del passato…<New>
+Cos'è successo 500
+anni fa?"<Close><End of Block>
+<TextBlock 3 w:46 h:4>
+Margie
+"Che cosa ti serve?"<Delay 20>
+    Cambiare gruppo
+    Nulla<Close><End of Block>
+<TextBlock 4 w:36 h:3>
+Margie
+"OK.<Delay 20>
+Fate attenzione!"<Close><End of Block>
+<TextBlock 5 w:48 h:3>
+Vuoi riposare nel letto?<Delay 20>
+    Certo!
+    No, grazie<Close><Close><End of Block>

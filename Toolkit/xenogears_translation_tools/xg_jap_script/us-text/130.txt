@@ -1,0 +1,89 @@
+#### 1 ####
+We must rewrite all
+false history books
+on the monarchy.{enter}
+We also must get rid
+of any books that
+might cause problems.
+
+#### 2 ####
+But now, any pre-Shakhan
+records are getting dated.
+Strange how the present
+becomes the past.
+
+#### 3 ####
+I am rearranging all the
+records that were hidden
+from Shakhan.{enter}
+I was told to burn them,
+but I hid them instead.
+
+#### 4 ####
+Do you know the history of Bledavik?
+    Yes, I do
+    No, I don't
+
+#### 5 ####
+Wow, you know a lot.
+
+#### 6 ####
+This city was built on a
+desert rockbed. This was
+partially to escape sand
+erosion, but that's not
+all.{enter}
+An underground water basin
+wells up here. The rockbed
+is made of limestone, so
+the water level continued
+to rise to its present level.{enter}
+Fatima Castle was originally
+built to protect the water
+source, but gradually the
+desert people started to
+live here.{enter}
+They were soon joined by a
+steady flow of people from
+the northern lands.
+That is the story of this
+city, Bledavik.
+
+#### 7 ####
+'Aveh's True History'{enter}
+...In the dark days of the
+Fatima rule, the people had
+little to eat and even less
+to be happy about.{enter}
+Their hardships peaked during
+the reign of Edbart IV...{enter}
+Using the people's fury as
+his power base, Shakhan, the
+Prime Minister then, lead
+the armies that broke the
+tyrany of the Fatima dynasty.{enter}
+Those heroes became the 
+nucleus of Aveh's current
+armed forces...
+
+#### 8 ####
+It is said the founder of Aveh,
+one Roni Fatima, was part of a
+desert caravan, but he probably
+also had other sides to him.{enter}
+The myths speak of the
+involvement of giants in
+battles that were part of
+a massive power struggle.{enter}
+Almost all the records from
+that time have been lost, and
+what little remains is doubted
+as being historically correct.{enter}
+But then Roni Fatima could have
+been behind altering things.
+
+#### 9 ####
+{fast:FF}There's probably a guard outside...
+    Open the door
+    Just take a peek
+

@@ -1,0 +1,260 @@
+<TextBlock 1 w:40 h:2>
+Elly
+"Questa è la mia stanza…"<Close><End of Block>
+<TextBlock 2 w:54 h:2>
+Elly
+"Ahh, finalmente
+posso rilassarmi!"<Close><End of Block>
+<TextBlock 3 w:46 h:4>
+Fei
+"Questo posto è enorme!<New>
+Dev'essere più grande
+della casa dell'anziano
+del mio villaggio!"<Close><End of Block>
+<TextBlock 4 w:50 h:2>
+Elly
+"Eh eh.<New>
+Dopo tutta questa corsa
+sono sudata, adesso mi
+faccio una doccia."<Close><End of Block>
+<TextBlock 5 w:40 h:3>
+Fei
+"Hai un bagno in
+camera tua?"<Close><End of Block>
+<TextBlock 6 w:42 h:2>
+Elly
+"È una cosa
+normalissima."<Close><End of Block>
+<TextBlock 7 w:40 h:2>
+Fei
+"…<Delay 10>
+(Mica tanto…)"<Close><End of Block>
+<TextBlock 8 w:46 h:3>
+Elly
+"Quand'è che la smetti
+di fissarmi?"<Close><End of Block>
+<TextBlock 9 w:44 h:4>
+Fei
+"Ehi,<Delay 10> Elly, quella
+era tua madre?"<Close><End of Block>
+<TextBlock 10 w:12 h:2>
+Elly
+"Sì."<Close><End of Block>
+<TextBlock 11 w:54 h:3>
+Fei
+"Oh.<Delay 10>
+È proprio una
+bella donna."<Close><End of Block>
+<TextBlock 12 w:26 h:3>
+Elly
+"…<Delay 10>
+Sì, è vero."<Close><End of Block>
+<TextBlock 13 w:42 h:3>
+Fei
+"Ma tu non le
+somigli molto.<New>
+Assomigli a tuo
+padre?"<Close><End of Block>
+<TextBlock 14 w:52 h:2>
+Elly
+"Non l'hai ancora notato?"<Close><End of Block>
+<TextBlock 15 w:38 h:2>
+Fei
+"Notato cosa?"<Close><End of Block>
+<TextBlock 16 w:44 h:3>
+Elly
+"Il colore dei miei occhi,
+della mia pelle, dei miei
+capelli…<New>
+… è diverso da quello
+dei solariani normali…"<Close><End of Block>
+<TextBlock 17 w:42 h:4>
+Fei
+"Non ci ho mai
+fatto caso…<Delay 10>
+Davvero?"<Close><End of Block>
+<TextBlock 18 w:54 h:4>
+Elly
+"Molto tempo fa,<Delay 10> quando io
+ero ancora una bambina,
+avevo una tata<Delay 10>…<New>
+Era così gentile con me…<Delay 15>
+Ma lei era un'abitante
+della superficie.<New>
+Ed i cittadini di I Classe
+raramente li frequentano.<New>
+Ma la tata viveva a casa
+nostra, e si prendeva
+cura di me<Delay 10>…<New>
+Aveva perso suo figlio
+quando era nella zona
+dei cittadini di III
+Classe…<New>
+Mio padre provava pietà
+per lei, e la tenne sotto
+la sua protezione, ancora
+prima che io nascessi<Delay 10>…<New>
+Ma non parlò di lei mai
+a nessuno…"<Close><End of Block>
+<TextBlock 19 w:12 h:2>
+Fei
+"Perché?"<Close><End of Block>
+<TextBlock 20 w:46 h:4>
+Elly
+"Mio padre si preoccupava
+per il mio aspetto…<New>
+Ed aveva una buona
+ragione per farlo.<New>
+Aveva avuto una relazione
+con lei, e nacqui io.<New>
+E per salvarsi la faccia
+mi adottò<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 21 w:18 h:2>
+Fei
+"Elly…"<Close><End of Block>
+<TextBlock 22 w:48 h:4>
+Elly
+"Ma non dovrei…<Delay 10>
+Sono sicura che non
+t'interessano queste cose…<Delay 10><New>
+Scusami."<Close><End of Block>
+<TextBlock 23 w:38 h:2>
+Fei
+"Non preoccuparti…"<Close><End of Block>
+<TextBlock 24 w:44 h:2>
+Elly
+"Ora tocca a te!"<Close><End of Block>
+<TextBlock 25 w:42 h:4>
+Fei
+"No, grazie…<Delay 10>
+Non ho tempo per
+farmi la doccia."<Close><End of Block>
+<TextBlock 26 w:46 h:4>
+Elly
+"Devi rilassarti<Delay 10>…<New>
+Non hai spesso
+un'occasione
+come questa.<Delay 10>
+Dai, per favore?"<Close><End of Block>
+<TextBlock 27 w:50 h:2>
+Fei
+"Va bene, <Delay 10>se insisti!"<Close><End of Block>
+<TextBlock 28 w:52 h:3>
+Elly
+"Avresti dovuto darmi
+retta da subito."<Close><End of Block>
+<TextBlock 29 w:10 h:1>
+…!!<Opcode 2 15><Close><End of Block>
+<TextBlock 30 w:24 h:1>
+Ua---a-a-a!!<Opcode 2 10><Close><End of Block>
+<TextBlock 31 w:26 h:3>
+Elly
+"Va tutto bene.<Delay 10>
+Rilassati e basta."<Close><End of Block>
+<TextBlock 32 w:48 h:3>
+Fei
+"Wow… come mi
+sento bene…<New>
+C'è una differenza
+abissale tra la vecchia
+vasca da bagno di Doc
+e questa doccia!"<Close><End of Block>
+<TextBlock 33 w:4 h:1>
+!!<Opcode 2 10><Close><End of Block>
+<TextBlock 34 w:40 h:3>
+Fei
+"S… <Delay 5>smettila!<Delay 10>
+Smettila di guardarmi!"<Close><End of Block>
+<TextBlock 35 w:46 h:3>
+Elly
+"Non preoccuparti,
+non ti sto guardando.<New>
+La sto solo sistemando.<Delay 10>
+Com'è la temperatura?"<Close><End of Block>
+<TextBlock 36 w:30 h:4>
+Fei
+"Ehi,<Delay 10> sto bene.
+ED ORA VATTENE!!"<Close><End of Block>
+<TextBlock 37 w:42 h:4>
+Elly
+"Ah ah ah… Ma allora
+anche Fei ha una
+parte carina!"<Close><End of Block>
+<TextBlock 38 w:10 h:1>
+<Delay 5>…<Delay 5>?<Delay 5>?<Close><End of Block>
+<TextBlock 39 w:52 h:4>
+Fei
+"Mi sento rinfrescato…
+Ora cosa devo fare…<Delay 10>?<New>
+Non c'è più tempo per
+riposarsi."<Close><End of Block>
+<TextBlock 40 w:44 h:3>
+Elly
+"Sì,<Delay 10> ma in realtà
+non vorrei<Delay 10>…<New>
+Ma non c'è
+altra scelta…"<Close><End of Block>
+<TextBlock 41 w:38 h:3>
+Fei
+"Hai qualche
+buona idea?"<Close><End of Block>
+<TextBlock 42 w:54 h:3>
+Elly
+"Il terminale di accesso
+al network che si trova
+nella stanza di mio padre<Delay 10>…<New>
+Una volta lo toccai
+e si arrabbiò.<New>
+Ci sono molte informazioni
+a cui possono accedere
+solo pochissime persone."<Close><End of Block>
+<TextBlock 43 w:50 h:4>
+Fei
+"Allora grazie ad esso
+possiamo scoprire dove
+si trovano Bart…<New>
+… e gli altri?"<Close><End of Block>
+<TextBlock 44 w:28 h:2>
+Elly
+"Spero<Delay 5>…<Delay 5> di sì."<Close><End of Block>
+<TextBlock 45 w:14 h:1>
+Elly…<Close><End of Block>
+<TextBlock 46 w:6 h:1>
+…<Close><End of Block>
+<TextBlock 47 w:54 h:4>
+Medena
+"Elly,<Delay 10> penso che dovresti
+vivere la vita secondo
+la tua volontà.<New>
+Se le persone a te care
+sono in pericolo, non
+puoi abbandonarle…"<Close><End of Block>
+<TextBlock 48 w:54 h:3>
+Elly
+"Madre…<Delay 10> scusami,<Delay 10>
+per quello che ho
+detto prima…"<Close><End of Block>
+<TextBlock 49 w:50 h:4>
+Medena
+"… Lo so.<Delay 10>
+Ma non c'è dubbio che
+tu sia la mia bambina…<New>
+Non importa quello che
+succede, tu rimani il
+mio tesoro…"<Close><End of Block>
+<TextBlock 50 w:16 h:2>
+Elly
+"Mamma…"<Close><End of Block>
+<TextBlock 51 w:44 h:3>
+Medena
+"Ora…
+Dovresti sbrigarti…"<Close><End of Block>
+<TextBlock 52 w:34 h:3>
+Elly
+"Sì…<Delay 10> Ti voglio
+bene, mamma…"<Close><End of Block>
+<TextBlock 53 w:20 h:2>
+Medena
+"Sbrigati…"<Close><End of Block>
+<TextBlock 54 w:0 h:1>
+<Close><End of Block>

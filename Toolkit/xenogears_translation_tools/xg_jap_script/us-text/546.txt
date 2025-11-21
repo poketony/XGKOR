@@ -1,0 +1,16 @@
+#### 1 ####
+Doesn't look like it
+will move any further.
+
+#### 2 ####
+Might move if
+you push it.
+
+#### 3 ####
+You have too many
+{str}.
+
+#### 4 ####
+ 
+ Received {str}.
+

@@ -1,0 +1,264 @@
+#### 1 ####
+Fei
+"I don't know how...{wait:1E}
+but I beat them!"
+
+#### 2 ####
+Fei
+"W, what the?"
+
+#### 3 ####
+Fei
+"You're the one from...{wait:28}
+Lahan...!!"
+
+#### 4 ####
+Fei
+"How much power I had?
+What are you talking
+about!"
+
+#### 5 ####
+Fei
+"To get me in that Gear!?
+It was planned by you!?"
+
+#### 6 ####
+Fei
+"As a catalyst!?
+You mean you caused
+that intentionally!?"
+
+#### 7 ####
+Fei
+"Crap..."
+
+#### 8 ####
+Fei
+"You said you need my
+power? What were you
+intending to do with it!?"
+
+#### 9 ####
+Fei
+"What did you do to my
+father!? What happened
+between you two!?"
+
+#### 10 ####
+Fei
+"What!?"
+
+#### 11 ####
+Fei
+"W, wait!
+We're not finished
+talking yet!!"
+
+#### 12 ####
+Fei
+"You mean you attacked my
+village just to get me in
+that Gear!? {enter}
+Why!?{wait:14}
+Why did the villagers
+have to die...?"
+
+#### 13 ####
+Fei
+"No!!{wait:1E}
+I was just trying to save
+the village and its people!{enter}
+I never intended to destroy
+it!!"
+
+#### 14 ####
+Fei
+"Shut up!{enter}
+Even if that were
+true, aren't you
+still the one who
+caused it!?{enter}
+If you hadn't come,
+the village wouldn't
+have suffered the
+way it did!"
+
+#### 15 ####
+Fei
+"D, destroy god?"
+
+#### 16 ####
+Fei
+"Don't be ridiculous!
+I won't get involved
+in such a thing!{enter}
+If you want to destroy
+your god, or whatever
+it is you're on about...
+do it by yourself!!"
+
+#### 17 ####
+Fei
+"My father?{wait:19}
+You mean my dad?{wait:1E}
+You know my father!?"
+
+#### 18 ####
+Fei
+"What?"
+
+#### 19 ####
+Citan
+"Here we go again..."
+
+#### 20 ####
+Man In Black
+"Your hot blooded desire
+for battle has not been
+tamed, I see."
+
+#### 21 ####
+Man In Black
+"My name is {wait:0A}Grahf{wait:0A}...{wait:0A}
+The seeker of power.{enter}
+You certainly showed how
+much power you had back
+there in Lahan, didn't
+you, Fei!?"
+
+#### 22 ####
+Grahf
+"A greater power...
+is what I need to
+fulfill my mission.{enter}
+I sent those Gears into
+that land as a catalyst to 
+awaken the power in you...
+To make contact with you."
+
+#### 23 ####
+Grahf
+"Yes.{wait:0A}
+A catalyst was needed
+to awaken your power."
+
+#### 24 ####
+Grahf
+"That's right.{wait:0A}
+The death of your loved
+ones...{enter}
+And you powerless against
+it happening...{wait:0A} The grief,{wait:0A}
+the screams from your heart
+born out of the tragedy...{enter}
+There!{wait:0A}
+That was the catalyst for
+triggering your power."
+
+#### 25 ####
+Grahf
+"Who cares why!
+It does not matter how
+many of them died...{enter}
+They were wretched vermin,
+only living from day to day
+without ever fulfilling
+their prescribed destinies!{enter}
+And have you forgotten?{wait:0A}
+You were the one who
+destroyed the village.{wait:0A}
+I did not lift a finger."
+
+#### 26 ####
+Grahf
+"Is that really so?{wait:0F}
+Surely you have heard it?{enter}
+It is the very essence of
+you...the voice of desire
+from within you that
+craves destruction."
+
+#### 27 ####
+Grahf
+"Ah, so now you resort
+to blame? I see...{enter}
+That sounds like something
+'you' would say.
+That's good. Your basic
+nature remains unchanged."
+
+#### 28 ####
+Grahf
+"You know very well...{wait:0A}
+It is to destroy...{wait:1E}
+mother {wait:0A}god{wait:0A}..."
+
+#### 29 ####
+Grahf
+"Yes, we will destroy god.
+That is our purpose...
+That is our destiny!"
+
+#### 30 ####
+Grahf
+"Hah, hah, hah...
+You resemble your
+father."
+
+#### 31 ####
+Grahf
+"That was...
+a most delightful scream.
+I was enthralled by it.{enter}
+Nothing is more beautiful
+than a scream of death."
+
+#### 32 ####
+Grahf
+"Hmph, do you really wish
+to know? There is no use
+in you knowing it now."
+
+#### 33 ####
+Grahf
+"Your power is still
+beneath that needed
+for my purposes.{enter}
+Anything unusable
+must be tried until
+it becomes suitable."
+
+#### 34 ####
+Grahf
+"What will you do, Fei?
+If you die here, then
+so be it.{enter}
+You may indeed gain some
+happiness from not knowing.
+But surely, that is not
+what you truly want...?{enter}
+If you want to know the
+truth...and that is what
+you want, isn't it Fei...
+then this is what to do...{enter}
+You must show me that you
+have attained the level of
+strength I require...{enter}
+To do that you must destroy
+others by using your own
+strength!{enter}
+Then you will gain all
+that was lost in exchange
+for that scream of death!{wait:0F}
+Ha, ha, ha, ha!!"
+
+#### 35 ####
+HA, HA, HA, HA, HA!
+
+#### 36 ####
+Fei
+"!!
+What in hell
+is that!?"
+

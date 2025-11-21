@@ -1,0 +1,52 @@
+<TextBlock 1 w:34 h:3>
+Bart
+"La stiamo prendendo
+in pieno!?<New>
+Yggdrasil!! Dai
+bello, muoviti!!"<Close><End of Block>
+<TextBlock 2 w:32 h:3>
+Bart
+"…<Delay 32>…<Delay 32>…<Delay 32>…<Delay 32>
+…<Delay 32> Fiuh…!<New>
+Ce l'abbiamo fatta…<Delay 10>   
+… in qualche modo…<Delay 54>!?"<Close><End of Block>
+<TextBlock 3 w:32 h:2>
+Bart
+"Ma… che diavolo?"<Close><End of Block>
+<TextBlock 4 w:32 h:2>
+Bart
+"Merda!<New>
+Ci ha visti!!"<Close><End of Block>
+<TextBlock 5 w:38 h:4>
+Bart
+"Shitan! Che facciamo!?
+Che dobbiamo fare ora?"<Close><End of Block>
+<TextBlock 6 w:16 h:2>
+Bart
+"Cosa!?"<Close><End of Block>
+<TextBlock 7 w:50 h:4>
+Shitan
+"Presto!
+Al riparo!<New>
+L'energia che Solaris sta
+emanando precipitando
+dall'atmosfera…<New>
+… equivale a quella di
+una bomba atomica!"<Close><End of Block>
+<TextBlock 8 w:18 h:3>
+Shitan
+"… Elly?<Delay 45>
+…!"<Close><End of Block>
+<TextBlock 9 w:44 h:4>
+Shitan
+"Eh?<Delay 24> Cosa… mi
+stai chiedendo
+cosa fare?"<Close><End of Block>
+<TextBlock 10 w:50 h:3>
+Vance
+"È quel Gear rosso…!!
+Sta venendo qui!!!!"<Close><End of Block>
+<TextBlock 11 w:32 h:4>
+Vance
+"C'è qualcuno sul ponte…
+Ma è… Elly!?"<Close><Close><End of Block>

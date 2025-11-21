@@ -1,0 +1,48 @@
+#### 1 ####
+I alternate gate duty
+with the guy outside.
+
+#### 2 ####
+You people...{wait:1E}
+You're not residents here.{enter}
+I know from your aura.{wait:1E}
+I too, once lived near
+the Royal Capital.{enter}
+I swindled people using
+fake goods when I lived
+there.{enter}
+I came to hate doing
+those things...{enter}
+Then I heard of this place
+from some pilgrims.{enter}
+I alternate gate duty
+with the guy outside but,
+it's pretty interesting.{enter}
+Everyday I see the
+pilgrim's faces and get
+impressions, like{enter}
+this person is very
+troubled, {wait:1E}...and such.{enter}
+I used to use that
+ability to get money
+from people...{enter}
+Now I'd never think of 
+doing that.
+
+#### 3 ####
+I'm from the royal army
+stationed down south.{enter}
+I may work for the current
+government but my heart
+belongs to Nisan. I cannot
+desert it.{enter}
+I hear there are lots of
+people like me who are
+gathering here.{enter}
+The residents here are
+kindly renting me this
+room...{enter}
+Now I'm waiting here
+until something starts
+happening.
+

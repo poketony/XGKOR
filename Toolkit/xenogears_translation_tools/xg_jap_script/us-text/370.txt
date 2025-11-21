@@ -1,0 +1,59 @@
+#### 1 ####
+Hello, surface people.
+Look at this picture.{wait:14}
+It's me and my wife a
+long time ago.
+
+#### 2 ####
+It may be hard to believe
+but there was a time when
+we were young too,{wait:14}
+full of dreams and hopes.{enter}
+My wife died two years ago.{wait:14}
+So, I asked the people in
+the world below to bury
+her ashes in the earth.{enter}
+My time will also come
+soon...{wait:14} Could you young
+people bury my ashes in
+the earth for me too...?{enter}
+I'm tired of...waiting...
+and believing...{wait:14}
+I want to rest in peace
+in the earth.
+
+#### 3 ####
+But I was wondering
+what it would be like to
+live without getting old
+like Queen Zephyr...{enter}
+What has she seen,
+and heard for the past
+500 years?{enter}
+Did what she see and
+hear really bring her
+happiness...?{wait:14}
+That, I don't know.
+
+#### 4 ####
+This country's been
+through a lot.{wait:14}
+We no longer have enough
+strength to fight Solaris...
+
+#### 5 ####
+You people from the
+world below should go
+to the royal palace.{enter}
+Queen Zephyr will listen
+to your wishes and show
+you the way.{enter}
+You may be the new hope
+for those who're against
+Solaris...
+
+#### 6 ####
+Do you want to go down?{wait:0A}
+    Yes
+    No
+

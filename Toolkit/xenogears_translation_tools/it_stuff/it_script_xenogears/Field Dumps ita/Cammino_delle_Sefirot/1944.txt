@@ -1,0 +1,282 @@
+<TextBlock 1 w:30 h:2>
+Fei
+"Dummy."<Close><End of Block>
+<TextBlock 2 w:30 h:2>
+Fei
+"Dummy."<Close><End of Block>
+<TextBlock 3 w:30 h:2>
+Fei
+"Dummy."<Close><End of Block>
+<TextBlock 4 w:32 h:3>
+Elly
+"<Delay 5>…<Delay 5> Questo posto è…<Delay 15><Space 1>
+Non può essere<Delay 5>…<Delay 5>?"<Close><End of Block>
+<TextBlock 5 w:54 h:4>
+Elly
+"La terra della genesi,
+Kadmoni…<Delay 5> dove tutto<Delay 5>…<Delay 5>
+ebbe inizio.<New>
+Ma perché la gente non
+ricorda questo posto<Delay 5>…?"<Close><End of Block>
+<TextBlock 6 w:16 h:2>
+Elly
+"<Delay 5>…<Delay 5> Fei?"<Close><End of Block>
+<TextBlock 7 w:48 h:2>
+Shitan
+"<Delay 5>…<Delay 5> Che posto è questo?"<Close><End of Block>
+<TextBlock 8 w:52 h:3>
+Shitan
+"Comunque sia, Fei…<New>
+Pur condividendo il tuo
+destino con Deus, perché
+hai dei ricordi tanto
+antichi<Delay 5>…<Delay 5>?"<Close><End of Block>
+<TextBlock 9 w:32 h:2>
+Shitan
+"Dunque, questa <Delay 5>è<Delay 5>…<Delay 5>!"<Close><End of Block>
+<TextBlock 10 w:48 h:2>
+Bart
+"Cos'è questo posto…?"<Close><End of Block>
+<TextBlock 11 w:52 h:3>
+Bart
+"Sì, però, Fei…<New>
+Anche se condividi il tuo
+destino con Deus, perché
+hai dei ricordi tanto
+antichi<Delay 5>…?"<Close><End of Block>
+<TextBlock 12 w:32 h:2>
+Bart
+"Allora, questa<Delay 5> è<Delay 5>…<Delay 5>!"<Close><End of Block>
+<TextBlock 13 w:32 h:3>
+Billy
+"<Delay 5>…<Delay 5> Cos'è questo
+posto divino?"<Close><End of Block>
+<TextBlock 14 w:52 h:4>
+Billy
+"<Delay 5>…<Delay 5> Ma, Fei…<New>
+Anche se il tuo destino
+parte da un tempo
+antichissimo…<New>
+… le persone normali
+non possono ricordarsi
+del passato oltre un
+certo limite…<Delay 5>"<Close><End of Block>
+<TextBlock 15 w:36 h:3>
+Billy
+"<Delay 5>…<Delay 5> Perciò significa che
+questa è…!?"<Close><End of Block>
+<TextBlock 16 w:46 h:3>
+Rico
+"<Delay 5>…<Delay 5> Per dio, cos'è
+questo strano posto?"<Close><End of Block>
+<TextBlock 17 w:52 h:4>
+Rico
+"Beh, non capisco cosa
+sia l'antico destino
+che condividi con Deus…<New>
+Ma, comunque, come riesci
+a ricordarti così bene
+tutte queste cose accadute
+in tempi antichissimi?<New>
+È una cosa che va oltre
+i limiti umani<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 18 w:48 h:4>
+Rico
+"Perciò mi vieni a dire
+che quel corpo là dentro
+è<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 19 w:40 h:2>
+Esmeralda
+"<Delay 5>…<Delay 5> Che posto
+è questo?<Close><End of Block>
+<TextBlock 20 w:40 h:4>
+Esmeralda
+"<Delay 5>…<Delay 5> Che strano.
+Perché hai dei ricordi
+tanto antichi<Delay 5>…<Delay 5>?"<Close><End of Block>
+<TextBlock 21 w:32 h:3>
+Esmeralda
+"Fei…<Delay 5>
+<Delay 5>…<Delay 5> Cos'è?"<Close><End of Block>
+<TextBlock 22 w:42 h:2>
+<Chu-Chu>
+"Che posto è questo?"<Close><End of Block>
+<TextBlock 23 w:46 h:4>
+<Chu-Chu>
+"<Delay 5>…<Delay 5> Veramente
+incredibile, chu.<New>
+La tribù di <Chu-Chu> ha
+dei ricordi buoni quanto
+quelli degli umani…<New>
+… ma Fei è davvero
+un chuportento!"<Close><End of Block>
+<TextBlock 24 w:48 h:2>
+<Chu-Chu>
+"Ma…<Delay 5> allora
+che cos'è?"<Close><End of Block>
+<TextBlock 25 w:48 h:2>
+Maria
+"<Delay 5>…<Delay 5> Che posto è questo?"<Close><End of Block>
+<TextBlock 26 w:42 h:3>
+Maria
+"È incredibile.<New>
+Voglio dire… puoi
+chiaramente ricordare
+cose accadute in un
+remoto passato<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 27 w:34 h:2>
+Maria
+"Dunque questa è<Delay 5>…<Delay 5>!?"<Close><End of Block>
+<TextBlock 28 w:50 h:2>
+Shitan
+"Che posto è questo<Delay 5>…<Delay 5>!?"<Close><End of Block>
+<TextBlock 29 w:52 h:3>
+Shitan
+"Comunque sia, Fei…<New>
+Pur condividendo il tuo
+destino con Deus, perché
+hai dei ricordi tanto
+antichi<Delay 5>…<Delay 5>?"<Close><End of Block>
+<TextBlock 30 w:36 h:2>
+Shitan
+"Dunque, questa <Delay 5>è<Delay 5>…<Delay 5>!"<Close><End of Block>
+<TextBlock 31 w:40 h:2>
+Esmeralda
+"<Delay 5>…<Delay 5> Che posto è questo?<Close><End of Block>
+<TextBlock 32 w:40 h:4>
+Esmeralda
+"<Delay 5>…<Delay 5> Incredibile.<New>
+Come fa Fei ad avere
+dei ricordi così
+antichi<Delay 5>…<Delay 5>?"<Close><End of Block>
+<TextBlock 33 w:28 h:3>
+Esmeralda
+"Fei…<Delay 5>
+<Delay 5>…<Delay 5> Che cos'è?"<Close><End of Block>
+<TextBlock 34 w:26 h:1>
+dummy<Close><End of Block>
+<TextBlock 35 w:46 h:4>
+Fei
+"Questo posto è dove
+tutto ebbe inizio<Delay 30>…<New>
+Questo è il luogo
+della nostra genesi!<Delay 50>
+Noi<Delay 5>…<Delay 5> no,<Delay 15> gli
+umani sono nati qui."<Close><End of Block>
+<TextBlock 36 w:54 h:4>
+Fei
+"<Delay 5>…<Delay 5> Moltissimo tempo fa…<New>
+… Deus fece un atterraggio
+d'emergenza su questo
+pianeta, mentre si trovava
+in un'astronave che…<New>
+… era una colonia
+interplanetaria.<New>
+Per potersi prima o poi
+resuscitare, Deus si
+staccò dal nucleo del
+Modificatore Zohar.<New>
+Dopo che quest'unità
+centrale precipitò qui…<New>
+… una donna si svegliò
+e se ne andò da questo
+posto."<Close><End of Block>
+<TextBlock 37 w:48 h:3>
+Fei
+"Lei è la madre di
+tutta l'umanità<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 38 w:44 h:4>
+Fei
+"Dopo essersi svegliata,
+lei usò tutto il suo
+potere per…<New>
+… mettere al mondo
+diverse creature.<New>
+Questi sarebbero diventati
+i progenitori dell'intera
+umanità."<Close><End of Block>
+<TextBlock 39 w:32 h:4>
+Fei
+"Questi erano l'Imperatore
+ed il Ministero di Gazel."<Close><End of Block>
+<TextBlock 40 w:52 h:4>
+Fei
+"Alla fine, lei diede
+alla luce due repliche
+di se stessa…<New>
+… perché loro fossero le
+guardiane dell'umanità."<Close><End of Block>
+<TextBlock 41 w:36 h:4>
+Fei
+"Si divise in
+due parti…<New>
+La Madre -Umana-
+e l'Arma…<New>
+Il Soggetto ed
+il Complemento."<Close><End of Block>
+<TextBlock 42 w:26 h:3>
+Fei
+"Vale a dire…
+Elly e<Delay 5>…<Delay 5> Miang."<Close><End of Block>
+<TextBlock 43 w:42 h:4>
+Fei
+"Io, unico sopravvissuto
+della nave coloniale,
+incontrai Elly e<Delay 5>…<New>
+Tutto iniziò da lì<Delay 5>…"<Close><End of Block>
+<TextBlock 44 w:42 h:4>
+Fei
+"La terra della genesi,<Delay 5>
+-Kadmoni-<Delay 5>…<Delay 5>
+Questo è quel posto."<Close><End of Block>
+<TextBlock 45 w:54 h:4>
+Fei
+"Di norma, i ricordi umani
+non si possono trasmettere
+attraverso le generazioni.<New>
+Normalmente, gli uomini
+non hanno la capacità di…<New>
+… comprimere e conservare
+i loro ricordi nei propri
+introni."<Close><End of Block>
+<TextBlock 46 w:36 h:4>
+Fei
+"Ma io ed Elly…<Delay 15>
+e Miang…<Delay 15> siamo
+differenti."<Close><End of Block>
+<TextBlock 47 w:54 h:4>
+Fei
+"A causa del nostro
+legame con l'Esistenza
+Ondulatoria<Delay 5>…<New>
+Cioè, grazie alla capacità
+dello Zohar di modificare
+i fenomeni possibili…<New>
+… possiamo conservare
+i ricordi nei nostri
+introni.<New>
+In altre parole, possiamo
+far sì che i nostri
+ricordi siano ereditati
+dai nostri discendenti."<Close><End of Block>
+<TextBlock 48 w:56 h:4>
+Fei
+"Proprio come l'Esistenza
+Ondulatoria è prigioniera
+dentro lo Zohar…<New>
+… possiamo dire che
+possiedo queste
+conoscenze…<New>
+… grazie a parte del
+potere dell'Esistenza
+Ondulatoria."<Close><End of Block>
+<TextBlock 49 w:46 h:4>
+Fei
+"Questo è l'aspetto che
+avevano Elly e Miang
+quando erano ancora<Delay 5>…<New>
+… un unico essere.<Delay 30>
+Questa è la prima
+donna del nostro mondo<Delay 5>…"<Close><End of Block>
+<TextBlock 50 w:32 h:1>
+<Delay 5>…<Delay 5> Nostra madre<Delay 5>…<Space 1><Close><Close><End of Block>

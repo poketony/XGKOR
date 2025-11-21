@@ -1,0 +1,70 @@
+#### 1 ####
+ 
+ Welcome to 
+ 'Merry Go Pop' 
+           
+
+#### 2 ####
+Let me explain the rules.{enter}
+Different colored balloons
+will come out of the four
+holes. {enter}
+You must pop them. Each
+color is worth different
+points.{enter}
+    Blue    10 points
+    Green   20 points
+    Yellow  40 points
+    Red     80 points
+    White  -100 points{enter}
+The prize will depend on 
+how many points you get 
+within the time limit.
+
+#### 3 ####
+Choose the level
+    Easy
+    Hard
+    Explain rules
+
+#### 4 ####
+{fast:FF} 
+ Start the game 
+              
+
+#### 5 ####
+ 
+ Time's up... 
+            
+
+#### 6 ####
+You got...{wait:1E}
+ 
+{0C:00} points
+
+#### 7 ####
+Your prize is...{wait:1E}
+{str}
+
+#### 8 ####
+Received
+{str}.
+
+#### 9 ####
+That's all
+
+#### 10 ####
+-100{clear:1E}
+
+#### 11 ####
+10{clear:1E}
+
+#### 12 ####
+20{clear:1E}
+
+#### 13 ####
+40{clear:1E}
+
+#### 14 ####
+80{clear:1E}
+

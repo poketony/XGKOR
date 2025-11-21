@@ -1,0 +1,171 @@
+#### 1 ####
+Fei
+"Mmmm!{wait:1E}
+That was good!"
+
+#### 2 ####
+Fei
+"Your cooking never
+fails to impress me,
+Yui!"
+
+#### 3 ####
+Fei
+"Thank you for such
+a delicious meal!"
+
+#### 4 ####
+Yui
+"You're welcome.{enter}
+If you like my cooking
+that much, then I'd be
+happy to cook for you
+anytime, Fei!"
+
+#### 5 ####
+Yui
+"Oh, and the bread tasted
+really good because I used
+that egg you brought us."
+
+#### 6 ####
+Fei gained a bit of weight,{wait:05}
+but felt he did a bad thing.{wait:14}
+...{wait:05} Well,{wait:05} just a little bit!
+
+#### 7 ####
+Fei
+"Well,
+nothing in particular..."
+
+#### 8 ####
+Fei
+"Hello, Yui.
+Where's doc...?"
+
+#### 9 ####
+Fei
+"I should have guessed!
+Doesn't he ever get sick of
+playing with that stuff!"
+
+#### 10 ####
+Fei
+"Well, okay then, I'll go
+out into the backyard and
+see if I can find him."
+
+#### 11 ####
+Fei
+"Oh, I nearly forgot!{wait:14}
+Yui, I found this on
+the mountain path...{enter}
+Please use it to make
+a tasty egg dish for
+doc and Midori."
+
+#### 12 ####
+Fei
+"Hi, Midori.
+It's a nice day
+to play outside.{enter}
+How about we feed
+the birds later?"
+
+#### 13 ####
+Fei
+"...{wait:14}
+Where have I heard
+that line before!?"
+
+#### 14 ####
+Fei
+"That's alright by me...{wait:1E}
+Well, see you tomorrow, doc!{wait:1E}
+Good night, Yui, Midori!"
+
+#### 15 ####
+Citan
+"I will bring the equipment
+you need to the village
+tomorrow morning, myself...{enter}
+It does not exactly make me
+feel comfortable to have
+you handle such delicate
+instruments, I am afraid!"
+
+#### 16 ####
+Yui
+"My darling husband is
+probably tinkering with his
+junk out in the backyard...{enter}
+Didn't you see him there?"
+
+#### 17 ####
+Yui
+"Oh, welcome, Fei.{wait:1E}
+What brings you
+here today?"
+
+#### 18 ####
+Yui
+"I see...{wait:14}
+Well, anyway, please
+make yourself at home."
+
+#### 19 ####
+Yui
+"Oh Fei, welcome."
+
+#### 20 ####
+Yui
+"My husband is tinkering
+with his junk out in the
+backyard."
+
+#### 21 ####
+Yui
+"Oh, what a nutritious
+looking egg!{wait:14} Thank you.
+I'll use it for dinner."
+
+#### 22 ####
+Gave the egg you worked
+so hard for to Yui.
+
+#### 23 ####
+Yui
+"Good night.{wait:14}
+See you tomorrow, Fei."
+
+#### 24 ####
+Yui
+"I wonder what happened...?{wait:14}
+Be careful now, Fei!"
+
+#### 25 ####
+Yui
+"You're welcome.{enter}
+If you like my cooking
+that much, then I'd be
+happy to cook for you
+anytime, Fei!"
+
+#### 26 ####
+Yui
+"Good night.{wait:14}
+We're looking forward
+to tomorrow's wedding."
+
+#### 27 ####
+Midori
+"..."
+
+#### 28 ####
+Midori
+"..."
+
+#### 29 ####
+Midori
+"..."
+

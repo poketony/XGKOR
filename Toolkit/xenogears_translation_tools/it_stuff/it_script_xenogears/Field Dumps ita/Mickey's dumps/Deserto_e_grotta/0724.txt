@@ -1,0 +1,43 @@
+<TextBlock 1 w:40 h:3>
+Dannazione!
+<Weltall> si
+è insabbiato…<Close><End of Block>
+<TextBlock 2 w:22 h:1>
+"Waawwwww!"<Opcode 2 16><Close><End of Block>
+<TextBlock 3 w:10 h:1>
+"Oh!"<Opcode 2 16><Close><End of Block>
+<TextBlock 4 w:10 h:1>
+"Ah!"<Opcode 2 16><Close><End of Block>
+<TextBlock 5 w:10 h:1>
+"Oh!"<Opcode 2 16><Close><End of Block>
+<TextBlock 6 w:18 h:1>
+"Fiuh…"<Opcode 2 16><Close><End of Block>
+<TextBlock 7 w:48 h:3>
+Fei
+"Doc!? Dove sei
+finito, Doc!?"<Close><End of Block>
+<TextBlock 8 w:44 h:4>
+Fei
+"Eccoci di nuovo…<Delay 32> Noi
+due sembriamo destinati
+a stare insieme!"<Close><End of Block>
+<TextBlock 9 w:54 h:4>
+Fei
+"… Va bene, Doc!
+Appena finito, sali sul
+Gear anche tu, ok!?"<Close><End of Block>
+<TextBlock 10 w:54 h:4>
+Shitan
+"Fei! Puoi sentirmi?<New>
+Sto spostando la gru
+verso la cabina
+di pilotaggio di
+<Weltall>.<New>
+Presto! Usa la gru
+per salire su <Weltall>!
+Non c'è tempo da perdere!"<Close><End of Block>
+<TextBlock 11 w:34 h:4>
+Shitan
+"Fei!
+Non c'è tempo per
+tornare indietro!"<Close><Close><End of Block>

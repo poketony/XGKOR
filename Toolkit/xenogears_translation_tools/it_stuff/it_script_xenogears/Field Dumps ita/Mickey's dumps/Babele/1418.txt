@@ -1,0 +1,39 @@
+<TextBlock 1 w:22 h:2>
+Fei
+"Questa è…"<Close><End of Block>
+<TextBlock 2 w:46 h:3>
+Fei
+"Sembra essere una 
+specie di stazione
+relè."<Close><End of Block>
+<TextBlock 3 w:64 h:6>
+<Opcode 1 255>Pulsante Direzionale su: 
+           Ferma cavo
+Pulsante Direz. Sinistra/Destra: 
+          Oscilla cavo
+Pulsante Dir. Sinistra/Destra
+e pulsante <Tri>:  Salto<Close><End of Block>
+<TextBlock 4 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 5 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 6 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 7 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 8 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 9 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 10 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 11 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><Close><End of Block>

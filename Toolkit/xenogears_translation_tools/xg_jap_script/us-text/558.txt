@@ -1,0 +1,118 @@
+#### 1 ####
+Mother{wait:0A} was Miang.{wait:64}
+
+#### 2 ####
+{slow:01}Our's was an ordinary family.
+
+#### 3 ####
+{slow:01}A strict but reliable father.
+
+#### 4 ####
+{slow:01}A kind and loving mother.
+
+#### 5 ####
+{slow:01}Up till then, it was{wait:32}
+complete happiness.
+
+#### 6 ####
+{slow:01}But one day...
+
+#### 7 ####
+{slow:01}Mother suddenly changed.
+
+#### 8 ####
+{slow:01}She was like a{wait:0A}
+totally different
+person.{enter}
+{wait:32}From that day on...{wait:0A}
+'Fei' lost his home.
+
+#### 9 ####
+{slow:01}Father{wait:0A} was away often.{enter}
+He had some important work.
+
+#### 10 ####
+{slow:01}In front of father
+she acted normally.
+
+#### 11 ####
+{slow:01}When Fei tried to tell father
+about mother's strange conduct
+and the experiments, father's
+mind was taken up by his work
+and he didn't really listen.
+
+#### 12 ####
+{slow:01}He thought it was just
+childhood fantasies.
+
+#### 13 ####
+{slow:01}But he didn't have
+to endure the pain
+much longer...
+
+#### 14 ####
+{slow:01}'Fei's' subconscious
+discovered a way to
+escape from the trauma.
+
+#### 15 ####
+{slow:01}He formed a separate
+persona to deal with
+things he didn't like
+or couldn't bear.
+
+#### 16 ####
+{slow:01}He removed himself from
+out of harms way.{enter}
+My role was to have all the
+things he hated forced upon
+me, the moment they arose.
+
+#### 17 ####
+{slow:01}From the time of my
+division from him, I
+was dominated by hatred.{enter}
+That hatred naturally
+turned into destructive
+impulses.
+
+#### 18 ####
+{slow:01}I wanted to destroy
+everything.
+
+#### 19 ####
+{slow:01}Mother, {wait:14}father, {wait:14}
+the entire world{wait:0A}...
+
+#### 20 ####
+{slow:01}Finally father noticed
+mother's odd behavior, but
+it was already too late.{enter}
+I had completely separated
+from that coward...
+my original self.
+
+#### 21 ####
+The puppets were broken
+{wait:0A}...{wait:0A}and{wait:0A}...{enter}
+'Fei's' heart was too{wait:0A}...
+
+#### 22 ####
+What would make mother
+do such a thing...?
+
+#### 23 ####
+Mother repeated the
+experiments to study
+the power she knew
+existed within me.{enter}
+Yes,{wait:0A} that woman{wait:0A}...{wait:0A}
+mother,{wait:14} was Miang.
+
+#### 24 ####
+{fast:FF}That's a lie!
+
+#### 25 ####
+No, it's true.
+

@@ -1,0 +1,167 @@
+#### 1 ####
+Renk
+"Hey look, check 
+this out..."
+
+#### 2 ####
+Stratski
+"There's only one
+control ship...{enter}
+The other 7 are all
+Ether guided.{enter}
+Just who the hell is
+controlling all them?"
+
+#### 3 ####
+I never thought you'd
+be the escort commander.
+
+#### 4 ####
+Elly
+"Dominia!?"
+
+#### 5 ####
+Helmholz
+"...Dominia, who's that?{wait:1E}
+Hey, not the one from
+the Elements...?"
+
+#### 6 ####
+Dominia
+"It's been a long time 
+Elhaym. The last time
+was Jugend, wasn't it?"
+
+#### 7 ####
+Elly
+"What are you 
+doing here?"
+
+#### 8 ####
+Dominia
+"This is a vital mission,
+ordered from central.{enter}
+I already have Ramsus'
+orders. The Hecht is not
+to be piloted by a
+common soldier.{enter}
+I will take the Hecht."
+
+#### 9 ####
+Dominia
+"I didn't even need an
+escort, but this was
+also part of the plan.{enter}
+This will be a
+good fight."
+
+#### 10 ####
+Elly
+"Wait! Tell me what our
+target is!
+You should know."
+
+#### 11 ####
+Dominia
+"That's restricted...{wait:1E}
+but I guess I can tell.{enter}
+The electric generator
+in the eastern sector of
+Kislev's Imperial capital.{enter}
+The target is a reactor
+left there by an ancient
+civilization."
+
+#### 12 ####
+Elly
+"The reactor!? If you
+attack that then Kislev
+will..."
+
+#### 13 ####
+Dominia
+"Probably most of it
+will be destroyed.{enter}
+The rest will be
+uninhabitable
+for hundreds of years."
+
+#### 14 ####
+Elly
+"Why are you doing this?"
+
+#### 15 ####
+Dominia
+"To purge, why else?
+You may know this already,
+Kislev has the Gatekeeper.{enter}
+The original gate is
+controlled by those
+vulgar Lambs.{enter}
+This land barrier was
+made by our predecessors.
+The Lambs are trying to
+destroy the gate.{enter}
+Are you going to
+allow that?"
+
+#### 16 ####
+Elly
+"That may be so...{wait:1E}
+but do we have the right
+to get involved?"
+
+#### 17 ####
+Dominia
+"Does that bother you?
+Since when did you have
+a conscience?{enter}
+War, strife, betrayal,
+deceit are all that are
+on the Lamb's minds.{enter}
+Surely you should know
+that by looking at the
+fools in this country.{enter}
+Just let them loose and
+see what they'd do.{enter}
+They would pillage and
+loot our world acting as
+if they owned it.{enter}
+Advanced knowledge or
+tools aren't necessary
+for common house pets.{enter}
+We must lead them where
+they belong."
+
+#### 18 ####
+Elly
+"You were originally
+a land dweller.
+So why...?"
+
+#### 19 ####
+Dominia
+"I was chosen by the
+Commander!{enter}
+Don't look at
+me the same as those
+stupid Lambs!"
+
+#### 20 ####
+Dominia
+"Yes, well...{enter}
+You've shirked the duty
+that was instilled in you
+since your Jugend days.{enter}
+Arguing with you is a
+waste of time."
+
+#### 21 ####
+Dominia
+"I was a surface dweller
+myself, but I'm going to
+purge the -Lambs-.{enter}
+I want you, the Shepherds,
+-Abel-, to see with your
+own eyes what I can do."
+

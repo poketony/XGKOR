@@ -1,0 +1,240 @@
+#### 1 ####
+Fei
+"...?{wait:3C}
+W, what was that,
+just now...?"
+
+#### 2 ####
+Oh, it's you Fei!!
+
+#### 3 ####
+The cliff's edge collapsed from
+the heavy rain we had recently.{wait:1E}
+You're alright Fei, you can do
+a big jump to get across it...{enter}
+But I'm too scared...{wait:1E}
+    Hey, what's a big jump?
+    It's easy, watch me!!
+
+#### 4 ####
+How could you forget...?{wait:1E}
+A big jump is done by
+pressing the ¡÷ button
+while running with the
+¡ð button held down.{enter}
+You can jump much further
+than with a regular jump.{wait:1E}
+...Fei, you never have
+any problems.{wait:1E}
+It's not fair.
+
+#### 5 ####
+Say hello to the
+Doctor for me!
+
+#### 6 ####
+That'a boy Fei...!
+Champion of the 12th Lahan
+Village Jumping Tournament!
+
+#### 7 ####
+Found a bird nest!!
+
+#### 8 ####
+Take the egg?
+    Of course!!
+    No, that's cruel!
+
+#### 9 ####
+{fast:FF}Received a nutritious
+    'bird egg'!!{clear:5A}
+
+#### 10 ####
+{fast:FF}Cheep, cheep!!!
+(Return the egg!!)
+    OK, I give it back!!
+    No way, never!!
+
+#### 11 ####
+Fei
+"Ouch!
+Sorry, I'll
+give it back!"
+
+#### 12 ####
+Cheep, cheep, cheep!
+(Good! You got the hint!)
+
+#### 13 ####
+No way!
+
+#### 14 ####
+{fast:FF}Caught a 'spider'!{clear:3C}
+
+#### 15 ####
+{fast:FF}¡üThis way: Walking course.
+  Watch out for the cliffs!!
+¡ûThat way: Doctor's house.
+  ...Right after the bridge.
+
+#### 16 ####
+{fast:FF}¡üThis way: Walking course.
+  Watch out for the cliffs!!
+¡ûThat way: Doctor's house.
+  ...Right after the bridge.
+
+#### 17 ####
+{fast:FF}¡üThis way: Walking course.
+  Watch out for the cliffs!!
+¡ýThat way: Doctor's house.
+  ...Right after the bridge.
+
+#### 18 ####
+{fast:FF}¡ûThis way: Walking course.
+  Watch out for the cliffs!!
+¡úThat way: Doctor's house.
+  ...Right after the bridge.
+
+#### 19 ####
+{fast:FF}¡ûThis way: Walking course.
+  Watch out for the cliffs!!
+¡úThat way: Doctor's house.
+  ...Right after the bridge.
+
+#### 20 ####
+{fast:FF}¡ýThis way: Walking course.
+  Watch out for the cliffs!!
+¡üThat way: Doctor's house.
+  ...Right after the bridge.
+
+#### 21 ####
+{fast:FF}¡úThis way: Walking course.
+  Watch out for the cliffs!!
+¡üThat way: Doctor's house.
+  ...Right after the bridge.
+
+#### 22 ####
+{fast:FF}¡úThis way: Walking course.
+  Watch out for the cliffs!!
+¡ûThat way: Doctor's house.
+  ...Right after the bridge.
+
+#### 23 ####
+Fei
+"Alright!
+Let's go!"
+
+#### 24 ####
+{fast:FF}This way to Doctor
+Citan Uzuki's house! ¡ü
+
+#### 25 ####
+{fast:FF}This way to Doctor
+Citan Uzuki's house! ¡û
+
+#### 26 ####
+{fast:FF}This way to Doctor
+Citan Uzuki's house! ¡û
+
+#### 27 ####
+{fast:FF}This way to Doctor
+Citan Uzuki's house! ¡û
+
+#### 28 ####
+{fast:FF}This way to Doctor
+Citan Uzuki's house! ¡ý
+
+#### 29 ####
+{fast:FF}This way to Doctor
+Citan Uzuki's house! ¡ý
+
+#### 30 ####
+{fast:FF}This way to Doctor
+Citan Uzuki's house! ¡ú
+
+#### 31 ####
+{fast:FF}This way to Doctor
+Citan Uzuki's house! ¡ú
+
+#### 32 ####
+!?{clear:0F}
+
+#### 33 ####
+Fei
+"What's that...?"{clear:1E}
+
+#### 34 ####
+Fei
+"Giants...?"
+
+#### 35 ####
+Fei!!{clear:1E}
+
+#### 36 ####
+Fei
+"Doc!
+Some flying objects
+went toward Lahan!!"
+
+#### 37 ####
+Citan
+"So you saw them too!{wait:0A}{enter}
+Judging by their shadows,
+they appear to be a group
+of Gears from our neighbor
+country, Kislev."
+
+#### 38 ####
+Fei
+"Those were...
+Gears...?"
+
+#### 39 ####
+Citan
+"!!{wait:0A}
+Oh no! They are headed
+directly for Lahan!" 
+
+#### 40 ####
+Fei
+"The ones I just saw?"
+
+#### 41 ####
+Citan
+"Let us make haste!"
+
+#### 42 ####
+Fei
+"Right!"
+
+#### 43 ####
+Fei
+"Doc Uzuki's house
+is over the bridge
+and up to the north."
+
+#### 44 ####
+Fei
+"Doc Uzuki's house
+is over the bridge
+and up to the north."
+
+#### 45 ####
+ 
+
+#### 46 ####
+You have too many
+{str}.
+
+#### 47 ####
+ 
+ Received {str}.
+
+#### 48 ####
+You have too many
+{str}.
+
+#### 49 ####
+ 
+ Received {str}.
+

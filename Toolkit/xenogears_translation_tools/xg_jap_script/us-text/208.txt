@@ -1,0 +1,62 @@
+#### 1 ####
+Fei
+"Hey! You in there?
+Open it up.."
+
+#### 2 ####
+Fei
+"What're you thinking,
+breaking into the Central 
+District?{enter}
+This isn't good...
+...!? {wait:1E}What?"
+
+#### 3 ####
+Rico
+"!?...{wait:1E}This smell..."
+
+#### 4 ####
+Rico
+"...Why,{wait:28} am I
+remembering this now...{enter}
+This room...?{wait:1E}
+That faint smell..."
+
+#### 5 ####
+Rico
+"Forget about it..."
+
+#### 6 ####
+Rico
+"Forget about it..."
+
+#### 7 ####
+ 
+Received Momento Locket.
+
+#### 8 ####
+Rico
+"...{wait:1E}I've seen this..."
+
+#### 9 ####
+Rico
+"...When was{wait:1E}...it..."
+
+#### 10 ####
+Rico
+"Huh? What's this
+room...?"{clear:28}
+
+#### 11 ####
+Sigmund
+"What're you people...{enter}
+!? {wait:28}How did you get
+in here?{enter}
+So mutant, it was you..."
+
+#### 12 ####
+Sigmund
+"Hmph.{wait:28}
+If you have nothing more
+to say, then leave."
+

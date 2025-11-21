@@ -1,0 +1,245 @@
+#### 1 ####
+Rock!!
+
+#### 2 ####
+Scissors!!
+
+#### 3 ####
+Paper!!
+
+#### 4 ####
+I see you've beaten my husband!{wait:14}
+Well, this should stifle some
+of his manic love for the game.{enter}
+But now I see you've come to
+have a passion for RPS too!
+
+#### 5 ####
+Sigh...{wait:14} 
+My husband's love for the
+rock-paper-scissors, or
+'RPS' game is ruining us...{enter}
+Just recently, he even said
+he had a dream of receiving
+the hero title from the
+'RPS King'...{enter}
+If only someone could
+utterly defeat him to
+make him see reality...{wait:19}
+But he's just so good...
+
+#### 6 ####
+I give up.{wait:14} I completely
+lost to you, Fei.{enter}
+It just goes to show that
+I need more training.
+
+#### 7 ####
+Uuuhh... I give up!
+It's my loss, Fei.{wait:14}
+Here, as promised
+I'll give you this!
+
+#### 8 ####
+Fei received the
+'Mythical RPS Hero Badge'!!{enter}
+Although, no one has any
+idea what use it has...
+
+#### 9 ####
+What the...?
+Ya don't even have 50G!{wait:14}
+Come back and talk to me
+when ya have money, OK!
+
+#### 10 ####
+Argh... I can't afford
+to lose the next turn.{wait:14}
+This time I'm getting
+serious... Ready?
+
+#### 11 ####
+Tisk... Lost three times
+in a row! Not bad, Fei.{wait:14}
+But, it's not over yet.
+
+#### 12 ####
+We're just getting started!
+Are you ready to 'rock'!?
+
+#### 13 ####
+Yo! You want to play
+rock-paper-scissors?
+It's 50G per challenge.{wait:14}
+    Let's do it!
+    No thanks!
+
+#### 14 ####
+What the...?
+Ya don't even have 50G!{wait:14}
+Come back and talk to me
+when ya have money, OK!
+
+#### 15 ####
+Yeah, that's the way, Fei!{wait:14}
+If ya manage to beat me 5
+times in a row, I'll give
+ya a special reward!
+
+#### 16 ####
+I need some kind of risk
+to make things interesting
+against such an amateur.{wait:14}
+Hehehe...
+
+#### 17 ####
+Here we go!
+
+#### 18 ####
+One, two...{wait:0A}{fast:FF}
+    Rock
+    Scissors
+    Paper {0D:80}{clear:01}
+
+#### 19 ####
+Rock!!
+
+#### 20 ####
+Whoa, you did rock too!?
+Not bad! Not bad!
+Let's do it again...{clear:1E}
+
+#### 21 ####
+Scissors!!
+
+#### 22 ####
+Aww no, rock!?
+
+#### 23 ####
+Darn, you got me!
+I can't believe this!
+Aarrgh...!!
+
+#### 24 ####
+Paper!!
+
+#### 25 ####
+Rock!?
+You did rock?
+
+#### 26 ####
+Muahaha.
+Are you serious?
+Yesss! I win!!
+Ah-hahaha...!!
+
+#### 27 ####
+Rock!!
+
+#### 28 ####
+Scissors!
+You did scissors!?
+
+#### 29 ####
+Yesss! I win!{wait:14} 
+I did it baby! 
+You can kiss my...!!
+
+#### 30 ####
+Scissors!!
+
+#### 31 ####
+Hey, you did scissors too, huh?
+Hmmm... So that's how you play?{enter2}
+Anyway, here we go again...{clear:1E}
+
+#### 32 ####
+Paper!!
+
+#### 33 ####
+Doh! Scissors?{wait:14}
+You did scissors!?
+
+#### 34 ####
+Uuuaaahh! I, I lost!{wait:14}
+How could this be!! 
+What a snot!
+
+#### 35 ####
+Rock!!
+
+#### 36 ####
+What the!? Paper!?{wait:14}
+Paper!?
+
+#### 37 ####
+Me? Lose!?{wait:14} 
+This's ridiculous...!
+Oh-my-gobrino!
+
+#### 38 ####
+Grraaaaahhh!!
+I lost to an amateur!?{wait:14}
+M, me...!? MEEEEEEEE...!!
+
+#### 39 ####
+Received 50G.
+
+#### 40 ####
+Guh!? I lost 4 in a row!?
+How could I...!?{enter2}
+This is not good!!
+If I lose the next one...!!
+
+#### 41 ####
+...{wait:1E}
+......{wait:32}
+It's over...
+
+#### 42 ####
+Scissors!!
+
+#### 43 ####
+Oh, paper!{wait:14}
+You did paper!?
+
+#### 44 ####
+Yesss! I win, so pay up!{wait:14}
+Hallebalooyah! Boy...
+that was too easy!!
+
+#### 45 ####
+Gyahahahaha!! Too bad, Fei!{wait:14}
+You're 100 years too early
+to even try to win 5 in row!!
+
+#### 46 ####
+Lost 50G.
+
+#### 47 ####
+Paper!!
+
+#### 48 ####
+Oh my, you did paper too.
+Hmmm, well I see...{enter2}
+Here we go again...{clear:1E}
+
+#### 49 ####
+Here...!!{wait:28} Hey! 
+You were late!!
+You cheezy cheater!!{enter}
+Only cowards do that.{wait:14}
+The penalty's 15G.
+C'mon, cough up!
+
+#### 50 ####
+Lost 15G.
+
+#### 51 ####
+Tch! Ya don't even have 15G!{wait:14}
+What are ya, a pauper?{wait:14} Boy!
+
+#### 52 ####
+Humph. 
+Well, see ya later then.
+

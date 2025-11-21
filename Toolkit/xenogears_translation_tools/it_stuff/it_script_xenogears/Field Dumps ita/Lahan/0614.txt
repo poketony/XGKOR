@@ -1,0 +1,67 @@
+<TextBlock 1 w:62 h:3>
+Il remoto villaggio di Lahan,<Delay 10>
+ ai confini di Aveh,<Delay 10> presso
+  la frontiera con Kislev.<Opcode 2 160><Close><End of Block>
+<TextBlock 2 w:56 h:1>
+Qui è dove tutto ha inizio.<Opcode 2 150><Close><End of Block>
+<TextBlock 3 w:74 h:12>
+Il continente di Ignis, nell'emisfero
+settentrionale del nostro pianeta.<Delay 20>
+Su questo continente, il più esteso,<Delay 30>
+da centinaia di anni si combatte una
+guerra fra due paesi.<Delay 30>
+Nel nord del continente si trova
+l'Impero di Kislev, nel deserto
+a sud il Regno di Aveh.<Delay 30>
+La guerra dura da così tanto tempo
+che la gente ne ha dimenticato la
+causa,<Delay 10> conoscendo solo l'insensato
+susseguirsi di ostilità e tragedie.<Delay 200><Delay 200><Delay 200><Close><End of Block>
+<TextBlock 4 w:74 h:12>
+Ma la smodata ossessione della
+guerra era sul punto d'incontrare
+un cambiamento devastante.<Delay 30> Questo a
+causa della Chiesa,<Delay 10> un ente che
+preserva la cultura del nostro
+mondo,<Delay 10> riparando armi e macchinari
+rinvenuti nelle rovine di un'antica
+civilità.<Delay 30> Immediatamente,<Delay 10> entrambi i
+paesi riportarono alla luce queste
+rovine,<Delay 10> e si fecero riparare i
+reperti dalla Chiesa,<Delay 10> per aumentare
+il proprio potere militare.<Delay 200><Delay 220><Delay 220><Close><End of Block>
+<TextBlock 5 w:74 h:10>
+Le varie armi rinvenute nelle
+rovine cambiarono enormemente
+la forma del conflitto.<Delay 30>
+Il risultato delle battaglie tra
+i due paesi non fu più determinato
+dal combattimento tra uomini,<Delay 10>
+bensì da Gear<Delay 10>, gigantesche
+macchine da combattimento umanoidi,<Delay 10>
+che furono ritrovate nelle
+profondità delle rovine.<Delay 200><Delay 200><Delay 200><Close><End of Block>
+<TextBlock 6 w:74 h:11>
+Infine,<Delay 10> dopo continue incertezze
+sulle sorti della guerra,<Delay 10> Kislev
+ebbe il sopravvento.<Delay 30>
+Il motivo principale dietro tutto
+ciò fu l'enorme differenza delle
+risorse sepolte nelle sue rovine.<Delay 30>
+Ma,<Delay 10> improvvisamente,<Delay 10> una misteriosa
+potenza militare apparve nel
+continente di Ignis.<Delay 20> Chiamata
+Geburah, questa decise di allearsi
+con Aveh.<Delay 200><Delay 200><Delay 200><Close><End of Block>
+<TextBlock 7 w:74 h:11>
+Con l'ausilio di questa nuova
+potenza militare,<Delay 5> Aveh poté
+riprendersi dalla sicura sconfitta,
+tornando a lottare alla pari
+contro Kislev.<Delay 30>
+Poi,<Delay 10> ottenendo ulteriore vantaggio
+dalla forza recentemente ottenuta,<Delay 10>
+Aveh iniziò a conquistare un
+territorio dopo l'altro da Kislev,<Delay 10>
+non mostrando segno di fermarsi
+nella sua campagna d'invasione.<Delay 200><Delay 220><Delay 220><Close><End of Block>

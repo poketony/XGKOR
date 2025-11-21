@@ -1,0 +1,15 @@
+<TextBlock 1 w:52 h:4>
+Sono ritornato dalla
+chiamata militare per
+vigilare sul confine di
+Kislev…<New>
+E scopro che casa mia è
+diventata una fottuta
+casa di gatti…<New>
+Credo che mia figlia
+fosse un po' troppo sola.<New>
+Ma mi sono abituato ad
+averli in giro…<New>
+Infatti, ora mi rattristo
+se anche un solo gatto
+se ne va!<Close><Close><End of Block>

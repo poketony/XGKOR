@@ -1,0 +1,360 @@
+#### 1 ####
+Received a telegram
+from Shevat!{enter}
+Due to a weakening
+gate, a city that
+may be Solaris has
+been discovered!!
+
+#### 2 ####
+Fei
+"...{wait:0A}
+...{wait:0A}Let's...{wait:0A}see..."
+
+#### 3 ####
+Fei
+"What the hell is it
+saying?"
+
+#### 4 ####
+Fei
+"Huh...?"
+
+#### 5 ####
+Fei
+"H, hey you.
+My name is Fei.
+Not Kim."
+
+#### 6 ####
+Fei
+"...Kim is fine..."
+
+#### 7 ####
+Fei
+"...Father?..."
+
+#### 8 ####
+Fei
+"Huh?...Uh yeah."
+
+#### 9 ####
+Fei
+"Hey..."
+
+#### 10 ####
+Fei
+"Umm..Oh...
+...By the way,
+do you have a name?"
+
+#### 11 ####
+Fei
+"Okay, okay.
+Emeralda, right?{enter}
+Alright, Emeralda.
+I'll stay with you this
+time. I promise!"
+
+#### 12 ####
+Elly
+"{wait:0A}...{wait:0A}"
+
+#### 13 ####
+Elly
+"Does Fei resemble
+someone you know?"
+
+#### 14 ####
+Elly
+"Kim? The person
+resembling Fei, right?{enter}
+Who is he? Is he the one
+who created you?"
+
+#### 15 ####
+Elly
+"It seems you resemble
+him. Someone important
+to her{wait:18}...{enter}
+probably the person
+who created her..."
+
+#### 16 ####
+Elly
+"Really."
+
+#### 17 ####
+Elly
+"Old lady...!{enter}
+Maybe I should bury
+her back at the
+ocean floor..."
+
+#### 18 ####
+Elly
+"Why don't you be her
+Kim? The Fei...Kim!!"
+
+#### 19 ####
+Elly
+"{wait:0A}...{wait:0A}"
+
+#### 20 ####
+Elly
+"Fei...?{wait:18}
+You mean, he resembles
+someone you know?"
+
+#### 21 ####
+Elly
+"Kim? The person
+resembling Fei, right?{enter}
+Who is he? Is he the one
+who created you?"
+
+#### 22 ####
+Elly
+"Sounds like you
+resemble him. Someone
+important to her...{enter}
+probably the person
+who created her..."
+
+#### 23 ####
+Elly
+"Really."
+
+#### 24 ####
+Elly
+"Old lady...!{enter}
+Maybe I should bury
+her back at the
+ocean floor..."
+
+#### 25 ####
+Elly
+"Why don't you be her
+Kim? The Fei...Kim!!"
+
+#### 26 ####
+Kim! Kim! Kim! Kim! Kim!
+Kim! Kim! Kim! Kim! Kim!
+Kim! Kim!
+
+#### 27 ####
+What do you mean by
+'resemble'? Kim is Kim?
+
+#### 28 ####
+What do you mean by
+'creating me'?
+Kim is Kim!
+Don't you see?
+
+#### 29 ####
+Kim! Kim! Kim! Kim! Kim!
+Kim! You're really here!
+I thought I was dreaming.
+The person in my dream.{enter}
+Yes, Kim! I was dreaming!
+A long long dream.
+
+#### 30 ####
+Now I know, Fei's Kim!{enter}
+Listen, listen, I was
+dreaming! A long long
+dream!
+
+#### 31 ####
+Listen, listen, Kim!
+I was dreaming about 
+really old times.{enter}
+Kim was much older,
+and I was in some clear
+tube...{enter}
+Kim was...putting many 
+candles on a white soft
+confection...{enter}
+I didn't know why he
+was doing that...{enter}
+But I sensed he was 
+looking forward to me
+coming out of the tube...
+
+#### 32 ####
+{wait:18}...{wait:18}
+But...soon everyone... 
+was gone...
+My body disappeared...{enter}
+Then I was in somewhere
+dark for a long...
+long time...
+
+#### 33 ####
+Please! Promise you'll
+stay, Fei's Kim!?
+
+#### 34 ####
+Really?{enter}
+Really truly?
+
+#### 35 ####
+Don't bother me!
+Who is this old lady?{enter}
+I'm talking to Kim!
+
+#### 36 ####
+Oh no! You're cruel,
+Fei's Kim!{enter}
+It's me, Emeralda,
+Emeralda!
+Kim named me because
+I have emerald hair!{enter}
+Don't you remember...?
+
+#### 37 ####
+Emeralda
+"Really?{wait:18} Really truly?{wait:20}
+Yeah!"
+
+#### 38 ####
+Citan
+"For her, 'Kim' means
+more than just a name.{enter}
+...More like...'father'."
+
+#### 39 ####
+Citan
+"No, no, I mean it has
+general meaning."
+
+#### 40 ####
+Citan
+"...I doubt Krelian acted
+on his own to use her as a
+disposable soldier.{enter}
+Some information existed
+in her which passed over
+to Krelian.{enter}
+Who knows what he will
+do next.
+We must find Solaris
+before that happens..."
+
+#### 41 ####
+Citan
+"Perfect!!{enter}
+Let us go back to
+Shevat for now!"
+
+#### 42 ####
+Citan
+"For her, 'Kim' means
+more than just a name.{enter}
+...More like...'father'."
+
+#### 43 ####
+Citan
+"No, no, I mean it has
+general meaning."
+
+#### 44 ####
+Citan
+"...I doubt Krelian acted
+on his own to use her as a
+disposable soldier.{enter}
+Some information existed
+in her which passed over
+to Krelian.{enter}
+Who knows what he will
+do next.
+We must find Solaris
+before that happens..."
+
+#### 45 ####
+Citan
+"Perfect!!
+Let us go back to Shevat
+for now!"
+
+#### 46 ####
+Bart
+"Thanks for saving
+us, Old Maison!"
+
+#### 47 ####
+Bart
+"I feel bad you had
+to get involved...
+I appreciate it.{enter}
+...But I had no idea
+you could operate
+such a thing."
+
+#### 48 ####
+Maison
+"Young master, let's go
+back to the bridge."
+
+#### 49 ####
+Maison
+"Please raise your head.{enter}
+My duty is to protect
+the young master. I'm
+sorry it took me so
+long to help you."
+
+#### 50 ####
+Maison
+"It's a trick I picked
+up long ago...
+It's nothing special.{enter}
+I'm no expert on it.
+I'm actually a bit
+embarrassed about it."
+
+#### 51 ####
+Maison
+"The young master's cup..."{clear:20}
+
+#### 52 ####
+Maison
+"Is something bad
+going to happen
+to him...?"
+
+#### 53 ####
+Sigurd
+"Young master!
+The Royal Capital's
+armies are returning!{enter}
+We were the ones who took
+the bait. We must escape
+before we get caught!{enter}
+Head for the bridge as
+soon as you are through
+with your preparations!"
+
+#### 54 ####
+Shakhan...
+The more I see him, the
+more odious he gets.
+He's lost some hair too.
+
+#### 55 ####
+Young master!
+Don't be discouraged
+by this!
+
+#### 56 ####
+I was worried
+when Maison came
+in that thing.
+
+#### 57 ####
+By the way, I heard he
+was the personal knight
+and bodyguard of the
+previous king...
+

@@ -1,0 +1,665 @@
+#### 1 ####
+Fei
+"For being in storage for
+so long, this thing's in
+great condition!"
+
+#### 2 ####
+Fei
+"...{wait:1E} It kinda looks
+a lot like Bart's Gear."
+
+#### 3 ####
+Fei
+"The drive unit's been
+sealed..."
+
+#### 4 ####
+Fei
+"Now, how do I get it
+out?"
+
+#### 5 ####
+Fei
+"You{wait:1E} said it would appear
+above if it read the eyes.{enter}
+You think you can move this
+building?"
+
+#### 6 ####
+Fei
+"Let's go!"
+
+#### 7 ####
+Fei!
+"Yeah!"
+
+#### 8 ####
+Elly
+"For being in storage for
+so long, this thing's in
+great condition!"
+
+#### 9 ####
+Elly
+"This...{wait:1E} looks
+a lot like your Gear."
+
+#### 10 ####
+Elly
+"Is the drive unit
+sealed?"
+
+#### 11 ####
+Elly
+"How do I get it out next?"
+
+#### 12 ####
+Elly
+"Earlier...{wait:1E} you
+said that it would appear
+above if it read the eyes...{wait:1E}{enter}
+You think this structure
+might be able to move?"
+
+#### 13 ####
+Elly
+"Let's go!"
+
+#### 14 ####
+Elly
+"Yes!"
+
+#### 15 ####
+Citan
+"Such excellent condition...
+incredible!"
+
+#### 16 ####
+Citan
+"Wait a minute...{wait:1E}
+it resembles...{enter}
+Bart's Gear. There must be
+a connection."
+
+#### 17 ####
+Citan
+"It looks like the drive
+unit is sealed."
+
+#### 18 ####
+Citan
+"Now, how shall I get
+this out?"
+
+#### 19 ####
+Citan
+"You...{wait:1E}spoke about
+letting it read your eyes
+to make it appear above...{enter}
+Can this structure move?"
+
+#### 20 ####
+Citan
+"We should all go!"
+
+#### 21 ####
+Citan
+"Yes!"
+
+#### 22 ####
+Billy
+"...This!"
+
+#### 23 ####
+Billy
+"But...{wait:1E} it looks
+like Bart's Gear."
+
+#### 24 ####
+Billy
+"So it's sealed..."
+
+#### 25 ####
+Billy
+"I must get this thing
+out.{wait:1E} What am I
+going to do?"
+
+#### 26 ####
+"You...{wait:1E}said it would
+show itself above if it
+read the eyes...{wait:1E}{enter}
+You think this structure
+can move?"
+
+#### 27 ####
+Billy
+"We should go!"
+
+#### 28 ####
+Billy
+"Yeah!"
+
+#### 29 ####
+Rico
+"...Incredible!"
+
+#### 30 ####
+Rico
+"Hey...{wait:1E} doesn't
+this look a lot like
+yours?"
+
+#### 31 ####
+Rico
+"Yeah, the drive unit's
+locked..."
+
+#### 32 ####
+Rico
+"How am I gonna get this
+sucker out?"
+
+#### 33 ####
+Rico
+"Didn't you...{wait:1E}say that
+it would show itself above
+if it read the eyes...{wait:1E}{enter}
+You think this structure
+can move?"
+
+#### 34 ####
+Rico
+"Hey, we're going!"
+
+#### 35 ####
+Rico
+"Yeah!"
+
+#### 36 ####
+Maria
+"...What an impressive
+machine!"
+
+#### 37 ####
+Maria
+"It kinda feels like your
+machine, Bart."
+
+#### 38 ####
+Maria
+"Is there anything else
+we should do?"
+
+#### 39 ####
+Maria
+"We're going to let him
+out, right?"
+
+#### 40 ####
+Maria
+""Earlier...{wait:1E} you
+said that it would appear
+above if it read the eyes...{wait:1E}{enter}
+You think this structure
+might be able to move?"
+
+#### 41 ####
+Maria
+"Let's go!"
+
+#### 42 ####
+Maria
+"We're going!"
+
+#### 43 ####
+{name:07:チュチュ}
+"Waaahaaaooow!{wait:1E}
+This is chu impressive!"
+
+#### 44 ####
+{name:07:チュチュ}
+"It sure looks like
+Bart's Gear!"
+
+#### 45 ####
+{name:07:チュチュ}
+"The ancestors haven't
+given us permission chu!"
+
+#### 46 ####
+{name:07:チュチュ}
+"Now, chu let chu out."
+
+#### 47 ####
+{name:07:チュチュ}
+"You said before...{wait:1E}
+'it shall appear above 
+if it reads the eyes'...{enter}
+Are you thinking that
+this structure can move?"
+
+#### 48 ####
+{name:07:チュチュ}
+"We're going chu!"
+
+#### 49 ####
+{name:07:チュチュ}
+"Go!"
+
+#### 50 ####
+Emeralda
+"...{wait:1E}!"
+
+#### 51 ####
+Emeralda
+"It looks like Bart's Gear."
+
+#### 52 ####
+Emeralda
+"There're still some
+active locks..."
+
+#### 53 ####
+Emeralda
+"Next, I guess it's going
+out."
+
+#### 54 ####
+Emeralda
+"Doesn't this fly?"
+
+#### 55 ####
+Emeralda
+"Let's go!"
+
+#### 56 ####
+Emeralda
+"Uh huh!"
+
+#### 57 ####
+Bart
+"Huh?{wait:1E}
+Oh yeah...{wait:1E}
+Now that you mention it...{enter}
+Well,{wait:1E} if you trace my
+{name:0F:ブリガンディア}'s history, it
+was a Gear originaly made
+in Aveh, that I customized.{enter}
+It wouldn't surprise me if
+there was some connection."
+
+#### 58 ####
+Bart
+"Yeah well...{wait:1E}
+Looks like there's no power
+drawn here except for the
+emergency lights."
+
+#### 59 ####
+Fei
+"This Gear too...{wait:1E}
+No power in the lights."
+
+#### 60 ####
+Bart
+"Hmm.{wait:1E}
+The control panels down
+there didn't do much...{enter}
+Meaning there's probably
+something around here."
+
+#### 61 ####
+Bart
+"Hmm.{wait:1E}
+There might be something
+around here."
+
+#### 62 ####
+Bart
+"All right, this should
+work."
+
+#### 63 ####
+Margie
+"Now, how am I going to
+get this out?"
+
+#### 64 ####
+Bart
+"Yeah."
+
+#### 65 ####
+Bart
+"Okay, let's go back
+downstairs and try it."
+
+#### 66 ####
+Bart
+"OK, this should work."
+
+#### 67 ####
+Bart
+"No.{wait:1E} That last room
+looked like a bridge.{wait:1E}
+Let's check it out!"
+
+#### 68 ####
+Bart
+"No.{wait:1E}
+There's gotta be some sorta
+control room here.{wait:1E}{enter}
+Let's find it!"
+
+#### 69 ####
+Bart
+"Father,{wait:1E} looks like we're
+gonna have to move this.{enter}
+Sorry, but I'll have to
+borrow it."
+
+#### 70 ####
+Bart
+"Margie!?{wait:1E}
+Is that you...{wait:1E}
+moving it?"
+
+#### 71 ####
+Bart
+"...Crap!"
+
+#### 72 ####
+Bart
+"You okay!?"
+
+#### 73 ####
+Margie
+"My leg...{wait:1E}got shot.{wait:1E}
+Heh...{wait:1E}looks like I'm
+causing you trouble again."
+
+#### 74 ####
+Bart
+"Stupid!{wait:1E}
+Why'd you put yourself
+in danger like that!?"
+
+#### 75 ####
+Margie
+"I...{wait:1E}it wasn't much,
+I just thought this is the
+least I could do for you."
+
+#### 76 ####
+Bart
+"...{wait:1E}Dumb...{enter}
+Stupid!
+{wait:1E}You're the
+biggest fool!"
+
+#### 77 ####
+Margie
+"...{wait:1E}heh, heh."
+
+#### 78 ####
+Bart
+"...{wait:1E}Can you move?"
+
+#### 79 ####
+Margie
+"Uh huh...{wait:1E}I guess."
+
+#### 80 ####
+Shakhan
+"Minor damage can be
+repaired.{enter}
+Aim for the cockpit!"
+
+#### 81 ####
+Bart
+"Dammit!"
+
+#### 82 ####
+Bart
+"It's too dangerous to go
+outside now.{wait:1E}
+Can you hold on?"
+
+#### 83 ####
+Margie
+"Don't worry{wait:1E}
+about me."
+
+#### 84 ####
+Bart
+"...{wait:1E}Damn!"
+
+#### 85 ####
+Bart
+"Wha,{wait:1E} what the!?{wait:1E}
+There's no control stick!{enter}
+How am I gonna move this?"
+
+#### 86 ####
+"Are you okay,
+young master!?"
+
+#### 87 ####
+Bart
+"...{wait:1E}Sig!?
+Ya know how to operate
+this thing?"{wait:1E}
+
+#### 88 ####
+Sigurd
+"...What do you mean!?"
+
+#### 89 ####
+Bart
+"There are no controls!
+What am I gonna do?"
+
+#### 90 ####
+Bart
+"Uuuaaaaahh!"
+
+#### 91 ####
+Shakhan
+"Impudent little..."
+
+#### 92 ####
+Bart
+"H,{wait:1E} how!?{wait:1E}
+How'd it move!?"
+
+#### 93 ####
+"I got it!{wait:1E}
+Young one, you must think!"
+
+#### 94 ####
+Bart
+"That voice...{wait:1E} Citan!?"
+
+#### 95 ####
+Citan
+"Apparently, the Omnigear
+does not function by
+mechanical controls, but
+mental ones.{enter}
+Remember how Elly and the
+Omnigear in Shevat
+responded?"
+
+#### 96 ####
+Bart
+"...{wait:1E}But..."
+
+#### 97 ####
+Citan
+"Margie probably moved it
+through the same means.{enter}
+Young one, try and
+envision the Gear moving.{enter}
+Then the Gear should react
+to the image in your head."
+
+#### 98 ####
+Bart
+"Now that I know...{enter}
+...{wait:1E}here goes!"
+
+#### 99 ####
+Shakhan
+"Damn you, boy!"
+
+#### 100 ####
+Citan
+"Fortunately, the bullet
+passed through.{wait:1E} I will
+apply some first aid.{enter}
+Later, when we return to
+the city, we should have
+it looked over thoroughly."
+
+#### 101 ####
+Bart
+"Good...{wait:1E}I'm glad.{wait:1E}{enter}
+When she passed out I
+thought the worst."
+
+#### 102 ####
+Margie
+"...{wait:1E}Bart."
+
+#### 103 ####
+Bart
+"...{wait:1E}How ya feelin'?"
+
+#### 104 ####
+Margie
+"...{wait:1E}Okay.{enter}
+You know,{wait:1E} when I
+passed out, I still heard
+your voice.{enter}
+For some strange reason...
+your cries reached me.{enter}
+That's why I thought I had
+to help you..."
+
+#### 105 ####
+Bart
+"...{wait:1E}Oh.{enter}
+We were fighting together
+weren't we? You{wait:1E} 
+protected me."{wait:1E}
+
+#### 106 ####
+Bart
+"But,{wait:1E} is this
+really the legendary Gear
+in the scroll of our{enter}
+founding nation?"
+
+#### 107 ####
+Bart
+"The way it handles,
+it feels just like my
+{name:0F:ブリガンディア}...{enter}
+...Except maybe it's
+a little more powerful."
+
+#### 108 ####
+Citan
+"Perhaps...{enter}
+The controls, output and
+weapons are similar and
+adjust to the strength of
+the pilot's mental waves."
+
+#### 109 ####
+Citan
+"If so, the pilot must be
+skilled at mentally merging
+with the Gear to gain its{enter}
+true power.
+Marguerite was able to move
+the Gear through her strong
+desire to help you.{enter}
+It was her strength
+that moved it."
+
+#### 110 ####
+Bart
+"Meaning, I'd have to get
+used to it?"
+
+#### 111 ####
+Citan
+"That would be the case."
+
+#### 112 ####
+Bart
+"Ergh.{wait:1E} I already
+went through a lot of
+trouble getting it..."
+
+#### 113 ####
+Citan
+"Do not be discouraged.{enter}
+We now know that these
+Omnigears were used in the
+battle between the land
+and Solaris.{enter}
+Even now, the 'Ethos' and
+Solaris are seeking the
+Omnigears.{enter}
+At least, this one did not
+fall into their hands.{enter}
+Eventually, you will be
+able to unleash its power.{enter}
+Let us hope you use it
+for the right reasons."
+
+#### 114 ####
+ 
+     "Peace to all those
+        who come here.{wait:1E}
+   Fearing great calamity,
+    we sealed this legacy,
+ entrusting its fate to you." 
+ 
+
+#### 115 ####
+Bart
+"...?"
+
+#### 116 ####
+Bart
+"Something's written here."
+
+#### 117 ####
+Bart
+"Does anyone have a light?"
+
+#### 118 ####
+Bart
+"This...{wait:1E}
+There's an inscription.{enter}
+It's in old Fatima.
+{wait:1E}...{wait:1E}...It's my
+ancestors'."
+
+#### 119 ####
+Margie
+"What does it say?"
+
+#### 120 ####
+ 
+     "Peace to all those
+        who come here.{wait:1E}
+   Fearing great calamity,
+    we sealed this legacy,
+ entrusting its fate to you." 
+ 
+

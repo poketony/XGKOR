@@ -1,0 +1,404 @@
+#### 1 ####
+It's enough work just
+to change those fuses
+here and there...{clear:1E}
+
+#### 2 ####
+More than a specified
+output isn't supposed
+to be generated.{clear:1E}
+
+#### 3 ####
+Aww man!{wait:0A} The levitron's
+coil is also burnt...{clear:1E}
+
+#### 4 ####
+The coil'll break if the
+toroid is cooled down
+suddenly...{wait:3C} It's big,
+but it's delicate...{clear:3C}
+
+#### 5 ####
+The electric circuit
+is optimized and...{clear:1E}
+
+#### 6 ####
+The levitron's not in
+a good mood today.{wait:0A}
+The plasma cools down
+too quickly...{clear:3C}
+
+#### 7 ####
+Is the fuse alright?{clear:1E}
+
+#### 8 ####
+It's almost time{wait:05}...{wait:0A}
+We may not be able to do
+much on the front line,
+but we'll give you the
+best support we can!
+
+#### 9 ####
+There's a new gadget
+in the aft...!{enter}
+I'm lucky to be able
+to work on something
+that awesome at my
+age... {wait:0A}Hehehe.
+
+#### 10 ####
+Don't worry.
+It's going great!
+
+#### 11 ####
+You're going to
+some ghost ship?{wait:0A}
+Be careful, now!
+
+#### 12 ####
+Elly
+"Chief...
+I'm very sorry.{wait:0A}
+I..."
+
+#### 13 ####
+That's alright.{wait:0A}
+Everybody makes mistakes.{enter}
+I don't find it a problem
+with young people making
+mistakes!
+
+#### 14 ####
+(But, if you do it again,
+you're gonna be in deep...!)
+
+#### 15 ####
+I've been working on
+these engines for many
+long years...{enter}
+But I can't figure out
+why high energy plasma
+is produced in the
+Slave Generators...{enter}
+Actually nobody knows the
+generators' mechanism of
+either ships or Gears.{enter}
+But perhaps that Solaris
+may know what Slave
+Generators really are...
+
+#### 16 ####
+Good, good!!{wait:0A} It's better
+than before, since we can
+now use water for cooling.{enter}
+But because of that,
+there's more labor needed.
+
+#### 17 ####
+Young master{wait:05}...{wait:0A}doesn't
+this place remind you of
+the day of that accident?
+
+#### 18 ####
+Well the Yggdrasil sank...{wait:0A}
+But fortunately we were
+able to find this one...{enter}
+But whenever I work on
+this engine I get this
+mysterious feeling...{enter}
+Like this ship is somehow
+'related' to the previous
+one...{wait:0A} Strange, huh!?
+
+#### 19 ####
+You failed...{wait:0A}
+Well, everyone has their
+ups and downs in life.
+
+#### 20 ####
+Young master, forget about
+the past... What's more
+important is the future.{enter}
+Today's battle isn't over
+yet.
+
+#### 21 ####
+A mechanic's greatest
+moment is the night
+before a mission!{enter}
+Tomorrow is that once
+in a life time day when
+this ship can show what
+it's really made of...{enter}
+I'm gonna make you
+beautiful, old girl!
+
+#### 22 ####
+Marguerite has returned
+and it sounds like it's
+time to settle the score.{enter}
+Engine!{wait:05} I'm counting on
+you!{wait:0A} When it's over, you
+and I can have plenty of
+rest...{wait:0A} Good rest...
+
+#### 23 ####
+Good job!{wait:0A}
+We saved Marguerite!{enter}
+I hear some guy called
+Fei, a martial artist,
+helped us out there.
+
+#### 24 ####
+Y, you, quit loafing
+around here and go
+concentrate on training
+like that guy Fei!!
+
+#### 25 ####
+Here we go!
+This time you're going
+to save Marguerite!{enter}
+I gave you enough fuel
+...so let's go get her!
+
+#### 26 ####
+Phew, finally I can let
+her rest. Take plenty of
+rest while you still can!
+
+#### 27 ####
+Nobody touches the machine
+here except myself.
+Even the young master!
+
+#### 28 ####
+Uhh... Young master...
+
+#### 29 ####
+Whoa whoa!!
+That{wait:0A} was close!{clear:1E}
+
+#### 30 ####
+Engine Full Power!
+
+#### 31 ####
+Guys from Shevat installed
+tons of stuff for me...{wait:0A}
+so it's much more fun to
+work on!
+
+#### 32 ####
+See you later!
+
+#### 33 ####
+...{wait:0A}
+You're alright, aren't you?{wait:0A}
+You're the normal Elly, right?
+
+#### 34 ####
+Awh shoot!!{wait:0A}
+I must restore it again
+because of that girl!!
+
+#### 35 ####
+Phew...
+It's somehow moving alright.
+Now, I've got to restore it.
+
+#### 36 ####
+Young master{wait:05}...{wait:05}do you
+think the sunken Yggdrasil
+is resting in peace now?
+
+#### 37 ####
+I wonder if the engine of
+our old sunken Yggdrasil is
+weeping in the deep sand...
+
+#### 38 ####
+No, she's resting there.
+We ought to believe it
+must be the best place
+for her,{wait:0A} otherwise...
+
+#### 39 ####
+This Yggdrasil is still here.{wait:0A}
+As long as it's in good shape,
+we can do many more rematches!
+
+#### 40 ####
+That old man is all
+fired up with zeal...{wait:0A}
+I sure hope his blood
+vessels don't burst...
+
+#### 41 ####
+No need to worry!{wait:0A}
+His blood vessels are
+made of duralumin and
+oil flows inside them.
+
+#### 42 ####
+Finally, the engine 
+can take a rest.
+
+#### 43 ####
+When we get to Nisan, we can
+give the engine a rest again.{enter}
+See the big donut-shape
+running along the six poles
+standing underneath here?{enter}
+The plasma generated inside
+there is the power source
+for the ship.{enter}
+The same goes for the Gears.
+
+#### 44 ####
+The old man's in
+a good old mood!!
+
+#### 45 ####
+You shouldn't go up
+there. Trust me.
+
+#### 46 ####
+He's always like that.
+Don't take it personally.
+He's not a bad person.
+
+#### 47 ####
+Once again, final checks!{wait:0A}
+Every second counts!{wait:05}
+The young master forever!
+
+#### 48 ####
+When we had engine trouble
+a long time ago, the young
+master jumped in to fix it.{enter}
+Sigurd tried to help the
+young master and they both
+ended up injuring one eye.
+
+#### 49 ####
+We are proud of the young
+master, but{wait:05}...{wait:05}he sometimes
+rushes into things.{enter}
+The chief thinks it's
+all his own fault.
+
+#### 50 ####
+The chief has a weakness
+for young women.
+
+#### 51 ####
+W, what! It's expected for
+a man to be kind to women, 
+isn't it!?
+
+#### 52 ####
+(Grrr!!{wait:05}
+But you're cold to
+your own wife!!)
+
+#### 53 ####
+Engine Full Power!
+
+#### 54 ####
+I asked the guys from Shevat
+about it...{wait:0A} But it sounds
+like they don't even know.{enter}
+They told me nobody knows how
+their country flies anymore.
+
+#### 55 ####
+A machine that's kept moving
+since ancient times, without
+any maintenance, eh...{enter}
+I must uncover the secret of
+its mechanism.
+
+#### 56 ####
+Be careful!
+
+#### 57 ####
+!!{wait:0A}
+Please don't break
+it this time.
+
+#### 58 ####
+How could he figure out
+this complicated device
+so easily...?{enter}
+Generally, more than a
+specified output can't
+be produced.{enter}
+What kind of hypnosis
+was he under?
+
+#### 59 ####
+The Thames sounds like
+a fun place to visit.{wait:0A}
+I'm gonna sneak out...
+
+#### 60 ####
+What the hell are you
+sneaking out for!?{wait:0A} Wait
+till you're independent!
+
+#### 61 ####
+Man,{wait:0A} he heard me!
+
+#### 62 ####
+Work,{wait:0A} work!
+
+#### 63 ####
+She'll carry on the
+will and mission of its
+sister ship, proudly!!
+
+#### 64 ####
+Sorry, but I really don't
+want to talk about it.{wait:0A}
+Please leave me alone...
+
+#### 65 ####
+Oh, young master, you're
+alright!{wait:0A} What's your plan
+from now on?
+
+#### 66 ####
+Shoot!{wait:0A} I found a bug
+at a time like this!
+What should I do{wait:05}...{enter}
+I wonder if I'll be
+able to fix it by
+tomorrow...
+
+#### 67 ####
+It's falling apart...
+
+#### 68 ####
+We're almost at Nisan!!{wait:0A}
+Come on, engine!
+
+#### 69 ####
+Engine's doing fantastic!!
+
+#### 70 ####
+You shouldn't go up there.
+
+#### 71 ####
+He yelled at you, didn't he?
+He gets mad at us, too.
+He only opens his heart to
+his dog, Martle.
+
+#### 72 ####
+Amateurs don't
+belong here.{wait:0A}
+So get lost!
+
+#### 73 ####
+
+

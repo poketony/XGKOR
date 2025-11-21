@@ -1,0 +1,130 @@
+<TextBlock 1 w:36 h:3>
+Kim
+"Stupidi! Idioti!
+Un mucchio di stolti!"<Close><End of Block>
+<TextBlock 2 w:46 h:4>
+Kim
+"Non m'importa
+se mi sentono.<New>
+Anche tutte le persone
+che si trovano qui
+sono tutte degli idioti!"<Close><End of Block>
+<TextBlock 3 w:48 h:4>
+Kim
+"Pensaci!<New>
+Che senso ha combattere
+l'uno contro l'altro
+per un pianeta
+minuscolo come questo?<New>
+Combattere a causa della
+paura di essere messi
+nell'angolo…<New>
+Lanciarsi nella lotta
+come se solo ad alcuni
+'eletti' spettasse il
+diritto di vivere…"<Close><End of Block>
+<TextBlock 4 w:54 h:4>
+Kim
+"Iniziare una guerra è
+folle. Incitarla lo è
+ancora di più.<New>
+Uccidere le persone come
+atto di terrorismo per
+protestare contro guerre
+che uccidono la gente è…<New>
+… la follia assoluta!
+Siete tutti pazzi!!"<Close><End of Block>
+<TextBlock 5 w:48 h:4>
+Kim
+"Per quale buona ragione
+è morto quel bambino…<New>
+… per cosa è morta tutta
+quella gente?<New>
+Era un'operazione
+difficoltosa, ma con
+buone possibilità di
+riuscita…<New>
+Ce l'avremmo fatta se
+la nostra attrezzatura
+fosse stata migliore…<New>
+Quel bambino sarebbe
+ancora vivo se ci fosse
+stata l'elettricità…"<Close><End of Block>
+<TextBlock 6 w:54 h:3>
+Kim
+"Non solo quel bambino.<New>
+Cinque persone sono 
+morte nel mio ospedale.<New>
+La sezione di assistenza
+medica intensiva non
+ha funzionato…"<Close><End of Block>
+<TextBlock 7 w:52 h:4>
+Kim
+"Pazzi. Idioti.
+E nient'altro.<New>
+Gli umani sono creature
+nate per vivere.<New>
+Perché hanno voglia
+di estinguersi?
+Perché si soffocano
+con le loro stesse mani?<New>
+Gli umani sono
+creature imperfette.
+Un branco di folli!<New>
+Ecco perché sono in
+aumento le malattie
+genetiche e nascono
+sempre meno figli.<New>
+Solo 30 anni di vita…
+Questo pianeta non
+permetterà agli umani
+di vivere più a lungo."<Close><End of Block>
+<TextBlock 8 w:18 h:2>
+Kim
+"Uh…?"<Close><End of Block>
+<TextBlock 9 w:10 h:2>
+Kim
+"…"<Close><End of Block>
+<TextBlock 10 w:48 h:2>
+Elly
+"Kim… stai urlando."<Close><End of Block>
+<TextBlock 11 w:14 h:2>
+Elly
+"Kim!!"<Close><End of Block>
+<TextBlock 12 w:54 h:4>
+Elly
+"… Kim, mi dispiace
+per quel bambino.<New>
+Ma non credo che la
+gente di Ravine abbia
+distrutto il generatore
+con quell'intenzione.<New>
+Loro non hanno altro modo
+per far sentire la loro
+voce.<New>
+Il governo è quello
+da biasimare."<Close><End of Block>
+<TextBlock 13 w:10 h:2>
+Elly
+"…"<Close><End of Block>
+<TextBlock 14 w:42 h:2>
+Elly
+"Anch'io… sono
+folle, stupida,
+pazza o cos'altro…?"<Close><End of Block>
+<TextBlock 15 w:44 h:4>
+Elly
+"Devo sottopormi ad
+una visita ospedaliera
+domani…<New>
+Dicono che io non possa
+avere figli a causa di
+una malattia genetica
+ereditaria."<Close><End of Block>
+<TextBlock 16 w:54 h:4>
+Elly
+"Non posso generare
+la vita.<New>
+Sono solo un essere che
+aspetta di estinguersi.<New>
+… Anch'io sono stupida?"<Close><Close><End of Block>

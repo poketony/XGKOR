@@ -1,0 +1,71 @@
+<TextBlock 1 w:28 h:3>
+Fei
+"Cosa… non
+c'è soffitto?"<Close><End of Block>
+<TextBlock 2 w:38 h:3>
+Fei
+"Ah, sì!<New>
+Qua vicino non c'è
+qualche apparecchio
+di comunicazione?"<Close><End of Block>
+<TextBlock 3 w:20 h:2>
+Fei
+"Geburah?"<Opcode 2 30><Close><End of Block>
+<TextBlock 4 w:30 h:3>
+Fei
+"Un attimo.
+Vogliamo solo…"<Close><End of Block>
+<TextBlock 5 w:38 h:3>
+Fei
+"Così qui è dove si
+trovava Shevat."<Close><End of Block>
+<TextBlock 6 w:40 h:3>
+Fei
+"Ci sono le tracce
+di una cosa enorme…"<Close><End of Block>
+<TextBlock 7 w:14 h:3>
+Fei
+"… Uuh!<Delay 30>
+Lassù!"<Close><End of Block>
+<TextBlock 8 w:46 h:4>
+Elly
+"Sembra che sia vero.
+Shevat si trovava qui.<Delay 30>
+Cerchiamo qua intorno."<Close><End of Block>
+<TextBlock 9 w:48 h:3>
+Elly
+"Ci sono le tracce di
+qualche cosa di enorme…"<Close><End of Block>
+<TextBlock 10 w:42 h:2>
+Elly
+"Non vedo nulla, ma…"<Close><End of Block>
+<TextBlock 11 w:48 h:4>
+Elly
+"Fei! Lassù!<Delay 30> 
+Qualcosa si sta
+avvicinando! È un Gear!"<Opcode 2 40><Close><End of Block>
+<TextBlock 12 w:54 h:3>
+Ragazza Misteriosa
+"Da questo punto in poi
+è territorio di Shevat.<New>
+In molti hanno tentato
+di entrarci, ma Siebzehn
+ed io li abbiamo dissuasi."<Close><End of Block>
+<TextBlock 13 w:36 h:2>
+Ragazza Misteriosa
+"Preparatevi!"<Close><End of Block>
+<TextBlock 14 w:36 h:4>
+Ragazza Misteriosa
+"Scusatemi. Era
+solo per provare
+la vostra forza."<Close><End of Block>
+<TextBlock 15 w:36 h:3>
+Ragazza Misteriosa
+"La regina vi sta
+aspettando."<Close><End of Block>
+<TextBlock 16 w:46 h:2>
+Ragazza Misteriosa
+"Sì, Regina Zefiro."<Opcode 2 40><Close><End of Block>
+<TextBlock 17 w:36 h:2>
+Basta così, Maria.
+Portali dentro.<Opcode 2 40><Close><End of Block>

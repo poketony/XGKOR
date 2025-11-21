@@ -1,0 +1,167 @@
+<TextBlock 1 w:40 h:3>
+Fei
+"… La Nave da
+battaglia aerea
+di Geburah!"<Opcode 2 60><Close><End of Block>
+<TextBlock 2 w:30 h:4>
+Margie
+"Già, ma guarda
+cosa ne sta
+uscendo…!"<Opcode 2 50><Close><End of Block>
+<TextBlock 3 w:40 h:4>
+Shakhan
+"Domani è il 500°
+anniversario di
+questo paese.<New>
+Per favore, venga
+alla cerimonia di
+consacrazione."<Close><End of Block>
+<TextBlock 4 w:40 h:5>
+Shakhan
+"Dopo la cerimonia di
+consacrazione, si tiene
+abitualmente un Torneo…"<Close><End of Block>
+<TextBlock 5 w:36 h:4>
+Ramsus
+"Che cosa mi dici
+dell'incidente
+in quel rapporto?"<Close><End of Block>
+<TextBlock 6 w:48 h:5>
+Shakhan
+"Cosa?<New>
+Oh, sta parlando di
+quell'arma vecchia
+di 500 anni trovata
+nelle rovine?<New>
+Con l'aiuto della
+Chiesa, le riparazioni
+sono state completate.<New>
+Pensavo di fare
+l'annuncio il giorno
+della cerimonia di
+consacrazione…"<Close><End of Block>
+<TextBlock 7 w:42 h:4>
+Ramsus
+"Di quei giocattoli
+dovrebbe occuparsene
+Vanderkam.<New>
+Sto parlando del
+'Diaspro di Fatima'."<Close><End of Block>
+<TextBlock 8 w:48 h:3>
+Shakhan
+"Ho già ottenuto una
+metà del diaspro.<New>
+Ma non sono stato capace
+di farmi dire dove si
+trova l'altra metà.<New>
+È una ragazza con una
+volontà di ferro…"<Close><End of Block>
+<TextBlock 9 w:50 h:3>
+Ramsus
+"Non sei stato 'scortese'
+con lei, vero?"<Close><End of Block>
+<TextBlock 10 w:46 h:4>
+Shakhan
+"Assolutamente no. Lei,
+signore, disprezza atti
+volgari come quelli."<Close><End of Block>
+<TextBlock 11 w:42 h:5>
+Ramsus
+"Hai detto che la
+ragazza è la Santa
+Madre di Nisan…<Delay 50>
+È al piano di sopra?"<Close><End of Block>
+<TextBlock 12 w:22 h:3>
+Shakhan
+"Sì, nella
+torre est."<Close><End of Block>
+<TextBlock 13 w:36 h:4>
+Ramsus
+"Miang, è
+possibile che sia
+un 'Contenitore'?"<Close><End of Block>
+<TextBlock 14 w:48 h:4>
+Miang
+"Sì, ma non c'è ancora
+risposta. Sembra esserci
+una specie di barriera.<New>
+Comunque, dai dati in
+nostro possesso sappiamo
+che uno è sicuramente in
+questa zona.<New>
+Probabilmente è anche
+molto ben protetta."<Close><End of Block>
+<TextBlock 15 w:44 h:3>
+Ramsus
+"… Andiamo da lei.<New>
+Voglio parlarle faccia
+a faccia. Miang, tu
+verrai con me."<Close><End of Block>
+<TextBlock 16 w:26 h:2>
+Miang
+"Sissignore."<Close><End of Block>
+<TextBlock 17 w:24 h:2>
+Fei
+"Ma è…"<Close><End of Block>
+<TextBlock 18 w:40 h:4>
+Bart
+"Avete forse
+voglia di fare
+un'altra battaglia?"<Opcode 2 60><Close><End of Block>
+<TextBlock 19 w:28 h:4>
+Margie
+"Bart, meglio
+uscire di qui…
+velocemente!"<Opcode 2 60><Close><End of Block>
+<TextBlock 20 w:34 h:2>
+Fei
+"Svelti…<Delay 20> correte!"<Opcode 2 30><Close><End of Block>
+<TextBlock 21 w:40 h:4>
+Ramsus
+"Siete stati battuti
+da una forza così
+ridicola…<New>
+Ho appena assunto
+il comando e già
+mi recate vergogna!"<Close><End of Block>
+<TextBlock 22 w:50 h:4>
+Vanderkam
+"Mi spiace, Comandante.
+Sono stati più tenaci
+del previsto.<New>
+Hanno un nuovo modello di
+Gear molto veloce.<New>
+Non sono riuscito a
+puntarlo con il
+cannone principale…<New>
+Altrimenti non avrebbero
+avuto scampo…"<Close><End of Block>
+<TextBlock 23 w:46 h:4>
+Ramsus
+"Stupido!
+Devi sapere quando e su
+chi usare quel cannone!<New>
+Hai fallito perché hai
+cercato di risolvere
+tutto con la forza.<New>
+Sei tutto muscoli e
+niente cervello."<Close><End of Block>
+<TextBlock 24 w:28 h:2>
+Vanderkam
+"Comandante!!"<Close><End of Block>
+<TextBlock 25 w:42 h:4>
+Ramsus
+"Basta così.
+Vai a lucidare il tuo
+beneamato cannone."<Close><End of Block>
+<TextBlock 26 w:48 h:4>
+Shakhan
+"Bene bene, Comandante.<New>
+Avete appena assunto il
+comando e già avete
+ottenuto splendidi
+risultati.<New>
+Avete liquidato queste
+seccanti unità di Kislev
+in un batter d'occhio…
+Sono impressionato."<Close><Close><End of Block>

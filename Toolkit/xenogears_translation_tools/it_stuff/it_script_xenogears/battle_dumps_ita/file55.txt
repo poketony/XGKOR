@@ -1,0 +1,56 @@
+<TextBlock 1 w:48 h:4>
+Rico
+"È il meglio che sai
+fare? Cosa? Non vuoi
+combattere!?"<Close><End of Block>
+<TextBlock 2 w:44 h:4>
+Rico
+"Cosa c'è? Se non
+opponi resistenza…<New>
+… finirò con lo
+spezzarti il collo!"<Close><End of Block>
+<TextBlock 3 w:36 h:3>
+Rico
+"Mh? E quello che
+cos'è? Non riesco
+a sentirti!"<Close><End of Block>
+<TextBlock 4 w:34 h:3>
+Rico
+"Umph. Bene,
+finiamola qui!"<Close><End of Block>
+<TextBlock 5 w:16 h:2>
+Rico
+"Cosa!?"<Close><End of Block>
+<TextBlock 6 w:46 h:4>
+Rico
+"Ah ah ah.<Delay 30>
+Va già meglio…<Delay 30>
+Non sei così male.<New>
+Sei il primo che riesce
+a ferirmi.<Delay 30>
+Adesso non mi devo
+trattenere.<New>
+Voglio godermi
+questo momento!"<Close><End of Block>
+<TextBlock 7 w:18 h:3>
+Fei
+"Uh<Delay 30>……<Delay 30>
+ah<Delay 30>…<Delay 30>"<Close><End of Block>
+<TextBlock 8 w:26 h:2>
+Fei
+"N<Delay 30>o<Delay 30>… no<Delay 30>…<Delay 10>…<Delay 10>…<Delay 10>"<Close><End of Block>
+<TextBlock 9 w:24 h:4>
+Fei
+"No<Delay 30>…<Delay 30> io<Delay 30>…<Delay 30> 
+non<Delay 30>… <Delay 30>
+combatterò!"<Close><End of Block>
+<TextBlock 10 w:22 h:3>
+Fei
+"Uh<Delay 30>…<Delay 30> uh,<Delay 30>
+uh<Delay 30>…<Delay 30>"<Close><End of Block>
+<TextBlock 11 w:34 h:1>
+… Togliti da lì!<Close><End of Block>
+<TextBlock 12 w:30 h:2>
+Fei
+"…<Delay 30> Io<Delay 60>…
+io<Delay 30>…<Delay 30>"<Close><Close><End of Block>

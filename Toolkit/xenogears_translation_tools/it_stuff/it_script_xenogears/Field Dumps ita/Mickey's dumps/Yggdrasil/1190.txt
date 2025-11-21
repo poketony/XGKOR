@@ -1,0 +1,250 @@
+<TextBlock 1 w:30 h:4>
+Shitan
+"Oh, giovanotto.<Delay 10>
+Volevi parlare
+con me?"<Close><End of Block>
+<TextBlock 2 w:48 h:4>
+Bart
+"Uhm…<Delay 5> Per l'abbattimento
+del Golia…<Delay 10> sono,<Delay 5> ehmm,<Delay 5>
+davvero,<Delay 5> ehmm<Delay 5>…"<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+Shitan
+"Oh, quello?
+Credo che non si
+potesse evitare…<New>
+Ma agire senza
+pensare è una tua
+pessima abitudine<Delay 10>…<New>
+Un re dovrebbe sempre
+mantenere calma e
+usare giudizio!"<Close><End of Block>
+<TextBlock 4 w:58 h:1>
+Bart
+"(Maison dice la
+ stessa cosa.)"<Close><End of Block>
+<TextBlock 5 w:48 h:4>
+Bart
+"Sì, lo so, lo so!<Delay 10>
+Comunque, ho una
+cosa da chiederti…"<Close><End of Block>
+<TextBlock 6 w:34 h:3>
+Shitan
+"Oh?<Delay 10> Insolito
+da parte tua."<Close><End of Block>
+<TextBlock 7 w:54 h:4>
+Bart
+"Riguarda questa nave
+da guerra su cui siamo…<New>
+… che è dello stesso
+tipo dell'Yggdrasil.<New>
+Anni fa, il mio vecchio
+mi disse che era stata
+demolita perché…<New>
+… i colloqui di pace
+con Kislev facevano
+progressi.<Delay 30> Così sapevo
+che esisteva…"<Close><End of Block>
+<TextBlock 8 w:30 h:4>
+Shitan
+"Mmh.<Delay 10>
+Quindi, cos'è che
+t'infastidisce?"<Close><End of Block>
+<TextBlock 9 w:52 h:4>
+Bart
+"Il simbolo sulla nave…<Delay 10>
+Non è il nostro Emblema
+Reale!<Delay 10> Guarda."<Close><End of Block>
+<TextBlock 10 w:24 h:2>
+Shitan
+"Questo è…"<Close><End of Block>
+<TextBlock 11 w:46 h:3>
+Bart
+"Sapevo che lo
+conoscevi.<Delay 10> Che
+emblema è?"<Close><End of Block>
+<TextBlock 12 w:48 h:3>
+Shitan
+"Non ne sono certo, ma
+sembra quello di Shevat."<Close><End of Block>
+<TextBlock 13 w:36 h:3>
+Bart
+"Shevat?<Delay 10>
+Che cosa vuoi dire?"<Close><End of Block>
+<TextBlock 14 w:50 h:4>
+Shitan
+"L'Yggdrasil potrebbe non
+essere stato costruito da
+tuo padre.<New>
+A quei tempi, molta della
+tecnologia potenziale non
+era compresa e quindi<Delay 10>
+veniva nascosta.<New>
+Forse tuo padre potrebbe
+essere stato spaventato
+dal suo potere e così lo
+sigillò."<Close><End of Block>
+<TextBlock 15 w:50 h:4>
+Bart
+"Mmh, capisco.<Delay 10>
+Perciò potrebbe non essere
+stato nostro dall'inizio.<New>
+Se è così, voglio
+incontrare i tipi che
+hanno costruito questa
+meravigliosa bambina!"<Close><End of Block>
+<TextBlock 16 w:40 h:4>
+Shitan
+"In realtà, potrebbero
+essere più vicini
+di quanto immagini…"<Close><End of Block>
+<TextBlock 17 w:36 h:3>
+Bart
+"Eh?<Delay 5>
+Cosa vuoi dire?"<Close><End of Block>
+<TextBlock 18 w:42 h:4>
+Shitan
+"Nulla… Mi stavo solo
+chiedendo se Fei ed
+Elly stanno bene."<Close><End of Block>
+<TextBlock 19 w:44 h:3>
+Bart
+"…<Delay 10>
+Scusa, è colpa mia."<Close><End of Block>
+<TextBlock 20 w:50 h:3>
+Shitan
+"N-no,<Delay 10> non volevo
+dire questo…<New>
+Sono certo<Delay 10>
+che stanno bene."<Close><End of Block>
+<TextBlock 21 w:54 h:4>
+Bart
+"Benché non ci siano prove
+a sostenere ciò che dici…<New>
+… mi sento meglio ora
+che l'hai detto…<New>
+Anche se so che
+probabilmente mi stai
+dicendo una bugia…<New>
+… per farmi sentire
+meno preoccupato…"<Close><End of Block>
+<TextBlock 22 w:54 h:4>
+Shitan
+"Basta preoccuparsi…<Delay 10>
+Però penso che dovresti
+scusarti con Rico.<New>
+Hai fatto più di un
+danno questa volta."<Close><End of Block>
+<TextBlock 23 w:14 h:2>
+Bart
+"Già."<Close><End of Block>
+<TextBlock 24 w:36 h:3>
+Shitan
+"Rico sta controllando
+il suo Gear."<Close><End of Block>
+<TextBlock 25 w:40 h:2>
+Cosa vuoi fare con
+il tuo Gear?<Close><End of Block>
+<TextBlock 26 w:22 h:1>
+Torna pure.<Close><End of Block>
+<TextBlock 27 w:54 h:3>
+Oh, Bart!
+Grazie per avermi fatto
+fare un giro sull'Yggdrasil!<New>
+È sempre stato il mio sogno…
+sai? I bambini sono al sicuro
+ora che sono sotto custodia
+di Nisan!<Close><End of Block>
+<TextBlock 28 w:48 h:3>
+Ho sentito che c'era una
+carenza di personale, così
+ho deciso di dare anch'io
+una mano!<Delay 10><New>
+In realtà, mi ero rotta
+col mio lavoro in quel
+piccolo rifugio…<Close><End of Block>
+<TextBlock 29 w:40 h:2>
+Cosa vuoi fare con
+il tuo Gear?<Close><End of Block>
+<TextBlock 30 w:36 h:2>
+Ora devi tornare,
+mi hai sentito!?<Close><End of Block>
+<TextBlock 31 w:22 h:1>
+Torna pure!<Close><End of Block>
+<TextBlock 32 w:44 h:4>
+Se qualcosa accadrà, 
+anch'io andrò!
+Questo è lo spirito delle
+truppe dell'Yggdrasil!<Close><End of Block>
+<TextBlock 33 w:48 h:4>
+Non prendo più parte ai
+combattimenti dei Gear,
+ma farò meglio ad essere
+pronto per ogni evenienza!<Close><End of Block>
+<TextBlock 34 w:52 h:5>
+Andrò a comprare pezzi per
+i Gear.<Delay 10> Il Generale Maitreya
+si sarebbe arrabiato, se
+non provo a mettere insieme
+un'altra unità di Gear.<Close><End of Block>
+<TextBlock 35 w:48 h:4>
+Ehi, hai visto il
+Gear di Maria?<New>
+È troppo grande per entrare
+in questo hangar, così è
+sul ponte di volo.<New>
+Parlando di questo…<New>
+Vuoi cambiare il nome 
+di <Seibzehn>?
+    <Opcode 1 255>Sì, perché no!?
+    No, non ora…<Close><End of Block>
+<TextBlock 36 w:36 h:4>
+Il Generale Maitreya,
+Falkon e Farrant se
+ne sono andati.<Delay 10>
+… Mi mancano.<Close><End of Block>
+<TextBlock 37 w:42 h:4>
+Non abbiamo abbastanza
+equipaggiamento sottomarino,
+Gear, o piloti.<Delay 10>
+Sono felice che tu sia qui.<Close><End of Block>
+<TextBlock 38 w:54 h:3>
+Quando venivo qui la notte
+talvolta sentivo Maitreya e
+gli altri parlare e ridere.<New>
+Ma appena mi avvicinavo, le
+voci terminavano.<Delay 10> Sono sicuro
+che anche loro si<Delay 10>
+sentivano soli.<Close><End of Block>
+<TextBlock 39 w:44 h:4>
+Maitreya ammirava la tua
+tecnica di discesa in
+picchiata.<Delay 10> Ho sentito
+che anche la tua tecnica
+di avvicinamento
+è perfetta.<New>
+Pensi che potresti
+allenarmi nel mio
+prossimo turno di guardia?<Close><End of Block>
+<TextBlock 40 w:52 h:3>
+Devo essere pronto con le
+parti di Gear.<Delay 10> Maitreya è
+rigoroso con queste cose.<Close><End of Block>
+<TextBlock 41 w:46 h:3>
+Quel Gear così leggero
+ha resistito alla frusta
+di <Brigandier>?<New>
+Che tipo di armatura hanno
+usato per proteggerlo?<Close><End of Block>
+<TextBlock 42 w:62 h:4>
+Ehi, hai visto l'edizione di
+questo mese di "Gear Fan
+Magazine"?<Delay 10> Dicono che
+'Hovering' sia il 'meglio
+che c'è in giro'!<New>
+Fino a poco tempo fa era uno
+speciale equipaggiamento che
+solo il Padroncino usava sul
+suo Gear!<Close><End of Block>
+<TextBlock 43 w:0 h:1>
+<Close><End of Block>

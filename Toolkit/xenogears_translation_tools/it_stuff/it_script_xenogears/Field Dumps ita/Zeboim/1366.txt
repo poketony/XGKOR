@@ -1,0 +1,28 @@
+<TextBlock 1 w:38 h:3>
+… Io non posso…
+consegnarvi… la
+nostra… bambina…<Opcode 2 170><Space 1><Close><End of Block>
+<TextBlock 2 w:22 h:1>
+… Vivi…!<Opcode 2 150><Space 1><Close><End of Block>
+<TextBlock 3 w:48 h:2>
+ … La nostra maledetta
+ esistenza, vincolata
+ a questa terra…<Opcode 2 95><Close><End of Block>
+<TextBlock 4 w:56 h:3>
+ … Oh, ricettacolo per una
+ nuova anima… creato per
+ rimuovere quel 'giogo'…<Opcode 2 90><Close><End of Block>
+<TextBlock 5 w:38 h:3>
+… Io non posso…
+consegnarvi… la
+nostra… bambina…<Opcode 2 170><Space 1><Close><End of Block>
+<TextBlock 6 w:40 h:3>
+…!
+  …!
+   …! No! Basta!<Opcode 2 150><Close><End of Block>
+<TextBlock 7 w:34 h:2>
+…! No!
+Basta… Vi prego!<Opcode 2 90><Close><End of Block>
+<TextBlock 8 w:40 h:2>
+Eh? Dov'è
+andato Fei…?<Close><Close><End of Block>

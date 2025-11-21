@@ -1,0 +1,77 @@
+#### 1 ####
+My son has gone{wait:05}...{wait:0F}
+And when tomorrow comes,
+my daughter will leave
+our home.
+
+#### 2 ####
+{wait:05}...{wait:05}...sigh...
+
+#### 3 ####
+{wait:05}...{wait:05}I should've known{wait:0F}
+it was a mistake.
+
+#### 4 ####
+{wait:05}...{wait:05}Huh?{wait:0F} Who might you
+be?{wait:05} That's awfully rude
+to come in my home. {enter}
+I guess it'd be useless 
+to tell this to a
+criminal{wait:05}...{wait:0F} Now, please
+leave.
+
+#### 5 ####
+Sigh{wait:05}...{clear:2D}
+
+#### 6 ####
+I guess it was a mistake
+to build my dream home in
+D Block even though it
+was dirt cheap{wait:05}...{clear:3C}
+
+#### 7 ####
+Aside from my son, my
+daughter's only 5{wait:05}...{wait:05}{enter}
+She won't be leaving for
+a long time.{wait:1E} Always so
+worried{wait:05}...{wait:05}
+
+#### 8 ####
+It's true that this
+house itself isn't bad{wait:05}...{wait:0F}{enter}
+But was it really
+necessary to build it in
+this prison block?
+
+#### 9 ####
+I'm finally an
+imperial soldier.{wait:0F} I was
+a burden on my parents.
+But I'll make it up to{enter}
+them by working hard.{wait:05}
+Someday, I'm gonna live
+in A Block.
+
+#### 10 ####
+And get a beautiful
+bride{wait:05}...{wait:05}and a close
+family{wait:05}...{wait:05}Hey! What're
+you making me say!?
+
+#### 11 ####
+Hrnoww,{wait:05} me eyes're
+spinnin'.{wait:1E} Everyone's
+turnin'{wait:0F}...{wait:05} Nope.
+
+#### 12 ####
+They only let me out
+when we go to church on
+the weekends...I'm bored
+cooped up in the house.{wait:05}¡­{wait:05}¡­¡£{enter}
+I wish I could go and play
+with the church folk.
+
+#### 13 ####
+Boring, boring.
+I'm soooo bored!
+

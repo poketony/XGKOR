@@ -1,0 +1,175 @@
+#### 1 ####
+Fei
+"I heard about it from
+doc.
+Id...{enter}
+...Who would've ever
+thought within me, lies
+another me..."
+
+#### 2 ####
+Fei
+"They say I'm the second
+advent of Grahf.{enter}
+The one who destroyed all
+of this world...{enter}
+It seems Grahf used to be
+a land dweller named
+Lacan..."
+
+#### 3 ####
+Fei
+"Grahf called me the one
+who would destroy god{enter}
+In a way, I can
+understand what he means
+now.{enter}
+Though my Id power isn't
+good enough, if it has
+the same quality as
+Grahf's...I..."
+
+#### 4 ####
+Fei
+"If you did that, 
+you'd be..."
+
+#### 5 ####
+Fei
+"Thanks Elly, but no.{enter}
+Even if I left the
+battle field, there's
+no guarantee that Id'll
+never appear again.{enter}
+Besides...
+I tried to kill you...
+You're still okay with
+that?"
+
+#### 6 ####
+Fei
+"Elly..."
+
+#### 7 ####
+Elly
+"But you're the same Fei
+I've always known.{enter}
+You returned to your old
+self. Please don't be
+obsessed with it."
+
+#### 8 ####
+Elly
+"They're not thinking
+about what they're
+saying!{enter}
+They're just confused by
+your powers!"
+
+#### 9 ####
+Elly
+"Let's escape.{enter}
+If Grahf, or the war
+brings out Id, let's
+go to a place where
+no wars exist."
+
+#### 10 ####
+Elly
+"That's alright...{wait:14}
+I don't have a place to
+go back, either..."
+
+#### 11 ####
+Elly
+"Then you could've killed
+me if you really wanted
+to, right?{enter}
+The other you, Id's power
+is nothing like that.{wait:14}
+But you still didn't go
+through with it.{enter}
+You knew when it was
+enough. Isn't that
+because your will was in
+effect?"
+
+#### 12 ####
+Elly
+"If you're to be controlled
+by Id and all those around
+you became your enemies...{enter}
+I'd still be by your side.
+...Because...{wait:1E}
+Because...{wait:14}I know it's
+lonely to be by yourself."
+
+#### 13 ####
+Elly
+"I'll open it now.{wait:14}
+Let's go, Fei."
+
+#### 14 ####
+This is where we keep the
+criminals in their cells.{wait:14}
+It's been said that
+soldiers from Solaris were
+locked up in here long ago.{enter}
+I've heard we've even done
+many atrocious things at
+that time.{wait:14} 
+War is like that. It
+abolishes good and bad.{enter}
+One betrays friends,
+neighbors, even his own
+flesh and blood...{wait:14}
+War turns even good, kind
+humans into crazed monsters.
+
+#### 15 ####
+This is a Carbonite Cage
+that petrifies humans
+alive.{wait:14} Regardless of
+whether it was only used
+on criminals, it is still
+heinous.{enter}
+No matter how you look at
+it, they've sure thought
+of cruel things.
+
+#### 16 ####
+By the way, you land
+dwellers know about the
+Nisan tragedy during
+the great war?{enter}
+Did you hear anything
+from the higher ups?
+    Yes
+    No
+
+#### 17 ####
+I'm surprised they told
+you. So, you know what it
+is, don't you?{enter}
+Don't believe everything
+those old men say.{wait:14}
+Nothing good will come
+of it.
+
+#### 18 ####
+I doubt they told you.
+Those old men politely
+avoid talking about it.{enter}
+Do they think the truth
+will disappear if they
+turn away from the past?{wait:14}
+Bunch of fools!
+
+#### 19 ####
+Be careful, land dweller.
+You'll have a terrible time
+if you open up your heart 
+to those old men.{enter}
+Just like they did in
+Nisan, 500 years ago...
+

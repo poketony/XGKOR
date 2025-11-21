@@ -1,0 +1,618 @@
+<TextBlock 1 w:50 h:4>
+Bart
+"… Perciò se distruggiamo
+quella cosa lì, lo Zohar,
+tutto finirà, giusto?"<Close><End of Block>
+<TextBlock 2 w:54 h:4>
+Shitan
+"Sì.<Delay 20> L'origine dei nostri
+poteri Eterei, e fonte del
+potere per i generatori…<New>
+… che fanno funzionare
+i nostri Gear…<New>
+Tutto deriva dal motore
+'Modificatore Zohar', che 
+può controllare qualsiasi
+fenomeno potenziale.<New>
+Se l'avremo distrutto,<Delay 5>
+Deus…<Delay 5> e gli angeli
+Serafini…<Delay 5> saranno tutti
+disattivati…<New>
+E allora dovremmo poter
+salvare Elly, la quale si
+è unita al sistema bellico
+di Deus come 'Miang'."<Close><End of Block>
+<TextBlock 3 w:22 h:1>
+Shitan
+"Dico bene, Fei?"<Close><End of Block>
+<TextBlock 4 w:42 h:4>
+Fei
+"Sì.<New>
+Questo è quello che
+l'Esistenza Ondulatoria
+ha detto."<Close><End of Block>
+<TextBlock 5 w:52 h:4>
+Shitan
+"Ma c'è anche un lato
+negativo…<New>
+Ciò significherà anche
+che non potremo più
+utilizzare i nostri Gear
+o i nostri poteri Eterei."<Close><End of Block>
+<TextBlock 6 w:54 h:4>
+Rico
+"Comunque, che diavolo
+sono questi angeli
+Serafini?<New>
+Hanno quello strano
+aspetto, come se gli
+mancasse qualcosa<Delay 5>…<New>
+Come se non fossero
+né esseri viventi, né
+semplici armi…"<Close><End of Block>
+<TextBlock 7 w:52 h:4>
+Shitan
+"Lo Zohar percepisce
+la coscienza umana e
+dà forma ai Serafini."<Close><End of Block>
+<TextBlock 8 w:50 h:2>
+Billy
+"La coscienza umana…?"<Close><End of Block>
+<TextBlock 9 w:54 h:4>
+Shitan
+"Lo Zohar stesso implica
+il principio del dubbio.<New>
+È la percezione che
+l'osservatore ha
+dello Zohar…<New>
+… a determinare in realtà
+l'entità nella quale esso
+si muterà.<New>
+In altre parole, credo che
+quegli angeli siano le
+incarnazioni degli
+spiriti della gente…<New>
+… La gente che è stata
+assorbita da Deus per
+divenirne parte."<Close><End of Block>
+<TextBlock 10 w:54 h:4>
+Bart
+"Ma allora che cosa
+ottengono a distruggere
+tutta la civiltà umana?"<Close><End of Block>
+<TextBlock 11 w:52 h:4>
+Maria
+"È un qualche tipo di
+odio per gli umani che
+sono sopravvissuti?"<Close><End of Block>
+<TextBlock 12 w:50 h:4>
+Shitan
+"Ovviamente no.<New>
+Quelle persone, create ed
+assimilate come parti per
+Deus, non avrebbero tali
+intenzioni.<New>
+Cerca di ricordare cosa
+Elly, quando è divenuta
+Miang, ha detto."<Close><End of Block>
+<TextBlock 13 w:48 h:4>
+Fei
+" 'Le creazioni di dio
+   un giorno saranno
+   d'ostacolo…<New>
+   Perciò esse devono
+   essere eliminate…' "<Close><End of Block>
+<TextBlock 14 w:52 h:4>
+Shitan
+"Sì.<New>
+Per questo il
+Merkabah sta venendo
+usato per dar inizio
+alla distruzione.<New>
+Ma… Deus non sta seguendo
+il suo programma di
+sterminio di tutta la
+civiltà…<New>
+I Serafini, che sono le
+armi dell'interfaccia
+terminale di Deus…<New>
+… stanno usando i loro
+corpi composti da
+nanomacchine…<New>
+… per assorbire un enorme
+numero di gente, non
+badando se quelli siano
+o meno vivi o morti.<New>
+Non vi è discriminazione
+tra mutanti e gente
+non-mutante. Ciò è
+assai peculiare…<New>
+… Il fatto che la gente,
+ch'è destinata ad essere
+distrutta, sta venendo
+anch'essa assorbita…<New>
+È assolutamente l'opposto
+di ciò che si suppone
+dovrebbe essere fatto."<Close><End of Block>
+<TextBlock 15 w:38 h:3>
+Fei
+"Forse non ci sono
+abbastanza parti?"<Close><End of Block>
+<TextBlock 16 w:54 h:4>
+Shitan
+"Ciò è alquanto
+inverosimile.<New>
+A parte quei corpi
+che erano destinati
+a divenirne parte…<New>
+… Deus, che ha già
+acquisito le capacità
+delle nanomacchine, può
+semplicemente usare…<New>
+… qualsiasi materiale per
+generare il suo corpo.
+È manifesto, ha altre
+intenzioni in mente."<Close><End of Block>
+<TextBlock 17 w:54 h:4>
+Shitan
+"Quelle intenzioni<Delay 5>…<Delay 10>
+Krelian ha chiamato Deus
+la madre.<New>
+Se dio è la madre, allora
+quei motivi derivano dalla
+Grande Madre<Delay 5>…<New>
+Impedire la crescita della
+sua prole, <Delay 10>avvolgerla<Delay 10> per
+riportare la prole dentro
+il grembo…<New>
+… per divenire un
+tutt'uno con essa.<New>
+Questo è il suo movente.
+Tuttavia, un tale
+programma non esiste
+nei suoi obiettivi.<New>
+Questa singolare volontà
+è stata probabilmente data
+da qualcuno.<New>
+O da Elly, unitasi con 
+Deus, o da<Delay 10>…"<Close><End of Block>
+<TextBlock 18 w:54 h:4>
+Fei
+"In qualunque caso, non
+cambia il fatto che
+dobbiamo combattere.<New>
+Non c'importa quali siano
+le loro intenzioni. Il
+problema è come dovremmo
+occuparci di loro.<New>
+Pensate che possiamo
+farcela messi come siamo
+adesso?"<Close><End of Block>
+<TextBlock 19 w:52 h:4>
+Zefiro
+"Anche questa nave
+da guerra segreta,
+l'Excalibur…<New>
+… prenderà parte alla
+battaglia finale.<New>
+Inoltre, qui si riunirà
+tutto il potenziale
+militare di tutte le
+forze della superficie."<Close><End of Block>
+<TextBlock 20 w:54 h:3>
+Bart
+"Anche se riusciamo a
+riunire una grandissima
+forza militare…<New>
+… abbiamo comunque il
+problema dell'armamento
+principale del Merkabah.<New>
+Dobbiamo sapere come
+distruggerlo. Finché
+non possiamo farlo…"<Close><End of Block>
+<TextBlock 21 w:54 h:4>
+Shitan
+"Il cannone ad ampissima
+gittata del Merkabah ha
+la capacità di…<New>
+… vaporizzare qualsiasi
+sostanza.<New>
+In aggiunta, hanno una
+barriera attorno al loro
+perimetro che nullifica
+ogni attacco."<Close><End of Block>
+<TextBlock 22 w:54 h:4>
+Zefiro
+"Abbiamo combattuto contro
+il Merkabah molte volte
+per tentare di…<New>
+… fermare il suo assalto.<New>
+Nondimeno, non riusciamo
+neanche ad avvicinarci.<Delay 15>
+Dunque, abbiamo dovuto
+sempre ritirarci."<Close><End of Block>
+<TextBlock 23 w:42 h:4>
+Fei
+"Merda!
+Non importa quanto
+vogliamo salvare Elly…<New>
+… se non possiamo
+entrare dentro il
+Merkabah, è tutto
+inutile…"<Close><End of Block>
+<TextBlock 24 w:54 h:4>
+Sigurd
+"In aggiunta, c'è il
+problema di quei Serafini.<New>
+… Essi fungono da armi
+dell'interfaccia terminale
+per la difesa ravvicinata.<New>
+Posso facilmente dire che
+la loro potenza di attacco
+sia equivalente a quella
+degli Omnigear."<Close><End of Block>
+<TextBlock 25 w:48 h:4>
+Bart
+"Hanno anche la capacità
+di rigenerarsi, grazie
+alle nanomacchine."<Close><End of Block>
+<TextBlock 26 w:38 h:3>
+Taura
+"Non preoccuparti
+di quello."<Close><End of Block>
+<TextBlock 27 w:54 h:4>
+Taura
+"Ho potuto ottenere
+alcuni dati da
+<Xenogears>…<New>
+Vedi, <Xenogears> si è
+mutagenicamente evoluto
+a causa del suo contatto
+con lo Zohar.<New>
+Utilizzando quei dati,
+tutti i vostri nuovi
+Gear dovrebbero essere
+completati a breve.<New>
+In aggiunta, si stanno
+modificando tutte le altre
+armi e gli armamenti…<New>
+… per implementare il
+'Congegno di
+Disassemblamento'."<Close><End of Block>
+<TextBlock 28 w:44 h:2>
+Billy
+"Congegno di
+disassemblamento?"<Close><End of Block>
+<TextBlock 29 w:54 h:4>
+Taura
+"Contrariamente ai
+Nanoassemblatori, che
+creano della materia…<New>
+… con la quale rigenerare,
+i Disassemblatori
+hanno la capacità
+di smantellarla…<New>
+… o di distruggerla.<New>
+Essi possono addirittura
+disattivare la capacità
+di autorigenerazione
+delle nanomacchine…<New>
+… disinnestando
+i programmi di
+riparazione.<New>
+Questo dovrebbe essere
+sufficientemente valido
+anche contro i Serafini
+di Deus."<Close><End of Block>
+<TextBlock 30 w:48 h:4>
+Fei
+"Bene, anche se possiamo
+vedercela con gli angeli…<New>
+… cosa dobbiamo fare
+con il Merkabah?<New>
+Non possiamo nemmeno
+avvicinarci a quella
+cosa…"<Close><End of Block>
+<TextBlock 31 w:46 h:4>
+Shitan
+"Non esiste una
+difesa perfetta.
+Un modo c'è."<Close><End of Block>
+<TextBlock 32 w:34 h:2>
+Shitan
+"Osservate."<Close><End of Block>
+<TextBlock 33 w:56 h:7>
+Il cannone principale del
+Merkabah richiede un
+intervallo di 1,2 secondi
+per ricaricarsi, a causa
+della sua immensa energia.<New>
+Subito dopo aver fatto fuoco,
+anche se solo in una sezione,
+ci sarà una parte della
+barriera che sarà aperta.<New>
+Vi è un ritardo di 1,87
+secondi prima che la barriera
+si riformi in quell'area.<New>
+Se saremo riusciti ad
+utilizzare questa frazione
+di tempo per mirare e
+distruggere quel cannone,
+ci sarà possibile avanzare
+verso di esso.<New>
+Se riusciamo ad avvicinarci
+sufficientemente, possiamo
+crearci un passaggio con
+una correzione spazio-
+gravitazionale.<Close><End of Block>
+<TextBlock 34 w:36 h:3>
+Shitan
+"Ecco, più o meno
+l'idea è questa."<Close><End of Block>
+<TextBlock 35 w:46 h:4>
+Sigurd
+"Sfortunatamente, non
+possediamo un cannone
+a così lunga gittata…<New>
+… che possa mirare
+un obiettivo in un
+attimo di tempo di
+così breve durata."<Close><End of Block>
+<TextBlock 36 w:54 h:4>
+Bart
+"Perciò stai dicendo che
+ci serve solo far stare
+zitto…<New>
+… quel cazzo di
+cannone, no?"<Close><End of Block>
+<TextBlock 37 w:30 h:4>
+Fei
+"… Vuoi attaccare
+frontalmente il
+Merkabah!?"<Close><End of Block>
+<TextBlock 38 w:52 h:3>
+Billy
+"Ti stai di nuovo
+comportando da
+sconsiderato<Delay 10>…<New>
+È un suicidio."<Close><End of Block>
+<TextBlock 39 w:52 h:4>
+Bart
+"No, ascoltatemi.<New>
+Non è che andremo e 
+ci lanceremo all'attacco.<New>
+Anche l'Yggdrasil IV e
+questa Excalibur sono
+equipaggiate con barriere.
+E noi le useremo.<New>
+Anche se per breve tempo,
+possiamo sostenere un
+colpo diretto dal cannone
+principale del Merkabah.<New>
+Allora potremo avvicinarci
+per cercare quella parte
+della barriera…<New>
+… per poi scendere e
+distruggere il cannone."<Close><End of Block>
+<TextBlock 40 w:36 h:3>
+Fei
+"Quanto durerà la
+nostra barriera?"<Close><End of Block>
+<TextBlock 41 w:50 h:2>
+Bart
+"Più o meno
+venti secondi."<Close><End of Block>
+<TextBlock 42 w:54 h:4>
+Fei
+"Tutto qui? Non importerà
+quando veloce voleremo.<New>
+In quello spazio di tempo,
+rimarremo senza barriera
+prima di arrivare alla
+distanza per far fuoco.<New>
+E quei numeri sono validi
+solo se il generatore è a
+piena potenza, giusto?<New>
+Si può arrivare a quei
+numeri solo se rinunciamo
+a tutte le altre energie
+e alla propulsione."<Close><End of Block>
+<TextBlock 43 w:50 h:4>
+Bart
+"Non sto suggerendo di
+attaccarlo con le armi
+a fuoco spianato…<New>
+… sapendo che perderemo.<Delay 20>
+Lo spaccheremo in due
+fisicamente, con un
+attacco diretto!!"<Close><End of Block>
+<TextBlock 44 w:6 h:1>
+?<Close><End of Block>
+<TextBlock 45 w:54 h:4>
+Bart
+"Come hai detto tu…<New>
+La barriera dell'Yggdrasil
+IV o dell'Excalibur non
+può difenderci abbastanza…<New>
+… contro l'attacco del
+Merkabah.<New>
+Almeno finché usiamo
+un solo generatore…"<Close><End of Block>
+<TextBlock 46 w:26 h:2>
+Billy
+"Vuol dire…?"<Close><End of Block>
+<TextBlock 47 w:54 h:4>
+Bart
+"Vuol dire che possiamo
+difenderci dal Merkabah
+il doppio del tempo…<New>
+… 40 secondi, se facciamo
+lavorare assieme i due
+generatori.<New>
+In questo modo, potremo
+farci strada verso il
+cuore del Merkabah."<Close><End of Block>
+<TextBlock 48 w:42 h:3>
+Maison
+"Allora, riguardo
+alla propulsione…?"<Close><End of Block>
+<TextBlock 49 w:38 h:2>
+Bart
+"Ascoltatemi bene."<Close><End of Block>
+<TextBlock 50 w:62 h:5>
+"Questo è quello che faremo…<New>
+Prima trasformiamo il mio
+Yggdrasil nella modalità 
+di assalto pesante e lo
+carichiamo sopra l'Excalibur,
+così possiamo unire i
+generatori."<Close><End of Block>
+<TextBlock 51 w:52 h:5>
+Facendo così, possiamo
+ridurre l'uso dell'energia
+per supportare solo lo
+scafo della nave e generare
+la barriera.<New>
+Questo permetterà che la
+maggior parte dell'energia
+sia usata per generare la
+barriera.<New>
+Poi, sposteremo la barriera
+sulla parte anteriore, e la
+focalizzeremo su un singolo
+punto, cioè dove il cannone
+principale farà fuoco.<Close><End of Block>
+<TextBlock 52 w:54 h:5>
+Riguardo a come muoverci…<New>
+Per prima cosa, sviluppiamo
+una barriera impiegando il
+generatore dell'Excalibur
+a pieno regime.<New>
+Per la propulsione in quel
+momento, installeremo
+sull'Yggdrasil quei grandi
+e solidi razzi che abbiamo
+preso dalle rovine del
+Propulsore.<Close><End of Block>
+<TextBlock 53 w:48 h:4>
+Quando la barriera
+dell'Excalibur finirà,
+useremo il generatore
+dell'Yggdrasil IV per
+svilupparne una nuova.<New>
+Poi lanceremo anche i
+razzi e sposteremo
+l'Excalibur in modalità
+di volo convenzionale.<Close><End of Block>
+<TextBlock 54 w:50 h:4>
+Usando questo metodo,
+possiamo arrivare
+proprio di fronte al
+Merkabah.<New>
+Dopo che sparerà, sarà
+senza difese.<New>
+Durante quest'attimo,
+bloccheremo la bocca
+del cannone del Merkabah
+con lo sperone situato
+sulla prua dell'Excalibur.<New>
+Per fare ciò, dovremmo
+avere 0,67 secondi…<Close><End of Block>
+<TextBlock 55 w:56 h:6>
+Con il fuoco del cannone
+dell'Excalibur, distruggeremo
+il generatore secondario
+dell'Yggdrasil IV e 
+inabiliteremo il Merkabah
+in quell'attimo, e allora…
+faremo breccia!<Close><End of Block>
+<TextBlock 56 w:50 h:4>
+Bart
+"… Questo è il mio piano.<New>
+La combinazione delle
+barriere di entrambe
+le navi…
+Assalire il Merkabah…<New>
+Il tempismo del colpo del
+cannone dell'Excalibur…
+Queste saranno le cose
+fondamentali.<New>
+Fate casino con una di
+queste, e le conseguenze
+saranno gravissime.<New>
+Dunque, sarà necessario
+avere entrambi i due
+equipaggi in perfetta
+sincronia tra loro.<New>
+Per questo vorrei
+porre Sig in comando
+dell'Excalibur."<Close><End of Block>
+<TextBlock 57 w:34 h:3>
+Sigurd
+"Non ho nulla
+in contrario…"<Close><End of Block>
+<TextBlock 58 w:52 h:4>
+Bart
+"Cosa gliene
+pare, Regina?<New>
+Ci darà in prestito la
+sua nave da guerra?"<Close><End of Block>
+<TextBlock 59 w:48 h:4>
+Zefiro
+"Dacché sembra non ci
+sia altra alternativa,
+procediamo pure.<New>
+Vi prego di usarla
+come vi sembra più
+opportuno."<Close><End of Block>
+<TextBlock 60 w:52 h:4>
+Shitan
+"Ma non la stiamo facendo
+troppo facile…?<New>
+… Quando avrete calcolato
+il tempo di arrivo e il
+tempo della creazione
+della barriera…<New>
+… capirete cosa intendo!<Delay 15>
+Un solo errore ci metterà
+in una situazione dove…<New>
+… potremmo esaurire la
+barriera prima del nostro
+arrivo."<Close><End of Block>
+<TextBlock 61 w:52 h:4>
+Sigurd
+"Inoltre, utilizzeremo
+ambedue i generatori per
+mantenere le barriere…<New>
+Non ci lascerà senza
+difesa su tutto il
+perimetro?<New>
+Non avremo nessuna
+possibilità, se saremo
+attaccati dagli angeli
+Serafini…<New>
+… durante il tragitto
+verso il Merkabah."<Close><End of Block>
+<TextBlock 62 w:50 h:3>
+Fei
+"Li terremo noi a
+distanza. Potete
+contare su di noi!<New>
+Voi dovete solo
+concentrarvi sulla
+distruzione del
+cannone principale."<Close><End of Block>
+<TextBlock 63 w:48 h:3>
+Bart
+"Grazie.<Delay 10>
+Contiamo su di voi."<Close><End of Block>
+<TextBlock 64 w:48 h:4>
+Fei
+"Ormai, tutto il resto
+è già stato distrutto.<New>
+Questo è l'unico luogo
+rimasto. Questa sarà
+la vera ed unica 
+'battaglia finale'."<Close><End of Block>
+<TextBlock 65 w:3 h:1>
+ <Close><Close><End of Block>

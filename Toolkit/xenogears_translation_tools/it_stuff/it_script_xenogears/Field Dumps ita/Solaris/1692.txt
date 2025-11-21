@@ -1,0 +1,31 @@
+<TextBlock 1 w:30 h:2>
+Fei
+"Dove siamo?"<Close><End of Block>
+<TextBlock 2 w:44 h:4>
+Elly
+"Questo è il livello dei
+cittadini di I Classe.<New>
+Qui vivono i Solariani
+chiamati Gazel.
+Seguimi."<Close><End of Block>
+<TextBlock 3 w:48 h:3>
+Fei
+"A… aspetta.<New>
+Le guardie robot
+potrebbero catturarti
+se entri lì dentro…"<Close><End of Block>
+<TextBlock 4 w:36 h:3>
+Elly
+"Non preoccuparti.<Delay 10>
+Questa è casa mia."<Close><End of Block>
+<TextBlock 5 w:32 h:4>
+Fei
+"C… casa tua?<Delay 10>
+Questa casa
+enorme è tua?"<Close><End of Block>
+<TextBlock 6 w:24 h:3>
+Elly
+"Già!<Delay 10>
+Dai, entra."<Close><End of Block>
+<TextBlock 7 w:0 h:1>
+<Close><End of Block>

@@ -1,0 +1,13 @@
+<TextBlock 1 w:42 h:5>
+Il Sistema Soylent…
+ <Delay 30>
+Un gruppo di impianti
+creati in passato da
+Solaris.<Close><End of Block>
+<TextBlock 2 w:60 h:5>
+Questi impianti esistono
+su tutta la terra.
+Si dice che, in origine,
+fossero usati per esperimenti
+biologici e per il lavaggio
+del cervello.<Close><Close><End of Block>

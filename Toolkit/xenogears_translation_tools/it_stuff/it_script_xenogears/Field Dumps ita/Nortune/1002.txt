@@ -1,0 +1,322 @@
+<TextBlock 1 w:50 h:3>
+Guardia Imperiale
+"Davanti si trova
+l'entrata del Blocco
+Imperiale A.<New>
+Tuttavia, a causa dei
+lavori in corso, essa
+è bloccata."<Close><End of Block>
+<TextBlock 2 w:38 h:4>
+Guardia Imperiale
+"Mi spiace. Usate
+una delle altre
+tre entrate."<Close><End of Block>
+<TextBlock 3 w:54 h:4>
+Guardia Imperiale
+"A causa dell'attacco di
+Aveh, l'intera zona della
+Capitale Imperiale è sotto
+legge marziale.<New>
+Attualmente, l'entrata
+frontale è l'unica che
+accetta i civili.<New>
+Usate quella, grazie."<Close><End of Block>
+<TextBlock 4 w:58 h:6>
+Guardia Imperiale
+"Al momento,<Delay 5> a causa
+dell'assalto, si stanno
+trasferendo i prigionieri
+del Blocco D fatti evacuare.<New>
+Ai civili non è permesso
+entrare."<Close><End of Block>
+<TextBlock 5 w:48 h:4>
+Guardia Imperiale
+"A causa dell'attacco di
+Aveh, l'intera zona della
+Capitale Imperiale è sotto
+legge marziale.<New>
+Attualmente, l'entrata
+frontale è l'unica che
+accetta i civili.<New>
+Usate quella, grazie."<Close><End of Block>
+<TextBlock 6 w:50 h:4>
+Big Joe
+"Ehi,<Delay 5> cosa c'è?<Delay 45> Eh? Io?<Delay 15>
+Io sono sempre il solito,
+fichissimo e simpatico!!"<Close><End of Block>
+<TextBlock 7 w:42 h:4>
+Big Joe
+"Il vento, le nuvole,
+il mondo… mi stanno
+tutti chiamando.<New>
+C'incontreremo ancora…
+Adieu."<Close><End of Block>
+<TextBlock 8 w:18 h:1>
+<Opcode 1 255>Mappa del Mondo<Close><End of Block>
+<TextBlock 9 w:18 h:1>
+<Opcode 1 255>Mappa del Mondo<Close><End of Block>
+<TextBlock 10 w:34 h:2>
+<Opcode 1 255>    Centro di Detenzione
+Capitale Imperiale Blocco D<Close><End of Block>
+<TextBlock 11 w:54 h:2>
+<Opcode 1 255>Capitale Imperiale Blocco C
+       Svago e Arena<Close><End of Block>
+<TextBlock 12 w:42 h:2>
+<Opcode 1 255>Amministrazione di Kislev
+   Distretto Centrale<Close><End of Block>
+<TextBlock 13 w:54 h:1>
+<Opcode 1 255>   Entrata nord
+Blocco Imperiale A<Close><End of Block>
+<TextBlock 14 w:54 h:1>
+<Opcode 1 255> Entrata frontale
+Blocco Imperiale A<Close><End of Block>
+<TextBlock 15 w:52 h:1>
+<Opcode 1 255>   Entrata ovest
+Blocco Imperiale A<Close><End of Block>
+<TextBlock 16 w:52 h:1>
+<Opcode 1 255>    Entrata est
+Blocco Imperiale A<Close><End of Block>
+<TextBlock 17 w:56 h:10>
+Blucristallo
+"Macchi<Delay 5>…<Delay 5> na Impe<Delay 5>…<Delay 5> riale<Delay 5>…<Delay 30>"<Space 2>
+<Opcode 1 255>    = Gelatina Hob  75G
+    = Zanna        150G
+    = Bulbo        200G
+    = Scaglie      1500G
+    = Carne Hob    225G
+    = Bistecca Hob 530G
+    = Avorio       2000G
+    Lascia stare<Close><End of Block>
+<TextBlock 18 w:48 h:3>
+Blucristallo
+"<Delay 5>…<Delay 30> È<Delay 5>…<Delay 5> l'ultimo<Delay 5>…<Delay 5> paese<Delay 5>…<Delay 5><Space 3>
+del<Delay 5> sud<Delay 5>…"<Close><End of Block>
+<TextBlock 19 w:42 h:4>
+Blucristallo
+"Codice<Delay 5> com…<Delay 5> pletato…<Delay 30><Space 1>
+DEPOSITO MAX: 30 uni<Delay 5>… tà<Delay 5>
+pro… gramma<Delay 15> avviato."<Close><End of Block>
+<TextBlock 20 w:56 h:4>
+Blucristallo
+"L'<Delay 5>importo<Delay 5>…<Delay 5> pagato…<Delay 45><Space 2>
+è di: <Opcode 10 0>G <Delay 30>…<Delay 5> bzzzz<Delay 5>
+…<Delay 5> krkkkrrk<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 21 w:54 h:3>
+Blucristallo
+"S<Delay 5>…<Delay 5> cambio moneta<Delay 5>… corrente<Delay 5>
+<Delay 5>fal…<Delay 5> lito.<Delay 5> Co…<Delay 5> dice,<Delay 5> errore<Delay 5>…"<Space 2><Close><End of Block>
+<TextBlock 22 w:42 h:4>
+Blucristallo
+"Codice<Delay 5> com…<Delay 5> pletato…<Delay 30><Space 1>
+DEPOSITO MAX: 30 uni<Delay 5>… tà<Delay 5>
+pro… gramma<Delay 15> avviato."<Close><End of Block>
+<TextBlock 23 w:56 h:4>
+Blucristallo
+"L'<Delay 5>importo<Delay 5>…<Delay 5> pagato…<Delay 45><Space 2>
+è di: <Opcode 10 0>G <Delay 30>…<Delay 5> bzzzz<Delay 5>
+…<Delay 5> krkkkrrk<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 24 w:54 h:3>
+Blucristallo
+"S<Delay 5>…<Delay 5> cambio moneta<Delay 5>… corrente<Delay 5>
+<Delay 5>fal…<Delay 5> lito.<Delay 5> Co…<Delay 5> dice,<Delay 5> errore<Delay 5>…"<Space 2><Close><End of Block>
+<TextBlock 25 w:42 h:4>
+Blucristallo
+"Codice<Delay 5> com…<Delay 5> pletato…<Delay 30><Space 1>
+DEPOSITO MAX: 30 uni<Delay 5>… tà<Delay 5>
+pro… gramma<Delay 15> avviato."<Close><End of Block>
+<TextBlock 26 w:54 h:4>
+Blucristallo
+"L'<Delay 5>importo<Delay 5>…<Delay 5> pagato…<Delay 45><Space 2>
+è di: <Opcode 10 0>G <Delay 30>…<Delay 5> bzzzz<Delay 5>
+…<Delay 5> krkkkrrk<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 27 w:54 h:3>
+Blucristallo
+"S<Delay 5>…<Delay 5> cambio moneta<Delay 5>… corrente<Delay 5>
+<Delay 5>fal…<Delay 5> lito.<Delay 5> Co…<Delay 5> dice,<Delay 5> errore<Delay 5>…"<Space 2><Close><End of Block>
+<TextBlock 28 w:42 h:4>
+Blucristallo
+"Codice<Delay 5> com…<Delay 5> pletato…<Delay 30><Space 1>
+DEPOSITO MAX: 30 uni<Delay 5>… tà<Delay 5>
+pro… gramma<Delay 15> avviato."<Close><End of Block>
+<TextBlock 29 w:56 h:4>
+Blucristallo
+"L'<Delay 5>importo<Delay 5>…<Delay 5> pagato…<Delay 45><Space 2>
+è di: <Opcode 10 0>G <Delay 30>…<Delay 5> bzzzz<Delay 5>
+…<Delay 5> krkkkrrk<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 30 w:54 h:3>
+Blucristallo
+"S<Delay 5>…<Delay 5> cambio moneta<Delay 5>… corrente<Delay 5>
+<Delay 5>fal…<Delay 5> lito.<Delay 5> Co…<Delay 5> dice,<Delay 5> errore<Delay 5>…"<Space 2><Close><End of Block>
+<TextBlock 31 w:42 h:4>
+Blucristallo
+"Codice<Delay 5> com…<Delay 5> pletato…<Delay 30><Space 1>
+DEPOSITO MAX: 30 uni<Delay 5>… tà<Delay 5>
+pro… gramma<Delay 15> avviato."<Close><End of Block>
+<TextBlock 32 w:56 h:4>
+Blucristallo
+"L'<Delay 5>importo<Delay 5>…<Delay 5> pagato…<Delay 45><Space 2>
+è di: <Opcode 10 0>G <Delay 30>…<Delay 5> bzzzz<Delay 5>
+…<Delay 5> krkkkrrk<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 33 w:54 h:3>
+Blucristallo
+"S<Delay 5>…<Delay 5> cambio moneta<Delay 5>… corrente<Delay 5>
+<Delay 5>fal…<Delay 5> lito.<Delay 5> Co…<Delay 5> dice,<Delay 5> errore<Delay 5>…"<Space 2><Close><End of Block>
+<TextBlock 34 w:42 h:4>
+Blucristallo
+"Codice<Delay 5> com…<Delay 5> pletato…<Delay 30><Space 1>
+DEPOSITO MAX: 30 uni<Delay 5>… tà<Delay 5>
+pro… gramma<Delay 15> avviato."<Close><End of Block>
+<TextBlock 35 w:56 h:4>
+Blucristallo
+"L'<Delay 5>importo<Delay 5>…<Delay 5> pagato…<Delay 45><Space 2>
+è di: <Opcode 10 0>G <Delay 30>…<Delay 5> bzzzz<Delay 5>
+…<Delay 5> krkkkrrk<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 36 w:54 h:3>
+Blucristallo
+"S<Delay 5>…<Delay 5> cambio moneta<Delay 5>… corrente<Delay 5>
+<Delay 5>fal…<Delay 5> lito.<Delay 5> Co…<Delay 5> dice,<Delay 5> errore<Delay 5>…"<Space 2><Close><End of Block>
+<TextBlock 37 w:42 h:4>
+Blucristallo
+"Codice<Delay 5> com…<Delay 5> pletato…<Delay 30><Space 1>
+DEPOSITO MAX: 30 uni<Delay 5>… tà<Delay 5>
+pro… gramma<Delay 15> avviato."<Close><End of Block>
+<TextBlock 38 w:56 h:4>
+Blucristallo
+"L'<Delay 5>importo<Delay 5>…<Delay 5> pagato…<Delay 45><Space 2>
+è di: <Opcode 10 0>G <Delay 30>…<Delay 5> bzzzz<Delay 5>
+…<Delay 5> krkkkrrk<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 39 w:54 h:3>
+Blucristallo
+"S<Delay 5>…<Delay 5> cambio moneta<Delay 5>… corrente<Delay 5>
+<Delay 5>fal…<Delay 5> lito.<Delay 5> Co…<Delay 5> dice,<Delay 5> errore<Delay 5>…"<Space 2><Close><End of Block>
+<TextBlock 40 w:62 h:7>
+Il 'Distretto d'Amministrazione
+Centrale' di Nortune, capitale
+di Kislev, era in realtà una
+nave da guerra segreta costruita
+dall'avo di Bart, Roni Fatima,
+dopo la Grande Guerra con
+Solaris svoltasi molte centinaia
+di anni fa.<Close><End of Block>
+<TextBlock 41 w:56 h:6>
+L'esistenza di questa nave
+da guerra segreta era
+rimasta nascosta. In seguito
+essa, durante la fondazione
+dell'Impero, fu trasformata
+in una sezione della Capitale
+Imperiale di Kislev.<Close><End of Block>
+<TextBlock 42 w:64 h:5>
+Dopo aver scoperto il fatto in
+alcuni antichi documenti, Bart
+attivò la nave da guerra segreta
+per poter combattere contro
+Solaris, contro l'Arma Mobile di
+Supremazia sulla Superficie.<Close><End of Block>
+<TextBlock 43 w:60 h:13>
+L'Yggdrasil, l'Incrociatore del
+Deserto, era in realtà il centro
+di comando ed anche l'arma segreta
+principale della nave da guerra<Delay 5>…<Delay 5>
+ 
+Risvegliandosi da 500 anni
+d'inattività, la sua vera
+forma apparve di fronte a noi.
+ 
+Controllata dal suo 'nuovo
+padrone', essa si erse davanti
+all'Arma Mobile, e tutti noi
+eravamo dentro di essa.<Close><End of Block>
+<TextBlock 44 w:40 h:3>
+Big Joe
+"Ehi, fratello!<Delay 30><New>
+Vuoi ascoltare le mie
+informazioni super
+muchachos?"<Close><End of Block>
+<TextBlock 45 w:42 h:3>
+Fei
+"… Informazioni
+super muchachos?<New>
+Cos'è c'è di tanto
+interessante nelle
+nachos?"<Close><End of Block>
+<TextBlock 46 w:54 h:4>
+Big Joe
+"<Delay 5>…<Delay 5> Da quanto vedo,
+siete tutti in gruppo,
+giusto? In questo caso…<New>
+… devi cambiare i membri 
+del gruppo! Se vai al pub
+'Il Gattopardo', ci sarà
+una nuova cameriera.<New>
+Se mai volessi cambiare i
+membri del gruppo, basta
+che ti ricordi di fermarti
+un attimo lì."<Close><End of Block>
+<TextBlock 47 w:50 h:3>
+Big Joe
+"Ehi, fratello!<Delay 15><New>
+Vuoi ascoltare le mie
+informazioni super
+muchachos?"<Close><End of Block>
+<TextBlock 48 w:48 h:4>
+Fei
+"Ehi!? Tu sei quello che
+mi ha fottuto 5000G!
+Ridammeli subito!"<Close><End of Block>
+<TextBlock 49 w:52 h:4>
+Big Joe
+"<Delay 5>…<Delay 5> Ehi ehi.<Delay 30>
+Quella era solo una
+sciocchezza.<New>
+Essere pignoli avrà solo
+un effetto: trasformarti
+in un adulto noioso.<Delay 15>
+Devi essere…<New>
+Come si potrebbe dire…<Delay 30>
+più aperto e profondo
+come il mare.<New>
+Beh, mettendo quel fatto
+da parte,<Delay 5> devi ascoltare
+le mie informazioni
+super muchachos!"<Close><End of Block>
+<TextBlock 50 w:42 h:4>
+Fei
+"<Delay 5>…<Delay 5> Sei strano…<Delay 5>
+ma divertente<Delay 45>…<New>
+Però continua così e
+mi farai incazzare."<Close><End of Block>
+<TextBlock 51 w:54 h:4>
+Big Joe
+"<Delay 5>…<Delay 5> Da quanto vedo,
+siete tutti in gruppo,
+giusto? In questo caso…<New>
+… devi cambiare i membri 
+del gruppo! Se vai al pub
+'Il Gattopardo', ci sarà
+una nuova cameriera.<New>
+Se mai volessi cambiare i
+membri del gruppo, basta
+che ti ricordi di fermarti
+un attimo lì."<Close><End of Block>
+<TextBlock 52 w:50 h:4>
+Big Joe
+"Oh, un'altra cosa<Delay 5>…<Delay 30>
+Per aver fatto quello che
+ho fatto…<New>
+… c'era una ragione tanto
+profonda quanto il più
+profondo oceano.<New>
+Adesso, per rimediare un
+po' a quello che ho fatto,
+torna ancora in quella
+stradina, e cerca bene<Delay 5>…<Delay 15><New>
+Potresti trovare qualcosa
+di molto buono,<Delay 5> davvero!"<Close><End of Block>
+<TextBlock 53 w:38 h:3>
+Fei
+"Questo cane<Delay 5>…<Delay 5> Era il suo
+<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 54 w:32 h:1>
+Gli hai dato il
+'Cibo per Cani'!<Close><Close><End of Block>

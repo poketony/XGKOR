@@ -1,0 +1,49 @@
+<TextBlock 1 w:54 h:4>
+Fei
+"Un idolo Chu-Chu…<Delay 20>
+Ma è la raffigurazione del
+dio guardiano di <Chu-Chu>?<New>
+Forse questa è la cosa
+che <Chu-Chu> guida quando
+cresce per poter
+combattere…?"<Close><End of Block>
+<TextBlock 2 w:8 h:4>
+Fei
+"…<Delay 30>…<Delay 20>…"<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+Fei
+"Devo smetterla di
+immaginarmi le cose…<Delay 20>!<New>
+Non fa certo bene!!"<Close><End of Block>
+<TextBlock 4 w:48 h:1>
+Ricevi 'Crisi Potere'!<Close><End of Block>
+<TextBlock 5 w:50 h:13>
+<Opcode 1 2>Ricevi 'Panalfasol'!
+Ricevi 'Bistecca-Hob'!
+Ricevi 'Fisimentsol'!
+Ricevi 'Cuor di Leone'!
+Ricevi 'Fascia Yamato'!
+Ricevi 'Barriera'!
+Ricevi 'Stella Lampo'!
+Ricevi 'ETERE Plus'!
+Ricevi 'VIT Plus'!
+Ricevi 'FRZ Plus'!
+Ricevi 'DIF-ET Plus'!
+Ricevi 'HP Plus'!
+Ricevi 'EP Plus'!<Close><End of Block>
+<TextBlock 6 w:38 h:2>
+Ricevi per caso
+l'Idolo Chu-Chu!!<Close><End of Block>
+<TextBlock 7 w:54 h:3>
+Non m'importa come tutto è
+iniziato, né come tutto finirà.<New>
+Mi basta vivere con <Chu-Chu>, e
+morire con <Chu-Chu>!<New>
+Al diavolo gli umani! Sono
+bugiardi, avidi ed egoisti…!<New>
+Me ne andrò.<Delay 20>
+Ne ho avute abbastanza…!<Close><End of Block>
+<TextBlock 8 w:42 h:3>
+Vuoi salire?<Delay 10>
+    Sì
+    No<Close><Close><End of Block>

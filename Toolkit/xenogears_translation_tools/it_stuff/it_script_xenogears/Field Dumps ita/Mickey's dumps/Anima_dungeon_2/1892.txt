@@ -1,0 +1,45 @@
+<TextBlock 1 w:12 h:2>
+Fei
+"Mmh?"<Close><End of Block>
+<TextBlock 2 w:40 h:4>
+Fei
+"Sembra che ci siano
+delle frasi scolpite
+sul muro…"<Close><End of Block>
+<TextBlock 3 w:36 h:3>
+Trova le tre pietre
+nascoste e mettile
+nei buchi.<Close><End of Block>
+<TextBlock 4 w:52 h:1>
+"La verità è là dietro!"<Close><End of Block>
+<TextBlock 5 w:36 h:3>
+Trova le tre pietre
+nascoste e mettile
+nei buchi.<Close><End of Block>
+<TextBlock 6 w:50 h:1>
+"Punta il tuo sguardo
+più in alto!"<Close><End of Block>
+<TextBlock 7 w:36 h:3>
+Trova le tre pietre
+nascoste e mettile
+nei buchi.<Close><End of Block>
+<TextBlock 8 w:50 h:1>
+"Anche ciò che
+non vedi è vero!"<Close><End of Block>
+<TextBlock 9 w:40 h:2>
+Scritta sul muro.<New>
+"4 passi verso sud,
+10 passi verso ovest."<Close><End of Block>
+<TextBlock 10 w:40 h:2>
+Scritta sul muro.<New>
+"Più in alto del
+pilastro centrale…"<Close><End of Block>
+<TextBlock 11 w:40 h:2>
+Scritta sul muro.<New>
+"Controlla la base
+dei pilastri di pietra."<Close><End of Block>
+<TextBlock 12 w:44 h:2>
+Scritta sul muro.<New>
+"La pietra centrale
+sarà il tuo punto di
+appoggio."<Close><Close><End of Block>

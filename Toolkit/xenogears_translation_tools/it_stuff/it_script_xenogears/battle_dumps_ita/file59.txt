@@ -1,0 +1,32 @@
+<TextBlock 1 w:30 h:3>
+Margie
+"Lascia fare il
+resto a me!"<Close><End of Block>
+<TextBlock 2 w:18 h:2>
+Bart
+"Margie?"<Close><End of Block>
+<TextBlock 3 w:48 h:4>
+Ramsus
+"(Il suo aspetto… è 
+del tutto differente…
+e non c'è reazione…)"<New>
+"(È solo la mia
+immaginazione? Ma
+quella tecnica era
+senza dubbio la sua…)"<New>
+"(Per di più… quel
+nome, Fei… dove
+l'ho già…)"<Close><End of Block>
+<TextBlock 4 w:52 h:2>
+Fei… È il nome
+del mio bambino…<Close><End of Block>
+<TextBlock 5 w:12 h:2>
+Ramsus
+"!!"<Opcode 2 30><Close><End of Block>
+<TextBlock 6 w:12 h:2>
+Ramsus
+"Ah!"<Close><End of Block>
+<TextBlock 7 w:14 h:2>
+Ramsus
+"Cosa…?
+Ratti?"<Opcode 2 60><Close>=<Close><Close><Close><Close><Close><End of Block>

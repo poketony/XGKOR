@@ -1,0 +1,33 @@
+<TextBlock 1 w:28 h:1>
+Sono molto occupata.<Opcode 2 60><Close><End of Block>
+<TextBlock 2 w:42 h:3>
+Una guerra? Qui
+c'è sempre la
+guerra.<Close><End of Block>
+<TextBlock 3 w:34 h:2>
+Siamo a corto di
+personale.<Close><End of Block>
+<TextBlock 4 w:40 h:2>
+Ehi! Tieni le zampe
+lontano da quel cibo.<Close><End of Block>
+<TextBlock 5 w:50 h:3>
+Ehi, sai qualcosa
+sulla battaglia…
+che c'è stata
+a Lahan?<New>
+Nessuno mi dice mai
+nulla…<Close><End of Block>
+<TextBlock 6 w:38 h:2>
+… Lui tornerà,
+ne sono sicura…<Close><End of Block>
+<TextBlock 7 w:46 h:1>
+Mio padre è andato
+in guerra…<New>
+Voglio che ritorni.<Close><End of Block>
+<TextBlock 8 w:20 h:1>
+Ho fame!<Close><End of Block>
+<TextBlock 9 w:14 h:1>
+Argh…<Close><End of Block>
+<TextBlock 10 w:44 h:2>
+Non c'è niente
+di utile…<Close><Close><End of Block>

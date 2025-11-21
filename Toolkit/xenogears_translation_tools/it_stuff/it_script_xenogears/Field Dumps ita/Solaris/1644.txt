@@ -1,0 +1,120 @@
+<TextBlock 1 w:32 h:1>
+Uaaaaaaaaaahhh!!<Opcode 2 30><Close><End of Block>
+<TextBlock 2 w:50 h:2>
+N… noooo!!<Delay 10> Non ce
+la faccio più!!<Close><End of Block>
+<TextBlock 3 w:60 h:3>
+Tutti, siete tutti pazzi!<Delay 10>
+Lavorare come macchine
+ogni giorno…<New>
+Voi non avete volontà!<Delay 10>
+Non pensate!!<Delay 10> Questa non
+è vita!!!<Delay 10>
+Questa è…<Delay 10> è…<Close><End of Block>
+<TextBlock 4 w:16 h:2>
+Fermo!<Delay 10>
+Lasciami!<Close><End of Block>
+<TextBlock 5 w:36 h:3>
+<Opcode 1 255>Torni al 14-1-6?
+    Sì
+    No<Close><End of Block>
+<TextBlock 6 w:52 h:1>
+Blocco in manutenzione…<Close><End of Block>
+<TextBlock 7 w:36 h:3>
+<Opcode 1 255>Torni al 13-6-1?
+    Sì
+    No<Close><End of Block>
+<TextBlock 8 w:36 h:3>
+<Opcode 1 255>Torni al 12-3-6?
+    Sì
+    No<Close><End of Block>
+<TextBlock 9 w:36 h:3>
+<Opcode 1 255>Torni al'11-1-1?
+    Sì
+    No<Close><End of Block>
+<TextBlock 10 w:36 h:3>
+<Opcode 1 255>Torni al 10-4-1?
+    Sì
+    No<Close><End of Block>
+<TextBlock 11 w:46 h:4>
+Che idiota…<Delay 10>
+Se non si fosse opposto
+al sistema, avrebbe potuto
+vivere in santa pace.<Close><End of Block>
+<TextBlock 12 w:48 h:4>
+Come si può non essere
+felici vivendo in questo
+modo?<Delay 10> Fa' ciò che ti è
+detto e sarai promosso.<New>
+Per quale motivo si deve
+essere insoddisfatti?<Close><End of Block>
+<TextBlock 13 w:50 h:4>
+Tutti i nostri destini sono
+uniti tra di loro…<Delay 10>
+Sono le persone scontente
+come lui che ci fanno
+punire tutti.<New>
+Pensare che tutto il nostro
+lavoro, fatto per aumentare
+la classe del nostro blocco,
+è stato distrutto…
+Pensarlo mi fa morire!<Close><End of Block>
+<TextBlock 14 w:56 h:4>
+Voglio avanzare di una Classe
+e diventare cittadino di
+II Classe.<Delay 10> Allora potrò
+finalmente vivere con quelli
+di II Classe.<Close><End of Block>
+<TextBlock 15 w:40 h:3>
+Il blocco K…<Delay 10>
+Li stanno…
+'mettendo a posto'.<New>
+Poveracci… e pensare
+che lavoravano così
+duramente!<Close><End of Block>
+<TextBlock 16 w:44 h:3>
+Anche se noi la pensiamo così,
+non vuol dire che lo stesso
+valga per l'Amministrazione…<Close><End of Block>
+<TextBlock 17 w:50 h:3>
+È meglio seguire
+l'Amministrazione.<New>
+Potrebbe aiutarti ad
+aumentare di Classe,
+se mi capisci.<Close><End of Block>
+<TextBlock 18 w:50 h:3>
+Ultimamente, molta gente ha
+provato a cambiare il proprio
+ID ed a fuggire…<New>
+Di norma vengono catturati
+e 'messi a posto', oppure
+rieducati.<New>
+Non pensare neanche di
+voler scappare!<Close><End of Block>
+<TextBlock 19 w:56 h:4>
+Questo è il condotto per
+la polvere.<Delay 10> I cittadini di
+III classe non hanno nulla
+a che vedere con questo
+oggetto.<New>
+Torna da dove sei venuto.<Close><End of Block>
+<TextBlock 20 w:28 h:3>
+(… Ehi…<Delay 10>
+Sono io… io.<Delay 10>
+Pronti ad andare?)<Close><End of Block>
+<TextBlock 21 w:50 h:2>
+Non hai nulla da fare alla
+torre d'osservazione.<Delay 10>
+Togliti dai piedi.<Close><End of Block>
+<TextBlock 22 w:56 h:2>
+Che stai facendo!?<Delay 10>
+Ti avevo ordinato di
+tornartene al tuo 'guscio'!!<Close><End of Block>
+<TextBlock 23 w:44 h:2>
+Torna immediatamente
+al tuo 'guscio'!<Close><End of Block>
+<TextBlock 24 w:44 h:2>
+Torna immediatamente
+al tuo 'guscio'!<Close><End of Block>
+<TextBlock 25 w:0 h:1>
+<Close><End of Block>

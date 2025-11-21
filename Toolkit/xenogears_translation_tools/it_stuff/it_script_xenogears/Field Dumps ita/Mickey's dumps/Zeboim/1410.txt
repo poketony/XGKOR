@@ -1,0 +1,54 @@
+<TextBlock 1 w:54 h:4>
+Bart
+"Il capitano del Tammuz
+ha detto che le fondamenta
+di questo faro risalgono…<New>
+… a migliaia di anni fa.
+Per la sua solidità ne
+hanno fatto un faro, ma
+non si sa che c'è dentro."<Close><End of Block>
+<TextBlock 2 w:54 h:4>
+Billy
+"Le fondamenta di questo
+faro furono costruite
+molte migliaia di anni fa.<New>
+Per via dell'altezza, ne
+hanno fatto un faro…
+Ma nessuno sa cosa ci
+sia all'interno."<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+Rico
+"Hammer mi disse che
+questo faro risale a
+migliaia di anni fa.<New>
+È solido, così hanno
+messo una luce in cima e
+ne hanno fatto un faro.<New>
+Ma nessuno sa cosa ci
+sia all'interno."<Close><End of Block>
+<TextBlock 4 w:50 h:4>
+Maria
+"Questa torre era già
+qui prima che Shevat
+fluttuasse nel cielo blu.<New>
+L'hanno trasformata in
+un faro, ma nessuno sa
+cosa ci sia all'interno."<Close><End of Block>
+<TextBlock 5 w:48 h:4>
+Shitan
+"Le fondamenta di questo
+faro risalgono a molte
+migliaia di anni fa.<New>
+Gli isolani aggiunsero
+una luce per farne un
+faro. Ma nessuno sa
+cosa sia in realtà."<Close><End of Block>
+<TextBlock 6 w:48 h:4>
+Shitan
+"Le fondamenta di questo
+faro risalgono a molte
+migliaia di anni fa.<New>
+Gli isolani aggiunsero
+una luce per farne un
+faro. Ma nessuno sa
+cosa sia in realtà."<Close><Close><End of Block>

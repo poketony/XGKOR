@@ -1,0 +1,145 @@
+#### 1 ####
+Fei
+"Huh? {wait:1E}
+Ahh...well...
+sort of..."
+
+#### 2 ####
+Fei
+"Well...{wait:20}
+I suppose you could
+say I was hurt..."
+
+#### 3 ####
+Fei
+"There is that
+too, but..."
+
+#### 4 ####
+Fei
+"It's the other stuff he
+said...{enter}
+What happened at Lahan...
+was all planned to get me
+to ride in that Gear...
+Or so he claimed.{enter}
+That's got me worried..."
+
+#### 5 ####
+Fei
+"All I know is what the
+maids at my home in Lahan
+told me...{enter}
+One night a strange masked
+man carried me to Lahan.
+I was heavily wounded at
+the time...{enter}
+In my delirium I called out
+for my father...
+That's all they could tell
+me about my background.{enter}
+I don't remember anything
+of my father or my past...
+So I guess I'm not really
+all that lonely or sad..."
+
+#### 6 ####
+Fei
+"Doc, before the village
+was destroyed, I lived
+without doubting myself.{enter}
+But it's different now.{wait:20}
+I don't...{wait:0F}know who I am.
+I've never felt like this
+before..."
+
+#### 7 ####
+Fei
+"Doc, why didn't I notice
+that I had no memories up
+until now?"
+
+#### 8 ####
+Citan
+"To get you to ride
+in that Gear...?"
+
+#### 9 ####
+Citan
+"Well we cannot do anything
+as long as we are prisoners
+...even if we wanted to."
+
+#### 10 ####
+Let us rest a little.
+Maybe it will sort your
+feelings out a little.{enter}
+     Good idea
+     Let's talk more
+
+#### 11 ####
+Let us rest a little.
+     Good idea
+     Let's talk more
+
+#### 12 ####
+Citan
+"..."
+
+#### 13 ####
+Let us rest a little.
+     Good idea
+     Let's talk more
+
+#### 14 ####
+Citan
+"How are you, Fei?{wait:0A}
+Did you sleep well?"
+
+#### 15 ####
+Citan
+"Sorry I messed up...
+I was careless.{enter}
+That Gear is a top
+secret experimental
+model from Kislev...{enter}
+It was only natural
+that Aveh would also
+be madly searching
+for it."
+
+#### 16 ####
+Citan
+"Fei? Are you hurt?
+You do not look so well."
+
+#### 17 ####
+Citan
+"That man in black...spoke
+of your father's fate...
+Is that what is wrong?"
+
+#### 18 ####
+Citan
+"Are you worried
+about your father?"
+
+#### 19 ####
+Citan
+"...{enter}
+(It was him! No mistake...{wait:20}
+That was no coincidence...){enter}
+(Could it be that we are
+approaching...{wait:20}the
+-Time- of the{wait:10} -Gospel-...?)"
+
+#### 20 ####
+Citan
+"(Majesty...
+is this the end...?)"
+
+#### 21 ####
+Citan
+"Look!
+What is that...?"
+

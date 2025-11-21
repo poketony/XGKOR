@@ -1,0 +1,585 @@
+<TextBlock 1 w:66 h:5>
+Buongiorno. Sono il
+consulente del villaggio.<Delay 20>
+(Ma, a dirti la verità,
+il capo del villaggio sa
+molte più cose di me…<New>
+Comunque, l'Anziano è una
+persona terribilmente occupata,
+dunque mi hanno dato l'incarico
+di rispondere ad alcune delle
+domande più mondane.)<Close><End of Block>
+<TextBlock 2 w:52 h:7>
+Come speciale per questa
+settimana, stiamo tenendo
+una conferenza sulle
+tecniche di autodifesa
+delle "Arti Marziali".<Delay 20>
+Non ti piacerebbe imparare
+qualcosa su di esse?<Close><End of Block>
+<TextBlock 3 w:56 h:1>
+Cosa posso fare per te oggi?<Close><End of Block>
+<TextBlock 4 w:66 h:6>
+    <Opcode 1 255>Spiega i comandi di battaglia
+    Spiega l'opzione "Difesa"
+    Spiega i "Punti Azione (AP)"
+    Spiega l'opzione "Attacco"
+    Spiega l'opzione "Combo"
+    Adesso nulla, grazie. <Close><End of Block>
+<TextBlock 5 w:60 h:3>
+Bene allora.
+Permettimi di spiegare i
+comandi di battaglia generali.<Close><End of Block>
+<TextBlock 6 w:58 h:9>
+Durante la battaglia ci
+sono due gruppi di comandi
+dai quali puoi scegliere
+un'opzione.<Delay 20>
+Puoi passare da un gruppo 
+all'altro con i pulsanti
+direzionali Sinistra e
+Destra.<New>
+Il primo gruppo contiene
+le opzioni utilizzate con
+più frequenza:
+Attacco, Difesa e Chi.<Delay 20>
+Il secondo gruppo contiene
+comandi speciali come
+Combo, Fuga e così via.<New>
+Combatti selezionando con
+abilità dai due gruppi di
+opzioni l'azione che meglio
+si adatta alle circostanze.<New>
+Di norma, dovresti potertela
+cavare solo con le opzioni
+del primo gruppo<Delay 20>…<New>
+L'opzione 'Oggetti' si trova
+in entrambi i gruppi, dunque
+per usare gli oggetti non
+hai bisogno di passare da uno
+all'altro.<Close><End of Block>
+<TextBlock 7 w:64 h:4>
+… Beh, e con questo ho proprio
+finito.<Delay 20> Per piacere, torna
+ogniqualvolta avessi bisogno
+dei miei servigi.<Close><End of Block>
+<TextBlock 8 w:56 h:3>
+Oh, capisco, capisco. Vuoi
+chiedermi della Difesa?<Delay 20> 
+Bene, permettimi d'iniziare…<Close><End of Block>
+<TextBlock 9 w:66 h:7>
+Selezionando 'Difesa',
+puoi dimezzare il danno che
+il tuo nemico ti reca.<Delay 20>
+Combattere non è soltanto
+una questione di attacco,
+- a volte è utile difendersi.<New>
+Quando ti trovi in pericolo,
+potrebbe essere una buona idea
+lasciare il compito di attaccare
+agli altri membri del tuo gruppo,
+e scegliere semplicemente di
+difenderti dagli attacchi
+del nemico.<Close><End of Block>
+<TextBlock 10 w:54 h:5>
+… Beh, all'incirca è così.<Delay 20>
+Oh, e se hai altre domande
+non ti preoccupare, sentiti
+libero di farmi una visita
+quando vuoi, hai sentito!?<Close><End of Block>
+<TextBlock 11 w:62 h:5>
+Aha! Sapevo che stavi per
+chiedermi di parlarti di essi! <Delay 20>
+Bene allora, permettimi di
+spiegare cosa sono i
+Punti Azione (AP).<Close><End of Block>
+<TextBlock 12 w:68 h:7>
+Ci sono tre tipi di
+attacchi - Debole, Medio
+e Forte -, ciascuno dei quali
+consuma una determinata somma
+di Punti Azione (AP) quando
+effettuato.<New>
+Quando tutti i tuoi
+Punti Azione (AP) saranno
+esauriti, il tuo turno
+terminerà. Al contrario,
+fin quando ti rimangono
+Punti Azione (AP), puoi
+continuare ad attaccare.<New>
+In altre parole, i Punti
+Azione (AP) rappresentano
+quanti attacchi puoi eseguire
+in un turno di combattimento.<New>
+All'inizio, partirai
+solamente con 3 Punti
+Azione. Tuttavia, quando
+aumenterai di livello,
+i tuoi Punti Azione (AP)
+aumenteranno di conseguenza.<New>
+Il segreto del metter su un
+buon combattimento sta in come
+utilizzi i tuoi Punti Azione (AP),
+- quale livello di forza scegli
+per gli attacchi, ed in quale
+ordine li distribuisci…!<Close><End of Block>
+<TextBlock 13 w:46 h:4>
+… Bene, in poche parole
+funziona così.<Delay 20> Oh, e
+non esitare a chiedere,
+se hai altre domande!<Close><End of Block>
+<TextBlock 14 w:44 h:4>
+Cielo, sei coraggioso!<Delay 20>
+Ok, allora, permettimi
+di spiegarti qualcosa
+riguardo all'attacco.<Close><End of Block>
+<TextBlock 15 w:66 h:7>
+Sono sicuro che già
+sai che ci sono 3 tipi di
+Attacchi - Debole, Medio
+e Forte -, ognuno dei quali
+utilizza una differente somma
+di Punti Azione (AP).<New>
+L'Attacco Forte (pulsante <Cross>)
+consuma 3 punti in un sol
+colpo. Quindi, se hai soltanto
+3 Punti Attacco, saranno tutti
+consumati in un solo
+Attacco Forte.<New>
+L'Attacco Debole (pulsante <Tri>)
+consumerà 1 punto per colpo.
+Perciò, con 3 Punti Attacco,
+puoi attaccare lo stesso nemico
+3 volte in rapida successione.<New>
+L'Attacco Medio (pulsante <Square>)
+consuma 2 punti per colpo.<Delay 20>
+Dunque, se hai 3 Punti Attacco,
+puoi unire ad un Attacco Medio
+un Attacco Debole, per
+un totale di 3 punti.<New>
+È possibile premere ripetutamente
+il pulsante <Cross> per continuare
+ad annientare i nemici in un solo
+colpo Forte, ma potresti
+accorgerti che fare affidamento
+su questo più tardi avrà
+ripercussioni.<Close><End of Block>
+<TextBlock 16 w:60 h:5>
+… Questo è più o meno
+tutto ciò che devo dirti
+a riguardo, sul serio.<Delay 20>
+Ritorna pure quando
+hai bisogno di consigli.<Close><End of Block>
+<TextBlock 17 w:62 h:5>
+Ooooh! L'opzione 'Combo',
+eh?<Delay 20> Non mi aspettavo che
+mi chiedessi di parlartene!
+Bene allora, permettimi di
+spiegarti l'arte della 'Combo'.<Close><End of Block>
+<TextBlock 18 w:68 h:7>
+Quando utilizzi l'opzione
+Attacco, ci sono delle volte
+in cui non consumi tutti
+i tuoi Punti Azione (AP).<New>
+Tale caso è quando distruggi
+un nemico utilizzando solo
+una parte dei tuoi punti totali,
+o quando annulli l'azione a metà
+durante un turno d'attacco.<New>
+I Punti Azione (AP) che non
+utilizzi sono messi da parte in
+una 'Barra AP'. Quando questa
+Barra immagazzina una certa somma
+di punti, avrai la possibilità
+di utilizzare delle 'Combo'.<New>
+Le 'Combo' sono delle rapide
+serie di Tecniche Mortali eseguite
+tutte in un colpo solo, e tendono
+ad essere alquanto feroci.
+Qualsiasi nemico, ricevendo
+il colpo finale di una 'Combo',
+probabilmente morirà.<New>
+A bassi livelli d'esperienza,
+probabilmente non potrai
+causare molti danni con
+una 'Combo'.<Delay 20>
+Ma col passare del tempo, sarai
+in grado di eseguire alcune
+devastanti mosse 'Combo'!<Close><End of Block>
+<TextBlock 19 w:48 h:4>
+… E questo è tutto!<Delay 20>
+Dunque, se ti serve
+qualche altro consiglio,
+sai dove trovarmi!<Close><End of Block>
+<TextBlock 20 w:56 h:3>
+Capisco. Beh, tuttavia…
+sentiti libero di chiedermi
+qualunque cosa, quando vuoi!<Close><End of Block>
+<TextBlock 21 w:8 h:2>
+Ehm!<Delay 10>
+EHM!<Close><End of Block>
+<TextBlock 22 w:58 h:4>
+Affinché gli altri clienti
+non siano disturbati, evitate
+di discutere in privato a
+voce alta, per favore!<Close><End of Block>
+<TextBlock 23 w:66 h:5>
+Quando si tratta di Tecniche di
+combattimento, tendo ad essere
+estremamente pignolo!<Delay 20>
+Ho iniziato ad approfondire
+quest'argomento recentemente…<Close><End of Block>
+<TextBlock 24 w:64 h:6>
+Allora, che ne dici?
+Vuoi ascoltare cos'ho da dire?<Delay 20>
+    <Opcode 1 255>Spiega le 'Abilità'
+    Spiega le 'Tecniche Mortali'
+    Spiega i  'Livelli Tecnica'
+    Lascia perdere!<Close><End of Block>
+<TextBlock 25 w:46 h:3>
+Mmmh, ne sai abbastanza
+per essere un ragazzo.
+Adesso ascolta bene!<Close><End of Block>
+<TextBlock 26 w:62 h:4>
+Quell'abilità, 'Guided Shot',
+che possiedi già, è uno dei
+tanti misteriosi poteri
+connessi all'Etere ed al Chi.<New>
+Non tutti hanno la disposizione
+naturale per usare tali poteri.
+Ciascuna persona nasce con
+differenti abilità innate.<New>
+Se quella persona possiede
+il dono, aumentare di
+livello darà origine ad 
+abilità più potenti.<Close><End of Block>
+<TextBlock 27 w:34 h:2>
+Mmh.<Delay 20> Vedo molto
+potenziale in te.<Close><End of Block>
+<TextBlock 28 w:42 h:2>
+Bene, bene.<Delay 20>
+Chiedi pure, giovine!<Close><End of Block>
+<TextBlock 29 w:60 h:8>
+Come già sai, ci sono
+3 livelli di forza per
+la normale opzione 'Attacco':
+Attacco Debole  (pulsante <Tri>),
+Attacco Medio   (pulsante <Square>) e
+Attacco Forte (pulsante <Cross>).<New>
+Le 'Tecniche Mortali' sono
+una speciale serie di Attacchi
+che, per prima cosa,
+utilizzano qualche colpo
+Debole o Medio per sbilanciare
+il tuo nemico, ed in seguito
+finiscono con un colpo
+Forte per causare più danni!<New>
+Ma prima devi padroneggiare
+l'uso di Attacchi Deboli,
+Medi e Forti, per poter
+essere in grado di imparare
+queste 'Tecniche Mortali'.<New>
+Per padroneggiare questi
+Attacchi, dovresti continuare
+ad eseguire, diciamo, quattro
+colpi Deboli di seguito, o
+due colpi Medi, o anche un
+colpo Forte accompagnato
+da un altro tipo di colpo.<New>
+In altre parole, il modo per
+imparare nuove 'Tecniche
+Mortali' è il frequente
+utilizzo di diverse
+combinazioni dei tre
+Attacchi di base!<Close><End of Block>
+<TextBlock 30 w:50 h:7>
+Allora, che te ne pare?
+Non ti fa venire voglia
+di andartene fuori da
+qui proprio ora e
+iniziare ad imparare
+quelle 'Tecniche Mortali'
+il più presto possibile!?<Close><Delay 20><Close><End of Block>
+<TextBlock 31 w:58 h:4>
+Va bene, cominciamo!<Delay 20>
+Altro riguardo alle Tecniche
+Mortali e le loro connessioni
+con i Livelli d'Esperienza…!<Close><End of Block>
+<TextBlock 32 w:68 h:6>
+Se vuoi vedere quanto ti
+manca per imparare
+qualche 'Tecnica Mortale',
+apri il Menu e poi seleziona
+la voce 'Stato'.<New>
+Dalla Schermata 'Stato' puoi
+selezionare 'Abilità' per vedere
+una lista delle tue Tecniche
+Mortali, con delle barre
+che mostrano la percentuale
+imparata fino a quel punto.<New>
+Se una della Tecniche Mortali
+non sembra stare aumentando,
+allora stai probabilmente
+utilizzando i tipi sbagliati
+di pulsanti Attacco.<New>
+In quel caso, la cosa migliore
+potrebbe essere tentare quegli
+Attacchi che normalmente non usi.
+Perciò, sperimenta differenti
+sequenze d'attacco!<New>
+Ma ricorda…!
+Alcune 'Tecniche Mortali'
+non possono essere ottenute
+finché non raggiungerai un dato
+livello d'esperienza!<New>
+Se non avrai ottenuto quel
+livello d'esperienza,
+non la imparerai neanche se la
+barra della Tecnica Mortale
+ha raggiunto il 100%…!<New>
+In questo caso, dovrai
+aspettare finché il tuo livello
+d'esperienza non sarà aumentato,
+prima di poter imparare ad
+utilizzare quella Tecnica Mortale!<Close><End of Block>
+<TextBlock 33 w:48 h:5>
+… E con questo
+abbiamo finito.<Delay 20>
+Se t'impegnerai nei tuoi
+studi, sei destinato
+ad andare lontano!<Close><End of Block>
+<TextBlock 34 w:60 h:4>
+Ecco qua…<Delay 20>
+Questo è un riconoscimento
+per essere uno scolaro così
+appassionato!<Delay 20> Ah ah ah!<Close><End of Block>
+<TextBlock 35 w:26 h:1>
+Ricevi 80G!<Close><End of Block>
+<TextBlock 36 w:48 h:3>
+Compra alcuni libri e
+matite con quelli, OK!?<Delay 20> 
+Continua così, ragazzo!<Close><End of Block>
+<TextBlock 37 w:62 h:4>
+Oh, beh… Non puoi mai essere
+troppo vecchio per studiare.<Delay 20>
+Ci sono montagne di cose da
+imparare là fuori, giovane!<Close><End of Block>
+<TextBlock 38 w:36 h:4>
+Non dirmelo!<Delay 20>
+Si tratta del
+'Cubo di Memoria',
+vero?<Close><End of Block>
+<TextBlock 39 w:66 h:3>
+Oh, bene, bene!<Delay 20>
+Sei fortunato, sei venuto
+proprio al momento giusto…<New>
+Se riguarda il 'Cubo di Memoria',
+allora non esitare a chiedere.
+Nessuno lo conosce meglio di me!<Close><End of Block>
+<TextBlock 40 w:44 h:4>
+Che ne dici?
+Vuoi starmi a sentire?<Delay 20>
+    Sì, va bene!
+    No, per nulla!<Close><End of Block>
+<TextBlock 41 w:46 h:4>
+Perfetto! Ben detto!
+Questo è lo spirito!
+Sei abbastanza sveglio
+per essere un pittore.<New>
+Ora, apri quelle
+orecchie e scolpisci
+nella tua piccola mente
+tutto ciò che ti dico!<Close><End of Block>
+<TextBlock 42 w:64 h:6>
+Inizierò spiegandoti come
+salvare i progressi compiuti
+nella tua avventura.<New>
+In circostanze normali, puoi
+aprire il Menu premendo il
+pulsante <Square>.<Delay 20> Da qui puoi
+selezionare l'opzione 'File',
+e semplicemente seguire
+le istruzioni per salvare.<New>
+Tuttavia, quando ti trovi
+in una città o in un dungeon,
+puoi salvare soltanto nelle aree
+chiamate Cubo di Memoria.<Delay 20> Senza
+un cubo non puoi salvare!<Close><End of Block>
+<TextBlock 43 w:64 h:13>
+<Opcode 1 255>Per farla breve… Questa cosa che
+sobbalza e ruota è un 'Cubo di
+Memoria', capito!? Devi essere
+freddo, calmo e padrone di te
+per metterti sopra di esso ed
+aprire coraggiosamente il Menu.
+Se ci riuscirai, potrai salvare
+con successo. Dovresti sempre
+salvare, senza esitare, ogni
+volta che trovi uno di questi
+in un dungeon. Nella vita, non
+si può mai sapere cosa potrebbe
+esserci dietro l'angolo!<Delay 25> <Opcode 2 140><Close><End of Block>
+<TextBlock 44 w:46 h:5>
+Allora, che ne pensi?
+Hai capito tutto
+perfettamente, allora!?<Delay 20>
+Ok, bene, devo…<New>
+Co…?
+Non hai capito?<Delay 20>
+Ah… diamine…<Delay 20> Va bene,
+fammelo spiegare ancora
+una volta!<Close><End of Block>
+<TextBlock 45 w:66 h:7>
+Ok, questa volta fai in
+modo di ascoltare per bene!<Delay 20>
+Questa cosa qui che gira e
+sobbalza è il Cubo di Memoria
+di cui ho appena parlato.<New>
+Fermati con coraggio dentro
+la superficie del Cubo e,
+con calma e compostamente,
+apri il Menu! Da qui potrai
+salvare in un file di
+memoria come di norma.<New>
+Specialmente nei dungeon
+ed in altri posti simili,
+dovresti salvare senza
+esitare, non appena vedi uno
+di questi. Non si può mai dire
+cosa potrebbe accadere dopo!<New>
+Quando ti trovi all'aperto, nella
+Mappa del Mondo, puoi salvare
+dovunque vuoi (… probabilmente)!
+Se non vuoi finire la
+partita piangendo,
+assicurati di salvare
+spesso, ok!?<Close><End of Block>
+<TextBlock 46 w:66 h:4>
+E con questo ho finito
+il mio breve riassunto!<Delay 20>
+Stavolta hai afferrato
+tutto, non è vero…?<New>
+Beh, anche una Scimmia Dongariana
+di 2 anni avrebbe capito
+la mia fantastica spiegazione
+al 120%, vero!?<Close><End of Block>
+<TextBlock 47 w:58 h:3>
+Oooh-oh-oh!<Delay 20>
+Sono un tale genio!!<Delay 20>
+(Lo dicevo sempre a Mickey…<Delay 15>!<New>
+Dovevo tradurlo io
+Chrono Trigger!)<Close><End of Block>
+<TextBlock 48 w:60 h:4>
+E ora, riguardo al compenso
+per la spiegazione…<New>
+Ah-aah! Scherzavo…<Delay 20>
+Non pensavi mica che la grande
+Lucca sarebbe stata così
+scortese, vero?<New>
+Questa volta per te farò
+un'eccezione, e ti concederò
+questa spiegazione gratis!<Close><End of Block>
+<TextBlock 49 w:44 h:2>
+E mi devi 28G!
+Non dimenticarlo, ok!?<Close><End of Block>
+<TextBlock 50 w:54 h:5>
+Bene, adesso, riguardo alla
+paga per la spiegazione…
+Sono 28G!<New>
+28G sono un affare,
+considerando che hai
+potuto ricevere una
+così perfetta spiegazione
+da un tipo come me!!!<New>
+Allora, forza, lascia
+perdere le scuse.
+Sii un uomo e paga!<Close><End of Block>
+<TextBlock 51 w:52 h:1>
+Ti sei fatto prendere 28G!<Close><End of Block>
+<TextBlock 52 w:44 h:4>
+Sì, grazie
+tantissimo…<Delay 20>
+Non rilascio ricevute,
+comunque!<Close><End of Block>
+<TextBlock 53 w:50 h:4>
+Ma cosa…!?
+Non hai neanche 28G?<New>
+Immagino di non
+avere scelta…<Delay 20>
+Dovrai essermi debitore,
+allora.<New>
+Non dimenticarlo, adesso
+mi devi 28G! Capito, Fei?<Close><End of Block>
+<TextBlock 54 w:34 h:1>
+Devi a Lucca 28G!<Close><End of Block>
+<TextBlock 55 w:56 h:5>
+Cosa!?<Delay 5>
+Non ascolterai cosa
+devo dire!?
+Non vuoi conoscerla!?<New>
+La logica, intelligibile
+e assolutamente perfetta
+lezione spiegata da me,<Delay 5>
+l'unica e grande Lucca,<Delay 5>
+può soltanto servirti…!<New>
+… Non importa quante
+volte la ascolti!<Delay 20>
+Oh, che spreco!<Delay 20> Bene…
+non venire da me piangendo
+quando ti troverai nei guai.<Close><End of Block>
+<TextBlock 56 w:56 h:5>
+Cosa!?<Delay 5>
+Non vuoi sentire
+cosa devo dirti!?
+Non vuoi conoscerla!?<New>
+La logica, intelligibile
+e assolutamente stupenda
+lezione spiegata da me,<Delay 5>
+l'unica e la grande Lucca,<Delay 5>
+può soltanto esserti utile…!<New>
+… Non importa quante volte
+la ascolti!<Delay 20>
+Oh, che spreco!<Delay 20> Bene…
+Non venire da me piangendo,
+quando ti troverai nei guai.<Close><End of Block>
+<TextBlock 57 w:62 h:4>
+Oh, e mi devi 28G!<Delay 20>
+Non l'avrai mica
+dimenticavo, vero Fei?<New>
+Non lascierò che tu la faccia
+franca così facilmente, se stai
+tentando di evitare di pagare
+il tuo debito. L'hai capito!?<Close><End of Block>
+<TextBlock 58 w:54 h:6>
+Sapevi che puoi ruotare
+il mondo con i pulsanti
+L1 ed R1!?<Delay 20>
+Sono sicura che riuscirai
+a vedere cose che prima
+non potevi!<New>
+Esplora il mondo usando i
+tuoi occhi e le tue
+orecchie!<Delay 20> È così che fai
+davvero tuoi i successi
+nella tua vita!<New>
+Se ti perdi, allora perditi!<Delay 20>
+Non c'è bisogno di
+affrettarsi, no?<Delay 20> Né devi
+esplorare il mondo usando
+le mappe di qualcun altro!<Close><End of Block>
+<TextBlock 59 w:64 h:3>
+Vengo spesso qui per parlare
+al consulente del villaggio.
+Di norma dà buoni consigli.<New>
+Per quanto ogni tanto possa
+essere con la testa fra le
+nuvole…<New>
+Proprio recentemente, ha
+confuso la pozione dell'amore
+con quella della calvizie…<Close><End of Block>
+<TextBlock 60 w:46 h:2>
+Eheh…<Delay 20> Sì, signore!
+Qualsiasi cosa diciate!<Close><End of Block>
+<TextBlock 61 w:52 h:2>
+Dovremo continuare questa
+conversazione dopo!<Close><Close><End of Block>

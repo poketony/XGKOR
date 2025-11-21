@@ -1,0 +1,27 @@
+#### 1 ####
+Miang
+"Heh...{wait:3C} Well then...,
+let's start over from
+the beginning again.{enter}
+You think you can
+beat me this time?"{wait:1E}
+
+#### 2 ####
+Fei
+"What the...!?
+I thought I
+defeated you...!?"
+
+#### 3 ####
+Krelian
+"Unless you can
+decompose her atomic
+structure,{enter}
+you don't stand much
+of a chance.{enter}
+Normal attacks are
+futile against one who
+has the ability to
+regenerate{enter}
+using nanomachines."
+

@@ -1,0 +1,144 @@
+#### 1 ####
+Ramsus
+"Once their effect-fins are
+destroyed they will remain
+buried and unable to move.{enter}
+Surfacing was a smart move.
+Sand-Torpedo Chief! Well
+done on lowering their
+fighting power. Brilliant!"
+
+#### 2 ####
+Ramsus
+"Well...{wait:10}
+what shall we do
+with them...?"
+
+#### 3 ####
+Ramsus
+"I promised an old friend...
+I must take it easy..."
+
+#### 4 ####
+Ramsus
+"An old...friend...{wait:20}
+..."
+
+#### 5 ####
+Ramsus
+"Comm officer!{enter}
+Use my name and urge them
+to surrender. Tell them to
+surrender if they desire
+the safety of Nisan."
+
+#### 6 ####
+Ramsus
+"All divisions cease fire,
+but remain on alert!{enter}
+If any enemy vessel
+attempts to attack, shoot
+it individually!"
+
+#### 7 ####
+Ramsus
+"...Can't help it, eh?"
+
+#### 8 ####
+Ramsus
+"All divisions, holding
+pattern cancelled!{wait:10}
+...Resume attack!"
+
+#### 9 ####
+Ramsus
+"Th, that Gear! No mistake!
+It's him! Demon of Elru...!{wait:32}
+Miang! Let's go!"
+
+#### 10 ####
+Ramsus
+"Ah...{wait:10}
+That is...!!"
+
+#### 11 ####
+Miang
+"Oh?{wait:18}
+It's unusual for you
+to get lost."
+
+#### 12 ####
+Miang
+"Commander?...Ha, Ha, Ha."
+
+#### 13 ####
+Miang
+"Calm down. {wait:20}Put the analyzed
+picture on the monitor."
+
+#### 14 ####
+Miang
+"Commander! Please wait!
+Commander!!"
+
+#### 15 ####
+Miang
+"Ha, ha..."
+
+#### 16 ####
+Confirmed, vessel
+destruction noise.{enter}
+...followed by a rapid
+blowing noise. Enemy vessel
+is probably floating
+rapidly to the surface.
+
+#### 17 ####
+Confirmed, one enemy Gear
+engaged. Direct course.
+Enemy vessel engine noise
+increasing...Speed increase,{enter}
+steering noise confirmed,
+course change...
+Taking evasive action.
+
+#### 18 ####
+W, wait!!!{wait:20}{enter}
+Explosions along the
+perimeter of the fleet,
+confirmed. Multiple vessel
+destruction noises!{enter}
+High energy reactions...
+What kind of gain is this!?
+Commander!! I can't believe
+this! This...Gear...?{enter}
+It's like reactive rounds
+are flying around...
+
+#### 19 ####
+Y, yessir...
+
+#### 20 ####
+Fluid static around enemy
+vessel is decreasing.
+Sand maneuverability of
+enemy vessel down 60%.{enter}
+...Looks like the main
+engine and effect-fins
+have been disabled.
+
+#### 21 ####
+Sorry to trouble you.
+
+#### 22 ####
+Bow torpedo tubes 1-3,
+Namthal missile.
+Set 1 and 2 for homing,
+3 for anti-radar.{enter}
+Tubes 4-6, Makara Mk5
+sand torpedoes. After
+acquiring target set all
+to passive homing.{enter}
+All units, begin defensive
+fire. Aim for the main ship.
+

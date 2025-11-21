@@ -1,0 +1,64 @@
+#### 1 ####
+Shakhan
+"Argh! What's taking so
+long?"
+
+#### 2 ####
+Shakhan
+"Imbeciles! She's just a
+child! What can she do!?{enter}
+Hurry and get her!"
+
+#### 3 ####
+But...{wait:1E}
+It's still an Omnigear...
+
+#### 4 ####
+Bart
+"Margie!{wait:1E}
+Where are you?"
+
+#### 5 ####
+Bart
+"Margie...{wait:1E}
+In there...!"
+
+#### 6 ####
+Fei
+"Anyway, let's go!"
+
+#### 7 ####
+Shakhan
+"I almost had it!"
+
+#### 8 ####
+Bart
+"Hey!{wait:1E}
+You're not gettin'
+away!"
+
+#### 9 ####
+Bart
+"That punk's not goin'
+anywhere!"
+
+#### 10 ####
+Citan
+"Young one, please wait!
+Is Margie going to be all
+right?"
+
+#### 11 ####
+Bart
+"Uh... oh yeah!"
+
+#### 12 ####
+Bart
+"Hey, Margie...{wait:1E} you
+OK? Margie!{wait:1E}
+Margie, wake up!!"
+
+#### 13 ####
+Bart
+"Margie!!"
+

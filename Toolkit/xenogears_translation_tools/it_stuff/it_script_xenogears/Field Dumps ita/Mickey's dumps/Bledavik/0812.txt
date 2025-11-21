@@ -1,0 +1,868 @@
+<TextBlock 1 w:52 h:2>
+Certo, gli affari vanno
+meglio quando c'è la pace.<Close><End of Block>
+<TextBlock 2 w:50 h:3>
+L'hai detto. 
+L'esercito ha restituito
+tutta la roba che aveva
+confiscato.<Close><End of Block>
+<TextBlock 3 w:46 h:1>
+Ehi, i prezzi stanno
+calando!<Close><End of Block>
+<TextBlock 4 w:40 h:3>
+Davvero? <Delay 30>
+Allora non mi puoi
+fare uno sconto?<Close><End of Block>
+<TextBlock 5 w:52 h:4>
+Mio figlio sta ritornando
+e mia nipote è agitata.<New>
+È un vulcano in eruzione
+ed è difficile per me
+starle dietro!<Close><End of Block>
+<TextBlock 6 w:46 h:3>
+Anche col ritorno di
+mio figlio, prendersi
+cura dei bambini è
+compito degli anziani.<Close><End of Block>
+<TextBlock 7 w:44 h:4>
+Nonno, presto, presto!<New>
+Dobbiamo comprare le
+cose per la festa di
+benvenuto prima che
+ritorni papà.<Close><End of Block>
+<TextBlock 8 w:50 h:3>
+Nonna, presto, presto!
+Finiamo le compere e
+andiamo al festival!<Close><End of Block>
+<TextBlock 9 w:38 h:3>
+Principe Bartolomeo,
+grazie per aver messo
+fine alla guerra.<New>
+Ora mio figlio tornerà
+a casa ogni giorno.<Close><End of Block>
+<TextBlock 10 w:64 h:3>
+Sei qui per il Torneo?
+    Sì
+    Che sarebbe?<Close><End of Block>
+<TextBlock 11 w:42 h:2>
+Peccato, è già
+finito!<Close><End of Block>
+<TextBlock 12 w:44 h:3>
+Ah, è meglio che tu non
+lo sappia. Ora goditi
+Bledavik in pace.<Close><End of Block>
+<TextBlock 13 w:50 h:4>
+Come sono occupato!
+Da quando sono tornato
+mia moglie non fa altro
+che dirmi che…<New>
+… ha da fare a casa e che
+non può aiutarmi al lavoro!<Close><End of Block>
+<TextBlock 14 w:46 h:3>
+Principe Bartolomeo.
+Aspettavo con ansia il
+suo ritorno.<New>
+Lunga vita e prosperità
+a lei e ad Aveh.<Close><End of Block>
+<TextBlock 15 w:46 h:4>
+Non dovremo più preoccuparci
+per i nostri figli. La pace 
+è finalmente arrivata?<Close><End of Block>
+<TextBlock 16 w:42 h:4>
+Ora che la guerra è 
+finita, ci saranno un 
+mucchio di turisti.<Delay 50>
+Meglio prepararsi.<Close><End of Block>
+<TextBlock 17 w:52 h:4>
+È meraviglioso che il 
+principe sia ritornato, 
+ma cos'è mai questa 
+repubblica?<Close><End of Block>
+<TextBlock 18 w:44 h:2>
+Infine la pace! Ora
+possiamo vivere senza
+avere più paura.<Close><End of Block>
+<TextBlock 19 w:41 h:4>
+Carne, carne!
+La migliore carne!<Delay 30>
+Ehi amico, prova la
+nostra carne!<Close><End of Block>
+<TextBlock 20 w:52 h:6>
+Ehi amico, vuoi della carne?
+Tutto a 70G.
+    Gelatina Hob
+    Carne Hob
+    Bistecca Hob
+    No, grazie <Opcode 13 255><Opcode 2 1><Close><End of Block>
+<TextBlock 21 w:34 h:5>
+E per 65G…?
+    Gelatina Hob
+    Carne Hob
+    Bistecca Hob
+    No, grazie <Opcode 13 255><Opcode 2 1><Close><End of Block>
+<TextBlock 22 w:34 h:5>
+E per 60G…?
+    Gelatina Hob
+    Carne Hob
+    Bistecca Hob
+    No, grazie<Opcode 13 255><Opcode 2 1><Close><End of Block>
+<TextBlock 23 w:56 h:2>
+Ehi, testone!
+Ne hai già troppa!<Close><End of Block>
+<TextBlock 24 w:40 h:1>
+Gelatina di Hob
+in arrivo!<Opcode 2 60><Close><End of Block>
+<TextBlock 25 w:38 h:1>
+Carne di Hob
+in arrivo!<Opcode 2 60><Close><End of Block>
+<TextBlock 26 w:40 h:1>
+Bistecca di Hob
+in arrivo!<Opcode 2 60><Close><End of Block>
+<TextBlock 27 w:36 h:2>
+Sì, mangia carne e
+starai bene.<Close><End of Block>
+<TextBlock 28 w:56 h:1>
+Hai pochi soldi!<Close><End of Block>
+<TextBlock 29 w:42 h:2>
+Se non mangi carne
+ti ammalerai…<Close><End of Block>
+<TextBlock 30 w:50 h:3>
+Grazie per avermi 
+prestato quei soldi.<New>
+Mio padre non è tornato
+ma io non ruberò più.<New>
+Stiamo lavorando molto
+duramente e presto
+avremo un'attività
+tutta nostra.<New>
+Così potrò
+restituirti
+il tuo denaro.
+A poco a poco.<Close><End of Block>
+<TextBlock 31 w:36 h:2>
+Anche senza papà, 
+ce la faremo.<Close><End of Block>
+<TextBlock 32 w:46 h:3>
+Ecco il primo acconto.
+Mi impegnerò di più per
+ridarti il resto.<Close><End of Block>
+<TextBlock 33 w:38 h:3>
+Scusa, non ho ancora
+abbastanza denaro.<Close><End of Block>
+<TextBlock 34 w:52 h:3>
+Vieni a trovarmi di tanto
+in tanto e compra anche 
+della carne.<Close><End of Block>
+<TextBlock 35 w:36 h:1>
+Ti restituisce 100G.<Close><End of Block>
+<TextBlock 36 w:44 h:4>
+Zanne di mostro? <Delay 15>
+Occhi di mostro? <Delay 15>
+Scaglie di mostro?<Delay 15>
+Ottimi prezzi!<Opcode 2 60><Close><End of Block>
+<TextBlock 37 w:46 h:5>
+Cosa vuoi vendere?
+    Zanna    150G
+    Bulbo    300G
+    Scaglia  600G
+    Nulla<Close><End of Block>
+<TextBlock 38 w:50 h:3>
+Nessun'altro vi farà
+i miei prezzi.<Close><End of Block>
+<TextBlock 39 w:32 h:1>
+Grazie.
+Alla prossima.<Close><End of Block>
+<TextBlock 40 w:46 h:1>
+Non ne hai!!<Close><End of Block>
+<TextBlock 41 w:32 h:1>
+Ok, affare fatto!<Close><End of Block>
+<TextBlock 42 w:46 h:1>
+
+ Ricevi <Opcode 10 0>G.<Space 3><Close><End of Block>
+<TextBlock 43 w:48 h:4>
+Questo frutto devi provar…
+Amar o dolce non si sa…
+Strano ti sembrerà…<New>
+Un Bizfrutto devi comprar!<Opcode 2 100><Close><End of Block>
+<TextBlock 44 w:50 h:4>
+Una volta vendevo le
+radici di Lahan che
+mia madre coltivava.<Delay 50>
+Ma ora Lahan è sparita.<New>
+Così ora vendo Bizfrutti.<Close><End of Block>
+<TextBlock 45 w:36 h:3>
+Uno per 10G.
+    Ne prendo uno
+    No, grazie <Opcode 13 255><Opcode 2 1><Close><End of Block>
+<TextBlock 46 w:36 h:4>
+Va bene.
+E per 9G?
+    Ne prendo uno
+    No, grazie <Opcode 13 255><Opcode 2 1><Close><End of Block>
+<TextBlock 47 w:36 h:4>
+Dai.
+E per 8G?
+    Ne prendo uno
+    No, grazie <Opcode 13 255><Opcode 2 1><Close><End of Block>
+<TextBlock 48 w:30 h:2>
+Ehi, non ne puoi
+portare più.<Close><End of Block>
+<TextBlock 49 w:14 h:1>
+Grazie.<Close><End of Block>
+<TextBlock 50 w:22 h:1>
+Torna a trovarci!<Close><End of Block>
+<TextBlock 51 w:50 h:3>
+Non ne vuoi neanche uno? 
+Provocare un veterano è
+come mettere il piede su
+una mina.<Close><End of Block>
+<TextBlock 52 w:48 h:2>
+Odii le cose bizzarre?
+… Peccato.<Close><End of Block>
+<TextBlock 53 w:46 h:4>
+Banane! Banane grandi!
+Banane lunghe! <Delay 20>
+Buone e salutari!<Delay 20>
+Comprate delle banane!<Opcode 2 60><Close><End of Block>
+<TextBlock 54 w:40 h:3>
+Hai i soldi?
+    Sì
+    No <Opcode 13 255><Opcode 2 1><Close><End of Block>
+<TextBlock 55 w:36 h:1>
+Porta i soldi.<Opcode 2 80><Close><End of Block>
+<TextBlock 56 w:50 h:3>
+Vuoi delle banane?
+I mostri della foresta
+ad ovest le amano!<New>
+Si chiamano Elfanane.
+Non troverai banane
+migliori di queste!<Close><End of Block>
+<TextBlock 57 w:36 h:4>
+Sei un bravo
+ragazzo. 10G a casco!
+    Va bene
+    No, grazie <Opcode 13 255><Opcode 2 1><Close><End of Block>
+<TextBlock 58 w:36 h:4>
+Sono deliziose!
+E per 9G?
+    Va bene
+    No, grazie <Opcode 13 255><Opcode 2 1><Close><End of Block>
+<TextBlock 59 w:44 h:5>
+Ok, prezzo speciale!
+2 caschi, 16G.
+Non le trovi deliziose?
+    Va bene
+    No, grazie <Opcode 13 255><Opcode 2 1><Close><End of Block>
+<TextBlock 60 w:46 h:2>
+Ehi, hai troppa roba. 
+Torna un'altra volta.<Close><End of Block>
+<TextBlock 61 w:36 h:2>
+Grazie!
+Sei una brava persona.<Close><End of Block>
+<TextBlock 62 w:22 h:3>
+Wow!
+Grazie!
+Torna quando vuoi.<Close><End of Block>
+<TextBlock 63 w:48 h:4>
+<Delay 50>Hai dimenticato il
+portafogli?<Delay 50>
+Allora non posso darti
+nulla. Torna quando avrai
+con te il portafogli.<Close><End of Block>
+<TextBlock 64 w:44 h:4>
+Beh…<Delay 30>
+Se non mangi banane 
+non diventerai un
+soldato forte.<Close><End of Block>
+<TextBlock 65 w:46 h:3>
+Ehi, prova queste bacche!
+Dolci, deliziose…
+Ti farò uno sconto! <Opcode 2 100><Close><End of Block>
+<TextBlock 66 w:16 h:1>
+Vai via!<Opcode 2 80><Close><End of Block>
+<TextBlock 67 w:50 h:5>
+Deliziose bacche.
+Non troverai Aribacche
+come queste da nessuna
+altra parte.<New>
+Le bacche rosse crescono
+solo con l'acqua di
+sorgente di Aveh.<Close><End of Block>
+<TextBlock 68 w:36 h:3>
+Il prezzo è 10G.
+    Compra
+    No, grazie <Opcode 13 255><Opcode 2 1><Close><End of Block>
+<TextBlock 69 w:36 h:4>
+Va bene,
+posso fare 9G.
+    Compra
+    No, grazie <Opcode 13 255><Opcode 2 1><Close><End of Block>
+<TextBlock 70 w:36 h:4>
+E va bene, 8G è la
+mia ultima offerta.
+    Compra
+    No, grazie <Opcode 13 255><Opcode 2 1><Close><End of Block>
+<TextBlock 71 w:46 h:2>
+Ehi, hai troppa roba. 
+Torna un'altra volta.<Close><End of Block>
+<TextBlock 72 w:14 h:1>
+Grazie!<Close><End of Block>
+<TextBlock 73 w:16 h:1>
+Ehi, tu!<Close><End of Block>
+<TextBlock 74 w:40 h:3>
+Sì!
+Sono davvero buone.
+Provale.<Close><End of Block>
+<TextBlock 75 w:46 h:2>
+!?<Delay 50> Niente soldi?
+Va' via di qua!<Close><End of Block>
+<TextBlock 76 w:44 h:2>
+Peccato, sono così
+buone. Forse la
+prossima volta.<Close><End of Block>
+<TextBlock 77 w:52 h:4>
+Finalmente a casa.<New>
+Mi piace molto di più
+aiutare mia moglie a
+casa che dare ordini
+sul campo di battaglia.<Close><End of Block>
+<TextBlock 78 w:46 h:4>
+Shakhan
+"Ah ah ah ah!
+Bartolomeo il pirata,
+ho preso Margie.<New>
+Se non ti sta bene,
+vieni a riprenderla."<Close><End of Block>
+<TextBlock 79 w:26 h:3>
+Margie
+"…<Delay 30> Aiutami,
+Bartolomeo!"<Close><End of Block>
+<TextBlock 80 w:44 h:4>
+Bartolomeo
+"Codardo! Non ti è 
+bastata Aveh, vuoi 
+anche Margie?"<Close><End of Block>
+<TextBlock 81 w:48 h:4>
+Shakhan
+"E allora, pirata!? 
+Questo è il mio paese.<New>
+Hai preferito andartene
+nel deserto! Pidocchio!"<Close><End of Block>
+<TextBlock 82 w:28 h:3>
+Bartolomeo
+"Cosa…?<Delay 50>
+Testa pelata!<New>
+Prendi questo!
+Calcio del pirata!"<Opcode 2 50><Close><End of Block>
+<TextBlock 83 w:36 h:3>
+Shakhan
+"Mi hai beccato,
+monellaccio."<Close><End of Block>
+<TextBlock 84 w:18 h:2>
+Shakhan
+"Ramsus!"<Close><End of Block>
+<TextBlock 85 w:44 h:3>
+Ramsus
+"Ramsus è qui!<Delay 30>
+Battiti con me,
+Bartolomeo!"<Close><End of Block>
+<TextBlock 86 w:52 h:3>
+Bartolomeo
+"Ehi, questo qui è
+forte.<Delay 30>
+Dovrò impegnarmi!"<Close><End of Block>
+<TextBlock 87 w:44 h:3>
+Bartolomeo
+"Due contro due! 
+Avanti!"<Close><End of Block>
+<TextBlock 88 w:38 h:3>
+Shakhan
+"Mmh, infedeli!
+Vi ucciderò!"<Close><End of Block>
+<TextBlock 89 w:28 h:1>
+Non mi sto divertendo!<Opcode 2 30><Close><End of Block>
+<TextBlock 90 w:30 h:2>
+Fare Margie non 
+è divertente!<Close><End of Block>
+<TextBlock 91 w:44 h:2>
+Beh? Hai perso a
+carta, sasso, forbici.<Close><End of Block>
+<TextBlock 92 w:38 h:2>
+No! Voglio fare 
+un'altra parte.<Close><End of Block>
+<TextBlock 93 w:46 h:3>
+Non lamentarti.
+Io non voglio fare la
+parte del pelatone.<Close><End of Block>
+<TextBlock 94 w:42 h:2>
+Giochiamo a
+qualcos'altro.<Close><End of Block>
+<TextBlock 95 w:22 h:1>
+Già, ok.<Close><End of Block>
+<TextBlock 96 w:32 h:2>
+Bene, è tutto
+per oggi.<Close><End of Block>
+<TextBlock 97 w:42 h:3>
+Gli adulti fanno ciò
+che vogliono. Prima
+vogliono distruggere
+Kislev…<New>
+… ora dicono che
+siamo alleati.<Close><End of Block>
+<TextBlock 98 w:36 h:3>
+Il Principe Bartolomeo
+è così fico!
+Grande e forte!<Close><End of Block>
+<TextBlock 99 w:44 h:3>
+Gli adulti fanno ciò
+che vogliono. Prima
+vogliono distruggere
+Kislev…<New>
+… ora dicono che
+siamo alleati.<Close><End of Block>
+<TextBlock 100 w:50 h:4>
+I Raider Boys si sono
+sciolti. Con la pace
+non c'è più nulla da 
+fare.<Close><End of Block>
+<TextBlock 101 w:50 h:3>
+Mia madre mi dice di
+crescere e di diventare
+un grande uomo come il
+Principe Bartolomeo.<Close><End of Block>
+<TextBlock 102 w:50 h:4>
+I Raider Boys si sono
+sciolti. Con la pace
+non c'è più nulla da 
+fare.<Close><End of Block>
+<TextBlock 103 w:42 h:1>
+Ho da fare, pussa via!<Close><End of Block>
+<TextBlock 104 w:32 h:2>
+Noi proteggiamo la
+pace del deserto.<Close><End of Block>
+<TextBlock 105 w:52 h:2>
+Voglio diventare grande. 
+Odio giocare e fare
+delle parti da stupido.<Close><End of Block>
+<TextBlock 106 w:34 h:2>
+Noi proteggiamo la
+pace del deserto.<Close><End of Block>
+<TextBlock 107 w:46 h:4>
+Ora giochiamo a
+nascondino…<Close><End of Block>
+<TextBlock 108 w:36 h:2>
+Chissà…<Delay 30>
+dove si nasconde?<Close><End of Block>
+<TextBlock 109 w:40 h:3>
+Puoi aiutarmi?
+    Va bene
+    Sono impegnato<Close><End of Block>
+<TextBlock 110 w:48 h:4>
+Grazie.
+La regola è che non puoi
+nasconderti nelle case o
+dove non si può vedere.<Close><End of Block>
+<TextBlock 111 w:30 h:1>
+Anche noi siamo
+impegnati!<Close><End of Block>
+<TextBlock 112 w:44 h:3>
+Io non gioco più a
+nascondino, e neanche
+tu dovresti farlo
+alla tua età!<Close><End of Block>
+<TextBlock 113 w:40 h:2>
+Appena pronti mi
+nasconderò da qualche
+parte.<Close><End of Block>
+<TextBlock 114 w:34 h:1>
+Ah, mi hai trovato!<Close><End of Block>
+<TextBlock 115 w:52 h:4>
+Stiamo giocando a
+nascondino. Giochi?
+    Certo
+    No, grazie<Close><End of Block>
+<TextBlock 116 w:42 h:3>
+Appena pronti mi
+nasconderò e tu
+dovrai trovarmi.<Close><End of Block>
+<TextBlock 117 w:32 h:2>
+Sigh, non ho fiducia
+in me stesso.<Close><End of Block>
+<TextBlock 118 w:40 h:3>
+Ottimo lavoro.
+La prossima volta mi
+nasconderò meglio.<Close><End of Block>
+<TextBlock 119 w:46 h:2>
+Mi hai trovato anche qui.
+Ora si fa sul serio.<Close><End of Block>
+<TextBlock 120 w:52 h:4>
+Non credevo mi avresti
+trovato qui. Sei grande.<New>
+Dovevi essere il campione
+da bambino.<New>
+Ma la prossima volta
+non mi troverai.<Close><End of Block>
+<TextBlock 121 w:54 h:3>
+Oh no!!
+Anche qui!!!<New>
+Ora giocherò la mia
+arma segreta! Là non
+mi troverai di sicuro!!<Close><End of Block>
+<TextBlock 122 w:48 h:4>
+Mi arrendo!
+Ma come fai?<New>
+Lascia perdere!
+Non giocherò più
+a nascondino.<New>
+Ecco il mio titolo
+di campione. Non
+mi serve più.<Close><End of Block>
+<TextBlock 123 w:40 h:2>
+ 
+ Ricevuto <Opcode 4 20><Close><End of Block>
+<TextBlock 124 w:52 h:4>
+'Edgar Figaro
+il bellissimo' è qui!<Delay 30>
+Ramsus, Shakhan,
+state in guardia!<Close><End of Block>
+<TextBlock 125 w:52 h:4>
+'Edgar Figaro
+il terribile' è qui!<Delay 30>
+Ramsus, Shakhan,
+state in guardia!<Close><End of Block>
+<TextBlock 126 w:54 h:4>
+'Edgar Figaro
+il valoroso' è qui!<Delay 30>
+Ramsus, Shakhan,
+state in guardia!<Close><End of Block>
+<TextBlock 127 w:56 h:4>
+'Edgar Figaro' è qui!<Delay 30>
+Ramsus, Shakhan,
+state in guardia!<Close><End of Block>
+<TextBlock 128 w:44 h:4>
+'Cloud Strife
+il bellissimo' è qui!<Delay 30>
+Ramsus, Shakhan,
+state in guardia!<Close><End of Block>
+<TextBlock 129 w:44 h:4>
+'Cloud Strife
+il terribile' è qui!<Delay 30>
+Ramsus, Shakhan,
+state in guardia!<Close><End of Block>
+<TextBlock 130 w:32 h:4>
+'Cloud Strife
+il valoroso' è qui!<Delay 30>
+Ramsus, Shakhan,
+state in guardia!<Close><End of Block>
+<TextBlock 131 w:48 h:4>
+'Cloud Strife' è qui!<Delay 30>
+Ramsus, Shakhan,
+state in guardia!<Close><End of Block>
+<TextBlock 132 w:42 h:4>
+'Albedo
+il bellissimo' è qui!<Delay 30>
+Ramsus, Shakhan,
+state in guardia!<Close><End of Block>
+<TextBlock 133 w:42 h:4>
+'Albedo
+il terribile' è qui!<Delay 30>
+Ramsus, Shakhan,
+state in guardia!<Close><End of Block>
+<TextBlock 134 w:44 h:4>
+'Albedo
+il valoroso' è qui!<Delay 30>
+Ramsus, Shakhan,
+state in guardia!<Close><End of Block>
+<TextBlock 135 w:46 h:4>
+'Albedo' è qui!<Delay 30>
+Ramsus, Shakhan,
+state in guardia!<Close><End of Block>
+<TextBlock 136 w:38 h:4>
+'Crono
+il bellissimo' è qui!<Delay 30>
+Ramsus, Shakhan,
+state in guardia!<Close><End of Block>
+<TextBlock 137 w:38 h:4>
+'Crono
+il terribile' è qui!<Delay 30>
+Ramsus, Shakhan,
+state in guardia!<Close><End of Block>
+<TextBlock 138 w:40 h:4>
+'Crono
+il valoroso' è qui!<Delay 30>
+Ramsus, Shakhan,
+state in guardia!<Close><End of Block>
+<TextBlock 139 w:42 h:4>
+'Crono' è qui!<Delay 30>
+Ramsus, Shakhan,
+state in guardia!<Close><End of Block>
+<TextBlock 140 w:46 h:4>
+È 'Edgar Figaro
+il bellissimo'!<Delay 30>
+Posso avere il tuo
+autografo?<Close><End of Block>
+<TextBlock 141 w:46 h:4>
+È 'Edgar Figaro
+il terribile'!<Delay 30>
+Posso avere il tuo
+autografo?<Close><End of Block>
+<TextBlock 142 w:48 h:4>
+È 'Edgar Figaro
+il valoroso'!<Delay 30>
+Posso avere il tuo
+autografo?<Close><End of Block>
+<TextBlock 143 w:50 h:4>
+È 'Edgar Figaro'!<Delay 30>
+Posso avere il tuo
+autografo?<Close><End of Block>
+<TextBlock 144 w:38 h:4>
+È 'Cloud Strife
+il bellissimo'!<Delay 30>
+Posso avere il tuo
+autografo?<Close><End of Block>
+<TextBlock 145 w:38 h:4>
+È 'Cloud Strife
+il terribile'!<Delay 30>
+Posso avere il tuo
+autografo?<Close><End of Block>
+<TextBlock 146 w:40 h:4>
+È 'Cloud Strife
+il valoroso'!<Delay 30>
+Posso avere il tuo
+autografo?<Close><End of Block>
+<TextBlock 147 w:42 h:4>
+È 'Cloud Strife'!<Delay 30>
+Posso avere il tuo
+autografo?<Close><End of Block>
+<TextBlock 148 w:36 h:4>
+È 'Albedo
+il bellissimo'!<Delay 30>
+Posso avere il tuo
+autografo?<Close><End of Block>
+<TextBlock 149 w:36 h:4>
+È 'Albedo
+il terribile'!<Delay 30>
+Posso avere il tuo
+autografo?<Close><End of Block>
+<TextBlock 150 w:38 h:4>
+È 'Albedo
+il valoroso'!<Delay 30>
+Posso avere il tuo
+autografo?<Close><End of Block>
+<TextBlock 151 w:40 h:4>
+È 'Albedo'!<Delay 30>
+Posso avere il tuo
+autografo?<Close><End of Block>
+<TextBlock 152 w:32 h:4>
+È 'Crono
+il bellissimo'!<Delay 30>
+Posso avere il tuo
+autografo?<Close><End of Block>
+<TextBlock 153 w:32 h:4>
+È 'Crono
+il terribile'!<Delay 30>
+Posso avere il tuo
+autografo?<Close><End of Block>
+<TextBlock 154 w:34 h:4>
+È 'Crono
+il valoroso'!<Delay 30>
+Posso avere il tuo
+autografo?<Close><End of Block>
+<TextBlock 155 w:36 h:4>
+È 'Crono'!<Delay 30>
+Posso avere il tuo
+autografo?<Close><End of Block>
+<TextBlock 156 w:52 h:5>
+Chi è il più forte?
+'Edgar Figaro il bellissimo'o
+o il Principe Bartolomeo?
+    'Edgar Figaro il bellissimo'
+    Il Principe Bartolomeo<Close><End of Block>
+<TextBlock 157 w:52 h:5>
+Chi è il più forte?
+'Edgar Figaro il terribile'
+o il Principe Bartolomeo?
+    'Edgar Figaro il terribile'
+    Il Principe Bartolomeo<Close><End of Block>
+<TextBlock 158 w:54 h:5>
+Chi è il più forte?
+'Edgar Figaro il valoroso'
+o il Principe Bartolomeo?
+    'Edgar Figaro il valoroso'
+    Il Principe Bartolomeo<Close><End of Block>
+<TextBlock 159 w:56 h:5>
+Chi è il più forte?
+'Edgar Figaro'
+il Principe Bartolomeo?
+    'Edgar Figaro'
+    Il Principe Bartolomeo<Close><End of Block>
+<TextBlock 160 w:44 h:5>
+Chi è il più forte?
+'Cloud Strife il bellissimo'
+o il Principe Bartolomeo?
+    'Cloud Strife il bellissimo'
+    Il Principe Bartolomeo<Close><End of Block>
+<TextBlock 161 w:44 h:5>
+Chi è il più forte?
+'Cloud Strife il terribile'
+o il Principe Bartolomeo?
+    'Cloud Strife il terribile'
+    Il Principe Bartolomeo<Close><End of Block>
+<TextBlock 162 w:46 h:5>
+Chi è il più forte?
+'Cloud Strife il valoroso'
+o il Principe Bartolomeo?
+    'Cloud Strife il valoroso'
+    Il Principe Bartolomeo<Close><End of Block>
+<TextBlock 163 w:48 h:5>
+Chi è il più forte?
+'Cloud Strife'
+o il Principe Bartolomeo?
+    'Cloud Strife'
+    Il Principe Bartolomeo<Close><End of Block>
+<TextBlock 164 w:44 h:5>
+Chi è il più forte?
+'Albedo il bellissimo'
+o il Principe Bartolomeo?
+    'Albedo il bellissimo'
+    Il Principe Bartolomeo<Close><End of Block>
+<TextBlock 165 w:44 h:5>
+Chi è il più forte?
+'Albedo il terribile'
+o il Principe Bartolomeo?
+    'Albedo il terribile'
+    Il Principe Bartolomeo<Close><End of Block>
+<TextBlock 166 w:44 h:5>
+Chi è il più forte?
+'Albedo il valoroso'
+o il Principe Bartolomeo?
+    'Albedo il valoroso'
+    Il Principe Bartolomeo<Close><End of Block>
+<TextBlock 167 w:46 h:5>
+Chi è il più forte?
+'Albedo…' o
+il Principe Bartolomeo?
+    'Albedo'
+    Il Principe Bartolomeo<Close><End of Block>
+<TextBlock 168 w:44 h:5>
+Chi è il più forte?
+'Crono il bellissimo'
+o il Principe Bartolomeo?
+    'Crono il bellissimo'
+    Il Principe Bartolomeo<Close><End of Block>>
+<TextBlock 169 w:44 h:5>
+Chi è il più forte?
+'Crono il terribile'
+o il Principe Bartolomeo?
+    'Crono il terribile'
+    Il Principe Bartolomeo<Close><End of Block>
+<TextBlock 170 w:44 h:5>
+Chi è il più forte?
+'Crono il valoroso'
+o il Principe Bartolomeo?
+    'Crono il valoroso'
+    Il Principe Bartolomeo<Close><End of Block>
+<TextBlock 171 w:44 h:5>
+Chi è il più forte?
+'Crono'
+o il Principe Bartolomeo?
+    'Crono'
+    Il Principe Bartolomeo<Close><End of Block>
+<TextBlock 172 w:42 h:1>
+Sì, lo penso anch'io.<Close><End of Block>
+<TextBlock 173 w:48 h:2>
+Uh, davvero?
+Lo dice anche mio padre.<Close><End of Block>
+<TextBlock 174 w:46 h:3>
+Ho dato una coppa
+nascondino a 'Edgar
+Figaro il bellissimo'.<Close><End of Block>
+<TextBlock 175 w:46 h:3>
+Ho dato una coppa
+nascondino a 'Edgar
+Figaro il terribile'.<Close><End of Block>
+<TextBlock 176 w:48 h:3>
+Ho dato una coppa
+nascondino a 'Edgar
+Figaro il valoroso'.<Close><End of Block>
+<TextBlock 177 w:50 h:3>
+Ho dato una coppa
+nascondino a 'Edgar
+Figaro'.<Close><End of Block>
+<TextBlock 178 w:44 h:3>
+Ho dato una coppa
+nascondino a 'Cloud
+Strife il bellissimo'.<Close><End of Block>
+<TextBlock 179 w:38 h:3>
+Ho dato una coppa
+nascondino a 'Cloud
+Strife il terribile'.<Close><End of Block>
+<TextBlock 180 w:40 h:3>
+Ho dato una coppa
+nascondino a 'Cloud
+Strife il valoroso'.<Close><End of Block>
+<TextBlock 181 w:42 h:3>
+Ho dato una coppa
+nascondino a 'Cloud
+Strife'.<Close><End of Block>
+<TextBlock 182 w:36 h:3>
+Ho dato una coppa
+nascondino a 'Albedo
+il bellissimo'.<Close><End of Block>
+<TextBlock 183 w:36 h:3>
+Ho dato una coppa
+nascondino a 'Albedo
+il terribile'.<Close><End of Block>
+<TextBlock 184 w:38 h:3>
+Ho dato una coppa
+nascondino a 'Albedo
+il valoroso'.<Close><End of Block>
+<TextBlock 185 w:40 h:3>
+Ho dato una coppa
+nascondino a 'Albedo'.<Close><End of Block>
+<TextBlock 186 w:36 h:3>
+Ho dato una coppa
+nascondino a 'Crono
+il bellissimo'.<Close><End of Block>
+<TextBlock 187 w:36 h:3>
+Ho dato una coppa
+nascondino a 'Crono
+il terribile'.<Close><End of Block>
+<TextBlock 188 w:36 h:3>
+Ho dato una coppa
+nascondino a 'Crono
+il valoroso'.<Close><End of Block>
+<TextBlock 189 w:36 h:3>
+Ho dato una coppa
+nascondino a 'Crono'.<Close><End of Block>
+<TextBlock 190 w:52 h:2>
+Principe Bartolomeo!<Delay 30>
+Posso avere il suo autografo?<Close><End of Block>
+<TextBlock 191 w:14 h:1>
+Grazie.<Close><End of Block>
+<TextBlock 192 w:30 h:2>
+Dal vivo
+è così fico.<Close><End of Block>
+<TextBlock 193 w:16 h:1>
+Fantastico.<Close><End of Block>
+<TextBlock 194 w:28 h:2>
+Grazie.
+È fantastico.<Close><End of Block>
+<TextBlock 195 w:26 h:2>
+Anch'io
+diventerò forte.<Close><End of Block>
+<TextBlock 196 w:36 h:3>
+Fa fresco qui. <Delay 40>
+L'aria fresca soffia
+su dalla grata.<Close><End of Block>
+<TextBlock 197 w:46 h:4>
+Mi ero appena congedato
+dall'esercito che mia
+madre si è ammalata.<New>
+Era così felice che
+fossi ritornato sano
+e salvo!<New>
+Perché un tipo come
+me deve fare il bucato?<Delay 50>
+Devo trovare una moglie,
+in fretta.<Close><Close><End of Block>

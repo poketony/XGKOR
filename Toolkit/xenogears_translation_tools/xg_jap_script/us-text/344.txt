@@ -1,0 +1,61 @@
+#### 1 ####
+Bart
+"The Thames' captain said
+the base of this lighthouse
+is thousands of years old.{enter}
+It's sturdy so they put a
+light on top to make it a
+lighthouse, but nobody
+knows what's inside."
+
+#### 2 ####
+Billy
+"The base of this light
+house was built several
+thousand years ago.{enter}
+It's just the right height,
+so they made it a light-
+house... But nobody knows
+what's inside of it."
+
+#### 3 ####
+Rico
+"Hammer said this
+lighthouse base is
+thousands of years old.{enter}
+It's sturdy, so they put
+a light on top of it to
+make it into a lighthouse.{enter}
+But nobody knows what's
+inside of it."
+
+#### 4 ####
+Maria
+"This tower was here long
+before Shevat flew into
+the wild, blue yonder.{enter}
+People put a light on top
+of it to make it into a
+lighthouse. But no one
+knows what's inside."
+
+#### 5 ####
+Citan
+"The base of this light
+house was built several
+thousand years ago.{enter}
+Islanders added a light
+to make it into a light-
+house. But no one knows
+what it really is."
+
+#### 6 ####
+Citan
+"The base of this light
+house was built several
+thousand years ago. {enter}
+Islanders added a light
+to make it into a light-
+house. But no one knows
+what it really is."
+

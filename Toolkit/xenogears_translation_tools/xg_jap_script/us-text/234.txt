@@ -1,0 +1,124 @@
+#### 1 ####
+Fei
+    I'll help!
+    Uh, better not...
+
+#### 2 ####
+Fei
+"Doc, do you know
+how to operate it!?"
+
+#### 3 ####
+Errr...
+
+#### 4 ####
+Citan
+"Are you going to think
+ahead? Or are you going
+to help?"
+
+#### 5 ####
+Citan
+"Well then, shall we go?"
+    Yeah, let's go
+    Hang on a sec.
+
+#### 6 ####
+Citan
+"Well everyone, this
+could be dangerous,
+so please be seated."
+
+#### 7 ####
+Citan
+"Call out if you are all
+ready."
+
+#### 8 ####
+Citan
+"...{wait:1E}Uh, let us just say
+I accepted it."
+
+#### 9 ####
+Citan
+"Just stay calm for a
+little longer."
+
+#### 10 ####
+Citan
+"I think we can do
+this."
+
+#### 11 ####
+Citan
+"...{wait:3C}
+Shall we see if it works?"
+
+#### 12 ####
+Citan
+"Not really...{wait:1E}
+But, Fei...{enter}
+You were not thinking of
+stealing this big thing
+without knowing how to
+operate it, were you?"
+
+#### 13 ####
+Citan
+"Well, anyway..."
+
+#### 14 ####
+Citan
+"Is everyone ready?"
+
+#### 15 ####
+Citan
+"It will...{wait:1E}
+shake a little."
+
+#### 16 ####
+Rico
+"..."
+
+#### 17 ####
+Rico
+"Hmph. So when are you
+going to let me down?"
+
+#### 18 ####
+Rico
+"Get a load of this!
+I can't believe they'd
+make such a thing..."
+
+#### 19 ####
+Rico
+"Couldn't you
+tell us..."{wait:3C}
+
+#### 20 ####
+Elly
+"So they were this
+close to having it up
+and operational..."
+
+#### 21 ####
+Elly
+"Fei, let's go."
+
+#### 22 ####
+Hammer
+"Bro, this thing is
+incredible... Boy
+is this exciting."
+
+#### 23 ####
+Hammer
+"We're almost there, bro.
+I'm a little nervous."
+
+#### 24 ####
+Hammer
+"...{wait:0F}
+a bit sooner..."
+

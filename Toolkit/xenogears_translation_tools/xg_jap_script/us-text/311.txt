@@ -1,0 +1,58 @@
+#### 1 ####
+Elly
+"It's locked."
+
+#### 2 ####
+Citan
+"It appears to be locked."
+
+#### 3 ####
+Bart
+"It's locked."
+
+#### 4 ####
+Billy
+"It's locked."
+
+#### 5 ####
+Billy
+"The Pontiff!!"
+
+#### 6 ####
+Billy
+"Damn you{wait:05}...{wait:05}!!"
+
+#### 7 ####
+Rico
+"It's locked."
+
+#### 8 ####
+Billy
+"The infirmary is this way."
+
+#### 9 ####
+Pontiff
+"What is all this about!?
+Who are you all!?"
+
+#### 10 ####
+Pontiff
+"It's been exposed?"
+
+#### 11 ####
+Pontiff
+"Ghaaaaaaa!!"{clear:1E}
+
+#### 12 ####
+You're still pretending
+you don't know anything?
+
+#### 13 ####
+Rebelling against us will
+cost you your life.
+
+#### 14 ####
+You may be the leader of
+the 'Ethos', but you don't
+know when you're beaten.
+

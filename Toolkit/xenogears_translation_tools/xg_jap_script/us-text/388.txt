@@ -1,0 +1,23 @@
+#### 1 ####
+Fei
+"That's a rather old
+picture.{wait:14} Is it a picture
+of a family?{enter}
+Parents, a girl and a
+younger brother...{wait:14}
+Everyone's seems to be
+smiling happily."
+
+#### 2 ####
+Fei
+"It's an old picture...{wait:14}
+It looks like a picture of
+Queen Zephyr's family.{enter}
+Fine looking parents
+and...{wait:14}Is that her brother
+next to the Queen...?{wait:14}
+Everyone is smiling.{enter}
+Only the Queen hasn't
+changed...{wait:14}for 500
+years..."
+

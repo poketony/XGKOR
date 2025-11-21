@@ -1,0 +1,87 @@
+<TextBlock 1 w:44 h:3>
+Fei
+"Usando questa gru per
+darmi una spinta…"<Close><End of Block>
+<TextBlock 2 w:34 h:2>
+Fei
+"Cos'è questo…?"<Close><End of Block>
+<TextBlock 3 w:14 h:2>
+Fei
+"Wow!"<Opcode 2 30><Close><End of Block>
+<TextBlock 4 w:28 h:2>
+Fei
+"Che spavento…"<Close><End of Block>
+<TextBlock 5 w:46 h:3>
+"Uscite immediatamente.
+Quando tornerete, sarà
+di nuovo a posto."<Close><End of Block>
+<TextBlock 6 w:26 h:2>
+    Avvia
+    Lascia stare<Close><End of Block>
+<TextBlock 7 w:50 h:3>
+Cazzo, perché non si
+sta muovendo?<Delay 30> Come
+diamine dovrei portare
+fuori il carico?<Close><End of Block>
+<TextBlock 8 w:46 h:4>
+Se muoviamo la gru
+quassù, forse potremo
+usarla come passaggio
+per poter avanzare.<Close><End of Block>
+<TextBlock 9 w:48 h:4>
+Quella gru è fuori
+servizio.<New>
+Se viene messa in
+movimento, non si
+ferma se non
+colpisce qualcosa.<New>
+È comandata da quel
+pannello a sinistra, ma
+potrai farla muovere
+o a destra o a sinistra.<Close><End of Block>
+<TextBlock 10 w:38 h:2>
+Non puoi prenderlo
+senza permesso!<Close><End of Block>
+<TextBlock 11 w:48 h:3>
+Lui è tornato, lo so.<New>
+Ma il suo spirito no…<Delay 40>
+o le sue… mani… gambe…<Delay 40><Space 2>
+È orribile…<Close><End of Block>
+<TextBlock 12 w:50 h:4>
+Il vecchio che si occupa
+dei binari nel Blocco D,
+è ancora là? Gli devo un
+grosso favore.<Close><End of Block>
+<TextBlock 13 w:52 h:2>
+Che cazzo cerchi di fare?
+Uccidere qualcuno!?<Opcode 2 40><Close><End of Block>
+<TextBlock 14 w:54 h:4>
+Ti prego, non chiedermi
+di andare nell'hangar
+dei Gear!<New>
+Quanto si muove quel
+treno! Solo il pensiero
+mi fa<Delay 40>…<Delay 30>
+… ulp!<Close><End of Block>
+<TextBlock 15 w:54 h:3>
+Ehi, ti darò qull'oggetto
+là se non dirai a nessuno
+che io sono qui.<Close><End of Block>
+<TextBlock 16 w:38 h:1>
+"Niente di utile…"<Close><End of Block>
+<TextBlock 17 w:36 h:1>
+"Wow! Questo…"<Close><End of Block>
+<TextBlock 18 w:18 h:1>
+"Porca…"<Close><End of Block>
+<TextBlock 19 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 20 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 21 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 22 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><Close><End of Block>

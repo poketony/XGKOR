@@ -1,0 +1,53 @@
+<TextBlock 1 w:44 h:3>
+Presto quest'area sarà
+completamente scavata…<New>
+Dovremo trovare un
+altro luogo con tesori 
+sotterrati…<Close><End of Block>
+<TextBlock 2 w:50 h:3>
+Incappare in questi tizi
+armati è molto pericoloso…<New>
+Se trovano nuove rovine,
+non le dividono con
+nessun altro…<New>
+Allora,<Delay 10> vorrei proprio
+sapere dov'è il posto migliore?<Close><End of Block>
+<TextBlock 3 w:40 h:3>
+Shh!
+Sto cercando di pensare.
+Perciò, fai silenzio.<Close><End of Block>
+<TextBlock 4 w:50 h:4>
+Da quando l'esercito non
+controlla più i siti di
+scavo, devi fare da solo…<New>
+Ed anche i prezzi di
+acquisto dell'officina
+della Chiesa sono calati.
+Che cosa faremo?<Close><End of Block>
+<TextBlock 5 w:52 h:4>
+Sono venuto qui in cerca
+di fortuna… ma tutti i
+migliori siti sono
+controllati dai militari.<New>
+Ritornerò a casa a
+mani vuote.
+Che cosa potrò fare?<Close><End of Block>
+<TextBlock 6 w:50 h:4>
+Volevo tentare la fortuna
+come cacciatore di tesori.<New>
+Ho avuto un discreto successo.
+La ragione è che ho trovato
+un buon compagno.<New>
+Proprio ora sta guardando
+sulla mappa, studiando il
+nostro prossimo passo.
+Di certo dipendo dal mio amico.<Close><End of Block>
+<TextBlock 7 w:52 h:8>
+   - Vieni a Dajil! -
+ 
+ Se scaverai nelle rovine, 
+  potrai diventare ricco!
+ 
+          ------
+ 
+ Ass. Cacciatori di Tesori <Close><Close><End of Block>

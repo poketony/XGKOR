@@ -1,0 +1,47 @@
+#### 1 ####
+Verlaine
+"Hahahm, Billy.
+How is your
+beloved father?"
+
+#### 2 ####
+Verlaine
+"...I have no business with
+people not associated with
+the 'Ethos'."
+
+#### 3 ####
+This is the Pontiff's
+room. The general public
+is not allowed in here.
+Please leave.
+
+#### 4 ####
+This is the Pontiff's
+room. The general public
+is not allowed in here.
+Please leave.
+
+#### 5 ####
+The Bishop's been worried
+about Reapers, refugees,
+Etone, the faith...
+
+#### 6 ####
+("{wait:0A}...Too many Wels are out 
+there now. More than we 
+can handle...{wait:14}{enter}
+What are 'they'
+thinking?")
+
+#### 7 ####
+Purge! Purge...!
+
+#### 8 ####
+You have too many
+{str}.
+
+#### 9 ####
+ 
+ Received {str}.
+

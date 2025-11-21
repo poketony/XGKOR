@@ -1,0 +1,49 @@
+#### 1 ####
+Fei
+"That's..."
+
+#### 2 ####
+Fei
+"It appears to be some 
+kind of relay station."
+
+#### 3 ####
+{fast:FF}Up Directional button: 
+                Stop rope
+Left, Right Directional button: 
+                Swing rope
+Left, Right Directional button
+and ¡÷ button:  Jump
+
+#### 4 ####
+You have too many
+{str}.
+
+#### 5 ####
+ 
+ Received {str}.
+
+#### 6 ####
+You have too many
+{str}.
+
+#### 7 ####
+ 
+ Received {str}.
+
+#### 8 ####
+You have too many
+{str}.
+
+#### 9 ####
+ 
+ Received {str}.
+
+#### 10 ####
+You have too many
+{str}.
+
+#### 11 ####
+ 
+ Received {str}.
+

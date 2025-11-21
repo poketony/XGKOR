@@ -1,0 +1,174 @@
+#### 1 ####
+Elly
+"He said survivor,{wait:0A} didn't 
+he? That means, people 
+from the 'Ethos' are{wait:0A}...{wait:0A}"
+
+#### 2 ####
+Elly
+"Come on, Billy.{wait:0A}
+There have to be survivors.
+Let's help them."
+
+#### 3 ####
+Elly
+"Yes{wait:0A}...{wait:0A}
+It looks like he is
+going to be alright."
+
+#### 4 ####
+Citan
+"Elly, how is Fei doing?"
+
+#### 5 ####
+Citan
+"I see. Then, let us
+go to the infirmary."
+
+#### 6 ####
+Citan
+"Are the people from the 
+'Ethos' alright? They 
+mentioned survivors but..."
+
+#### 7 ####
+Citan
+"Billy, pull yourself
+together.{wait:0A}{enter}
+There must be people
+who could not escape.
+Let us go help them."
+
+#### 8 ####
+Citan
+"Elly, how is Fei's 
+condition?"
+
+#### 9 ####
+Citan
+"I see.
+Then, let us go
+to the infirmary."
+
+#### 10 ####
+Citan
+"Are the people from the 
+'Ethos' alright? They 
+mentioned survivors but..."
+
+#### 11 ####
+Citan
+"Billy, pull yourself 
+together.{wait:0A}{enter}
+There must be people who 
+could not escape.
+Let us go help them."
+
+#### 12 ####
+Bart
+"Elly, did Fei get 
+medical treatment?"
+
+#### 13 ####
+Bart
+"Come on.
+Let's go to the infirmary."
+
+#### 14 ####
+Bart
+"Watch out, Billy.
+These guys are 
+professional assassins."
+
+#### 15 ####
+Bart
+"Hey, Billy, come on!
+We're gonna help the
+survivors. Let's go!"
+
+#### 16 ####
+Billy
+"Don't move!{wait:19}
+Who are you?"
+
+#### 17 ####
+Billy
+"Who{wait:0A}...{wait:0A}
+are these guys?{enter}
+Why're they attacking
+the 'Ethos'?"
+
+#### 18 ####
+Billy
+"What!{wait:0A}
+Then, everyone{wait:05}...{wait:05}"
+
+#### 19 ####
+Rico
+"Looks like they finished
+patching up Fei."
+
+#### 20 ####
+Rico
+"Then, let's go to
+the infirmary."
+
+#### 21 ####
+Rico
+"They're pros.
+Real killers."
+
+#### 22 ####
+Rico
+"Come on.{wait:0A}
+We've gotta go save
+the survivors."
+
+#### 23 ####
+Billy
+"This way."
+
+#### 24 ####
+Billy
+"The infirmary is this way.
+Let's go."
+
+#### 25 ####
+Billy
+"Let's hurry to the sick 
+bay. This way, please."
+
+#### 26 ####
+There are still survivors?
+
+#### 27 ####
+Wagggh!
+
+#### 28 ####
+Billy
+"{name:80:unknown}, the infirmary
+is not that way.
+It's this way."
+
+#### 29 ####
+Billy
+"That's the wrong way.
+Take these steps."
+
+#### 30 ####
+Billy
+"That's the confession room.
+If you have a problem, we 
+can discuss it later."
+
+#### 31 ####
+Billy
+"That's the library.
+Right now isn't it more 
+important to visit Fei?"
+
+#### 32 ####
+Billy
+"That's the cafeteria.
+{wait:0A}...{wait:0A}Are you hungry?"
+

@@ -1,0 +1,205 @@
+<TextBlock 1 w:30 h:3>
+Shitan
+"Non va…
+proprio bene…"<Opcode 2 60><Close><End of Block>
+<TextBlock 2 w:50 h:3>
+Bart
+"Ci vediamo, vecchio e
+calvo coglione! Regoleremo
+i conti più tardi."<Opcode 2 80><Close><End of Block>
+<TextBlock 3 w:26 h:4>
+Bart
+"Fino ad allora…
+va' a farti
+lucidare la testa!"<Opcode 2 80><Close><End of Block>
+<TextBlock 4 w:22 h:2>
+Bart
+"Andiamo!"<Close><End of Block>
+<TextBlock 5 w:2 h:1>
+!<Opcode 2 20><Close><End of Block>
+<TextBlock 6 w:36 h:2>
+Sigurd
+"Merda!
+Un'imboscata!"<Close><End of Block>
+<TextBlock 7 w:36 h:3>
+Shitan
+"Oh oh…!<Delay 100>
+Dov'è Kahr…?"<Close><End of Block>
+<TextBlock 8 w:52 h:4>
+Miang
+"Vedo che siete veloci
+a capire la situazione.<New>
+Ramsus, proprio mentre noi
+stiamo qui a parlare…<New>
+… dovrebbe essere a
+prendersi cura di tutte
+le vostre forze…<New>
+… che si trovano sparse
+presso il confine di
+Nisan.<New>
+Ramsus ha facilmente e da
+lungo tempo inteso il
+vostro piano…<New>
+… cioè utilizzare un falso
+attacco mosso da Kislev.
+Non sottovalutateci…<New>
+Hyuga, forse sei vissuto
+qui giù così tanto che
+la tua mente è andata
+peggiorandosi?<New>
+E, Sigurd, chi mai avrebbe
+pensato che ti saresti
+unito…<New>
+… proprio agli ultimi
+sopravvissuti della
+dinastia reale…"<Close><End of Block>
+<TextBlock 9 w:44 h:3>
+Sigurd
+"Dannazione… perché
+state ancora
+appoggiando Shakhan?<New>
+Cosa vi importa chi
+sia il re?"<Close><End of Block>
+<TextBlock 10 w:52 h:4>
+Miang
+"Ah! Proponi il figlio
+dell'assassinato Re
+Fatima?<New>
+Lui si rifiutò di
+collaborare!<New>
+Intendi dire che ora,
+totalmente all'improvviso,
+costrui intende essere il
+nostro burattino?<New>
+Non ci credo… soprattutto
+se viene dalla bocca d'un
+traditore come te.<New>
+Ah ah ha… Inoltre, la
+stupidità che si trova
+nei burattini ha i suoi
+vantaggi."<Close><End of Block>
+<TextBlock 11 w:36 h:4>
+Shakhan
+"Stu… stupidità!?
+Miang, e questo
+cosa vorrebbe dire?"<Close><End of Block>
+<TextBlock 12 w:54 h:4>
+Miang
+"Ministro Shakhan, la
+lascerò occuparsi di
+questa faccenda.<New>
+Lei deve proteggere
+la sua posizione.<New>
+A noi non importa chi
+sia seduto sul trono.<New>
+Qualsiasi pecora
+obbediente andrà bene.<New>
+Tuttavia, lì non c'è
+qualcosa che deve
+ancora fare?<New>
+Se solo la farà, allora
+noi l'aiuteremo il più
+possibile."<Close><End of Block>
+<TextBlock 13 w:44 h:3>
+Shakhan
+"Sì, non c'è bisogno
+che me lo dica.<New>
+Ci si deve prendere
+personalmente cura
+dei criminali del
+proprio paese."<Close><End of Block>
+<TextBlock 14 w:36 h:4>
+Miang
+"In questo caso,
+col suo permesso,
+me ne vado…"<Close><End of Block>
+<TextBlock 15 w:32 h:3>
+Bart
+"Ehi, ferma!
+Aspetta un attimo!!"<Close><End of Block>
+<TextBlock 16 w:34 h:2>
+Miang
+"Arrivederci…<Delay 50>
+ragazzi."<Close><End of Block>
+<TextBlock 17 w:48 h:4>
+Shakhan
+"Tu, pirata… no… tu sei<Space 1>
+solo un verme del deserto.<New>
+Mi hai causato abbastanza
+umiliazioni.<Delay 20> Ma questa
+è la fine.<New>
+Non eri cosciente del
+tuo posto, e ora tutto
+ciò che ti attende è la
+distruzione.<New>
+Preparatevi a far
+fuoco…!"<Close><End of Block>
+<TextBlock 18 w:14 h:2>
+Shakhan
+"Che!?"<Close><End of Block>
+<TextBlock 19 w:40 h:4>
+Maison
+"Tu, ignobile ribelle,
+Shakhan!<New>
+Fai una sola mossa e
+questa mitragliatrice
+sparerà miriadi di
+colpi!"<Close><End of Block>
+<TextBlock 20 w:26 h:2>
+Bart
+"Vecchio Maison!"<Close><End of Block>
+<TextBlock 21 w:44 h:4>
+Maison
+"I rinforzi sono giunti,
+Padroncino. Vi prego di
+salire a bordo."<Close><End of Block>
+<TextBlock 22 w:36 h:2>
+Maison
+"Partiamo?"<Close><End of Block>
+<TextBlock 23 w:54 h:4>
+Shakhan
+"Ma è uno scherzo?<Delay 100>
+Mmh, dopotutto…<New>
+… sembra che i vermi del
+deserto non sappiano
+volare.<New>
+Arrendetevi.
+Grazie per le risate…
+Quasi detesto dovervi
+sparare."<Close><End of Block>
+<TextBlock 24 w:40 h:3>
+Bart
+"Merda! Immagino che
+stiano per spaccarci
+il culo alla grande…"<Close><End of Block>
+<TextBlock 25 w:34 h:3>
+Maison
+"Signori… vi
+prego di abbassarvi."<Close><End of Block>
+<TextBlock 26 w:28 h:3>
+Bart
+"Hai un piano,
+Maison?"<Close><End of Block>
+<TextBlock 27 w:34 h:2>
+Maison
+"Lasciate fare a me."<Close><End of Block>
+<TextBlock 28 w:40 h:3>
+Bart
+"Maison, stai solo
+camminando in tondo!"<Opcode 2 100><Close><End of Block>
+<TextBlock 29 w:44 h:2>
+Maison
+"Lasciate solo fare
+a me."<Opcode 2 60><Close><End of Block>
+<TextBlock 30 w:48 h:4>
+Bart
+"Ci hai risparmiato la
+fatica di trovarti,
+Shakhan! Ora preparati!"<Close><End of Block>
+<TextBlock 31 w:30 h:3>
+Shakhan
+"Vi stavamo
+aspettando!"<Close><End of Block>
+<TextBlock 32 w:16 h:2>
+Bart
+"Cosa!?"<Close><Close><End of Block>

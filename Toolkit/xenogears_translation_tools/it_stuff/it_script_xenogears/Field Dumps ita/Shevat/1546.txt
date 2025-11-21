@@ -1,0 +1,142 @@
+<TextBlock 1 w:36 h:3>
+Fei
+"…!?<Delay 20>
+Yui!?<New>
+Pe… perché
+sei qui…!?"<Close><End of Block>
+<TextBlock 2 w:20 h:2>
+Fei
+"Capisco…"<Close><End of Block>
+<TextBlock 3 w:50 h:3>
+Fei
+"Mi dispiace di averti
+dato tanto fastidio."<Close><End of Block>
+<TextBlock 4 w:14 h:3>
+Fei
+"Sì…<Delay 20> ma…"<Space 1><Close><End of Block>
+<TextBlock 5 w:50 h:4>
+Fei
+"Oh, tu non l'hai mai
+incontrata prima<Delay 20>…<New>
+Questa è Yui, la moglie
+di Doc."<Close><End of Block>
+<TextBlock 6 w:50 h:3>
+Fei
+"Ok!<Delay 20> Allora ci
+vediamo dopo."<Close><End of Block>
+<TextBlock 7 w:54 h:3>
+Shitan
+"Oh, è bello tornare
+da te.<Delay 20> Ti ringrazio per
+tutto ciò che hai fatto."<Close><End of Block>
+<TextBlock 8 w:10 h:2>
+Elly
+"…"<Close><End of Block>
+<TextBlock 9 w:38 h:3>
+Bart
+"Scusami… ma… chi<Space 1>
+è 'sta tipa qui?"<Close><End of Block>
+<TextBlock 10 w:42 h:2>
+Bart
+"La moglie di<Delay 20> Shitan!?"<Close><End of Block>
+<TextBlock 11 w:38 h:3>
+Bart
+"Sì… sì!<Delay 20>
+Pi… piacere
+di conoscerla!"<Close><End of Block>
+<TextBlock 12 w:52 h:5>
+Stiamo ancora girovagando
+per i cieli per colpa della
+guerra che scoppiò 500 anni
+fa. È una cosa assurda!<New>
+Perché dobbiamo soffrire
+per le colpe dei nostri
+antenati?<Delay 20> Cosa ne pensi?<New>
+Non posso nemmeno avere
+degli ingredienti freschi
+per cucinare!<Delay 20> Non ce la
+faccio più!<Close><End of Block>
+<TextBlock 13 w:46 h:3>
+Yui
+"Fei…<Delay 20>
+Stai attento…<New>
+Non importa cosa accade,
+non mollare mai…"<Close><End of Block>
+<TextBlock 14 w:48 h:4>
+Yui
+"Oh, benvenuti.<Delay 20> Hai un
+bell'aspetto, Fei.<New>
+Il pranzo presto sarà
+pronto. Unisciti pure a
+noi e mangia finché
+ti pare."<Close><End of Block>
+<TextBlock 15 w:54 h:4>
+Yui
+"Oh? Non te l'avevo mai
+detto? Io sono nata qui.<New>
+Dopo che lasciasti il
+villaggio, decisi di
+ritornare a Shevat…<New>
+… portando con me i
+sopravvissuti.<New>
+Lo feci perché i soldati
+di Aveh e di Kislev
+erano apparsi lì vicino…"<Close><End of Block>
+<TextBlock 16 w:30 h:2>
+Yui
+"Bentornato, caro."<Close><End of Block>
+<TextBlock 17 w:56 h:3>
+Yui
+"Cosa stai dicendo!?<Delay 20>
+Non è colpa tua.<New>
+Non ti devi preoccupare
+di nulla.<New>
+Dopo essere venuti qui ed
+aver ascoltato la storia,
+le persone del villaggio
+hanno capito tutto.<New>
+Non potrebbero mai
+incolparti solo perché
+dietro a quell'incidente
+c'era Solaris."<Close><End of Block>
+<TextBlock 18 w:54 h:4>
+Yui
+"Ah, ho capito, non ti
+preoccupare<Delay 20>…<New>
+Tu sei Bart, l'Orca del
+deserto, dico bene?<New>
+Ho sentito molto parlare
+di te. Ti sei dovuto
+occupare di molte cose…<Delay 20>
+È un piacere conoscerti."<Close><End of Block>
+<TextBlock 19 w:48 h:3>
+Yui
+"Avete incontrato
+la Regina?<New>
+Se no, andate a salutarla
+al più presto possibile."<Close><End of Block>
+<TextBlock 20 w:46 h:4>
+Yui
+"C'è un intruso qui a
+Shevat?<Delay 20> È uno di
+Solaris…?"<Close><End of Block>
+<TextBlock 21 w:56 h:4>
+Yui
+"Avete incontrato
+la Regina?<New>
+Se no, andate a salutarla
+al più presto possibile."<Close><End of Block>
+<TextBlock 22 w:26 h:2>
+Midori
+"…<New>
+Chu-chu…<Delay 20>
+Amica mia…"<Close><End of Block>
+<TextBlock 23 w:42 h:4>
+Midori parla davvero
+tanto, chu!<Delay 20> È incredibile
+su quante cose si
+può discutere, chu!<Close><End of Block>
+<TextBlock 24 w:52 h:3>
+Noi possiamo conversare
+senza parlare.<Delay 20> Lo hai
+già dimenticato?<Close><Close><End of Block>

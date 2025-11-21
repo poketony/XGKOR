@@ -1,0 +1,61 @@
+#### 1 ####
+Listen, Hyuga.{wait:14}
+I'm going to Solaris, too.
+
+#### 2 ####
+Fei
+"Why{wait:14}...are you here!?"
+
+#### 3 ####
+Citan
+"Yes...{wait:14}
+I will be counting on
+that."
+
+#### 4 ####
+Jessie
+"Don't misunderstand me.{wait:14}
+It doesn't mean I'll help
+you.{enter}
+I don't know what you're
+thinking or trying to
+do...{enter}
+But, if you take their
+side, I'll kill you without
+a doubt.{wait:14} Even from the
+back..."
+
+#### 5 ####
+Jessie
+"Heh...{wait:14}
+so discouraging..."
+
+#### 6 ####
+Wiseman
+"Fei, 
+go with Shevat.{enter}
+Your father, Kahn
+would've wanted you to..."
+
+#### 7 ####
+Wiseman
+"Go ahead, go in."
+
+#### 8 ####
+Wiseman
+"You're finally here...{wait:14}
+Where have you been?"
+
+#### 9 ####
+Wiseman
+"I've told you before.{enter}
+I learned martial arts
+with your father in
+Shevat.{enter}
+The Queen is waiting.
+Go ahead."
+
+#### 10 ####
+Maria
+"Please come in."
+

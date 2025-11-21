@@ -1,0 +1,208 @@
+<TextBlock 1 w:16 h:2>
+Elly
+"Noooo!"<Close><End of Block>
+<TextBlock 2 w:42 h:4>
+Fei
+"Ma… Quella voce…<Delay 10>
+…<Delay 3>…<Delay 3>… <Delay 20>Elly?<Delay 10>
+Elly, sei tu!?"<Close><End of Block>
+<TextBlock 3 w:46 h:4>
+Fei
+"Elly!?<Delay 20>
+Il tuo viso<Delay 20>…!?<Delay 20>
+Che succede?<New>
+Non avrai mica preso
+quella droga che
+cambia la
+personalità…<New>
+… di cui Bart ci
+ha parlato!?"<Close><End of Block>
+<TextBlock 4 w:30 h:4>
+Fei
+"Elly, fermati!
+Perché dobbiamo
+combattere?"<Close><End of Block>
+<TextBlock 5 w:34 h:3>
+Fei
+"Elly,
+riprenditi!<New>
+I tuoi sentimenti
+sono controllati
+dalla droga!"<Close><End of Block>
+<TextBlock 6 w:40 h:4>
+Fei
+"È una bugia!
+Sei sempre stata
+responsabile…<New>
+Accusavi te stessa
+di aver causato
+l'incidente a Lahan
+atterrando là.<New>
+Eri così premurosa
+con me…<New>
+La vera Elly non
+avrebbe mai detto
+una cosa simile!"<Close><End of Block>
+<TextBlock 7 w:38 h:4>
+Fei
+"… Argh!<Delay 20>
+Elly<Delay 10>…<Delay 20>
+Devo combatterti!?"<Close><End of Block>
+<TextBlock 8 w:36 h:4>
+Fei
+"… Che succede?
+C'è qualcosa che
+non va con Elly!<New>
+Forse adesso
+potrò fermarla!!"<Close><End of Block>
+<TextBlock 9 w:32 h:4>
+Fei
+"Elly!<Delay 10>
+Svegliati e
+torna in te!"<Close><End of Block>
+<TextBlock 10 w:42 h:3>
+Fei
+"Elly, va tutto bene?
+Cosa!?<New>
+È l'effetto della
+droga che sta
+svanendo?"<Close><End of Block>
+<TextBlock 11 w:36 h:4>
+Fei
+"È così, Elly!?<Delay 20>
+È quello che sta
+succedendo?"<Close><End of Block>
+<TextBlock 12 w:42 h:4>
+Fei
+"Fatti forza, Elly!<Delay 10>
+Non lasciare che la
+droga ti domini!"<Close><End of Block>
+<TextBlock 13 w:42 h:3>
+Elly
+"Non ho nulla a che
+fare con te!<New>
+E vorresti smetterla
+di cercare di essere
+così amichevole!?"<Close><End of Block>
+<TextBlock 14 w:48 h:4>
+Elly
+"Perché? È ovvio.
+È la divina
+provvidenza.<New>
+Noi siamo il popolo
+eletto, gli Abele.<New>
+Il nostro scopo
+è dominare gli
+abitanti della terra,
+gli 'Agnelli'.<New>
+Chi si mette contro
+di noi dovrà essere
+eliminato!"<Close><End of Block>
+<TextBlock 15 w:48 h:3>
+Elly
+"Questa sono io!
+Non ce n'è un'altra!"<Close><End of Block>
+<TextBlock 16 w:38 h:4>
+Elly
+"Parli come se ci
+conoscessimo. Ma
+non sai nulla di me!"<Close><End of Block>
+<TextBlock 17 w:44 h:4>
+Elly
+"Ahahah! Agitati!
+Balla!! Muori e marcisci
+nell'oscurità!"<Close><End of Block>
+<TextBlock 18 w:32 h:4>
+Elly
+"Sembra che sia
+giunta la tua
+ultima ora.<New>
+Ora lascerai
+questa valle di
+lacrime per
+sempre."<Close><End of Block>
+<TextBlock 19 w:44 h:4>
+Elly
+"Non temere!<New>
+Per essere stato così
+gentile, ti darò una
+morte senza dolore.
+Addio,<Delay 20> Fei<Delay 20>…<Delay 20>"<Close><End of Block>
+<TextBlock 20 w:44 h:4>
+Elly
+"Fei<Delay 20>…<Delay 20>
+Cosa stai facendo? Non
+dovresti essere qui!"<Close><End of Block>
+<TextBlock 21 w:44 h:3>
+Elly
+"!!<New>
+Questo<Delay 20>…<Delay 20> non<Delay 20>…<Delay 20> è vero<Delay 20>…<Delay 20>
+Io<Delay 20>…<Delay 20> non<Delay 20>…<Delay 20> io<Delay 20>…<Delay 20> non<Delay 20>
+voglio<Delay 20>…<Delay 20> Uh!!"<Close><End of Block>
+<TextBlock 22 w:40 h:4>
+Elly
+"A<Delay 20>iut… <Delay 20>o…<Delay 20>
+No,<Delay 20> questa<Delay 20>… non…<Delay 20>
+non sono…<Delay 20>…<Delay 20> io…"<Close><End of Block>
+<TextBlock 23 w:28 h:4>
+Elly
+"Uhh! …<Delay 10>
+Aagh<Delay 10>…<Delay 20> Ah…<Delay 10>
+La<Delay 10> mia testa…"<Close><End of Block>
+<TextBlock 24 w:34 h:3>
+Elly
+"Ugh…!<Delay 30> Sta' zitto!<New>
+Non voglio ascoltare
+le ciance di un
+Agnello…"<Close><End of Block>
+<TextBlock 25 w:16 h:2>
+Elly
+"Uuahh!"<Close><End of Block>
+<TextBlock 26 w:38 h:3>
+Elly
+"Fa'<Delay 10> silenzio!<New>
+Non ho bisogno
+della compassione
+di nessuno.<New>
+<Delay 20>Io…<Delay 20> io…<Delay 20> mmh<Delay 20>
+<Delay 40>Fe…<Delay 20> i…<Delay 20>"<Close><End of Block>
+<TextBlock 27 w:38 h:3>
+Broyer
+"Wow!
+Li hai visti!?"<Close><End of Block>
+<TextBlock 28 w:40 h:2>
+Renk
+"Quelli erano Aerodi!"<Close><End of Block>
+<TextBlock 29 w:18 h:2>
+Franz
+"Aerodi?"<Close><End of Block>
+<TextBlock 30 w:46 h:4>
+Helmholtz
+"Animus Ether Response
+Offensive Drones…<New>
+Comunemente detti
+Aerodi…<New>
+Fra i Geburah ci sono
+solo poche persone che
+sono capaci di
+utilizzarli…<New>
+Da quello che so,
+possono essere solo
+persone della Classe
+degli Elementi."<Close><End of Block>
+<TextBlock 31 w:44 h:4>
+Strakki
+"È come l'effetto
+collaterale della
+'Drive'?<New>
+Non c'è differenza,
+giusto…?"<Close><End of Block>
+<TextBlock 32 w:44 h:5>
+Renk
+"… No, la Drive si
+limita a manifestare
+solo il potenziale
+che lei ha già.<New>
+Quello che vedete…
+… è il suo vero
+potenziale!"<Close><Close><End of Block>

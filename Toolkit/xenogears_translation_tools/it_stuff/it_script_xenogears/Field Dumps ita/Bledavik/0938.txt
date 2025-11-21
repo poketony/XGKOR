@@ -1,0 +1,123 @@
+<TextBlock 1 w:46 h:4>
+Shakhan
+"Dopo la cerimonia di
+consacrazione, si tiene
+abitualmente un Torneo…"<Close><End of Block>
+<TextBlock 2 w:48 h:3>
+Ramsus
+"Che cosa mi dici
+dell'incidente
+in quel rapporto?"<Close><End of Block>
+<TextBlock 3 w:54 h:4>
+Shakhan
+"Cosa?<New>
+Oh, sta parlando di
+quell'arma vecchia di
+500 anni trovata nelle
+rovine?<New>
+Con l'aiuto della
+Chiesa, le riparazioni
+sono state completate.<New>
+Pensavo di fare
+l'annuncio il giorno
+della cerimonia di
+consacrazione…"<Close><End of Block>
+<TextBlock 4 w:46 h:3>
+Ramsus
+"Di quei giocattoli
+dovrebbe occuparsene
+Vanderkam.<New>
+Sto parlando del
+'Diaspro di Fatima'."<Close><End of Block>
+<TextBlock 5 w:48 h:3>
+Shakhan
+"Ho già ottenuto una
+metà del diaspro.<New>
+Ma non sono stato capace
+di farmi dire dove si
+trova l'altra metà.<New>
+È una ragazza con una
+volontà di ferro…"<Close><End of Block>
+<TextBlock 6 w:46 h:3>
+Ramsus
+"Non sei stato
+'scortese' con
+lei, vero?"<Close><End of Block>
+<TextBlock 7 w:44 h:4>
+Shakhan
+"Assolutamente no. Lei,
+signore, disprezza atti
+volgari come quelli."<Close><End of Block>
+<TextBlock 8 w:52 h:4>
+Ramsus
+"Hai detto che la
+ragazza è la Santa
+Madre di Nisan…<Delay 50><New>
+È al piano di sopra?"<Close><End of Block>
+<TextBlock 9 w:24 h:3>
+Shakhan
+"Sì, nella
+torre est."<Close><End of Block>
+<TextBlock 10 w:28 h:4>
+Ramsus
+"Miang, è possibile
+che lei sia un
+'Contenitore'?"<Close><End of Block>
+<TextBlock 11 w:54 h:4>
+Miang
+"Sì, ma non c'è ancora
+risposta. Sembra esserci
+una specie di barriera.<New>
+Comunque, dai dati in
+nostro possesso sappiamo
+che uno è sicuramente in
+questa zona.<New>
+Probabilmente è anche
+molto ben protetto."<Close><End of Block>
+<TextBlock 12 w:42 h:3>
+Ramsus
+"… Andiamo da lei.<New>
+Voglio parlarle faccia
+a faccia. Miang, tu
+verrai con me."<Close><End of Block>
+<TextBlock 13 w:20 h:2>
+Miang
+"Sissignore."<Close><End of Block>
+<TextBlock 14 w:42 h:4>
+Grahf
+"Suppungo tu già sappia
+che i tuoi stratagemmi
+non ti saranno utili."<Close><End of Block>
+<TextBlock 15 w:52 h:4>
+Miang
+"Sto solo cercando
+di aiutarlo.<New>
+Non l'ho forse aiutato
+a sbarazzarsi di quegli
+'intralci'?<New>
+Ora, tu sai che il
+'recipiente' reagirà
+solo davanti al prescelto.<New>
+E loro non lo sanno. Ma…
+è necessario per Kahr.<New>
+Lui è l'unico motivo per
+il quale Kahr esiste."<Close><End of Block>
+<TextBlock 16 w:46 h:4>
+Miang
+"Sì, ti devo ringraziare.
+Dopotutto, tu m'aiutasti,
+non è forse così?"<Close><End of Block>
+<TextBlock 17 w:10 h:2>
+Grahf
+"…"<Close><End of Block>
+<TextBlock 18 w:44 h:4>
+Miang
+"Era per me?
+O per lui?
+… O… per te stesso?"<Close><End of Block>
+<TextBlock 19 w:46 h:3>
+Margie
+"Non voglio tornare
+lassù!"<Close><End of Block>
+<TextBlock 20 w:24 h:1>
+Nessuna risposta.<Close><Close><End of Block>

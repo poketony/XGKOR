@@ -1,0 +1,201 @@
+<TextBlock 1 w:44 h:2>
+Fei
+"Elly, ti sei
+svegliata…"<Close><End of Block>
+<TextBlock 2 w:30 h:2>
+Elly
+"Ah, oooooh…"<Close><End of Block>
+<TextBlock 3 w:46 h:4>
+Elly
+"Dove sono…?<New>
+Ero con Fei, stavo andando
+verso il blocco posteriore
+del Golia…<Delay 20> Fei…!
+Dove sei, Fei?"<Close><End of Block>
+<TextBlock 4 w:26 h:1>
+Rumble rumble<Opcode 2 60><Close><End of Block>
+<TextBlock 5 w:44 h:3>
+Elly
+"Sono sveglia…?
+Cosa stavi facendo!?"<Close><End of Block>
+<TextBlock 6 w:52 h:4>
+Fei
+"Stavo vedendo un po'
+cosa c'è qui dentro.<New>
+Ce n'è abbastanza per<Delay 20>
+due giorni…"<Close><End of Block>
+<TextBlock 7 w:20 h:2>
+Elly
+"Abbastanza di cosa?"<Close><End of Block>
+<TextBlock 8 w:32 h:4>
+Fei
+"Di cibo. E siamo
+già fortunati ad
+averlo trovato."<Close><End of Block>
+<TextBlock 9 w:54 h:3>
+Elly
+"Ma dove sono tutti!?
+Siamo gli unici
+sopravvissuti?"<Close><End of Block>
+<TextBlock 10 w:48 h:4>
+Fei
+"Dobbiamo fare qualcosa.
+Credo che mi metterò a
+prendere dei pesci."<Close><End of Block>
+<TextBlock 11 w:12 h:2>
+Elly
+"Fei!"<Close><End of Block>
+<TextBlock 12 w:36 h:2>
+Fei
+"…<Delay 70> Stanno bene."<Close><End of Block>
+<TextBlock 13 w:14 h:2>
+Elly
+"Cosa?"<Close><End of Block>
+<TextBlock 14 w:54 h:4>
+Fei
+"Stanno bene…<Delay 45> Doc,<Delay 30> Rico,<Delay 30>
+Hammer,<Delay 30> tutti loro…<Delay 45>
+Staranno tutti bene."<Close><End of Block>
+<TextBlock 15 w:28 h:1>
+Piccolo stronzo…!<Opcode 2 60><Close><End of Block>
+<TextBlock 16 w:16 h:1>
+Fermo!<Opcode 2 60><Close><End of Block>
+<TextBlock 17 w:50 h:4>
+Elly
+"Lo sapevo…<Delay 20> Pensavo
+che questa cosa stesse
+galleggiando stranamente…<New>
+Ma, anche sapendolo, ci è
+impossibile spostarli da
+lì…<Delay 20> non è vero?<New>
+Sono proprio sotto di noi,
+ma coperti dall'acqua e da
+un muro molto spesso."<Close><End of Block>
+<TextBlock 18 w:52 h:4>
+Elly
+"Probabilmente sono
+<Weltall> e <Vierge>.<New>
+Bene o male, ci hanno
+seguito fino a qui.
+… Ma, a questo punto,
+ci sono inutili."<Close><End of Block>
+<TextBlock 19 w:54 h:4>
+Elly
+"Sembra che i nostri Gear
+siano qui sotto, Fei. Ma…
+non possiamo raggiungerli…<New>
+…<Delay 30> Che stai facendo, Fei?"<Close><End of Block>
+<TextBlock 20 w:54 h:4>
+Fei
+"Cosa sto facendo?
+Non ci arrivi…? Cerco
+di prendere un pesce!<New>
+Questo qui salta su e giù
+da un po', proprio davanti
+a me, cercando di farmi
+sembrare un cretino…"<Close><End of Block>
+<TextBlock 21 w:34 h:3>
+Fei
+"Piccolo stupido!
+Ti vedo!"<Close><End of Block>
+<TextBlock 22 w:42 h:4>
+Elly
+"Eh,<Delay 5> uhm,<Delay 5> non vorrai
+mica prenderlo e
+mangiarlo, vero?"<Close><End of Block>
+<TextBlock 23 w:48 h:4>
+Fei
+"Se non mangiamo,
+moriremo<Delay 15>…<Delay 15>
+<Delay 15>… Grande!! L'ho preso!!"<Close><End of Block>
+<TextBlock 24 w:34 h:3>
+Elly
+"Stai scherzando…?
+Ti ammalerai."<Close><End of Block>
+<TextBlock 25 w:54 h:4>
+Fei
+"Non vuoi mangiare?
+Fammi vedere… Ci serve
+qualcosa con cui cucinare."<Close><End of Block>
+<TextBlock 26 w:6 h:1>
+…<Close><End of Block>
+<TextBlock 27 w:46 h:4>
+Elly
+"Ehi, su, smettila.
+Non sarà colpa mia se
+ti ammali e muori."<Close><End of Block>
+<TextBlock 28 w:50 h:4>
+Fei
+"Non preoccuparti.
+Una volta nel tuo stomaco
+ogni cosa è uguale."<Close><End of Block>
+<TextBlock 29 w:42 h:3>
+Elly
+"Io non ho intenzione<Delay 10>…<Delay 10>
+Fei!! Guarda lì<Delay 10>…"<Close><End of Block>
+<TextBlock 30 w:46 h:3>
+Fei
+"Cosa!?
+Il pesce è scappato?"<Close><End of Block>
+<TextBlock 31 w:40 h:3>
+Fei
+"Ma di che stai
+parlando?<New>
+È ancora lì<Delay 10>…<Delay 10>
+Ma che<Delay 10>…<Delay 10>!?
+<Delay 10>…<Delay 10> Quella è…!"<Close><End of Block>
+<TextBlock 32 w:52 h:4>
+Fei
+"Quella… è quella cosa
+che vidi nel deserto.<New>
+E questa volta sta
+volando molto più
+in alto."<Close><End of Block>
+<TextBlock 33 w:54 h:3>
+Elly
+"È Shevat… E questa è
+la sua solita altitudine."<Close><End of Block>
+<TextBlock 34 w:52 h:4>
+Fei
+"Shevat…<Delay 30>
+Dove l'ho già sentita…?<Delay 30>
+Sì, giusto…<New>
+Quello strano uomo
+mascherato! Disse che mio
+padre era un militare di
+Shevat…<New>
+Perciò quello, secondo
+quanto hanno detto Doc
+e quell'uomo mascherato…<New>
+… sarebbe il paese nel
+quale mio padre e mia
+madre vivevano?"<Close><End of Block>
+<TextBlock 35 w:54 h:4>
+Elly
+"Davvero? Non lo sapevo…
+È un paese oltre la
+portata di Solaris.<New>
+Shevat usa lo stessa
+barriera di Solaris…<New>
+… perciò non lo si può
+raggiungere come se fosse
+un paese qualsiasi."<Close><End of Block>
+<TextBlock 36 w:46 h:4>
+Fei
+"Come può essere un
+'paese' una cosa che
+vola così alta in cielo?"<Close><End of Block>
+<TextBlock 37 w:54 h:4>
+Elly
+"È così. Posso capire
+che tu sia sopreso.<New>
+Di norma vola sopra
+la regione nota come
+l'arcipelago di Aquvy.<New>
+Probabilmente lo vedesti
+in un qualche tipo di
+missione speciale. Per 
+questo volava così basso…"<Close><End of Block>
+<TextBlock 38 w:22 h:2>
+Fei
+"Shevat…"<Delay 120><Opcode 2 120><Close><End of Block>

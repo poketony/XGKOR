@@ -1,0 +1,21 @@
+<TextBlock 1 w:10 h:2>
+ qui<Close>
+Qui<Close><End of Block>
+<TextBlock 2 w:10 h:2>
+ qui<Close>
+Qui<Close><End of Block>
+<TextBlock 3 w:26 h:8>
+ ?
+ <Extra2 255><Extra2 255><Extra2 255><Extra2 255>su
+ <Extra2 255><Extra2 255><Extra2 255><Extra2 255>giù
+ <Extra2 255><Extra2 255><Extra2 255><Extra2 255>annulla
+?
+Su
+Giù
+annulla<Close><End of Block>
+<TextBlock 4 w:10 h:2>
+ qui<Close>
+Qui<Close><End of Block>
+<TextBlock 5 w:10 h:2>
+ qui<Close>
+Qui<Close><Close><End of Block>

@@ -1,0 +1,204 @@
+#### 1 ####
+Citan
+"That someone was
+waiting for you{wait:05}...{enter}
+That one thought was
+all it took for you
+to regain yourself{wait:05}...{enter}
+You are a great man,{wait:14}
+Sigurd{wait:05}..."
+
+#### 2 ####
+Citan
+"So we are too late..."
+
+#### 3 ####
+Citan
+"Nanomachines are
+robots that are smaller
+than human cells.{enter}
+They are used to cure
+diseases or wounds in
+Solaris.{enter}
+...She may be a colony
+of nanomachines made
+by an ancient, but
+advanced technology."
+
+#### 4 ####
+Citan
+"I am worried about what
+Bishop Stone mentioned.{enter}
+He said he needed her
+ 'to free humanity
+ from its yoke'.{enter}
+Perhaps some ancient
+information on human
+reconstruction is hidden
+inside of her body...{enter}
+Demihumans, such as Rico
+and Hammer were born from
+the results of the messing
+around with D.N.A....{enter}
+That was done by ancient
+Solaris' in the hopes that
+it would bring about the
+restoration of mankind.{enter}
+If Krelian is thinking of
+trying the same thing with
+improved nanotechnology...
+that would be frightening."
+
+#### 5 ####
+Sigurd
+"Why such a glum face?{enter}
+Tomorrow is our first
+return to your castle
+in 12 years."
+
+#### 6 ####
+Sigurd
+"You'll get used to it."
+
+#### 7 ####
+Sigurd
+"Yes?"
+
+#### 8 ####
+Sigurd
+"I was kidnapped by Solaris
+and brainwashed for use as
+a human guinea pig."
+
+#### 9 ####
+Sigurd
+"But, even they couldn't
+erase my desire to return
+home.{enter}
+Then, I remembered you and
+Marguerite, not as the
+royalty of our country but
+as just normal children.{enter}
+I don't care about
+rebuilding a dynasty.{enter}
+I want to regain this
+kingdom because it
+belongs to you...{wait:0A}
+Because it's your home!"
+
+#### 10 ####
+Sigurd
+"Yes.{enter}
+For that, we must take
+Shakhan down tomorrow.
+Am I correct?"
+
+#### 11 ####
+Sigurd
+"But first...{wait:0A}
+I think you need
+to take a bath!"
+
+#### 12 ####
+Sigurd
+"You don't look
+like a king at all!{enter}
+You are facing the
+enemy's leader...
+so you must have a
+noble appearance!"
+
+#### 13 ####
+Sigurd
+"That is that,
+this is this!"
+
+#### 14 ####
+Bart
+"Returning to the castle...{enter}
+After we get the royal
+palace back, I guess I'm
+going to be the king{wait:05}...{enter}
+...{wait:05}I'm not very suited for
+it,{wait:05} am I?"
+
+#### 15 ####
+Bart
+"Listen,{wait:0A} Sig{wait:14}..."
+
+#### 16 ####
+Bart
+"I guess it really...{wait:14}
+doesn't matter who the
+king is,{wait:0A} does it?{enter}
+As long as it's a symbol
+of hope, right?{wait:14}
+It doesn't have to be me."
+
+#### 17 ####
+Bart
+"Because it's my home?"
+
+#### 18 ####
+Bart
+"...Right.
+Then, let's do it!!"
+
+#### 19 ####
+Bart
+"A bath!?"
+
+#### 20 ####
+Bart
+"Hey, you just said it
+didn't matter whether
+I'm a king or not!!"
+
+#### 21 ####
+Bart
+"Citan, so someone named
+Krelian took the kid. So
+what?{enter}
+What the heck is a
+nanomachine, anyway?"
+
+#### 22 ####
+Bart
+"...Then, what's the prob?
+It's good for people,
+right?{enter}
+It just irritates me that
+it's all only for Solaris."
+
+#### 23 ####
+Billy
+"Citan, so what happens
+now that Krelian took the
+child?{enter}
+What is a nanomachine
+anyway?"
+
+#### 24 ####
+Billy
+"Even if it's only for the
+people of Solaris...{enter}
+What's wrong with making
+people happy?"
+
+#### 25 ####
+Rico
+"Citan, someone named
+Krelian took the kid,
+so what?{enter}
+What is a nanomachine,
+anyway?"
+
+#### 26 ####
+Rico
+"...Then, what's the prob?
+It's good for people,
+right?{enter}
+But it irritates me that
+all of them are for
+Solaris."
+

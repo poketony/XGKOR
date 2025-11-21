@@ -1,0 +1,793 @@
+#### 1 ####
+Fei
+"Uh,
+wha, what..."{clear:1E}
+
+#### 2 ####
+Fei
+"Th, this..."{clear:1E}
+
+#### 3 ####
+Fei
+"Uhhaaaaaahhh"{clear:32}
+
+#### 4 ####
+Fei
+"Unh..."{clear:1E}
+
+#### 5 ####
+Fei
+"Huh!?
+This is..."{clear:1E}
+
+#### 6 ####
+Fei
+"Guh...gr.."{clear:1E}
+
+#### 7 ####
+Fei
+"Can't...
+get it."{clear:28}
+
+#### 8 ####
+Fei
+"Uh...{wait:1E}
+This is..."
+
+#### 9 ####
+Fei
+"What is this!?{wait:14}
+Why are you showing 
+me this!?{enter}
+Who!? 
+Who did this!?{enter}
+Elly!
+Doc!{enter}
+Where are you!?
+Where..."
+
+#### 10 ####
+Fei
+"Wha...?"
+
+#### 11 ####
+Fei
+"Doc!?{enter}
+Th, these guys?
+What is this!?"
+
+#### 12 ####
+Fei
+"Bart!?"{clear:28}
+
+#### 13 ####
+Fei
+"Billy!"
+
+#### 14 ####
+Fei
+"Doc!!{wait:14}
+What's going on!?{enter}
+What are you all...?{wait:1E}
+Doc! Answer me!"
+
+#### 15 ####
+Fei
+"Solaris Guardian Angel?{wait:1E}
+Monitoring me?"
+
+#### 16 ####
+Fei
+"The bodies of Bart and
+the others belong to you?{enter}
+Is that true!?
+Doc!{enter}
+What they are saying?"
+
+#### 17 ####
+Fei
+"?"
+
+#### 18 ####
+Fei
+"...Revenge?"
+
+#### 19 ####
+Fei
+"Is...{wait:14} that it...?{enter}
+You were in with these
+guys...{enter}
+That's why you,
+everyone..."
+
+#### 20 ####
+Fei
+"Why!{enter}
+You've had your way all
+this time with us land
+dwellers!{enter}
+You already own the world!{enter}
+What more do you want?"
+
+#### 21 ####
+Fei
+"Aerial Paradise Mahanon?{wait:1E}
+The place fell to earth..."
+
+#### 22 ####
+Fei
+"What do you mean!?"
+
+#### 23 ####
+Fei
+"That's ridiculous!?"
+
+#### 24 ####
+Fei
+"...!?"
+
+#### 25 ####
+Fei
+"...So you're not
+planning on using
+Solaris'{enter}
+power to dominate
+the world?"
+
+#### 26 ####
+Fei
+"Ugh..."
+
+#### 27 ####
+Fei
+"What're you gonna do to
+me? To Bart and them?
+Where is Elly?"
+
+#### 28 ####
+Fei
+"Damnit...{wait:1E}
+This...{wait:1E}
+What was I..."
+
+#### 29 ####
+Fei
+"Godammit!
+We weren't born to be used
+by them!{enter}
+We didn't come all the way
+to Solaris for that!{enter}
+I, we, everyone...we just
+want to make a place where
+we can belong...{enter}
+That's what we were
+fighting for...
+But now..."
+
+#### 30 ####
+Fei
+"I...{wait:28} I..."
+
+#### 31 ####
+Fei
+"Stop! Please!"
+
+#### 32 ####
+Citan
+"Are you conscious?"
+
+#### 33 ####
+Citan
+"It is impossible to move.
+This machine has physically
+cut your nerve signals.{enter}
+You will not be able to
+lift a finger regardless
+of what your minds says."
+
+#### 34 ####
+Citan
+"Do not worry...
+They have their roles...{wait:1E}
+you have yours.{enter}
+I simply investigate."
+
+#### 35 ####
+Citan
+"So the battle has been
+fought...you say?{enter}
+That was discussed earlier
+by the Ministry..."
+
+#### 36 ####
+Citan
+"It is much easier to be
+given a place to belong
+than to make one yourself.{enter}
+You do not even
+understand a simple
+concept like that?"
+
+#### 37 ####
+Citan
+"Childish ideals pale when
+placed before reality.{enter}
+But actually many are
+satisfied with that.{enter}
+Being given one's place,
+frees one from any risks.{enter}
+Misfortunes may be blamed
+on others.{enter}
+Do you know why people can
+not exist alone but only
+under some bigger concept
+such as a group or country?{enter}
+People need a place to go
+to be themselves...{enter}
+The more stable it is the
+more effective it is."
+
+#### 38 ####
+Citan
+"The Ministry gives them
+such a place.{enter}
+Under total surveilance,
+there is no need to bear
+the risk of maintaining 
+one's own individuality.{enter}
+They simply live under the
+delusion of being an
+'individual'. What could
+be easier?{enter}
+Facts are facts so let's
+just accept them. It will
+be easier for all of us.{enter}
+Resistance is futile. It
+only makes things painful."
+
+#### 39 ####
+Citan
+"Do you still intend to
+do something about it?{enter}
+Look at yourself...{enter}
+What do you think you could
+possibly do at this stage?
+You cannot move.{enter}
+You could not even protect
+your friends who fought
+with you, when they needed
+you.{enter}
+You could not even protect
+the most important person
+in your life, Elly."
+
+#### 40 ####
+Citan
+"You can do nothing."
+
+#### 41 ####
+Fei
+"Elly..."
+
+#### 42 ####
+Fei
+"Doc...
+You there?"
+
+#### 43 ####
+You brought about this
+spectacle.
+
+#### 44 ####
+That voice is the one
+which haunts you...
+
+#### 45 ####
+Cursed, untouchable one...
+
+#### 46 ####
+Oh god's beloved child,
+those who prevent our
+prayers...
+
+#### 47 ####
+Get...
+
+#### 48 ####
+Destroy...
+
+#### 49 ####
+Burn with god's fire...
+
+#### 50 ####
+Elder
+"One of the Solaris
+Guardian Angels is
+here, Hyuga Ricdeau.
+
+#### 51 ####
+Elder
+"This man is Cain...{wait:1E}
+Receiving the orders from
+the one known as Emperor,{enter}
+You've entered his realm,
+and have been under his 
+continued supervision..."
+
+#### 52 ####
+Elder
+"Oh yes.{enter}
+We've guided Solaris and
+even selected the
+'Animus' which have been
+drawn to you.{enter}
+And guided you here to
+Solaris."
+
+#### 53 ####
+Elder
+"The 'Animus' is needed for
+our resurrection...{enter}
+These are our bodies...
+This what we possess."
+
+#### 54 ####
+Elder
+"Yes, this is the only
+reason we exist..."
+
+#### 55 ####
+Elder
+"Why so apprehensive?{enter}
+Is it that you were sold
+out by one you trusted?"
+
+#### 56 ####
+Fei
+"I'm not talking to you
+guys! {wait:1E}Doc, answer me!"
+
+#### 57 ####
+Citan
+"3 years..."
+
+#### 58 ####
+Citan
+"For three years I have
+been by your side.{enter}
+I had to determine whether
+you were going to be our
+enemy or not..."
+
+#### 59 ####
+Elder
+"Yes, the enemy.
+Your existence is a threat
+to us..."
+
+#### 60 ####
+Elder
+"It was necessary to keep
+an eye on you."
+
+#### 61 ####
+Elder
+"The one who ordered you to
+be watched was Cain..."
+
+#### 62 ####
+Elder
+"We were planning on the
+maturation of the 'Animus',
+and your termination.{enter}
+We also sent Hyuga to you."
+
+#### 63 ####
+Elder
+"However, every attempt to
+terminate you has failed...{enter}
+Because of that good for
+nothing trash..."
+
+#### 64 ####
+Elder
+"Even so, we now possess
+'Animus'.{enter}
+Hyuga has fulfilled his
+duties well."
+
+#### 65 ####
+Elder
+"You must know by now that
+we plan to resurrect god."
+
+#### 66 ####
+Elder
+"God will awaken from his
+long slumber after man has
+populated the land...{enter}
+Then, Mahanon too will
+awaken..."
+
+#### 67 ####
+Elder
+"Paradise...
+Hah hah hah.{enter}
+That may be a proper
+description...
+Our ark...{enter}
+In the center block lord
+'Mahanon' is sealed in.{enter}
+That is the source of god's
+wisdom...A paradise of
+knowledge..."
+
+#### 68 ####
+Elder
+"Using that knowledge, we
+will resurrect the awakened
+god and build our 'ark'{enter}
+to take us both into the
+great universe."
+
+#### 69 ####
+Elder
+"The construction of
+our ark...{enter}
+To reign over god's
+forces in this great
+universe...{enter}
+The creation of the angel
+'Malakh'. The M Project was
+for that very purpose..."
+
+#### 70 ####
+Elder
+"We are orphans in this
+universe.{enter}
+We were thrown away onto
+this planet in
+solitude along with god."
+
+#### 71 ####
+Elder
+"We humans were not born
+on this planet.{enter}
+Long ago, we came here from
+another heavenly body. We
+are beings from an alien
+planet."
+
+#### 72 ####
+Elder
+"This is true.
+You have seen the various
+regions of this world.{enter}
+Why do you think there are
+no records of humans 
+before 10,000 years ago..."
+
+#### 73 ####
+Elder
+"This is the will of god.{enter}
+The god's revival has been 
+fated since before the 
+time before genesis..."
+
+#### 74 ####
+Elder
+"We will be one with god.{enter}
+Attaining a new 'Animus'...
+We will once again return
+to the starry skies..."
+
+#### 75 ####
+Elder
+"That is the meaning
+of our existence."
+
+#### 76 ####
+Elder
+"That is our supreme
+objective."
+
+#### 77 ####
+Elder
+"Of course.{enter}
+What meaning is there in
+having control of a planet
+as insignificant as this?{enter}
+God has given us the right
+to rule over the universe."
+
+#### 78 ####
+Elder
+"Yes.
+Only we, who do not carry
+impure blood, have the right{enter}
+to a pardon..."
+
+#### 79 ####
+Elder
+"So, we will resurrect god."
+
+#### 80 ####
+Elder
+"It's been an eternity
+since our exile from
+paradise.{enter}
+If the time of god's 
+revival does not come,{enter}
+we will have to
+follow the path to
+destruction. But..."
+
+#### 81 ####
+Elder
+"Having attained 'Animus',
+our resurrection is near...{wait:1E}
+Next is god's resurrection"
+
+#### 82 ####
+Fei
+"Krelian!?"
+
+#### 83 ####
+Krelian
+"This one only waits for
+the awakening..."
+
+#### 84 ####
+Fei
+"Elly!!?"
+
+#### 85 ####
+Fei
+"Doc...
+
+#### 86 ####
+Fei
+"Only the true...!"
+
+#### 87 ####
+Fei
+"Quit...{wait:1E} it..."
+
+#### 88 ####
+Citan
+"Now, we may take our
+time and talk...{wait:1E} Id..."{clear:3C}
+
+#### 89 ####
+Citan
+"...There is nothing
+you can do."
+
+#### 90 ####
+Id
+"You understand well.
+Just as I expected, Citan,
+...or was it 'doc'?"
+
+#### 91 ####
+Citan
+"I have been wanting to
+meet you, Id. I wanted to
+talk with you.{enter}
+I guess it is all due to
+this machine which cuts the
+nerve connections.{enter}
+Anyway, what is Fei doing
+as of now?"
+
+#### 92 ####
+Id
+"Fei?
+Which Fei do you mean?"
+
+#### 93 ####
+Citan
+"There is more than one?"
+
+#### 94 ####
+Id
+"..."
+
+#### 95 ####
+Citan
+"Id?"
+
+#### 96 ####
+Id
+"The one you call Fei is
+asleep."
+
+#### 97 ####
+Citan
+"Sleeping?"
+
+#### 98 ####
+Id
+"When I am awake, he sleeps.{enter}
+That is why he has no
+memory of what I do."
+
+#### 99 ####
+Citan
+"Why does he not know?"
+
+#### 100 ####
+Id
+"It's obvious.
+He is my subordinate.{enter}
+He cannot peer into my
+memories. He should not,
+in actuality, even exist.{enter}
+That man forcibly created
+his personality.{enter}
+Fei is a tenant in the
+room of cowardice..."
+
+#### 101 ####
+Citan
+"That man?"
+
+#### 102 ####
+Id
+"Our father, Khan.{enter}
+He sealed up my personality
+in the deepest recesses of
+my consciousness.{enter}
+Through some inexplicable
+reason, that is when the
+present Fei was born."
+
+#### 103 ####
+Citan
+"When you said cowardice,
+what did you mean?"
+
+#### 104 ####
+Id
+"...
+Why ask about him?{enter}
+You think you can do
+something?"
+
+#### 105 ####
+Citan
+"It is rare to be able to
+talk a real schizophrenic.{enter}
+As a scholar, I am extremely
+intrigued."
+
+#### 106 ####
+Id
+"With friends like you...
+eh, doctor?{enter}
+I like you, Citan.
+But, he is insignificant.{enter}
+After all, he is just a
+failure. A coward like
+him does not deserve to
+be 'Fei's existence'.{enter}
+A pathetic one who has
+always fled from reality.{enter}
+He never did one thing
+against me when I control
+him.{enter}
+A coward who refused to
+live.{enter}
+He should've been erased.
+But he continues to exist!
+Why won't he disappear?{enter}
+Dammit...it makes my skin
+crawl just being in the
+same body as him."
+
+#### 107 ####
+Citan
+"Let us change the subject.{enter}
+I would like to know how
+and why your personalities
+were split.{enter}
+Since you are the one in
+control, I would assume
+you would know the story.{enter}
+Normally, personalities do
+not split as they did with
+you.{enter}
+Unless there was some sort
+of past trauma."
+
+#### 108 ####
+Id
+"You want me to talk about
+my memories? Don't 
+misunderstand.{enter}
+I haven't given you the
+right to question me.{enter}
+Just because I'm held down
+by this machine, don't
+push your luck.{enter}
+If I really wanted to, I
+could break the restraints
+and crush you.{enter}
+Don't you forget it."
+
+#### 109 ####
+Citan
+"Then why not do it?"
+
+#### 110 ####
+Id
+"..."
+
+#### 111 ####
+Citan
+"Shall I tell you why?{enter}
+You do not have complete
+control over Fei do you?{enter}
+Your control of him is
+incomplete.{enter}
+To break those bonds would
+require a tremendous amount
+of mental energy.{enter}
+Having used up your energy,
+Fei would return again.{enter}
+Basically, you would have
+to leave the stage.{enter}
+Obviously, the day you
+would be able to return
+is indeterminate.
+Hence, you will not do it.{enter}
+Am I mistaken?"
+
+#### 112 ####
+Id
+"So you know me too well.
+I don't have complete..."
+
+#### 113 ####
+Citan
+"What is wrong, Id?"
+
+#### 114 ####
+Id
+"You forced me on stage.{enter}
+He's waking. Under normal
+circumstances, I would've
+been able to hold on.{enter}
+But I can't. This is all
+that woman's fault.{enter}
+Her existence makes Fei
+resistant."
+
+#### 115 ####
+Citan
+"You mean Elly?"
+
+#### 116 ####
+Id
+"That woman...the same.
+Everyone. Must...
+eliminate..."
+
+#### 117 ####
+Citan
+"I do not understand.
+I do not understand, Id."
+
+#### 118 ####
+Id
+"You don't need to
+understand.{enter}
+But when the time comes,
+just take it as it comes.
+Reality and death..."
+
+#### 119 ####
+Id
+"I'll eventually get to
+you...Be seein' ya."
+

@@ -1,0 +1,167 @@
+#### 1 ####
+Fei
+"What's that!?"
+
+#### 2 ####
+Fei
+"A Gebler ship?"
+
+#### 3 ####
+Fei
+"What is that Gear?"{clear:28}
+
+#### 4 ####
+Fei
+"...Huh? What was that?"{clear:3C}
+
+#### 5 ####
+Fei
+"Felt like an air attack.{wait:1E} 
+I'll go see..."{clear:3C}
+
+#### 6 ####
+Fei
+"How did they know we
+were here?"
+
+#### 7 ####
+Fei
+"Our back's to the wall, 
+we can't run. I guess 
+we have to fight..."
+
+#### 8 ####
+Fei
+"Here we go!"
+
+#### 9 ####
+Fei
+"Doc,
+what should we do?"
+
+#### 10 ####
+Elly
+"But I removed the
+recognition code and
+tracking."
+
+#### 11 ####
+Elly
+"Looks like an air
+attack. Let's go."
+
+#### 12 ####
+Elly
+"But I removed the
+recognition code and
+tracking."
+
+#### 13 ####
+Elly
+"Felt like an air attack. 
+Let's go see." {clear:3C}
+
+#### 14 ####
+Citan
+"Look up."
+
+#### 15 ####
+Citan
+"That is a reflection 
+mirror.{enter}
+The Ft. Jasper beam will
+be reflected off that
+and destroy the gate."
+
+#### 16 ####
+Citan
+"Let us hurry to the
+control room while our
+pursuers are still gone." 
+
+#### 17 ####
+Miang
+"It's impossible with 
+that wound."
+
+#### 18 ####
+Miang
+"Bridge! Secure the 
+retreat! Main gun, 
+elevation 0.8.{enter}
+Support fire 30! 
+Fire!"
+
+#### 19 ####
+Miang
+"Up?{wait:28}  
+On no!?
+Bridge!"
+
+#### 20 ####
+Miang
+"...It's Shevat! 
+Change heading, 180 
+degrees. Now!{enter}
+All ships full speed! 
+Retreat from this 
+position!"
+
+#### 21 ####
+Ramsus
+"I've been waiting, Fei.{enter}
+Last time at sea, I was
+rendered unconscious by
+a surprise traitor, but{enter}
+that won't happen this
+time. I won't let you
+go up."
+
+#### 22 ####
+Ramsus
+"It's not over! Not yet!"
+
+#### 23 ####
+Ramsus
+"Let go Miang! I, I can't
+retreat now...{wait:28}{enter}
+Augh...guh...!"
+
+#### 24 ####
+Miang
+"No Commander! 
+Pull out!"
+
+#### 25 ####
+Miang
+"It's impossible with
+your wounds."
+
+#### 26 ####
+Miang
+"Bridge! Secure the 
+retreat! Main gun, 
+elevation 0.8. {enter}
+Support fire 30! 
+Fire!"
+
+#### 27 ####
+Miang
+"From above!?{wait:28}
+No...it couldn't be!?
+Bridge!"
+
+#### 28 ####
+Miang
+"...Just as I feared...
+Shevat!{enter}
+Change heading, 180 
+degrees. Now! {enter}
+All ships full speed! 
+Retreat from this 
+position!"
+
+#### 29 ####
+This door is 
+completely rusted.
+

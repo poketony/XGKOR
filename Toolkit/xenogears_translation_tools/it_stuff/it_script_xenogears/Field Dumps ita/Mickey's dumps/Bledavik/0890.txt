@@ -1,0 +1,70 @@
+<TextBlock 1 w:70 h:3>
+<Opcode 1 255>Probabilmente lì c'è una guardia…
+    Apri la porta
+    Da' solo un'occhiata<Close><End of Block>
+<TextBlock 2 w:70 h:3>
+<Opcode 1 255>Probabilmente lì c'è una guardia…
+    Apri la porta
+    Da' solo un'occhiata<Close><End of Block>
+<TextBlock 3 w:50 h:5>
+… A causa degli ordini
+confusi, non possiamo fare
+bene il nostro compito
+principale, quello di
+pattugliare le rovine.<New>
+Dobbiamo immediatamente
+ristrutturare la nostra
+catena di comando.
+Qualche idea?<Close><End of Block>
+<TextBlock 4 w:40 h:3>
+Generale, il problema
+è quel dittatore del
+Maggiore Vanderkam.
+Lui…<Close><End of Block>
+<TextBlock 5 w:56 h:5>
+Fa' silenzio!<Delay 20>
+Capisco il tuo risentimento
+verso il Maggiore Vanderkam,
+ma non vogliamo problemi 
+con Geburah.<Close><End of Block>
+<TextBlock 6 w:48 h:3>
+Mi dispiace.<Delay 30>
+E di quel nuovo tipo,
+Ramsus, sapete qualcosa?<Close><End of Block>
+<TextBlock 7 w:48 h:4>
+Mi dicono sia davvero
+in gamba… Non ci
+dovrebbe dare problemi
+come quel Vanderkam.<Close><End of Block>
+<TextBlock 8 w:40 h:2>
+Quell'attacco a sorpresa
+è stato fantastico.<Close><End of Block>
+<TextBlock 9 w:46 h:2>
+Ma è uno straniero.
+Non possiamo fidarci!<Close><End of Block>
+<TextBlock 10 w:26 h:1>
+Chi è là? <Opcode 2 30><Close><End of Block>
+<TextBlock 11 w:42 h:2>
+Smettete di cazzeggiare!
+Arrestate l'intruso! <Opcode 2 30><Close><End of Block>
+<TextBlock 12 w:62 h:4>
+Sai qual è il più grande
+problema della fine della
+guerra con Kislev?<New>
+I diritti di scavo alle
+rovine di Dajil!<New>
+I soldati in quell'area
+devono proteggere questi
+diritti.<New>
+I sodati di leva vengono
+mandati a casa e vengono
+sostituiti da veterani.<New>
+Ma fino all'arrivo delle nuove
+unità, le guardie alle rovine
+non possono tornare.<Close><End of Block> *ritornare
+<TextBlock 13 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 14 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><Close><End of Block>

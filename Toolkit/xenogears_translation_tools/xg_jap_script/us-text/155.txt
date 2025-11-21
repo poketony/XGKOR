@@ -1,0 +1,134 @@
+#### 1 ####
+Fei
+"Elly, why...?"
+
+#### 2 ####
+Elly
+"I warned you...{wait:14}{enter}
+I said the next time we met{wait:14}
+we'd be...{wait:14}enemies."
+
+#### 3 ####
+Fei
+"But, there's no reason for
+you to do this to yourself
+just so you can fight.{enter}
+There's no reason for you
+and I to fight...{wait:14}
+None at all."
+
+#### 4 ####
+Elly
+"There...was no other
+choice..."
+
+#### 5 ####
+Elly
+"I'm a Solaris officer...
+I can't turn my back on
+my unit, the mission..."
+
+#### 6 ####
+Fei
+"Why did you have to use
+the 'Drive'?"
+
+#### 7 ####
+Elly
+"I didn't want to...
+When I use it, I change.{enter}
+I feel like I'm dominated
+by some unknown power
+that I never wanted...{enter}
+There's a power in me I
+don't want to admit.{enter}
+But...{wait:14}I want to
+protect my allies...
+So, I had no choice but to
+use...{wait:14}the 'Drive'."
+
+#### 8 ####
+Fei
+"...Elly, you're
+the same as me."
+
+#### 9 ####
+Elly
+"The same?
+...Probably.{enter}
+I felt I knew you ever
+since I first met you...
+Probably because our
+problems were so similar."
+
+#### 10 ####
+Fei
+"I'm here for you.{enter}
+It may not be much,
+but at least I can
+relate to how you
+feel, Elly."
+
+#### 11 ####
+Elly
+"What?
+Are you saying we lick
+each other's wounds?"
+
+#### 12 ####
+Fei
+"No, that's not...{wait:14}
+Well, I guess I am...{enter}
+Sorry..."
+
+#### 13 ####
+Elly
+"...I'm sorry.
+I'm not being fair,
+am I...?"
+
+#### 14 ####
+Fei
+"No, I'm just
+pessimistic
+sometimes.{enter}
+But...{wait:14}even so, it's
+better than worrying
+about it{wait:14} by yourself."
+
+#### 15 ####
+Elly
+"Fei..."
+
+#### 16 ####
+Fei
+"You won't change
+your mind...?"
+
+#### 17 ####
+Elly
+"Please, don't look so
+sad. I have no choice.
+It is my only home..."
+
+#### 18 ####
+Fei
+"...I have to go.
+My 'friends' are
+waiting for me."
+
+#### 19 ####
+Fei
+"If you can, get out
+of the army, Elly...{enter}
+That look doesn't
+suit you at all."
+
+#### 20 ####
+Elly
+"Noooooo!!"
+
+#### 21 ####
+Fei
+"Elly!!"
+

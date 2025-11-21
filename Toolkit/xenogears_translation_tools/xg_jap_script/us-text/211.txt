@@ -1,0 +1,622 @@
+#### 1 ####
+Fei
+"It's locked."
+
+#### 2 ####
+Fei
+"Here too."
+
+#### 3 ####
+Fei
+"Yeah."
+
+#### 4 ####
+Fei
+"Looks like all the 
+drains come together 
+near the waterfall..."
+
+#### 5 ####
+Fei
+"!?
+..."
+
+#### 6 ####
+Fei
+"Looks like it won't
+return to the murder
+scene..."
+
+#### 7 ####
+Fei
+"Here...?"
+
+#### 8 ####
+Fei
+"Is it here?"
+
+#### 9 ####
+Fei
+"Umph {wait:14}...{clear:1E}
+
+#### 10 ####
+Fei
+"It won't open..."
+
+#### 11 ####
+Fei
+"Hey..."
+
+#### 12 ####
+Fei
+"That bell must be..."
+
+#### 13 ####
+Fei
+"Where's the key?"
+
+#### 14 ####
+Fei
+"Are we sure the key
+fell somewhere?"
+
+#### 15 ####
+Fei
+"It must have fallen
+somewhere."
+
+#### 16 ####
+Fei
+"Hmmm, this is..."
+
+#### 17 ####
+Fei
+"...Damn! No...{wait:1E}
+It must be this one..."
+
+#### 18 ####
+Fei
+"...What?"
+
+#### 19 ####
+Fei
+"Why are there
+so many keys?"
+
+#### 20 ####
+Fei
+"...!{wait:28}
+Whew. Open!"
+
+#### 21 ####
+{fast:FF}Fei
+    Of course
+    Wait a sec
+
+#### 22 ####
+Fei
+"Okay, let's go."
+
+#### 23 ####
+Fei
+"One-two!"{clear:1E}
+
+#### 24 ####
+Fei
+"Wow! Wait..."{clear:28}
+
+#### 25 ####
+Fei
+"...?"
+
+#### 26 ####
+Fei
+"...!{wait:14}
+Here!!"
+
+#### 27 ####
+Fei
+"Alright. Got it!"
+
+#### 28 ####
+Fei
+"Umph!"{clear:0A}
+
+#### 29 ####
+{fast:FF}Fei
+"...!!"{clear:14}
+
+#### 30 ####
+{fast:FF}Fei
+"Behind you!!"{clear:14}
+
+#### 31 ####
+Fei
+"Why, did it...{wait:1E}
+have a bell...?"
+
+#### 32 ####
+Fei
+"!?
+..."
+
+#### 33 ####
+Fei
+"This's covered in slime."
+
+#### 34 ####
+Fei
+"Try and use this..."
+
+#### 35 ####
+Fei
+"Slime in the drain...
+There should be several 
+places like this."
+
+#### 36 ####
+Fei
+"That's it!{wait:1E}
+We'll use the bell
+there to lure it out."
+
+#### 37 ####
+Citan
+"Where does this
+drain connect to?"
+
+#### 38 ####
+Citan
+"!?
+..."{clear:1E}
+
+#### 39 ####
+Citan
+"There is something 
+lurking around here, 
+I am sure of it."
+
+#### 40 ####
+Citan
+"This is certainly 
+the strangest."
+
+#### 41 ####
+Citan
+"Do you know where these 
+drains come together?"
+
+#### 42 ####
+Citan
+"There is always slime
+near the murder scene. {enter}
+Looks like it only 
+happened once."
+
+#### 43 ####
+Citan
+"They say it will not
+return to the same place...{wait:28}
+I wonder?"
+
+#### 44 ####
+Citan
+"A bell...!?{wait:1E}
+There is a bell inside."
+
+#### 45 ####
+Citan
+"Anyhow we must search
+for it now."
+
+#### 46 ####
+Citan
+"That certainly is 
+odd..."
+
+#### 47 ####
+Citan
+"I am sure.{wait:14} This is the 
+only drain with slime and
+no murder site nearby."
+
+#### 48 ####
+{fast:FF}Citan
+"It is here!{clear:14}
+
+#### 49 ####
+Citan
+"...It had a normal, human-
+like intellect."
+
+#### 50 ####
+Citan
+"No.{wait:28}
+It is better to say...
+'had left remaining'."
+
+#### 51 ####
+Citan
+"...It is really,{wait:3C}
+rather sad..."
+
+#### 52 ####
+Citan
+"No, there is a murder 
+scene near but this is
+not it."
+
+#### 53 ####
+Citan
+"Yes.{enter}
+This must be the one 
+drain it comes and 
+goes from."
+
+#### 54 ####
+Citan
+"This is strange..."
+
+#### 55 ####
+Rico
+"What the hell
+was that...?"
+
+#### 56 ####
+Rico
+"There's slime in
+this drain too."
+
+#### 57 ####
+Rico
+"Everything should 
+connect to the sewage 
+treatment plant..."
+
+#### 58 ####
+Rico
+"It should connect to the
+sewage treatment plant."
+
+#### 59 ####
+Rico
+"Right! There must be a
+place where they meet."
+
+#### 60 ####
+Rico
+"Hey, this is..."
+
+#### 61 ####
+Rico
+"Hmm. From here it's beside
+the waterfall furthest to
+the east of here."
+
+#### 62 ####
+Rico
+"Hey, watch it!"
+
+#### 63 ####
+Rico
+"I'll do it!"
+
+#### 64 ####
+Rico
+"Argh {wait:14}arrgh...{wait:14}
+Damn! It won't open.{enter}
+Damn it!"
+
+#### 65 ####
+Rico
+"...God dammit!{wait:28}
+...no good...{wait:1E}it won't 
+open with out the key."
+
+#### 66 ####
+Rico
+"Vargas should have
+had it.{enter}
+He must have dropped
+it somewhere when he
+got killed...{enter}
+Maybe even the rats
+got it..."
+
+#### 67 ####
+Rico
+"Whaddya talkin' about?"
+
+#### 68 ####
+Rico
+"If it was dropped we 
+should've been able to
+find it."
+
+#### 69 ####
+Rico
+"Are you ready?"
+
+#### 70 ####
+Rico
+"Stupid!
+Whaddya waiting for?
+Let's go!!{clear:3C}
+
+#### 71 ####
+Rico
+"...hurry up..."
+
+#### 72 ####
+Rico
+"There's slime here too...
+And no murder spot 
+nearby...?"
+
+#### 73 ####
+{fast:FF}Rico
+"Outta my way!!"{clear:0F}
+
+#### 74 ####
+{fast:FF}Rico
+"What!!"{clear:0A}
+
+#### 75 ####
+Rico
+"This room should connect 
+to the sewage treatment 
+plant."
+
+#### 76 ####
+Rico
+"What!? Whaddya mean?{wait:28}
+No..."
+
+#### 77 ####
+Gramps
+"Who're you?"
+
+#### 78 ####
+Fei
+"Well, what are you 
+doing here?"
+
+#### 79 ####
+Gramps
+"Hpmh.
+I've lived here
+for a long time."
+
+#### 80 ####
+Fei
+"Hmm, weren't you ever
+attacked by the monster?"
+
+#### 81 ####
+Gramps
+"I've lived here for a
+long time and I haven't
+seen that monster lately."
+
+#### 82 ####
+Gramps
+"Say, did you come to
+get rid of the monster?{enter}
+That'll make life a lot
+nicer around here."
+
+#### 83 ####
+Gramps
+"Thanks."
+
+#### 84 ####
+Rico
+"Hey gramps!
+What are you doing here?{enter}
+I thought the entrance
+was blocked off."
+
+#### 85 ####
+Gramps
+"Hpmh.
+I've lived here
+a long time."
+
+#### 86 ####
+Rico
+"All by yourself? In a
+spooky place like this?"
+
+#### 87 ####
+Gramps
+"As you can see I'm a
+mutant. So the monster
+never bothers me."
+
+#### 88 ####
+Gramps
+"But lately, my new
+neighbor's been going
+around bustin' things up."
+
+#### 89 ####
+Rico
+"What, really?
+We're looking for him."
+
+#### 90 ####
+Gramps
+"Oh!
+Would you get rid of
+him for me?{enter}
+If you need to know 
+anything ask me.{enter}
+I'll help you."
+
+#### 91 ####
+Gramps
+"It's dangerous inside. 
+You better not go in."
+
+#### 92 ####
+Gramps
+"The place where all 
+the drains meet?"
+
+#### 93 ####
+Go northeast, and it'll
+be behind the door near
+the waterfall.
+
+#### 94 ####
+Gramps
+"That's the passkey
+for the sewers.{enter}
+You can get into
+the room beside the
+waterfall with it."
+
+#### 95 ####
+Gramps
+"Take care of 
+yourselves."
+
+#### 96 ####
+Gramps
+"That door is locked?{enter}
+If it was lost, I'd of
+found it. And I don't...{enter}
+Oh! Yeah. They sweep up
+any trash laying around."
+
+#### 97 ####
+Fei
+"They?"
+
+#### 98 ####
+Gramps
+"Those things movin'
+around over there."
+
+#### 99 ####
+Gramps
+"But, that's strange.{enter}
+If it was sucked up the 
+things wouldn't move..."
+
+#### 100 ####
+Gramps
+"I see you've found the 
+keys.{enter}
+Now you can get in the
+room by the waterfall."
+
+#### 101 ####
+Gramps
+"Take care."
+
+#### 102 ####
+Gramps
+"You saw a broken one?{enter}
+Nope, you better check
+that one again."
+
+#### 103 ####
+Gramps
+"That reminds me...{enter}
+Go through the door to
+the northwest, and you'll
+find a broken one in
+there."
+
+#### 104 ####
+Gramps
+"And you can lure it 
+with this bell."
+
+#### 105 ####
+Fei
+"Ring it here?"
+
+#### 106 ####
+Gramps
+"Uh-huh, that's it..."
+
+#### 107 ####
+Gramps
+"There is always slime
+near the drains it uses. {enter}
+And he never returns to
+the same site twice."
+
+#### 108 ####
+Fei
+"So we need a drain
+with slime nearby and
+no murder site."
+
+#### 109 ####
+Gramps
+"Right. 
+I think...{wait:1E}there's one 
+on this floor, north of
+here."
+
+#### 110 ####
+Gramps
+"What? Empty?{enter}
+No there's gotta be a way
+to lure him out."
+
+#### 111 ####
+Gramps
+"Wasn't there anything
+in the room?
+
+#### 112 ####
+Gramps
+"Oh, you!
+Thanks for making this 
+place nice to live in 
+again.{enter}
+Take your time and
+thanks again!"
+
+#### 113 ####
+-3{clear:14}
+
+#### 114 ####
+-5{clear:14}
+
+#### 115 ####
+You have too many
+{str}.
+
+#### 116 ####
+ 
+ Received {str}.
+
+#### 117 ####
+You have too many
+{str}.
+
+#### 118 ####
+ 
+ Received {str}.
+
+#### 119 ####
+You have too many
+{str}.
+
+#### 120 ####
+ 
+ Received {str}.
+
+#### 121 ####
+You have too many
+{str}.
+
+#### 122 ####
+ 
+ Received {str}.
+

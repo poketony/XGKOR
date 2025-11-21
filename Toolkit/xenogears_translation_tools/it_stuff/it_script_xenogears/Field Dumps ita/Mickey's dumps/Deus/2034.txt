@@ -1,0 +1,417 @@
+<TextBlock 1 w:16 h:2>
+Fei
+"Ghaah!"<Close><End of Block>
+<TextBlock 2 w:52 h:2>
+Billy
+"Ma… ha preso
+la mia arma…!?"<Close><End of Block>
+<TextBlock 3 w:24 h:4>
+Bart
+"Perché l'hai
+fatto,<Delay 20> Elly…?"<Close><End of Block>
+<TextBlock 4 w:44 h:4>
+Shitan
+"Elly!?<Delay 20>
+Cosa ti è accaduto!?<Delay 20>
+Come hai potuto!?"<Close><End of Block>
+<TextBlock 5 w:28 h:4>
+Bart
+"Non dirmi che lei
+ha subito il<Delay 5>…<Delay 5>
+lavaggio del cervello?"<Close><End of Block>
+<TextBlock 6 w:42 h:3>
+Krelian
+"Non ha nulla a che
+fare col lavaggio
+del cervello…"<Close><End of Block>
+<TextBlock 7 w:30 h:3>
+Shitan
+"Unificarsi con
+la madre…?"<Close><End of Block>
+<TextBlock 8 w:40 h:3>
+Krelian
+"Quella ragazza<Delay 5>…<Delay 5>
+Elhaym, è nostra
+'madre'."<Close><End of Block>
+<TextBlock 9 w:36 h:4>
+Elly
+"Sì.
+Io sono la madre
+di tutta l'umanità…"<Close><End of Block>
+<TextBlock 10 w:22 h:2>
+Fei
+"Elly…!?"<Close><End of Block>
+<TextBlock 11 w:46 h:4>
+Bart
+"Ma di che cosa stai
+cianciando!?<Delay 20>
+Riprenditi, Elly!!"<Close><End of Block>
+<TextBlock 12 w:42 h:4>
+Elly
+"Intelligente come
+al solito…<Delay 20> Ma non te
+ne faccio una colpa…<New>
+E sia.
+Vi spiegherò tutto."<Close><End of Block>
+<TextBlock 13 w:60 h:6>
+Elly
+"Questo Deus, quello che
+chiamate dio, è un'arma di
+invasione interplanetaria
+che fu costruita nei tempi
+antichi dagli umani di un
+altro pianeta.<New>
+Essa fu dotata di una propria
+autonoma volontà con lo scopo
+di prendere il controllo del
+pianeta bersaglio.<Delay 20> Ma ciò
+dovreste saperlo grazie ai
+dati ottenuti dal Raziel.<New>
+Ma, durante un'esercitazione,
+Deus divenne incontrollabile.
+Liberò il suo potere e
+distrusse un intero pianeta.<New>
+I creatori di 'Deus'
+ritennero il suo potere una
+minaccia eccessiva, e quindi
+decisero di disattivarlo.<New>
+Con lo scopo di analizzare le
+cause del problema, il nucleo
+fu smantellato e caricato su
+una nave interplanetaria che
+trasportava emigranti su
+un altro pianeta.<New>
+Rendendosi conto di ciò,
+Deus resistette e cercò
+di prendere il controllo
+della nave passeggeri.<New>
+Come ultima linea di
+difesa contro la fuga
+di Deus, i suoi creatori
+distrussero l'intera nave,
+la quale precipitò su 
+questo pianeta.<New>
+Deus sapeva che non sarebbe
+sopravvissuto all'esplosione
+o all'impatto imminente, e
+così distaccò il suo nucleo
+dal reattore energetico, lo
+'Zohar'."<Close><End of Block>
+<TextBlock 14 w:28 h:2>
+Fei
+"Lo Zo… har…?"<Space 1><Close><End of Block>
+<TextBlock 15 w:52 h:4>
+Elly
+"Sì, lo 'Zohar'…
+È ciò che fa muovere
+tutti i Gear del pianeta.<New>
+È il generatore principale
+che trasmette l'energia
+ai generatori montati
+sui nostri Gear.<New>
+Ed è anche la fonte del
+potere Etereo che gli
+abitanti di questo
+pianeta utilizzano.<New>
+Tramite la dislocazione
+dell'energia causata
+dal…<New>
+… fenomeno di
+attualizzazione
+potenziale futura…<New>
+… questo 'Modificatore
+Zohar' produce infinite
+quantità di energia."<Close><End of Block>
+<TextBlock 16 w:36 h:3>
+Bart
+"La fonte di tutti
+i nostri poteri
+Eterei!?"<Close><End of Block>
+<TextBlock 17 w:52 h:4>
+Shitan
+"Stai dicendo che tutta
+la nostra energia viene…<New>
+… da quel reattore,
+o motore?"<Close><End of Block>
+<TextBlock 18 w:54 h:4>
+Elly
+"Sì, ma c'è di più…<New>
+Il nucleo distaccatosi
+dallo Zohar, il 'Computer 
+Biologico Kadmoni'…<New>
+… cadde su questo
+primitivo pianeta.<New>
+Esso attivò -Persona-, il
+suo impianto di supporto
+vitale, che può generare
+materiale organico.<New>
+Creò così un sistema
+genetico di base per
+il giorno in cui Deus
+sarebbe risuscitato.<New>
+Quindi, i primi uomini
+furono creati da lì…<New>
+L'Imperatore Caino e gli
+anziani del Ministero di
+Gazel."<Close><End of Block>
+<TextBlock 19 w:54 h:4>
+Rico
+"Stai dicendo che quei
+vecchi e l'Imperatore
+sono nati da Deus!?"<Close><End of Block>
+<TextBlock 20 w:56 h:6>
+Elly
+"Sapete perché il
+Ministero di Gazel
+voleva i vostri corpi…<New>
+… ed i Contenitori
+dell'Anima…?<Delay 40>
+Prima di diventare umani…<New>
+… i corpi del Ministero
+erano parte degli elementi
+organici del circuito del
+nucleo che creò 'Deus'.<New>
+C'erano due tipi di
+elementi organici.
+Il tipo femmina chiamato
+'Anima', ed il tipo
+maschio chiamato 'Animo'.<New>
+Anch'essi erano stati
+creati con la capacità
+di divenire armi mobili
+unendosi con macchinari…<New>
+… diventando così armi
+ad interfaccia terminale
+per Deus.<New>
+In altre parole, questi
+Omnigear che voi state
+usando erano una forma
+di tali armi.<New>
+Il Ministero, che era
+formato da Animi…<New>
+… stava per divenire
+ancora uno con le loro
+separate Anime…<New>
+… al tempo della
+risurrezione di dio…<New>
+Ma, durante la guerra di
+500 anni fa, essi persero
+i loro corpi fisici.<New>
+Fu allora che decisero di
+estrarre il loro fattore
+genetico…<New>
+… da alcuni individui fra
+i loro discendenti umani
+che erano in possesso
+dell'appropriata sequenza
+di DNA.<New>
+In questo modo, ognuno
+di loro può diventare
+di nuovo uno con la
+rispettiva Anima."<Close><End of Block>
+<TextBlock 21 w:30 h:2>
+Maria
+"Discendenti!?"<Close><End of Block>
+<TextBlock 22 w:42 h:2>
+Bart
+"Allora noi
+tutti siamo…!?"<Close><End of Block>
+<TextBlock 23 w:48 h:4>
+Elly
+"Sì, voi umani siete
+tutti discendenti di
+Caino e del Ministero…<New>
+Essi nacquero da
+-Persona-, procrearono,
+e si diffusero su
+tutto il pianeta.<New>
+Essi seguivano il loro
+programma integrato
+per poi un giorno
+risuscitare Deus."<Close><End of Block>
+<TextBlock 24 w:50 h:4>
+Shitan
+"L'umanità intera è stata
+creata con lo scopo di
+risuscitare Deus!?"<Close><End of Block>
+<TextBlock 25 w:50 h:4>
+Elly
+"Sì.<Delay 20> Ma non solo
+per ripristinarne il
+vecchio corpo.<New>
+Più della metà di Deus
+è costituito da parti
+biologiche.<Delay 20> Ricordate
+quei mutanti?<New>
+Essi sono destinati a
+divenire le parti di
+ricambio per Deus."<Close><End of Block>
+<TextBlock 26 w:34 h:3>
+Billy
+"Noi umani siamo…<Delay 20>
+parti per dio…"<Close><End of Block>
+<TextBlock 27 w:54 h:4>
+Elly
+"Sì, quasi tutti gli
+umani sono destinati a
+essere parti per Deus.<New>
+Ma voi che siete qui
+siete tutti differenti.<New>
+Potreste dire che…
+avete evitato quel
+destino esistendo
+per generazioni multiple…<New>
+In realtà, non c'erano
+abbastanza parti per Deus…<Delay 20>
+Ma… Krelian ha compensato
+per ciò che mancava.<New>
+La riduzione del numero
+di parti era dovuta agli
+esseri umani che vivono
+per generazioni multiple…<New>
+Ma quella mancanza nel
+fattore umano è stata
+compensata dalle
+nanomacchine…<New>
+… create da Krelian.
+Nanomacchine che hanno
+aggiunto funzioni
+addizionali.<New>
+Deus si è davvero evoluto
+nell'arma perfetta."<Close><End of Block>
+<TextBlock 28 w:42 h:3>
+Fei
+"Elly<Delay 5>…<New>
+Che sta succedendo<Delay 5>…?<Delay 20>
+Perché<Delay 5>…<Delay 5> conosci
+tutto<Delay 5>…<Delay 5> questo<Delay 5>…?"<Space 1><Close><End of Block>
+<TextBlock 29 w:54 h:4>
+Elly
+"Io sono Miang.<Delay 20> La custode
+del tempo.<Delay 20><New>
+La rappresentante del
+nostro dio, -Deus-.<New>
+Sono nata per guidare
+l'umanità lungo la via
+che conduce alla
+risurrezione di Deus."<Close><End of Block>
+<TextBlock 30 w:38 h:3>
+Bart
+"Ma è ridicolo!<Delay 20>
+Miang era solo…"<Close><End of Block>
+<TextBlock 31 w:54 h:4>
+Elly
+"La tua capacità di
+capire è molto
+limitata…<New>
+Il fattore Miang
+esiste in ogni donna.<New>
+L'unica che trascende le
+generazioni, la guardiana
+dell'umanità.<New>
+Quando la precedente muore,
+da qualche parte un'altra
+Miang si risveglia.<New>
+Tutto ciò è programmato
+nel DNA di ogni donna.<New>
+Chi erediterà il dovere
+è solo una questione di
+probabilità, Fei.<New>
+La Miang di allora ed
+io siamo la stessa
+esistenza<Delay 20>…<New>
+Siamo tutte parti di
+Deus… Tutte guardiane
+dell'umanità."<Close><End of Block>
+<TextBlock 32 w:42 h:4>
+Elly
+"Smettiamola con
+questa discussione.<Delay 20> 
+Deus è stato risvegliato.<New>
+Io sono una delle parti
+di cui è composto Deus.<Delay 20>
+Perciò, devo diventare
+una con lui."<Close><End of Block>
+<TextBlock 33 w:44 h:4>
+Shitan
+"Elly!<Delay 20>
+Perché devi essere
+proprio tu?<New>
+Se Miang è una parte
+di Deus, perché non è
+successo prima…?"<Close><End of Block>
+<TextBlock 34 w:44 h:4>
+Krelian
+"Non è ancora
+abbastanza per lei
+essersi destata.<New>
+Benché lei possa essere
+Miang, lei non è ancora
+la 'vera Miang'."<Close><End of Block>
+<TextBlock 35 w:44 h:2>
+Shitan
+"La 'vera Miang'…?"<Close><End of Block>
+<TextBlock 36 w:50 h:4>
+Elly
+"Andiamo, Krelian.<New>
+Quello che resta da fare
+è distruggere la civiltà
+e riportare il pianeta
+al suo stato originario.<New>
+Allora potrò completare
+la mia unione con il
+frammento finale di Deus…
+il 'Modificatore Zohar'…<New>
+Il reattore caduto su
+questo pianeta e motore
+della genesi, ed ora
+dell'apocalisse…"<Close><End of Block>
+<TextBlock 37 w:38 h:3>
+Shitan
+"La distruzione
+della civiltà!?<New>
+Qual è lo scopo di
+tutto questo!?"<Close><End of Block>
+<TextBlock 38 w:50 h:4>
+Elly
+"Chi lo sa…?<New>
+Le creazioni di dio
+un giorno saranno
+d'ostacolo.<New>
+Ecco perché devono
+essere eliminate.<Delay 20>
+Sono programmata
+per comportarmi così…"<Close><End of Block>
+<TextBlock 39 w:38 h:3>
+Krelian
+"Vieni…<New>
+È giunto il momento
+che la vera 'madre'
+si desti."<Close><End of Block>
+<TextBlock 40 w:20 h:4>
+Fei
+"Per favore<Delay 5>…<Delay 5>
+Aspetta<Delay 5>…<Delay 20>
+Elly<Delay 5>…!"<Close><End of Block>
+<TextBlock 41 w:46 h:4>
+Elly
+"Addio<Delay 5>…<Delay 5> Fei.<Delay 20>
+Che tu possa avere un
+dolce 'risveglio'<Delay 5>…"<Close><End of Block>
+<TextBlock 42 w:24 h:4>
+Shitan
+"Fei!<Delay 20> Dai,
+tieni duro!"<Close><End of Block>
+<TextBlock 43 w:44 h:4>
+Krelian
+"La maggior parte del
+mio corpo è composta
+da nanomacchine.<New>
+Non solo per vivere a
+lungo<Delay 5>…<Delay 5> ma anche per
+unirmi con la 'madre'<Delay 5>…
+Non siate sorpresi.<New>
+Tutti questi danni
+possono essere
+recuperati piuttosto
+rapidamente."<Close><Close><End of Block>

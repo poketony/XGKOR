@@ -1,0 +1,463 @@
+<TextBlock 1 w:28 h:3>
+Maria
+"<Seibzehn>,
+avanti tutta!!"<Opcode 2 50><Close><End of Block>
+<TextBlock 2 w:28 h:3>
+Maria
+"<Seibzehn>,
+andiamo!!"<Opcode 2 50><Close><End of Block>
+<TextBlock 3 w:46 h:3>
+<Opcode 1 3>Umph, siete ancora voi<Delay 20>…<New>
+Di certo, voi seccatori mi
+sarete d'intralcio nel
+terminare il mio lavoro.<Close><End of Block>
+<TextBlock 4 w:28 h:3>
+<Opcode 1 2>Elly
+"Dominia…!<Delay 20>
+Sei tu!?"<Close><End of Block>
+<TextBlock 5 w:20 h:2>
+<Opcode 1 2>Fei
+"Dominia!"<Close><End of Block>
+<TextBlock 6 w:48 h:4>
+<Opcode 1 2>Elly
+"Dominia!<Delay 20> Non posso
+permettere che tu
+prenda quel Gear!"<Close><End of Block>
+<TextBlock 7 w:50 h:3>
+<Opcode 1 2>Fei
+"Non posso permettere
+che tu prenda quel Gear!"<Close><End of Block>
+<TextBlock 8 w:36 h:3>
+<Opcode 1 2>Maria
+"…!?<Delay 20>
+Che cosa vuoi dire?"<Close><End of Block>
+<TextBlock 9 w:50 h:4>
+<Opcode 1 2>Dominia
+"Cosa voglio dire?<Delay 20>
+Lo capirai dopo aver
+ascoltato questa storia."<Close><End of Block>
+<TextBlock 10 w:46 h:3>
+<Opcode 1 2>Dominia
+"Non sto mentendo, Maria.<Delay 20>
+Questa è la verità.<New>
+Il tuo magnifico padre
+è riuscito nell'arduo
+compito di fondere
+l'uomo con la macchina.<New>
+Ed ha aperto agli
+Agnelli le porte
+dell'inferno."<Close><End of Block>
+<TextBlock 11 w:44 h:2>
+<Opcode 1 2>Non pensi di aver detto
+abbastanza, Dominia?<Close><End of Block>
+<TextBlock 12 w:42 h:4>
+<Opcode 1 2>Jessie
+"Perché le femmine
+sono tutte delle
+gran pettegole?<New>
+Ciarlano sempre… e
+sempre di cose di
+cui non dovrebbero
+parlare.<New>
+Sono senza speranza…"<Close><End of Block>
+<TextBlock 13 w:20 h:2>
+Billy
+"Pa, papà!?"<Close><End of Block>
+<TextBlock 14 w:42 h:4>
+Dominia
+"Jesiah!?<Delay 20>
+Tu…!?<New>
+Cosa ci fai tu
+qui a Shevat!?<New>
+Mi sbaglio, oppure ad
+un certo punto…<New>
+… si credeva che tu
+saresti stato il
+prossimo comandante
+in capo di Geburah!?"<Close><End of Block>
+<TextBlock 15 w:38 h:4>
+Fei
+"Ehi, Maria…<Delay 20>
+Non fare caso alle
+cose che ti ha detto…"<Close><End of Block>
+<TextBlock 16 w:18 h:3>
+Fei
+"Aspetta!<Delay 20>
+Dominia!"<Close><End of Block>
+<TextBlock 17 w:28 h:3>
+Fei
+"…!?<Delay 20>
+Ma… è…?"<Close><End of Block>
+<TextBlock 18 w:28 h:3>
+<Opcode 1 2>Maria
+"Dov'è
+l'intruso…!?"<Close><End of Block>
+<TextBlock 19 w:44 h:4>
+<Opcode 1 2>Maria
+"Indubbiamente, io sono
+la figlia di Nicola,
+Maria Baldassarre!<New>
+E allora…?"<Close><End of Block>
+<TextBlock 20 w:48 h:4>
+<Opcode 1 2>Maria
+"È una menzogna…<Delay 20>!!<New>
+Mio padre non avrebbe
+mai fatto una cosa
+così orribile!!"<Close><End of Block>
+<TextBlock 21 w:14 h:2>
+<Opcode 1 2>Maria
+"…!!"<Close><End of Block>
+<TextBlock 22 w:20 h:3>
+Maria
+"…<Delay 20>
+Padre…"<Close><End of Block>
+<TextBlock 23 w:10 h:2>
+Maria
+"…"<Close><End of Block>
+<TextBlock 24 w:34 h:2>
+Maria
+"<Seibzehn>…"<Opcode 2 200><Close><End of Block>
+<TextBlock 25 w:32 h:2>
+Maria
+"<Seibzehn>!!"<Close><End of Block>
+<TextBlock 26 w:40 h:4>
+Maria
+"Scusami,<Delay 20> sono
+in ritardo…<New>
+Andiamo!
+Il ne…<Delay 60>
+Il nemico…<Delay 50> solariano
+ci aspetta!!"<Close><End of Block>
+<TextBlock 27 w:46 h:4>
+Dominia
+"Mai avrei pensato che,
+mentre fuggivo, mi sarei
+imbattuta in <Seibzehn>…"<Close><End of Block>
+<TextBlock 28 w:34 h:3>
+Dominia
+"Mi prenderò
+<Seibzehn>.<New>
+In origine, esso
+apparteneva a noi,
+apparteneva a
+Solaris."<Close><End of Block>
+<TextBlock 29 w:46 h:4>
+Dominia
+"Pazzi, non sapete neanche
+che questo Gear è il punto
+di contatto tra di noi."<Close><End of Block>
+<TextBlock 30 w:36 h:3>
+Dominia
+"Eh, allora provate
+a fermarmi!"<Close><End of Block>
+<TextBlock 31 w:18 h:2>
+Dominia
+"Eh…?"<Opcode 2 20><Close><End of Block>
+<TextBlock 32 w:40 h:3>
+Dominia
+"Quella bambina…
+Ehi, tu…<Delay 20><New>
+Tu sei la figlia
+di Nicola…?"<Close><End of Block>
+<TextBlock 33 w:54 h:4>
+Dominia
+"Capisco…<New>
+Dunque, tu sei la sua
+amatissima figlia…<New>
+… per la quale lui si
+offrì d'intraprendere
+quel difficile compito…"<Close><End of Block>
+<TextBlock 34 w:42 h:4>
+Dominia
+"Ehi, ragazzina.<Delay 20>
+Vuoi sentire una storia
+molto interessante?<New>
+Vediamo…<Delay 20>
+Che ne dici del maledetto
+segreto di <Seibzehn>?"<Close><End of Block>
+<TextBlock 35 w:50 h:7>
+Durante gli ultimi decenni,
+i nostri scienziati si sono
+sforzati moltissimo nelle
+ricerche per la creazione
+di Gear evoluti.<New>
+Non importa quanto abile
+sia un pilota, finché è
+umano, esisteranno sempre
+degli intervalli di tempo
+e degli errori umani
+durante l'interazione
+uomo-Gear.<New>
+Fu allora che ci si
+accorse di tuo padre
+Nicola.<Delay 20> Egli era un genio
+nel campo dei meccanismi
+neuro-encefalici.<New>
+Fecero ricercare a Nicola
+un modo con il quale far
+superare all'uomo i limiti
+imposti dall'essere uomo…<Delay 20>
+E Nicola capì come farlo.<New>
+Ovvero fondendo l'uomo
+con la macchina.<New>
+In altre parole, mentre
+quelli cercavano di
+creare una nuova vita,
+l'arma vivente definitiva,<Delay 10>
+unendo direttamente il
+cervello di un essere
+umano vivente ad un Gear…<New>
+… il genio di quell'uomo,
+Nicola,<Delay 10> trasformò
+in realtà quel sogno…<Delay 20>
+Non fosse stato per lui,
+sarebbe davvero rimasto
+solo e soltanto un sogno…<Close><End of Block>
+<TextBlock 36 w:52 h:7>
+In realtà, furono usati
+come materiali sperimentali
+parecchi dati e componenti
+ottenuti dalla guerra di
+Ignis…<Delay 20> e a Kislev, grazie
+a Battagliare.<New>
+È così che sono nati
+i Wels, gli speciali
+mutanti umanoidi.<Delay 20>
+I Wels creati a Solaris
+erano messi alla prova
+sulla superficie.<New>
+Solamente i Wels che
+superavano le prove erano
+smantellati, ristrutturati
+e riportati a nuova vita<Delay 20>…<New>
+Essi sono divenuti il
+circuito di controllo
+centrale del Gear…
+E, dunque, sono anche
+divenuti parte della
+macchina…<New>
+Tutto questo è il risultato
+della grande ricerca di
+tuo padre.<Delay 20>
+<Seibzehn> è il Gear
+prototipo della fusione
+uomo-macchina.<New>
+In altre parole…
+<Seibzehn> fu completato
+al costo di innumerevoli
+vite degli abitanti
+della superficie.<Close><End of Block>
+<TextBlock 37 w:48 h:2>
+E nel circuito neurale
+di <Seibzehn> si trova…<Close><End of Block>
+<TextBlock 38 w:52 h:4>
+Dominia
+"Umph, idioti!<New>
+Non siate troppo
+presuntuosi…<Delay 20>
+La festa è appena
+iniziata.<New>
+Ma, in fondo, va bene
+anche così.<New>
+Ho completato la mia
+missione.<Delay 20> Tutto ciò
+che mi rimane da fare è…"<Close><End of Block>
+<TextBlock 39 w:50 h:3>
+Dominia
+"Maria, mi dispiace,
+ma ora devo andare.<New>
+Goditi la festa.<Delay 20>
+Ah ah ah…!"<Close><End of Block>
+<TextBlock 40 w:26 h:2>
+<Opcode 1 2>Dominia
+"Chi è là!?"<Opcode 2 30><Close><End of Block>
+<TextBlock 41 w:44 h:4>
+Jessie
+"Non ti agitare così,
+sembri quasi eccitata.<New>
+Non fa bene alla tua
+bellezza, Dominia.<New>
+Noi adulti abbiamo le
+nostre buone ragioni
+per esserlo<Delay 20>…<New>
+Ma voi ragazzi non
+potreste capire."<Close><End of Block>
+<TextBlock 42 w:48 h:4>
+Jessie
+"Penso che per oggi tu
+abbia giocato abbastanza
+con il fuoco<Delay 20>…<New>
+Ora tornatene a casa.<New>
+Maria è l'unica che
+può guidare <Seibzehn>.<New>
+E questo dovresti
+saperlo bene."<Close><End of Block>
+<TextBlock 43 w:50 h:4>
+Jessie
+"Pare che i nostri ospiti
+siano arrivati.<Delay 20>
+Andiamo di sopra.<New>
+Inoltre, l'Yggdrasil è
+attraccato al molo<Delay 20>…<New>
+Sono certo che gli altri,
+sulla nave, stiano facendo
+un gran casino."<Close><End of Block>
+<TextBlock 44 w:36 h:3>
+Jessie
+"Ho un brutto
+presentimento…<New>
+Dubito che sia
+come credo, ma…
+potrebbero aver…"<Close><End of Block>
+<TextBlock 45 w:44 h:3>
+<Opcode 1 2>Maria
+"Ci vorrà un altro
+po' per controllare
+<Seibzehn>.<New>
+Vi prego di salire e
+di dare un'occhiata
+alla città."<Close><End of Block>
+<TextBlock 46 w:48 h:3>
+Maria
+"Questo Gear, <Seibzehn>,
+fu sviluppato da
+mio padre.<New>
+E fu sviluppato
+nell'istituto di
+ricerca che si
+trova a Solaris…"<Close><End of Block>
+<TextBlock 47 w:54 h:4>
+Maria
+"A quel tempo, mi trovavo
+ad avere 5 anni…<New>
+… e non avevo idea di
+ciò che stesse succedendo.<New>
+Usandomi come ostaggio,
+obbligarono mio padre a
+continuare le ricerche…"<Close><End of Block>
+<TextBlock 48 w:48 h:4>
+Maria
+"Ma lui non mostrò mai
+di fronte a me il suo
+dolore e la sua pena…<New>
+Mi diceva sempre
+sorridendo…<New>
+'Non preoccuparti, Maria,
+ <Seibzehn> sarà al tuo
+ fianco per proteggerti…'"<Close><End of Block>
+<TextBlock 49 w:52 h:4>
+Maria
+"In quel giorno… 5 anni
+or sono…<New>
+… quando, durante la
+nostra fuga, rimasi
+indietro…<New>
+… mio padre mi protesse
+e finì ad essere lui
+a rimanere indietro…"<Close><End of Block>
+<TextBlock 50 w:48 h:3>
+Maria
+"La voce di mio padre,
+i suoi sorrisi…<Delay 20> mi
+stanno abbandonando.<New>
+Ormai, sono lontanissimi,
+e diventano sempre più
+confusi e vaghi…<New>
+Credevo che questo non
+sarebbe mai successo…<Delay 20>
+Ho giurato che mai
+avrei dimenticato…!<New>
+Ora, l'unica cosa che
+unisce me e mio padre è
+questo Gear, <Seibzehn>…"<Close><End of Block>
+<TextBlock 51 w:46 h:4>
+Maria
+"Però… un giorno, io
+salverò mio padre!<New>
+Mi riprenderò il
+sorriso di mio padre!<Delay 20>
+<Seibzehn> ed io lo
+faremo, lo giuro…!!<New>
+Lo giuro…!!
+…"<Close><End of Block>
+<TextBlock 52 w:50 h:4>
+Maria
+"Perdonatemi…<Delay 20> Non avrei
+dovuto raccontarvi una
+storia così strana…<New>
+Non ha nulla a che fare
+con voi…"<Close><End of Block>
+<TextBlock 53 w:50 h:3>
+<Opcode 1 2>Non avrei mai pensato
+che sarebbe finita in
+quel modo…<Delay 20>
+Ero spaventato a morte.<New>
+Abbiamo riparato
+l'Yggdrasil alla
+perfezione. Ora
+può volare quando
+volete.<Close><End of Block>
+<TextBlock 54 w:56 h:4>
+<Opcode 1 2>Beh, parlando di
+manutenzione…
+Non è che sappiamo tutto
+su <Seibzehn>.<New>
+A dire il vero, tutto
+ciò che possiamo fare è
+controllare se sono presenti
+delle anomalie e fare le
+riparazioni più semplici.<Close><End of Block>
+<TextBlock 55 w:48 h:3>
+<Opcode 1 2>Non preoccupatevi, dopo
+darò un'occhiata anche
+ai vostri Gear.<Close><End of Block>
+<TextBlock 56 w:50 h:5>
+<Opcode 1 2>È stato incredibile, sono
+rimasto a bocca aperta!<Delay 20>
+Finché voi a Maria sarete
+con noi, abbiamo il potere
+di mille Gear.<New>
+Abbiamo fatto del nostro
+meglio per riparare i
+Gear e l'Yggdrasil!<Delay 20>
+Di questo passo, potremo
+vincere Solaris in un
+sol colpo!<Close><End of Block>
+<TextBlock 57 w:18 h:1>
+… Forse.<Opcode 2 40><Close><End of Block>
+<TextBlock 58 w:52 h:4>
+<Opcode 1 2>Dicono che il combattimento
+tra voi e <Seibzehn> sia
+stato alla pari?<New>
+Incredibile…<Delay 20>
+Ci sono ancora persone
+sulla superficie che
+possono farlo!<New>
+Non preoccupatevi! Se
+lavoreremo tutti assieme,
+potremo dare qualche
+lezioncina a Solaris!<Close><End of Block>
+<TextBlock 59 w:16 h:1>
+… Forse.<Opcode 2 40><Close><End of Block>
+<TextBlock 60 w:50 h:4>
+Come ha potuto Solaris
+fare una cosa così
+terribile…!!??<Delay 20>
+Bastardi!<New>
+È intollerabile… vedere
+il genio, il Dr. Nicola,
+morire in quel modo…<Close><End of Block>
+<TextBlock 61 w:52 h:4>
+Comunque, questo è
+proprio un mostro
+di potenza<Delay 20>…<New>
+Il padre di Maria ha
+progettato qualcosa
+di assolutamente
+straordinario.<New>
+Ho sentito dire che
+lui è uno scienziato
+di Solaris, ma lo
+rispetto comunque.<New>
+Mi ha dimostrato che
+i geni esistono davvero.<Close><Close><End of Block>

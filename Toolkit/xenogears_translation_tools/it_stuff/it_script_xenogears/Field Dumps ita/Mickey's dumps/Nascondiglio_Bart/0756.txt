@@ -1,0 +1,665 @@
+<TextBlock 1 w:48 h:4>
+Maison
+"Grazie, Padron Fei!!<New>
+E per favore, prendetevi
+cura del mio Padroncino,
+Bart."<Close><End of Block>
+<TextBlock 2 w:28 h:3>
+Maison
+"Padron Fei, per
+favore, rilassatevi."<Close><End of Block>
+<TextBlock 3 w:12 h:2>
+Maison
+"<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 4 w:44 h:2>
+Cosa?<Delay 10>
+Non essere così agitato.<Close><End of Block>
+<TextBlock 5 w:56 h:3>
+Ehi, novellino! 
+Da dove vieni? <Delay 10>
+Lahan?<Delay 10> Non la conosco.<New>
+Sai, io ero un soldato
+di Kislev.<New>
+Non mi piaceva come
+andavano le cose
+nell'esercito e così
+mi hanno cacciato.<New>
+Il Padroncino ha molto 
+potere ed ambizione,
+proprio come me.<Close><End of Block>
+<TextBlock 6 w:48 h:4>
+Questo tipo era un
+soldato di Aveh.<Delay 10> 
+Non si può predire il
+destino, vero?<New>
+Ci combattevamo a vicenda,
+mentre ora siamo amici e
+ci dividiamo il cibo.
+Strana la vita, eh…!?<Close><End of Block>
+<TextBlock 7 w:36 h:2>
+Parlando di cibo, 
+ho una gran fame<Delay 5>…<Delay 5><Close><End of Block>
+<TextBlock 8 w:22 h:1>
+Siamo nei guai!<Close><End of Block>
+<TextBlock 9 w:56 h:4>
+Sei di Aveh? <Delay 10>
+Oh, non lo sei. 
+Io ero un soldato di Aveh.<New>
+Il Primo Ministro di Aveh,
+Shakhan, ha così tanto
+potere che può inviare
+anche noi studenti in guerra.<New>
+Non ero felice con Shakhan.
+Così ho lasciato l'esercito
+e sono diventato un pirata.<Close><End of Block>
+<TextBlock 10 w:46 h:2>
+Chissà come se la passa
+Françoise a casa<Delay 5>…<Delay 5>?<Close><End of Block>
+<TextBlock 11 w:48 h:3>
+Cosa?<Delay 5> No! Ecco…
+Non è la mia ragazza.
+È il mio cane.<Close><End of Block>
+<TextBlock 12 w:38 h:3>
+Nel trambusto di prima
+il mio modellino si
+è rotto<Delay 5>…<Close><End of Block>
+<TextBlock 13 w:40 h:3>
+Bart
+"Sei ancora qui?
+Vai fuori!"<Close><End of Block>
+<TextBlock 14 w:44 h:3>
+Ooh, se queste vibrazioni
+aumenteranno, il nostro
+prezioso modellino verrà…<Close><End of Block>
+<TextBlock 15 w:40 h:3>
+Questo modellino è
+davvero bello. Basta
+guardare i dettagli<Delay 5>…<Close><End of Block>
+<TextBlock 16 w:42 h:4>
+Ehi Fei!! Non pensi che
+sia fantastico?<Delay 10>
+    Lo è sicuramente!
+    Non mi pare<Close><End of Block>
+<TextBlock 17 w:58 h:4>
+È fantastico, non è vero?<Delay 10> 
+C'è una storia dietro
+questo modellino.
+Ora te la racconto…<New>
+Dodici anni fa, Sigurd portò
+Bart via da Aveh. Rubarono la
+più potente nave da battaglia
+di Aveh e la rimodellarono.<New>
+Fu chiamata 'Yggdrasil'.<New>
+Questo è l'Yggdrasil
+prima delle modifiche.<Delay 10>
+Lo tengo con me per ricordare
+le speranze di allora.<Close><End of Block>
+<TextBlock 18 w:50 h:3>
+(Eh eh… fu prezioso il
+lavoro che facemmo io e
+il primo ufficiale ed io.)<Close><End of Block>
+<TextBlock 19 w:52 h:2>
+Mmh, un minuto fa hai
+detto che non era così
+grande<Delay 5>…<Close><End of Block>
+<TextBlock 20 w:58 h:4>
+Non ti pare?<Delay 10>
+Allora fatti raccontare la
+storia che c'è dietro, e 
+vediamo se non cambi idea…<New>
+Dodici anni fa, Sigurd portò
+Bart via da Aveh. Rubarono la
+più potente nave da battaglia
+di Aveh e la rimodellarono.<New>
+Fu chiamata 'Yggdrasil'.
+Questo è l'Yggdrasil
+prima delle modifiche.<New>
+Lo tengo con me per ricordare
+le speranze di allora.
+Ma non è importante ora,
+credo…<Close><End of Block>
+<TextBlock 21 w:52 h:2>
+(Sigh… Il primo ufficiale
+ed io ci abbiamo lavorato
+così duramente!)<Close><End of Block>
+<TextBlock 22 w:48 h:2>
+Questo è ciò che ne
+pensi? Sei un bugiardo,
+Fei.<Close><End of Block>
+<TextBlock 23 w:46 h:2>
+Voglio fare un altro 
+modellino dell'Yggdrasil…<Close><End of Block>
+<TextBlock 24 w:44 h:3>
+Ehi! Fei, hai 
+fatto un ottimo lavoro! 
+Contiamo su di te!<Close><End of Block>
+<TextBlock 25 w:52 h:3>
+Oh no!<Delay 10>
+Tutti i Gear dovrebbero
+essere in riparazione!!<Close><End of Block>
+<TextBlock 26 w:52 h:3>
+Sai perché quella
+bambina è qui?
+È un'orfana di guerra…<New>
+Fu trovata che piangeva
+nel deserto. Così la
+portarono sull'Yggdrasil.<New>
+Dobbiamo impedire una
+volta per tutte che ci
+siano altri come lei.<Close><End of Block>
+<TextBlock 27 w:46 h:4>
+Margie, sei ritornata!<Delay 10> 
+Sono così felice! <Delay 10>
+Verrò a trovarti più
+tardi!<Close><End of Block>
+<TextBlock 28 w:52 h:4>
+Ho sentito che avete
+fatto un buon lavoro
+nel proteggerci<Delay 10>…<New>
+Mi spiace, vorrei farvi
+riposare, ma non posso.<Close><End of Block>
+<TextBlock 29 w:42 h:3>
+Ritorna quando trovi
+la piccola Margie!
+Buona fortuna, Bart caro!<Close><End of Block>
+<TextBlock 30 w:36 h:4>
+Bart
+"Roger!<Delay 10>
+Badate al forte
+per noi!"<Close><End of Block>
+<TextBlock 31 w:54 h:3>
+Il nemico sta arrivando?<Delay 10> 
+Questo posto è inespugnabile,
+non preoccuparti!!<Close><End of Block>
+<TextBlock 32 w:34 h:2>
+Ora è meglio che ti 
+cerchi un riparo.<Close><End of Block>
+<TextBlock 33 w:42 h:3>
+Sembri stanco.<Delay 10>
+Forse fare compere ti
+solleverà lo spirito.<New>
+(Anche se è un amico di
+Bart, devo farlo pagare!)<Close><End of Block>
+<TextBlock 34 w:42 h:2>
+Se ti serve qualcosa,
+fammelo sapere.<Close><End of Block>
+<TextBlock 35 w:34 h:5>
+Cosa ti serve?
+<Opcode 1 255>    Oggetti
+    Accessori
+    Pezzi Gear
+    Nulla<Close><End of Block>
+<TextBlock 36 w:42 h:3>
+Bart caro!<Delay 10>
+Stavo passeggiando 
+quando sei apparso!<Close><End of Block>
+<TextBlock 37 w:38 h:2>
+Va tutto bene,
+Bart caro?<Close><End of Block>
+<TextBlock 38 w:50 h:4>
+Oh! Fei caro! Ho creduto
+in te. Avevi detto che 
+avresti aiutato Bart.<Delay 10>
+Grazie anche da parte mia!<Close><End of Block>
+<TextBlock 39 w:50 h:4>
+Bart caro, non troverai
+molti amici come lui!<Delay 10>
+Perciò, comportati bene
+con lui!<Close><End of Block>
+<TextBlock 40 w:44 h:4>
+Bart
+"Già. La prossima
+volta che verrò qui,
+sarò con Margie…<New>
+Così mi aspetto che
+tu faccia qualcosa di
+buono."<Close><End of Block>
+<TextBlock 41 w:44 h:2>
+Va bene caro, lascia
+fare alla Nonna!<Close><End of Block>
+<TextBlock 42 w:48 h:4>
+Fei caro!!
+Hai visto un bambino e
+una bambina? Chissà
+dove sono finiti?<Close><End of Block>
+<TextBlock 43 w:50 h:3>
+Tu sei Fei? 
+Bart caro mi ha detto
+che ha incontrato un
+'vero amico'.<Close><End of Block>
+<TextBlock 44 w:6 h:1>
+<Delay 5>…<Delay 5><Close><End of Block>
+<TextBlock 45 w:48 h:4>
+Sii amico di Bart.
+È un così bravo ragazzo.<Delay 10>
+    Ahh, certo
+    Non mi interessa<Close><End of Block>
+<TextBlock 46 w:18 h:2>
+Fei
+"Lo so."<Close><End of Block>
+<TextBlock 47 w:30 h:2>
+Conto su di te,
+Fei caro.<Close><End of Block>
+<TextBlock 48 w:36 h:3>
+Fei
+"Non ha nulla a che
+fare con me<Delay 5>…"<Close><End of Block>
+<TextBlock 49 w:46 h:4>
+Beh, vedo che sei
+proprio come Bart,
+un musone solitario.<Delay 10> 
+Stammi bene.<Close><End of Block>
+<TextBlock 50 w:40 h:2>
+Se sei con Bart,
+starai bene.<Close><End of Block>
+<TextBlock 51 w:20 h:2>
+Fei caro,<Delay 10>
+<Delay 5>…<Delay 5> Grazie.<Close><End of Block>
+<TextBlock 52 w:12 h:1>
+Uah!!<Close><End of Block>
+<TextBlock 53 w:22 h:2>
+Nonna!
+Ho paura!<Close><End of Block>
+<TextBlock 54 w:24 h:1>
+Ehi, Nonna.<Close><End of Block>
+<TextBlock 55 w:38 h:4>
+Oops<Delay 5>…<Delay 5>
+Sono così imbarazzato!<Delay 10>
+Ma questo è il mio
+modo di essere con
+i bambini<Delay 5>…<Close><End of Block>
+<TextBlock 56 w:46 h:3>
+È da molto tempo che
+non ci divertiamo.<Delay 10>
+Giochiamo nella sabbia!<Close><End of Block>
+<TextBlock 57 w:24 h:2>
+Papà, questo è
+il deserto!!<Close><End of Block>
+<TextBlock 58 w:44 h:3>
+Uahahaha!<Delay 10>
+Ti stai divertendo più
+dell'ultima volta!!<Close><End of Block>
+<TextBlock 59 w:28 h:1>
+Ok, ciao!!<Close><End of Block>
+<TextBlock 60 w:38 h:2>
+Regali, regali!
+Ueeh! Ueeeeh!<Close><End of Block>
+<TextBlock 61 w:44 h:4>
+Io sto aspettando il
+ritorno di mio padre.
+Ma non piangerò!<Delay 10>
+Va bene, uh?<Close><End of Block>
+<TextBlock 62 w:46 h:2>
+Fei
+"È una bella cosa<Delay 5>…"<Close><End of Block>
+<TextBlock 63 w:14 h:1>
+Papà!!<Delay 10><Close><End of Block>
+<TextBlock 64 w:42 h:1>
+Bentornato a casa, papà!<Close><End of Block>
+<TextBlock 65 w:44 h:3>
+Dimmi, hai fatto la
+brava bambina durante
+la mia assenza?<Close><End of Block>
+<TextBlock 66 w:10 h:1>
+Sì!!<Close><End of Block>
+<TextBlock 67 w:44 h:2>
+Ho fatto la brava<Delay 5>…<Delay 5>
+Dove sono i miei regali?<Close><End of Block>
+<TextBlock 68 w:46 h:2>
+Regali!?<Delay 10> Guarda, ecco un
+vestito da pirata per te!!<Close><End of Block>
+<TextBlock 69 w:24 h:2>
+Wow!<Delay 10>
+Grazie papà!!<Close><End of Block>
+<TextBlock 70 w:54 h:3>
+Maison
+"Questa è la sala da
+pranzo.<Delay 10> Mi spiace, è
+così rozza…"<Close><End of Block>
+<TextBlock 71 w:42 h:2>
+Maison
+"Prego, accomodatevi."<Close><End of Block>
+<TextBlock 72 w:50 h:4>
+Maison
+"Forse vorreste un po' 
+del mio famoso tè?<Delay 10> 
+Padron Fei?<Delay 10> Buon Dottore?"<Close><End of Block>
+<TextBlock 73 w:50 h:4>
+Maison
+"I visitatori giovani
+sono rari. Il Padroncino
+sarà molto felice.<New>
+Se le cose fossero normali
+non vivremmo nel deserto,
+ma nel palazzo reale<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 74 w:54 h:4>
+Shitan
+"Palazzo reale<Delay 5>…?<Delay 10><New>
+Il giovanotto è collegato
+alla vecchia dinastia di
+Fatima?"<Close><End of Block>
+<TextBlock 75 w:18 h:2>
+Maison
+"Prego?"<Close><End of Block>
+<TextBlock 76 w:52 h:4>
+Maison
+"N…<Delay 5> no…<Delay 10>
+Sono solo un vecchio
+sciocco che parla troppo<Delay 5>…<New>
+Non prestate attenzione
+a ciò che ho detto…
+Ah<Delay 5>ah<Delay 5>ah<Delay 5>…"<Close><End of Block>
+<TextBlock 77 w:40 h:4>
+Shitan
+"Ma… quel giovane
+cieco da un occhio
+ha un certo portamento."<Close><End of Block>
+<TextBlock 78 w:48 h:4>
+Maison
+"Oh<Delay 5>…<Delay 5> oh<Delay 5>…<Delay 5> oh<Delay 5>…!<Delay 10>
+Ben detto, signore!
+L'avete notato!"<Close><End of Block>
+<TextBlock 79 w:52 h:3>
+Maison
+"Se mi è permesso…
+Voglio proprio dirvelo.<New>
+Il giovane è l'ultimo
+erede di quella che
+era la fiera dinastia
+dei Fatima.<New>
+… Questo prima che essa
+fosse distrutta dagli
+sgherri di Shakhan…<Close><End of Block>
+<TextBlock 80 w:24 h:3>
+Il Principe <Delay 10>
+Bartolomeo <Delay 10>
+Fatima.<Close><End of Block>
+<TextBlock 81 w:48 h:3>
+Shitan
+"Bartolomeo?<Delay 10>
+L'erede di Edbart IV<Delay 5>…<New>
+La morte per malattia
+di Bartolomeo fu
+annunciata 12 anni fa<Delay 5>…"<Close><End of Block>
+<TextBlock 82 w:54 h:3>
+Maison
+"Ufficialmente.<New>
+In realtà noi salvammo
+il giovane principe
+dalle grinfie di Shakhan."<Close><End of Block>
+<TextBlock 83 w:52 h:4>
+Shitan
+"Perché il principe,
+il legittimo erede, si
+è dato alla pirateria<Delay 5>…?"<Close><End of Block>
+<TextBlock 84 w:12 h:2>
+Maison
+"<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 85 w:50 h:3>
+Maison
+"Da quando fuggimmo
+qui, abbiamo un solo
+desiderio<Delay 5>…<New>
+…<Delay 5> che il Padroncino
+cresca e divenga
+un grande uomo<Delay 5>…"<Close><End of Block>
+<TextBlock 86 w:40 h:3>
+Shitan
+"Non per<Delay 5>…<Delay 10>
+reclamare il trono?"<Close><End of Block>
+<TextBlock 87 w:50 h:4>
+Maison
+"Esattamente.<New>
+Naturalmente, dire che
+non abbiamo il desiderio
+di ripristinare la sua
+autorità<Delay 15>…<New>
+… sarebbe una menzogna.<Delay 40>
+Abbiamo piani anche
+per quello."<Close><End of Block>
+<TextBlock 88 w:50 h:3>
+Shitan
+"E parte di questi piani
+include la pirateria…?"<Close><End of Block>
+<TextBlock 89 w:42 h:4>
+Maison
+"Beh, sì<Delay 5>…<Delay 10> 
+Ma c'è una ragione
+per questo<Delay 5>…"<Close><End of Block>
+<TextBlock 90 w:50 h:4>
+Maison
+"A dispetto di chi
+controlla la tecnologia
+delle rovine…<New>
+… una cosa è certa…<New>
+Sia Kislev che Aveh
+useranno quel potere
+per opprimere l'altro.<New>
+Ho aderito all'idea del
+Padroncino di creare un
+nuovo ordine che…<New>
+… equilibrasse meglio
+le cose."<Close><End of Block>
+<TextBlock 91 w:50 h:4>
+Shitan
+"Capisco…<New>
+È più facile saccheggiare
+dall'ombra che scavare
+la tecnologia da sé."<Close><End of Block>
+<TextBlock 92 w:50 h:4>
+Maison
+"Naturalmente il
+saccheggio è un
+atto imperdonabile.<New>
+Comunque<Delay 5>…<Delay 5>
+per Aveh,<Delay 5>
+per Ignis,<Delay 5>
+continuare così<Delay 5>…"<Close><End of Block>
+<TextBlock 93 w:46 h:2>
+Maison
+"Mi spiace se sembra che
+cerchi giustificazioni."<Close><End of Block>
+<TextBlock 94 w:52 h:4>
+Shitan
+"Questa è una cosa che
+estranei come noi non
+possono commentare.<New>
+Da quello che mi avete
+detto, sento che state
+facendo la cosa giusta.<New>
+Me lo fa capire il
+vedere i vostri bambini
+qui."<Close><End of Block>
+<TextBlock 95 w:40 h:3>
+Maison
+"Mi fa piacere sentire
+queste parole."<Close><End of Block>
+<TextBlock 96 w:42 h:2>
+Maison
+"Un'altra tazza di tè?"<Close><End of Block>
+<TextBlock 97 w:24 h:3>
+Shitan
+"Sì, per favore.<Delay 10>
+Grazie."<Close><End of Block>
+<TextBlock 98 w:46 h:4>
+Shitan
+"Avete accennato
+ad alcuni piani.<New>
+Perché non li avete
+messi in azione?"<Close><End of Block>
+<TextBlock 99 w:38 h:4>
+Maison
+"Con la Signorina Margie
+imprigionata, non abbiamo
+il coraggio di far nulla."<Close><End of Block>
+<TextBlock 100 w:28 h:4>
+Shitan
+"Non è che, per caso,<Delay 10>
+lei è<Delay 5>…?"<Close><End of Block>
+<TextBlock 101 w:46 h:4>
+Maison
+"Siete ben informato,
+mio caro Dottore.<New>
+Lei è la Grande Madre
+Margherita di Nisan<Delay 5>…<Delay 10>
+e anche la cugina del
+Padroncino."<Close><End of Block>
+<TextBlock 102 w:36 h:3>
+Shitan
+"Perché Shakhan la
+terrebbe prigioniera?"<Close><End of Block>
+<TextBlock 103 w:52 h:2>
+Maison
+"Per il 'Diaspro di
+Fatima'!"<Close><End of Block>
+<TextBlock 104 w:46 h:4>
+Shitan
+"Il Diaspro di Fatima che
+indicherebbe dove…<New>
+… pare che sia nascosto
+un grande tesoro?"<Close><End of Block>
+<TextBlock 105 w:50 h:4>
+Maison
+"Cielo, buon Dottore!<Delay 10>
+Voi sapete tutto.<Delay 10>
+Sono impressionato."<Close><End of Block>
+<TextBlock 106 w:26 h:4>
+Fei
+"No<Delay 5>…<Delay 5>
+Non ho sete ora!"<Close><End of Block>
+<TextBlock 107 w:46 h:4>
+Maison
+"Comunque, non abbiamo
+idea di che cosa sia
+il grande tesoro…<New>
+Ma si dice che sia
+così potente da salvare
+il nostro regno se
+usato nel giusto modo."<Close><End of Block>
+<TextBlock 108 w:42 h:4>
+Shitan
+"E Margherita ha il
+Diaspro che ne indica
+l'ubicazione?"<Close><End of Block>
+<TextBlock 109 w:38 h:4>
+Maison
+"Solo una metà,
+ad essere precisi.<New>
+Il Padroncino e la
+signorina Margherita
+ne hanno metà ciascuno.<New>
+Solo combinando le
+due metà si potrà
+sapere dove si
+trova il tesoro."<Close><End of Block>
+<TextBlock 110 w:38 h:4>
+Shitan
+"Quale forma ha il
+Diaspro di Fatima?<New>
+Quando dite una metà
+del diaspro, immagino
+un qualche tipo di
+collana<Delay 5>…"<Close><End of Block>
+<TextBlock 111 w:46 h:4>
+Maison
+"Solo gli eredi di Aveh
+e Nisan sanno cosa sia
+in realtà."<Close><End of Block>
+<TextBlock 112 w:42 h:4>
+Shitan
+"Capisco.<Delay 10>
+È per questo che
+l'hanno imprigionata.<New>
+Inoltre, credo che una
+volta trovato il diaspro,
+le sue possibilità di
+restare in vita saranno<Delay 5>…"<Close><End of Block>
+<TextBlock 113 w:42 h:4>
+Shitan
+"Vogliate scusarmi.<Delay 10>
+Stavo solo,<Delay 10> intendevo<Delay 5>…<New>
+Stavo solo pensando
+al peggio. Non abbiate
+timore più del dovuto<Delay 5>…"<Close><End of Block>
+<TextBlock 114 w:46 h:3>
+Maison
+"No, è uno scenario
+molto realistico."<Close><End of Block>
+<TextBlock 115 w:10 h:2>
+Shitan
+"<Delay 5>…"<Close><End of Block>
+<TextBlock 116 w:48 h:4>
+Shitan
+"Ahem.<Delay 10>
+Che cosa intendete
+per grande tesoro<Delay 5>…?"<Close><End of Block>
+<TextBlock 117 w:52 h:3>
+Maison
+"Ecco…<Delay 10>
+Non ne ho la più
+recondita idea…<Delay 5>"<Close><End of Block>
+<TextBlock 118 w:36 h:3>
+Il Gear…!
+Si riferisce al Gear!<Delay 10>
+Deve essere lui!<Close><End of Block>
+<TextBlock 119 w:46 h:3>
+Maison
+"Padroncino<Delay 5>…<Delay 10>
+I Gear sono a posto?"<Close><End of Block>
+<TextBlock 120 w:46 h:4>
+Bart
+"Sì…<New>
+Anche se sono ben
+protetti, la sabbia è
+entrata nelle giunture.<New>
+È faticoso sistemarli,
+e così ho messo
+l'equipaggio a
+lavorarci su.<New>
+Il mio lavoro è solo
+quello di pilotare.<New>
+E poi, sono una frana
+con le macchine,<Delay 10> così
+mi sono tolto dai piedi."<Close><End of Block>
+<TextBlock 121 w:30 h:1>
+Padroncino<Delay 5>…<Close><End of Block>
+<TextBlock 122 w:30 h:4>
+Bart
+"Comunque…
+Di cosa stiamo
+parlando?"<Close><End of Block>
+<TextBlock 123 w:36 h:4>
+Shitan
+"Che il grande
+tesoro possa
+essere un<Delay 5>…<Delay 5> Gear?"<Close><End of Block>
+<TextBlock 124 w:52 h:3>
+Bart
+"Oh, sì.<New>
+Sapete, qualcosa del
+genere è dipinta
+sulle pergamene di Aveh."<Close><End of Block>
+<TextBlock 125 w:36 h:2>
+Shitan
+"Pergamene?"<Close><End of Block>
+<TextBlock 126 w:6 h:1>
+<Delay 5>…<Delay 5><Close><End of Block>
+<TextBlock 127 w:54 h:4>
+Bart
+"Ecco,<Delay 5> se v'interessa,<Delay 10>
+andiamo nella sala
+progetti<Delay 5>…<New>
+Vi mostrerò ciò di cui
+parlo<Delay 5>…<Delay 5> visto che siete
+miei graditi ospiti."<Close><End of Block>
+<TextBlock 128 w:26 h:3>
+Shitan
+"Interessante."<Close><End of Block>
+<TextBlock 129 w:2 h:1>
+!<Opcode 2 60><Close><End of Block>
+<TextBlock 130 w:48 h:3>
+Maison
+"Non le piace il mio
+tè,<Delay 10> Padron Fei?"<Close><End of Block>
+<TextBlock 131 w:0 h:1>
+<Close><End of Block>

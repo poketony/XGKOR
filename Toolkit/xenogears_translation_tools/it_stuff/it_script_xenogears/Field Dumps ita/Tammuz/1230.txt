@@ -1,0 +1,139 @@
+<TextBlock 1 w:40 h:4>
+Big Joe
+"Ho perso. Ecco
+il tuo regalo.
+Adios."<Close><End of Block>
+<TextBlock 2 w:46 h:2>
+ 
+ Ricevi Giacca Scura.<Close><End of Block>
+<TextBlock 3 w:38 h:4>
+Big Joe
+"Ah, com'è facile
+batterti, amigo!
+Va' via."<Close><End of Block>
+<TextBlock 4 w:36 h:4>
+Big Joe
+"Ah… un pareggio.
+Una vera fortuna
+per te, señor…"<Close><End of Block>
+<TextBlock 5 w:54 h:3>
+Big Joe
+"Ehi, chico.<New>
+¿Estás fastidiando
+nuestro momento
+de amor?"<New>
+    Sì
+    No<Close><End of Block>
+<TextBlock 6 w:48 h:3>
+Big Joe
+"Sí? Forse devi
+imparare le buone
+maniere, muchacho!"<Close><End of Block>
+<TextBlock 7 w:40 h:2>
+Big Joe
+"Bene, allora
+vattene."<Close><End of Block>
+<TextBlock 8 w:34 h:1>
+Oh, Joe, mi amor!<Close><End of Block>
+<TextBlock 9 w:38 h:3>
+Bart
+"Scusa per quello
+che ho detto prima…"<Close><End of Block>
+<TextBlock 10 w:52 h:4>
+Fei
+"Sta' tranquillo. Era
+anche colpa mia. Non ti
+vedevo da molto tempo.<New>
+Non dovremmo combattere."<Close><End of Block>
+<TextBlock 11 w:50 h:4>
+Bart
+"Sigh<Delay 5>…<Delay 5><New>
+L'Yggdrasil II è stato
+costruito così rapidamente
+che…<New>
+… non abbiamo avuto il
+tempo di preparare le
+granate sottomarine.<New>
+È anche colpa mia se non
+le avevamo, perché ho
+dato la priorità ai
+Missili Bart sul resto."<Close><End of Block>
+<TextBlock 12 w:32 h:2>
+Fei
+"Missili Bart?"<Close><End of Block>
+<TextBlock 13 w:36 h:4>
+Bart
+"Oh… uhmm, beh,
+non sono comunque
+così buoni…"<Close><End of Block>
+<TextBlock 14 w:48 h:4>
+Fei
+"?<Delay 20>
+Comunque, mi fa piacere
+che tu stia bene.<New>
+Ho sempre saputo che
+eri vivo."<Close><End of Block>
+<TextBlock 15 w:52 h:4>
+Bart
+"Certo.
+Io sono Bart l'immortale.
+Non lo sapevi<Delay 5>…?<New>
+Ma questa volta sono
+stato un po' strapazzato
+da un mostruoso Gear
+rosso."<Close><End of Block>
+<TextBlock 16 w:30 h:2>
+Fei
+"Un Gear rosso…"<Close><End of Block>
+<TextBlock 17 w:54 h:4>
+Bart
+"Già. Mi ha battuto, e ci
+ha lasciati sprofondare
+nella sabbia.<New>
+Ma senti cosa è
+successo dopo…<New>
+Siamo sprofondati in
+un'enorme caverna sotto
+la sabbia…<Delay 10>!<New>
+E poi lì c'era un altro
+incrociatore del deserto
+identico all'Yggdrasil!<New>
+Abbiamo sostituito le
+parti utilizzabili ed
+il ponte, e l'abbiamo
+rimodellato."<Close><End of Block>
+<TextBlock 18 w:52 h:4>
+Shitan
+"Francamente, io stesso
+non ci credo ancora.<New>
+Sembra la stessa, ma
+può galleggiare.<New>
+Molto probabilmente
+è il prototipo
+dell'Yggdrasil."<Close><End of Block>
+<TextBlock 19 w:48 h:5>
+Bart
+"Della gente viveva lì
+molto tempo fa, ed aveva
+molte armi.<New>
+È così che le abbiamo
+prese."<Close><End of Block>
+<TextBlock 20 w:48 h:4>
+Shitan
+"Bart me le ha già
+mostrate.<New>
+Molto probabilmente
+quelle armi provengono…<Delay 10>
+da Shevat."<Close><End of Block>
+<TextBlock 21 w:46 h:3>
+Fei
+"Shevat…<Delay 5>…<Delay 5> intendi
+la città nell'aria…?"<Close><End of Block>
+<TextBlock 22 w:42 h:4>
+Bart
+"Cosa più importante,
+dovremmo andare a dire
+'ohè' al Capitano."<Close><End of Block>
+<TextBlock 23 w:20 h:2>
+Fei
+"… Già."<Close><Close><End of Block>

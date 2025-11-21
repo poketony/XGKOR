@@ -1,0 +1,57 @@
+<TextBlock 1 w:14 h:1>
+!%#?&+!<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+Neanche l'avanzatissima
+scienza di Solaris può
+fermare l'invecchiamento.<Delay 10>
+Ma dicono che i più potenti
+l'abbiano ormai sconfitto…<New>
+Hanno già dei grandi
+discendenti, cos'altro
+vogliono?<Delay 10> Non sei d'accordo?<Close><End of Block>
+<TextBlock 3 w:14 h:1>
+!%#?&+!<Close><End of Block>
+<TextBlock 4 w:52 h:3>
+Com'era la Cerimonia?<Delay 10>
+Vederla dai posti VIP
+dev'essere stato molto
+più bello.<Close><End of Block>
+<TextBlock 5 w:52 h:4>
+Eh?<Delay 10> Voi siete i ragazzi
+a cui ho dato i biglietti!<Delay 10>
+Siete ancora qui? Vi
+perdete la Cerimonia!<Close><End of Block>
+<TextBlock 6 w:52 h:4>
+Sono venuta a vedere
+l'Imperatore, ma ho
+sforzato troppo la
+mia schiena<Delay 10>…<New>
+Sanno curare quasi di
+tutto, ma non un
+mal di schiena.<New>
+Ed è successo dopo che
+ho dovuto sopportare di
+tutto e di più per avere
+i biglietti…<Close><End of Block>
+<TextBlock 7 w:62 h:4>
+Ehi, ragazzi.<Delay 10> Vi servono
+biglietti per la Cerimonia?<New>
+I ragazzi come voi dovrebbero
+davvero vederla dal vivo!
+    Per favore!
+    No, grazie<Close><End of Block>
+<TextBlock 8 w:56 h:1>
+<Opcode 1 255>Ricevi i biglietti
+per la Cerimonia.<Opcode 2 60><Close><End of Block>
+<TextBlock 9 w:48 h:4>
+Lasciate perdere i soldi.
+Sbrigatevi o ve la perderete.<Delay 10>
+Io la guarderò in Televisione.<Close><End of Block>
+<TextBlock 10 w:46 h:3>
+Che strani ragazzi…<Delay 10>
+Fareste meglio a prenderli,
+prima che io cambi idea<Delay 10>…<Close>
+Non potete prenderli alla
+Biglietteria.<Close><End of Block>
+<TextBlock 11 w:0 h:1>
+<Close><End of Block>

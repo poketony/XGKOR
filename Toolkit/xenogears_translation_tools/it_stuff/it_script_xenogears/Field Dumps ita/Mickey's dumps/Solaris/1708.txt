@@ -1,0 +1,91 @@
+<TextBlock 1 w:34 h:4>
+Fei
+"Questo è…
+ciò che abbiamo
+mangiato prima…?"<Close><End of Block>
+<TextBlock 2 w:40 h:4>
+Fei
+"Sapete una cosa…?<Delay 30>
+Non mi va di sapere
+come l'hanno fatto."<Close><End of Block>
+<TextBlock 3 w:44 h:4>
+Fei
+"Cosa…?<Delay 30>
+Cosa dovrebbe esserci…
+là, esattamente?"<Close><End of Block>
+<TextBlock 4 w:24 h:4>
+Fei
+"Dannazione,
+non possiamo
+proseguire."<Close><End of Block>
+<TextBlock 5 w:24 h:4>
+Fei
+"Dannazione,
+non possiamo
+proseguire."<Close><End of Block>
+<TextBlock 6 w:24 h:4>
+Fei
+"Dannazione,
+non possiamo
+proseguire."<Close><End of Block>
+<TextBlock 7 w:40 h:4>
+Elly
+"Capisco…<Delay 30>
+Il cibo che mangiamo
+viene fatto qui…"<Close><End of Block>
+<TextBlock 8 w:34 h:4>
+Elly
+"Chissà…<Delay 30>
+che tipo di carne
+è questa…?"<Close><End of Block>
+<TextBlock 9 w:40 h:3>
+Elly
+"Shitan…?
+Cosa vorresti dire?"<Close><End of Block>
+<TextBlock 10 w:30 h:2>
+Shitan
+"Aspetta, Fei."<Close><End of Block>
+<TextBlock 11 w:48 h:3>
+Shitan
+"Hai mangiato quel cibo…<New>
+Considera ciò che hai
+fatto quando aprirai
+quella porta."<Close><End of Block>
+<TextBlock 12 w:48 h:2>
+Shitan
+"Vedi con i tuoi occhi."<Close><End of Block>
+<TextBlock 13 w:42 h:4>
+Shitan
+"La sala di controllo
+del sensore dovrebbe
+essere là."<Close><End of Block>
+<TextBlock 14 w:48 h:3>
+Shitan
+"Se spegni il rivelatore
+di oggetti estranei…<New>
+… dovresti essere in
+grado di proseguire."<Close><End of Block>
+<TextBlock 15 w:44 h:3>
+Individuato oggetto
+estraneo, scaricamento
+oggetto.<Close><End of Block>
+<TextBlock 16 w:44 h:3>
+Individuato oggetto
+estraneo, scaricamento
+oggetto.<Close><End of Block>
+<TextBlock 17 w:44 h:3>
+Individuato oggetto
+estraneo, scaricamento
+oggetto.<Close><End of Block>
+<TextBlock 18 w:38 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 19 w:16 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 20 w:38 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 21 w:16 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><Close><End of Block>

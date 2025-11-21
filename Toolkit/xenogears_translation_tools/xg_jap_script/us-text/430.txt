@@ -1,0 +1,26 @@
+#### 1 ####
+Samson
+"From here on, it'll
+be better if we split up.
+It's a maze so be careful."
+
+#### 2 ####
+Fei
+"Yeah, you too..."
+
+#### 3 ####
+Elly
+"Are we really going to
+be okay?"
+
+#### 4 ####
+ 
+
+#### 5 ####
+You have too many
+{str}.
+
+#### 6 ####
+ 
+ Received {str}.
+

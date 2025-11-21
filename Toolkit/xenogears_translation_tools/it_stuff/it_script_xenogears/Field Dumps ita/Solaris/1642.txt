@@ -1,0 +1,80 @@
+<TextBlock 1 w:52 h:3>
+Krelian
+"Figli dell'Imperatore,<Delay 10>
+vi prego, aprite i
+vostri cuori."<Close><End of Block>
+<TextBlock 2 w:20 h:2>
+Elly
+"Krelian!"<Close><End of Block>
+<TextBlock 3 w:12 h:2>
+Fei
+"Eh?"<Close><End of Block>
+<TextBlock 4 w:40 h:4>
+Elly
+"Quello è Krelian.<Delay 10>
+È lui che detiene il
+vero potere a Solaris.<New>
+Non appare in pubblico
+molto spesso.<Delay 10> E questo
+è tutto quello che so."<Close><End of Block>
+<TextBlock 5 w:32 h:4>
+Fei
+"Perciò lui è<Delay 5>…<Delay 5>
+il capo di Solaris?<New>
+Cosa<Delay 5>…<Delay 10>
+Perché mi sento come<Delay 5>…<Delay 5>
+Qualcosa di lui mi
+sembra familiare."<Close><End of Block>
+<TextBlock 6 w:54 h:4>
+Krelian
+"… Il Portale che noi
+controllavamo è stato
+rimosso per volere…<New>
+… dell'Imperatore.<Delay 20>
+Tuttavia, vi sono delle
+stolte bestie che…<New>
+… stanno contaminando la
+nostra terra poggiandone
+sopra i loro piedi.<New>
+Codeste bestie hanno
+distrutto il portale,
+e vogliono detronizzare
+l'Imperatore…<New>
+… approfittando della
+confusione creatasi.<New>
+E questo è un problema
+grave; poiché il trono
+dell'Imperatore è
+stato contaminato.<New>
+Non possiamo ancora
+stare tranquilli.<New>
+Ma quegli imbecilli sono
+stati catturati ed
+incatenati come i cani
+che sono!"<Close><End of Block>
+<TextBlock 7 w:64 h:11>
+<Opcode 14 1>   Figli miei cari,
+   tranquillizzatevi.
+   Il Ministero di Gazel ed io
+   pianificammo la distruzione
+   del Portale molto tempo fa.
+   La gente scelta da dio…<Delay 10>
+   noi, i Gazel, ritorneremo al
+   paradiso di dio. A quel dio
+   dormiente, madre e creatore…<Delay 10>
+   È giunto il tempo della
+   nostra immortalità.<New>
+   Abbiamo aperto la porta che
+   conduce a 'Mahanon'… il luogo
+   ove dio riposa, luogo fonte
+   di saggezza e potere. Gli
+   abitanti della superficie
+   utilizzeranno, senza dubbio,
+   questa opportunità per
+   carpire il suo potere.<New>
+   Tuttavia, non c'è motivo
+   pel quale essere turbati…
+   Finché Solaris possiede
+   questo potere…<Close><End of Block>
+<TextBlock 8 w:0 h:1>
+<Close><End of Block>

@@ -1,0 +1,197 @@
+#### 1 ####
+Imperial Guard
+"Up ahead is the northern
+gate of A Block, but it
+is closed off due to{enter}
+contruction."
+
+#### 2 ####
+Imperial Guard
+"We deeply apologize, but
+there are 3 other gates.{enter}
+The west, north and the
+south. Please enter
+through any one of
+those."
+
+#### 3 ####
+Imperial Guard
+"The sun has already gone
+down.{wait:0F} It is far too
+dangerous outside the{enter}
+capital so I cannot
+permit you passage."
+
+#### 4 ####
+Imperial Guard
+"It's unfortunate, but
+it's my job.{wait:0F} Please,
+leave the presmises{wait:05}..."
+
+#### 5 ####
+Imperial Guard
+"The sun has already gone
+down.{wait:0F} It is far too
+dangerous outside the{enter}
+capital so I cannot
+permit you passage."
+
+#### 6 ####
+Imperial Guard
+"It's unfortunate, but
+it's my job.{wait:0F} Please,
+leave the presmises{wait:05}..."
+
+#### 7 ####
+Imperial Guard
+"The sun has already gone
+down.{wait:0F} Only authorizes
+personnel are permitted
+passage. Please present{enter}
+your passes."
+
+#### 8 ####
+Imperial Guard
+"I'm sorry.{wait:05} Regardless of
+whether you're the Champ
+or not, unauthorized{enter}
+passage is not permitted.{wait:0F}
+Please, leave the
+premises{wait:05}...{wait:05}"
+
+#### 9 ####
+Imperial Guard
+"The sun has already gone
+down.{wait:0F} I am sincerely
+sorry, but passage{enter}
+through the front gate is
+not possible."
+
+#### 10 ####
+Imperial Guard
+"When the sun goes down,
+of the 3 gates, the
+northern and the southern{enter}
+gates are closed and it
+becomes possible to pass
+through only the western
+gate."
+
+#### 11 ####
+Imperial Guard
+"The sun has already gone
+down.{wait:0F} I am sincerely
+sorry, but passage{enter}
+through the front gate is
+not possible."
+
+#### 12 ####
+Imperial Guard
+"When the sun goes down,
+of the 3 gates, the
+northern and the southern{enter}
+gates are closed and it
+becomes possible to pass
+through only the western
+gate."
+
+#### 13 ####
+Imperial Guard
+"The Battling Champ.{wait:0F} I was
+in awe when I watched
+your title match.{wait:0F} {enter}
+Please forgive my past
+discourtesy to you. The
+single stretch of road
+going north and south{enter}
+will take you out of the
+Imperial capital. The
+middle is the Central
+District and to the{enter}
+southwest is the Imperial
+A Block."
+
+#### 14 ####
+Imperial Guard
+"From here on,{wait:05} prisoner
+Battlers are not
+permitted{wait:05}...{wait:05} {enter}
+The only area you can go
+to is the Battling arena."
+
+#### 15 ####
+Imperial Guard
+"This is a warning.{wait:05}{enter}
+As long as you have that
+bomb around your neck,
+putting your foot out
+there is the last thing{enter}
+you want to do. {wait:0F}
+If you don't want to die,
+don't go near it."
+
+#### 16 ####
+Imperial Guard
+"The Battling Champ.{wait:0F} I was
+in awe when I watched
+your title match.{wait:0F} {enter}
+Please forgive my past
+discourtesy to you. The
+single stretch of road
+going north and south{enter}
+will take you out of the
+Imperial capital. The
+middle is the Central 
+District and to the{enter}
+southwest is the Imperial
+A Block."
+
+#### 17 ####
+Imperial Guard
+"From here on,{wait:05} prisoner
+Battlers are not
+permitted{wait:05}...{wait:05} {enter}
+The only area you can go
+to is the Battling arena."
+
+#### 18 ####
+Imperial Guard
+"This is a warning.{wait:05}{enter}
+As long as you have that
+bomb around your neck,
+putting your foot out
+there is the last thing{enter}
+you want to do. {wait:0F}
+If you don't want to die,
+don't go near it."
+
+#### 19 ####
+{fast:FF}World Map
+
+#### 20 ####
+{fast:FF}World Map
+
+#### 21 ####
+{fast:FF}Prisoner Detention Facility
+Imperial capital D Block
+
+#### 22 ####
+{fast:FF}Imperial capital C Block
+Recreation & Battling Arena
+
+#### 23 ####
+{fast:FF}Central District
+Kislev's Kaiser Govt.
+
+#### 24 ####
+{fast:FF}Imperial capital
+A Block North Gate
+
+#### 25 ####
+{fast:FF}Imperial capital
+A Block Front Gate
+
+#### 26 ####
+{fast:FF}Imperial capital 
+A Block West Gate
+

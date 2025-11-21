@@ -1,0 +1,141 @@
+#### 1 ####
+!%#?&+!
+
+#### 2 ####
+...
+
+#### 3 ####
+I'm so indecisive, 
+I don't know what to buy.{wait:0A} 
+Don't bother me.
+
+#### 4 ####
+What? They don't have any
+Imperial model pogoshoes?
+I want them so badly too!
+
+#### 5 ####
+Sir, I'm sorry. We just
+sold the last pair.{wait:0A}
+
+#### 6 ####
+Waagghh!!
+
+#### 7 ####
+Wow, the Imperial model...{clear:1E}
+
+#### 8 ####
+I want the Imperial 
+model too!!
+
+#### 9 ####
+Service in Solaris is 
+great, no matter how big
+something is, it's always
+there when you get home.
+
+#### 10 ####
+This 'Imperial model' is
+pretty nice!
+
+#### 11 ####
+Fei
+"Doesn't that say 
+'Impaired Model'?"
+
+#### 12 ####
+Huh?{wait:0A}
+Wow, it does! 
+It must be a fake!
+
+#### 13 ####
+There's so many Imperial
+models out now.{wait:0A}
+It's a limited edition, 
+so I gotta buy it!"
+
+#### 14 ####
+Wow, you got me that
+Battling Alloy!! {wait:0A}
+When I grow up I'm gonna
+join Gebler too!
+
+#### 15 ####
+Yay, with this I can 
+mash the Lambs!!
+
+#### 16 ####
+My son bugged me so 
+much I just had to get
+him a Hybrid Alloy.{enter}
+I'll be so proud if joins
+Gebler when he grows up.
+
+#### 17 ####
+My son bugged me so 
+much I just had to get
+him a Hybrid Alloy.{enter}
+I'll be so proud if joins
+Gebler when he grows up.
+
+#### 18 ####
+Hmm, what should I do...{wait:0A}
+What do you think?
+    What about this one?
+    How about that one?
+
+#### 19 ####
+You think so?{wait:0A} 
+But you like weird 
+clothes too so...
+I'll take that one!
+
+#### 20 ####
+Hmmm, really?{wait:0A}
+I'm getting more and
+more lost...
+
+#### 21 ####
+Which one?
+
+#### 22 ####
+Which one?
+
+#### 23 ####
+This is Ticketmeister.{enter}
+What are you looking for?
+    {fast:FF}Tickets
+    Buy and sell
+    Nothing
+
+#### 24 ####
+A DK1200 encore
+performance!{wait:0A} 
+At the Imperial Hall.
+
+#### 25 ####
+VIP seating for the 
+Dedication is all sold 
+out.{wait:0A} Please enjoy
+it on Homevision.
+
+#### 26 ####
+I want to buy Imperial model
+Pogoshoes, and I'm willing
+to pay up to 5 times their
+ordinary price!
+
+#### 27 ####
+We're giving out 
+Dedication tickets.{wait:0A} 
+Please come to Room 21 
+in Etren Court.
+
+#### 28 ####
+...{wait:0A}
+I've seen that 
+somewhere before...
+
+#### 29 ####
+
+

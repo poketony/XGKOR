@@ -1,0 +1,119 @@
+<TextBlock 1 w:38 h:2>
+Fei! Un'unità
+Gear di Geburah!<Close><End of Block>
+<TextBlock 2 w:42 h:2>
+Fei
+"Ci penso io!"<Close><End of Block>
+<TextBlock 3 w:18 h:1>
+Ma…<Close><End of Block>
+<TextBlock 4 w:48 h:4>
+Fei
+"Non abbiamo tempo!<New>
+Mentre perdiamo tempo
+qui, il gruppo di Bart
+si dirige verso il
+castello. Presto!"<Close><End of Block>
+<TextBlock 5 w:18 h:1>
+R… roger.<Close><End of Block>
+<TextBlock 6 w:26 h:4>
+Elly
+"Quel Gear!?
+Non ditemi
+che è Fei!?"<Close><End of Block>
+<TextBlock 7 w:42 h:3>
+Broyer
+"Ehi, è lui?
+Il tizio di prima?"<Close><End of Block>
+<TextBlock 8 w:40 h:3>
+Renk
+"Sì.
+È proprio lui."<Close><End of Block>
+<TextBlock 9 w:54 h:3>
+Broyer
+"Bene. È il
+momento della
+rivincita.<New>
+Non resti indietro,
+sorella."<Close><End of Block>
+<TextBlock 10 w:46 h:4>
+Renk
+"Sta dando fastidio.
+Perché non si mette da
+parte e guarda?"<Close><End of Block>
+<TextBlock 11 w:46 h:4>
+Strakki
+"Già, già.
+Ci prendiamo noi cura
+di questi tizi."<Close><End of Block>
+<TextBlock 12 w:38 h:2>
+Helmholtz
+"Mi dispiace."<Close><End of Block>
+<TextBlock 13 w:40 h:2>
+Franz
+"Fuori dai piedi!"<Close><End of Block>
+<TextBlock 14 w:46 h:4>
+Elly
+"Ehi, voi!
+Non vi ho ancora dato
+l'ordine di attaccare!"<Close><End of Block>
+<TextBlock 15 w:26 h:2>
+Franz
+"Uuaaaaaaah!"<Close><End of Block>
+<TextBlock 16 w:30 h:3>
+Renk
+"Franz! Helm!
+State bene!?"<Close><End of Block>
+<TextBlock 17 w:54 h:4>
+Franz
+"Ho perso con un Agnello?
+Non è possibile…
+Come può essere!?"<Close><End of Block>
+<TextBlock 18 w:48 h:3>
+Renk
+"Franz!!
+Fatti coraggio!"<Close><End of Block>
+<TextBlock 19 w:44 h:2>
+Franz
+"Oh, sì!?<New>
+Ancora! Ho bisogno
+di più 'Drive'!!"<Close><End of Block>
+<TextBlock 20 w:36 h:4>
+Elly
+"…<Delay 20> Non posso… 
+battermi… con
+Fei… ma…"<Close><End of Block>
+<TextBlock 21 w:48 h:5>
+Elly
+"Non mi resta altro…<Delay 20>
+che usare la 'Drive'…<Delay 30>
+ 
+         <Opcode 14 2>Ma…"<Delay 250><Close><End of Block>
+<TextBlock 22 w:52 h:4>
+Renk
+"No!
+Altra 'Drive' e ti
+friggerai il cervello!!"<Close><End of Block>
+<TextBlock 23 w:52 h:3>
+Franz
+"Non m'importa! Peggio
+di così non può andare!!"<Close><End of Block>
+<TextBlock 24 w:44 h:3>
+Elly
+"Basta così, Franz.
+…<Delay 20> Ci penso io."<Close><End of Block>
+<TextBlock 25 w:10 h:1>
+Franz<Close><End of Block>
+<TextBlock 26 w:16 h:1>
+Helmholtz<Close><End of Block>
+<TextBlock 27 w:20 h:2>
+Helmholtz
+"Guuaahh!"<Opcode 2 60><Close><End of Block>
+<TextBlock 28 w:8 h:1>
+Renk<Close><End of Block>
+<TextBlock 29 w:12 h:1>
+Broyer<Close><End of Block>
+<TextBlock 30 w:16 h:1>
+Strakki<Close><End of Block>
+<TextBlock 31 w:14 h:2>
+Fei
+"Cosa?"<Close><Close><End of Block>

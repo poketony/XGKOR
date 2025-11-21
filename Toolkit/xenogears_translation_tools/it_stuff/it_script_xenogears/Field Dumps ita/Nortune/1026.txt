@@ -1,0 +1,30 @@
+<TextBlock 1 w:50 h:4>
+Senza 'G', non posso fare
+la messa a punto del mio
+Gear.<Delay 5> Neanche se lo voglio.<New>
+Per ora mi sa che dovrò
+restare un debole.<New>
+Credo che andrò a
+lavorare nelle fogne<Delay 5>…<Close><End of Block>
+<TextBlock 2 w:52 h:4>
+<Delay 5>…<Delay 5> Ho fatto un po' di
+soldi, ma ora hanno
+delle nuove parti<Delay 5>…<Delay 5>
+Le voglio, ma non ho
+abbastanza 'G'<Delay 5>…<Delay 5><Close><End of Block>
+<TextBlock 3 w:56 h:4>
+Lui è più interessato ai
+Gear che a me… Argh!<Delay 15> Ai Gear
+servono parti, carburante
+e sono pure più difficili
+da trattare delle donne!<Close><End of Block>
+<TextBlock 4 w:52 h:3>
+Anche sotto fuoco nemico,
+il suo cuore batte per i
+Gear, Gear,<Delay 5> Gear.<Delay 5>
+Nient'altro che Gear<Delay 5>…<Delay 5><Close><End of Block>
+<TextBlock 5 w:52 h:3>
+Sigh<Delay 5>…<Delay 30> Forse dovrei
+cercarmi un altro uomo.<Delay 15>
+Ne ho abbastanza di
+Combattenti!<Delay 5><Close><Close><End of Block>

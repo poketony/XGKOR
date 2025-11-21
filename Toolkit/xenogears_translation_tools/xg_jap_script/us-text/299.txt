@@ -1,0 +1,28 @@
+#### 1 ####
+Opened door lock B
+
+#### 2 ####
+B locked
+
+#### 3 ####
+A locked
+
+#### 4 ####
+B locked
+
+#### 5 ####
+You have too many
+{str}.
+
+#### 6 ####
+ 
+ Received {str}.
+
+#### 7 ####
+You have too many
+{str}.
+
+#### 8 ####
+ 
+ Received {str}.
+

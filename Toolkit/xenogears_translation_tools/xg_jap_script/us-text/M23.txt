@@ -1,0 +1,600 @@
+#### 1 ####
+New Game
+
+#### 2 ####
+Continue
+
+#### 3 ####
+Status
+
+#### 4 ####
+Equipment
+
+#### 5 ####
+Item
+
+#### 6 ####
+Ability
+
+#### 7 ####
+Gear
+
+#### 8 ####
+File
+
+#### 9 ####
+Sound
+
+#### 10 ####
+Accept
+
+#### 11 ####
+Exit
+
+#### 12 ####
+Back
+
+#### 13 ####
+Cancel
+
+#### 14 ####
+Buy
+
+#### 15 ####
+Sell
+
+#### 16 ####
+Balance
+
+#### 17 ####
+Skill
+
+#### 18 ####
+Ability
+
+#### 19 ####
+Equip
+
+#### 20 ####
+Weapon
+
+#### 21 ####
+Accessories
+
+#### 22 ####
+Gear
+
+#### 23 ####
+Card 1
+
+#### 24 ####
+Card 2
+
+#### 25 ####
+Load
+
+#### 26 ####
+Save
+
+#### 27 ####
+Copy
+
+#### 28 ####
+Delete
+
+#### 29 ####
+Member Change
+
+#### 30 ####
+Pick a name
+
+#### 31 ####
+ 
+
+#### 32 ####
+ 
+
+#### 33 ####
+Checking Memory Cards.
+
+#### 34 ####
+Please do not remove/
+
+#### 35 ####
+insert Memory Cards.
+
+#### 36 ####
+No Memory Card
+
+#### 37 ####
+ 
+
+#### 38 ####
+ 
+
+#### 39 ####
+Formatting
+
+#### 40 ####
+Please do not remove/
+
+#### 41 ####
+insert Memory Cards.
+
+#### 42 ####
+The Memory Card in
+
+#### 43 ####
+Slot 1 is not 
+
+#### 44 ####
+formatted.
+
+#### 45 ####
+The Memory Card in
+
+#### 46 ####
+Slot 2 is not
+
+#### 47 ####
+formatted.
+
+#### 48 ####
+Format the
+
+#### 49 ####
+Memory Card?
+
+#### 50 ####
+   Yes          No
+
+#### 51 ####
+Saving
+
+#### 52 ####
+Please do not remove/
+
+#### 53 ####
+insert Memory Cards.
+
+#### 54 ####
+Save failed.
+
+#### 55 ####
+Please try again.
+
+#### 56 ####
+ 
+
+#### 57 ####
+Overwrite previous
+
+#### 58 ####
+file?
+
+#### 59 ####
+   Yes          No
+
+#### 60 ####
+Loading
+
+#### 61 ####
+Please do not remove/
+
+#### 62 ####
+insert Memory Cards.
+
+#### 63 ####
+Can't read file.
+
+#### 64 ####
+Please try again.
+
+#### 65 ####
+ 
+
+#### 66 ####
+Copying
+
+#### 67 ####
+Please do not remove/
+
+#### 68 ####
+insert Memory Cards.
+
+#### 69 ####
+Copy failed.
+
+#### 70 ####
+Please try again.
+
+#### 71 ####
+ 
+
+#### 72 ####
+Copy this file to the
+
+#### 73 ####
+Memory Card in Slot 1?
+
+#### 74 ####
+   Yes          No
+
+#### 75 ####
+Please insert a
+
+#### 76 ####
+Memory Card into
+
+#### 77 ####
+Memory Card Slot 1.
+
+#### 78 ####
+The same file exists
+
+#### 79 ####
+on the Memory Card in
+
+#### 80 ####
+Slot 1. Cannot copy.
+
+#### 81 ####
+Deleting
+
+#### 82 ####
+Please do not remove/
+
+#### 83 ####
+insert Memory Cards.
+
+#### 84 ####
+Delete failed.
+
+#### 85 ####
+Please try again.
+
+#### 86 ####
+ 
+
+#### 87 ####
+Delete this file?
+
+#### 88 ####
+ 
+
+#### 89 ####
+   Yes          No
+
+#### 90 ####
+Are you sure
+
+#### 91 ####
+you want to delete?
+
+#### 92 ####
+Delete        Exit
+
+#### 93 ####
+Finished
+
+#### 94 ####
+ 
+
+#### 95 ####
+ 
+
+#### 96 ####
+This block is free.
+
+#### 97 ####
+Save?
+
+#### 98 ####
+   Yes          No
+
+#### 99 ####
+No data.
+
+#### 100 ####
+ 
+
+#### 101 ####
+ 
+
+#### 102 ####
+Load this file?
+
+#### 103 ####
+ 
+
+#### 104 ####
+   Yes          No
+
+#### 105 ####
+Enm
+
+#### 106 ####
+Aly
+
+#### 107 ####
+Slf
+
+#### 108 ####
+Sgl
+
+#### 109 ####
+All
+
+#### 110 ####
+Ara
+
+#### 111 ####
+EP:
+
+#### 112 ####
+/
+
+#### 113 ####
+Weapon
+
+#### 114 ####
+Accessories
+
+#### 115 ####
+Hand gun
+
+#### 116 ####
+Eth gun R
+
+#### 117 ####
+Eth gun L
+
+#### 118 ####
+Big gun
+
+#### 119 ####
+DeathBlows
+
+#### 120 ####
+Ability
+
+#### 121 ####
+Get on
+
+#### 122 ####
+Get off
+
+#### 123 ####
+Fuel:
+
+#### 124 ####
+ 
+
+#### 125 ####
+Stored
+
+#### 126 ####
+Save?
+
+#### 127 ####
+ 
+
+#### 128 ####
+    No         Yes
+
+#### 129 ####
+Are you sure you
+
+#### 130 ####
+don't need to save?
+
+#### 131 ####
+   Yes          No
+
+#### 132 ####
+INSERT DISC 1
+
+#### 133 ####
+ 
+
+#### 134 ####
+ 
+
+#### 135 ####
+INSERT DISC 2
+
+#### 136 ####
+ 
+
+#### 137 ####
+ 
+
+#### 138 ####
+WRONG DISC
+
+#### 139 ####
+ 
+
+#### 140 ####
+ 
+
+#### 141 ####
+Cancel all purchases?
+
+#### 142 ####
+ 
+
+#### 143 ####
+   Yes          No
+
+#### 144 ####
+Total         G.
+
+#### 145 ####
+Is that okay?
+
+#### 146 ####
+   Yes          No
+
+#### 147 ####
+Cancel all sales?
+
+#### 148 ####
+ 
+
+#### 149 ####
+   Yes          No
+
+#### 150 ####
+Total         G.
+
+#### 151 ####
+Is that okay?
+
+#### 152 ####
+   Yes          No
+
+#### 153 ####
+Choose party member.
+
+#### 154 ####
+ 
+
+#### 155 ####
+ 
+
+#### 156 ####
+ 
+
+#### 157 ####
+ 
+
+#### 158 ####
+ 
+
+#### 159 ####
+Engine
+
+#### 160 ####
+Frame
+
+#### 161 ####
+Armor
+
+#### 162 ####
+Equip
+
+#### 163 ####
+Fuel
+
+#### 164 ####
+Change equipment?
+
+#### 165 ####
+ 
+
+#### 166 ####
+   Yes          No
+
+#### 167 ####
+Restore HP and fuel?
+
+#### 168 ####
+Total         G.
+
+#### 169 ####
+   Yes          No
+
+#### 170 ####
+Not enough money.Buy
+
+#### 171 ####
+as much as possible?
+
+#### 172 ####
+   Yes          No
+
+#### 173 ####
+No free blocks
+
+#### 174 ####
+available.
+
+#### 175 ####
+ 
+
+#### 176 ####
+Chosen equipment has
+
+#### 177 ####
+abilities less than
+
+#### 178 ####
+or equal to current!
+
+#### 179 ####
+Change anyway?
+
+#### 180 ####
+ 
+
+#### 181 ####
+   Yes          No
+
+#### 182 ####
+Restore Gear HP?
+
+#### 183 ####
+Total         G.
+
+#### 184 ####
+   Yes          No
+
+#### 185 ####
+HP and fuel
+
+#### 186 ####
+are at max.
+
+#### 187 ####
+No need to restore.
+
+#### 188 ####
+Copy this file to the
+
+#### 189 ####
+Memory Card in Slot 2?
+
+#### 190 ####
+   Yes          No
+
+#### 191 ####
+Please insert a
+
+#### 192 ####
+Memory Card into
+
+#### 193 ####
+Memory Card Slot 2.
+
+#### 194 ####
+The same file exists
+
+#### 195 ####
+on the Memory Card in
+
+#### 196 ####
+Slot 2. Cannot copy.
+
+#### 197 ####
+Not a Xenogears save
+
+#### 198 ####
+file. You can save
+
+#### 199 ####
+after deleting data.
+
+#### 200 ####
+
+

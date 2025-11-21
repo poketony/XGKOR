@@ -1,0 +1,205 @@
+<TextBlock 1 w:12 h:1>
+Sasso!!<Close><End of Block>
+<TextBlock 2 w:20 h:1>
+Forbici!!<Close><End of Block>
+<TextBlock 3 w:14 h:1>
+Carta!!<Close><End of Block>
+<TextBlock 4 w:62 h:3>
+Vedo che hai battuto
+mio marito!<Delay 20> Bene,
+questo dovrebbe frenare un po'
+la sua mania per quel gioco.<New>
+Però adesso vedo che anche a te
+è venuta la passione per CSF!<Close><End of Block>
+<TextBlock 5 w:54 h:4>
+Sigh…<Delay 20> 
+La passione di mio marito
+per il gioco 
+carta-sasso-forbici, o
+'CSF', ci sta rovinando…<New>
+Proprio da poco, ha
+addirittura detto di aver
+sognato di ricevere
+il titolo di eroe dal
+'Re di CSF'…<New>
+Se soltanto qualcuno
+potesse infliggergli
+una sonora sconfitta per
+fargli vedere la realtà…<Delay 25>
+Ma lui è così bravo…<Close><End of Block>
+<TextBlock 6 w:50 h:2>
+Mi arrendo.<Delay 20> Mi hai
+sconfitto sotto ogni
+punto di vista, Fei.<New>
+Questo serve proprio
+a dimostrare che ho bisogno
+di allenarmi di più.<Close><End of Block>
+<TextBlock 7 w:38 h:4>
+Uuuhh… Mi arrendo!
+Ho perso, Fei.<Delay 20>
+Ecco, come promesso
+ti darò questa!<Close><End of Block>
+<TextBlock 8 w:54 h:2>
+Fei ha ricevuto la
+'Leggendaria Coppa
+dell'Eroe di CSF'!!<New>
+Tuttavia, nessuno ha la
+più pallida idea di quale
+sia la sua utilità…<Close><End of Block>
+<TextBlock 9 w:48 h:4>
+Cosa diavo…?
+Non c'hai manco 50G!<Delay 20>
+Ritorna e parlami quando
+c'hai i soldi, OK!?<Close><End of Block>
+<TextBlock 10 w:44 h:4>
+Argh… Non posso permettermi
+di perdere la prossima manche.<Delay 20>
+Questa volta farò
+sul serio… Pronto?<Close><End of Block>
+<TextBlock 11 w:48 h:3>
+Tsh… Ho perso tre volte
+di fila! Non male, Fei.<Delay 20>
+Ma non è ancora finita.<Close><End of Block>
+<TextBlock 12 w:54 h:2>
+Abbiamo appena iniziato!
+Sei pronto a 'Giocare'!?<Close><End of Block>
+<TextBlock 13 w:46 h:5>
+Ehi! Vuoi giocare a 
+carta-sasso-forbici?
+Sono 50G a sfida.<Delay 20>
+    Facciamolo!
+    No, grazie!<Close><End of Block>
+<TextBlock 14 w:48 h:4>
+Cosa diavo…?
+Non c'hai manco 50G!<Delay 20>
+Ritorna e parlami quando
+c'hai i soldi, OK!?<Close><End of Block>
+<TextBlock 15 w:52 h:4>
+Sì, così si fa, Fei!<Delay 20>
+Se riuscirai a battermi 5
+volte di seguito, ti darò
+un premio speciale!<Close><End of Block>
+<TextBlock 16 w:52 h:4>
+Mi serve un po' di azzardo
+per rendere le cose interessanti
+contro uno così scarso.<Delay 20>
+Eheheh…<Close><End of Block>
+<TextBlock 17 w:22 h:1>
+Ci siamo!<Close><End of Block>
+<TextBlock 18 w:24 h:4>
+Uno, due…<Delay 10><Opcode 1 255>
+    Sasso
+    Forbici
+    Carta <Opcode 13 128><Opcode 2 1><Close><End of Block>
+<TextBlock 19 w:12 h:1>
+Sasso!!<Close><End of Block>
+<TextBlock 20 w:48 h:3>
+Uh, anche tu sasso!?
+Non male! Non male!
+Rifacciamolo…<Opcode 2 30><Close><End of Block>
+<TextBlock 21 w:20 h:1>
+Forbici!!<Close><End of Block>
+<TextBlock 22 w:28 h:1>
+Ahh, no, sasso!?<Close><End of Block>
+<TextBlock 23 w:42 h:3>
+Merda, mi hai battuto!
+Non posso crederci!
+Aarrgh…!!<Close><End of Block>
+<TextBlock 24 w:14 h:1>
+Carta!!<Close><End of Block>
+<TextBlock 25 w:26 h:2>
+Sasso!?
+Hai fatto sasso?<Close><End of Block>
+<TextBlock 26 w:32 h:4>
+Muahaha.
+L'hai fatto sul serio?
+Sììì! Ho vinto!!
+Ah-hahaha…!!<Close><End of Block>
+<TextBlock 27 w:12 h:1>
+Sasso!!<Close><End of Block>
+<TextBlock 28 w:36 h:2>
+Forbici!
+Hai fatto forbici!?<Close><End of Block>
+<TextBlock 29 w:40 h:3>
+Sììì! Ho vinto!<Delay 20> 
+Ce l'ho fatta, baby! 
+Puoi baciarmi il culo!!<Close><End of Block>
+<TextBlock 30 w:20 h:1>
+Forbici!!<Close><End of Block>
+<TextBlock 31 w:65 h:3>
+Ehi, hai fatto anche
+tu forbici? Mmmh…
+Allora è così che giochi?<Wait>
+Comunque, ricominciamo…<Opcode 2 30><Close><End of Block>
+<TextBlock 32 w:14 h:1>
+Carta!!<Close><End of Block>
+<TextBlock 33 w:36 h:2>
+Doh! Forbici?<Delay 20>
+Hai fatto forbici!?<Close><End of Block>
+<TextBlock 34 w:40 h:3>
+Uuuaaahh! Ho… ho perso!<Delay 20>
+Com'è potuto succedere!!??
+Che stronzo che sei!<Close><End of Block>
+<TextBlock 35 w:12 h:1>
+Sasso!!<Close><End of Block>
+<TextBlock 36 w:36 h:2>
+Che ca…!? Carta!?<Delay 20>
+Carta!?<Close><End of Block>
+<TextBlock 37 w:42 h:3>
+Io? Perdere!?<Delay 20> 
+È assurdo…!
+Oh-mamma-mia!<Close><End of Block>
+<TextBlock 38 w:50 h:3>
+Grraaaaahhh!!
+Ho perso con un dilettante!?<Delay 20>
+I, io…!? IOOOOOOOO…!!<Close><End of Block>
+<TextBlock 39 w:26 h:1>
+Ricevi 50G.<Close><End of Block>
+<TextBlock 40 w:54 h:4>
+Eh!? Ho perso 4 volte di fila!?
+Come ho potuto…!?<Wait>
+È terribile!!
+Se perdo la prossima…!!<Close><End of Block>
+<TextBlock 41 w:24 h:3>
+…<Delay 30>
+……<Delay 50>
+È finita…<Close><End of Block>
+<TextBlock 42 w:20 h:1>
+Forbici!!<Close><End of Block>
+<TextBlock 43 w:30 h:2>
+Oh, carta!<Delay 20>
+Hai fatto carta!?<Close><End of Block>
+<TextBlock 44 w:48 h:3>
+Sììì! Ho vinto, perciò paga!<Delay 20>
+Yabadabadooh! Gente…
+è stato così facile!!<Close><End of Block>
+<TextBlock 45 w:58 h:3>
+Mwahahahaha!! Male, male, Fei!<Delay 20>
+Ti mancano ancora 100 anni
+solo per poter pensare
+di tentare di vincere
+5 volte di fila!!<Close><End of Block>
+<TextBlock 46 w:18 h:1>
+Hai perso 50G.<Close><End of Block>
+<TextBlock 47 w:14 h:1>
+Carta!!<Close><End of Block>
+<TextBlock 48 w:50 h:3>
+Oh oh, anche tu hai fatto
+carta. Mmh, beh, capisco…<Wait>
+Ricominciamo…<Opcode 2 30><Close><End of Block>
+<TextBlock 49 w:42 h:3>
+Ecco…!!<Delay 40> Ehi! 
+Eri in ritardo!!
+Imbroglione di merda!!<New>
+Solo i codardi lo fanno.<Delay 20>
+Il risarcimento è 15G.
+Avanti, sgancia!<Close><End of Block>
+<TextBlock 50 w:18 h:1>
+Hai perso 15G.<Close><End of Block>
+<TextBlock 51 w:56 h:2>
+Tch! Non c'hai manco 15G!<Delay 20>
+Ma che sei, un mendicante?<Delay 20>
+Capperi!<Close><End of Block>
+<TextBlock 52 w:48 h:2>
+Umph. Beh, ci vediamo
+dopo, allora.<Close><Close><End of Block>

@@ -1,0 +1,62 @@
+#### 1 ####
+Actually Nisan is a
+pretty popular place
+among artists.{enter}
+Part of the reason is the
+scenery but it's mostly
+because of the portrait{enter}
+of the Great Mother that
+is said to be in the
+cathedral.{enter}
+Unfortunately, the public
+is not permitted to go
+see it.
+
+#### 2 ####
+No...{wait:1E}something's not right.
+
+#### 3 ####
+...Sorry, but please
+don't talk to me now.{enter}
+Yesterday morning's view
+from the lake.{wait:1E}
+I'm remembering the
+sensation of that light.
+
+#### 4 ####
+...I forgot.
+
+#### 5 ####
+Oh...I'm remebering.
+
+#### 6 ####
+I got it!
+
+#### 7 ####
+I was thinking of putting
+the arrival of a new era
+into a picture.
+
+#### 8 ####
+Fei
+(Paint brushes...{wait:1E}
+I haven't touched them
+since I left the village.)
+
+#### 9 ####
+Hm?...{wait:1E}Are you
+an artist too?
+
+#### 10 ####
+Fei
+"Ah...{wait:1E}no..."
+
+#### 11 ####
+Oh...{wait:1E}pictures
+are great.
+
+#### 12 ####
+Fei
+"Oh...{wait:1E}
+Oh, {wait:1E}really..."
+

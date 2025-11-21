@@ -1,0 +1,4 @@
+<TextBlock 1 w:58 h:2>
+Questa era la verità dietro
+il 'Piano M' del Ministero
+di Gazel.<Close><Close><End of Block>

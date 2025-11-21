@@ -1,0 +1,102 @@
+<TextBlock 1 w:26 h:3>
+Fei
+"Uhoa!
+Ma cosa…?"<Close><End of Block>
+<TextBlock 2 w:42 h:4>
+Fei
+"Hammer, sei tu?
+Cosa stai facendo in
+quel Gear?"<Close><End of Block>
+<TextBlock 3 w:32 h:3>
+Fei
+"Ma cosa stai
+dicendo, Hammer?"<Close><End of Block>
+<TextBlock 4 w:27 h:2>
+Fei
+"Hamme~r…!"<Close><End of Block>
+<TextBlock 5 w:36 h:2>
+Rico
+"Smettila, Hammer!"<Close><End of Block>
+<TextBlock 6 w:24 h:2>
+Rico
+"Hammer…!"<Close><End of Block>
+<TextBlock 7 w:22 h:2>
+Rico
+"Tu sapevi?"<Close><End of Block>
+<TextBlock 8 w:36 h:2>
+Rico
+"Smettila, Hammer!"<Close><End of Block>
+<TextBlock 9 w:24 h:2>
+Rico
+"Hammer…!"<Close><End of Block>
+<TextBlock 10 w:22 h:2>
+Rico
+"Tu sapevi?"<Close><End of Block>
+<TextBlock 11 w:26 h:2>
+Hammer
+"Ehi, o frate…"<Close><End of Block>
+<TextBlock 12 w:36 h:4>
+Hammer
+"Eh eh eh. O frate,
+ne è passato di
+tempo, eh?"<Close><End of Block>
+<TextBlock 13 w:52 h:4>
+Hammer
+"Finalmente l'ho avuta…
+La super-forza…
+Come te, o frate!<New>
+Fa sentire bene…
+essere uno con il tuo
+Gear. Krelian l'ha
+fatto per me.<New>
+Comunque, lasciate quel
+Gear e la Signorina
+Elly a me.<New>
+Resistere è inutile.
+Sono troppo potente per
+voi ora…"<Close><End of Block>
+<TextBlock 14 w:42 h:4>
+Hammer
+"Cosa? Non vuoi
+consegnarmeli?
+… Capisco.<New>
+Allora per prendermi
+la ragazza ed il Gear
+dovrò usare la forza!"<Close><End of Block>
+<TextBlock 15 w:50 h:3>
+Hammer
+"Neanche tu, 'Campione',
+puoi vincere contro di
+me ora."<Close><End of Block>
+<TextBlock 16 w:28 h:2>
+Hammer
+"Arrivo!"<Opcode 2 20><Close><End of Block>
+<TextBlock 17 w:48 h:4>
+Hammer
+"Eh eh… Questo
+è u me frate…
+Troppo forte…<New>
+Anche per me…
+Proprio quando pensavo
+di essere abbastanza
+forte da batterlo!"<Close><End of Block>
+<TextBlock 18 w:50 h:4>
+Hammer
+"Campione… Promettimi
+che un giorno tornerai
+a Nortune…<New>
+Tu sei… l'erede…
+suo figlio… il
+prossimo Kaiser…"<Close><End of Block>
+<TextBlock 19 w:44 h:4>
+Hammer
+"Non sottovalutare
+il potere della mia
+rete d'informazioni<Delay 5>…<New>
+Ma<Delay 5>…<Delay 5>
+ora è inutile<Delay 5>…<Delay 5>
+Io<Delay 5>…<New>
+Per un mediocre<Delay 5>…<Delay 30>
+come me<Delay 5>…<Delay 5> questa è<Delay 5>
+probabilmente<Delay 5>…<Delay 30> la fine<Delay 5>…<Delay 30><Space 1>
+Me la merito<Delay 5>…"<Close><Close><End of Block>

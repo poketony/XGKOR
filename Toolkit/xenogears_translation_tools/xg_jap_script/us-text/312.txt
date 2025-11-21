@@ -1,0 +1,489 @@
+#### 1 ####
+Elly
+"An inquisitor?"
+
+#### 2 ####
+Citan
+"Inquisitor?"
+
+#### 3 ####
+Bart
+"The inquisitor?"
+
+#### 4 ####
+Billy
+...{wait:0A}...{wait:0A} I...{wait:0A}...{wait:0A}
+still can't believe it.{enter}
+The 'Ethos' was that
+dubious an organization{wait:0A}...{wait:0A}
+What was it that I believed
+in...{wait:0A} all this time?"
+
+#### 5 ####
+Billy
+"V...{wait:0A} Verlaine!?"
+
+#### 6 ####
+Billy
+"Father!{wait:0A}
+How could you do that!?"
+
+#### 7 ####
+Billy
+"That symbol...!"
+
+#### 8 ####
+Billy
+"You claim Verlaine and his
+men are an assassination
+unit for the Bishop!?{enter}
+How could you even say
+such blasphemy!?"
+
+#### 9 ####
+Billy
+"Is that true, Verlaine?{wait:19}
+But why people from
+the 'Ethos'?"
+
+#### 10 ####
+Billy
+"Even if that were true,
+we have no right to punish
+others!{enter}
+Judgement belongs to god.{wait:14}
+That is what we were
+taught, wasn't it!?"
+
+#### 11 ####
+Billy
+"I...{wait:0F}I have been
+passing judgement?"
+
+#### 12 ####
+Billy
+"Verlaine!{wait:0F}
+Hang in there!"
+
+#### 13 ####
+Billy
+"Verlaine!{wait:0A}
+Verlaine!"
+
+#### 14 ####
+Billy
+"Bishop! Why Verlaine!?
+What in heavens are you
+trying to accomplish!?"
+
+#### 15 ####
+Billy
+"Father!"
+
+#### 16 ####
+Billy
+"Bishop Stone!"
+
+#### 17 ####
+Rico
+"Inquisitor, you say?"
+
+#### 18 ####
+Billy
+"The door is locked!"
+
+#### 19 ####
+Verlaine
+"Y, {wait:0A}you {wait:05}...{wait:05}..."
+
+#### 20 ####
+Jessie
+"What are you getting
+flustered about,{wait:0F} boy?{enter}
+It was a stun bullet.{wait:0A}
+He's just taking a nap.{wait:0A}
+You should've been able to
+tell by the sound it made!{enter}
+Besides,{wait:0A} these murderers
+are not from {wait:0A}the 'Ethos'!"
+
+#### 21 ####
+Jessie
+"Look!"
+
+#### 22 ####
+Jessie
+"Yes, that's right.{wait:0F}
+They're agents of Solaris!{enter}
+Probably an assassination
+unit under Stone's command!{enter}
+I got word that they were
+exterminating all 'Ethos'
+members, and hurried here.{wait:0A}
+But I was too late...{enter}
+All 'Ethos' affiliates
+have already been killed,
+except for those on some
+sort of salvage mission."
+
+#### 23 ####
+Jessie
+"I won't let you go
+that easily, Stein!!"
+
+#### 24 ####
+Jessie
+"Stein, you aren't
+goin' anywhere!!"
+
+#### 25 ####
+Are you trying to take away my
+ultimate pleasure,{wait:0F} Verlaine?
+
+#### 26 ####
+Verlaine
+"Gha-ha!!"
+
+#### 27 ####
+Verlaine
+"Ugh!"
+
+#### 28 ####
+Stone
+"A good-for-nothing
+chatterbox such as you
+has no right to live."
+
+#### 29 ####
+Stone
+"I am the inquisitor sent
+to Earth from Solaris."
+
+#### 30 ####
+Stone
+"The status of bishop
+is merely a convenience
+for my activities on Earth.{enter}
+The 'Ethos' was created as
+a Solaris sub-organization
+and given the task of
+managing earth-dwellers.{enter}
+But over the years the
+'Ethos' started to set
+up convenient doctrines
+for itself...{enter}
+It then went on to gather
+the ignorant masses, and
+created a god for them to
+believe in.{enter}
+Then, the 'Ethos' even
+went so far as to plot
+a separation from its
+creator, Solaris.{enter}
+So Solaris had no choice
+but to eliminate all those
+who defy our rule and raise
+the flag of rebellion.{enter}
+The ones prepared as
+'eliminators' were{wait:05}...{wait:0A}
+the Etone.{enter}
+Etones, 'the Atoners',{wait:05} the
+organization I established
+within  the 'Ethos',{wait:05} had
+two purposes{wait:05}...{enter}
+On the surface their aim
+was to eliminate the{wait:05}
+'Reapers'{wait:05} or {wait:05}-Wels-{wait:05} that
+run rampant on the earth.{enter}
+But,{wait:0A} that's not their only
+purpose.{wait:14} Behind the scenes,
+we also had selected men
+like Verlaine{wait:05}...{enter}
+These were responsible for
+observing{wait:0A} and eliminating{wait:0A}
+any corrupt people who
+appeared in the 'Ethos'.{enter}
+You didn't have the chance
+to learn of this, since you
+left the 'Ethos' so early.{enter}
+{wait:05}...{wait:0A}Or actually,{wait:05}
+I just never told you.{wait:14}
+There was 'another role'
+I wanted you to perform!"
+
+#### 31 ####
+Billy
+"Another{wait:0A}...{wait:0A}{fast:FF}role!?"
+
+#### 32 ####
+Stone
+"Billy.{wait:14} There are certain
+things in this world that
+you're happier not knowing.{enter}
+Even lies and deceptions
+can become the truth for
+some people of the earth.{enter}
+...{wait:05}Particularly those not
+knowing the true nature
+of things, or how these
+systems of things works.{enter}
+In fact, the {wait:05}-god-{wait:05} and
+{wait:05}-faith-{wait:05} systems set up by
+the 'Ethos' were the truth
+itself,{wait:05} were they not?"
+
+#### 33 ####
+Billy
+"Tell me!{wait:0F}
+What other 'role' were
+you talking about?{enter}
+What did Verlaine
+mean when he spoke
+of{wait:0F} 'judgement'!?"
+
+#### 34 ####
+Stone
+"So you want to know?{enter2}
+But can you bear the full
+weight of the truth?{enter}
+Billy, if you can bear
+that weight, then I'm
+willing to tell you."
+
+#### 35 ####
+Billy
+"{wait:0A}...{wait:0A}"
+
+#### 36 ####
+Stone
+"You believed that you
+were saving wandering
+souls, didn't you...?{enter}
+That's why you carried
+out your cleansing of
+the 'Reapers' -Wels-
+from the earth, right?{enter}
+In fact it was all just
+another control system
+put in place by Solaris.{enter}
+But what's more, your
+'saving' work...{wait:0A}that very
+activity you believed in so
+much,{wait:0A} was{wait:05} in{wait:05} reality{wait:0A}..."
+
+#### 37 ####
+Jessie
+"You're talking too
+much nonsense!"
+
+#### 38 ####
+Jessie
+"You haven't changed
+at all since then...{enter2}
+have you, Stein!?"
+
+#### 39 ####
+Billy
+"Stein?"
+
+#### 40 ####
+Stone
+"That's a name I haven't
+been called for a long
+time{wait:05}...{enter}
+Hearing that name vividly
+brings back a pleasant
+twinge of pain to the
+'scars on this body'.{enter}
+You know what I mean,
+Jesiah?"
+
+#### 41 ####
+Jessie
+"Heh, your brain still
+isn't working right.{enter}
+{fast:FF}Answer me!{wait:19}
+{fast:00}Why do you have such
+'a roundabout way
+of doing things'!?"
+
+#### 42 ####
+Stone
+"That's not worth
+wasting my breath
+answering...{enter}
+Just consider it
+'my reward in life'...{enter}
+Of course, that includes
+watching your agonizing
+death.{enter}
+I could succumb to the 
+desire to slice up your 
+body here and now, and
+drag out your innards...{enter}
+But I can't do that now,
+I have a matter to attend
+to elsewhere.{enter}
+That 'duty' comes before
+any pleasure I could have
+with you here. I haven't
+the time to waste anymore!"
+
+#### 43 ####
+Stone
+"I can't be bothered by
+insignificant wretches
+like you."
+
+#### 44 ####
+Stone
+"Until next time! And, as
+a parting gift, I'll have
+these men entertain you!"
+
+#### 45 ####
+Stone
+"Well then, excuse me.{enter}
+Oh and Billy! If you have
+something you wish to
+discuss, come see me later.
+I'll be waiting for you."
+
+#### 46 ####
+Isn't that the very reason
+why I told you back then...{wait:14}
+that you belong with us{wait:05}...?
+
+#### 47 ####
+Verlaine
+"You're defiled, {wait:0A}Billy.{enter}
+You left the 'Ethos' and
+kept company with dregs
+who have no faith at all.
+And you lost sight of what
+it means to be defiled.{enter}
+I didn't expect it out of
+you... You who used to
+live only for your faith.{wait:1E}
+You should have remained
+like us.{enter}
+But fear not, Billy.{wait:14}
+I shall cleanse you.{wait:14}
+You'll live within me.{wait:14}
+You will become one with
+me in death{wait:0A}...{wait:0A}
+
+#### 48 ####
+Verlaine
+"What!?"
+
+#### 49 ####
+Verlaine
+"That's right{wait:05}...{wait:05}
+We are servants
+of the Bishop.{enter}
+Our mission is to hand out
+judgement on fallen priests
+and sinners in order to
+make them repent."
+
+#### 50 ####
+Verlaine
+"The pontiff and his
+brethren deserve to die!{enter}
+They allowed greed to tempt
+them into abandoning their
+'duties as the 'Ethos'' to
+pursue world domination.{enter}
+They passed their own death
+sentences when they allowed
+such desires to overtake
+them.{enter}
+And that's not all.{enter}
+Saving orphans and
+refugees{wait:05}...{wait:05}
+that may seem like
+works of mercy.{enter}
+But the little boys and
+girls kept here were
+actually used as a means
+to satisfy the desires of
+the pontiff and bishops.{enter}
+Indulging in selfish
+desires...{wait:14}
+This is not 'conduct
+befitting priests'!{enter}
+Such defiled leaven have
+no right to speak for god.
+That is why we set out on
+this purification work.{enter}
+They must atone for
+their sins.{wait:14}
+These are the
+Bishop's orders!"
+
+#### 51 ####
+Verlaine
+"God?{wait:14}
+Where does such
+a being exist?{enter}
+You should know by now how
+the 'Ethos' came about...{enter}
+It was an organization
+created by Solaris aeons
+ago solely for the purpose
+of managing ignorant humans.{enter}
+Its doctrines are just
+deceptions designed to
+control the masses.{enter}
+The 'Ethos' used the two
+sweet fruits of 'faith'
+and 'technology' well to
+skillfully manipulate global
+affairs and people's zeal.{enter}
+Thus, they manipulated the
+ignorant masses to
+repeatedly continue their
+pointless wars.{enter}
+Eventually, battle data on
+'man' and 'weapons' gleaned
+from these wars, were sent
+to Solaris itself...{enter}
+And analyzed to aid in 
+ruling the entire Earth.{enter}
+These intentionally
+perpetuated wars caused
+much phychological discord.{enter}
+But faith in 'god'...{wait:14}
+salvation...
+was used as a cushion
+to soften the blow.{enter}
+It was a well thought-
+out system.{wait:14}
+But the choice of managers
+was extremely poor.{enter}
+Or did you think that acting
+the part of a faithful
+servant of god would
+someday yield an answer
+from a great god somewhere?{enter}
+Can't you see that such
+a divine being just 'never
+existed from the beginning'?{enter}
+And you don't seem to
+realize this, but you
+yourself were 'passing
+judgement on sinners'
+as much as we were!"
+
+#### 52 ####
+Verlaine
+"That's right.{wait:14}
+Daily you have been
+dirtying your hands
+as an accomplice{wait:05}..."
+
+#### 53 ####
+Verlaine
+"Bi{wait:14}...{wait:05}lly{wait:14}...{wait:0A}..."
+

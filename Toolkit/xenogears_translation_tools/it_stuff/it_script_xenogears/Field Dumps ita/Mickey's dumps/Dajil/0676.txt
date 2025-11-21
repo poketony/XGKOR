@@ -1,0 +1,517 @@
+<TextBlock 1 w:24 h:3>
+Fei
+"Questa è…<Delay 10>
+Dajil…"<Close><End of Block>
+<TextBlock 2 w:39 h:2>
+Fei
+"Riparare
+<Weltall>…"<Close><End of Block>
+<TextBlock 3 w:36 h:4>
+Fei
+"Va bene, Doc,<Delay 15>
+diamo un'occhiata
+a questo posto."<Close><End of Block>
+<TextBlock 4 w:42 h:4>
+Fei
+"…<Delay 10>
+Doc, hai un momento?
+Devo parlarti."<Close><End of Block>
+<TextBlock 5 w:52 h:4>
+Fei
+"…<Delay 10>
+Ecco Doc, riguardo
+a <Weltall>…<New>
+Se non troviamo le parti
+che ci servono, possiamo 
+non ripararlo?"<Close><End of Block>
+<TextBlock 6 w:56 h:5>
+Fei
+"Beh, siamo stati capaci
+di arrivare fino a Dajil
+con le nostre sole forze…<New>
+Quindi non abbiamo così
+bisogno di <Weltall> come
+pensavamo.<New>
+Al momento, l'unica cosa
+a cui riesco a pensare è
+di ritornare a Lahan…<New>
+… per aiutare la gente a
+ricostruirla.<New>
+Questo è quello che mi
+sento di fare adesso<Delay 10>…"<Close><End of Block>
+<TextBlock 7 w:44 h:4>
+Fei
+"Lontano da loro?
+Perché dobbiamo fare
+una cosa simile, Doc?"<Close><End of Block>
+<TextBlock 8 w:52 h:3>
+Fei
+"Forze Speciali<Delay 10>…<Delay 10>
+Parli del gruppo
+di Elly?"<Close><End of Block>
+<TextBlock 9 w:38 h:2>
+Fei
+"Nuova tecnologia?"<Close><End of Block>
+<TextBlock 10 w:50 h:4>
+Fei
+"Dai, Doc!<Delay 15>
+L'esercito di Kislev non
+starà ancora a Lahan!"<Close><End of Block>
+<TextBlock 11 w:56 h:4>
+Fei
+"Le truppe si
+affronteranno per
+avere <Weltall><Delay 10>…<New>
+… di nuovo vicino
+a Lahan."<Close><End of Block>
+<TextBlock 12 w:50 h:3>
+Fei
+"Ma per spostarlo dobbiamo
+ripararlo<Delay 10>… e senza quel
+pezzo non possiamo farlo<Delay 10>…"<Close><End of Block>
+<TextBlock 13 w:36 h:3>
+Fei
+"Che cosa intendi
+fare, Doc?"<Close><End of Block>
+<TextBlock 14 w:42 h:4>
+Fei
+"Beh, Doc, che cosa
+vuoi fare con questa
+dune buggy?"<Close><End of Block>
+<TextBlock 15 w:26 h:2>
+Fei
+"Dune buggy?"<Close><End of Block>
+<TextBlock 16 w:48 h:4>
+Fei
+"La Chiesa? <Delay 10>
+Cosa hanno a che fare
+i Gear con la Chiesa?"<Close><End of Block>
+<TextBlock 17 w:12 h:2>
+Fei 
+"Huh?"<Close><End of Block>
+<TextBlock 18 w:44 h:3>
+Shitan
+"Sì, Dajil…<Delay 15> 
+La città del deserto."<Close><End of Block>
+<TextBlock 19 w:56 h:4>
+Shitan
+"Qui dovremmo essere capaci
+di scoprire cosa stanno
+organizzando Aveh e Kislev.<New>
+E magari riuscire a trovare
+i pezzi necessari per
+riparare <Weltall>."<Close><End of Block>
+<TextBlock 20 w:48 h:4>
+Shitan
+"Sì. Ci servono dei
+pezzi di ricambio per
+riparare <Weltall>…<New>
+Altrimenti potrebbe
+smettere di funzionare!<New>
+C'è un'officina della
+Chiesa nella parte più
+a sud di questa città.<Delay 10>
+Andiamo là, Fei."<Close><End of Block>
+<TextBlock 21 w:54 h:5>
+Shitan
+"Solo la Chiesa ha la
+tecnologia necessaria
+a riparare…<New>
+… i sistemi di
+guida di un Gear.<New>
+La Chiesa decide quale
+Gear ha quel pezzo ed
+in quale paese…"<Close><End of Block>
+<TextBlock 22 w:38 h:2>
+Shitan
+"Sì,<Delay 5> certo,<Delay 5> Fei…"<Close><End of Block>
+<TextBlock 23 w:50 h:3>
+Shitan
+"Allora, Fei, di che
+cosa volevi parlarmi?"<Close><End of Block>
+<TextBlock 24 w:50 h:3>
+Shitan
+"Non ripararlo? Qual
+è il problema, Fei?"<Close><End of Block>
+<TextBlock 25 w:44 h:4>
+Shitan
+"…<Delay 10> Capisco.
+Fei, se questo è ciò
+che vuoi…<Delay 10> va bene.<New>
+Ma penso che dovremmo
+portare <Weltall> il
+più lontano possibile
+da loro."<Close><End of Block>
+<TextBlock 26 w:58 h:5>
+Shitan
+"È solo una mia
+ipotesi, ma…<New>
+Sospetto che l'incidente
+di quella notte sia
+avvenuto perché…<New>
+… le Forze Speciali di
+Geburah hanno rubato
+un Gear militare di
+Kislev."<Close><End of Block>
+<TextBlock 27 w:60 h:5>
+Shitan
+"Esattamente.<New>
+Quando ho esaminato
+il Gear abbattuto nel
+villaggio…<New>
+… ho capito che il
+pilota di Geburah
+stava pilotando
+un Gear di Kislev.<New>
+Deve esservi dentro un
+nuovo tipo di tecnologia
+che l'esercito di Kislev…<New>
+… vuole recuperare a
+qualsiasi costo."<Close><End of Block>
+<TextBlock 28 w:54 h:4>
+Shitan
+"Sospetto che Geburah…<New>
+… abbia tentato di
+rubare un nuovo Gear
+sperimentale."<Close><End of Block>
+<TextBlock 29 w:58 h:5>
+Shitan
+"Sono certo che la notizia
+del fallimento delle Forze
+Speciali…<New>
+… abbia già raggiunto
+la capitale.<New>
+Setacceranno tutta la
+zona di Lahan…<New>
+… per ottenere qualsiasi
+parte del nuovo Gear che
+potranno trovare."<Close><End of Block>
+<TextBlock 30 w:52 h:4>
+Shitan
+"Molto probabile.<New>
+Ed in quel caso, ci sarà
+uno scontro fra le truppe
+di Aveh e quelle inviate
+da Kislev.<New>
+E se troveranno dove
+noi abbiamo nascosto
+<Weltall>…"<Close><End of Block>
+<TextBlock 31 w:56 h:4>
+Shitan
+"Così…<New>
+… per evitare
+problemi, dobbiamo
+spostarlo da qualche
+altra parte!"<Close><End of Block>
+<TextBlock 32 w:52 h:5>
+Shitan
+"Giusto.
+Ma restare qui non
+risolverà nulla.<New>
+Fortunatamente, questo
+è il centro di tutti
+gli scavi effettuati
+in questo paese.<New>
+Dobbiamo solo informarci
+su dove poter trovare dei
+pezzi di ricambio…<New>
+Comunque, la paura è
+spesso peggiore del
+pericolo stesso…<New>
+Non dobbiamo permettere
+ad essa di sviarci."<Close><End of Block>
+<TextBlock 33 w:50 h:3>
+Shitan
+"Questa è una
+dune buggy.<New>
+<Delay 10>…<Delay 10>
+Ci sono, Fei!<New>
+Ho trovato il modo
+di ottenere le parti
+che ci serviranno
+per <Weltall>.<New>
+Ritorniamo al negozio
+che la noleggia e
+prendiamola a nolo."<Close><End of Block>
+<TextBlock 34 w:50 h:3>
+Shitan
+"Questa è una
+dune buggy.<New>
+<Delay 10>…<Delay 10>
+Ci sono, Fei!<New>
+Ho trovato il modo
+di ottenere le parti
+che ci serviranno
+per <Weltall>.<New>
+Dobbiamo solo trovare
+chi ce la possa
+noleggiare."<Close><End of Block>
+<TextBlock 35 w:58 h:3>
+Shitan
+"Una dune buggy è un'auto
+speciale per il deserto.<New>
+Le sue ruote non affondano
+nella sabbia,<Delay 5> è adatta
+per i lunghi viaggi
+nel deserto."<Close><End of Block>
+<TextBlock 36 w:44 h:3>
+Shitan
+"Lascia fare a me.
+Aspetta qui e vedrai."<Close><End of Block>
+<TextBlock 37 w:60 h:3>
+Con la tregua con
+Kislev, la guerra è
+praticamente finita.<New>
+Ora il nostro lavoro
+sarà di proteggere il
+popolo dai pirati del
+deserto.<Close><End of Block>
+<TextBlock 38 w:56 h:4>
+Tre settimane fa Kislev
+ha razziato le rovine a
+nord. Di sicuro la
+prossima volta verranno qui.<New>
+Fate attenzione se avete
+l'intenzione di andare a
+scavare nelle rovine.<Close><End of Block>
+<TextBlock 39 w:52 h:3>
+Ehi, non vi ho mai visto
+prima qua intorno.<New>
+Non pensate di cavarvela
+con poco se ci causerete
+dei guai!<New>
+Siamo le Guardie di Aveh!
+… Ricordatevelo!<Close><End of Block>
+<TextBlock 40 w:66 h:3>
+Sembra che la guerra sia finita.
+Ora le cose dovrebbero andare
+meglio. Che sollievo.<Close><End of Block>
+<TextBlock 41 w:60 h:3>
+Questa è la stazione di
+guardia di Aveh.<New>
+Questa città è importante
+perché è la base di tutti
+gli scavi alle rovine.<New>
+Il meglio del nostro esercito
+è dislocato qui.<Close><End of Block>
+<TextBlock 42 w:52 h:3>
+Ehi, non vi ho mai visto
+prima qua intorno.<New>
+Non pensate di cavarvela
+con poco se ci causerete
+dei guai!<New>
+Siamo le Guardie di Aveh!
+… Ricordatevelo!<Close><End of Block>
+<TextBlock 43 w:38 h:1>
+Nulla da segnalare!<Close><End of Block>
+<TextBlock 44 w:46 h:1>
+Nessun nemico in vista!<Close><End of Block>
+<TextBlock 45 w:64 h:4>
+Pace…
+La guerra non è ancora
+finita.<New>
+Comunque, questo è il paradiso
+comparato a quando eravamo
+sempre in attesa degli attacchi
+del nemico.<Close><End of Block>
+<TextBlock 46 w:62 h:3>
+In giro si dice che l'esercito
+di Kislev stia cercando un
+Gear nascosto nel sottosuolo.<New>
+Fate attenzione se avete
+l'intenzione di andare a
+scavare alle rovine.<Close><End of Block>
+<TextBlock 47 w:52 h:3>
+Ehi, non vi ho mai visto
+prima qua intorno.<New>
+Non pensate di cavarvela
+con poco se ci causerete
+dei guai!<New>
+Siamo le Guardie di Aveh!
+… Ricordatevelo!<Close><End of Block>
+<TextBlock 48 w:62 h:3>
+Qualcuno di nome Sigurd è
+in carica fino a quando non
+sarà proclamata una repubblica.<New>
+… Pensi che una 
+repubblica sia una
+buona idea?<New>
+Comunque, sono felice che
+finalmente si veda la fine
+della guerra.<Close><End of Block>
+<TextBlock 49 w:70 h:3>
+La battaglia dell'altro giorno
+nel deserto contro Kislev si è
+conclusa con la nostra completa
+vittoria.<New>
+Abbiamo bisogno dell'esercito
+perché ci compri i generatori
+dai Gear trovati nelle rovine.<New>
+Non cederemo mai questa città
+o le nostre rovine a Kislev.<Close><End of Block>
+<TextBlock 50 w:52 h:3>
+Ehi, non vi ho mai visto
+prima qua intorno.<New>
+Non pensate di cavarvela
+con poco se ci causerete
+dei guai!<New>
+Siamo le Guardie di Aveh!
+… Ricordatevelo!<Close><End of Block>
+<TextBlock 51 w:66 h:3>
+Là fuori ci sono dei ladri
+in cerca dei tesori nelle
+rovine del deserto!<New>
+<Delay 5>…<Delay 5> Brrr<Delay 5>…<Delay 5>
+<Delay 5>…<Delay 5> Che paura<Delay 5>…!<Delay 5>
+Oh,<Delay 5> me la sono fatta sotto.<New>
+Dovreste fare attenzione.<Close><End of Block>
+<TextBlock 52 w:66 h:3>
+Ci sono molte persone che
+si sono perse nel deserto
+e sono morte di stenti!<New>
+<Delay 5>…<Delay 5> Brrr<Delay 5>…<Delay 5>
+<Delay 5>…<Delay 5> Che paura<Delay 5>…!<Delay 5>
+Oh,<Delay 5> me la sono fatta sotto.<New>
+È meglio che facciate attenzione.<Close><End of Block>
+<TextBlock 53 w:32 h:2>
+Uffa, voglio
+salire là sopra…<Close><End of Block>
+<TextBlock 54 w:22 h:1>
+Benvenuto!<Close><End of Block>
+<TextBlock 55 w:70 h:3>
+Contavo sulla guerra e così
+ho comprato un mucchio di roba…<New>
+Cosa accadrà al mio denaro
+quando diventeremo una repubblica?
+Sarò rovinato!<Close><End of Block>
+<TextBlock 56 w:70 h:3>
+Ultimamente non si fa che
+parlare della fine della
+guerra con Kislev.<New>
+Meglio continuare ad
+accumulare fintanto che
+ci sono ancora delle
+scaramucce di confine.<Close><End of Block>
+<TextBlock 57 w:56 h:2>
+Mmh, i prezzi sono
+un po' alti.<New>
+Ma queste cose ci servono
+per attraversare il deserto…<Close><End of Block>
+<TextBlock 58 w:62 h:3>
+Shakhan, che governava questo
+paese, è stato deposto!<New>
+La guerra con Kislev dovrebbe
+finire e la vita sarà di nuovo
+facile. Sono così felice!<Close><End of Block>
+<TextBlock 59 w:56 h:3>
+Da quando sono giunte le
+forze di Geburah, Aveh non
+ha perso quasi mai contro
+Kislev.<New>
+Come vorrei che la Chiesa
+vendesse alcuni di questi
+nuovi, potenti Gear.<Close><End of Block>
+<TextBlock 60 w:64 h:4>
+Mmh, sembrate stanchi.
+Potete riposare tutta la notte
+al bar, così perché non vi
+fermate là per un altro po'?<New>
+Viaggiare in queste condizioni…
+potrebbe esservi fatale.<Close><End of Block>
+<TextBlock 61 w:58 h:2>
+Ehi, perché quel muso lungo?
+Ti è morto il gatto?<New>
+È in momenti come questo
+che ti serve un bicchierino…<New>
+<Delay 20>… o due,<Delay 20> o tre<Delay 20>…<Close><End of Block>
+<TextBlock 62 w:52 h:3>
+L'esercito sta inviando
+molti uomini quaggiù…<New>
+Ma sicuramente ci sarà un
+modo molto più efficiente
+per scavare nelle rovine!<Close><End of Block>
+<TextBlock 63 w:62 h:3>
+Sto lavorando…
+Il sensore del generatore
+è rotto…<New>
+Ed è la sola cosa che può
+rilevare i generatori dei
+Gear celati nel sottosuolo…<New>
+Senza di esso,
+sono rovinato!<Close><End of Block>
+<TextBlock 64 w:72 h:3>
+Nel deserto c'è un gruppo di
+ladri chiamati Sandmen… Così<Space 1>
+è meglio che vi attrezziate
+come dio comanda.<New>
+Se non lo fate, non venite a
+piangere da me!<Close><End of Block>
+<TextBlock 65 w:70 h:3>
+Nel deserto c'è un gruppo di
+ladri chiamati Sandmen… Così<Space 1>
+è meglio che vi attrezziate
+come dio comanda.<New>
+Se non lo fate, non venite a
+piangere da me!<Close><End of Block>
+<TextBlock 66 w:56 h:3>
+Portare i pezzi scavati
+all'officina non è più
+così remunerativo.<New>
+Ho sentito che dovranno
+ridimensionare l'officina…
+I tempi sono difficili.<Close><End of Block>
+<TextBlock 67 w:68 h:3>
+Grandi profitti con pochi sforzi!
+Questo è il miglior modo di
+fare denaro… Questo è il segreto!<New>
+Diventiamo ricchi vendendo
+i pezzi che scaviamo alla
+Chiesa.<New>
+Più raro il pezzo, migliore è
+il prezzo!<Delay 20>
+'Scavalo e scovalo'!<Close><End of Block>
+<TextBlock 68 w:28 h:3>
+Allora…
+Che cosa
+vuoi comprare?<Close><End of Block>
+<TextBlock 69 w:27 h:2>
+Fei
+"Questa città
+è vivace."<Close><End of Block>
+<TextBlock 70 w:52 h:5>
+Shitan
+"Questo è il centro di
+tutti gli scavi di Aveh.<New>
+La gente viene da tutta
+Ignis in cerca di fortuna…<New>
+… cercando di trovare le
+ricchezze nascoste nelle
+rovine qua intorno."<Close><End of Block>
+<TextBlock 71 w:52 h:2>
+Ass. Cacciatori di Tesori
+     Sede di Dajil <Close><End of Block>
+<TextBlock 72 w:54 h:2>
+  -La Via della Fortuna-  
+    'Un bar rilassante' <Close><End of Block>
+<TextBlock 73 w:54 h:1>
+ Amministrazione Officina. <Close><End of Block>
+<TextBlock 74 w:20 h:1>
+ Officina <Close><End of Block>
+<TextBlock 75 w:64 h:7>
+   Edizione Straordinaria!
+ Ancora guerra nel deserto?
+ 
+   Una nuova unità è stata
+   assegnata alla base di
+   Kislev sul confine.
+   Una forza di élite di Kislev…<Close><End of Block>
+<TextBlock 76 w:42 h:4>
+Shitan
+"Ritorniamo in quel
+negozio e noleggiamo
+la dune buggy."<Close><End of Block>
+<TextBlock 77 w:44 h:4>
+Shitan
+"Fei, cerchiamo prima
+la persona che ci
+noleggerà la buggy."<Close><Close><End of Block>

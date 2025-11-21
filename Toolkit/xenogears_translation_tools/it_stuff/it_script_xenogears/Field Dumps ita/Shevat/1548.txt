@@ -1,0 +1,18 @@
+<TextBlock 1 w:48 h:6>
+Voliamo nel cielo, giusto?<Delay 20>
+Non è facile ottenere le
+provviste.<Delay 20> Non possiamo
+neanche andare a
+prenderle da noi.<New>
+In qualche modo, fino ad
+ora ce l'abbiamo fatta, ma
+se continuiamo così…<Delay 20> Mmh…
+Dovremmo fare qualcosa…<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+Mmh… anche questo mese
+sarà molto duro.<Delay 20> Dobbiamo
+risparmiare un po' sulle
+razioni per farcela…<New>
+Ma probabilmente molti
+si lamenteranno…<Delay 20>
+Cosa dovrò fare…?<Close><Close><End of Block>

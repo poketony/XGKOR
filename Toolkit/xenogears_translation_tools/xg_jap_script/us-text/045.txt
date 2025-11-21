@@ -1,0 +1,18 @@
+#### 1 ####
+Fei
+"How far has doc gone?
+{wait:0A}...{wait:05}And now I've lost
+sight of those Gears too."
+
+#### 2 ####
+Fei
+"What's happening?"
+
+#### 3 ####
+!!
+
+#### 4 ####
+Fei
+"W, what the heck
+is that thing?"
+

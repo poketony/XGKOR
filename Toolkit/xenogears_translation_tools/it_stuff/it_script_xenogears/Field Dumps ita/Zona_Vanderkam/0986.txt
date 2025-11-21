@@ -1,0 +1,46 @@
+<TextBlock 1 w:26 h:2>
+Bart
+"(Dietro di me!?)"<Close><End of Block>
+<TextBlock 2 w:42 h:4>
+Bart
+"<Delay 10>…<Delay 10>…<Delay 10>…<Delay 45><New>
+Perché mi stai
+attaccando così
+all'improvviso!?"<Close><End of Block>
+<TextBlock 3 w:48 h:2>
+Bart
+"No, io non 'lo' conosco!<New>
+… Ma anche se fosse
+così, di sicuro non te
+lo direi!"<Close><End of Block>
+<TextBlock 4 w:30 h:2>
+Eh eh, bene.<New>
+Allora fai
+lo stupido!<Close><End of Block>
+<TextBlock 5 w:28 h:1>
+Tu, sei forte…<New>
+… eh?<Close><End of Block>
+<TextBlock 6 w:30 h:2>
+Sei forte? Ti
+sto chiedendo
+questo.<Close><End of Block>
+<TextBlock 7 w:34 h:4>
+Ramsus
+"Tu, lì…
+ragazzo pirata!
+Lo conosci!?<New>
+Certo che sì…
+Tu non eri con
+quella nullità,
+Fei?"<Close><End of Block>
+<TextBlock 8 w:44 h:4>
+Ramsus
+"Bene!<New>
+Allora non t'importerà
+se sarò io a prendermi
+cura di questo tipo."<Close><End of Block>
+<TextBlock 9 w:44 h:2>
+Ramsus
+"Ho un grandissimo
+conto in sospeso
+con 'lui'!"<Close><Close><End of Block>

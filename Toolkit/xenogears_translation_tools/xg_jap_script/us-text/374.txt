@@ -1,0 +1,50 @@
+#### 1 ####
+Elly
+"I do not think we should
+leave Shevat just yet."
+
+#### 2 ####
+Citan
+"Fei,{wait:14}
+where do you think
+you are going?"
+
+#### 3 ####
+Bart
+"You're not saying we
+should get out of here
+already, are you?"
+
+#### 4 ####
+Rico
+"Fei, we have no business
+being here now."
+
+#### 5 ####
+Billy
+"Let's go back.{wait:14}
+There're things we ought
+to do first."
+
+#### 6 ####
+Emeralda
+"...{wait:14}
+What are we here for?"
+
+#### 7 ####
+{name:07:チュチュ}
+"It's chu dark in here.{wait:14}
+{name:07:チュチュ} doesn't like
+dark places."
+
+#### 8 ####
+Maria
+"Let's go.{wait:14}
+We mustn't waste time
+in a place like this."
+
+#### 9 ####
+Do you want to go up?
+    Yes
+    No
+

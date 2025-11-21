@@ -1,0 +1,54 @@
+<TextBlock 1 w:38 h:2>
+Ehi, potreste aprire
+la porta?<Close><End of Block>
+<TextBlock 2 w:36 h:3>
+È semplice. Basta
+premere il pulsante
+su quel pannello.<Close><End of Block>
+<TextBlock 3 w:54 h:2>
+Grazie…<Delay 30>
+Per ringraziarvi…<Delay 40>
+Vi mangerò!!<Opcode 2 20><Close><End of Block>
+<TextBlock 4 w:28 h:1>
+Uccidetemiiiiii<Opcode 2 30><Close><End of Block>
+<TextBlock 5 w:42 h:3>
+Aiuto…<Delay 20> Non posso
+controllarmi…<Delay 30> Non
+uccidetemi…<Opcode 2 30><Close><End of Block>
+<TextBlock 6 w:38 h:4>
+Fummo tramutati
+in Wels come un
+esperimenPO… Uh?
+PAPOPREPAMO…<Opcode 2 40><Close><End of Block>
+<TextBlock 7 w:30 h:2>
+Ouch, fa male,
+fa male…<Opcode 2 30><Close><End of Block>
+<TextBlock 8 w:40 h:1>
+Mi sembrate gustosi…<Opcode 2 30><Close><End of Block>
+<TextBlock 9 w:40 h:2>
+Un mutante unito
+ad un Wels…<Opcode 2 30><Close><End of Block>
+<TextBlock 10 w:50 h:2>
+I Wels sono molto
+buoni…<Delay 30> Che mi
+dite di voi?<Opcode 2 30><Close><End of Block>
+<TextBlock 11 w:34 h:2>
+Sono un umano…<Delay 30>
+Una volta lo ero…<Opcode 2 30><Close><End of Block>
+<TextBlock 12 w:48 h:4>
+Nelle fogne…<Delay 30>
+Ti sei preso buona
+cura di…<Delay 30> mio
+fratello…<Opcode 2 40><Close><End of Block>
+<TextBlock 13 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 14 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 15 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 16 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><Close><End of Block>

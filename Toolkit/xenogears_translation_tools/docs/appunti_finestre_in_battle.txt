@@ -1,0 +1,12 @@
+Le informazioni sono contenuti nei file pari dell'archivio 3088.
+Ogni file pari è collegato al successivo dispari (dunque lo 0 è
+collegato all'1, è così via).
+Nei primi byte (circa 160$?) si trovano le informazioni quali
+avatar ed altro.
+
+Appunti file 2:
+
+Primo dialogo Fei:		0x14E
+Secondo dialogo Fei:		0x15E
+Terzo dialogo Fei: 		0x17E
+Dialogo Shitan:			0x19E

@@ -1,0 +1,166 @@
+#### 1 ####
+Fei
+"This is...{wait:1E}
+the same angel statue at
+the cathedral."
+
+#### 2 ####
+Fei
+"The...{wait:1E}
+Fatima Jasper."
+
+#### 3 ####
+Fei
+"What's up ahead{wait:1E}...?"
+
+#### 4 ####
+Elly
+"An angel statue...here?"
+
+#### 5 ####
+Elly
+"...{wait:1E}A retinal
+sensor!?"
+
+#### 6 ####
+Elly
+"What's up ahead{wait:1E}...?"
+
+#### 7 ####
+Citan
+"An angel statue...here?"
+
+#### 8 ####
+Citan
+"I see...{wait:1E} so this
+is the Fatima Jasper."
+
+#### 9 ####
+Elly
+"What's up ahead{wait:1E}...?"
+
+#### 10 ####
+Error Dummytag
+(Bart is not in the
+correct order)
+
+#### 11 ####
+Error  Dummytag
+(Bart is not in the
+correct order)
+
+#### 12 ####
+Error  Dummytag
+(Bart is not in the
+correct order)
+
+#### 13 ####
+Billy
+"...{wait:1E}
+An angel statue..."
+
+#### 14 ####
+Billy
+"Shine the eyes and...{wait:1E}
+the door!?"
+
+#### 15 ####
+Billy
+"What's up ahead{wait:1E}...?"
+
+#### 16 ####
+Rico
+"...?"
+
+#### 17 ####
+Rico
+"...{wait:1E}Incredible."
+
+#### 18 ####
+Rico
+"What's up ahead{wait:1E}...?"
+
+#### 19 ####
+Maria
+"...?"
+
+#### 20 ####
+Maria
+"...{wait:1E}So, I have to
+unlock it with my eyes!?"
+
+#### 21 ####
+Maria
+"Wonder what's up
+ahead...?"
+
+#### 22 ####
+{name:07:チュチュ}
+"It's an angel."
+
+#### 23 ####
+{name:07:チュチュ}
+"Wa wa waaa!"
+
+#### 24 ####
+{name:07:チュチュ}
+"What's it like
+over there?"
+
+#### 25 ####
+Emeralda
+"...It has wings."
+
+#### 26 ####
+Emeralda
+"What's up ahead?"
+
+#### 27 ####
+Bart
+"So this is the door that
+connects to the great
+royal treasure."
+
+#### 28 ####
+Bart
+"It's time{wait:1E} for
+the Fatima Jasper...
+to do its thing...{enter}
+Oh yeah, one of mine's
+closed."
+
+#### 29 ####
+Margie
+"I'm here."
+
+#### 30 ####
+Bart
+"Yeah.{enter}
+That punk, Shakhan
+mistook that for the
+royal pendant."
+
+#### 31 ####
+Bart
+"But that made it
+easier for us, so I kept
+my mouth shut."
+
+#### 32 ####
+Margie
+"Up ahead will be the
+central core of the
+fortress."
+
+#### 33 ####
+Margie
+"It's been said that if
+we shine that mysterious
+light across our eyes,{enter}
+the fortress will rise
+to the surface.{enter}
+They say this was built
+before the country of
+Aveh was founded.{enter}
+So, you ready to go?"
+

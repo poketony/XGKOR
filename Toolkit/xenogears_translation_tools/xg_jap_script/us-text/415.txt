@@ -1,0 +1,58 @@
+#### 1 ####
+Bart
+"There's another Jasper
+lock..."
+
+#### 2 ####
+Margie
+"Let's try it out."
+
+#### 3 ####
+Bart
+"Argh!{wait:1E}
+I only have one 
+Fatima Jasper!"
+
+#### 4 ####
+Sigurd
+"Relax, young master!"
+
+#### 5 ####
+Bart
+"Sig...{wait:1E}
+What should I do!?"
+
+#### 6 ####
+Sigurd
+"Pass the light through
+your good eye!{wait:1E}
+I'll do the other half!"
+
+#### 7 ####
+Bart
+"...{wait:1E}What're you?"
+
+#### 8 ####
+Sigurd
+"Just do it!"
+
+#### 9 ####
+Bart
+"Yes!{wait:1E} It's unlocked."
+
+#### 10 ####
+Bart
+"?{wait:1E}
+Sig...!{wait:1E}
+How did YOUR eye work!?"
+
+#### 11 ####
+Sigurd
+"We running out of time!{wait:1E}
+We must return to
+Marguerite at once!"
+
+#### 12 ####
+Bart
+"...?"
+

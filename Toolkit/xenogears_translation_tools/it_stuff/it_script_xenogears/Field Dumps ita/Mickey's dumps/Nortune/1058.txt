@@ -1,0 +1,11 @@
+<TextBlock 1 w:50 h:3>
+Aghh… sob… uuuuhh…
+Era un così bravo
+ragazzo…
+Chi poteva immaginare…<New>
+Cosa dirò mai alla sua
+famiglia…?<Close><End of Block>
+<TextBlock 2 w:44 h:3>
+Kyaaaaaah!
+Qualcuno lo fermi!
+È la cena di stasera.<Close><Close><End of Block>

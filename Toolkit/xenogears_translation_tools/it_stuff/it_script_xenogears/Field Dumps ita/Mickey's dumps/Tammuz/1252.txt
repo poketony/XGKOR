@@ -1,0 +1,183 @@
+<TextBlock 1 w:44 h:4>
+"Il sonar sta captando
+qualcosa…<Delay 10>…<Delay 10><New>
+Ma questo segnale…
+Sembra quello della
+nave pirata di Aveh,
+l'Yggdrasil."<Close><End of Block>
+<TextBlock 2 w:38 h:4>
+Dominia
+"L'Yggdrasil?
+Non era affondato
+nell'altra battaglia?"<Close><End of Block>
+<TextBlock 3 w:54 h:4>
+"Eravamo troppo occupati
+a combattere quel Gear
+rosso per accertarci
+del suo affondamento."<Close><End of Block>
+<TextBlock 4 w:48 h:3>
+Dominia
+"Allora, c'è la
+possibilità che
+non sia affondato…<New>
+Credo che dall'esame
+dei dati risulti che
+l'Yggdrasil fosse la
+base di quel Gear."<Close><End of Block>
+<TextBlock 5 w:44 h:2>
+"Un momento<Delay 30>…<Delay 30>…<Delay 30>
+Sì, è corretto."<Close><End of Block>
+<TextBlock 6 w:44 h:3>
+Dominia
+"Eccellente.
+Dammi i comandi."<Close><End of Block>
+<TextBlock 7 w:48 h:3>
+"Eccellente? Che cosa
+hai intenzione di fare?"<Close><End of Block>
+<TextBlock 8 w:52 h:4>
+Dominia
+"Affondarlo, che altro?
+Non intralcerà oltre il
+Comandante."<Close><End of Block>
+<TextBlock 9 w:52 h:4>
+"Aspetta. Gli ordini
+erano di investigare
+sulla scomparsa di
+quella nave volante…<New>
+Non ci è permesso
+deviare dalla
+nostra missione.<New>
+Inoltre, abbiamo poco
+carburante e dobbiamo
+fare rifornimento."<Close><End of Block>
+<TextBlock 10 w:40 h:3>
+Dominia
+"Ne ho abbastanza.
+Lo distruggerò."<Close><End of Block>
+<TextBlock 11 w:44 h:4>
+"Mmh… Una volta che
+hai deciso non c'è
+modo di fermarti…<New>
+Spero che tu sappia che
+combattere in acqua è
+diverso dal combattere
+sulla terra."<Close><End of Block>
+<TextBlock 12 w:36 h:3>
+Dominia
+"Naturalmente.
+Scusa, Cherubina."<Close><End of Block>
+<TextBlock 13 w:52 h:4>
+Bart
+"Porca Eva! Io riesco
+a malapena a muovermi
+e tu…<New>
+… sei più sfuggente
+di un'anguilla!"<Close><End of Block>
+<TextBlock 14 w:50 h:3>
+Fei
+"Non te la passi molto
+bene, eh Bart?<Close><End of Block>
+<TextBlock 15 w:30 h:3>
+Bart
+"Fei!?
+Sei vivo!?"<Close><End of Block>
+<TextBlock 16 w:44 h:2>
+Fei
+"Beh, non lo vedi
+da solo?"<Close><End of Block>
+<TextBlock 17 w:46 h:2>
+Elly
+"E quel Gear?"<Close><End of Block>
+<TextBlock 18 w:36 h:4>
+Dominia
+"Elhaym!!
+Cosa stai facendo
+qui?"<Close><End of Block>
+<TextBlock 19 w:36 h:3>
+Elly
+"Dominia!?
+Perché sei qui?"<Close><End of Block>
+<TextBlock 20 w:48 h:4>
+Dominia
+"Perché?<New>
+Noi di Geburah non
+abbiamo bisogno di
+ragioni per affondare
+una nave nemica!<New>
+È dio stesso che ci ha
+affidato il compito di
+governare questi stupidi
+Agnelli."<Close><End of Block>
+<TextBlock 21 w:54 h:4>
+Elly
+"Perché?
+Sono forse diversi da
+noi Pastori, gli -Abele-?"<Close><End of Block>
+<TextBlock 22 w:50 h:3>
+Dominia
+"Per me gli -Agnelli-
+e gli -Abele- sono la
+stessa cosa.<New>
+La sola cosa che
+ci distingue è la
+capacità personale.<New>
+Gli ignoranti devono
+essere guidati dai
+saggi. È il nostro
+dovere.<New>
+Guarda che cos'hai
+ottenuto come Elemento,
+Elly. Perché ti poni
+sempre domande?<New>
+La tua superiorità
+è palese!"<Close><End of Block>
+<TextBlock 23 w:46 h:4>
+Elly
+"… Così il saggio
+nuoce al debole come
+segno di abilità?<New>
+Io non lo voglio…<Delay 30>
+E questo è tutto!!"<Close><End of Block>
+<TextBlock 24 w:34 h:3>
+Fei
+"Elly, va
+tutto bene?"<Close><End of Block>
+<TextBlock 25 w:46 h:4>
+Dominia
+"Quel Gear… ah!
+Allora questo è
+il motivo.<New>
+Che spasso, Elhaym!
+Tutto questo per un
+uomo? Quella storia
+era vera, dopotutto.<New>
+Sei nata da dei
+semplici Agnelli."<Close><End of Block>
+<TextBlock 26 w:48 h:3>
+Elly
+"Basta così!
+Non dire un'altra
+parola!"<Close><End of Block>
+<TextBlock 27 w:50 h:3>
+Dominia
+"Mmh, e che cosa
+vorresti fare,
+bastarda!?<New>
+Vorresti usare su di
+me il potere che usasti
+in quell'incidente?<New>
+Dai! Mostramelo.
+Mostrami il tuo
+vero potere!"<Close><End of Block>
+<TextBlock 28 w:30 h:4>
+Elly
+"… E sia.<New>
+Se voi di Geburah
+siete i saggi…<Delay 20>
+allora <Delay 30>preferisco
+essere una stupida!!"<Close><End of Block>
+<TextBlock 29 w:48 h:4>
+Dominia
+"Molto bene. Allora
+ti tratterò come la
+traditrice che sei."<Close><Close><End of Block>

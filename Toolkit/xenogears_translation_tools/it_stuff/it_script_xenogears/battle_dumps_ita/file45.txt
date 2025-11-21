@@ -1,0 +1,20 @@
+<TextBlock 1 w:8 h:1>
+Tieni<Close><End of Block>
+<TextBlock 2 w:48 h:4>
+Ramsus
+"Alla fine t'ho trovato!
+Adesso devo sfidarti!!"<Close><End of Block>
+<TextBlock 3 w:36 h:4>
+Ramsus
+"Uaaah!
+Non può essere!
+Tu, m… mostro…"<Close><End of Block>
+<TextBlock 4 w:44 h:4>
+Ramsus
+"… Uha!<Delay 30>
+M…<Delay 30> maledetto…<Delay 30> Se non
+fosse per te<Delay 30>…<Delay 30>"<Close><End of Block>
+<TextBlock 5 w:24 h:3>
+Bart
+"Tch! Sta'
+indietro!!"<Close><Close>d<Close><Close><Close><End of Block>

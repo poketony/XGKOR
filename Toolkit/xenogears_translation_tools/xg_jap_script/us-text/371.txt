@@ -1,0 +1,51 @@
+#### 1 ####
+This store is about to be
+closed.{wait:14} Gears aren't
+needed in this town except
+the Queen's troops...{enter}
+But, please take a look.{wait:14}
+We no longer have much
+business, but all the items
+are our pride and joy.
+
+#### 2 ####
+Thank you.
+If you need anything,
+please stop by again.{wait:14}
+We'll try to help you
+as much as we can.
+
+#### 3 ####
+What's the use of having
+a Gear if there's no one
+to ride on it?{enter}
+The only Gear that needs
+maintenance is Maria's
+Gear which is hardly ever
+used.
+
+#### 4 ####
+Well, to be honest with
+you, we don't have any
+chance in this fight...{wait:14}
+Unless a miracle happens.{enter}
+The battle was probably
+settled at the point where
+they let her escape in that
+war 500 years ago.
+
+#### 5 ####
+We don't have equipment
+or materials like Solaris
+does.{wait:14} What the hell do
+they want us to do?{enter}
+Damn it!{wait:14} We aren't at a
+disadvantage when it
+comes to technology and
+ideas...
+
+#### 6 ####
+Do you want to go up?{wait:0A}
+    Yes
+    No
+

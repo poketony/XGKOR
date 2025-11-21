@@ -1,0 +1,124 @@
+#### 1 ####
+Fei
+"Elly will be back to
+her usual self! I will
+go on believing that.{enter}
+But even if that doesn't
+happen...I will still...
+...Well, let's just say
+I'm prepared for that too!"
+
+#### 2 ####
+Zephyr
+"You don't have to do
+this if you don't want
+to, you know.{enter}
+Your opponent is the
+person you love...
+If you decide to quit now,
+no one will blame you."
+
+#### 3 ####
+Fei
+"To quit would be
+meaningless.{enter}
+All that I have fought for,
+and all that I live for,
+would come to have no
+meaning at all...{enter}
+People should be free. With
+no one bound by others, and
+no one binding others...{enter}
+Inside of me, there is a
+part of me that desires
+that freedom, and a part
+of me that gives me hope.{enter}
+So, I shall fight to
+win true freedom!
+For we are still alive!{enter}
+We fight to live.
+That is the reason
+why I fight.
+It's proof I'm human.{enter}
+I promised my father, and
+myself too, that I would
+free Elly from Deus' binds,
+that I would save her..."
+
+#### 4 ####
+Zephyr
+"I understand.{wait:14}
+So, let's keep believing...
+And hope for a miracle..."
+
+#### 5 ####
+Fei
+"According to what the doc
+says, his condition has
+gotten a lot better.{enter}
+It seems like Kahr has
+regained his will to
+live again."
+
+#### 6 ####
+Fei
+"So much has happened
+between him and I...{enter}
+When this battle ends, I
+want to face Ramsus one
+on one in sport, not war,
+as a martial artist."
+
+#### 7 ####
+Fei
+"Perhaps..."
+
+#### 8 ####
+Citan
+"Yes, well, at first, he
+had lost faith in himself
+but now he is better.{enter}
+Kahr has revived himself,
+and has found some real
+meaning in his life.{enter}
+If he decides to fight on
+our side then our total
+fighting power shall be
+greatly increased."
+
+#### 9 ####
+Zephyr
+"The snow keeps falling...{wait:14}
+Softly covering up
+everything in this world...{enter}
+Our sorrow, our defilement,
+our mistakes...{wait:14} If only we
+could wipe away these
+things as easily as that...{enter}
+What have we...{wait:14}have I...{wait:14}
+been doing...{wait:14}
+been pursuing...{wait:14}
+for these past 500 years?"
+
+#### 10 ####
+Zephyr
+"By the way...{wait:14}
+How is the person you
+rescued from Merkava?{enter}
+I heard he recovered
+consciousness..."
+
+#### 11 ####
+Zephyr
+"I am sure he wishes
+the same thing too."
+
+#### 12 ####
+Zephyr
+"Fei...
+May I ask you something?{enter}
+About Elly...{wait:14}
+What if, even if we break
+Zohar's spell, she doesn't
+return to normal..."
+

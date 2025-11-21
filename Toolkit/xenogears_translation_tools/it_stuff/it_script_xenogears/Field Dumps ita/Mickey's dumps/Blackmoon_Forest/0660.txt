@@ -1,0 +1,29 @@
+<TextBlock 1 w:54 h:2>
+Accidenti a loro…<Delay 60>
+Ci stanno ancora inseguendo.<Opcode 2 30><Close><End of Block>
+<TextBlock 2 w:62 h:2>
+Siamo nel territorio di Aveh…<Delay 60>
+Non mi arrenderò proprio ora.<Opcode 2 30><Close><End of Block>
+<TextBlock 3 w:52 h:1>
+Questo Gear è troppo importante.<Opcode 2 5><Close><End of Block>
+<TextBlock 4 w:52 h:2>
+… Lo sapevo!<Delay 60> Ora io
+sono in svantaggio.<Opcode 2 30><Close><End of Block>
+<TextBlock 5 w:22 h:1>
+Van Houten!<Opcode 2 20><Close><End of Block>
+<TextBlock 6 w:44 h:1>
+Cosa succede? Rispondi!<Opcode 2 30><Close><End of Block>
+<TextBlock 7 w:54 h:1>
+Maledizione! Atterrate!<Opcode 2 30><Close><End of Block>
+<TextBlock 8 w:52 h:2>
+Raggruppatevi sul terreno.<Delay 60>
+Dobbiamo affrontarli!<Opcode 2 30><Close><End of Block>
+<TextBlock 9 w:2 h:1>
+!<Opcode 2 20><Close><End of Block>
+<TextBlock 10 w:40 h:4>
+Elly
+"Schegge…
+Mi hanno colpita.<New>
+Sto perdendo potenza.<Delay 20>
+Non posso più
+mantenere l'altitudine."<Opcode 2 50><Close><End of Block>

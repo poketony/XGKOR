@@ -1,0 +1,50 @@
+#### 1 ####
+...
+
+#### 2 ####
+Maison
+"This is the
+residential
+section."
+
+#### 3 ####
+Maison
+"Walk this way."
+
+#### 4 ####
+We're gonna help
+service Gears now!
+
+#### 5 ####
+Yeah!!!
+
+#### 6 ####
+Let's go!
+
+#### 7 ####
+{fast:FF}Go down to the docks?
+    Go down
+    Not now
+
+#### 8 ####
+Bart
+"Argh, that's no good!"
+
+#### 9 ####
+{fast:FF}'My Room: 
+Enter and Die'
+             Bart {wait:0A}
+    Enter
+    Give it up
+
+#### 10 ####
+Fei
+(Why must I fight...?)
+
+#### 11 ####
+The shock destroyed
+this road...
+
+#### 12 ####
+
+

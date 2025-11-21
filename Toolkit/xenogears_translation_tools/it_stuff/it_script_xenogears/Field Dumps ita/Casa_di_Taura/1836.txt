@@ -1,0 +1,277 @@
+<TextBlock 1 w:16 h:1>
+Taura…<Opcode 2 30><Close><End of Block>
+<TextBlock 2 w:14 h:2>
+Shitan
+"Fei!!"<Close><End of Block>
+<TextBlock 3 w:14 h:2>
+Fei
+"Doc!!"<Delay 30><Close><End of Block>
+<TextBlock 4 w:52 h:4>
+Shitan
+"Taura mi ha avvisato e
+mi sono affrettato a
+venire qui!<New>
+Cielo, che fortuna
+che avete avuto<Delay 10>…!<New>
+Siete stati proprio
+fortunati a precipitare
+vicino al centro di
+ricerca di Taura<Delay 5>…"<Close><End of Block>
+<TextBlock 5 w:52 h:4>
+Taura
+"Ehm…<Delay 5> Questo posto non è
+un centro di ricerca<Delay 10>…<New>
+È il 'nascondiglio di
+una persona'!"<Close><End of Block>
+<TextBlock 6 w:50 h:3>
+Taura
+"Shitan mi ha parlato
+di voi due.<New>
+Sono rimasto scioccato a
+vedere una coppia distesa
+a terra in un lago di
+sangue."<Close><End of Block>
+<TextBlock 7 w:22 h:1>
+Una coppia…<Close><End of Block>
+<TextBlock 8 w:34 h:4>
+Shitan
+"Comunque sia, l'avete
+scampata per poco.<New>
+Fei, bada di
+ringraziare Taura!"<Close><End of Block>
+<TextBlock 9 w:44 h:4>
+Fei
+"Taura,<Delay 10> ti ringrazio
+infinitamente<Delay 5>…<Delay 10> per avere
+aiutato Elly<Delay 5>…"<Close><End of Block>
+<TextBlock 10 w:50 h:4>
+Fei
+"Sia Elly che io eravamo
+feriti gravemente…<Delay 30> Ma
+cos'è quella macchina…?"<Close><End of Block>
+<TextBlock 11 w:54 h:4>
+Taura
+"Si chiama Nanoreattore.<New>
+È un congegno che può
+ricostruire le sostanze
+ad un livello molecolare.<New>
+Non solo può curare gli
+umani, ma, teoricamente…<New>
+… dovrebbe anche essere
+in grado di creare molte
+sostanze."<Close><End of Block>
+<TextBlock 12 w:52 h:3>
+Fei
+"È la stessa cosa che
+usa quel tipo di Solaris…?<New>
+Voglio dire… è la stessa
+cosa che studia Krelian?"<Close><End of Block>
+<TextBlock 13 w:40 h:2>
+Taura
+"Sì, esattamente."<Close><End of Block>
+<TextBlock 14 w:50 h:3>
+Taura
+"Io<Delay 10> sono quello che
+gli ha insegnato
+la Nanotecnologia…"<Close><End of Block>
+<TextBlock 15 w:20 h:2>
+Fei
+"Tu?"<Close><End of Block>
+<TextBlock 16 w:48 h:4>
+Taura
+"Non dovremmo perder tempo
+parlando di una cosa così<Delay 10>
+insignificante.<New>
+Sembra che la cura della
+ragazza sia terminata."<Close><End of Block>
+<TextBlock 17 w:34 h:4>
+Taura
+"Oh, non c'è bisogno
+che tu venga.<Delay 10> Devi
+solo aspettare qui."<Close><End of Block>
+<TextBlock 18 w:10 h:2>
+Fei
+"…"<Close><End of Block>
+<TextBlock 19 w:16 h:2>
+Shitan
+"Fei…"<Close><End of Block>
+<TextBlock 20 w:16 h:2>
+Fei
+"Elly!!"<Close><End of Block>
+<TextBlock 21 w:14 h:3>
+Elly
+"Fei…<Delay 20>
+Io…"<Close><End of Block>
+<TextBlock 22 w:50 h:4>
+Taura
+"Ahem! Adesso, perché voi
+due non andate a prendere
+un po' d'aria fresca…<New>
+… qui fuori?
+Dovrebbe attenuare lo
+shock del risveglio."<Close><End of Block>
+<TextBlock 23 w:42 h:3>
+Emissario di Shevat
+"Fei…!<Delay 10> Siamo 
+nei guai!!"<Close><End of Block>
+<TextBlock 24 w:52 h:4>
+Emissario di Shevat
+"Proprio oggi, si sta discutendo
+a Shevat di un accordo di pace
+tra Aveh e Kislev…<New>
+Ma… le armi mobili di Solaris
+si stanno avvicinando a Shevat
+proprio mentre parliamo!<Delay 10>
+Ti prego, aiutaci!"<Close><End of Block>
+<TextBlock 25 w:46 h:3>
+Taura
+"Queste sono cose che non
+riguardano quest'uomo!!"<Close><End of Block>
+<TextBlock 26 w:30 h:2>
+Emissario di Shevat
+"Taura!!"<Close><End of Block>
+<TextBlock 27 w:48 h:4>
+Taura
+"Mi fate saltare i nervi…
+perché siete così egoisti…<New>
+Shitan mi ha parlato di
+voi. Vi siete fatti vivi
+solo quando s'è saputo che
+Id è adesso controllabile…<New>
+Ma non vi vergognate?
+Siete sempre gli
+stessi sin da allora.<New>
+Vi preoccupate solo di
+voi e di nessun altro."<Close><End of Block>
+<TextBlock 28 w:50 h:4>
+Taura
+"Fei!<New>
+Non c'è bisogno che
+ascolti questi tizi
+che tempo fa hanno
+cercato di ucciderti!!"<Close><End of Block>
+<TextBlock 29 w:16 h:2>
+Fei
+"Ma…"<Close><End of Block>
+<TextBlock 30 w:10 h:2>
+Shitan
+"…"<Close><End of Block>
+<TextBlock 31 w:30 h:4>
+Elly
+"Vai, ti prego…
+Io andrò al Propulsore…"<Close><End of Block>
+<TextBlock 32 w:14 h:2>
+Fei
+"Elly?"<Close><End of Block>
+<TextBlock 33 w:52 h:4>
+Elly
+"Non importa quello che è
+successo prima, Shevat ora
+ha bisogno del tuo aiuto.<New>
+Anche se salvassi della
+gente egoista…<New>
+Pensa a tutto il mondo,
+a tutti i paesi… ed
+a tutta quella gente
+innocente…<New>
+Ti prego, non
+dimenticartelo."<Close><End of Block>
+<TextBlock 34 w:50 h:4>
+Elly
+"Bart ed i suoi stanno
+combattendo per proteggere
+quelle stesse vite, no?<New>
+Perciò… ti prego,
+vai ad aiutarli!"<Close><End of Block>
+<TextBlock 35 w:32 h:3>
+Fei
+"Ne sei sicura?<Delay 10>
+E tu, invece?"<Close><End of Block>
+<TextBlock 36 w:44 h:3>
+Elly
+"Non preoccuparti per
+me.<Delay 10> Me la caverò in
+qualche modo."<Close><End of Block>
+<TextBlock 37 w:50 h:2>
+Fei
+"Ma… tutta
+da sola…"<Close><End of Block>
+<TextBlock 38 w:50 h:3>
+Shitan
+"Accompagnerò io Elly.<Delay 10>
+Non c'è bisogno
+che ti preoccupi.<New>
+Ho portato con me il
+mio nuovo Omnigear."<Close><End of Block>
+<TextBlock 39 w:46 h:2>
+Fei
+"Il tuo nuovo Omnigear…?"<Close><End of Block>
+<TextBlock 40 w:48 h:4>
+Shitan
+"Sì, il mio Omnigear,
+<Fenrir>.<New>
+È lo stesso che ho
+portato via da Solaris.
+L'ho lasciato a Gaspare
+per casi di emergenza."<Close><End of Block>
+<TextBlock 41 w:40 h:4>
+Fei
+"Doc…<Delay 30>
+Va bene.<Delay 10> Prenditi
+cura di lei per me."<Close><End of Block>
+<TextBlock 42 w:38 h:2>
+Fei
+"Elly,<Delay 10> stai attenta."<Close><End of Block>
+<TextBlock 43 w:18 h:2>
+Elly
+"Sì, starò attenta."<Close><End of Block>
+<TextBlock 44 w:50 h:3>
+Emissario di Shevat
+"Ti siamo davvero grati
+per il tuo buon cuore,<Delay 10>
+Fei!!"<Close><End of Block>
+<TextBlock 45 w:34 h:3>
+Taura
+"Umph!<Delay 10>
+Fate come volete."<Close><End of Block>
+<TextBlock 46 w:30 h:2>
+Fei
+"Ignis, giusto?"<Close><End of Block>
+<TextBlock 47 w:56 h:4>
+Emissario di Shevat
+"Sì.<Delay 10> L'obiettivo del nemico
+è di distruggere le città
+che si trovano nel continente
+di Ignis.<New>
+Hanno già distrutto metà di
+Bledavik, e, probabilmente,
+raggiungeranno Nisan in
+circa quattro ore.<New>
+Shevat cercherà di fare
+tutto ciò che può per
+respingerli!"<Close><End of Block>
+<TextBlock 48 w:50 h:3>
+Fei
+"Quattro ore…<Delay 10>
+Abbiamo poco tempo!"<Close><End of Block>
+<TextBlock 49 w:54 h:4>
+Taura
+"Non ti preoccupare.<New>
+Baldassarre ed io abbiamo
+modificato il tuo veicolo
+con le nanomacchine.<New>
+È molto più potente di
+quanto possa esserlo
+stato prima.<New>
+Pensa, dovresti arrivare
+lì in metà del tempo,
+due ore."<Close><End of Block>
+<TextBlock 50 w:42 h:3>
+Fei
+"Cosa?<Delay 10>
+Il Vecchio Bal è qui?"<Close><End of Block>
+<TextBlock 51 w:54 h:2>
+Shitan
+"Anche Esmeralda è qui."<Close><End of Block>
+<TextBlock 52 w:0 h:1>
+<Close><End of Block>

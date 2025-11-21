@@ -1,0 +1,128 @@
+<TextBlock 1 w:46 h:3>
+Fei
+"Non possiamo passare
+per la porta di sotto?"<Close><End of Block>
+<TextBlock 2 w:48 h:4>
+Fei
+"Non è controllato da
+quella stanza che
+abbiamo appena trovato?"<Close><End of Block>
+<TextBlock 3 w:42 h:3>
+Fei
+"Tu sei…<Delay 10> Dominia!?<New>
+Ma…<Delay 20> sei riuscita
+a scoprire il nostro
+piano?"<Close><End of Block>
+<TextBlock 4 w:26 h:2>
+Fei
+"Accidenti…!"<Close><End of Block>
+<TextBlock 5 w:42 h:4>
+Fei
+"Merda…<Delay 30>
+Doc… non c'è modo
+di tornare indietro."<Close><End of Block>
+<TextBlock 6 w:22 h:3>
+Fei
+"Accidenti,
+anche qui."<Close><End of Block>
+<TextBlock 7 w:42 h:4>
+Fei
+"Dannazione!
+… ci vuole troppo…<Delay 40>
+… non resisto oltre."<Close><End of Block>
+<TextBlock 8 w:30 h:4>
+Fei
+"Evvai! <Delay 30>
+In qualche modo
+ha funzionato."<Close><End of Block>
+<TextBlock 9 w:48 h:3>
+Shitan
+"Fei, dove stai andando?<New>
+La stanza di controllo
+dello specchio è sotto
+di noi."<Close><End of Block>
+<TextBlock 10 w:52 h:3>
+Dominia
+"Certamente.<New>
+L'antica piattaforma
+armata mobile che
+fluttua sopra Ignis…<New>
+E questo specchio
+riflettore, qui,
+alla Torre di Babele…<New>
+Conosco il vostro piano di
+usarli per distruggere il
+generatore del Portale…<New>
+… che si trova sotto
+la Sede della Chiesa.<New>
+Ma, naturalmente, non
+voglio lasciarvelo fare."<Close><End of Block>
+<TextBlock 11 w:18 h:2>
+Dominia
+"Arrivo!"<Close><End of Block>
+<TextBlock 12 w:40 h:3>
+Dominia
+"Prima ve la siete
+cavata<Delay 40>…<New>
+Ma ora si fa
+sul serio!"<Close><End of Block>
+<TextBlock 13 w:40 h:4>
+Dominia
+"È straordinario che
+tu abbia resistito
+finora.<New>
+Ma alla prossima
+sarà la tua fine."<Close><End of Block>
+<TextBlock 14 w:34 h:4>
+Dominia
+"Ora!<Delay 20>
+Distruggi la sala
+di controllo!"<Close><End of Block>
+<TextBlock 15 w:28 h:3>
+Dominia
+"Oh no…<Delay 20>
+Troppo tardi…"<Close><End of Block>
+<TextBlock 16 w:34 h:4>
+Dominia
+"Continueremo più
+tardi! Andiamo,
+Cherubina!"<Close><End of Block>
+<TextBlock 17 w:46 h:4>
+Cherubina
+"Per l'onore del
+Comandante<Delay 20> e l'orgoglio
+degli Elementi…<New>
+… dovete essere
+più arrendevoli."<Close><End of Block>
+<TextBlock 18 w:30 h:4>
+Cherubina
+"Fino a quando
+resisteranno…?<Delay 40>
+Sto arrivando!"<Close><End of Block>
+<TextBlock 19 w:38 h:2>
+Cherubina
+"È ora di finirla."<Close><End of Block>
+<TextBlock 20 w:30 h:3>
+Cherubina
+"Cosa dobbiamo
+fare, Dominia?"<Close><End of Block>
+<TextBlock 21 w:42 h:4>
+Cherubina
+"Elly,<Delay 20> non vorrei
+essere tua nemica…<New>
+Ma visto che i nostri
+scopi sono diversi,
+credo proprio non ci
+sia altra scelta.<New>
+Ci incontreremo di
+nuovo e sistemeremo
+questa faccenda una
+volta per tutte."<Opcode 2 60><Close><End of Block>
+<TextBlock 22 w:36 h:1>
+La porta è chiusa.<Close><End of Block>
+<TextBlock 23 w:38 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 24 w:16 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><Close><End of Block>

@@ -1,0 +1,16 @@
+<TextBlock 1 w:50 h:3>
+Questa è l'armeria.
+Mi sto rendendo utile,
+mentre mio padre è via
+nell'esercito.<Close><End of Block>
+<TextBlock 2 w:38 h:1>
+Grazie, torna ancora.<Close><End of Block>
+<TextBlock 3 w:40 h:3>
+Sono tornato negli
+affari perché mia
+figlia ha lavorato
+molto duramente.<Close><End of Block>
+<TextBlock 4 w:44 h:2>
+Sono così fortunato
+ad avere una figlia
+tanto splendida!<Close><Close><End of Block>

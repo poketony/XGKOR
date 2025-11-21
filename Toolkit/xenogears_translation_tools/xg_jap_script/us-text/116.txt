@@ -1,0 +1,769 @@
+#### 1 ####
+Citan
+"Well then, I will be over
+here cheering for you.{enter}
+Do not beat him too soon.
+The better you do, the
+easier it will be for
+Bart to sneak in." 
+
+#### 2 ####
+Miang
+"My...what a
+handsome boy!"
+
+#### 3 ####
+Citan
+"Good luck!"
+
+#### 4 ####
+!{clear:32}
+
+#### 5 ####
+Citan
+"Fei, we can use this
+to our advantage!{enter}
+If you create a stir at
+the Tournament, the guards
+will be watching you
+rather than their posts.{enter}
+It will make it easy for
+us to sneak into the
+castle and rescue Margie.{enter}
+What do you think, Fei?
+Will you enter the 
+Tournament?"
+
+#### 6 ####
+Fei
+"Who...me?"
+
+#### 7 ####
+Citan
+"While you draw the guards'
+attention the young one can
+sneak into the castle.{enter}
+Surely you see that it is
+the only way we will get
+in?{wait:64} Right...
+Let us go sign you up."
+
+#### 8 ####
+Citan
+"And Fei, do not use
+your real name, make
+another suitable one."
+
+#### 9 ####
+...Brave young men are
+spilling their blood on
+the front lines. Our army
+is the best, but the tides
+of war are uncertain. 
+To protect the tradition
+of Aveh and preserve peace
+in this desert, we must all
+have unshaking resolve. {wait:1E} 
+The desert is a precious
+treasure passed down to us
+from our ancestors. Here we
+can forge our minds and
+bodies into one.
+Our teachers are the sun 
+and wind.{wait:1E} 
+We are gathered here today,
+with our strong bodies
+forged by the desert. {wait:1E}
+The sun above us is the
+same as that which burns
+over our fathers at the
+front. The wind blowing
+here is the same as that
+which whisks our resolve
+and prayers to our sons at
+the front.{wait:1E}
+This Tournament raises our
+spirits and renews our
+blessings from this desert
+we live in.{wait:1E}
+Brave ones, warriors, fight
+well and do not shame our
+brothers at the front."
+
+#### 10 ####
+Let the 338th
+Tournament begin!{clear:1E}
+
+#### 11 ####
+Shakhan
+"Hmm...a moving speech
+if I do say so myself."
+
+#### 12 ####
+Shakhan
+"Oh, Commander Ramsus. 
+Sorry to have kept you
+waiting. This way, please."
+
+#### 13 ####
+Ramsus
+"I'm afraid I do not
+have the time for such
+gay revelry.{enter}
+I just dropped by to
+bid you farewell."
+
+#### 14 ####
+Shakhan
+"What a pity. You do not
+like our entertainment?"
+
+#### 15 ####
+Ramsus
+"I find it boring."
+
+#### 16 ####
+Miang
+"Oh, let it be Commander.
+Shakhan is only trying to
+show hospitality...{enter}
+I personally find martial
+arts quite interesting.
+I look forward to seeing
+the Tournament."
+
+#### 17 ####
+Shakhan
+"To say this event is a 
+tribute to you, Commander, 
+is no understatement.{enter}
+Your gracious help in our
+time of need enabled us to
+celebrate the country's
+founding today."
+
+#### 18 ####
+Ramsus
+"Founding, how impudent.
+It's not even your 
+country.{enter}
+Hmph, do as you like."
+
+#### 19 ####
+Shakhan
+"Miang, how about the
+Tournament? Will you grace
+us with your company?"
+
+#### 20 ####
+Miang
+"Yes.
+It would be
+a pleasure."
+
+#### 21 ####
+Shakhan
+"Oh, it's starting!"
+
+#### 22 ####
+Good luck tomorrow.
+
+#### 23 ####
+This is the Tournament
+Registration Booth.
+    Enter the Tournament
+    No thanks
+
+#### 24 ####
+Please sign in here.
+
+#### 25 ####
+You are signed up.
+The Tournament begins
+tomorrow. Please make
+sure you are here.
+
+#### 26 ####
+Registration will end
+today. If you have the
+courage, come again.
+
+#### 27 ####
+Arena seats are 500G.{wait:32}
+Participant's excepted.
+Please pass through.
+
+#### 28 ####
+You're the Dragon 
+Slaying Boxer, right?
+
+#### 29 ####
+You're the Dragon 
+Slaying Youth, right?
+
+#### 30 ####
+You're the Dragon 
+Slaying Squire, right?
+
+#### 31 ####
+You're the Dragon 
+Slaying Slacker, right?
+
+#### 32 ####
+You're the Ponytailed
+Boxer, right?
+
+#### 33 ####
+You're the Ponytailed 
+Youth, right?
+
+#### 34 ####
+You're the Ponytailed 
+Squire, right?
+
+#### 35 ####
+You're the Ponytailed 
+Slacker, right?
+
+#### 36 ####
+You're the Wandering 
+Boxer, right?
+
+#### 37 ####
+You're the Wandering 
+Youth, right?
+
+#### 38 ####
+You're the Wandering 
+Squire, right?
+
+#### 39 ####
+You're the Wandering 
+Slacker, right?
+
+#### 40 ####
+You're the Beloved 
+Boxer, right?
+
+#### 41 ####
+You're the Beloved 
+Youth, right?
+
+#### 42 ####
+You're the Beloved 
+Squire, right?
+
+#### 43 ####
+You're the Beloved 
+Slacker, right?
+
+#### 44 ####
+   ...Boxer
+   ...Youth
+   ...Squire
+   ...Slacker
+
+#### 45 ####
+    Dragon Slaying...
+    Ponytailed...
+    Wandering...
+    Beloved...
+
+#### 46 ####
+You can't go in here.
+This will be spectator 
+seating tomorrow.
+
+#### 47 ####
+Participant?
+Okay, go on through.
+
+#### 48 ####
+All participants, the
+Tournament is about to
+begin. Please wait.
+
+#### 49 ####
+Only participants are allowed
+in here. Your friend will have
+to sit in the spectator's area.
+
+#### 50 ####
+Participant?
+Okay, go on through.
+
+#### 51 ####
+No entry.
+
+#### 52 ####
+The final match...
+Wiseman
+   vs.
+   Dragon Slaying Boxer
+
+#### 53 ####
+The final match...
+Wiseman
+   vs.
+   Dragon Slaying Youth
+
+#### 54 ####
+The final match...
+Wiseman
+   vs.
+   Dragon Slaying Squire
+
+#### 55 ####
+The final match...
+Wiseman
+   vs.
+   Dragon Slaying Slacker
+
+#### 56 ####
+The final match...
+Wiseman
+   vs.
+   Ponytailed Boxer
+
+#### 57 ####
+The final match...
+Wiseman
+   vs.
+   Ponytailed Youth
+
+#### 58 ####
+The final match...
+Wiseman
+   vs.
+   Ponytailed Squire
+
+#### 59 ####
+The final match...
+Wiseman
+   vs.
+   Ponytailed Slacker
+
+#### 60 ####
+The final match...
+Wiseman
+   vs.
+   Wandering Boxer
+
+#### 61 ####
+The final match...
+Wiseman
+   vs.
+   Wandering Youth
+
+#### 62 ####
+The final match...
+Wiseman
+   vs.
+   Wandering Squire
+
+#### 63 ####
+The final match...
+Wiseman
+   vs.
+   Wandering Slacker
+
+#### 64 ####
+The final match...
+Wiseman
+   vs.
+   Beloved Boxer
+
+#### 65 ####
+The final match...
+Wiseman
+   vs.
+   Beloved Youth
+
+#### 66 ####
+The final match...
+Wiseman
+   vs.
+   Beloved Squire
+
+#### 67 ####
+The final match...
+Wiseman
+   vs.
+   Beloved Slacker
+
+#### 68 ####
+The first match...
+Gonzalez
+   vs.
+   Dragon Slaying Boxer
+
+#### 69 ####
+The first match...
+Gonzalez
+   vs.
+   Dragon Slaying Youth
+
+#### 70 ####
+The first match...
+Gonzalez
+   vs.
+   Dragon Slaying Squire
+
+#### 71 ####
+The first match...
+Gonzalez
+   vs.
+   Dragon Slaying Slacker
+
+#### 72 ####
+The first match...
+Gonzalez
+   vs.
+   Ponytailed Boxer
+
+#### 73 ####
+The first match...
+Gonzalez
+   vs.
+   Ponytailed Youth
+
+#### 74 ####
+The first match...
+Gonzalez
+   vs.
+   Ponytailed Squire
+
+#### 75 ####
+The first match...
+Gonzalez
+   vs.
+   Ponytailed Slacker
+
+#### 76 ####
+The first match...
+Gonzalez
+   vs.
+   Wandering Boxer
+
+#### 77 ####
+The first match...
+Gonzalez
+   vs.
+   Wandering Youth
+
+#### 78 ####
+The first match...
+Gonzalez
+   vs.
+   Wandering Squire
+
+#### 79 ####
+The first match...
+Gonzalez
+   vs.
+   Wandering Slacker
+
+#### 80 ####
+The first match...
+Gonzalez
+   vs.
+   Beloved Boxer
+
+#### 81 ####
+The first match...
+Gonzalez
+   vs.
+   Beloved Youth
+
+#### 82 ####
+The first match...
+Gonzalez
+   vs.
+   Beloved Squire
+
+#### 83 ####
+The first match...
+Gonzalez
+   vs.
+   Beloved Slacker
+
+#### 84 ####
+Hey, are you gonna fight?
+Hmm {wait:64}
+...I'd say about 20 to 1.
+
+#### 85 ####
+Shoot, can't get any
+decent customers today.
+
+#### 86 ####
+Yo, dude!
+Try and pick the champion?
+
+#### 87 ####
+Citan
+"The champion of what?"
+
+#### 88 ####
+Huh?{wait:1E}
+The champion of
+the 'Tournament'!
+
+#### 89 ####
+Citan
+"Do they bet on
+this 'Tournament'?"
+
+#### 90 ####
+What
+What are you talking about?
+Tournaments ARE gambling!{enter}
+Why do you think people
+even come here? To bet on
+who will be champion! Duh!
+
+#### 91 ####
+Citan
+"Excuse us, we have only
+just arrived and know
+nothing of the Tournament."
+
+#### 92 ####
+Oh, tourists, huh?
+Well let me tell you about
+the Tournament.{enter}
+Every year they hold a big
+martial arts tournament 
+here in Aveh.{enter}
+Fighters from all over the
+world gather to see who's
+strongest. It's like a big
+brawl.{enter}
+Everyone goes wild over
+guessing who'll win. So,
+wanna give it a try?
+
+#### 93 ####
+Citan
+"Betting on the Tournament
+...Is that allowed at such
+a grand event"
+
+#### 94 ####
+You bet. The soldiers
+are crazy about it. If
+Kislev attacked tomorrow
+Aveh would be dust.{enter}
+What are you gonna do?
+Registration's not over
+yet, but all the strong
+ones have signed up.{enter}
+The rest are only after
+the consolation prizes
+anyway...
+
+#### 95 ####
+Citan
+"Let us wait and see.
+Some strong ones might
+still register."
+
+#### 96 ####
+Ha!
+What a buncha cowards.
+
+#### 97 ####
+To enter...{wait:1E}
+Or not to enter...{wait:1E}
+That is the question...
+
+#### 98 ####
+To watch inside...{wait:1E} 
+Or watch outside...{wait:1E}
+That is the question...
+
+#### 99 ####
+Get ready!
+It's starting soon!
+
+#### 100 ####
+Woo-hoo! This is gonna be
+HOT! I love the sound of
+folks smackin' each other!
+
+#### 101 ####
+I'm ready already...
+What's taking so long?
+
+#### 102 ####
+We're almost ready!
+
+#### 103 ####
+If I was only 10 years
+younger...cough...hack...
+I'd whip 'em all...cough.
+
+#### 104 ####
+I was born and raised in
+Dazil{wait:3C} but this is my 
+first Tournament.
+
+#### 105 ####
+This is the best place
+to see the action for free.
+I'm saving my space now!
+
+#### 106 ####
+Oh, hey! Those guys in
+front are in the way! That
+gets me sooo pissed!
+
+#### 107 ####
+I'm for the ones that
+pay out big. Don't know
+much about martial arts
+though.{enter}
+I sure could use a little
+extra house money.
+
+#### 108 ####
+My son's in it! I hope
+he doesn't get hurt. {wait:3C}
+I'm so worried he's going
+to get hurt.
+
+#### 109 ####
+My cousin's friend
+is gonna fight in it.
+Pretty cool, huh!
+
+#### 110 ####
+Hey, granpa...
+Let's bet on someone too.
+
+#### 111 ####
+No, betting's for losers.{enter}
+I brought you here because
+I want you to grow up and
+be a strong man.{enter}
+Strong enough to fight 
+in the Tournament someday.
+
+#### 112 ####
+Man, how lame.
+
+#### 113 ####
+I come every year. This
+is my third time. I only
+have to see 'em once to
+know who's the strongest.{enter}
+Are you fighting?{wait:3C}
+You look pretty strong.{wait:1E}
+Um, maybe a semi-finalist.
+Good luck.
+
+#### 114 ####
+If my guy wins...{wait:1E}
+I'm going to the bar and
+order the most expensive
+whiskey they have.{enter}
+Then I'm gonna ask that
+waitress out! I wonder what
+to get her for a present.
+
+#### 115 ####
+I'm betting on 
+Big Joe too.
+
+#### 116 ####
+Trust me.
+It's gonna be Big Joe.
+
+#### 117 ####
+I think Wiseman 
+is stronger...
+
+#### 118 ####
+Who's sarge betting on?
+
+#### 119 ####
+Me I'm for Big Joe.
+
+#### 120 ####
+No way, bad choice.
+He's all hot air.
+Believe me, Wiseman's 
+gonna win.
+
+#### 121 ####
+Shut up! I was right
+last time, I'm not 
+gonna listen to you.
+
+#### 122 ####
+Wow! You picked the champ
+last time? You musta got
+something like 50 to 1...
+
+#### 123 ####
+Yep and I blew it 
+all in a week. 
+Wah ha ha!
+
+#### 124 ####
+...What a waste.
+
+#### 125 ####
+Yep, that's the sarge. 
+He's a man's man.
+
+#### 126 ####
+Recently the fighters have
+been boring. It was better
+when the King was around.
+
+#### 127 ####
+These martial arts
+tournaments are okay...
+But what if Gears, not
+people, fought it out?
+I'd like to see that.
+
+#### 128 ####
+Hey, are you for 
+Joe too?
+
+#### 129 ####
+Big Joe's great 'cause
+he's kinda shady.
+Kids like you wouldn't
+understand.
+
+#### 130 ####
+Wanna join Joe's fan club?
+If you join, you can come
+to our weekly coffee.{enter}
+We have a dinner show
+once a month too.
+
+#### 131 ####
+Hey are you fightin'?
+Give it up. No way you 
+can beat Joe.
+
+#### 132 ####
+I want to see what kind
+of fighters came. The best
+men all joined the army.
+
+#### 133 ####
+I love pure fighting.
+Especially all those
+different styles!{wait:3C} I came
+all the way from Dazil.
+
+#### 134 ####
+I hate war and fighting.
+What? Oh I'm writing a book
+on the folly of mankind.
+

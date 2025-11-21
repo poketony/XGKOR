@@ -1,0 +1,177 @@
+#### 1 ####
+Citan
+"Oh my...
+What an exquisite portrait!{enter}
+And the beautiful young
+lady portrayed is quite
+beyond comparison too..."
+
+#### 2 ####
+Citan
+"What is more...{wait:1E}
+this looks rather
+familiar...!"
+
+#### 3 ####
+Citan
+"What do you think, Fei?"
+
+#### 4 ####
+Fei
+"Yes, I was just thinking
+the same thing.{enter}
+The hair is a different
+color, but the atmosphere
+or personality about her
+is exactly the same."
+
+#### 5 ####
+Citan
+"What? {wait:1E}
+Hair color?{wait:1E}
+What do you mean?"
+
+#### 6 ####
+Fei
+"What do I mean?
+Look...!{enter}
+It's the girl I met
+in the forest..."
+
+#### 7 ####
+Fei
+"It's Elly! I mean...
+there's something about her
+that's just like Elly..."
+
+#### 8 ####
+Fei
+"You don't think so...?"
+
+#### 9 ####
+Citan
+"Yes, now that you mention
+it...
+She does resemble Elly."
+
+#### 10 ####
+Citan
+"But that is not what I
+was talking about...{enter}
+I meant that the brush
+techniques and overall
+style used in this picture
+is similar to yours."
+
+#### 11 ####
+Fei
+"...Really?"
+
+#### 12 ####
+Fei
+"Does it...?"
+
+#### 13 ####
+Fei
+"First of all...
+I'm nowhere near
+as good an artist."
+
+#### 14 ####
+Citan
+"No...it is very similar
+to your style."
+
+#### 15 ####
+Citan
+"But somehow I can sense
+an atmosphere of sadness
+in this picture."
+
+#### 16 ####
+Citan
+"She is smiling, but in a
+way, gives the impression
+that she is anxious."
+
+#### 17 ####
+Citan
+"Perhaps the picture is
+reflecting her inner self?"
+
+#### 18 ####
+Citan
+"Or perhaps it is the
+inner feelings of the
+artist being conveyed."
+
+#### 19 ####
+Citan
+"Ahh...{enter}
+If you look closely,
+you will notice that
+the painting is not
+completely finished."
+
+#### 20 ####
+"The artist put his
+brushes down when it
+was near completion."
+
+#### 21 ####
+Citan
+"...Why is that?"
+
+#### 22 ####
+Margie
+"I don't know...{enter}
+But my grandmother
+might have known
+about it..."
+
+#### 23 ####
+Margie
+"Oh! What if we ask Agnes?
+She may know something."
+
+#### 24 ####
+Margie
+"Alright then, I'll
+be with Sister Agnes."
+
+#### 25 ####
+Bart
+"Well...shall we head
+back to the town for
+now?"
+
+#### 26 ####
+Citan
+"Yes, alright...{enter}
+But this painting has
+caught my curiosity.{enter}
+Do you mind if I speak
+to Sister Agnes before
+we head back to town?"
+
+#### 27 ####
+Bart
+"Yeah, okay...
+We'll stop by her
+room on the way out."
+
+#### 28 ####
+        La{wait:0A}ca{wait:0A}n{wait:0A}...
+
+#### 29 ####
+Citan
+"Is something wrong, Fei?
+You look like you are
+daydreaming..."
+
+#### 30 ####
+Fei
+"Huh?
+No...
+It's nothing..."
+

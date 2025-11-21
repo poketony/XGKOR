@@ -1,0 +1,18 @@
+#### 1 ####
+Bart
+"Rah hah hah!!
+That's the power of the
+Bart Missile!!{enter}
+Even Kislev's prototype
+can't stand up to it!!"
+
+#### 2 ####
+Bart
+"...Uh,
+hey{wait:0A}..."
+
+#### 3 ####
+Bart
+"S-stay back{wait:0A}...{wait:0A}
+Keep away!!"
+

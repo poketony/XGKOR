@@ -1,0 +1,125 @@
+<TextBlock 1 w:44 h:3>
+Bart
+"Fei, accada quel che
+accada, saremo sempre
+amici, giusto?"<Close><End of Block>
+<TextBlock 2 w:48 h:4>
+Bart
+"Sig… tu non cambierai,
+non importa cosa farò,
+non è vero?"<Close><End of Block>
+<TextBlock 3 w:40 h:3>
+Maison
+"Qual è il problema,
+Padroncino…?"<Close><End of Block>
+<TextBlock 4 w:48 h:3>
+Bart
+"Nah… immagino di dover
+fare ciò che mi è
+stato chiesto."<Close><End of Block>
+<TextBlock 5 w:54 h:4>
+Bart
+"Mia buona gente di Aveh…<New>
+È Bartolomeo Fatima, il
+19° re di Aveh, figlio
+di Edbart Fatima IV, 18°
+re di Aveh, a parlarvi.<New>
+Innanzitutto…<New>
+… debbo scusarmi per i
+problemi causati dalla
+mia ineluttabile e lunga
+assenza dal palazzo.<New>
+Voglio specialmente
+esprimere le mie
+condoglianze a coloro
+che…<New>
+… hanno perso i propri
+familiari nella guerra
+contro Kislev.<New>
+Io proclamerò
+immediatamente una
+tregua con Kislev…<New>
+… e inizierò a risarcire
+le vittime d'ambo i paesi.<New>
+Tutti i cittadini
+arruolati come soldati
+avranno inoltre il
+permesso di…<New>
+… ritornare alla
+propria casa.<New>
+Lavoriamo insieme,
+per la riedificazione
+di Aveh!"<Close><End of Block>
+<TextBlock 6 w:44 h:4>
+Bart
+"… Inoltre, ho un
+altro, l'ultimo, ma
+importante annuncio…<New>
+Una dichiarazione dal
+testamento di Edbart IV,
+il quale voleva solo pace
+per il suo regno, Aveh.<New>
+Io, Bartolomeo Fatima, il
+19° Re di Aveh, dichiaro
+solennemente che…<New>
+… d'ora in poi rinuncerò
+alla monarchia, e creerò
+la Repubblica di Aveh!"<Close><End of Block>
+<TextBlock 7 w:34 h:2>
+Sigurd
+"Padroncino…"<Close><End of Block>
+<TextBlock 8 w:36 h:3>
+Maison
+"Per Aveh, cosa
+state facendo…?"<Close><End of Block>
+<TextBlock 9 w:56 h:4>
+Bart
+"Questo è il volere di
+mio padre.<New>
+Mi spiace. Voi due avete
+lavorato per tanti anni
+molto duramente, per
+riportarmi sul trono.<New>
+Ora, io non posso ereditare
+il trono, né far altro
+a riguardo. Siete liberi
+di andare."<Close><End of Block>
+<TextBlock 10 w:50 h:2>
+Maison
+"Cosa state dicendo…?"<Close><End of Block>
+<TextBlock 11 w:30 h:2>
+Sigurd
+"Incredibile."<Close><End of Block>
+<TextBlock 12 w:32 h:2>
+Maison
+"Padron Sigurd?"<Close><End of Block>
+<TextBlock 13 w:48 h:3>
+Sigurd
+"Non riuscite a sentire
+la folla là fuori?<New>
+Vi hanno scelto come loro
+re. Sarete una persona
+davvero occupata."<Close><End of Block>
+<TextBlock 14 w:16 h:2>
+Bart
+"Sig…"<Close><End of Block>
+<TextBlock 15 w:40 h:3>
+Sigurd
+"Non vi serviranno
+degli assistenti
+competenti?"<Close><End of Block>
+<TextBlock 16 w:36 h:3>
+Bart
+"Beh… non mi costa
+nulla farlo."<Close><End of Block>
+<TextBlock 17 w:2 h:1>
+!<Opcode 2 30><Close><End of Block>
+<TextBlock 18 w:2 h:1>
+!<Opcode 2 30><Close><End of Block>
+<TextBlock 19 w:42 h:1>
+Proteggeremo Aveh!<Close><End of Block>
+<TextBlock 20 w:48 h:3>
+Questa è la ex-base
+di Geburah. È sotto
+ispezione, vietato
+entrare.<Close><Close><End of Block>

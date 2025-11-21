@@ -1,0 +1,301 @@
+#### 1 ####
+It{wait:03}...{wait:03}seems like{wait:08}
+we've drifted
+further off.
+
+#### 2 ####
+{wait:03}...{wait:05}Constantly{wait:05} drifting{wait:05}...{wait:0A}
+Sounds like me right now.
+
+#### 3 ####
+What do you mean?
+
+#### 4 ####
+I've just been {wait:03}drifting
+around...being lead by
+circumstances.
+
+#### 5 ####
+No{wait:03}...{wait:03}
+that's not right.{enter}
+In Aveh,{wait:03}
+you helped Bart
+when he needed it.{enter}
+And in Kislev,{wait:03}
+you gave your all
+to defend,{wait:08} to
+save everyone.{enter}
+You've even shown
+concern{wait:03} for me
+many times.
+
+#### 6 ####
+No{wait:03}...{wait:08}
+I'm {wait:03}just no good.
+
+#### 7 ####
+Why?{wait:03}
+
+#### 8 ####
+Probably deep inside,
+I'm not really trying
+to help.{enter}
+Somehow, I get the
+feeling that all I've
+done I did because I
+wanted to be needed.{enter}
+That if I did something
+for them{wait:03}...{wait:03}then maybe,
+{wait:03}I'd {wait:03}have a
+place to belong{wait:03}...{enter}
+There's a side of me that
+comforts itself like that.{enter}
+That doesn't mean I don't
+want to help.{wait:08} But, {wait:03}that
+doesn't mean I really want
+to help either.{enter}
+It might not be 'nothing',
+but it sure isn't the
+'whole' either.{enter}
+I'd been drifting, led
+around until I met you,
+Elly.{enter}
+Now, we're stranded out
+in the ocean.{enter}
+I'm sorry{wait:03}...{wait:08}I got
+you involved.
+
+#### 9 ####
+It's okay.{wait:03}
+Don't worry about me.{enter}
+I've been thinking{wait:03}
+why I'm here.{wait:03}{enter}
+I could've just
+gone back.{wait:03}
+But for some reason{wait:03}
+I didn't...{enter}
+Probably because
+you said it's better
+to do something
+than nothing.{enter}
+I think that's why
+I felt I had to do
+something.{enter}
+It's OK not to
+feel 'whole'.{wait:03}{enter}
+Even if you only feel
+partly complete, if
+you repeat that enough,
+eventually it'll be
+'whole'.{enter}
+A part{wait:03}...{wait:03}
+is better than
+zero.
+
+#### 10 ####
+You're right{wait:03}...{wait:08}
+I'm sorry{wait:03}...
+
+#### 11 ####
+Fei
+"If we're saved...{wait:0A}
+will you go back?"
+
+#### 12 ####
+Elly
+"I probably won't go back
+to my squad.{enter}
+Right now, I really don't
+want to be there{wait:05}...{enter}
+Besides,{wait:03} I could probably
+do something else...{wait:05}
+I don't have to be in the
+army.{enter}
+So, I'm thinking of going
+back to my country."
+
+#### 13 ####
+Fei
+"Is that possible?
+But what about the army?"
+
+#### 14 ####
+Elly
+"It's not like anyone
+knows what I did.{enter}
+They've probably already
+classified me as MIA."
+
+#### 15 ####
+Fei
+"Hmm.
+I hope at least
+you'll survive.{enter}
+I'm sure you'll
+find what you
+want to do in
+your life."
+
+#### 16 ####
+Elly
+"You said...
+something about...
+being{wait:14} comforted."
+
+#### 17 ####
+Fei
+"Yes."
+
+#### 18 ####
+Elly
+"Don't be too hard on
+yourself.{wait:05} Everyone wants
+to be needed at times.{enter}
+All of us want to give
+something inside ourselves
+to others to be accepted.{enter}
+...{wait:0A}Even me.{wait:0A}
+Remember how you forced
+yourself to eat those
+emergency rations?"
+
+#### 19 ####
+UUUURRRGHH!
+
+#### 20 ####
+Elly
+"Hey...{wait:0A}are you okay?"
+
+#### 21 ####
+Elly
+"I told you not to eat
+such a gross looking
+animal."
+
+#### 22 ####
+Fei
+"It tastes horrible. The
+last time I had food this
+bad was doc's cooking."
+
+#### 23 ####
+?
+
+#### 24 ####
+Fei
+"But unless we do
+something we're
+going to die."
+
+#### 25 ####
+Elly
+"I guess there's no other
+way. I was hoping to save
+this a little longer..."
+
+#### 26 ####
+Elly
+"This should hold us
+for another day...{enter}
+But it's only for emergency
+calories so I can't promise
+how good it'll taste."
+
+#### 27 ####
+Fei
+"Huh!?{wait:0A}
+What?{wait:0A}
+It's dry and crumbly?"
+
+#### 28 ####
+Elly
+"I thought so...
+You don't like it,
+do you?"
+
+#### 29 ####
+Fei
+"Wha? N, no...{wait:0A}
+It's good.
+Yeah, ah, it's great.{enter}
+Whatever you'd share
+with me couldn't be
+that bad, could it?"
+
+#### 30 ####
+Elly
+"You forced yourself to
+eat those rations earlier,
+didn't you?{enter}
+For me to survive, it
+would have been better
+not to share it.{enter}
+But, watching you eat it
+even though it tasted bad
+comforted me.{enter}
+I felt glad that I shared
+it with you... It made me
+feel a little better."
+
+#### 31 ####
+Fei
+"For your own sake?"
+
+#### 32 ####
+Elly
+"Yes,{wait:05} for my own sake.{wait:0A}
+Selfish, I admit.{enter}
+But, I think it's okay to
+be that way at first.{enter}
+But little by little you
+learn about your own
+happiness...{enter}
+And someday you are able to
+share that important part
+of you with someone else.
+Some...{wait:14}day."
+
+#### 33 ####
+Elly
+"Ah{wait:05}..."
+
+#### 34 ####
+Fei
+"?{wait:0A}
+What's up?"
+
+#### 35 ####
+Elly
+"...Nothing. It just felt
+as though I've told you
+the same thing long ago...{enter}
+It must be my imagination.
+I couldn't have said it to
+you before, because we've
+only just met, haven't we?"
+
+#### 36 ####
+Elly
+"Yes, it's probably
+just my imagination{wait:0A}..."
+
+#### 37 ####
+Fei
+"Elly!
+Hey, Elly!
+Wake up!"
+
+#### 38 ####
+Elly
+"Good morning, Fei.
+You're up early."
+
+#### 39 ####
+Fei
+"No time for formalities.
+Look at that!!"
+
+#### 40 ####
+Elly
+"Huh?"
+

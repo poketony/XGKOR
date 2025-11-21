@@ -1,0 +1,5 @@
+<TextBlock 1 w:44 h:4>
+<Opcode 1 255>Ramsus
+"È impazzito!<Delay 30>
+Fermatelo!<Delay 30> Non mi importa
+come,<Delay 10> ma fermatelo!"<Delay 60><Close><End of Block>

@@ -1,0 +1,36 @@
+<TextBlock 1 w:50 h:4>
+Robot Riparatore
+"Sembra che io mi sia…
+un po' perso qui.<New>
+Oh, e ho visto alcuni
+Gear che sembravano
+molto forti volare
+qua intorno.<New>
+Poi ho trovato queste cose
+durante i miei viaggi.
+Ti serve qualcosa…?"<New>
+    Ricambi Gear
+    Oggetti
+    Non mi fido
+    Nulla<Close><End of Block>
+<TextBlock 2 w:28 h:3>
+Robot Riparatore
+"Spero di rivederti."<Close><End of Block>
+<TextBlock 3 w:28 h:3>
+Robot Riparatore
+"Spero di rivederti."<Close><End of Block>
+<TextBlock 4 w:28 h:2>
+Robot Riparatore
+"Che crudeltà…"<Close><End of Block>
+<TextBlock 5 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 6 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 7 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 8 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><Close><End of Block>

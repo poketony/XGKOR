@@ -1,0 +1,481 @@
+#### 1 ####
+Hans
+"Geez...
+When it comes to him..."
+
+#### 2 ####
+Fei
+"So, what's happened with
+you lately. I didn't know
+you had a son?{enter}
+The kid who just left...
+seemed pretty angry about
+something."
+
+#### 3 ####
+Hans
+"I'm embarrassed you just
+saw that. {enter}
+I got married just before
+the Thames went down."
+
+#### 4 ####
+Hans
+"Her name is Anna. She's
+my wife. She was saved by
+the Thames when the ships
+were attacked by Reapers.{enter}
+Unfortunately, that's when
+she lost her husband{wait:0A}...
+Don't misunderstand me.{enter}
+It wasn't out of feeling
+sorry for her or anything
+like that{wait:0A}...{wait:14} Or...{wait:0A}
+Well, perhaps it was...{enter}
+I just wanted to protect
+her, that's all. If you
+call that feeling sorry,
+then I suppose I don't
+mind.{enter}
+The Captain teased me
+mercilessly. He said...{enter}
+ 'What! A cold guy like
+ you, seducing a widow?
+ Just make sure the kid
+ doesn't hate you...'{enter}
+Ha, ha... I guess the
+Captain was right.
+My stepson doesn't like
+me yet. 
+But I'm hoping someday..."
+
+#### 5 ####
+Fei
+"I see{wait:0A}...{wait:0A}
+Boy, you've changed!"
+
+#### 6 ####
+Hans
+"Ha, ha. You've changed
+too, Fei. I don't know
+how to explain it, but...{enter}
+As for me...well, I don't
+know what it is...
+I guess I've always had
+someone protecting me..."
+
+#### 7 ####
+Fei
+"Hans..."
+
+#### 8 ####
+Hans
+"Fei, I believe..."
+
+#### 9 ####
+Hans
+"I believe that one day,
+the Captain will come
+down that stairway...{enter}
+Tap-tap-tapping
+with his cane..."
+
+#### 10 ####
+Hans
+"And he'll say...{enter}
+ 'Haaaans! It looks like
+ we'll get our hands on
+ a priceless treasure!{enter}
+ What kind of face is
+ that? You don't believe
+ me, huh? This time it's
+ true...honest!'"
+
+#### 11 ####
+Hans
+"{wait:0A}...{wait:0A}Maybe{wait:0A}
+someday..."
+
+#### 12 ####
+Captain
+"Haaaans! It looks like
+we'll get our hands on
+a priceless treasure!"
+
+#### 13 ####
+!
+
+#### 14 ####
+Captain
+"What kind of
+face is that!?"
+
+#### 15 ####
+Hans
+"Ca, ca, {wait:0A}cap..."
+
+#### 16 ####
+Hans
+"Captain------!!"
+
+#### 17 ####
+Hans
+"What's this shouting out
+'Ca,ca captain------!!'?
+Cut it out, you fool!"
+
+#### 18 ####
+Hans
+"Do, {wait:0A}you know how much I
+was worried about you!?"
+
+#### 19 ####
+Captain
+"Hah!
+I've been telling
+you all along.{enter}
+Don't you get it?
+Now listen..."
+
+#### 20 ####
+Captain
+"Men...!"
+
+#### 21 ####
+Captain
+"Of the sea...!"
+
+#### 22 ####
+Captain
+"Never say die!"
+
+#### 23 ####
+Captain
+"Gha, ha, ha, ha-a-a-a!!"
+
+#### 24 ####
+Hans
+"You...{wait:0A}are...{wait:0A}
+such...a...."
+
+#### 25 ####
+Captain
+"Hans!
+This time it's true!{enter}
+It's an island with
+buried treasure.
+It's called 'Duneman
+Isle'.{enter}
+An ancient hero defeated
+a monster there, and now
+legend has it, his fabled
+sword rests there."
+
+#### 26 ####
+Hans
+"What info. do you have...?
+Do you know where the place
+is? What about a ship?"
+
+#### 27 ####
+Captain
+"Don't know where it is!
+Don't have a ship!
+Don't worry with details!{enter}
+Don't you know that
+attitude of yours is why
+that kid won't take to
+you?"
+
+#### 28 ####
+Hans
+"That's none of
+your business!"
+
+#### 29 ####
+Captain
+"Well, by the time that
+kid actually decides to
+like you...{enter}
+I'll have managed to get
+a new ship. Till then,
+give it all for your
+family, lad!!{enter}
+Give your family the
+love they need while you
+still have the chance.
+Ghar, har, har!!"
+
+#### 30 ####
+Anna
+"It hasn't been that long
+since my husband died{wait:0A}...{enter}
+Please don't think I'm a
+loose woman...{wait:0A} But it's
+because of this man that
+I{wait:0A}...(blush)..."
+
+#### 31 ####
+Lance
+"He is teaching me
+about the spirit of
+the men of the sea!"
+
+#### 32 ####
+Lance
+"I wish you were my dad.
+Can I call you Dad?"
+
+#### 33 ####
+Captain
+"Ghar, har, har!
+That's a laugh...{enter}
+A walrus with a
+penguin for a son!
+Ghar, har, har!"
+
+#### 34 ####
+Lance
+"I'm not a penguin!
+I'm a dolphin!!"
+
+#### 35 ####
+Captain
+"Oh?
+Hans is a penguin."
+
+#### 36 ####
+Lance
+"My dad is a dolphin, too!{enter}
+Oops...{wait:0A} Forget what I just
+said.{wait:0A} I didn't mean to call
+him dad!{wait:0A} Who would want a
+father like him!"
+
+#### 37 ####
+Captain
+"Ghar, har, har, ha-a-a!!"
+
+#### 38 ####
+Lance
+"I'll never call
+him 'Dad'."
+
+#### 39 ####
+Kanna
+"Enough, enough!
+I give in, already!
+I'm no match for you."
+
+#### 40 ####
+Kanna
+"Some flashy woman in
+Thames taught me a card
+game.{enter}
+Do you wanna play?"
+    Yes
+    No thanks
+
+#### 41 ####
+Then it's a challenge!
+
+#### 42 ####
+Chicken.
+
+#### 43 ####
+You're not my dad!!
+
+#### 44 ####
+Lance!!
+
+#### 45 ####
+Fei
+"Hans!
+Is that you!?"
+
+#### 46 ####
+Hans
+"You...!
+You're alive!?"
+
+#### 47 ####
+Fei
+"Yeah, you too...
+But if you're here that
+means the Thames was..."
+
+#### 48 ####
+Hans
+"The Thames{wait:0A}...{wait:0A}
+sank.
+The 'Angels' attacked...{enter}
+The Thames withstood the
+onslaught of Reapers, but
+was defenseless against
+those 'Angels'{wait:0A}...{enter}
+Hardly anyone got out in
+time...{wait:0A} They went down
+with the Thames{wait:0A}..."
+
+#### 49 ####
+Bart
+"Wha...wait a minute.
+What about the Captain?
+He's okay, right?"
+
+#### 50 ####
+Fei
+"What...? By the way,
+where is the Captain?
+What happened to him?"
+
+#### 51 ####
+Hans
+"The Captain...{wait:0A}said...{wait:0A}he'd
+watch the end of the Thames{wait:0A}
+with his own eyes{wait:0A}..."
+
+#### 52 ####
+Bart
+"Y, you're kidding, right?
+That ol' guy died...
+No way..."
+
+#### 53 ####
+Fei
+"The Captain's dead...
+No, that can't be..."
+
+#### 54 ####
+Hans
+"No!{wait:14}
+The Captain is alive.
+He is the kind that
+never keels over..."
+
+#### 55 ####
+...
+
+#### 56 ####
+Captain
+"What? How did I survive?
+Don't worry about those
+minor details!!{enter}
+If you worry about such
+things then kids'll hate
+you, just like they hate
+Hans, heh!"
+
+#### 57 ####
+Everyone's gonna die!!
+Booze!!
+Bring booze-e-e-e-e!!
+
+#### 58 ####
+Hey you, it's freezing
+in here. Can't you do
+something? This is not
+good for my complexion!
+
+#### 59 ####
+Plenty of good men are
+dead now...{enter}
+What kind of doctor am I
+if I can't save people dying
+right in front of me!?{enter}
+Why should an old man like
+me survive that...
+
+#### 60 ####
+Everyone's down, and
+they're the only ones
+looking happy.
+Annoying, isn't it?
+
+#### 61 ####
+A town without prisoners...
+How boring.
+But then again, the world
+itself is like a prison.
+
+#### 62 ####
+Kanna
+"I give up!
+I never thought I'd lose
+five times in a row.{enter}
+You're pretty good.
+I'll give you this."
+
+#### 63 ####
+ 
+ Received {str}.
+
+#### 64 ####
+Kanna
+"Gee, you're good!!
+You're having a {number(s):00} game
+winning streak!!{enter}
+Do you wanna continue?"
+    Sure
+    No thanks
+
+#### 65 ####
+Kanna
+"Your winning record will
+be wiped out if you do.{enter}
+Is that okay?"
+    Continue the game
+    No, I'll stop
+
+#### 66 ####
+Kanna
+"Hey!
+Are you running away
+with the winnings?"
+
+#### 67 ####
+Kanna
+"You're good."
+
+#### 68 ####
+Kanna
+"You're real good!
+Here, take this..."
+
+#### 69 ####
+ 
+ Received {str}.
+
+#### 70 ####
+Kanna
+"Do you wanna continue?"
+    Sure
+    No thanks
+
+#### 71 ####
+Kanna
+"You're no good.
+Come back later."
+
+#### 72 ####
+Kanna
+"Hum, pretty good.
+Well, it's a tie
+so far for today.{enter}
+Do you wanna continue?"
+    Sure
+    No thanks
+
+#### 73 ####
+Kanna
+"Your winning record will
+be wiped out if you do.{enter}
+Is that okay?"
+    Continue the game
+    No, I'll stop
+
+#### 74 ####
+Kanna
+"Hey!
+Are you running away?"
+

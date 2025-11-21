@@ -1,0 +1,478 @@
+#### 1 ####
+Citan
+"! {enter}
+Elly!"
+
+#### 2 ####
+Citan
+"Blood...?{enter}
+It certainly is covered
+in blood... And this...
+scorching heat... No,
+maybe it is radiation?{enter}
+Perhaps it is an emergency
+disinfection system...
+These marks are evidence
+that it has been used..."
+
+#### 3 ####
+Citan
+"! {enter}
+Elly!"
+
+#### 4 ####
+Citan
+"What the..."
+
+#### 5 ####
+Citan
+"This girl appears to be an
+artificial lifeform created
+inside the reactor.{enter}
+She was probably assembled
+in the reactor by using
+that series in the database
+in the control room...{enter}
+Her body is most likely..."
+
+#### 6 ####
+Citan
+"Wait right there!!"{clear:10}
+
+#### 7 ####
+Citan
+"Then, even their
+conversation was
+planned..."
+
+#### 8 ####
+Citan
+"...I believe, we have
+inadvertently helped
+you out."
+
+#### 9 ####
+Citan
+"What do you plan to
+do with this girl?
+What is she?"
+
+#### 10 ####
+Citan
+"'Salvation'?{wait:2D}
+Nice choice of words...{enter}
+But coming from you, I
+only smell the taint
+of blood within that
+word."
+
+#### 11 ####
+Citan
+"Be careful!!
+The Elements may look
+harmless!{enter}
+But underestimate them 
+and it will cost you
+dearly!"
+
+#### 12 ####
+Elly
+"...Blood...{wait:3F}
+covered in blood...{wait:2D}
+my...{wait:2D}blood...{enter}
+There was no pain.
+Just...coldness
+and sadness..."
+
+#### 13 ####
+Elly
+"She has been here
+all by herself for
+all this time..."
+
+#### 14 ####
+Elly
+"Be careful!!
+The Elements are Ramsus'
+elite fighters...{enter}
+They look harmless but
+they're really dangerous."
+
+#### 15 ####
+Elly
+"No, that's how they
+are normally!{enter}
+That's what makes them
+REALLY dangerous!!"
+
+#### 16 ####
+Elly
+"No!
+We can't allow them
+to take this child!"
+
+#### 17 ####
+Bart
+"Citan...what is...this?
+Not even rogue clusters 
+can regenerate this fast."
+
+#### 18 ####
+Bart
+"What the...
+Don't go mouthing off!
+Get outta my way!"
+
+#### 19 ####
+Bart
+"...{wait:2D}
+Are you serious
+about this..."
+
+#### 20 ####
+Billy
+"Citan...{wait:0A}
+This girl...?{enter}
+How did she suddenly
+change into human
+form...?"
+
+#### 21 ####
+Billy
+"Who in heavens are you!?
+We don't have time to
+waste talking to you!"
+
+#### 22 ####
+Billy
+"...{wait:2D}Do you guys just have
+too much free time on
+your hands?"
+
+#### 23 ####
+Billy
+"Bishop..."
+
+#### 24 ####
+Billy
+"An honorable person?
+I certainly do not think
+you are honorable anymore.{enter}
+Eliminating the 'Ethos'
+and any surface-dwelling
+humans who don't agree
+with your own will..."
+
+#### 25 ####
+Billy
+"...There is something
+very wrong with that.{enter}
+Salvation by faith is
+something that everyone
+should have an equal
+opportunity at attaining."
+
+#### 26 ####
+Billy
+"..."
+
+#### 27 ####
+Billy
+"Salvation or not...
+What are you planning on
+doing with this girl!?{enter}
+I just know your deeds
+are not honorable.{enter}
+Bishop...I am sorry to
+say this but...I cannot
+be a part of what
+you are intent on doing."
+
+#### 28 ####
+Rico
+"What's with this thing?
+Us demi-humans can't even
+heal at that speed."
+
+#### 29 ####
+Rico
+"You're don't know what
+you're sayin'...{enter}
+You really wanna fight?
+I'd prefer it if you'd
+just move outta the way."
+
+#### 30 ####
+Rico
+"...{wait:2D}If you're gonna be
+talking for a while,
+lemme go on ahead."
+
+#### 31 ####
+{name:07:チュチュ}
+"What is it? What is it?{enter}
+What's wrong with this
+girl? How come she's
+ready so soon?"
+
+#### 32 ####
+{name:07:チュチュ}
+"I think they're
+insulting us..."
+
+#### 33 ####
+{name:07:チュチュ}
+"How dare you say
+that chu a lady!!{enter}
+We don't have the
+time chu play now!
+Out of the way!"
+
+#### 34 ####
+{name:07:チュチュ}
+"...Can I go now?"
+
+#### 35 ####
+Stone
+"...Constructed from
+autonomic machines
+on a molecular scale...{enter}
+In other words, a colony
+of nanomachines."
+
+#### 36 ####
+Stone
+"I'll be taking that
+nanomachine colony
+with me, thank you...{enter}
+That is the existence, or
+key -factor-, which god
+will guide us by to free
+humanity from its yoke."
+
+#### 37 ####
+Stone
+"So, if you don't mind..."
+
+#### 38 ####
+Stone
+"Ah, Brother Billy.
+You're here too.
+This makes matters simple.{enter}
+I know you'll understand...
+This nanomachine colony 
+needs to be in the hands 
+of an honorable person.{enter}
+It's destined to be the
+'salvation of humanity'."
+
+#### 39 ####
+Stone
+"What is the problem with
+eliminating those people
+not fit for 'salvation'?{enter}
+Why, isn't our very faith
+based on the precept that
+'only the chosen will be
+saved'?"
+
+#### 40 ####
+Stone
+"Are you saying that you
+can save all of humankind?{enter}
+If Krelian uses the
+nanomachine colony, at
+least we can save some
+chosen people.{enter}
+But you don't understand
+how to utilize this.
+You can't save anyone.{enter}
+Are you willing to take
+the responsibility for
+the loss you will cause
+humankind?"
+
+#### 41 ####
+Stone
+"My job now is to bring
+this nanomachine colony
+back to Krelian.{enter}
+You see, unlike the
+'Ethos', our aim is not
+the ancient weapons that
+lay in the city ruins.{enter}
+I don't think we conflict
+with your interests."
+
+#### 42 ####
+Stone
+"I see that I couldn't
+make you understand...{wait:20}
+Then it cannot be helped...{enter}
+I don't have the time to
+convince you further.
+Please excuse me, as I
+must hurry on ahead."
+
+#### 43 ####
+Stone
+"Sorry to have kept you 
+two ladies waiting...{enter}
+It's time for you to do
+your job, Elements."
+
+#### 44 ####
+Stone
+"Tolone! Seraphita!
+Buy me as much time
+as possible!"
+
+#### 45 ####
+Stone
+"Thanks.
+I'm hopeless
+with machines."
+
+#### 46 ####
+Stone
+"Actually, Krelian hasn't
+told me very much.{enter}
+Nothing apart from the
+'Salvation of Humankind'.{enter}
+Anyway, even if I knew
+I wouldn't tell you..."
+
+#### 47 ####
+...Hmph!
+
+#### 48 ####
+Tolone
+"We know, we know!
+Stop ordering us
+around, already!"
+
+#### 49 ####
+Tolone
+"Yeah, right.
+It's only because it
+is on Ramsus orders.{enter}
+Jeez...!
+Now he's got us
+protecting this
+garbage."
+
+#### 50 ####
+Tolone
+"Well, that's how it is
+folks...It'll help us if
+you'd hurry up and lose."
+
+#### 51 ####
+Tolone
+"Well, excu゛se us!
+But we can't let you go
+just yet...{enter}
+We really don't care much
+for Krelian, but if we do
+a crappy job it'll make
+Ramsus look bad.{enter}
+But, thanks to you fools
+reviving her, we can get
+this mission over with
+sooner than we thought."
+
+#### 52 ####
+Tolone
+"Oh Sera...
+Don't tell them that!{enter}
+Just as I was building
+things up to make us sound
+psychologically superior
+to them! Damn..."
+
+#### 53 ####
+Tolone
+"That's 'Positronic-photon
+Brain', you idiot!{enter}
+'Gin n'tonic Futon'...?
+You make me sound like I'm
+a sleepy drunk!{enter}
+(It's already bad enough
+as it is...
+'Positronic-photon Brain
+Cyborg'...{enter}
+That's bound to get us
+into trouble with the
+makers of 'Star Trech'!)"
+
+#### 54 ####
+Tolone
+"Uh oh!! Sorry."
+
+#### 55 ####
+Tolone
+"That's it!!"
+
+#### 56 ####
+Tolone
+"Seraphita!!
+Enough already!{enter}
+We've done the job
+that was required
+of us.
+Let's pull out!!"
+
+#### 57 ####
+Seraphita
+"Hey, Tolone. Let's hurry
+up and get this over with
+so we can get outta here!{enter}
+I don't like dark places!"
+
+#### 58 ####
+Seraphita
+"Hey! Tolone!
+It's so cute{wait:10}...{enter}
+But on second thought,
+it's creepy!!"
+
+#### 59 ####
+Seraphita
+"Yeah, we didn't know how
+to operate that machinery,
+so we were so confused!{enter}
+Thank you very much
+for your kind help!"
+
+#### 60 ####
+Seraphita
+"What!...But...{enter}
+When people do you a
+kindness you should always
+say thank you. That's what
+grandma always said..."
+
+#### 61 ####
+Seraphita
+"But, I'm impressed Tolone!
+'Psychologically superior'?{enter}
+Your 'Gin n'tonic Futon
+Brain' cyborg inplants
+sure make you smart!"
+
+#### 62 ####
+Seraphita
+"Sorry!!"
+
+#### 63 ####
+Seraphita
+"...Tolone,
+do we want to be 
+called 'harmless'?"
+
+#### 64 ####
+Seraphita
+"A゛hh!
+Tolone!
+Wait for me!"
+

@@ -1,0 +1,54 @@
+<TextBlock 1 w:14 h:2>
+Shitan
+"Fei!!"<Close><End of Block>
+<TextBlock 2 w:26 h:3>
+Bart
+"Sapevo che saresti
+arrivato!!"<Close><End of Block>
+<TextBlock 3 w:46 h:4>
+Fei
+"Parleremo dopo!<New>
+Abbiamo un grosso
+problema che ci sta
+cadendo addosso!"<Close><End of Block>
+<TextBlock 4 w:48 h:4>
+Shitan
+"So di essere un po'
+arruginito…<New>
+C'è un limite a ciò
+che posso imparare…<New>
+… considerando come
+ho iniziato tardi
+nella mia vita.<New>
+Nondimeno, ho colpito
+quel tipo duramente,
+e non è crollato.<New>
+Devono star usando
+'quella cosa'."<Close><End of Block>
+<TextBlock 5 w:46 h:4>
+Shitan
+"Giovane!<Delay 10>
+Stanno usando la
+-Drive-!<New>
+Sono droghe atte
+ad accrescere le
+capacità in battaglia.<Delay 10><New>
+Gli attacchi normali
+non faranno loro nulla!"<Close><End of Block>
+<TextBlock 6 w:36 h:4>
+Bart
+"Dici sul serio?
+È per questo che
+resistono, eh?<New>
+Merda…
+Non finirà mai!"<Close><End of Block>
+<TextBlock 7 w:14 h:2>
+Shitan
+"Fei!!"<Close><End of Block>
+<TextBlock 8 w:26 h:4>
+Bart
+"Va tutto bene!
+Ce la caveremo
+senza di lui!"<Close><End of Block>
+<TextBlock 9 w:0 h:1>
+<Close><End of Block>

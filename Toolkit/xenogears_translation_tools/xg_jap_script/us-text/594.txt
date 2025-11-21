@@ -1,0 +1,16 @@
+#### 1 ####
+Fei
+"The mapping of
+the inside of Deus
+is now complete.{enter}
+Okay!{wait:14}
+Let's go everyone!"
+
+#### 2 ####
+{fast:FF}Do you want to go back?
+    Yes
+    No
+
+#### 3 ####
+It's 1006.
+

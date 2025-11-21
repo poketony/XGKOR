@@ -1,0 +1,891 @@
+<TextBlock 1 w:56 h:11>
+L' 'Arma Mobile Suprema'
+di Solaris invase l'area
+in gran numero<Delay 5>…
+Le armate di Shevat e
+di Nisan, formate da
+Gear di tipo comune,
+non poterono resistere.<Delay 45>
+ 
+Non ci sarebbe voluto
+molto prima che l'Arma
+Mobile di Solaris
+arrivasse a Nisan.<New>
+Dopo aver respinto le
+unità Gear solariane, ci
+dirigemmo a Nortune<Delay 5>…<Delay 5>
+Al distretto amministrativo
+della capitale Kislev.<Delay 15>
+ 
+Andammo là per ottenere
+l'unico e solo mezzo
+adatto ad opporsi
+all'Arma Mobile.<Close><End of Block>
+<TextBlock 2 w:54 h:9>
+L'Arma Mobile di Solaris
+fu distrutta<Delay 5>…<Delay 5> ed un
+sospiro di sollievo
+percorse il continente
+di Ignis.<Delay 45>
+ 
+La pace fu firmata e dopo
+circa 500 anni di divisione,
+la terra di Ignis fu di
+nuovo unita.<Close><End of Block>
+<TextBlock 3 w:60 h:2>
+L'entusiasmo si diffuse in
+Aveh, Nisan, Kislev, Shevat<Delay 5>…<Delay 5><Close><End of Block>
+<TextBlock 4 w:52 h:6>
+Il cielo brillò come per
+celebrare. Dalle mani di
+Elly, Shitan, Taura ed
+Esmeralda, le nanomacchine
+furono disperse nella
+atmosfera.<Close><End of Block>
+<TextBlock 5 w:60 h:4>
+Fu allora che avvenne il
+disastro<Delay 5>…<Delay 5> Le grida di
+giubilo furono sostituite
+dal rumore del caos<Delay 5>…<Delay 5><Close><End of Block>
+<TextBlock 6 w:54 h:7>
+All'inizio non avevamo
+idea di quel che accadeva.
+Noi<Delay 5>…<Delay 5> testimoni di
+un fenomeno inspiegabile.
+In ogni parte del globo
+la gente iniziò a mutare
+in forme anomale.<Close><End of Block>
+<TextBlock 7 w:56 h:8>
+Tutto sembrò iniziare
+quando le nanomacchine
+rimossero il Limitatore,
+il sigillo piazzato sul
+genere umano da Krelian
+nel passato…<Delay 30>
+ 
+…<Delay 5> La forma 'umana' con le sue
+capacità innate fu liberata.<Close><End of Block>
+<TextBlock 8 w:50 h:7>
+Fu allora che ricordai
+ciò che Hammer aveva
+detto a Solaris.<Delay 30>
+ 
+Le sue parole furono<Delay 5>…<Delay 5>
+ "Cosa<Delay 3> ne sarà<Delay 3> degli<Delay 3>
+ uomini<Delay 3> normali<Delay 3>…<Delay 5>?"<Close><End of Block>
+<TextBlock 9 w:60 h:10>
+Dopo di ciò, andammo di luogo
+in luogo, distruggendo gli
+impianti del Sistema Soylent
+localizzati sulla superficie
+della terra e liberando la
+gente lì imprigionata.<Delay 15>
+ 
+Tutta la gente che era stata
+mutata fu portata a Nisan,
+dove veniva curata.<Close><End of Block>
+<TextBlock 10 w:60 h:9>
+Coloro mutati in modo
+moderato furono trattati
+con le nanomacchine di
+Taura, le quali li
+rimettevano a nuovo.
+ 
+Essi poterono riottenere
+il loro corpo normale.<New>
+ 
+Sfortunatamente, per alcuni
+di essi la mutazione era così
+avanzata che il trattamento
+non aveva effetto<Delay 5>…<Close><End of Block>
+<TextBlock 11 w:52 h:10>
+Riportarli ad una forma
+il più vicino possibile a
+quella originaria fu il
+meglio che si poté fare.<Delay 45>
+ 
+Poi,<Delay 5> misteriosamente,
+smisero di combattere gli uni
+contro gli altri per poter
+sopravvivere, come facevano
+quando essi erano mantenuti
+dal Sistema Soylent.<Close><End of Block>
+<TextBlock 12 w:56 h:11>
+Di sicuro, la guarigione
+dal dolore fisico della
+mutazione probabilmente
+giocò il suo ruolo,<Delay 5> ma
+non fu solo per quello<Delay 5>…<Delay 30>
+ 
+La maggioranza della gente
+accolta da Nisan era quella
+che era stata ammonita da
+Elly e che aveva ritrovato
+la sua umanità.<Close><End of Block>
+<TextBlock 13 w:60 h:9>
+Oltre alla distruzione
+degli impianti del Sistema
+Soylent, Elly si occupava
+anche della gente di Nisan.<Delay 30>
+ 
+Lei curava i corpi dei
+mutanti e prestava attenzione
+a coloro che non avevano
+alcun posto in cui andare<Delay 5>…<Delay 5><Close><End of Block>
+<TextBlock 14 w:58 h:8>
+Era l'immagine della donna
+che aveva creato Nisan<Delay 5>…<Delay 15>
+ 
+    'Madre Sofia'<Delay 5>…<Delay 45>
+ 
+Si diffuse la voce che<Delay 5> Elly
+fosse la reincarnazione o
+il secondo avvento di Sofia.<Close><End of Block>
+<TextBlock 15 w:50 h:8>
+Vai a Nisan e otterrai
+la salvezza<Delay 5>…<Delay 30>
+ 
+La notizia<Delay 5> si diffuse e
+la gente venne da tutte le
+parti del globo in cerca
+di salvezza, sia materiale
+sia spirituale.<New>
+ 
+Liberi dalla supervisione
+di Solaris, gli abitanti
+della superficie iniziarono
+a unirsi in un solo posto.<Close><End of Block>
+<TextBlock 16 w:56 h:10>
+Benché l'impatto iniziale
+dall'essere liberati dal
+Limitatore avesse causato
+del caos momentaneo, ogni
+cosa lentamente si sistemò.<New>
+Allora iniziammo la ricerca
+dei 'Contenitori dell'Anima'<Delay 5>…<Delay 5>
+I catalizzatori che
+trasformano i Gear
+in Omnigear.<Delay 30>
+ 
+Nel passato, erano stati
+recuperati 10 Contenitori<Delay 5>…<Delay 15>
+Si diceva che circa la
+metà di essi fosse nelle
+mani del Ministero.<Close><End of Block>
+<TextBlock 17 w:58 h:11>
+Secondo Zefiro,<Delay 5> ce n'erano
+molti di più nascosti
+per la terra.<Delay 30>
+ 
+Allora sapevamo solo che
+Solaris era certamente
+alla loro ricerca.<Delay 5>
+ 
+Non potevamo permettere a
+Solaris di averli.<New>
+Visitammo il luogo dove,<Delay 5>
+secondo vecchie registrazioni,<Delay 5>
+Zefiro e la sua gente
+nascosero indizi su dove
+fossero i Contenitori.<Delay 10>
+ 
+Seguendo le informazioni
+da lì ottenute,<Delay 5> ci
+dirigemmo alle rovine di<Delay 5>
+quella che pareva essere<Delay 5>
+un'antica civiltà.<Close><End of Block>
+<TextBlock 18 w:60 h:10>
+Sfuggendo agli Elementi,
+che cercavano il Contenitore
+per realizzare i desideri di
+potere di Ramsus…<Delay 15>
+ 
+… iniziammo di nuovo la nostra
+ricerca di informazioni…<Delay 30>
+ 
+… sul luogo in cui trovare
+l'ultimo Contenitore conosciuto<Delay 5>…<Close><End of Block>
+<TextBlock 19 w:60 h:9>
+Avendo completato l'allineamento
+del primo Contenitore dell'Anima
+con Billy, ci fu un notevole
+cambiamento nelle sembianze
+e nella struttura del suo Gear.<New>
+I Contenitori erano unità
+che si fondevano con
+l'inorganico<Delay 5>…<Delay 30>
+ 
+Naturamente, non avevamo idea
+del perché questi Contenitori
+fossero stati creati.<Delay 5>
+Ma il fatto che giocassero il
+ruolo di un qualche tipo di
+arma era chiaro come il sole.<Close><End of Block>
+<TextBlock 20 w:54 h:12>
+Alla fine il loro vero
+potere sarà liberato<Delay 5>…<Delay 15>
+E non possiamo permettere
+che questo potere cada in
+mani malvagie.<Delay 30>
+ 
+Allo scopo di ottenere
+l'ultimo Contenitore,<Delay 5> ci
+dirigemmo verso rovine
+considerate antiche di
+oltre 10000 anni.<New>
+…<Delay 5> Quello che restava della
+prima civiltà sul nostro
+pianeta.<Close><End of Block>
+<TextBlock 21 w:44 h:4>
+E là<Delay 5>…<Delay 30>
+ 
+… un vecchio 'amico' ci
+stava aspettando<Delay 5>…<Close><End of Block>
+<TextBlock 22 w:60 h:7>
+Hammer scomparve
+nell'abisso con uno
+sguardo di soddisfazione<Delay 5>…<Delay 30>
+ 
+Era felice perché era stato
+capace di raggiungerlo<Delay 5>…?<Delay 15>
+'Il suo breve attimo di
+potere'<Delay 5>…<New>
+Il sorriso di Hammer<Delay 5>…<Delay 15>
+Era la gioia per aver
+raggiunto il potere<Delay 5>…?<Delay 15>
+O era dovuto al sollievo
+dal dolore causatogli dalla
+sua mutazione<Delay 5>…?<Close><End of Block>
+<TextBlock 23 w:58 h:9>
+Alla fine,<Delay 5> non avemmo scelta
+se non sconfiggere il nostro<Delay 5>
+'amico',<Delay 5> Hammer,<Delay 5> per
+poter sopravvivere<Delay 5>…<Delay 45>
+ 
+Non c'era altro modo<Delay 5>…?<Delay 15>
+Non avevo mai pensato
+che combattere fosse
+così inutile fino ad ora<Delay 5>…<Close><End of Block>
+<TextBlock 24 w:54 h:9>
+Elly pianse a lungo<Delay 5>…<Delay 30>
+Lei odiava se stessa per
+non essere stata capace
+di aiutarlo.<Delay 30>
+ 
+Quando la vidi in quello
+stato, non potei fare a
+meno di pensare<Delay 5>…<Delay 15>
+Non le permetterò più di
+combattere così<Delay 5>…<New>
+Ritornammo ad Ignis<Delay 5>…<Delay 5>
+sentendo che la situazione
+era giunta ad un punto limite<Delay 5>…<Close><End of Block>
+<TextBlock 25 w:50 h:7>
+Mi sentivo impotente<Delay 5>…<Delay 45>
+ 
+Restavo lì impalato a
+guardarli portare Elly
+lontano da me<Delay 5>…<Delay 60>
+ 
+Io<Delay 5>…<Delay 15> sono un debole<Delay 5>…<Close><End of Block>
+<TextBlock 26 w:26 h:3>
+Wiseman
+"Cosa stai
+facendo qui?"<Close><End of Block>
+<TextBlock 27 w:50 h:4>
+Fei
+"Oh, sei tu<Delay 5>…<Delay 5>
+Io<Delay 5>…<Delay 5> non sono riuscito
+a battere Grahf<Delay 5>…<Delay 15><New>
+Non ho la benché minima
+possibilità contro di
+lui<Delay 5>…<New>
+È stato chiaro fin dal
+principio."<Close><End of Block>
+<TextBlock 28 w:54 h:4>
+Fei
+"Era impossibile provare
+a sconfiggere un mostro
+come quello<Delay 5>…<New>
+E<Delay 5>…<Delay 5> Elly<Delay 5>…<Delay 5>
+Perché è stata così
+dannatamente insensata<Delay 5>…?"<Close><End of Block>
+<TextBlock 29 w:50 h:4>
+Fei
+"Le avevo fatto capire
+di non venire<Delay 5>…<Delay 15>
+Le ho detto di fuggire<Delay 5>…<New>
+Avrebbe dovuto sapere
+che era una trappola…"<Close><End of Block>
+<TextBlock 30 w:22 h:2>
+Wiseman
+"…<Delay 5> Mmh<Delay 5>…"<Space 1><Close><End of Block>
+<TextBlock 31 w:52 h:3>
+Wiseman
+"Sì, non potrai mai
+sconfiggerlo in quel
+modo<Delay 5>…<New>
+… finché continuerai
+a combattere con
+questo spirito…"<Close><End of Block>
+<TextBlock 32 w:12 h:2>
+Fei
+"<Delay 5>…<Delay 5>?<Delay 5>"<Close><End of Block>
+<TextBlock 33 w:52 h:4>
+Wiseman
+"Sai la ragione per cui
+hai perso e quella
+ragazza catturata?<New>
+Il tuo orgoglio.
+Stavi contando troppo
+sul potere della tua
+macchina…<New>
+…<Delay 5> Per non parlare del
+nuovo<Delay 5> 'Potere Id'<Delay 5> che ora
+riesci a controllare!<New>
+Dimmi, sai qual è la
+fonte del potere di
+Grahf?<New>
+La sua macchina?<Delay 15> La
+sua tecnica?<Delay 15> La sua
+esperienza?<New>
+No, nulla di tutto ciò<Delay 5>…<Delay 45>
+È qualcosa che è
+dentro<Delay 5> di lui.<New>
+Il suo cuore,<Delay 5> le sue
+emozioni<Delay 5> sono 
+dominati dall'odio e dal
+risentimento verso…<New>
+… questo mondo.
+Quest'odio è la sua
+fonte di potere.<New>
+Le tue emozioni non
+erano focalizzate
+abbastanza per vincere
+contro Grahf.<New>
+Non potrai mai vincere
+se<Delay 15> non sai quello che
+fai e perché lo fai.<Delay 15>
+Quella<Delay 15> è forza."<Close><End of Block>
+<TextBlock 34 w:38 h:4>
+Wiseman
+"Non sono sorpreso
+che tu abbia perso<Delay 5>…<New>
+…<Delay 5> vedendo che non
+capisci il vero
+significato di
+'forza'<Delay 5>…"<Close><End of Block>
+<TextBlock 35 w:24 h:2>
+Fei
+"Wiseman<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 36 w:54 h:4>
+Wiseman
+"Quella ragazza<Delay 5>…<New>
+Desiderava un'unica
+cosa… salvarti.<New>
+Si è liberata della sua
+paura ed ha pilotato
+quella macchina."<Close><End of Block>
+<TextBlock 37 w:52 h:4>
+Wiseman
+"È stato perché lei
+era convinta che tu
+fossi ancora vivo<Delay 5>…<New>
+Ecco ciò che penso.<Delay 15>
+Sei stato sconfitto,
+è vero.<Delay 15> Ma ciò non
+significa che è finita."<Close><End of Block>
+<TextBlock 38 w:32 h:4>
+Wiseman
+"Quale sarà ora
+la tua prossima
+mossa?<New>
+Ora tocca a
+te salvarla<Delay 45>…
+<Delay 5>non è così?"<Close><End of Block>
+<TextBlock 39 w:10 h:2>
+Fei
+"<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 40 w:32 h:4>
+Wiseman
+"Beh, che cosa
+farai?<Delay 45>
+…<Delay 5> Fei<Delay 5>…"<Close><End of Block>
+<TextBlock 41 w:32 h:3>
+Fei
+"Io,<Delay 5> ehmm<Delay 5>…<Delay 15>
+Io farò<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 42 w:56 h:11>
+Per salvare Elly,
+iniziammo a cercare
+disperatamente il
+luogo dove era tenuta…<Delay 30>
+ 
+E,<Delay 5> due settimane
+dopo, la trovammo.<New>
+Usando i dati ottenuti
+da Raziel e dalla sua
+avanzata tecnologia,<Delay 5>
+Krelian iniziò la
+costruzione dell'arca
+di dio, il<Delay 5> 'Merkabah'.
+La sua attivazione
+era imminente.<Delay 45>
+ 
+Per prevenire la sua
+attivazione,<Delay 5> e salvare
+Elly<Delay 5>…<Delay 5> ci dirigemmo
+verso il<Delay 5> Merkabah!<Close><End of Block>
+<TextBlock 43 w:46 h:4>
+Fei
+"Ancora voi<Delay 5>…?<Delay 30>
+Anche voi vi state
+dirigendo là?"<Close><End of Block>
+<TextBlock 44 w:54 h:4>
+Dominia
+"Non fraintendere.<Delay 10>
+Vogliamo solo aiutare
+il nostro Comandante.<New>
+Miang e Krelian hanno
+manipolato le sue emozioni
+al solo scopo di eliminare
+l'Imperatore.<New>
+Vogliamo liberare il
+Comandante da questi
+vincoli così che possa
+essere salvato!<New>
+Non è né per la salvezza
+del mondo<Delay 5>…<Delay 15>
+né per la salvezza della
+tua ragazza, Elhaym!"<Close><End of Block>
+<TextBlock 45 w:50 h:4>
+Dominia
+"Non abbiamo intenzione
+di combattere al vostro
+fianco!"<Close><End of Block>
+<TextBlock 46 w:48 h:4>
+Fei
+"<Delay 5>…<Delay 5> È giusto.<New>
+Voi avete la vostra
+battaglia da combattere,<Delay 5>
+e noi la nostra<Delay 5>…<Delay 5>
+Limitiamoci a questo."<Close><End of Block>
+<TextBlock 47 w:48 h:4>
+Fei
+"Ma<Delay 5>…<Delay 5>
+se le cose si mettono
+male, tornate indietro.<New>
+Ci penseremo noi."<Close><End of Block>
+<TextBlock 48 w:54 h:4>
+Dominia
+"Mmph<Delay 5>…<Delay 15> Ti farò
+rimangiare queste parole<Delay 5>…<Delay 5>
+Aspetta e vedrai!"<Close><End of Block>
+<TextBlock 49 w:56 h:11>
+Entrammo all'interno
+del Merkabah e,<Delay 5> mentre
+respingevamo armi che si
+rigeneravano con l'uso delle
+nanomacchine,<Delay 5> ci dirigemmo
+al nucleo centrale<Delay 5>…<Delay 5>
+ 
+Fu allora che<Delay 5>…<Delay 5>
+ 
+… di nuovo,<Delay 5> Ramsus
+apparve di fronte a noi.<Close><End of Block>
+<TextBlock 50 w:50 h:7>
+Dio<Delay 5>…<Delay 5>
+l'arma interplanetaria
+di invasione -Deus-<Delay 5>…<Delay 5>
+fu destato e la sua arca…
+ 
+… il Merkabah…
+ 
+… fu attivata.<Close><End of Block>
+<TextBlock 51 w:54 h:12>
+Deus iniziò ad assorbire,<Delay 5> una
+dopo l'altra,<Delay 5> le persone
+mutanti,<Delay 5> destinate ad
+essere sue parti<Delay 5>…<Delay 45>
+ 
+Mentre i non-mutanti<Delay 5> sarebbero
+potuti diventare per lui
+solo una minaccia.<Delay 5>
+Per sterminare noi e
+la nostra civiltà<Delay 5>…<Delay 30>
+ 
+… si mise in azione.<Close><End of Block>
+<TextBlock 52 w:50 h:8>
+L'intera superficie del
+pianeta fu devastata<Delay 5>…<Delay 5>
+ 
+<Delay 5>…<Delay 5> dal Merkabah<Delay 5> e
+dalle armi da esso
+generate,<Delay 5> chiamate<Delay 5>…<Delay 45>
+ 
+'gli Angeli -<Delay 5>Serafini<Delay 5>-'.<Close><End of Block>
+<TextBlock 53 w:56 h:12>
+Mentre davamo la caccia a
+Deus, da poco destatosi,<Delay 15>
+c'imbattemmo in Fei,<Delay 5> le cui
+tracce si erano perse<Delay 5>…<Delay 45>
+ 
+Insieme al suo Gear,<Delay 5>
+<Weltall><Delay 5>…<Delay 15>
+ 
+Scoprimmo insieme<Delay 5> il luogo
+dove il<Delay 5> 'Merkabah'<Delay 5> era
+situato in origine<Delay 5>…<Close><End of Block>
+<TextBlock 54 w:54 h:10>
+Fummo felici quando
+sapemmo del ritorno
+di Fei,<Delay 10> ma…<Delay 10>
+… la gioia fu di breve
+durata<Delay 5>…<Delay 45>
+ 
+Per qualche sconosciuta
+ragione<Delay 5>…<Delay 15> Fei fu trovato<Delay 5>
+in uno stato di<Delay 10>
+animazione sospesa.<Delay 60>
+ 
+Egli non si svegliava.<Close><End of Block>
+<TextBlock 55 w:44 h:9>
+La gente di Shevat,<Delay 5> e noi
+stessi,<Delay 5> temendo una
+ricaduta<Delay 5> di Fei,<Delay 10> no<Delay 5>…<Delay 10>
+del potere di<Delay 5> Id<Delay 5>…<Delay 15>
+non avemmo scelta se non
+congelare Fei nella<Delay 5>…<Delay 60>
+ 
+'Carbonite'.<Close><End of Block>
+<TextBlock 56 w:48 h:4>
+Shitan
+"<Delay 5>…<Delay 5> Vostra Maestà.<Delay 30>
+Perché Shevat teme
+così tanto Fei?<New>
+Anche se il potere
+di Grahf e quello di
+Id sono simili<Delay 5>…"<Close><End of Block>
+<TextBlock 57 w:28 h:4>
+Regina Zefiro
+"<Delay 5>…<Delay 30>
+Non è che
+temiamo lui."<Close><End of Block>
+<TextBlock 58 w:42 h:3>
+Regina Zefiro
+"Noi…<New>
+… abbiamo paura
+dell'errore che noi
+stessi commettemmo.<New>
+Ora cerchiamo solo
+di porre rimedio
+ad esso<Delay 5>…"<Close><End of Block>
+<TextBlock 59 w:44 h:3>
+Shitan
+"L'errore che voi
+stessi commetteste?"<Close><End of Block>
+<TextBlock 60 w:54 h:4>
+Regina Zefiro
+"500 anni fa…<New>
+… Shevat provocò una
+battaglia per ottenere
+l'indipendenza da
+Solaris.<Delay 40><New>
+Ma…<Delay 5> fummo sopraffatti
+dalla brama di potere<Delay 5>…<New>
+Temendo che la gente
+abbandonasse Shevat, per
+seguire gli insegnamenti
+della Madre di Nisan<Delay 5>…<New>
+… e che si sarebbe
+riunita sotto Sofia<Delay 5>…<New>
+…<Delay 5> il Concilio degli
+Anziani di Shevat di
+allora…<Delay 5> fece un
+accordo con Solaris."<Close><End of Block>
+<TextBlock 61 w:18 h:2>
+Shitan
+"Un accordo?"<Close><End of Block>
+<TextBlock 62 w:16 h:2>
+Regina Zefiro
+"Sì<Delay 5>…"<Close><End of Block>
+<TextBlock 63 w:50 h:4>
+Regina Zefiro
+"A quel tempo, Solaris<Delay 5>…<Delay 5>
+o il Ministero di Gazel
+per essere esatti<Delay 5>…<New>
+…<Delay 5> era in conflitto
+con una donna che da
+dietro la scena tirava
+i fili del potere."<Close><End of Block>
+<TextBlock 64 w:42 h:3>
+Shitan
+"<Delay 5>…<Delay 5> Per caso si
+trattava di Miang?"<Close><End of Block>
+<TextBlock 65 w:46 h:2>
+Regina Zefiro
+"Molto probabilmente sì."<Close><End of Block>
+<TextBlock 66 w:58 h:8>
+Temendo l'aumento del
+potere delle masse riunite
+a Nisan,<Delay 5> il Ministero di
+Gazel pianificò di
+consegnarci la loro
+avversaria,<Delay 5> Miang,<Delay 5> e
+promise la divisione della
+superficie della terra in
+aree di influenza.<New>
+ 
+Ma in cambio<Delay 5>…<Delay 45>
+ 
+Dovemmo consegnare loro
+l'armata ribelle riunitasi
+a Nisan…<Delay 5> e anche la loro
+sostenitrice,<Delay 5> Sofia<Delay 5>…<Close><End of Block>
+<TextBlock 67 w:54 h:4>
+Regina Zefiro
+"I governanti di Shevat
+accettarono<Delay 5>…<New>
+…<Delay 5> e fu deciso che
+Nisan sarebbe stata il
+luogo della battaglia
+decisiva contro Solaris."<Close><End of Block>
+<TextBlock 68 w:54 h:4>
+Regina Zefiro
+"Shevat non partecipò
+a quella battaglia<Delay 5>…<New>
+Soverchiata dal gran
+numero di soldati
+solariani,<Delay 5> e con le
+vie di fuga bloccate<Delay 5>…<New>
+…<Delay 5> l'armata ribelle di
+Nisan non ebbe scampo<Delay 5>
+e fu distrutta<Delay 5>…<New>
+In mezzo a tutto questo
+furono catturati Lacan,<Delay 5>
+l'antenato di Bart, Roni,<Delay 10>
+io stessa<Delay 10>…<Delay 45> e 'Krelian'."<Close><End of Block>
+<TextBlock 69 w:44 h:2>
+Shitan
+"Anche lei era là?"<Close><End of Block>
+<TextBlock 70 w:52 h:4>
+Regina Zefiro
+"Sì<Delay 5>…<Delay 30>
+Ormai circondati<Delay 5>…<Delay 5>
+eravamo pronti a morire.<New>
+Allora,<Delay 5> apparve la
+nave ammiraglia ribelle
+con a bordo Sofia.<New>
+Lei sacrificò se stessa<Delay 5>
+in modo da creare una
+via di fuga per la
+nostra ritirata<Delay 5>…<New>
+Sofia si diresse verso
+la nave ammiraglia
+nemica per un attacco
+suicida."<Close><End of Block>
+<TextBlock 71 w:38 h:4>
+Regina Zefiro
+"Grazie al sacrificio di
+Sofia,<Delay 5> noi sopravvivemmo.<New>
+Ma…<Delay 5> la sua morte
+cambiò per sempre il
+destino di due uomini<Delay 5>…"<Close><End of Block>
+<TextBlock 72 w:64 h:11>
+Krelian,<Delay 5> che era uno dei
+discepoli a lei più vicini,
+nel ruolo di capo della milizia
+della setta di Nisan,<Delay 5> perse del
+tutto la sua fede, dopo aver
+inutilmente implorato dio,
+dal quale non ebbe risposta.<New>
+ 
+    "Io creerò dio con
+    le mie stesse mani!"<Delay 60>
+ 
+<Delay 5>…<Delay 5> furono le ultime
+parole che pronunciò<Delay 5>
+prima di scomparire.<Close><End of Block>
+<TextBlock 73 w:52 h:9>
+E Lacan<Delay 5>…<Delay 30>
+ 
+Era distrutto per non
+aver potuto far nulla
+mentre lei moriva di
+fronte a lui<Delay 5>…<Delay 45>
+ 
+<Delay 5>…<Delay 5> Così iniziò la ricerca
+del 'Leggendario Potere'.<Close><End of Block>
+<TextBlock 74 w:36 h:2>
+Shitan
+"Leggendario Potere?"<Close><End of Block>
+<TextBlock 75 w:52 h:4>
+Regina Zefiro
+"Il luogo in cui dio
+riposa, 'Mahanon'<Delay 5>…<New>
+La fonte della sapienza
+divina, 'Raziel'<Delay 5>…<New>
+E il 'Contenitore
+dell'Anima' creato
+da quella sapienza<Delay 5>…<New>
+Oltre a ciò<Delay 5>…<Delay 15> c'è
+un'altra leggenda."<Close><End of Block>
+<TextBlock 76 w:28 h:2>
+Shitan
+"Di che si tratta?"<Close><End of Block>
+<TextBlock 77 w:24 h:2>
+Regina Zefiro
+"Dello 'Zohar'<Delay 5>…"<Close><End of Block>
+<TextBlock 78 w:50 h:4>
+Shitan
+"Lo Zohar!?<Delay 30>
+Lo stesso nome del<Delay 10>
+'Modificatore Zohar'<Delay 10>…<New>
+…<Delay 5> ciò di cui parlava
+Miang,<Delay 5> dicendo che fosse
+la fonte dell'energia
+infinita di dio,<Delay 5> -Deus-<Delay 5>…<New>
+Quello che lei asseriva
+essere la fonte del
+nostro potere Etereo…<New>
+… ed anche la forza
+motrice di tutti i
+nostri Gear…"<Close><End of Block>
+<TextBlock 79 w:50 h:4>
+Regina Zefiro
+"Dovrebbe essere uno
+e la stessa cosa<Delay 5>…<New>
+È il posto che contiene la
+fonte di potere definitiva
+di questo mondo.<New>
+Si dice che soltanto
+chi è predestinato
+potrebbe scoprire la
+sua posizione<Delay 5>…"<Close><End of Block>
+<TextBlock 80 w:52 h:4>
+Regina Zefiro
+"Perdendo la fede
+nell'umanità,<Delay 5> Lacan
+cercò il suo potere<Delay 5>…<New>
+Lacan divenne Grahf<Delay 5>…<Delay 15>
+e il mondo sprofondò<Delay 5>…<New>
+Questa tragedia è
+accaduta a causa della
+brama di potere delle
+persone<Delay 5>…<New>
+Io devo prendermi parte
+della responsabilità per
+non essere stata in grado
+di fermare tutto ciò<Delay 5>…<New>
+Ed ora,<Delay 5> Fei<Delay 5>…<Delay 5>
+l'unico che ha lo stesso
+potere di Grahf<Delay 5>…<New>
+Vogliamo solo sigillare
+quel terribile potere
+che nasce dai nostri
+atti peccaminosi<Delay 5>…"<Close><End of Block>
+<TextBlock 81 w:52 h:13>
+Grahf,<Delay 5> l'uomo conosciuto
+come Lacan,<Delay 5> cercò il
+'Potere dello Zohar'<Delay 5>…<Delay 45>
+ 
+  L'unico con lo stesso
+  potere di Grahf<Delay 5>…
+  Fei<Delay 65>…<New>
+ 
+Ebbi questa premonizione…
+che anche Fei<Delay 5> si sarebbe
+risvegliato e avrebbe
+liberato quel potere.<Delay 60>
+ 
+E quel presentimento<Delay 5>
+divenne realtà.<Close><End of Block>
+<TextBlock 82 w:52 h:13>
+Egli infranse la sua
+prigione di carbonite…<Delay 15>
+ 
+'Id'<Delay 5>…<Delay 30> Fei prese il
+suo Gear, <Weltall>, e andò
+in cerca dello Zohar.<Delay 60>
+ 
+Seguimmo le tracce di Fei.<Delay 45>
+ 
+Alla fine arrivammo nel luogo
+dove lo Zohar era precipitato
+sulla terra<Delay 5>…<Delay 5> molto tempo fa<Delay 5>…
+il 'Punto Betlemme'.<Close><End of Block>
+<TextBlock 83 w:54 h:3>
+Nulla poteva preparaci
+a quello che avremmo
+visto in quel luogo<Delay 5>…<Close><End of Block>
+<TextBlock 84 w:54 h:8>
+Ci preparammo a far tacere
+l'arca di dio,<Delay 5> il 'Merkabah',<Delay 5>
+che era la sintesi del
+potere offensivo e di
+quello difensivo<Delay 5>…<Delay 5>
+e poi ci precipitammo
+all'interno<Delay 5>…<Delay 45>
+ 
+Iniziammo l'operazione
+'Distruzione dello Zohar'.<Close><End of Block>
+<TextBlock 85 w:48 h:10>
+La terra tremò e si
+scosse violentemente.<Delay 15>
+E,<Delay 5> dal luogo dove il
+Merkabah era caduto,<Delay 15>
+apparve un enorme oggetto.<New>
+ 
+La forma finale di Deus.<Delay 45>
+ 
+Il Merkabah era solo
+il suo guscio.<Delay 15>
+Deus si era evoluto
+attraverso l'uso
+delle nanomacchine di
+Krelian in un'arma
+planetaria ed iniziò
+ad alterare la forma
+del pianeta.<Close><End of Block>
+<TextBlock 86 w:52 h:11>
+Cercava di trasformare
+l'intero pianeta in
+un'arma…
+ 
+Ci ritirammo alla nostra
+base per mettere a punto
+la nostra strategia…
+ 
+Decidemmo di tornare
+dentro Deus. Ormai ci
+rimaneva poco tempo.<Close><End of Block>
+<TextBlock 87 w:48 h:1>
+Monolog stage DEBUG-MAP2<Close><End of Block>
+<TextBlock 88 w:50 h:11>
+<Opcode 1 255>XENO monologhi
+    Nave da guerra segreta(2)
+    Ritorna la Santa Madre
+    Contenitore dell'Anima(2)
+    L'essenza degli uomini
+    Il Forte della Morte(2)
+    Carbonite
+    Modificatore Fenomeni
+    Tutta la nostra forza
+    La Distruzione del Mondo
+    Fine mologo (alè)<Close><End of Block>
+<TextBlock 89 w:36 h:3>
+Salvi il gioco?<Delay 30>
+    Salva
+    Non salvare<Delay 15><Close><End of Block>
+<TextBlock 90 w:36 h:3>
+Continui il gioco?<Delay 30>
+    No
+    Sì<Delay 15><Close><End of Block>
+<TextBlock 91 w:42 h:3>
+    Apri il menu
+    Cambia membri
+    Continua il gioco<Delay 15><Close><End of Block>
+<TextBlock 92 w:36 h:3>
+Continui il gioco?<Delay 30>
+    No
+    Sì<Delay 15><Close><Close><End of Block>

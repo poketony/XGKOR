@@ -1,0 +1,589 @@
+#### 1 ####
+{wait:05}...{wait:05}La{wait:05}...{wait:05}can{wait:05}...
+
+#### 2 ####
+"Lacan,{wait:05} what is wrong?"
+
+#### 3 ####
+"Lacan?"
+
+#### 4 ####
+In that dream,
+I was called 'Lacan'{wait:05}...{wait:0F}
+ 
+I was an artist{wait:05}...{enter}
+I had become recognized as a
+talented artist and now was
+painting the portrait of the
+Nisan Mother, 'Sophia'{wait:05}...
+
+#### 5 ####
+Lacan
+"Huh{wait:05}...{wait:05}no,{wait:0A}
+it is nothing."
+
+#### 6 ####
+"{wait:05}...{wait:05}Let us finish for today.{wait:1E}
+You look rather tired.{wait:0F}
+{wait:05}...{wait:05}Are you alright?"
+
+#### 7 ####
+Lacan
+"I am fine,{wait:05} thank you{wait:05}...{wait:0F}
+But,{wait:05} now that you mention
+it{wait:05}..."
+
+#### 8 ####
+Lacan
+"Shall we stop for the day?{wait:14}
+You must be the one who is
+tired,{wait:05} 'Mother Sophia'?"
+
+#### 9 ####
+Sophia
+"Enough of that, now."
+
+#### 10 ####
+Sophia
+"When it is just the two of
+us, would you stop calling
+me that.{enter}
+Just call me 'Elly'{wait:05}...{wait:0F} As
+you used to do in the old
+days{wait:05}...{wait:1E} And you don't have
+to be so stiff and formal."
+
+#### 11 ####
+Lacan
+"Oh, {wait:05}errh, {wait:0A}alright.{wait:0F}
+Very wel{wait:05}...{wait:05}no, I mean{wait:05}...{wait:05}
+Yes,{wait:05} let's do that{wait:05} 'Elly'!"
+
+#### 12 ####
+Lacan
+"I think I might go back
+home{wait:05}...{wait:0A}
+only for a week or so."
+
+#### 13 ####
+Elly
+"Oh,{wait:05} really?{wait:05}
+What is the matter?"
+
+#### 14 ####
+Lacan
+"I ran out of paint.{wait:0F}
+So{wait:05}...{wait:05}I, errh, need to
+go make some more."
+
+#### 15 ####
+Elly
+"You're going all that
+way{wait:05}...{wait:05}just to do that?"
+
+#### 16 ####
+Lacan
+"If I don't go there,{wait:05}
+I won't be able to get
+the right pigments."
+
+#### 17 ####
+Elly
+"Oh{wait:05}...{enter}
+Then how about I have
+one of my followers,{wait:05}
+the -Kahal-,{wait:05} take you
+in one of our Gears?"
+
+#### 18 ####
+Elly
+"You'll arrive quicker{wait:0F}
+and you'll be much
+more safe."
+
+#### 19 ####
+I lied...{wait:1E}
+I wasn't out of paint.{wait:0F}
+I just feared I would
+finish the portrait.{wait:0F}
+I wanted to keep on
+painting{wait:05}...{wait:05}forever.{enter}
+So I wanted to buy
+time{wait:05}...{wait:0F}
+She'd probably despise
+me for that{wait:05}...{enter}
+No,{wait:05}
+she'd probably just
+give me her usual smile.{wait:0F}
+She was that kind of
+woman{wait:05}...
+
+#### 20 ####
+{wait:05}...{wait:05}La{wait:05}...{wait:05}can{wait:05}...
+
+#### 21 ####
+"Lacan,{wait:05} what is wrong?"
+
+#### 22 ####
+"Lacan?"
+
+#### 23 ####
+In that dream,{wait:05}
+I was called 'Sophia'{wait:05}...{wait:0F}
+ 
+Mother Sophia{wait:05}...{enter}
+A symbolic name{wait:05}...{wait:0F}
+Crowned upon the person who
+would be the people's hope{wait:05}...{enter}
+A name I was destined to have{wait:05}
+Whether I wanted it or not{wait:05}...
+
+#### 24 ####
+Lacan
+"Huh{wait:05}...{wait:05}no,{wait:0A}
+it is nothing."
+
+#### 25 ####
+"{wait:05}...{wait:05}Let us finish for today.{wait:1E}
+You look rather tired.{wait:0F}
+{wait:05}...{wait:05}Are you alright?"
+
+#### 26 ####
+Lacan
+"I am fine,{wait:05} thank you{wait:05}...{wait:0F}
+But,{wait:05} now that you mention
+it{wait:05}..."
+
+#### 27 ####
+Lacan
+"Shall we stop for the day?{wait:14}
+You must be the one who is
+tired,{wait:05} 'Mother Sophia'?"
+
+#### 28 ####
+Sophia
+"Enough of that, now."
+
+#### 29 ####
+Sophia
+"When it is just the two of
+us, would you stop calling
+me that.{enter}
+Just call me 'Elly'{wait:05}...{wait:0F} As
+you used to do in the old
+days{wait:05}...{wait:1E} And you don't have
+to be so stiff and formal."
+
+#### 30 ####
+Lacan
+"Oh, {wait:05}errh, {wait:0A}alright.{wait:0F}
+Very wel{wait:05}...{wait:05}no, I mean{wait:05}...{wait:05}
+Yes,{wait:05} let's do that{wait:05} 'Elly'!"
+
+#### 31 ####
+Lacan
+"I think I might go back
+home{wait:05}...{wait:0A}
+only for a week or so."
+
+#### 32 ####
+Elly
+"Oh, really?{wait:05}
+What is the matter?"
+
+#### 33 ####
+Lacan
+"I ran out of paint.{wait:0F}
+So{wait:05}...{wait:05}I, errh, need to
+go make some more."
+
+#### 34 ####
+Elly
+"You're going all that
+way{wait:05}...{wait:05}just to do that?"
+
+#### 35 ####
+Lacan
+"If I don't go there,{wait:05}
+I won't be able to get
+the right pigments."
+
+#### 36 ####
+Elly
+"Oh{wait:05}...{enter}
+Then how about I have
+one of my followers,{wait:05}
+the -Kahal-,{wait:05} take you
+in one of our Gears?"
+
+#### 37 ####
+Elly
+"You'll arrive quicker{wait:0F}
+and you'll be much
+more safe."
+
+#### 38 ####
+I wonder when it started{wait:05}...{wait:1E}
+ 
+That he started refusing me{wait:05}...{wait:0F}
+The walls between us{wait:05}...{wait:1E}
+Our 'positions'{wait:05}...{wait:05}
+Our 'circumstances'{wait:05}...{wait:0F}
+He refused to recognize these{wait:05}...{wait:2D}
+ 
+No{wait:05}...{wait:05}maybe it was me{wait:05}...
+
+#### 39 ####
+Therefore{wait:05}...{wait:05}
+I didn't want them{wait:05}...{wait:1E}
+ 
+I wanted the two of us
+to be ourselves{wait:05}...{wait:2D}
+ 
+That is what I wished for{wait:05}...{wait:0F}
+So,{wait:05}
+I had him paint me{wait:05}...{wait:1E}
+ 
+The way I really am{wait:05}...
+
+#### 40 ####
+Elly
+"What's wrong?{wait:0F}
+You don't look so good."
+
+#### 41 ####
+Elly
+"Lately, you've seemed
+melancholy almost everyday.{wait:0F}
+Has something happened?"
+
+#### 42 ####
+Lacan
+"I don't know.{wait:0F}
+I just can't paint
+right now.{enter}
+Sorry,{wait:05} but do you
+mind if we stop
+here for today{wait:05}..."
+
+#### 43 ####
+Elly
+"I see{wait:05}...{wait:05}
+It is not good to push
+yourself too hard{wait:05}...{enter}
+Why don't you rest up
+for a little while?{wait:1E}
+I'll have Krelian take
+you{wait:05}..."
+
+#### 44 ####
+Krelian
+"What are you
+doing{wait:05} Lacan?"
+
+#### 45 ####
+Lacan
+"Oh{wait:05} it's you,{wait:05} Krelian{wait:05}...{wait:0F}
+I was thinking{wait:05}...{wait:05}I'd stop
+painting the portrait{wait:05}..."
+
+#### 46 ####
+Krelian
+"Why stop now{wait:05}...?"
+
+#### 47 ####
+Lacan
+"It's the circumstances.{wait:0F}
+I shouldn't be painting
+her at a time like this."
+
+#### 48 ####
+Lacan
+"Eventually she too must
+stand at the front lines.{wait:0F}
+So{wait:05}..."
+
+#### 49 ####
+Krelian
+"Is that really
+the problem?"
+
+#### 50 ####
+Lacan
+"{wait:05}...{wait:05}"
+
+#### 51 ####
+Krelian
+"Lacan{wait:05}...?"
+
+#### 52 ####
+Lacan
+"{wait:05}...{wait:05}
+Her smile{wait:05}...{wait:05}
+it's killing me.{enter}
+The more she smiles at me,
+the more I{wait:05}...{wait:05}I feel my
+very being become
+insignificant.{enter}
+Inside my heart there is
+this empty existence.{wait:0F}
+Other than painting,{wait:05}
+I have no worth{wait:05}...{enter}
+Yet, she continues to
+accept my presence.{wait:0F}
+I feel like I'm getting
+smaller and smaller."
+
+#### 53 ####
+Lacan
+"I didn't have this
+feeling in the beginning.{enter}
+I just wanted to paint her{wait:05}
+one more minute{wait:05}...{wait:05}
+one more second longer{wait:05}...{enter}
+I wanted to keep on
+painting forever.{wait:0F}
+But,{wait:05} suddenly I couldn't.{enter}
+As the picture neared
+completion, the empty part
+of me started to manifest
+itself in my brush strokes.{enter}
+I was meant to be painting
+her as she really is{wait:05}...{wait:0F}
+but{wait:05}...{wait:05}this picture is{wait:05}...{wait:0A}
+my own self{wait:05}...{enter}
+My empty self has begun to
+appear within there.{wait:0F}
+That's why{wait:05}...{wait:05}
+I've got to stop now."
+
+#### 54 ####
+Krelian
+"Your own self{wait:05}...?"
+
+#### 55 ####
+Krelian
+"You're just running away!{wait:0F}
+You can't bear it when
+she smiles at you.{enter}
+By painting her portrait,{wait:05}
+you noticed the gap between
+your own inner emptiness
+and her inner abundance.{enter}
+And you could not fill that
+gap{wait:05}...{wait:0F}
+That's why you are quitting
+your painting.{enter}
+You are refusing her!{wait:0F}
+Even so, you still can't
+bring yourself to leave
+her, can you?{enter}
+In spite of that{wait:05}...{wait:05}
+why is it that she
+continues to smile at you?{enter}
+You who can't accept her
+feelings{wait:05}...{wait:0F}
+You who won't accept her
+feelings{wait:05}..."
+
+#### 56 ####
+Krelian
+"Tell me why!?{enter}
+If it was me{wait:05}...{wait:1E}
+who was receiving{wait:05}...{wait:0F}
+such feelings{wait:05}..."
+
+#### 57 ####
+Roni
+"{wait:05}...{wait:05}Is this really
+her true expression?"
+
+#### 58 ####
+Lacan
+"Yeah{wait:05}...{wait:05}
+To people who don't know
+her that well{wait:05}...{wait:05}I guess{wait:05}..."
+
+#### 59 ####
+Roni
+"Her smile{wait:05}...{wait:0F}
+I don't know{wait:05}...{enter}
+The smile in this picture
+is somehow different from
+the one she usually shows
+us.{enter}
+I realize Lacan's feelings
+are in there, but{wait:05}...{enter}
+I don't think she has ever
+opened herself up and shown
+her inner self to others
+like this before."
+
+#### 60 ####
+Roni
+"You've been painting such
+a beautiful expression of
+Sophia{wait:05}...{enter}
+I just can't see the reason
+why you want to stop."
+
+#### 61 ####
+Lacan
+"Beautiful{wait:05}...?{enter}
+Forget it.{wait:0A}
+This picture{wait:05}...!?{wait:05}
+It's anything but
+beautiful{wait:05}..."
+
+#### 62 ####
+Roni
+"Lacan,{wait:05} you say you're
+empty.{wait:0F} Then why do you
+come along with us?{enter}
+What we've been doing
+up till now,{wait:05} are not
+just acts of mercy{wait:05}...{wait:0F}
+It's a fight for freedom.{enter}
+Time and again you've
+been through life
+threatening situations
+with us{wait:05}..."
+
+#### 63 ####
+Roni
+"A man who has nothing in
+his heart couldn't do that
+kind of thing{wait:1E}...{wait:05}right?"
+
+#### 64 ####
+Lacan
+"Roni, you're giving me
+too much credit.{enter}
+As long as you do some-
+thing to keep yourself
+occupied{wait:05}...{wait:05}you can ignore
+the hollowness inside."
+
+#### 65 ####
+Lacan
+"From the beginning, my
+very existence itself
+was an emptiness.{enter}
+It wouldn't matter if I
+were to die right now{wait:05}...{wait:0F}
+You live,{wait:05} you die{wait:05}...{wait:05}
+That's all{wait:05}..."
+
+#### 66 ####
+Roni
+"Pessimistic as usual,{wait:0A}
+Lacan{wait:05}...{wait:0F}
+And now you're lying."
+
+#### 67 ####
+Lacan
+"{wait:05}...{wait:05}"
+
+#### 68 ####
+Roni
+"It is just that you're not
+good at expressing your own
+feelings.{enter}
+You're not empty.{wait:0F}
+She knows that.{wait:0F}
+That's why she shows only
+you her true smile."
+
+#### 69 ####
+Lacan
+"I don't deserve to
+see her true smile.{enter}
+She is the hope of the
+people.{wait:0F} Their support.{wait:0F}
+There is so much more
+for her to do."
+
+#### 70 ####
+Lacan
+"Why would she open her
+heart to a mere artist
+like me{wait:05}..."
+
+#### 71 ####
+Rene
+"Bro!{wait:0F} Bro¡«!"{clear:3C}
+
+#### 72 ####
+Rene
+"Hey, bro{wait:05}...{wait:05}
+What are you
+doing here?"
+
+#### 73 ####
+Roni
+"What's up?"
+
+#### 74 ####
+Zephyr
+"The Council of Elders of
+Shevat issued a decision.{enter}
+Tomorrow we will leave
+for Soylent."
+
+#### 75 ####
+Roni
+"Soylent?{wait:0F}
+That's in Solaris{wait:05}..."
+
+#### 76 ####
+Rene
+"Yes.{wait:0F}
+And{wait:05}...{wait:05}Sophia will
+be coming with us."
+
+#### 77 ####
+Krelian
+"That's ridiculous!"
+
+#### 78 ####
+Krelian
+"The refugees are still
+increasing! {wait:05}We can't afford
+to have Sophia leave Nisan!{enter}
+And {wait:05}going to Soylent!{wait:05}
+That's plain foolish!{wait:0A}
+It's too dangerous!{enter}
+What are the elders
+thinking?"
+
+#### 79 ####
+Zephyr
+"No.{wait:0F}
+It wasn't the
+council's wish."
+
+#### 80 ####
+Zephyr
+"It was Sophia's will. It
+appears that she expressed
+this desire herself."
+
+#### 81 ####
+Krelian
+"That can't be{wait:05}...{wait:05}
+What is she thinking?"
+
+#### 82 ####
+Rene
+"Originally, we 
+talked about it
+being just us{wait:05}..."
+
+#### 83 ####
+Krelian
+"Just us{wait:05}...?"
+
+#### 84 ####
+Lacan
+"{wait:05}..."
+

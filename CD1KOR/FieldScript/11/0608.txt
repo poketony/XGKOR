@@ -1,0 +1,432 @@
+<TextBlock 1 w:45 h:4>
+<Fei>
+「응, 이 주변을
+　어슬렁거리고 있던데.<New>
+　누나가 결혼한다고 하니까
+　진정이 안 되나 봐, 그 녀석.<Delay 30>
+　이러니저러니 해도
+　귀여운 구석이 있다니까.<Close><End of Block>
+<TextBlock 2 w:36 h:4>
+<Fei>
+「어차피 또 이 주변에서
+　장난이라도
+　치고 있지 않을까?<Close><End of Block>
+<TextBlock 3 w:45 h:3>
+<Fei>
+「휴~.
+　위험해 위험해…….<New>
+　왠지 이 우물, 엄청나게
+　위험한 것 같은 느낌이 들어…….<Delay 20>
+　다가가지 않는 편이 좋겠다.<Close><End of Block>
+<TextBlock 4 w:51 h:3>
+<Fei>
+「이봐 이봐……,<Delay 20>
+　말도 안 되는 소리 하지 마, 단.<New>
+　티모시도 아루루도
+　둘 다 소중한 친구라고.<Delay 20>
+　그런 짓을 할 수 있을 리 없잖아.<Close><End of Block>
+<TextBlock 5 w:51 h:4>
+<Fei>
+「그래 알았어!<Delay 20>
+　그럼 어디 한번
+　아루루를 데리고 도망가 볼까!<Close><End of Block>
+<TextBlock 6 w:36 h:4>
+“　티모시는 대머리
+　　　얼레리 꼴레리~
+　티모시네 아빠도
+　　대머리래요~!　”<Close><End of Block>
+<TextBlock 7 w:54 h:4>
+　“　　　이 앞은 산길
+　　HP 쪽쪽에 주의!!<Delay 20>
+　산 위에 있는 선생님을 만나고 싶은 사람은
+　　　용기와 신념을 가지고 전진!　”<Close><End of Block>
+<TextBlock 8 w:45 h:4>
+　　“　　아루루 누나와
+　<Fei> 형아는
+　　　러브러브 대폭발이라고!!
+　　　　콰쾅!　　”<Close><End of Block>
+<TextBlock 9 w:39 h:3>
+“　모두의 근사한
+　　　　라한 마을!
+　　본죠~르노~!　”<Close><End of Block>
+<TextBlock 10 w:46 h:2>
+“　웃는 여우와 아기 돼지 주점
+　  술꾼 대환영!　”　<Close><End of Block>
+<TextBlock 11 w:49 h:2>
+“　만물상 샌드루아
+　  없는 게 없어요!　”　<Close><End of Block>
+<TextBlock 12 w:42 h:2>
+우물 바닥에서 감기 걸릴 것 같은
+냉기만 손에 넣었다!!<Close><End of Block>
+<TextBlock 13 w:39 h:2>
+하지만, 우물 바닥에서
+파워 링을 발견했다!!<Close><End of Block>
+<TextBlock 14 w:39 h:2>
+하지만, 우물 바닥에서
+아쿠아솔S를 발견했다!!<Close><End of Block>
+<TextBlock 15 w:33 h:2>
+하지만, 우물 바닥에서
+이상한 물건을 발견했다!!<Close><End of Block>
+<TextBlock 16 w:54 h:4>
+저기 있잖아 오빠, 그거 알아?<Delay 20>
+검은 숲 너머에는 아베라는
+아주 큰 왕국이 있어.<New>
+엄청난 마을이 있고, 많은 사람들이
+살고 있대.<Delay 20>
+우리 아빠도 아베에
+일하러 갔다고 들었어.<Close><End of Block>
+<TextBlock 17 w:42 h:4>
+곧 있으면 아빠가
+나랑 엄마를 데리러 와서
+가족 모두가 함께
+아베에서 살게 될 거야.<Close><End of Block>
+<TextBlock 18 w:36 h:2>
+아아, 아빠가 빨리
+돌아오면 좋겠다…….<Close><End of Block>
+<TextBlock 19 w:51 h:3>
+저기 저기 <Fei> 오빠.
+또 숲에서 스칸피
+잡아 주라.<Close><End of Block>
+<TextBlock 20 w:24 h:1>
+아, 기다려~!<Opcode 2 40><Close><End of Block>
+<TextBlock 21 w:51 h:3>
+저기 저기 <Fei> 오빠.
+또 코끼리제비 둥지가 있는 곳
+가르쳐 주라.<Close><End of Block>
+<TextBlock 22 w:27 h:1>
+아하하, 도망가자~!<Opcode 2 40><Close><End of Block>
+<TextBlock 23 w:42 h:3>
+저기 <Fei> 형아.
+다음에 또
+권법 알려 주라.<Close><End of Block>
+<TextBlock 24 w:24 h:1>
+아, 기다려~!<Opcode 2 40><Close><End of Block>
+<TextBlock 25 w:42 h:3>
+저기 <Fei> 형아.
+다음에 또 여자애들한테
+잔뜩 장난치자!<Close><End of Block>
+<TextBlock 26 w:27 h:1>
+아하하, 도망쳐~!<Opcode 2 40><Close><End of Block>
+<TextBlock 27 w:42 h:4>
+새들은 좋겠다…….<Delay 20>
+저 높은 하늘을 자유롭게 날고
+어디든 가고 싶은 곳에
+갈 수 있을 테니까.<Close><End of Block>
+<TextBlock 28 w:48 h:3>
+엄마가 말했어.<Delay 20>
+<Fei>는 어딘가 먼 곳에서
+왔을지도 모른다고…….<Close><End of Block>
+<TextBlock 29 w:51 h:2>
+새라면 자기 고향으로
+언제든지 자유롭게 날아갈 수 있을 텐데.<Close><End of Block>
+<TextBlock 30 w:48 h:4>
+단
+「좀 그렇겠지만 <Fei> 형아도
+　빌어 줘,
+　아루루 누나의 행복을 말이야!<Close><End of Block>
+<TextBlock 31 w:45 h:3>
+단
+「어때, <Fei> 형아
+　할 마음 생겼어?<New>
+　하자, 응? 응?<Delay 20>
+　　좋았어, 하자 단!!
+　　안 된다고 했잖아　<Close><End of Block>
+<TextBlock 32 w:36 h:3>
+단
+「<Fei> 형아!
+　이대로도 괜찮아?<Close><End of Block>
+<TextBlock 33 w:45 h:3>
+단
+「드디어 내일이라구,
+　아루루 누나의 결혼식이…….<New>
+　할 얘기라는 건 다름 아닌
+　누나의 결혼에
+　대한 건데 말이지…….<Close><End of Block>
+<TextBlock 34 w:48 h:3>
+단
+「저기 <Fei> 형아.
+　나, 사실은 말이야……<New>
+　<Fei> 형아가 형님이
+　되어 주면 좋겠다고
+　생각하고 있었어.<Close><End of Block>
+<TextBlock 35 w:54 h:4>
+단
+「지금이라도 늦지 않았어.
+　누나를 데리고 도망가.<Delay 20>
+　뭐하면 나도 도와줄게.<Close><End of Block>
+<TextBlock 36 w:48 h:4>
+단
+「아루루 누나는,
+　내가 말하긴 좀 그렇지만
+　미인이고, 요리도 잘하고……<New>
+(게다가 형아한테만 말하는 건데
+ 엄청 쭉쭉빵빵하다고!<Delay 20>
+ 으히히!)<Close><End of Block>
+<TextBlock 37 w:42 h:4>
+단
+「그러니까 해 보자~! 응?<Delay 30>
+　　좋았어, 하자 단!!
+　　무슨 소리야　<Close><End of Block>
+<TextBlock 38 w:54 h:4>
+단
+「정말로?!<Delay 20>
+　역시 <Fei> 형아야!
+　그렇게 나와야지!<Close><End of Block>
+<TextBlock 39 w:36 h:4>
+단
+「……라고 말하고 싶지만<Delay 20>
+　역시 그러면 안 되겠지,
+　이번만큼은…….<New>
+　당사자들끼리의
+　문제기도 하고…….<Delay 30>
+　그리고 역시 결혼엔<Delay 40>
+　사랑<Delay 40>이 필요한 법이니까!<Close><End of Block>
+<TextBlock 40 w:51 h:3>
+단
+「하지만 나,
+　절대 잊지 않을 거야!<New>
+　날 생각해서
+　그렇게까지 말해 준
+　<Fei> 형아의 다정함을.<Close><End of Block>
+<TextBlock 41 w:48 h:3>
+단
+「쳇, 알았어.
+　형아가 그렇게 말한다면…….<Close><End of Block>
+<TextBlock 42 w:39 h:3>
+단
+「그래도 마음이 바뀌면
+　언제든지 도와줄게!<Close><End of Block>
+<TextBlock 43 w:45 h:2>
+정말이지, 단 녀석도 참…….
+투덜투덜…….<Close><End of Block>
+<TextBlock 44 w:42 h:3>
+어머, <Fei>!
+마침 잘 만났다.
+저기, 단 못 봤어?<Close><End of Block>
+<TextBlock 45 w:57 h:4>
+정말? 그거 수상하네.<Wait>
+아루루가 시킬 일이 있다고 했는데…….<Delay 15>
+나 참, 어디를 그렇게
+돌아다니고 있는 걸까…….<Close><End of Block>
+<TextBlock 46 w:60 h:4>
+아루루가 시킬 일이 있다고 했는데…….<Wait>
+아루루 같은 누나 밑에서
+동생은 왜 저렇게 개구쟁이인 걸까.<Delay 15>
+나 참…….<Close><End of Block>
+<TextBlock 47 w:48 h:3>
+그래, 내 인생은
+아직 늦지 않았어.<Delay 20>
+좋~았어, 힘내자!<Close><End of Block>
+<TextBlock 48 w:39 h:2>
+하아~.<Delay 20>
+여자의 고민은 끝이 없어.<Close><End of Block>
+<TextBlock 49 w:57 h:4>
+마을이 아루루와 티모시의 결혼식 얘기로
+떠들썩한 것 같네.<Delay 20>
+그럴 만도 하지……,
+인생에서 가장 큰 이벤트니까.<Close><End of Block>
+<TextBlock 50 w:60 h:4>
+마을 처녀는 마을에서 태어나서 자라고
+결혼해서, 그리고 늙어 가지.<Delay 20>
+그건 그것대로 행복하겠지만……,<Delay 24>
+그래도 가끔 이런 생각도 들곤 해.<New>
+남자로 태어나서 세계를 여행하고,<Delay 18>
+다양한 경험을 해 보고 싶다고
+말이지…….<Close><End of Block>
+<TextBlock 51 w:42 h:3>
+후후……, 역시 이상하지?<Delay 12>
+　　　응, 이상해 그런 건
+　　　그렇지 않아　<Close><End of Block>
+<TextBlock 52 w:36 h:3>
+허~억!
+역시 그런가?<Delay 20>
+고민하게 되네…….<Close><End of Block>
+<TextBlock 53 w:48 h:3>
+정말? 정말로 그렇게 생각해?<Delay 30>
+후훗, <Fei>라면
+그렇게 말할 줄 알았어.<New>
+이거, 우리 집에서 만든 아쿠아솔이야.
+곰이랑 소들도 엄청 좋아한다구.<Delay 20>
+괜찮으면 써 줘.<Close><End of Block>
+<TextBlock 54 w:36 h:2>
+곰이랑 소들도 엄청 좋아하는
+아쿠아솔을 손에 넣었다.<Close><End of Block>
+<TextBlock 55 w:48 h:3>
+안녕 <Fei>.
+드디어구나, 아루루랑 티모시의
+결혼식이.<New>
+아아, 기대된다!
+분명 근사한 신부가
+되겠지 아루루는.<New>
+빨리 내 앞에도
+나타나 주면 좋겠다,
+멋진 왕자님이. <Delay 20>우후후…….<Close><End of Block>
+<TextBlock 56 w:42 h:3>
+저기!
+그렇게 누르지 마.
+응큼하다니까 정말!<Opcode 2 60><Close><End of Block>
+<TextBlock 57 w:48 h:4>
+그 선생님도 참 별났단 말이지.<Delay 20>
+왜 저런 산꼭대기에
+집을 지은 거야?<New>
+좀 더 마을 가까이에
+지었으면 좋았을 텐데 말이지…….<New>
+맞다 <Fei>,
+너 선생님하고 친하잖아.<Delay 20>
+좀 더 마을하고 가까운 곳으로
+옮기시라고 말 좀 해 줘!<Close><End of Block>
+<TextBlock 58 w:45 h:4>
+최근에 다리랑 허리가
+부쩍 약해졌거든…….<Delay 20>
+정말 곤란하다고.<New>
+한번 의사 선생님께 진찰을
+받으러 갈까 생각했지만,
+산길을 오를 자신이 없어.<Delay 20>
+늙었구만, 나도…….<Close><End of Block>
+<TextBlock 59 w:48 h:4>
+でも、あの先生も変わってるわよ。<Delay 20>
+なんであんな山のてっぺんに
+家をたてたりしたのかしら？<New>
+どうせなら、もっと村のちかくに
+こして来ればよかったのに……。<New>
+そうだ、<Fei>、
+あなた、先生と仲いいんだから、
+もっと村の近くへ移ってくるよう
+頼んでみたら？<Close><End of Block>
+<TextBlock 60 w:48 h:4>
+最近どうも足腰が
+弱くなっちゃって……。<Delay 20>
+まいっちゃうわ、ほんと。<New>
+ちょっとお醫者の先生のとこへ
+みてもらいに行こうと思っても、
+山道をのぼるのが一苦労だし……。<Delay 20>
+わたしも、年かしらねえ……。<Close><End of Block>
+<TextBlock 61 w:60 h:4>
+うう、う……。<Delay 10>
+アルルが嫁にいっちゃうなんて……。<Delay 30>
+しかも、あんな、筋肉バカの、
+ティモシーなんかのところに……！！<New>
+ぼ……、<Delay 20>ぼくだって……、ずっと、
+赤ん坊の頃から、アルルのことが……！！<Wait>
+この先ぼくは、どうして
+生きて行けばいいんだ！？<Close><End of Block>
+<TextBlock 62 w:47 h:1>
+<Opcode 1 1>ぅうおおおおおおぉぉぉーっ！！<Opcode 1 0> <Opcode 2 120><Close><End of Block>
+<TextBlock 63 w:24 h:3>
+ううっ……<Delay 30>
+生きるのって……
+つらいよね……。<Close><End of Block>
+<TextBlock 64 w:33 h:2>
+うっ……、ううっ……。<Delay 20>
+ぼ、ぼくは……。<Close><End of Block>
+<TextBlock 65 w:24 h:1>
+んが～、ごが～。<Close><End of Block>
+<TextBlock 66 w:48 h:3>
+う、うん……？<Delay 20>
+おう、なんじゃ、<Fei>か。
+なんか用かの？<Close><End of Block>
+<TextBlock 67 w:51 h:4>
+しかし、この年になってようやく
+ノンビリできるようになったわい。<Delay 20>
+この調子なら、わしゃ、百までだって
+生きられるぞい！　ハハハ！<Close><End of Block>
+<TextBlock 68 w:36 h:2>
+こりゃ、こりゃ！<Delay 20>
+食い物をそまつにするな！<Opcode 2 30><Close><End of Block>
+<TextBlock 69 w:36 h:2>
+こりゃ、<Fei>！！<Delay 10>
+踏むなと言っとろうが！<Opcode 2 30><Close><End of Block>
+<TextBlock 70 w:45 h:3>
+わかってるでしょうけど、
+大切な花嫁に惡さなんかしたら、
+タダじゃすまされないわよお。<Close><End of Block>
+<TextBlock 71 w:36 h:2>
+あら、<Fei>。
+アルルに、なにか用なの？<Close><End of Block>
+<TextBlock 72 w:45 h:4>
+ほんとはもう今日から、男の人は
+なかへ入れちゃいけないきまりに
+なってるんだけど……、<Delay 40>
+まあ、いいでしょ、あなたなら。<Close><End of Block>
+<TextBlock 73 w:48 h:3>
+ようこそ、いこいの村ラハンに……<Delay 40>
+と思ったら、なーんだ、
+<Fei>じゃないのよ。<Close><End of Block>
+<TextBlock 74 w:57 h:3>
+あなたも、もうラハン村の立派な一員よ。
+どう、そろそろ奥さんでももらって、
+この村に腰を落ちつけちゃったら？<New>
+村でのんびり暮らしてれば、
+なくした記憶だって
+すぐにもどってくるわよ。<Close><End of Block>
+<TextBlock 75 w:51 h:3>
+絵を描いたりとか拳法とかは、
+自然とできるようになったんでしょ？<Delay 20>
+体がおぼえてるのねえ、きっと。<New>
+だいじょうぶよ、すぐに
+なにもかも思い出して、
+安心してやってけるようになるわよ。<Close><End of Block>
+<TextBlock 76 w:57 h:4>
+よう、<Fei>！
+きれいになったよな、アルル。<Wait>
+そういや、おまえとアルルとティモシー、
+いつも3人一緒だったよなあ。<New>
+ほんとはおまえも、
+アルルに気があったんじゃないのか？<Delay 20>
+どうだ、図星だろ？　ワハハ！<Close><End of Block>
+<TextBlock 77 w:57 h:4>
+おや、こんにちわ、<Fei>。<Delay 20>
+そういえば、もうずいぶんになるわねえ、
+あんたがこの村に来てから……。<New>
+村にくる前のことは、やっぱりまだ
+なにも思い出せないのかい？<Delay 30>
+自分がだれかもわからないって、
+そりゃ不安なんだろうねえ……。<New>
+あ……、ごめんよ。
+へんなこと、聞いちまって……。<Delay 20>
+気にしないでおくれ。<Close><End of Block>
+<TextBlock 78 w:42 h:4>
+アクアソルは、あれだけじゃ。<Delay 20>
+わしのスペシャル肥料なら、
+たんまりあるが、どうじゃ？
+ワハハ！<Close><End of Block>
+<TextBlock 79 w:36 h:2>
+しょうがないヤツじゃの。
+ほれ！<Close><End of Block>
+<TextBlock 80 w:36 h:1>
+アクアソルを手にいれた。<Close><End of Block>
+<TextBlock 81 w:51 h:4>
+おお、そうじゃ。
+わし特製のアクアソルじゃ。<Delay 20>
+スペシャル肥料をつかっとるから、
+きくこと、まちがいなし！　ワハハ！<Close><End of Block>
+<TextBlock 82 w:36 h:1>
+アクアソルを手にいれた。<Close><End of Block>
+<TextBlock 83 w:51 h:3>
+う～む……。<Delay 20>
+いや、こんどはなにを植えようかと、
+まよっておってな。<Close><End of Block>
+<TextBlock 84 w:57 h:4>
+植物を育てるってのは、一仕事だが、
+サイコーだぞ、<Fei>よ。<Delay 20>
+まっさらな大地に、新しい命が
+ぐんぐん育ってゆく。<New>
+わしらが、のばしてやるわけじゃない。<Delay 20>
+ただ、土や雨、太陽といっしょになって、
+のびようのびようと頑張る連中の、
+手助けをしてやるのだよ。<Close><End of Block>
+<TextBlock 85 w:54 h:3>
+イチゴカブト……、リンゴユリ……。
+カミナリダイコンも、すてがたい……。<Delay 40>
+う～む……。<Close><End of Block>
+<TextBlock 86 w:45 h:3>
+ここは、なんでも相談屋よ。
+いろんなことを教えてくれるわ。<New>
+村の外に出る前には
+一度いろいろと聞いといた方が
+いいんじゃない？<Close><End of Block>
+<TextBlock 87 w:48 h:4>
+ここは、道駒屋よ。<Delay 20>
+あんまり品ぞろえはよくないけど、
+まあ、こんな田舎の店だもの、
+ぜいたく言えないわよねえ。<Close><Close><End of Block>

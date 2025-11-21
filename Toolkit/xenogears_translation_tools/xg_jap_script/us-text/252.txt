@@ -1,0 +1,462 @@
+#### 1 ####
+Whatever the case...{wait:20}
+There's no way we are
+going to let that
+Shakhan guy have it...
+
+#### 2 ####
+Gunner!
+
+#### 3 ####
+Franz!
+
+#### 4 ####
+Marseilles!
+
+#### 5 ####
+Maitreya's units are on
+standby at the catapults.{enter}
+They'll all be able to
+launch one minute
+after we resurface!
+
+#### 6 ####
+Good!
+Let's do it!
+
+#### 7 ####
+BattCon level 1!
+
+#### 8 ####
+Surface-combat, ready!{clear:20}
+
+#### 9 ####
+Torpedo room, ready!{clear:20}
+
+#### 10 ####
+Anti-Gear guns, ready!{clear:20}
+
+#### 11 ####
+Navigation and Engineering
+are also ready!{clear:20}
+
+#### 12 ####
+Battle stations, everyone!
+Surface navigation, begin
+operating the sand pump!{enter}
+Prepare to fire starboard
+cannons upon surfacing!
+
+#### 13 ####
+Trim to the right!{wait:10}
+The wind is strong up
+there and we may be
+blown off balance!{enter}
+...{wait:20}
+Jerico!
+Hand the helm over to me!
+
+#### 14 ####
+Bart
+"Either way,{wait:20} no need to
+let him go so fast...
+right...?"
+
+#### 15 ####
+Bart
+"Gunner!"
+
+#### 16 ####
+Bart
+"Franz!"
+
+#### 17 ####
+Bart
+"Here we go!{enter}
+BattCon level 1!"
+
+#### 18 ####
+Bart
+"Battle stations, everyone!
+Surface navigation!
+Close the vents!{enter}
+Blow the main tank!{wait:20}
+Prepare for anti-aircraft
+battle upon surfacing!"
+
+#### 19 ####
+Bart
+"Surface-combat!
+Stand by with the
+anti-aircraft guns.{enter}
+Gunner!
+Give me the trigger
+for the Bart Missiles!"
+
+#### 20 ####
+Awww yeah!{enter}
+Switch modes over to
+salvos after the
+initial shots!{enter}
+Let's slow'em down.
+Get ready to give them
+a spankin' they won't
+forget!
+
+#### 21 ####
+Let me handle this!{enter2}
+Whether it's a warship or
+not, it's carrying a new
+Gear!
+
+#### 22 ####
+Gunner!
+Let 'em have it!!
+
+#### 23 ####
+Bart
+"What's up?"
+
+#### 24 ####
+Bart
+"We're near the capital.
+It's probably just some
+kind of ship from there."
+
+#### 25 ####
+Bart
+"Under the sand?{wait:10}
+This is the only sand
+cruiser in all of Aveh!"
+
+#### 26 ####
+Bart
+"...Alright!
+We'll start!
+Ready the shuttle boats!"{wait:10}
+
+#### 27 ####
+Bart
+"When we land,
+hide the ship!"
+
+#### 28 ####
+Bart
+"It's alright,
+Old Maison."
+
+#### 29 ####
+Bart
+"We'll go back to Nisan!"
+
+#### 30 ####
+Bart
+"Margie and them are still
+there. We'll go back!
+We have to!{enter}
+That reminds me...
+What about Fei and his
+guys? If they're alright,
+we could..."
+
+#### 31 ####
+Bart
+"Dammit!
+This can't be happening!"
+
+#### 32 ####
+Bart
+"Behind...?"
+
+#### 33 ####
+Bart
+"Something's coming
+from behind!{enter}
+Jerico! Give me the helm...
+No, you keep it!
+Just hurry up and pull
+either way!!"
+
+#### 34 ####
+Bart
+"Battle stations!
+Deploy the maskers!
+Ready the noisemaker!"
+
+#### 35 ####
+Battle stations, everyone!
+
+#### 36 ####
+Bart
+"Emit noisemaker! Prepare
+to stop the engine!"
+
+#### 37 ####
+Bart
+"Helm...{wait:18} NOW! Steer
+to the opposite direction
+as far as you can!{enter}
+Stop the engine!
+Crash alarm!!"
+
+#### 38 ####
+Stop the engine! 
+Crash alarm!!
+
+#### 39 ####
+I don't hear anything other
+than the flowing sound of
+the sand... No suspicious
+radar activity detected!
+
+#### 40 ####
+Franz
+"I don't hear anything
+other than the surface
+wind waves and our engine.{enter}
+Threat is minimal from
+looking at the radar
+and sonar."
+
+#### 41 ####
+Oh...?
+
+#### 42 ####
+Franz
+"No...for a moment, I
+thought I caught some
+unnatural sounds..."
+
+#### 43 ####
+Franz
+"But it's not from the
+surface... It's from
+under the sand!"
+
+#### 44 ####
+Franz
+"...I can't catch it again.
+It could have been a sand-
+whale..."
+
+#### 45 ####
+Franz
+"There...
+On the surface layer!{enter}
+I'm detecting sounds of
+anchors being weighed
+in and engines being
+activated!{enter}
+The Royal Capital's
+defense fleet must
+be departing...!"
+
+#### 46 ####
+Franz
+"We've had no contact
+since we confirmed their
+order to charge..."
+
+#### 47 ####
+Franz
+"Aft of our stern! 300!
+I'm picking up the sound
+of torpedoes being readied!{enter}
+A sand cruiser!? It's big!
+Speed 60! Relative route
+0-0-0! They were hiding
+behind some baffles!"
+
+#### 48 ####
+Franz
+"I'm picking up some high
+speed propulsion, breaking
+away from the enemy's ship!{enter}
+Torpedoes!? Two of them!
+Speed 87!
+Torpedoes confirmed with
+the sonar.{enter}
+They've shifted over to
+active homing!"
+
+#### 49 ####
+Franz
+"Torpedo...1, still
+pursuing! Dammit!
+Impact in 3!!"
+
+#### 50 ####
+Turret A 'Anton' and Turret
+B 'Belta'{wait:10} can initiate their
+ectropometers twenty seconds
+after opening their hatches.
+
+#### 51 ####
+Gungany...
+No, Bart Missile, fueling!{enter}
+It'll take fifteen seconds
+from opening the hatch
+to engage the illuminator!
+
+#### 52 ####
+Alternate firing between
+A 'Anton' and B 'Belta'!{wait:10}
+Calculating adjustments!
+
+#### 53 ####
+Young master!
+I'm detecting an increase
+in the use of F Band!{enter}
+That's the Royal Capital's
+defense force's frequency!
+
+#### 54 ####
+We also intercepted a
+transmission from the
+patrol at the border
+with Kislev!{enter}
+They're requesting
+immediate backup from
+the Royal Capital!{enter}
+Looks like we've
+really raised some
+hell at the border!
+
+#### 55 ####
+Open jammer!
+Noisemaker, 2nd, 4th
+tube{wait:10}...Standby!
+
+#### 56 ####
+But first mate!
+Now with the effect-fins out
+of order, if you run at full
+speed, the ship wouldn't be
+able to stand the friction!!
+
+#### 57 ####
+First mate!!
+
+#### 58 ####
+Y, young master!{wait:10}
+What is happening?
+What was the alarm
+all about...
+
+#### 59 ####
+Y, young master!!{clear:60}
+
+#### 60 ####
+Maison
+"Y, young master!
+The Gungany Missiles...{enter}
+You need permission from
+more than a half of the
+crew members to..."{clear:78}
+
+#### 61 ####
+Maison
+"Y, young master!{wait:10}
+What is happening?{enter}
+What was the alarm
+all about...?"
+
+#### 62 ####
+Young master, please wait!
+It may just be a
+requisitioned ship,
+not a warship...
+
+#### 63 ####
+Maison
+"Y, young master!{enter}
+I have an awfully bad
+feeling about this{wait:05}...{wait:0A}
+Do be very careful!"
+
+#### 64 ####
+Maison
+"Y, yes...young master...{enter}
+I hear when they attacked
+the fort at the border,
+the Gebler, led by Ramsus,
+routed them.{enter}
+We'd better withdraw for
+now, and reconsider..."
+
+#### 65 ####
+Maison
+"Young master..."
+
+#### 66 ####
+Not again...?
+Young master!
+Hold on a second!
+
+#### 67 ####
+Young master!!{clear:60}
+
+#### 68 ####
+Sigurd
+"Young master! Again!!?"
+
+#### 69 ####
+Sigurd
+"Just doesn't know
+when to give up..."{clear:60}
+
+#### 70 ####
+Sigurd
+"We haven't heard anything
+about a new ship even from
+the spies at Aveh Naval HQ.{enter}
+Franz, can you try again
+and confirm what it is?"
+
+#### 71 ####
+Sigurd
+"It's useless!
+Young master!"
+
+#### 72 ####
+Sigurd
+"Young master...?"
+
+#### 73 ####
+Sigurd
+"Kahr!"
+
+#### 74 ####
+Sigurd
+"Young master!!!"{clear:20}
+
+#### 75 ####
+Sigurd
+"Engine, ready for full
+power!! Jerico! Give me
+the helm over here!"
+
+#### 76 ####
+Sigurd
+"It can 'jump' due to the
+Bernoulli effect on the
+wings' surfaces instead!!"
+
+#### 77 ####
+Sigurd
+"Never mind that!
+The Yggdrasil is nothing
+without the young master!{enter}
+Full power!!
+Maximum speed!!"
+
+#### 78 ####
+Sigurd
+"Eeeeeaaaaarrrrgghh!!!!
+Come on, GO!!!"{clear:40}
+
+#### 79 ####
+Sigurd
+"Seems like they're
+watching us."
+

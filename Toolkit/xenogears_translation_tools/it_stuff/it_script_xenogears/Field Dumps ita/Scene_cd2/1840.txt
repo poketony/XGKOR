@@ -1,0 +1,785 @@
+<TextBlock 1 w:60 h:8>
+Sogni<Delay 5>…<Delay 45>
+ 
+Io stavo sognando<Delay 5>…<Delay 15>
+Può darsi che non fosse
+altro che un ricordo da
+lungo tempo dimenticato<Delay 5>…<Delay 30>
+ 
+Un sogno<Delay 5>…<Delay 15>
+Un ricordo<Delay 5>…<Close><End of Block>
+<TextBlock 2 w:50 h:10>
+ 
+Cose ricordate quando
+si è dormienti<Delay 5>…<Delay 30>
+E dimenticate quando
+si è desti<Delay 5>…<Delay 45>
+ 
+Dove i ricordi più remoti<Delay 15>
+finiscono per fondersi ai
+sogni di una persona<Delay 5>…<New>
+ 
+Quali sono realtà?<Delay 10>
+Quali illusioni?<Delay 10>
+Non lo si può dire
+finché non si è desti<Delay 5>…<Delay 30>
+ 
+O forse sono, allo stesso<Delay 5>
+tempo, entrambe le cose<Delay 5>…
+Verità e finzione<Delay 5>…<Close><End of Block>
+<TextBlock 3 w:48 h:11>
+Un'immensa nebulosa<Delay 5>…<Delay 15>
+Senza limite<Delay 5>…<Delay 30>
+ 
+Un vuoto uguale alla
+mia stessa esistenza<Delay 5>…<Delay 45>
+ 
+Questo sogno ho sognato<Delay 5>…<Delay 30>
+ 
+Un lungo<Delay 5>…<Delay 15>
+ed infinito…<Delay 15>
+Sogno<Delay 5>…<Close><End of Block>
+<TextBlock 4 w:50 h:8>
+'Elly'<Delay 5>…<Delay 45>
+ 
+C'era un tempo in cui
+lei portava questo nome.<Delay 15>
+Un tempo in cui ci eravamo
+appena incontrati<Delay 5>…<Delay 15>
+Un tempo in cui tra di noi
+non c'era nulla d'importante<Delay 5>…<New>
+ 
+Ed era meglio così<Delay 5>…<Delay 15>
+Soltanto due persone…<Delay 5>
+insieme<Delay 5>…<Delay 45>
+ 
+Sarebbe stato meglio
+lasciare che tutto
+rimanesse in quel modo<Delay 5>…<Close><End of Block>
+<TextBlock 5 w:52 h:8>
+Sogni<Delay 5>…<Delay 45>
+ 
+La vita di un uomo
+chiamato Lacan<Delay 5>…<Delay 15>
+E le vite di un'infinità
+di altri uomini<Delay 5>…<Delay 30>
+ 
+Solo e soltanto sogni<Delay 5>…<Close><End of Block>
+<TextBlock 6 w:52 h:8>
+Ora che mi sono svegliato,<Delay 5>
+quelle migliaia di lunghi,<Delay 5>
+strazianti<Delay 5> sogni…
+mi sono quasi impossibili
+da ricordare<Delay 5>…<New>
+ 
+In quei sogni…<Delay 5>
+io amavo una donna<Delay 5>…<Delay 15>
+Non importa il giorno…<Delay 15>
+Non importa l'epoca<Delay 5>…<Delay 15>
+Il mio amore non cambiava<Delay 5>…<Delay 45>
+ 
+E tantomeno il suo nome<Delay 5>…<Close><End of Block>
+<TextBlock 7 w:54 h:12>
+Quel sogno<Delay 5> mi ha cambiato<Delay 5>…<Delay 30>
+Quel sogno è stato per me la
+spinta che mi ha fatto capire
+lo scopo della mia vita…<Delay 30>
+ 
+Adesso credo di sapere<Delay 5>…<Delay 15>
+cosa devo fare<Delay 5>…<Delay 30>
+ 
+Quel lungo, interminabile
+ricordo di un sogno<Delay 5>…<Delay 30>
+Può darsi che facesse
+parte dei ricordi della
+mia anima<Delay 5>…<Close><End of Block>
+<TextBlock 8 w:52 h:8>
+Un sogno<Delay 5>…<Delay 45>
+ 
+Stavo sognando<Delay 5>…<Delay 15>
+O forse era un ricordo
+di un lontano passato<Delay 5>…<Delay 30>
+ 
+Un sogno<Delay 5>…<Delay 15>
+Un ricordo<Delay 5>…<Close><End of Block>
+<TextBlock 9 w:60 h:10>
+Quelle parole ero
+incapace di proferire<Delay 5>…<Delay 15>
+Quel giorno<Delay 5>…<Delay 5>
+Quel momento<Delay 5>…<Delay 30>
+ 
+Quei pensieri incapace
+di realizzare<Delay 5>…<New>
+Parole e pensieri<Delay 5>…<Delay 5>
+Il legame tra i due<Delay 5>…<Delay 45>
+ 
+Senza le parole,<Delay 5> i pensieri
+non possono essere espressi<Delay 5>…<Delay 10>
+Senza pensieri,<Delay 5> non ci
+sono parole<Delay 5>…<Delay 15>
+Due cose inscindibili<Delay 5>…<New>
+Mai possono essere divise<Delay 5>…<Delay 10>
+Come le ali degli angeli<Delay 5>…<Delay 10>
+Come l'uomo e la donna<Delay 5>…<Close><End of Block>
+<TextBlock 10 w:58 h:13>
+Un destino immutabile<Delay 5>…<Delay 15>
+Sentimenti che si vorrebbero
+poter cambiare<Delay 5>…<Delay 30>
+ 
+Incontrarmi con la persona
+che mi avrebbe cambiata<Delay 5>…<Delay 5>
+E vedere me stessa cambiare<Delay 5>…<Delay 45>
+ 
+Questo ho sognato<Delay 5>…<Delay 30>
+ 
+Un lungo<Delay 5>…<Delay 15>
+infinito…<Delay 15>
+Sogno<Delay 5>…<Close><End of Block>
+<TextBlock 11 w:60 h:7>
+'Elhaym'<Delay 5>…<Delay 45>
+ 
+Mi è sempre piaciuto quel nome<Delay 5>…<Delay 15>
+Perché, la prima volta che lo
+incontrai, era così che lui
+mi chiamava<Delay 5>…<Delay 30>
+ 
+Questo è il mio vero nome<Delay 5>…<Delay 5><Close><End of Block>
+<TextBlock 12 w:52 h:8>
+Sogni<Delay 5>…<Delay 45>
+ 
+La vita di una donna di
+nome Sofia<Delay 5>…<Delay 15>
+E le vite di un'infinità
+di altre donne<Delay 5>…<Delay 30>
+ 
+Solo e soltanto sogni<Delay 5>…<Close><End of Block>
+<TextBlock 13 w:52 h:8>
+Ora che mi sono svegliata,<Delay 5>
+quelle migliaia di lunghi,<Delay 5>
+strazianti<Delay 5> sogni…
+mi sono quasi impossibili
+da ricordare<Delay 5>…<New>
+ 
+In quei sogni,
+io amavo un uomo<Delay 5>…<Delay 15>
+Non importa il giorno…<Delay 15>
+Non importa l'epoca<Delay 5>…<Delay 15>
+Il mio amore non cambiava<Delay 5>…<Delay 45>
+ 
+Ma soltanto il suo nome<Delay 5>…<Close><End of Block>
+<TextBlock 14 w:54 h:12>
+Quel sogno<Delay 5> mi ha cambiata<Delay 5>…<Delay 30>
+Quel sogno è stato per me la
+spinta che mi ha fatto capire
+lo scopo della mia vita…<Delay 30>
+ 
+Adesso credo di sapere<Delay 5>…<Delay 15>
+cosa devo fare<Delay 5>…<Delay 30>
+ 
+Quel lungo, interminabile
+ricordo di un sogno<Delay 5>…<Delay 30>
+Può darsi che facesse
+parte dei ricordi della
+mia anima<Delay 5>…<Close><End of Block>
+<TextBlock 15 w:62 h:5>
+Per spargere dappertutto le
+nanomacchine, Esmeralda ed
+io ci diregemmo verso una
+delle rovine della civiltà
+di Zeboim… lo stabilimento
+chiamato Propulsore.<Close><End of Block>
+<TextBlock 16 w:58 h:5>
+Fortunatamente, l'impianto
+era ancora attivo, e ciò ci
+permise di procedere senza
+difficoltà verso la sala
+di controllo centrale.<Close><End of Block>
+<TextBlock 17 w:62 h:6>
+Durante il tragitto, notammo
+diversi missili e razzi
+giganteschi, che erano stati
+creati durante l'epoca di
+Zeboim<Delay 5>…<New>
+Si ergevano come lapidi di
+quell'antica civiltà.<Delay 45>
+ 
+Esso era un cimitero per
+una stirpe di uomini che si
+uccidevano gli uni con gli
+altri per superbia e arroganza.<Close><End of Block>
+<TextBlock 18 w:54 h:10>
+Una volta arrivate alla sala
+di controllo centrale, ci
+incontrammo con Shitan, il
+quale ci aiutò ad attivare
+il Propulsore.<Delay 45>
+ 
+Dunque, riuscimmo a lanciare
+la capsula contenente le
+nanomacchine, che avrebbero
+sciolto il sigillo, che era
+chiamato -Limitatore-.<Close><End of Block>
+<TextBlock 19 w:56 h:10>
+Le nanomacchine che furono
+sparse per l'alta atmosfera
+iniziaro a moltiplicarsi ed
+a spargersi in tutto il mondo.<Delay 30>
+ 
+Esse luccicavano per
+la luce del sole.<Delay 15>
+E scorrevano nel cielo
+come un grande fiume<Delay 5>…<New>
+ 
+Quel luccichio avrebbe
+sciolto<Delay 5> le 'catene' che
+legavano tutte le persone.<Delay 30>
+ 
+Doveva essere la nostra luce
+di speranza, per riprenderci
+la nostra vera libertà<Delay 5>…<Close><End of Block>
+<TextBlock 20 w:58 h:11>
+Mentre Fei e gli altri erano
+alla ricerca del luogo in
+cui si trovava l'ultimo
+Contenitore dell'Anima
+conosciuto, io ero tornata
+temporaneamente a Nisan.<Delay 30>
+ 
+Non so perché tornai lì.<Delay 30>
+Questo<Delay 5>…<Delay 20> era ciò che sentivo
+dentro il mio cuore<Delay 5>…<Delay 15> che la
+gente di Nisan fosse in
+pericolo<Delay 5>…<Delay 5><Close><End of Block>
+<TextBlock 21 w:56 h:8>
+Tutta la gente accolta dentro
+Nisan era sulla buona strada
+per la guarigione.<Delay 15>
+C'erano alcuni che non erano
+ancora in grado di riprendersi
+del tutto, ma le nanomacchine
+di Taura continuavano ad
+evolversi giorno dopo giorno.<New>
+Grazie alle nanomacchine, le
+cure divenivano sempre più
+efficaci,<Delay 5> ed il giorno in cui
+tutti avrebbero riottenuto
+il loro corpo e la loro forma
+originaria si stava avvicinando.<Close><End of Block>
+<TextBlock 22 w:56 h:13>
+  Un terremoto<Delay 5>…<Delay 30>
+ 
+Ci fu un'esplosione improvvisa
+nella città di Nisan. Nel bel
+mezzo del fuoco che lì ardeva<Delay 5>…<Delay 15>
+si ergeva un Omnigear dorato<Delay 5>…<Delay 30>
+ 
+  Era Ramsus.<Delay 15>
+  Aveva assalito Nisan per
+  poter sconfiggere Fei.<Delay 30>
+ 
+  In palio c'era il perché
+  della sua esistenza<Delay 5>…<Close><End of Block>
+<TextBlock 23 w:58 h:12>
+Né le forze armate di Nisan e
+di Shevat,<Delay 5> né Renk ed i suoi
+amici poterono contrastare
+l'assalto.<New>
+La gente fu fatta evacuare
+dentro la cattedrale.<Delay 15>
+Mentre continuava a cercare
+Fei, Ramsus mise allo
+sbaraglio le forze armate e
+procedeva verso la cattedrale<Delay 5>…<Delay 45>
+ 
+La sua mente era<Delay 5>…<Delay 5> devastata<Delay 5>…<Delay 15>
+L'unico suo pensiero era
+di prendere Fei…<Delay 30>
+ 
+  Mi alzai e mi posi
+  di fronte a lui.<Close><End of Block>
+<TextBlock 24 w:54 h:4>
+Ramsus
+"Dov'è!<Delay 5> Dov'è lui!?<Delay 5>
+Lo so!<Delay 5> È qui!<Delay 5>
+Perché non viene fuori!?"<Close><End of Block>
+<TextBlock 25 w:44 h:4>
+Elly
+"Ramsus!<Delay 15>
+Il Fei che vai
+cercando non è qui!<New>
+Perciò, ti prego,
+ferma tutta questa
+insensata violenza!"<Close><End of Block>
+<TextBlock 26 w:30 h:4>
+Ramsus
+"Tu<Delay 5>…<Delay 15>
+Sì<Delay 5>…<Delay 5>
+Tu farai da<Delay 5>…"<Close><End of Block>
+<TextBlock 27 w:50 h:4>
+Ramsus
+"Esci fuori!<Delay 5> Fei!<Delay 15>
+Se non verrai fuori,<Delay 5>
+schiaccerò Elhaym!"<Close><End of Block>
+<TextBlock 28 w:20 h:2>
+Elly
+"Uugh<Delay 5>…<Delay 5>!"<Close><End of Block>
+<TextBlock 29 w:14 h:2>
+Margie
+"Elly!"<Close><End of Block>
+<TextBlock 30 w:18 h:2>
+Renk
+"Capo<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 31 w:28 h:2>
+Elly
+"State indietro<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 32 w:50 h:4>
+Ramsus
+"Non esci, eh<Delay 5>…<Delay 5>
+Fa' pure come vuoi.<New>
+Da questa notte piangerai
+mentre tieni tra le tue
+braccia il corpo morto
+di questa donna!"<Close><End of Block>
+<TextBlock 33 w:24 h:2>
+<Opcode 1 255>Elly
+"Uuuaaahhh!"<Opcode 2 60><Close><End of Block>
+<TextBlock 34 w:38 h:4>
+Ramsus
+"Ma come!?<Delay 5> Che è
+successo!?<Delay 15> Perché non
+riesco a muovermi!?"<Close><End of Block>
+<TextBlock 35 w:14 h:2>
+Margie
+"Elly!"<Close><End of Block>
+<TextBlock 36 w:32 h:2>
+Renk
+"Sta bene!?"<Close><End of Block>
+<TextBlock 37 w:42 h:3>
+Ramsus
+"Come<Delay 5> ho potuto…<Delay 5> sconfitto
+da gente come voi<Delay 5>…?"<Close><End of Block>
+<TextBlock 38 w:48 h:4>
+Ramsus
+"N…<Delay 5> non solo a lui,<Delay 5> ma
+anche inferiore a voi<Delay 5>…!?<Delay 5>
+Io!?"<Close><End of Block>
+<TextBlock 39 w:34 h:3>
+Elly
+"Cosa ti è successo,
+Ramsus<Delay 5>…?"<Close><End of Block>
+<TextBlock 40 w:52 h:3>
+Elly
+"Perché sei così
+ossessionato da Fei…<New>
+Perché t'infastidisce
+sapere chi è superiore?"<Close><End of Block>
+<TextBlock 41 w:52 h:4>
+Ramsus
+"Io fui creato in origine…
+per fondere in me tutte le
+abilità umane<Delay 5>…<New>
+…<Delay 5> Per essere in grado
+di allinearmi con tutti i
+Contenitori dell'Anima<Delay 5>…<New>
+Io fui creato per avere
+poteri di pari valore a
+quelli dell'Imperatore
+Caino.<New>
+Si potrebbe dire che io
+dovevo essere l'uomo
+ideale, che ogni persona
+sogna di divenire<Delay 5>…<New>
+Tuttavia<Delay 5>…<Delay 5> dopo che fu nato
+lui,<Delay 5> io fui<Delay 5>…<Delay 5> scartato<Delay 5>…<Delay 5>
+…<Delay 5> Venni alla luce dentro
+un cumulo di <Delay 5>rifiuti<Delay 5>…<New>
+…<Delay 5> Nato nell'oscuro, freddo<Delay 5>
+abisso dell'<Delay 5>inutilità<Delay 5>…"<Close><End of Block>
+<TextBlock 42 w:54 h:4>
+Ramsus
+"Ma riuscii a strisciare
+fuori da lì<Delay 15>…!<New>
+Riuscii a sopravvivere
+grazie alla mia stessa
+forza!<New>
+E questo per vendicarmi di
+tutti coloro che m'avevano
+abbandonato<Delay 15>…!<New>
+Malgrado tutto, sono
+riuscito ad arrivare
+tanto lontano!<New>
+Sono riuscito a
+procacciarmi il calore
+di cui avevo bisogno
+per continuare a vivere!"<Close><End of Block>
+<TextBlock 43 w:54 h:4>
+Ramsus
+"Ma lui… doveva venire ed
+interferire nella mia
+vita ancora una volta!<New>
+Ha cercato di portarmi via
+di nuovo quel calore!<Delay 30>
+Finché lui vivrà<Delay 5>…<Delay 10> io
+non avrò una casa<Delay 5>…"<Close><End of Block>
+<TextBlock 44 w:50 h:4>
+Elly
+"Adesso credo di sapere
+perché sei così
+ossessionato da Fei<Delay 5>…<New>
+In questo momento, non
+sai proprio cosa dovresti
+fare della tua vita.<New>
+Tu stai solo cercando di
+proteggerti attaccando
+Fei<Delay 5>…<New>
+Attaccando gli altri,<Delay 5>
+provi a te stesso che
+esisti."<Close><End of Block>
+<TextBlock 45 w:50 h:4>
+Elly
+"Per questo ti sforzi
+a essere superiore ad
+ogni altra persona<Delay 5>…<New>
+Perché, altrimenti, tu
+sprofonderesti nel vuoto<Delay 5>…<Delay 15>
+Perché scompariresti<Delay 5>…<New>
+Perché quel vuoto dentro
+il tuo cuore non farà
+altro che crescere<Delay 5>…<New>
+Perché vuoi continuare
+ad amare<Delay 5>…"<Close><End of Block>
+<TextBlock 46 w:20 h:2>
+Ramsus
+"Silenzio!"<Close><End of Block>
+<TextBlock 47 w:46 h:4>
+Ramsus
+"Anche tu stai cercando
+di portarmelo via!?<Delay 15>
+…<Delay 5> Quel calore!<New>
+Proprio quel calore che
+finalmente ero riuscito
+ad ottenere!"<Close><End of Block>
+<TextBlock 48 w:52 h:3>
+Elly
+"Ramsus<Delay 5>…<Delay 15>
+Nessuno ti sta attaccando.<New>
+Nessuno sta cercando di
+portarti via ciò che ti
+è tanto prezioso<Delay 5>…<New>
+Nessuno sta mettendo
+in pericolo la tua
+esistenza…"<Close><End of Block>
+<TextBlock 49 w:52 h:4>
+Elly
+"Sono tutte delle tue
+fantasie.<Delay 5> Perciò, non
+nascondere i sentimenti<Delay 5>…<New>
+… che si trovano nel tuo
+cuore.<Delay 5> Non aver paura di
+amare e di essere amato<Delay 5>…"<Close><End of Block>
+<TextBlock 50 w:26 h:4>
+Ramsus
+"T… tu<Delay 5>…<Delay 5>
+Ora tu<Delay 5>…<Delay 15>
+Aaarrrgghhh!"<Close><End of Block>
+<TextBlock 51 w:52 h:12>
+Ramsus aveva paura.<Delay 45>
+ 
+ Aveva paura di perdere il
+   posto a cui apparteneva<Delay 5>…<Delay 15>
+   Aveva paura che Fei fosse
+    quello che glielo avrebbe
+     portato via<Delay 5>…<Delay 30>
+ 
+Credeva che l'amore fosse
+ una cosa che si prende<Delay 5>…<Delay 60>
+  Bramava l'amore più di
+   chiunque altro<Delay 5>…<Close><End of Block>
+<TextBlock 52 w:58 h:8>
+Improvvisamente scoppiarono
+delle urla.<Delay 30> Anche la gente
+che non era mutata si stava
+trasformando…
+              in dei Wels.<Delay 45>
+ 
+Le loro urla parevano
+urla di guerra, come se
+chiamassero qualcosa.<Close><End of Block>
+<TextBlock 53 w:52 h:12>
+Ciò era accaduto perché
+Ramsus, manipolato da
+Krelian e Miang, aveva
+assassinato l'Imperatore.<Delay 45>
+ 
+Ora,<Delay 5> con nulla che lo potesse
+ostacolare,<Delay 5> il Ministero si era
+servito della<Delay 5> 'Chiave di Goetia'<Delay 5>…<Delay 30>
+ 
+La conseguenza fu la mutazione
+della gente che era stata<Delay 5>
+prescelta da dio.<Close><End of Block>
+<TextBlock 54 w:60 h:11>
+La gente prescelta da dio,
+senza fare differenza tra
+abitanti della superficie
+e Solariani, iniziò a
+cambiare forma… ogni
+persona, una dopo l'altra<Delay 5>…<Delay 15>
+ 
+Quelle urla provenivano dalla
+gente, la stessa gente diffusasi
+per tutta la terra. E le urla
+annunciavano la venuta di dio.<New>
+"<Delay 3>Dopo<Delay 3> che l'uomo<Delay 3> avrà<Delay 3> popolato<Delay 3>
+<Delay 3> la terra<Delay 3>, dio<Delay 3> si desterà<Delay 3> dal
+<Delay 3> suo lungo<Delay 3> sonno<Delay 5>…<Delay 5>
+ <Delay 3>A quel<Delay 3> punto,<Delay 3> anche<Delay 3> Mahanon,<Delay 3>
+  <Delay 3>il paradiso<Delay 3> celeste,<Delay 3> si
+   <Delay 3>risveglierà<Delay 5>…"<Delay 45>
+ 
+Alla fine, si stava iniziando a
+comprendere il vero significato
+di ciò che era stato detto dal
+Ministero…<Delay 5> e la vera natura
+<Delay 5>di quella leggenda.<Close><End of Block>
+<TextBlock 55 w:56 h:13>
+Questo era ciò che intendevano
+quando dicevano "<Delay 3>Una volta<Delay 3> che
+<Delay 3>l'uomo<Delay 3> avrà<Delay 3> popolato<Delay 3> la terra"<Delay 5>…<Delay 30>
+ 
+Infine,<Delay 5> Mahanon,<Delay 5> il luogo di
+riposo di dio,<Delay 5> si destò dal
+suo interminabile sonno ed
+iniziò a sollevarsi<Delay 5>…<Delay 5>
+<Delay 5>…<Delay 5> quasi come se rispondesse
+al richiamo della gente.<Delay 45>
+ 
+Apparve innanzi a noi in
+tutta la sua maestosità<Delay 5>…<Close><End of Block>
+<TextBlock 56 w:58 h:12>
+Solaris ed il Ministero di Gazel
+inviarono lì un'immensa forza
+militare per ottenere "dio
+ed il suo sapere".
+ 
+… Ma, a quel punto, né il
+vero popolo di Solaris, né
+l'organizzazione conosciuta
+come Geburah, esistevano più.
+ 
+L'unica cosa che era rimasta…
+era una quantità inimmaginabile
+di armi.<Close><End of Block>
+<TextBlock 57 w:54 h:7>
+Quasi tutti i Solariani erano
+stati trasfigurati in armi…
+ 
+Il Ministero di Gazel ora
+regnava su di essi come
+loro comandante.<Close><End of Block>
+<TextBlock 58 w:50 h:9>
+In nessun modo potevamo
+permettere che dio o la
+sua saggezza cadessero
+nelle mani del Ministero.
+ 
+Decidemmo di riunire tutte
+le nostre forze residue e
+dirigerci verso Mahanon.<New>
+Era una battaglia pericolosa.
+Non c'era garanzia che
+saremmo tornati vivi.
+ 
+Dovevamo attuare il piano
+all'alba. Quindi, dovetti
+prendere una decisione
+dura nei confronti 'di lei'…<Close><End of Block>
+<TextBlock 59 w:56 h:9>
+Sopraffatta da una paura
+indescrivibile, decisi di
+salire verso Shevat, che
+si era collocata nei cieli
+sopra Nisan.<New>
+Trovai lì ad aspettarmi
+un messaggio da parte
+di Krelian…<Delay 45>
+ 
+Mi disse che se volevo
+salvare Fei e gli altri,
+sarei dovuta andare
+al Golgotha.<Delay 30>
+ 
+Era me che Krelian voleva.<Close><End of Block>
+<TextBlock 60 w:58 h:9>
+Per poter salvare Fei e gli
+altri miei amici, partii
+dentro l'ultimo Omnigear
+rimasto, quello che si
+trovava a Shevat… Regulus.<Delay 45>
+ 
+La paura che avevo prima di
+guidare questa macchina era
+superata dal mio desiderio
+di salvare le persone a
+me care.<Close><End of Block>
+<TextBlock 61 w:44 h:3>
+Renk
+"È davvero sicura di
+voler andare tutta
+da sola!?"<Close><End of Block>
+<TextBlock 62 w:38 h:3>
+Elly
+"Krelian mi ha detto
+di andare da sola."<Close><End of Block>
+<TextBlock 63 w:52 h:3>
+Elly
+"Non posso permettermi di
+infrangere l'accordo.<New>
+Dunque, vi prego, restate
+qui e proteggete tutta
+la gente di questo posto."<Close><End of Block>
+<TextBlock 64 w:38 h:2>
+Helmholtz
+"Ma…<Delay 5> è una trappola!"<Close><End of Block>
+<TextBlock 65 w:18 h:2>
+Elly
+"Lo so."<Close><End of Block>
+<TextBlock 66 w:24 h:2>
+Strakki
+"E allora perché!?"<Close><End of Block>
+<TextBlock 67 w:50 h:4>
+Elly
+"Se non ci vado, Fei e gli
+altri saranno sicuramente
+giustiziati…<New>
+A Krelian non interessa
+nessuno, eccetto me."<Close><End of Block>
+<TextBlock 68 w:48 h:4>
+Renk
+"E cosa le fa pensare che
+onorerà la sua parte
+dell'accordo?<New>
+Come fa a sapere che
+riuscirà a salvare i
+suoi amici agendo in
+questo modo?"<Close><End of Block>
+<TextBlock 69 w:14 h:2>
+Elly
+"Nulla<Delay 5>…"<Close><End of Block>
+<TextBlock 70 w:40 h:2>
+Franz
+"Ma allora è
+un suicidio!"<Close><End of Block>
+<TextBlock 71 w:28 h:2>
+Elly
+"Potrebbe esserlo."<Close><End of Block>
+<TextBlock 72 w:48 h:4>
+Elly
+"Ma…<Delay 5> sono arrivata fin qui
+grazie a Fei ed agli
+altri…<New>
+Perché loro mi hanno
+accettata come loro
+amica."<Close><End of Block>
+<TextBlock 73 w:54 h:3>
+Renk
+"Se lei se ne andrà…
+che ne sarà di noi…?<New>
+Che ne sarà di tutta la
+gente che si è radunata
+a Nisan e che lei si
+lascerà alle spalle?<New>
+La fede spirituale di
+tutta la gente dipende
+solo da lei."<Close><End of Block>
+<TextBlock 74 w:54 h:4>
+Elly
+"La gente di Nisan
+starà bene.<New>
+Possono reggersi sui
+loro stessi piedi senza
+il mio aiuto<Delay 35>…<New>
+E questo vale anche
+per voi,<Delay 5> o sbaglio?"<Close><End of Block>
+<TextBlock 75 w:40 h:3>
+Broyer
+"Ma perché fa così
+tanto per lui<Delay 5>…?"<Close><End of Block>
+<TextBlock 76 w:50 h:3>
+Elly
+"Non lo so<Delay 5>…<New>
+Credo che essere egoiste
+sia un diritto di noi
+donne<Delay 5>…<Delay 5> forse."<Close><End of Block>
+<TextBlock 77 w:54 h:2>
+Helmholtz
+"Un diritto di
+voi donne…?"<Close><End of Block>
+<TextBlock 78 w:50 h:4>
+Elly
+"Io non sono assolutamente
+una santa. Sono una donna
+normalissima.<New>
+Mi arrabbio<Delay 5>…<Delay 5>
+Piango<Delay 5>…<Delay 5>
+Rido<Delay 5>…<New>
+Anche se a volte mi
+arrabbio con gli altri,
+so anche come amarli.<New>
+Amare un'intera massa
+di gente a volte<Delay 5>…<Delay 5> ed
+altre volte amare
+solo una persona<Delay 5>…<New>
+Abbracciare l'uomo che
+amo significa per me
+una gioia immensa."<Close><End of Block>
+<TextBlock 79 w:54 h:4>
+Elly
+"Dando a lui ciò che ho,
+e ricevendo ciò che lui
+dà a me…<New>
+… diveniamo un
+corpo solo<Delay 5>…<Delay 45><New>
+Quello è il momento in
+cui mi sento più in
+pace con me stessa."<Close><End of Block>
+<TextBlock 80 w:52 h:4>
+Elly
+"È semplice… come donna,
+voler salvare l'uomo che
+amo è mio diritto!"<Close><End of Block>
+<TextBlock 81 w:18 h:2>
+Franz
+"Capo<Delay 5>…"<Close><End of Block>
+<TextBlock 82 w:46 h:3>
+Elly
+"Mi dispiace<Delay 15>…<Delay 5> per aver
+detto delle cose
+così egoistiche."<Close><End of Block>
+<TextBlock 83 w:50 h:3>
+Elly
+"Io andrò lì, e farò tutto
+ciò che posso per i miei
+amici.<New>
+Perciò voglio che anche
+voi facciate tutto ciò
+che potete per i nostri
+amici di Shevat e Nisan."<Close><End of Block>
+<TextBlock 84 w:10 h:2>
+Renk
+"<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 85 w:38 h:3>
+Elly
+"Beh,<Delay 5> ora farei meglio
+ad andare…"<Close><End of Block>
+<TextBlock 86 w:38 h:1>
+Mappa Debug Monologhi 1<Close><End of Block>
+<TextBlock 87 w:46 h:8>
+<Opcode 1 255>Xeno - Livello Monologhi
+    Primo sogno di Fei
+    Primo sogno di Elly
+    Diffusione Nanomacchine
+    Le Urla
+    Mahanon si Solleva
+    La Decisione di Elly
+    Fine Monologhi<Close><Close><End of Block>

@@ -1,0 +1,24 @@
+<TextBlock 1 w:48 h:3>
+Billy
+"Ma che succede?<New>
+Questi tizi in nero
+intendono uccidere
+tutti noi che siamo
+con la Chiesa?"<Close><End of Block>
+<TextBlock 2 w:52 h:2>
+Sei un Redentore!<New>
+E quelli della Chiesa
+meritano soltanto una
+cosa… la<Delay 30> morte!!<Close><End of Block>
+<TextBlock 3 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 4 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 5 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 6 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><Close><End of Block>

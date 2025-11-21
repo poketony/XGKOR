@@ -1,0 +1,24 @@
+<TextBlock 1 w:50 h:4>
+Fei
+"Sembra una specie di
+stazione relè verso
+l'alta atmosfera."<Close><End of Block>
+<TextBlock 2 w:50 h:3>
+Fei
+"Se scendiamo, potremmo
+non essere in grado di
+tornare indietro."<Close><End of Block>
+<TextBlock 3 w:38 h:3>
+Fei
+"Si può controllare
+da questa stanza?"<Close><End of Block>
+<TextBlock 4 w:38 h:4>
+Fei
+"Sembra che il 
+sistema di movimento
+funzioni ancora."<Close><End of Block>
+<TextBlock 5 w:46 h:3>
+Fei
+"Sembra che si possa
+entrare passando da
+questa parte."<Close><Close><End of Block>

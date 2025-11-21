@@ -1,0 +1,82 @@
+<TextBlock 1 w:36 h:4>
+Maison
+"Oh, Padroncino!
+Non vi siete ancora
+riposato?"<Close><End of Block>
+<TextBlock 2 w:42 h:4>
+Bart
+"Vecchio Maison, c'è
+una cosa che vorrei
+chiederti."<Close><End of Block>
+<TextBlock 3 w:26 h:2>
+Maison
+"Cosa?"<Close><End of Block>
+<TextBlock 4 w:48 h:2>
+Bart
+"Dov'è nato Sigurd?"<Close><End of Block>
+<TextBlock 5 w:46 h:2>
+Maison
+"Padroncino, ecco…"<Close><End of Block>
+<TextBlock 6 w:48 h:3>
+Bart
+"Ha gli occhi blu… è
+il Diaspro di Fatima."<Close><End of Block>
+<TextBlock 7 w:48 h:4>
+Maison
+"… Ecco…<Delay 50>
+È successo tanto
+tempo fa.<New>
+Quando sua Maestà ed
+io eravamo giovani…<New>
+Molto prima che
+lui conoscesse
+vostra madre.<New>
+Sua Maestà si era
+innamorato di una
+ragazza di una piccola
+setta religiosa.<New>
+Questa setta era un po'
+diversa da Nisan e dalla
+Chiesa e si trovava
+ad est di Aveh.<New>
+Ella era molto bella.<New>
+Poi… lei sparì.
+In seguito ci furono
+chiacchiere che lei
+avesse avuto un figlio."<Close><End of Block>
+<TextBlock 8 w:48 h:3>
+Bart
+"Sparì? Mio padre
+la abbandonò?"<Close><End of Block>
+<TextBlock 9 w:50 h:4>
+Maison
+"Da quello che so,
+fu l'opposto.<New>
+Fu sua Maestà ad
+essere abbandonato."<Close><End of Block>
+<TextBlock 10 w:38 h:3>
+Bart
+"Sig proviene dal
+deserto ad est di
+Aveh…"<Close><End of Block>
+<TextBlock 11 w:54 h:4>
+Maison
+"Sì. All'età di 10 anni
+fu assegnato a sua Maestà
+Re Edbart, come scudiero."<Close><End of Block>
+<TextBlock 12 w:48 h:3>
+Maggiore Vanderkam!
+Portare questa cosa
+nella stanza…<New>
+Sarà difficile pulire
+con questa cosa qui.<Close><End of Block>
+<TextBlock 13 w:48 h:4>
+Pensavo che Maison
+volesse pulirla per me, 
+ma appena l'ha vista
+si è così agitato!<New>
+Uomini…<Close><End of Block>
+<TextBlock 14 w:70 h:3>
+<Opcode 1 255>Probabilmente lì c'è una guardia…
+    Apri la porta
+    Da' solo un'occhiata<Close><Close><End of Block>

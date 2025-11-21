@@ -1,0 +1,7 @@
+#### 1 ####
+Elhaym!!{clear:2D}
+
+#### 2 ####
+Abel{wait:0A}...!{wait:1E}
+Live{wait:0A}...!{wait:64}{wait:64}
+

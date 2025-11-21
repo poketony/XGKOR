@@ -1,0 +1,98 @@
+#### 1 ####
+Fei
+"Uh! You again!?"
+
+#### 2 ####
+Fei
+"What are you
+talking about!?"
+
+#### 3 ####
+Fei
+"Uuaaaaahhhhh!"{clear:1E}
+
+#### 4 ####
+Elly
+"Fei!!"{clear:1E}
+
+#### 5 ####
+Elly
+"Fei!!"
+
+#### 6 ####
+Ramsus
+"Miang,
+is that him?"
+
+#### 7 ####
+Ramsus
+"Right.
+I've got him!"
+
+#### 8 ####
+Ramsus
+"I have been
+looking for you!
+My arch rival!!"
+
+#### 9 ####
+Ramsus
+"...I see you have a
+different machine...{enter}
+So, what happened to
+your 'other Gear'!?"
+
+#### 10 ####
+Ramsus
+"Not to matter...{enter}
+At any rate, until
+I eliminate you,
+there will never be
+any 'light' for me!!"
+
+#### 11 ####
+Ramsus
+"Tch!
+Is that all you
+have to give!!{enter}
+Well too bad!
+No matter what...
+I can't let you live!"
+
+#### 12 ####
+Ramsus
+"And now for the
+'coup de grace'!!"
+
+#### 13 ####
+Ramsus
+"Wh, what!?
+Aerods!?
+Who the...!?"
+
+#### 14 ####
+Ramsus
+"!!
+Uuuooohhhh!"
+
+#### 15 ####
+Ramsus
+"Tch!
+My main tank...
+I almost had him!{enter}
+Dammit!
+...We have to
+retreat, Miang!"
+
+#### 16 ####
+Miang
+"Yes, he's in the
+black Gear in the
+center there."
+
+#### 17 ####
+£¾Armor breach{wait:1E}
+ Water flooding cockpit!{wait:1E}
+ Pilot's vital signs
+ are declining...{clear:78}
+

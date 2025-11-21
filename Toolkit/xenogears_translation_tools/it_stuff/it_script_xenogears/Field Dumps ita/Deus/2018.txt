@@ -1,0 +1,327 @@
+<TextBlock 1 w:38 h:2>
+Fei
+"Ok, andiamo!"<Close><End of Block>
+<TextBlock 2 w:22 h:3>
+Elly
+"…! Fei, guarda!"<Close><End of Block>
+<TextBlock 3 w:48 h:4>
+Elly
+"Pensi che abbiamo bisogno
+di usare quel portale per…<New>
+… arrivare al
+piano inferiore?"<Close><End of Block>
+<TextBlock 4 w:40 h:4>
+Elly
+"Andiamo, Fei."
+    Salta nel portale
+    Non ancora<Close><End of Block>
+<TextBlock 5 w:32 h:2>
+Elly
+"Che… cos'è?"<Close><End of Block>
+<TextBlock 6 w:46 h:2>
+Elly
+"Indaghiamo."<Close><End of Block>
+<TextBlock 7 w:30 h:2>
+Shitan
+"Fei, lì…"<Close><End of Block>
+<TextBlock 8 w:40 h:4>
+Shitan
+"Potremmo essere in grado
+di raggiungere un piano
+inferiore…<New>
+… attraversando
+quel portale."<Close><End of Block>
+<TextBlock 9 w:40 h:4>
+Shitan
+"Andiamo, Fei?"
+    Salta nel portale
+    Non ancora<Close><End of Block>
+<TextBlock 10 w:48 h:2>
+Shitan
+"Cosa potrebbe essere…?"<Close><End of Block>
+<TextBlock 11 w:36 h:3>
+Shitan
+"Fei, dovremmo
+investigare."<Close><End of Block>
+<TextBlock 12 w:40 h:2>
+Shitan
+"Fei, di là…"<Close><End of Block>
+<TextBlock 13 w:40 h:4>
+Shitan
+"Potremmo essere in
+grado di raggiungere
+un piano inferiore…<New>
+… attraversando
+quel portale."<Close><End of Block>
+<TextBlock 14 w:40 h:4>
+Shitan
+"Andiamo, Fei?"
+    Salta nel portale
+    Non ancora<Close><End of Block>
+<TextBlock 15 w:50 h:2>
+Shitan
+"Cosa potrebbe essere…?"<Close><End of Block>
+<TextBlock 16 w:36 h:3>
+Shitan
+"Fei, dovremmo
+investigare."<Close><End of Block>
+<TextBlock 17 w:40 h:3>
+Bart
+"Ehi, Fei.
+Guarda lì!"<Close><End of Block>
+<TextBlock 18 w:46 h:3>
+Bart
+"Sembra che da laggiù
+possiamo scendere."<Close><End of Block>
+<TextBlock 19 w:40 h:4>
+Bart
+"Fei, andiamo."
+    Salta nel portale
+    Non ancora<Close><End of Block>
+<TextBlock 20 w:28 h:2>
+Bart
+"Che diavolo…"<Close><End of Block>
+<TextBlock 21 w:42 h:2>
+Bart
+"Diamo un'occhiata."<Close><End of Block>
+<TextBlock 22 w:42 h:2>
+Billy
+"Eh? Laggiù…"<Close><End of Block>
+<TextBlock 23 w:48 h:4>
+Billy
+"Credo che dobbiamo
+passare per quel
+portale…<New>
+… per raggiungere
+il piano inferiore."<Close><End of Block>
+<TextBlock 24 w:40 h:4>
+Billy
+"Andiamo?"
+    Salta nel portale
+    Non ancora<Close><End of Block>
+<TextBlock 25 w:40 h:3>
+Billy
+"Che razza di
+congegno potrebbe
+essere?"<Close><End of Block>
+<TextBlock 26 w:50 h:2>
+Billy
+"Ci diamo un'occhiata?"<Close><End of Block>
+<TextBlock 27 w:50 h:2>
+Rico
+"Ehi, Fei.
+Guarda lì."<Close><End of Block>
+<TextBlock 28 w:46 h:3>
+Rico
+"Quel portale porta
+al piano inferiore!"<Close><End of Block>
+<TextBlock 29 w:40 h:4>
+Rico
+"Fei, noi andiamo."
+    Salta nel portale
+    Non ancora<Close><End of Block>
+<TextBlock 30 w:34 h:2>
+Rico
+"Ma che diavolo?"<Close><End of Block>
+<TextBlock 31 w:40 h:2>
+Rico
+"Fei, controllalo."<Close><End of Block>
+<TextBlock 32 w:16 h:2>
+Esmeralda
+"…"<Close><End of Block>
+<TextBlock 33 w:40 h:3>
+Esmeralda
+"Sembra che si scende
+giù passando da lì…"<Close><End of Block>
+<TextBlock 34 w:40 h:4>
+Esmeralda
+"… Andiamo?"
+    Salta nel portale
+    Non ancora<Close><End of Block>
+<TextBlock 35 w:38 h:2>
+Esmeralda
+"Che cos'è…?"<Close><End of Block>
+<TextBlock 36 w:40 h:3>
+Esmeralda
+"… Hai intenzione
+di andare a
+controllare?"<Close><End of Block>
+<TextBlock 37 w:16 h:2>
+Esmeralda
+"…"<Close><End of Block>
+<TextBlock 38 w:40 h:3>
+Esmeralda
+"Sembra che da lì
+possiamo scendere…"<Close><End of Block>
+<TextBlock 39 w:40 h:4>
+Esmeralda
+"… Andiamo?"
+    Salta nel portale
+    Non ancora<Close><End of Block>
+<TextBlock 40 w:38 h:2>
+Esmeralda
+"Che cos'è…?"<Close><End of Block>
+<TextBlock 41 w:40 h:3>
+Esmeralda
+"… Hai intenzione
+di andare a
+controllare?"<Close><End of Block>
+<TextBlock 42 w:30 h:3>
+<Chu-Chu>
+"Fei, cos'è, chu?"<Close><End of Block>
+<TextBlock 43 w:50 h:4>
+<Chu-Chu>
+"Sembra che si possa
+scendere da lì.<Delay 20>
+Sbrighiamoci."<Close><End of Block>
+<TextBlock 44 w:40 h:4>
+<Chu-Chu>
+"Eccoci qui!"
+    Salta nel portale
+    Non ancora<Close><End of Block>
+<TextBlock 45 w:30 h:2>
+<Chu-Chu>
+"Cos'è questo?"<Close><End of Block>
+<TextBlock 46 w:32 h:2>
+<Chu-Chu>
+"Controlliamolo!"<Close><End of Block>
+<TextBlock 47 w:44 h:3>
+Maria
+"Fei, guarda lì."<Close><End of Block>
+<TextBlock 48 w:48 h:3>
+Maria
+"Potremmo essere in grado
+di scendere, passando da
+quel portale."<Close><End of Block>
+<TextBlock 49 w:40 h:4>
+Maria
+"Fei, dovremmo andare."
+    Salta nel portale
+    Non ancora<Close><End of Block>
+<TextBlock 50 w:52 h:3>
+Maria
+"A cosa pensi che serva
+questo macchinario, Fei?"<Close><End of Block>
+<TextBlock 51 w:50 h:3>
+Maria
+"Fei, pensi che dovremmo
+dargli un'occhiata?"<Close><End of Block>
+<TextBlock 52 w:44 h:3>
+<Opcode 1 255>Vuoi salire?<Delay 10>
+    Sì
+    No<Close><End of Block>
+<TextBlock 53 w:46 h:3>
+<Opcode 1 255>Vuoi scendere?<Delay 10>
+    Sì
+    No<Close><End of Block>
+<TextBlock 54 w:46 h:3>
+<Opcode 1 255>Vuoi scendere?<Delay 10>
+    Sì
+    No<Close><End of Block>
+<TextBlock 55 w:44 h:3>
+<Opcode 1 255>Vuoi salire?<Delay 10>
+    Sì
+    No<Close><End of Block>
+<TextBlock 56 w:44 h:3>
+<Opcode 1 255>Vuoi salire?<Delay 10>
+    Sì
+    No<Close><End of Block>
+<TextBlock 57 w:46 h:3>
+<Opcode 1 255>Vuoi scendere?<Delay 10>
+    Sì
+    No<Close><End of Block>
+<TextBlock 58 w:44 h:3>
+<Opcode 1 255>Vuoi salire?<Delay 10>
+    Sì
+    No<Close><End of Block>
+<TextBlock 59 w:46 h:3>
+<Opcode 1 255>Vuoi scendere?<Delay 10>
+    Sì
+    No<Close><End of Block>
+<TextBlock 60 w:46 h:3>
+<Opcode 1 255>Vuoi scendere?<Delay 10>
+    Sì
+    No<Close><End of Block>
+<TextBlock 61 w:44 h:3>
+<Opcode 1 255>Vuoi salire?<Delay 10>
+    Sì
+    No<Close><End of Block>
+<TextBlock 62 w:46 h:3>
+<Opcode 1 255>Vuoi scendere?<Delay 10>
+    Sì
+    No<Close><End of Block>
+<TextBlock 63 w:44 h:3>
+<Opcode 1 255>Vuoi salire?<Delay 10>
+    Sì
+    No<Close><End of Block>
+<TextBlock 64 w:46 h:3>
+<Opcode 1 255>Vuoi scendere?<Delay 10>
+    Sì
+    No<Close><End of Block>
+<TextBlock 65 w:44 h:3>
+<Opcode 1 255>Vuoi salire?<Delay 10>
+    Sì
+    No<Close><End of Block>
+<TextBlock 66 w:44 h:3>
+<Opcode 1 255>Vuoi salire?<Delay 10>
+    Sì
+    No<Close><End of Block>
+<TextBlock 67 w:46 h:3>
+<Opcode 1 255>Vuoi scendere?<Delay 10>
+    Sì
+    No<Close><End of Block>
+<TextBlock 68 w:46 h:3>
+<Opcode 1 255>Vuoi scendere?<Delay 10>
+    Sì
+    No<Close><End of Block>
+<TextBlock 69 w:44 h:3>
+<Opcode 1 255>Vuoi salire?<Delay 10>
+    Sì
+    No<Close><End of Block>
+<TextBlock 70 w:44 h:3>
+<Opcode 1 255>Vuoi salire?<Delay 10>
+    Sì
+    No<Close><End of Block>
+<TextBlock 71 w:46 h:3>
+<Opcode 1 255>Vuoi scendere?<Delay 10>
+    Sì
+    No<Close><End of Block>
+<TextBlock 72 w:46 h:3>
+<Opcode 1 255>Vuoi scendere?<Delay 10>
+    Sì
+    No<Close><End of Block>
+<TextBlock 73 w:44 h:3>
+<Opcode 1 255>Vuoi salire?<Delay 10>
+    Sì
+    No<Close><End of Block>
+<TextBlock 74 w:46 h:3>
+<Opcode 1 255>Vuoi scendere?<Delay 10>
+    Sì
+    No<Close><End of Block>
+<TextBlock 75 w:44 h:3>
+<Opcode 1 255>Vuoi salire?<Delay 10>
+    Sì
+    No<Close><End of Block>
+<TextBlock 76 w:46 h:3>
+<Opcode 1 255>Vuoi scendere?<Delay 10>
+    Sì
+    No<Close><End of Block>
+<TextBlock 77 w:44 h:3>
+<Opcode 1 255>Vuoi salire?<Delay 10>
+    Sì
+    No<Close><End of Block>
+<TextBlock 78 w:34 h:2>
+Attivazione sistema
+riparazione Gear…<Close><End of Block>
+<TextBlock 79 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 80 w:38 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 81 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 82 w:38 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><Close><End of Block>

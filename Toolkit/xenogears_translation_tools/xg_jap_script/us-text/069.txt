@@ -1,0 +1,79 @@
+#### 1 ####
+...
+
+#### 2 ####
+Bart
+"Boy!{wait:0A} What's up
+with this Fei guy?{enter}
+I try and become
+his friend and he
+suddenly explodes
+in anger..."
+
+#### 3 ####
+Bart
+"Well, looks like he's
+got a lot on his mind.{wait:0A}
+I don't want to force him.{enter}
+But he would be fun to
+fight{wait:05}...{wait:14} 
+Maybe I'll ask again."
+
+#### 4 ####
+If I lie in wait
+under the elevator...
+
+#### 5 ####
+Bart
+"What!?
+Get out!!"
+
+#### 6 ####
+Fei
+"..."
+
+#### 7 ####
+Bart
+"Arrgghh, 
+what a pain!"wemd(60)
+
+#### 8 ####
+Fei
+"This is{wait:05}...
+Bart's eyepatch!?"
+
+#### 9 ####
+Fei
+"The pictures look like
+Bart when he was a boy...{enter}
+The girl next to him...{wait:0A}
+she must be Margie!!"
+
+#### 10 ####
+Fei
+"Both of the pictures
+look like Bart when he
+was a kid...{enter}
+The girl next to him...{wait:0A}
+It must be the girl that
+they were talking about!"
+
+#### 11 ####
+Fei
+"Who is this picture of? {wait:1E}
+A little boy and girl..."
+
+#### 12 ####
+!!{clear:1E}
+
+#### 13 ####
+ 
+
+#### 14 ####
+You have too many
+{str}.
+
+#### 15 ####
+ 
+ Received {str}.
+

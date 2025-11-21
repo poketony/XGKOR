@@ -1,0 +1,123 @@
+<TextBlock 1 w:36 h:3>
+Fei
+"Andrà tutto
+bene, Doc…?"<Close><End of Block>
+<TextBlock 2 w:36 h:4>
+Fei
+"Va bene! 
+Facciamo la nostra
+parte!"<Close><End of Block>
+<TextBlock 3 w:38 h:3>
+Fei
+"Comunicazioni
+operative al 100%."<Close><End of Block>
+<TextBlock 4 w:22 h:2>
+Fei
+"Ma cosa!?"<Close><End of Block>
+<TextBlock 5 w:44 h:4>
+Shitan
+"Mentre io controllerò
+lo specchio,<Delay 30> voi 
+trattenete il nemico."<Close><End of Block>
+<TextBlock 6 w:34 h:2>
+Shitan
+"Dobbiamo farlo."<Close><End of Block>
+<TextBlock 7 w:36 h:2>
+Shitan
+"Conto su di voi."<Close><End of Block>
+<TextBlock 8 w:40 h:2>
+Shitan
+"Billy… Billy…
+Riesci a sentirmi?<New>
+Qui siamo pronti.
+Comincia a sparare."<Close><End of Block>
+<TextBlock 9 w:14 h:2>
+Shitan
+"Whoa!"<Opcode 2 30><Close><End of Block>
+<TextBlock 10 w:16 h:2>
+Shitan
+"Oh no…"<Opcode 2 40><Close><End of Block>
+<TextBlock 11 w:34 h:2>
+Shitan
+"Fei… Fei! Riesci
+a sentirmi?<New>
+Va' fuori, ora!"<Close><End of Block>
+<TextBlock 12 w:28 h:3>
+Shitan
+"Oh no…<Delay 40>
+Troppo tardi…"<Close><End of Block>
+<TextBlock 13 w:16 h:2>
+Shitan
+"Whoa!…"<Close><End of Block>
+<TextBlock 14 w:36 h:4>
+Shitan
+"Fiuu… Per un pelo<Delay 40>
+non abbiamo subito
+un colpo diretto."<Close><End of Block>
+<TextBlock 15 w:40 h:4>
+Shitan
+"Billy,<Delay 30> non possiamo
+resistere ancora per
+molto.<New>
+Se mancherai questo
+colpo, sarà tutto
+finito. Mira bene."<Close><End of Block>
+<TextBlock 16 w:40 h:4>
+Shitan
+"… È rimasto solo un
+colpo.<Delay 30>
+Non<Delay 20>… sbagliare…"<Close><End of Block>
+<TextBlock 17 w:40 h:4>
+Shitan
+"Il piano è fallito…<Delay 40>
+Bisogna tentare il
+tutto per tutto."<Close><End of Block>
+<TextBlock 18 w:34 h:3>
+Shitan
+"Fiuu… Ci è stato
+proprio utile."<Close><End of Block>
+<TextBlock 19 w:40 h:4>
+Shitan
+"Billy,<Delay 30> non possiamo
+resistere ancora per
+molto.<New>
+Se mancherai questo
+colpo, sarà tutto
+finito. Mira bene."<Close><End of Block>
+<TextBlock 20 w:46 h:4>
+Shitan
+"Billy, ce l'hai fatta…<Delay 40>
+Il piano ha avuto
+pieno successo!"<Close><End of Block>
+<TextBlock 21 w:14 h:2>
+Shitan
+"Qui!!"<Opcode 2 20><Close><End of Block>
+<TextBlock 22 w:14 h:2>
+Shitan
+"Vai!!"<Close><End of Block>
+<TextBlock 23 w:36 h:3>
+Le serrature delle
+porte sono state
+sbloccate.<Close><End of Block>
+<TextBlock 24 w:40 h:1>
+Serrature sbloccate.<Close><End of Block>
+<TextBlock 25 w:12 h:1>
+FATTO!<Close><End of Block>
+<TextBlock 26 w:38 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 27 w:16 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 28 w:38 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 29 w:16 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 30 w:38 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 31 w:16 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><Close><End of Block>

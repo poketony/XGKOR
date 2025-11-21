@@ -1,0 +1,536 @@
+<TextBlock 1 w:32 h:4>
+Bart
+"Sei pronto?"
+    Credo di sì
+    Dopo<Close><End of Block>
+<TextBlock 2 w:34 h:3>
+Bart
+"Beh, allora
+torna dopo."<Close><End of Block>
+<TextBlock 3 w:44 h:4>
+Bart
+"Posso avere un secondo?"
+    Certo
+    Forse dopo<Close><End of Block>
+<TextBlock 4 w:34 h:3>
+Bart
+"Beh, allora
+torna dopo."<Close><End of Block>
+<TextBlock 5 w:46 h:3>
+Sigurd
+"Fei, esci da qui,
+è pericoloso!!"<Close><End of Block>
+<TextBlock 6 w:54 h:3>
+Fei! 
+Ci sto ancora lavorando
+sopra per colpa di quei
+tizi.<Delay 10><New>
+Ci vorrà un altro po'
+prima che l'Yggdrasil
+possa partire.<Close><End of Block>
+<TextBlock 7 w:52 h:4>
+Oh, Fei!<Delay 10> 
+Puoi prendere questo
+ascensore per scendere
+all'Hangar dei Gear.<New>
+Perché non controlli
+<Weltall> e vedi
+se c'è qualche
+manutenzione da fare?<Close><End of Block>
+<TextBlock 8 w:36 h:3>
+Va bene, va bene…!!<Delay 10>
+Muovete il culo e
+tornate al lavoro!<Opcode 2 60><Close><End of Block>
+<TextBlock 9 w:36 h:2>
+Bart, mi fa piacere
+rivederti!<Opcode 2 40><Close><End of Block>
+<TextBlock 10 w:32 h:1>
+<Opcode 1 5>'Tutta la barra a sinistra!!!'<New>
+'Tutta la barra a destra!!!'<Close><End of Block>
+<TextBlock 11 w:16 h:1>
+Sissignore!!<Opcode 2 30><Close><End of Block>
+<TextBlock 12 w:62 h:3>
+Per caso hai sentito?
+    Sì
+    No, sentito cosa?<Close><End of Block>
+<TextBlock 13 w:36 h:2>
+Oh no…
+Non dirlo a nessuno.<Close><End of Block>
+<TextBlock 14 w:32 h:3>
+Oh, davvero?
+Che fortuna.
+(Fiuh, sono salvo)<Close><End of Block>
+<TextBlock 15 w:46 h:3>
+Ce l'ho fatta! 
+Mi hanno eletto
+apprendista pilota!<Close><End of Block>
+<TextBlock 16 w:44 h:2>
+Mi piacerebbe provare
+a guidare questa cosa
+almeno per una volta.<Close><End of Block>
+<TextBlock 17 w:26 h:1>
+Bentornati!<Opcode 2 40><Close><End of Block>
+<TextBlock 18 w:26 h:1>
+Bentornati!<Opcode 2 40><Close><End of Block>
+<TextBlock 19 w:26 h:1>
+Bentornati!<Opcode 2 40><Close><End of Block>
+<TextBlock 20 w:26 h:1>
+Bentornati!<Opcode 2 40><Close><End of Block>
+<TextBlock 21 w:26 h:1>
+Bentornati!<Opcode 2 40><Close><End of Block>
+<TextBlock 22 w:28 h:2>
+Bentornato!<Delay 10> 
+Bart!<Close><End of Block>
+<TextBlock 23 w:44 h:2>
+Bart! 
+Cosa ci hai portato?<Close><End of Block>
+<TextBlock 24 w:50 h:4>
+Bart
+"Beh<Delay 5>…<Delay 10> ho un nuovo modello
+di Gear e due persone
+che abbiamo aiutato."<Close><End of Block>
+<TextBlock 25 w:48 h:4>
+Eeehh!<Delay 10>
+Un Gear<Delay 5>…<Delay 5> che noia!<Delay 10> 
+Non hai qualcosa di
+più interessante?<Close><End of Block>
+<TextBlock 26 w:32 h:3>
+Bart
+"Immaginavo che
+l'avreste detto…"<Close><End of Block>
+<TextBlock 27 w:48 h:4>
+Bart
+"Guardate!<New>
+Questa è dell'ambra
+che ho trovato in una
+caverna di stalattiti
+sotto il deserto.<New>
+È raro trovarne una
+con dentro un insetto!"<Close><End of Block>
+<TextBlock 28 w:24 h:2>
+Wow!<Delay 10>
+Grazie, Bart!<Close><End of Block>
+<TextBlock 29 w:36 h:1>
+Abbiamo dell'ambra!<Opcode 2 30><Close><End of Block>
+<TextBlock 30 w:24 h:1>
+Che cos'è?<Close><End of Block>
+<TextBlock 31 w:32 h:3>
+Andiamo!<Delay 10>
+Dobbiamo mostrarla
+a tutti!<Close><End of Block>
+<TextBlock 32 w:40 h:4>
+Bart
+"Bene allora…<Delay 10>
+Devo fare un po' di messa
+a punto sul mio Gear…<New>
+Perché voi due non
+andate a prendervi un
+tè col Vecchio Maison?"<Close><End of Block>
+<TextBlock 33 w:40 h:2>
+Bart
+"Grazie, Vecchio Maison."<Close><End of Block>
+<TextBlock 34 w:48 h:2>
+Maison
+"Prego, da questa parte."<Close><End of Block>
+<TextBlock 35 w:50 h:4>
+Bart
+"Shitan mi ha raccontato
+tutto della tua storia.
+Vuoi parlarne?<New>
+Perché non me l'avevi
+detto?<Delay 10>
+Sembra essere stata
+alquanto dura."<Close><End of Block>
+<TextBlock 36 w:42 h:4>
+Bart
+"Ascoltami…<Delay 10> Scusa
+se sono stato uno
+stronzo…<Delay 10> poco fa…"<Space 1><Close><End of Block>
+<TextBlock 37 w:44 h:2>
+Bart
+"Mi perdoni, vero?"<Close><End of Block>
+<TextBlock 38 w:6 h:1>
+…<Close><End of Block>
+<TextBlock 39 w:12 h:1>
+Uah!!<Opcode 2 60><Close><End of Block>
+<TextBlock 40 w:34 h:4>
+Bart
+"Comunque…
+Scusa se riprendo
+l'argomento, ma…"<Close><End of Block>
+<TextBlock 41 w:10 h:2>
+Fei
+"No!"<Close><End of Block>
+<TextBlock 42 w:10 h:1>
+Cosa?<Close><End of Block>
+<TextBlock 43 w:52 h:3>
+Fei
+"Non mi piace combattere,
+a differenza di te.<New>
+Sono entrato in quel Gear
+perché ho dovuto farlo.<Delay 10>
+Preferirei non guidarli.<New>
+Se vuoi quel Gear così
+tanto… bene, puoi averlo!
+Io non lo voglio!"<Close><End of Block>
+<TextBlock 44 w:30 h:4>
+Bart
+"Pensi che mi piaccia
+combattere?<Delay 10>
+… È questo che pensi?"<Close><End of Block>
+<TextBlock 45 w:44 h:3>
+Fei
+"Non è così?<Delay 10> 
+Di sicuro così sembra.<New>
+Sembra che tu goda
+solamente nel combattere."<Close><End of Block>
+<TextBlock 46 w:50 h:4>
+Bart
+"Questa non posso
+accettarla. A chi è
+che piace combattere?<Delay 10><New>
+Rimangiatela.<New>
+Che mi piaccia o no,
+combatto perché devo.
+Ho le mie ragioni, ma<Delay 15>
+tu non capiresti."<Close><End of Block>
+<TextBlock 47 w:44 h:4>
+Fei
+"Bene, io non ho delle
+ragioni per combattere!<Delay 10>
+E non voglio farlo.<New>
+Voglio solo vivere in
+pace e in tranquillità.<Close><End of Block>
+<TextBlock 48 w:46 h:4>
+Fei
+"Ma tutti voi continuate
+a costringermi a salire
+su un Gear!<New>
+Perché non mi lasciate
+in pace e basta!?"<Close><End of Block>
+<TextBlock 49 w:30 h:4>
+Bart
+"Perché vedo la tua
+abilità<Delay 10> e penso…"<Close><End of Block>
+<TextBlock 50 w:56 h:4>
+Fei
+"Bene, io invece la odio!
+Ogni volta che salgo su un
+Gear, qualcuno si fa male.<New>
+Se combatto, la gente
+muore.<Delay 10> Io non voglio
+fare male alla gente!<New>
+Non voglio che<Delay 10>
+qualcuno muoia!<Delay 10>
+Odio tutto questo…<Delay 10>
+Non riesci a capirlo?"<Close><End of Block>
+<TextBlock 51 w:52 h:4>
+Bart
+"Sì,<Delay 10> conosco questa
+sensazione…<Delay 10> si vuole solo
+scappare dalla realtà.<New>
+Ma credi che i bambini
+rimasti nel tuo villaggio
+lo capirebbero?"<Close><End of Block>
+<TextBlock 52 w:6 h:1>
+…<Close><End of Block>
+<TextBlock 53 w:54 h:4>
+Bart
+"Shitan mi ha raccontato
+di ciò che è successo
+a Lahan.<New>
+Sarebbe stato meglio se
+non avessi fatto nulla?<Delay 10> 
+Certo, quello è successo
+perché eri nel Gear.<New>
+Ma anche se non l'avessi
+fatto, la gente sarebbe
+morta…<Delay 10> Vero?<Delay 10>
+Non è stata colpa tua.<New>
+La guerra…<Delay 10> no, la gente
+che l'ha iniziata è la
+vera causa.<New>
+E finché non ti sarai
+sbarazzato della causa,
+non cambierà nulla.<Delay 10> Io
+combatto per questo…<New>
+Per ora non c'è altro
+modo, perciò devo
+combattere<Delay 10>…<New>
+Ma questo non significa
+che mi piaccia."<Close><End of Block>
+<TextBlock 54 w:50 h:4>
+Bart
+"Capisco perché ti senti
+colpevole nei confronti
+dei bambini…<New>
+… del tuo villaggio.<Delay 30>
+E so anche perché non
+vuoi far del male agli
+altri.<New>
+Ma se vuoi che quei
+bambini riescano a
+superare i loro problemi,<Delay 10>
+non devi combattere?"<Close><End of Block>
+<TextBlock 55 w:50 h:4>
+Bart
+"Tu HAI una ragione per
+combattere.<Delay 10><New>
+Ed hai anche una ragione
+DA combattere.<New>
+Ma finché la ignori e
+continui a scappare,
+quei bambini non ti
+perdoneranno mai.<New>
+Ricordatelo."<Close><End of Block>
+<TextBlock 56 w:48 h:4>
+Bart
+"E un'altra cosa…<New>
+Non sto dicendo che
+non aiutarmi
+significhi scappare.<New>
+Non c'è bisogno che tu
+lo faccia.<Delay 10> Questo è il
+mio problema<Delay 10>…<New>
+Non voglio coinvolgerti
+contro la tua volontà.<New>
+Ma,<Delay 10> se avessi la tua
+abilità, potrei far finire
+tutto questo<Delay 5>…<New>
+E fare vivere a quei
+bambini una vita decente.<Delay 10>
+Almeno, è così che la
+penso io…"<Close><End of Block>
+<TextBlock 57 w:46 h:3>
+Bart
+"Comunque… scusami
+se ti faccio fare
+tardi.<New>
+Il meccanico voleva
+parlarti del tuo Gear.<New>
+Probabilmente ora non
+ti interessa, ma almeno
+senti quello che ti
+deve dire."<Close><End of Block>
+<TextBlock 58 w:10 h:2>
+Fei
+"…"<Close><End of Block>
+<TextBlock 59 w:40 h:2>
+Sigurd
+"Guarda lì…"<Close><End of Block>
+<TextBlock 60 w:50 h:4>
+Ehi, papà…<Delay 10>
+Puoi sentirmi?<Delay 10> 
+L'ho capito non appena ho
+guardato negli occhi di Fei…<New>
+Lui è come me.<Delay 10>
+Mi avrebbe capito…<Delay 10>
+O così pensavo…<Delay 10>
+Ma era solo una mia idea?<Close><End of Block>
+<TextBlock 61 w:52 h:4>
+Non ho fiducia in me.<Delay 10> 
+Se ti andassi dietro, papà…
+sarebbe come se io fossi solo
+una specie di 'ornamento'.<New>
+Al momento, non so nemmeno
+seguire il tuo volere,<Delay 10> e non
+so neanche salvare Margie…<Close><End of Block>
+<TextBlock 62 w:44 h:4>
+Gli ho detto che stava
+cercando di scappare, ma<Delay 10>
+in realtà sono io quello
+che vuole scappare…<Close><End of Block>
+<TextBlock 63 w:48 h:4>
+Sigurd
+"Il Padroncino mi ha
+chiesto di chiederti
+scusa.<Delay 10> Strano, vero?<New>
+Lui sa che la cosa
+migliore è scusarsi
+di persona…<New>
+Ma il Padroncino non
+è molto bravo con
+questo tipo di cose…"<Close><End of Block>
+<TextBlock 64 w:44 h:4>
+Sigurd
+"Potrebbe non sembrarlo,
+ma in realtà è molto
+solo<Delay 5>…<New>
+È in perpetua ricerca
+di un amico.<Delay 10><New>
+Noi, che lo sorvegliamo,
+non possiamo divenire
+suoi amici.<New>
+Anche se volessimo, a
+lui non sembreremmo dei
+veri amici.<Delay 10>
+E lui lo sa."<Close><End of Block>
+<TextBlock 65 w:44 h:4>
+Sigurd
+"Perché, ti chiedi?
+Per il fardello che
+lui porta.<New>
+Dev'essere difficile
+per uno così giovane
+sostenere una così
+grande responsabilità.<New>
+Ma lui prova sempre a
+fare del suo meglio, sai?<New>
+È per questo che gli
+restiamo fedeli… Non
+perché lui è il principe."<Close><End of Block>
+<TextBlock 66 w:48 h:4>
+Sigurd
+"Fei,<Delay 10> sento che anche
+tu stai portando un
+pesante fardello.<New>
+Questa potrebbe essere
+una richiesta egoistica,
+ma… ti sarebbe possibile
+aiutare il Padroncino?<New>
+Non ti sto chiedendo di
+caricarti anche dei suoi
+problemi o delle sue
+responsabilità.<New>
+Ma… voi due potreste…
+con che cosa solo voi
+due lo sapete, aiutarvi
+l'un l'altro?<Delay 10> Ti prego…"<Close><End of Block>
+<TextBlock 67 w:44 h:3>
+Fei
+"Scusami<Delay 5>…<Delay 10>
+Mi serve del tempo
+per pensarci."<Close><End of Block>
+<TextBlock 68 w:46 h:4>
+Sigurd
+"Ovviamente… prenditi il
+tuo tempo. Deve essere
+una tua scelta.<New>
+Qualunque cosa tu decida,
+noi partiremo domani di
+buon mattino.<New>
+Dopo che avrai finito di
+prepararti per domani,
+forse dovresti riposarti
+un po'.<New>
+Puoi usare il letto
+nell'area residenziale,
+di sopra."<Close><End of Block>
+<TextBlock 69 w:52 h:4>
+Shitan
+"Desidero parlare
+ancora con Sigurd…<New>
+Perciò fa' ciò che
+devi fare e riposati
+un po'."<Close><End of Block>
+<TextBlock 70 w:6 h:1>
+…<Close><End of Block>
+<TextBlock 71 w:44 h:3>
+Tutti i civili, 
+dirigetevi nell'Yggdrasil!!<Delay 10> 
+Immediatamente!<Opcode 2 60><Close><End of Block>
+<TextBlock 72 w:24 h:2>
+Uahhh, ho paura!!<Opcode 2 60><Close><End of Block>
+<TextBlock 73 w:10 h:1>
+<Opcode 1 5>Fei!!<Close><End of Block>
+<TextBlock 74 w:52 h:3>
+<Opcode 1 5>Shitan
+"Fei!! Avanti, sbrigati!
+Entra dentro <Weltall>,
+subito!!"<Close><End of Block>
+<TextBlock 75 w:10 h:1>
+<Opcode 1 5>Fei!?<Close><End of Block>
+<TextBlock 76 w:50 h:4>
+Shitan
+"Bart e gli altri stanno
+già combattendo!<New>
+Starai lì fermo a non
+fare nulla…<Delay 10>?<New>
+Pensi ancora che tutto
+ciò non abbia nulla a
+che fare con te?"<Close><End of Block>
+<TextBlock 77 w:6 h:1>
+<Opcode 1 5>…<Close><End of Block>
+<TextBlock 78 w:12 h:2>
+Fei
+"Io…"<Close><End of Block>
+<TextBlock 79 w:12 h:4>
+Fei
+"Io…<Delay 10>
+Cosa<Delay 10> sono<Delay 10> io?"<Close><End of Block>
+<TextBlock 80 w:42 h:4>
+Fei
+"Quel vecchio…<Delay 10>
+mi ha chiamato…<Delay 10>
+l'uccisore di <Delay 10>dio…"<Close><End of Block>
+<TextBlock 81 w:36 h:3>
+Fei
+"Non voglio<Delay 5> quel
+tipo di <Delay 5>potere<Delay 5>…"<Close><End of Block>
+<TextBlock 82 w:22 h:2>
+La mia…<Delay 10> 
+forza…<Opcode 2 90><Close><End of Block>
+<TextBlock 83 w:14 h:2>
+La mia…<Delay 10>
+casa…<Opcode 2 90><Close><End of Block>
+<TextBlock 84 w:54 h:4>
+Maison
+"Dobbiamo infiltrarci ad
+Aveh e salvare Margie
+subito!<New>
+Geburah ha scoperto questa
+base.<Delay 10><New>
+Dunque, dovremmo
+lasciare un piccolo
+presidio e ritirarci
+finché possiamo.<New>
+Fortunatamente, l'Yggdrasil
+è intatto, perciò possiamo
+imbarcarci immediatamente.<New>
+I preparativi della ciurma
+sono stati completati.<New>
+Quando siete pronti, Padron
+Fei e mio buon Dottore, vi
+prego di accompagnare il
+Padroncino al ponte."<Close><End of Block>
+<TextBlock 85 w:54 h:4>
+Maison
+"Dottor Uzuki,<Delay 10> Padron Fei,<Delay 10> 
+vi ringrazio dal profondo
+del mio cuore.<New>
+Apprezzerei sinceramente
+se foste così gentili da
+restare con noi…<New>
+… per aiutarci nella
+nostra missione di
+salvataggio!"<Close><End of Block>
+<TextBlock 86 w:48 h:4>
+Bart
+"Ehi, va bene, va bene.<Delay 10>
+Fammi salutare le donne
+prima di andare."<Close><End of Block>
+<TextBlock 87 w:62 h:3>
+<Opcode 1 255>Sali all'area residenziale? 
+    Sali
+    No<Close><End of Block>
+<TextBlock 88 w:56 h:3>
+<Opcode 1 255>Scendi all'Hangar dei Gear? 
+    Scendi
+    No<Close><End of Block>
+<TextBlock 89 w:42 h:2>
+Stato attuale provviste
+<]><Delay 10><]><Delay 10><]><Delay 10>100%<Close><End of Block>
+<TextBlock 90 w:42 h:2>
+Stato attuale provviste
+<]><Delay 10><]><Delay 10><]><Delay 10>80%<Close><End of Block>
+<TextBlock 91 w:42 h:2>
+Stato attuale provviste
+<]><Delay 10><]><Delay 10><]><Delay 10>60%<Close><End of Block>
+<TextBlock 92 w:42 h:2>
+Stato attuale provviste
+<]><Delay 10><]><Delay 10><]><Delay 10>40%<Close><End of Block>
+<TextBlock 93 w:42 h:2>
+Stato attuale provviste
+<]><Delay 10><]><Delay 10><]><Delay 10>20%<Close><End of Block>
+<TextBlock 94 w:0 h:1>
+<Close><End of Block>

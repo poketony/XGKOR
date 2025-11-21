@@ -1,0 +1,252 @@
+<TextBlock 1 w:48 h:4>
+Elly
+"Ecco.<New>
+Se riusciamo a penetrare
+nel sistema di sicurezza
+del palazzo accedendo a
+questo computer…"<Close><End of Block>
+<TextBlock 2 w:42 h:3>
+Elly
+"ID…<New>
+Probabilmente la
+password ha qualcosa
+a che vedere con me."<Close><End of Block>
+<TextBlock 3 w:32 h:2>
+Elly
+"'E <Delay 5>L <Delay 5>H <Delay 5>A <Delay 5>Y <Delay 5>M'…"<Close><End of Block>
+<TextBlock 4 w:60 h:3>
+<]><Delay 10><]><Delay 10><]><Delay 10>
+Accesso negato.<Delay 10>
+Inserire la password corretta.<Close><End of Block>
+<TextBlock 5 w:40 h:5>
+Elly
+"Non va bene.<New>
+Proviamo a scriverla
+al contrario…<Delay 20>
+'M <Delay 5>Y <Delay 5>A <Delay 5>H <Delay 5>L <Delay 5>E'…"<Close><End of Block>
+<TextBlock 6 w:60 h:3>
+<]><Delay 10><]><Delay 10><]><Delay 10>
+Benvenuto a SolarisNet…<Delay 10>
+Ci sono 19 messaggi non letti.<Close><End of Block>
+<TextBlock 7 w:48 h:4>
+Elly
+"Sì!<Delay 10> Ce l'abbiamo fatta!<Delay 10>
+Vediamo, prima
+eravamo qui, adesso…<New>
+Ah,<Delay 10> si connette a
+questo posto!"<Close><End of Block>
+<TextBlock 8 w:50 h:4>
+Elly
+"Fei, dovremmo poter
+arrivare al posto dove
+si trovano tutti…<New>
+… passando per un
+tubo di raccolta dei
+rifiuti che si trova…<New>
+… nel livello dei
+Cittadini di III Classe!"<Close><End of Block>
+<TextBlock 9 w:42 h:4>
+Fei
+"Questo vuol dire che
+dobbiamo tornare da
+dove siamo partiti."<Close><End of Block>
+<TextBlock 10 w:48 h:3>
+Elly
+"Ora sappiamo dove sono!<Delay 10>
+Presto, sbrighiamoci!"<Close><End of Block>
+<TextBlock 11 w:26 h:2>
+Elly, dov'è che
+vorresti andare?<Opcode 2 30><Close><End of Block>
+<TextBlock 12 w:16 h:2>
+Elly
+"Padre!"<Close><End of Block>
+<TextBlock 13 w:50 h:3>
+Il padre di Elly, Erich
+"Che stai facendo, Elly…?<New>
+Ti avevo già detto di non
+venire qui e toccare
+quel computer."<Close><End of Block>
+<TextBlock 14 w:8 h:2>
+Elly
+"…"<Close><End of Block>
+<TextBlock 15 w:42 h:4>
+Erich
+"Parlo col corpo di
+guardia?<Delay 10> Sono io,
+Erich.<New>
+È entrato un ladro in
+casa mia…<Delay 20> sì, venite
+presto."<Close><End of Block>
+<TextBlock 16 w:42 h:3>
+Elly
+"Padre…!!<Delay 10>
+Fei non è un ladro!!"<Close><End of Block>
+<TextBlock 17 w:46 h:3>
+Erich
+"E allora che cos'è…<Delay 10>?<New>
+Un uomo che non conosco
+che si trova nella mia
+stanza<Delay 10>…<New>
+E tu mi vieni a dire
+che non è un ladro?"<Close><End of Block>
+<TextBlock 18 w:30 h:3>
+Elly
+"C'è un motivo…<Delay 10>!!"<Close><End of Block>
+<TextBlock 19 w:50 h:3>
+Elly
+"Ti prego! Non sparargli!<New>
+Fei vuole solo salvare
+i suoi amici presi
+prigionieri!<New>
+E sono anche amici miei!"<Close><End of Block>
+<TextBlock 20 w:44 h:4>
+Erich
+"No! Anche se lui è un
+tuo amico, non posso
+lasciare che…<New>
+… un abitante della
+superficie s'introduca
+nel Palazzo!"<Close><End of Block>
+<TextBlock 21 w:38 h:4>
+Elly
+"Benissimo.<Delay 10>
+Allora anch'io sono
+una traditrice.<New>
+Avanti, sparami!"<Close><End of Block>
+<TextBlock 22 w:32 h:3>
+Erich
+"No!<Delay 10>
+Tu resterai qui!<New>
+Adesso, <Delay 10>spostati<Delay 10>
+Elly!!"<Close><End of Block>
+<TextBlock 23 w:10 h:2>
+Elly
+"No!"<Close><End of Block>
+<TextBlock 24 w:6 h:1>
+…<Delay 5>…<Opcode 2 30><Close><End of Block>
+<TextBlock 25 w:52 h:4>
+Erich
+"Sai come vengono puniti i
+traditori… anche se sono
+cittadini di I Classe!<New>
+Sarai al sicuro se
+uccidiamo gli intrusi
+che sanno di noi<Delay 10>…<New>
+Sono preoccupato
+per la tua incolumità…"<Close><End of Block>
+<TextBlock 26 w:48 h:3>
+Elly
+"Tu menti!<Delay 10><New>
+La verità è che odii
+essere in una situazione
+compromettente.<New>
+Non è proprio per questo
+che hai voluto che io
+facessi parte di Jugend?<New>
+In realtà…<Delay 20> tu non volevi
+che nessuno vedesse
+tua figlia!"<Close><End of Block>
+<TextBlock 27 w:48 h:4>
+Elly
+"Perché io sono per metà
+un'abitante della
+superficie…!"<Close><End of Block>
+<TextBlock 28 w:4 h:1>
+!!<Opcode 2 10><Close><End of Block>
+<TextBlock 29 w:48 h:3>
+Erich
+"Non posso credere che
+tu lo pensi ancora…?<New>
+E come osi dirlo davanti
+a tua madre…!?"<Close><End of Block>
+<TextBlock 30 w:20 h:2>
+Elly
+"Perché…!"<Close><End of Block>
+<TextBlock 31 w:52 h:3>
+Fei
+"Smettetela!!<New>
+Non voglio vedere un padre
+ed una figlia litigare a
+causa mia!<New>
+Non vi darò più problemi.
+È vero. Sono qui di mia
+spontanea volontà.<New>
+Sono un intruso.
+Adesso me ne andrò e
+tutto si aggiusterà."<Close><End of Block>
+<TextBlock 32 w:14 h:2>
+Elly
+"Fei!?"<Close><End of Block>
+<TextBlock 33 w:48 h:4>
+Fei
+"Elly,<Delay 10> non dovresti dire
+quelle cose davanti a
+tua madre.<New>
+Non so qual è la verità,
+ma lei è tua madre, non
+una sconosciuta.
+Mi sbaglio, forse?"<Close><End of Block>
+<TextBlock 34 w:2 h:1>
+…<Close><End of Block>
+<TextBlock 35 w:46 h:3>
+Fei
+"Adesso, si sposti.<New>
+Devo sbrigarmi a
+salvare i miei amici.<New>
+Ma se mi vuole sparare,
+sappia che non mi
+arrenderò facilmente."<Close><End of Block>
+<TextBlock 36 w:16 h:3>
+Elly
+"?<Delay 10>
+Padre…?"<Close><End of Block>
+<TextBlock 37 w:50 h:3>
+Erich
+"L'intruso è scappato.<Delay 50>
+Adesso esci di qui.<New>
+Ci vorrà un po' prima
+che le guardie arrivino."<Close><End of Block>
+<TextBlock 38 w:2 h:1>
+…<Close><End of Block>
+<TextBlock 39 w:48 h:4>
+Erich
+"Puoi anche essere un
+intruso, ma la verità
+è che l'hai protetta.<New>
+Hai protetto mia figlia.
+Se ti sparassi, sono
+certo che la perderei."<Close><End of Block>
+<TextBlock 40 w:14 h:2>
+Elly
+"Papà…"<Close><End of Block>
+<TextBlock 41 w:48 h:2>
+Elly
+"Fammi andare con Fei…!"<Close><End of Block>
+<TextBlock 42 w:36 h:3>
+Erich
+"No.<Delay 10> Non posso
+lasciarti andare."<Close><End of Block>
+<TextBlock 43 w:12 h:2>
+Elly
+"Ma…!"<Close><End of Block>
+<TextBlock 44 w:40 h:4>
+Fei
+"Va bene così.<New>
+Adesso, questo è un
+problema mio e dei
+miei amici. Non vi
+daremo più fastidio<Delay 10>…<New>
+Andrò da solo."<Close><End of Block>
+<TextBlock 45 w:14 h:2>
+Elly
+"Fei!!"<Close><End of Block>
+<TextBlock 46 w:40 h:4>
+Fei
+"Elly… questa volta,
+lascialo l'esercito.<Delay 10>
+Grazie di tutto."<Close><End of Block>
+<TextBlock 47 w:12 h:2>
+Elly
+"Fei…"<Close><End of Block>
+<TextBlock 48 w:0 h:1>
+<Close><End of Block>

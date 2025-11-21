@@ -1,0 +1,120 @@
+#### 1 ####
+Allowing the contact with
+Shevat{wait:05}...{wait:05}...
+
+#### 2 ####
+Not only Shevat.
+The Ignas defeat,
+the Thames retreat.{enter}
+And yes, even Elru,
+you{wait:05}...{wait:05}...
+
+#### 3 ####
+Useless...
+as always{wait:05}...{wait:05}...
+
+#### 4 ####
+A failure to
+begin with{wait:05}...
+
+#### 5 ####
+'Trash'{wait:05}...
+
+#### 6 ####
+Ramsus
+"W-what did you just say?"
+
+#### 7 ####
+Hmph...
+It's the truth.
+
+#### 8 ####
+And just what is that
+attitude?{wait:05}...{wait:05}...
+You should show
+some loyalty.
+
+#### 9 ####
+Ramsus
+"H, how dare you ridicule
+me by calling me 'trash'?
+Damn you!"
+
+#### 10 ####
+Ramsus
+"Guh...guhaah."
+
+#### 11 ####
+Miang
+"Calm down, Commander!
+It's not good for you.{enter}
+You still haven't recovered
+from the last battle!"
+
+#### 12 ####
+It does not matter.
+
+#### 13 ####
+The Lambs are
+probably on their
+way to destroying
+the gate.{enter}
+But, not
+this time{wait:05}...
+
+#### 14 ####
+I'd like to see
+your 'intrinsic' powers.
+
+#### 15 ####
+If you aren't the
+'trash' we think you
+are{wait:05}...{wait:05}...
+
+#### 16 ####
+Ramsus
+"Miang{wait:05}...{wait:05}...{wait:05}
+Launch the ship{wait:05}...{wait:05}...{wait:05}
+Get to him{wait:05}...{wait:05}..."
+
+#### 17 ####
+Ramsus
+"This time{wait:05}...{wait:05}
+I'll go myself{wait:05}...{wait:05}and
+I'll bring him down{wait:05}..."
+
+#### 18 ####
+Miang
+"Commander, you can't go 
+out there like that!"
+
+#### 19 ####
+Kelvena
+"Commander, request
+permission to handle
+the situation?"
+
+#### 20 ####
+Miang
+"You all?"
+
+#### 21 ####
+Dominia
+"We'll do our best to
+meet your expectations."
+
+#### 22 ####
+Kelvena
+"Commander please,
+you must get medical
+attention{wait:05}...{wait:05}..."
+
+#### 23 ####
+Dominia
+"To make our ideals
+a reality."
+
+#### 24 ####
+Kelvena
+"Well then, we are off."
+

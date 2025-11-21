@@ -1,0 +1,119 @@
+#### 1 ####
+Fei
+"Whoa!
+What the...?"
+
+#### 2 ####
+Fei
+"Hammer, is that you?
+What are you doing in
+that outfit?"
+
+#### 3 ####
+Fei
+"What are you 
+saying, Hammer?"
+
+#### 4 ####
+Fei
+"Hamme¡«r...!"
+
+#### 5 ####
+Rico
+"Stop it, Hammer!"
+
+#### 6 ####
+Rico
+"Hammer...!"
+
+#### 7 ####
+Rico
+"You knew?"
+
+#### 8 ####
+Rico
+"Stop it, Hammer!"
+
+#### 9 ####
+Rico
+"Hammer...!"
+
+#### 10 ####
+Rico
+"You knew?"
+
+#### 11 ####
+Hammer
+"Hey, bro..."
+
+#### 12 ####
+Hammer
+"Heh heh heh. 
+It's been a long
+time no see, bro!"
+
+#### 13 ####
+Hammer
+"I was finally able to get
+it... Super-strength...
+Just like you, bro!{enter}
+It feels so good...
+being one with your Gear.
+Krelian did this for me.{enter}
+Anyway, just leave that
+Gear and Miss Elly for me.{enter}
+Resistance is useless.
+I'm much too powerful for
+you now..."
+
+#### 14 ####
+Hammer
+"What? You're not
+handing them over?
+...I see.{enter}
+Then I'll just have
+to use force and take
+the girl and the Gear
+from you!"
+
+#### 15 ####
+Hammer
+"Even you, 'Champ', won't
+win against me now."
+
+#### 16 ####
+Hammer
+"Here I come!"{clear:14}
+
+#### 17 ####
+Hammer
+"Heh heh...
+That's my bro...
+Far too strong...{enter}
+Even for me...
+Just when I thought I
+finally got powerful
+enough to beat you too!"
+
+#### 18 ####
+Hammer
+"Champ...
+Promise me you'll go back
+to Nortune one day...{enter}
+You are...
+the next in line...
+to be the Kaiser..."
+
+#### 19 ####
+Hammer
+"Don't underestimate
+the power of my
+information network{wait:05}...{enter}
+But{wait:05}...{wait:05}
+it's no use now{wait:05}...{wait:05}
+I{wait:05}...{enter}
+For a bit player{wait:05}...{wait:1E}
+like me{wait:05}...{wait:05}this is{wait:05}
+probably{wait:05}...{wait:1E}the end{wait:05}...{wait:1E}
+I deserve{wait:05}..."
+

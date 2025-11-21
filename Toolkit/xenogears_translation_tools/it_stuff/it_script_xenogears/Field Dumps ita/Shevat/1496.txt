@@ -1,0 +1,83 @@
+<TextBlock 1 w:50 h:4>
+Maria
+"Potete usare la mappa
+che avete trovato prima
+in questo piano.<New>
+È sempre utile avere una
+mappa da osservare nel
+caso ci si perda, no!?"<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+Fei
+"Ehi, quella mappa che
+abbiamo trovato di sopra…<New>
+Sembra che sia quella da
+usare in questo piano.<New>
+Se ci perdiamo, possiamo
+darle un'occhiata."<Close><End of Block>
+<TextBlock 3 w:36 h:2>
+Fei
+"Non si apre…"<Close><End of Block>
+<TextBlock 4 w:52 h:2>
+Elly
+"Non vuole aprirsi."<Close><End of Block>
+<TextBlock 5 w:38 h:2>
+Shitan
+"Non si apre."<Close><End of Block>
+<TextBlock 6 w:38 h:2>
+Shitan
+"Non si apre."<Close><End of Block>
+<TextBlock 7 w:34 h:3>
+Bart
+"Cavolo!
+Non si apre."<Close><End of Block>
+<TextBlock 8 w:36 h:3>
+Billy
+"Sembra che non
+si voglia aprire…"<Close><End of Block>
+<TextBlock 9 w:28 h:2>
+Rico
+"Niente, non si apre…"<Close><End of Block>
+<TextBlock 10 w:16 h:2>
+Esmeralda
+"…"<Close><End of Block>
+<TextBlock 11 w:16 h:2>
+Esmeralda
+"…"<Close><End of Block>
+<TextBlock 12 w:44 h:2>
+Chu-chu
+"Non si apre, chi…"<Close><End of Block>
+<TextBlock 13 w:38 h:3>
+Maria
+"Non si apre.<Delay 20>
+Dev'essere chiusa."<Close><End of Block>
+<TextBlock 14 w:42 h:3>
+Vuoi salire?
+    Sì
+    No<Close><End of Block>
+<TextBlock 15 w:54 h:3>
+Big Joe
+"Sto riflettendo
+sulla vita… perciò
+lasciatemi in pace."<Close><End of Block>
+<TextBlock 16 w:40 h:3>
+Big Joe
+"Mh? Sembra che ora
+quella porta si apra."<Close><End of Block>
+<TextBlock 17 w:46 h:4>
+Big Joe
+"Avete aperto questa
+porta solo per Big Joe!
+Grazie infinite!"<Close><End of Block>
+<TextBlock 18 w:36 h:3>
+Big Joe
+"Quella porta
+non si apre…<New>
+È inutile… anche
+Big Joe si è
+arreso!"<Close><End of Block>
+<TextBlock 19 w:48 h:2>
+Non puoi ottenere <Opcode 4 20>.
+Ne hai troppi.<Close><End of Block>
+<TextBlock 20 w:38 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><Close><End of Block>

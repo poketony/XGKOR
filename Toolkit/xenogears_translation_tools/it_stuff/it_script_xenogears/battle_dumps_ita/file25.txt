@@ -1,0 +1,28 @@
+<TextBlock 1 w:18 h:2>
+Fei
+"Grahf!?"<Close><End of Block>
+<TextBlock 2 w:8 h:1>
+FERMI!<Close><End of Block>
+<TextBlock 3 w:46 h:4>
+Grahf
+"Il Golia non è stato
+costruito perché tu
+lo possa utilizzare.<New>
+Devi rimanere su questa
+terra più a lungo.
+Non posso permetterti
+di lasciarla…"<Close><End of Block>
+<TextBlock 4 w:36 h:4>
+Grahf
+"E così ora puoi
+esprimere molto
+del tuo potere…<New>
+In questo caso,
+allora…"<Close><End of Block>
+<TextBlock 5 w:14 h:2>
+Grahf
+"Uh!?"<Opcode 2 30><Close><End of Block>
+<TextBlock 6 w:44 h:3>
+Shitan
+"Fei! Tieniti
+stretto!"<Close><Close><Close><UNKNOWN CHUNK 247><Close><End of Block>

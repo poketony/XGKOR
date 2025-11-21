@@ -1,0 +1,54 @@
+<TextBlock 1 w:46 h:3>
+Johnny il negoziante
+"Ehi, salve!
+Felice di rivedervi."<Close><End of Block>
+<TextBlock 2 w:52 h:3>
+Johnny il negoziante
+"Se dite 'dungeon',
+io dico 'mercanti
+viaggiatori'!<New>
+Voi dite 'mercanti
+viaggiatori'… ed io
+dico 'Johnny il
+negoziante'!"<Close><End of Block>
+<TextBlock 3 w:40 h:3>
+Johnny il negoziante
+"Ehi!
+Non sono vostro nemico!"<Close><End of Block>
+<TextBlock 4 w:54 h:3>
+Johnny il negoziante
+"Nella mia famiglia siamo
+mercanti da generazioni.<New>
+Anche i mercanti
+hanno il loro modo
+di combattere…<New>
+E questa è la mia
+battaglia!"<Close><End of Block>
+<TextBlock 5 w:42 h:3>
+Johnny il negoziante
+"Comprate qualcosa… o
+riparo i vostri Gear?"<Close><End of Block>
+<TextBlock 6 w:26 h:3>
+    <Opcode 1 255>Personaggi
+    Gear
+    Nulla<Close><End of Block>
+<TextBlock 7 w:30 h:4>
+    <Opcode 1 255>Oggetti
+    Accessori
+    Indietro
+    Nulla<Close><End of Block>
+<TextBlock 8 w:30 h:2>
+Johnny il negoziante
+"Grazie."<Close><End of Block>
+<TextBlock 9 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 10 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 11 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 12 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><Close><End of Block>

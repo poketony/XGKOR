@@ -1,0 +1,464 @@
+<TextBlock 1 w:44 h:3>
+Shitan
+"Buon lavoro.
+Riposati quanto
+ti serve.<New>
+Domani sarà una
+giornata dura."<Close><End of Block>
+<TextBlock 2 w:34 h:3>
+Esci ancora fuori?
+    Sì
+    Un po' di riposo<Close><End of Block>
+<TextBlock 3 w:38 h:4>
+Shitan
+"Sicuro?
+Non tornare troppo
+tardi."<Close><End of Block>
+<TextBlock 4 w:32 h:4>
+Shitan
+"Bene.<New>
+Serba le tue
+energie per domani."<Close><End of Block>
+<TextBlock 5 w:40 h:4>
+Shitan
+"Torna dopo esserti
+iscritto al Torneo."<Close><End of Block>
+<TextBlock 6 w:50 h:4>
+Shitan
+"Buongiorno.<New>
+L'operazione 'Salvataggio
+di Margie' ha ora inizio!"<Close><End of Block>
+<TextBlock 7 w:54 h:4>
+Shitan
+"Per prima cosa io e Fei
+ci prepareremo nell'arena
+per il Torneo.<New>
+Quando esso avrà inizio,
+Bart entrerà nei canali
+sotto il pozzo, e si
+dirigerà al castello.<New>
+Nuotando controcorrente
+dovresti raggiungere
+il castello.<New>
+Sono certo che lì ci
+saranno alcune guardie,
+perciò liberatene senza
+creare baraonda.<New>
+Al torneo daremo buon
+spettacolo per attirare
+il più a lungo possibile
+l'attenzione delle guardie.<New>
+Mentre noi faremo ciò,
+tu potrai salvare Margie."<Close><End of Block>
+<TextBlock 8 w:42 h:3>
+Domande?
+    Capito
+    Ridimmelo<Close><End of Block>
+<TextBlock 9 w:46 h:3>
+Shitan
+"Allora, noi andiamo.
+Sii cauto, giovane!"<Close><End of Block>
+<TextBlock 10 w:44 h:3>
+Bart
+"Fei, devi vincere
+assolutamente!"<Close><End of Block>
+<TextBlock 11 w:50 h:4>
+Bart
+"Beh, io sono pronto,
+perciò vado a dormire.
+Diamine, sono esausto."<Close><End of Block>
+<TextBlock 12 w:34 h:4>
+Vuoi ancora
+visitare Aveh?
+    Sì
+    Riposiamoci<Close><End of Block>
+<TextBlock 13 w:46 h:3>
+Bart
+"Davvero?<New>
+Se domani l'operazione
+avrà successo, non
+torneremo qui per un
+bel po'."<Close><End of Block>
+<TextBlock 14 w:48 h:3>
+Bart
+"Sì, domani sarà dura
+sia per me che per te."<Close><End of Block>
+<TextBlock 15 w:42 h:3>
+Bart
+"Ti sei iscritto al
+Torneo?<Delay 10> Cosa?<New>
+Non ancora!? Spicciati
+ed iscriviti!"<Close><End of Block>
+<TextBlock 16 w:42 h:4>
+Bart
+"Sta per cominciare!
+Immagino che dovrei
+prepararmi anch'io."<Close><End of Block>
+<TextBlock 17 w:38 h:2>
+Funzionerà davvero
+questo piano?<Close><End of Block>
+<TextBlock 18 w:52 h:4>
+Bart
+"È già iniziato.<New>
+Se qualcosa va storto
+adesso, sono cavoli
+amari!!<New>
+Di cosa sei preoccupata?
+Fei ci riuscirà.
+Inoltre anche Shitan è
+con lui.<New>
+Ora, tutto quello che
+devo fare è penetrare
+nel castello attraverso
+il pozzo.<New>
+Senza fare casino,
+ovviamente!
+<Delay 20>…<Delay 50> Nessun problema."<Close><End of Block>
+<TextBlock 19 w:20 h:1>
+Prego sia così.<Close><End of Block>
+<TextBlock 20 w:34 h:4>
+Bart
+"Beh… io vado. Margie
+mi sta aspettando
+nella fortezza."<Close><End of Block>
+<TextBlock 21 w:34 h:3>
+Bene allora…
+siate molto cauto.<New>
+E grazie per l'aiuto
+che state dando a
+Madre Margherita.<Close><End of Block>
+<TextBlock 22 w:40 h:4>
+Bart
+"Basta smancerie!<New>
+Anche tu dovresti
+spicciarti ad andar
+via da Aveh.<New>
+Le cose si
+incasineranno presto."<Close><End of Block>
+<TextBlock 23 w:20 h:1>
+Grazie.<Close><End of Block>
+<TextBlock 24 w:4 h:1>
+!!<Opcode 2 30><Close><End of Block>
+<TextBlock 25 w:44 h:4>
+Ma che succede!?
+Come vi permette di
+entrare nelle stanze
+di altra gente
+attraverso la finestra…!?<Close><End of Block>
+<TextBlock 26 w:38 h:1>
+Principe Bartolomeo!<Close><End of Block>
+<TextBlock 27 w:44 h:3>
+… Mi spiace. Ho sentito
+che il Principe Bartolomeo
+stava venendo qui…<New>
+Solo non mi aspettavo
+che sarebbe arrivato
+attraverso la finestra…<Close><End of Block>
+<TextBlock 28 w:30 h:1>
+Prego, entrate.<Close><End of Block>
+<TextBlock 29 w:30 h:2>
+Scusatemi, ma
+chi sono loro…?<Close><End of Block>
+<TextBlock 30 w:46 h:4>
+<Opcode 14 1>Bart
+"Oh, questi sono Fei e
+Shitan. Mi aiuteranno a
+salvare Margie."<Close><End of Block>
+<TextBlock 31 w:52 h:4>
+Grazie per esser venuti
+qui, nella calura del
+deserto. Io faccio parte
+della Setta di Nisan.<New>
+Sin da quando Shakhan ha
+preso Madre Margherita,
+ho cercato di farla
+tornare con noi.<New>
+Ho tentato di scoprire
+dove è tenuta prigioniera.<New>
+Sono stata occupata ad
+ascoltare i lavoratori
+parlare delle attività
+del castello…<New>
+E mi sono anche occupata
+di dar cibo alle guardie
+che si stanno preparando
+per il torneo, per farli
+parlare.<New>
+Infine, ieri ho ottenuto
+alcune informazioni…
+Margie è nella fortezza.<New>
+Ci ho pensato molto, ma
+la cosa sembra comunque
+alquanto disperata.
+Mi spiace.<Close><End of Block>
+<TextBlock 32 w:50 h:3>
+Bart
+"Non importa. Almeno
+sappiamo dove si trova.<New>
+Tu rilassati, troveremo
+noi un modo per entrare
+furtivamente nel castello."<Close><End of Block>
+<TextBlock 33 w:54 h:3>
+Perdonatemi. Se posso
+fare qualcos'altro, non
+esitate a chiedermelo…<New>
+Avete già degli indizi?<Close><End of Block>
+<TextBlock 34 w:38 h:2>
+Avete trovato un
+modo per entrare
+nel castello?<Close><End of Block>
+<TextBlock 35 w:40 h:2>
+Avete trovato un modo
+per poter sfruttare
+la festa?<Close><End of Block>
+<TextBlock 36 w:40 h:2>
+Qualche nuova
+informazione?
+Delle idee?<Close><End of Block>
+<TextBlock 37 w:32 h:2>
+Avete avuto fortuna
+nel trovare la
+chiave del pozzo?<Close><End of Block>
+<TextBlock 38 w:48 h:3>
+Bart
+"Sì, ce l'aveva
+il vecchio vicino
+al pozzo."<Close><End of Block>
+<TextBlock 39 w:44 h:3>
+Shitan
+"Non ancora. Stiamo
+per riprovarci."<Close><End of Block>
+<TextBlock 40 w:44 h:4>
+Bart
+"Non ancora. Ora
+andiamo in giro a
+cercare informazioni.<New>
+Poi penseremo al
+resto."<Close><End of Block>
+<TextBlock 41 w:50 h:4>
+Capisco. Sono sollevata
+dal fatto che siete tutti
+qui. Ritornate da me, se
+scoprite qualcosa di nuovo.<Close><End of Block>
+<TextBlock 42 w:54 h:4>
+Bart
+"Mi sono appena ricordato
+dove inizia l'acquedotto
+di Bledavik…<New>
+L'acqua sorgiva ha origine
+da sotto il castello…<New>
+… e scorre sotto la città
+tramite dei canali d'acqua
+sotterranei.<New>
+Possiamo infiltrarci nel
+castello usando questi
+canali sotterranei.<New>
+Possiamo entrarci dal
+pozzo della città.<New>
+Questi canali dovrebbero
+condurci proprio nel
+rifornimento idrico del
+castello.<New>
+Se riusciremo ad arrivare
+lì, dovremmo poterci
+infiltrare nelle altre
+stanze del castello."<Close><End of Block>
+<TextBlock 43 w:50 h:4>
+Shitan
+"Buon'idea.
+Tuttavia ho un altro
+suggerimento.<New>
+Al momento sta svolgendosi
+in città una festa. Deve
+esserci un modo per poter
+sfruttare la cosa." <Close><End of Block>
+<TextBlock 44 w:3 h:1>
+!<Opcode 2 30><Close><End of Block>
+<TextBlock 45 w:40 h:3>
+La parte settentrionale
+della città è una
+piazza. Il castello è
+subito dopo.<New>
+Sono sicura che lì
+troveremo qualcosa.<Close><End of Block>
+<TextBlock 46 w:52 h:4>
+Shitan
+"Domani si terrà il
+Torneo. Ci saranno
+scommesse nell'arena.<New>
+Sicuramente l'attenzione
+dei soldati sarà rivolta
+più al Torneo che al loro
+lavoro.<New>
+Dobbiamo sfruttare la
+cosa a nostro vantaggio."<Close><End of Block>
+<TextBlock 47 w:34 h:1>
+Cosa intende?<Close><End of Block>
+<TextBlock 48 w:44 h:4>
+Shitan
+"Fei prenderà parte ad
+esso.<New>
+Faremo sì che lui
+metta in scena un gran
+bello spettacolo."<Close><End of Block>
+<TextBlock 49 w:54 h:4>
+Bart
+"Domani c'è il Torneo.<New>
+Non c'è nulla di più comune
+delle scommesse, durante
+quel tipo di cose.<New>
+Tutte le guardie si
+metteranno a scommettere…
+ma proprio tutte.<New>
+Gli fregherà più del
+combattimento che dei
+nostri lavori. Dobbiamo
+sfruttare tutto ciò!<New>
+Fei, devi combattere!"<Close><End of Block>
+<TextBlock 50 w:20 h:2>
+Fei
+"Eh? Io?"<Close><End of Block>
+<TextBlock 51 w:54 h:4>
+Bart
+"Mi riconoscerebbero
+tutti. Inoltre, conosco
+bene il castello.<New>
+Perciò tocca a me
+entrare lì dentro."<Close><End of Block>
+<TextBlock 52 w:46 h:4>
+Sono sicura che oggi
+sia l'ultimo giorno per
+iscriversi al torneo.<New>
+Dovresti iscriverti al
+più presto.<Close><End of Block>
+<TextBlock 53 w:48 h:3>
+Shitan
+"Non si preoccupi.
+Fei s'è già iscritto."<Close><End of Block>
+<TextBlock 54 w:50 h:4>
+Shitan
+"Anche se l'useremo
+come espediente…<New>
+Come farai tu ad
+entrare nel castello?"<Close><End of Block>
+<TextBlock 55 w:52 h:4>
+Bart
+"… Dobbiamo prendere
+più informazioni.<Delay 30><New>
+Sono sicuro che da
+qualche parte troveremo
+qualche buona idea."<Close><End of Block>
+<TextBlock 56 w:52 h:3>
+Shitan
+"Ottimo.<New>
+Se saremo riusciti a
+farci venire qualche buona
+idea…<New>
+… ci rincontreremo qui
+e pianificheremo il da
+farsi."<Close><End of Block>
+<TextBlock 57 w:52 h:4>
+Shitan
+"Domani Fei parteciperà
+al Torneo che si terrà
+al Castello di Fatima.<New>
+Per distrarre le guardie
+c'impegneremo a metter
+su un buon spettacolo.<New>
+Poi Bart s'infiltrerà nel
+castello tramite i canali
+sotterranei, scendendo
+dal pozzo.<New>
+Io accompagnerò Fei al
+Torneo.<New>
+Inoltre, lo aiuterò a
+provocare scompiglio
+tra la folla…<New>
+… ma anche ad
+assicurarci una
+buona fuga."<Close><End of Block>
+<TextBlock 58 w:50 h:4>
+Shitan
+"Mi sembra che
+tutto sia a posto.<New>
+Fei sarà al Torneo e
+catturerà l'attenzione
+delle guardie.<New>
+Poi Bart entrerà nel
+castello tramite i
+canali, scendendo
+dal pozzo.<New>
+Dopo di ciò, salverà
+Margherita, portandola
+via dalla fortezza.<New>
+Io accompagnerò Fei al
+Torneo.<New>
+Inoltre, lo aiuterò a
+provocare scompiglio
+tra la folla…<New>
+… ma anche ad
+assicurarci una
+buona fuga."<Close><End of Block>
+<TextBlock 59 w:50 h:4>
+Shitan
+"…<Delay 50> C'è però un
+problema. Il pozzo è
+chiuso.<New>
+Prima dobbiamo trovare
+la chiave."<Close><End of Block>
+<TextBlock 60 w:48 h:3>
+Bart
+"Andiamo a trovarla,
+e presto!"<Close><End of Block>
+<TextBlock 61 w:50 h:4>
+Shitan
+"I preparativi per il
+nostro piano sono stati
+completati.<New>
+Questa notte riposeremo
+nell'albergo, e daremo
+inizio a tutto domani.<New>
+Per ora siamo liberi di
+far ciò che vogliamo.
+Diamo un'occhiata in
+giro per la città."<Close><End of Block>
+<TextBlock 62 w:42 h:3>
+Shitan
+"Dobbiamo effettuare
+l'iscrizione al
+Torneo.<New>
+Fei, fa' finta di star
+facendo un giro per la
+città, e poi dirigiti
+verso il castello."<Close><End of Block>
+<TextBlock 63 w:46 h:1>
+Mi spiace di non
+potervi aiutare.<Close><End of Block>
+<TextBlock 64 w:40 h:3>
+State attenti.
+Vi auguro la
+miglior fortuna.<Close><End of Block>
+<TextBlock 65 w:34 h:4>
+Stia attento.
+Pregherò che tutti
+voi torniate salvi.<Close><End of Block>
+<TextBlock 66 w:2 h:1>
+!<Delay 30><Close><End of Block>
+<TextBlock 67 w:48 h:4>
+Chi… chi siete!?
+Come vi permettete di
+entrare nella camera
+di una signora!?<New>
+E per giunta dalla
+finestra!<New>
+Oh, penso che verrò
+meno! Quanto siete
+maleducati!<Delay 30>
+Che città pericolosa!
+USCITE, subito!<Close><End of Block>
+<TextBlock 68 w:44 h:2>
+Che state facendo!?
+Uscite, SUBITO!<Opcode 2 30><Close><End of Block>
+<TextBlock 69 w:44 h:2>
+No, non vi avvicinate!
+Uscite, ORA!<Opcode 2 30><Close><End of Block>

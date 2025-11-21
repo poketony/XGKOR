@@ -1,0 +1,228 @@
+<TextBlock 1 w:34 h:2>
+Cosa sto facendo?
+… uff…<Delay 30> puff…<Space 2><Close><End of Block>
+<TextBlock 2 w:34 h:2>
+Non riesci a capirlo!?
+… uff…<Delay 30> puff…<Space 2><Close><End of Block>
+<TextBlock 3 w:34 h:2>
+Sto lavorando sodo.
+… uff…<Delay 30> puff…<Space 2><Close><End of Block>
+<TextBlock 4 w:50 h:2>
+Spaccherò il culo a Solaris.
+… uff…<Delay 30> puff…<Space 2><Close><End of Block>
+<TextBlock 5 w:48 h:2>
+Devo farmi i muscoli!
+… uff…<Delay 30> puff…<Space 2><Close><End of Block>
+<TextBlock 6 w:46 h:2>
+E per loro sarà la fine.
+… uff…<Delay 30> puff…<Space 2><Close><End of Block>
+<TextBlock 7 w:50 h:2>
+La mia ultima tecnica mortale.
+… uff…<Delay 30> puff…<Space 2><Close><End of Block>
+<TextBlock 8 w:34 h:3>
+Se solo avessi il
+mio pugno di Cyrus!
+… uff…<Delay 30> puff…<Space 2><Close><End of Block>
+<TextBlock 9 w:48 h:2>
+Tu lascia fare a me.
+E nient'altro.
+… uff…<Delay 30> puff…<Space 2><Close><End of Block>
+<TextBlock 10 w:48 h:2>
+Ora mi faccio un sonnellino.
+… uff…<Delay 30> puff…<Space 2><Close><End of Block>
+<TextBlock 11 w:42 h:2>
+Uahahahah… ah… ah…<Space 2>
+… uff…<Delay 30> puff…<Close><End of Block>
+<TextBlock 12 w:60 h:13>
+"   Abbasso Solaris!!
+   Il mondo è nostro!<Delay 20>
+ 
+   Ma prima i nostri
+    10 comandamenti<Delay 40>…<New>
+<Opcode 1 255>  - Niente gioco d'azzardo!
+  - Non ubriacarti!
+  - Rispetta le scadenze
+  - Non arrenderti mai!
+  - Fatti il bagno!
+  - Non ascoltare i piagnoni!
+  - Allenati ogni mattina!
+  - Non sbagliare mai!
+  - Tieni pulito l'oceano!  
+  - Onora sempre SadNES cITy!"<Close><End of Block>
+<TextBlock 13 w:54 h:4>
+Ehi, non ti ho mai visto
+prima. Sei appena arrivato?<Delay 20>
+Benvenuto alla Caserma per
+la Liberazione di Shevat!!<New>
+… Ma, in realtà, non siamo
+tanto magnifici quanto il
+nome potrebbe far credere.<Delay 20>
+Ahahah…<New>
+Ma è vero che questa è la
+caserma per le truppe
+anti-Solaris.<Delay 20> Fai pure
+come se fossi a casa
+tua e rilassati.<Close><End of Block>
+<TextBlock 14 w:54 h:4>
+Però… siamo in una
+strana situazione.<New>
+Stiamo cercando di combattere
+un'organizzazione che ha il
+potere di manipolare il mondo
+intero restando nell'ombra.<Close><End of Block>
+<TextBlock 15 w:54 h:5>
+Eh, e pensare che tutti
+noi siamo solo una massa
+eterogenea di ribelli,
+provenienti dalla superficie…<New>
+Siamo solo un gruppetto di
+gente che ha vissuto gran
+parte della propria vita
+senza neanche sapere che
+esistesse Shevat o Solaris…<New>
+A pensarci, sembra
+una barzelletta.<Close><End of Block>
+<TextBlock 16 w:58 h:6>
+Allora, gente, voi da dove
+venite? Dal vostro aspetto,
+direi che venite dal
+continente di Ignis.<New>
+Anche voi siete stati
+salvati dalla gente di
+questa città?<Delay 20> Capisco.
+Siamo tutti nella stessa
+situazione.<New>
+Ognuno qui ha la sua storia,
+come era coinvolto con
+Geburah e con la Chiesa…
+… come ha fallito…
+e così via.<New>
+C'è però una sorta di
+'storia comune'. Molta
+gente che ora è qui, stava
+per essere uccisa per delle
+ragioni di cui non sapeva
+assolutamente nulla.<New>
+Tuttavia, la gente di Shevat
+ha salvato queste persone,
+prima che fosse ormai
+troppo tardi.<Close><End of Block>
+<TextBlock 17 w:48 h:4>
+Fondamentalmente è così.<Delay 20>
+Da questo momento in poi,
+siamo sulla stessa barca.<Delay 20>
+Benvenuti a bordo!<Close><End of Block>
+<TextBlock 18 w:50 h:5>
+Quando tornavo a Kislev,
+ero solita occuparmi di
+medicine fatte in casa.<New>
+A proposito, ho sentito dire
+che il nemico ha delle
+medicine davvero bellissime.<New>
+Una volta volevo imparare un
+po' com'è che creano queste
+medicine, così m'intrufolai
+in un loro negozio, ma…<Delay 20>
+fui un po' maldestra… eheh.<Close><End of Block>
+<TextBlock 19 w:56 h:6>
+Caddi nella disperazione,
+ma in qualche modo riuscii
+a scappare, ed arrivai al
+Tammuz, la città di cui
+avevo sentito tante storie.<Delay 20>
+È lì che questa brava gente
+di Shevat mi raccolse.<New>
+Se non mi avessero presa,
+sarei diventata senza dubbio
+una cavia per le droghe
+sperimentali del nemico…<Delay 20>
+E questo perché sono
+così carina!<Close><End of Block>
+<TextBlock 20 w:52 h:5>
+Giusto!<Delay 20> Anche se dovessi
+ritornare sulla terra,
+probabilmente cercherebbero
+di catturarmi ancora.<New>
+Non importa quante vite
+potrei avere, non sarebbero
+comunque sufficienti.<New>
+Perciò ho deciso di rimanere
+sempre in questo luogo.
+Ed è probabilmente così
+anche per la maggior parte
+della gente che vedi qui.<Close><End of Block>
+<TextBlock 21 w:54 h:5>
+E, comunque, non volete
+fargliela pagare ai cattivi?<Delay 20>
+Devono essere pazzi, se
+pensano che ci dimenticheremo
+di quello che ci hanno fatto!<Close><End of Block>
+<TextBlock 22 w:54 h:4>
+Ehilà! Questa casa è, in
+fin dei conti, un appartamento
+per noi abitanti della
+superficie che siamo stati
+salvati da Shevat.<New>
+Ho sentito che ormai, in
+questa città, non ci sono
+più molti Sheviti puri.<New>
+Praticamente, si è detto
+che la maggior parte di
+loro morì in quella guerra
+con Solaris, svoltasi
+500 anni fa.<Close><End of Block>
+<TextBlock 23 w:52 h:3>
+Beh, se pure noi non staremo
+attenti, anche la nostra
+sorte potrebbe essere simile
+alla loro. Eh.<Close><End of Block>
+<TextBlock 24 w:10 h:1>
+Ah…<Opcode 2 10><Close><End of Block>
+<TextBlock 25 w:60 h:5>
+Esatto. Dicono che questa
+città fosse una città
+qualunque, quando si trovava
+sulla terraferma, 500 anni fa.<New>
+Ma dopo aver perso con Solaris,
+lanciarono in cielo soltanto
+il palazzo e gli edifici
+vicini.<New>
+Praticamente è una storia
+difficile da credere, ma
+in realtà stiamo viaggiando
+su quella parte della città,
+e stiamo fluttuando nel cielo
+su di essa, proprio ora.<New>
+Non si può mai sapere cosa
+aspettarsi dalla vita.<Close><End of Block>
+<TextBlock 26 w:56 h:5>
+Questo deve rimanere tra
+me e te, ma io sono l'unica
+vera speranza per Shevat.
+Io sono un agente segreto…<Delay 20>
+In altre parole, una spia!<New>
+Beh? Non è fichissimo?<Delay 20>
+… Ma, a pensarci, se anche
+voi siete qui, probabilmente
+non siete troppo diversi
+da me… sigh…<Close><End of Block>
+<TextBlock 27 w:50 h:3>
+Avete già incontrato la
+Regina Zefiro?<Delay 20> Lei è
+proprio una persona
+squisita.<New>
+Siamo in grado di vivere
+in questo modo dal momento
+che la Regina ci ha salvati.<Close><End of Block>
+<TextBlock 28 w:58 h:7>
+Quell'enorme statua bianca
+che si trova all'entrata
+del palazzo, quella a forma
+di angelo, rappresenta una
+donna molto speciale, che
+si sacrificò durante la guerra
+che si svolse 500 anni fa.<New>
+È così triste…<Delay 20> A quei tempi,
+doveva probabilmente essere
+l'amatissima eroina della
+rivolta.<Close><Close><End of Block>

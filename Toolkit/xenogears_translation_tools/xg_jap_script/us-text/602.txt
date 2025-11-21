@@ -1,0 +1,524 @@
+#### 1 ####
+Fei
+"Do we need the power
+of {name:1A:未用幼失旦}?"
+
+#### 2 ####
+Fei
+"This
+is...{wait:14}Deus!?"
+
+#### 3 ####
+Fei
+"...{wait:14}
+Thanks everyone.{enter}
+To attack Deus directly...{wait:0A}
+or, to take out its
+supports first...{wait:0A}
+I wonder which is best?"
+
+#### 4 ####
+Citan
+"As I thought...{wait:14}
+The power of
+{name:1A:未用幼失旦}..."
+
+#### 5 ####
+Bart
+"Do we need the power
+of {name:1A:未用幼失旦}?"
+
+#### 6 ####
+Billy
+"As I thought...{wait:14}
+Do we need the power
+of {name:1A:未用幼失旦}?"
+
+#### 7 ####
+Rico
+"If we only had the power
+of {name:1A:未用幼失旦}..."
+
+#### 8 ####
+Emeralda
+"I knew it...{wait:14}
+The power of...
+{name:1A:未用幼失旦}..."
+
+#### 9 ####
+{name:07:民亙民亙}
+"Can't do it without
+{name:1A:未用幼失旦}?..."
+
+#### 10 ####
+Maria
+"I knew it...{wait:14}
+The power of
+{name:1A:未用幼失旦}..."
+
+#### 11 ####
+Emeralda
+"I knew it...{wait:14}
+The power of...
+{name:1A:未用幼失旦}..."
+
+#### 12 ####
+Citan
+"Probably."
+
+#### 13 ####
+Citan
+"Striking directly at the
+center rather than using
+fuel unnecessarily...{enter}
+That is one strategy. But,
+I believe another plan of
+attack would be to defeat
+its surroundings first.{enter}
+If we decide to attack
+the supporting orbs first,
+then it might be wise to
+leave the battles up to us.{enter}
+We should be able to do
+something about them
+without using up Fei's
+power."
+
+#### 14 ####
+Bart
+"Who cares about those
+orbs. Let's just crush
+the core."
+
+#### 15 ####
+Billy
+"Whether we do a direct
+strike to the core or take
+down the supports first...{enter}
+I guess that is best left
+up to Fei to decide..."
+
+#### 16 ####
+Rico
+"So that means that big
+thing in the middle is
+the core of Deus?"
+
+#### 17 ####
+Emeralda
+"That'll allow him to
+use the full power of
+{name:1A:未用幼失旦}...{enter}
+...To defeat Deus.{wait:14}
+And yes,{wait:05} of course,{wait:05}
+to save Elly!"
+
+#### 18 ####
+{name:07:民亙民亙}
+"What are those
+four orbs spinning
+around it?"
+
+#### 19 ####
+Maria
+"It seems as if the power
+of those four things is
+supporting the center."
+
+#### 20 ####
+Fei
+"What...{wait:14}happened?"
+
+#### 21 ####
+Rico
+"My Gear won't
+budge anymore."
+
+#### 22 ####
+Citan
+"The Zohar Modifier
+has ceased functioning.{enter}
+That is probably the
+reason why our Gears
+cannot move anymore. {enter}
+There is only a slight
+energy response coming
+from the core now."
+
+#### 23 ####
+Fei
+"What about Elly?
+What's happening to her
+inside of that thing?{enter}
+The Deus system's bind
+on her should have worn
+off now. {enter}
+So why aren't we getting
+any kind of response!?{wait:0A}
+You don't think we hurt her
+in that battle too...!?"
+
+#### 24 ####
+Citan
+"Fei, calm down!{enter}
+The sensors are picking
+up a response from a
+life form within Deus.{enter}
+It is probably Elly.{wait:14}
+So do not worry...{wait:0A}
+I believe she is okay!"
+
+#### 25 ####
+Fei
+"Elly!{wait:14}
+Can you hear me, Elly!?
+Deus is no longer active.{enter}
+It's all over now...{wait:14}
+So come out of there.
+Show me your face! 
+Elly!{wait:14} Elly!"
+
+#### 26 ####
+Bart
+"W,{wait:14} what the...?
+What's happening...!?"
+
+#### 27 ####
+Fei
+"Doc!?
+What's going on?
+What's wrong?"
+
+#### 28 ####
+Citan
+"I am now detecting a
+tremendous amount of energy
+coming from within Deus.{enter}
+It seems as if something
+that was sealed up till now
+has suddenly been freed and
+is growing enormously..."
+
+#### 29 ####
+Fei
+"It couldn't be...{wait:14}
+the 'Wave Existence'!?"
+
+#### 30 ####
+Bart
+"The 'Wave Existence'?"
+
+#### 31 ####
+Fei
+"That's gotta be it.{enter}
+The 'Wave Existence' was
+just freed from its 'cage
+of fleshly existence' in
+Zohar...{enter}
+It's probably attempting
+to return to the higher
+dimension that it
+originally came from."
+
+#### 32 ####
+Citan
+"Which means...{wait:14}this is
+the aftereffect of the
+dimensional shift!?"
+
+#### 33 ####
+Rico
+"What do you mean...
+'aftereffect'!?"
+
+#### 34 ####
+Citan
+"It is like a shock wave
+that is induced by the
+dimensional displacement.{enter}
+But...{wait:05}so much energy!?{wait:0A}
+If this much energy is
+unleashed here now..."
+
+#### 35 ####
+Fei
+"...If so much energy is
+unleashed...then what will
+happen, doc!? Tell us!"
+
+#### 36 ####
+Citan
+"...Then this planet
+will be annihilated!{enter}
+These numbers indicate
+that it has more than
+enough energy to take
+out a whole planet!"
+
+#### 37 ####
+{name:07:民亙民亙}
+"Whatchu mean!?"
+
+#### 38 ####
+Bart
+"You can't be serious!?"
+
+#### 39 ####
+Billy
+"We all fought so
+hard...{wait:0A}only to see
+this happen...!?"
+
+#### 40 ####
+Fei
+"Isn't there...
+isn't there anything
+we can do?{enter}
+Can't we stop the
+aftereffect!?"
+
+#### 41 ####
+Citan
+"Unfortunately, there
+is nothing we can do...{enter}
+Almost all machinery,
+including our Gears, are
+out of commission due to
+Zohar having been shutdown.{enter}
+This time, there is nothing
+we can do...{wait:0A}
+To put it to you straight{wait:14}
+...this is the end for us!"
+
+#### 42 ####
+Bart
+"This is freakin' stupid!
+How the hell could it all
+end like this!?{enter}
+What were we all fighting
+for up to now!?"
+
+#### 43 ####
+Billy
+"Th, the vibrations
+are intensifying..."
+
+#### 44 ####
+Rico
+"Hold on a sec...!
+No, these vibrations
+are different!{enter}
+It has to be something
+else causing it..."
+
+#### 45 ####
+Maria
+"Look!"
+
+#### 46 ####
+Bart
+"Deus is...!"
+
+#### 47 ####
+Fei
+"Deus is rising!?"
+
+#### 48 ####
+{name:07:民亙民亙}
+"What is it
+this time!?"
+
+#### 49 ####
+Citan
+"Deus is releasing its
+remaining energy and is
+beginning to accelerate...{enter}
+If it continues to
+accelerate at this rate,
+it will soon leave the
+atmosphere..."
+
+#### 50 ####
+Fei
+"You don't think...!?"
+
+#### 51 ####
+Bart
+"Think what!?"
+
+#### 52 ####
+Fei
+"That it's Elly!?
+Elly is moving Deus...!"
+
+#### 53 ####
+Rico
+"Are you sure!?"
+
+#### 54 ####
+Fei
+"I'm sure of it!{enter}
+Elly is trying to save
+us by moving Deus away
+from our planet!{enter}
+She's going to
+sacrifice herself..."
+
+#### 55 ####
+Maria
+"That can't be...
+Oh, Elly..."
+
+#### 56 ####
+Billy
+"Can't we do anything...?
+We can't just sit here and
+watch this happen, can we?"
+
+#### 57 ####
+Citan
+"..."
+
+#### 58 ####
+Fei
+"Wait...{wait:05}
+There is still
+something I can do!"
+
+#### 59 ####
+{name:07:民亙民亙}
+"What is it, Fei!?"
+
+#### 60 ####
+Fei
+"My Gear still works.{enter}
+Without Zohar, the power
+source for your Gears, the
+only Gear that now remains
+active is mine.{enter}
+Just like Deus, my Gear
+and I made contact with
+Zohar. We are the only
+one's who can move now.{enter}
+I am going to go save
+Elly!"
+
+#### 61 ####
+Citan
+"That is absurd!{enter}
+Even if you were able to
+catch up to Deus, you will
+not have enough energy to
+make it back!"
+
+#### 62 ####
+Fei
+"Even so, I still must go.
+Elly's taking the whole
+burden upon herself!{enter}
+If anything happens to
+her...{wait:0A}
+I want to be there with
+her..."
+
+#### 63 ####
+Bart
+"Hey!
+Just wait a minute!{enter}
+You know I'm not gonna
+stand by and let you commit
+double suicide...if that's
+what you're planning!"
+
+#### 64 ####
+Fei
+"Bart..."
+
+#### 65 ####
+Bart
+"...{wait:14}
+You better come back
+alive, you hear!?{enter}
+Promise me!!
+Promise me that you
+will come back...
+Then I'll let you go!!"
+
+#### 66 ####
+Fei
+"...{wait:14}Thanks, Bart.{wait:0A}
+I promise.{enter}
+I promise you that
+I will return...{wait:0A}
+with Elly!"
+
+#### 67 ####
+Bart
+"You better."
+
+#### 68 ####
+Fei
+"Yeah, of course!"
+
+#### 69 ####
+Bart
+"Alright!
+Then get goin'!"
+
+#### 70 ####
+Citan
+"But...!"
+
+#### 71 ####
+Bart
+"Let's let him go, Citan.{enter}
+At this point, Fei's the
+only one that'll be able
+to bring Elly back.{enter}
+There's nothing we can
+say or do about it."
+
+#### 72 ####
+Citan
+"...You are right.{wait:14} Fei,
+keep your promise..."
+
+#### 73 ####
+Billy
+"No matter what..."
+
+#### 74 ####
+Maria
+"Fei and Elly..."
+
+#### 75 ####
+Emeralda
+"Both of you..."
+
+#### 76 ####
+Rico
+"Come back home..."
+
+#### 77 ####
+{name:07:民亙民亙}
+"We'll be waiting
+for you chu!"
+
+#### 78 ####
+Fei
+"I appreciate this...{wait:14}
+Bart...{wait:14}
+and the rest of you...{enter}
+Well I had better get
+going now...{wait:0A}
+But don't worry!
+I will be back soon!"
+
+#### 79 ####
+Fei
+"I guess this will be
+the last journey you
+and I make together...{enter}
+I'm counting on you...
+partner!"
+

@@ -1,0 +1,305 @@
+<TextBlock 1 w:16 h:3>
+Fei
+"Oh…?<Delay 20>
+Questo…"<Close><End of Block>
+<TextBlock 2 w:54 h:4>
+Fei
+"Sì, chiunque sulla
+superficie è gentile e
+sono anche brave persone…"<Close><End of Block>
+<TextBlock 3 w:40 h:4>
+Fei
+"Non tutti sono
+necessariamente 
+gentili e buoni…"<Close><End of Block>
+<TextBlock 4 w:54 h:3>
+Shitan
+"<Chu-Chu> e i suoi amici
+devono essere gli ultimi
+sopravvissuti."<Close><End of Block>
+<TextBlock 5 w:48 h:4>
+Elly
+"Se <Chu-Chu> lo vedesse,
+probabilmente sverrebbe
+dalla felicità."<Close><End of Block>
+<TextBlock 6 w:40 h:3>
+Bart
+"Ah, ah!<Delay 20>
+Chi l'avrebbe
+immaginato!"<Close><End of Block>
+<TextBlock 7 w:52 h:4>
+Rico
+"Dovresti essere
+felice, <Chu-Chu>.<Delay 20>
+Hai così tanti amici!"<Close><End of Block>
+<TextBlock 8 w:48 h:4>
+Billy
+"Wow…<Delay 20>
+È stupefacente
+vederne così tanti."<Close><End of Block>
+<TextBlock 9 w:46 h:4>
+Esmeralda
+"…<Delay 20>
+È qualcosa fuori
+dall'ordinario?"<Close><End of Block>
+<TextBlock 10 w:42 h:3>
+Ah-a-a, un ospite!?<Delay 20>
+Da quanto tempo…!
+Avanti, avanti…!<Close><End of Block>
+<TextBlock 11 w:46 h:3>
+Sarebbe fantastico se
+ne comprassi tantissimi!!<Close><End of Block>
+<TextBlock 12 w:48 h:4>
+Grazie!
+Torna a trovarmi!<Delay 20>
+La prossima volta ti
+farò uno sconto.<Close><End of Block>
+<TextBlock 13 w:54 h:4>
+La roccia galleggiante
+là dietro vi porterà
+alla meravigliosa piazza,
+il Paradiso dell'Acqua.<New>
+Talvolta fa bene evadere
+dalla realtà e dimenticare
+gli affanni della vita…
+sì, è così…<Close><End of Block>
+<TextBlock 14 w:12 h:2>
+Zzz…
+Zzz…<Close><End of Block>
+<TextBlock 15 w:42 h:5>
+Grazie, grazie!
+Torna, mi raccomando!<Delay 20>
+Ti farò uno sconto!!
+Zzz… Zzz…<Close><End of Block>
+<TextBlock 16 w:58 h:6>
+L'angelo eretto guardava
+la notte finire. Il
+crepuscolo si addormentava
+nelle braccia di una bimba,
+perduto da 500 anni…
+E il Serpente Marino
+inghiottiva l'oscurità.<New>
+Un saggio mi istruì su
+questo tanto, tanto, tanto
+tempo fa.<Delay 20> Non so cosa sia,
+comunque, forse una
+magia, sì forse lo è.<Close><End of Block>
+<TextBlock 17 w:50 h:5>
+Sai, ho qualcosa di
+veramente bello da dirti.<Delay 20>
+È un'offerta che non
+puoi rifiutare!<Close><End of Block>
+<TextBlock 18 w:36 h:3>
+Vorresti saperla?<Delay 20>
+    Certo
+    No, grazie<Close><End of Block>
+<TextBlock 19 w:48 h:4>
+Mmh… Capisco…
+Vuoi saperla,
+sì lo vuoi…<New>
+Va bene,<Delay 20> ti parlerò
+della tradizione che
+ispira la tribù dei
+Chu-chu, sì, lo farò.<Close><End of Block>
+<TextBlock 20 w:54 h:6>
+Taaaanto tempo fa, la 
+Tribù Chu-chu aveva un
+grande dio guardiano, che
+poteva superare le montagne
+con un solo passo. Il dio
+del Mambo Meraviglioso,
+sì, lui era!<New>
+La Tribù Chu-chu e il
+dio del Mambo Meraviglioso
+vivevano insieme in pace,
+sì, è così.<Delay 20> Una dolce
+esistenza di sogno.<New>
+Ma un giorno, un'enorme
+palla di fuoco piovve dal
+cielo, e uccise il nostro
+dio guardiano mentre era
+addormentato.<Delay 20>
+Blam, kablam, boom!<New>
+Ma non preoccuparti!<Delay 20>
+Il grande dio guardiano
+divenne una stella del
+cielo!<Delay 20> E da là protegge
+la Tribù Chu-chu, sì,
+lo fa!!<Close><End of Block>
+<TextBlock 21 w:50 h:5>
+Sì, sì, è una grande
+storia…<Delay 20> Per quante
+volte l'ascolti, mi
+commuovo sempre… sì,
+è così… <New>
+Sta' attento, ricorda:
+i cattivi che fanno male
+ai poveri Chu-chu saranno
+puniti dal nostro dio
+guardiano, sì, lo saranno.<Close><End of Block>
+<TextBlock 22 w:46 h:3>
+Mmh oh…<Delay 20>
+Capisco…
+vuoi sentirla…<New>
+Che?<Delay 30> No?
+Non ti interessa?<Delay 20>
+Sei sicuro?<New>
+Che peccato.<Delay 20>
+È davvero una grande
+storia… sì, lo è…<Close><End of Block>
+<TextBlock 23 w:52 h:4>
+Il Saggio di Shevat ha
+fatto alcune ricerche
+sulle tradizioni della
+Tribù Chu-chu, sì, ha fatto.<New>
+È un mucchio di lavoro.<Delay 20>
+Neanche gli anziani della
+Tribù Chu-chu ne sanno
+molto di queste cose.<Close><End of Block>
+<TextBlock 24 w:48 h:5>
+Si dice che la stanza
+segreta del Saggio di
+Shevat sia nascosta da
+qualche parte in città.<Delay 20>
+Sarà vero?<Close><End of Block>
+<TextBlock 25 w:54 h:4>
+Sono così belle!<Delay 20>
+Queste sono meravigliose
+cose che nessun altro
+vende, sì, lo sono.<New>
+Ma questo è il tesoro più
+importante dei Chu-chu,
+e non posso vendertelo.<New>
+Scusa. Avvicinati al
+bancone se vuoi comprare
+qualcosa. Grazie, grazie.<Close><End of Block>
+<TextBlock 26 w:42 h:4>
+…!?
+Ehi…!!<Delay 20>
+Quella che vedo…
+… è…<Close><End of Block>
+<TextBlock 27 w:48 h:1>
+La mitica Coppa CSF!!<Close><End of Block>
+<TextBlock 28 w:50 h:1>
+La leggendaria
+Coppa Nascondino!!<Close><End of Block>
+<TextBlock 29 w:50 h:2>
+La Coppa Acchiaparella
+che tutti vorrebbero
+avere nelle loro mani!!<Close><End of Block>
+<TextBlock 30 w:52 h:4>
+Questo è il set completo
+di un… giocatore!?<Delay 20>
+Sono stupefatto.
+È grandioso, sì, lo è!!<New>
+Mmh…<Delay 20>
+Vorresti scambiarli
+con il nostro tesoro?<Delay 20>
+È un affare, sì, lo è.<Close><End of Block>
+<TextBlock 31 w:52 h:4>
+Vuoi scambiarli con il
+tesoro dei <Chu-Chu>?<Delay 20>
+    Certo!
+    No!<Close><End of Block>
+<TextBlock 32 w:40 h:2>
+Allora scambiamo.
+Ecco qua!<Close><End of Block>
+<TextBlock 33 w:38 h:1>
+Ricevi Caricatore A!<Close><End of Block>
+<TextBlock 34 w:44 h:1>
+Ricevi Anello Potere S!<Close><End of Block>
+<TextBlock 35 w:22 h:1>
+Avaraccio!<Close><End of Block>
+<TextBlock 36 w:52 h:4>
+Solaris infastidì la
+Tribù Chu-chu che
+viveva su questo astro
+fin dall'inizio.<New>
+Così gli antenati
+fuggirono con la gente
+di Shevat, sì, lo fecero.<New>
+Ma molti Chu-chu non
+poterono fuggire e
+furono uccisi…<Delay 20>
+Questi tizi li odiano,
+sì, lo fanno…<New>
+Mi viene in mente…<Delay 30>
+sono affamata, sì…<Delay 20>
+Mi sono ricordata che
+non ho ancora pranzato.<Close><End of Block>
+<TextBlock 37 w:52 h:4>
+Dimentica il dio guardiano
+della leggenda. Nessuno
+più crede a tali favole…
+no, no.<Close><End of Block>
+<TextBlock 38 w:50 h:5>
+Se un dio guardiano è
+esistito, è stato ucciso
+da Solaris taaanto tempo
+fa, sì, proprio così.<Close><End of Block>
+<TextBlock 39 w:50 h:4>
+Sono solo un mucchio di
+tipi felici ed ottimisti.
+Cosa vuoi farci…<Close><End of Block>
+<TextBlock 40 w:52 h:4>
+Spero che un giorno tutti
+si capiscano l'uno con
+l'altro, e possano vivere
+insieme felicemente… sì.<Close><End of Block>
+<TextBlock 41 w:50 h:3>
+Voglio andare sulla terra
+e vivere con altra gente,
+sì, lo voglio!<Close><End of Block>
+<TextBlock 42 w:50 h:5>
+Mi piace la gente di Shevat
+perché sono tutti gentili.<Delay 20>
+Ci trattano come loro
+pari, sì, lo fanno.<New>
+Ma ho sentito che la
+gente della superficie
+è spaventosa.<New>
+Mentono, dicono cose
+terribili, e si uccidono
+l'uno con l'altro…<Close><End of Block>
+<TextBlock 43 w:54 h:4>
+Mi sbaglio? Sono delle
+brave persone, giusto?<Delay 20>
+    Sono tutti gentili.
+    Non necessariamente…<Close><End of Block>
+<TextBlock 44 w:48 h:4>
+Lo sapevo!<Delay 20>
+Voglio andare sulla terra
+e vivere con altra gente,
+sì, lo voglio!<Close><End of Block>
+<TextBlock 45 w:52 h:4>
+Capisco…<New>
+Spero che un giorno tutti
+si capiscano l'uno con
+l'altro, e possano vivere
+insieme felicemente… sì.<Close><End of Block>
+<TextBlock 46 w:46 h:3>
+Sei terribilmente
+diretto. Mi piace.<Delay 20>
+Voglio darti questo.<Close><End of Block>
+<TextBlock 47 w:36 h:1>
+Ricevi Aquasol S<Close><End of Block>
+<TextBlock 48 w:36 h:1>
+Ricevi Aquasol S<Close><End of Block>
+<TextBlock 49 w:38 h:1>
+Ricevi Aquasol DX<Close><End of Block>
+<TextBlock 50 w:50 h:4>
+Che?<Delay 20> Che strano.
+Profumi di terra e
+alberi, sì, è così.<New>
+Taaaanto tempo fa, la
+Tribù Chu-chu viveva
+nelle foreste,<Delay 20> senza
+interferenze, sì, è così.<New>
+Chissà se un giorno
+potremo ritornare sulla
+terra e vivere di nuovo
+nelle foreste…?<Close><End of Block>
+<TextBlock 51 w:46 h:3>
+Vuoi scendere?<Delay 10>
+    Sì
+    No<Close><Close><End of Block>

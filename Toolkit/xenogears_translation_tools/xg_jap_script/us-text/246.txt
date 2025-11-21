@@ -1,0 +1,121 @@
+#### 1 ####
+Citan
+"I see...{enter}
+So your 'young one' has
+not just been shooting
+at anything and every-
+thing then, Sigurd."
+
+#### 2 ####
+Citan
+"So, what happened to
+this 'young one' you
+call 'master'?"
+
+#### 3 ####
+Citan
+"You seem to trust
+him a lot..."
+
+#### 4 ####
+Citan
+"It is not coincidence.
+It is an inevitable
+consequence...I assume."
+
+#### 5 ####
+Sigurd
+"Yes, he actually
+calculated this attack...{wait:10}
+...or so he says!{enter}
+As you can see...
+no one has died this
+time, either."
+
+#### 6 ####
+Sigurd
+"Okay.{wait:10}
+I'm counting on you."
+
+#### 7 ####
+Sigurd
+"He fell into an under-
+ground cave with that
+other guy in a Gear.{enter}
+It's near an old excavation
+site, and he is riding in a
+Gear, so he'll probably be
+able to come up somehow...{enter}
+We'll try to find him for a
+while, and if that doesn't
+work, then we'll wait for
+him at our meeting point."
+
+#### 8 ####
+Sigurd
+"Trust him...
+Yeah, I trust he'll
+get us into trouble."
+
+#### 9 ####
+Sigurd
+"But I never thought I
+would meet you here,
+'Hyu'..."
+
+#### 10 ####
+Sigurd
+"...{wait:20}Hyuga...
+Are you saying something
+is about to happen?"
+
+#### 11 ####
+Phew, thank god...
+I didn't wanna dry up and
+die up in the desert...
+
+#### 12 ####
+Shut up!
+You sunk our ship!
+Don't you forget that!
+
+#### 13 ####
+Hey, you!
+I know you're tired but
+don't go any further
+than there!
+
+#### 14 ####
+No, you shut up!
+Just be thankful that
+you were saved!
+
+#### 15 ####
+Excuse me...
+
+#### 16 ####
+Is there anyone who is
+almost dead, with no arms
+and legs, or in need of
+an abdominal operation!?
+
+#### 17 ####
+No one...? 
+Well that's
+depressing...
+
+#### 18 ####
+Sigurd, sir!
+The collection of the goods
+and soldiers from the Aveh
+transport is almost complete.{enter}
+We still can't locate the
+young master... General
+Maitreya's platoon will
+scout around again.
+
+#### 19 ####
+Yes, sir!{wait:18}
+Since I'm part of the unit
+I'll also excuse myself.
+

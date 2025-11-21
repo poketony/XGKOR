@@ -1,0 +1,11 @@
+#### 1 ####
+Maria
+"Once we get through that
+manhole, we'll be able to
+enter the hangar."
+
+#### 2 ####
+{fast:FF}Do you want to go up?{wait:0A}
+    Yes
+    No
+

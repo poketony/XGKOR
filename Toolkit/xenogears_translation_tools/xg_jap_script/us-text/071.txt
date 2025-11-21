@@ -1,0 +1,599 @@
+#### 1 ####
+Bart
+"Are you ready?"
+    I guess so
+    Later
+
+#### 2 ####
+Bart
+"Well, come back 
+later then."
+
+#### 3 ####
+Bart
+"Can I have a second?"
+    Sure
+    Maybe later
+
+#### 4 ####
+Bart
+"Well, come back 
+later then."
+
+#### 5 ####
+Sigurd
+"Fei, get out of here, 
+it's dangerous!!"
+
+#### 6 ####
+Fei! 
+I'm still working on it
+because of those guys.{wait:0A} {enter}
+It'll be a little longer
+before Yggdrasil can leave.
+
+#### 7 ####
+Oh, Fei!{wait:0A} 
+You can take this elevator
+down to the Gear Hangar. {enter}
+Why don't you check on
+{name:0B:¥ô¥§¥ë¥È©`¥ë} and do
+whatever maintenance
+you feel like doing?
+
+#### 8 ####
+Alright, alright!!{wait:0A}
+Off your butts and
+back to work!{clear:3C}
+
+#### 9 ####
+Bart, good to see 
+you back!{clear:28}
+
+#### 10 ####
+{fast:05}'Full rudder!!!'
+
+#### 11 ####
+Yessir!!{clear:1E}
+
+#### 12 ####
+Did you hear anything about it?
+    Yep
+    No, about what?
+
+#### 13 ####
+Oh no. 
+Don't tell anyone.
+
+#### 14 ####
+Oh really? 
+That's nice. 
+(Whew, I'm safe)
+
+#### 15 ####
+I did it! 
+They made me the pilot 
+apprentice!
+
+#### 16 ####
+I'd like to try and 
+drive this thing once.
+
+#### 17 ####
+Welcome back!{clear:28}
+
+#### 18 ####
+Welcome back!{clear:28}
+
+#### 19 ####
+Welcome back!{clear:28}
+
+#### 20 ####
+Welcome back!{clear:28}
+
+#### 21 ####
+Welcome back!{clear:28}
+
+#### 22 ####
+Welcome back!{wait:0A} 
+Bart!
+
+#### 23 ####
+Bart! 
+What did you bring us?
+
+#### 24 ####
+Bart
+"Well{wait:05}...{wait:0A}I've got a new
+model Gear and two people
+that we helped out."
+
+#### 25 ####
+Ehh!{wait:0A}
+A Gear{wait:05}...{wait:05}how boring!{wait:0A} 
+Don't you have anything 
+more interesting?
+
+#### 26 ####
+Bart
+"I thought you'd
+say that..."
+
+#### 27 ####
+Bart
+"Look! This is amber I
+found in a stalactite
+cavern under the desert.{enter}
+It's rare to find one 
+with a bug in it!"
+
+#### 28 ####
+Wow!{wait:0A}
+Thanks Bart!
+
+#### 29 ####
+We got some amber!{clear:1E}
+
+#### 30 ####
+What's that?
+
+#### 31 ####
+Let's go!{wait:0A}
+We gotta show it
+off to everyone!
+
+#### 32 ####
+Bart
+"Well then...{wait:0A}
+I'm gonna tune up
+my Gear a little...{enter}
+Why don't you two go
+have some tea with
+Old Maison."
+
+#### 33 ####
+Bart
+"Thanks Old Maison."
+
+#### 34 ####
+Maison
+"Please, walk this way."
+
+#### 35 ####
+Bart
+"Citan told me all about 
+your story. Do you want 
+to talk about it?{enter}
+Why didn't you tell me?{wait:0A}
+It sounds pretty rough."
+
+#### 36 ####
+Bart
+"Listen...{wait:0A}
+I'm sorry for being
+a jerk...{wait:0A}just now..."
+
+#### 37 ####
+Bart
+"Forgive me, will ya?"
+
+#### 38 ####
+...
+
+#### 39 ####
+Whoa!!{clear:3C}
+
+#### 40 ####
+Bart
+"Anyway...
+Sorry to bring it
+up again, but..."
+
+#### 41 ####
+Fei
+"No!"
+
+#### 42 ####
+What?
+
+#### 43 ####
+Fei
+"I don't like fighting 
+like you do.{enter}
+I only got into that
+Gear because I had to.{wait:0A}
+I'd rather not ride them.{enter}
+If you want that Gear so
+much then you can have it!
+I don't want it!"
+
+#### 44 ####
+Bart
+"You think I
+like fighting?{wait:0A}
+...Is that it?"
+
+#### 45 ####
+Fei
+"Don't you?{wait:0A} 
+Sure looks that way.{enter}
+It looks like the only
+thing you do enjoy is
+fighting."
+
+#### 46 ####
+Bart
+"I can't let that slide.
+Who likes fighting?{wait:0A} 
+Take it back. {enter}
+Like it or not, I fight
+because I have to.
+I got my reasons, but{wait:0F}
+you wouldn't understand."
+
+#### 47 ####
+Fei
+"Well I don't have a
+reason to fight!{wait:0A}
+I don't want to fight.{enter}
+I just want to live 
+in peace and quiet.
+
+#### 48 ####
+But you people keep on
+hounding me to get into
+a Gear? Why don't you
+just leave me alone!?"
+
+#### 49 ####
+Bart
+"It's because I
+see your skill{wait:0A}
+and think..."
+
+#### 50 ####
+Fei
+"Well I hate it!
+Whenever I get in a Gear
+people get hurt.{enter}
+If I fight, people die.{wait:0A}
+I don't want to hurt people!{wait:0A}
+I don't want anyone to die!{enter}
+I hate it...{wait:0A}
+can't you see that?"
+
+#### 51 ####
+Bart
+"Yeah,{wait:0A} I know the
+feeling{wait:0A} of just wanting
+to run away from reality.{enter}
+But do you think the kids
+left behind in your
+village would understand?"
+
+#### 52 ####
+...
+
+#### 53 ####
+Bart
+"Citan told me what 
+happened in Lahan.{enter}
+Would it have been better
+if you had done nothing?{wait:0A} 
+Sure, that happened because
+you were in the Gear.{enter}
+But even if you hadn't,
+people would have died...{wait:0A}
+Right?{wait:0A}
+You weren't the reason.{enter}
+War...{wait:0A}no, the people
+who started the war are
+the reason.{enter}
+And unless you get rid of
+the reason, nothing will
+change.{wait:0A} I fight to get
+rid of the reason...{enter}
+Right now there is no
+other way so I have to
+fight...{wait:0A} But that doesn't
+mean I enjoy it."
+
+#### 54 ####
+Bart
+"I understand why you
+would feel guilt toward
+the kids in your village.{enter}
+And I know why you don't
+want to harm others.{enter}
+But if you want to make 
+it up to those children,{wait:0A}
+don't you have to fight?"
+
+#### 55 ####
+Bart
+"You do have a reason to
+fight.{wait:0A} A reason you must
+fight. {enter}
+But as long as you ignore
+it and continue to run
+away, those kids will
+never forgive you.{enter}
+Just remember that."
+
+#### 56 ####
+Bart
+"And another thing,{enter}
+I'm not saying that not
+helping me is running
+away.{enter}
+You don't have to help.{wait:0A}
+This is my own problem.{wait:0A}
+I don't wanna get you in
+this against your will.{enter}
+But,{wait:0A} if I had your skill
+I could bring all of
+this to an end{wait:05}...{enter}
+And make it up to those
+kids.{wait:0A} At least that's
+what I think..."
+
+#### 57 ####
+Anyway...
+sorry to hold you up.{enter}
+The mechanic wanted to
+talk to you about your
+Gear.{enter}
+You probably don't care
+now, but at least hear
+what he has to say.
+
+#### 58 ####
+Fei
+"..."
+
+#### 59 ####
+Sigurd
+"Look over there..."
+
+#### 60 ####
+Hey, dad...{wait:0A}
+Can you hear me?{wait:0A} 
+Ever since I first looked
+in Fei's eyes I knew...{enter}
+He's the same as me.{wait:0A}
+He'd understand me...{wait:0A}
+Or so I thought...{wait:0A}
+Did I just imagine it?
+
+#### 61 ####
+I have no confidence.{wait:0A} 
+If I follow after you,
+dad...It'll just be like
+I'm some decoration.{enter}
+At the moment, I can't
+even carry out your will,{wait:0A}
+let alone rescue Margie...
+
+#### 62 ####
+I told him he was only
+running away but {wait:0A}I'm
+really the one who
+wants to run away...
+
+#### 63 ####
+Sigurd
+"The young master asked
+me to apologize to you.{wait:0A} 
+Pretty strange, huh?{enter}
+He knows it's best to
+apologize in person...{enter}
+But the young master
+isn't all that good at
+this sort of thing..."
+
+#### 64 ####
+Sigurd
+"He may not look it,
+but he's really quite
+lonely{wait:05}...{enter}
+He's always searching
+for a friend.{wait:0A}
+We, his minders, can't
+become his friends.{enter}
+Even if we wanted to,
+he just wouldn't see
+us that way.{wait:0A}
+He knows that."
+
+#### 65 ####
+Sigurd
+"Why you ask?
+It's because of the
+burden that he bears.{enter}
+It must be difficult
+for one so young to
+carry so heavy a
+responsibility.{enter}
+But he does try to do
+his best, you know?{enter}
+That is why we stick
+by him... It has
+nothing to do with
+him being the prince."
+
+#### 66 ####
+Sigurd
+"Fei,{wait:0A} I sense you too
+are carrying a heavy
+burden.{enter}
+This might be a selfish
+request, but...would it
+be possible for you to
+help the young master?{enter}
+I'm not asking you to
+burden yourself with
+his problems or
+responsiblities.{enter}
+But could you two...
+with whatever it is only
+you two each know, help
+the other?{wait:0A} Please..."
+
+#### 67 ####
+Fei
+"I'm sorry{wait:05}...{wait:0A}
+I need time to think."
+
+#### 68 ####
+Sigurd
+"Of course...take your
+time. It is completely
+up to you.{enter}
+Whatever you decide, we
+will be leaving early
+tomorrow morning.{enter}
+After you're finished
+preparing for tomorrow,
+you probably should get
+some rest.{enter}
+You can use the bedroom
+in the residential area
+above."
+
+#### 69 ####
+Citan
+"I wish to speak to Sigurd
+some more...so you go
+ahead and get some rest."
+
+#### 70 ####
+...
+
+#### 71 ####
+All noncombatants, 
+go to the Yggdrasil!!{wait:0A} 
+Immediately!{clear:3C}
+
+#### 72 ####
+Wahhh, 
+I'm scared!!{clear:3C}
+
+#### 73 ####
+{fast:05}Fei!!
+
+#### 74 ####
+{fast:05}Citan
+"Fei!! Quick!
+Get to {name:0B:¥ô¥§¥ë¥È©`¥ë} now!!"
+
+#### 75 ####
+{fast:05}Fei!?
+
+#### 76 ####
+Citan
+"Bart and the others are
+already fighting!{enter}
+Aren't you going to do
+anything?{wait:0A} 
+Do you still think it has
+nothing to do with you?"
+
+#### 77 ####
+{fast:05}...
+
+#### 78 ####
+Fei
+"I..."
+
+#### 79 ####
+Fei
+"I...{wait:0A}
+What{wait:0A}
+am I?"
+
+#### 80 ####
+Fei
+"That old man...{wait:0A}
+he called me...{wait:0A}
+the slayer of {wait:0A}god..."
+
+#### 81 ####
+Fei
+"I don't want{wait:05} that
+kind of {wait:05}power{wait:05}..."
+
+#### 82 ####
+My...{wait:0A} 
+strength...{clear:5A}
+
+#### 83 ####
+My...{wait:0A}
+home...{clear:5A}
+
+#### 84 ####
+Maison
+"We must infiltrate Aveh 
+and rescue Margie now!{enter}
+Gebler has discovered this
+base.{wait:0A} So we should leave a
+small garrison and evacuate
+while we still can.{enter}
+Fortunately, the Yggdrasil
+is undamaged, so we are
+able to embark immediately.{enter}
+The crew's preparations are
+complete.{enter}
+Whenever you are ready,
+Master Fei and good Doctor,
+please accompany the young
+master to the bridge."
+
+#### 85 ####
+Maison
+"Doctor Uzuki,{wait:0A} Master Fei,{wait:0A} 
+I thank you from the bottom
+of my heart.{enter}
+I would truly appreciate it
+if you would be so kind as
+to stay with us and help us
+out on our rescue mission!"
+
+#### 86 ####
+Bart
+"Hey, alright, alright.{wait:0A}
+Let me say goodbye to
+the women before we go."
+
+#### 87 ####
+{fast:FF}Go up to the residential area? 
+    Go up
+    No
+
+#### 88 ####
+{fast:FF}Go down to the Gear Hangar? 
+    Go down
+    No
+
+#### 89 ####
+Current supply status
+£¾{wait:0A}£¾{wait:0A}£¾{wait:0A}100%
+
+#### 90 ####
+Current supply status
+£¾{wait:0A}£¾{wait:0A}£¾{wait:0A}80%
+
+#### 91 ####
+Current supply status
+£¾{wait:0A}£¾{wait:0A}£¾{wait:0A}60%
+
+#### 92 ####
+Current supply status
+£¾{wait:0A}£¾{wait:0A}£¾{wait:0A}40%
+
+#### 93 ####
+Current supply status
+£¾{wait:0A}£¾{wait:0A}£¾{wait:0A}20%
+
+#### 94 ####
+
+

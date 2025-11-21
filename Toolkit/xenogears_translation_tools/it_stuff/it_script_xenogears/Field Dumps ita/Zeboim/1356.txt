@@ -1,0 +1,38 @@
+<TextBlock 1 w:46 h:3>
+<Opcode 1 255>Azzerare il livello
+d'emergenza al
+terminale più vicino.<Close><End of Block>
+<TextBlock 2 w:58 h:4>
+<Opcode 1 255>Livello d'emergenza: 5<New>
+<Opcode 1 255>Il pulsante d'emergenza
+dentro il reattore è
+stato attivato 34999999
+ore fa.<New>
+Da questo punto si corre il
+rischio di nanocontaminazione.<New>
+<Opcode 1 255>Quando si entra nella stanza,
+eseguire una scansione
+manuale e confermare la
+assenza di minacce.<New>
+<Opcode 1 255>Dopo aver effettuato la
+conferma, azzerare il
+livello d'emergenza al
+terminale più vicino.<Close><End of Block>
+<TextBlock 3 w:40 h:3>
+Eseguire scansione manuale?
+     Eseguila
+     Annulla<Close><End of Block>
+<TextBlock 4 w:48 h:4>
+<Opcode 1 255>Prego, attendere.<Delay 32>
+……<Delay 32>…<Delay 32>………<Delay 32>……<Delay 32>……<Delay 32>……<Delay 32>……<Delay 32>……<Delay 32>…<New>
+Scansione completata.
+Confermata l'assenza
+di nanocontaminazione.<New>
+<Opcode 1 255>Si può rientrare nella<Space 3>
+stanza azzerando il
+livello d'emergenza al
+terminale più vicino.<Close><End of Block>
+<TextBlock 5 w:44 h:3>
+<Opcode 1 255>Quando si entra nella
+stanza, si deve eseguire
+una scansione manuale.<Close><Close><End of Block>

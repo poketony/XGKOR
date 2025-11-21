@@ -1,0 +1,63 @@
+<TextBlock 1 w:44 h:4>
+Broyer
+"Che? Chi è quello? 
+Non sono i pirati di
+Aveh?"<Close><End of Block>
+<TextBlock 2 w:38 h:4>
+Elly
+"Quello è…<Delay 10>
+…<Delay 10>…<Delay 10> Fei!
+Ma come…!?"<Close><End of Block>
+<TextBlock 3 w:44 h:3>
+Strakki
+"Ehi, qui siamo a
+Kislev! Cosa sta
+facendo qui?"<Close><End of Block>
+<TextBlock 4 w:38 h:3>
+Helmholtz
+"Ovunque andiamo ce
+lo ritroviamo fra i
+piedi!"<Close><End of Block>
+<TextBlock 5 w:48 h:4>
+Franz
+"Ce l'avrà con noi? 
+È davvero insistente."<Close><End of Block>
+<TextBlock 6 w:10 h:2>
+Elly
+"…"<Close><End of Block>
+<TextBlock 7 w:42 h:3>
+Broyer
+"Non c'è due senza tre!
+Andiamo a prenderlo!"<Close><End of Block>
+<TextBlock 8 w:12 h:3>
+Elly
+"Ah! Aspettate!"<Close><End of Block>
+<TextBlock 9 w:16 h:2>
+Elly
+"Renk!?"<Close><End of Block>
+<TextBlock 10 w:52 h:4>
+Renk
+"Pensando al nostro ultimo
+incidente, posso dire che
+lei è amica…<New>
+… del pilota di quel Gear.<New>
+Ma non ci devono essere
+esitazioni. Anche se
+stiamo scortando l'Hecht.<New>
+Voglio battermi con lui,
+non come nemico, ma come
+rivale…<New>
+Noi siamo le forze
+speciali di Geburah e
+non saremo sconfitti!"<Close><End of Block>
+<TextBlock 11 w:10 h:2>
+Elly
+"…"<Close><End of Block>
+<TextBlock 12 w:44 h:4>
+Renk
+"Mi scusi, ma devo
+prenderlo a calci
+in culo. Obiezioni?"<Close><End of Block>
+<TextBlock 13 w:12 h:2>
+Elly
+"Io…"<Close><Close><End of Block>

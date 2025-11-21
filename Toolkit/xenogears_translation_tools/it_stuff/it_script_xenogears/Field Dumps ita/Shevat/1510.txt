@@ -1,0 +1,53 @@
+<TextBlock 1 w:52 h:2>
+Ascoltami, Hyuga.<Delay 20>
+Vado anch'io a Solaris.<Close><End of Block>
+<TextBlock 2 w:44 h:2>
+Fei
+"Perché<Delay 20>… sei qui!?"<Close><End of Block>
+<TextBlock 3 w:42 h:4>
+Shitan
+"Sì…<Delay 20>
+Ci conto."<Close><End of Block>
+<TextBlock 4 w:54 h:4>
+Jessie
+"Non fraintendermi.<Delay 20>
+Non significa che
+ti aiuterò.<New>
+Non so cosa tu abbia
+in mente e cosa
+cercherai di fare…<New>
+Ma se passi dalla loro
+parte, ti ucciderò senza
+la minima esitazione<Delay 20>…<New>
+Anche colpendoti
+alle spalle…"<Close><End of Block>
+<TextBlock 5 w:38 h:3>
+Jessie
+"Eh…<Delay 20> davvero
+scoraggiante…"<Close><End of Block>
+<TextBlock 6 w:52 h:3>
+Wiseman
+"Fei, sta' dalla
+parte di Shevat.<New>
+Tuo padre, Kahn,
+l'avrebbe voluto…"<Close><End of Block>
+<TextBlock 7 w:36 h:2>
+Wiseman
+"Avanti, entra."<Close><End of Block>
+<TextBlock 8 w:46 h:3>
+Wiseman
+"Finalmente sei qui…<Delay 20>
+Dove sei stato?"<Close><End of Block>
+<TextBlock 9 w:44 h:3>
+Wiseman
+"Te l'ho già detto
+prima.<New>
+Ho imparato le arti
+marziali con tuo
+padre, a Shevat.<New>
+La Regina ti sta
+aspettando.
+Avanti, entra."<Close><End of Block>
+<TextBlock 10 w:34 h:2>
+Maria
+"Prego, entrate."<Close><Close><End of Block>

@@ -1,0 +1,95 @@
+#### 1 ####
+Fei and the guys had
+Gaspar remove a part of
+the Limiter inserted in
+their genes.
+
+#### 2 ####
+Yes yes, and then...{enter}
+{name:07:チュチュ} and her friends
+got together and rejoiced
+over their safety...{enter}
+It was natural for them
+to have a party,{wait:14} and their
+sweet, dangerous night
+went on and on...{enter}
+just like a
+never-ending dream...
+
+#### 3 ####
+No, let's not...{wait:14}
+It's a whole other
+story...
+
+#### 4 ####
+{name:07:チュチュ}
+"Fei,{wait:14} where are 
+you going chu without me?{enter}
+{name:07:チュチュ} will go anywhere,
+even chu the end of the
+world{wait:14} with you!{enter}
+{name:07:チュチュ}'s maidenly pure
+heart is only{wait:14} for you!
+Uh hmmm!"
+
+#### 5 ####
+Zephyr
+"Welcome back, Gaspar.{enter}
+What about Balthasar,
+or Melchior...?"
+
+#### 6 ####
+Zephyr
+"Just as I thought..."
+
+#### 7 ####
+Zephyr
+"...Sorry."
+
+#### 8 ####
+Zephyr
+"She...was the same as
+Sophia?"
+
+#### 9 ####
+Wiseman
+"It's a matter of course.{enter}
+But the girl doesn't 
+intend to ride it...
+Just like 'her'.{enter}
+She knows it
+unconsciously. The
+existence within
+her..."
+
+#### 10 ####
+Wiseman
+"..."
+
+#### 11 ####
+Wiseman
+"No, I don't mind.
+I'm not 'him'."
+
+#### 12 ####
+Gaspar
+"No, I haven't seen
+them ever since...{enter}
+Besides, your Majesty...{enter}
+I came here to watch
+over them so that they
+do not make the same
+foolish mistakes again."
+
+#### 13 ####
+Gaspar
+"Well then, I'll go take
+a look at their Limiters."
+
+#### 14 ####
+Your Majesty, the Omnigear
+underground is moving!!{wait:14}{enter}
+The girl named Elly was
+nearby and it reacted to
+her!!
+

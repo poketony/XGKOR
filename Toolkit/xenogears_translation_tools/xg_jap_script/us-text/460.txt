@@ -1,0 +1,293 @@
+#### 1 ####
+Elly
+"This is my room..."
+
+#### 2 ####
+Elly
+"Ahh, I can finally relax."
+
+#### 3 ####
+Fei
+"This place is huge!
+It must be bigger than 
+the village chief's!"
+
+#### 4 ####
+Elly
+"Heh.{enter}
+I'm sweaty after running,
+so I'm taking a shower."
+
+#### 5 ####
+Fei
+"You have a bathroom
+in your room?"
+
+#### 6 ####
+Elly
+"It's pretty normal."
+
+#### 7 ####
+...{wait:0A}
+(It's not normal...)
+
+#### 8 ####
+Elly
+"When are you going to 
+stop staring?"
+
+#### 9 ####
+Fei
+"Hey, {wait:0A}
+Elly, 
+was that your mother?"
+
+#### 10 ####
+Elly
+"Yes."
+
+#### 11 ####
+Fei
+"Oh.{wait:0A}
+She sure is a pretty lady."
+
+#### 12 ####
+Elly
+"...{wait:0A}
+Yes, she is."
+
+#### 13 ####
+Fei
+"But you don't look 
+much like her.{enter}
+Do you resemble your 
+father?"
+
+#### 14 ####
+Elly
+"Haven't you noticed yet?"
+
+#### 15 ####
+Fei
+"What do you mean?"
+
+#### 16 ####
+Elly
+"The color of my skin,
+hair, and eyes are...{enter}
+different from normal
+Solarians..."
+
+#### 17 ####
+Fei
+"I've never paid 
+attention to it so...{wait:0A}
+Really?"
+
+#### 18 ####
+Elly
+"A long time ago, {wait:0A}when I
+was small, I had a nanny.{wait:0A}
+She was so nice to me.{enter}
+But she was a land dweller.
+And First Class citizens
+rarely associate with them.{enter}
+But the nanny lived in 
+our house and took care 
+of me.{wait:0A}{enter}
+She lost her child when 
+she was in the 3rd Class 
+area...{enter}
+My dad felt sorry for her 
+and kept her under his 
+protection. {wait:0A}But he never 
+told anyone about her..."
+
+#### 19 ####
+Fei
+"Why?"
+
+#### 20 ####
+Elly
+"My father was worried 
+about my appearance...
+He had a reason for it.{enter}
+She was probably my
+real{wait:05}...{wait:05}"
+
+#### 21 ####
+Fei
+"Elly..."
+
+#### 22 ####
+Elly
+"I'd better not...{wait:0A}
+I'm sure you don't want 
+to hear about this...{wait:0A}{enter}
+Sorry."
+
+#### 23 ####
+Fei
+"That's alright..."
+
+#### 24 ####
+Elly
+"Now, it's your turn!"
+
+#### 25 ####
+Fei
+"No thanks.{wait:0A}
+I don't have time for
+that."
+
+#### 26 ####
+Elly
+"You need to relax.{wait:0A}
+You don't get a chance 
+like this very often.{wait:0A}{enter}
+Please?"
+
+#### 27 ####
+Fei
+"Alright, {wait:0A}if you insist!"
+
+#### 28 ####
+Elly
+"You should've listened 
+to me in the first place."
+
+#### 29 ####
+...!!{clear:0F}
+
+#### 30 ####
+Wa---a-a-a!!{clear:0A}
+
+#### 31 ####
+Elly
+"You're fine.{wait:0A}
+Just relax."
+
+#### 32 ####
+Fei
+"Wow...feels good.{enter}
+There's a world of
+difference between this
+and doc's old bath tub!"
+
+#### 33 ####
+!!{clear:0A}
+
+#### 34 ####
+Fei
+"S, {wait:05}stop it!{wait:0A}
+Stop staring at me!"
+
+#### 35 ####
+Elly
+"Don't worry, I'm not
+looking.{enter}
+I'm just adjusting it.{wait:0A}
+How's the temperature?"
+
+#### 36 ####
+Fei
+"Hey,{wait:0A}
+I'm fine.
+Go away, NOW!!"
+
+#### 37 ####
+Elly
+"Aha, ha...
+Fei's got a cute side
+to him."
+
+#### 38 ####
+{wait:05}...{wait:05}?{wait:05}?
+
+#### 39 ####
+Fei
+"I feel refreshed...
+Now what am I gonna do...{wait:0A}
+There's no time to relax."
+
+#### 40 ####
+Elly
+"Yes, {wait:0A}I really 
+don't want to...{wait:0A}{enter}
+but, there's no other 
+choice..."
+
+#### 41 ####
+Fei
+"You have any good 
+ideas?"
+
+#### 42 ####
+Elly
+"The network terminal
+in my father's room.{wait:0A}{enter}
+He got angry with me
+for touching it once.{enter}
+There is numerous
+information only a handful 
+of people have access to."
+
+#### 43 ####
+Fei
+"So we can find out where
+Bart and the others are
+located from that?"
+
+#### 44 ####
+Elly
+"I{wait:05}...{wait:05}hope so."
+
+#### 45 ####
+Elly...
+
+#### 46 ####
+...
+
+#### 47 ####
+Medena
+"Elly, {wait:0A}
+I think you should live
+your life the way you wish.{enter}
+If your loved ones are in
+a crisis, you can't desert
+them..."
+
+#### 48 ####
+Elly
+"Mother...{wait:0A}I'm sorry,{wait:0A}
+for what I said earlier..."
+
+#### 49 ####
+Medena
+"...I know.{wait:0A}
+But there's no doubt that
+you're my child...{enter}
+No matter what happens,
+you're my sweetheart..."
+
+#### 50 ####
+Elly
+"Mom..."
+
+#### 51 ####
+Medena
+"Now...
+You'd better hurry..."
+
+#### 52 ####
+Elly
+"Yes...{wait:0A}
+Take care mom..."
+
+#### 53 ####
+Medena
+"Hurry..."
+
+#### 54 ####
+
+

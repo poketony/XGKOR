@@ -1,0 +1,464 @@
+<TextBlock 1 w:42 h:3>
+Fei
+"Ci serve il potere
+di <Xenogears>?"<Close><End of Block>
+<TextBlock 2 w:24 h:3>
+Fei
+"Questo è…<Delay 20>
+Deus!?"<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+Fei
+"…<Delay 20>
+Grazie a tutti.<New>
+Attaccare Deus
+direttamente…<Delay 10>
+O abbattere prima
+i suoi pilastri…<New>
+Cos'è meglio per noi?"<Close><End of Block>
+<TextBlock 4 w:32 h:4>
+Shitan
+"Come pensavo…<Delay 20>
+Il potere di
+<Xenogears>…"<Close><End of Block>
+<TextBlock 5 w:42 h:3>
+Bart
+"Ci serve il potere
+di <Xenogears>?"<Close><End of Block>
+<TextBlock 6 w:40 h:4>
+Billy
+"Come pensavo…<Delay 20>
+Ci serve il potere
+di <Xenogears>?<Close><End of Block>
+<TextBlock 7 w:50 h:3>
+Rico
+"Se solo avessimo il
+potere di <Xenogears>…"<Close><End of Block>
+<TextBlock 8 w:32 h:4>
+Esmeralda
+"Lo sapevo…<Delay 20>
+Il potere di…
+<Xenogears>…"<Close><End of Block>
+<TextBlock 9 w:40 h:3>
+<Chu-Chu>
+"Non possiamo farlo
+senza <Xenogears>…?"<Close><End of Block>
+<TextBlock 10 w:32 h:4>
+Maria
+"Lo sapevo…<Delay 20>
+Il potere di…
+<Xenogears>…"<Close><End of Block>
+<TextBlock 11 w:32 h:4>
+Esmeralda
+"Lo sapevo…<Delay 20>
+Il potere di…
+<Xenogears>…"<Close><End of Block>
+<TextBlock 12 w:22 h:2>
+Shitan
+"Molto probabile."<Close><End of Block>
+<TextBlock 13 w:54 h:4>
+Shitan
+"Colpire direttamente il
+nucleo senza sprecare il
+carburante inutilmente…<New>
+Sì, è una possibilità. Ma
+credo che un altro piano
+sia di attaccare prima i
+suoi dintorni.<New>
+Se decidiamo di
+attaccare prima i
+suoi pilastri…<New>
+… allora potrebbe
+essere saggio lasciare
+combattere noi.<New>
+Saremo capaci di
+occuparci di loro
+senza usare il
+potere di Fei."<Close><End of Block>
+<TextBlock 14 w:44 h:4>
+Bart
+"Che ci frega di quei
+globi. Distruggiamo il
+nucleo."<Close><End of Block>
+<TextBlock 15 w:52 h:4>
+Billy
+"Sia che colpiamo il
+nucleo o che eliminiamo
+prima quei globi…<New>
+Credo che sia meglio che
+sia Fei a decidere…"<Close><End of Block>
+<TextBlock 16 w:46 h:4>
+Rico
+"Questo significa che
+quella cosa nel mezzo
+è il nucleo di Deus?"<Close><End of Block>
+<TextBlock 17 w:42 h:4>
+Esmeralda
+"Questo gli permetterà
+di usare il pieno
+potere di <Xenogears>…<New>
+… Per battere Deus.<Delay 20>
+E sì,<Delay 5> naturalmente,<Delay 5>
+per salvare Elly!"<Close><End of Block>
+<TextBlock 18 w:36 h:4>
+<Chu-Chu>
+"Che sono quei
+quattro globi
+rotanti, chu?"<Close><End of Block>
+<TextBlock 19 w:50 h:4>
+Maria
+"Sembra che il potere di
+queste quattro cose sia
+di supporto al centro."<Close><End of Block>
+<TextBlock 20 w:36 h:2>
+Fei
+"Ma che cosa…<Delay 20>
+… è successo?"<Close><End of Block>
+<TextBlock 21 w:30 h:3>
+Rico
+"Il mio Gear si
+rifiuta di muoversi."<Close><End of Block>
+<TextBlock 22 w:46 h:3>
+Shitan
+"Il Modificatore
+Zohar ha smesso di
+funzionare.<New>
+Probabilmente questa
+è la ragione per cui
+i nostri Gear non si
+possono più muovere.<New>
+Ora dal nucleo giunge
+solo un piccolo flusso
+di energia."<Close><End of Block>
+<TextBlock 23 w:54 h:4>
+Fei
+"Che ne sarà di Elly?
+Cosa le sta accadendo
+dentro quella cosa?<New>
+Ora il sistema di Deus
+legato a lei dovrebbe
+smettere di funzionare.<New>
+Allora perché non
+riceviamo alcun tipo
+di risposta!?<Delay 10><New>
+Non è che abbiamo ferito
+anche lei durante la
+battaglia…!?"<Close><End of Block>
+<TextBlock 24 w:46 h:3>
+Shitan
+"Fei, ora calmati!<New>
+I sensori hanno appena
+rilevato una forma di
+vita dentro Deus.<New>
+Probabilmente è Elly.<Delay 20>
+Non preoccuparti…<Delay 10>
+Credo che stia bene!"<Close><End of Block>
+<TextBlock 25 w:50 h:4>
+Fei
+"Elly!<Delay 20>
+Puoi sentirmi, Elly!?
+Deus non è più attivo.<New>
+Ora è tutto finito…<Delay 20>
+Dai, esci da lì.
+Fatti vedere! 
+Elly!<Delay 20> Elly!"<Close><End of Block>
+<TextBlock 26 w:44 h:3>
+Bart
+"Ma…<Delay 20> che cosa…<Space 1>
+sta succedendo…!?"<Close><End of Block>
+<TextBlock 27 w:32 h:4>
+Fei
+"Doc!?
+E adesso?
+Che succede?"<Close><End of Block>
+<TextBlock 28 w:54 h:4>
+Shitan
+"Rilevo una tremenda
+quantità di energia
+proveniente da Deus.<New>
+Sembra come se qualcosa
+che vi era sigillata si
+sia improvvisamente
+liberata e…<New>
+… stia crescendo
+a dismisura!"<Close><End of Block>
+<TextBlock 29 w:46 h:3>
+Fei
+"Non può essere…<Delay 20>
+l' 'Esistenza
+Ondulatoria'!?"<Close><End of Block>
+<TextBlock 30 w:46 h:2>
+Bart
+"L' 'Esistenza
+Ondulatoria'?"<Close><End of Block>
+<TextBlock 31 w:50 h:4>
+Fei
+"Dev'essere così.<Delay 10>
+L' 'Esistenza
+Ondulatoria'…<New>
+… si è appena liberata
+dalla sua 'prigione
+dell'esistenza carnale'
+nello Zohar…<New>
+Probabilmente cerca di
+ritornare alla dimensione
+originaria da cui è
+giunta."<Close><End of Block>
+<TextBlock 32 w:44 h:4>
+Shitan
+"Ciò vuol dire che…<New>
+… questo è l'effetto
+collaterale di uno
+spostamento
+dimensionale!?"<Close><End of Block>
+<TextBlock 33 w:40 h:3>
+Rico
+"Che vuol dire…
+'effetto collaterale'!?"<Close><End of Block>
+<TextBlock 34 w:50 h:4>
+Shitan
+"È l'onda d'urto che
+si produce durante uno
+spostamento dimensionale.<New>
+Ma…<Delay 5> quale energia!?<Delay 10>
+Se essa venisse
+liberata qui ora…"<Close><End of Block>
+<TextBlock 35 w:52 h:4>
+Fei
+"… Se questa energia
+venisse liberata… Che
+accadrà, Doc!? Diccelo!"<Close><End of Block>
+<TextBlock 36 w:44 h:4>
+Shitan
+"… L'intero pianeta ne
+sarebbe annientato!<New>
+Questi numeri indicano
+che c'è abbastanza
+energia da spazzare
+via un intero pianeta!"<Close><End of Block>
+<TextBlock 37 w:32 h:2>
+<Chu-Chu>
+"Chucosa significa!?"<Close><End of Block>
+<TextBlock 38 w:48 h:2>
+Bart
+"Stai scherzando, vero!?"<Close><End of Block>
+<TextBlock 39 w:36 h:4>
+Billy
+"Abbiamo combattuto
+così duramente…<Delay 10> solo
+per vedere questo…!?"<Close><End of Block>
+<TextBlock 40 w:40 h:4>
+Fei
+"Non c'è…
+non c'è nulla che
+possiamo fare?<New>
+Non possiamo fermare
+l'effetto collaterale!?"<Close><End of Block>
+<TextBlock 41 w:54 h:4>
+Shitan
+"Sfortunatamente, non
+c'è nulla che possiamo
+fare…<New>
+Tutti i macchinari,
+i nostri Gear, sono
+fuori uso a causa dello
+spegnimento dello Zohar.<New>
+Stavolta, non c'è nulla
+che possiamo fare…<Delay 10>
+Per dirvela in breve<Delay 20>
+… siamo al capolinea!"<Close><End of Block>
+<TextBlock 42 w:50 h:4>
+Bart
+"Merda, come può finire
+tutto in un modo simile!?<New>
+Per che cosa abbiamo
+tanto combattuto!?"<Close><End of Block>
+<TextBlock 43 w:40 h:3>
+Billy
+"Le… le vibrazioni si
+stanno intensificando…"<Close><End of Block>
+<TextBlock 44 w:44 h:4>
+Rico
+"No, un momento…!
+Queste vibrazioni
+sono diverse!<New>
+Deve essere qualche
+altra cosa a
+provocarle…"<Close><End of Block>
+<TextBlock 45 w:14 h:2>
+Maria
+"Guardate!"<Close><End of Block>
+<TextBlock 46 w:26 h:2>
+Bart
+"Deus si…!"<Close><End of Block>
+<TextBlock 47 w:36 h:2>
+Fei
+"Deus si sta
+sollevando!?"<Close><End of Block>
+<TextBlock 48 w:24 h:3>
+<Chu-Chu>
+"Questo è quel
+momento!?"<Close><End of Block>
+<TextBlock 49 w:52 h:4>
+Shitan
+"Deus sta liberando la
+sua rimanente energia e
+comincia ad accelerare…<New>
+Se continua ad
+accelerare in questo
+modo, presto lascerà
+l'atmosfera…"<Close><End of Block>
+<TextBlock 50 w:44 h:2>
+Fei
+"Pensi che…!?"<Close><End of Block>
+<TextBlock 51 w:28 h:2>
+Bart
+"Pensi che cosa!?"<Close><End of Block>
+<TextBlock 52 w:48 h:3>
+Fei
+"Che sia Elly!?
+Elly sta muovendo
+Deus…!"<Close><End of Block>
+<TextBlock 53 w:32 h:2>
+Rico
+"Sei sicuro!?"<Close><End of Block>
+<TextBlock 54 w:44 h:3>
+Fei
+"Ne sono certo!<New>
+Elly sta cercando di
+salvarci spostando
+Deus lontano dal
+nostro pianeta!<New>
+Lei ha intenzione
+di sacrificarsi…"<Close><End of Block>
+<TextBlock 55 w:34 h:3>
+Maria
+"Non può essere…
+Oh, Elly…"<Close><End of Block>
+<TextBlock 56 w:54 h:4>
+Billy
+"Non possiamo fare
+nulla…? Dobbiamo stare
+qui seduti a guardare?"<Close><End of Block>
+<TextBlock 57 w:10 h:2>
+Shitan
+"…"<Close><End of Block>
+<TextBlock 58 w:40 h:4>
+Fei
+"No…<Delay 5> C'è ancora una
+cosa che posso fare!"<Close><End of Block>
+<TextBlock 59 w:38 h:2>
+<Chu-Chu>
+"Chucosa, Fei!?"<Close><End of Block>
+<TextBlock 60 w:52 h:4>
+Fei
+"Il mio Gear funziona.<New>
+Senza lo Zohar, la fonte
+energetica dei vostri
+Gear, solo il mio Gear
+è ancora attivo.<New>
+Così come Deus, il mio
+Gear ed io entrammo in
+contatto con lo Zohar.<New>
+Ora noi siamo gli
+unici a potersi muovere.
+Vado a salvare Elly!"<Close><End of Block>
+<TextBlock 61 w:52 h:4>
+Shitan
+"È un'assurdità!<New>
+Anche se raggiungerai
+Deus, non avrai
+abbastanza energia per
+tornare indietro!"<Close><End of Block>
+<TextBlock 62 w:52 h:4>
+Fei
+"Anche se fosse così,
+io devo andare. Cerca
+di capirmi, Doc!!<New>
+Se le accade qualcosa…<Delay 10>
+io voglio essere accanto
+a lei…"<Close><End of Block>
+<TextBlock 63 w:54 h:4>
+Bart
+"Ehi!
+Aspetta un attimo!<New>
+Non resterò certo fermo
+a guardarti commettere
+un doppio suicidio… se
+è questo che vuoi fare!"<Close><End of Block>
+<TextBlock 64 w:18 h:2>
+Fei
+"Bart…"<Close><End of Block>
+<TextBlock 65 w:46 h:4>
+Bart
+"…<Delay 20>
+Devi tornare vivo,
+mi hai sentito!?<New>
+Promettimelo!!
+Promettimi che
+tu ritornerai…
+E ti lascerò andare!!"<Close><End of Block>
+<TextBlock 66 w:36 h:3>
+Fei
+"…<Delay 20> Grazie, Bart.<Delay 10>
+Te lo prometto.<New>
+Ti prometto che io
+ritornerò…<Delay 10>
+con Elly!"<Close><End of Block>
+<TextBlock 67 w:26 h:2>
+Bart
+"È meglio per te."<Close><End of Block>
+<TextBlock 68 w:36 h:2>
+Fei
+"Già, certo!"<Close><End of Block>
+<TextBlock 69 w:32 h:3>
+Bart
+"Va bene!
+Allora vai!"<Close><End of Block>
+<TextBlock 70 w:18 h:2>
+Shitan
+"Ma…!"<Close><End of Block>
+<TextBlock 71 w:50 h:3>
+Bart
+"Lascialo andare, Shitan.<New>
+Ormai, Fei è l'unico
+che possa riportare
+indietro Elly.<New>
+E non c'è nulla che
+noi possiamo dire o
+fare in proposito."<Close><End of Block>
+<TextBlock 72 w:46 h:3>
+Shitan
+"… Hai ragione.<Delay 20>
+Fei, mantieni la
+tua promessa…"<Close><End of Block>
+<TextBlock 73 w:38 h:2>
+Billy
+"Non importa cosa…"<Close><End of Block>
+<TextBlock 74 w:34 h:2>
+Maria
+"Fei ed Elly…"<Close><End of Block>
+<TextBlock 75 w:32 h:2>
+Esmeralda
+"Insieme…"<Close><End of Block>
+<TextBlock 76 w:38 h:2>
+Rico
+"Tornate a casa…"<Close><End of Block>
+<TextBlock 77 w:34 h:3>
+<Chu-Chu>
+"Noi vi aspetteremo,
+chu!"<Close><End of Block>
+<TextBlock 78 w:44 h:4>
+Fei
+"L'ho apprezzato…<Delay 20>
+Bart…<Delay 20> e tutti voi…<New>
+Beh, meglio che vada
+ora…<Delay 10>
+Ma non preoccupatevi!
+Presto ritornerò!"<Close><End of Block>
+<TextBlock 79 w:44 h:4>
+Fei
+"Credo che questo sia
+l'ultimo viaggio che
+facciamo insieme…<New>
+Conto su di te…
+compagno!"<Close><Close><End of Block>

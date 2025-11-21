@@ -1,0 +1,80 @@
+<TextBlock 1 w:46 h:4>
+Bart
+"Uh! Che idiota!
+Cercava di spaventarci
+ed era tutto fumo…<Delay 20>…<New>
+… e niente arrosto,
+eh, Fei!?"<Close><End of Block>
+<TextBlock 2 w:46 h:3>
+Bart
+"Comunque… sembra che
+quella sia l'uscita.<New>
+Presto lasceremo questa
+vecchia caverna!"<Close><End of Block>
+<TextBlock 3 w:30 h:2>
+Bart
+"Oh porca…!?"<Close><End of Block>
+<TextBlock 4 w:26 h:4>
+Bart
+"Uah! Ma che
+diavolo hai
+appena fatto?"<Close><End of Block>
+<TextBlock 5 w:14 h:2>
+Bart
+"Ehi!!"<Close><End of Block>
+<TextBlock 6 w:46 h:4>
+Bart
+"Cosa vuoi dire con
+'eh?'!? Ma che cazzo
+era quello?<New>
+… Non lo sai?"<Close><End of Block>
+<TextBlock 7 w:46 h:4>
+Bart
+"Era incredibile!
+Hai fatto a pezzi
+quel coso enorme!<New>
+Perché non hai usato
+quella tecnica un
+po' prima?"<Close><End of Block>
+<TextBlock 8 w:44 h:3>
+Bart
+"Mhh. Oh… beh, credo
+che non importi.<New>
+Comunque… grazie
+per avermi aiutato!"<Close><End of Block>
+<TextBlock 9 w:46 h:3>
+Bart
+"Ora che ci siamo
+tolti dai piedi
+quel seccatore…<New>
+Usciamo di qui,
+eh, Fei!"<Close><End of Block>
+<TextBlock 10 w:28 h:3>
+Fei
+"…………<New>
+…<Delay 20>…<Delay 20>…<Delay 20>…<Delay 20>…<Delay 20>…<Delay 20>…<Delay 20>…<Delay 90>"<Close><End of Block>
+<TextBlock 11 w:8 h:2>
+Fei
+"!?"<Close><End of Block>
+<TextBlock 12 w:30 h:3>
+Fei
+"Togliti da
+lì, Bart!!"<Close><End of Block>
+<TextBlock 13 w:16 h:2>
+Fei
+"……"<Close><End of Block>
+<TextBlock 14 w:24 h:2>
+Fei
+"…… Eh?"<Close><End of Block>
+<TextBlock 15 w:40 h:3>
+Fei
+"No,<Delay 30> io…<Delay 30> ehm…<Delay 30>
+…… Non lo so."<Close><End of Block>
+<TextBlock 16 w:48 h:4>
+Fei
+"… Non conosco quella
+tecnica… Non so neanche
+come l'abbia fatta!"<Close><End of Block>
+<TextBlock 17 w:22 h:2>
+Fei
+"………"<Close><Close><Close><Close>B<End of Block>

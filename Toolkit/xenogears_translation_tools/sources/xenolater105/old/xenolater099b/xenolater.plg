@@ -1,0 +1,54 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: xenolater - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x410 /fo"Release/xenolater.res" /d "NDEBUG" /d "_AFXDLL" "C:\Documents and Settings\user\Desktop\Xenogears\xenotools\Tools\xenolater099b\xenolater.rc"" 
+Creating temporary file "C:\DOCUME~1\user\IMPOST~1\Temp\RSP49.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Release/xenolater.pch" /Yu"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"C:\Documents and Settings\user\Desktop\Xenogears\xenotools\Tools\xenolater099b\MainFrm.cpp"
+"C:\Documents and Settings\user\Desktop\Xenogears\xenotools\Tools\xenolater099b\xenolater.cpp"
+"C:\Documents and Settings\user\Desktop\Xenogears\xenotools\Tools\xenolater099b\xenolaterDoc.cpp"
+"C:\Documents and Settings\user\Desktop\Xenogears\xenotools\Tools\xenolater099b\xenolaterView.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\user\IMPOST~1\Temp\RSP49.tmp" 
+Creating temporary file "C:\DOCUME~1\user\IMPOST~1\Temp\RSP4A.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Release/xenolater.pch" /Yc"stdafx.h" /Fo"Release/" /Fd"Release/" /FD /c 
+"C:\Documents and Settings\user\Desktop\Xenogears\xenotools\Tools\xenolater099b\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\user\IMPOST~1\Temp\RSP4A.tmp" 
+Creating temporary file "C:\DOCUME~1\user\IMPOST~1\Temp\RSP4B.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:no /pdb:"Release/xenolater.pdb" /machine:I386 /out:"Release/xenolater.exe" 
+".\Release\MainFrm.obj"
+".\Release\StdAfx.obj"
+".\Release\xenolater.obj"
+".\Release\xenolaterDoc.obj"
+".\Release\xenolaterView.obj"
+".\Release\xenolater.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\user\IMPOST~1\Temp\RSP4B.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+MainFrm.cpp
+xenolater.cpp
+xenolaterDoc.cpp
+xenolaterView.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+xenolater.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

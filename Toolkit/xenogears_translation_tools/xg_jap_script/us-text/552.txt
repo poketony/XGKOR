@@ -1,0 +1,124 @@
+#### 1 ####
+Bart
+"Damn!
+We were so close!"
+
+#### 2 ####
+Billy
+"So near and yet...!"
+
+#### 3 ####
+Rico
+"Dammit!
+So close...!"
+
+#### 4 ####
+Emeralda
+"Oh, so close...!"
+
+#### 5 ####
+{name:07:チュチュ}
+"Chu bad!
+We were so close...!"
+
+#### 6 ####
+Maria
+"We were so close...!"
+
+#### 7 ####
+We came to an enormous
+cavern that was big
+enough to swallow the
+whole capital of Aveh.
+
+#### 8 ####
+In its center were two
+gently glowing objects.
+
+#### 9 ####
+It was the source
+of divine wisdom{wait:05}...{wait:05}
+It was {wait:0A}'Razael's Tree'.
+
+#### 10 ####
+And the cavern itself
+was a giant computer
+called Razael.
+
+#### 11 ####
+The wisdom of god,{wait:05}
+hidden within Razael{wait:05}...{wait:05}
+We found the unthinkable
+when we accessed its data.
+
+#### 12 ####
+A large unmanned strategic
+weapon and its battalion of
+terminal interface weapons,
+travelling from star system
+to star system.{wait:05}
+And a gargantuan mothership
+used to carry them{wait:05}...
+
+#### 13 ####
+The creation of the
+-Malakh- angel{wait:05}...{wait:05}
+God's army to reign over
+the vast universe with{wait:05}...{wait:05}
+ {wait:14}
+And the construction of a
+divine ark{wait:05}...
+
+#### 14 ####
+These weapons were called,{wait:3C}
+'Yabeh', {wait:05}the inter-planetary
+invasion weapon system.
+
+#### 15 ####
+What the Gazel Ministry was
+pursuing was right here.
+
+#### 16 ####
+According to the data, the
+giant, rotting organism we
+just defeated was in fact
+the nucleus of this system.
+
+#### 17 ####
+We were on the verge of
+accessing the data for
+the object called...
+ 
+        'Zohar'       {enter}
+...the central neural circuit
+and power source controlling
+the entire system, from the
+weapons to the mothership...
+
+#### 18 ####
+When suddenly,
+'HE' appeared.
+
+#### 19 ####
+Krelian
+"Ah, the hidden data
+from Razael's Tree...
+Move away from there.{enter}
+This matter is far
+too weighty for the
+likes of you."
+
+#### 20 ####
+Fei
+"We must protect it with
+our lives! We can't let
+them have the Razael data!"
+
+#### 21 ####
+Citan
+"You handle them!
+I will try and extract as
+much data as I am able to!{enter}
+If anything goes wrong...
+I will destroy this place!"
+

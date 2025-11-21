@@ -1,0 +1,83 @@
+#### 1 ####
+{fast:FF}There's probably a guard outside...
+    Open the door
+    Just take a peek
+
+#### 2 ####
+{fast:FF}There's probably a guard outside...
+    Open the door
+    Just take a peek
+
+#### 3 ####
+...Due to confusing
+orders, we were not able
+to do well in our prior
+campaign against growing
+patrols around the ruins.{enter}
+So we must immediately 
+restructure our system
+of giving orders.
+Have you any ideas?
+
+#### 4 ####
+General, the problem
+is that pushy Major
+Vanderkaum. He...
+
+#### 5 ####
+Hold your tongue!{wait:14}
+I understand your resentment
+towards Major Vanderkaum,
+but we don't want any bad 
+feelings with Gebler.
+
+#### 6 ####
+I'm sorry. {wait:1E}
+What about that new guy,
+Ramsus? What about him?
+
+#### 7 ####
+I've heard he is 
+rather talented...
+He shouldn't trouble
+us like that Vanderkaum.
+
+#### 8 ####
+That surprise attack
+was amazing.
+
+#### 9 ####
+But, he is an outsider.
+You can't trust him!
+
+#### 10 ####
+Who's there? {clear:1E}
+
+#### 11 ####
+Stop daydreaming!
+Arrest the intruder! {clear:1E}
+
+#### 12 ####
+Do you know what the
+biggest problem is since
+the end of the war with 
+Kislev? {enter}
+The excavation rights to 
+the ruins in Dazil!{enter}
+Soldiers in the area have
+to protect those rights.{enter}
+Drafted soldiers are being
+sent home so career veterans
+must be reorganized.{enter}
+But until the reorganized units
+arrive, the guards at the
+ruins can't return.
+
+#### 13 ####
+You have too many
+{str}.
+
+#### 14 ####
+ 
+ Received {str}.
+

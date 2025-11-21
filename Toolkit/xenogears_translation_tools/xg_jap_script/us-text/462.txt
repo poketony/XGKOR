@@ -1,0 +1,17 @@
+#### 1 ####
+Fei
+"Phew,{wait:28} we barely escaped
+from getting trashed."
+
+#### 2 ####
+Fei
+"It hurts, dammit."
+
+#### 3 ####
+You have too many
+{str}.
+
+#### 4 ####
+ 
+ Received {str}.
+

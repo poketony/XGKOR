@@ -1,0 +1,121 @@
+#### 1 ####
+Stop it!
+Cut it out!{enter}
+Dad!
+Dad!
+
+#### 2 ####
+Mom!{wait:0A}
+Help dad! {enter}
+Hey, mom!{wait:0A}
+Why aren't you
+helping dad?{enter}
+Dad...{wait:0A}
+Dad's gonna die!
+
+#### 3 ####
+Grahf came seeking
+the power that
+exists within me.{enter}
+To return to his
+own body.{enter}
+You understand now,
+don't you{wait:05}...?{wait:0A}
+Grahf is{wait:05}...{wait:14}Lacan.
+
+#### 4 ####
+We, his descendants who
+inherited his lingering
+thoughts and memories
+from him, know only too
+well...{enter}
+Divided 500 years ago...
+He would became a part
+of us both...{enter}
+Lacan became Grahf.
+He destroyed everything
+on the face of the earth.{enter}
+He then mastered how
+to possess the bodies
+of others by dwelling
+in their minds.{enter}
+He was probably enabled
+to do this after his
+contact with the
+'Existence'.{enter}
+The bodies died but
+Lacan's spirit
+continued living by
+possessing others.{enter}
+He had come that day
+to return his soul, at
+last, to the perfect
+reincarnation of his
+physical body...{enter}
+The body of 'Fei'.
+
+#### 5 ####
+Father{wait:0A}...{wait:0A}
+fought him.{enter}
+But he couldn't
+protect mother or I.{enter}
+He pitifully fought
+on while coughing
+up his life blood.
+
+#### 6 ####
+Grahf made a mockery of
+father and mother would
+not even help him when
+he needed her the most.{enter}
+As for their son...
+'He' couldn't take what
+was happening any more...
+
+#### 7 ####
+He gave into his feelings
+and released his power.
+And as a result...
+
+#### 8 ####
+{wait:0A}...{wait:0A}Mother died.
+
+#### 9 ####
+{fast:FF}Mom!{clear:5A}
+
+#### 10 ####
+And 'he', off-loaded
+the results of his
+actions onto me.{enter}
+To avoid taking the
+responsibility for
+killing mother, he
+used me as a shield.
+
+#### 11 ####
+{slow:01}"I {wait:1E}also killed mother."
+
+#### 12 ####
+Thanks.
+Pass it back to me.
+I'm playing with
+mother.
+
+#### 13 ####
+This is not{wait:0A}...{wait:0A}
+reality!!
+
+#### 14 ####
+{fast:FF}It's all lies!{clear:0A}
+
+#### 15 ####
+{fast:FF}It's all fake!{clear:0A}
+
+#### 16 ####
+{fast:FF}It's all a trick!!{clear:0A}
+
+#### 17 ####
+All of it!{wait:0A}
+All of it!{wait:0A}
+All of it...!{wait:64}
+

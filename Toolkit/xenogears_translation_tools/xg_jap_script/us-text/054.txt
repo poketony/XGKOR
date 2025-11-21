@@ -1,0 +1,53 @@
+#### 1 ####
+Damn!
+{name:0B:¥ô¥§¥ë¥È©`¥ë}'s stuck
+in the sand...
+
+#### 2 ####
+"Waawwwww!"{clear:10}
+
+#### 3 ####
+"Oh!"{clear:10}
+
+#### 4 ####
+"Ah!"{clear:10}
+
+#### 5 ####
+"Oh!"{clear:10}
+
+#### 6 ####
+"Whew..."{clear:10}
+
+#### 7 ####
+Fei
+"Doc!?
+Where did you go, doc!?"
+
+#### 8 ####
+Fei
+"Here we go again...{wait:20}
+You and I seem to have
+a fated relationship!"
+
+#### 9 ####
+Fei
+"...I got you, doc!
+But when you're done, you
+hurry up there too, okay!?"
+
+#### 10 ####
+Citan
+"Fei! Can you hear me? I
+am moving the crane towards
+{name:0B:¥ô¥§¥ë¥È©`¥ë}'s cockpit.{enter}
+Hurry!
+Go up the crane to
+{name:0B:¥ô¥§¥ë¥È©`¥ë}!
+We are going under fast!"
+
+#### 11 ####
+Citan
+"Fei!
+There is no time 
+to go back!"
+

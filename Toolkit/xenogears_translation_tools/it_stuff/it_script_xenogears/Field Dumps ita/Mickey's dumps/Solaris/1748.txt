@@ -1,0 +1,33 @@
+<TextBlock 1 w:52 h:2>
+Sembra che sia controllato
+da quel pannello adiacente.<Close><End of Block>
+<TextBlock 2 w:14 h:2>
+    Su?
+    No<Close><End of Block>
+<TextBlock 3 w:46 h:1>
+L'ascensore è bloccato.<Close><End of Block>
+<TextBlock 4 w:44 h:1>
+Bbbbaababababbbaabu…<Opcode 2 30><Close><End of Block>
+<TextBlock 5 w:44 h:1>
+Bbbpbpbpobpobpobpobpyo<Opcode 2 30><Close><End of Block>
+<TextBlock 6 w:46 h:2>
+Io…<Delay 20> mi sento…<Delay 30> come se<Space 1>
+dovessi mangiarvi…<Opcode 2 30><Close><End of Block>
+<TextBlock 7 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 8 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 9 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 10 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 11 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 12 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><Close><End of Block>

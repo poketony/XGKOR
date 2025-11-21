@@ -1,0 +1,16 @@
+#### 1 ####
+You have too many
+{str}.
+
+#### 2 ####
+ 
+ Received {str}.
+
+#### 3 ####
+You have too many
+{str}.
+
+#### 4 ####
+ 
+ Received {str}.
+

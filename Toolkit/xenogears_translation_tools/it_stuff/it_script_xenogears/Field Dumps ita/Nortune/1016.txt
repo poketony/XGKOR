@@ -1,0 +1,357 @@
+<TextBlock 1 w:50 h:3>
+Sai, quel disco è rotto.<Delay 15>
+Il giradischi però è
+nuovo di zecca.<New>
+Tutto quello che ci
+serve è un nuovo disco
+da poter ascoltare<Delay 5>…<Delay 5><Close><End of Block>
+<TextBlock 2 w:40 h:1>
+Pfh, <Delay 5>ah ah ah ah!<Opcode 2 45><Close><End of Block>
+<TextBlock 3 w:48 h:3>
+Quella è la nuova cameriera
+che dovrebbe iniziare a
+lavorare oggi.<New>
+Ancora ha bisogno di molto
+allenamento, perciò vacci
+piano per ora!<Close><End of Block>
+<TextBlock 4 w:40 h:2>
+Sì,<Delay 5> così si
+fa.<Delay 5> Bene.<Close><End of Block>
+<TextBlock 5 w:48 h:3>
+Sto cercando di lavorare,<Delay 5>
+potresti toglierti di
+mezzo? A proposito…<Delay 5><New>
+Sono stanca di quella
+roba.<Close><End of Block>
+<TextBlock 6 w:30 h:1>
+Fuori dai piedi!<Opcode 2 45><Close><End of Block>
+<TextBlock 7 w:46 h:3>
+Uh,<Delay 5> mi scusi. Potrebbe
+spostarsi?<Delay 15> Mi sta
+intralciaaando.<Opcode 2 60><Close><End of Block>
+<TextBlock 8 w:46 h:3>
+Ehi, tu,<Delay 5> hai un disco
+interessante.<Delay 15> Fammi
+vedere.<Delay 5> Fammi vedere.<Close><End of Block>
+<TextBlock 9 w:50 h:4>
+Questo<Delay 15>…<Delay 15> è un tipo di disco
+davvero speciale. Non
+potrai usarlo su un altro
+giradischi<Delay 5> se non su
+questo qui<Delay 5>…<New>
+Inoltre, sto ottenendo una
+qualche reazione Eterea<Delay 15>…<Delay 5><New>
+Pensi che sia un disco
+premio ricoperto di Etere?<Close><End of Block>
+<TextBlock 10 w:44 h:4>
+Unh?<Delay 5> Chi seeeei?<Delay 15>
+Io?<Delay 5> Io sono figlio della
+tribù del drago.<Delay 15> Nella tribù
+del drago,<Delay 5> quando si
+invecchia, si diventa
+qualcosa di incredibile!<Close><End of Block>
+<TextBlock 11 w:36 h:2>
+Però è sicuro
+che già lo sapevi!<Close><End of Block>
+<TextBlock 12 w:50 h:4>
+Buon<Delay 5>…<Delay 5> pomeriggio.<Delay 10>
+B…<Delay 5> benvenuti a
+'Il Gattopardo'.<New>
+Deve essere dura viaggiare
+con un gruppo così<Delay 5> grande.
+Volete cambiare i membri   
+che lo compongono?<Delay 15><New>
+Non ci sono abituata…<Delay 5> sob…<Close><End of Block>
+<TextBlock 13 w:40 h:3>
+Uhm<Delay 5>…<Delay 5> vorreste cambiare…<New>
+… i membri del gruppo?<Delay 15> 
+    No
+    Cambiamoli<Close><End of Block>
+<TextBlock 14 w:44 h:4>
+Come avete potuto<Delay 5>…<Delay 5>
+allora<Delay 15>…<Delay 5> Tornate ancora.
+Ma la prossima volta<Delay 5>…<Delay 5>
+riorganizzate il gruppo.<Close><End of Block>
+<TextBlock 15 w:42 h:3>
+Gra… grazie! Bene allora<Delay 5>…<Delay 5><Space 1>
+Capo, vi prego di
+vedervela voi.<Close><End of Block>
+<TextBlock 16 w:44 h:4>
+Ho sentito che c'è stato
+un combattimento per il
+titolo.<Delay 15><New>
+Cavolo, avrei potuto
+mostrare a tutti il mio
+grazioso Gear combattere
+e distruggere l'infame
+Campione, ma<Delay 5>…<Delay 5><Close><End of Block>
+<TextBlock 17 w:48 h:4>
+Quando ho raggiunto l'Impero,
+il torneo era già finito.<Delay 15><New>
+Sembra che io sia arrivato
+dopo che l'infame Campione
+era già stato distrutto<Delay 15>…<Delay 5>
+… Oouuhh.<Close><End of Block>
+<TextBlock 18 w:48 h:3>
+Così<Delay 5>…<Delay 5> carina.<Delay 30>
+Kniqupnii.<Delay 5> È troppo
+per me!<Close><End of Block>
+<TextBlock 19 w:38 h:1>
+Non la pensi così?<Close><End of Block>
+<TextBlock 20 w:36 h:1>
+Oooooh<Delay 15>…<Delay 5> troppo carina.<Close><End of Block>
+<TextBlock 21 w:46 h:4>
+Argh<Delay 5>…<Delay 5> dannata Aveh.
+Per colpa di quell'attacco,
+una sedia ha schiacciato
+Giuseppina<Delay 5>…<Delay 5><Close><End of Block>
+<TextBlock 22 w:42 h:1>
+Stai bene<Delay 5>…<Delay 15> Giuseppina?<Close><End of Block>
+<TextBlock 23 w:34 h:2>
+Oooh<Delay 5>…<Delay 15>
+Bene<Delay 15>…<Delay 5>
+Benissimo.<Close><End of Block>
+<TextBlock 24 w:46 h:4>
+Dopo essere stato un
+mercenario per Aveh,
+stavo per farmi un po'
+di soldi a Battagliare,
+il gioco dell'Impero<Delay 5>…<Delay 15><New>
+Ma Battagliare è stato
+fermato, per ora.<Close><End of Block>
+<TextBlock 25 w:46 h:1>
+<Delay 5>… Per me è stato
+un duro colpo.<Close><End of Block>
+<TextBlock 26 w:50 h:3>
+L'attacco sull'Impero da
+parte di Aveh sicuramente
+darà inizio ad una guerra<Delay 5>…<Delay 15><New>
+Un mercenario come me
+non può campare senza
+un qualche conflitto.<Close><End of Block>
+<TextBlock 27 w:46 h:3>
+Kislev ed Aveh<Delay 5>…<Delay 15>
+Su chi dovrei rifarmi<Delay 5>…<Delay 5>?<Close><End of Block>
+<TextBlock 28 w:60 h:5>
+La capitale nemica è chiamata
+la 'Fortezza del Deserto'…<Delay 15>
+Allora… la nostra capitale
+Imperiale, Nortune, dovrebbe
+essere la 'Fortezza dello
+Smog e dell'Acciaio'.<Close><End of Block>
+<TextBlock 29 w:40 h:2>
+Credo che suoni<Delay 5>…<Delay 5> piuttosto
+bene<Delay 15>… capo.<Close><End of Block>
+<TextBlock 30 w:48 h:4>
+Sono stato sorpreso
+dall'attacco di Aveh,<Delay 5> ma
+sono stato fortunato che la
+mia compagna veniva da una
+tribù di spie.<Close><End of Block>
+<TextBlock 31 w:34 h:2>
+Mi mette in imbarazzo<Delay 5>…<Delay 5>
+capo.<Close><End of Block>
+<TextBlock 32 w:30 h:2>
+Beh, qualunque cosa
+accada<Delay 5>…<Close><End of Block>
+<TextBlock 33 w:50 h:4>
+Mmmh, da quanto vedo,
+sembrate piloti di Gear.<New>
+Avete sentito parlare di
+alcune battaglia fatte
+qui attorno?<Close><End of Block>
+<TextBlock 34 w:50 h:4>
+Non sono troppo sicuro dei
+dettagli, ma questa volta
+sembra che useranno un
+'sistema a punti'.<New>
+Mi chiedo se si possa
+vincere qualcosa con
+questi punti?<Close><End of Block>
+<TextBlock 35 w:50 h:3>
+Benvenuti a 'Il Gattopardo'.
+Mettetevi comodi.<Delay 15>
+E<Delay 5> lasciate in pace il
+gatto (senza 'pardo'… ahah!).<Close><End of Block>
+<TextBlock 36 w:44 h:2>
+Forse con questo
+riusciremo a sentirlo?<Close><End of Block>
+<TextBlock 37 w:32 h:3>
+Vedi se funziona?
+    No
+    Ascolta<Close><End of Block>
+<TextBlock 38 w:42 h:2>
+<Delay 5>…<Delay 5> Un giradischi. C'è
+solo un disco<Delay 5>…<Close><End of Block>
+<TextBlock 39 w:32 h:3>
+Vedi se funziona?
+    No
+    Ascolta<Close><End of Block>
+<TextBlock 40 w:42 h:1>
+Il disco sembra rotto.<Close><End of Block>
+<TextBlock 41 w:26 h:9>
+<Opcode 1 255>Cambia Musica
+    Un Componimento
+    Una Battaglia
+    Dungeon
+    La Natura
+    Il Mondo
+    Requiem
+    Emozioni
+    Annulla<Close><End of Block>
+<TextBlock 42 w:14 h:1>
+Traccia 00<Close><End of Block>
+<TextBlock 43 w:14 h:1>
+Traccia 01<Close><End of Block>
+<TextBlock 44 w:14 h:1>
+Traccia 02<Close><End of Block>
+<TextBlock 45 w:14 h:1>
+Traccia 03<Close><End of Block>
+<TextBlock 46 w:14 h:1>
+Traccia 04<Close><End of Block>
+<TextBlock 47 w:14 h:1>
+Traccia 05<Close><End of Block>
+<TextBlock 48 w:14 h:1>
+Traccia 06<Close><End of Block>
+<TextBlock 49 w:14 h:1>
+Traccia 07<Close><End of Block>
+<TextBlock 50 w:14 h:1>
+Traccia 08<Close><End of Block>
+<TextBlock 51 w:14 h:1>
+Traccia 09<Close><End of Block>
+<TextBlock 52 w:14 h:1>
+Traccia 10<Close><End of Block>
+<TextBlock 53 w:14 h:1>
+Traccia 00<Close><End of Block>
+<TextBlock 54 w:14 h:1>
+Traccia 01<Close><End of Block>
+<TextBlock 55 w:14 h:1>
+Traccia 02<Close><End of Block>
+<TextBlock 56 w:14 h:1>
+Traccia 00<Close><End of Block>
+<TextBlock 57 w:14 h:1>
+Traccia 01<Close><End of Block>
+<TextBlock 58 w:14 h:1>
+Traccia 02<Close><End of Block>
+<TextBlock 59 w:14 h:1>
+Traccia 03<Close><End of Block>
+<TextBlock 60 w:14 h:1>
+Traccia 04<Close><End of Block>
+<TextBlock 61 w:14 h:1>
+Traccia 05<Close><End of Block>
+<TextBlock 62 w:14 h:1>
+Traccia 06<Close><End of Block>
+<TextBlock 63 w:14 h:1>
+Traccia 07<Close><End of Block>
+<TextBlock 64 w:14 h:1>
+Traccia 00<Close><End of Block>
+<TextBlock 65 w:14 h:1>
+Traccia 01<Close><End of Block>
+<TextBlock 66 w:14 h:1>
+Traccia 02<Close><End of Block>
+<TextBlock 67 w:14 h:1>
+Traccia 03<Close><End of Block>
+<TextBlock 68 w:14 h:1>
+Traccia 04<Close><End of Block>
+<TextBlock 69 w:14 h:1>
+Traccia 05<Close><End of Block>
+<TextBlock 70 w:14 h:1>
+Traccia 06<Close><End of Block>
+<TextBlock 71 w:14 h:1>
+Traccia 07<Close><End of Block>
+<TextBlock 72 w:14 h:1>
+Traccia 00<Close><End of Block>
+<TextBlock 73 w:14 h:1>
+Traccia 01<Close><End of Block>
+<TextBlock 74 w:14 h:1>
+Traccia 02<Close><End of Block>
+<TextBlock 75 w:14 h:1>
+Traccia 03<Close><End of Block>
+<TextBlock 76 w:14 h:1>
+Traccia 04<Close><End of Block>
+<TextBlock 77 w:14 h:1>
+Traccia 05<Close><End of Block>
+<TextBlock 78 w:14 h:1>
+Traccia 06<Close><End of Block>
+<TextBlock 79 w:14 h:1>
+Traccia 07<Close><End of Block>
+<TextBlock 80 w:14 h:1>
+Traccia 08<Close><End of Block>
+<TextBlock 81 w:14 h:1>
+Traccia 09<Close><End of Block>
+<TextBlock 82 w:14 h:1>
+Traccia 10<Close><End of Block>
+<TextBlock 83 w:14 h:1>
+Traccia 11<Close><End of Block>
+<TextBlock 84 w:14 h:1>
+Traccia 12<Close><End of Block>
+<TextBlock 85 w:14 h:1>
+Traccia 13<Close><End of Block>
+<TextBlock 86 w:14 h:1>
+Traccia 14<Close><End of Block>
+<TextBlock 87 w:14 h:1>
+Traccia 00<Close><End of Block>
+<TextBlock 88 w:14 h:1>
+Traccia 01<Close><End of Block>
+<TextBlock 89 w:14 h:1>
+Traccia 02<Close><End of Block>
+<TextBlock 90 w:14 h:1>
+Traccia 03<Close><End of Block>
+<TextBlock 91 w:14 h:1>
+Traccia 04<Close><End of Block>
+<TextBlock 92 w:14 h:1>
+Traccia 05<Close><End of Block>
+<TextBlock 93 w:14 h:1>
+Traccia 06<Close><End of Block>
+<TextBlock 94 w:14 h:1>
+Traccia 07<Close><End of Block>
+<TextBlock 95 w:14 h:1>
+Traccia 00<Close><End of Block>
+<TextBlock 96 w:14 h:1>
+Traccia 01<Close><End of Block>
+<TextBlock 97 w:14 h:1>
+Traccia 02<Close><End of Block>
+<TextBlock 98 w:14 h:1>
+Traccia 03<Close><End of Block>
+<TextBlock 99 w:14 h:1>
+Traccia 04<Close><End of Block>
+<TextBlock 100 w:46 h:4>
+Ca,<Delay 5> capo<Delay 5>…<Delay 5> Io… ho fatto
+tutto il possibile<Delay 5>…<Delay 5>
+Questo sentimento che  
+sento nel cuore<Delay 5>…<Close><End of Block>
+<TextBlock 101 w:42 h:2>
+<Delay 5>…<Delay 5> Scusami.<Delay 15>
+Ho detto troppo<Delay 5>…<Close><End of Block>
+<TextBlock 102 w:42 h:3>
+Ca… capo<Delay 5>…<Delay 5> Io, il mio
+cuore<Delay 5>…<Delay 10> Per… per<Delay 15> favore,<Space 1>
+ascolti.<Close><End of Block>
+<TextBlock 103 w:50 h:4>
+Capisco…<Delay 5> è una bella
+sorpresa<Delay 5>…<Delay 5> Per caso<Delay 5>…
+ti sei innamorata di
+qualcuno, non è così?<Close><End of Block>
+<TextBlock 104 w:50 h:3>
+Io<Delay 5> vengo<Delay 5> dalla tribù delle
+spie,<Delay 5> ma mi sono innamorata
+di quel bellissimo della
+tribù del drago.<Close><End of Block>
+<TextBlock 105 w:46 h:2>
+Può una spia amare
+un'altra tribù?<Delay 5> Io…<Delay 5> Io…<Delay 5><Space 1><Close><End of Block>
+<TextBlock 106 w:46 h:3>
+<Opcode 1 255>… Lo permetterò!!
+Fa' qualunque cosa
+devi fare.<Close><End of Block>
+<TextBlock 107 w:50 h:3>
+Qua… qualunque cosa<Delay 5>…<Delay 5> devo<Space 1>
+fare? Adesso, non credo
+di potere<Delay 5>…<Delay 5><Close><End of Block>
+<TextBlock 108 w:44 h:3>
+<Delay 5>…<Delay 5> Ok, lo farò.<Delay 15> Ce la
+prenderemo con calma,<Delay 10>
+lentamente<Delay 10> e
+subito<Delay 10>… giusto?<Close><End of Block>
+<TextBlock 109 w:20 h:1>
+Sì<Delay 5>…<Delay 5> signore.<Close><Close><End of Block>

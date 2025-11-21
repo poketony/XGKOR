@@ -1,0 +1,67 @@
+<TextBlock 1 w:30 h:2>
+Wiseman
+"State bene?"<Close><End of Block>
+<TextBlock 2 w:40 h:3>
+Wiseman
+"È già troppo
+tardi!<New>
+Assistetemi!
+Ché sto per…<Delay 20>
+annientare Id."<Close><End of Block>
+<TextBlock 3 w:48 h:4>
+Wiseman
+"Lo Zohar è il
+nucleo di Deus.<New>
+Esso è l'origine di
+tutta l'energia dei<Delay 20>…<Delay 20>
+generatori subordinati
+e dell'etere.<New>
+Dopo aver ottenuto il
+suo potere, l'appena
+risvegliato Id intende…<New>
+… distruggere questo
+mondo!<New>
+Il contatto con lo Zohar
+doveva accadere dopo la
+unificazione della vera
+personalità di Fei!"<Close><End of Block>
+<TextBlock 4 w:22 h:3>
+Wiseman
+"Ah!? Sta'
+indietro!"<Close><End of Block>
+<TextBlock 5 w:14 h:2>
+Wiseman
+"…"<Close><End of Block>
+<TextBlock 6 w:56 h:4>
+Id
+"Mmh, ancora tu?
+Mi sei sempre
+d'ostacolo.<New>
+Ma io non posso essere
+fermato da te.<New>
+Tu… che non fosti
+neanche in grado di
+proteggere tua moglie
+e tuo figlio!<New>
+Non puoi neanche
+sopportare l'idea di
+mostrare a tuo figlio
+la tua faccia.<New>
+È per questo che porti
+una maschera,<Delay 5>
+non è così<Delay 5>…<Delay 30> Khan!?!"<Close><End of Block>
+<TextBlock 7 w:40 h:3>
+Id
+"È proprio così!<New>
+Quest'uomo è il padre
+di Fei<Delay 5>…<Delay 20> no,<Delay 5> voglio dire<Delay 5>
+mio padre,<Delay 30> Khan Wong!!"<Close><End of Block>
+<TextBlock 8 w:24 h:2>
+<Perso1>
+"Wiseman!?"<Close><End of Block>
+<TextBlock 9 w:24 h:2>
+<Perso1>
+"!?"<Close><End of Block>
+<TextBlock 10 w:24 h:2>
+<Perso1>
+"Figlio!"<Close><Close><Close><`><Close><Close><End of Block>

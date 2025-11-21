@@ -1,0 +1,97 @@
+#### 1 ####
+Franz
+"The third bridge
+...it's ruined!!"
+
+#### 2 ####
+Franz
+"Then, damage control 
+won't be able to move!!{enter}
+The hole won't be
+covered!!"
+
+#### 3 ####
+The hangar section, the
+armament section, and even
+the pressure shell have
+been destroyed!!{enter}
+We can't stop the sand
+from flowing in!
+
+#### 4 ####
+Sir!!{wait:2D}
+The Gear's moving by
+itself in the hangar...
+
+#### 5 ####
+Main engine, support engine,
+engage the auto scram.
+Switch power to batteries.
+Output ratio 0.5,
+operating time...500!!
+
+#### 6 ####
+The sand pump, effect-fins
+and propulsion-drills are
+all out of commission!!
+
+#### 7 ####
+Maison
+"This way, please."
+
+#### 8 ####
+Sigurd
+"Seems like they're
+watching us."
+
+#### 9 ####
+Sigurd
+"Close each section down
+completely and commence
+independent operation!!"
+
+#### 10 ####
+Sigurd
+"That's alright!!{enter}
+...Either way, it's
+impossible to save
+the entire ship.{enter}
+Our priority is to
+secure the bridge!!{enter}
+Gather everyone
+into the bridge
+immediately!"
+
+#### 11 ####
+Sigurd
+"...Hyuga... No...
+you're Citan now.{enter}
+You need to get out.
+I'll have Maison
+guide you to an
+escape-pod."
+
+#### 12 ####
+Sigurd
+"We have no right to keep
+you here and get you
+involved.{enter}
+...If you see Kahr and
+Miang, make sure you
+pay'em back for me."
+
+#### 13 ####
+Sigurd
+"Maison...
+Please show him the way."
+
+#### 14 ####
+Sigurd
+"What?
+More details!"
+
+#### 15 ####
+Citan
+"I cannot leave you
+all like this...!?"
+

@@ -1,0 +1,54 @@
+#### 1 ####
+Fei
+"Hmm?"
+
+#### 2 ####
+Fei
+"Looks like there's 
+writing carved on 
+the walls..."
+
+#### 3 ####
+Find the 3 hidden
+stones, then put
+them in the holes.
+
+#### 4 ####
+"The truth is back there!"
+
+#### 5 ####
+Find the 3 hidden
+stones, then put
+them in the holes.
+
+#### 6 ####
+"Aim your sights higher!"
+
+#### 7 ####
+Find the 3 hidden
+stones, then put
+them in the holes.
+
+#### 8 ####
+"The unseen is true too!"
+
+#### 9 ####
+Writing on the wall.{enter}
+"4 steps south, 
+10 steps west."
+
+#### 10 ####
+Writing on the wall.{enter}
+"Higher than the
+center pillar..."
+
+#### 11 ####
+Writing on the wall.{enter}
+"Check the back of 
+the stone pillars."
+
+#### 12 ####
+Writing on the wall.{enter}
+"The center stone will
+be your foothold."
+

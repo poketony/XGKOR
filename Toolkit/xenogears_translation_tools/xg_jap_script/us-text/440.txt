@@ -1,0 +1,224 @@
+#### 1 ####
+Samson
+"So, she was on our side
+afterall.{wait:0A}
+Here, take this."
+
+#### 2 ####
+...What is it?
+
+#### 3 ####
+Samson
+"A 2nd Class citizen work
+permit, just like mine.{enter}
+With that, you can move
+about more freely without
+arousing suspicion.{enter}
+Well, if she's with you,
+there shouldn't be any
+problems.{enter}
+Well, I'll be at the
+tower entrance."
+
+#### 4 ####
+{fast:FF}Received a work permit.{clear:3C}
+
+#### 5 ####
+Samson
+"Your friend ought to be
+somewhere around here.{wait:0A}
+Find him and get back."
+
+#### 6 ####
+Samson
+"Hey,{wait:0A} why don't you come along?{wait:0A}
+With your power we oughta be OK."
+    Sure, I guess
+    No, better not
+
+#### 7 ####
+Samson
+"Right, that's the spirit!{wait:0A}
+Take this with you."
+
+#### 8 ####
+What's this?
+
+#### 9 ####
+Samson
+"A 2nd Class citizen work
+permit, just like mine.{enter}
+With that, you can move
+about more freely without
+arousing suspicion.{enter}
+Well, if she's with you,
+there shouldn't be any
+problems.{enter}
+Well, I'll be at the
+tower entrance."
+
+#### 10 ####
+{fast:FF}Received a work permit.{clear:3C}
+
+#### 11 ####
+Samson
+"Right, that's the spirit!{enter}
+But, be careful!{wait:0A}
+A female Gebler just came
+by for some reason..."
+
+#### 12 ####
+Fei
+"!?{wait:0A}
+Did she,{wait:0A}
+have auburn hair?"
+
+#### 13 ####
+Samson
+"Yeeaah, that's her!!{wait:0A}
+What, you're friends?{enter}
+Come to think of it, she was
+looking for someone...{enter}
+She still oughta be around
+here somewhere.
+You oughta look for her."
+
+#### 14 ####
+Samson
+"Yeah?{wait:0A}
+Well, I won't force you,
+it is pretty risky.{enter}
+But if you change your
+mind, come talk to me."
+
+#### 15 ####
+Fei
+"Ti,{wait:0A} Timothy!?"
+
+#### 16 ####
+Unfortunately I'm not
+Timothy.{wait:0A}
+The name's Samson.{enter}
+But hey, I know you!
+
+#### 17 ####
+Fei
+"H,{wait:05} how do you know me?{wait:0A}
+Who are you...?"
+
+#### 18 ####
+Samson
+"From the Tournament...{wait:0A}
+Unfortunately, I lost in
+the 1st round.{enter}
+I passed out on
+the way home..."
+
+#### 19 ####
+And...?
+
+#### 20 ####
+Samson
+"When I came to, I found
+myself here.{enter}
+Everyone else got what they
+call 'rearranged'. It's a
+cross between brainwashing
+and amnesia.{enter}
+But they messed up on me
+and I can still remember."
+
+#### 21 ####
+Fei
+"Then what about that
+last person...?"
+
+#### 22 ####
+Samson
+"Yep, him too.{wait:0A}
+Died in vain...{wait:05}...{wait:0A}
+One of my few friends, too.{enter}
+I'm not goin' out like that.{wait:0A}
+Ya know that guard tower
+near us?{enter}
+I'm gonna go through it
+past the 2nd Class block,
+sneak into the naval port
+and kiss Solaris goodbye."
+
+#### 23 ####
+Fei
+"Can you do that?"
+
+#### 24 ####
+Samson
+"Yeah, 'cause I got a pass.{wait:0A}
+They got me working at the
+naval port.{enter}
+I'm only supposed to leave
+when it's my shift, but I
+'solved' that little snag.{enter}
+Hey,{wait:0A} why don't
+you come along?{enter}
+With your power,
+we'd be set!"
+    Yeah, sure
+    Nah, better not
+
+#### 25 ####
+That's the spirit!{wait:0A}
+Take this with you.
+
+#### 26 ####
+...What's this?
+
+#### 27 ####
+Samson
+"A 2nd Class citizen work
+permit, just like mine.{enter}
+With that, you can move
+about more freely without
+arousing suspicion.{enter}
+Well, if she's with you,
+there shouldn't be any
+problems.{enter}
+Well, I'll be at the
+tower entrance."
+
+#### 28 ####
+{fast:FF}Received a work permit.{clear:3C}
+
+#### 29 ####
+Samson
+"Right, that's the spirit!{enter}
+But, be careful!{wait:0A}
+A female Gebler just came
+by for some reason..."
+
+#### 30 ####
+Fei
+"!?{wait:0A}
+Did she,{wait:0A}
+have auburn hair?"
+
+#### 31 ####
+Samson
+"Yeeaah, that's her!!{wait:0A}
+What, you're friends?{enter}
+Come to think of it, she was
+looking for someone...{enter}
+She still oughta be around
+here somewhere.
+You oughta look for her."
+
+#### 32 ####
+Samson
+"Yeah?{wait:0A}{enter}
+Well, I won't force you,
+it is pretty risky.
+But if you change your
+mind, come talk to me."
+
+#### 33 ####
+
+

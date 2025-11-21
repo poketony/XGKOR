@@ -1,0 +1,169 @@
+#### 1 ####
+Fei
+"This is...!"
+
+#### 2 ####
+Fei
+"They were killed by
+Solaris..."
+
+#### 3 ####
+Fei
+"..."
+
+#### 4 ####
+Fei
+"H...{wait:14}hey, wait!"
+
+#### 5 ####
+Citan
+"I guess...{wait:14}
+it was a child's room..."
+
+#### 6 ####
+Citan
+"What kind of dreams did
+the children in this room 
+have for the future...?"
+
+#### 7 ####
+Citan
+"That girl..."
+
+#### 8 ####
+Citan
+"That is alright.{wait:14}
+Shall we go to the palace
+now?"
+
+#### 9 ####
+Elly
+"..."
+
+#### 10 ####
+Elly
+"We're fighting over lives
+aren't we...{enter}
+And at times involving 
+those that have nothing to
+do with this struggle..."
+
+#### 11 ####
+Elly
+"Let's go toward the
+palace, shall we?"
+
+#### 12 ####
+Bart
+"Tch...!{wait:14}
+To hell with them...!"
+
+#### 13 ####
+Bart
+"Damn it...!!{enter}
+All you want is to win!?{wait:14}
+Don't you care
+about anything else?"
+
+#### 14 ####
+Bart
+"...{wait:14}
+Disagreeable squirt..."
+
+#### 15 ####
+Rico
+"This is too much for me
+{wait:14}to bear..."
+
+#### 16 ####
+Rico
+"But we might be doing the
+same thing they're doing if
+we change our perpective."
+
+#### 17 ####
+Rico
+"...{wait:14} The girl's probably
+going through an awful lot
+of pain..."
+
+#### 18 ####
+Billy
+"Innocent, blameless lives
+are taken away...{enter}
+It's the same
+everywhere..."
+
+#### 19 ####
+Billy
+"Why was this allowed
+to happen...?{enter}
+Why does this never end?{wait:14}
+What are we..."
+
+#### 20 ####
+Emeralda
+"...?{wait:14}
+Humans were broken, too?"
+
+#### 21 ####
+{name:07:チュチュ}
+"Wow, a huge window!{wait:14}
+Neigh! There's even a
+nice wooden horsey chu."
+
+#### 22 ####
+{name:07:チュチュ}
+"But, where did the
+children go chu?{wait:14}
+They went for a walk?"
+
+#### 23 ####
+Maria
+"...{wait:14}
+Damn Solaris...!"
+
+#### 24 ####
+Emeralda
+"...{wait:14}
+I can hear life
+ending..."
+
+#### 25 ####
+Maria
+"There are a lot of people
+who don't care if they
+hurt others..."
+
+#### 26 ####
+Maria
+"There's no...{wait:14}
+no end...{wait:14}to war and
+resentment..."
+
+#### 27 ####
+Maria
+"So, this is where
+you all were."
+
+#### 28 ####
+Maria
+"The Queen said this house
+was destroyed in the great
+war 500 years ago.{enter}
+This house has been kept
+like this on purpose as
+a reminder of the war."
+
+#### 29 ####
+Maria
+"Thank you for waiting.{wait:14}
+Please come to the Palace
+with me."
+
+#### 30 ####
+Found a 'Child's memory
+from long ago'.{enter}
+But nobody could take
+that away.
+

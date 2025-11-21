@@ -1,0 +1,9 @@
+<TextBlock 1 w:20 h:1>
+Chi è?<Close><End of Block>
+<TextBlock 2 w:42 h:4>
+Anziano Lee
+"Chi… chi sei?<Delay 20>
+…<Delay 20> Cosa?<Delay 5><New>
+Vuoi che io mi
+prenda cura di
+questo ragazzo?"<Close><Close><End of Block>

@@ -1,0 +1,969 @@
+#### 1 ####
+Bart
+"There isn't time 
+for this!" {clear:28}
+
+#### 2 ####
+Bart
+"There isn't time 
+for this!" {clear:28}
+
+#### 3 ####
+Bart
+"This isn't the entrance
+to the underground 
+waterway!"{clear:28}
+
+#### 4 ####
+Bart
+"This isn't the entrance
+to the underground 
+waterway!"{clear:28}
+
+#### 5 ####
+Bart
+"Hey, that's pretty
+good, grandpa!"
+
+#### 6 ####
+The hotel I am
+talking about is...{clear:64}
+
+#### 7 ####
+Hey, you!{clear:3C}
+
+#### 8 ####
+Do they really need 
+that much for the war?
+
+#### 9 ####
+I'm sorry. The army just
+comes and confiscates
+whatever it wants. So I'm
+a little short of stock.
+
+#### 10 ####
+Oh no, you raised
+the prices again...
+
+#### 11 ####
+Hey, give me a deal.
+
+#### 12 ####
+I hope this war
+ends soon.
+
+#### 13 ####
+Whew, keeping up with my
+granddaughter is tough.
+
+#### 14 ####
+Sho¡«ppi¡«ng{wait:1E}
+Sho¡«ppi¡«ng{wait:1E}
+Shopping is great...
+
+#### 15 ####
+Grandma, hurry, hurry!
+Finish shopping so we
+can go to the festival.
+
+#### 16 ####
+It's almost time for 
+the festival. I wonder 
+if it'll be crowded?
+
+#### 17 ####
+Are you all here for the Tournament?
+    Yes
+    Huh?
+
+#### 18 ####
+Yeah, well I'm glad. The
+war's gotten worse, and
+there are fewer tourists.
+Well, have fun.
+
+#### 19 ####
+What, you don't know?
+It's only the biggest
+martial arts tournament
+in the world!{enter}
+I came all the way to
+Bledavik just to see it.
+You'll be sorry if you
+don't go.
+
+#### 20 ####
+Argh, I'm so busy! The
+shop owner was drafted
+and now I have to do
+everything myself, from{enter}
+taking care of the kids
+to running the shop.
+
+#### 21 ####
+Life's been hard since
+the old king died.
+Not that an old man like
+me has much longer to
+worry about that...{enter}
+But my children and grand-
+children are still young.
+I wonder if it'll ever get
+any better?
+
+#### 22 ####
+Huh!?{clear:14}
+
+#### 23 ####
+Hmm, {wait:14}
+Who was that?{enter}
+{wait:14}I forgot...
+
+#### 24 ####
+Oh yeah!
+I remember! {clear:64}
+
+#### 25 ####
+Prince Bartholomew?
+    Yes!
+    Don't know him!
+
+#### 26 ####
+Hmm...{wait:3C}
+must be someone else...{wait:3C}
+When you get older your
+memory really goes.
+
+#### 27 ####
+My, how you've grown...{enter}
+Your Highness probably 
+doesn't remember me, but
+I used to work in the
+castle kitchen.{enter}
+You would always come
+in and taste everything.{enter}
+You used to dress up and
+say, 'I'm a pirate! Give
+me your food!'...{enter}
+Ah, the good old days...
+
+#### 28 ####
+Welcome to Bledavik!
+We don't get many visitors
+these days. You're the
+first in quite a while!
+
+#### 29 ####
+Welcome to Bledavik!
+We're having a festival
+celebrating the founding
+of our country, Aveh.{enter}
+There's a martial arts
+tournament too.{enter}
+It's been a while since
+we have had so many
+visitors.
+
+#### 30 ####
+Do you already have a hotel?
+    Yes
+    Not yet
+
+#### 31 ####
+Really? Too bad. 
+I know a good place.
+
+#### 32 ####
+You'd better get a room
+soon or they'll all be 
+gone.{enter}
+I know a good hotel.
+
+#### 33 ####
+That one.
+
+#### 34 ####
+Tell them my name at
+the front desk and
+they'll give you a deal.
+
+#### 35 ####
+There's been a lot of
+shoplifters lately. It's
+all because of this war.{enter}
+Everything's in such 
+short supply.
+
+#### 36 ####
+Welcome!{wait:14}
+Are you going to
+the festival plaza?
+    Yes
+    No
+
+#### 37 ####
+Just between you n' me...{enter}
+Aveh's 500th anniversary
+festival isn't all that
+great. It's because the
+war's getting worse...
+
+#### 38 ####
+After coming all this way
+I gotta see the Tournament.
+Guys love fights. Why
+aren't you in it?
+
+#### 39 ####
+I know some stuff is
+missing...but that kid
+didn't have anything.
+I guess I was mistaken.
+
+#### 40 ####
+Show me what you're 
+hiding!{wait:32} 
+Give it back now and I 
+won't tell your folks.{clear:32}
+
+#### 41 ####
+That's strange...{clear:32}
+
+#### 42 ####
+I promise I'll return it
+when my dad comes back.
+
+#### 43 ####
+Get off my back!
+I'm just looking!
+
+#### 44 ####
+Shut up! 
+Mind your own business!
+
+#### 45 ####
+!{clear:14}
+
+#### 46 ####
+(Hurry!) {clear:14}
+
+#### 47 ####
+What are you talking
+about lady? I'm not
+hiding anything! Do you
+wanna see?{clear:64}
+
+#### 48 ####
+See. {clear:1E}
+
+#### 49 ####
+You can't accuse people
+without proof!{wait:1E}
+C'mon lady!{clear:1E}
+
+#### 50 ####
+!!{clear:1E}
+
+#### 51 ####
+Thanks for loaning me 
+money. I'll stop stealing. {wait:1E}
+The two of us will work
+hard till dad comes back.
+
+#### 52 ####
+Whaddya want? 
+You're buggin' me, 
+get outta here!
+
+#### 53 ####
+Hey! Hey, man!
+Will you feed us?
+    Sure
+    Well...
+
+#### 54 ####
+Then lend me 1000G
+    Sure
+    No way
+
+#### 55 ####
+!! {clear:1E}
+
+#### 56 ####
+Wow, thanks...{wait:32}
+You're really
+nice man...
+I mean 'mister'.
+
+#### 57 ####
+Hey, if you don't have 
+any money don't fool 
+people like that.
+
+#### 58 ####
+I thought so.
+
+#### 59 ####
+Just as I thought,
+adults are all talk.
+
+#### 60 ####
+(Here...) {clear:32}
+
+#### 61 ####
+(Yeah!) {clear:14}
+
+#### 62 ####
+You're not from
+around here are you?
+Well, I hope you
+enjoy our town fair.
+
+#### 63 ####
+Any monster fangs? {wait:0F}
+Any monster eyeballs? {wait:0F}
+Any monster scales? {wait:0F}{enter}
+We'll buy 'em all for 
+a good price. {clear:3C}
+
+#### 64 ####
+What do you wanna sell?
+    Fang     150G
+    Eyeball  300G
+    Scale    600G
+    No way
+
+#### 65 ####
+I'll give you a better
+price than anyone.
+
+#### 66 ####
+Thanks, come again.
+
+#### 67 ####
+You don't have any!
+
+#### 68 ####
+Alright, got it!
+
+#### 69 ####
+Received {number(s):00}G.
+
+#### 70 ####
+Radishes! Get 'em here!
+Get your spicy radishes!
+Big Lahan radishes! {clear:64}
+
+#### 71 ####
+Wanna buy a radish?
+They're from Lahan, the
+hottest you can find.{enter}
+You'll be spitting fire.
+Try one.
+
+#### 72 ####
+10G for one.
+    Buy one
+    Don't buy any {0D:FF}{clear:01}
+
+#### 73 ####
+Alright.
+How about 9G?
+    Buy one
+    Don't buy any {0D:FF}{clear:01}
+
+#### 74 ####
+Just try one.
+8G?
+    Buy one
+    Don't buy any {0D:FF}{clear:01}
+
+#### 75 ####
+Hey, you can't carry anymore!
+Don't play tricks on old
+people like that.
+
+#### 76 ####
+Thanks.
+
+#### 77 ####
+Hey!
+Don't burn yourself 
+breathing fire.
+
+#### 78 ####
+{wait:64}Weren't you going to
+buy one? They say people
+who play tricks on the
+old will shrivel up and
+die in the desert.
+
+#### 79 ####
+You don't like spicy
+things?
+Too bad.
+
+#### 80 ####
+Bananas! Bananas! 
+Long bananas! {wait:14}
+Good for body and soul! {wait:14}
+Buy some bananas! {clear:3C}
+
+#### 81 ####
+Did you bring money?
+    Yes
+    No {0D:FF}{clear:01}
+
+#### 82 ####
+Bring some money. 
+
+#### 83 ####
+Buy a banana?
+The monsters of the 
+western forest love them.
+They're called Elfananas.{enter}
+You can't find better
+bananas than these.
+
+#### 84 ####
+You seem like a nice guy,
+so only 10G for a bunch!
+    Buy some
+    Don't buy any {0D:FF}{clear:01}
+
+#### 85 ####
+They're delicious!{wait:32}
+How about 9G?
+    Buy some
+    Don't buy any {0D:FF}{clear:01}
+
+#### 86 ####
+OK, a special!
+2 bunches, 16G.
+How about it handsome?
+    Buy some
+    Don't buy any {0D:FF}{clear:01}
+
+#### 87 ####
+Hey, you have too much 
+stuff. Come back again.
+
+#### 88 ####
+Thanks!
+You're a nice guy.
+
+#### 89 ####
+Wow!
+Thanks!
+Come again.
+
+#### 90 ####
+{wait:32}What, forgot your wallet?{wait:32}
+Too bad, but I can't give
+it to you. Bring your 
+wallet next time.
+
+#### 91 ####
+Well...{wait:1E}
+If you don't eat bananas 
+you won't become a strong 
+soldier.
+
+#### 92 ####
+Young sir! Young sir!
+Berries, buy some berries.
+Sweet, delicious berries...
+they're 'berry' cheap.{clear:64}
+
+#### 93 ####
+Go away!{clear:50}
+
+#### 94 ####
+Delicious berries.
+You can't find Ariberries
+like these anywhere else.{enter}
+Deep red berries grown
+with Aveh spring water.
+
+#### 95 ####
+One box 10G.
+    Buy some
+    Don't buy any {0D:FF}{clear:01}
+
+#### 96 ####
+Alright,
+I can go 9G.
+    Buy some
+    Don't buy any {0D:FF}{clear:01}
+
+#### 97 ####
+Ok then, 8G
+I can't go any lower.
+    Buy some
+    Don't buy any {0D:FF}{clear:01}
+
+#### 98 ####
+Hey, you've got too 
+much stuff. Come again.
+
+#### 99 ####
+Thanks!
+
+#### 100 ####
+Hey!
+They're really good.
+Just try some.
+
+#### 101 ####
+WHA? {wait:32}No money!?
+Gimme a break! Get out!
+
+#### 102 ####
+Too bad, they're really 
+good. Maybe next time.
+
+#### 103 ####
+Cap'n {wait:0A}suspicious people!wned(30)
+
+#### 104 ####
+Cr'ap'n {wait:0F}susp'cious peepl!wned(30)
+
+#### 105 ####
+We are the Raider Boys!
+Joined together to
+protect Aveh's peace!{clear:64}
+
+#### 106 ####
+We protect the people
+of the desert from the
+steam heads of Kislev.{clear:64}
+
+#### 107 ####
+Shut up! {wait:1E}
+I'm the captain and I'm
+talkin' here!{clear:64}
+
+#### 108 ####
+Right, starting 
+tomorrow we'll switch 
+off.{wait:1E} 
+That's good!{clear:32}
+
+#### 109 ####
+Let's return to 
+patrol!{wait:1E}
+Forward {wait:14} march!{clear:64}
+
+#### 110 ####
+{fast:01}Kislev steam heads!{wait:64}
+We'll kick their...{clear:64}
+
+#### 111 ####
+{fast:01}They're kettle-heads
+with steam for brains!{clear:C8}
+
+#### 112 ####
+{fast:01}Twist their noses
+till they come off!{clear:C8}
+
+#### 113 ####
+{fast:01}We are the Raider Boys!{wait:64}
+We're protectin' the peace
+in this part of the desert!
+
+#### 114 ####
+Yeah!{clear:1E}
+
+#### 115 ####
+{fast:01}You're not from Aveh!{clear:64}
+
+#### 116 ####
+Company {wait:14} halt!{clear:14}
+
+#### 117 ####
+Shut up!{clear:32}
+
+#### 118 ####
+Yeah!{clear:1E}
+
+#### 119 ####
+{fast:01}You're Kislev people!
+
+#### 120 ####
+Don't be bossy!{wait:14}
+It's not fair!
+You're always Cap'n.{clear:64}
+
+#### 121 ####
+I was first!{wait:14}
+Tomorrow I'm the Cap'n!
+
+#### 122 ####
+Hey!{clear:1E}
+
+#### 123 ####
+{fast:01}You are an Abeh {wait:1E}from Kisreb.
+
+#### 124 ####
+Yeah, yeah {wait:14}
+I wanna be Cap'n too!{clear:64}
+
+#### 125 ####
+Me too {wait:14}
+I'm Cap'n tomorrow.
+
+#### 126 ####
+Come here.{clear:1E}
+
+#### 127 ####
+My brother has gone
+off to fight...
+
+#### 128 ####
+To the north, by the
+border.{wait:28}
+I pray everyday that
+he will return home 
+safe...
+
+#### 129 ####
+...And that he'll beat up
+lots of Kislev guys too!
+
+#### 130 ####
+When I get older I wanna
+be a Gear pilot and shoot
+Kislev guys too.{enter}
+If we don't they'll take
+over and kill or make
+slaves of everyone.
+
+#### 131 ####
+Right
+    Yep
+    Not really
+
+#### 132 ####
+I'm gonna be a 
+strong soldier!
+
+#### 133 ####
+Those Kislev guys 
+are real bad!
+And...{wait:50}they killed
+my dad.
+I hafta get 'em.
+
+#### 134 ####
+Hurry up, use it!
+We're not just playing 
+around here.
+
+#### 135 ####
+If you use this box you
+can climb up fast.
+Use it?
+    Use it
+    Don't need it
+
+#### 136 ####
+It'll be 5G.
+
+#### 137 ####
+What, you're poor too?{wait:1E}
+Well, I'll just tell you.
+If you move back and jump
+you don't need the box.
+
+#### 138 ####
+O-kay.
+
+#### 139 ####
+He said he doesn't play
+hide-and-seek anymore.
+Isn't there anything fun
+to do?
+
+#### 140 ####
+I wonder...{wait:1E}
+where's he hiding?
+
+#### 141 ####
+Can you help me too?
+    Okay
+    I'm busy
+
+#### 142 ####
+Thanks
+The rule is you can't 
+hide in houses or where 
+you can't see.
+
+#### 143 ####
+We're busy too!
+
+#### 144 ####
+I don't play hide-and-
+seek anymore and you
+shouldn't at your age
+either!
+
+#### 145 ####
+When you leave I'll 
+hide somewhere.
+
+#### 146 ####
+Ah, you found me.
+
+#### 147 ####
+We're playing hide-and-
+seek. You wanna play?
+    Play
+    No thanks
+
+#### 148 ####
+When you leave I'll
+hide, then you gotta 
+find me.
+
+#### 149 ####
+Afraid you'll lose, heh?
+
+#### 150 ####
+Good job.
+Next time I'll hide 
+somewhere better.
+
+#### 151 ####
+You found me here too.
+Next time's for real.
+
+#### 152 ####
+I didn't think you'd ever
+find me here. You're good.{enter}
+You musta been the champ
+when you were a kid.{enter}
+But you won't find me
+next time.
+
+#### 153 ####
+A¡«w-ge¡«e!
+You found me here, too? {enter}
+OK, time for my secret
+weapon! You'll never
+find me there!!
+
+#### 154 ####
+GE¡«EZ!
+How'd you find me?{enter}
+Forget it!
+I'm quitting
+hide-and-seek.{enter}
+Here's my badge.
+I don't need it
+anymore.
+
+#### 155 ####
+ 
+ Received {str}.
+
+#### 156 ####
+Huh?{wait:1E} You wanna hear about
+when I went down the well?{enter}
+It's been a while since
+anyone asked me about that.
+Everyone wanted to know
+about it back then...{enter}
+Well...cough...{wait:1E}I was
+still a kid when I hid
+in there. Actually I got
+lost...pretty embarrassing!{enter}
+At first, I thought I could
+follow the current out, but
+the grill stopped me.{enter}
+So I swam against the
+current.{enter}
+The speed of the current
+is always changing so if
+your timing's off it's
+really tough. {enter}
+I hear it's the opening
+and closing of the flood
+gate that changes the
+speed of the current.{enter}
+But if you keep going
+against the current you'll
+end up right under the
+castle.{enter}
+I was scared stiff by the
+manager guy there...{wait:3C}
+The lid to the well's
+been locked since then.{enter}
+It was a great place to
+hide but it's no place
+for amateurs.
+
+#### 157 ####
+Huh?{wait:1E} The key?{enter}
+The old guy who is always
+sitting on the bench by
+the east well has it.
+
+#### 158 ####
+The well key?{enter}
+I've got it.
+I'm in charge of the
+waterworks association.
+
+#### 159 ####
+What are you gonna do with the key?
+    Search underground
+    Rescue Margie
+    Steal from the castle
+
+#### 160 ####
+Stupid!{wait:1E}
+You'll just get lost!
+
+#### 161 ####
+What!?{wait:1E}
+You wanna clash
+with Shakhan?
+
+#### 162 ####
+Hah!{wait:1E}
+This is great!{wait:1E}
+This is great!{enter}
+I like you guys.
+I'll lend you the key.
+You get that Shakhan
+for me!
+
+#### 163 ####
+Received Well Key!
+
+#### 164 ####
+You big fools!!{enter}
+You kids are thinking of
+playing around and living the
+easy life while other kids are
+out there spilling their blood
+on the battlefield!{enter}
+Shame on you! Shame!
+You don't deserve to live here.{wait:5A}
+This whole town is rotting
+away...{wait:5A}
+Damn! Damn that Shakhan!
+
+#### 165 ####
+Bart
+"Don't get mad, gramps.
+It's a joke. A joke.{enter}
+Look at me. Do I look
+like a thief to you?"
+
+#### 166 ####
+I don't get it {wait:14}...{wait:14}
+...{wait:14}...{wait:14}...{wait:14}...{wait:14}...{wait:14}
+Oh?...{wait:14}Oh!...{wait:14}You...
+No, it couldn't be!
+
+#### 167 ####
+Bart
+"Gramps, are you senile?
+It's true. It is me!"
+
+#### 168 ####
+Prince Bartholomew?
+I though you had died in 
+that accident. 
+You're still alive...
+
+#### 169 ####
+Bart
+"Still alive and I'm gonna
+save my cousin being held
+in the castle.{enter}
+That's why I gotta sneak
+in through waterways. So
+help me out here gramps."
+
+#### 170 ####
+Of course!
+
+#### 171 ####
+Received Well Key!
+
+#### 172 ####
+Bart
+"Thanks.
+I appreciate it!"
+
+#### 173 ####
+Sorry about what I 
+said before...{clear:3C}
+
+#### 174 ####
+Bart
+"Don't worry about it.{enter}
+I'm glad there are people 
+like you worried about 
+the country."
+
+#### 175 ####
+If Prince Bartholomew
+comes back he'll bring 
+back Aveh's old spirit.
+
+#### 176 ####
+Go get'em, boy!
+
+#### 177 ####
+It's cool here. {wait:28}
+Cool air blows up 
+from the grate.
+
+#### 178 ####
+Yeah!
+He's great guy!
+My childhood friend.
+
+#### 179 ####
+No good, no good.
+You won't open it 
+without the key!{enter}
+Many years ago a kid 
+got lost down there.{wait:14}
+I think it was the kid 
+from the armor store...
+
+#### 180 ####
+I've been doing laundry
+here for 60 years...
+The water is the only
+thing that hasn't changed.{enter}
+There's a spring flowing
+beneath the castle.{enter}
+I was worried that when
+the king died, the water
+would stop too, but it 
+didn't.{enter}
+That old guy down there
+in charge of the water
+won't budge an inch even
+for Shakhan.
+
+#### 181 ####
+Citan
+"The young one will sneak
+into the castle through
+the underground waterways.{enter}
+Once we are all ready, he
+can enter either the well
+here or the one on the
+other side of town!"
+
+#### 182 ####
+It's locked.
+

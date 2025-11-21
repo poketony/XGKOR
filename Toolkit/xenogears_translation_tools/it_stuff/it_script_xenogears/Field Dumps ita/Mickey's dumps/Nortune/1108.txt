@@ -1,0 +1,36 @@
+<TextBlock 1 w:50 h:4>
+Shitan
+"Sembra che ci sia gente.
+Meglio non entrare da
+questa parte…"<Close><End of Block>
+<TextBlock 2 w:48 h:3>
+Shitan
+"Qualcuno si avvicina.
+Dobbiamo nasconderci."<Close><End of Block>
+<TextBlock 3 w:52 h:3>
+Lavoro, lavoro e ancora
+lavoro. Ma non succede
+mai nulla di divertente
+qua intorno?<Close><End of Block>
+<TextBlock 4 w:54 h:3>
+Nessun dubbio…<New>
+Pare che il campione
+precedente si stia
+battendo con la bestia.<Close><End of Block>
+<TextBlock 5 w:48 h:3>
+Questo sì che è
+interessante. Finiamo
+questo lavoro e andiamo
+fuori a guardarlo.<Close><End of Block>
+<TextBlock 6 w:48 h:3>
+Già, dobbiamo farlo.
+Stiamo lavorando
+molto ultimamente.<Close><End of Block>
+<TextBlock 7 w:26 h:1>
+È chiusa.<Close><End of Block>
+<TextBlock 8 w:46 h:1>
+È già aperta.<Close><End of Block>
+<TextBlock 9 w:40 h:1>
+Usato Passepartout.<Close><End of Block>
+<TextBlock 10 w:32 h:1>
+Non hai la chiave.<Close><Close><End of Block>

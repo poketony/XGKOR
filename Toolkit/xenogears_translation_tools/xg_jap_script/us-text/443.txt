@@ -1,0 +1,131 @@
+#### 1 ####
+Citan
+"We can probably get in
+with this switch..."
+
+#### 2 ####
+Card needed to activate
+the Vac-Sys...{wait:0A}
+Please insert card.
+
+#### 3 ####
+Citan
+"...{wait:05}...No go.{wait:0A}
+What shall we do...?"
+
+#### 4 ####
+Fei
+"What shall we do??
+Didn't you have a plan?"
+
+#### 5 ####
+Citan
+"No, I am afraid not...{wait:0A}
+I assumed we would just
+figure something out."
+
+#### 6 ####
+...
+
+#### 7 ####
+Wait!!{clear:14}
+
+#### 8 ####
+Citan
+"Why Elly, it is you!"
+
+#### 9 ####
+Fei
+"Elly!?
+What're you doing here?"
+
+#### 10 ####
+Elly
+"Well...{wait:0A}after that, when I
+was crying, my mother came
+to me and said...{enter}
+'go with them'..."
+
+#### 11 ####
+Elly
+"Father,{wait:0A}
+mother..."
+
+#### 12 ####
+Fei
+"Elly..."
+
+#### 13 ####
+Citan
+"...The 'Ministry'...{wait:05}
+...{wait:05}"
+
+#### 14 ####
+Elly
+"'Ministry'!?{wait:0A}
+Father said that too!!{wait:0A}
+What is the 'Ministry'?"
+
+#### 15 ####
+Citan
+"...{wait:05}You will
+find out."
+
+#### 16 ####
+Fei
+"Let's go back!{wait:0A}
+We gotta save him!"
+
+#### 17 ####
+Elly
+"We can't!{wait:0A}
+If you go now, they'll
+catch you too.{enter}
+My parents will be fine.
+Their military record
+should protect them.{enter}
+...If necessary I'll turn
+myself in after everyone
+is rescued and that will
+settle it."
+
+#### 18 ####
+Fei
+"But..."
+
+#### 19 ####
+Elly
+"Let's go.{enter}
+Something might happen
+to them while we're
+just talking here."
+
+#### 20 ####
+Citan
+"I am worried for Elly's
+family, but...{enter}
+Her father risked his
+life to get us this card.
+We must go on!"
+
+#### 21 ####
+Yeah!
+
+#### 22 ####
+Citan
+"But in this filthy place?
+Spare me.{enter}
+What I would not give
+for my old bath-tub now!
+Do you not agree, Fei?"
+
+#### 23 ####
+?{clear:1E}
+
+#### 24 ####
+Fei
+"OK, let's go!"
+
+#### 25 ####
+
+

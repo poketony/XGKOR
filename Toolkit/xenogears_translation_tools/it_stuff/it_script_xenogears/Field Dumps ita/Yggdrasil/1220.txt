@@ -1,0 +1,96 @@
+<TextBlock 1 w:10 h:1>
+<Opcode 1 255>Dajil<Close><End of Block>
+<TextBlock 2 w:30 h:2>
+<Opcode 1 255>   - Bledavik -
+ Capitale di Aveh<Close><End of Block>
+<TextBlock 3 w:22 h:1>
+<Opcode 1 255>Covo di Bart<Close><End of Block>
+<TextBlock 4 w:16 h:2>
+<Opcode 1 255>La Strada
+per Nisan<Close><End of Block>
+<TextBlock 5 w:10 h:1>
+<Opcode 1 255>Nisan<Close><End of Block>
+<TextBlock 6 w:26 h:1>
+<Opcode 1 255>Covo dell'Eremita<Close><End of Block>
+<TextBlock 7 w:38 h:1>
+<Opcode 1 255>Cava per il Portale
+     di Ignis<Close><End of Block>
+<TextBlock 8 w:34 h:2>
+<Opcode 1 255>    - Nortune -
+Capitale di Kislev<Close><End of Block>
+<TextBlock 9 w:30 h:1>
+<Opcode 1 255>Stabilimento
+   Golia<Close><End of Block>
+<TextBlock 10 w:20 h:1>
+<Opcode 1 255>Ft. Diaspro<Close><End of Block>
+<TextBlock 11 w:18 h:1>
+<Opcode 1 255>Orfanotrofio<Close><End of Block>
+<TextBlock 12 w:22 h:1>
+<Opcode 1 255>Torre di Babele<Close><End of Block>
+<TextBlock 13 w:46 h:1>
+<Opcode 1 255>Sito di Scavi
+della Chiesa<Close><End of Block>
+<TextBlock 14 w:20 h:1>
+<Opcode 1 255>Faro<Close><End of Block>
+<TextBlock 15 w:22 h:2>
+<Opcode 1 255>   La Sede
+della Chiesa<Close><End of Block>
+<TextBlock 16 w:14 h:1>
+<Opcode 1 255>Solaris<Close><End of Block>
+<TextBlock 17 w:34 h:1>
+<Opcode 1 255>Rifugio nel Nevaio<Close><End of Block>
+<TextBlock 18 w:22 h:2>
+<Opcode 1 255>     Contenitore
+     dell'Anima:
+      Dungeon 1<Close><End of Block>
+<TextBlock 19 w:22 h:2>
+<Opcode 1 255>Contenitore dell'Anima:
+       Dungeon 2<Close><End of Block>
+<TextBlock 20 w:8 h:1>
+<Opcode 1 255>Deus<Close><End of Block>
+<TextBlock 21 w:18 h:1>
+<Opcode 1 255>Betlemme<Close><End of Block>
+<TextBlock 22 w:26 h:1>
+<Opcode 1 255>Casa di Taura<Close><End of Block>
+<TextBlock 23 w:22 h:1>
+<Opcode 1 255>Mass Driver<Close><End of Block>
+<TextBlock 24 w:26 h:1>
+<Opcode 1 255>Villaggio di Lahan<Close><End of Block>
+<TextBlock 25 w:26 h:1>
+<Opcode 1 255>Casa di Shitan<Close><End of Block>
+<TextBlock 26 w:18 h:1>
+<Opcode 1 255>Yggdrasil<Close><End of Block>
+<TextBlock 27 w:12 h:1>
+<Opcode 1 255>Shevat<Close><End of Block>
+<TextBlock 28 w:12 h:1>
+<Opcode 1 255>Tammuz<Close><Close><End of Block>
+<TextBlock 29 w:44 h:4>
+È così che la terra appare
+in realtà dall'altra parte
+della barriera invisibile.<New>
+I Portali dovrebbero
+essere collocati da
+qualche parte su questa
+mappa.<Close><End of Block>
+<TextBlock 30 w:68 h:1>
+Prima cosa, il portale di
+Ignis è<Delay 5>… <Delay 10>qui.<Close><End of Block>
+<TextBlock 31 w:40 h:2>
+La Sede della Chiesa,
+nel continente di
+Aquvy è qui, perciò…<Close><End of Block>
+<TextBlock 32 w:50 h:4>
+Fei
+"Beh, per logica il
+prossimo posto potrebbe
+essere qui, o…"<Close><End of Block>
+<TextBlock 33 w:32 h:3>
+Fei
+"Qui. Uno
+dei due."<Close><End of Block>
+<TextBlock 34 w:54 h:4>
+Elly
+"Nord o sud, allora…<Delay 20>
+Beh, almeno abbiamo la
+stessa probabilità di
+indovinare."<Close><Close><End of Block>

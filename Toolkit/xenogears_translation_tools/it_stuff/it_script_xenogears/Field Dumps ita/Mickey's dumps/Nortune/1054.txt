@@ -1,0 +1,172 @@
+<TextBlock 1 w:26 h:4>
+Rico
+"<Delay 5>…<Delay 5>?<Delay 30>
+<Delay 5>…<Delay 5> Sarà la mia
+immaginazione."<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+Rico
+"Chi avrebbe mai
+pensato che un giorno
+avrei combattuto…<New>
+… usando solo il mio
+corpo<Delay 5>…<Delay 5>…"<Opcode 2 150><Close><End of Block>
+<TextBlock 3 w:28 h:3>
+Rico
+"Questa non è la
+mia immaginazione<Delay 5>…<Delay 15><New>
+Cos'è<Delay 5>…<Delay 5> questa
+vibrazione?"<Close><End of Block>
+<TextBlock 4 w:46 h:4>
+Rico
+"Un Gear non vibra in
+questo modo<Delay 5>…<Delay 15> Non<Delay 5>…<Delay 5>
+può essere…"<Close><End of Block>
+<TextBlock 5 w:24 h:3>
+Rico
+"Ma è un<Delay 5>…<Delay 15>
+Rankar!?"<Opcode 2 120><Close><End of Block>
+<TextBlock 6 w:50 h:4>
+Rico
+"Merda! Cos'è? Uno
+scherzo!? Come posso
+battermi senza un Gear!?"<Opcode 2 120><Close><End of Block>
+<TextBlock 7 w:44 h:4>
+Rico
+"Uh?<Delay 15>
+<Delay 5>…<Delay 5> Questo rumore…
+Un Gear in volo!?"<Opcode 2 90><Close><End of Block>
+<TextBlock 8 w:32 h:3>
+Rico
+"Un Gear nero<Delay 10>…<Delay 5>
+Lui<Delay 5>…!?"<Opcode 2 90><Close><End of Block>
+<TextBlock 9 w:32 h:2>
+Fei
+"Yaaaaahhhrrr!!"<Opcode 2 90><Close><End of Block>
+<TextBlock 10 w:46 h:3>
+Rico
+"Tu! Che cazzo
+ci fai qui?"<Close><End of Block>
+<TextBlock 11 w:46 h:4>
+Fei
+"Per riprendermi questo.<Delay 15>
+Non sono mica venuto
+a salvarti<Delay 5>…<New>
+L'ascensore che ho
+usato per scappare mi
+ha condotto qui. Non
+volevo salvarti, ma…<New>
+…<Delay 5> l'ho fatto."<Close><End of Block>
+<TextBlock 12 w:38 h:4>
+Rico
+"Sei davvero molto
+bravo a raccontare
+cazzate<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 13 w:48 h:3>
+Fei
+"Se ti piace pensarla
+così<Delay 5>…<Delay 15><New>
+Dimmi, cosa vorresti
+fare adesso?"<Close><End of Block>
+<TextBlock 14 w:26 h:2>
+Rico
+"… Fare cosa?"<Close><End of Block>
+<TextBlock 15 w:50 h:4>
+Fei
+"Mi sembra chiaro.
+Siamo fuggitivi dello
+Impero…<New>
+… quindi dobbiamo
+scappare. Resta lì
+impalato e dovrai ancora
+affrontare quel mostro.<New>
+E questa volta potresti
+morire<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 16 w:50 h:3>
+Fei
+"E questo che vuoi fare?"<Close><End of Block>
+<TextBlock 17 w:10 h:2>
+Rico
+"<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 18 w:42 h:4>
+Fei
+"Non vuoi utilizzare
+meglio la tua vita?<New>
+Forse preferisci che
+tutto finisca così<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 19 w:50 h:3>
+Rico
+"Silenzio!<Delay 10> Sta' zitto!
+Due volte! Due volte hai<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 20 w:50 h:5>
+Rico
+"<Delay 5>…<Delay 5> Se volete scappare
+dall'impero, siete liberi
+di farlo!<New>
+Io sto bene dove mi
+trovo. Anche se ci
+dovessi lasciare la
+pelle!!"<Close><End of Block>
+<TextBlock 21 w:36 h:3>
+Shitan
+"<Delay 5>…<Delay 5> Eh!?
+Aspettate un momento.<New>
+Qui c'è qualcosa<Delay 5>…<Delay 15>
+che non va."<Opcode 2 90><Close><End of Block>
+<TextBlock 22 w:48 h:3>
+Fei
+"E questo<Delay 5>…<Delay 5> rombo?<Delay 15>
+Cos'è questa vibrazione?"<Opcode 2 90><Close><End of Block>
+<TextBlock 23 w:46 h:3>
+Rico
+"Questa vibrazione<Delay 5>…<Delay 15>
+non viene dal terreno."<Opcode 2 90><Close><End of Block>
+<TextBlock 24 w:52 h:3>
+Shitan
+"Vibrazioni atmosferiche<Delay 5>…<Delay 5><New>
+C'è qualcosa che sta
+arrivando dai cieli
+dell'impero!"<Opcode 2 90><Close><End of Block>
+<TextBlock 25 w:46 h:3>
+Fei
+"Doc,<Delay 15> questi rumori<Delay 5>…<Delay 15>
+Non mi sembrano un
+buon segno…"<Opcode 2 90><Close><End of Block>
+<TextBlock 26 w:46 h:2>
+Fei
+"Co<Delay 5>…<Delay 5> cosa succede?"<Close><End of Block>
+<TextBlock 27 w:50 h:3>
+Shitan
+"La scossa precedente e
+quella eco<Delay 5>…<Delay 15><New>
+Sono sicuro che l'impero
+stia venendo attaccato da
+qualcuno."<Close><End of Block>
+<TextBlock 28 w:48 h:3>
+Rico
+"Ridicolo!!<New>
+Come possono eludere?
+la rete difensiva
+aerea imperiale?"<Close><End of Block>
+<TextBlock 29 w:50 h:4>
+Shitan
+"Non lo so.<Delay 15><New>
+L'unica cosa che mi viene
+in mente e che stiano
+usando una qualche
+tecnologia speciale…<New>
+… per evitare di
+essere intercettati."<Close><End of Block>
+<TextBlock 30 w:44 h:4>
+Fei
+"<Delay 5>…<Delay 5> Comunque sia, non
+possiamo lasciarglielo
+fare.<New>
+Doc,<Delay 5> devo andare."<Close><End of Block>
+<TextBlock 31 w:46 h:4>
+Shitan
+"Capisco.<New>
+Vista la situazione
+attuale penso che
+potrei uscire di qui
+da solo.<New>
+Vai pure,<Delay 5> Fei."<Close><Close><End of Block>

@@ -1,0 +1,198 @@
+#### 1 ####
+Wow!?{clear:28}
+
+#### 2 ####
+Fei
+"W,{wait:1E} what is this...?"
+
+#### 3 ####
+Fei
+"So this is what doc
+was talking about.{enter}
+Let me see...{wait:1E}
+what's so interesting
+about it..."
+
+#### 4 ####
+Fei
+"This music...?{wait:14}
+I've{wait:0A} heard it before
+somewhere...?"
+
+#### 5 ####
+Fei
+"Doc..."
+
+#### 6 ####
+Citan
+"Hello again Fei. Sorry
+to have kept you waiting."
+
+#### 7 ####
+Citan
+"Music is a mysterious
+thing...{enter}
+Sometimes, it makes people
+remember things that they
+do not expect.{enter}
+Many thoughts,
+feelings, memories... 
+things almost forgotten...{enter}
+Regardless of whether
+the listener desires to
+remember them or not..."
+
+#### 8 ####
+Citan
+"It was excavated from
+some old ruins, and is
+still under repair.{enter}
+Obviously it is an audio
+device of some type."
+
+#### 9 ####
+Citan
+"Long ago people would
+listen to this melody,
+just as we are doing now...{enter}
+At times they would have
+been cheered up...
+While at times they would
+have been made to cry."
+
+#### 10 ####
+Citan
+"By the way, what brings
+you here today?"
+
+#### 11 ####
+Citan
+"Oh yes. 
+Her wedding is
+tomorrow, right...?"
+
+#### 12 ####
+Citan
+"Understood.
+Well, we had better
+get them ready then."
+
+#### 13 ####
+Citan
+"Oh, and dinner should be
+ready soon.{wait:14} Would you like
+to join us?"
+
+#### 14 ####
+Citan
+"I still have some
+cleaning up to do
+out here.{enter}
+Would you mind giving
+Midori some company
+back in the house?"
+
+#### 15 ####
+Citan
+"Ha, ha, ha.
+Go right ahead.{enter}
+But, I will not be held
+responsible if you get a
+stomachache from eating
+my wife Yui's cooking."
+
+#### 16 ####
+Citan
+"That just may be because
+you have someone living
+inside of you...{enter}
+... And he too must have
+liked this music a long
+time ago before he became
+a part of you...
+
+#### 17 ####
+Citan
+"Is Timothy and Alice's
+wedding really tomorrow...{enter}
+It might actually be
+better to live an ordinary
+life, in this condition...{wait:1E}
+As a son of man..."
+
+#### 18 ####
+Citan
+"Well, anyway. I suppose
+I had better adjust the
+gyro at least..."
+
+#### 19 ####
+Citan
+"Huh....!?"{clear:32}
+
+#### 20 ####
+Citan
+"This cannot be...{wait:3C}
+Is...is this...
+an omen...?"
+
+#### 21 ####
+Citan
+"...{wait:28}
+Now, what is going
+to happen...?"
+
+#### 22 ####
+What do you think?{wait:1E}
+Not bad, huh?
+
+#### 23 ####
+Fei
+"Doc, what is this...?"
+
+#### 24 ####
+Fei
+"..."
+
+#### 25 ####
+Fei
+"Oh yeah, that's right!{enter}
+Alice asked me to borrow
+some camera equipment
+from you."
+
+#### 26 ####
+Fei
+"Would I ever!{wait:1E}
+I was hoping
+you would ask."
+
+#### 27 ####
+Fei
+"Okay.
+Take your time, doc.{enter}
+I'll go ahead and eat
+when dinner is ready!"
+
+#### 28 ####
+Fei
+"Doc...{wait:14}
+I feel strange when I
+listen to this music...{enter}
+I feel something warm
+inside..."
+
+#### 29 ####
+Fei
+"..."
+
+#### 30 ####
+Something is carved
+in small letters in
+the corner...
+
+#### 31 ####
+" Celebrating my daughter's birth
+ ...may all the dreams, courage
+ & love in the world be yours... "
+

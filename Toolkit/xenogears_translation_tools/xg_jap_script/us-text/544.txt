@@ -1,0 +1,40 @@
+#### 1 ####
+Fei
+"If we just stand still,
+we will be okay."{clear:1E}
+
+#### 2 ####
+Fei
+"What!?
+Again?"{clear:1E}
+
+#### 3 ####
+Fei
+"Huh? 
+Now what?"{clear:1E}
+
+#### 4 ####
+Fei
+"!?"{clear:1E}
+
+#### 5 ####
+Fei
+"Look out!
+Jump!"{clear:1E}
+
+#### 6 ####
+Fei
+"Damn!
+The ceiling's
+dropping again!!"{clear:28}
+
+#### 7 ####
+Fei
+"Yikes!
+The ceiling!
+It's falling!!"{clear:28}
+
+#### 8 ####
+Show some courage and
+  stand your ground!
+

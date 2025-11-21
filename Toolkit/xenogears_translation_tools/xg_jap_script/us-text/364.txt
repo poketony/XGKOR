@@ -1,0 +1,60 @@
+#### 1 ####
+Fei
+"A Chu-chu idol...{wait:14}
+Is this a representation of
+{name:07:チュチュ}'s guardian god?{enter}
+You think this is what
+{name:07:チュチュ} rides when it
+grows so she can fight...?"
+
+#### 2 ####
+Fei
+"...{wait:1E}
+...{wait:14}
+..."
+
+#### 3 ####
+Fei
+"Let's not imagine things!{wait:14}
+It's not good for your
+heart!!"
+
+#### 4 ####
+Received "Power Crisis"!
+
+#### 5 ####
+{fast:02}Received 'Panalphasol'!
+Received 'Hob-Steak'!
+Received 'Physimentsol'!
+Received 'Samson's Hair'!
+Received 'Yamato Belt'!
+Received 'Hard Star'!
+Received 'Speed Star'!
+Received 'ETH Drive'!
+Received 'VIT Drive'!
+Received 'STR Drive'!
+Received 'ETHDEF Drive'!
+Received 'HP Drive'!
+Received 'EP Drive'!
+
+#### 6 ####
+Accidently received
+Chu-chu Idol!!
+
+#### 7 ####
+I don't care how it all
+began nor do I care what
+happens in the end.{enter}
+I just live with {name:07:チュチュ},
+and die with {name:07:チュチュ}!{enter}
+To hell with humans!
+They're liars, greedy,
+selfish...!{enter}
+I'm going away.{wait:14}
+I've had enough of it...!
+
+#### 8 ####
+Do you want to go up?{wait:0A}
+    Yes
+    No
+

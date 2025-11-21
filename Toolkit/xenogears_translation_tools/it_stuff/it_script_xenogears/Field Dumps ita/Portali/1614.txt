@@ -1,0 +1,14 @@
+<TextBlock 1 w:16 h:1>
+Non c'è nulla.<Close><End of Block>
+<TextBlock 2 w:54 h:1>
+Lo scrigno era vuoto.<Close><End of Block>
+<TextBlock 3 w:52 h:1>
+<Perso1>
+"Ho sentito un suono
+venire da qualche parte."<Close><End of Block>
+<TextBlock 4 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 5 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><Close><End of Block>

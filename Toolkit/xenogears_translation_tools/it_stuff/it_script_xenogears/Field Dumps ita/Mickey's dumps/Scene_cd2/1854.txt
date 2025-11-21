@@ -1,0 +1,5 @@
+<TextBlock 1 w:48 h:4>
+Una serie di impianti che
+ricrea la più perfetta
+forma di vita usabile
+come<Delay 5>…<Delay 30> 'arma'.<Close><Close><End of Block>

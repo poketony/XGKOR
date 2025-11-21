@@ -1,0 +1,50 @@
+<TextBlock 1 w:50 h:3>
+Shitan
+"Un'eccellente camera
+a tenuta stagna…<New>
+… assieme ad una
+attrezzatura a
+scansione…<New>
+Tuttavia, non sembra
+essere in funzione.<New>
+… La parte interna si
+è conservata così bene
+che anche quella esterna
+probabilmente lo è…"<Close><End of Block>
+<TextBlock 2 w:44 h:4>
+Bart
+"Non farmi paura!<New>
+Dici che c'è un gas
+velenoso o del
+combustibile reattivo?"<Close><End of Block>
+<TextBlock 3 w:42 h:3>
+Billy
+"È un impianto così
+eccellente e ben
+attrezzato…<New>
+Che possa essere
+un ospedale?<New>
+Però la città
+all'esterno non
+sembra essere
+inquinata od infetta…"<Close><End of Block>
+<TextBlock 4 w:52 h:4>
+Rico
+"Sembra un po' quel cazzo
+di Distretto Centrale di
+Nortune, ma…<New>
+Però sembra che qui
+ci vivano un paio
+di mostri 'puliti'."<Close><End of Block>
+<TextBlock 5 w:54 h:4>
+<Chu-Chu>
+"Che porta grande!<New>
+Mi piaceva quella di
+prima, chu, ma questa
+è pure meglio!"<Close><End of Block>
+<TextBlock 6 w:48 h:2>
+Non puoi ottenere <Opcode 4 18>
+perché ne hai già troppi.<Close><End of Block>
+<TextBlock 7 w:38 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><Close><End of Block>

@@ -1,0 +1,6 @@
+#### 1 ####
+{fast:FF}Ramsus
+"He's out of control!{wait:1E}
+Stop him!{wait:1E} I don't care
+how,{wait:0A} just stop him!
+

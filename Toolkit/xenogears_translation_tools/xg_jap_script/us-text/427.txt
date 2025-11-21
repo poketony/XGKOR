@@ -1,0 +1,358 @@
+#### 1 ####
+!%#?&+!
+
+#### 2 ####
+Arbot Plaza's ahead.{wait:0A}
+No one is being allowed
+through without business!
+
+#### 3 ####
+You have a ticket.{wait:0A} 
+Alright, go on through.{wait:0A} 
+Better hurry or you won't
+make it in time.
+
+#### 4 ####
+These are special seats 
+for the Dedication.{wait:0A} 
+Huh?{wait:0A} No ticket?{wait:0A}
+You can't go in...
+
+#### 5 ####
+Huh?{wait:0A} What kind of person?{wait:0A} 
+Why, a Solaris beauty,
+of course.
+
+#### 6 ####
+As a service to citizens,
+we now are accepting data
+for the marriage service.{enter}
+The Central Control Bureau
+will pick the very best
+match for you. {enter}
+Our motto is 'Good matches
+make good descendants'.{enter}
+We are the seed that came
+from it, so of course we 
+are the best.
+
+#### 7 ####
+The Dedication Ceremony 
+was amazing!!
+
+#### 8 ####
+Whaddya think of these
+Pogoshoes?{wait:0A} 
+They were made from
+the newest technology.{enter}
+They don't put stress
+on your spine, they're
+the best.{enter}
+The Imperial model is a
+super cool ultra rare
+item.
+
+#### 9 ####
+'The dedication ends 
+with huge fanfare'...{wait:0A} 
+It was great.
+
+#### 10 ####
+The Dedication is 
+starting soon.
+
+#### 11 ####
+'Success of the Imperial
+Gate Removal Plan'...{wait:0A}
+It was the will of 
+the Emperor.
+
+#### 12 ####
+'Solaris Defense Field
+Destroyed'...{wait:0A}
+Those savages are really
+in trouble now.
+
+#### 13 ####
+Hmm, the newest model 
+anti-grav car, 'Roach'.{wait:0A} 
+The design needs a little
+work.
+
+#### 14 ####
+Did you hear the Emperor
+and Krelian's broadcast?{wait:0A} 
+It was magnificent...{wait:0A}{enter}
+But that Ramsus is 
+unforgiveable.{wait:0A}
+Always at the Emperor's
+feet!
+
+#### 15 ####
+There seems to be a big 
+struggle on the surface.{enter}
+But it has absolutely 
+nothing to do with us.{enter}
+As long as the Emperor is
+with us, we can live in
+peace. {enter}
+Jumping out of a frying
+pan just might land you
+in the fire...{enter}
+That stupid Ramsus hasn't
+learned that yet.
+
+#### 16 ####
+Long live the Emperor!!
+
+#### 17 ####
+You can get whatever
+you want here.{enter}
+Look, I should have lost
+this arm in an accident,
+but with Solaris' biosampling
+Look, no scar.{enter}
+There are none of the 
+crimes, disasters or wars
+like on earth.{enter}
+Science makes everything
+possible for us.
+
+#### 18 ####
+Whenever I look up I see
+Solaris' battleships...{wait:0A}
+It makes me feel safe
+just seeing them.
+
+#### 19 ####
+Just looking down and
+seeing the earth I think...{wait:0A}
+Those poor souls can't
+live in this fine city.{enter}
+Even if they destroy the
+gate, it's all a waste
+of effort...{enter}
+Futile resistance from 
+those who will never
+reach our paradise.
+
+#### 20 ####
+Did you hear the Emperor's 
+magnificent speech?{enter}
+It brings me to tears just 
+hearing his deep baritone.{wait:0A} 
+You too?
+
+#### 21 ####
+The Emperor will give 
+the speech himself.{enter}
+He can't stand to see our 
+confusion anymore so he 
+went out of the way to 
+make an appearance.{enter}
+We should be thankful.
+
+#### 22 ####
+The Emperor is great
+but this is the DK1200!
+
+#### 23 ####
+Yaay! The Emperor!
+
+#### 24 ####
+The Dk1200 is so cool!
+They improved it, so it
+dances and sings
+perfectly.{wait:0A}{enter}
+I can't wait to download
+the newest songs.
+
+#### 25 ####
+Two strange people were
+just being chased by 
+Security Cubes...{enter}
+I wonder if they were the
+ones Krelian mentioned?{enter}
+You're a 3rd Class citizen
+but you wouldn't do that,
+right?
+
+#### 26 ####
+You have a ticket? {wait:0A}
+You'd better hurry to 
+make it on time!
+
+#### 27 ####
+Up ahead is Arbot Plaza.{wait:0A} 
+The Dedication ceremony 
+is about to start but you 
+don't have a ticket so...
+
+#### 28 ####
+...{wait:0A}
+You look rather odd.{enter}
+3rd Class citizens should
+dress more appropriate.
+
+#### 29 ####
+The Dedication is 
+starting.{wait:0A} 
+The whole city will 
+be lively.
+
+#### 30 ####
+...{wait:0A}
+You look rather odd.{enter}
+3rd Class citizens should
+dress more appropriate.
+
+#### 31 ####
+Danger ahead.
+
+#### 32 ####
+There will be traffic
+during the Dedication.
+
+#### 33 ####
+Danger ahead.
+
+#### 34 ####
+Are you Etrenstrolling?{wait:0A} 
+What?{wait:0A} Etrenstrolling
+is walking along the 
+Etrenank. {enter}
+You need to download the
+Etren Guide to do it.{enter}
+Central Control always
+has fun things.{wait:0A}
+It's their job to keep 
+the citizens happy.
+
+#### 35 ####
+£¾{wait:05}£¾{wait:05}£¾{wait:05}ID check.  
+!%#?&+!{wait:0A}
+ ...Check OK.
+
+#### 36 ####
+£¾{wait:05}£¾{wait:05}£¾{wait:05}ID check.   
+!%#?&+!{wait:0A}
+...Check OK.
+
+#### 37 ####
+!!{clear:1E}
+
+#### 38 ####
+Etren News Flash.   
+£¾{wait:05}£¾{wait:05}£¾{wait:05}The Dedication will 
+start shortly.
+
+#### 39 ####
+Solaris Sound Service: 
+The top new songs...{enter}
+¡¤DK1200/Anti-g-Love car
+¡¤Skyhook/Elevator Song
+¡¤Remi/Solaris sunset{enter}
+Download these new songs
+at the nearest terminal.{enter}
+We recommend DK 950 users
+upgrade to the DK 1200.
+
+#### 40 ####
+...you two...{wait:0A}
+Please stop all 
+action...
+
+#### 41 ####
+...suspicious persons...
+sighted in Arbot Plaza...
+Investigating...
+
+#### 42 ####
+Fei
+"Elly, 
+they're here!"
+
+#### 43 ####
+Elly
+"If those Security Cubes
+catch us, we're in big
+trouble!{wait:0A} Fei, this way!"
+
+#### 44 ####
+Elly!!{clear:14}
+
+#### 45 ####
+...Stop! Desist from moving!
+
+#### 46 ####
+...{clear:1E}
+
+#### 47 ####
+Fei
+"I'll have to jump!!"
+
+#### 48 ####
+!!{clear:0F}
+
+#### 49 ####
+...they...{wait:14}escaped!?
+
+#### 50 ####
+...affirmative...
+
+#### 51 ####
+Attack!!{clear:1E}
+
+#### 52 ####
+...this way!?{clear:1E}
+
+#### 53 ####
+...suspects, escaped!!
+...emergency response!
+
+#### 54 ####
+Elly
+"Dedication ceremony...{wait:0A}
+Solaris is probably not 
+doing so well now."
+
+#### 55 ####
+Fei
+"Huh? {wait:0A}
+Why do we have to watch
+this? {enter}
+We decided to meet
+everyone. We don't have
+time to go this
+festival."
+
+#### 56 ####
+Elly
+"This is no ordinary 
+festival.{enter}
+The people are disturbed
+by the gate's
+disappearance.{enter}
+The dedication is probably
+to quell the masses.{enter}
+We must check Solaris'
+stance against land 
+dwellers.{enter}
+Fei,{wait:0A} 
+we need to get tickets."
+
+#### 57 ####
+Fei
+"Yeah?{wait:0A} 
+I guess we have to get 
+some info on the enemy..."
+
+#### 58 ####
+Elly
+"Hurry up.{wait:0A} 
+There's not much time 
+till the Dedication."
+
+#### 59 ####
+
+

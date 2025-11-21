@@ -1,0 +1,30 @@
+<TextBlock 1 w:16 h:1>
+Yow…!?<Opcode 2 30><Close><End of Block>
+<TextBlock 2 w:42 h:4>
+Oh, sei solo tu.
+Non spaventarmi.<Delay 20>
+Merda, dov'è il mio
+whisky! Whisky!!!<Close><End of Block>
+<TextBlock 3 w:16 h:1>
+Yow…!?<Opcode 2 30><Close><End of Block>
+<TextBlock 4 w:56 h:4>
+Chi sei tu, uno nuovo?
+Non spaventarmi…<Delay 20>
+Mi chiedevo se qui ci
+fosse qualcosa da bere.<Close><End of Block>
+<TextBlock 5 w:50 h:4>
+Per caso i pezzi grossi
+hanno ancora intenzione
+di combattere un paese
+chiamato Solaris?<New>
+Ma quelli di Solaris non
+sono quelli che in realtà
+controllano il mondo…
+agendo nell'ombra?<New>
+Uhh… che pazzia.<Delay 20>
+Proprio quando pensavo
+che avrei potuto
+vivere ancora.<Delay 20>
+Non ne posso più.<Close><End of Block>
+<TextBlock 6 w:0 h:1>
+<Close><End of Block>

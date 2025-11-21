@@ -1,0 +1,13 @@
+#### 1 ####
+Falkon
+"Aim for the flagship
+heading west! {enter2}
+Don't engage the destroyer!
+I'll back off and help out!"
+
+#### 2 ####
+Falkon
+"Get away from the
+destroyer! I am going
+to use reactive shots!"
+

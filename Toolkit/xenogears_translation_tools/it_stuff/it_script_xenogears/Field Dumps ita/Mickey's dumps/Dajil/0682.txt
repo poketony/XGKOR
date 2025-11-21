@@ -1,0 +1,57 @@
+<TextBlock 1 w:52 h:2>
+Non puoi abbassare la guardia
+neanche in tempo di pace.<New>
+Lavoriamo sempre duro per
+essere pronti a tutto.<Close><End of Block>
+<TextBlock 2 w:46 h:3>
+Questa è la Stazione di Guardia
+dell'esercito di Aveh di stanza
+a Dajil.
+I civili non sono ammessi.<New>
+Per favore, se non hai
+affari qui, vai via.<Close><End of Block>
+<TextBlock 3 w:56 h:4>
+Questa città è il centro di
+tutti gli scavi di Gear 
+in Aveh.<New>
+Prendono i generatori
+dai Gear scavati per creare
+nuovi modelli.<New>
+Proteggere questa città è
+essenziale per battere Kislev.<New>
+Ho lasciato la mia famiglia
+per venire qui.<Delay 10> 
+Voglio terminare la mia ferma
+e tornare a casa.<Close><End of Block>
+<TextBlock 4 w:48 h:3>
+Ehi, non vi ho mai visto
+prima qua intorno.<New>
+Non pensate di cavarvela
+con poco se ci causerete
+dei guai!<New>
+Siamo le Guardie di Aveh!
+…Ricordatevelo!<Close><End of Block>
+<TextBlock 5 w:56 h:3>
+La famiglia del mio amico vive
+a Bledavik, così lui è tornato là.<New>
+Sono contento. Almeno lui ha
+qualcuno che lo aspetta.<Delay 15>
+Io…<Delay 5> Io non ho nessuno…<Delay 5><New>
+Penso che piangerò
+finché non mi addormento.<Close><End of Block>
+<TextBlock 6 w:46 h:3>
+L'esercito di Kislev sta
+organizzando qualcosa a
+nord di qui.<New>
+Ma non preoccuparti…
+Se qualcosa accade,
+Geburah sarà al nostro
+fianco.<Close><End of Block>
+<TextBlock 7 w:48 h:3>
+Ehi, non vi ho mai visto
+prima qua intorno.<New>
+Non pensate di cavarvela
+con poco se ci causerete
+dei guai!<New>
+Siamo le Guardie di Aveh!
+…Ricordatevelo!<Close><Close><End of Block>

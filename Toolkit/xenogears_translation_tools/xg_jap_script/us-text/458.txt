@@ -1,0 +1,43 @@
+#### 1 ####
+Medena
+"Elly...{wait:0A}
+I'm so happy...{wait:0A}
+Let me see you...{enter}
+Your father said
+you'd be back.
+I almost gave up hope."
+
+#### 2 ####
+Elly
+"...Mother."
+
+#### 3 ####
+Medena
+"Are you staying for a
+while? This time you
+should relax.{enter}
+Your father will be
+so happy."
+
+#### 4 ####
+Elly
+"Yes...{wait:05}I guess."
+
+#### 5 ####
+Medena
+"Let's have a nice meal.{wait:0A}
+Fei, would you like to
+join us?{enter}
+Elly never invites
+her friends over. {wait:0A}
+I'm glad you're here."
+
+#### 6 ####
+Medena
+"Well,{wait:0A} I'm going
+shopping, so make
+yourself comfortable."
+
+#### 7 ####
+
+

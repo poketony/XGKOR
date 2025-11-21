@@ -1,0 +1,35 @@
+<TextBlock 1 w:44 h:4>
+Generatore principale del
+sito di scavo Aveh.<New>
+Attualmente, l'interruttore
+è acceso.
+    Spegnilo
+    Non fare nulla<Close><End of Block>
+<TextBlock 2 w:52 h:1>
+Interruttore spento.<Close><End of Block>
+<TextBlock 3 w:50 h:4>
+Generatore principale del
+sito di scavo di Aveh.<New>
+Attualmente, l'interruttore
+è spento.
+    Accendilo
+    Non fare nulla<Close><End of Block>
+<TextBlock 4 w:48 h:2>
+Interruttore acceso.
+Funzionamento normale.<Close><End of Block>
+<TextBlock 5 w:50 h:2>
+Attualmente, l'interruttore
+è spento.<Close><End of Block>
+<TextBlock 6 w:50 h:2>
+Attualmente, l'interruttore
+non è acceso.<Close><End of Block>
+<TextBlock 7 w:28 h:4>
+Vuoi salire sulla
+funivia?
+    Sì
+    No<Close><End of Block>
+<TextBlock 8 w:28 h:4>
+Vuoi salire sulla
+funivia?
+    Sì
+    No<Close><Close><End of Block>

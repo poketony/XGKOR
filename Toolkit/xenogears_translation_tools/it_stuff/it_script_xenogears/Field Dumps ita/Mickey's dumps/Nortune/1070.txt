@@ -1,0 +1,79 @@
+<TextBlock 1 w:46 h:3>
+Cos'è questa storia
+del combattimento fra
+noi ed Aveh?<New>
+Solaris deve aver
+manipolato tutto…<Close><End of Block>
+<TextBlock 2 w:46 h:3>
+C'è qualcosa di sospetto
+nelle mosse di Aveh.
+Potrebbe attaccare in
+qualsiasi momento.<Close><End of Block>
+<TextBlock 3 w:50 h:2>
+… Vorrei poter vedere 
+il Golia in azione…<Close><End of Block>
+<TextBlock 4 w:44 h:3>
+Questa è la nuova nave
+da guerra, il Golia!<New>
+Una volta completato,
+Aveh e Solaris dovranno
+sottomettersi a noi.<Close><End of Block>
+<TextBlock 5 w:46 h:3>
+Sembra che il Kaiser
+abbia piani diversi e
+non sta a me saperli.<Close><End of Block>
+<TextBlock 6 w:50 h:3>
+A cosa starà pensando il
+Kaiser? Ora è il solo
+momento di attaccare Aveh.<Close><End of Block>
+<TextBlock 7 w:42 h:2>
+Il tuo Gear è davvero
+meraviglioso!
+Come si chiama?<Close><End of Block>
+<TextBlock 8 w:42 h:3>
+Nell'hangar ho visto il
+tuo incredibile Gear.
+Come si chiama?<Close><End of Block>
+<TextBlock 9 w:52 h:4>
+Sarei pronto a battermi
+anche se fossi l'ultimo
+uomo rimasto…<New>
+Ma… chi farebbe
+tutto il lavoro?<Close><End of Block>
+<TextBlock 10 w:50 h:2>
+Sarei pronto a battermi
+anche se fossi l'ultimo
+uomo rimasto.<Close><End of Block>
+<TextBlock 11 w:52 h:4>
+Chi avrebbe mai pensato
+che il pirata che si
+batteva contro Aveh fosse
+il Principe Fatima…?<Close><End of Block>
+<TextBlock 12 w:52 h:4>
+Aveh e alcuni pirati
+si sono scontrati al
+confine. Là sta accadendo
+qualcosa di serio.<Close><End of Block>
+<TextBlock 13 w:52 h:4>
+Oggi sono incaricato
+della manutenzione dei
+Gear all'hangar.<New>
+Ma ci sono solo Gear
+da combattimento.<New>
+Molte persone vanno
+e vengono senza
+autorizzazione. Si
+fanno buoni affari.<Close><End of Block>
+<TextBlock 14 w:50 h:3>
+In definitiva, l'unico
+modo di far terminare
+questa guerra è di far
+fuori Solaris.<Close><End of Block>
+<TextBlock 15 w:50 h:3>
+In questo momento, Aveh
+è governata da un governo
+fantoccio.<New>
+Ramsus, un ufficiale di
+Geburah, è colui che ha
+in mano le redini del
+potere.<Close><Close><End of Block>

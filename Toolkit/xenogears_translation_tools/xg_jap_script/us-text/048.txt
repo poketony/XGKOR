@@ -1,0 +1,26 @@
+#### 1 ####
+Fei
+"W, what are they!?{wait:0A}
+Are they Aveh Gears?{enter}
+{wait:0A}...{wait:0A}
+I'm worried about doc{wait:0A}..."
+
+#### 2 ####
+Fei
+"Guess I may as well
+follow those Gears."
+
+#### 3 ####
+Fei
+"A different unit?
+Are they going toward the
+direction the saucer went?{enter}
+I'd better follow them
+so as not to lose sight
+of them..."
+
+#### 4 ####
+Leave the desert?
+    Yes
+    No
+

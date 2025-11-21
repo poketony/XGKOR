@@ -1,0 +1,55 @@
+<TextBlock 1 w:24 h:2>
+Elly
+"Questo è…"<Close><End of Block>
+<TextBlock 2 w:24 h:2>
+Elly
+"Questo è…"<Close><End of Block>
+<TextBlock 3 w:40 h:2>
+Billy
+"Il Contenitore
+dell'Anima…"<Close><End of Block>
+<TextBlock 4 w:40 h:2>
+Billy
+"Il Contenitore
+dell'Anima…"<Close><End of Block>
+<TextBlock 5 w:40 h:3>
+Billy
+"Chi c'è?
+Chi mi sta
+chiamando?<New>
+Non lo so.
+Non lo so…<New>
+Cosa dovrei fare…?
+Stavi aspettando?
+Stavi aspettando me…?"<Close><End of Block>
+<TextBlock 6 w:40 h:3>
+Billy
+"Chi c'è?
+Chi mi sta
+chiamando?<New>
+Non lo so.
+Non lo so…<New>
+Cosa dovrei fare…?
+Stavi aspettando?
+Stavi aspettando me…?"<Close><End of Block>
+<TextBlock 7 w:16 h:2>
+Fei
+"Billy?"<Close><End of Block>
+<TextBlock 8 w:36 h:4>
+Billy
+"L'avete visto?
+Sembra il…
+mio Gear…?"<Close><End of Block>
+<TextBlock 9 w:36 h:4>
+Billy
+"L'avete visto?
+Sembra il…
+mio Gear…?"<Close><End of Block>
+<TextBlock 10 w:46 h:3>
+Fei
+"Forse è successo
+qualcosa al tuo
+Gear.<New>
+Usciamo di qui e
+vediamo se è
+cambiato qualcosa."<Close><Close><End of Block>

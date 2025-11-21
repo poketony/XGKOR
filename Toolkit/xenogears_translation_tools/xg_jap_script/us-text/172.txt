@@ -1,0 +1,114 @@
+#### 1 ####
+Fei
+"...Those little
+punks!!"
+
+#### 2 ####
+!!{clear:1E}
+
+#### 3 ####
+Citan
+"Again...!{wait:0A}
+Fei, hurry,
+jump off!!"
+
+#### 4 ####
+Citan
+"Whew, that was a close
+one! We almost got thrown
+off."
+
+#### 5 ####
+Fei
+"It's all because of
+those mischievous punks!{enter}
+When the old man's gone
+they always do this.
+Oh well."
+
+#### 6 ####
+Citan
+"Kind of odd hearing that
+from a mischievous 'you
+know who'."
+
+#### 7 ####
+Fei
+"Huh? You say 
+something{wait:0A}?"
+
+#### 8 ####
+Citan
+"Well, anyway we should
+be alright if we take
+this all the way.{enter}
+As for the mission,
+so far so good."
+
+#### 9 ####
+Fei
+"What's that sound?"
+
+#### 10 ####
+Citan
+"The connector...!{wait:0A}
+Fei, hurry up
+and jump off!!"
+
+#### 11 ####
+Citan
+"This train is almost
+falling apart.{wait:0A}
+That was another close one."
+
+#### 12 ####
+Fei
+"What if it derails
+before we get to
+the Gear dock..."
+
+#### 13 ####
+!!
+
+#### 14 ####
+Citan
+"This car is unstable too.{wait:0A}
+Let us get to the front!!"
+
+#### 15 ####
+Citan
+"One disaster after
+another..."
+
+#### 16 ####
+Fei
+"Pretty unreliable
+train."
+
+#### 17 ####
+Citan
+"The entrance to the
+ventilation shaft
+that leads to the Gear dock{enter}
+should be
+coming up soon."
+
+#### 18 ####
+Citan
+"Here we go!!"{clear:5A}
+
+#### 19 ####
+There it goes...{clear:5A}
+
+#### 20 ####
+There it goes...{clear:5A}
+
+#### 21 ####
+Uuuaaaaaaaaaaaaaa {wait:0A}
+   aaaaaaaaaaaa {wait:0A}
+     aaaaaaaa {wait:0A}
+       aah! {clear:1E}
+
+#### 22 ####
+
+

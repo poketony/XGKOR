@@ -1,0 +1,138 @@
+#### 1 ####
+Fei!!{clear:1E}
+
+#### 2 ####
+Elly
+"...!!"
+
+#### 3 ####
+Bart
+"It's dangerous to move in
+a big group.{wait:0A}
+We'll take separate routes."
+
+#### 4 ####
+Citan
+"Right."
+
+#### 5 ####
+Hammer
+"Don't worry, I'm good at 
+gathering info!"
+
+#### 6 ####
+Rico
+"You just like to watch 
+others' misery!!{wait:0A}
+You'll just get in the way."
+
+#### 7 ####
+Hammer
+"Forgive me...!!{wait:0A}
+Sorry!!"
+
+#### 8 ####
+Citan
+"Maria..."
+
+#### 9 ####
+Maria
+"Yes,{wait:0A}
+what is it?"
+
+#### 10 ####
+Citan
+"The disorder {name:13:ゼプツェン}
+caused when breaking the
+gate has almost cleared up.{enter}
+You and everyone else
+must leave before the
+enemy detection system
+activates again.{enter}
+We will take care of
+the rest."
+
+#### 11 ####
+Maria
+"Okay, {wait:0A}
+be careful."
+
+#### 12 ####
+Fei
+"Seems like the world's
+upside down, it's creepy."
+
+#### 13 ####
+Elly
+"Solaris' gravity is the
+opposite that of the land.{enter}
+We don't have time to
+explain, you'll get used
+to it.{enter}
+It's uncomfortable for us
+on the surface at first."
+
+#### 14 ####
+Fei
+"Hey, what's this?"
+
+#### 15 ####
+Elly
+"It looks like some kind
+of storage or distribution
+center. I'm not sure but...{enter}
+...it's probably used to
+ship off extra supplies,
+materials and fuel
+gathered from the surface.{enter}
+These are the technology
+and products you land
+dwellers receive from
+the 'Ethos'..."
+
+#### 16 ####
+Citan
+"For now, shall we gather 
+some information..."
+
+#### 17 ####
+Fei
+"Is this a container from
+the transport system Elly
+was talking about?"
+
+#### 18 ####
+Elly
+"Well...I'm not sure.{wait:0A} 
+But I think I've seen 
+this before..."
+
+#### 19 ####
+Fei
+"Shall we...{wait:05} 
+...{wait:0A}take a look?"
+
+#### 20 ####
+Elly
+"What are you saying? 
+We don't have time
+for that.{enter}
+We have to get out
+of here quickly."
+
+#### 21 ####
+Fei
+"Didn't you say we had 
+to gather information?{enter}
+We could probably sneak 
+in using this thing."
+
+#### 22 ####
+Wha!!{clear:1E}
+
+#### 23 ####
+Fei!!{clear:14}
+
+#### 24 ####
+
+

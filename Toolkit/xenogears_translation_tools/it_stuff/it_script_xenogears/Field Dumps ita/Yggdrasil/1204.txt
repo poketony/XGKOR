@@ -1,0 +1,422 @@
+<TextBlock 1 w:50 h:3>
+Argh… Se solo non fossi
+ferito, anch'io potrei…!<Close><End of Block>
+<TextBlock 2 w:50 h:3>
+Argh… Se solo non fossi
+ferito, anch'io potrei…!<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+Oh sììììì!
+Daremo tutto ciò che
+abbiamo per il Padroncino!!<Close><End of Block>
+<TextBlock 4 w:10 h:1>
+Ah!<Opcode 2 15><Close><End of Block>
+<TextBlock 5 w:54 h:4>
+Forse l'hai già capito,
+ma stavo facendo finta
+di essere malato…<New>
+Ma quando ho visto <Chu-Chu>
+che s'impegnava così tanto,
+mi sono vergognato. Da ora 
+in avanti, sarò più 
+coraggioso!<Close><End of Block>
+<TextBlock 6 w:42 h:2>
+Se non avessi questa
+ferita…<Close><End of Block>
+<TextBlock 7 w:44 h:3>
+Spedizione nella nave
+fantasma?<Delay 10> Se non
+avessi questa ferita,
+io…<Close><End of Block>
+<TextBlock 8 w:48 h:3>
+Fei sembra star bene,
+eh.<Delay 10> Se non avessi
+questa ferita…<Close><End of Block>
+<TextBlock 9 w:42 h:3>
+Fei ha un pessimo
+aspetto…<Delay 10> Se non
+avessi questa
+ferita, io…<Close><End of Block>
+<TextBlock 10 w:22 h:2>
+Elly,<Delay 10>
+perché…?<Close><End of Block>
+<TextBlock 11 w:38 h:2>
+C'era<Delay 10> qualcosa che
+non andava con Elly.<Close><End of Block>
+<TextBlock 12 w:50 h:3>
+Sembra essere un posto
+divertente.<Delay 10> Se solo
+non avessi questa ferita…<Close><End of Block>
+<TextBlock 13 w:52 h:4>
+Oh, Padroncino!<Delay 5>
+Non sto cercando di
+nascondermi.<Delay 10> Se solo
+non avessi questa ferita…<Close><End of Block>
+<TextBlock 14 w:46 h:3>
+Tu sei l'ex-Campione?<Delay 10>
+Se non avessi questa
+ferita, anch'io…<Close><End of Block>
+<TextBlock 15 w:52 h:4>
+Se il Padroncino domani
+diventerà il re<Delay 5>…<Delay 10> cosa
+ci accadrà? Sono stanco
+di essere un soldato.<New>
+Voglio aprire un negozio
+o qualcos'altro<Delay 5>…<Delay 10> Se
+non avessi questa ferita<Delay 10>…<Close><End of Block>
+<TextBlock 16 w:42 h:4>
+Nisan, eh…<Delay 10>
+È stato così tanto…<Delay 10>
+Se non avessi questa
+ferita, io…<Close><End of Block>
+<TextBlock 17 w:44 h:4>
+Hai vinto il torneo
+di arti marziali?  
+Ben fatto!<Delay 10> Se non
+avessi questa ferita…<Close><End of Block>
+<TextBlock 18 w:46 h:3>
+Siete stati grandi.
+Se solo non avessi
+questa ferita…<Close><End of Block>
+<TextBlock 19 w:44 h:4>
+Mi stai chiedendo se
+questa è una ferita
+di guerra?<Delay 10> No, sono
+caduto dal letto nel
+dormitorio qui accanto.<Delay 10>
+Che cosa patetica…<Close><End of Block>
+<TextBlock 20 w:52 h:3>
+Combatti per il tuo cuore
+e vai a farti ferire
+il tuo cuore!<Close><End of Block>
+<TextBlock 21 w:50 h:2>
+<Delay 5>… Cosa?<Delay 10> Dopo.<Delay 10>
+<Delay 5>… Soffro di vertigini.<Close><End of Block>
+<TextBlock 22 w:50 h:4>
+Ascolta, finora avete solo
+controllato il vostro peso.
+Vuoi che ti controlli anche
+dentro, tanto per cambiare?<New>
+L'individuazione precoce e
+una veloce prevenzione sono
+importanti, sai.<Close><End of Block>
+<TextBlock 23 w:50 h:2>
+I fantasmi non si
+feriscono. Non è una
+cosa divertente, vero?<Close><End of Block>
+<TextBlock 24 w:48 h:2>
+Fei…<Delay 10> Stai bene, vero?<New>
+Oh, sono felicissima! È
+stupendo essere infermiera!<Close><End of Block>
+<TextBlock 25 w:28 h:2>
+Fei…<Delay 10>
+sta bene?<Close><End of Block>
+<TextBlock 26 w:30 h:2>
+Elly…
+sta bene?<Close><End of Block>
+<TextBlock 27 w:40 h:2>
+Elly stava dormendo
+fino a un minuto fa…<Delay 10><Close><End of Block>
+<TextBlock 28 w:48 h:2>
+Ora che me lo dici, mi
+chiedo dove sia andata.<Close><End of Block>
+<TextBlock 29 w:54 h:5>
+Perché?<Delay 10> Perché?<Delay 10> Perché
+tutti stanno andando a vedere
+il dottore sul Tammuz, mentre
+una dottoressa carina e capace
+come me resta qui?<New>
+Forse… dovrei operare
+i pesci, invece. Sob…<Close><End of Block>
+<TextBlock 30 w:48 h:4>
+Quando ti ferisci, non
+startene lì impalato!<Delay 10>
+Vieni qui subito!.<Close><End of Block>
+<TextBlock 31 w:44 h:3>
+Oh, Padroncino!<Delay 10>
+Potreste aumentare le
+parcelle mediche, per
+favore!?<Close><End of Block>
+<TextBlock 32 w:42 h:3>
+Che cliente interessante!<Delay 10>
+Sei un ex-Campione, vero??<New>
+Perciò hai sempre delle
+ferite fresche, non è
+è così? Uhmm…<Close><End of Block>
+<TextBlock 33 w:46 h:4>
+Finalmente, domani è il giorno
+del<Delay 5> fiume di sangue,<Delay 5> uhm,<Delay 5>
+della carne fatta a pezzi<Delay 5>…<New>
+No,<Delay 5> voglio dire,<Delay 5> del sangue
+ribollente,<Delay 5> della battaglia
+della carne-danzante per
+riconquistare la capitale,<Delay 5>
+giusto?<Close><End of Block>
+<TextBlock 34 w:50 h:4>
+Sì!! Finalmente posso
+comprare rifornimenti
+a Nisan.<Delay 10> Ho fatto
+così tanti errori che
+ho esaurito gli aghi…<Close><End of Block>
+<TextBlock 35 w:48 h:3>
+Ho sentito che hai vinto
+il torneo di arti marziali.<New>
+È stupendo!<Delay 10>
+A proposito…<Delay 15> ti
+sei fatto male?<New>
+Oh, no?<Delay 5> Che
+peccato…<Delay 10> Voglio
+dire…<Delay 5> che bello!<Close><End of Block>
+<TextBlock 36 w:52 h:3>
+Avete fatto un grande lavoro!
+A proposito…<Delay 10> vi
+siete fatti male?<New>
+Oh, no?<Delay 10> Che
+peccato…<Delay 10> Voglio
+dire<Delay 5>…<Delay 5> che bello!<New>
+Ma se vi feriste, fatemelo
+sapere subito. Vi curerò!<Close><End of Block>
+<TextBlock 37 w:50 h:2>
+Piacere di conoscervi!
+Sono l'infermiera dell'Yggdrasil.<New>
+Farò del mio meglio. Perciò
+ritornate, ogni tanto!!<Close><End of Block>
+<TextBlock 38 w:52 h:2>
+(Eh, eh, eh. Ho fatto
+un'ottima impressione!)<Close><End of Block>
+<TextBlock 39 w:50 h:5>
+<Opcode 1 255>Chi vuoi pesare?
+    <Perso1>
+    <Perso2>
+    <Perso3>
+    Nessuno<Close><End of Block>
+<TextBlock 40 w:32 h:1>
+Non c'è nessuno lì.<Close><End of Block>
+<TextBlock 41 w:52 h:1>
+Oh, per favore, non c'è
+nessuno lì.<Close><End of Block>
+<TextBlock 42 w:48 h:2>
+Umm… sei sottopeso.<Delay 10>
+Devi mangiare di più.<Close><End of Block>
+<TextBlock 43 w:30 h:2>
+Bene!!<Delay 10>
+Sei al tuo peso forma.<Close><End of Block>
+<TextBlock 44 w:38 h:2>
+Sei molto in carne.<Delay 10>
+Limita i dolci!<Close><End of Block>
+<TextBlock 45 w:50 h:3>
+Oh, cielo!<Delay 10>
+Allora questa è ciò
+che chiamano<Delay 10>…
+Dovresti farci molta
+attenzione!<Close><End of Block>
+<TextBlock 46 w:48 h:4>
+Shitan
+"Per ora possiamo usare
+questa macchina, ma solo
+per un uso temporaneo."<Close><End of Block>
+<TextBlock 47 w:34 h:3>
+Shitan
+"È riuscita ad
+alzarsi un attimo
+fa."<Close><End of Block>
+<TextBlock 48 w:42 h:4>
+Elly
+"Sono un po' preoccupata
+per Fei…<Delay 10> ma vi aiuterò
+sempre!"<Close><End of Block>
+<TextBlock 49 w:32 h:4>
+Elly
+"Io…<Delay 10>
+Come diamine sono
+finita qui?"<Close><End of Block>
+<TextBlock 50 w:18 h:2>
+Fei
+"Elly…"<Close><End of Block>
+<TextBlock 51 w:8 h:1>
+Sì!<Close><End of Block>
+<TextBlock 52 w:18 h:1>
+Eh, no…<Opcode 2 30><Close><End of Block>
+<TextBlock 53 w:52 h:4>
+Sigurd
+"Padroncino, il radar ha
+rilevato un Gear enorme!<Delay 10>
+Ci sta venendo incontro!"<Close><End of Block>
+<TextBlock 54 w:26 h:3>
+Bart
+"Cosa!?<Delay 10>
+Ancora loro!?"<Close><End of Block>
+<TextBlock 55 w:54 h:2>
+Sigurd
+"Dalla forma
+sembra proprio…!"<Close><End of Block>
+<TextBlock 56 w:52 h:4>
+Bart
+"Bene!<New>
+Devo molto al Tammuz.
+Non posso lasciare che
+diventi un campo di
+battaglia.<New>
+Lanciate immediatamente
+l'Yggdrasil!<Delay 10>
+Noi andremo nei nostri
+Gear!"<Close><End of Block>
+<TextBlock 57 w:20 h:1>
+Sissignore!!<Opcode 2 30><Close><End of Block>
+<TextBlock 58 w:42 h:3>
+Bart
+"Fei,<Delay 10> Shitan,<Delay 10>
+conto su di voi!"<Close><End of Block>
+<TextBlock 59 w:12 h:1>
+Fermo!!<Opcode 2 20><Close><End of Block>
+<TextBlock 60 w:46 h:3>
+Shitan
+"Elly dovrebbe riposare
+qui.<Delay 10> Noi…"<Close><End of Block>
+<TextBlock 61 w:52 h:4>
+Elly
+"Fermi!!<Delay 10>
+Tutto questo è successo
+perché sono venuta qui…<New>
+È tutta colpa mia!<Delay 10>
+Quindi…<Delay 10><New>
+Quindi fate venire
+anche me!"<Close><End of Block>
+<TextBlock 62 w:16 h:1>
+Elly…?<Close><End of Block>
+<TextBlock 63 w:46 h:3>
+Bart
+"Ma cosa diavolo stai
+dicendo!?<New>
+Non ricordi cosa hai
+fatto prima…!?"<Close><End of Block>
+<TextBlock 64 w:20 h:1>
+Giovane!<Opcode 2 30><Close><End of Block>
+<TextBlock 65 w:46 h:3>
+Shitan
+"Elly,<Delay 10> la nostra fiducia
+nei tuoi confronti dipende
+da questa battaglia.<New>
+Per il tuo onore, dovresti
+combattere!"<Close><End of Block>
+<TextBlock 66 w:22 h:3>
+Bart
+"Ma Shitan!<Delay 10>
+Io…!"<Close><End of Block>
+<TextBlock 67 w:32 h:4>
+Shitan
+"Giovane,<Delay 10> abbi
+fiducia in Elly
+questa volta."<Close><End of Block>
+<TextBlock 68 w:52 h:4>
+Shitan
+"Elly,<Delay 10> se tenterai di fare
+qualcosa di sospetto, sarò
+io stesso ad ucciderti.<New>
+È chiara la cosa?"<Close><End of Block>
+<TextBlock 69 w:8 h:1>
+Sì.<Opcode 2 15><Close><End of Block>
+<TextBlock 70 w:46 h:3>
+Shitan
+"Va bene anche
+per te, giovane?"<Close><End of Block>
+<TextBlock 71 w:38 h:4>
+Bart
+"…<Delay 15> Va bene.
+<Delay 5>Fei,<Delay 5> Elly,<Delay 5>
+andiamo!!"<Close><End of Block>
+<TextBlock 72 w:12 h:1>
+Sì!!<Close><End of Block>
+<TextBlock 73 w:6 h:1>
+…<Close><End of Block>
+<TextBlock 74 w:38 h:2>
+Elly
+"Fei, scusami…"<Close><End of Block>
+<TextBlock 75 w:52 h:4>
+Shitan
+"Kahr<Delay 5>…<Delay 10>
+ti prego, ascoltami!<New>
+Di questi tempi, dobbiamo
+dimenticare di essere
+amici o nemici.<New>
+Dobbiamo aiutarci l'un
+l'altro, a dispetto del
+resto…<New>
+In questa situazione
+abbiamo bisogno del
+tuo aiuto!"<Close><End of Block>
+<TextBlock 76 w:44 h:3>
+Ramsus
+"… Io sono…    
+solo un…
+rifiuto…<New>
+… uno scarto…"<Close><End of Block>
+<TextBlock 77 w:48 h:4>
+Shitan
+"Smetti di considerarti
+inutile, e ritorna come
+eri prima, dannazione!!"<Close><End of Block>
+<TextBlock 78 w:32 h:3>
+Sigurd
+"Hyuga!?<Delay 10>
+Cosa stai<Delay 5>…"<Close><End of Block>
+<TextBlock 79 w:54 h:3>
+Shitan
+"Rifiuto<Delay 5>…
+Scarto<Delay 5>…<New>
+Puoi compatirti quanto e
+chiamarti come vuoi, ma
+che mi dici di loro!?"<Close><End of Block>
+<TextBlock 80 w:52 h:4>
+Shitan
+"Anche queste donne sono
+stupide, rifiuti o scarti
+perché credono in te?<New>
+La ragione per la quale
+aiutasti queste ragazze,
+che non avevano niente e
+nessuno cui fare ritorno…<New>
+… potrebbe non essere
+stata così nobile…<New>
+Tuttavia, malgrado ciò,
+sono rimaste con te.<Delay 10>
+E sai perché?"<Close><End of Block>
+<TextBlock 81 w:50 h:4>
+Shitan
+"Perché ti conoscono
+meglio di chiunque altro.<New>
+Loro conoscono la vera
+bontà che esiste<Delay 10> dentro
+il tuo cuore.<New>
+E lo sanno perché
+vogliono essere amate.<Delay 10>
+Per questo non ti
+abbandoneranno.<New>
+Kahr<Delay 5>…<Delay 10>
+Non farle diventare i
+rifiuti o gli scarti di
+cui vai parlando…"<Close><End of Block>
+<TextBlock 82 w:28 h:2>
+Dominia
+"Comandante<Delay 5>…"<Close><End of Block>
+<TextBlock 83 w:30 h:2>
+Ramsus
+"Voi tutte<Delay 5>…"<Close><End of Block>
+<TextBlock 84 w:38 h:4>
+Shitan
+"È inutile a dirsi
+che tu non sei né un
+rifiuto, né uno scarto…<New>
+Noi lo sappiamo meglio
+di qualsiasi altro."<Close><End of Block>
+<TextBlock 85 w:52 h:4>
+Ramsus
+"Io<Delay 5>…<Delay 10> non avevo capito<Delay 5>
+che ciò che stavo cercando<Delay 5>
+…<Delay 5> mi era così vicino<Delay 5>…<New>
+Scusatemi<Delay 5>…<Delay 5> per<Delay 5>…<Delay 10>
+non<Delay 5> averlo<Delay 5> capito<Delay 5> prima!"<Close><End of Block>
+<TextBlock 86 w:40 h:2>
+Dominia
+"Oh, Comandante…!!"<Close><End of Block>
+<TextBlock 87 w:0 h:1>
+<Close><End of Block>

@@ -1,0 +1,36 @@
+#### 1 ####
+Wa-a-a-a-a!!{clear:96}
+
+#### 2 ####
+Fei
+"Does this desert ever end?{wait:0F}
+It'll get dark soon, so I
+better hurry up and..."
+
+#### 3 ####
+Fei
+"What's going on here?
+Gears, a flying saucer...
+and now these guys...{enter}
+I hope doc's alright!"
+
+#### 4 ####
+Fei
+"...{wait:3C}
+Eeeyah!"{clear:1E}
+
+#### 5 ####
+Fei
+"Errh, sorry about that!{wait:0A}
+Just let me borrow this
+for a while!"
+
+#### 6 ####
+?{clear:64}
+
+#### 7 ####
+ Hey, wa¡«it! 
+
+#### 8 ####
+ Hey, wa¡«it! 
+

@@ -1,0 +1,101 @@
+#### 1 ####
+If you want to do some
+thinking quietly, turn
+the light down by pushing
+the box's switch located
+in the back.
+
+#### 2 ####
+"Broken mirror,
+a million shades of light,
+The old echo fades away.{enter}
+But just you and I
+can find 'the answer'
+someday..."
+
+#### 3 ####
+'A distant promise'...{wait:14}
+A poem composed long
+ago...{enter}
+Can you find 'the answer'
+which supposedly exists
+somewhere...?
+
+#### 4 ####
+We're all part of a larger
+world, as one of its
+countless fragments.{enter}
+All their shapes and
+colors are unique...{wait:14}
+It's nice yet sad...
+
+#### 5 ####
+Long time ago, one of the
+three sages said
+something like that.
+
+#### 6 ####
+A part of you remains at
+a place you love.{wait:14}
+A fragment of you calls
+for you to return.{enter}
+That is why one returns
+to the place he loves
+again and again.
+
+#### 7 ####
+A part of you may be
+calling you to the place
+you loved.
+
+#### 8 ####
+Look at these birds.{wait:14}
+They have forgotten how
+to fly during the long
+history of evolution.
+
+#### 9 ####
+We humans are the same.{wait:14}
+We threw away our broken
+wings, and forgot how to
+fly...{enter}
+But I doubt it will end
+like this.{wait:14} We'll remember
+the sky again, someday.{enter}
+Running into the deep,
+vast blue sky forever...{wait:14}
+The day will come again.
+
+#### 10 ####
+Don't you think so?{wait:0F}
+
+#### 11 ####
+Oh, it's you guys?{wait:14}
+Sorry, but although the
+"Deep Sea Bros" is open,
+we aren't doing any
+business for a while.
+
+#### 12 ####
+Hello and welcome...{wait:14}
+As you can see, the "Deep
+Sea Bros" is open...it's
+just that we aren't doing
+any business right now.
+
+#### 13 ####
+Insert 20G.{wait:14}
+    Okay
+    Don't
+
+#### 14 ####
+Not enough money.
+
+#### 15 ####
+{fast:FF}    The Valley of the Wind
+    A Distant Promise
+    Lost... Screeching Shards
+    Our Village is No.1
+    We Wounded Follow the Light
+    The strong seek dreams
+

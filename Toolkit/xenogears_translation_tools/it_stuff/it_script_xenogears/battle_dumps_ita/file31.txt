@@ -1,0 +1,60 @@
+<TextBlock 1 w:14 h:3>
+Elly
+"!!
+Ugh…"<Close><End of Block>
+<TextBlock 2 w:30 h:4>
+Elly
+"Guh… Fei…
+Io… non lascerò
+la presa!"<Close><End of Block>
+<TextBlock 3 w:24 h:2>
+Elly
+"Aaahhh…<New>
+Fei!
+Ti prego!!"<Close><End of Block>
+<TextBlock 4 w:18 h:2>
+Elly
+"…<Delay 30> Fei."<Close><End of Block>
+<TextBlock 5 w:44 h:3>
+Elly
+"… Sì.<Delay 60><New>
+Se questo è quello che
+ti soddisfa, allora
+uccidimi.<Delay 30> Ora…"<Close><End of Block>
+<TextBlock 6 w:34 h:4>
+Elly
+"Fei…
+Ti prego, torna
+il vero Fei!!"<Close><End of Block>
+<TextBlock 7 w:28 h:4>
+Id
+"Eh… tu.
+Sei venuta a
+morire, eh?"<Close><End of Block>
+<TextBlock 8 w:24 h:4>
+Id
+"Umph…<Delay 30>
+Brava troia…<Delay 30>
+Ora muori!"<Close><End of Block>
+<TextBlock 9 w:20 h:3>
+Id
+"!?<Delay 30>
+Lasciami…"<Close><End of Block>
+<TextBlock 10 w:20 h:3>
+Id
+"Errgaah!!<Delay 30>
+C… cosa!?"<Close><End of Block>
+<TextBlock 11 w:32 h:4>
+Id
+"Tch…<Delay 60>
+…<Delay 30> Questa donna<Delay 30>…
+Lo sapevo<Delay 30>…"<Close><End of Block>
+<TextBlock 12 w:36 h:4>
+Id
+"…<Delay 30> Mer… da…<Delay 30>
+Si sta<Delay 30>…<Delay 30>
+sveglian<Delay 30>… do<Delay 30>…"<Close><End of Block>
+<TextBlock 13 w:28 h:3>
+Fei
+"…<Delay 30> Uuuhhh<Delay 30>…<Delay 30>
+El<Delay 30>…<Delay 30> ly<Delay 30>…"<Close><Close><Close><Close><Close><Close><End of Block>

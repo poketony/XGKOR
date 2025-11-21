@@ -1,0 +1,609 @@
+#### 1 ####
+Good day. 
+I'm the village consultant.{wait:14}
+(But to tell you the truth,
+the village chief knows far
+more than I do...{enter}
+However, the chief is an
+awfully busy person, so I
+have been placed in charge
+of answering some of the
+more mundane questions.)
+
+#### 2 ####
+As a special for this week,
+we are lecturing on the
+techniques of "Marshal Art's"
+self defense.{wait:14} Wouldn't you
+like to learn about it?
+
+#### 3 ####
+What can I do for you today?
+
+#### 4 ####
+    {fast:FF}Explain battle commands
+    Explain 'Defense' option
+    Explain 'Action Points'
+    Explain 'Attack' option
+    Explain 'Combo' option
+    Nothing now, thanks. 
+
+#### 5 ####
+Alright then.
+Allow me to explain the
+overall battle commands.
+
+#### 6 ####
+During battle, there are two
+groups of commands you can
+choose from.{wait:14} You can toggle
+between groups with the Left
+& Right Directional buttons.{enter}
+The first group includes the
+most frequently used Attack,
+Defense and Chi options.{wait:14}
+The second group contains
+special commands such as
+Combo, Escape and so forth.{enter}
+You fight by skillfully
+selecting from the two
+groups of options the
+action that best suits
+your circumstances.{enter}
+Normally, you should be
+able to get by with just
+the first group of options.{wait:14}
+The item option is in both
+sets, so you don't have to
+switch groups to use items.
+
+#### 7 ####
+...Well, that pretty much
+wraps it up.{wait:14} Please come
+back again whenever you
+need my services.
+
+#### 8 ####
+Oh I see, I see. You wish
+to inquire about Defense?{wait:14} 
+Well allow me to begin...
+
+#### 9 ####
+By choosing 'Defense', you
+can halve the damage your
+opponent does to you.{wait:14}
+Fighting is not just about
+being on the offensive - at
+times it pays to hold back.{enter}
+When you find yourself in a
+pinch, it may be a good idea
+to leave the attacking up to
+your other party members and
+simply choose to defend
+yourself from enemy attacks.
+
+#### 10 ####
+...Well, that's about it.{wait:14}
+Oh, and if you have any
+other questions, please
+feel free to stop by any
+time now, you hear!?
+
+#### 11 ####
+Aha! I knew you were going
+to ask me about them! {wait:14}
+Well then, allow me to
+explain about Action Points.
+
+#### 12 ####
+There are three kinds of
+attacks - Weak, Strong
+and Fierce - each using
+up a set amount of Action
+Points when performed.{enter}
+When all your Action Points
+are used up, your turn will
+end. Conversely, as long as
+you have Action Points left,
+you may continue to attack.{enter}
+In other words, Action
+Points represent how many
+attacks you can perform in
+one turn of combat.{enter}
+In the beginning, you
+will only start out with
+3 Action Points. However,
+as you increase in level,
+your Action Points will
+increase accordingly.{enter}
+The secret in putting up a
+good fight lies in how you
+utilize your Action Points
+- what strengths of attacks
+you use, and in what order
+you dish them out in...!
+
+#### 13 ####
+...Well, that's it in a
+nutshell.{wait:14} Oh, and don't
+hesitate to ask if you
+have any other queries!
+
+#### 14 ####
+My, you are bold!{wait:14}
+Okay then, allow me to
+explain to you a little
+about attacking.
+
+#### 15 ####
+I am sure that you already
+know that there are 3 types
+of Attacks - Weak, Strong
+and Fierce - each of which
+uses up a different amount
+of Action Points.{enter}
+The Fierce Attack (¡Á button)
+uses up 3 points in a single
+blow. Hence, if you have only
+3 Attack Points, all will be
+used up in one Fierce Attack.{enter}
+The Weak Attack (¡÷ button)
+will use up 1 point per blow.
+So, with 3 Attack Points, you
+can attack the same enemy 3
+times in rapid succession.{enter}
+The Strong Attack (¡õ button)
+uses up 2 points per blow.{wait:14}
+So, if you've got 3 Attack
+Points, you can combine one
+Strong Attack with one Weak
+Attack to total 3 points.{enter}
+It is possible to continually
+press the ¡Á button to keep
+obliterating enemies in one
+Fierce blow, but you may find
+out that relying on this will
+have repercussions later.
+
+#### 16 ####
+...That's about all I have
+to say about that, really.{wait:14}
+Please come by again when
+you're in need of advice.
+
+#### 17 ####
+Ooooh! The 'Combo' option,
+eh?{wait:14} I didn't expect you to
+ask about it! Well then,
+allow me to explain the
+art of the 'Combo'.
+
+#### 18 ####
+When you use the Attack
+option, there are times
+when you do not use up
+all your Action Points.{enter}
+Such is the case when
+you eliminate an enemy
+by using only a fraction
+of your total points, or
+when you cancel midway
+through an attack turn.{enter}
+Action Points which don't
+get used are stored in an
+'AP Counter'. When this AP
+Counter stores up a certain
+amount of points, you will
+become able to use 'Combos'.{enter}
+'Combos' are rapid series of
+Deathblows let loose all at
+one time, and they tend to
+be rather ferocious. Any
+foe on the receiving end of
+a 'Combo' will likely die.{enter}
+At low experience levels,
+you probably won't be able
+to do much 'Combo' damage.{wait:14}
+But in time you will become
+able to do some devastating
+'Combo' maneuvers!
+
+#### 19 ####
+...And that's that!{wait:14}
+So, if you need any
+other advice, you
+know where I am!
+
+#### 20 ####
+I see. Well anyway...
+feel free to ask me
+anything, anytime!
+
+#### 21 ####
+Ahem!{wait:0A}
+AHEM!
+
+#### 22 ####
+So as not to bother other
+clients, please keep all
+personal conversations
+down to a minimum!
+
+#### 23 ####
+When it comes to fighting
+techniques, I tend to be
+extremely fussy!{wait:14}
+I've started to study up
+on them recently...
+
+#### 24 ####
+How 'bout it then?
+Wanna hear what I have to say?{wait:14}
+    {fast:FF}Explain 'Abilities'
+    Explain 'Deathblow Skills'
+    Explain 'Skill Levels'
+    Forget it!
+
+#### 25 ####
+Hmmm, you're pretty
+scholarly for a young'un.
+Good, now listen up!
+
+#### 26 ####
+That 'Guided Shot' ability
+you already have is one of
+the many mysterious powers
+related to Ether and Chi.{enter}
+Not everyone has the
+talent to use such powers.
+People are each born with
+differing innate abilities.{enter}
+If that individual does
+have the gift, increasing
+in level will give birth
+to more powerful abilities.
+
+#### 27 ####
+Hmm.{wait:14} I see a lot of
+potential in you.
+
+#### 28 ####
+Good, good.{wait:14}
+Ask away young'un!
+
+#### 29 ####
+As you already know, there
+are 3 strength levels for
+the ordinary Attack option:
+Weak   Attack (¡÷ button),
+Strong Attack (¡õ button) and
+Fierce Attack (¡Á button).{enter}
+'Deathblow Skills' are special
+chains of Attacks that first
+use some Weak or Strong blows
+to knock your foe off balance
+and then end with a Fierce
+blow to do some major damage!{enter}
+But first you must master
+the use of Weak, Strong
+and Fierce Attacks in order
+to become able to learn
+such 'Deathblow Skills'.{enter}
+To master these Attacks, you
+should keep trying to do, say,
+four Weak blows in a row, or
+two Strong blows, or even a
+Fierce blow accompanied by
+another type of blow.{enter}
+In other words, the way to
+learn new 'Deathblow Skills'
+is through the frequent use
+of various combinations of
+the three basic Attacks!
+
+#### 30 ####
+So, whatcha' think?
+Doesn't it just make ya want
+to go out there now and start
+learning those 'Deathblow
+Skills' as soon as possible!?
+
+#### 31 ####
+Alright, here we go!{wait:14}
+More about Deathblows
+and their relation to
+Experience Levels...!
+
+#### 32 ####
+If you want to see how
+close you are to learning
+certain 'Deathblow Skills',
+go to the Menu Screen and
+then to the Status Screen.{enter}
+From the Status Screen you
+can select 'Skills' to view
+a list of your Deathblows,
+with meters showing the
+percentage learned so far.{enter}
+If one of the Deathblows
+just doesn't seem to be
+increasing, then you're
+probably using the wrong
+types of Attack buttons.{enter}
+In that case, it might be
+best to try those Attacks
+you normally haven't been
+using. So experiment with
+different attack patterns!{enter}
+But remember this...!
+Some 'Deathblow Skills'
+cannot be obtained until
+you have reached a certain
+level of experience!{enter}
+If you have not attained
+that experience level, then
+it won't matter even if the
+Deathblow's meter has
+reached 100%...!{enter}
+In this case, you will have
+to wait until your level of
+experience increases before
+you will be able to learn
+to use that Deathblow!
+
+#### 33 ####
+... And that's about it.{wait:14}
+If you keep up in your
+studies, you're bound
+to go far!
+
+#### 34 ####
+Here you go...{wait:14}
+This is an allowance for
+being such an enthusiastic
+scholar!{wait:14} Hah hah hah!
+
+#### 35 ####
+Received 80G!
+
+#### 36 ####
+Buy some pencils and
+books with that, OK!?{wait:14} 
+Stick with it, kid!
+
+#### 37 ####
+Oh well... You can never
+be too old to study.{wait:14} There
+are mountains of things to
+learn out there, young'un!
+
+#### 38 ####
+Don't tell me!{wait:14}
+It's about the
+'Memory Cube',
+right?
+
+#### 39 ####
+Oh good, good!{wait:14}
+You're lucky, you came
+just at the right time...{enter}
+If it's about the 'Memory Cube',
+then don't hesitate to ask me.
+No one knows better than I do!
+
+#### 40 ####
+How about it then?
+Want to hear me out?{wait:14}
+    Yeah, okay!
+    No, not really!
+
+#### 41 ####
+Alright! Good show!
+That's the spirit!
+You're pretty smart
+for an artist.{enter}
+Now, open up those
+ears and carve every
+word I say into that
+tiny brain of yours!
+
+#### 42 ####
+I'll begin by explaining
+how to save your adventure.{enter}
+Normally, you can open up
+the Menu Screen by pressing
+the ¡õ button.{wait:14} From there
+you can select the 'File'
+option, and simply follow
+the directions to save.{enter}
+However, when you are in a
+town or a dungeon, you can
+only save at designated
+Memory Cube areas.{wait:14} Without
+a Cube you cannot save!
+
+#### 43 ####
+{fast:FF}To make a long story short...
+This bobbing, spinning thing is
+a 'Memory Cube', right!? You
+must be cool, calm and collected
+to superimpose yourself with it
+and boldly open the Menu Screen.
+If you accomplish that you will
+be able to save successfully.
+You should always save without
+hesitation whenever you find
+one of these in the dungeon.
+In life, you can never tell
+what may lie around the corner! {clear:8C}
+
+#### 44 ####
+So, what do you think?
+You understood everything
+perfectly, then!?{wait:14}
+Okay, well I gotta...{enter}
+Wha?
+You didn't understand?{wait:14}
+Aww gee...{wait:14} Well alright,
+let me explain once more!
+
+#### 45 ####
+Alright, this time, make
+sure you're listening then!{wait:14}
+This spinning and bobbing
+thing here is the Memory
+Cube I just spoke about.{enter}
+Fearlessly stand inside of
+the Cube's area and calmly
+and composedly open up the
+Menu Screen! From there you
+will be able to save into a
+memory file as per normal.{enter}
+Especially in dungeons and
+other like areas, as soon
+as you see one of these,
+you should save without
+hesitation. You never can
+tell what may happen next!{enter}
+When outside on the World
+Map, you can save anywhere
+you like (... probably)!
+If you don't want to wind
+up crying later, make sure
+you save frequently, okay!?
+
+#### 46 ####
+So, that's it for
+my concise summary!{wait:14}
+You took it all in this
+time, didn't you...?{enter}
+Well, even a 2 year old
+Dongarian Monkey could
+understand my fantastic
+explanation 120%, right!?
+
+#### 47 ####
+Hooh-ho-ho!{wait:14}
+I'm such a genius!!
+
+#### 48 ####
+And now, about the
+explanation fee...{enter}
+Ha-haa! Just kidding...{wait:14}
+You didn't think the great
+Lucca would be that mean
+did you?{enter}
+This time I'll give you a
+special deal and let you
+have that one for free!
+
+#### 49 ####
+And you owe me 28G!
+Don't forget that, okay!?
+
+#### 50 ####
+Alright, now for the
+explanation fee...
+it's 28G!{enter}
+28G is a bargain considering
+you were able to receive
+such a perfect explanation
+from the likes of me!!!{enter}
+So c'mon, drop the excuses.
+Be a man and pay up!
+
+#### 51 ####
+Had 28G taken from you!
+
+#### 52 ####
+Yes, thank you so much...{wait:14}
+No receipts given though!
+
+#### 53 ####
+What the...!?
+You don't even have 28G?{enter}
+I guess I have no choice...{wait:14}
+You'll have to owe me then.{enter}
+Don't forget, you now owe
+me 28G! You got that, Fei?
+
+#### 54 ####
+Owe Lucca 28G!
+
+#### 55 ####
+What!?{wait:05}
+You won't hear what I
+have to say!
+Don't you want to know!?{enter}
+The logical, comprehensible
+and downright beautiful
+lecture given by me,{wait:05} the
+one and only great Lucca,{wait:05}
+can only do you good...!{enter}
+... No matter how many
+times you listen to it!{wait:14}
+Oh, what a waste!{wait:14} Well...
+don't come crying to me
+when you run into trouble.
+
+#### 56 ####
+What!?{wait:05}
+You won't hear what I
+have to say!
+Don't you want to know!?{enter}
+The logical, comprehensible
+and downright beautiful
+lecture given by me,{wait:05} the
+one and only great Lucca,{wait:05}
+can only do you good...!{enter}
+... How will you ever know
+unless you hear it out!{wait:14}
+Oh, what a waste!{wait:14} Well...
+don't come crying to me
+when you run into trouble.
+
+#### 57 ####
+Oh, and you owe me 28G!{wait:14}
+You haven't forgotten
+that have you, Fei?{enter}
+I'm not going to let you
+get off so easily if you're
+trying to get out of paying
+your debt. You got that!?
+
+#### 58 ####
+Did you know that you can
+spin the world around with
+the L1 and R1 buttons!?{wait:14}
+I'm sure you'll see things
+you weren't able to before!{enter}
+Explore the world by using
+your own eyes and ears!{wait:14}
+That is how you make the
+gains in your life truly
+your own!{enter}
+If you're lost, then be
+lost!{wait:14} There is no need to
+rush, is there?{wait:14} Nor do you
+have to explore the world
+using someone else's maps!
+
+#### 59 ####
+I come here often to talk
+to the village consultant.
+He usually gives good advice.{enter}
+Although, once in a while
+he can be a little absent-
+minded...{enter}
+Just recently, he mixed-up
+the love potion with the
+balding potion...
+
+#### 60 ####
+Hehe...{wait:14} Yes, sir!
+Whatever you say!
+
+#### 61 ####
+We'll have to continue
+this conversation later!
+

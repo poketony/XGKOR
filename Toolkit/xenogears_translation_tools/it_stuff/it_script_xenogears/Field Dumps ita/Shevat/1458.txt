@@ -1,0 +1,4 @@
+<TextBlock 1 w:42 h:3>
+<Opcode 1 255>Vuoi salire?<Delay 10>
+    Sì
+    No<Close><Close><End of Block>

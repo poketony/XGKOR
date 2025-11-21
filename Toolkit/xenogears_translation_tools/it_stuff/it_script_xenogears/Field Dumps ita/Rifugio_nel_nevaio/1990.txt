@@ -1,0 +1,94 @@
+<TextBlock 1 w:52 h:5>
+Non voglio pensare, chu…<Delay 10>
+a cosa sto facendo in un
+momento del genere…<Delay 10> Se
+non faccio quello che sto
+facendo ora, chu, non
+posso mantenere la mia
+calma interiore, chu!<Close><End of Block>
+<TextBlock 2 w:14 h:1>
+Yahoo!!<Opcode 2 30><Close><End of Block>
+<TextBlock 3 w:44 h:4>
+Oh, fratello Billy!<Delay 10>
+Siamo riusciti a
+malapena a salvare
+le nostre vite.<New>
+Non abbiamo visto
+Primera per un po', ed
+ora lei sa parlare.<Delay 10>
+Che sorpresa!<Close><End of Block>
+<TextBlock 4 w:48 h:4>
+Ma…<Delay 10> non potremo più
+lanciare o giocare col
+tuo Gear…<Delay 10>
+Ci mancherà…<Close><End of Block>
+<TextBlock 5 w:54 h:4>
+Billy
+"Sì,<Delay 10> è una vera sfortuna,
+ma adesso qui hai molti
+amici,<Delay 10> vero, Bobby?<New>
+Non avevi detto che il
+tuo obiettivo era di
+'avere 100 amici,
+quest'anno'<Delay 10>…?<New>
+Beh, dovrai farti
+questi amici qui."<Close><End of Block>
+<TextBlock 6 w:48 h:4>
+Uh huh!<Delay 10>
+Ma, un giorno, vorrei
+poter lanciare il tuo
+nuovo Gear,<Delay 10> Billy!<Close><End of Block>
+<TextBlock 7 w:58 h:3>
+Quefta è la pvima volta
+che vedo la neve, e,
+cavolo, è cofì fvedda,
+scivolosa e… divevtente!!<Close><End of Block>
+<TextBlock 8 w:56 h:3>
+Proprio quando pensavo che
+avrei potuto guidare l'UFO,
+adesso non vola più!!<New>
+E per giunta<Delay 10> questo tipo
+continua a dire cose
+fastidiose!<Close><End of Block>
+<TextBlock 9 w:52 h:5>
+<Opcode 14 2>Stiamo per essere giudicati!!<Delay 10>
+Il giorno del giudizio è
+prossimo…<Delay 10> Anche voi dovreste
+stare attenti.<Delay 10> Tutto ciò
+segue quello che la
+profezia dice…<Close><End of Block>
+<TextBlock 10 w:54 h:3>
+Ho sentito dire che una
+parte di Nortune, la
+vecchia capitale di
+Kislev, è sopravvissuta!<New>
+Mi chiedo se stiano
+ancora facendo quella
+cosa barbara lì,
+'Attagliare' o come
+si chiama…?<New>
+Davvero… ti chiedo,
+ma cosa dobbiamo fare
+noi, di questi uomini,
+in questo periodo…?<Close><End of Block>
+<TextBlock 11 w:50 h:4>
+Proprio quando pensavo che
+il Principe Bartolomeo
+sarebbe ritornato ed
+avrebbe riportato la pace
+alla terra di Aveh…<New>
+Così è la vita, non si
+sa mai cosa potrebbe
+accadere nel mondo…<Close><End of Block>
+<TextBlock 12 w:54 h:4>
+Oh, Regina…<Delay 10> Che cosa vedi
+con quegli occhi…<Delay 10>
+Quello sguardo addolorato,<Delay 10>
+come se avessi perso
+qualcosa…<New>
+Ma, sotto tutto questo,
+vi è una gentilezza
+che sarebbe capace di
+perdonarci tutti…<Close><End of Block>
+<TextBlock 13 w:20 h:1>
+NESSUN<Extra2 255>MASSAGGIO<Close><Close><End of Block>

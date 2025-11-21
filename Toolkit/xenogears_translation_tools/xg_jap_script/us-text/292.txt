@@ -1,0 +1,87 @@
+#### 1 ####
+Billy
+"Sorry. When I'm finished 
+I'll come, so go ahead 
+and get on board. {enter}
+I'll tell you more on 
+the way there..."
+
+#### 2 ####
+!!{clear:1E}
+
+#### 3 ####
+Billy
+"What do you need?"
+
+#### 4 ####
+Billy
+"Excuse me, I must go and 
+greet some people.{enter}
+Please don't go searching 
+through other's rooms."
+
+#### 5 ####
+Billy
+"What are you doing!?{wait:0A} 
+Please don't go searching 
+through other's rooms."
+
+#### 6 ####
+Room for 3 plates...
+
+#### 7 ####
+Room for 3 plates...
+
+#### 8 ####
+Fei
+"Put in the book 
+We got."
+
+#### 9 ####
+Elly
+"Put in the book 
+We received."
+
+#### 10 ####
+Citan
+"Put in the book 
+We received."
+
+#### 11 ####
+Bart
+"Put in the book 
+We got."
+
+#### 12 ####
+Rico
+"Put in the book 
+We got."
+
+#### 13 ####
+Billy
+"This is the room
+I remember..."
+
+#### 14 ####
+You have too many
+{str}.
+
+#### 15 ####
+ 
+ Received {str}.
+
+#### 16 ####
+Billy
+"This is{wait:05}...{wait:05}father's{wait:05}...{wait:0A}
+Reminds me{wait:05}...{wait:05}
+of{wait:05}...long ago{wait:05}..."
+
+#### 17 ####
+Billy
+"That is{wait:05}...{wait:05}father's{wait:05}...{wait:0A}
+Reminds me{wait:05}...{wait:05}
+of{wait:05}...long ago{wait:05}..."
+
+#### 18 ####
+
+

@@ -1,0 +1,101 @@
+#### 1 ####
+{slow:02}W, what are you doing?{wait:F0}{wait:F0}{clear:FA}
+
+#### 2 ####
+{slow:02}I don't want it!{wait:14}
+I, I don't want to use it!{wait:F0}{wait:F0}{clear:FA}
+
+#### 3 ####
+{slow:02}Please!
+Go away!{wait:F0}{wait:F0}{clear:FA}
+
+#### 4 ####
+{slow:02}What're you doing to me?{wait:14}
+Don't touch me!{wait:F0}{wait:F0}{clear:FA}
+
+#### 5 ####
+{slow:02}No!{wait:5A}
+Let go of me!{wait:F0}{wait:F0}{clear:FA}
+
+#### 6 ####
+{slow:02}Please!
+Stop!{wait:F0}{wait:F0}{clear:FA}
+
+#### 7 ####
+You have no recollection?{wait:2D}
+         There were no records on
+         mental enhancement drug
+         use up until now.{wait:2D}
+Then it was sudden.{wait:2D}
+         She's probably a type that
+         can't handle the 'Drive'.{wait:2D}
+That probably caused her
+lapse into delerium.{wait:2D}
+     And her loss of self control?{wait:2D}
+         You mean an unconscious
+         burst of pent-up antipathy?
+         But everyone has that.{wait:F0}
+
+#### 8 ####
+Is that why the innate
+ability is so high?{wait:2D}
+        Yes...What did the Commander
+        call those girls again?
+        It's probably higher than
+        they are.{wait:2D}
+Then it's an instantaneous
+jump in numerical value.{wait:2D}
+        But, we can't use her as
+        a test subject in front
+        of Erich.{wait:2D}
+It's a pity we can't manage it...
+since there is so much potential.{wait:F0}
+
+#### 9 ####
+ We'll leave you to
+ the bureau.{wait:1E}
+ 
+ Stay at your residence
+ until further notice.{wait:1E}
+ 
+ Don't worry!
+ You have power worthy
+ of the chosen one's.{wait:1E}
+ 
+ It's those weak people's
+ fault for not being able
+ to withstand your powers.{wait:1E}{wait:FA}
+
+#### 10 ####
+{slow:02}Please!
+{slow:01}Stop it!{wait:FA}
+
+#### 11 ####
+{slow:02}Don't worry.
+It's just the 'Drive'.{wait:F0}{wait:F0}{clear:FA}
+
+#### 12 ####
+{slow:02}The 'Drive' will
+just readjust your
+balance and make
+you feel good.{wait:F0}{wait:F0}{clear:FA}
+
+#### 13 ####
+{slow:02}You think we're going
+to make an exception
+because your father's
+top brass?{wait:F0}{wait:F0}{clear:FA}
+
+#### 14 ####
+{slow:02}I don't think{wait:28} I
+like your attitude!{wait:F0}{wait:F0}{clear:FA}
+
+#### 15 ####
+{slow:02}What's with your
+hair? Isn't it awfully red
+for a 1st Class citizen?{wait:F0}{wait:F0}{clear:FA}
+
+#### 16 ####
+{slow:02}Are you really a
+1st Class citizen?{wait:F0}{wait:F0}{clear:FA}
+

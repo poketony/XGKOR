@@ -1,0 +1,94 @@
+#### 1 ####
+Fei
+"What!?"
+
+#### 2 ####
+Fei
+"Look up!"
+
+#### 3 ####
+Fei
+"It's not here..."
+
+#### 4 ####
+Fei
+"!?
+..."
+
+#### 5 ####
+Fei
+"What's this?"
+
+#### 6 ####
+Fei
+"Why would it have this?"
+
+#### 7 ####
+Fei
+"...??"
+
+#### 8 ####
+Citan
+"It appears it can move 
+outside through these
+sewage drains."
+
+#### 9 ####
+Citan
+"Hmmm...it does not look 
+like it will show up now."
+
+#### 10 ####
+Citan
+"Let us think about 
+what we know so far."
+
+#### 11 ####
+Rico
+"It's not here..."
+
+#### 12 ####
+Rico
+"It moved..."
+
+#### 13 ####
+Rico
+"Damn! {wait:1E}
+We should of found 
+it here!"
+
+#### 14 ####
+Rico
+"Wait! {wait:1E}
+We can lure it with 
+this thing!"
+
+#### 15 ####
+Rico
+"Where can we use it?"
+
+#### 16 ####
+Rico
+"Maybe this one..."{clear:14}
+
+#### 17 ####
+Fei
+"Not that one...
+Um, this one...!"{clear:1E}
+
+#### 18 ####
+You have too many
+{str}.
+
+#### 19 ####
+ 
+ Received {str}.
+
+#### 20 ####
+You have too many
+{str}.
+
+#### 21 ####
+ 
+ Received {str}.
+

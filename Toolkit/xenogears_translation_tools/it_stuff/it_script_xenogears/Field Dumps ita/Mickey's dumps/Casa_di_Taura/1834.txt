@@ -1,0 +1,249 @@
+<TextBlock 1 w:44 h:2>
+Fei
+"Sapevo che eri tu…"<Close><End of Block>
+<TextBlock 2 w:18 h:2>
+Elly
+"Fei…?"<Close><End of Block>
+<TextBlock 3 w:50 h:3>
+Fei
+"Quando sei entrata
+nella stanza io…<New>
+… ho temuto che ti
+fossi dimenticata di
+me e di quello che
+c'è stato…"<Close><End of Block>
+<TextBlock 4 w:44 h:2>
+Elly
+"Che vuoi dire…?"<Close><End of Block>
+<TextBlock 5 w:50 h:4>
+Fei
+"Come… spiegarlo…
+Elly, mi sembravi…
+diversa…"<Close><End of Block>
+<TextBlock 6 w:48 h:2>
+Elly
+"Qualcosa non va<Delay 10>…
+nella mia faccia?"<Close><End of Block>
+<TextBlock 7 w:42 h:3>
+Fei
+"No, non è quello…
+È qualcosa di più…"<Close><End of Block>
+<TextBlock 8 w:52 h:4>
+Fei
+"Qualcosa nel tuo sguardo,
+nel tuo comportamento…<Delay 15>
+è differente…<New>
+Solo un po'…"<Close><End of Block>
+<TextBlock 9 w:48 h:3>
+Fei
+"Ma… ho sentito
+qualcosa di familiare…<New>
+La stessa cosa che sentii
+quando ti vidi per la
+prima volta…<New>
+La sensazione che ci
+fossimo già incontrati
+prima, da qualche altra
+parte…"<Close><End of Block>
+<TextBlock 10 w:16 h:2>
+Elly
+"Fei…"<Close><End of Block>
+<TextBlock 11 w:12 h:2>
+Fei
+"Sì?"<Close><End of Block>
+<TextBlock 12 w:44 h:4>
+Elly
+"Non ricordo molto di
+quello che è successo…<New>
+… dopo che siamo stati
+abbattuti…"<Close><End of Block>
+<TextBlock 13 w:46 h:2>
+Fei
+"È stato meglio così."<Close><End of Block>
+<TextBlock 14 w:54 h:3>
+Elly
+"Ma ho sentito
+qualcuno chiamare
+il mio nome…<New>
+Ho sentito che ero
+coperta con<Delay 10> qualcosa
+di molto caldo…<New>
+Questo lo ricordo molto
+chiaramente…"<Close><End of Block>
+<TextBlock 15 w:10 h:2>
+Fei
+"…"<Close><End of Block>
+<TextBlock 16 w:34 h:2>
+Elly
+"Grazie, Fei."<Close><End of Block>
+<TextBlock 17 w:18 h:2>
+Fei
+"Elly…"<Close><End of Block>
+<TextBlock 18 w:16 h:2>
+Elly
+"Fei…"<Close><End of Block>
+<TextBlock 19 w:44 h:3>
+Taura
+"Ehi, è tempo che
+voi ritorniate.<New>
+C'è qualcosa di
+importante di cui
+dobbiamo parlare."<Close><End of Block>
+<TextBlock 20 w:6 h:1>
+…<Close><End of Block>
+<TextBlock 21 w:28 h:3>
+Fei
+"Ah,<Delay 5> va bene,<Delay 5>
+eccoci!"<Close><End of Block>
+<TextBlock 22 w:30 h:4>
+Fei
+"Allora<Delay 5> Elly,<Delay 5>
+andiamo a vedere
+che c'è di nuovo?"<Close><End of Block>
+<TextBlock 23 w:24 h:2>
+Elly
+"Sì,<Delay 5> certo…"<Close><End of Block>
+<TextBlock 24 w:52 h:3>
+Shitan
+"Sei sicura di voler
+andare in fondo a
+questa cosa?<New>
+Non avevi intenzione di
+vivere pacificamente
+lontano dai campi di
+battaglia?"<Close><End of Block>
+<TextBlock 25 w:54 h:4>
+Elly
+"Ho osservato<Delay 10> me
+stessa fuggire dalla
+realtà…<New>
+All'inizio ho pensato
+che la mia situazione
+fosse simile alla sua.<New>
+Pensavo che Fei avrebbe<Delay 10>
+capito i miei sentimenti<Delay 5>…<New>
+Non so se il mio amore
+per lui fosse reale…<New>
+Potrei essere stata
+disperata dopo la
+perdita dei miei
+genitori…"<Close><End of Block>
+<TextBlock 26 w:18 h:2>
+Shitan
+"Elly…"<Close><End of Block>
+<TextBlock 27 w:46 h:3>
+Elly
+"Malgrado ciò<Delay 5>…<Delay 10>
+Potrei ancora amarlo<Delay 5>…<New>
+Voglio vedere quello
+che Fei può fare,<Delay 5>
+e quello che posso
+fare io.<New>
+Voglio che noi stiamo
+lontani e che pensiamo
+di nuovo a noi stessi."<Close><End of Block>
+<TextBlock 28 w:42 h:3>
+Elly
+"Voglio vedere<Delay 5>…<Delay 10>
+come mi sento in realtà<Delay 5>…"<Close><End of Block>
+<TextBlock 29 w:6 h:1>
+…<Close><End of Block>
+<TextBlock 30 w:50 h:3>
+Shitan
+"Sei molto cambiata,
+Elly.<New>
+Cos'è successo nelle
+ultime tre settimane?"<Close><End of Block>
+<TextBlock 31 w:32 h:4>
+Elly
+"Davvero?<Delay 10>
+Non credo di
+essere cambiata…"<Close><End of Block>
+<TextBlock 32 w:40 h:4>
+Shitan
+"Sì, lo sei.<Delay 10><New>
+Direi che<Delay 10>…
+sei maturata<Delay 10>…
+come una madre…"<Close><End of Block>
+<TextBlock 33 w:44 h:3>
+Elly
+"Ehi!!<Delay 10>
+Ho solo 18 anni!<New>
+Non sono neanche
+lontanamente vicina
+ad avere l'età per
+essere tua madre!"<Close><End of Block>
+<TextBlock 34 w:50 h:4>
+Shitan
+"Scusami.<New>
+Mi hai dato quella
+impressione. Questo
+è tutto."<Close><End of Block>
+<TextBlock 35 w:30 h:3>
+Elly
+"Comunque, Shitan,<Delay 10>
+ora vado."<Close><End of Block>
+<TextBlock 36 w:50 h:4>
+Shitan
+"Va bene.<Delay 10>
+Ti seguirò appena
+avrò terminato qui…"<Close><End of Block>
+<TextBlock 37 w:30 h:2>
+Esmeralda
+"Io…<Delay 10> vengo
+anch'io."<Close><End of Block>
+<TextBlock 38 w:10 h:1>
+Cosa?<Close><End of Block>
+<TextBlock 39 w:10 h:1>
+Vado!<Close><End of Block>
+<TextBlock 40 w:50 h:4>
+Elly
+"Esmeralda, è una cosa
+che devo affrontare e
+risolvere da sola.<New>
+Andrà tutto bene."<Close><End of Block>
+<TextBlock 41 w:44 h:4>
+Esmeralda
+"Se Elly va, anch'io
+vado.<Delay 10> Esmeralda
+deve venire con te."<Close><End of Block>
+<TextBlock 42 w:28 h:2>
+Elly
+"Esmeralda…?"<Close><End of Block>
+<TextBlock 43 w:34 h:3>
+Esmeralda
+"No! Esmeralda viene!"<Close><End of Block>
+<TextBlock 44 w:52 h:4>
+Shitan
+"Perché no?<Delay 10><New>
+Sono sicuro che Solaris
+abbia dei sospetti sul
+Limitatore.<New>
+Potrebbero interferire,<Delay 10>
+e potresti sentirti a
+disagio andando da sola.<New>
+Credo proprio che
+Esmeralda sia tagliata
+per questo lavoro."<Close><End of Block>
+<TextBlock 45 w:50 h:4>
+Shitan
+"(… Inoltre, lei
+verrebbe in ogni caso.<New>
+Prenditi cura di lei
+finché non mi unirò
+a voi,<Delay 10> vuoi?)"<Close><End of Block>
+<TextBlock 46 w:46 h:4>
+Elly
+"Ok, hai vinto.<Delay 10>
+Aiutiamoci l'una con
+l'altra, d'accordo?"<Close><End of Block>
+<TextBlock 47 w:38 h:3>
+Esmeralda
+"Posso farlo da sola.<Delay 10>
+State a guardare."<Close><End of Block>
+<TextBlock 48 w:52 h:3>
+Elly
+"Fei, dove stai andando?
+Taura ti sta chiamando!"<Close><End of Block>
+<TextBlock 49 w:0 h:1>
+<Close><End of Block>

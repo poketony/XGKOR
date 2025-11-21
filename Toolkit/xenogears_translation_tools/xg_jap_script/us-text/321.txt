@@ -1,0 +1,68 @@
+#### 1 ####
+Elly
+"Oh!..."{clear:18}
+
+#### 2 ####
+Elly
+"Y, yes...
+...I wonder why...?{enter}
+It's terribly lonely...
+and familiar."
+
+#### 3 ####
+Citan
+"Elly...
+Do you remember 
+seeing this?"
+
+#### 4 ####
+{fast:FF}Connection to the
+database has been
+unexpectedly ended.{enter}
+If this cannot be fixed,
+please contact the system
+administrator.
+
+#### 5 ####
+{fast:FF}Reactor internal
+safety confirmed.
+Please reset
+emergency level.
+
+#### 6 ####
+{fast:FF}Reset emergency level?
+ 
+     Reset
+     Cancel
+
+#### 7 ####
+{fast:FF}Please wait.{wait:20}
+Reset complete.
+Presently, emergency 
+level is normal.
+
+#### 8 ####
+{fast:FF}Failure to reset
+the emergency level will
+prevent use of the main
+laboratory facilities.
+
+#### 9 ####
+{fast:FF}Emergency level 5{enter}
+Presently, access to all
+main laboratory databases
+is denied.
+
+#### 10 ####
+{fast:FF}Emergency level 5{enter}
+Presently, the central 
+reactor is isolated.
+
+#### 11 ####
+Can't receive {str},
+you have too many.
+
+#### 12 ####
+ 
+Received {str}.
+

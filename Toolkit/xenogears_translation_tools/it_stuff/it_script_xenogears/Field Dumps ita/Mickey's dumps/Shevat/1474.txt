@@ -1,0 +1,150 @@
+<TextBlock 1 w:26 h:2>
+Fei
+"Questa è…!"<Close><End of Block>
+<TextBlock 2 w:40 h:3>
+Fei
+"Sono stati uccisi
+da Solaris…"<Close><End of Block>
+<TextBlock 3 w:10 h:2>
+Fei
+"…"<Close><End of Block>
+<TextBlock 4 w:32 h:2>
+Fei
+"E…<Delay 20> ehi, aspetta!"<Close><End of Block>
+<TextBlock 5 w:50 h:3>
+Shitan
+"Credo…<Delay 20>
+fosse una stanza
+di alcuni bambini…"<Close><End of Block>
+<TextBlock 6 w:52 h:4>
+Shitan
+"Chissà come immaginavano
+che fosse il loro futuro…<New>
+… i bambini di
+questa stanza…"<Close><End of Block>
+<TextBlock 7 w:28 h:2>
+Shitan
+"Quella ragazza…"<Close><End of Block>
+<TextBlock 8 w:50 h:4>
+Shitan
+"Va bene così.<Delay 20>
+Vogliamo andare al
+palazzo, ora?"<Close><End of Block>
+<TextBlock 9 w:10 h:2>
+Elly
+"…"<Close><End of Block>
+<TextBlock 10 w:52 h:3>
+Elly
+"Combattiamo mettendo
+a rischio le nostre
+vite…<New>
+E allo stesso tempo
+coinvolgiamo coloro che
+non hanno nulla a che
+fare con questa lotta…"<Close><End of Block>
+<TextBlock 11 w:40 h:3>
+Elly
+"Vogliamo andare
+al palazzo?"<Close><End of Block>
+<TextBlock 12 w:44 h:3>
+Bart
+"Tch…!<Delay 20>
+All'inferno…!"<Close><End of Block>
+<TextBlock 13 w:48 h:3>
+Bart
+"Bastardi…!!<New>
+Tutto ciò che volete è
+vincere!?<Delay 20> Non vi
+importa proprio di
+niente altro?"<Close><End of Block>
+<TextBlock 14 w:46 h:3>
+Bart
+"…<Delay 20> Piccola
+antipatica…"<Close><End of Block>
+<TextBlock 15 w:48 h:3>
+Rico
+"Questo è troppo oltre
+quello che posso<Delay 20>
+sopportare…"<Close><End of Block>
+<TextBlock 16 w:54 h:4>
+Rico
+"Ma forse faremmo
+la stessa cosa…<New>
+… se ci trovassimo
+nei loro panni."<Close><End of Block>
+<TextBlock 17 w:52 h:4>
+Rico
+"…<Delay 20> Probabilmente quella
+ragazza ne ha passate di
+tutti i colori…"<Close><End of Block>
+<TextBlock 18 w:52 h:3>
+Billy
+"Innocenti vite vengono
+spezzate…<New>
+Qui come ovunque…"<Close><End of Block>
+<TextBlock 19 w:48 h:3>
+Billy
+"Perché viene permesso
+tutto questo…?<New>
+Ne vedremo mai la fine?<Delay 20>
+Cosa stiamo…"<Close><End of Block>
+<TextBlock 20 w:50 h:3>
+Esmeralda
+"…?<Delay 20>
+Anche gli umani
+erano rotti?"<Close><End of Block>
+<TextBlock 21 w:48 h:4>
+<Chu-Chu>
+"Wow, che finestra
+enorme…<Delay 20>!<New>
+… E c'è anche
+un cavallo di
+legno, chu."<Close><End of Block>
+<TextBlock 22 w:44 h:4>
+<Chu-Chu>
+"Ma… dove sono andati
+i bambini chu?<Delay 20>
+Una passeggiata chu?"<Close><End of Block>
+<TextBlock 23 w:34 h:3>
+Maria
+"…<Delay 20>
+Dannata Solaris…!"<Close><End of Block>
+<TextBlock 24 w:30 h:4>
+Esmeralda
+"…<Delay 20>
+Posso sentire la
+vita che termina…"<Close><End of Block>
+<TextBlock 25 w:52 h:4>
+Maria
+"Esistono molte persone a
+cui non importa se fanno
+del male agli altri…"<Close><End of Block>
+<TextBlock 26 w:38 h:4>
+Maria
+"Non c'è…<Delay 20>
+fine…<Delay 20> alla guerra
+ed al rancore…"<Close><End of Block>
+<TextBlock 27 w:36 h:3>
+Maria
+"Ah, ecco dove
+eravate finiti."<Close><End of Block>
+<TextBlock 28 w:52 h:4>
+Maria
+"La Regina ha detto che
+questa casa fu distrutta
+nella grande guerra di…<New>
+… 500 anni fa. È stata
+lasciata in questo stato
+come ricordo di quel
+conflitto."<Close><End of Block>
+<TextBlock 29 w:50 h:4>
+Maria
+"Grazie per avermi
+aspettata.<Delay 20><New>
+Prego, venite al
+palazzo con me."<Close><End of Block>
+<TextBlock 30 w:46 h:2>
+ Trovi un 'Ricordo di
+un bambino del passato'.<New>
+Ma nessuno potrebbe
+mai portarlo via.<Close><Close><End of Block>

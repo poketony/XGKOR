@@ -1,0 +1,10 @@
+<TextBlock 1 w:42 h:2>
+Fei
+"Che posto è questo?"<Close><End of Block>
+<TextBlock 2 w:56 h:3>
+Qui è dove Kahr nacque.<Delay 20>
+E dove fu forgiato il suo
+odio nei tuoi confronti<Delay 5>…<Close><End of Block>
+<TextBlock 3 w:30 h:2>
+Fei
+"Chi sei!?"<Close><Close><End of Block>

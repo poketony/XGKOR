@@ -1,0 +1,207 @@
+#### 1 ####
+Fei
+"Ramsus!?"
+
+#### 2 ####
+Fei
+"Ramsus!!"
+
+#### 3 ####
+Bart
+"Fei, sorry we're late.{wait:14}
+Our Omnigears broke down.{enter}
+Anyway, let's hurry up
+and save Elly!"
+
+#### 4 ####
+Rico
+"Too bad we missed the
+action.{wait:14} Our Omnigears
+gave out on the way here.{enter}
+Anyways...
+Let's hurry up and save
+Elly!"
+
+#### 5 ####
+Citan
+"Forgive us for being late.
+My Omnigear gave out on the
+way in here.{enter}
+Well, anyway, let us hurry
+and save Elly!"
+
+#### 6 ####
+Billy
+"I am sorry!
+My Omnigear broke
+down on the way here.{enter}
+Now, we better help
+Elly down before it's
+too late!"
+
+#### 7 ####
+{name:07:チュチュ}
+"Didn't mean chu make you
+wait. Now let's go take
+down the big cheese.{enter}
+But first, we have chu
+save Elly!"
+
+#### 8 ####
+Fei
+"Elly!!"
+
+#### 9 ####
+Fei
+"What are you talking
+about!?{wait:14} Why does Elly
+have to be sacrificed!?"
+
+#### 10 ####
+Fei
+"Ah!?"{clear:1E}
+
+#### 11 ####
+Fei
+"Ramsus!?"
+
+#### 12 ####
+Fei
+"Yes, I know!"
+
+#### 13 ####
+Fei
+"Hang in there, Elly!
+I'm letting you down now."
+
+#### 14 ####
+Krelian
+"I would have liked to
+have been able to commend
+you for making it here{wait:05}...{enter}
+But your efforts were all
+in vain.{wait:14}
+The resurrection of -Deus-
+is imminent.{enter}
+Sacrificing this girl will
+bring about the awakening
+of 'god'."
+
+#### 15 ####
+Krelian
+"There's no need for you
+to know.{wait:14} For all of you,
+it will all end here{wait:05}..."
+
+#### 16 ####
+Krelian
+"Hmph...{wait:14}
+It's just you..."
+
+#### 17 ####
+Krelian
+"A pathetic excuse for a
+life.{wait:14}
+Why, you aren't even human!{enter}
+Kahaha...{wait:14}
+Hah hahaha...!"
+
+#### 18 ####
+Krelian
+"..."
+
+#### 19 ####
+Miang
+"What are you doing
+here,{wait:14} Kahr?"
+
+#### 20 ####
+Miang
+"There was only one purpose
+to your existence...{wait:14}
+To eliminate Emperor Cain.{enter}
+Cain's will had become too
+much like that of humans'.
+He was too concerned about
+them.{enter}
+He had forgotten his
+mission to revive god.
+That is why you were
+created.{enter}
+You were only made
+to remove our main
+hindrance{wait:05}...{wait:05}Cain.{enter}
+But, as the original
+living being, Cain
+had absolute power.{enter}
+To make you turn on
+Cain, it was necessary
+to focus your mind on
+a single point.{enter}
+However, being an
+artificial life form, you
+were mentally unstable.{enter}
+That is why{wait:05}...{wait:05}we used
+Fei's existence.{wait:14}
+Resentment{wait:05}...{wait:0A} That is the
+source of your strength.{enter}
+And you have excelled
+superbly at fulfilling
+our expectations of you.{enter}
+But{wait:05}...{wait:05}we no longer have
+any more use for you.{wait:0A}
+Haven't you realized that
+yet?{enter}
+You're a piece of trash.
+And being the reject that
+you are, why don't you just
+leave? {wait:14}Hah hah hah."
+
+#### 21 ####
+Miang
+"Now, what to do with the
+lot of you{wait:05}...{enter}
+Well,{wait:05} I can't just kill
+you all{wait:05}...{wait:05}seeing as you
+have served me so well.{enter}
+So,{wait:05} as a reward,{wait:05} I'll allow
+you to be sacrificed too{wait:05}...{wait:05}
+To be assimilated into Deus
+along with this girl{wait:05}..."
+
+#### 22 ####
+Miang
+"Guhh...!?"{clear:28}
+
+#### 23 ####
+Miang
+"Good{wait:05}...{wait:05}
+This is how I wanted it,
+Kahr{wait:05}...{enter}
+I am fated so as not to
+be able to kill myself{wait:05}...{enter}
+Now{wait:05}...{wait:05}all{wait:05}...{wait:05}my{wait:05}...{wait:05}wishes{wait:14}
+have{wait:05}...{wait:05}come{wait:05}...{wait:05}true.{wait:1E}
+Thanks{wait:05}...{wait:05}to{wait:05}...{wait:05}you{wait:05}...!"
+
+#### 24 ####
+Ramsus
+"What about me{wait:05}...?{wait:14}
+My existence{wait:05}...{wait:05}
+What was its purpose?"
+
+#### 25 ####
+Ramsus
+"I... I...{wait:14}
+What was I born for?{wait:14}
+What was I living for?"
+
+#### 26 ####
+Ramsus
+"...{wait:14}
+Miang..."
+
+#### 27 ####
+Ramsus
+"Uh, uhaaaaaaaahhhhh!!"
+

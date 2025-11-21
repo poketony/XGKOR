@@ -1,0 +1,243 @@
+<TextBlock 1 w:48 h:3>
+Lacan
+"<Delay 5>…<Delay 5> Come hai detto?<Delay 15><New>
+Com'è che si chiama
+l'insegnante sotto il
+quale stai studiando?"<Close><End of Block>
+<TextBlock 2 w:20 h:2>
+Krelian
+"Melchiorre."<Close><End of Block>
+<TextBlock 3 w:44 h:3>
+Lacan
+"Però… perché ti
+dedichi allo studio?"<Close><End of Block>
+<TextBlock 4 w:50 h:4>
+Krelian
+"Sofia mi ha detto che il
+miglior modo per calmare
+il proprio cuore è…<New>
+… leggere un libro<Delay 5>…<Delay 40>
+È una buona opportunità.
+E in me si è destato
+l'interesse nello studio."<Close><End of Block>
+<TextBlock 5 w:40 h:4>
+Krelian
+"<Delay 5>…<Delay 5> Adesso,<Delay 15>
+leggo tre libri
+al giorno."<Close><End of Block>
+<TextBlock 6 w:36 h:3>
+Lacan
+"Se è possibile
+cambiarla, stai
+sicuro che sarà così."<Close><End of Block>
+<TextBlock 7 w:42 h:4>
+Lacan
+"<Delay 5>…<Delay 5> L'arte bellica, dico,<Delay 15>
+tu pensi solo a quella<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 8 w:50 h:4>
+Krelian
+"Ehi, <Delay 5>non sei per
+nulla simpatico<Delay 15>…<New>
+Sai, io sono il migliore
+dei suoi studenti."<Close><End of Block>
+<TextBlock 9 w:50 h:4>
+Lacan
+"Capisco<Delay 5>…<Delay 20>…<New>
+È splendido,<Delay 5> sembra che
+finalmente tu abbia
+trovato qualcosa in cui
+impegnarti a fondo<Delay 5>…<Delay 5>…"<Close><End of Block>
+<TextBlock 10 w:38 h:2>
+Krelian
+"Cosa vuoi dire?"<Close><End of Block>
+<TextBlock 11 w:40 h:4>
+Krelian
+"Anche tu la hai.<New>
+I tuoi dipinti
+sono splendidi.<Delay 15>
+Dovresti esserne
+felice<Delay 5>…<Delay 5>…"<Close><End of Block>
+<TextBlock 12 w:48 h:4>
+Krelian
+"Sofia prima mi ha
+mostrato come i libri
+siano il miglior modo…<New>
+… per calmare il
+proprio cuore<Delay 5>…<Delay 30>
+…<Delay 5> e ora sono ossessionato
+dalla lettura."<Close><End of Block>
+<TextBlock 13 w:54 h:4>
+Krelian
+"Non sto cercando di
+vantarmi<Delay 20>…<New>
+… ma ho imparato
+moltissime cose che
+prima non conoscevo.<New>
+Ultimamente, sto
+leggendo questo."<Close><End of Block>
+<TextBlock 14 w:26 h:2>
+Lacan
+"Che cos'è?"<Close><End of Block>
+<TextBlock 15 w:54 h:4>
+Krelian
+"Una cosa che ho preso in
+prestito da Melchiorre.<New>
+Parla di una forma
+d'ingegneria molecolare<Delay 5>…<Delay 5>
+Nanotecnologia.<New>
+Credo che questo libro sia
+stato trovato nelle rovine
+dell'antica civiltà di
+Zeboim.<New>
+È una copia di un trattato
+di ricerca scritto da
+qualcuno,<Delay 5> ma è incompleta.<New>
+Penso che ci fossero
+scritte cose ancora più
+meravigliose qui dentro…<New>
+… ma noi non lo
+sapremo mai<Delay 5>…"<Close><End of Block>
+<TextBlock 16 w:32 h:4>
+Margie
+"Elly…<Delay 30>
+Ne sei sicura?<New>
+Non vuoi stare
+assieme a lui?"<Close><End of Block>
+<TextBlock 17 w:46 h:4>
+Elly
+"Sì<Delay 5>…<Delay 5>
+Ma…<Delay 10> lo faccio perché
+ho fiducia in lui.<New>
+Amare qualcuno non vuol
+dire dovergli essere
+sempre vicino, o no?"<Close><End of Block>
+<TextBlock 18 w:54 h:4>
+Margie
+"Ma<Delay 5>…<Delay 5> gli uomini
+sono egoisti<Delay 5>…<New>
+Quando succede qualcosa
+di grosso,<Delay 10> loro dicono<Delay 5>…<Delay 10>
+ 'È troppo pericoloso<Delay 5>…<Delay 5>
+  Non puoi venire!'<New>
+Trattano noi donne
+come fossimo delle
+creature deboli."<Close><End of Block>
+<TextBlock 19 w:48 h:4>
+Margie
+"Però, è anche vero che
+non posso più aiutare
+tanto Bart e gli altri<Delay 5>…"<Close><End of Block>
+<TextBlock 20 w:50 h:4>
+Elly
+"Non è vero<Delay 15>…<New>
+Tutti<Delay 5> desiderano qualcuno
+di speciale che lo stia
+aspettando.<New>
+Qualcuno che protegga
+un posto a cui possano
+ritornare.<New>
+Se non si ha quella
+tranquillità d'animo,
+non si sarà mai in
+grado di fare qualcosa<Delay 5>…"<Close><End of Block>
+<TextBlock 21 w:50 h:4>
+Elly
+"Gli uomini cercano di
+sopportare più che
+possono ogni difficoltà…<New>
+Sono carini quando si
+comportano così, vero?"<Close><End of Block>
+<TextBlock 22 w:32 h:3>
+Margie
+"Vero,<Delay 15> hai ragione<Delay 5>…"<Close><End of Block>
+<TextBlock 23 w:48 h:3>
+Elly
+"Comunque, anche noi
+abbiamo delle cose
+da fare, ora.<New>
+E,<Delay 5> mentre le facciamo,<Delay 5>
+preghiamo che tutti
+tornino sani e salvi."<Close><End of Block>
+<TextBlock 24 w:18 h:2>
+Margie
+"Pregare dio?"<Close><End of Block>
+<TextBlock 25 w:44 h:3>
+Elly
+"No<Delay 5>…<New>
+Pregare i nostri
+sentimenti più
+intimi, in cui
+tutti credono<Delay 5>…"<Close><End of Block>
+<TextBlock 26 w:30 h:2>
+Elly
+"Cosa c'è?"<Close><End of Block>
+<TextBlock 27 w:44 h:3>
+Margie
+"Lo sapevo<Delay 5>…<Delay 15>
+Sì,<Delay 5> dev'essere vero!"<Close><End of Block>
+<TextBlock 28 w:14 h:2>
+Elly
+"Cosa?"<Close><End of Block>
+<TextBlock 29 w:54 h:4>
+Margie
+"Elly, è proprio come
+dicono tutti<Delay 10>…!<New>
+Tu devi essere la
+reincarnazione di Sofia!<New>
+Tu non puoi conoscere gli
+insegnamenti della Setta
+di Nisan, ma ciò che dici<Delay 5>…<New>
+…<Delay 5> beh, è esattamente la
+stessa cosa che Sofia
+diceva sempre."<Close><End of Block>
+<TextBlock 30 w:36 h:3>
+Elly
+"Sì<Delay 5>…<Delay 30>
+Forse è così."<Close><End of Block>
+<TextBlock 31 w:44 h:4>
+Elly
+"La prima volta che ho
+visitato questo posto…<New>
+… ho provato una
+sensazione incredibile."<Opcode 2 150><Close><End of Block>
+<TextBlock 32 w:54 h:3>
+Elly
+"Familiare<Delay 5>…<Delay 15>
+Triste<Delay 20>…<New>
+Come se avessi visitato
+questo posto nei miei
+sogni molte volte<Delay 5>…"<Close><End of Block>
+<TextBlock 33 w:48 h:3>
+Elly
+"So dove si trova ogni
+stanza<Delay 10> e cosa c'è dentro.<New>
+L'unica cosa che so è che
+devo essere già stata qui,
+in un lontano passato<Delay 5>…"<Close><End of Block>
+<TextBlock 34 w:52 h:4>
+Elly
+"Se mi avessi parlato
+prima di queste cose, non
+le avrei prese sul serio…<New>
+… e mi sarei messa a
+ridere.<Delay 40> Ma ora<Delay 5>…"<Close><End of Block>
+<TextBlock 35 w:36 h:2>
+Elly
+"Ora, in un modo o
+nell'altro, posso
+anche crederci."<Close><End of Block>
+<TextBlock 36 w:44 h:3>
+Elly
+"Le cose che non
+potei fare allora…<New>
+Le sto probabilmente
+cercando di fare ora<Delay 5>…"<Close><End of Block>
+<TextBlock 37 w:40 h:3>
+Margie
+"Cose che non
+potesti fare<Delay 5>…?"<Opcode 2 150><Close><End of Block>
+<TextBlock 38 w:48 h:3>
+Elly
+"<Delay 5>…<Delay 5> Sì.
+Cose che non
+potei fare<Delay 5>…"<Close><Close><End of Block>

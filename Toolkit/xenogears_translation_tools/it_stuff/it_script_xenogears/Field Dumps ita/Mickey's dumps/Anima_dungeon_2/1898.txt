@@ -1,0 +1,34 @@
+<TextBlock 1 w:52 h:2>
+Scritta sul muro.<New>
+"C'è un segreto nascosto
+nel terzo buco dalla porta."<Close><End of Block>
+<TextBlock 2 w:50 h:2>
+Scritta sul muro.<New>
+"Trova il passaggio
+segreto in questa
+stranza per procedere."<Close><End of Block>
+<TextBlock 3 w:46 h:2>
+Scritta sul muro.<New>
+"Il passaggio segreto
+è nel terzo buco."<Close><End of Block>
+<TextBlock 4 w:48 h:2>
+Scritta sul muro.<New>
+"Il segreto è nel muro
+dov'è il terzo buco."<Close><End of Block>
+<TextBlock 5 w:52 h:4>
+"Non temere l'oscurità
+delle mura dell'abisso,
+per te che avanzi la
+via sarà rivelata…"<Close><End of Block>
+<TextBlock 6 w:34 h:2>
+Ha troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 7 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 8 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 9 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><Close><End of Block>

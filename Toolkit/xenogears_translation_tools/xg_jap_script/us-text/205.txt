@@ -1,0 +1,32 @@
+#### 1 ####
+...sniff...sniff.
+
+#### 2 ####
+Don't tell anyone I'm
+keeping a pet down here.{enter}
+I found him on the
+outskirts of Lahan on the
+verge of death.{enter}
+But, look at him now.
+
+#### 3 ####
+He is gone now...{wait:28}
+and...left this.
+
+#### 4 ####
+...This guy,{wait:1E} no matter
+how much I tell him, he
+won't understand...Hey! He,{wait:1E}
+he's...Damn...{wait:1E}sob...
+
+#### 5 ####
+He's gone...{enter}
+The dog he owned keeps
+waiting for him to come
+home at the entrance,{enter}
+always waiting for him
+...always.
+
+#### 6 ####
+"Hey it's...dog food"
+

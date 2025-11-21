@@ -1,0 +1,43 @@
+#### 1 ####
+Aveh excavation site
+main power generator.{enter}
+Currently, the main
+power is on.
+    Turn off the power
+    Leave it alone
+
+#### 2 ####
+Main power was turned off.
+
+#### 3 ####
+Aveh excavation site
+main power generator.{enter}
+Currently, the main power
+is off.
+    Turn on main power
+    As is
+
+#### 4 ####
+Main power is turned on.
+Operating normally.
+
+#### 5 ####
+Currently, the main power
+is off.
+
+#### 6 ####
+Currently, the main power
+is off.
+
+#### 7 ####
+Want to get on
+the gondola?
+    Yes
+    No
+
+#### 8 ####
+Want to get on
+the gondola?
+    Yes
+    No
+

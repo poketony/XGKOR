@@ -1,0 +1,28 @@
+<TextBlock 1 w:34 h:3>
+Billy
+"Vescovo!<Delay 10>
+Sta bene?"<Close><End of Block>
+<TextBlock 2 w:34 h:4>
+Billy
+"Giudizio di dio?<Delay 10>
+Cosa vuole dire,
+Vescovo?"<Close><End of Block>
+<TextBlock 3 w:52 h:3>
+Billy
+"È morto.<New>
+Cosa cercava di dirmi?
+Che intendeva dire con<Delay 15>
+'purificazione'?"<Close><End of Block>
+<TextBlock 4 w:48 h:4>
+Billy
+"Qui c'è qualcosa che ci
+blocca. Non possiamo
+passare da qui."<Close><End of Block>
+<TextBlock 5 w:58 h:2>
+<Opcode 14 2>Oh oh… Billy<Delay 5>…<Delay 10>
+Sei salvo<Delay 5>…<New>
+…<Delay 5> La purificazione<Delay 5>…
+è iniziata…<New>
+Noi<Delay 10> peccatori… abbiamo
+attirato il<Delay 5> giudizio<Delay 5> di
+dio<Delay 5> sul genere umano<Delay 5>…<Close><Close><End of Block>

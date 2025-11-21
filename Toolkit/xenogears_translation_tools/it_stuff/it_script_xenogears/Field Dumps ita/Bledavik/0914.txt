@@ -1,0 +1,151 @@
+<TextBlock 1 w:48 h:4>
+Ramsus
+"Io sono Ramsus, lei è
+Miang. Ci piacerebbe
+farti qualche domanda."<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+Margie
+"Io sono Margie.
+Ma in realtà mi chiamo
+Margherita.<New>
+Cosa volete sapere?
+Il mio cibo preferito?<New>
+Mi piacciono le torte, la
+Chiffon Nisan è la mia
+preferita. Non ne mangio
+una da così tanto…"<Close><End of Block>
+<TextBlock 3 w:50 h:4>
+Ramsus
+"Margherita, vorremmo
+chiederti del tesoro
+della famiglia Fatima…<New>
+Sto parlando del 'Diaspro
+di Fatima'. Vedi, sto
+conservando il pezzo che
+hai tu in un posto sicuro.<New>
+Ma non so dove sia l'altro
+pezzo. Tu lo sai?"<Close><End of Block>
+<TextBlock 4 w:44 h:4>
+Margie
+"No.
+Quello che avevo me lo
+avete preso voi.<New>
+E non mi avete neanche
+dato niente in cambio.<New>
+Ehi, la prossima volta
+che venite, potreste
+portarmi un po' di
+Chiffon Nisan?<New>
+Quando ero a Nisan la
+mangiavo ogni giorno.
+Non penso che la
+facciano ad Aveh.<New>
+Aveh una volta aveva
+dei panettieri così
+bravi!<New>
+Ma immagino che siano
+tutti morti in guerra."<Close><End of Block>
+<TextBlock 5 w:46 h:4>
+Ramsus
+"È un vero peccato.<New>
+Non so molto di torte,
+ma vedrò di poterne
+trovare una per te, la
+prossima volta."<Close><End of Block>
+<TextBlock 6 w:36 h:3>
+Margie
+"Grazie, Ramsus.
+Aspetterò."<Close><End of Block>
+<TextBlock 7 w:48 h:3>
+Ramsus
+"C'è qualcos'altro che
+ti serve?<New>
+Se c'è qualcosa che vuoi,
+la porterò la prossima
+volta."<Close><End of Block>
+<TextBlock 8 w:48 h:4>
+Margie
+"No. Voglio solo
+tornare a Nisan.<New>
+Devono essere tutti
+molto preoccupati
+per me."<Close><End of Block>
+<TextBlock 9 w:42 h:4>
+Ramsus
+"Mi dispiace, ma, per
+favore, aspetta un
+altro po'.<New>
+Vogliamo che tu stia
+qui fino a che non
+troveremo l'altra metà
+del 'Diaspro di Fatima'."<Close><End of Block>
+<TextBlock 10 w:2 h:1>
+?<Opcode 2 30><Close><End of Block>
+<TextBlock 11 w:24 h:1>
+Chi siete?<Close><End of Block>
+<TextBlock 12 w:2 h:1>
+!<Opcode 2 20><Close><End of Block>
+<TextBlock 13 w:14 h:2>
+Margie
+"Bart!"<Close><End of Block>
+<TextBlock 14 w:26 h:3>
+Bart
+"Andiamo a
+casa, Margie!"<Close><End of Block>
+<TextBlock 15 w:38 h:3>
+Margie
+"Lo sapevo che
+saresti venuto
+a salvarmi!"<Close><End of Block>
+<TextBlock 16 w:36 h:4>
+Bart
+"Ora ti faccio
+uscire da qui!
+Dai, seguimi."<Close><End of Block>
+<TextBlock 17 w:14 h:2>
+Margie
+"Ok."<Close><End of Block>
+<TextBlock 18 w:20 h:3>
+Margie
+"Oh, aspetta
+un attimo."<Close><End of Block>
+<TextBlock 19 w:22 h:3>
+Margie
+"Questo qui mi
+piace un sacco."<Close><End of Block>
+<TextBlock 20 w:48 h:3>
+Grazie mille per aver
+salvato Madre Margherita.<New>
+Tutti noi della Setta di
+Nisan siamo in grande
+debito con te.<Close><End of Block>
+<TextBlock 21 w:48 h:4>
+Oggi siamo venuti per
+pregare dio che dia la
+pace ad Aveh, Nisan e
+Kislev.<Delay 60>
+La pace sia con voi
+tutti.<Close><End of Block>
+<TextBlock 22 w:42 h:1>
+Aspettate un momento.<Opcode 2 30><Close><End of Block>
+<TextBlock 23 w:52 h:3>
+Vi siamo grati per aver
+salvato Madre Margherita.<New>
+Grazie a voi possiamo
+ritornare a Nisan
+felicissime.<Close><End of Block>
+<TextBlock 24 w:42 h:1>
+Aspettate un momento.<Opcode 2 30><Close><End of Block>
+<TextBlock 25 w:44 h:3>
+Vorremmo costruire
+delle Chiese di Nisan
+a Bledavik e a Dajil.<Close><End of Block>
+<TextBlock 26 w:42 h:1>
+Aspettate un momento.<Opcode 2 30><Close><End of Block>
+<TextBlock 27 w:44 h:3>
+Questa è la stanza
+nella quale Madre
+Margherita era stata
+imprigionata.<New>
+Deve essere stata
+così terrorizzata!<Close><Close><End of Block>

@@ -1,0 +1,2710 @@
+#### 1 ####
+Gate Keeper
+"Beyond here is the 
+competitors' Gear storage 
+paddock.{enter}
+Sorry, but to prevent pilots
+cheating, unauthorized entry
+is not permitted."
+
+#### 2 ####
+Informationist
+"Nothing learned nothing 
+gained. Ask and you shall
+receive{wait:05}...{wait:05}perhaps.{enter}
+Anyway, 'Battler', what do
+you need to know about the
+Battling Contest?"
+
+#### 3 ####
+Informationist
+"What shall I explain?"{wait:0F}
+{fast:FF}    What's Battling?
+    Basic control method?
+    I'm alright thanks!
+
+#### 4 ####
+BP-Exchanger Girl
+"What can I do for you?"
+{fast:FF}    Current Battle Points
+    What are Battle Points?
+    Item Exchange
+    Nothing thanks!
+
+#### 5 ####
+{fast:FF}CURRENT BP:{number(s):00}
+TOTAL   BP:{number(s):01}
+
+#### 6 ####
+BP-Exchanger Girl
+"Battle Points are what you
+earn each time you win a
+battle.{wait:0F} 
+There are two types of
+records kept.{enter}
+First, 
+'Current BP'{wait:1E}
+This represents the current 
+number of Battle Points you 
+have obtained.{enter}
+You are able to exchange
+'Current BP' for prizes
+such as items. {wait:1E}
+When you make an exchange,
+the appropriate number of
+points will be deducted.{enter}
+Second,
+'Total BP'{wait:1E}
+This represents the total
+amount of battle points you
+have collected up to now.{enter}
+'Total BP' aren't normally
+affected when you exchange
+items.{wait:1E} Also when your 'Total
+BP' reach set values you can
+exchange them for a variety
+of 'Rare Items'.{enter}
+But remember: caveat emptor!
+Not everything is so simple!
+There are also prizes that
+reduce your "Total BP" too!
+So pay attention when making 
+exchanges!{enter}
+In those cases, it might be
+better to choose prizes that
+don't reduce your Total BP.
+{wait:0F}...{wait:05}But then again, if you 
+want something really bad{wait:05}...{wait:0F}
+well anyway, it's up to you!
+
+#### 7 ####
+"Here's the 'Item Exchange
+Menu'{wait:05}...{wait:05} Make your choice!"{wait:1E}
+{fast:FF}    About Item Exchanges...
+    Normal Item Exchange
+    Rare Item Exchange
+    I've changed my mind!
+
+#### 8 ####
+BP-Exchanger Girl
+"During Normal Item Exchange
+you can exchange the Battle
+Points you earned from
+Battling for a variety of
+items, Gear parts, etc.{enter}
+It is an 'exchange', so when
+you do trade-in your points,
+naturally those points will
+be deducted!"
+
+#### 9 ####
+BP-Exchanger Girl
+"Once you select the item 
+you want to exchange points
+for, apart from defective 
+items, we offer no refunds!
+So take care in choosing!"
+
+#### 10 ####
+BP-Exchanger Girl
+"The other exchange is for
+rare items. When your total
+points reach a certain level
+you are presented with these
+items.{enter}
+The items prepared for you
+cannot be found anywhere
+else, so are quite valuable.
+That is also why you can 
+only acquire one of each!"
+
+#### 11 ####
+BP-Exchanger Girl
+"Trade BP for which item: ?"{wait:1E}
+{fast:FF}    #00: Anoret Seed
+    #01: Bulimy Seed
+    #02: Samson's Hair
+    #03: Anoret Fruit
+    #04: Bulimy Fruit
+    #05: Lite Armor+1
+    #06: Lite Armor+2
+    ¡¤PAGE 2
+    Not now, thanks.
+ 
+   CURRENT BP:{number(s):00}
+
+#### 12 ####
+BP-Exchanger Girl
+"Is this the right prize?"{wait:1E}
+    Sorry, my mistake!
+    Yeah, exchange it!
+{fast:FF}  ¡¤#00: 'Anoret Seed'
+  ¡¤CURRENT BP -250
+
+#### 13 ####
+BP-Exchanger Girl
+"{wait:05}...{wait:05}Is that so?{wait:0F}
+Well, which prize do you 
+want to exchange GP for?{wait:1E}
+Next time, get it right!"
+
+#### 14 ####
+Received 'Anoret Seed'!
+
+#### 15 ####
+BP-Exchanger Girl
+"Sorry buster,{wait:05} but you don't
+seem to have the prescribed
+amount of points! {wait:05}...{wait:0F}
+No can do!"
+
+#### 16 ####
+BP-Exchanger Girl
+"Is this the right prize?"{wait:1E}
+    Oops, wrong choice!
+    Yep, I'll trade you!
+{fast:FF}  ¡¤#01: 'Bulimy Seed'
+  ¡¤CURRENT BP -250
+
+#### 17 ####
+BP-Exchanger Girl
+"{wait:05}...{wait:05}Is that the case?{wait:0F}
+Well then, which item do you
+want to exchange GP for?{wait:1E}
+This time, get it right!"
+
+#### 18 ####
+Received 'Bulimy Seed'!
+
+#### 19 ####
+BP-Exchanger Girl
+"Excuse me,{wait:05} but you don't
+seem to have the set number of 
+points for the exchange! {wait:05}...{wait:0F}
+I'm afraid it's a no-go!"
+
+#### 20 ####
+BP-Exchanger Girl
+"Is this the right prize?"{wait:1E}
+    No, my error!
+    Yes, let's exchange!
+{fast:FF}  ¡¤#02: 'Samson's Hair'
+  ¡¤CURRENT BP -800
+
+#### 21 ####
+BP-Exchanger Girl
+"{wait:05}...{wait:05} Oh really?{wait:0F}
+So then, which item do you 
+want to trade me GP for?{wait:1E}
+This time, choose better!"
+
+#### 22 ####
+Received 'Samson's Hair'!
+
+#### 23 ####
+BP-Exchanger Girl
+"Sorry-dorry,{wait:05} but you don't
+have the right amount of 
+points! So{wait:05}...{wait:0F}
+I can't exchange with you!"
+
+#### 24 ####
+BP-Exchanger Girl
+"Is this the right prize?"{wait:1E}
+    No it isn't, sorry!
+    Yes, so let's trade!
+{fast:FF}  ¡¤#03: 'Anoret Fruit'
+  ¡¤CURRENT BP -750
+
+#### 25 ####
+BP-Exchanger Girl
+"{wait:05}...{wait:05}Well don't blame me!{wait:0F}
+So, buster, what item do you
+want to exchange us GP for?{wait:1E}
+Get it right this time, OK!"
+
+#### 26 ####
+Received 'Anoret Fruit'!
+
+#### 27 ####
+BP-Exchanger Girl
+"Are you trying to be funny?{wait:05} 
+Cause you sure don't seem to
+have enough points{wait:05}...!{wait:0F}
+No points, no trade!"
+
+#### 28 ####
+BP-Exchanger Girl
+"Is this the right prize?"{wait:1E}
+    Oh no, my mistake!
+    Yes, it's a deal!
+{fast:FF}  ¡¤#04: 'Bulimy Fruit'
+  ¡¤CURRENT BP -750
+
+#### 29 ####
+BP-Exchanger Girl
+"{wait:05}...{wait:05}Your mistake, huh?{wait:0F}
+Alright, which item do you 
+want to exchange GP for?{wait:1E}
+Show more consideration!"
+
+#### 30 ####
+Received 'Bulimy Fruit'!
+
+#### 31 ####
+BP-Exchanger Girl
+"Oh no,{wait:05} you don't seem to
+have enough points{wait:05}...!{wait:0F}
+I'm sure it's only a mistake
+but, sorry, no exchange!"
+
+#### 32 ####
+BP-Exchanger Girl
+"Is this the right prize?"{wait:1E}
+    Oops, my boo-boo!
+    OK, it's a trade!
+{fast:FF}  ¡¤#05: 'Lite Armor+1'
+  ¡¤CURRENT BP -750
+
+#### 33 ####
+BP-Exchanger Girl
+"{wait:05}...{wait:05}'Oops, my boo-boo'...!?{wait:0F}
+Well, boo-boo's, what item
+do you want to trade GP for?{wait:1E}
+Choose carefully please!"
+
+#### 34 ####
+Received 'Lite Armor+1'!
+
+#### 35 ####
+BP-Exchanger Girl
+"I'd like to trade you,{wait:05} but
+you don't quite have enough
+points! Sorry{wait:05}...{wait:0F}
+you'll have to try later!"
+
+#### 36 ####
+BP-Exchanger Girl
+"Is this the right prize?"{wait:1E}
+    No, changed my mind!
+    Yes, let's exchange!
+{fast:FF}  ¡¤#06: 'Lite Armor+2'
+  ¡¤CURRENT BP -1000
+
+#### 37 ####
+BP-Exchanger Girl
+"{wait:05}...{wait:05}Changed your mind?{wait:0F}
+Well, Mr. Fickle, which item 
+do you want to trade GP for?{wait:1E}
+
+#### 38 ####
+Received 'Lite Armor+2'!
+
+#### 39 ####
+BP-Exchanger Girl
+"What,{wait:05} you thought I was
+born yesterday!?{wait:0F}
+You don't have enough 
+points!{wait:05} No deal!"
+
+#### 40 ####
+BP-Exchanger Girl
+"Trade BP for which item: ?"{wait:1E}
+{fast:FF}    #07: Lite Armor+3
+    #08: Mirror Armor
+    #09: Wind Ring
+    #10: Earth Ring
+    #11: Fire Ring
+    #12: Water Ring
+    ¡¤PAGE 1
+    ¡¤PAGE 3
+    Don't want to trade!
+ 
+   CURRENT BP:{number(s):00}
+
+#### 41 ####
+BP-Exchanger Girl
+"Is this the right prize?"{wait:1E}
+    Sorry, my mistake!
+    Yeah, exchange it!
+{fast:FF}  ¡¤#07: 'Lite Armor+3'
+  ¡¤CURRENT BP -1250
+
+#### 42 ####
+BP-Exchanger Girl
+"{wait:05}...{wait:05}Is that so?{wait:0F}
+Well, which item do you
+want to exchange GP for?{wait:1E}
+Next time, get it right!"
+
+#### 43 ####
+Received 'Lite Armor+3'!
+
+#### 44 ####
+BP-Exchanger Girl
+"Sorry buster,{wait:05} but you don't
+seem to have the prescribed
+amount of points{wait:05}...!{wait:0F}
+No can do!"
+
+#### 45 ####
+BP-Exchanger Girl
+"Is this the right prize?"{wait:1E}
+    Oops, wrong choice!
+    Yep, I'll trade you!
+{fast:FF}  ¡¤#08: 'Mirror Armor'
+  ¡¤CURRENT BP -1500
+
+#### 46 ####
+BP-Exchanger Girl
+"{wait:05}...{wait:05}Is that the case?{wait:0F}
+Well then, which item do you
+want to exchange GP for?{wait:1E}
+This time, get it right!"
+
+#### 47 ####
+Received 'Mirror Armor'!
+
+#### 48 ####
+BP-Exchanger Girl
+"Excuse me,{wait:05} but you don't
+seem to have the set number of
+points for the exchange{wait:05}...!{wait:0F}
+I'm afraid it's a no-go!"
+
+#### 49 ####
+BP-Exchanger Girl
+"Is this the right prize?"{wait:1E}
+    No, my error!
+    Yes, let's exchange!
+{fast:FF}  ¡¤#09: 'Wind Ring'
+  ¡¤CURRENT BP -2000
+
+#### 50 ####
+BP-Exchanger Girl
+"{wait:05}...{wait:05}Oh really?{wait:0F}
+So then, which item do you 
+want to trade me GP for?{wait:1E}
+This time, choose better!"
+
+#### 51 ####
+Received 'Wind Ring'!
+
+#### 52 ####
+BP-Exchanger Girl
+"Sorry-dorry,{wait:05} but you don't
+have the right amount of
+points! So{wait:05}...{wait:0F}
+I can't exchange with you!"
+
+#### 53 ####
+BP-Exchanger Girl
+"Is this the right prize?"{wait:1E}
+    No it isn't, sorry!
+    Yes, so let's trade!
+{fast:FF}  ¡¤#10: 'Earth Ring'
+  ¡¤CURRENT BP -2000
+
+#### 54 ####
+BP-Exchanger Girl
+"{wait:05}...{wait:05}Well don't blame me!{wait:0F}
+So, buster, what item do you
+want to exchange us GP for?{wait:1E}
+Get it right this time, OK!"
+
+#### 55 ####
+Received 'Earth Ring'!
+
+#### 56 ####
+BP-Exchanger Girl
+"Are you trying to be funny?{wait:05} 
+Cause you sure don't seem to
+have enough points{wait:05}...!{wait:0F}
+No points, no trade!"
+
+#### 57 ####
+BP-Exchanger Girl
+"Is this the right prize?"{wait:1E}
+    Oh no, my mistake!
+    Yes, it's a deal!
+{fast:FF}  ¡¤#11: 'Fire Ring'
+  ¡¤CURRENT BP -2000
+
+#### 58 ####
+BP-Exchanger Girl
+"{wait:05}...{wait:05}Your mistake, huh?{wait:0F}
+Alright, which item do you 
+want to exchange GP for?{wait:1E}
+Show more consideration!"
+
+#### 59 ####
+Received 'Fire Ring'!
+
+#### 60 ####
+BP-Exchanger Girl
+"Oh no,{wait:05} you don't seem to
+have enough points{wait:05}...!{wait:0F}
+I'm sure it's only a mistake
+but, sorry, no exchange!"
+
+#### 61 ####
+BP-Exchanger Girl
+"Is this the right prize?"{wait:1E}
+    Oops, my miss!
+    OK, it's a trade!
+{fast:FF}  ¡¤#12: 'Water Ring'
+  ¡¤CURRENT BP -2000
+
+#### 62 ####
+BP-Exchanger Girl
+"{wait:05}...{wait:05}'Oops, my miss'...!?{wait:0F}
+Well, 'miss', what item
+do you want to trade GP for?{wait:1E}
+Choose carefully please!"
+
+#### 63 ####
+Received 'Water Ring'!
+
+#### 64 ####
+BP-Exchanger Girl
+"I'd like to trade you,{wait:05} but
+you don't quite have enough
+points! Sorry{wait:05}...{wait:0F}
+you'll have to try later!"
+
+#### 65 ####
+BP-Exchanger Girl
+"Trade BP for which item: ?"{wait:1E}
+{fast:FF}    #13: Wind Veil Armor
+    #14: Earth Veil Armor
+    #15: Fire Veil Armor
+    #16: Water Veil Armor
+    #17: ElementAero
+    #18: ElementTerra
+    ¡¤PAGE 2
+    ¡¤PAGE 4
+    Decided against it!
+ 
+   CURRENT BP:{number(s):00}
+
+#### 66 ####
+BP-Exchanger Girl
+"Is this prize alright?"{wait:1E}
+    No, changed my mind!
+    Yes, let's exchange!
+{fast:FF}  ¡¤#13: 'Wind Veil Armor'
+  ¡¤CURRENT BP -3500
+
+#### 67 ####
+BP-Exchanger Girl
+"{wait:05}...{wait:05}Changed your mind?{wait:0F}
+Well, Mr. Fickle, which item 
+do you want to trade GP for?{wait:1E}
+Please make up your mind!"
+
+#### 68 ####
+Received 'Wind Veil Armor'!
+
+#### 69 ####
+BP-Exchanger Girl
+"What,{wait:05} you thought I was
+born yesterday!?{wait:0F}
+You don't have enough 
+points!{wait:05} No deal!"
+
+#### 70 ####
+BP-Exchanger Girl
+"Is this the right prize?"{wait:1E}
+    Sorry, my mistake!
+    Yeah, exchange it!
+{fast:FF}  ¡¤#14: 'Earth Veil Armor'
+  ¡¤CURRENT BP -3500
+
+#### 71 ####
+BP-Exchanger Girl
+"{wait:05}...{wait:05}Is that so?{wait:0F}
+Well, which item do you 
+want to exchange GP for?{wait:1E}
+Next time, get it right!"
+
+#### 72 ####
+Received 'Earth Veil Armor'!
+
+#### 73 ####
+BP-Exchanger Girl
+"Sorry buster,{wait:05} but you don't
+seem to have the prescribed
+amount of points{wait:05}...!{wait:0F}
+No can do!"
+
+#### 74 ####
+BP-Exchanger Girl
+"Is this the right prize?"{wait:1E}
+    Oops, wrong choice!
+    Yep, I'll trade you!
+{fast:FF}  ¡¤#15: 'Fire Veil Armor'
+  ¡¤CURRENT BP -3500
+
+#### 75 ####
+BP-Exchanger Girl
+"{wait:05}...{wait:05}Is that the case?{wait:0F}
+Well then, which item do you
+want to exchange GP for?{wait:1E}
+This time, get it right!"
+
+#### 76 ####
+Received 'Fire Veil Armor'!
+
+#### 77 ####
+BP-Exchanger Girl
+"Excuse me,{wait:05} but you don't
+seem to have the set number of 
+points for the exchange{wait:05}...!{wait:0F}
+I'm afraid it's a no-go!"
+
+#### 78 ####
+BP-Exchanger Girl
+"Is this the right prize?"{wait:1E}
+    No, my error!
+    Yes, let's exchange!
+{fast:FF}  ¡¤#16: 'Water Veil Armor'
+  ¡¤CURRENT BP -3500
+
+#### 79 ####
+BP-Exchanger Girl
+"{wait:05}...{wait:05}Oh really?{wait:0F}
+So then, which item do you 
+want to trade me GP for?{wait:1E}
+This time, choose better!"
+
+#### 80 ####
+Received 'Water Veil Armor'!
+
+#### 81 ####
+BP-Exchanger Girl
+"Sorry-dorry,{wait:05} but you don't
+have the right amount of 
+points! So{wait:05}...{wait:0F}
+I can't exchange with you!"
+
+#### 82 ####
+BP-Exchanger Girl
+"Is this the right prize?"{wait:1E}
+    No it isn't, sorry!
+    Yes, so let's trade!
+{fast:FF}  ¡¤#17: 'ElementAero'
+  ¡¤CURRENT BP -4500
+
+#### 83 ####
+BP-Exchanger Girl
+"{wait:05}...{wait:05}Well don't blame me!{wait:0F}
+So, buster, what item do you
+want to exchange us GP for?{wait:1E}
+Get it right this time, OK!"
+
+#### 84 ####
+Received 'ElementAero'!
+
+#### 85 ####
+BP-Exchanger Girl
+"Are you trying to be funny?{wait:05} 
+Cause you sure don't seem to
+have enough points{wait:05}...!{wait:0F}
+No points, no trade!"
+
+#### 86 ####
+BP-Exchanger Girl
+"Is this the right prize?"{wait:1E}
+    Oh no, my mistake!
+    Yes, it's a deal!
+{fast:FF}  ¡¤#18: 'ElementTerra'
+  ¡¤CURRENT BP -4500
+
+#### 87 ####
+BP-Exchanger Girl
+"{wait:05}...{wait:05}Your mistake, huh?{wait:0F}
+Alright, which item do you 
+want to exchange GP for?{wait:1E}
+Show more consideration!"
+
+#### 88 ####
+Received 'ElementTerra'
+
+#### 89 ####
+BP-Exchanger Girl
+"Oh no,{wait:05} you don't seem to
+have enough points{wait:05}...!{wait:0F}
+I'm sure it's only a mistake
+but, sorry, no exchange!"
+
+#### 90 ####
+BP-Exchanger Girl
+"Trade BP for which item: ?"{wait:1E}
+{fast:FF}    #19: ElementPyro
+    #20: ElementHydro
+    #21: EtherStoneLg
+    #22: AntiEthRockL
+    ¡¤PAGE 3
+    ¡¤PAGE 1
+    Sorry, nothing I want!
+ 
+   CURRENT BP:{number(s):00}
+
+#### 91 ####
+BP-Exchanger Girl
+"Is this the right prize?"{wait:1E}
+    Oops, my boo-boo!
+    OK, it's a trade!
+{fast:FF}  ¡¤#19: 'ElementPyro'
+  ¡¤CURRENT BP -4500
+
+#### 92 ####
+BP-Exchanger Girl
+"{wait:05}...{wait:05}'Oops, my boo-boo'...!?{wait:0F}
+Well, boo-boo, what item do
+you want to trade GP for?{wait:1E}
+Choose carefully please!"
+
+#### 93 ####
+Received 'ElementPyro'!
+
+#### 94 ####
+BP-Exchanger Girl
+"I'd like to trade you,{wait:05} but
+you don't quite have enough
+points! Sorry{wait:05}...{wait:0F}
+you'll have to try later!"
+
+#### 95 ####
+BP-Exchanger Girl
+"Is this the right prize?"{wait:1E}
+    No, changed my mind!
+    Yes, let's exchange!
+{fast:FF}  ¡¤#20: 'ElementHydro'
+  ¡¤CURRENT BP -4500
+
+#### 96 ####
+BP-Exchanger Girl
+"{wait:05}...{wait:05}Changed your mind?{wait:0F}
+Well, Mr. Moody, which item 
+do you want to trade GP for?{wait:1E}
+Please make up your mind!"
+
+#### 97 ####
+Received 'ElementHydro'!
+
+#### 98 ####
+BP-Exchanger Girl
+"What,{wait:05} you thought I was
+born yesterday!?{wait:0F}
+You don't have enough 
+points!{wait:05} No deal!"
+
+#### 99 ####
+BP-Exchanger Girl
+"Is this the right prize?"{wait:1E}
+    Sorry, my mistake!
+    Yeah, exchange it!
+{fast:FF}  ¡¤#21: 'EtherStoneLg'
+  ¡¤CURRENT BP -7500
+
+#### 100 ####
+BP-Exchanger Girl
+"{wait:05}...{wait:05}Is that so?{wait:0F}
+Well, which item do you 
+want to exchange GP for?{wait:1E}
+Next time, get it right!"
+
+#### 101 ####
+Received 'EtherStoneLg'!
+
+#### 102 ####
+BP-Exchanger Girl
+"Sorry buster,{wait:05} but you don't
+seem to have the prescribed
+amount of points{wait:05}...!{wait:0F}
+No can do!"
+
+#### 103 ####
+BP-Exchanger Girl
+"Is this the right prize?"{wait:1E}
+    Oops, wrong choice!
+    Yep, I'll trade you!
+{fast:FF}  ¡¤#22: 'AntiEthRockL'
+  ¡¤CURRENT BP -8000
+
+#### 104 ####
+BP-Exchanger Girl
+"{wait:05}...{wait:05}Is that the case?{wait:0F}
+Well then, which item do you
+want to exchange GP for?{wait:1E}
+This time, get it right!"
+
+#### 105 ####
+Received 'AntiEthRockL'!
+
+#### 106 ####
+BP-Exchanger Girl
+"Excuse me,{wait:05} but you don't
+seem to have the set number of 
+points for the exchange{wait:05}...!{wait:0F}
+I'm afraid it's a no-go!"
+
+#### 107 ####
+BP-Exchanger Girl
+"Trade for which item ?"{wait:1E}
+{fast:FF}    #00: M Disk
+    #01: Power Ring S
+    #02: Stamina Ring S
+    #03: Speed Ring S
+    #04: Gallant Belt
+    #05: Fei  Jr. Doll
+    #06: Bart Jr. Doll
+    ¡¤PAGE 2
+    Don't wanna trade now!
+ 
+   TOTAL BP:{number(s):00}
+
+#### 108 ####
+BP-Exchanger Girl
+"You want the prize below?"{wait:1E}
+    No sorry, my mistake!
+    Yes, trade me for it!
+{fast:FF}  ¡¤#00: 'M Disk'
+  ¡¤CURRENT BP : -3500
+  ¡¤TOTAL   BP : -4000
+
+#### 109 ####
+BP-Exchanger Girl
+"{wait:05}...Oh,{wait:05} is that so? {wait:0F}
+Well then, which prize do
+you want to trade me for?{wait:1E}
+And would you choose more
+carefully next time please!"
+
+#### 110 ####
+BP-Exchanger Girl
+"Hey,{wait:05} hang on a second!{wait:0F}
+Don't you already have one
+of these?{enter}
+Our precious prizes can't be
+obtained elsewhere, so that
+means we have to limit them
+to one per person. Sorry!"
+
+#### 111 ####
+Received 'M Disk'!
+
+#### 112 ####
+BP-Exchanger Girl
+"Sorry,{wait:05} but you don't seem
+to have the right amount of
+points{wait:05}...!{wait:0F} Too bad,{wait:05} but I
+cannot trade this with you!"
+
+#### 113 ####
+BP-Exchanger Girl
+"Sorry,{wait:05} but you don't seem
+to have the right amount of
+points{wait:05}...!{wait:0F} Too bad,{wait:05} but I
+cannot trade this with you!"
+
+#### 114 ####
+BP-Exchanger Girl
+"You want the prize below?"{wait:1E}
+    No thanks, I don't!
+    Yes, let's trade!
+{fast:FF}  ¡¤#01: 'Power Ring S'
+  ¡¤TOTAL BP : 2000
+
+#### 115 ####
+BP-Exchanger Girl
+"{wait:05}...Oh,{wait:05} is that so? {wait:0F}
+Well then, which prize do
+you want to trade me for?{wait:1E}
+And would you choose more
+carefully next time please!"
+
+#### 116 ####
+BP-Exchanger Girl
+"Hey,{wait:05} hang on a second!{wait:0F}
+Don't you already have one
+of these?{enter}
+Our precious prizes can't be
+obtained elsewhere, so that
+means we have to limit them
+to one per person. Sorry!"
+
+#### 117 ####
+Received 'Power Ring S'!
+
+#### 118 ####
+BP-Exchanger Girl
+"Sorry,{wait:05} but you don't seem
+to have the right amount of
+points{wait:05}...!{wait:0F} Too bad,{wait:05} but I
+cannot trade this with you!"
+
+#### 119 ####
+BP-Exchanger Girl
+"You want the prize below?"{wait:1E}
+    Sorry, no deal!
+    I want it, so trade me!
+{fast:FF}  ¡¤#02: 'Stamina Ring S'
+  ¡¤TOTAL BP : 3000
+
+#### 120 ####
+BP-Exchanger Girl
+"{wait:05}...Oh,{wait:05} is that so? {wait:0F}
+Well then, which prize do
+you want to trade me for?{wait:1E}
+And would you choose more
+carefully next time please!"
+
+#### 121 ####
+BP-Exchanger Girl
+"Hey,{wait:05} hang on a second!{wait:0F}
+Don't you already have one
+of these?{enter}
+Our precious prizes can't be
+obtained elsewhere, so that
+means we have to limit them
+to one per person. Sorry!"
+
+#### 122 ####
+Received 'Stamina Ring S'!
+
+#### 123 ####
+BP-Exchanger Girl
+"Sorry,{wait:05} but you don't seem
+to have the right amount of
+points!{wait:05} ...{wait:0F}Too bad,{wait:05} but I
+cannot trade this with you!"
+
+#### 124 ####
+BP-Exchanger Girl
+"You want the prize below?"{wait:1E}
+    No thank you, not now!
+    OK, it's a deal!
+{fast:FF}  ¡¤#03: 'Speed Ring S'
+  ¡¤TOTAL BP : 4500
+
+#### 125 ####
+BP-Exchanger Girl
+"{wait:05}...Oh,{wait:05} is that so? {wait:0F}
+Well then, which prize do
+you want to trade me for?{wait:1E}
+And would you choose more
+carefully next time please!"
+
+#### 126 ####
+BP-Exchanger Girl
+"Hey,{wait:05} hang on a second!{wait:0F}
+Don't you already have one
+of these?{enter}
+Our precious prizes can't be
+obtained elsewhere, so that
+means we have to limit them
+to one per person. Sorry!"
+
+#### 127 ####
+Received 'Speed Ring S'!
+
+#### 128 ####
+BP-Exchanger Girl
+"Sorry,{wait:05} but you don't seem
+to have the right amount of
+points!{wait:05} ...{wait:0F}Too bad,{wait:05} but I
+cannot trade this with you!"
+
+#### 129 ####
+BP-Exchanger Girl
+"You want the prize below?"{wait:1E}
+    Thanks, but no thanks!
+    Yes please!
+{fast:FF}  ¡¤#04: 'Gallant Belt'
+  ¡¤TOTAL BP : 6000
+
+#### 130 ####
+BP-Exchanger Girl
+"{wait:05}...Oh,{wait:05} is that so? {wait:0F}
+Well then, which prize do
+you want to trade me for?{wait:1E}
+And would you choose more
+carefully next time please!"
+
+#### 131 ####
+BP-Exchanger Girl
+"Hey,{wait:05} hang on a second!{wait:0F}
+Don't you already have one
+of these?{enter}
+Our precious prizes can't be
+obtained elsewhere, so that
+means we have to limit them
+to one per person. Sorry!"
+
+#### 132 ####
+Received 'Gallant Belt'!
+
+#### 133 ####
+BP-Exchanger Girl
+"Sorry,{wait:05} but you don't seem
+to have the right amount of
+points!{wait:05} ...{wait:0F}Too bad,{wait:05} but I
+cannot trade this with you!"
+
+#### 134 ####
+BP-Exchanger Girl
+"You want the prize below?"{wait:1E}
+    Not really, no!
+    Yeah, I want it bad!
+{fast:FF}  ¡¤#05: 'Fei Jr. Doll'
+  ¡¤CURRENT BP : - 500
+  ¡¤TOTAL   BP : -3000
+
+#### 135 ####
+BP-Exchanger Girl
+"{wait:05}...Oh,{wait:05} is that so? {wait:0F}
+Well then, which prize do
+you want to trade me for?{wait:1E}
+And would you choose more
+carefully next time please!"
+
+#### 136 ####
+BP-Exchanger Girl
+"Hey,{wait:05} hang on a second!{wait:0F}
+Don't you already have one
+of these?{enter}
+Our precious prizes can't be
+obtained elsewhere, so that
+means we have to limit them
+to one per person. Sorry!"
+
+#### 137 ####
+Received 'Fei Jr. Doll'!
+
+#### 138 ####
+BP-Exchanger Girl
+"Sorry,{wait:05} but you don't seem
+to have the right amount of
+points!{wait:05} ...{wait:0F}Too bad,{wait:05} but I
+cannot trade this with you!"
+
+#### 139 ####
+BP-Exchanger Girl
+"Sorry,{wait:05} but you don't seem
+to have the right amount of
+points{wait:05}...!{wait:0F} Too bad,{wait:05} but I
+cannot trade this with you!"
+
+#### 140 ####
+BP-Exchanger Girl
+"You want the prize below?"{wait:1E}
+    No I don't want it!
+    Yes I'll exchange you!
+{fast:FF}  ¡¤#06: 'Bart Jr. Doll'
+  ¡¤CURRENT BP : - 500
+  ¡¤TOTAL   BP : -3000
+
+#### 141 ####
+BP-Exchanger Girl
+"{wait:05}...Oh,{wait:05} is that so? {wait:0F}
+Well then, which prize do
+you want to trade me for?{wait:1E}
+And would you choose more
+carefully next time please!"
+
+#### 142 ####
+BP-Exchanger Girl
+"Hey,{wait:05} hang on a second!{wait:0F}
+Don't you already have one
+of these?{enter}
+Our precious prizes can't be
+obtained elsewhere, so that
+means we have to limit them
+to one per person. Sorry!"
+
+#### 143 ####
+Received 'Bart Jr. Doll'!
+
+#### 144 ####
+BP-Exchanger Girl
+"Sorry,{wait:05} but you don't seem
+to have the right amount of
+points{wait:05}...!{wait:0F} Too bad,{wait:05} but I
+cannot trade this with you!"
+
+#### 145 ####
+BP-Exchanger Girl
+"Sorry,{wait:05} but you don't seem
+to have the right amount of
+points!{wait:05} ...{wait:0F}Too bad,{wait:05} but I
+cannot trade this with you!"
+
+#### 146 ####
+BP-Exchanger Girl
+"Trade for which item ?"{wait:1E}
+{fast:FF}    #07: Billy Jr. Doll
+    #08: Body Guard
+    #09: Mind Guard
+    #10: Ether Doubler
+    #11: Ether Guard
+    #12: Life Stone
+    ¡¤PAGE 1
+    ¡¤PAGE 3
+    I think I'll pass!
+ 
+   TOTAL BP:{number(s):00}
+
+#### 147 ####
+BP-Exchanger Girl
+"You want the prize below?"{wait:1E}
+    On second thoughts, no!
+    Yes I'll trade with you!
+{fast:FF}  ¡¤#07: 'Billy Jr. Doll'
+  ¡¤CURRENT BP : - 500
+  ¡¤TOTAL   BP : -3000
+
+#### 148 ####
+BP-Exchanger Girl
+"{wait:05}...Oh,{wait:05} is that so? {wait:0F}
+Well then, which prize do
+you want to trade me for?{wait:1E}
+And would you choose more
+carefully next time please!"
+
+#### 149 ####
+BP-Exchanger Girl
+"Hey,{wait:05} hang on a second!{wait:0F}
+Don't you already have one
+of these?{enter}
+Our precious prizes can't be
+obtained elsewhere, so that
+means we have to limit them
+to one per person. Sorry!"
+
+#### 150 ####
+Received 'Billy Jr. Doll'!
+
+#### 151 ####
+BP-Exchanger Girl
+"Sorry,{wait:05} but you don't seem
+to have the right amount of
+points!{wait:05} ...{wait:0F}Too bad,{wait:05} but I
+cannot trade this with you!"
+
+#### 152 ####
+BP-Exchanger Girl
+"Sorry,{wait:05} but you don't seem
+to have the right amount of
+points!{wait:05} ...{wait:0F}Too bad,{wait:05} but I
+cannot trade this with you!"
+
+#### 153 ####
+BP-Exchanger Girl
+"You want the prize below?"{wait:1E}
+    Oops sorry, my miss!
+    Alright, it's a deal!
+{fast:FF}  ¡¤#08: 'Body Guard'
+  ¡¤CURRENT BP : - 500
+  ¡¤TOTAL   BP : -4000
+
+#### 154 ####
+BP-Exchanger Girl
+"{wait:05}...Oh,{wait:05} is that so? {wait:0F}
+Well then, which prize do
+you want to trade me for?{wait:1E}
+And would you choose more
+carefully next time please!"
+
+#### 155 ####
+BP-Exchanger Girl
+"Hey,{wait:05} hang on a second!{wait:0F}
+Don't you already have one
+of these?{enter}
+Our precious prizes can't be
+obtained elsewhere, so that
+means we have to limit them
+to one per person. Sorry!"
+
+#### 156 ####
+Received 'Body Guard'!
+
+#### 157 ####
+BP-Exchanger Girl
+"Sorry,{wait:05} but you don't seem
+to have the right amount of
+points{wait:05}...!{wait:0F} Too bad,{wait:05} but I
+cannot trade this with you!"
+
+#### 158 ####
+BP-Exchanger Girl
+"Sorry,{wait:05} but you don't seem
+to have the right amount of
+points{wait:05}...!{wait:0F} Too bad,{wait:05} but I
+cannot trade this with you!"
+
+#### 159 ####
+BP-Exchanger Girl
+"You want the prize below?"{wait:1E}
+    No sorry, my mistake!
+    Yes, trade me for it!
+{fast:FF}  ¡¤#09: 'Mind Guard'
+  ¡¤CURRENT BP : - 750
+  ¡¤TOTAL   BP : -4500
+
+#### 160 ####
+BP-Exchanger Girl
+"{wait:05}...Oh,{wait:05} is that so? {wait:0F}
+Well then, which prize do
+you want to trade me for?{wait:1E}
+And would you choose more
+carefully next time please!"
+
+#### 161 ####
+BP-Exchanger Girl
+"Hey,{wait:05} hang on a second!{wait:0F}
+Don't you already have one
+of these?{enter}
+Our precious prizes can't be
+obtained elsewhere, so that
+means we have to limit them
+to one per person. Sorry!"
+
+#### 162 ####
+Received 'Mind Guard'!
+
+#### 163 ####
+BP-Exchanger Girl
+"Sorry,{wait:05} but you don't seem
+to have the right amount of
+points!{wait:05} ...{wait:0F}Too bad,{wait:05} but I
+cannot trade this with you!"
+
+#### 164 ####
+BP-Exchanger Girl
+"Sorry,{wait:05} but you don't seem
+to have the right amount of
+points!{wait:05} ...{wait:0F}Too bad,{wait:05} but I
+cannot trade this with you!"
+
+#### 165 ####
+BP-Exchanger Girl
+"You want the prize below?"{wait:1E}
+    No thanks, I don't!
+    Yes, let's trade!
+{fast:FF}  ¡¤#10: 'Ether Doubler'
+  ¡¤TOTAL BP : 8000
+
+#### 166 ####
+BP-Exchanger Girl
+"{wait:05}...Oh,{wait:05} is that so? {wait:0F}
+Well then, which prize do
+you want to trade me for?{wait:1E}
+And would you choose more
+carefully next time please!"
+
+#### 167 ####
+BP-Exchanger Girl
+"Hey,{wait:05} hang on a second!{wait:0F}
+Don't you already have one
+of these?{enter}
+Our precious prizes can't be
+obtained elsewhere, so that
+means we have to limit them
+to one per person. Sorry!"
+
+#### 168 ####
+Received 'Ether Doubler'!
+
+#### 169 ####
+BP-Exchanger Girl
+"Sorry,{wait:05} but you don't seem
+to have the right amount of
+points!{wait:05} ...{wait:0F}Too bad,{wait:05} but I
+cannot trade this with you!"
+
+#### 170 ####
+BP-Exchanger Girl
+"You want the prize below?"{wait:1E}
+    Sorry, no deal!
+    I want it, so trade me!
+{fast:FF}  ¡¤#11: 'Ether Guard'
+  ¡¤TOTAL BP : 8500
+
+#### 171 ####
+BP-Exchanger Girl
+"{wait:05}...Oh,{wait:05} is that so? {wait:0F}
+Well then, which prize do
+you want to trade me for?{wait:1E}
+And would you choose more
+carefully next time please!"
+
+#### 172 ####
+BP-Exchanger Girl
+"Hey,{wait:05} hang on a second!{wait:0F}
+Don't you already have one
+of these?{enter}
+Our precious prizes can't be
+obtained elsewhere, so that
+means we have to limit them
+to one per person. Sorry!"
+
+#### 173 ####
+Received 'Ether Guard'!
+
+#### 174 ####
+BP-Exchanger Girl
+"Sorry,{wait:05} but you don't seem
+to have the right amount of
+points!{wait:05} ...{wait:0F}Too bad,{wait:05} but I
+cannot trade this with you!"
+
+#### 175 ####
+BP-Exchanger Girl
+"You want the prize below?"{wait:1E}
+    No thank you, not now!
+    OK, it's a deal!
+{fast:FF}  ¡¤#12: 'Life Stone'
+  ¡¤TOTAL BP : 9000
+
+#### 176 ####
+BP-Exchanger Girl
+"{wait:05}...Oh,{wait:05} is that so? {wait:0F}
+Well then, which prize do
+you want to trade me for?{wait:1E}
+And would you choose more
+carefully next time please!"
+
+#### 177 ####
+BP-Exchanger Girl
+"Hey,{wait:05} hang on a second!{wait:0F}
+Don't you already have one
+of these?{enter}
+Our precious prizes can't be
+obtained elsewhere, so that
+means we have to limit them
+to one per person. Sorry!"
+
+#### 178 ####
+Received 'Life Stone'!
+
+#### 179 ####
+BP-Exchanger Girl
+"Sorry,{wait:05} but you don't seem
+to have the right amount of
+points{wait:05}...!{wait:0F} Too bad,{wait:05} but I
+cannot trade this with you!"
+
+#### 180 ####
+BP-Exchanger Girl
+"Trade for which item ?"{wait:1E}
+{fast:FF}    #13: S Charger
+    #14: X Charger
+    #15: GNRS50
+    #16: DeathBlower3
+    #17: Speed Shoes
+    ¡¤PAGE 2
+    ¡¤PAGE 1
+    Not now thank you!
+ 
+   TOTAL BP:{number(s):00}
+
+#### 181 ####
+BP-Exchanger Girl
+"You want the prize below?"{wait:1E}
+    Thanks, but no thanks!
+    Yes please!
+{fast:FF}  ¡¤#13: 'S Charger'
+  ¡¤CURRENT BP : - 2500
+  ¡¤TOTAL   BP : -10000
+
+#### 182 ####
+BP-Exchanger Girl
+"{wait:05}...Oh,{wait:05} is that so? {wait:0F}
+Well then, which prize do
+you want to trade me for?{wait:1E}
+And would you choose more
+carefully next time please!"
+
+#### 183 ####
+BP-Exchanger Girl
+"Hey,{wait:05} hang on a second!{wait:0F}
+Don't you already have one
+of these?{enter}
+Our precious prizes can't be
+obtained elsewhere, so that
+means we have to limit them
+to one per person. Sorry!"
+
+#### 184 ####
+Received 'S Charger'!
+
+#### 185 ####
+BP-Exchanger Girl
+"Sorry,{wait:05} but you don't seem
+to have the right amount of
+points!{wait:05} ...{wait:0F}Too bad,{wait:05} but I
+cannot trade this with you!"
+
+#### 186 ####
+BP-Exchanger Girl
+"Sorry,{wait:05} but you don't seem
+to have the right amount of
+points!{wait:05} ...{wait:0F}Too bad,{wait:05} but I
+cannot trade this with you!"
+
+#### 187 ####
+BP-Exchanger Girl
+"You want the prize below?"{wait:1E}
+    Not really, no!
+    Yeah, I want to trade!
+{fast:FF}  ¡¤#14: 'X Charger'
+  ¡¤CURRENT BP : - 3000
+  ¡¤TOTAL   BP : -12500
+
+#### 188 ####
+BP-Exchanger Girl
+"{wait:05}...Oh,{wait:05} is that so? {wait:0F}
+Well then, which prize do
+you want to trade me for?{wait:1E}
+And would you choose more
+carefully next time please!"
+
+#### 189 ####
+BP-Exchanger Girl
+"Hey,{wait:05} hang on a second!{wait:0F}
+Don't you already have one
+of these?{enter}
+Our precious prizes can't be
+obtained elsewhere, so that
+means we have to limit them
+to one per person. Sorry!"
+
+#### 190 ####
+Received 'X Charger'!
+
+#### 191 ####
+BP-Exchanger Girl
+"Sorry,{wait:05} but you don't seem
+to have the right amount of
+points{wait:05}...!{wait:0F} Too bad,{wait:05} but I
+cannot trade this with you!"
+
+#### 192 ####
+BP-Exchanger Girl
+"Sorry,{wait:05} but you don't seem
+to have the right amount of
+points{wait:05}...!{wait:0F} Too bad,{wait:05} but I
+cannot trade this with you!"
+
+#### 193 ####
+BP-Exchanger Girl
+"You want the prize below?"{wait:1E}
+    No I don't want it!
+    Yes I'll exchange you!
+{fast:FF}  ¡¤#15: 'GNRS50'
+  ¡¤CURRENT BP : - 5000
+  ¡¤TOTAL   BP : -15000
+
+#### 194 ####
+BP-Exchanger Girl
+"{wait:05}...Oh,{wait:05} is that so? {wait:0F}
+Well then, which prize do
+you want to trade me for?{wait:1E}
+And would you choose more
+carefully next time please!"
+
+#### 195 ####
+BP-Exchanger Girl
+"Hey,{wait:05} hang on a second!{wait:0F}
+Don't you already have one
+of these?{enter}
+Our precious prizes can't be
+obtained elsewhere, so that
+means we have to limit them
+to one per person. Sorry!"
+
+#### 196 ####
+Received 'GNRS50'!
+
+#### 197 ####
+BP-Exchanger Girl
+"Sorry,{wait:05} but you don't seem
+to have the right amount of
+points{wait:05}...!{wait:0F} Too bad,{wait:05} but I
+cannot trade this with you!"
+
+#### 198 ####
+BP-Exchanger Girl
+"Sorry,{wait:05} but you don't seem
+to have the right amount of
+points!{wait:05} ...{wait:0F}Too bad,{wait:05} but I
+cannot trade this with you!"
+
+#### 199 ####
+BP-Exchanger Girl
+"You want the prize below?"{wait:1E}
+    On second thoughts, no!
+    Yes I'll trade with you!
+{fast:FF}  ¡¤#16: 'DeathBlower3'
+  ¡¤CURRENT BP : - 7500
+  ¡¤TOTAL   BP : -18000
+
+#### 200 ####
+BP-Exchanger Girl
+"{wait:05}...Oh,{wait:05} is that so? {wait:0F}
+Well then, which prize do
+you want to trade me for?{wait:1E}
+And would you choose more
+carefully next time please!"
+
+#### 201 ####
+BP-Exchanger Girl
+"Hey,{wait:05} hang on a second!{wait:0F}
+Don't you already have one
+of these?{enter}
+Our precious prizes can't be
+obtained elsewhere, so that
+means we have to limit them
+to one per person. Sorry!"
+
+#### 202 ####
+Received 'DeathBlower3'!
+
+#### 203 ####
+BP-Exchanger Girl
+"Sorry,{wait:05} but you don't seem
+to have the right amount of
+points!{wait:05} ...{wait:0F}Too bad,{wait:05} but I
+cannot trade this with you!"
+
+#### 204 ####
+BP-Exchanger Girl
+"Sorry,{wait:05} but you don't seem
+to have the right amount of
+points!{wait:05} ...{wait:0F}Too bad,{wait:05} but I
+cannot trade this with you!"
+
+#### 205 ####
+BP-Exchanger Girl
+"You want the prize below?"{wait:1E}
+    Sorry, just looking!
+    Alright, it's a deal!
+{fast:FF}  ¡¤#17: 'Speed Shoes'
+  ¡¤CURRENT BP : - 4500
+  ¡¤TOTAL   BP : -30000
+
+#### 206 ####
+BP-Exchanger Girl
+"{wait:05}...Oh,{wait:05} is that so? {wait:0F}
+Well then, which prize do
+you want to trade me for?{wait:1E}
+And would you choose more
+carefully next time please!"
+
+#### 207 ####
+BP-Exchanger Girl
+"Hey,{wait:05} hang on a second!{wait:0F}
+Don't you already have one
+of these?{enter}
+Our precious prizes can't be
+obtained elsewhere, so that
+means we have to limit them
+to one per person. Sorry!"
+
+#### 208 ####
+Received 'Speed Shoes'!
+
+#### 209 ####
+BP-Exchanger Girl
+"Sorry,{wait:05} but you don't seem
+to have the right amount of
+points!{wait:05} ...{wait:0F}Too bad,{wait:05} but I
+cannot trade this with you!"
+
+#### 210 ####
+BP-Exchanger Girl
+"Sorry,{wait:05} but you don't seem
+to have the right amount of
+points!{wait:05} ...{wait:0F}Too bad,{wait:05} but I
+cannot trade this with you!"
+
+#### 211 ####
+{fast:FF}¡¤Gear repair costs: - 00 G
+¡¤Battle Points won: - 45 P
+¡¤Special Bonus    : +000 G
+
+#### 212 ####
+{fast:FF}¡¤Gear repair costs: - 00 G
+¡¤Battle Points won: - 75 P
+¡¤Special Bonus    : +000 G
+
+#### 213 ####
+{fast:FF}¡¤Gear repair costs: - 00 G
+¡¤Battle Points won: -300 P
+¡¤Special Bonus    : +000 G
+
+#### 214 ####
+{fast:FF}¡¤Gear repair costs: - 10 G
+¡¤Battle Points won: +145 P
+¡¤Special Bonus    : +210 G
+
+#### 215 ####
+{fast:FF}¡¤Gear repair costs: - 30 G
+¡¤Battle Points won: +175 P
+¡¤Special Bonus    : +330 G
+
+#### 216 ####
+{fast:FF}¡¤Gear repair costs: - 50 G
+¡¤Battle Points won: +450 P
+¡¤Special Bonus    : +550 G
+
+#### 217 ####
+{fast:FF}¡¤Gear repair costs: - 00 G
+¡¤Battle Points won: +215 P
+¡¤Special Bonus    : +500 G
+
+#### 218 ####
+{fast:FF}¡¤Gear repair costs: - 00 G
+¡¤Battle Points won: +300 P
+¡¤Special Bonus    : +700 G
+
+#### 219 ####
+{fast:FF}¡¤Gear repair costs: -  00 G
+¡¤Battle Points won: + 900 P
+¡¤Special Bonus    : +1000 G
+
+#### 220 ####
+{fast:FF}¡¤Gear repair costs: - 50 G
+¡¤Battle Points won: + 75 P
+¡¤Special Bonus    : +150 G
+
+#### 221 ####
+{fast:FF}¡¤Gear repair costs: -100 G
+¡¤Battle Points won: +120 P
+¡¤Special Bonus    : +300 G
+
+#### 222 ####
+{fast:FF}¡¤Gear repair costs: -150 G
+¡¤Battle Points won: +245 P
+¡¤Special Bonus    : +450 G
+
+#### 223 ####
+{fast:FF}¡¤Gear repair costs: - 10 G
+¡¤Battle Points won: - 32 P
+¡¤Special Bonus    : +000 G
+
+#### 224 ####
+{fast:FF}¡¤Gear repair costs: - 30 G
+¡¤Battle Points won: - 48 P
+¡¤Special Bonus    : +000 G
+
+#### 225 ####
+{fast:FF}¡¤Gear repair costs: - 50 G
+¡¤Battle Points won: -150 P
+¡¤Special Bonus    : +000 G
+
+#### 226 ####
+{fast:FF}¡¤Gear repair costs: -  5 G
+¡¤Battle Points won: - 27 P
+¡¤Special Bonus    : +000 G
+
+#### 227 ####
+{fast:FF}¡¤Gear repair costs: - 15 G
+¡¤Battle Points won: - 55 P
+¡¤Special Bonus    : +000 G
+
+#### 228 ####
+{fast:FF}¡¤Gear repair costs: - 45 G
+¡¤Battle Points won: -200 P
+¡¤Special Bonus    : +000 G
+
+#### 229 ####
+{fast:FF}¡¤Gear repair costs: - 15 G
+¡¤Battle Points won: - 16 P
+¡¤Special Bonus    : +000 G
+
+#### 230 ####
+{fast:FF}¡¤Gear repair costs: - 45 G
+¡¤Battle Points won: - 32 P
+¡¤Special Bonus    : +000 G
+
+#### 231 ####
+{fast:FF}¡¤Gear repair costs: - 75 G
+¡¤Battle Points won: -175 P
+¡¤Special Bonus    : +000 G
+
+#### 232 ####
+{fast:FF}¡¤Gear repair costs: - 15 G
+¡¤Battle Points won: - 15 P
+¡¤Special Bonus    : +000 G
+
+#### 233 ####
+{fast:FF}¡¤Gear repair costs: - 45 G
+¡¤Battle Points won: - 30 P
+¡¤Special Bonus    : +000 G
+
+#### 234 ####
+{fast:FF}¡¤Gear repair costs: - 75 G
+¡¤Battle Points won: -125 P
+¡¤Special Bonus    : +000 G
+
+#### 235 ####
+{fast:FF}¡¤Gear repair costs: - 30 G
+¡¤Battle Points won: - 45 P
+¡¤Special Bonus    : +000 G
+
+#### 236 ####
+{fast:FF}¡¤Gear repair costs: - 75 G
+¡¤Battle Points won: - 75 P
+¡¤Special Bonus    : +000 G
+
+#### 237 ####
+{fast:FF}¡¤Gear repair costs: -100 G
+¡¤Battle Points won: -155 P
+¡¤Special Bonus    : +000 G
+
+#### 238 ####
+{fast:FF}¡¤Gear repair costs: - 50 G
+¡¤Battle Points won: -145 P
+¡¤Special Bonus    : +000 G
+
+#### 239 ####
+{fast:FF}¡¤Gear repair costs: -100 G
+¡¤Battle Points won: -175 P
+¡¤Special Bonus    : +000 G
+
+#### 240 ####
+{fast:FF}¡¤Gear repair costs: -150 G
+¡¤Battle Points won: -300 P
+¡¤Special Bonus    : +000 G
+
+#### 241 ####
+{fast:FF}¡¤Gear repair costs: - 50 G
+¡¤Battle Points won: - 90 P
+¡¤Special Bonus    : +000 G
+
+#### 242 ####
+{fast:FF}¡¤Gear repair costs: -100 G
+¡¤Battle Points won: -120 P
+¡¤Special Bonus    : +000 G
+
+#### 243 ####
+{fast:FF}¡¤Gear repair costs: -150 G
+¡¤Battle Points won: -175 P
+¡¤Special Bonus    : +000 G
+
+#### 244 ####
+{fast:FF}¡¤Gear repair costs: - 50 G
+¡¤Battle Points won: -100 P
+¡¤Special Bonus    : +000 G
+
+#### 245 ####
+{fast:FF}¡¤Gear repair costs: -100 G
+¡¤Battle Points won: -150 P
+¡¤Special Bonus    : +000 G
+
+#### 246 ####
+{fast:FF}¡¤Gear repair costs: -150 G
+¡¤Battle Points won: -450 P
+¡¤Special Bonus    : +000 G
+
+#### 247 ####
+"What would you like to do
+about the in-battle music ?"
+    The usual please!
+    It's O.K. as is.
+
+#### 248 ####
+Receptionist
+"I have confirmed the entry
+of Pilot 'Fei'. {wait:0F}
+One moment please{wait:05}..."
+
+#### 249 ####
+'{name:0B:¥ô¥§¥ë¥È©`¥ë}' has been sent
+to the competitors' paddock.
+Standby for boarding!
+
+#### 250 ####
+'{name:0C:¥ô¥§¥ë¥È©`¥ë2}' has been sent 
+to the competitors' paddock.
+Standby for boarding!
+
+#### 251 ####
+'{name:1A:¥¼¥Î¥®¥¢¥¹}' has been sent
+to the competitors' paddock.
+Standby for boarding!
+
+#### 252 ####
+Pilot Fei! 
+Please proceed to the 
+competitor's paddock!{clear:3C}
+
+#### 253 ####
+Informationist
+"Okeydokey!{wait:0F}
+Well then,{wait:05} I'll now explain
+a bit about 'Battling'."
+
+#### 254 ####
+Informationist
+"Battling is the sport of
+fighting one-on-one with
+Gears and is held at the 
+Imperial Capital's arena.{enter}
+The format of the sport is
+simple - fight until one or
+the other breaks down.{wait:0A} 
+In other words, just bash
+your rival to pieces!{enter}
+But you don't have to fight
+till you trash your Gear.{wait:05}
+You are allowed to give up
+during a match...so if you
+can't win{wait:0A}...{wait:05}well, you know!{enter}
+Finally, the armor values
+of Gears during the battling
+bouts are made uniform, so
+that competitors can fight
+on equal terms.{enter}
+In other words, competitors
+must rely fully on the
+fundamental properties
+of the Gears they pilot."
+
+#### 255 ####
+Informationist
+"Well that's the quick
+rundown{wait:05}...I think.{wait:1E}
+Did you get the drift?
+
+#### 256 ####
+{name:80:unknown}
+"Well, errh{wait:05}..."{wait:0F}
+{fast:FF}    Sure, no problem!
+    Sorry I don't get it!
+
+#### 257 ####
+Informationist
+"The next thing to do is to
+gain experience by actually
+Battling. {wait:0F}The key is to
+get used to the controls!{enter}
+But{wait:05} perhaps jumping straight
+into an actual battle is too
+much for you?{wait:0F} Well then,{wait:05} why
+not try our 'practice mode'
+for help with the controls?{enter}
+This is a simulation mode
+where you can practice the
+basic control methods.{wait:0F}
+We recommend that beginners
+should train here first!{enter}
+Also, there is a 'tutorial
+mode' that provides easy 
+lessons, from the basic 
+controls through to an 
+explanation of the screen."
+
+#### 258 ####
+Informationist
+"Is there anything else you
+want to ask about?"
+
+#### 259 ####
+Informationist
+"Huh?{wait:05} You didn't understand?{wait:0A}
+That's strange! Well, once
+again from the beginning...{enter}
+(Gee and I thought this guy
+had it in him?{wait:05} ...Obviously I
+was wrong...{wait:05} Is his head OK?){wait:0A}
+Anyway, listen closely now!"
+
+#### 260 ####
+Informationist
+"Right, the basic controls!
+Well{wait:05} what do you want to do?{wait:0F}
+{fast:FF}    Ask about button controls
+    Tutorial Mode
+    Practice Mode
+    Ask about something else
+
+#### 261 ####
+Informationist
+"Right, the button controls.
+I'll explain each button's
+function accordingly...
+
+#### 262 ####
+Informationist
+"Well, I'll now explain the
+basic control methods using
+the actual screen."
+
+#### 263 ####
+Informationist
+"So, {wait:0A}you want to try out the
+actual controls, huh..."
+
+#### 264 ####
+Informationist
+"Oh,{wait:05} well{wait:05}...have it your way!{wait:0F}
+What else do you want to
+enquire about?"
+
+#### 265 ####
+"Which button do you need
+an explanation of?{wait:0F}
+{fast:FF}    Directional button
+    ¡Á button
+    ¡õ button
+    ¡÷ button
+    ¡ð button
+    Next page
+
+#### 266 ####
+"Which shall I explain to
+you about?"{wait:0F}
+{fast:FF}    L1 button
+    R1 button
+    Start button
+    Back to first page
+    End explanation
+
+#### 267 ####
+Informationist
+"Oh{wait:05}...had enough already?
+Anything else you need to
+know?{wait:0F} Don't be afraid now!
+
+#### 268 ####
+Informationist
+"O.K.,{wait:05} about the Directional
+button... {wait:0F}Assuming that your
+opponent is on your right
+(from your viewpoint) then:{enter}
+¡¤ UP moves your Gear back
+ away from the screen.{wait:2D}
+¡¤ DOWN moves your Gear in
+ towards the screen.{enter}
+¡¤ RIGHT moves your Gear
+ towards your opponent.{wait:2D}
+¡¤ LEFT moves your Gear
+ away from your opponent.
+
+#### 269 ####
+Informationist
+"Lastly, when you're close
+to your opponent, pressing
+LEFT invokes a special move
+momentary back acceleration!{enter}
+This momentarily distances
+you from your opponent (or
+allows you to 'run away')!{wait:1E}
+Just remember the opposite
+direction to your opponent.
+
+#### 270 ####
+Informationist
+"That's it in a nutshell!{wait:1E}
+It's probably easier to get
+the idea by actually trying
+your hand at the controls!"
+
+#### 271 ####
+Informationist
+"The ¡Á button is ATTACK.{wait:0F}
+(There are 3 attack buttons
+and ¡Á is one of them.){enter}
+It changes from Gear to Gear
+but is mainly meant for
+close combat.{wait:0F} And you're not
+limited to just one blow.{enter}
+By combining the ¡Á and ¡õ
+buttons you are able to make
+a chain of attacks up to
+three long!{enter}
+All together there are 14
+such combinations that you
+can use!"
+
+#### 272 ####
+Informationist
+"The ¡õ button is ATTACK.{wait:0F}
+(There are 3 attack buttons
+and ¡õ is one of them.){enter}
+It differs from Gear to Gear
+but is mainly utilized for
+close combat.{wait:0F} And you're not
+limited to just one blow.{enter}
+By combining the ¡Á and ¡õ
+buttons you are able to make
+a chain of attacks up to
+three in length!{enter}
+All together there are 14
+such combinations that you
+can try out!"
+
+#### 273 ####
+Informationist
+"The ¡÷ button is for JUMP!{wait:05}
+Your movement controls are
+the same during jumps.{enter}
+Also, you are able to attack
+with the ¡Á and ¡õ buttons
+during jumps!{enter}
+Oh, and it's alright to use
+the R1 button to make Ether
+Bullet attacks too!
+
+#### 274 ####
+Informationist
+"The ¡ð button is for DASH.{wait:0A}
+Your movement controls are
+the same as usual.{enter}
+The only thing is that you
+cannot continue running
+indefinitely."
+
+#### 275 ####
+Informationist
+"For more details, try
+the 'Tutorial Mode', where
+you'll get an explanation 
+from a different official."
+
+#### 276 ####
+Informationist
+"Attacking isn't everything!{wait:0A}
+Although it is said that 
+'offense is the best form
+of defense', at times it is
+important to defend oneself.{enter}
+That's why we have the L1 
+button to GUARD you! {wait:0F} But,{wait:05} 
+it doesn't prevent all of 
+the damage so be careful!"
+
+#### 277 ####
+Informationist
+"The R1 button launches a 
+special attack called 'Ether 
+Bullet'.{wait:0F} It's good for long
+range attacks on your foe!{enter}
+'Ether Bullets' have homing
+ability so you may tend to
+rely on them, but you might
+regret it if you use them 
+too much! Do be careful!"
+
+#### 278 ####
+Informationist
+"For more details, try our 
+'Tutorial Mode', where you
+will get an explanation from
+a different official."
+
+#### 279 ####
+Informationist
+"The Start button will
+permit you to pause the
+battle.{enter}
+At this time, you may select
+the 'GIVE UP' option if you 
+think you won't win."
+
+#### 280 ####
+Informationist
+"Yes,{wait:05} I thought you wouldn't
+have any problems! {wait:0A}Anyway,{wait:05}
+give it your best shot now!"
+
+#### 281 ####
+Informationist
+"What shall I explain?"{wait:0F}
+{fast:FF}    Battling
+    Basic controls
+    I'm alright thanks!
+
+#### 282 ####
+Receptionist
+"Welcome to the Imperial
+Capital's 'Battling Arena'!{enter}
+Enter a Battling match?"
+{fast:FF}    Don't want to enter
+    Yes, let me enter!
+
+#### 283 ####
+Receptionist
+"We are open for Battling
+entries at any time!"
+
+#### 284 ####
+Receptionist
+"Choose your game mode..."{wait:1E}
+{fast:FF}    What's a game mode?
+    Special Mode 1
+    Special Mode 2
+
+#### 285 ####
+Receptionist
+"The Imperial Games Battling
+Contest event has been
+changed to a regular sport.{wait:1E}
+There are now two modes.{enter}
+'Special Mode 1' is the 
+same as ordinary matches 
+except for{wait:05}...{wait:05}woo-hoo-hoo
+{wait:05}...{wait:05}well,{wait:05} see for yourself!{wait:0F}
+It's faster to try it out
+than hear me explain it!{enter}
+'Special Mode 2' differs
+from ordinary matches in
+that upon winning a bout you
+receive Battle Points, which
+you can collect and exchange
+for prizes!
+
+#### 286 ####
+Receptionist
+"Select your Gear to pilot:"{wait:1E}
+{fast:FF}    {name:1A:¥¼¥Î¥®¥¢¥¹}
+    {name:0C:¥ô¥§¥ë¥È©`¥ë2}
+    {name:0B:¥ô¥§¥ë¥È©`¥ë}
+
+#### 287 ####
+Receptionist
+"Choose pilot's Gear level:"
+{fast:FF}    GEAR-LEVEL-0
+    GEAR-LEVEL-1
+    GEAR-LEVEL-2
+
+#### 288 ####
+Receptionist
+"Choose pilot's Gear level:"
+{fast:FF}    GEAR-LEVEL-0
+    GEAR-LEVEL-1
+
+#### 289 ####
+Listen for a bit of fun?{wait:0F}
+{fast:FF}    Don't listen
+    Listen
+
+#### 290 ####
+Listen for a bit of fun?{wait:0F}
+{fast:FF}    Don't listen
+    Listen
+
+#### 291 ####
+Don't have the corresponding disk.
+
+#### 292 ####
+MUSIC CHANGE{wait:0F}
+{fast:FF}    A Theme
+    A Battle
+    Dungeons
+    Nature
+    The World
+    Requiem
+    Emotion
+    Cancel
+
+#### 293 ####
+track-select{wait:0F}
+{fast:FF}    track00
+    track01
+    track02
+    track03
+    track04
+    track05
+    track06
+    track07
+    track08
+    track09
+
+#### 294 ####
+track00
+
+#### 295 ####
+track01
+
+#### 296 ####
+track02
+
+#### 297 ####
+track03
+
+#### 298 ####
+track04
+
+#### 299 ####
+track05
+
+#### 300 ####
+track06
+
+#### 301 ####
+track07
+
+#### 302 ####
+track08
+
+#### 303 ####
+track09
+
+#### 304 ####
+track-select{wait:0F}
+{fast:FF}    track00
+    track01
+    track02
+
+#### 305 ####
+track00
+
+#### 306 ####
+track01
+
+#### 307 ####
+track02
+
+#### 308 ####
+track-select{wait:0F}
+{fast:FF}    track00
+    track01
+    track02
+    track03
+    track04
+    track05
+    track06
+    track07
+
+#### 309 ####
+track00
+
+#### 310 ####
+track01
+
+#### 311 ####
+track02
+
+#### 312 ####
+track03
+
+#### 313 ####
+track04
+
+#### 314 ####
+track05
+
+#### 315 ####
+track06
+
+#### 316 ####
+track07
+
+#### 317 ####
+track-select{wait:0F}
+{fast:FF}    track00
+    track01
+    track02
+    track03
+    track04
+    track05
+    track06
+    track07
+
+#### 318 ####
+track00
+
+#### 319 ####
+track01
+
+#### 320 ####
+track02
+
+#### 321 ####
+track03
+
+#### 322 ####
+track04
+
+#### 323 ####
+track05
+
+#### 324 ####
+track06
+
+#### 325 ####
+track07
+
+#### 326 ####
+track-select{wait:0F}
+{fast:FF}    track00
+    track01
+    track02
+    track03
+    track04
+    track05
+    track06
+    page-2
+
+#### 327 ####
+track00
+
+#### 328 ####
+track01
+
+#### 329 ####
+track02
+
+#### 330 ####
+track03
+
+#### 331 ####
+track04
+
+#### 332 ####
+track05
+
+#### 333 ####
+track06
+
+#### 334 ####
+track-select{wait:0F}
+{fast:FF}    track07
+    track08
+    track09
+    track10
+    track11
+    track12
+    track13
+    page-1
+
+#### 335 ####
+track07
+
+#### 336 ####
+track08
+
+#### 337 ####
+track09
+
+#### 338 ####
+track10
+
+#### 339 ####
+track11
+
+#### 340 ####
+track12
+
+#### 341 ####
+track13
+
+#### 342 ####
+track-select{wait:0F}
+{fast:FF}    track00
+    track01
+    track02
+    track03
+    track04
+    track05
+    track06
+    track07
+
+#### 343 ####
+track00
+
+#### 344 ####
+track01
+
+#### 345 ####
+track02
+
+#### 346 ####
+track03
+
+#### 347 ####
+track04
+
+#### 348 ####
+track05
+
+#### 349 ####
+track06
+
+#### 350 ####
+track07
+
+#### 351 ####
+track-select{wait:0F}
+{fast:FF}    track00
+    track01
+    track02
+    track03
+    track04
+
+#### 352 ####
+track00
+
+#### 353 ####
+track01
+
+#### 354 ####
+track02
+
+#### 355 ####
+track03
+
+#### 356 ####
+track04
+
+#### 357 ####
+Diana
+"From that day on, peace
+has disintegrated.{wait:2D}
+But,{wait:05} we are alive{wait:05}...{wait:05}
+That's a truth that can't
+be changed.{enter}
+It's not that everything
+has ended.{wait:0F}
+Our planet has just returned
+to its original state{wait:05}...{wait:05}
+And we are still alive.{wait:0F}
+All has not been lost{wait:05}...{wait:05}"
+
+#### 358 ####
+Diana
+"Looking at your eyes,{wait:05} I
+know you too haven't lost
+your hope{wait:05}...{wait:14}      
+Hehe{wait:05}...{wait:05}
+I remember the day you came
+to the Imperial Capital."
+
+#### 359 ####
+Battler
+"Oh, so you too heard the 
+rumors and came to try out
+Battling, here, at this 
+place once known as Kislev?{enter}
+The world has been shattered
+by angels of death but we
+still live on like this.{wait:0F}
+This is not the end for us!"
+
+#### 360 ####
+Battler
+"I'm a 'Battler',{wait:05} a warrior!{wait:0F}
+I'll fight,{wait:05} fight,{wait:05} fight on
+to the end,{wait:05} unto death do
+me part!"
+
+#### 361 ####
+Amazoness
+"The continent of Ignas
+and its countries...
+the Empire of Kislev and
+the Kingdom of Aveh...
+these all no longer exist.{enter}
+Our world lost such names
+on that day{wait:05}...{wait:05} The survivors
+have gathered in the snow
+field far to the south{wait:05}...{wait:05}
+It's 'the last stand of the
+living'!"
+
+#### 362 ####
+Amazoness
+"I abandoned this place
+once, but it's the city
+in which I was born!{wait:0F}
+I can't turn my back on
+it that easily!{enter}
+That's why I came back{wait:05}...
+Back to what was once the
+Imperial Capital.{wait:0F}
+Even if destruction was to
+come on this world, I'd go
+on protecting it!
+
+#### 363 ####
+Former Imperial City Guard
+"What inhumed our world that
+day was{wait:05}...{wait:05}an angel{wait:05}...{wait:05}a,{wait:05} a
+so-called messenger of god ?{wait:1E}
+My sister,{wait:05} my mother,{wait:05} my 
+father{wait:05}...{wait:05}they are all dead!{enter}
+I,{wait:05} I am a soldier of the 
+military empire of Kislev!{wait:0F}
+And yet,{wait:05} ...{wait:05}and yet,{wait:05} ...{wait:05}and
+yet,{wait:05} I could do nothing!!!{wait:0F}
+Damn it!{wait:05} ...{wait:0A}Damn everything!"
+
+#### 364 ####
+Big Joe
+"Destruction was poured out
+onto our entire world{wait:05}...{enter}
+Death poured down on all 
+the living{wait:05}...{wait:05}
+It was fate,{wait:05}
+unavoidable fate!
+
+#### 365 ####
+Big Joe
+Allow me to show my 
+appreciations for all 
+you have done fellas.{enter}
+I brought this here from the
+Wildcat bar in what was the
+Imperial capital Nortune.{wait:05}
+I also fixed it up a little.{enter}
+It should be a lot more
+friendlier now.{wait:05} But you'll
+never know unless you try,{wait:05}
+so give it a listen, huh!{enter}
+It was hard to get rid of
+the elegant old grain look
+it had when placed in the
+'Wildcat', but{wait:05}...{enter}
+well, anyway, don't you
+think the new faux marble
+design is kinda groovy?"
+
+#### 366 ####
+Big Joe
+"Brought this from the empty
+remains of the bar in the 
+Imperial Capital Nortune.{enter}
+The outside was damaged, 
+so I had to change it{wait:05}...{wait:0F}
+It was hard to get rid of
+the elegant old grain look.{enter}
+But, anyway, don't you
+think the new faux marble
+design is kinda groovy? {wait:0F}Now,
+if only I had an 'M disk'!{enter}
+You can listen to 'M disks'
+with this,{wait:05} but I gave my
+'M disk' to the girlies in
+the old Imperial Capital.{enter}
+It was a valuable premium
+disk refined with Ether
+logic too!{wait:05}
+If only I had known{wait:05}... !"
+
+#### 367 ####
+Receptionist
+"Match forfeited!"
+
+#### 368 ####
+Receptionist
+"Hmm, not a bad battle!
+Keep it up!"
+
+#### 369 ####
+Receptionist
+"Wow, you're sooo strooong!
+Boy, was he ever outmatched!
+Ooh, I get goose bumps
+at your overwhelming power!"
+
+#### 370 ####
+Receptionist
+"So this is what they mean
+by 'taking great risks'?
+Well done on a close win!"
+
+#### 371 ####
+Receptionist
+"Too bad, you lose! It was
+not due to any obvious flaw,
+so you might win next time.
+
+#### 372 ####
+Receptionist
+"I'll give you some advice!{wait:0F}
+You're not limited to just
+the ¡Á and ¡õ button's
+physical attacks!{enter}
+There is another attack form
+called 'Ether Bullets' that
+are useful on distant foes.{wait:0F}
+They are simple to use,{wait:05} just
+press the 'R1 button',{wait:05} OK!"
+
+#### 373 ####
+Receptionist
+"Right, just remember to
+press the 'R1 button' to
+shoot 'Ether Bullets'!{enter}
+This will increase your
+chances of winning for 
+sure!{wait:1E} (...or so we hope!?)"
+
+#### 374 ####
+Receptionist
+"Attacking while jumping
+is awesome! Master it!"
+
+#### 375 ####
+Receptionist
+"One weakness that I can see
+from watching your bout is 
+that you seem to use your 
+'Ether Bullets' too much.{enter}
+You should better understand
+the nature of the attack...
+'Ether Bullets' raise your
+'Heat Gauge (H.G.)' by quite
+a large percentage.{enter}
+Three shots will easily send
+your H.G. to the MAX 
+condition. If you continue 
+to attack in that condition,
+your machine overheats.{enter}
+The excess heat begins to
+cause damage, so if you
+don't take care, your HP
+will fall to zero before
+you realize it!"
+
+#### 376 ####
+Receptionist
+"The heat accumulated by
+your Gear is shown in the
+on-screen H.G..{enter}
+Manage your heat during
+battle with the aid of 
+this H.G.. Oh, and don't
+forget to stay cool now!"
+
+#### 377 ####
+Receptionist
+"The main cause of your loss
+is this: your over-reliance
+on 'Dash' movement! Simply
+put, you run round too much!{enter}
+Dashing about may be a good
+strategy but you'll notice
+that the 'Heat Gauge (H.G.)'
+which shows your Gear's heat
+level, climbs much faster!{enter}
+You can continue to DASH
+even after your H.G. reaches
+the MAX condition, but as 
+your Gear overheats more and
+more, it will cause damage!
+
+#### 378 ####
+Receptionist
+"The heat accumulated by
+your Gear is shown in the
+on-screen H.G..{enter}
+Manage your heat during
+battle with the aid of 
+this H.G.. Oh, and don't
+forget to keep cool now!"
+
+#### 379 ####
+Receptionist
+"{wait:05}...{wait:05}You do realize why you
+lost don't you?{wait:0F} If not then
+I'll tell you if you want!"
+
+#### 380 ####
+Receptionist
+"Want to know why you lost?"{wait:0F}
+{fast:FF}    No, I don't!
+    Of course I do!
+
+#### 381 ####
+Receptionist
+"There are two reasons for
+your loss. First, your over-
+reliance on the 'R1 button'
+to shoot 'Ether bullets'.{enter}
+'Ether Bullets' are useful
+when your foe is far away,
+but using them too much will
+cause problems with your own
+Gear's heat level!{enter}
+Second is your over-use of
+'Dash movement'. The use of
+either of these when your
+'Heat Gauge' is at MAX will
+cause your Gear to overheat!{enter}
+Whilever your overheating,
+you will be taking damage,
+so if you're not careful,
+before you know it, your 
+H.P. will fall to zero!"
+
+#### 382 ####
+Receptionist
+"The point is the over-use
+of either ability is bad 
+for your Gear!{enter}
+The heat accumulated by
+your Gear is shown in the
+on-screen 'Heat Gauge'.{enter}
+Refer to this Heat Gauge
+(H.G.) to help you manage
+your heat during battle.
+'Keep your cool'!"
+
+#### 383 ####
+Receptionist
+"{wait:05}...{wait:05}knowing the reasons for
+your defeat will help you to
+fight better next time!"
+
+#### 384 ####
+Receptionist
+"Obviously the Gears were
+unevenly matched...!
+Or was it the pilots?{enter}
+Sorry to say this to you, 
+but either-way, your not 
+much of an opponent!"
+
+#### 385 ####
+Receptionist
+"Practice makes perfect! 
+We recommend our 'Practice 
+Mode' to you. Try it today!"
+
+#### 386 ####
+Receptionist
+"So near yet so far! 
+Too bad!
+You almost had him!"
+
+#### 387 ####
+Receptionist
+"That was a good match! 
+Either of you could have 
+easily won! Now try harder 
+to win on the rebound!"
+
+#### 388 ####
+Receptionist
+"{wait:05}...{wait:05}Are you a pacifist?
+{wait:05}...{wait:05}Or don't you know how to 
+control a Gear?{enter}
+You need to know the basic
+controls, so perhaps you 
+should try out our Practice 
+Mode! Speak to the girl at 
+the counter next to me."
+
+#### 389 ####
+Receptionist
+"You can't just do nothing
+and expect to win!
+You need to practice first 
+to get the hang of it!"
+

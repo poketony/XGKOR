@@ -1,0 +1,53 @@
+<TextBlock 1 w:55 h:3>
+<Fei>
+「후우~!<Delay 20>
+　대충 이 정도면 되려나…….<Close><End of Block>
+<TextBlock 2 w:50 h:3>
+<Fei>
+「좋아……, 그럼
+　잠깐 한숨이나 돌려야겠다.<Close><End of Block>
+<TextBlock 3 w:25 h:1>
+어이쿠!<Opcode 2 30><Close><End of Block>
+<TextBlock 4 w:45 h:1>
+거미줄을 손에 넣었다.<Close><End of Block>
+<TextBlock 5 w:50 h:3>
+침대에서 쉴까?<Delay 20>
+　　쉬자!
+　　아니, 관두자<Close><End of Block>
+<TextBlock 6 w:45 h:1>
+비상금을 꺼냈다.<Close><End of Block>
+<TextBlock 7 w:50 h:1>
+200G를 손에 넣었다.<Close><End of Block>
+<TextBlock 8 w:60 h:3>
+가정부
+「그랬었는데 지금은 이렇게 건강하고
+　듬직하게 크다니…….<New>
+　모두 리 촌장님 덕분이란다.
+　감사하는 마음을 가지렴.<Close><End of Block>
+<TextBlock 9 w:50 h:3>
+가정부
+「어머 <Fei>,
+　오늘도 기운이 넘쳐 보이는구나.<Close><End of Block>
+<TextBlock 10 w:60 h:4>
+가정부
+「그나저나 세월 참 빠르네.
+　네가 이 마을에 온 지
+　벌써 3년이나 됐다니…….<New>
+　피투성이가 돼서 업혀 온
+　너를 봤을 때는 솔직히
+　살리기엔 늦었다고 생각했는데…….<New>
+　그날 널 데리고 온
+　이상한 가면을 쓴 남자는……,
+　역시 네 아버지였던 걸까?<New>
+　아직도 전혀 기억이 안 나니?<Delay 20>
+　네가 아빠, 아빠 라며
+　중얼거리고 있었대.<Close><End of Block>
+<TextBlock 11 w:65 h:4>
+가정부
+「그림을 좋아하는 건 좋지만
+　너무 방을 어지럽히지는 말아 주렴.<Delay 30>
+　청소도 쉬운 일은 아니거든.<Close><End of Block>
+<TextBlock 12 w:45 h:1>
+아쿠아솔을 손에 넣었다.<Close><End of Block>
+<TextBlock 13 w:45 h:1>
+아쿠아솔을 손에 넣었다.<Close><Close><End of Block>

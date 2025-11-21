@@ -1,0 +1,123 @@
+#### 1 ####
+Citan
+"These are the Gebler 
+units currently in Aveh, 
+correct?"
+
+#### 2 ####
+Citan
+"The western guards..."
+
+#### 3 ####
+Citan
+"the Royal Capital
+defense force..."
+
+#### 4 ####
+Citan
+"and...{wait:1E}units along
+the front line at the
+border with Kislev."
+
+#### 5 ####
+Citan
+"There are three main
+groups.{enter}
+Each is made up of a
+mix of Gebler and Aveh
+forces. Only two of
+these are very large."
+
+#### 6 ####
+Citan
+"The Royal Capital's
+defense units and the
+Kislev border units.{enter}
+The western guard along
+Nisan's border are little
+more than a surveillence
+team."
+
+#### 7 ####
+Sigurd
+"In order to recapture
+the Royal Capital...{enter}
+...it will be necessary
+to draw these defense
+units away from Bledavik."
+
+#### 8 ####
+Citan
+"We have some Kislev
+made Gears, correct?"
+
+#### 9 ####
+Bart
+"Yeah, we captured 
+some earlier."
+
+#### 10 ####
+Citan
+"What if we use those
+Gears to make a raid on
+the western guards...{enter}
+...here at the border
+with Nisan?"
+
+#### 11 ####
+Bart
+"I see. We'll draw them
+out by making it look like
+Kislev is invading Aveh."
+
+#### 12 ####
+Citan
+"The main strength of
+Aveh's fleet is the
+battleship Kefeinzel.{enter}
+It's been in service
+since the reign of
+the last king.{enter}
+Because of its fire-
+power, the whole unit
+is nicknamed the
+'invincible fleet'.{enter}
+I recall yesterday's
+intelligence report
+said that the ship
+is near the border."
+
+#### 13 ####
+Sigurd
+"Well, now that we know
+what we are up against,
+here's what we'll do..."
+
+#### 14 ####
+Sigurd
+"Apart from our main unit
+heading for Bledavik...{enter}
+we must keep the fleet
+at the Kislev border from
+returning to the capital."
+
+#### 15 ####
+Bart
+"So you're suggesting
+we have another unit?"
+
+#### 16 ####
+Citan
+"A few effective soldiers
+to hold the enemy at bay...
+A small force is best."
+
+#### 17 ####
+Sigurd
+"A small force...?"
+
+#### 18 ####
+Citan
+"What if Fei leads a
+group of Gears there?"
+

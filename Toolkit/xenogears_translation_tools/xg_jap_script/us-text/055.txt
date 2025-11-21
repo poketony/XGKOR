@@ -1,0 +1,94 @@
+#### 1 ####
+It is no good!
+We are done for!
+
+#### 2 ####
+Fei
+"A few minutes...{wait:20}
+Doc!!"
+
+#### 3 ####
+Fei
+"Let's get out
+of here, doc!"
+
+#### 4 ####
+Citan
+"Oh-oh!"{clear:20}
+
+#### 5 ####
+Citan
+"Judging by the angle...{wait:0A}it
+seems as if a gun blast has
+made a hole in the hull...{enter}
+We will probably sink
+within minutes."
+
+#### 6 ####
+Citan
+"It is locked...{wait:20}
+Somebody free us!{enter}
+Argghh!!"
+
+#### 7 ####
+Citan
+"We are too late..."{clear:2E}
+
+#### 8 ####
+Citan
+"There is a switch for the
+sand barrier door on the
+right hand side wall there!{enter}
+But be careful...
+Once it is closed it cannot
+be opened again."{clear:96}
+
+#### 9 ####
+Citan
+"Fei! If you close the
+barrier door now we will
+be buried alive here!"{clear:5A}
+
+#### 10 ####
+Citan
+"Fei! Hurry up!"{clear:20}
+
+#### 11 ####
+Citan
+"Oh no, too late..."{clear:2E}
+
+#### 12 ####
+Citan
+"There is a switch for the
+sand barrier door on the
+right hand side wall there!{enter}
+But be careful...
+Once it is closed it cannot
+be opened again."{clear:96}
+
+#### 13 ####
+Citan
+"Fei! If you close the
+barrier door now we will
+be buried alive here!"{clear:5A}
+
+#### 14 ####
+Citan
+"Fei! Hurry up...!"{clear:20}
+
+#### 15 ####
+You have too many
+{str}.
+
+#### 16 ####
+ 
+ Received {str}.
+
+#### 17 ####
+You have too many
+{str}.
+
+#### 18 ####
+ 
+ Received {str}.
+

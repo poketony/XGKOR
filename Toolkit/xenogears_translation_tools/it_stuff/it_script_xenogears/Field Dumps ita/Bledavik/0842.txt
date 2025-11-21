@@ -1,0 +1,152 @@
+<TextBlock 1 w:48 h:2>
+Andate via. Non servo
+alcolici agli stranieri!<Close><End of Block>
+<TextBlock 2 w:42 h:4>
+Qualcosa da mangiare?
+Allora andate a quei
+tavoli lì sopra ed
+aspettate.<Close><End of Block>
+<TextBlock 3 w:40 h:3>
+Siete stranieri, eh?
+    Sì
+    No<Close><End of Block>
+<TextBlock 4 w:50 h:3>
+Non siete di Kislev…?
+    No, proprio!
+    Perché? Sì, lo siamo!<Opcode 13 255><Opcode 2 1><Close><End of Block>
+<TextBlock 5 w:46 h:3>
+Già, lo immagino bene…
+Siete uguali a noi.<New>
+C'è in giro la voce che
+ci siano delle spie qui
+per la festa…<Close><End of Block>
+<TextBlock 6 w:48 h:2>
+Cosa? Allora siete
+davvero spie di Kislev…?<Close><End of Block>
+<TextBlock 7 w:52 h:3>
+…<Delay 60>
+Ultimamente c'è in giro
+la voce che ci siano spie…<New>
+Ci è stato detto di
+riferire, se ne
+vedessimo qualcuna.<Close><End of Block>
+<TextBlock 8 w:44 h:5>
+Ehi!<Delay 60>
+Chi cazzo pensi che
+abbia fatto in modo
+che questa festa la si
+possa godere in pace?<New>
+I soldati! E questo
+perché rischiamo i
+nostri culi là fuori!
+Lo sapevi!??<Close><End of Block>
+<TextBlock 9 w:42 h:3>
+Quell'idiota…<Delay 30>
+Tirare le cuoia senza
+mai vedere il Torneo…<Close><End of Block>
+<TextBlock 10 w:30 h:3>
+Cosa!<Delay 30>
+Spie di Kislev?<Delay 30>
+Vi<Delay 30> ucciderò!<Close><End of Block>
+<TextBlock 11 w:46 h:3>
+Non mi farò sconfiggere
+da voi!<Delay 30> Avanti,
+spie di Kislev!<Close><End of Block>
+<TextBlock 12 w:54 h:5>
+Combattiamo fino alla fine.
+Ma non per la pace, la
+giustizia o per il governo,
+solo per i miei compagni
+caduti.<Close><End of Block>
+<TextBlock 13 w:46 h:4>
+Mi spiace, tutti i suoi
+amici sono stati uccisi
+nella battaglia presso
+le rovine.<New>
+È un poco fuori di sé.
+Perdonatelo.<Close><End of Block>
+<TextBlock 14 w:50 h:3>
+Ehi, avanti, sei ubriaco.
+Stai bene?<Delay 60>
+Andiamo a casa.<Close><End of Block>
+<TextBlock 15 w:4 h:1>
+!!<Opcode 2 30><Close><End of Block>
+<TextBlock 16 w:64 h:4>
+I pesci sono carinissimi! Potrei
+guardarli per tutto il giorno.
+    L'hai detto!
+    Vorrei mangiarmeli!<Close><End of Block>
+<TextBlock 17 w:52 h:3>
+Ho pensato di andare a
+vedere il mare, dopo la
+fine della guerra.<New>
+Non intendo però il
+mare di sabbia.<New>
+Solo acqua, che si estende
+infinita, proprio come un
+deserto…<New>
+Un mare d'acqua pieno di
+bei pesci.<Close><End of Block>
+<TextBlock 18 w:44 h:4>
+Cosa ordinate?
+    Un pasto squisito
+    Un pasto economico
+    Un pasto veloce<Close><End of Block>
+<TextBlock 19 w:20 h:1>
+Un attimo…<Close><End of Block>
+<TextBlock 20 w:24 h:1>
+Godetevelo.<Opcode 2 50><Close><End of Block>
+<TextBlock 21 w:14 h:1>
+Grazie.<Close><End of Block>
+<TextBlock 22 w:22 h:1>
+Sono <Opcode 10 0>G.<Space 3><Close><End of Block>
+<TextBlock 23 w:30 h:2>
+Grazie mille, 
+tornate ancora.<Close><End of Block>
+<TextBlock 24 w:34 h:3>
+Ehi, non avete
+abbastanza soldi,
+non è così?<Close><End of Block>
+<TextBlock 25 w:32 h:2>
+HP/EP recuperati
+del tutto!<New>
+Ingrassi un po'!<Close><End of Block>
+<TextBlock 26 w:32 h:2>
+HP/EP recuperati
+un po'!<New>
+Ingrassi molto!<Close><End of Block>
+<TextBlock 27 w:32 h:2>
+HP/EP recuperati
+parzialmente!<New>
+Ingrassi un po'!<Close><End of Block>
+<TextBlock 28 w:36 h:1>
+Che buono che era!<Close><End of Block>
+<TextBlock 29 w:36 h:3>
+Oh, scusatemi.
+Tavolo per quanti?
+Di qua, prego.<Close><End of Block>
+<TextBlock 30 w:38 h:2>
+Oh, dio! Mangia e
+se la fila, ancora!<Close><End of Block>
+<TextBlock 31 w:46 h:4>
+Anche il mio ragazzo
+buono a nulla mi dà
+meno preoccupazioni
+di questo strano mondo…<Close><End of Block>
+<TextBlock 32 w:54 h:5>
+Tutti i giovani in
+questa città sono stati
+chiamati alle armi.
+Non mi avrebbero preso
+perché sono un alcolizzato.<Close><End of Block>
+<TextBlock 33 w:20 h:1>
+Seguitemi!<Close><End of Block>
+<TextBlock 34 w:38 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 35 w:16 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 36 w:40 h:2>
+    Non fare nulla
+    Torna nel canale<Close><Close><End of Block>

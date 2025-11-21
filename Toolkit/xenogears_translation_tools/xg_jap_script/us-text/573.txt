@@ -1,0 +1,157 @@
+#### 1 ####
+Roni
+"Why don't you go get
+some rest,{wait:0F} Krel{wait:05}...?{enter}
+You haven't slept since
+the day before yesterday
+have you?{wait:05} You shouldn't
+do that to yourself!"
+
+#### 2 ####
+Krelian
+"I'm fine, {wait:0A}it's not
+a problem{wait:05}..."
+
+#### 3 ####
+Roni
+"Look, I'll watch over her,
+so you go sleep.{enter}
+What will we do if you also
+fall ill?{wait:0F} Do not forget you
+are the head of the sect's
+military forces."
+
+#### 4 ####
+Krelian
+"Okay{wait:05}...{wait:05}
+I suppose you are right."
+
+#### 5 ####
+Lacan
+"Elly{wait:05}...{wait:0A}
+I am so sorry."
+
+#### 6 ####
+Lacan
+"I{wait:05}...{wait:0F}
+It was my misjudgement
+that did this to you."
+
+#### 7 ####
+Lacan
+"I was terrified{wait:05}...{wait:0F}{enter}
+It was like you could see
+right through me{wait:05}...{wait:0F}
+Your eyes{wait:05}... {wait:0F}
+That look{wait:05}...{enter}
+That was me that was
+being reflected back
+in your eyes{wait:05}...{enter}
+I was looking at myself{wait:05}...{wait:0F}
+And thus painting myself{wait:05}...{wait:0F}
+I couldn't stand it!{wait:2D}
+So that's why{wait:05}...{enter}
+Oh Elly{wait:05}...{wait:0F}
+What in the heavens did
+you find inside of me?"
+
+#### 8 ####
+Lacan
+"When you wake up, I think
+I will ask you that{wait:05}...{wait:2D}
+On second thought,{wait:05} no{wait:05}...{enter}
+No,{wait:05} I don't want to burden
+you with my concerns{wait:05}...{wait:1E}
+Besides I wouldn't be able
+to ask you{wait:05}...{enter}
+One look into your eyes
+and I can't say a thing{wait:05}...{wait:2D}
+I{wait:05} wouldn't even be able to
+tell you{wait:05} how I feel{wait:05}..."
+
+#### 9 ####
+Sophia
+"You are the sweetest
+person{wait:05}..."
+
+#### 10 ####
+Lacan
+"Elly{wait:05}...!"
+
+#### 11 ####
+Elly
+"You are someone who cannot
+bear to see others hurt by
+your own actions.{enter}
+So you hold everything in
+and bear all the burden.{wait:0F}
+If you get hurt in the end,
+you think that is fine{wait:05}..."
+
+#### 12 ####
+Elly
+"That's{wait:05}...{wait:0F}
+what I like
+about you."
+
+#### 13 ####
+Lacan
+"Stop! {wait:0A}Don't say that.{wait:0F}
+If you become just another
+human, everyone will{wait:05}..."
+
+#### 14 ####
+Elly
+"Humans{wait:05}...{wait:05}aren't all that
+frail you know.{enter}
+They don't need a symbol
+who is just appearances
+only.{enter}
+I believe that if you have
+light in your heart,{wait:05} you
+can overcome any hardship.{enter}
+What I have been doing is{wait:05}
+simply showing people that
+such light exists in the
+hearts of everyone."
+
+#### 15 ####
+Elly
+"I'm just a woman.{enter}
+And to fulfill my womanhood{wait:0A}
+I am prepared to throw away
+anything{wait:05}...{wait:05}
+even this position.{enter}
+I'm just playing the role
+of Sophia.{wait:0F}
+But I am still me.{enter}
+I haven't changed{wait:05}...{wait:0F}
+a cowardly, selfish,
+crybaby{wait:05}...{wait:0A}
+I am still the same."
+
+#### 16 ####
+Elly
+"Could you live a lie like
+that and still be happy{wait:05}...?
+I{wait:05}...{wait:05}don't want to do that."
+
+#### 17 ####
+Elly
+"Oh, Lacan{wait:05}...{wait:0F}
+I want to live more
+honestly with myself{wait:05}...{enter}
+To be able to tell the
+man that I love that I do
+love him.{wait:0F} And I don't care
+if I get hurt or rejected.{enter}
+You only have one life.{wait:05}
+I don't want to turn around
+later and regret not having
+done such things{wait:05}..."
+
+#### 18 ####
+Lacan
+"I{wait:05}...{wait:0F}
+   I{wait:05}..."
+

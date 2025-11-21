@@ -1,0 +1,20 @@
+<TextBlock 1 w:48 h:3>
+Mi dispiace, ma le mie scorte
+sono poche e non posso vendere
+nulla ai civili.<Close><End of Block>
+<TextBlock 2 w:20 h:1>
+ Salve! <Close><End of Block>
+<TextBlock 3 w:46 h:5>
+Ho tentato di incrementare
+le prestazioni del mio Gear
+con le parti comprate qui…
+Ma è servito a poco.<Close><End of Block>
+<TextBlock 4 w:56 h:5>
+Ho sentito dire che ci sono
+pezzi che incrementano le
+prestazioni e le abilità
+del tuo Gear solo
+equipaggiandolo con esse…<New>
+Chissà se qui hanno questi
+pezzi…?
+… Ne dubito.<Close><Close><End of Block>

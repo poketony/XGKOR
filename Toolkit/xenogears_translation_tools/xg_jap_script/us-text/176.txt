@@ -1,0 +1,216 @@
+#### 1 ####
+A reactor that cannot be
+controlled by man is just
+like a double-edged sword.
+We will hurt even ourselves.
+
+#### 2 ####
+In the northern part of the
+capital, in the industrial
+block lies a relic from an
+ancient civilization...
+a giant 'reactor'.{enter}
+That reactor produces power
+beyond our ability to control.
+It's something man will
+never be able to wield...
+
+#### 3 ####
+It's become apparent that the
+primary target in the attack
+on the Empire was to bomb that
+reactor in the industrial block.{enter}
+If{wait:05} they had a direct hit on the
+reactor{wait:05}...{wait:05}the entire capital
+would've been turned to ashes.{enter}
+It would've been a hell on
+earth{wait:05} where no living thing
+could exist."
+
+#### 4 ####
+There's been some
+information that
+suggests Aveh is doing
+something suspicious.{enter}
+This balance we've 
+had with them isn't
+going to last{wait:05}...
+
+#### 5 ####
+During the assault on the
+Empire, it was said that
+the new imperial Gear was
+stolen from the D Block
+area Gear dock{wait:05}...{enter}
+According to the higher
+ups, I accidentally heard
+that it was the same Gear
+that was stolen by that
+commando unit.
+
+#### 6 ####
+Just a while ago I was
+pretty active in the
+Battling tournament.{enter}
+Then those people from the
+committee scouted me out.
+Heh, it's good to be a
+soldier.
+
+#### 7 ####
+My Gear was primarily
+customized for ground
+combat and they used
+that to assign me to
+the rescue unit.{enter}
+Although I wasn't able
+to fight in my Gear,
+it's a pretty good
+feeling knowing my job
+is saving people.
+
+#### 8 ####
+For today's lecture we will
+discuss the movement of
+Gears on the world map.{enter}
+I understand that most of
+you are ex-Battlers and are
+well acquainted with Gears,
+but it should be no loss for
+you to re-learn the basics.{enter}
+First, the limits to the
+area of movement of Gears...{wait:05}
+It is impossible to walk
+through dense forests in
+a Gear!{enter}
+Instead of being hasty, just
+press the L2 and R2 buttons
+simultaneously and you will
+all get off your Gears.{enter}
+Once you pass through the
+forest, you may once again
+get on your Gears! That is
+all for this lecture...{wait:05}
+Any questions?
+
+#### 9 ####
+{wait:05}...{wait:05}If there are no
+questions, class is
+dismissed.{wait:0F} Oh yes, I
+forgot one thing...{enter}
+This is common sense,{wait:05}
+but movement over
+water is not possible.
+
+#### 10 ####
+Whew,{wait:05} it was another
+wonderful lecture today.
+I'm even awed at myself.{enter}
+{wait:05}...{wait:05}I'm sure looking
+forward to tomorrow's 
+lecture.
+
+#### 11 ####
+Hmm,{wait:05} I noticed you were all
+diligently listening to my
+lecture.{enter}
+Now don't forget,{wait:0F} getting
+on and off your Gears is
+done by pressing the L2 and
+R2 buttons simultaneously!!
+
+#### 12 ####
+Battler Soldier
+"The lecture's about to begin.
+Although it's short, it's such
+a bother. Please don't talk
+to me right now."
+
+#### 13 ####
+Battler Soldier
+"The officer's lecture is
+always the same{wait:05}...{wait:0F}It's
+hard on us people who
+have to listen to him.{enter}
+Not just that,{wait:05} he keeps
+adding to the rules,
+regulations and control
+of activities.{enter}
+I wish I could go back to
+my days as a Battler."
+
+#### 14 ####
+Amazon Soldier
+"Shut up,{wait:05} I'm trying to
+listen so quit talking
+to me."
+
+#### 15 ####
+Amazon Soldier
+"Argh,{wait:05} this sucks.{wait:0F} He
+thinks it's a lecture{wait:05} but
+all he does is say the
+same thing everyday.{enter}
+Compared to this, I was
+fighting a lot more in my
+Battling days.{enter}
+Now that was living.
+Maybe I should quit the
+military..."
+
+#### 16 ####
+Army Cook
+"Patriotism is a necessary
+component to drafting many
+young soldiers.{enter}
+But because of that, we get
+some young ones that over do
+it. By the time that happens,
+it's usually too late{wait:05}...{wait:05}"
+
+#### 17 ####
+Army Cook
+"I'm the cook for the
+Imperial barracks.
+I can get in trouble for
+having you guys in here.{enter}
+If you have no business
+here, please leave.
+Moreover, you aren't
+even soldiers.{enter}
+I thought that I told
+them strictly not to
+allow civilians in.{enter}
+Man...what am I going
+to do."
+
+#### 18 ####
+Argh!{wait:05} I failed{wait:05} again.{wait:0F}
+Hmmm,{wait:05} there's just
+something not right with
+the special sauce.{enter}
+Ether cuisine has a lot
+of depth to it.
+
+#### 19 ####
+Failure is an important
+step to my path to success!{wait:0F}
+It's my dream to become
+just like that first Ether
+cook over in D Block.
+
+#### 20 ####
+{wait:05}...{wait:05}I volunteered so
+that I could protect my
+country{wait:05}...{wait:05} But this{wait:05}...{wait:05}
+I didn't join for this.
+
+#### 21 ####
+I'm a new recruit for the
+Kislev military. I just
+graduated from the Imperial
+officer school as an elite!{enter}
+So, why did they put me in
+A Block working under the
+chief cook?
+

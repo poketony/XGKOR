@@ -1,0 +1,24 @@
+#### 1 ####
+Fei
+"I didn't know there was
+a hidden path behind the
+cathedral."
+
+#### 2 ####
+Bart
+"Yeah.{wait:1E}
+It's usually closed off."
+
+#### 3 ####
+Fei
+"So the mausoleum's in
+there?"
+
+#### 4 ####
+Bart
+"Oh yeah.{enter}
+If the city's ever in
+danger, the people are
+supposed to take refuge
+in here."
+

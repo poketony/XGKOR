@@ -1,0 +1,576 @@
+<TextBlock 1 w:52 h:5>
+Argh!<Delay 5> Quando pensavo che
+avrei potuto finalmente
+sistemarmi…<New>
+… Ecco che appare
+questo terribile
+mostro nelle fogne<Delay 5>…<Delay 5> D-oh!<Delay 5>…<Space 1><Close><End of Block>
+<TextBlock 2 w:56 h:5>
+Pare che il Campione abbia
+battuto il mostro, ma ciò
+non significa che fosse
+l'unico<Delay 5>…<Delay 30>
+Non mi piace l'idea,<Delay 5> ma
+ho bisogno di soldi.<Delay 10> Merda!<Close><End of Block>
+<TextBlock 3 w:54 h:5>
+Ah,<Delay 10> devo guadagnarmi da
+vivere nelle fogne?<Delay 15>
+O seguire le mie vere 
+ispirazioni?<Delay 15>
+Ooooh,<Delay 10> che confusione!<Close><End of Block>
+<TextBlock 4 w:52 h:5>
+Ho perso ai preliminari
+dei Giochi Imperiali, ma
+la mia Classe come
+prigioniero è salita di 1.<New>
+Come risultato anche
+i miei guadagni sono
+aumentati!<Close><End of Block>
+<TextBlock 5 w:46 h:3>
+Mi fa venire voglia di
+dedicarmi seriamente
+alla caccia dei mostri
+nelle fogne!<Delay 5> Ahah!<Close><End of Block>
+<TextBlock 6 w:56 h:5>
+Oggi hai portato 40
+'Gelatine Hob' e 10 'Scaglie'.
+E hai collezionato 13
+'Zanne' e 'Bulbi'.<Delay 15>
+Il compenso è<Delay 10> 14595G!!<Close><End of Block>
+<TextBlock 7 w:54 h:5>
+Ah, lo sapevo! Quando sale
+la Classe, crescono anche
+le motivazioni. Ora lavoro
+come un forsennato per
+farmi una fortuna!<Close><End of Block>
+<TextBlock 8 w:52 h:4>
+Oggi hai portato<Delay 5>… 15
+'Bulbi' e 22 'Zanne'?
+Il compenso è<Delay 5>…<Delay 15> mmmh<Delay 5>…<Delay 45>
+3150G.<Delay 5> Non male<Delay 5>…<Delay 5> forse.<Close><End of Block>
+<TextBlock 9 w:56 h:3>
+Hai guadagnato molto, eh?<Delay 30>
+Oh, quanto ti scaldano il
+cuore i soldi per cui
+rischi il culo!<Close><End of Block>
+<TextBlock 10 w:56 h:5>
+Oggi hai portato<Delay 5>…<Delay 5>
+3 'Scaglie' e <Delay 10>8 'Carni Hob'?
+Il compenso è 2700G
+<Delay 5>…<Delay 5> Non è molto!?<New>
+La 'Carne Hob' è abbastanza
+rara da queste parti, ma
+i prigionieri non possono
+scambiarla nel 'Centro
+B-Info'.<Close><End of Block>
+<TextBlock 11 w:28 h:1>
+Aah<Delay 5>…<Delay 5> peccato!<Close><End of Block>
+<TextBlock 12 w:58 h:3>
+'Battagliare', ecco ciò per
+cui è famosa Nortune!<Delay 15> Ti
+servono pezzi per il tuo Gear?<New>
+I pezzi migliori li trovi
+solo al 'Centro B-Info'
+della Capitale Imperiale!<Close><End of Block>
+<TextBlock 13 w:66 h:6>
+Appena in tempo per rinforzare
+il nostro potere militare contro
+gli assalti di Aveh sulla nostra
+Capitale Imperiale<Delay 5>…<Delay 5>
+Nuovi pezzi per i Gear!<Delay 5>
+Non perdere l'occasione!<Close><End of Block>
+<TextBlock 14 w:54 h:3>
+Per equipaggiare il tuo
+Gear vieni al Centro B-Info!<Delay 15>
+Ti aspettiamo!<Close><End of Block>
+<TextBlock 15 w:58 h:4>
+<Delay 5>…<Delay 5> Vorrei aiutarti, ma i
+prigionieri non hanno
+Gear.<Delay 15> Torna quando sarai 
+un 'Combattente', ok?<Close><End of Block>
+<TextBlock 16 w:58 h:4>
+Operatrice
+"Benvenuto al Centro B-Info!
+Offriamo i migliori prezzi
+per tutto il bottino che
+ci offri!<New>
+Uh-uh, e da quanto vedo hai
+avuto già le tue belle
+battaglie! Mi aspetto che
+tu guadagni un sacco di
+soldi!"<Close><End of Block>
+<TextBlock 17 w:54 h:5>
+Operatrice
+"Come va,<Delay 5> principiante?<Delay 10>
+Ti sei guadagnato il vitto?<Delay 5>
+Beh, vediamo se hai
+qualcosa da scambiare…"<Close><End of Block>
+<TextBlock 18 w:54 h:7>
+Operatrice
+<Opcode 1 255>"Scegli gli oggetti da scambiare:"<Delay 30>
+    = Gelatina Hob   :  50G
+    = Zanna          : 100G
+    = Bulbo          : 150G
+    = Scaglia        :1200G
+    Nulla, grazie!<Close><End of Block>
+<TextBlock 19 w:58 h:4>
+Operatrice
+"<Delay 5>…<Delay 5> Sì, facciamo l'affare!<Delay 15>
+Puoi scambiarne fino a 30
+alla volta!<Delay 30> Ecco il compenso!"<Close><End of Block>
+<TextBlock 20 w:58 h:4>
+Operatrice
+"Ecco ciò che ti spetta<Delay 5>…<Delay 45>
+  Compenso totale: <Opcode 10 0>G<Delay 30>
+Continua su questa strada!"<Close><End of Block>
+<TextBlock 21 w:46 h:4>
+Operatrice
+"Oh?<Delay 5> Non hai nulla da
+venderci!?<Delay 15> Non siamo
+un istituto di beneficenza!"<Close><End of Block>
+<TextBlock 22 w:58 h:4>
+Operatrice
+"<Delay 5>…<Delay 5> Sì, facciamo l'affare!<Delay 15>
+Puoi scambiarne fino a 30
+alla volta!<Delay 30> Ecco il compenso!"<Close><End of Block>
+<TextBlock 23 w:58 h:4>
+Operatrice
+"Ecco ciò che ti spetta<Delay 5>…<Delay 45>
+  Compenso totale: <Opcode 10 0>G<Delay 30>
+Continua su questa strada!"<Close><End of Block>
+<TextBlock 24 w:46 h:4>
+Operatrice
+"Oh?<Delay 5> Non hai nulla da
+venderci!?<Delay 15> Non siamo
+un istituto di beneficenza!"<Close><End of Block>
+<TextBlock 25 w:58 h:4>
+Operatrice
+"<Delay 5>…<Delay 5> Sì, facciamo l'affare!<Delay 15>
+Puoi scambiarne fino a 30
+alla volta!<Delay 30> Ecco il compenso!"<Close><End of Block>
+<TextBlock 26 w:58 h:4>
+Operatrice
+"Ecco ciò che ti spetta<Delay 5>…<Delay 45>
+  Compenso totale: <Opcode 10 0>G<Delay 30>
+Continua su questa strada!"<Close><End of Block>
+<TextBlock 27 w:46 h:4>
+Operatrice
+"Oh?<Delay 5> Non hai nulla da
+venderci!?<Delay 15> Non siamo
+un istituto di beneficenza!"<Close><End of Block>
+<TextBlock 28 w:58 h:4>
+Operatrice
+"<Delay 5>…<Delay 5> Sì, facciamo l'affare!<Delay 15>
+Puoi scambiarne fino a 30
+alla volta!<Delay 30> Ecco il compenso!"<Close><End of Block>
+<TextBlock 29 w:58 h:4>
+Operatrice
+"Ecco ciò che ti spetta<Delay 5>…<Delay 45>
+  Compenso totale: <Opcode 10 0>G<Delay 30>
+Continua su questa strada!"<Close><End of Block>
+<TextBlock 30 w:46 h:4>
+Operatrice
+"Oh?<Delay 5> Non hai nulla da
+venderci!?<Delay 15> Non siamo
+un istituto di beneficenza!"<Close><End of Block>
+<TextBlock 31 w:54 h:7>
+Operatrice
+"Scegli oggetti da scambiare:"<Delay 30>
+<Opcode 1 255>    = Gelatina Hob:  45G
+    = Zanna       :  90G
+    = Bulbo       : 125G
+    = Scaglia     :1000G
+    Nulla, grazie!<Close><End of Block>
+<TextBlock 32 w:58 h:4>
+Operatrice
+"<Delay 5>…<Delay 5> Sì, facciamo l'affare!<Delay 15>
+Puoi scambiarne fino a 30
+alla volta!<Delay 30> Ecco il compenso!"<Close><End of Block>
+<TextBlock 33 w:58 h:4>
+Operator
+"Ecco ciò che ti spetta<Delay 5>…<Delay 45>
+  Compenso totale: <Opcode 10 0>G<Delay 30>
+Continua su questa strada!"<Close><End of Block>
+<TextBlock 34 w:46 h:4>
+Operatrice
+"Oh?<Delay 5> Non hai nulla da
+venderci!?<Delay 15> Non siamo
+un istituto di beneficenza!"<Close><End of Block>
+<TextBlock 35 w:58 h:4>
+Operatrice
+"<Delay 5>…<Delay 5> Sì, facciamo l'affare!<Delay 15>
+Puoi scambiarne fino a 30
+alla volta!<Delay 30> Ecco il compenso!"<Close><End of Block>
+<TextBlock 36 w:58 h:4>
+Operatrice
+"Ecco ciò che ti spetta<Delay 5>…<Delay 45>
+  Compenso totale: <Opcode 10 0>G<Delay 30>
+Continua su questa strada!"<Close><End of Block>
+<TextBlock 37 w:46 h:4>
+Operatrice
+"Oh?<Delay 5> Non hai nulla da
+venderci!?<Delay 15> Non siamo
+un istituto di beneficenza!"<Close><End of Block>
+<TextBlock 38 w:58 h:4>
+Operatrice
+"<Delay 5>…<Delay 5> Sì, facciamo l'affare!<Delay 15>
+Puoi scambiarne fino a 30
+alla volta!<Delay 30> Ecco il compenso!"<Close><End of Block>
+<TextBlock 39 w:58 h:4>
+Operatrice
+"Ecco ciò che ti spetta<Delay 5>…<Delay 45>
+  Compenso totale: <Opcode 10 0>G<Delay 30>
+Continua su questa strada!"<Close><End of Block>
+<TextBlock 40 w:46 h:4>
+Operatrice
+"Oh?<Delay 5> Non hai nulla da
+venderci!?<Delay 15> Non siamo
+un istituto di beneficenza!"<Close><End of Block>
+<TextBlock 41 w:58 h:4>
+Operatrice
+"<Delay 5>…<Delay 5> Sì, facciamo l'affare!<Delay 15>
+Puoi scambiarne fino a 30
+alla volta!<Delay 30> Ecco il compenso!"<Close><End of Block>
+<TextBlock 42 w:58 h:4>
+Operatrice
+"Ecco ciò che ti spetta<Delay 5>…<Delay 45>
+  Compenso totale: <Opcode 10 0>G<Delay 30>
+Continua su questa strada!"<Close><End of Block>
+<TextBlock 43 w:46 h:4>
+Operatrice
+"Oh?<Delay 5> Non hai nulla da
+venderci!?<Delay 15> Non siamo
+un istituto di beneficenza!"<Close><End of Block>
+<TextBlock 44 w:54 h:7>
+Operatrice
+"Scegli oggetti da scambiare:"<Delay 30>
+<Opcode 1 255>    = Gelatina Hob: 30G
+    = Zanna       : 75G
+    = Bulbo       :100G
+    = Scaglia     :900G
+    Nulla, grazie!<Close><End of Block>
+<TextBlock 45 w:58 h:4>
+Operatrice
+"<Delay 5>…<Delay 5> Sì, facciamo l'affare!<Delay 15>
+Puoi scambiarne fino a 30
+alla volta!<Delay 30> Ecco il compenso!"<Close><End of Block>
+<TextBlock 46 w:58 h:4>
+Operatrice
+"Ecco ciò che ti spetta<Delay 5>…<Delay 45>
+  Compenso totale: <Opcode 10 0>G<Delay 30>
+Continua su questa strada!"<Close><End of Block>
+<TextBlock 47 w:46 h:4>
+Operatrice
+"Oh?<Delay 5> Non hai nulla da
+venderci!?<Delay 15> Non siamo
+un istituto di beneficenza!"<Close><End of Block>
+<TextBlock 48 w:58 h:4>
+Operatrice
+"<Delay 5>…<Delay 5> Sì, facciamo l'affare!<Delay 15>
+Puoi scambiarne fino a 30
+alla volta!<Delay 30> Ecco il compenso!"<Close><End of Block>
+<TextBlock 49 w:58 h:4>
+Operatrice
+"Ecco ciò che ti spetta<Delay 5>…<Delay 45>
+  Compenso totale: <Opcode 10 0>G<Delay 30>
+Continua su questa strada!"<Close><End of Block>
+<TextBlock 50 w:46 h:4>
+Operatrice
+"Oh?<Delay 5> Non hai nulla da
+venderci!?<Delay 15> Non siamo
+un istituto di beneficenza!"<Close><End of Block>
+<TextBlock 51 w:58 h:4>
+Operatrice
+"<Delay 5>…<Delay 5> Sì, facciamo l'affare!<Delay 15>
+Puoi scambiarne fino a 30
+alla volta!<Delay 30> Ecco il compenso!"<Close><End of Block>
+<TextBlock 52 w:58 h:4>
+Operatrice
+"Ecco ciò che ti spetta<Delay 5>…<Delay 45>
+  Compenso totale: <Opcode 10 0>G<Delay 30>
+Continua su questa strada!"<Close><End of Block>
+<TextBlock 53 w:46 h:4>
+Operatrice
+"Oh?<Delay 5> Non hai nulla da
+venderci!?<Delay 15> Non siamo
+un istituto di beneficenza!"<Close><End of Block>
+<TextBlock 54 w:58 h:4>
+Operatrice
+"<Delay 5>…<Delay 5> Sì, facciamo l'affare!<Delay 15>
+Puoi scambiarne fino a 30
+alla volta!<Delay 30> Ecco il compenso!"<Close><End of Block>
+<TextBlock 55 w:58 h:4>
+Operatrice
+"Ecco ciò che ti spetta<Delay 5>…<Delay 45>
+  Compenso totale: <Opcode 10 0>G<Delay 30>
+Continua su questa strada!"<Close><End of Block>
+<TextBlock 56 w:46 h:4>
+Operatrice
+"Oh?<Delay 5> Non hai nulla da
+venderci!?<Delay 15> Non siamo
+un istituto di beneficenza!"<Close><End of Block>
+<TextBlock 57 w:54 h:7>
+Operatrice
+"Scegli oggetti da scambiare:"<Delay 30>
+<Opcode 1 255>    = Gelatina Hob: 20G
+    = Zanna       : 60G
+    = Bulbo       : 90G
+    = Scaglia     :750G
+    Nulla, grazie!<Close><End of Block>
+<TextBlock 58 w:58 h:4>
+Operatrice
+"<Delay 5>…<Delay 5> Sì, facciamo l'affare!<Delay 15>
+Puoi scambiarne fino a 30
+alla volta!<Delay 30> Ecco il compenso!"<Close><End of Block>
+<TextBlock 59 w:58 h:4>
+Operatrice
+"Ecco ciò che ti spetta<Delay 5>…<Delay 45>
+  Compenso totale: <Opcode 10 0>G<Delay 30>
+Continua su questa strada!"<Close><End of Block>
+<TextBlock 60 w:46 h:4>
+Operatrice
+"Oh?<Delay 5> Non hai nulla da
+venderci!?<Delay 15> Non siamo
+un istituto di beneficenza!"<Close><End of Block>
+<TextBlock 61 w:58 h:4>
+Operatrice
+"<Delay 5>…<Delay 5> Sì, facciamo l'affare!<Delay 15>
+Puoi scambiarne fino a 30
+alla volta!<Delay 30> Ecco il compenso!"<Close><End of Block>
+<TextBlock 62 w:58 h:4>
+Operatrice
+"Ecco ciò che ti spetta<Delay 5>…<Delay 45>
+  Compenso totale: <Opcode 10 0>G<Delay 30>
+Continua su questa strada!"<Close><End of Block>
+<TextBlock 63 w:46 h:4>
+Operatrice
+"Oh?<Delay 5> Non hai nulla da
+venderci!?<Delay 15> Non siamo
+un istituto di beneficenza!"<Close><End of Block>
+<TextBlock 64 w:58 h:4>
+Operatrice
+"<Delay 5>…<Delay 5> Sì, facciamo l'affare!<Delay 15>
+Puoi scambiarne fino a 30
+alla volta!<Delay 30> Ecco il compenso!"<Close><End of Block>
+<TextBlock 65 w:58 h:4>
+Operatrice
+"Ecco ciò che ti spetta<Delay 5>…<Delay 45>
+  Compenso totale: <Opcode 10 0>G<Delay 30>
+Continua su questa strada!"<Close><End of Block>
+<TextBlock 66 w:46 h:4>
+Operatrice
+"Oh?<Delay 5> Non hai nulla da
+venderci!?<Delay 15> Non siamo
+un istituto di beneficenza!"<Close><End of Block>
+<TextBlock 67 w:58 h:4>
+Operatrice
+"<Delay 5>…<Delay 5> Sì, facciamo l'affare!<Delay 15>
+Puoi scambiarne fino a 30
+alla volta!<Delay 30> Ecco il compenso!"<Close><End of Block>
+<TextBlock 68 w:58 h:4>
+Operatrice
+"Ecco ciò che ti spetta<Delay 5>…<Delay 45>
+  Compenso totale: <Opcode 10 0>G<Delay 30>
+Continua su questa strada!"<Close><End of Block>
+<TextBlock 69 w:46 h:4>
+Operatrice
+"Oh?<Delay 5> Non hai nulla da
+venderci!?<Delay 15> Non siamo
+un istituto di beneficenza!"<Close><End of Block>
+<TextBlock 70 w:54 h:8>
+Operatrice
+"Scegli oggetti da scambiare:"<Delay 30>
+<Opcode 1 255>    = Gelatina Hob:  65G
+    = Zanna       : 150G
+    = Bulbo       : 200G
+    = Scaglia     :1500G
+    = Oggetto Raro:????G
+    Nulla, grazie!<Close><End of Block>
+<TextBlock 71 w:54 h:7>
+Operatrice
+"Scegli oggetti da scambiare:"<Delay 30>
+<Opcode 1 255>    = Carne Hob   :200G
+    = Bistecca Hob:450G
+    = Avorio      :2000G
+    = Oggetti     :????G
+    Nulla, grazie!<Close><End of Block>
+<TextBlock 72 w:52 h:5>
+Operatrice
+"<Delay 5>…<Delay 5> Oh, peccato.<Delay 15>
+Qualsiasi cosa vorrai
+scambiare, sai dove
+trovarci!"<Close><End of Block>
+<TextBlock 73 w:56 h:4>
+Operatrice
+"Spiacenti, ma non possiamo
+più accettare nulla per un
+po' di tempo.<New>
+In questo periodo dell'anno
+ci sono troppi rifornimenti!<Delay 15>
+Qualcuno li accumula nella
+città di Bledavik,<Delay 5> e poi…<New>
+…<Delay 5> li porta tutti nella
+Capitale Imperiale e cerca
+di venderli qui!<Delay 15> Per questo
+sono stati proibiti!"<Close><End of Block>
+<TextBlock 74 w:58 h:4>
+Operatrice
+"<Delay 5>…<Delay 5> Sì, facciamo l'affare!<Delay 15>
+Puoi scambiarne fino a 30
+alla volta!<Delay 30> Ecco il compenso!"<Close><End of Block>
+<TextBlock 75 w:58 h:4>
+Operatrice
+"Ecco ciò che ti spetta<Delay 5>…<Delay 45>
+  Compenso totale: <Opcode 10 0>G<Delay 30>
+Continua su questa strada!"<Close><End of Block>
+<TextBlock 76 w:46 h:4>
+Operatrice
+"Oh?<Delay 5> Non hai nulla da
+venderci!?<Delay 15> Non siamo
+un istituto di beneficenza!"<Close><End of Block>
+<TextBlock 77 w:58 h:4>
+Operatrice
+"<Delay 5>…<Delay 5> Sì, facciamo l'affare!<Delay 15>
+Puoi scambiarne fino a 30
+alla volta!<Delay 30> Ecco il compenso!"<Close><End of Block>
+<TextBlock 78 w:58 h:4>
+Operatrice
+"Ecco ciò che ti spetta<Delay 5>…<Delay 45>
+  Compenso totale: <Opcode 10 0>G<Delay 30>
+Continua su questa strada!"<Close><End of Block>
+<TextBlock 79 w:46 h:4>
+Operatrice
+"Oh?<Delay 5> Non hai nulla da
+venderci!?<Delay 15> Non siamo
+un istituto di beneficenza!"<Close><End of Block>
+<TextBlock 80 w:58 h:4>
+Operatrice
+"<Delay 5>…<Delay 5> Sì, facciamo l'affare!<Delay 15>
+Puoi scambiarne fino a 30
+alla volta!<Delay 30> Ecco il compenso!"<Close><End of Block>
+<TextBlock 81 w:58 h:4>
+Operatrice
+"Ecco ciò che ti spetta<Delay 5>…<Delay 45>
+  Compenso totale: <Opcode 10 0>G<Delay 30>
+Continua su questa strada!"<Close><End of Block>
+<TextBlock 82 w:46 h:4>
+Operatrice
+"Oh?<Delay 5> Non hai nulla da
+venderci!?<Delay 15> Non siamo
+un istituto di beneficenza!"<Close><End of Block>
+<TextBlock 83 w:58 h:4>
+Operatrice
+"<Delay 5>…<Delay 5> Sì, facciamo l'affare!<Delay 15>
+Puoi scambiarne fino a 30
+alla volta!<Delay 30> Ecco il compenso!"<Close><End of Block>
+<TextBlock 84 w:58 h:4>
+Operator
+"Ecco ciò che ti spetta<Delay 5>…<Delay 45>
+  Compenso totale: <Opcode 10 0>G<Delay 30>
+Continua su questa strada!"<Close><End of Block>
+<TextBlock 85 w:46 h:4>
+Operatrice
+"Oh?<Delay 5> Non hai nulla da
+venderci!?<Delay 15> Non siamo
+un istituto di beneficenza!"<Close><End of Block>
+<TextBlock 86 w:58 h:4>
+Operatrice
+"<Delay 5>…<Delay 5> Sì, facciamo l'affare!<Delay 15>
+Puoi scambiarne fino a 30
+alla volta!<Delay 30> Ecco il compenso!"<Close><End of Block>
+<TextBlock 87 w:58 h:4>
+Operatrice
+"Ecco ciò che ti spetta<Delay 5>…<Delay 45>
+  Compenso totale: <Opcode 10 0>G<Delay 30>
+Continua su questa strada!"<Close><End of Block>
+<TextBlock 88 w:46 h:4>
+Operatrice
+"Oh?<Delay 5> Non hai nulla da
+venderci!?<Delay 15> Non siamo
+un istituto di beneficenza!"<Close><End of Block>
+<TextBlock 89 w:58 h:4>
+Operatrice
+"<Delay 5>…<Delay 5> Sì, facciamo l'affare!<Delay 15>
+Puoi scambiarne fino a 30
+alla volta!<Delay 30> Ecco il compenso!"<Close><End of Block>
+<TextBlock 90 w:58 h:4>
+Operatrice
+"Ecco ciò che ti spetta<Delay 5>…<Delay 45>
+  Compenso totale: <Opcode 10 0>G<Delay 30>
+Continua su questa strada!"<Close><End of Block>
+<TextBlock 91 w:46 h:4>
+Operatrice
+"Oh?<Delay 5> Non hai nulla da
+venderci!?<Delay 15> Non siamo
+un istituto di beneficenza!"<Close><End of Block>
+<TextBlock 92 w:58 h:4>
+Operatrice
+"<Delay 5>…<Delay 5> Sì, facciamo l'affare!<Delay 15>
+Puoi scambiarne fino a 30
+alla volta!<Delay 30> Ecco il compenso!"<Close><End of Block>
+<TextBlock 93 w:58 h:4>
+Operatrice
+"Ecco ciò che ti spetta<Delay 5>…<Delay 45>
+  Compenso totale: <Opcode 10 0>G<Delay 30>
+Continua su questa strada!"<Close><End of Block>
+<TextBlock 94 w:46 h:4>
+Operatrice
+"Oh?<Delay 5> Non hai nulla da
+venderci!?<Delay 15> Non siamo
+un istituto di beneficenza!"<Close><End of Block>
+<TextBlock 95 w:52 h:6>
+Addetta alle Informazioni
+"Centro B-Info<Delay 5>…<Delay 10>
+Cosa vuoi sapere?"<Delay 15>
+<Opcode 1 255>    Scambio oggetti
+    Come scambiare
+    Nulla, grazie<Close><End of Block>
+<TextBlock 96 w:56 h:7>
+Addetta alle Informazioni
+"Ci sono quattro oggetti
+scambiabili<Delay 5>…"<Delay 30>
+<Opcode 1 255>  = Gelatine Hob:  65G
+  = Zanne       : 150G
+  = Bulbi       : 200G
+  = Scaglie     :1500G<Close><End of Block>
+<TextBlock 97 w:56 h:6>
+Poi ci sono anche questi
+'Oggetti Rari'<Delay 5>…<Delay 30>
+  = Carne Hob    : 200G
+  = Bistecca Hob : 450G
+  = Avorio       : 2000G<New>
+Scambiamo un totale di
+7 oggetti.<Delay 15> Se durante i
+tuoi viaggi li trovi,<Delay 5>
+non dimenticare di
+portarli qua,<Delay 5> al 'Centro
+B-Info'!"<Close><End of Block>
+<TextBlock 98 w:56 h:6>
+Addetta alle Informazioni
+"Questi sono i migliori
+compensi per i Combattenti
+comuni. I prigionieri vengono
+ricompensati in base alla
+Classe raggiunta!"<Close><End of Block>
+<TextBlock 99 w:56 h:5>
+Addetta alle Informazioni
+"Qui al Centro B-Info
+scambiamo G con le prove
+di aver sterminato dei
+mostri delle fogne.<New>
+Ma per i 'Combattenti' e
+i clienti speciali, paghiamo
+sia per il 'bottino' che
+per le prove della caccia
+di altri mostri.<Close><End of Block>
+<TextBlock 100 w:56 h:5>
+'Scaglie', 'Bulbi', 'Zanne'
+e 'Gelatine Hob'. Porta qui
+questo bottino e incasserai.
+Puoi guadagnare molti G!<Close><End of Block>
+<TextBlock 101 w:88 h:130>
+Addetta alle Informazioni
+"… Se hai problemi con
+i soldi, sai dove andare!
+Come sempre diciamo…
+Paga essere 'Info-rmati'!"<Close><Close><End of Block>

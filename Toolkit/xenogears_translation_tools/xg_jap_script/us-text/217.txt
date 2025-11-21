@@ -1,0 +1,76 @@
+#### 1 ####
+Broyer
+"Wha? Who's that? 
+Aren't those the Aveh 
+pirates?"
+
+#### 2 ####
+Elly
+"!? That's...{wait:0A}...{wait:0A}...{wait:0A}
+Fei!
+What the...!?"
+
+#### 3 ####
+Stratski
+"Hey, this is Kislev!
+What's he doing here?"
+
+#### 4 ####
+Helmholz
+"He seems to follow
+us everywhere!"
+
+#### 5 ####
+Vance
+"What's with this guy? 
+A little too persistent,
+perhaps?"
+
+#### 6 ####
+Elly
+"..."
+
+#### 7 ####
+Broyer
+"Third times a charm!
+Let's get 'em!"
+
+#### 8 ####
+Elly
+"Ah! 
+Wait!"
+
+#### 9 ####
+Elly
+"Renk!?"
+
+#### 10 ####
+Renk
+"From our last incident, I
+can tell that your friends
+with that Gear's pilot.{enter}
+But, there's no way we can
+stop. It doesn't matter
+that we're escorting the
+Hecht.{enter}
+I wanna fight him, not as
+enemy soldiers, but as
+rival competitors...{enter}
+We're the Gebler special
+forces and we won't be
+beaten!"
+
+#### 11 ####
+Elly
+"..."
+
+#### 12 ####
+Renk
+"Sorry, I'm gonna have
+to kick his butt. 
+Any objections?"
+
+#### 13 ####
+Elly
+"I..."
+

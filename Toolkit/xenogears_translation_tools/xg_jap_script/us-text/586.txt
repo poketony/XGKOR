@@ -1,0 +1,110 @@
+#### 1 ####
+Here's something...{wait:14}
+Though it's a little
+different from the
+treasure I am
+searching for.
+
+#### 2 ####
+I'm digging like crazy.
+I can't wait till
+I find something!
+
+#### 3 ####
+Nope...
+Didn't find anything.{wait:14}
+It always felt like it was
+just beyond my grasp...
+
+#### 4 ####
+Hey, you have some Gold
+Bullion there don't you?{wait:14}
+If you give it to me I'll
+try digging a little more.{enter}
+Otherwise it looks like
+I'll have to  give up...
+What do you think?
+
+#### 5 ####
+Hand over Gold Bullion?{wait:14}
+    Hand it over
+    No way
+
+#### 6 ####
+Okay!{wait:14}
+I'll get digging right now.
+Expect something good!
+
+#### 7 ####
+Handed over Gold Bullion.
+
+#### 8 ####
+Really?{wait:14}
+Well, do what
+ever you like.
+
+#### 9 ####
+This rock is harder than I
+thought. It's hard to dig,
+so you'll have to wait a
+little bit more.
+
+#### 10 ####
+Hmmmm...
+I think I smell treasure
+over here.
+
+#### 11 ####
+Hey, don't you have a
+Gold Nugget?{wait:14}
+If you give it to me,
+I'll dig some more here.{enter}
+I'm sure something
+good will come up.
+How about it?
+
+#### 12 ####
+Hand over Gold Nugget?{wait:14}
+    Hand it over
+    No way
+
+#### 13 ####
+Alright, got it!{wait:14}
+Well, I'll try digging
+around here then...
+Expect something good!
+
+#### 14 ####
+Handed over Gold Nugget.
+
+#### 15 ####
+Really?{wait:14}
+Well, do what
+ever you like.
+
+#### 16 ####
+{fast:FF}"Super Deluxe Music Box"
+  Please insert 100G
+    OK, I will
+    No thanks
+
+#### 17 ####
+Hey you, don't kid
+around.{wait:14} You don't
+have enough money!
+
+#### 18 ####
+    {fast:FF}The Valley of the Wind
+    A Distant Promise
+    Lost... Screeching Shards
+    Our Village is No.1
+    We Wounded Follow the Light
+    The Brave Seek Dreams
+    September Mermaid
+    The Sky, the Clouds and You
+    A Nest of Dreams
+    An Ancient Dance
+    Tears of Stars and Memories
+    Shards Calling One Another
+    Prayers of Wind and Fire
+

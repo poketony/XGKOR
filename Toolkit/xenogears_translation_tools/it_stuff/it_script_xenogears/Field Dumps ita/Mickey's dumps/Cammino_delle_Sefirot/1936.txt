@@ -1,0 +1,209 @@
+<TextBlock 1 w:42 h:1>
+Cos'è questo posto…?<Close><End of Block>
+<TextBlock 2 w:48 h:3>
+… Cos'ha fatto ora!?
+Ti ha solo chiamato
+qui per il suo bene…<Close><End of Block>
+<TextBlock 3 w:50 h:3>
+Qui siamo all'interno
+del tuo carattere
+fondamentale…<New>
+La stanza del 'codardo'.
+Sono sicuro che l'hai
+già vista molte volte
+in passato.<Close><End of Block>
+<TextBlock 4 w:34 h:3>
+Capisco… 
+Ora ricordo…
+Nei miei sogni…<Close><End of Block>
+<TextBlock 5 w:54 h:5>
+Gettava su di me tutto
+ciò che lo disturbava,
+mentre lui si rinchiudeva
+nel suo piccolo guscio…
+il 'codardo' Fei.<Close><End of Block>
+<TextBlock 6 w:34 h:2>
+Il fulcro delle
+nostre personalità.<Close><End of Block>
+<TextBlock 7 w:38 h:2>
+Chi sei? … Ah,
+tu sei il mio…<Close><End of Block>
+<TextBlock 8 w:50 h:3>
+Ehi… guardiamolo
+insieme! È la cosa
+più preziosa che ho…<Close><End of Block>
+<TextBlock 9 w:44 h:5>
+Ah…! Rivivendo
+ripetutamente i tempi
+in cui era pieno di
+felicità, lui vive nel
+suo proprio piccolo
+mondo felice.<Close><End of Block>
+<TextBlock 10 w:52 h:3>
+Mentre io vivo ancora
+solo grazie a quello
+che si trova nella merda
+che mi ha lasciato.<Close><End of Block>
+<TextBlock 11 w:44 h:2>
+Ecco! Ora ti mostrerò…
+'ogni cosa' su di me.<Close><End of Block>
+<TextBlock 12 w:50 h:5>
+Scaricò tutta la merda
+su di me… ma tenne
+tutti i suoi ricordi
+ricolmi di felicità e
+di amore materno per sé.<New>
+E rinchiuse se stesso
+con questi ricordi
+dentro il suo piccolo
+guscio<Delay 5>…<Delay 5> per sempre.<Delay 10>
+Questo è quel luogo.<New>
+Ciò che hai visto prima,
+è ciò che ha fatto.
+Lui continua a vivere
+su quei ricordi.<Close><End of Block>
+<TextBlock 13 w:44 h:1>
+Questa è la verità…<Close><End of Block>
+<TextBlock 14 w:30 h:4>
+Basta!
+Basta così!
+Questo…
+Queste scene…<New>
+È tutto ciò che
+c'è di noi?<Close><End of Block>
+<TextBlock 15 w:48 h:4>
+Ne hai già abbastanza!
+Non c'è nulla qui!
+Solo un mondo ricolmo
+di morte e dolore…<Close><End of Block>
+<TextBlock 16 w:46 h:3>
+E non c'è rimedio.
+Questo è il nostro mondo.
+Questo è 'ogni cosa'…<Close><End of Block>
+<TextBlock 17 w:40 h:2>
+No! Va' via!<New>
+Questa è la mia stanza!<New>
+Pensavo che foste 
+sempre con me!<Close><End of Block>
+<TextBlock 18 w:54 h:3>
+Perché non riesci a
+vedere la realtà? <New>
+Felicità… Tristezza…
+Non è la combinazione
+di tutte le parti che
+fa l'intero?<New>
+Perché non gliele mostri?
+Perché non mostri a Id
+cosa vedevi sempre?<Close><End of Block>
+<TextBlock 19 w:40 h:3>
+No!
+È mio!<New>
+Non voglio mostrarlo
+alla persona che ha
+ucciso mamma!!<Close><End of Block>
+<TextBlock 20 w:36 h:3>
+Senti chi parla!
+Sei tu che hai
+ucciso la mamma!<Close><End of Block>
+<TextBlock 21 w:42 h:4>
+Non è vero!!
+Tu, sei stato tu!<New>
+A mamma non
+importava di te<Delay 5>…<Delay 5>
+Papà neanche ti
+notava<Delay 5>…<New>
+Per questo motivo
+l'hai uccisa!<New>
+Io non l'ho uccisa!
+No!!
+Non l'ho fatto…!<Close><End of Block>
+<TextBlock 22 w:28 h:1>
+Basta così!!<Close><End of Block>
+<TextBlock 23 w:46 h:4>
+Siamo stati 'noi'…
+La colpa non è di uno,
+ma solo nostra.<New>
+E non perché lei è
+divenuta Miang o perché
+papà non l'ha notato.<New>
+Non cercare all'esterno
+la ragione. Se qualcuno
+è da biasimare, quelli
+siamo noi.<New>
+Sì, mamma era Miang,
+ed io so quello che
+hai sofferto. Nessuno
+avrebbe resistito.<New>
+Ma non puoi scaricare
+tutto solo su Id.<New>
+Noi siamo una persona
+sola. Dobbiamo essere
+una persona sola.
+Giusto? Fei…<Close><End of Block>
+<TextBlock 24 w:54 h:3>
+Cammina per conto tuo!
+Affronta la realtà che
+non riesci a vedere!<Close><End of Block>
+<TextBlock 25 w:38 h:3>
+Mostra tutto a Id.
+Tutte le cose che hai
+tenuto per te stesso…<Close><End of Block>
+<TextBlock 26 w:50 h:3>
+Menzogne! Quella donna…
+Questa scena…
+Illusioni da lui create!<New>
+Io, con la mia coscienza,
+posso vedere i suoi trucchi.
+Non mi farò ingannare!<New>
+Io…!
+Io…!<Close><End of Block>
+<TextBlock 27 w:44 h:4>
+Id… basta così!
+In questo modo non
+si risolve nulla.<New>
+Mamma ci ha salvati
+all'ultimo momento.
+Questa è la verità.
+Giusto?<New>
+La realtà non sempre
+è spiacevole, Id…<Close><End of Block>
+<TextBlock 28 w:44 h:4>
+Il mio potere… non
+ha salvato nessuno.
+Ha solo distrutto.<New>
+Pensavo di potermi
+relazionare agli altri
+solo distruggendo.<New>
+Così ho distrutto
+tutto. Le persone…
+Il mondo…<Delay 20>
+Anche Elly…<Close><End of Block>
+<TextBlock 29 w:40 h:4>
+No…
+Non in questo caso.<New>
+Noi possiamo salvare
+gli altri come nostra
+madre, malgrado fosse
+diventata Miang…<New>
+…<Delay 15> ha salvato noi.<New>
+Il nostro potere… può
+salvare le persone<Delay 10>…<Delay 10>
+Possiamo salvare Elly!<Close><End of Block>
+<TextBlock 30 w:46 h:3>
+… Questo è un inizio.
+Mamma sta diventando
+così calda…<New>
+A me… lei sembra quasi…<Space 1>
+troppo calda…<Close><End of Block>
+<TextBlock 31 w:40 h:6>
+Fei, prendi i ricordi
+che ho dentro di me.
+C'è bisogno che tu
+sappia cos'è successo
+fino ad ora.<New>
+Conosci la nostra
+identità… chi siamo.
+Allora capisci cosa
+deve essere fatto.<New>
+La nostra integrazione
+non è ancora completa.<Close><Close><End of Block>

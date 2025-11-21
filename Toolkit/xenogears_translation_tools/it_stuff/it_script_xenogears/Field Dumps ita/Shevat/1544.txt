@@ -1,0 +1,41 @@
+<TextBlock 1 w:56 h:5>
+Quel giorno di 500 anni fa,
+quella donna era sicuramente
+qui…<Delay 20> Non c'era altra scelta,
+se non quella di farla
+prigionera…<New>
+Avremmo potuto vincere al
+costo di molti sacrifici!<Delay 20>
+Se solo quel traditore non
+fosse scomparso con la
+donna!!<New>
+Una volta scappata, lei
+liberò la bestia. La bestia
+succhiò il loro sangue e
+mangiò la loro carne…<Delay 20>
+E distrusse il mondo…!<Close><End of Block>
+<TextBlock 2 w:52 h:5>
+Mi scusi, signorina…<Delay 20> Lei mi
+ricorda la ragazza simile ad un
+angelo, che fu sacrificata nella
+grande guerra…<New>
+Posso immaginare la vergogna
+provata da Zefiro e dai suoi
+servitori<Delay 20>…<New>
+Furono loro i veri responsabili
+della morte di Sofia.<New>
+In realtà, tutti noi stiamo
+ancora pagando per quel delitto,
+compiutosi 500 anni fa!<Delay 20>
+Sembra quasi ridicolo, ahah…!<Close><End of Block>
+<TextBlock 3 w:52 h:5>
+Sin da allora, la gente
+si è trovata a brancolare
+nel buio.<Delay 20> Stanno ancora
+espiando per un peccato
+compiuto 500 anni fa…<New>
+Voglio che tu stia attento,
+giovane. Non seguire la
+stessa strada del traditore…<Delay 20>
+Quella d'affondare nell'odio
+e… nell'amore…<Close><Close><End of Block>

@@ -1,0 +1,49 @@
+<TextBlock 1 w:4 h:1>
+!!<Opcode 2 32><Close><End of Block>
+<TextBlock 2 w:30 h:2>
+È stato alquanto
+interessante.<Close><End of Block>
+<TextBlock 3 w:44 h:3>
+Ma fare cadere su di me
+una nave da guerra vuol
+dire barare…
+Riprenditela…!<Close><End of Block>
+<TextBlock 4 w:50 h:4>
+Bart
+"Non strafare, Sig…<Delay 30>
+Cercare di far 'volare'
+la nostra nave…!?<New>
+Quando torniamo, ci vorrà
+un mese per far tornare a
+funzionare questo mucchio
+di rottami."<Close><End of Block>
+<TextBlock 5 w:32 h:4>
+Bart
+"… Fiuh!!<Delay 45>
+Ma… che cosa era
+quel mostro?"<Close><End of Block>
+<TextBlock 6 w:34 h:3>
+Bart
+"Sig!
+Che succede?"<Close><End of Block>
+<TextBlock 7 w:36 h:3>
+Bart
+"Sig!! Maison…<Delay 35>!
+Uah…"<Opcode 2 24><Close><End of Block>
+<TextBlock 8 w:30 h:3>
+Sigurd
+"Padroncino!
+State bene!?"<Close><End of Block>
+<TextBlock 9 w:26 h:4>
+Sigurd
+"Ah… ah… ah…<Delay 32>
+Sembra proprio
+di sì!"<Close><End of Block>
+<TextBlock 10 w:46 h:4>
+Sigurd
+"Cosa… la nave?<Delay 45>
+Il motore dovrebbe
+essere andato, ma…"<Close><End of Block>
+<TextBlock 11 w:38 h:2>
+Sigurd
+"Cosa diavolo…?"<Opcode 2 45><Close><End of Block>

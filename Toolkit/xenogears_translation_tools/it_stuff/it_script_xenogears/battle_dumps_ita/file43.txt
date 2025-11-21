@@ -1,0 +1,24 @@
+<TextBlock 1 w:40 h:3>
+Elly
+"Uh…!
+… Uff… Uff…"<Close><End of Block>
+<TextBlock 2 w:46 h:2>
+"Eh eh eh eh eeeh!
+Il colpo di grazia!!"<Close><End of Block>
+<TextBlock 3 w:46 h:3>
+"Eh eh eh. Abbattuta!"<New>
+"Già me lo immagino.
+Fratture multiple,
+grave perdita di sangue…<New>
+"Non mi stupirei se la
+cabina di pilotaggio
+fosse un mare di sangue."<New>
+"Nel peggiore dei casi,
+morte…? Geh ah ah ah!!"<Close><Close><End of Block>
+<TextBlock 4 w:14 h:1>
+"Eh??"<Close><End of Block>
+<TextBlock 5 w:10 h:1>
+"!!!"<Close><End of Block>
+<TextBlock 6 w:42 h:2>
+"C… come osi!
+Tu, piccola…!!"<Close><Close><Close><Close><Close><Close><End of Block>

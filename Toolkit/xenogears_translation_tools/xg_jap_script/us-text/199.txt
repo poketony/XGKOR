@@ -1,0 +1,41 @@
+#### 1 ####
+So busy, busy.{clear:1E}
+
+#### 2 ####
+A war?
+It's war all the time
+in here.
+
+#### 3 ####
+We're undermanned
+here.
+
+#### 4 ####
+Hey! Keep your hands
+off that food.
+
+#### 5 ####
+Hey, do you know
+anything about the battle
+...in Lahan?{enter}
+No one's telling me
+anything...
+
+#### 6 ####
+...He'll come back,
+I know he will...
+
+#### 7 ####
+My daddy went to war...{enter}
+I wish he'd come back.
+
+#### 8 ####
+I'm hungry
+
+#### 9 ####
+Argh...
+
+#### 10 ####
+There's nothing of any
+use...
+

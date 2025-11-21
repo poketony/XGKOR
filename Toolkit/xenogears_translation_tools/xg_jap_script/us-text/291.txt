@@ -1,0 +1,80 @@
+#### 1 ####
+Primera
+"..."
+
+#### 2 ####
+Primera
+"..."
+
+#### 3 ####
+I can cheer myself up!!
+
+#### 4 ####
+Dad's bell makes such
+a pretty sound!
+
+#### 5 ####
+Sounds good, huh?{wait:0A}
+My Dad gave me this bell
+so I would never get lost.{enter}
+But my dad has no sense of
+direction and gets lost a
+lot too! So he also has
+the same kind of bell.{enter}
+He went to the 'Ethos'
+headquarters but never
+came back...{enter}
+He must have gotten lost
+on the way...{wait:0A}
+He's so silly!
+
+#### 6 ####
+What?{wait:0A} 
+That bell...{wait:0A}
+How did you get that?{enter}
+Hey, you didn't happen
+to meet my dad, did you?{wait:0A}
+Where is he?
+
+#### 7 ####
+Rico
+"..."
+
+#### 8 ####
+(Oh-no!{wait:0A} 
+That wasn't...
+his father...!?)
+
+#### 9 ####
+Rico
+"Listen son! Your father's
+gone to a faraway place...{wait:0A}
+Here, this is his bell!"
+
+#### 10 ####
+My father's a liar!!{wait:0A}
+He said we would go away
+and live by ourselves...{wait:0A}
+just the two of us...{enter}
+I've waited...{wait:0A}so long...{wait:0A}
+Oh, Daddy...{wait:0A}why?{wait:0A}
+Boo-hoo-hoo!
+
+#### 11 ####
+Sob,{wait:0A} sob...{wait:0A}
+But...{wait:0A}thanks.{enter}
+Thanks for bringing{wait:0A}  
+Dad's bell back.{wait:0A}
+It'll cheer me up...!!
+
+#### 12 ####
+As thanks I'll give you
+my dad's favorite book.
+
+#### 13 ####
+Received the ''Ethos'
+  Doctrine Book'.
+
+#### 14 ####
+
+

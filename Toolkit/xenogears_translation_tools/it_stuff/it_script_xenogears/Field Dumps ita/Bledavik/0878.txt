@@ -1,0 +1,13 @@
+<TextBlock 1 w:50 h:3>
+Sono venuta non appena
+sono stata chiamata…<New>
+Forse è la mia età, ma
+non mi piacciono i posti
+chiassosi.<Close><End of Block>
+<TextBlock 2 w:54 h:4>
+Sono felice di essere
+vissuta così a lungo.<New>
+Non avrei mai sognato che
+mi avrebbero chiamata
+proprio nel momento in
+cui il paese è cambiato.<Close><Close><End of Block>

@@ -1,0 +1,94 @@
+<TextBlock 1 w:52 h:7>
+Molto tempo fa, gli esseri
+umani vivevano insieme a
+dio in un paradiso in
+cielo chiamato Mahanon.
+Il luogo era protetto dal
+potere di dio. Gli esseri
+umani non conoscevano né
+la paura, né la morte.<New>
+Ma, un giorno, gli esseri
+umani entrarono nel
+giardino proibito di dio
+e mangiarono un frutto,
+il quale concesse loro
+una tremenda intelligenza
+e potere.<New>
+Dio scoprì l'accaduto e
+gli esseri umani furono
+esiliati dal paradiso.
+I tempi felici erano
+finiti, ed iniziò l'era
+della tristezza e dell'odio…<Close><End of Block>
+<TextBlock 2 w:48 h:7>
+Quella è la prima parte
+della leggenda della
+genesi che si tramanda
+da generazioni…<Delay 20> Dicono
+che una simile leggenda
+abbia un fondo di verità…<Close><End of Block>
+<TextBlock 3 w:50 h:6>
+Gli esseri umani esiliati
+dal paradiso erano stolti
+abbastanza da ribellarsi
+contro dio.<New>
+Per resistere al potere
+di dio, crearono dodici
+Contenitori dell'Anima,
+e chiamarono se stessi
+dèi…<New>
+Per 10 giorni e 10 notti,
+il mondo fu in guerra e
+Mahanon fu avvolto dalle 
+fiamme.<New>
+Ma la forza degli esseri
+umani nulla poté contro
+dio e gli arroganti
+umani furono distrutti
+dalla sua rabbia.
+Solo pochi uomini giusti
+furono risparmiati.<New>
+Comunque, anche dio era
+stanco e ferito. Decise
+così di riposare nelle
+profondità della terra.<New>
+Il riposo di dio fu lungo.
+Ma l'eternità per dio
+è solo un momento.<New>
+Da allora, gli uomini
+che non si ribellarono
+a dio devono vivere
+lottando duramente con
+la natura, nella continua
+paura della morte…<Close><End of Block>
+<TextBlock 4 w:50 h:7>
+La leggenda narra anche questo:<Delay 20>
+Quando nasceranno di nuovo
+i figli degli uomini giusti,
+dio si desterà dal suo sonno
+e li aiuterà.<New>
+Se la leggenda è vera, cosa
+porterà il risveglio di dio
+alla gente?<Delay 20>
+Che genere di essere è dio?<Close><End of Block>
+<TextBlock 5 w:54 h:5>
+Non è dato sapere quanto
+della leggenda della genesi
+sia vero…<New>
+Tuttavia, i 'Contenitori
+dell'Anima' creati per
+mezzo della conoscenza
+di dio, esistono.<New>
+Il Ministero di Gazel di
+Solaris sta disperatamente
+cercando di trovare i
+'Contenitori dell'Anima'
+e Mahanon…<New>
+… il luogo conosciuto
+per essere quello in cui
+riposa dio.<New>
+Se Solaris ottiene quel
+potere, nessuno sarà più
+in grado di fermarli.<Delay 20>
+Che ne sarà del mondo,
+allora…?<Close><Close><End of Block>

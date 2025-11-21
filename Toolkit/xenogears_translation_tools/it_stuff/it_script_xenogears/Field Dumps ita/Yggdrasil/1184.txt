@@ -1,0 +1,330 @@
+<TextBlock 1 w:48 h:4>
+Mi è impossibile
+capire, ma…<Delay 10>
+malgrado tutto,
+conto su di voi!<New>
+Nessun altro può
+farlo!<Close><End of Block>
+<TextBlock 2 w:46 h:3>
+Non ci vedremo per un
+po', ma pregherò per
+il vostro successo!<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+Ci separeremo…<Delay 10> questo è
+quello che vorrei dire,
+ma a questo punto vi
+seguiremo fino alla fine!!<Close><End of Block>
+<TextBlock 4 w:44 h:3>
+Non pensavo che
+potesse davvero
+volare… Chi lo
+avrebbe detto!?<Close><End of Block>
+<TextBlock 5 w:34 h:2>
+(Spero di avere
+una bella sposa!)<Close><End of Block>
+<TextBlock 6 w:34 h:2>
+Distruggiamoli in
+un colpo solo!!<Close><End of Block>
+<TextBlock 7 w:58 h:4>
+L'infermiera è venuta
+a cercare Fei…<Delay 10>
+Ma forse Fei è scappato
+per le orride cure di
+quella lì!<Close><End of Block>
+<TextBlock 8 w:50 h:2>
+Più che una nave fantasma,
+sembra una nave di mostri…<Close><End of Block>
+<TextBlock 9 w:54 h:4>
+Una nave fantasma…<Delay 10>
+Scommetto che è un posto
+dove ti arriva del<Delay 10> sangue
+giù dalle docce…<New>
+Attenti alla doccia!<Close><End of Block>
+<TextBlock 10 w:44 h:3>
+Chi era quell'uomo…?<Delay 10>
+Riuscivo a sentire
+l'eco della sua voce
+dal corridoio.<Close><End of Block>
+<TextBlock 11 w:38 h:3>
+Cosa!?<Delay 10>
+Fei si è ripreso!?
+È un miracolo!!<Close><End of Block>
+<TextBlock 12 w:42 h:3>
+Fei era una brava
+persona…<Delay 10><New>
+Non dimenticherò mai
+la tua gentilezza, Fei…<Close><End of Block>
+<TextBlock 13 w:40 h:3>
+Elly non avrebbe mai
+fatto una cosa simile!!<Delay 10>
+Io credo in lei…<Close><End of Block>
+<TextBlock 14 w:48 h:5>
+Elly sta riposando
+nell'infermeria qui
+di fronte.<Delay 10><New>
+Scommetto che non riesce
+a dormire in un posto
+squallido come questo.<Close><End of Block>
+<TextBlock 15 w:52 h:3>
+Anche in un paese
+straniero c'è gente
+che vuole aiutare.<New>
+Scommetto che il capo
+di questo posto è un
+tipo comprensivo.<Delay 10>
+Sono così commosso…<Close><End of Block>
+<TextBlock 16 w:60 h:5>
+Se la prendono con noi per
+la distruzione delle truppe
+di Aveh! Non lo capisco!<Delay 10>
+Era l'esplosione del reattore
+dell'incrociatore del deserto
+di Geburah da incolpare, no?<New>
+Anche se torniamo ad Ignis,
+saremo solo delle prede per
+loro! Ma vaffanculo!!<Close><End of Block>
+<TextBlock 17 w:50 h:3>
+Eravate sul Golia?<Delay 10>
+Ehi, io ho cercato di
+fermare il Padroncino,
+sapete!<Close><End of Block>
+<TextBlock 18 w:48 h:3>
+Professore, domani
+abbiamo un grande
+lavoro da fare!<New>
+Anche se non riesce
+a dormire, dovrebbe
+almeno stendersi!<Close><End of Block>
+<TextBlock 19 w:54 h:2>
+(In realtà… anch'io
+sono troppo agitato
+per dormire…)<Close><End of Block>
+<TextBlock 20 w:40 h:3>
+Margherita è diventata
+più forte dall'ultima
+volta che l'ho vista.<New>
+È senza dubbio la
+vera Grande Madre
+di Nisan.<Close><End of Block>
+<TextBlock 21 w:32 h:1>
+Di nuovo!<Close><End of Block>
+<TextBlock 22 w:52 h:2>
+Siamo quasi alla base…
+Fiuh, finalmente potremo
+riposarci!<Close><End of Block>
+<TextBlock 23 w:50 h:2>
+Devo lavorare duramente
+per il futuro della
+mia bambina!<Close><End of Block>
+<TextBlock 24 w:46 h:4>
+In questa missione,
+l'Yggdrasil non potrà fare
+da nave di salvataggio…<Delay 10>
+State attenti!<Close><End of Block>
+<TextBlock 25 w:40 h:3>
+Era dalla nascita di
+mia figlia che non
+ero così commosso…<New>
+Abbiamo passato molte
+sofferenze, e abbiamo
+perso molti amici…<New>
+Ma ora so che tutto
+ciò era per una
+giusta causa!<Close><End of Block>
+<TextBlock 26 w:34 h:3>
+Quello Shakhan…
+è meglio che si
+prepari già la
+tomba!!<Close><End of Block>
+<TextBlock 27 w:34 h:2>
+Dobbiamo restare
+qui per un po'…<Close><End of Block>
+<TextBlock 28 w:38 h:3>
+Pensavo che il Gear
+se ne fosse andato
+poco fa…<Delay 10>
+Non è così…?<Close><End of Block>
+<TextBlock 29 w:50 h:1>
+Quello sì che era
+un Wels enooorme!<Close><End of Block>
+<TextBlock 30 w:38 h:3>
+Nave fantasma!?<Delay 10>
+Sì!!! Ora sì che mi
+sento un vero pirata!<Close><End of Block>
+<TextBlock 31 w:58 h:4>
+Sigurd si è diretto verso
+il bar con uno strano
+uomo proprio un minuto
+fa.<Delay 10> Non sembrava troppo
+felice.<Close><End of Block>
+<TextBlock 32 w:42 h:3>
+Vedo, vedo…<Delay 10>
+allora sta bene…<New>
+Ma io non farei affidamento
+su quell'infermiera.<Delay 10>
+Ah, ah, ah!!<Close><End of Block>
+<TextBlock 33 w:42 h:3>
+Cosa? Prima la ragazza,
+e ora Fei…!?<Delay 10>
+È terribile!<Close><End of Block>
+<TextBlock 34 w:46 h:3>
+Ha perso le staffe e
+ha quasi distrutto la
+sala motori?<New>
+Le giovani d'oggi non
+sanno proprio quando
+fermarsi!<Close><End of Block>
+<TextBlock 35 w:52 h:3>
+Elly si comportava
+in modo strano.<Delay 10>
+Per caso ha litigato…?<New>
+Essere giovani è stupendo.<Delay 10>
+Anch'io mi comportavo
+in quel modo quando
+avevo la vostra età.<Close><End of Block>
+<TextBlock 36 w:46 h:3>
+Almeno ora siamo veri
+'pirati'.<Delay 10> Ma… mi
+manca un po' la vita
+nella sabbia.<Close><End of Block>
+<TextBlock 37 w:44 h:3>
+Padroncino, è stupendo
+vedere un Yggdrasil
+rinnovato.<New>
+Ma, visto che abbiamo
+solo spostato la
+nostra casa, sembra
+sempre lo stesso.<Close><End of Block>
+<TextBlock 38 w:44 h:4>
+Molti nostri amici
+sono passati a
+miglior vita…<New>
+Noi ci chiediamo a
+volte se ciò che stiamo
+facendo sia giusto, ma,
+un giorno, io so che
+la pace arriverà!<Close><End of Block>
+<TextBlock 39 w:52 h:4>
+Quando il Padroncino
+diventerà re,<Delay 10> mi chiedo
+se si dimenticheranno del
+mio conto al bar di Aveh.<Close><End of Block>
+<TextBlock 40 w:48 h:4>
+Dicono di tenersi pronti
+dentro la nave.<Delay 10>
+Ma io voglio scendere
+a Nisan.<Close><End of Block>
+<TextBlock 41 w:48 h:3>
+Ehi…?<Delay 10>
+Quel professore vestito
+di verde non è con voi?<Close><End of Block>
+<TextBlock 42 w:52 h:4>
+Quando potrò rivedere
+mia figlia?<Delay 10>
+Credo che prima dovrò
+finire questa guerra…!!<Close><End of Block>
+<TextBlock 43 w:46 h:4>
+Mia figlia mi sta
+aspettando alla base.<New>
+È così tanto che non
+la vedo! Perciò poi
+passeremo molto tempo
+assieme.<Close><End of Block>
+<TextBlock 44 w:38 h:3>
+Riposatevi quanto basta
+e siate pronti per
+la battaglia decisiva!<Close><End of Block>
+<TextBlock 45 w:52 h:3>
+Padroncino, anche voi
+volete dormire qui?<Delay 10>
+Credetemi, non
+dovreste farlo…<Close><End of Block>
+<TextBlock 46 w:48 h:4>
+Oh! Tu sei Rico, il
+Campione? Io vengo
+da Kislev. È 
+magnifico incontrarti!!<Close><End of Block>
+<TextBlock 47 w:46 h:3>
+Rico
+"Beh, non sono più il
+Campione.<Delay 10> Perciò non
+c'è bisogno che ti agiti."<Close><End of Block>
+<TextBlock 48 w:58 h:3>
+Potrei non essere bellissimo,
+ma io ho una fidanzata che
+mi aspetta a casa…<New>
+Ma la mia città natìa è
+Kislev.<New>
+Mi chiedo se potrò vedere
+la mia donna, quando il
+Padroncino diventerà il re
+di Aveh…?<Close><End of Block>
+<TextBlock 49 w:50 h:4>
+Qui è dove riposiamo.
+Vuoi riposare anche tu?<Delay 10>
+    Sì
+    No, grazie<Close><End of Block>
+<TextBlock 50 w:38 h:2>
+C'è un po' di disordine,
+cerca di sopportarlo.<Close><End of Block>
+<TextBlock 51 w:14 h:1>
+Ci vediamo.<Close><End of Block>
+<TextBlock 52 w:34 h:3>
+A dopo.
+Fammi sapere quando
+vuoi riposare.<Close><End of Block>
+<TextBlock 53 w:44 h:4>
+Santo cielo, Bart!
+Dov'è Fei?
+Avete litigato ancora?
+Oh, dio…<Close><End of Block>
+<TextBlock 54 w:48 h:2>
+Finché voi sarete vivi,
+io sarò felice.<Close><End of Block>
+<TextBlock 55 w:52 h:4>
+Santo cielo, Bart ha
+compiuto un'azione
+così degna di lode!<Delay 10>
+Lui era solito essere un
+bambino assai monello…<New>
+Quando era giovane era
+così testardo! Ma aveva
+un forte senso della
+giustizia. Sono così
+orgogliosa di lui!<Close><End of Block>
+<TextBlock 56 w:50 h:4>
+Non ho idea di cosa
+stiate facendo tu e
+Bart, ma se succede
+qualcosa, vi aiuterò!
+Non preoccupatevi!<Close><End of Block>
+<TextBlock 57 w:52 h:3>
+Ho deciso di lavorare qui,
+spero non ti dispiaccia…<New>
+Allora, hai incontrato il
+mio stupido marito, che fa
+tanto il gradasso ed il
+grande macho?<New>
+Ha anche il vizio di
+insultare, ma…<Delay 10> in fondo
+in fondo…<Delay 10> è un brav'uomo.<Close><End of Block>
+<TextBlock 58 w:44 h:3>
+Penso che ci siano molte
+cose nel mondo che non
+ho mai visto.<New>
+Probabilmente, se mi
+metterò a faticare sul
+serio da solo, le
+troverò…<Close><End of Block>
+<TextBlock 59 w:32 h:1>
+Eh-eh-eh-eh!<Close><End of Block>
+<TextBlock 60 w:46 h:2>
+Elena, così coraggiosa…<Delay 10>
+Così toccante…<Close><End of Block>
+<TextBlock 61 w:54 h:3>
+La collezione delle carte
+di Xenosaga…<Delay 10> Sto avendo
+un periodo difficile a
+collezionarle tutte…<Close><End of Block>
+<TextBlock 62 w:0 h:1>
+<Close><End of Block>

@@ -1,0 +1,71 @@
+<TextBlock 1 w:36 h:4>
+Lacan
+"Ecco<Delay 5>…<Delay 30>
+Ciò di cui sono
+andato alla ricerca<Delay 5>…"<Opcode 2 60><Close><End of Block>
+<TextBlock 2 w:46 h:4>
+Ma… un attimo!<Delay 15>
+Non è questo
+che voglio!<Delay 15> No!<Delay 5>
+Questo non è il mio
+vero desiderio!<Opcode 2 120><Close><End of Block>
+<TextBlock 3 w:16 h:1>
+…<Delay 3>…<Delay 3>…<Delay 3> V<Delay 3>i<Delay 3>v<Delay 3>i<Delay 3>!<Space 3><Opcode 2 60><Close><End of Block>
+<TextBlock 4 w:0 h:1>
+<End of Block>
+<TextBlock 5 w:0 h:0>
+<End of Block>
+<TextBlock 6 w:0 h:0>
+<End of Block>
+<TextBlock 7 w:0 h:0>
+<End of Block>
+<TextBlock 8 w:0 h:0>
+<End of Block>
+<TextBlock 9 w:0 h:0>
+<End of Block>
+<TextBlock 10 w:0 h:0>
+<End of Block>
+<TextBlock 11 w:0 h:0>
+<End of Block>
+<TextBlock 12 w:0 h:0>
+<End of Block>
+<TextBlock 13 w:0 h:0>
+<End of Block>
+<TextBlock 14 w:0 h:0>
+<End of Block>
+<TextBlock 15 w:0 h:0>
+<End of Block>
+<TextBlock 16 w:0 h:0>
+<End of Block>
+<TextBlock 17 w:0 h:0>
+<End of Block>
+<TextBlock 18 w:0 h:0>
+<End of Block>
+<TextBlock 19 w:0 h:0>
+<End of Block>
+<TextBlock 20 w:0 h:0>
+<End of Block>
+<TextBlock 21 w:0 h:0>
+<End of Block>
+<TextBlock 22 w:0 h:0>
+<End of Block>
+<TextBlock 23 w:0 h:0>
+<End of Block>
+<TextBlock 24 w:0 h:0>
+<End of Block>
+<TextBlock 25 w:0 h:0>
+<End of Block>
+<TextBlock 26 w:0 h:0>
+<End of Block>
+<TextBlock 27 w:0 h:0>
+<End of Block>
+<TextBlock 28 w:0 h:0>
+<End of Block>
+<TextBlock 29 w:0 h:0>
+<End of Block>
+<TextBlock 30 w:0 h:0>
+<End of Block>
+<TextBlock 31 w:0 h:0>
+<End of Block>
+<TextBlock 32 w:0 h:0>
+<Close><End of Block>

@@ -1,0 +1,35 @@
+#### 1 ####
+Achtzehn
+"For a low-class,
+low level life-form,
+you're pretty good."
+
+#### 2 ####
+Achtzehn
+"Die, you pathetic
+animal! Die!"
+
+#### 3 ####
+{name:07:チュチュ}
+"Kyow! I did it!{wait:5A}
+I did the big big
+churansformation!"
+
+#### 4 ####
+{name:07:チュチュ}
+"I'm hungry..."
+
+#### 5 ####
+{name:07:チュチュ}
+"Ouchu! That hurt..."
+
+#### 6 ####
+{name:07:チュチュ}
+"I'm not a low
+level life-form.
+I'm {name:07:チュチュ}.{enter}
+Don't be a bad loser!
+If you wanchu apologize,
+you had better do it
+while you still can."
+

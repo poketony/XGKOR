@@ -1,0 +1,45 @@
+<TextBlock 1 w:46 h:6>
+……<Delay 10> XafbEW<Delay 10>fadJZ<Delay 10>……………<Delay 30>
+Modificatore Linguistico
+attivato.<New>
+Identificato: Agnello,
+dialetto di Ignis.
+Pilota senza esperienza.
+<Right>Impostata Modalità
+Facile.<New>
+Sincronizzazione della
+interfaccia di comando
+con la velocità di 
+riflessi del pilota.<New>
+
+Avviso al Pilota:
+MODALITÀ COMBATTIMENTO
+Stai per entrare in
+combattimento!<Delay 20>
+1200 unità di carburante
+residue.<New>
+
+Utilizza l'Anello di
+Comandi nella parte
+superiore dello schermo
+per scegliere ATTACCO…<New>
+
+poi i pulsanti <Tri>, <Square> e <Cross>
+per cominciare la
+sequenza di autoattacco.<New>
+
+La potenza e il
+carburante utilizzato
+differiscono a seconda
+del tipo di attacco
+(pulsante):
+   <Tri>10   <Square>20   <Cross>30
+(CARICA restituisce
+30 unità di carburante)<Close><End of Block>
+<TextBlock 2 w:46 h:4>
+ATTENZIONE!
+I Gear nemici si stanno
+preparando ad attaccare!<New>
+  Fine della
+Modalità Aiuto.<Close><Close>
+<Close><End of Block>

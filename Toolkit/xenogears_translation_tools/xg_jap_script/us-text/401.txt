@@ -1,0 +1,159 @@
+#### 1 ####
+Fei
+"...!?{wait:14}
+Yui!?{enter}
+W...why,
+are you here...!?"
+
+#### 2 ####
+Fei
+"I see..."
+
+#### 3 ####
+Fei
+"I'm sorry for putting so
+much trouble on you."
+
+#### 4 ####
+Fei
+"Yes...{wait:14}
+but..."
+
+#### 5 ####
+Fei
+"Oh, you've never met her
+before.{wait:14} This is doc's
+wife, Yui."
+
+#### 6 ####
+Fei
+"Okay!{wait:14}
+Then I'll see you later."
+
+#### 7 ####
+Citan
+"Oh, it is nice to be back.{wait:14}
+Thanks for your trouble."
+
+#### 8 ####
+Elly
+"..."
+
+#### 9 ####
+Bart
+"Excuse me...but...
+who's this lady?"
+
+#### 10 ####
+Bart
+"The wife of{wait:14} Citan!?"
+
+#### 11 ####
+Bart
+"Y...yes!{wait:14}
+H...how do you do!"
+
+#### 12 ####
+We're still running around
+in the sky because of the
+war that broke out 500
+years ago. It doesn't make
+any sense!{enter}
+Why do we have to suffer
+for what our ancestors
+did?{wait:14} What do you think?{enter}
+I can't even get fresh
+ingredients for meals!{wait:14}
+I've had it!
+
+#### 13 ####
+Yui
+"Fei...{wait:14}
+Be careful...{enter}
+No matter what happens,
+never give up..."
+
+#### 14 ####
+Yui
+"Oh, welcome.{wait:14}
+You look good, Fei.{enter}
+The meal will be ready
+soon. Please join us and
+eat to your heart's
+content."
+
+#### 15 ####
+Yui
+"Oh? Didn't I tell you
+before? I was born here.{enter}
+After you left the village,
+I decided to return to
+Shevat along with the
+survivors of the village.{enter}
+Because the soldiers from
+Aveh and Kislev were
+showing up around there
+..."
+
+#### 16 ####
+Yui
+"Welcome back."
+
+#### 17 ####
+Yui
+"What are you saying?{wait:14}
+It's not your fault.{enter}
+There's nothing to worry
+about.{enter}
+The people from the village
+understood after they came
+here and heard the story.{enter}
+They couldn't blame only you
+for that incident because
+Solaris was behind it."
+
+#### 18 ####
+Yui
+"Aha, I take it...{wait:14}
+you are Bart, the Orca of
+the Desert, right?{enter}
+I've heard a lot about you.
+You've been quite busy.{wait:14}
+It's nice to meet you."
+
+#### 19 ####
+Yui
+"Have you met the Queen?{enter}
+If you haven't, go say
+hello to her as soon as
+possible."
+
+#### 20 ####
+Yui
+"There is an intruder
+in Shevat?{wait:14} Is it one of
+Solaris'...?"
+
+#### 21 ####
+Yui
+"Have you met the Queen?{wait:14}
+If you haven't, go say hello
+to her as soon as possible."
+
+#### 22 ####
+Midori
+"...{enter}
+Chu-chu...{wait:14}
+My friend..."
+
+#### 23 ####
+Midori really talks a
+lot!{wait:14} It's amazing how
+much stuff you have
+chu talk about.
+
+#### 24 ####
+We can have a conversation
+without talking.{wait:14} Have you
+forgotten already?
+

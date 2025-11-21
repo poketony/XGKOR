@@ -1,0 +1,141 @@
+#### 1 ####
+Elly
+"These wounds are horrific.
+He might not survive in
+this condition."
+
+#### 2 ####
+Elly
+"Let's contact the 
+Yggdrasil to come 
+and help us."
+
+#### 3 ####
+Elly
+"Hang in there now!{wait:1E}
+Don't worry.
+We came here to help you!"
+
+#### 4 ####
+Elly
+" 'Shevat'!?{wait:1E}
+Is he...{wait:1E}
+from 'Shevat'!?"
+
+#### 5 ####
+Citan
+"This is a terrible wound.
+His life is in danger."
+
+#### 6 ####
+Citan
+"Let us contact the
+Yggdrasil to come 
+and help us."
+
+#### 7 ####
+Citan
+"Pull yourself together!{wait:1E}
+Do not worry.
+We are on your side!"
+
+#### 8 ####
+Citan
+"'Shevat'!?{wait:1E}
+You are from...{wait:1E}
+'Shevat'!?"
+
+#### 9 ####
+Bart
+"This's a bad wound.
+If we don't help him
+he's a goner!"
+
+#### 10 ####
+Bart
+"Let's call my crew on
+the Ygg to come and help
+help him out."
+
+#### 11 ####
+Bart
+"Ahoy! Keep your eyes
+open!{wait:1E} We're going to let
+you out, OK!"
+
+#### 12 ####
+Bart
+"'Shevat'!?
+Did he just say...
+'Shevat'!?"
+
+#### 13 ####
+Billy
+"Are you alright!
+Please answer me!"
+
+#### 14 ####
+Billy
+"I contacted the Yggdrasil
+to come and help him.{enter}
+So, he's taken care of.
+Let's hurry."
+
+#### 15 ####
+Rico
+"This's a real bad wound."
+
+#### 16 ####
+Rico
+"Let's get the Yggdrasil
+to come and help him."
+
+#### 17 ####
+Rico
+"Hey you!
+Keep with us, here! {wait:1E}
+We're on your side!"
+
+#### 18 ####
+Rico
+"'Shevat'!?
+Is he one of the
+people of 'Shevat'?"
+
+#### 19 ####
+...
+
+#### 20 ####
+...{wait:05}...{wait:05}...{wait:05}...{wait:05}...{wait:05}
+
+#### 21 ####
+{slow:02}I...{wait:05}...{wait:0A}don't...{wait:0A}know...{wait:05}...{wait:0A}
+anything...{wait:05}...{wait:05}...{wait:0A}{enter}
+I can't...{wait:05}...{wait:05}talk...
+{slow:03}anymore...{wait:05}than...{wait:0A}this...
+
+#### 22 ####
+{slow:03}...{wait:05}...{wait:05}?{wait:05}
+...{wait:05}...{wait:05}...{wait:05}...{wait:05}!
+
+#### 23 ####
+{slow:03}She{wait:05}...{wait:0A}vat...{enter}
+{slow:03}Got{wait:05}...{wait:05}to{wait:05}...{wait:05}contact{wait:05}...{wait:0A}
+Shev{wait:05}...{wait:05}vat{wait:05}...{wait:05}
+
+#### 24 ####
+{slow:03}...
+
+#### 25 ####
+Big Joe
+"Oh, my best buddy!"
+
+#### 26 ####
+Big Joe
+"You came all the way 
+to save me, eh?  
+Well done, well done.{enter}
+Someday, you'll brag 
+about saving me!{enter2}
+Adios amigos!"
+

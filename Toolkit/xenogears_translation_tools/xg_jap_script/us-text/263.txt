@@ -1,0 +1,164 @@
+#### 1 ####
+Rico
+"I'll never forgive
+what they did to him...{wait:0A}
+He did nothing wrong!"
+
+#### 2 ####
+Rico
+"There's nothin' to do now.{wait:0A}
+I could help you, if you
+want me to..."
+
+#### 3 ####
+Rico
+"I'm the one who's going
+to beat Fei!{wait:0A} So I can't
+let him die like this!"
+
+#### 4 ####
+Rico
+"Do what you need to do.{wait:0A}
+It's none of my business."
+
+#### 5 ####
+Rico
+"That girl{wait:05} had the
+eyes of a prisoner."
+
+#### 6 ####
+Rico
+"Don't get me wrong.{wait:0A}
+That doesn't mean 
+I'm on your side."
+
+#### 7 ####
+Hammer
+"I'll be supporting you."
+
+#### 8 ####
+Hammer
+"G, ghost ship...?{wait:0A}
+I'll stay here!"
+
+#### 9 ####
+Hammer
+"Kinda strange for a
+village to only have
+kids, isn't it? "
+
+#### 10 ####
+Hammer
+"Oh, feeling better!?{wait:0A}
+That's good to hear!"
+
+#### 11 ####
+Hammer
+"My bro's unconscious?{wait:0A}
+Are you serious?{enter}
+Who's the enemy that
+could beat the
+Battling Champ...?"
+
+#### 12 ####
+Hammer
+"Typical of a Solarian...{wait:0A}
+We'll never know what
+Elly'll do next..."
+
+#### 13 ####
+Rico
+"Hammer,{wait:05} you rat!{enter}
+I'll crush your head
+if you ever say that
+again!!"
+
+#### 14 ####
+Hammer
+"S, s, sorry!!{wait:0A}
+Pleeze forgive me...!!"
+
+#### 15 ####
+Hammer
+"Where is this place?{wait:0A}
+Never heard of the
+'Thames' before."
+
+#### 16 ####
+Hammer
+"So you're Bart, the
+'pirate', huh...{enter}
+Hammer, the 'supplier',
+has great information for
+you...{wait:0A} Shakhan still
+controls Aveh...{enter}
+He's planning military
+intervention in Nisan.{wait:0A}
+But for some reason,
+Gebler is stopping him...{enter}
+...Oh,{wait:05} so you already
+knew that?"
+
+#### 17 ####
+Hammer
+"I'm staying put here."
+
+#### 18 ####
+Hammer
+"Where are we?"
+
+#### 19 ####
+Hammer,{wait:0A}
+Rico...{wait:0A}
+Wake up!
+
+#### 20 ####
+Rico
+"What is this place?{wait:0A}
+Something smells."
+
+#### 21 ####
+Citan
+"We are inside the ship
+of Bart and his crew.{enter}
+They rescued us after
+we were shot down in
+the Goliath."
+
+#### 22 ####
+Rico
+"Who the heck are
+'Bart and his crew'?"
+
+#### 23 ####
+Citan
+"Let us say{wait:05}...they are
+bandits...{wait:05}robbing Aveh.{enter}
+Bart is their leader,{wait:0A}
+though he is still a
+young man."
+
+#### 24 ####
+Rico
+"A robber in this day
+and age?{wait:0A} A man with an
+attitude. I like it!!"
+
+#### 25 ####
+Citan
+"...{wait:0A}
+Do you want to start off
+by going to meet Bart?"
+
+#### 26 ####
+Rico
+"Hmm...{wait:0A}
+You read my mind!"
+
+#### 27 ####
+Hammer
+"I'm staying here!"
+
+#### 28 ####
+
+

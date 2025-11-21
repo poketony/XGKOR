@@ -1,0 +1,107 @@
+<TextBlock 1 w:34 h:1>
+Mamma<Delay 10> era Miang.<Delay 100><Close><End of Block>
+<TextBlock 2 w:58 h:1>
+<Opcode 14 1>La nostra era una famiglia
+normale.<Close><End of Block>
+<TextBlock 3 w:58 h:1>
+<Opcode 14 1>Un padre severo
+ma affidabile.<Close><End of Block>
+<TextBlock 4 w:50 h:1>
+<Opcode 14 1>Una cara e dolce madre.<Close><End of Block>
+<TextBlock 5 w:40 h:2>
+<Opcode 14 1>Fino ad allora, era<Delay 50>
+la felicità totale.<Close><End of Block>
+<TextBlock 6 w:28 h:1>
+<Opcode 14 1>Ma un giorno…<Close><End of Block>
+<TextBlock 7 w:48 h:1>
+<Opcode 14 1>Mamma improvvisamente
+cambiò.<Close><End of Block>
+<TextBlock 8 w:40 h:3>
+<Opcode 14 1>Lei era come una<Delay 10>
+persona completamente
+diversa.<New>
+<Delay 50>Da quel giorno…<Delay 10>
+'Fei' perse la sua casa.<Close><End of Block>
+<TextBlock 9 w:54 h:1>
+<Opcode 14 1>Papà<Delay 10> era spesso via.<New>
+Aveva un lavoro importante.<Close><End of Block>
+<TextBlock 10 w:38 h:2>
+<Opcode 14 1>Di fronte a papà
+lei si comportava
+normalmente.<Close><End of Block>
+<TextBlock 11 w:60 h:5>
+<Opcode 14 1>Quando Fei cercò di dire a
+papà del comportamento
+di mamma e degli strani
+esperimenti…<New>
+… papà, preso dal suo
+lavoro, non l'ascoltò
+per davvero.<Close><End of Block>
+<TextBlock 12 w:44 h:2>
+<Opcode 14 1>Papà pensava fossero
+solo le fantasie di
+un bambino.<Close><End of Block>
+<TextBlock 13 w:36 h:3>
+<Opcode 14 1>Ma lui non avrebbe
+resistito per molto
+a tutto quel dolore…<Close><End of Block>
+<TextBlock 14 w:46 h:3>
+<Opcode 14 1>Il subconscio di 'Fei'
+scoprì così un modo
+per sfuggire al trauma.<Close><End of Block>
+<TextBlock 15 w:42 h:4>
+<Opcode 14 1>Formò una personalità
+separata per trattare
+con tutte le cose…<New>
+… che non gli piacevano
+o che non poteva
+sopportare.<Close><End of Block>
+<TextBlock 16 w:54 h:3>
+<Opcode 14 1>Tolse se stesso dalla
+'zona di pericolo'.<New>
+Il mio ruolo era quello di
+ricevere tutte le cose che
+lui odiava, nel momento in
+cui nascevano.<Close><End of Block>
+<TextBlock 17 w:48 h:3>
+<Opcode 14 1>Fin dal momento
+della divisione, io sono
+stato dominato dall'odio.<New>
+E poi quell'odio si
+tramutò in impulsi
+distruttivi.<Close><End of Block>
+<TextBlock 18 w:38 h:2>
+<Opcode 14 1>Io volevo distruggere
+ogni cosa.<Close><End of Block>
+<TextBlock 19 w:38 h:2>
+<Opcode 14 1>Mamma, <Delay 20>papà, <Delay 20>
+il mondo intero<Delay 10>…<Close><End of Block>
+<TextBlock 20 w:52 h:3>
+<Opcode 14 1>Finalmente papà notò
+lo strano comportamento
+di mamma, ma era già
+troppo tardi.<New>
+Io ero completamente
+separato da quel
+codardo… il me
+stesso originale.<Close><End of Block>
+<TextBlock 21 w:48 h:2>
+La marionetta era a
+pezzi<Delay 10>…<Delay 10> e<Delay 10>…<New>
+… anche il cuore
+di 'Fei'<Delay 10>…<Close><End of Block>
+<TextBlock 22 w:44 h:2>
+Cosa ha spinto mamma a
+fare una cosa simile…?<Close><End of Block>
+<TextBlock 23 w:40 h:4>
+Mamma ripeteva gli
+esperimenti per
+studiare il potere…<New>
+… che lei sapeva
+esistere in me.<New>
+Sì,<Delay 10> quella donna<Delay 10>…<Delay 10>
+mamma,<Delay 20> era Miang.<Close><End of Block>
+<TextBlock 24 w:26 h:1>
+<Opcode 1 255>È una menzogna!<Close><End of Block>
+<TextBlock 25 w:28 h:1>
+No, è la verità.<Close><Close><End of Block>

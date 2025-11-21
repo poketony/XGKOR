@@ -1,0 +1,526 @@
+#### 1 ####
+GO!{clear:1E}
+
+#### 2 ####
+!{clear:1E}
+
+#### 3 ####
+!!{clear:1E}
+
+#### 4 ####
+...{clear:1E}
+
+#### 5 ####
+{fast:FF}Yah!!{clear:1E}
+
+#### 6 ####
+{fast:FF}Yes!{clear:1E}
+
+#### 7 ####
+{fast:FF}Of course!!{clear:1E}
+
+#### 8 ####
+{fast:FF}Yeah!!{clear:1E}
+
+#### 9 ####
+Why doesn't Primera
+play with Uncle Stone?{wait:0A}
+He's sooo interesting...
+
+#### 10 ####
+Ehhh, you're going searching
+for the flying saucer?{wait:0A}
+Take me too!!
+
+#### 11 ####
+Billy
+"Davy is watching things
+here.{enter}
+If you're a good boy
+you can go sometime."
+
+#### 12 ####
+I, {wait:05}if, {wait:05} I'm not a 
+good boy I can't go...{wait:0A}
+Waahhh!!
+
+#### 13 ####
+Can't see the flying
+saucer today.{wait:0A} Aa¡«h!
+
+#### 14 ####
+Wanna know about the flying
+saucer? Then just ask me!
+{fast:FF}    Tell me
+    Nevermind
+
+#### 15 ####
+{fast:02}Ahem!!
+Actually it was a long time
+ago. About 50 years ago, an
+old man, Henry Mingas, said
+he was taken by the saucer
+and his body was altered.
+Well, no one believed him,
+but afterward it's said he
+had amazing knowledge and
+skills he never had before.
+Then 10 years ago, strange
+circle shaped marks were
+found in many places.
+You must've heard about it.
+No? Well anyway, they were
+called mystery circles. So
+this guy spread rumors that
+they were saucer landing
+sites, and when others
+began to disappear, there
+was even more talk. But
+there were other things
+than the saucer landing site
+explanation, such as the
+Naughty Stories, Dragon
+Scrolls, or Plasma Legend.
+So there was no real proof.
+But real disappearances
+did happen.{enter}
+{fast:00}
+Oh, I forgot to mention,
+the saucer was called
+'Shevat'.
+There are even people
+who worship it.
+
+#### 16 ####
+So, was that of any use?{wait:0A}
+Ahem.
+
+#### 17 ####
+When you say that,
+you make me want to
+tell you anymore...
+
+#### 18 ####
+You want Billy?{wait:0A}
+You should go to the 
+'Ethos' headquarters.
+
+#### 19 ####
+Yeah!!{clear:1E}
+
+#### 20 ####
+Billy's not here so
+I gotta work hard.
+
+#### 21 ####
+Billy
+"It's just a little while."
+
+#### 22 ####
+It's like something's
+in there, but you can't
+go inside.{wait:0A}{enter}
+Some kind of haunted
+house?{wait:0A}
+...shiver...
+
+#### 23 ####
+Billy says don't talk
+to strangers...
+
+#### 24 ####
+Yeah!!{clear:1E}
+
+#### 25 ####
+...eight, nine, ten!!
+
+#### 26 ####
+Where is everyone hiding?
+
+#### 27 ####
+I wonder if Uncle Stone
+will come back and play? 
+
+#### 28 ####
+You won't find me again!
+
+#### 29 ####
+Billy plays hide-and-
+seek sometimes too.
+
+#### 30 ####
+Hey, where is everyone?
+Whisper to me where
+they're hiding.
+
+#### 31 ####
+Good children
+"Yes!!"{clear:3C}
+
+#### 32 ####
+We love Uncle Stone!!
+
+#### 33 ####
+...{wait:0A}But if I keep inhaling
+such fresh air all the time
+then my proboscis may sprout
+a hibiscus...{wait:0A}
+Hmm, what a state.
+
+#### 34 ####
+Why's the air so salty?{wait:0A}
+Isn't there any fresh air
+around here?{enter}
+If there is I want to
+inhale till I'm full.
+
+#### 35 ####
+You want Billy?{wait:0A}
+You should go to the 
+'Ethos' headquarters.
+
+#### 36 ####
+GO!!{clear:1E}
+
+#### 37 ####
+Thanks! 
+That's a big help!
+
+#### 38 ####
+Thanks!{wait:0A} 
+I'll pay you back!
+
+#### 39 ####
+Received Tag Badge.
+
+#### 40 ####
+That makes {number(s):00}.{wait:0A}
+Only {number(s):01} left.
+
+#### 41 ####
+That makes {number(s):00}.{wait:0A}
+Only {number(s):01} left.
+
+#### 42 ####
+That makes {number(s):00}.{wait:0A}
+Only {number(s):01} left.
+
+#### 43 ####
+Me, I have the day shift
+so I have to get all the
+chickens in the coop...{enter}
+Wanna help me?{wait:1E}
+{fast:FF}    OK!!
+    That's your job.
+
+#### 44 ####
+Thank you!!{wait:0A}
+It's easy, the chickens
+come when you call them.
+
+#### 45 ####
+Hmmphh,{wait:1E} Billy said
+the same thing.
+
+#### 46 ####
+You want Billy?{wait:0A}
+You should go to the
+'Ethos' headquarters.
+
+#### 47 ####
+Look out!{clear:28}
+
+#### 48 ####
+Hmm, Uncle Stone is
+a bad guy?{wait:0A}
+Why are you saying
+he's strange!
+
+#### 49 ####
+Billy said he respects
+Uncle Stone. I guess
+I should too.
+
+#### 50 ####
+I'm working out in case
+we have a crisis,
+so don't bother me.
+
+#### 51 ####
+...
+
+#### 52 ####
+La la la la!
+
+#### 53 ####
+Yeah,{wait:0A} great!!
+
+#### 54 ####
+GO!!{clear:1E}
+
+#### 55 ####
+...Tee hee hee!
+
+#### 56 ####
+Lu lu lu lu!
+
+#### 57 ####
+GO!!{clear:1E}
+
+#### 58 ####
+We're all good friends...
+
+#### 59 ####
+Huh? 'Why aren't you
+playing with them?'{wait:1E}
+Don't be silly...!
+I can't play with girls!!
+
+#### 60 ####
+Elly
+"Well then, are you
+saying I can't play
+because I'm a girl?"
+
+#### 61 ####
+You're okay!
+
+#### 62 ####
+Hey hey 
+get on this!
+
+#### 63 ####
+Don't talk to strangers!
+
+#### 64 ####
+!!{clear:1E}
+
+#### 65 ####
+Wow!!
+Uncle Stone!!
+
+#### 66 ####
+Uncle Stone
+"Hello,{wait:0A}
+are you all happy?
+
+#### 67 ####
+Bishop Stone!!
+
+#### 68 ####
+Bishop Stone
+"Oh, Billy my son!"
+
+#### 69 ####
+Billy
+"Sorry to bother you
+when you're busy".
+
+#### 70 ####
+Bishop Stone
+"And who are these people?"
+
+#### 71 ####
+Billy 
+"They are travelers from
+another country."
+
+#### 72 ####
+Bishop Stone
+"Oh...{wait:14}
+By the way, about your
+earlier message..."
+
+#### 73 ####
+Billy
+"Yes, {wait:0A}
+about work..."
+
+#### 74 ####
+Bishop Stone
+"Yes.{enter}
+The 'Ethos' transport ship
+that went missing finally
+turned up.{wait:0A} 
+But, there's no reply..."
+
+#### 75 ####
+Billy
+"What does it mean?"
+
+#### 76 ####
+Bishop Stone
+"Hmmm,{wait:0A}
+perhaps Reapers again.{enter}
+Billy can you do 
+the usual?"
+
+#### 77 ####
+Billy
+"Right,{wait:0A}
+no problem. {wait:0A}
+Leave it to me, Bishop."
+
+#### 78 ####
+Bishop Stone
+"Thanks.{wait:0A}
+It's to the northeast
+from here.{enter}
+Please be careful.
+It's a dangerous area.{enter}
+There are some pretty
+fast sea currents and
+it's best to stay away
+from the Salvagers.{enter}
+You'd better go in
+a big ship..."
+
+#### 79 ####
+Bart
+"Hey, is that the massive
+ship Sig was talking
+about earlier?"
+
+#### 80 ####
+Billy
+"I don't know if that
+was it or not."
+
+#### 81 ####
+Bart
+"From what I hear, it's a
+place where the currents
+are really fast.{enter}
+It's supposedly very
+dangerous for small ships.
+But the Yggdrasil will be
+safe there.{enter}
+No matter how big the wave
+or swell, it's no problem.
+Besides, we have help from
+Fei.{enter}
+Let's get aboard.{wait:0A}
+I'll see you off to there.{wait:0A}
+What, we could even help
+you finish your job!"
+
+#### 82 ####
+Elly
+"I agree. You saved Fei.
+It's the least we could
+do."
+
+#### 83 ####
+Billy
+"Thanks but this doesn't
+involve you.{wait:0A}
+Just me is enough."
+
+#### 84 ####
+Elly
+"But isn't that place 
+dangerous?{enter}
+If there is anything 
+we can do to help..."
+
+#### 85 ####
+Billy
+"I don't want to get 
+you involved..."
+
+#### 86 ####
+Bishop Stone
+"Billy, my son, don't waste
+their good intentions.
+That sub is theirs, no?{enter}
+Why don't you cooperate
+with them..."
+
+#### 87 ####
+Billy
+"...{wait:0A}
+But, Bishop!"
+
+#### 88 ####
+Bart
+"Yeah, it's no fun
+to travel alone.{wait:0A}
+Let's help."
+
+#### 89 ####
+Elly
+"Billy, it's best to
+go with friends!"
+
+#### 90 ####
+Billy
+"...{enter}
+Well if you insist.
+Thank you.{wait:0A}
+I appreciate it."
+
+#### 91 ####
+Bishop Stone
+"I thank you deeply.{wait:0A}
+Billy, {wait:05}take care
+of these people.{enter}
+Report back to headquarters
+after you get back."
+
+#### 92 ####
+Billy
+"Yes, Bishop."
+
+#### 93 ####
+Billy
+"Thank you.{wait:0A}
+Let's see what tomorrow
+brings.{enter}
+I'll come as soon as I'm
+finished preparing for
+tomorrow. Go on ahead.{enter}
+I'll tell you more on
+the way there..."
+
+#### 94 ####
+!!
+
+#### 95 ####
+Billy's signal...!!
+
+#### 96 ####
+Hey everyone!! 
+It's shift G!!
+
+#### 97 ####
+Wind direction, OK!! 
+Target coordinates -
+X1020, Z303!
+
+#### 98 ####
+Roger!!{wait:0A} 
+Engage auto pilot!
+
+#### 99 ####
+Catapult, 
+ready!!
+
+#### 100 ####
+Push,{wait:0A} pull!!
+
+#### 101 ####
+Standby {wait:0A}
+OK!!
+
+#### 102 ####
+Ready?
+
+#### 103 ####
+Got get 'em!!
+
+#### 104 ####
+Today's launch was so-so.
+
+#### 105 ####
+
+

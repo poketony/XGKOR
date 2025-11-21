@@ -1,0 +1,1037 @@
+#### 1 ####
+Fei
+"I don't really like
+wandering around..."
+
+#### 2 ####
+...{clear:64}
+
+#### 3 ####
+Fei
+"What? 
+Who's that?"
+
+#### 4 ####
+Fei
+"What are you doing?"
+
+#### 5 ####
+Elly
+"Um...{wait:0A}
+Thanks for helping."
+
+#### 6 ####
+Elly
+"Why are you being
+so kind?"
+
+#### 7 ####
+...{clear:64}
+
+#### 8 ####
+Elly
+"They don't look like...
+such bad people."
+
+#### 9 ####
+...{clear:64}
+
+#### 10 ####
+...{clear:64}
+
+#### 11 ####
+This is the underground
+dock. Your Gears are 
+being repaired here.
+
+#### 12 ####
+This is the underground dock.
+Your ship is moored here.
+
+#### 13 ####
+This is the top of the tower.
+The limitless sky!{wait:0A}
+The sea!{wait:0A}
+It'll be smooth sailing.
+
+#### 14 ####
+This is the top of the tower.
+No Wels.
+No Wels...{wait:0A}
+{wait:0A}...May there not be any Wels.
+
+#### 15 ####
+This is the crane room.
+We're not fishing up any
+big items today.
+
+#### 16 ####
+Captain
+"Hardy, I see you've
+come back to visit.
+Remember this."
+
+#### 17 ####
+Hang on to your hats!!
+
+#### 18 ####
+From the folks at Square!!
+
+#### 19 ####
+Xenogears!!
+
+#### 20 ####
+ON {wait:1E} SALE{wait:1E} NOW!!!
+
+#### 21 ####
+Captain
+"Gahahahaha..."
+
+#### 22 ####
+Captain
+"You're the two winos who
+floated in with the Gears."
+
+#### 23 ####
+Captain
+"Gahahahaha. Well, don't
+take it so badly.{enter}
+For us, anything we pull
+out of the sea is treasure.{enter}
+And you're a really big
+important treasure.
+We were really careful."
+
+#### 24 ####
+Captain
+"What a pretty lady.
+Oh, don't make that face.{enter}
+I won't bite.
+I'll return your Gears
+to you squeaky clean."
+
+#### 25 ####
+Captain
+"That's because..."
+
+#### 26 ####
+I am!
+
+#### 27 ####
+a man!
+
+#### 28 ####
+of the sea!
+
+#### 29 ####
+Captain
+"Gahahaha..."
+
+#### 30 ####
+Captain
+"You're probably starved.
+I'll get you some food."
+
+#### 31 ####
+Captain
+"Haaaaaaaaaaaaaaaans!
+I'll welcome the guests!
+You take care of the rest."
+
+#### 32 ####
+Captain
+"Of course I know that. 
+How can you be so calm?"
+
+#### 33 ####
+Captain
+"Hmph, yeah yeah."
+
+#### 34 ####
+Captain
+"Lemme go and get
+things ready."
+
+#### 35 ####
+Captain
+"Go wait up on the deck.
+I'll move 'em up there."
+
+#### 36 ####
+Captain
+"Everything's okay.
+The lady came back
+unharmed."
+
+#### 37 ####
+Captain
+"The Etones?
+Oh, those guys who were
+here earlier...{enter}
+They left saying they had
+to go investigate something.
+They might be on the deck
+near the supply entrance."
+
+#### 38 ####
+Captain
+"If you're gonna mess with
+them, we'll help however we
+can.{enter}
+If you wanna know about the
+fishbowl headed towards the
+excavation site, ask Hans."
+
+#### 39 ####
+Captain
+"Oh, Citan.
+You came because
+you were worried?"
+
+#### 40 ####
+Citan
+"Yes, you could say that.
+But you seem to be better
+off than I expected."
+
+#### 41 ####
+Captain
+"Of course."
+
+#### 42 ####
+We are
+
+#### 43 ####
+Men!
+
+#### 44 ####
+of the Sea!!
+
+#### 45 ####
+Captain
+"...Is what I'd like to
+say...{enter}
+...but the truth is the
+situation's been pretty
+bad.{enter}
+We've got some that are
+injured badly and some
+that are fatal.{enter}
+But considering what
+happened to the other
+ships, we're in no position
+to complain.{enter}
+And by the way, Citan. What
+the hell is up with that
+fishbowl thing?{enter}
+It came out of nowhere and
+kicked our butts and left
+behind Wels.{enter}
+And then, it headed for
+some obscure excavation
+site where there's supposed
+to be nothing.{enter}
+Odd, since we were sent
+to go to a more deeper and
+bigger excavation site."
+
+#### 46 ####
+Citan
+"Just as I thought..."
+
+#### 47 ####
+Captain
+"Some say they saw a huge
+Gear-like monster.{enter}
+It seemed like it was
+guiding that fishbowl thing
+to the excavation site.{wait:0A}
+Or so I'm told."
+
+#### 48 ####
+Citan
+"Stone{wait:0A}...{wait:0A}
+It appears there is
+something there for sure."
+
+#### 49 ####
+Captain
+"Call it salvager's
+intuition, but I don't
+wanna get any closer.{enter}
+And Citan, is that fishbowl
+an enemy of yours?"
+
+#### 50 ####
+Citan
+"You...{wait:0A}
+could say that."
+
+#### 51 ####
+Captain
+"Well, I won't ask for
+revenge.{enter}
+But I can't just sit back
+and do nothing. If you're
+against it, we'll help any
+way we can.{enter}
+You can ask Hans anything
+about the site."
+
+#### 52 ####
+Captain
+"What's wrong?
+What do you need?{enter}
+Point x1507, z1235?
+Hans, does that sound
+familiar?"
+
+#### 53 ####
+Hans
+"It's Sargasso point."
+
+#### 54 ####
+Captain
+"What?
+The Sargasso?"
+
+#### 55 ####
+Fei
+"Sargasso, what's that?"
+
+#### 56 ####
+Captain
+"It's a cave formed from
+microbes over many years.{enter}
+It's supposed to have
+hidden treasure but no
+one's ever returned from
+there.{enter}
+The story is that the cave
+itself is alive. Are you
+going to the Sargasso?"
+
+#### 57 ####
+Fei
+"It looks like it."
+
+#### 58 ####
+Captain
+"Your Gears can't dive that
+deep. If they did, you
+would not be able to move.{enter}
+Equip your underwater gear
+here. Then take your ship
+as far as you can and dive
+in with your Gear.{enter}
+I'll go wake those
+winos up, right now."
+
+#### 59 ####
+Fei
+"Really? It's okay with
+you? Thanks for always
+helping us out, Captain."
+
+#### 60 ####
+Captain
+"Don't mention it."
+
+#### 61 ####
+Captain
+"It looks like
+they're done."
+
+#### 62 ####
+Fei
+"That was fast."
+
+#### 63 ####
+Captain
+"Of course.
+We're..."
+
+#### 64 ####
+Fei
+"Men, {wait:0A}of the sea, {wait:0A}right?"
+
+#### 65 ####
+Captain
+"Blimey. {wait:05}
+I think he's got it.{wait:0A}
+Take care then."
+
+#### 66 ####
+Fei
+"Yeah."
+
+#### 67 ####
+Captain
+"Oh yeah, I forgot to tell
+you how to operate them
+underwater.{enter}
+It's easy. You can jump in
+water without your feet
+touching the ground. Keep
+jumping to build up speed.{enter}
+You can swim pretty well in
+a Gear, but there may be
+places you can't get past
+if you don't do it well."
+
+#### 68 ####
+Fei
+"Got it.
+Thanks."
+
+#### 69 ####
+Captain
+"No need for thanks.{enter}
+Maybe you can buy something
+from our Gear shop. 
+Looks like there be some
+new booty to sell."
+
+#### 70 ####
+Captain
+"Feel free to come back
+to Thames anytime.{enter}
+There's always room at
+our dock for your ship."
+
+#### 71 ####
+You talked to the Captain?{wait:0A}
+He's nice and all but...
+
+#### 72 ####
+Hans
+"The one wandering around
+over there's the Captain."
+
+#### 73 ####
+Hans
+"Looks like there's gonna
+be some trouble."
+
+#### 74 ####
+Hans
+"Captain's great, isn't he?
+Because of him the work
+doesn't run out."
+
+#### 75 ####
+Hans
+"Fishbowl was headed
+due north.{enter}
+The north edge of
+that island...{wait:0A}
+But why? There's nothing
+there but a small mine."
+
+#### 76 ####
+Hans
+"Since our work with the
+'Ethos' has deep sixed
+we've lost our 'porpoise'!{enter}
+Guess we'll just have to
+stick with wandering the
+seas and salvaging.{enter}
+Seems Thames will have to
+continue this haphazard
+lifestyle after all."
+
+#### 77 ####
+Let me introduce my
+self. I'm Hans, the
+ship's first mate.
+
+#### 78 ####
+Hans
+"Yessir.
+Just don't over do it."
+
+#### 79 ####
+Hans
+"The captain and everyone
+are so irresponsible."
+
+#### 80 ####
+I've held on to this seat
+for 30 years.{enter}
+I'm not losing it to some
+young upstart.
+
+#### 81 ####
+I've held on to this seat
+for 30 years.{enter}
+But when Wels attacked, I
+thought about running.
+
+#### 82 ####
+You can talk to other
+areas aboard the Thames
+through that intercom.
+
+#### 83 ####
+I remember seein' a high
+tower a long time ago. It
+was called Babel Tower.{enter}
+Even I can't see the top of
+it, and my eyes are good!{enter}
+They say the Reapers called
+Wels come from there.
+
+#### 84 ####
+I was surprised by the
+Wels. They said they
+came from Babel Tower.
+
+#### 85 ####
+Huh?
+Isn't this a beer hall?
+
+#### 86 ####
+Huh?
+Wels?
+Where's Wels?
+
+#### 87 ####
+...{clear:64}
+
+#### 88 ####
+Fei
+"!{wait:03}
+That ship!"
+
+#### 89 ####
+Elly
+"What?{wait:03}
+What's wrong?"
+
+#### 90 ####
+Fei
+"That's the
+Yggdrasil!"
+
+#### 91 ####
+Elly
+"Isn't that Bart's ship?"
+
+#### 92 ####
+Fei
+"Yeah.{wait:03}
+He's still alive.
+Alright!{enter}
+We can't just sit here!
+Let's go!"
+
+#### 93 ####
+Elly
+"Go where?"
+
+#### 94 ####
+Fei
+"To help, what else?"
+
+#### 95 ####
+Elly
+"Without a Gear?"
+
+#### 96 ####
+Fei
+"Hmm..."
+
+#### 97 ####
+Captain
+"Hold yer horses."
+
+#### 98 ####
+Captain
+"Dock, this is the
+bridge! How are our
+guests' Gears?"
+
+#### 99 ####
+The repairs will
+be done shortly.
+
+#### 100 ####
+Captain
+"Two minutes."
+
+#### 101 ####
+Huh?
+
+#### 102 ####
+Captain
+"Finish in two minutes!{enter}
+Then take them out 
+through the supply 
+entrance to the deck!"
+
+#### 103 ####
+Y, yessir!
+
+#### 104 ####
+Captain
+"Your Gears are being
+moved to the deck.
+Go get'em.{enter}
+If you need to you can
+buy equipment at the
+supply entrance shop."
+
+#### 105 ####
+Hans
+"What are you saying
+Captain?{enter}
+What if we get bombed
+while we're caught up in
+the middle of a fight?"
+
+#### 106 ####
+Captain
+"Be quiet!!{wait:03}
+Our guests are fighting
+to save their friends.{enter}
+Don't get in the way!{wait:05}
+If we don't help, it'll
+tarnish the men of the
+sea's good name!!"
+
+#### 107 ####
+Hans
+"...{wait:05}...{wait:14}Yessir.
+But the Thames itself will
+not join in any fights."
+
+#### 108 ####
+Fei
+"Thanks. That's more
+than enough."
+
+#### 109 ####
+Captain
+"They've got guts starting
+a fight next to the Thames!
+It gets my blood boiling!"
+
+#### 110 ####
+Captain
+"Hey Hans, I haven't
+fired the big gun in
+a long time.{enter}
+How about we take a
+shot or two?"
+
+#### 111 ####
+Hans
+"Are you kidding?{enter}
+Why get the Thames involved
+in a fight between sides
+who are neither enemies 
+nor allies?{enter}
+And that big gun is nothing
+but a useless piece of junk
+you tacked onto the Thames
+in a drunken stupor!"
+
+#### 112 ####
+Captain
+"You just don't
+understand the code of
+the men of the sea..."
+
+#### 113 ####
+Captain
+"It seems like a
+submarine is under
+attack."
+
+#### 114 ####
+Fei
+"Submarine?"
+
+#### 115 ####
+Captain
+"I see you've brought
+along another strapping
+young lad."
+
+#### 116 ####
+Bart
+"I'm Bart. Thanks for
+letting my ship dock here."
+
+#### 117 ####
+Captain
+"Gahahahahahahaha.
+This's great. Ya come to
+ask about the ship?"
+
+#### 118 ####
+Bart
+"My submarine, Yggdrasil,
+was damaged by an enemy
+attack...{enter}
+It'll be out of operation
+for a little while..."
+
+#### 119 ####
+Margie
+"Bart!
+You're terrible.
+You went on without me!"
+
+#### 120 ####
+Bart
+"Aw Margie?
+Just when I'm starting
+to sound like a captain."
+
+#### 121 ####
+Margie
+"I get away from Nisan
+but then I'm stuck on
+the Yggdrasil.{enter}
+I'm sick of it.
+Captain?
+Hi, I'm Marguerite."
+
+#### 122 ####
+Bart
+"Awww man! Look, we're
+having a man to man talk
+here.{enter}
+So Margie, why don't you
+go back to the Yggdrasil."
+
+#### 123 ####
+Margie
+"You're terrible!
+You're starting to
+sound like Sig."
+
+#### 124 ####
+Bart
+"What!
+Me, like Sig?"
+
+#### 125 ####
+Margie
+"You're always so
+thoughtless, Bart.{enter}
+Fei and the others
+were floating around
+because you fired on
+that craft impulsively."
+
+#### 126 ####
+Bart
+"Whoa, st, stupid,
+you're not supposed to..."
+
+#### 127 ####
+Fei
+"Bart...?
+You...didn't...
+No...you didn't..."
+
+#### 128 ####
+Citan
+"It is true, Fei."
+
+#### 129 ####
+Bart
+"Couldn't be helped.
+How could I have known
+you were..."
+
+#### 130 ####
+Fei
+"I'm so disgusted, I
+don't have anything
+to say..."
+
+#### 131 ####
+Bart
+"Don't get so mad."
+
+#### 132 ####
+Bart
+"Tch. I shouldn't have
+brought you out
+of Nisan."
+
+#### 133 ####
+Margie
+"I heard that,
+you big jerk!"
+
+#### 134 ####
+Captain
+"Gahahahaha.{wait:0F}
+Great, great.
+It's great to be young."
+
+#### 135 ####
+Captain
+"Hey, kiddo.
+You supposed to be some
+kinda pirate?"
+
+#### 136 ####
+Bart
+"Oh yeah.
+A man of the sea!
+I was a man of the
+desert but..."
+
+#### 137 ####
+Captain
+"Alright!!
+Even better.
+Yes, man of the sea!{enter}
+Bart, right?
+I'll show you to our
+famous beer hall."
+
+#### 138 ####
+Captain
+"My lady, may I borrow
+this fellow?"
+
+#### 139 ####
+Margie
+"What a weird guy."
+
+#### 140 ####
+Margie
+"Fei, are you mad
+about Bart?"
+
+#### 141 ####
+Fei
+"No that's not it{wait:05}..."
+
+#### 142 ####
+Margie
+"{wait:0A}...{wait:0A}...About Elly then?"
+
+#### 143 ####
+Fei
+"{wait:05}...{wait:05}...Yeah."
+
+#### 144 ####
+Margie
+"It'll all be okay.{enter}
+If you're so worried,
+why don't you go rescue
+her?"
+
+#### 145 ####
+Margie
+"Just like...{wait:05}
+Bart helped me out."
+
+#### 146 ####
+Fei
+"{wait:05}...{wait:05}..."
+
+#### 147 ####
+Fei
+"Where's Elly?"
+
+#### 148 ####
+Hans
+"She's seeing to the
+Gear. She will be
+along any time now."
+
+#### 149 ####
+Bart
+"You mean{wait:05}...{wait:0A}
+she was able to escape?"
+
+#### 150 ####
+Captain
+"Well it's good for you.
+Right, Fei?"
+
+#### 151 ####
+Fei
+"Ah, yeah."
+
+#### 152 ####
+Fei
+"Elly, are you okay?"
+
+#### 153 ####
+Elly
+"{wait:0A}...{wait:0A}Yeah."
+
+#### 154 ####
+Bart
+"..."
+
+#### 155 ####
+Elly
+"What's that submarine?"
+
+#### 156 ####
+Fei
+"Oh, you mean the
+Yggdrasil?{enter}
+It took a bad bashing,
+so now it's here, at
+Thames, for repairs."
+
+#### 157 ####
+Elly
+"I see...{wait:0A}{enter}
+Can I rest for a 
+while?
+{wait:05}...{wait:05}I'm exhausted."
+
+#### 158 ####
+Fei
+"That's a good idea."
+
+#### 159 ####
+Bart
+"Fei, it's my ship."
+
+#### 160 ####
+Captain
+"Oi, oi.
+She said she's tired.
+Let her rest."
+
+#### 161 ####
+Elly
+"Well, I'm going."
+
+#### 162 ####
+Bart
+"...{wait:0A}
+I don't like this."
+
+#### 163 ####
+Fei
+"Bart you're still..."
+
+#### 164 ####
+Bart
+"It's not like that.
+She won't backstab us.{enter}
+I was raised around thugs
+and charlatans. I can
+tell just by looking
+in her eyes."
+
+#### 165 ####
+Fei
+"Then you accept Elly..."
+
+#### 166 ####
+Bart
+"That's why I can't.
+She may be okay with it.{enter}
+But what about her family
+back home? Do you think
+she can live with that?{enter}
+Can she do that? Just get
+rid of her family?
+She has to decide.{enter}
+She...Elly is probably
+worrying about that.
+We can't involve people
+who have attachments."
+
+#### 167 ####
+Fei
+"Bart..."
+
+#### 168 ####
+Bart
+"Hmph, well do whatever
+you want."
+
+#### 169 ####
+Captain
+"What's that!?
+Did you see that huge
+fishbowl thing?"
+
+#### 170 ####
+Hans
+"What are you asking
+me for...?"
+
+#### 171 ####
+Captain
+"Weren't the other
+salvager fleets almost
+blown away by one shot?{enter}
+Is this the way the
+'Ethos' greets us?"
+
+#### 172 ####
+Hans
+"I seriously doubt that!{enter}
+Why do they have to 
+attack us? We only
+came to help with 
+excavations..."
+
+#### 173 ####
+C, captain, Wels Reapers!
+Reapers are coming out of
+that fishbowl thing in the
+dozens!
+
+#### 174 ####
+Captain
+"What!?"
+
+#### 175 ####
+Hans
+"Why...?
+This can't be happening..."
+
+#### 176 ####
+Captain
+"...{wait:0A}...{wait:1E}
+Launch the Gears!
+Load the big gun!"
+
+#### 177 ####
+Hans
+"Captain!?"
+
+#### 178 ####
+Captain
+"Alright, y'all!{enter}
+We're going to assist and
+rescue any of the survivors
+from the other ships...{enter}
+...if at all possible while
+trying to retreat!{enter}
+And shoot down those Wels
+with our two guns!
+Don't let those filthy
+Wels get near our Thames!"
+
+#### 179 ####
+Captain
+"Hans!
+Look alive!{enter}
+Take the helm!
+We'll show that fishbowl
+thing how real men of
+the sea retreat!"
+
+#### 180 ####
+Hans
+"Y, yessir!"
+

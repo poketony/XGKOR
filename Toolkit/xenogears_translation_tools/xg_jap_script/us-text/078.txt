@@ -1,0 +1,966 @@
+#### 1 ####
+Bart
+"Are you ready?"
+
+#### 2 ####
+Bart
+"I'll be waiting here,
+so call me when you are
+ready to go."
+
+#### 3 ####
+Sigurd
+"The cave Shakhan is
+heading for is directly
+west of Nisan.{enter}
+It's possible the
+remainder of his forces
+are gathering there."
+
+#### 4 ####
+Sigurd
+"There's still some time
+until we leave. Why don't
+you make preparations?"
+
+#### 5 ####
+Sigurd
+"I should have
+been honest with
+him sooner..."
+
+#### 6 ####
+Citan
+"It is best not to
+worry about it.{enter}
+You did all you
+could at the time.
+The young one will
+understand."
+
+#### 7 ####
+Maison
+"I am sure the young
+master would never have
+dreamed of such a tale."
+
+#### 8 ####
+Fei
+"...{wait:1E}I guess you
+already knew?"
+
+#### 9 ####
+Maison
+"Well, now that you ask...
+yes I did.{enter}
+However, when Sigurd was
+telling his story I thought
+it was best to stay quiet.{enter}
+Please try and help the
+young master come to terms
+with all that he has just
+heard."
+
+#### 10 ####
+Maison
+"I have been waiting for
+this day for a long time."
+
+#### 11 ####
+Margie
+"Be careful."
+
+#### 12 ####
+Margie
+"Bart told me.
+You're helping out
+with the plan too?{enter}
+So you're caught up
+in this now as well?"
+
+#### 13 ####
+Fei
+"I've come this far,
+so I might as well
+stay till the end."
+
+#### 14 ####
+Margie
+"Thanks.
+I know you'll
+do a good job!"
+
+#### 15 ####
+Agnes
+"Be careful Bartholomew."
+
+#### 16 ####
+Agnes
+"Marguerite and
+Bartholomew...{enter}
+I'm so happy to see
+you two getting along
+so well."
+
+#### 17 ####
+Margie
+"Sister, please stop!{wait:1E}
+You're embarrassing
+me again."
+
+#### 18 ####
+Agnes
+"It's not embarrassing.{enter}
+Since long ago, the Nisan
+Mother and King of Aveh
+have always...
+
+#### 19 ####
+Margie
+"Hey!{wait:1E}
+Enough about this...{enter}
+Hey...!{wait:1E}
+Ouch ouch ouch!"
+
+#### 20 ####
+Bart
+"Just sit still
+like I said."
+
+#### 21 ####
+Margie
+"Ohhhhh!{wait:1E}
+You're a meanie!"
+
+#### 22 ####
+Sigurd!
+
+#### 23 ####
+Got it!
+
+#### 24 ####
+Elly
+"I want to see the
+gate's true shape."
+
+#### 25 ####
+Elly
+"Let me come too?"
+    Okay
+    Sorry!
+
+#### 26 ####
+Citan
+"Hmm...{wait:1E}
+Actually, I would
+also like to see it.{enter}
+May I come along?{wait:1E}
+I promise not to get
+in the way."
+
+#### 27 ####
+Citan
+"Exchange with me?"
+    Sure
+    No way
+
+#### 28 ####
+Rico
+"This is Shakhan's last.{enter}
+When he kick's the bucket
+things in Kislev and Aveh
+should calm down a little.{enter}
+Everything'll be normal."
+
+#### 29 ####
+Rico
+"I'm coming too, okay?"
+    Great!
+    Well...
+
+#### 30 ####
+Billy
+"The 'Ethos' was
+controlling two of
+the three gates!"
+
+#### 31 ####
+"Will you take me
+along too?"
+    Alright!
+    Sorry, but...
+
+#### 32 ####
+Maria
+"Soon we'll be certain
+of the gate's true form."
+
+#### 33 ####
+Maria
+"Do you want to change?"
+    Please
+    That's okay
+
+#### 34 ####
+{name:07:チュチュ}
+"{name:07:チュチュ} is raring chu 
+go like a big bonfire!{enter}
+Fei, I'll protect chu
+anywhere, in the heart
+of a fire or under the
+sea chu!"
+
+#### 35 ####
+{name:07:チュチュ}
+"So I wanna go chu!"
+    I guess it's okay
+    Sorry!
+
+#### 36 ####
+Traveling?
+Surely it is tiring.{enter}
+You're going to that inn?
+I'm sure they'll have good
+food for you.
+
+#### 37 ####
+We work in the cathedral
+over there.
+
+#### 38 ####
+Fei
+"...So you're sisters?"
+
+#### 39 ####
+Yes, that is correct.{enter}
+We are wandering the land...{enter}
+searching for the
+connection between Nisan
+and the outside world.
+
+#### 40 ####
+Sigurd
+"Whenever I come here it
+always calms my heart."
+
+#### 41 ####
+Sigurd
+"Anyway, young master{wait:05}...{wait:05}
+I want to work out what our
+plans from here on are."
+
+#### 42 ####
+Bart
+"Alright.{enter}
+But before we do that...
+there is something I want
+to ask you."
+
+#### 43 ####
+Sigurd
+"...Me?"
+
+#### 44 ####
+Bart
+"Yeah."
+
+#### 45 ####
+Bart
+"Sig...{enter}
+What's up with you and
+that Gebler officer?
+What's the connection
+between you and him...?{enter}
+You know,{wait:1E} you sure know
+a lot about Gebler for
+some reason!"
+
+#### 46 ####
+Sigurd
+"...Alright.
+{wait:1E}I'll tell you."
+
+#### 47 ####
+Sigurd
+"Me and...{wait:1E}
+Citan, here...{enter}
+We used to live
+in Solaris."
+
+#### 48 ####
+Bart
+"Solaris...{enter}
+...{wait:1E}You mean...
+{wait:1E}where Gebler's from?"
+
+#### 49 ####
+Sigurd
+"That's right."
+
+#### 50 ####
+Sigurd
+"Solaris...
+calls foreigners
+'Lambs'...{enter}
+They are used as manual
+labor. Basically it's
+slavery."
+
+#### 51 ####
+Bart
+"Slavery?"
+
+#### 52 ####
+Fei
+"...Lambs..."
+
+#### 53 ####
+Fei
+"Elly used that
+term earlier too."
+
+#### 54 ####
+Bart
+"Is that where
+you met him?"
+
+#### 55 ####
+Citan
+"Yes, it was there."
+
+#### 56 ####
+Sigurd
+"We worked for the
+Solaris government
+for a short while...{enter}
+But we learned to
+dislike their methods
+and escaped the first
+chance we had."
+
+#### 57 ####
+Bart
+"...{wait:1E}You were
+friends with
+these people?"
+
+#### 58 ####
+Bart
+"I met you when I was a kid
+and we've been together
+ever since then...{enter}
+So this would have had to
+have happened even before
+then."
+
+#### 59 ####
+Bart
+"I probably wouldn't have
+understood this if I had
+heard it earlier but...{enter}
+...Why didn't you think I
+could deal with it now?
+Surely you could have
+told me about this?{enter}
+Especially when you had
+something to do with the
+people who are backing
+that Shakhan idiot!"
+
+#### 60 ####
+Bart
+"I wish you'd
+told me sooner."
+
+#### 61 ####
+Sigurd
+"...{wait:1E}There's nothing I
+can do about that now."
+
+#### 62 ####
+Sigurd
+"But, there's one thing
+I want you to believe...{enter}
+We left Solaris on our
+own will and for our own
+reasons.{enter}
+Now they've appeared
+before us, we can't
+just sit back and do
+nothing.{enter}
+If need be, I will give
+my life to stop them."
+
+#### 63 ####
+Bart
+"Alright, I understand.{wait:0A}
+But can you elaborate
+a little more?"
+
+#### 64 ####
+    Where is Solaris?
+    What are Lambs?
+    Who is that man?
+    Why did you leave?
+
+#### 65 ####
+    Ask again
+    I understand
+
+#### 66 ####
+Bart
+"What bugs me is this{wait:1E}
+'Surface Dwellers'
+thing...{enter}
+It's as if Solaris is
+in another location.
+Like up in the clouds
+or something?"
+
+#### 67 ####
+Sigurd
+"Yes, well..."
+
+#### 68 ####
+Sigurd
+"The city of Solaris is
+covered by a giant dome.{enter}
+And guessing from the
+scenery that's visible,
+I think it's somewhere
+up high in the sky."
+
+#### 69 ####
+Bart
+"You think...{wait:1E}
+Didn't you live there?"
+
+#### 70 ####
+Sigurd
+"It's completely cut off
+from the outside world so
+I don't know too well.{enter}
+There's a special way to
+get there from the surface."
+
+#### 71 ####
+Sigurd
+"To get to Aveh we stowed
+away on a regular flight
+to the surface."
+
+#### 72 ####
+Citan
+"I came much later
+than Sigurd did...{enter}
+But I also escaped
+in the same way."
+
+#### 73 ####
+Sigurd
+"That is the word Solarians
+use to indicate those who
+live on the earth.{enter}
+As I said before, such
+'surface dwellers' or
+'earth dwellers' are used
+for manual labor there."
+
+#### 74 ####
+Sigurd
+"Manual labor could be
+anything from soldiers to
+administrative jobs.{enter}
+Solaris gathers its
+workforce from the land
+dwellers. Jobs are divided
+up by who is most suitable.{enter}
+Sometimes people are
+brainwashed."
+
+#### 75 ####
+Bart
+"Brainwashed!?"
+
+#### 76 ####
+Sigurd
+"I...{wait:05}
+When you, young master,
+were still an infant...{enter}
+I was used as a test
+subject. There was
+probably something they
+valued inside of me."
+
+#### 77 ####
+Fei
+"You too, doc?"
+
+#### 78 ####
+Citan
+"No...{enter}
+I was born in the lower
+city levels. It is not
+a complete secret...{enter}
+But I guess I am a
+Solarian{wait:05}..."
+
+#### 79 ####
+Bart
+"So why were you collecting
+people? {enter}
+With that much scientific
+technology you'd think they
+wouldn't need to use
+people..."
+
+#### 80 ####
+Citan
+"You see{wait:05}...{wait:05}
+You still need people
+to run a country{wait:05}...{enter}
+...{wait:05}No matter how
+scientifically advanced
+you are, you have no
+support without people."
+
+#### 81 ####
+Sigurd
+"Pure Solarians are rare.{enter}
+They would not even make
+up a quarter of Aveh's
+total population.{enter}
+So, they support their
+country by stealing
+surface dwellers."
+
+#### 82 ####
+Sigurd
+"His name is, Kahr...
+{wait:1E}Kahran Ramsus.{enter}
+As you know he's the
+Gebler Commander."
+
+#### 83 ####
+Bart
+"Ramsus...?"
+
+#### 84 ####
+Sigurd
+"We call him Kahr.{enter}
+In Solaris there is an
+officer training school
+called 'Jugend'.{enter}
+He became the commander
+after leaving there."
+
+#### 85 ####
+Citan
+"He is a lower level
+citizen, the same as me.{enter}
+However, with his amazing
+abilities...{enter}
+After graduating, he rose
+through the ranks with
+unparalleled speed."
+
+#### 86 ####
+Sigurd
+"That man had one ideal.{enter}
+To achieve a consolidation
+of all his colleagues.{enter}
+Even land dwellers, if they
+had talent, were brought
+into the army."
+
+#### 87 ####
+Bart
+"So you two were
+picked by Ramsus...?"
+
+#### 88 ####
+Citan
+"No,{wait:05} we were not picked
+by him{wait:05}...{wait:05}we aligned
+ourselves with him."
+
+#### 89 ####
+Sigurd
+"At that time{wait:05}...{wait:05}
+we agreed with him."
+
+#### 90 ####
+Citan
+"At the time,
+Ramsus was our hope.{enter}
+He had high ideals and
+wanted to change the
+system in Solaris.{enter}
+To us test subjects and
+lower level citizens,
+he was truly all that
+we wished for."
+
+#### 91 ####
+Bart
+"A benefactor?"
+
+#### 92 ####
+Sigurd
+"Yes...{wait:1E}even I, a test
+subject, was changed
+by his ideals."
+
+#### 93 ####
+Bart
+"So why was it that
+you wanted to flee
+from Solaris?"
+
+#### 94 ####
+Sigurd
+"We were placed in key
+military positions by
+Ramsus...{enter}
+And thanks to that, we came
+to know the relationship
+between Solaris and the
+surface dwellers."
+
+#### 95 ####
+Bart
+"You mean...Lambs...?"
+
+#### 96 ####
+Sigurd
+"They weren't just using us
+'Lambs' for slave labor...{enter}
+They also selected some of
+us, like me, to be used as
+subjects in experiments to
+refine their drugs...{enter}
+Drugs that change people's
+personalities, to make them
+more aggressive and to draw
+out their latent abilities.{enter}
+They were using us as human
+guinea pigs to test their
+psychological alteration
+drugs!"
+
+#### 97 ####
+Bart
+"Human guinea pigs...!?
+Experimenting on humans?"
+
+#### 98 ####
+Sigurd
+"Yes, for example...
+'Drive'!{enter}
+That drug, and all others
+like it that are used
+now, are by-products of
+human experimentation..."
+
+#### 99 ####
+Citan
+"However that is not the
+test subjects only role."
+
+#### 100 ####
+Fei
+"This 'Drive' drug is
+something that anyone in
+the Solaris army can use?"
+
+#### 101 ####
+Citan
+"At least anyone in the
+Gebler forces who is sent
+to the surface..."
+
+#### 102 ####
+Bart
+"You're worried
+about her, huh?"
+
+#### 103 ####
+Fei
+"...!"
+
+#### 104 ####
+Bart
+"I saw some{wait:05}...{wait:05}
+in her room."
+
+#### 105 ####
+Fei
+"No..."
+
+#### 106 ####
+Bart
+"...{wait:05}Anyway{wait:05}...{wait:05}using slaves
+as guinea pigs{wait:05}...{wait:05}
+How low are these guys{wait:05}...?"
+
+#### 107 ####
+Bart
+"Hmm...{wait:1E}I think I
+get most of it."
+
+#### 108 ####
+Bart
+"Old Maison!{enter}
+Go reserve the town
+hall for us. We'll
+finish talking there.{enter}
+I'm going outside to
+get some air."
+
+#### 109 ####
+Sigurd
+"To get to Aveh we stowed
+away on a regular flight
+to the surface."
+
+#### 110 ####
+Citan
+"I came much later
+than Sigurd did...{enter}
+But I also escaped
+in the same way."
+
+#### 111 ####
+Fei
+"This 'Drive' drug is
+something that anyone in
+the Solaris army can use?"
+
+#### 112 ####
+Citan
+"At least anyone in the
+Gebler forces who is sent
+to the surface..."
+
+#### 113 ####
+Bart
+"You're worried
+about her, huh?"
+
+#### 114 ####
+Fei
+"...!"
+
+#### 115 ####
+Bart
+"I saw some{wait:05}...{wait:05}
+in her room."
+
+#### 116 ####
+Fei
+"No..."
+
+#### 117 ####
+Bart
+"...{wait:05}Anyway{wait:05}...{wait:05}using slaves
+as guinea pigs{wait:05}...{wait:05}
+How low are these guys{wait:05}...?"
+
+#### 118 ####
+Bart
+"Damn!"
+
+#### 119 ####
+Margie
+"Good morning!"
+
+#### 120 ####
+Margie
+"What's with the long
+face? Not feeling well?{enter}
+Or are you feeling sad
+about saying goodbye?
+Or maybe you're just
+nervous?"
+
+#### 121 ####
+Bart
+"Shut up, stupid!
+Don't bug me!"
+
+#### 122 ####
+Margie
+"Hee hee."
+
+#### 123 ####
+Margie
+"Well...
+It's almost time."
+
+#### 124 ####
+Bart
+"Yeah, yeah..."
+
+#### 125 ####
+Bart
+"Is everyone ready to go?{enter}
+I'll be waiting here,
+so let me know when you
+are through preparing."
+
+#### 126 ####
+Bart
+"No activites for you.{wait:1E}
+You'll have to settle
+down for awhile."
+
+#### 127 ####
+Margie
+"What do you mean,
+once in awhile?"
+
+#### 128 ####
+Bart
+"Don't get so excited.{wait:1E}
+Ha ha ha ha!"
+
+#### 129 ####
+Margie
+"Meanie!"
+
+#### 130 ####
+Sigurd
+"...{wait:1E}Alright.{enter}
+Please tell Maison we'll
+be here a while longer."
+
+#### 131 ####
+Sigurd
+"We've heard from our
+units in Bledavik.{enter}
+Things are unfolding
+smoothly.
+They have entered the
+castle.{enter}
+They are investigating
+Shakhan's private room
+on the top floor of the
+castle.{enter}
+One more thing, {wait:1E}Yggdrasil
+is on station nearby and
+has picked up several
+Gears on radar."
+
+#### 132 ####
+Bart
+"Shakhan!"
+
+#### 133 ####
+Sigurd
+"Most certainly.{enter}
+But those Gears went to
+the capital then turned
+and came back toward us."
+
+#### 134 ####
+Fei
+"He saw things weren't
+looking too good and
+ran away."
+
+#### 135 ####
+Bart
+"Yeah.{wait:1E}
+But it sounds like he's
+coming back here."
+
+#### 136 ####
+Fei
+"What's here...?"
+
+#### 137 ####
+Sigurd
+"About that,{wait:1E}
+the info from the
+capital...{enter}
+Isn't there a -Gate-
+in the area?"
+
+#### 138 ####
+Fei
+"A -Gate-?"
+
+#### 139 ####
+Citan
+"Where?"
+
+#### 140 ####
+Sigurd
+"Directly west of Nisan."
+
+#### 141 ####
+Sigurd
+"Young master, do you know
+the big cave over there?"
+
+#### 142 ####
+Bart
+"Cave...{wait:1E}
+On the western continent?
+It's near the ocean.{enter}
+If I remember it's big
+enough for a Gear to walk
+into."
+
+#### 143 ####
+Sigurd
+"Yes, there.{enter}
+They found evidence that
+there is some large
+building inside that cave."
+
+#### 144 ####
+Fei
+"Shakhan is heading for
+there..."
+
+#### 145 ####
+Fei
+"What's he doing?"
+
+#### 146 ####
+Bart
+"I guess we'll have
+to go and see!"
+
+#### 147 ####
+Fei
+"Okay!"
+
+#### 148 ####
+Sigurd
+"I'll wait here for
+info from the capital."
+
+#### 149 ####
+Citan
+"A gate!{enter}
+Of course I would like to
+actually see it...{wait:1E}but this
+time I will pass.{enter}
+There are two more left...
+And besides...{enter}
+Just in case things do not
+go well, it might be better
+if we stay here and protect
+Marguerite."
+
+#### 150 ####
+Bart
+"Got it.{wait:1E}
+I leave the rest to you!"
+
+#### 151 ####
+    Alright!
+    Not yet.
+

@@ -1,0 +1,454 @@
+<TextBlock 1 w:32 h:1>
+Uhmm <Delay 20>mmm <Delay 20>mmm <Delay 20>mmm <Opcode 2 20><Close><End of Block>
+<TextBlock 2 w:34 h:3>
+Shitan
+"Fei, possiamo
+divertirci dopo,
+non ora."<Close><End of Block>
+<TextBlock 3 w:54 h:4>
+Shitan
+"Fei, cosa facciamo?"
+    Andiamo solo noi due.
+    Andiamoci dopo.<Close><End of Block>
+<TextBlock 4 w:38 h:2>
+Bart
+"Ok, fate attenzione."<Close><End of Block>
+<TextBlock 5 w:12 h:2>
+Bart
+"Fei!"<Close><End of Block>
+<TextBlock 6 w:46 h:4>
+Bart
+"Il castello è lassù.
+Se vado, sicuramente
+ci saranno problemi.<New>
+Se vuoi andarci, voi
+due dovreste farlo da
+soli. Io aspetterò qui."<Close><End of Block>
+<TextBlock 7 w:34 h:2>
+Bart
+"Bene, andiamo."<Close><End of Block>
+<TextBlock 8 w:46 h:2>
+    Resta
+    Torna giù<Close><End of Block>
+<TextBlock 9 w:34 h:2>
+Non parlarmi!
+Mi sono appena
+tolto il respiro!<Close><End of Block>
+<TextBlock 10 w:40 h:2>
+Le fiamme blu sono
+le fiamme del cuore.<Close><End of Block>
+<TextBlock 11 w:34 h:2>
+Non parlarmi!
+Mi sono appena
+tolto il respiro!<Close><End of Block>
+<TextBlock 12 w:38 h:2>
+Le fiamme rosse sono
+le fiamme del corpo.<Close><End of Block>
+<TextBlock 13 w:32 h:3>
+Vuoi provare?
+    Va bene
+    No, grazie<Close><End of Block>
+<TextBlock 14 w:45 h:3>
+Tieni premuto il pulsante
+<Cross> mentre premi il
+pulsante R2.<Close><End of Block>
+<TextBlock 15 w:12 h:1>
+Sì…<Close><End of Block>
+<TextBlock 16 w:42 h:4>
+Ehi, hai mai visto
+un disco volante?
+    Sì
+    No<Close><End of Block>
+<TextBlock 17 w:50 h:4>
+Ehi, hai mai visto
+un disco volante?
+    Sì
+    Ci sono pure salito<Close><End of Block>
+<TextBlock 18 w:42 h:4>
+… Gli dèi caddero dal
+cielo, persero la loro
+memoria, e crearono
+tutto nuovamente…<Close><End of Block>
+<TextBlock 19 w:52 h:3>
+… La gente di quel
+paese temeva la guerra
+sulla terra, e volò
+nel cielo.<Close><End of Block>
+<TextBlock 20 w:48 h:3>
+… Dai cieli i giganti,
+guidati dall'uomo,
+misero a ferro e fuoco
+la terra…<Close><End of Block>
+<TextBlock 21 w:58 h:5>
+Sì, quello è il paese dei
+grandi antenati. Vennero
+da un astro più lontano
+del paradiso, e ci crearono.<New>
+Regnavano su questa terra
+come dèi. Ma… l'uomo ottenne
+la conoscenza, ed il conflitto
+si sparse con furia dovunque.<New>
+Le rovine sono prova di questi
+conflitti. I discendenti degli
+dèi lasciarono questa terra
+di conflitto, creando nel
+cielo il loro posto.<New>
+Era un posto pacifico, con
+una civiltà molto più
+avanzata della nostra.<Delay 60>
+… Mi stai ascoltando?
+Loro sono ancora vivi.<New>
+Hai notato che, a volte,
+delle persone scompaiono?
+Sono presi da ciò che io
+chiamo 'la Gente del Cielo'.<New>
+Sono addestrati come soldati,
+per regnare sopra la terra
+ancora una volta.
+Questo tempo è vicino.<New>
+L'armata di dio apparirà
+dal nulla. Non hai sentito?
+Non sfidarli, non puoi
+vincerli.<New>
+Loro creeranno nuovamente un
+paradiso sulla terra.
+Questo è ciò che i miei studi
+sulla Gente del Cielo e sul
+disco volante hanno provato.<Close><End of Block>
+<TextBlock 22 w:42 h:3>
+…<Delay 60> E questo perché tu
+vivi con lo sguardo
+sempre rivolto verso
+il basso.
+…<Delay 30> Pietoso.<New>
+Il giorno del giudizio
+è prossimo, sai!?<Close><End of Block>
+<TextBlock 23 w:50 h:3>
+!<Delay 60>
+… AH!…<Delay 30>
+Umph, non puoi prendermi
+in giro.<New>
+Guarda la gente negli
+occhi, e di' quello
+che hai in testa.
+Sono un professionista
+nel farlo.<Close><End of Block>
+<TextBlock 24 w:50 h:4>
+Dentro la tenda c'è
+un mondo completamente
+diverso da questo…<Delay 50>
+Il mio cuore è un
+palloncino… che vola
+su nel cielo…<Opcode 2 50><Close><End of Block>
+<TextBlock 25 w:48 h:4>
+Cosa!? Imbarazzante!
+Un adulto che va in
+giro con un palloncino…<Close><End of Block>
+<TextBlock 26 w:40 h:3>
+Andrò a vedere il torneo.
+Il combattimento è un
+gioco per uomini.<Close><End of Block>
+<TextBlock 27 w:44 h:3>
+Dov'è mio padre? Se
+non arriva qui presto,
+la festa finirà.<Close><End of Block>
+<TextBlock 28 w:44 h:2>
+Quello che hai lì è
+un palloncino rosso
+molto carino.<Close><End of Block>
+<TextBlock 29 w:40 h:3>
+Il tipo che sta di fronte
+a quella tenda distribuisce
+palloncini.<Close><End of Block>
+<TextBlock 30 w:46 h:4>
+Sono così felice!
+Pensavo che i palloncini
+fossero uno schifo, ma
+ora che ne ho uno…<Close><End of Block>
+<TextBlock 31 w:38 h:3>
+È tutto il giorno che gioco,
+e non sono neanche stata
+sgridata per questo.<New>
+E questo perché anche
+mamma sta giocando.<Close><End of Block>
+<TextBlock 32 w:60 h:4>
+È stupendo che papà sia
+tornato, ma mi dice sempre…
+"Fa' il tuo dovere!
+Fa' i compiti!".<New>
+Nei giorni di festa devo
+giocare più che posso.<Close><End of Block>
+<TextBlock 33 w:40 h:5>
+Hic!
+Bere un Bart Vodka
+in pieno giorno…
+Questa è la cosa che
+preferisco delle feste!<Close><End of Block>
+<TextBlock 34 w:46 h:3>
+… hic…
+Era un bel po' che
+non bevevo all'aperto.<Close><End of Block>
+<TextBlock 35 w:26 h:2>
+Non dovresti viziare
+i bambini.<Close><End of Block>
+<TextBlock 36 w:36 h:2>
+Ehi, papà, comprami
+uno di quei giocattoli.<Close><End of Block>
+<TextBlock 37 w:48 h:4>
+No, no!
+Aspetta fino a che il
+Torneo non sarà finito.
+Allora ti comprerò
+qualcosa di migliore.<Close><End of Block>
+<TextBlock 38 w:42 h:3>
+Ehi, tu sei quello che
+prima mi ha comprato
+il giocattolo!<Delay 50> Grazie.<Close><End of Block>
+<TextBlock 39 w:44 h:3>
+La roba che vendono nei
+negozi non cambia mai.<New>
+Quando cresco, voglio
+avere un negozio di
+giocattoli e crearne
+sempre di nuovi.<Close><End of Block>
+<TextBlock 40 w:40 h:2>
+Grazie per il giocattolo.
+Sarà sempre con me.<Close><End of Block>
+<TextBlock 41 w:38 h:3>
+Voglio i giocattoli
+che stanno in quel negozio…
+Voglio giocare a fare
+l'esercito.<Close><End of Block>
+<TextBlock 42 w:50 h:3>
+Wow!<Delay 30>
+Quel pupazzo che hai…<Delay 30>
+… è proprio fico.<Close><End of Block>
+<TextBlock 43 w:40 h:3>
+Wow!<Delay 30>
+Quella pistola che hai…<Delay 30>
+… è proprio fica.<Close><End of Block>
+<TextBlock 44 w:40 h:3>
+Mi piacerebbe, sai…<Delay 60>
+    Ecco, prendi
+    Ecco, beh…<Close><End of Block>
+<TextBlock 45 w:14 h:1>
+Davvero!?<Close><End of Block>
+<TextBlock 46 w:46 h:4>
+Dovrò aspettare la
+fine del torneo.<Delay 30>
+Spero che mio papà
+vinca un sacco di soldi.<Close><End of Block>
+<TextBlock 47 w:42 h:2>
+Grazie, signore.
+Resterà sempre con me.<Close><End of Block>
+<TextBlock 48 w:50 h:4>
+Giusto!!<Delay 30>
+Come ringraziamento
+ti dirò un segreto.<New>
+L'ho sentito da mio
+nonno… hai presente
+quel ristorante in
+città con l'acquario?<New>
+E hai presente quello
+scrigno dentro l'acquario?<Delay 50>
+Dentro… <Delay 50>c'è una pepita!
+Bello, eh?<New>
+E ora viene il meglio…<Delay 30>
+Per entrare lì c'è una
+entrata segreta, che
+si raggiunge dai canali
+sotterranei!<New>
+E questo è TOP secret, OK?
+E tu sei l'unico a cui
+l'ho detto…<Delay 30>
+… davvero, grazie.<Close><End of Block>
+<TextBlock 49 w:52 h:5>
+<Opcode 1 255>Sono giocattoli.
+Sono divertenti. Quale vuoi?
+    Pistola giocattolo    80G
+    Modellino Gear       120G
+    No, grazie<Close><End of Block>
+<TextBlock 50 w:34 h:1>
+Non hai abbastanza soldi.<Close><End of Block>
+<TextBlock 51 w:34 h:1>
+Non hai abbastanza soldi.<Close><End of Block>
+<TextBlock 52 w:14 h:1>
+Grazie.<Close><End of Block>
+<TextBlock 53 w:22 h:1>
+Torna ancora!<Close><End of Block>
+<TextBlock 54 w:38 h:4>
+Ehi, compare! T'interessa
+un 'Bart Vodka Leggero'?
+    Certo
+    No, grazie<Close><End of Block>
+<TextBlock 55 w:18 h:1>
+Sono 50G.<Close><End of Block>
+<TextBlock 56 w:36 h:2>
+ Ti sei scolato un
+'Bart Vodka Leggero'!
+Puff!<Close><End of Block>
+<TextBlock 57 w:28 h:2>
+Wow! Sei un
+buon bevitore!<Close><End of Block>
+<TextBlock 58 w:46 h:1>
+Ingrassi un po'.<Close><End of Block>
+<TextBlock 59 w:30 h:2>
+Cosa!? Ma sei
+al verde!<Close><End of Block>
+<TextBlock 60 w:54 h:6>
+<Opcode 1 255>Se non vuoi crepare di
+sete, compra da bere!
+    Succo Duran  10G
+    Acqua Nisan   10G
+    Acqua Aveh    10G
+    No, grazie<Close><End of Block>
+<TextBlock 61 w:44 h:1>
+Troppi pochi soldi, eh.<Close><End of Block>
+<TextBlock 62 w:44 h:1>
+Troppi pochi soldi, eh.<Close><End of Block>
+<TextBlock 63 w:44 h:1>
+Troppi pochi soldi, eh.<Close><End of Block>
+<TextBlock 64 w:42 h:1>
+Ehi, non fare sceneggiate.<Close><End of Block>
+<TextBlock 65 w:22 h:1>
+Torna ancora!<Close><End of Block>
+<TextBlock 66 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 67 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 68 w:48 h:4>
+<Opcode 1 255>Vuoi una torta cotta al vapore?
+    Torta Speziata    20G
+    Torta ghiacciata  30G
+    No, grazie<Close><End of Block>
+<TextBlock 69 w:30 h:1>
+Sono 20G.<Close><End of Block>
+<TextBlock 70 w:44 h:2>
+Fei
+"Wow! È c, c, calda!"<Opcode 2 50><Close><End of Block>
+<TextBlock 71 w:46 h:1>
+Ingrassi un po'.<Close><End of Block>
+<TextBlock 72 w:30 h:1>
+Sono 30G.<Close><End of Block>
+<TextBlock 73 w:44 h:2>
+Fei
+"Brrr, è f, f, fredda."<Opcode 2 50><Close><End of Block>
+<TextBlock 74 w:52 h:1>
+Odii le torte cotte
+al vapore…?<Close><End of Block>
+<TextBlock 75 w:34 h:1>
+Troppi pochi soldi.<Close><End of Block>
+<TextBlock 76 w:42 h:1>
+Dimagrisci un po'.<Close><End of Block>
+<TextBlock 77 w:48 h:4>
+<Opcode 14 1>Ommh, <Delay 30>sono un indovino.<Delay 30>
+La mia specialità è
+trovare cose.<New>
+Scavo nel tuo subconscio
+per cercare.
+Ohmm,<Delay 30> 50G alla volta.<Close><End of Block>
+<TextBlock 78 w:40 h:3>
+<Opcode 1 1>Ohmmm, mi fai scavare?
+    Va bene
+    Scava da un'altra parte<Close><End of Block>
+<TextBlock 79 w:50 h:2>
+<Opcode 14 1>Ommh, <Delay 30>sento che
+non hai soldi.<Close><End of Block>
+<TextBlock 80 w:32 h:1>
+<Opcode 14 1>Ommh, <Delay 30>arrivederci.<Close><End of Block>
+<TextBlock 81 w:20 h:1>
+Sono tornato.<Close><End of Block>
+<TextBlock 82 w:28 h:1>
+Ho scavato.<Close><End of Block>
+<TextBlock 83 w:44 h:4>
+Ommh<Delay 30>… una bambina…<Delay 50><Space 1>
+in prigionia…<Delay 50>
+… in un'alta torre
+a nord…<Close><End of Block>
+<TextBlock 84 w:46 h:4>
+Ommh,<Delay 30> due punti di
+un triangolo…<Delay 50>
+… un enorme enigma nascosto 
+al centro…<New>
+… un punto e a sud, 
+da sud ovest…<Delay 50>
+un altro è nel
+mare del sud…<Close><End of Block>
+<TextBlock 85 w:42 h:2>
+Ehi!
+Guarda guarda… Fei!<Close><End of Block>
+<TextBlock 86 w:6 h:1>
+!!<Opcode 2 30><Close><End of Block>
+<TextBlock 87 w:52 h:5>
+Sono io!<New>
+Moulten, quello della
+Taverna della Volpe Allegra.<Delay 30>
+Non l'avresti mai capito,
+dall'aspetto che ho
+ora, comunque…
+Aa ah ah ah.<New>
+Allora, come stanno mia
+moglie e mia figlia, lì
+al villaggio?<Close><End of Block>
+<TextBlock 88 w:32 h:1>
+Fei
+"… Ahh<Delay 30>…<Space 1>
+umh…"<Opcode 2 50><Close><End of Block>
+<TextBlock 89 w:52 h:4>
+Certo, stanno benone.
+È l'unica cosa che
+sanno fare bene.
+Ah ah ah ah.<New>
+Voglio ritornare presto,
+ma ancora non ho i soldi
+per poterli portare qui
+ad Aveh.<New>
+Ho finito con le
+preparazioni per la festa,
+e ora ho un altro lavoro.
+Sono davvero occupato.<New>
+Sarebbe bello avere una
+piccola casetta in un
+piccolo villaggio come
+Lahan.<New>
+Per mettere assieme i soldi
+ho iniziato un lavoro, e
+ora sono tanto occupato.<New>
+Voglio mandare mia figlia
+a scuola, e comprare qualche
+bella cosa a mia moglie…<New>
+Credo di stare parlando
+troppo. Ah ah ah.<Close><End of Block>
+<TextBlock 90 w:42 h:3>
+… Se non vado subito
+il capo s'infurierà.<Delay 60>
+Beh, ci vediamo, Fei.<New>
+Salutami mia moglie e
+mia figlia.<Close><End of Block>
+<TextBlock 91 w:6 h:1>
+Fei
+"…"<Opcode 2 30><Close><End of Block>
+<TextBlock 92 w:66 h:4>
+Ehi, tu non sei di queste
+parti. Ti piace Bledavik?
+    Mi piace
+    Non mi piace<Close><End of Block>
+<TextBlock 93 w:38 h:2>
+Bene, ottimo.
+Goditi la festa.<Close><End of Block>
+<TextBlock 94 w:48 h:3>
+Oh…
+È la guerra che mette
+tutti sul nervoso.<New>
+Bledavik, in tempo di
+pace, è una città
+davvero bella.<Close><End of Block>
+<TextBlock 95 w:46 h:2>
+Questa festa è proprio
+grandiosa. La pace è bella.<Close><End of Block>
+<TextBlock 96 w:50 h:3>
+Stai attento. Ci sono
+un sacco di strani negozi
+alla festa.<Close><Close><End of Block>

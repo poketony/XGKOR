@@ -1,0 +1,61 @@
+<TextBlock 1 w:56 h:10>
+<Opcode 1 255>… Ex Campione
+Mondiale dei Pesi Massimi e
+5 volte star del cinema:
+BIG JOE (Vero nome: Joey Balboa)
+ha aggiunto alla lista
+delle imprese dell'anno, che
+include il Grande Slam di
+Wimbledon, la tripla-corona
+di baseball e il Premio
+Pulitzer, il titolo di
+miglior giocatore NBA.<New>
+Ma… durante la cerimonia
+di premiazione è scivolato
+ed ha battuto la testa.
+È tornato a casa in stato
+confusionale pensando di
+essere Elvis Presley…<Close><End of Block>
+<TextBlock 2 w:60 h:12>
+<Opcode 1 255>L' 'ELDRIDGE' fu equipaggiata
+con quello che viene
+storicamente considerato il
+primo motore a energia
+pseudo-perpetua.<New>
+Questo non è solo un
+generatore altamente
+efficiente, ma rende anche
+possibile la creazione di
+scudi di difesa grazie al
+suo 'spazio O.A. (Oggetto
+Assoluto)' e il raggiungimento
+della iper velocità luce
+'navigazione S.V. (Soggetto
+Variabile)'. E così via…<New>
+Con un modello basato sulla
+asserzione della Matrice S
+di Heisenberg, che è la
+soluzione al Principio
+quantico della relazione
+reciproca delle particelle
+(o Onda Cosmica), era anche
+conosciuto come il 'Motore
+a Matrice S' o 'Motore di
+Heisenberg'.<New>
+In linea di massima, se si
+ammettono per ipotesi tutti i
+fenomeni dell'immediato futuro,
+compreso il presente, come fenomeni
+potenziali, esso attua il fenomeno
+più conveniente fra questi soggetti
+attivi, come il fenomeno attuale, e
+in corrispondenza a ciò prende
+vantaggio dal risultante
+spostamento dell'energia
+potenziale.<Close><End of Block>
+<TextBlock 3 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 4 w:38 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><Close><End of Block>

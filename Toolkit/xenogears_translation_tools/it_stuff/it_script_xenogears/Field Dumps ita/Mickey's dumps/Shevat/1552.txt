@@ -1,0 +1,969 @@
+<TextBlock 1 w:28 h:2>
+Diventate amici
+di Maria!<Close><End of Block>
+<TextBlock 2 w:36 h:4>
+Fei
+"…!?<Delay 20> <Weltall>
+non vuole muoversi!?"<Close><End of Block>
+<TextBlock 3 w:38 h:3>
+Elly
+"Neanche <Vierge>
+risponde ai comandi!"<Close><End of Block>
+<TextBlock 4 w:44 h:3>
+Bart
+"Merda! Che
+sta succedendo?<New>
+<Brigandier> non
+funziona per niente!"<Close><End of Block>
+<TextBlock 5 w:38 h:3>
+Bart
+"<Brigandier> non
+vuole muoversi…!?"<Close><End of Block>
+<TextBlock 6 w:38 h:3>
+Elly
+"Neanche <Vierge>
+risponde ai comandi!"<Close><End of Block>
+<TextBlock 7 w:36 h:3>
+Fei
+"Doc, che cosa sta
+succedendo…!?"<Close><End of Block>
+<TextBlock 8 w:38 h:3>
+Elly
+"<Vierge> non
+vuole muoversi…!?"<Close><End of Block>
+<TextBlock 9 w:36 h:3>
+Fei
+"Doc, che cosa sta
+succedendo…!?"<Close><End of Block>
+<TextBlock 10 w:42 h:3>
+Bart
+"Merda! Che
+sta succedendo?<New>
+<Brigandier> non
+funziona per niente!"<Close><End of Block>
+<TextBlock 11 w:38 h:3>
+Billy
+"Neanche il
+mio va…!!"<Close><End of Block>
+<TextBlock 12 w:40 h:2>
+Rico
+"È questo quello
+che vuole?"<Close><End of Block>
+<TextBlock 13 w:34 h:3>
+Shitan
+"Allora, potrebbe
+essere che…?"<Close><End of Block>
+<TextBlock 14 w:50 h:3>
+Fei
+"Di questo passo, non
+possiamo fare nulla!<New>
+Stai dicendo che non
+possiamo far altro che
+star fermi ed aspettare?"<Close><End of Block>
+<TextBlock 15 w:50 h:4>
+Shitan
+"Non è quello che
+intendevo.<Delay 20> Forse…
+Maria potrebbe…"<Close><End of Block>
+<TextBlock 16 w:52 h:4>
+Fei
+"Sì!<Delay 20> Siamo giunti fin
+qua, e non perderemo
+proprio ora!"<Close><End of Block>
+<TextBlock 17 w:42 h:4>
+Fei
+"Merda!!<Delay 20>
+Di questo passo,
+non posso fare nulla!"<Close><End of Block>
+<TextBlock 18 w:44 h:4>
+Fei
+"Regina Zefiro, anche
+noi ci batteremo per
+sconfiggere Solaris.<New>
+Per prima cosa, dove
+si trova Solaris?<Delay 20>
+Come ci arriviamo?"<Close><End of Block>
+<TextBlock 19 w:38 h:4>
+Fei
+"Capisco.<Delay 20>
+Non posso lasciare
+Nisan al suo destino.<New>
+Va bene, prima
+andiamo a Nisan!"<Close><End of Block>
+<TextBlock 20 w:52 h:4>
+Fei
+"Ho capito.
+Andiamo insieme,
+Maria.<New>
+D'ora in poi noi
+saremo amici,<Delay 20>
+tu e… tu e
+anche <Seibzehn>."<Close><End of Block>
+<TextBlock 21 w:22 h:2>
+Fei
+"Ho capito!"<Close><End of Block>
+<TextBlock 22 w:30 h:3>
+Fei
+"Ok, andiamoci
+tutti!"<Close><End of Block>
+<TextBlock 23 w:24 h:2>
+<Chu-Chu>
+"Io vado."<Close><End of Block>
+<TextBlock 24 w:48 h:3>
+<Chu-Chu>
+"Così… fatemi
+venire con voi."<Close><End of Block>
+<TextBlock 25 w:28 h:4>
+<Chu-Chu>
+"Nessun problema.<Delay 20>
+Gli dèi ci
+proteggeranno.<New>
+Andiamo."<Close><End of Block>
+<TextBlock 26 w:32 h:2>
+Maria
+"Ma… questo è…"<Space 1><Close><End of Block>
+<TextBlock 27 w:30 h:2>
+Maria
+"Achtzehn…!?"<Close><End of Block>
+<TextBlock 28 w:54 h:4>
+Maria
+"Achtzehn…<Delay 30> è il secondo
+Gear progettato
+da mio padre…<New>
+Il Gear gemello
+di <Seibzehn>.<Delay 20>
+Ma Achtzehn non fu
+mai completato…!<New>
+A parte <Seibzehn>, papà
+non ha fatto altro, e si
+supponeva che avesse
+bruciato i progetti…!<New>
+Allora…<Delay 20>
+Perché…!?"<Close><End of Block>
+<TextBlock 29 w:28 h:4>
+Maria
+"Questa voce…<Delay 30>
+No…<Delay 10> Padre!?"<Close><End of Block>
+<TextBlock 30 w:38 h:3>
+Maria
+"Ma…!!<Delay 30> Perché
+mio padre…!?"<Close><End of Block>
+<TextBlock 31 w:40 h:4>
+Maria
+"Ma…!!<Delay 30>
+Ma…<Delay 20>
+La voce di papà…!?"<Close><End of Block>
+<TextBlock 32 w:14 h:3>
+Maria
+"…!!<Delay 30> Ma…"<Close><End of Block>
+<TextBlock 33 w:28 h:4>
+Maria
+"…<Delay 30>
+Va bene…
+Ho capito."<Close><End of Block>
+<TextBlock 34 w:10 h:2>
+Maria
+"…"<Close><End of Block>
+<TextBlock 35 w:28 h:2>
+Maria
+"Basta…!!"<Opcode 2 30><Close><End of Block>
+<TextBlock 36 w:26 h:3>
+Maria
+"Perché…?<Delay 20>
+Perché tutto
+questo…?"<Close><End of Block>
+<TextBlock 37 w:18 h:2>
+Maria
+"Waghhh!"<Opcode 2 30><Close><End of Block>
+<TextBlock 38 w:14 h:2>
+Maria
+"…!!"<Close><End of Block>
+<TextBlock 39 w:24 h:4>
+Maria
+"Smettila!!
+Non voglio
+saperlo!!"<Close><End of Block>
+<TextBlock 40 w:48 h:4>
+Maria
+"Anche se potrebbe
+essere, io…<Delay 30>
+a me…"<Close><End of Block>
+<TextBlock 41 w:26 h:3>
+Maria
+"…<Delay 20>
+Mi dispiace…"<Close><End of Block>
+<TextBlock 42 w:38 h:4>
+Maria
+"…!?<Delay 20>
+Che stai dicendo,
+<Chu-Chu>!?"<Close><End of Block>
+<TextBlock 43 w:32 h:2>
+Maria
+"<Chu-Chu>…!?"<Close><End of Block>
+<TextBlock 44 w:10 h:3>
+Maria
+"…<Delay 20>…"<Close><End of Block>
+<TextBlock 45 w:10 h:3>
+Maria
+"…<Delay 20> Sì."<Close><End of Block>
+<TextBlock 46 w:52 h:5>
+Maria
+"Mmh…<Delay 20>
+Potresti portarmi
+con te?"<Close>
+Odio star seduta qui
+ad aspettare.<Delay 20>
+Voglio fare qualcosa…
+Porta me e <Seibzehn>!"<Close><End of Block>
+<TextBlock 47 w:12 h:2>
+Maria
+"Sì."<Close><End of Block>
+<TextBlock 48 w:34 h:2>
+Gente di Shevat!<Delay 20>
+Ascoltatemi!<Close><End of Block>
+<TextBlock 49 w:54 h:4>
+Nicola
+"Ho sentito che degli
+sporchi rinnegati sono
+giunti qui da voi…<New>
+Appena in tempo per
+provare Achtzehn.<Delay 20>
+Prenderò loro e Shevat
+in un colpo solo!<New>
+Ciao, topolini,
+venite fuori!<Delay 20>
+Uscite, mie piccole
+cavie!"<Close><End of Block>
+<TextBlock 50 w:46 h:3>
+Nicola
+"Così voi sarete
+le cavie per
+l'esperimento."<Close><End of Block>
+<TextBlock 51 w:50 h:4>
+Nicola
+"La nuova arma di
+Achtzehn…<Delay 20> l'Onda
+Psichica anti-Gear!"<Close><End of Block>
+<TextBlock 52 w:52 h:4>
+Nicola
+"Quel poco tempo basta
+per cancellarvi dalla
+faccia della terra."<Close><End of Block>
+<TextBlock 53 w:50 h:3>
+Nicola
+"Gli esseri umani sono
+imperfetti, una forma di
+vita senza senso…<New>
+Vi mostrerò la grandezza
+di una forma di vita
+perfetta!<New>
+Achtzehn, la combinazione
+dell'intelligenza umana e
+della forza dell'acciaio."<Close><End of Block>
+<TextBlock 54 w:46 h:2>
+Zefiro
+"Rilassati, Maria!!<New>
+Non vuol dire che
+il Dottor Nicola
+sia all'interno!"<Close><End of Block>
+<TextBlock 55 w:46 h:4>
+Zefiro
+"Maria!!<Delay 20>
+Devi farti animo!<New>
+Vuoi perdere prima di
+iniziare a combattere…?<Delay 20>
+Proprio contro coloro che
+ti hanno fatto soffrire?"<Close><End of Block>
+<TextBlock 56 w:32 h:3>
+Zefiro
+"Maria…<Delay 20>
+Tu aspetta qui."<Close><End of Block>
+<TextBlock 57 w:36 h:3>
+Zefiro
+"E voi tutti…<Delay 20>
+Siate prudenti,
+vi prego."<Close><End of Block>
+<TextBlock 58 w:50 h:4>
+Zefiro
+"…<Delay 20>
+Ascoltami, Maria…<New>
+Se gli altri Gear saranno
+immobilizzati, tu e
+<Seibzehn> sarete la
+nostra unica speranza.<New>
+Sei piena di buon
+senso…<Delay 20>
+E puoi decidere della
+tua vita liberamente."<Close><End of Block>
+<TextBlock 59 w:52 h:4>
+Zefiro
+"Grazie a tutti.<New>
+Il generatore è stato
+riparato e il portale
+si sta sviluppando
+come al solito.<New>
+E, Maria…
+Ti sei comportata bene.<Delay 20>
+Mi rincresce per il
+Dottor Nicola…<New>
+Solaris è stata la
+causa di tutto questo.<New>
+Dobbiamo sconfiggerli al
+più presto possibile e
+riportare la libertà!"<Close><End of Block>
+<TextBlock 60 w:52 h:4>
+Zefiro
+"Solaris è nascosta
+agli occhi umani da
+tre portali.<New>
+Uno di essi è sotto la
+Sede della Chiesa, ma…<Delay 20>
+È irraggiungibile,
+anche con i Gear.<New>
+Ancora non so dove
+siano gli altri due.<Delay 20><New>
+Solo la distruzione
+dei 3 portali aprirà
+la via per Solaris.<New>
+Oltre a ciò, abbiamo
+ricevuto pessime notizie.<Delay 20>
+Aveh ha invaso Nisan."<Close><End of Block>
+<TextBlock 61 w:50 h:3>
+Zefiro
+"La loro meta non
+può essere che
+una soltanto…<New>
+Il tesoro reale
+segreto di Aveh.<New>
+Un Omnigear, che fu
+nascosto da Roni
+Fatima!"<Close><End of Block>
+<TextBlock 62 w:42 h:4>
+Zefiro
+"La vostra nave è
+stata munita di un
+modulo aereo.<New>
+Originariamente
+era la nave usata
+dall'antenato di
+Bart, Roni.<New>
+Usatela liberamente."<Close><End of Block>
+<TextBlock 63 w:54 h:4>
+Zefiro
+"Ho una richiesta.<Delay 20>
+Fei, porta Maria con te.<New>
+Questa bambina, sin
+dall'infanzia, non ha
+avuto altra scelta se
+non combattere.<New>
+Finché non avrà risolto i
+problemi che l'affliggono,
+non potrà continuare a
+vivere.<New>
+Vai, Maria,<Delay 20> e trova il
+tuo posto nel mondo…
+da sola."<Close><End of Block>
+<TextBlock 64 w:54 h:4>
+Zefiro
+"Uno dei saggi, Gaspare,
+è ritornato.<New>
+Gaspare è colui che ha
+insegnato le arti marziali
+a Kahn ed a Wiseman.<New>
+Sono certa che conosce
+delle tecniche che vi
+potrebbero essere utili.<New>
+L'ho già detto a Gaspare.
+Prima di andarvene,
+dovreste imparare
+qualcosa da lui."<Close><End of Block>
+<TextBlock 65 w:44 h:4>
+Jessie
+"Ok, ci siamo.<Delay 20>
+Allora, l'ultimo è…<Delay 20>
+questo quassù."<Close><End of Block>
+<TextBlock 66 w:44 h:3>
+Jessie
+"Quale sarà la
+prossima mossa
+di Achtzehn?"<Close><End of Block>
+<TextBlock 67 w:28 h:3>
+Jessie
+"Le forze Gear
+di Shevat…!!"<Close><End of Block>
+<TextBlock 68 w:44 h:4>
+Jessie
+"Togliti di mezzo!<Delay 10>
+Questo non è pane per
+i tuoi denti!!"<Close><End of Block>
+<TextBlock 69 w:46 h:3>
+Jessie
+"Accidenti…!<Delay 20>
+Che casino!"<Close><End of Block>
+<TextBlock 70 w:22 h:2>
+Jessie
+"Umph…!!"<Opcode 2 30><Close><End of Block>
+<TextBlock 71 w:42 h:2>
+Jessie
+"Non va bene…"<Close><End of Block>
+<TextBlock 72 w:54 h:4>
+Jessie
+"Ci sono problemi con
+i circuti di risposta
+dei Gear…<New>
+… a causa di un forte
+shock.<New>
+Tranquilli, è 
+solo momentaneo."<Close><End of Block>
+<TextBlock 73 w:52 h:3>
+Jessie
+"Achtzehn e il suo
+gemello <Seibzehn>…<New>
+È normale che ci sia uno
+scudo contro tutte le
+interferenze elettroniche…"<Close><End of Block>
+<TextBlock 74 w:38 h:4>
+Jessie
+"A parte questo…<Delay 20>
+Non vorrei dirlo, ma…<New>
+Tuo padre non è più
+là dentro…"<Close><End of Block>
+<TextBlock 75 w:40 h:4>
+Jessie
+"Capisco… beh…<Delay 20>
+Meglio aspettarsi
+il peggio, allora."<Close><End of Block>
+<TextBlock 76 w:36 h:2>
+Elly
+"Vogliamo cambiare
+il gruppo?"<Close><End of Block>
+<TextBlock 77 w:38 h:2>
+Bart
+"Vorresti cambiare
+il gruppo?"<Close><End of Block>
+<TextBlock 78 w:40 h:3>
+Bart
+"Qualcuno può dirmi
+cos'è e cosa vuole
+quel Gear terribile…?<New>
+Tu ne sai qualcosa,
+Maria?"<Close><End of Block>
+<TextBlock 79 w:26 h:3>
+Bart
+"Ma che…?<Delay 20>
+Shakhan?"<Close><End of Block>
+<TextBlock 80 w:40 h:4>
+Bart
+"Cazzo!!<Delay 20>
+Questo non è il
+momento di esitare!<New>
+Vado a Nisan!<Delay 20>
+Non possiamo lasciare
+campo libero a Shakhan!"<Close><End of Block>
+<TextBlock 81 w:36 h:2>
+Billy
+"Vogliamo cambiare
+il gruppo?"<Close><End of Block>
+<TextBlock 82 w:38 h:2>
+Rico
+"Vorresti cambiare
+il gruppo?"<Close><End of Block>
+<TextBlock 83 w:36 h:2>
+Shitan
+"Vogliamo cambiare
+il gruppo?"<Close><End of Block>
+<TextBlock 84 w:38 h:4>
+Shitan
+"Va bene.<Delay 20>
+Ragioniamo sulla
+nostra prossima mossa!"<Close><End of Block>
+<TextBlock 85 w:50 h:4>
+Shitan
+"Dobbiamo respingere
+l'attacco dei Gear e
+proteggere il generatore."<Close><End of Block>
+<TextBlock 86 w:56 h:4>
+Shitan
+"Per poterlo fare, ci
+divideremo in quattro
+gruppi.<New>
+Quattro di noi saranno
+indipendenti e difenderanno
+ogni generatore fino alla
+morte.<New>
+Gli altri due aspetteranno
+qui.<Delay 20> È pericoloso, ma non
+c'è altro modo.<New>
+Anche la caduta di uno
+solo dei generatori
+sarebbe una sconfitta
+per noi."<Close><End of Block>
+<TextBlock 87 w:28 h:3>
+Shitan
+"… Per favore,
+Maria."<Close><End of Block>
+<TextBlock 88 w:46 h:4>
+Shitan
+"Ora vediamo la
+composizione delle
+forze nemiche.<New>
+Al Generatore 1, ci
+sono due piccoli Gear,
+assieme ad alcune
+truppe di Solaris…<New>
+Se non le si eliminano
+in fretta, si rischia
+d'impantanarsi in uno
+scontro a fuoco.<New>
+Al Generatore 2, ci
+sono 3 White Knights.<Delay 20>
+Sono molto veloci
+e manovrabili.<New>
+Al Generatore 3 c'è
+un grande Gear ed un
+White Knight.<New>
+Fai attenzione, perché il
+Gear grande ha un qualche
+tipo d'attacco speciale.<New>
+Al Generatore 4 c'è un
+grande Gear ed un White
+Knight.<New>
+Il grande Gear sembra
+essere un Gear potente."<Close><End of Block>
+<TextBlock 89 w:40 h:10>
+<Opcode 1 255>Shitan
+"Allora, chi andrà
+al Generatore 1?"<Delay 10>
+    Fei
+    Shitan
+    Elly
+    Bart
+    Rico
+    Billy
+    Dimmi dei nemici<Close><End of Block>
+<TextBlock 90 w:42 h:3>
+Shitan
+"Fei è già assegnato
+a un altro generatore."<Close><End of Block>
+<TextBlock 91 w:44 h:3>
+Shitan
+"Io sono già assegnato
+a un altro generatore."<Close><End of Block>
+<TextBlock 92 w:44 h:3>
+Shitan
+"Elly è già assegnata
+a un altro generatore."<Close><End of Block>
+<TextBlock 93 w:44 h:3>
+Shitan
+"Bart è già assegnato
+a un altro generatore."<Close><End of Block>
+<TextBlock 94 w:44 h:3>
+Shitan
+"Rico è già assegnato
+a un altro generatore."<Close><End of Block>
+<TextBlock 95 w:46 h:3>
+Shitan
+"Billy è già assegnato
+a un altro generatore."<Close><End of Block>
+<TextBlock 96 w:46 h:11>
+<Opcode 1 255>Generatore 1
+    Due piccoli Gear
+    e truppe di Solaris
+Generatore 2
+    3 White Knights
+Generatore 3
+    Gear Speciale
+    e 1 White Knight
+Generatore 4
+    Gear potente ed
+    1 White Knight<Close><End of Block>
+<TextBlock 97 w:40 h:11>
+<Opcode 1 255>Shitan
+"Chi andrà al
+Generatore 2?"<Delay 10>
+    Fei
+    Shitan
+    Elly
+    Bart
+    Rico
+    Billy
+    Dimmi dei nemici
+    Ricomincia<Close><End of Block>
+<TextBlock 98 w:44 h:3>
+Shitan
+"Fei è già assegnato
+a un altro generatore."<Close><End of Block>
+<TextBlock 99 w:44 h:3>
+Shitan
+"Io sono già assegnato
+a un altro generatore."<Close><End of Block>
+<TextBlock 100 w:44 h:3>
+Shitan
+"Elly è già assegnata
+a un altro generatore."<Close><End of Block>
+<TextBlock 101 w:44 h:3>
+Shitan
+"Bart è già assegnato
+a un altro generatore."<Close><End of Block>
+<TextBlock 102 w:44 h:3>
+Shitan
+"Rico è già assegnato
+a un altro generatore."<Close><End of Block>
+<TextBlock 103 w:46 h:3>
+Shitan
+"Billy è già assegnato
+a un altro generatore."<Close><End of Block>
+<TextBlock 104 w:46 h:11>
+<Opcode 1 255>Generatore 1
+    Due piccoli Gear
+    e truppe di Solaris
+Generatore 2
+    3 White Knights
+Generatore 3
+    Gear Speciale
+    e 1 White Knight
+Generatore 4
+    Gear potente ed
+    1 White Knight<Close><End of Block>
+<TextBlock 105 w:50 h:4>
+Shitan
+"Cambiamo gli incarichi?"
+   No, va bene così
+   Sì, è meglio<Close><End of Block>
+<TextBlock 106 w:40 h:11>
+<Opcode 1 255>Shitan
+"Chi andrà al
+Generatore 3?"<Delay 10>
+    Fei
+    Shitan
+    Elly
+    Bart
+    Rico
+    Billy
+    Dimmi dei nemici
+    Ricomincia<Close><End of Block>
+<TextBlock 107 w:44 h:3>
+Shitan
+"Fei è già assegnato
+a un altro generatore."<Close><End of Block>
+<TextBlock 108 w:44 h:3>
+Shitan
+"Io sono già assegnato
+a un altro generatore."<Close><End of Block>
+<TextBlock 109 w:50 h:3>
+Shitan
+"Elly è già assegnata
+a un altro generatore."<Close><End of Block>
+<TextBlock 110 w:50 h:3>
+Shitan
+"Bart è già assegnato
+a un altro generatore."<Close><End of Block>
+<TextBlock 111 w:50 h:3>
+Shitan
+"Rico è già assegnato
+a un altro generatore."<Close><End of Block>
+<TextBlock 112 w:52 h:3>
+Shitan
+"Billy è già assegnato
+a un altro generatore."<Close><End of Block>
+<TextBlock 113 w:46 h:11>
+<Opcode 1 255>Generatore 1
+    Due piccoli Gear
+    e truppe di Solaris
+Generatore 2
+    3 White Knights
+Generatore 3
+    Gear Speciale
+    e 1 White Knight
+Generatore 4
+    Gear potente e
+    1 White Knight<Close><End of Block>
+<TextBlock 114 w:50 h:4>
+Shitan
+"Cambiamo gli incarichi?"
+   No, va bene così
+   Sì, è meglio<Close><End of Block>
+<TextBlock 115 w:40 h:11>
+<Opcode 1 255>Shitan
+"Chi andrà al
+Generatore 4?"<Delay 10>
+    Fei
+    Shitan
+    Elly
+    Bart
+    Rico
+    Billy
+    Info. sui nemici
+    Cominciamo di nuovo<Close><End of Block>
+<TextBlock 116 w:44 h:3>
+Shitan
+"Fei è già assegnato
+a un altro generatore."<Close><End of Block>
+<TextBlock 117 w:44 h:3>
+Shitan
+"Io sono già assegnato
+a un altro generatore."<Close><End of Block>
+<TextBlock 118 w:44 h:3>
+Shitan
+"Elly è già assegnata
+a un altro generatore."<Close><End of Block>
+<TextBlock 119 w:44 h:3>
+Shitan
+"Bart è già assegnato
+a un altro generatore."<Close><End of Block>
+<TextBlock 120 w:44 h:3>
+Shitan
+"Rico è già assegnato
+a un altro generatore."<Close><End of Block>
+<TextBlock 121 w:46 h:3>
+Shitan
+"Billy è già assegnato
+a un altro generatore."<Close><End of Block>
+<TextBlock 122 w:46 h:11>
+<Opcode 1 255>Generatore 1
+    Due piccoli Gear e
+    truppe di Solaris
+Generatore 2
+    3 White Knights
+Generatore 3
+    Gear Speciale
+    e 1 White Knight
+Generatore 4
+    Gear potente e
+    1 White Knight<Close><End of Block>
+<TextBlock 123 w:50 h:4>
+Shitan
+"Cambiamo gli incarichi?"
+   No, va bene così
+   Sì, è meglio<Close><End of Block>
+<TextBlock 124 w:44 h:4>
+Shitan
+"Perfetto.<Delay 20>
+Gli incarichi assegnati
+al momento sono…"<Close><End of Block>
+<TextBlock 125 w:22 h:2>
+Generatore 1
+    Fei<Close><End of Block>
+<TextBlock 126 w:22 h:2>
+Generatore 1
+   Shitan<Close><End of Block>
+<TextBlock 127 w:22 h:2>
+Generatore 1
+    Elly<Close><End of Block>
+<TextBlock 128 w:22 h:2>
+Generatore 1
+    Bart<Close><End of Block>
+<TextBlock 129 w:22 h:2>
+Generatore 1
+    Rico<Close><End of Block>
+<TextBlock 130 w:22 h:2>
+Generatore 1
+    Billy<Close><End of Block>
+<TextBlock 131 w:22 h:2>
+Generatore 2
+    Fei<Close><End of Block>
+<TextBlock 132 w:22 h:2>
+Generatore 2
+   Shitan<Close><End of Block>
+<TextBlock 133 w:22 h:2>
+Generatore 2
+    Elly<Close><End of Block>
+<TextBlock 134 w:22 h:2>
+Generatore 2
+    Bart<Close><End of Block>
+<TextBlock 135 w:22 h:2>
+Generatore 2
+    Rico<Close><End of Block>
+<TextBlock 136 w:22 h:2>
+Generatore 2
+   Billy<Close><End of Block>
+<TextBlock 137 w:22 h:2>
+Generatore 3
+    Fei<Close><End of Block>
+<TextBlock 138 w:22 h:2>
+Generatore 3
+   Shitan<Close><End of Block>
+<TextBlock 139 w:22 h:2>
+Generatore 3
+    Elly<Close><End of Block>
+<TextBlock 140 w:22 h:2>
+Generatore 3
+    Bart<Close><End of Block>
+<TextBlock 141 w:22 h:2>
+Generatore 3
+    Rico<Close><End of Block>
+<TextBlock 142 w:22 h:2>
+Generatore 3
+   Billy<Close><End of Block>
+<TextBlock 143 w:22 h:2>
+Generatore 4
+    Fei<Close><End of Block>
+<TextBlock 144 w:22 h:2>
+Generatore 4
+   Shitan<Close><End of Block>
+<TextBlock 145 w:22 h:2>
+Generatore 4
+    Elly<Close><End of Block>
+<TextBlock 146 w:22 h:2>
+Generatore 4
+    Bart<Close><End of Block>
+<TextBlock 147 w:22 h:2>
+Generatore 4
+    Rico<Close><End of Block>
+<TextBlock 148 w:22 h:2>
+Generatore 4
+   Billy<Close><End of Block>
+<TextBlock 149 w:54 h:4>
+Shitan
+"Va bene così?"
+    Sì, andiamo!
+    No, cambiamo!<Close><End of Block>
+<TextBlock 150 w:44 h:4>
+Shitan
+"Ti prego di completare
+in fretta i preparativi
+per la battaglia.<New>
+Ora, è tutto a posto?"<Delay 10>
+    Devo prepararmi
+    Sì, andiamo!<Close><End of Block>
+<TextBlock 151 w:40 h:4>
+Shitan
+"Quando sarai pronto,
+ci muoveremo per la
+battaglia…<New>
+Ti prego di fare in
+fretta!<Delay 20> Il nemico
+è già lì!"<Close><End of Block>
+<TextBlock 152 w:46 h:3>
+Shitan
+"Perfetto.<New>
+Coloro assegnati alla
+difesa dei generatori
+ora partiranno con i
+loro Gear!"<Close><End of Block>
+<TextBlock 153 w:52 h:4>
+Shitan
+"Il nemico è già lì!<New>
+Ora sei pronto?"<Delay 20>
+    Un attimo ancora
+    Sono pronto, andiamo
+    Cambia gli incarichi<Close><End of Block>
+<TextBlock 154 w:40 h:4>
+Shitan
+"Quando sarai pronto,
+attaccheremo.<Delay 20>
+Fai in fretta!"<Close><End of Block>
+<TextBlock 155 w:46 h:3>
+Shitan
+"Molto bene…<New>
+Coloro assegnati alla
+difesa dei generatori,
+ora partiranno con i
+loro Gear!"<Close><End of Block>
+<TextBlock 156 w:38 h:4>
+Shitan
+"Perfetto.<Delay 20>
+Gli incarichi assegnati
+al momento sono…"<Close><End of Block>
+<TextBlock 157 w:22 h:2>
+Generatore 1
+    Fei<Close><End of Block>
+<TextBlock 158 w:22 h:2>
+Generatore 1
+   Shitan<Close><End of Block>
+<TextBlock 159 w:22 h:2>
+Generatore 1
+    Elly<Close><End of Block>
+<TextBlock 160 w:22 h:2>
+Generatore 1
+    Bart<Close><End of Block>
+<TextBlock 161 w:22 h:2>
+Generatore 1
+    Rico<Close><End of Block>
+<TextBlock 162 w:22 h:2>
+Generatore 1
+   Billy<Close><End of Block>
+<TextBlock 163 w:22 h:2>
+Generatore 2
+    Fei<Close><End of Block>
+<TextBlock 164 w:22 h:2>
+Generatore 2
+   Shitan<Close><End of Block>
+<TextBlock 165 w:22 h:2>
+Generatore 2
+    Elly<Close><End of Block>
+<TextBlock 166 w:22 h:2>
+Generatore 2
+    Bart<Close><End of Block>
+<TextBlock 167 w:22 h:2>
+Generatore 2
+    Rico<Close><End of Block>
+<TextBlock 168 w:22 h:2>
+Generatore 2
+   Billy<Close><End of Block>
+<TextBlock 169 w:22 h:2>
+Generatore 3
+    Fei<Close><End of Block>
+<TextBlock 170 w:22 h:2>
+Generatore 3
+   Shitan<Close><End of Block>
+<TextBlock 171 w:22 h:2>
+Generatore 3
+    Elly<Close><End of Block>
+<TextBlock 172 w:22 h:2>
+Generatore 3
+    Bart<Close><End of Block>
+<TextBlock 173 w:22 h:2>
+Generatore 3
+    Rico<Close><End of Block>
+<TextBlock 174 w:22 h:2>
+Generatore 3
+   Billy<Close><End of Block>
+<TextBlock 175 w:22 h:2>
+Generatore 4
+    Fei<Close><End of Block>
+<TextBlock 176 w:22 h:2>
+Generatore 4
+   Shitan<Close><End of Block>
+<TextBlock 177 w:22 h:2>
+Generatore 4
+    Elly<Close><End of Block>
+<TextBlock 178 w:22 h:2>
+Generatore 4
+    Bart<Close><End of Block>
+<TextBlock 179 w:22 h:2>
+Generatore 4
+    Rico<Close><End of Block>
+<TextBlock 180 w:22 h:2>
+Generatore 4
+   Billy<Close><End of Block>
+<TextBlock 181 w:54 h:4>
+Shitan
+"Va bene così?"
+    Sì, andiamo!
+    No, cambiamo!<Close><End of Block>
+<TextBlock 182 w:40 h:2>
+Shitan
+"Cos'era quello…!?"<Close><End of Block>
+<TextBlock 183 w:50 h:4>
+Shitan
+"Potenti onde elettriche
+stanno interferendo con
+i circuiti dei Gear.<New>
+Non preoccupatevi,
+passerà presto.<Delay 20>
+Ma…"<Close><End of Block>
+<TextBlock 184 w:50 h:4>
+Shitan
+"Non è quello che volevo
+dire.<Delay 20> Ma se…
+Se <Seibzehn>…"<Close><End of Block>
+<TextBlock 185 w:54 h:4>
+Shitan
+"Se <Seibzehn> è il
+gemello di Achtzehn…
+forse… solo forse…<New>
+Mi stavo dicendo che non
+mi sorprenderebbe se fosse
+dotato di uno scudo contro
+le interferenze elettriche."<Close><Close><End of Block>

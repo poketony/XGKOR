@@ -1,0 +1,492 @@
+#### 1 ####
+Argh... If only I wasn't
+wounded, I'd also be able
+to...!
+
+#### 2 ####
+Argh... If only I wasn't
+wounded, I'd also be able
+to...!
+
+#### 3 ####
+Oh yeaahh!
+We're going to give it all
+we've got for the young
+master!!
+
+#### 4 ####
+Whoa!{clear:0F}
+
+#### 5 ####
+You may have realized it,
+but I was only pretending
+to be sick...{enter}
+When I saw {name:07:チュチュ} trying
+so hard it made me feel
+ashamed. From now on,
+I'll be more courageous!
+
+#### 6 ####
+If I didn't have this
+wound...
+
+#### 7 ####
+Ghost ship expedition?{wait:0A}
+If I didn't have this
+wound I'd...
+
+#### 8 ####
+Fei seems to be alright,
+eh.{wait:0A} If I didn't have
+this wound...
+
+#### 9 ####
+Fei looks terrible...{wait:0A}
+If I didn't have
+this wound I'd...
+
+#### 10 ####
+Elly,{wait:0A}
+why did...?
+
+#### 11 ####
+There{wait:0A} was something
+wrong with Elly.
+
+#### 12 ####
+It looks like a fun place
+to be.{wait:0A} If I only
+didn't have this wound...
+
+#### 13 ####
+Oh, young master!{wait:05}
+I'm not trying to hide.{wait:0A}
+If only I didn't have this
+wound...
+
+#### 14 ####
+You are the ex-Battling
+Champ?{wait:0A} If I didn't have
+this wound even I...
+
+#### 15 ####
+If the young master became
+the king tomorrow{wait:05}...{wait:0A}what
+would happen to us? I'm
+tired of being a soldier.{enter}
+I wanna start a business 
+or something{wait:05}...{wait:0A} If I
+didn't have this wound{wait:05}...{wait:05}"
+
+#### 16 ####
+Nisan, eh...{wait:0A}
+It's been so long.{wait:0A}
+If I didn't have this
+wound I'd...
+
+#### 17 ####
+You won at the martial
+arts tournament?  
+Well done!{wait:0A} If I didn't
+have this wound...
+
+#### 18 ####
+You did great. If only 
+I didn't have this
+wound...
+
+#### 19 ####
+Is this wound from the
+battle, you ask?{wait:0A} No, I
+fell off the bed next
+door.{wait:0A} So pathetic...
+
+#### 20 ####
+Fight to your heart's
+content and go get injured
+to your heart's content!
+
+#### 21 ####
+{wait:05}...What?{wait:0A}  Later.{wait:0A}
+{wait:05}...I'm afraid of heights.
+
+#### 22 ####
+Listen, you've only been
+checking your weight.
+Do you want me to examine
+inside for a change?{enter}
+Early detection, early
+prevention is important,
+you know.
+
+#### 23 ####
+Ghosts don't get injured.
+That's no fun, is it?
+
+#### 24 ####
+Fei...{wait:0A} You're alright,
+aren't you?{enter}
+Oh, I'm so happy! It's
+wonderful to be a nurse!
+
+#### 25 ####
+Fei...{wait:0A}
+Is he alright?
+
+#### 26 ####
+Elly...
+Is she alright?
+
+#### 27 ####
+Elly was lying down 
+till a minute ago...{wait:0A}
+
+#### 28 ####
+Now that you mention it,
+I wonder where she went.
+
+#### 29 ####
+Why?{wait:0A} Why?{wait:0A} Why is everyone
+going to see the doctor on
+the Thames while a pretty,
+talented doctor like myself
+is here?{enter}
+Maybe I should operate on
+fish instead.
+Sob...
+
+#### 30 ####
+When you get hurt, don't
+soak yourself in sea
+water!{wait:0A} Come here right
+away.
+
+#### 31 ####
+Oh, young master!{wait:0A}
+Could you increase the
+medical fees, please!?
+
+#### 32 ####
+Interesting customer!{wait:0A}
+You're an ex-Battling
+Champ, right?{enter}
+So, you always have
+fresh wounds, don't
+you? Uh hmm...
+
+#### 33 ####
+Finally, tomorrow is
+the day for the{wait:05} blood
+blowing,{wait:05} um,{wait:05} flesh
+falling{wait:05}...{enter}
+No,{wait:05} I mean,{wait:05} the blood-
+boiling,{wait:05} flesh-dancing
+battle to recapture the
+capital,{wait:05} right?
+
+#### 34 ####
+Yeah!! I can finally get
+supplies in Nisan.{wait:0A} I made
+so many mistakes that I
+ran out of needles...
+
+#### 35 ####
+I hear you won at the
+martial arts tournament.{enter}
+That's great!{wait:0A}
+By the way...{wait:0F}
+did you get hurt?{enter}
+Oh, you didn't?{wait:05}
+Too bad...{wait:0A}
+I mean...{wait:05} that's good.
+
+#### 36 ####
+You did a great job!?
+By the way...{wait:0A}
+did you get hurt?{enter}
+Oh, you didn't?{wait:0A}
+Too bad...{wait:0A}
+I mean{wait:05}...{wait:05}that's good.{enter}
+But if you do get injured,
+let me know right away.
+I'll heal you!
+
+#### 37 ####
+How do you do! I'm the
+nurse from the Yggdrasil.{enter}
+I'll do the best I can.
+So come by sometime!!
+
+#### 38 ####
+(Heh, hee, hee. My first
+impression was excellent!)
+
+#### 39 ####
+{fast:FF}Who do you want to weigh?
+    {name:80:unknown}
+    {name:81:unknown}
+    {name:82:unknown}
+    No one
+
+#### 40 ####
+No one is there.
+
+#### 41 ####
+Oh please, no one's there.
+
+#### 42 ####
+Hum...you're too skinny.{wait:0A}
+You need more nutrition.
+
+#### 43 ####
+Good!!{wait:0A}
+Perfect weight.
+
+#### 44 ####
+You're too fat.{wait:0A}
+Cut down on sweets!
+
+#### 45 ####
+Oh my!{wait:0A}
+This is what they call{wait:0A}...
+You'd better watch it!
+
+#### 46 ####
+Citan
+"We can use this machine
+for now, but it is just
+for temporary use."
+
+#### 47 ####
+Citan
+"She was able to
+get up just now."
+
+#### 48 ####
+Elly
+"I'm a little worried
+about Fei...{wait:0A}but I'll
+help you anytime!"
+
+#### 49 ####
+Elly
+"I, I...{wait:0A}
+How in the world
+did I get here?"
+
+#### 50 ####
+Fei
+"Elly..."
+
+#### 51 ####
+Yes!
+
+#### 52 ####
+Uh, no...{clear:1E}
+
+#### 53 ####
+Sigurd
+"Young master, the radar
+has picked up a huge Gear!{wait:0A}
+It's headed right for us!"
+
+#### 54 ####
+Bart
+"What!?{wait:0A}
+Them again!?"
+
+#### 55 ####
+Sigurd
+"That shape looks like...!"
+
+#### 56 ####
+Bart
+"Alright!{wait:0A} I owe so much to
+the Thames. I can't let it
+turn into a battle field.{enter}
+Launch the Yggdrasil
+immediately!{wait:0A}
+We'll go out in our
+Gears!"
+
+#### 57 ####
+Yes, sir!!{clear:1E}
+
+#### 58 ####
+Bart
+"Fei,{wait:0A} Citan,{wait:0A}
+I'm counting on you!"
+
+#### 59 ####
+Wait!!{clear:14}
+
+#### 60 ####
+Citan
+"Elly should rest here.{wait:0A}
+We will..."
+
+#### 61 ####
+Elly
+"Wait!!{wait:0A}
+Because I came here this
+all happened...{enter}
+This is my responsibility!{wait:0A}
+So...{wait:0A}
+So let me go too!"
+
+#### 62 ####
+Elly...?
+
+#### 63 ####
+Bart
+"What the hell are
+you talking about!{enter}
+Don't you remember
+what you just did...!?"
+
+#### 64 ####
+Young one!{clear:1E}
+
+#### 65 ####
+Citan
+"Elly,{wait:0A} our trust in you
+depends on this battle.{enter}
+For your honor, you
+should fight!"
+
+#### 66 ####
+Bart
+"But Citan!{wait:0A}
+I...!"
+
+#### 67 ####
+Citan
+"Young one,{wait:0A}
+please trust
+Elly this time."
+
+#### 68 ####
+Citan
+"Elly,{wait:0A} if you try anything
+suspicious, I will be the
+one to shoot you.{enter}
+Is that clear?"
+
+#### 69 ####
+Yes.{clear:0F}
+
+#### 70 ####
+Citan
+"Is that okay with you,
+young one?"
+
+#### 71 ####
+Bart
+"...{wait:0F}
+Alright. {wait:05}Fei,{wait:05} Elly,{wait:05}
+let's go!!"
+
+#### 72 ####
+Yeah!!
+
+#### 73 ####
+...
+
+#### 74 ####
+Elly
+"Fei, I'm sorry..."
+
+#### 75 ####
+Citan
+"Kahr{wait:05}...{wait:0A}
+Please listen to me!{enter}
+Right now, we must forget
+about being friend or foe.
+We all must support one
+another, regardless...{enter}
+Right now,
+we need your help!"
+
+#### 76 ####
+Ramsus
+"...
+I...am...just trash...{enter}
+...a...reject..."
+
+#### 77 ####
+Citan
+"Stop feeling sorry
+for yourself and pull
+yourself together man!!"
+
+#### 78 ####
+Sigurd
+"Hyuga!?{wait:0A}
+What are you{wait:05}..."
+
+#### 79 ####
+Citan
+"Trash{wait:05}...
+Reject{wait:05}...{enter}
+You can take pity and call
+yourself that all you want,
+but what about them!?"
+
+#### 80 ####
+Citan
+"Are these women stupid,
+or trash, or rejects too
+for believing in you?{enter}
+The reasons why you helped
+the girls, who had no one
+to turn to, may not have
+been that noble...{enter}
+But in spite of that,
+they stuck with you.{wait:0A}
+Do you know why?"
+
+#### 81 ####
+They know you better than
+anybody else. They know
+the true kindness that
+exists{wait:0A} inside your heart.{enter}
+They know because they
+want to be loved.{wait:0A}
+That is why they won't
+leave you.{enter}
+Kahr{wait:05}...{wait:0A}
+Do not make them into the
+trash or rejects that you
+speak of.
+
+#### 82 ####
+Dominia
+"Commander{wait:05}..."
+
+#### 83 ####
+Ramsus
+"All of you{wait:05}..."
+
+#### 84 ####
+Citan
+"Needless to say, 
+you are not trash
+or a reject...{enter}
+We know that better
+than anyone does."
+
+#### 85 ####
+Ramsus
+"I{wait:05}...{wait:0A}I didn't realize{wait:05} that
+what I've been looking for{wait:05}
+...{wait:05}was so close to me{wait:05}...{enter}
+I'm{wait:05}...{wait:05}sorry{wait:05}...{wait:0A}
+for not{wait:05} realizing sooner!"
+
+#### 86 ####
+Dominia
+"Oh, Commander...!!"
+
+#### 87 ####
+
+

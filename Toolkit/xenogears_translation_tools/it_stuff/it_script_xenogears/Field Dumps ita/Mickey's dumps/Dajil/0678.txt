@@ -1,0 +1,183 @@
+<TextBlock 1 w:26 h:2>
+Fei
+"Dune buggy?"<Close><End of Block>
+<TextBlock 2 w:52 h:4>
+Fei
+"Andare nel deserto?
+Doc, hai intenzione di
+scavare nelle rovine?"<Close><End of Block>
+<TextBlock 3 w:44 h:3>
+Fei
+"E questo cos'ha a che
+fare con quel Gear?"<Close><End of Block>
+<TextBlock 4 w:16 h:2>
+Fei
+"Ma…"<Close><End of Block>
+<TextBlock 5 w:16 h:2>
+Fei
+"Doc…"<Close><End of Block>
+<TextBlock 6 w:36 h:4>
+Fei
+"Non puoi pilotare
+un Gear militare?
+Perché, Doc?"<Close><End of Block>
+<TextBlock 7 w:54 h:4>
+Fei
+"Che vuoi dire…'Se non
+sei addestrato non puoi
+pilotare un Gear militare.'?<New>
+(Quello che abbiamo trovato
+non è un Gear militare?
+Come sono riuscito a farlo
+funzionare, Doc?)"<Close><End of Block>
+<TextBlock 8 w:52 h:4>
+Shitan
+"Una dune buggy è un
+veicolo speciale adatto
+al terreno del deserto.<New>
+Le sue ruote non
+affondano nella sabbia…
+È necessaria per i
+lunghi viaggi nel deserto."<Close><End of Block>
+<TextBlock 9 w:36 h:4>
+Shitan
+"Capisco…
+Allora, torneremo
+più tardi."<Close><End of Block>
+<TextBlock 10 w:40 h:4>
+Shitan
+"Sì, è esatto.
+Ne ha una che possiamo
+noleggiare adesso?"<Close><End of Block>
+<TextBlock 11 w:24 h:3>
+Shitan
+"Bene allora, se
+mi è permesso…"<Close><End of Block>
+<TextBlock 12 w:52 h:4>
+Shitan
+"Fei, andrò nel deserto
+alla ricerca di pezzi
+per <Weltall>."<Close><End of Block>
+<TextBlock 13 w:54 h:4>
+Shitan
+"Gli eserciti di Kislev e
+di Aveh si affrontano nel
+deserto senza sosta.<New>
+Si dice che le loro forze
+si affrontino spesso
+presso le rovine."<Close><End of Block>
+<TextBlock 14 w:52 h:4>
+Shitan
+"Se mi metterò a cercare
+sul campo di battaglia i
+rottami dei loro Gear…<New>
+… potrei trovare le
+parti di ricambio che
+ci servono.<New>
+(Inoltre <Weltall> è un
+Gear di Kislev, così ci
+servono pezzi dei Gear
+di Kislev.)"<Close><End of Block>
+<TextBlock 15 w:48 h:4>
+Shitan
+"Fei, sei davvero molto
+apprensivo. Ogni cosa ha
+il suo modo di funzionare.<New>
+Non preoccuparti tanto.<New>
+Perché non te ne vai
+ad ammazzare il tempo
+al bar fino al mio
+ritorno?"<Close><End of Block>
+<TextBlock 16 w:44 h:4>
+Shitan
+"La struttura di base
+dei Gear civile e
+militari è molto diversa.<New>
+Per questo hai bisogno
+di un addestramento
+speciale e di un
+talento naturale per
+usare un Gear militare."<Close><End of Block>
+<TextBlock 17 w:48 h:4>
+Shitan
+"Perché tu, Fei, hai un
+elevato talento naturale."<Close><End of Block>
+<TextBlock 18 w:48 h:2>
+La dune buggy che stavate
+aspettando è rientrata.<New>
+Volete noleggiarla?<Close><End of Block>
+<TextBlock 19 w:52 h:3>
+Mh? Non vi ho mai visto.<Delay 10>
+E volete anche noleggiare
+una dune buggy, eh?<Close><End of Block>
+<TextBlock 20 w:50 h:3>
+Certamente… È tutta vostra.
+Le chiavi sono già dentro.<Close><End of Block>
+<TextBlock 21 w:48 h:4>
+Ehi, lo fai andare
+là fuori da solo?<New>
+Nel deserto lo aspettano
+un mucchio di combattimenti…
+È un posto davvero pericoloso.<New>
+Ho sentito parlare di un
+gruppo di pirati che se ne
+va in giro attaccando le
+persone.<New>
+Non dovresti lasciarlo andare
+nel deserto tutto da solo.<Close><End of Block>
+<TextBlock 22 w:52 h:2>
+Spiacente, non è
+ancora rientrata.
+Tornate più tardi.<Close><End of Block>
+<TextBlock 23 w:54 h:3>
+Mh? Non vi ho mai visto prima.<Delay 10>
+E così vorreste noleggiare
+una dune buggy?<Close><End of Block>
+<TextBlock 24 w:50 h:3>
+Spiacente, ma tutte le dune
+buggy sono già noleggiate.<Delay 10>
+Non volete aspettare?<New>
+Qualcuno di questi cacciatori
+di pezzi dovrebbe rientrare
+a momenti.<Close><End of Block>
+<TextBlock 25 w:46 h:3>
+È meglio che tu vada là fuori
+e provi a cercarlo il più
+presto che puoi.<Close><End of Block>
+<TextBlock 26 w:42 h:3>
+Per favore, riporta la dune
+buggy indietro il più presto
+possibile. Grazie!<Close><End of Block>
+<TextBlock 27 w:40 h:2>
+Allora, quando ci riporterai
+la dune buggy?<Close><End of Block>
+<TextBlock 28 w:54 h:3>
+Nello scavo, i Gear civili
+sono nettamente inferiori
+ai Gear militari.<New>
+Ma, anche se ne avessimo uno,
+non riusciremmo a farlo
+funzionare…<Close><End of Block>
+<TextBlock 29 w:54 h:3>
+Nello scavo, i Gear civili
+sono nettamente inferiori
+ai Gear militari.<New>
+Ma, anche se ne avessimo uno,
+non riusciremmo a farlo
+funzionare…<Close><End of Block>
+<TextBlock 30 w:54 h:3>
+Nello scavo, i Gear civili
+sono nettamente inferiori
+ai Gear militari.<New>
+Ma, anche se ne avessimo uno,
+non riusciremmo a farlo
+funzionare…<Close><End of Block>
+<TextBlock 31 w:36 h:8>
+ -Oggetti a Noleggio-
+ 
+  Gear Scavatore
+  Dune Buggy
+  Trivella
+  Sensore
+  Mini Sensore
+  Kit di costruzione<Close><Close><End of Block>

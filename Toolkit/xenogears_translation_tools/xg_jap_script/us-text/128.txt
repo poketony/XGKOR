@@ -1,0 +1,223 @@
+#### 1 ####
+I'm busy!
+Get outta my way!
+
+#### 2 ####
+I thought I'd have 
+lots of free time
+once the war ended.{enter}
+But these guys are
+always in the dining
+hall.{enter}
+So I'm real busy! 
+Outta my way!
+
+#### 3 ####
+While this is warming,
+I'll get this ready...{wait:1E} 
+Was I cutting vegetables?{enter}
+No, wait... Hey, your
+talking to me got me all
+mixed up.
+
+#### 4 ####
+I wonder how the 
+Tournament's going?{enter}
+I'd like to go see
+it  but the head
+chef won't let me.
+
+#### 5 ####
+I wonder if the
+'Dragon Slaying Boxer'
+is winning?
+
+#### 6 ####
+I wonder if the
+'Dragon Slaying Youth'
+is winning?
+
+#### 7 ####
+I wonder if the
+'Dragon Slaying Squire'
+is winning?
+
+#### 8 ####
+I wonder if the
+'Dragon Slaying Slacker'
+is winning?
+
+#### 9 ####
+I wonder if the
+'Ponytailed Boxer'
+is winning?
+
+#### 10 ####
+I wonder if the
+'Ponytailed Youth'
+is winning?
+
+#### 11 ####
+I wonder if the
+'Ponytailed Squire'
+is winning?
+
+#### 12 ####
+I wonder if the
+'Ponytailed Slacker'
+is winning?
+
+#### 13 ####
+I wonder if the
+'Wandering Boxer'
+is winning?
+
+#### 14 ####
+I wonder if the
+'Wandering Youth'
+is winning?
+
+#### 15 ####
+I wonder if the
+'Wandering Squire'
+is winning?
+
+#### 16 ####
+I wonder if the
+'Wandering Slacker'
+is winning?
+
+#### 17 ####
+I wonder if the
+'Beloved Boxer'
+is winning?
+
+#### 18 ####
+I wonder if the
+'Beloved Youth'
+is winning?
+
+#### 19 ####
+I wonder if the
+'Beloved Squire'
+is winning?
+
+#### 20 ####
+I wonder if the
+'Beloved Slacker'
+is winning?
+
+#### 21 ####
+Hey, you're the
+'Dragon Slaying Boxer'.
+
+#### 22 ####
+Hey, you're the
+'Dragon Slaying Youth'.
+
+#### 23 ####
+Hey, you're the
+'Dragon Slaying Squire'.
+
+#### 24 ####
+Hey, you're the
+'Dragon Slaying Slacker'.
+
+#### 25 ####
+Hey, you're the
+'Ponytailed Boxer'.
+
+#### 26 ####
+Hey, you're the
+'Ponytailed Youth'.
+
+#### 27 ####
+Hey, you're the
+'Ponytailed Squire'.
+
+#### 28 ####
+Hey, you're the
+'Ponytailed Slacker'.
+
+#### 29 ####
+Hey, you're the
+'Wandering Boxer'.
+
+#### 30 ####
+Hey, you're the
+'Wandering Youth'.
+
+#### 31 ####
+Hey, you're the
+'Wandering Squire'.
+
+#### 32 ####
+Hey, you're the
+'Wandering Slacker'.
+
+#### 33 ####
+Hey, you're the
+'Beloved Boxer'.
+
+#### 34 ####
+Hey, you're the
+'Beloved Youth'.
+
+#### 35 ####
+Hey, you're the
+'Beloved Squire'.
+
+#### 36 ####
+Hey, you're the
+'Beloved Slacker'.
+
+#### 37 ####
+Hey, thanks to you 
+I hit it big. 
+Thank you.
+
+#### 38 ####
+Ma yelled at me because
+you lost so quickly!
+
+#### 39 ####
+This is enough seasoning. 
+They will all be tired out 
+from today's Tournament.
+
+#### 40 ####
+Can't fight on an
+empty stomach...{enter}
+Even without a fight,
+you still can't do much
+when you're hungry.
+
+#### 41 ####
+You have too many
+{str}.
+
+#### 42 ####
+ 
+ Received {str}.
+
+#### 43 ####
+You have too many
+{str}.
+
+#### 44 ####
+ 
+ Received {str}.
+
+#### 45 ####
+You have too many
+{str}.
+
+#### 46 ####
+ 
+ Received {str}.
+
+#### 47 ####
+{fast:FF}There's probably a guard outside...
+    Open the door
+    Just take a peek
+

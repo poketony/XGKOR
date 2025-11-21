@@ -1,0 +1,47 @@
+#### 1 ####
+I have a stupid son you
+know. He used to fish
+for a living but one day
+he said he saw a merman
+city on the sea floor...{enter}
+Since then he hasn't gone out to
+sea, he's become a landlubber...{wait:14}
+We haven't seen him these past
+few years, I don't know what
+he's doing now.
+
+#### 2 ####
+Hey, you have a rare
+stone there too!
+Is it a mermaid's tear...?{wait:14}
+They're tough to find.{enter}
+And you, girl... You have the
+most amazing eyes.{wait:14}
+Like they're an ocean treasure
+or something... So, let me 
+borrow that stone for a bit.
+
+#### 3 ####
+Long ago, I used to
+be a famous designer.{wait:14}
+See, it's ready.
+
+#### 4 ####
+You can take this. Good luck.
+Just don't get taken in by
+any strange men, now love!
+
+#### 5 ####
+ Received a
+Mermaid Ring!
+
+#### 6 ####
+Hey, you have a rare
+stone there too. Is it
+a mermaid's tear...?{wait:14}
+They're tough to find.{enter}
+My son wore one as a good
+luck charm.{wait:14} I wonder if
+there is a girl out there
+fit to wear your stone?
+

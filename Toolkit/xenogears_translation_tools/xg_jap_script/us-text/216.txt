@@ -1,0 +1,243 @@
+#### 1 ####
+Fei
+"Elly!?
+You{wait:0A}..."
+
+#### 2 ####
+Rico
+"NOOOOOO!!"{wait:64}{wait:64}
+
+#### 3 ####
+Fei
+"You're in the way!!"
+
+#### 4 ####
+Fei
+"MOVE!!"
+
+#### 5 ####
+Fei
+"We must change the rear
+ship's course or{wait:0A}...{wait:0A}
+{wait:0A}...{wait:0A}!! {enter}
+{wait:0A}...{wait:0A}What,{wait:14}
+...you again!?"
+
+#### 6 ####
+Fei
+"This is{wait:0F}...{wait:0F}
+meaningless!"
+
+#### 7 ####
+Fei
+"Arrgh{wait:0F}...{wait:0F}
+I've had it!"
+
+#### 8 ####
+Fei
+"Only two{wait:0A}...{wait:0A}
+enemies, huh?"
+
+#### 9 ####
+Rico
+"Hmph, what a joke...
+Wasting time on a couple
+of guys like these."
+
+#### 10 ####
+Fei
+"Rico?"
+
+#### 11 ####
+Rico
+"I don't need a reason
+to beat the crap out of
+anyone who pisses me off.{enter}
+And of course that means
+you too."
+
+#### 12 ####
+Fei
+"That's also,{wait:14}
+one reason."
+
+#### 13 ####
+Rico
+"Shut up, 
+let's go."
+
+#### 14 ####
+Fei
+"OK, now to change the
+last ship's course{wait:0A}...{wait:0A}
+{wait:0A}..{wait:0A}"
+
+#### 15 ####
+Fei
+"Elly!"
+
+#### 16 ####
+Fei
+"...{wait:14}...{wait:1E}Rico,
+sorry, but you
+go on ahead."
+
+#### 17 ####
+Rico
+"What!?
+You've come this far 
+and now you're scared?"
+
+#### 18 ####
+Fei
+"I'll catch up, I promise.
+{wait:0A}...{wait:14}Please."
+
+#### 19 ####
+Rico
+"...{wait:0A}Well, even without
+you, I can make do by
+myself."
+
+#### 20 ####
+Rico
+"Then...I guess I'll go
+on ahead."
+
+#### 21 ####
+Fei
+"..."
+
+#### 22 ####
+Fei
+"There's no time! 
+Rico, hurry and change
+the course."
+
+#### 23 ####
+Fei
+"Whooooaaaaaa!"
+
+#### 24 ####
+Fei
+"Damn!!
+There's too much mass!"
+
+#### 25 ####
+Elly
+"Hold on!{enter}
+We can avoid a direct
+hit on the reactor with
+three Gears."
+
+#### 26 ####
+Fei
+"Ah, ahhh."
+
+#### 27 ####
+Rico
+"OK, we've steered it away
+from the power station.
+Let's bail out! Fei!"
+
+#### 28 ####
+Fei
+"But, now it's heading
+right for the residential
+district!"
+
+#### 29 ####
+Elly
+"He's right! {enter}
+We need to bring it down
+somewhere where it won't
+cause so much damage."
+
+#### 30 ####
+Rico
+"Impossible!
+We can't change its course
+anymore than we have!"
+
+#### 31 ####
+Fei
+"No! We've got to
+hold it up as long
+as we can!"
+
+#### 32 ####
+Rico
+"What are you, deaf?"
+
+#### 33 ####
+Rico
+"Huh!?
+We're overheating!"
+
+#### 34 ####
+Fei
+"Damn! 
+Not now!"
+
+#### 35 ####
+Rico
+"There's nothin' more we
+can do! Hanging on anymore
+will just be suicide!"
+
+#### 36 ####
+Fei
+"But..."
+
+#### 37 ####
+Rico
+"That's it, I'm bailing
+out! C'mon!"
+
+#### 38 ####
+Fei
+"Elly!"
+
+#### 39 ####
+Fei
+"Stop! 
+What're you doing? 
+If you do that..."
+
+#### 40 ####
+Elly
+"Don't worry. 
+My Gear is from Solaris. 
+It's still...all right."
+
+#### 41 ####
+Fei
+"Elly! What are you
+doing? If you keep
+going you'll...!"
+
+#### 42 ####
+Elly
+"But...{wait:0A}...{wait:0A}what else 
+can we do?{enter}
+At least it will reduce
+the damage.
+...{wait:0A}...{wait:0A}Sorry.{enter}
+It's better than doing 
+nothing."
+
+#### 43 ####
+Fei
+"Ellllllllly!!"
+
+#### 44 ####
+Elly
+"...{wait:3C}
+Just hold on a bit more!
+Please!"
+
+#### 45 ####
+Elly
+"{wait:0A}...{wait:0A}!{wait:1E}
+Is this{wait:0A}...{wait:0A}it{wait:0A}...?"
+

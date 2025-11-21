@@ -1,0 +1,157 @@
+<TextBlock 1 w:30 h:3>
+Fei
+"Mmmm!<Delay 30> Era tutto
+buonissimo!"<Close><End of Block>
+<TextBlock 2 w:40 h:4>
+Fei
+"La tua cucina riesce
+sempre ad impressionarmi,
+Yui!"<Close><End of Block>
+<TextBlock 3 w:38 h:3>
+Fei
+"Ti ringrazio per
+questa cena così
+squisita!"<Close><End of Block>
+<TextBlock 4 w:44 h:4>
+Yui
+"Sei il benvenuto.<New>
+Se ti piace la mia
+cucina così tanto…<New>
+… allora sarò sempre
+felice di cucinare
+per te, Fei!"<Close><End of Block>
+<TextBlock 5 w:52 h:4>
+Yui
+"Oh, e il cibo era
+davvero buonissimo
+perché…<New>
+… ho usato quell'uovo
+che ci hai portato."<Close><End of Block>
+<TextBlock 6 w:56 h:3>
+Fei ingrassa un po',<Delay 5> ma 
+sente di aver fatto una
+cosa sbagliata.<Delay 20>
+…<Delay 5> Beh,<Delay 5> solo un po'!<Close><End of Block>
+<TextBlock 7 w:50 h:3>
+Fei
+"Beh, nulla
+di particolare…"<Close><End of Block>
+<TextBlock 8 w:32 h:3>
+Fei
+"Ciao, Yui.
+Dov'è Doc…?"<Close><End of Block>
+<TextBlock 9 w:54 h:4>
+Fei
+"L'avrei dovuto
+immaginare!<New>
+Non si stanca mai di
+giocare con quella roba!"<Close><End of Block>
+<TextBlock 10 w:50 h:4>
+Fei
+"Beh, ok allora, uscirò
+nel cortile e vedrò se
+riesco a trovarlo."<Close><End of Block>
+<TextBlock 11 w:42 h:4>
+Fei
+"Oh, quasi dimenticavo!<Delay 20>
+Yui, ho trovato questo
+sulla strada di montagna…<New>
+Per favore, usalo per
+fare un gustoso piatto
+a base di uovo per Doc
+e Midori."<Close><End of Block>
+<TextBlock 12 w:34 h:4>
+Fei
+"Ciao, Midori.
+È un bel giorno
+per giocare fuori.<New>
+Che ne dici più tardi
+di dare del cibo agli
+uccelli?"<Close><End of Block>
+<TextBlock 13 w:38 h:4>
+Fei
+"…<Delay 20>
+Dove ho già sentito
+questa frase!?"<Close><End of Block>
+<TextBlock 14 w:56 h:4>
+Fei
+"Per me va bene…<Delay 30>
+Beh, ci vediamo
+domani, Doc!<Delay 30><New>
+Buona notte,
+Yui, Midori!"<Close><End of Block>
+<TextBlock 15 w:54 h:4>
+Shitan
+"Porterò io stesso
+l'attrezzatura che
+vi serve al villaggio…<New>
+… domani mattina…<New>
+Farti maneggiare degli
+strumenti così delicati
+non mi fa sentire a mio
+agio, mi spiace!"<Close><End of Block>
+<TextBlock 16 w:54 h:4>
+Yui
+"Il mio caro marito sta
+probabilmente lavorando…<New>
+… con le sue cianfrusaglie
+fuori in cortile…<New>
+Non l'hai visto lì?"<Close><End of Block>
+<TextBlock 17 w:36 h:4>
+Yui
+"Oh, benvenuto, Fei.<Delay 30>
+Cosa ti porta qui oggi?"<Close><End of Block>
+<TextBlock 18 w:46 h:4>
+Yui
+"Capisco…<Delay 20> Bene,
+comunque, fa' come se
+fossi a casa tua."<Close><End of Block>
+<TextBlock 19 w:36 h:2>
+Yui
+"Oh, Fei, benvenuto."<Close><End of Block>
+<TextBlock 20 w:48 h:4>
+Yui
+"Mio marito sta lavorando
+con le sue cianfrusaglie,
+fuori in cortile."<Close><End of Block>
+<TextBlock 21 w:48 h:4>
+Yui
+"Oh, è un uovo che sembra
+molto nutriente!<Delay 20><New>
+Grazie, lo userò per
+la cena."<Close><End of Block>
+<TextBlock 22 w:46 h:2>
+Hai dato a Yui l'uovo
+che avevi ottenuto con
+grande difficoltà.<Close><End of Block>
+<TextBlock 23 w:46 h:3>
+Yui
+"Buona notte.<Delay 20> Ci
+vediamo domani, Fei."<Close><End of Block>
+<TextBlock 24 w:54 h:3>
+Yui
+"Mi chiedo cosa sia
+successo…?<Delay 20>
+Sta' attento ora, Fei!"<Close><End of Block>
+<TextBlock 25 w:44 h:4>
+Yui
+"Sei il benvenuto.<New>
+Se ti piace la mia
+cucina così tanto…<New>
+… allora sarò sempre
+felice di cucinare
+per te, Fei!"<Close><End of Block>
+<TextBlock 26 w:46 h:4>
+Yui
+"Buona notte.<Delay 20>
+Aspettiamo con ansia
+il matrimonio di domani."<Close><End of Block>
+<TextBlock 27 w:12 h:2>
+Midori
+"…"<Close><End of Block>
+<TextBlock 28 w:12 h:2>
+Midori
+"…"<Close><End of Block>
+<TextBlock 29 w:12 h:2>
+Midori
+"…"<Close><Close><End of Block>

@@ -1,0 +1,650 @@
+<TextBlock 1 w:52 h:4>
+Shitan
+"Bene, io sarò là ad
+incoraggiarti.<New>
+Non batterlo subito.
+Meglio ti comporti, più
+facile sarà per Bart
+intrufolarsi."<Close><End of Block>
+<TextBlock 2 w:28 h:3>
+Miang
+"Oh… ma che
+ragazzo attraente!"<Close><End of Block>
+<TextBlock 3 w:24 h:2>
+Shitan
+"Buona fortuna!"<Close><End of Block>
+<TextBlock 4 w:2 h:1>
+!<Opcode 2 50><Close><End of Block>
+<TextBlock 5 w:52 h:4>
+Shitan
+"Fei, possiamo usarlo
+a nostro vantaggio!<New>
+Se avrai suscitato clamore
+al Torneo, le guardie
+guarderanno te invece
+di fare la guardia.<New>
+Questo ci renderà più
+facile introdurci nel
+castello e salvare Margie.<New>
+Cosa ne pensi, Fei?
+Pateciperai al 
+Torneo?"<Close><End of Block>
+<TextBlock 6 w:22 h:2>
+Fei
+"Chi… io?"<Close><End of Block>
+<TextBlock 7 w:54 h:4>
+Shitan
+"Mentre tu distrarrai le
+guardie, il giovanotto
+entrerà nel castello.<New>
+Sicuramente capisci che è
+l'unico modo per potere
+entrare.<Delay 100> Bene…
+Andiamo ad iscriverti."<Close><End of Block>
+<TextBlock 8 w:44 h:4>
+Shitan
+"E, Fei, non usare
+il tuo vero nome, ma
+scegline un altro."<Close><End of Block>
+<TextBlock 9 w:54 h:34>
+I nostri coraggiosi
+uomini stanno sputando
+l'anima al fronte. Il
+nostro esercito è il
+migliore, ma la guerra
+è incerta. Per proteggere
+le tradizioni di Aveh e
+preservare la pace nel
+deserto, tutti noi
+dobbiamo fare il nostro
+dovere.<Delay 30> Il deserto è
+l'eredità lasciataci dai
+nostri antenati. Qui noi
+forgiamo le nostre menti
+e i nostri corpi in una
+cosa sola.<Delay 50>
+I nostri maestri sono il
+sole ed il vento.<Delay 30> 
+Noi siamo quelli che
+siamo perché forgiati
+da questo deserto.<Delay 30>
+Il sole sopra di noi è
+lo stesso che brucia i
+nostri padri al fronte.
+Il vento che soffia qui
+è lo stesso che porta
+le nostre preghiere e
+la nostra determinazione
+agli uomini al fronte.<Delay 30>
+Questo Torneo rinfranca
+il nostro spirito e
+rinnova le nostre
+benedizioni per questo
+deserto dove viviamo.<Delay 30>
+Coraggiosi guerrieri,
+combattete e non recate
+vergogna ai nostri
+fratelli al fronte."<Close><End of Block>
+<TextBlock 10 w:34 h:2>
+Che il CCCXXXVIII
+Torneo abbia inizio!<Opcode 2 150><Close><End of Block>
+<TextBlock 11 w:46 h:3>
+Shakhan
+"Mmh… che discorso
+commovente, se me lo
+posso dire."<Close><End of Block>
+<TextBlock 12 w:54 h:4>
+Shakhan
+"Oh, Comandante Ramsus. 
+Perdonate l'attesa. Da
+questa parte, prego."<Close><End of Block>
+<TextBlock 13 w:44 h:4>
+Ramsus
+"Mi dispiace di non
+aver tempo per queste
+frivolezze.<New>
+Sono qui soltanto
+per salutarti."<Close><End of Block>
+<TextBlock 14 w:48 h:3>
+Shakhan
+"Che peccato. Non le
+piace lo spettacolo?"<Close><End of Block>
+<TextBlock 15 w:38 h:2>
+Ramsus
+"Lo trovo noioso."<Close><End of Block>
+<TextBlock 16 w:50 h:4>
+Miang
+"Oh, lasci perdere,
+Comandante.<New>
+Shakhan cerca solo di
+essere ospitale…<New>
+Personalmente trovo le
+arti marziali molto
+interessanti.<New>
+Non vedo l'ora di
+vedere il Torneo."<Close><End of Block>
+<TextBlock 17 w:54 h:4>
+Shakhan
+"A dire il vero questo 
+Torneo è in suo onore,
+Comandante.<New>
+L'aiuto che ci dà permette
+oggi di celebrare la
+fondazione del nostro
+paese."<Close><End of Block>
+<TextBlock 18 w:48 h:4>
+Ramsus
+"Che impudente!
+Non è ancora il
+tuo paese.<New>
+Mmh, fa' come vuoi."<Close><End of Block>
+<TextBlock 19 w:52 h:4>
+Shakhan
+"Miang, che ne
+pensa del Torneo?<New>
+Posso avere l'onore
+della sua compagnia?"<Close><End of Block>
+<TextBlock 20 w:24 h:4>
+Miang
+"Sì, sarà un
+vero piacere."<Close><End of Block>
+<TextBlock 21 w:40 h:2>
+Shakhan
+"Oh, sta cominciando!"<Close><End of Block>
+<TextBlock 22 w:38 h:1>
+Buona fortuna per domani.<Close><End of Block>
+<TextBlock 23 w:48 h:4>
+Qua si effettuano le
+iscrizioni per il Torneo.
+    Partecipa al torneo
+    No, grazie<Close><End of Block>
+<TextBlock 24 w:40 h:1>
+Firma qui.<Close><End of Block>
+<TextBlock 25 w:42 h:4>
+Sei iscritto.
+Il Torneo inizia
+domani. Cerca di
+esserci.<Close><End of Block>
+<TextBlock 26 w:44 h:3>
+Le iscrizioni terminano
+oggi. Se hai coraggio,
+fatti avanti.<Close><End of Block>
+<TextBlock 27 w:46 h:3>
+Un posto nell'arena
+viene 500G.<Delay 50>
+Partecipanti esclusi.
+Prego, passa pure.<Close><End of Block>
+<TextBlock 28 w:42 h:2>
+Sei Edgar Figaro
+il Bellissimo, giusto?<Close><End of Block>
+<TextBlock 29 w:42 h:2>
+Sei Edgar Figaro 
+il Terribile, giusto?<Close><End of Block>
+<TextBlock 30 w:44 h:2>
+Sei Edgar Figaro
+il Valoroso, giusto?<Close><End of Block>
+<TextBlock 31 w:46 h:2>
+Sei Edgar Figaro,
+giusto?<Close><End of Block>
+<TextBlock 32 w:42 h:2>
+Sei Cloud Strife
+il Bellissimo, giusto?<Close><End of Block>
+<TextBlock 33 w:44 h:2>
+Sei Cloud Strife
+il Terribile, giusto?<Close><End of Block>
+<TextBlock 34 w:44 h:2>
+Sei Cloud Strife
+il Valoroso, giusto?<Close><End of Block>
+<TextBlock 35 w:44 h:2>
+Sei Cloud Strife,
+giusto?<Close><End of Block>
+<TextBlock 36 w:42 h:2>
+Sei Albedo
+il Bellissimo, giusto?<Close><End of Block>
+<TextBlock 37 w:42 h:2>
+Sei Albedo
+il Terribile, giusto?<Close><End of Block>
+<TextBlock 38 w:42 h:2>
+Sei Albedo
+Il Valoroso,giusto?<Close><End of Block>
+<TextBlock 39 w:42 h:2>
+Sei Albedo, giusto?<Close><End of Block>
+<TextBlock 40 w:38 h:2>
+Sei Crono
+il Bellissimo, giusto?<Close><End of Block>
+<TextBlock 41 w:38 h:2>
+Sei Crono
+il Terribile, giusto?<Close><End of Block>
+<TextBlock 42 w:38 h:2>
+Sei Crono
+il Valoroso, giusto?<Close><End of Block>
+<TextBlock 43 w:38 h:2>
+Sei Crono, giusto?<Close><End of Block>
+<TextBlock 44 w:26 h:4>
+   il Bellissimo
+   il Terribile
+   il Valoroso
+   … e basta!<Close><End of Block>
+<TextBlock 45 w:42 h:4>
+    Edgar Figaro…
+    Cloud Strife…
+    Albedo…
+    Crono…<Close><End of Block>
+<TextBlock 46 w:46 h:3>
+Non puoi stare qui.
+Domani questi saranno
+i posti per gli
+spettatori.<Close><End of Block>
+<TextBlock 47 w:40 h:2>
+Partecipante?
+Bene, passa pure.<Close><End of Block>
+<TextBlock 48 w:44 h:3>
+A tutti i partecipanti!
+Il Torneo sta per
+iniziare.<Close><End of Block>
+<TextBlock 49 w:62 h:3>
+Qui sono ammessi solo i
+partecipanti. Il tuo amico
+può sedersi nell'area per
+gli spettatori.<Close><End of Block>
+<TextBlock 50 w:40 h:2>
+Partecipante?
+Bene, passa pure.<Close><End of Block>
+<TextBlock 51 w:18 h:1>
+Vietato entrare.<Close><End of Block>
+<TextBlock 52 w:46 h:4>
+Lo scontro finale…
+Wiseman
+   contro
+   Edgar Figaro il Bellissimo<Close><End of Block>
+<TextBlock 53 w:46 h:4>
+Lo scontro finale…
+Wiseman
+   contro
+   Edgar Figaro il Terribile<Close><End of Block>
+<TextBlock 54 w:48 h:4>
+Lo scontro finale…
+Wiseman
+   contro
+   Edgar Figaro il Terribile<Close><End of Block>
+<TextBlock 55 w:50 h:4>
+Lo scontro finale…
+Wiseman
+   contro
+   Edgar Figaro<Close><End of Block>
+<TextBlock 56 w:38 h:4>
+Lo scontro finale…
+Wiseman
+   contro
+   Cloud Strife il Bellissimo<Close><End of Block>
+<TextBlock 57 w:38 h:4>
+Lo scontro finale…
+Wiseman
+   contro
+   Cloud Strife il Terribile<Close><End of Block>
+<TextBlock 58 w:40 h:4>
+Lo scontro finale…
+Wiseman
+   contro
+   Cloud Strife il Valoroso<Close><End of Block>
+<TextBlock 59 w:42 h:4>
+Lo scontro finale…
+Wiseman
+   contro
+   Cloud Strife<Close><End of Block>
+<TextBlock 60 w:36 h:4>
+Lo scontro finale…
+Wiseman
+   contro
+   Albedo il Bellissimo<Close><End of Block>
+<TextBlock 61 w:36 h:4>
+Lo scontro finale…
+Wiseman
+   contro
+   Albedo il Terribile<Close><End of Block>
+<TextBlock 62 w:38 h:4>
+Lo scontro finale…
+Wiseman
+   contro
+   Albedo il Valoroso<Close><End of Block>
+<TextBlock 63 w:40 h:4>
+Lo scontro finale…
+Wiseman
+   contro
+   Albedo<Close><End of Block>
+<TextBlock 64 w:36 h:4>
+Lo scontro finale…
+Wiseman
+   contro
+   Crono il Bellissimo<Close><End of Block>
+<TextBlock 65 w:36 h:4>
+Lo scontro finale…
+Wiseman
+   contro
+   Crono il Terribile<Close><End of Block>
+<TextBlock 66 w:36 h:4>
+Lo scontro finale…
+Wiseman
+   contro
+   Crono il Valoroso<Close><End of Block>
+<TextBlock 67 w:36 h:4>
+Lo scontro finale…
+Wiseman
+   contro
+   Crono<Close><End of Block>
+<TextBlock 68 w:46 h:4>
+Il primo scontro…
+Gonzalez
+   contro
+   Edgar Figaro il Bellissimo<Close><End of Block>
+<TextBlock 69 w:46 h:4>
+Il primo scontro…
+Gonzalez
+   contro
+   Edgar Figaro il Terribile<Close><End of Block>
+<TextBlock 70 w:48 h:4>
+Il primo scontro…
+Gonzalez
+   contro
+   Edgar Figaro il Valoroso<Close><End of Block>
+<TextBlock 71 w:50 h:4>
+Il primo scontro…
+Gonzalez
+   contro
+   Edgar Figaro<Close><End of Block>
+<TextBlock 72 w:38 h:4>
+Il primo scontro…
+Gonzalez
+   contro
+   Cloud Strife il Bellissimo<Close><End of Block>
+<TextBlock 73 w:38 h:4>
+Il primo scontro…
+Gonzalez
+   contro
+   Cloud Strife il Terribile<Close><End of Block>
+<TextBlock 74 w:40 h:4>
+Il primo scontro…
+Gonzalez
+   contro
+   Cloud Strife il Valoroso<Close><End of Block>
+<TextBlock 75 w:42 h:4>
+Il primo scontro…
+Gonzalez
+   contro
+   Cloud Strife<Close><End of Block>
+<TextBlock 76 w:36 h:4>
+Il primo scontro…
+Gonzalez
+   contro
+   Albedo il Bellissimo<Close><End of Block>
+<TextBlock 77 w:36 h:4>
+Il primo scontro…
+Gonzalez
+   contro
+   Albedo il Terribile<Close><End of Block>
+<TextBlock 78 w:38 h:4>
+Il primo scontro…
+Gonzalez
+   contro
+   Albedo il Valoroso<Close><End of Block>
+<TextBlock 79 w:40 h:4>
+Il primo scontro…
+Gonzalez
+   contro
+   Albedo<Close><End of Block>
+<TextBlock 80 w:36 h:4>
+Il primo scontro…
+Gonzalez
+   contro
+   Crono il Bellissimo<Close><End of Block>
+<TextBlock 81 w:36 h:4>
+Il primo scontro…
+Gonzalez
+   contro
+   Crono il Terribile<Close><End of Block>
+<TextBlock 82 w:36 h:4>
+Il primo scontro…
+Gonzalez
+   contro
+   Crono il Valoroso<Close><End of Block>
+<TextBlock 83 w:36 h:4>
+Il primo scontro…
+Gonzalez
+   contro
+   Crono<Close><End of Block>
+<TextBlock 84 w:50 h:3>
+Ehi, combatterai?
+Mmh <Delay 100>
+… direi circa 20 a 1.<Close><End of Block>
+<TextBlock 85 w:46 h:2>
+Cazzo, neanche un cliente
+decente oggi!<Close><End of Block>
+<TextBlock 86 w:52 h:2>
+Ehi, amico! Prova e
+scegli il campione!<Close><End of Block>
+<TextBlock 87 w:46 h:2>
+Shitan
+"Il campione di cosa?"<Close><End of Block>
+<TextBlock 88 w:34 h:3>
+Uh?<Delay 30>
+Il campione del
+'Torneo'!<Close><End of Block>
+<TextBlock 89 w:38 h:3>
+Shitan
+"Scommettono su
+questo 'Torneo'?"<Close><End of Block>
+<TextBlock 90 w:54 h:3>
+Ma di che parli?
+I tornei non sono altro
+che un gioco d'azzardo!<New>
+Perché pensi che la gente
+venga qui? Per scommettere
+su chi sarà il campione!<Close><End of Block>
+<TextBlock 91 w:54 h:4>
+Shitan
+"Ci scusi, siamo appena
+arrivati e non sappiamo
+nulla del Torneo."<Close><End of Block>
+<TextBlock 92 w:52 h:4>
+Oh, turisti, eh?
+Allora vi parlerò del
+Torneo.<New>
+Ogni anno ad Aveh viene
+organizzato un torneo di
+arti marziali.<New>
+Vi partecipano lottatori
+da ogni parte del mondo
+con lo scopo di vedere
+chi è il più forte.<New>
+Tutti si agitano tentando
+di indovinare il vincitore.
+Vuoi provare anche tu?<Close><End of Block>
+<TextBlock 93 w:52 h:4>
+Shitan
+"Scommettere sul Torneo…<New>
+Lo permettono anche in
+una competizione così
+importante?"<Close><End of Block>
+<TextBlock 94 w:48 h:4>
+Puoi giurarci. I soldati
+impazziscono per questo.
+Se Kislev attaccasse domani
+Aveh sarebbe polvere.<New>
+Allora? Le iscrizioni
+non sono ancora finite,
+ma i più forti si sono
+già iscritti.<New>
+Comunque agli altri
+toccheranno solo premi
+di consolazione…<Close><End of Block>
+<TextBlock 95 w:44 h:4>
+Shitan
+"Aspettiamo. Qualche
+altro campione potrebbe
+ancora iscriversi."<Close><End of Block>
+<TextBlock 96 w:44 h:2>
+Ah!
+Che mucchio di codardi.<Close><End of Block>
+<TextBlock 97 w:46 h:3>
+Iscrivermi…<Delay 30>
+O non iscrivermi…<Delay 30>
+Questo è il problema…<Close><End of Block>
+<TextBlock 98 w:46 h:3>
+Sbirciare…<Delay 30> 
+O non sbirciare…<Delay 30>
+Questo è il problema…<Close><End of Block>
+<TextBlock 99 w:38 h:2>
+Meglio prepararsi!
+Sta per cominciare!<Close><End of Block>
+<TextBlock 100 w:52 h:3>
+Wow! Sarà fantastico!
+Mi piace vedere la gente
+che se le dà di santa
+ragione!<Close><End of Block>
+<TextBlock 101 w:44 h:2>
+Sono già pronto…
+Perché ci mettono tanto?<Close><End of Block>
+<TextBlock 102 w:38 h:1>
+Siamo già pronti!<Close><End of Block>
+<TextBlock 103 w:50 h:3>
+Se solo avessi 10 anni
+di meno… cough… cough…
+Gli farei vedere io… cough.<Close><End of Block>
+<TextBlock 104 w:48 h:3>
+Sono nato e cresciuto a
+Dajil,<Delay 60> ma questo è il
+mio primo Torneo.<Close><End of Block>
+<TextBlock 105 w:54 h:3>
+Questo è il miglior posto
+per vedere senza pagare.
+Per ora lo tengo in caldo!<Close><End of Block>
+<TextBlock 106 w:52 h:3>
+Accidenti, le persone
+qui davanti non mi fanno
+vedere nulla! Che palle!<Close><End of Block>
+<TextBlock 107 w:50 h:4>
+Faccio il tifo per chi
+paga di più. E poi non
+so nulla di arti marziali.<New>
+Forse riesco a fare un
+po' di soldi extra.<Close><End of Block>
+<TextBlock 108 w:50 h:4>
+Mio figlio combatte!
+Spero non si faccia male.<Delay 60>
+Speriamo bene.<Close><End of Block>
+<TextBlock 109 w:42 h:3>
+Combatte anche l'amico
+di mio cugino.
+Davvero fico, eh!<Close><End of Block>
+<TextBlock 110 w:50 h:2>
+Ehi, nonno…
+Scommettiamo su qualcuno!<Close><End of Block>
+<TextBlock 111 w:52 h:3>
+No, scommettere è da
+perdenti.<New>
+Ti ho portato qui perché
+voglio che tu cresca e
+diventi un uomo forte.<New>
+Abbastanza forte da
+combattere nel Torneo.<Close><End of Block>
+<TextBlock 112 w:28 h:1>
+La gente, quant'è
+ignorante!<Close><End of Block>
+<TextBlock 113 w:52 h:4>
+Vengo ogni anno. Questa
+è la terza volta. Voglio
+solo sapere chi è il
+più forte.<New>
+Tu combatti?<Delay 60>
+Sembri davvero forte.<Delay 30>
+Uhm, forse un semifinalista.
+Buona fortuna.<Close><End of Block>
+<TextBlock 114 w:54 h:4>
+Se il mio amico vince…<Delay 30>
+Vado al bar e ordino il
+whiskey più caro che hanno.<New>
+Poi inviterò la cameriera
+ad uscire! E forse con un
+bel regalo…<Close><End of Block>
+<TextBlock 115 w:30 h:2>
+Anch'io scommetto su 
+Big Joe.<Close><End of Block>
+<TextBlock 116 w:44 h:2>
+Fidati.
+Sarà Big Joe.<Close><End of Block>
+<TextBlock 117 w:32 h:2>
+Credo che Wiseman
+sia il più forte…<Close><End of Block>
+<TextBlock 118 w:46 h:1>
+Scommette, sergente?<Close><End of Block>
+<TextBlock 119 w:38 h:1>
+Scommetto su Big Joe.<Close><End of Block>
+<TextBlock 120 w:44 h:4>
+Butta i soldi.
+È un pallone gonfiato.
+Mi creda, Wiseman
+vincerà.<Close><End of Block>
+<TextBlock 121 w:40 h:3>
+Sta' zitto! Avevo ragione
+l'ultima volta, non ti
+starò ad ascoltare.<Close><End of Block>
+<TextBlock 122 w:50 h:3>
+L'ultima volta ha
+indovinato il campione?
+Ha vinto qualcosa
+come 50 a 1…<Close><End of Block>
+<TextBlock 123 w:36 h:3>
+Già, e ho speso tutto
+in una settimana.
+Ah ah ah!<Close><End of Block>
+<TextBlock 124 w:32 h:1>
+… Che peccato.<Close><End of Block>
+<TextBlock 125 w:46 h:2>
+Quello è il sergente.
+È un vero uomo.<Close><End of Block>
+<TextBlock 126 w:52 h:3>
+Ultimamente i lottatori
+sono stati scarsi. Era
+meglio quando c'era il Re.<Close><End of Block>
+<TextBlock 127 w:46 h:5>
+Questi tornei di arti
+marziali sono grandi…
+Ma se invece
+combattessero i Gear?
+Mi piacerebbe vederlo.<Close><End of Block>
+<TextBlock 128 w:34 h:2>
+Ehi, sei anche tu qui
+per Joe?<Close><End of Block>
+<TextBlock 129 w:44 h:4>
+Big Joe è un grande perché
+è un tipo losco. Quelli come
+te non possono né capire, né
+competere con lui.<Close><End of Block>
+<TextBlock 130 w:52 h:3>
+Vuoi unirti al club dei
+fan di Joe?<New>
+Se lo farai, potrai
+partecipare al
+nostro caffè
+settimanale.<New>
+Ed ogni mese facciamo
+anche una cena tutti
+insieme.<Close><End of Block>
+<TextBlock 131 w:46 h:3>
+Sei un lottatore?
+Rinuncia, non potrai 
+battere Joe.<Close><End of Block>
+<TextBlock 132 w:52 h:3>
+Voglio vedere chi saranno
+i lottatori. I migliori
+sono stati tutti arruolati.<Close><End of Block>
+<TextBlock 133 w:48 h:4>
+Io amo la lotta.
+In special modo tutti
+questi stili diversi!<Delay 60>
+Sono venuto apposta da Dajil.<Close><End of Block>
+<TextBlock 134 w:54 h:3>
+Odio la guerra e i
+combattimenti. Cosa? Sto
+scrivendo un libro sulla
+follia del genere umano.<Close><Close><End of Block>

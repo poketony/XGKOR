@@ -1,0 +1,53 @@
+<TextBlock 1 w:46 h:3>
+Shakhan
+"Argh! Perché ci stanno
+impiegando così tanto?"<Close><End of Block>
+<TextBlock 2 w:48 h:3>
+Shakhan
+"Imbecilli! È solo una
+bambina! Cosa può fare!?<New>
+Sbrigatevi a prenderla!"<Close><End of Block>
+<TextBlock 3 w:50 h:2>
+Ma…<Delay 30> rimane sempre
+un Omnigear…<Close><End of Block>
+<TextBlock 4 w:30 h:3>
+Bart
+"Margie!<Delay 30>
+Dove sei?"<Close><End of Block>
+<TextBlock 5 w:26 h:3>
+Bart
+"Margie…<Delay 30>
+Lì dentro…!"<Close><End of Block>
+<TextBlock 6 w:38 h:2>
+Fei
+"Comunque, andiamo!"<Close><End of Block>
+<TextBlock 7 w:36 h:2>
+Shakhan
+"Ce l'avevo
+quasi fatta!"<Close><End of Block>
+<TextBlock 8 w:36 h:4>
+Bart
+"Ehi!<Delay 30>
+Non te ne andrai
+via di qui!"<Close><End of Block>
+<TextBlock 9 w:44 h:3>
+Bart
+"Quel cretino non
+andrà da nessuna
+parte!"<Close><End of Block>
+<TextBlock 10 w:50 h:4>
+Shitan
+"Giovane, aspetta!
+Sei sicuro che
+Margie stia bene?"<Close><End of Block>
+<TextBlock 11 w:32 h:2>
+Bart
+"Uh… oh, già!"<Close><End of Block>
+<TextBlock 12 w:38 h:4>
+Bart
+"Ehi, Margie…<Delay 30> tutto
+OK? Margie!<Delay 30>
+Margie, svegliati!!"<Close><End of Block>
+<TextBlock 13 w:20 h:2>
+Bart
+"Margie!!"<Close><Close><End of Block>

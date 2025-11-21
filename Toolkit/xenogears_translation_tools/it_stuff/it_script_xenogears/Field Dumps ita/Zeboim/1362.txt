@@ -1,0 +1,40 @@
+<TextBlock 1 w:54 h:4>
+" Oh, ricettacolo per
+  una nuova anima! Possa
+  l'anima che risiede in
+  te conseguire la pace. "<Close><End of Block>
+<TextBlock 2 w:42 h:3>
+Elly
+"Shitan…<Delay 45>
+Chi… sono io…?<New>
+Che sto facendo?
+Che sto dicendo…?"<Close><End of Block>
+<TextBlock 3 w:38 h:4>
+Shitan
+"…<Delay 90>
+È inutile, ci serve
+una parola chiave…"<Close><End of Block>
+<TextBlock 4 w:48 h:3>
+Shitan
+"… È ben nascosto…<Delay 35>
+tra gli intervalli
+di dati…<New>
+No… 'fuggire'?…
+… 'di mia spontanea
+volontà'… Ma che
+cosa è?"<Close><End of Block>
+<TextBlock 5 w:46 h:4>
+Shitan
+"…<Delay 90>
+Ma questo computer…
+è impazzito…?<New>
+No, una registrazione
+strutturale di vita…<New>
+No, non di vita…
+Di una forma di vita…
+Un organismo…"<Close><End of Block>
+<TextBlock 6 w:38 h:4>
+Shitan
+"No, Elly!
+Non sappiamo cosa
+potrebbe succedere!"<Close><Close><End of Block>

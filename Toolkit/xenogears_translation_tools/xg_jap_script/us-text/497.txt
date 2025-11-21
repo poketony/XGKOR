@@ -1,0 +1,324 @@
+#### 1 ####
+Fei, hang in there!{clear:3C}
+
+#### 2 ####
+Fei
+"...{wait:14}...{wait:14}...{wait:14}...{wait:14}
+Y...you traitor!!"
+
+#### 3 ####
+Fei
+"Don't stop, Bart!!
+He betrayed us!
+He betrayed us and Elly!"
+
+#### 4 ####
+Fei
+"Let go!
+Lemme go!"
+
+#### 5 ####
+Fei
+"Billy!?..."
+
+#### 6 ####
+Fei
+"What...
+But doc was just...
+Is that true?"
+
+#### 7 ####
+Fei
+"Doc?"
+
+#### 8 ####
+Fei
+"I see how it is..."
+
+#### 9 ####
+Fei
+"For sure?"
+
+#### 10 ####
+Fei
+"...?"
+
+#### 11 ####
+Fei
+"Wait!
+What happened to Elly?
+Weren't you with her?"
+
+#### 12 ####
+Fei
+"Why only Elly...?"
+
+#### 13 ####
+Fei
+"Is that why...Elly...?"
+
+#### 14 ####
+Fei
+"What about doc...?"
+
+#### 15 ####
+Fei
+"Doc!
+A sword...?"
+
+#### 16 ####
+Fei
+"...I see...
+...But..."
+
+#### 17 ####
+Fei
+"You're always so
+mischievous, doc..."
+
+#### 18 ####
+Bart
+"Fei, you're conscious?
+Now! Let's go!"
+
+#### 19 ####
+Bart
+"S, stop!  Fei!"
+
+#### 20 ####
+Bart
+"Stop! Fei!
+It's your mistake!"
+
+#### 21 ####
+Bart
+"Hmph...{wait:20}
+If Billy says it you 
+listen..."
+
+#### 22 ####
+Bart
+"Listen very carefully!{enter}
+That Limiter is implanted
+in our bodies.{enter}
+Right now,
+this research facility
+is the only place where
+we can get them removed!{enter}
+Citan misled Krelian and
+the other guys and brought
+us in here to remove the
+Limiter!"
+
+#### 23 ####
+Bart
+"Yeah!"
+
+#### 24 ####
+Bart
+"By the way, Citan.
+You did remove Fei's
+Limiter, didn't you?"
+
+#### 25 ####
+Bart
+"Alright then. 
+Let's get out of here!"
+
+#### 26 ####
+Bart
+"I don't care what the
+reason is! For now,{enter}
+let's help Elly and
+get out of here fast!"
+
+#### 27 ####
+Bart
+"Yo! Citan!
+Let me handle Fei and
+Elly's situation!{enter}
+Now that the Limiter is
+removed, Solaris doesn't
+stand a chance!"
+
+#### 28 ####
+Bart
+"A...are you serious...?"
+
+#### 29 ####
+Billy
+"Calm down, Fei! {enter}
+Bart isn't lying,
+Citan is the one
+who helped us!"
+
+#### 30 ####
+Billy
+"There's no Limiter?
+Isn't that because Elly is 
+from Solaris?"
+
+#### 31 ####
+Billy
+"You're right.{enter}
+If we mess up here,
+I put those guys who went
+to help Elly's parents in
+danger."
+
+#### 32 ####
+Billy
+"Citan, we're going to
+Krelian's private
+research lab as planned.{enter}
+We'll meet up at
+the rendezvous point."
+
+#### 33 ####
+Citan
+"That is not the only
+reason why I brought
+you here.{enter}
+Those who want to
+become independent
+from Solaris{enter}
+must know the actual
+situation and
+its true form.{enter}
+Who is doing what and why."
+
+#### 34 ####
+Citan
+"Ostensibly,{enter}
+I received a covert
+order from the Emperor
+to contact the body{enter}
+wanted by the Ministry
+and send the data...{enter}
+and if possible bring
+the body back.{enter}
+That was my duty.
+As a result, I had no
+choice but to deceive you.
+Please forgive me."
+
+#### 35 ####
+Citan
+"Besides,{enter}
+I myself had
+a matter that had be
+verified in this
+facility..."
+
+#### 36 ####
+Citan
+"I'll tell you that after
+we escape from here.{enter}
+It is something you must
+know."
+
+#### 37 ####
+Citan
+"...What?"{wait:20}
+Y...yes, of course...
+That is..."
+
+#### 38 ####
+Citan
+"Elly was taken to
+Krelian's research lab.
+It could not be stopped.{enter}
+I am sorry."
+
+#### 39 ####
+Citan
+"I do not know...{enter}
+But one thing bothers
+me...When Krelian took
+Elly,{enter}
+I had a chance to acquire
+Elly's cellular
+information.{enter}
+I analyzed it and found
+something very interesting
+...Excuse me, I mean...
+unusual.{enter}
+There is no 
+Limiter implanted in her."
+
+#### 40 ####
+Citan
+"Even Solaris citizens
+have a Limiter implanted
+when they are born.{enter}
+There are exceptions for
+certain people like myself
+and Ramsus,{enter}
+whose Limiters can be
+removed later on through
+the treatment such as the
+one I did for Bart.{enter}
+But you must
+have permission from the
+Ministry to do so."
+
+#### 41 ####
+Citan
+"There must be more to it
+than that. I don't know
+the reason,{enter}
+but Krelian is so
+absorbed by her data."
+
+#### 42 ####
+Citan
+"There is still something
+left to be done. I will go
+destroy the last gate."
+
+#### 43 ####
+Citan
+"Oh, yes! By the way, young
+one, about the effects of
+removing the Limiter...{enter}
+The results will not show
+up that quickly. Already
+your physical Limiters have
+been removed naturally.{enter}
+The part I have removed is
+the psychological section.{enter}
+That is...the subconscious
+fear and veneration for the
+Ministry and the emperor
+have been removed.{enter}
+Basically, you will be able
+to battle against them
+without any fears or
+hesitations.{enter}
+It is not that you have
+suddenly become more
+powerful."
+
+#### 44 ####
+Citan
+"...Yes.
+Yui gave it to me as
+I was leaving.{enter}
+I used to use it before
+I met her.{wait:0A} For a long time
+I vowed not to use it for
+killing though.{enter}
+But now is not the time to
+contemplate morals. It is
+not fair for me to be the
+only 'innocent' one."
+
+#### 45 ####
+Citan
+"Yes?"
+
+#### 46 ####
+Citan
+"It is in my nature.
+I am sorry, forgive me."
+

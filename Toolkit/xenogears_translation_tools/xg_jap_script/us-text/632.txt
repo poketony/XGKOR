@@ -1,0 +1,35 @@
+#### 1 ####
+Fei
+"Why do you suddenly
+want to fight for? Are
+you crazy or something?"
+
+#### 2 ####
+Fei
+"Whoa!"
+
+#### 3 ####
+Fei
+"Y, you're
+serious?"
+
+#### 4 ####
+Fei
+"Ugh uhh...{wait:1E} That's the
+same technique as me...!{wait:1E}
+How come...?"
+
+#### 5 ####
+Wiseman
+"Enough talk!
+Take this...!"
+
+#### 6 ####
+Wiseman
+"Of course!
+So put up a
+good fight!{enter}
+Cause if you
+don't your life
+is mine!"
+

@@ -1,0 +1,19 @@
+#### 1 ####
+Citan
+"This floor is
+completely active."
+
+#### 2 ####
+'Increasing atmospheric
+pressure' Please wait.{clear:32}
+
+#### 3 ####
+'Pressure increased'{clear:20}
+
+#### 4 ####
+'Decreasing pressure'
+Please wait.{clear:32}
+
+#### 5 ####
+'Pressure decreased'{clear:20}
+

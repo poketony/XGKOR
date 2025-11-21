@@ -1,0 +1,34 @@
+#### 1 ####
+Elly
+"It doesn't flush well..."
+
+#### 2 ####
+Bart
+"It flushes bad..."
+
+#### 3 ####
+Rico
+"It flushes badly..."
+
+#### 4 ####
+Citan
+"It doesn't flush well..."
+
+#### 5 ####
+Elly
+"Hey,{wait:0A}
+Something's in the 
+toilet."{enter}
+(But there's no way
+I'm touching it)
+
+#### 6 ####
+Received dirty prize!
+
+#### 7 ####
+It's dirty, so I put
+it back!
+
+#### 8 ####
+
+

@@ -1,0 +1,209 @@
+#### 1 ####
+nam 00
+
+#### 2 ####
+Laddie!?
+
+#### 3 ####
+...!
+
+#### 4 ####
+Yes, somehow...
+
+#### 5 ####
+Oh yes, Shakhan?{wait:1E}
+No, I haven't seen him...{enter}
+The only people that came
+here were those soldiers
+that threatened me to
+stay quiet...{wait:1E}{enter}
+I'm sorry laddie.{wait:1E}
+If only I'd been braver.
+
+#### 6 ####
+The town's OK now.
+Let's go back up!
+
+#### 7 ####
+Collect all your
+belongings!
+
+#### 8 ####
+Laddie,{wait:1E}
+be careful out there!{enter}
+I know you'll make it ok.{enter}
+And when you do...{wait:1E}
+you have to promise that
+you'll come out and
+announce who you are.{enter}
+I want to see you stand
+on the terrace of Castle
+Fatima, proudly!
+
+#### 9 ####
+You gotta win lad.{enter}
+You've got my support!
+
+#### 10 ####
+nam 01
+
+#### 11 ####
+nam 02
+
+#### 12 ####
+nam 03
+
+#### 13 ####
+nam 04
+
+#### 14 ####
+nam 05
+
+#### 15 ####
+It's Bartholomew!{enter}
+Marguerite is with him
+too!
+
+#### 16 ####
+Hey, everyone!{wait:1E}
+It's OK!
+
+#### 17 ####
+Bartholomew,{wait:1E}
+you're indeed powerful.{enter}
+I've seen you come and go
+from time to time and I
+didn't think much of it.{enter}
+Exactly who are you?
+
+#### 18 ####
+You're going to defeat
+Shakhan!?
+The...{wait:1E}late
+king...?
+
+#### 19 ####
+Then you're...
+
+#### 20 ####
+nam 06
+
+#### 21 ####
+nam 07
+
+#### 22 ####
+nam 08
+
+#### 23 ####
+nam 09
+
+#### 24 ####
+The ground...{wait:1E}
+What's happening to
+the town now!?
+
+#### 25 ####
+Is that true!?
+
+#### 26 ####
+    Up
+    Exit
+
+#### 27 ####
+ ! 
+
+#### 28 ####
+Bart
+"They've gotten this
+far!"
+
+#### 29 ####
+Bart
+"The casket!?{wait:1E}
+Is Margie's mother
+safe!?"
+
+#### 30 ####
+Margie
+"It's fine!{wait:1E}
+She hasn't been touched."
+
+#### 31 ####
+Bart
+"Whew...{wait:1E} OK.{wait:1E}
+What a relief."
+
+#### 32 ####
+Bart
+"Is everyone...{wait:1E}OK?"
+
+#### 33 ####
+Bart
+"Shakhan...{wait:1E}
+Where did he go!?"
+
+#### 34 ####
+Bart
+"He isn't here yet{wait:1E}
+...that's odd."
+
+#### 35 ####
+Bart
+"I took care of upstairs.{wait:1E}
+It's OK to go back!"
+
+#### 36 ####
+Bart
+"Everyone, I need your
+attention! My..."
+
+#### 37 ####
+Bart
+"...My friends are
+currently headed for
+Bledavik.{enter}
+They're on a mission to
+take down Shakhan from
+his seat of power."
+
+#### 38 ####
+Bart
+"There is a need to
+rebuild this country from
+scratch again.{enter}
+I've,{wait:1E} I've
+inherited that task from
+our late king."
+
+#### 39 ####
+Bart
+"If all goes well, we'll
+soon be able to make
+it a reality.{enter}
+Please, believe me,
+and wait for me."
+
+#### 40 ####
+Bart
+"..."
+
+#### 41 ####
+Bart
+"I don't know what
+happened or what made me
+say the things I did.{enter}
+That wasn't like me to
+say that stuff..."
+
+#### 42 ####
+Margie
+"You could have just
+told them that you were
+{wait:1E}the prince."
+
+#### 43 ####
+Bart
+"No,{wait:1E} I can't do that yet.{enter}
+I need to fulfill my
+father's last request."
+

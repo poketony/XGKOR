@@ -1,0 +1,6 @@
+<TextBlock 1 w:46 h:2>
+Ehi, c'è un bancone,
+sai! Certa gente…<Close><End of Block>
+<TextBlock 2 w:44 h:2>
+La prossima volta
+parlami dal bancone.<Close><Close><End of Block>

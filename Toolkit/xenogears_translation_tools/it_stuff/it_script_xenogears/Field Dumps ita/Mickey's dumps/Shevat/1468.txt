@@ -1,0 +1,133 @@
+<TextBlock 1 w:46 h:3>
+Fei
+"Argh!<Delay 20>
+Non devo perderlo."<Close><End of Block>
+<TextBlock 2 w:26 h:3>
+Fei
+"Argh!<Delay 20>
+Arriviamo!"<Close><End of Block>
+<TextBlock 3 w:48 h:4>
+Fei
+"Siamo sicuri che
+possiamo pescare?<Delay 20>
+Anche senza esca?"<Close><End of Block>
+<TextBlock 4 w:10 h:2>
+Fei
+"…"<Opcode 2 30><Close><End of Block>
+<TextBlock 5 w:40 h:3>
+Fei
+"Uh!?<Delay 20> Il pesce
+ha abboccato!"<Close><End of Block>
+<TextBlock 6 w:46 h:4>
+Cosa vuoi fare?<Delay 20>
+    Tiri la lenza
+    Controlli
+    Sii paziente<Close><End of Block>
+<TextBlock 7 w:38 h:2>
+Fei
+"Ok, arriviamo!"<Close><End of Block>
+<TextBlock 8 w:22 h:2>
+Fei
+"Ce l'ho fatta!"<Close><End of Block>
+<TextBlock 9 w:34 h:3>
+Fei
+"Merda!<Delay 20>
+Ha spezzato la lenza!"<Close><End of Block>
+<TextBlock 10 w:22 h:2>
+Fei
+"Ce l'ho fatta!"<Close><End of Block>
+<TextBlock 11 w:28 h:3>
+Fei
+"Ok, allora…
+Così…"<Close><End of Block>
+<TextBlock 12 w:50 h:4>
+Fei
+"Mmh…<Delay 20>
+Funzionerà…?<New>
+La tecnica dell'esperto
+è quella di capire i
+movimenti del pesce…<New>
+… e di farlo tirare
+allo stesso tempo!"<Close><End of Block>
+<TextBlock 13 w:34 h:3>
+Fei
+"Merda!<Delay 20>
+Ha spezzato la lenza!"<Close><End of Block>
+<TextBlock 14 w:46 h:3>
+Fei
+"Mmh…<Delay 20>
+Ci siamo quasi…<New>
+Sento una forte toccata
+sulla lenza…<Delay 20>
+È uno grosso."<Close><End of Block>
+<TextBlock 15 w:42 h:3>
+Fei
+"Va bene…
+Vietato perdere
+la pazienza!"<Close><End of Block>
+<TextBlock 16 w:44 h:4>
+Fei
+"Mmh… non ancora…?<Delay 20><Space 1>
+È la tenacia che
+fa la differenza."<Close><End of Block>
+<TextBlock 17 w:26 h:3>
+Fei
+"Eh…!?<Delay 20>
+Ma che…?"<Close><End of Block>
+<TextBlock 18 w:34 h:3>
+Fei
+"Merda!<Delay 20>
+Ha spezzato la lenza!"<Close><End of Block>
+<TextBlock 19 w:26 h:3>
+Fei
+"…<Delay 20>
+Ecco, ora!!"<Close><End of Block>
+<TextBlock 20 w:42 h:4>
+Fei
+"Non posso crederci!<Delay 20>
+Ora, apri la bocca
+e lasciami vedere…<New>
+Trovata!<Delay 20>
+Evvai!"<Close><End of Block>
+<TextBlock 21 w:50 h:3>
+Fei
+"…<Delay 30> Non mi scapperai
+così facilmente…!!"<Close><End of Block>
+<TextBlock 22 w:40 h:3>
+Fei
+"Eh-eh!
+Una buona pesca!"<Close><End of Block>
+<TextBlock 23 w:56 h:4>
+Sì, sì…<Delay 50>
+Sto ascoltando, caro.<New>
+Mi ricordo i vecchi tempi.<Delay 60>
+Qui è dove noi avemmo
+il nostro primo
+appuntamento, vero?<New>
+E ricordo che in quel
+giorno, caro, mi leggesti
+una poesia che dicesti di
+aver scritto tu…<New>
+Pensai a quanto fosse
+divertente che esistesse
+ancora una persona così
+romantica…<Delay 30>
+Ne fui così contenta…<New>
+Nulla è cambiato qui…<Delay 60>
+Le cose importanti non
+possono essere portate
+via da nessuno…<Close><End of Block>
+<TextBlock 24 w:36 h:2>
+Hai già ricevuto
+la Roccia Notte.<Close><End of Block>
+<TextBlock 25 w:36 h:1>
+Persa Ragnatela…<Close><End of Block>
+<TextBlock 26 w:38 h:1>
+Ricevi Roccia Notte!<Close><End of Block>
+<TextBlock 27 w:44 h:2>
+Lasci libero il pesce
+che avevi catturato.<Close><End of Block>
+<TextBlock 28 w:42 h:3>
+Vuoi salire?<Delay 10>
+    Sì
+    No<Close><Close><End of Block>

@@ -1,0 +1,60 @@
+#### 1 ####
+Elly
+"This is..."
+
+#### 2 ####
+Elly
+"This is..."
+
+#### 3 ####
+Billy
+"The Anima Relic..."
+
+#### 4 ####
+Billy
+"The Anima Relic..."
+
+#### 5 ####
+Billy
+"Who is it?
+Who's calling me?{enter}
+I don't know.
+I don't know...{enter}
+What should I do...?
+You were waiting?
+For me...?"
+
+#### 6 ####
+Billy
+"Who is it?
+Who's calling me?{enter}
+I don't know.
+I don't know...{enter}
+What should I do...?
+You were waiting?
+For me...?"
+
+#### 7 ####
+Fei
+"Billy?"
+
+#### 8 ####
+Billy
+"Did you see that?
+It looked like...
+my Gear?"
+
+#### 9 ####
+Billy
+"Did you see that?
+It looked like...
+my Gear?"
+
+#### 10 ####
+Fei
+"Maybe something has
+happened to your Gear.{enter}
+Let's head for the exit
+and see if any change
+has taken place."
+

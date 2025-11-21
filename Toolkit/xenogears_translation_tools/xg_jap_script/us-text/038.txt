@@ -1,0 +1,207 @@
+#### 1 ####
+Citan
+"Why, this man sure
+likes to make his
+presence felt!"
+
+#### 2 ####
+Big Joe
+"{wait:0A}...{wait:0A}Hic{wait:1E}...{wait:0A}
+Where's your friend?{enter}
+There's a war on in the
+desert and he just goes
+wandering off there?{enter}
+If your friends are
+important to you, then
+don't let them get away.{enter}
+Especially if it's a
+lady friend...
+Gahahaha!"
+
+#### 3 ####
+Big Joe
+"{wait:0A}...{wait:0A}hic{wait:0A}...{wait:1E}
+{wait:1E}You drinkin' too?{enter}
+Booze is my life companion!{wait:1E}
+Especially in a sucky
+world like this.{enter}
+Everyone's searching for
+dough and dynamite... 
+Ha, how unromantic."
+
+#### 4 ####
+Big Joe
+"Me? {enter}
+What am I doing here?{enter}
+...Whatever I please,
+I guess."
+
+#### 5 ####
+Big Joe
+"You think you know 
+about yourself?{enter}
+I could introduce myself
+right now, and by tomorrow
+be a different person.{enter}
+If you didn't understand
+that, I'll repeat...{wait:1E}
+...Hic!{wait:1E}{enter}
+Don't count your chickens 
+before they hatch."
+
+#### 6 ####
+"Shaddap!!"
+
+#### 7 ####
+"...hic..."
+
+#### 8 ####
+Why're you all yappin'
+when Big Joe is here
+trying to drink in peace?{enter}
+Can't ya'll shuddup...?{wait:0A}
+...{wait:0A}Hic!
+
+#### 9 ####
+Big Joe
+"Gahahahahaha!"
+
+#### 10 ####
+Big Joe
+"Yeah, you sure talk big.{enter}
+Can you dig for treasure
+as good as you talk?"
+
+#### 11 ####
+Big Joe
+"You're so tough...{enter}
+Always lookin' for junk 
+laying around... Why don't
+you do somethin' more
+productive for once!?"
+
+#### 12 ####
+Big Joe
+"Gahahahaha!{wait:14} 
+That's right... Run home 
+to momma, little boys!"
+
+#### 13 ####
+Big Joe
+"Ha! {wait:14}
+Cowardly little
+punks!"
+
+#### 14 ####
+Lately...{wait:1E}we haven't
+had much luck, have we?
+
+#### 15 ####
+Ha-ha! We did it!{clear:1E}
+
+#### 16 ####
+I didn't think it
+would go so well...{clear:1E}
+
+#### 17 ####
+Follow after the army
+excavation teams...{clear:1E}
+
+#### 18 ####
+and steal their treasure!{clear:1E}
+
+#### 19 ####
+Wahahahahahha.{clear:1E}
+
+#### 20 ####
+Who'dya think ya are?{enter}
+I don't care if you're
+Big Joe or Big Shmoe!
+You don't mess with me!
+
+#### 21 ####
+What's that ya'say!?
+
+#### 22 ####
+If you ask me, 
+You're a big pus--!
+
+#### 23 ####
+Aw, shawdup!
+Just shut your trap!
+
+#### 24 ####
+Uwup...!{enter}
+Da-damn you! 
+You'll keep!
+
+#### 25 ####
+I'm wondering whether
+I should give up this
+job some time soon...
+
+#### 26 ####
+Yeah, we did it!{clear:1E}
+
+#### 27 ####
+Who'd have thought it?{clear:1E}
+
+#### 28 ####
+Sneaking in the night...{clear:1E}
+
+#### 29 ####
+Just like that... Poof!{clear:1E}
+
+#### 30 ####
+Gyahahahahaha.{clear:1E}
+
+#### 31 ####
+Hey, stop it...{enter}
+This guy's trouble.{enter}
+He's lookin' wild...
+
+#### 32 ####
+Hicc!
+
+#### 33 ####
+10G a night...
+Wanna stay?
+    Yes
+    No
+
+#### 34 ####
+You don' have enough 
+money. Get out!
+
+#### 35 ####
+  - Menu -
+ 
+  Bledavik Beer
+  Aveh Ale
+  Hob-Jerky
+  Cheese Plate
+
+#### 36 ####
+Fei
+"...This sure is
+a noisy place!"
+
+#### 37 ####
+Citan
+"Well, in a place like
+this you have to expect
+this kind of atmosphere."
+
+#### 38 ####
+Fei
+"Yeah, but even so..."
+
+#### 39 ####
+Yikes!{clear:19}
+
+#### 40 ####
+Heh heh.
+Booze is great, ain't it?{enter}
+I just live for that
+first drink after work.
+

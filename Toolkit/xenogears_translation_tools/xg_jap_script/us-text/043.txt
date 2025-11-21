@@ -1,0 +1,19 @@
+#### 1 ####
+?
+
+#### 2 ####
+You have too many
+{str}.
+
+#### 3 ####
+ 
+ Received {str}.
+
+#### 4 ####
+You have too many
+{str}.
+
+#### 5 ####
+ 
+ Received {str}.
+

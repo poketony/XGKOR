@@ -1,0 +1,240 @@
+<TextBlock 1 w:50 h:3>
+"Ah, Bartolomeo.<Delay 10>
+Tutti i Gear sono a
+bordo dell'Yggdrasil."<Close><End of Block>
+<TextBlock 2 w:52 h:4>
+Buon lavoro.<Delay 10>
+Senza il tuo sostegno,
+questa base non sarebbe
+qui. Saliamo a bordo
+dell'Yggdrasil.<Close><End of Block>
+<TextBlock 3 w:30 h:1>
+Grazie, signore!!<Close><End of Block>
+<TextBlock 4 w:50 h:4>
+Questo Gear si chiama
+<Heimdal>. È stato
+riportato alla luce
+assieme a <Brigandier>.<New>
+Ma non siamo mai riusciti
+a farlo funzionare molto
+bene.<New>
+Tre piloti collaudatori
+sono stati feriti nel
+provarlo.<New>
+Credo che nessuno possa
+domarlo.<Close><End of Block>
+<TextBlock 5 w:60 h:2>
+<Brigandier> rappresenta
+la speranza per noi pirati.<New>
+Il rosso splendente del suo
+corpo rappresenta l'ambizione
+di Bart.<New>
+Ma poiché Bart esagera sempre,
+la manutenzione di questo
+Gear è una sofferenza.<Close><End of Block>
+<TextBlock 6 w:68 h:3>
+Questo è un modello prodotto
+in massa basandosi sul Gear
+di Bart, <Brigandier>.<New>
+È stato semplificato
+per ridurne i costi.<New>
+Se li doti di una buona
+messa a punto, non sono
+affatto male.<Delay 10> È in quel
+momento che possiamo davvero
+dimostrare le nostre abilità.<Close><End of Block>
+<TextBlock 7 w:44 h:3>
+No, i dati caratteristici di
+questo Gear sono sconosciuti…<Delay 10><New>
+È questa roba è qualcosa
+che non riesco a capire.<Close><End of Block>
+<TextBlock 8 w:54 h:4>
+Sembra che qualcuno sapesse
+davvero come fare una messa
+a punto sul tuo Gear…<New>
+Attacco,<Delay 10> difesa,<Delay 10> 
+amplificazione dell'Etere…<Delay 10> 
+Un veicolo eccezionalmente
+bilanciato.<New>
+Ma sembra che non siamo
+in grado di smontare
+alcune parti per vedere
+che cosa facciano…<New>
+Credo che si possano
+chiamare<Delay 5>…<Delay 10> scatole nere.<New>
+Ce ne sono un bel po'
+su questo veicolo<Delay 5>…<Delay 10> 
+Hai qualche idea su
+cosa facciano in realtà?<Close><End of Block>
+<TextBlock 9 w:14 h:2>
+Fei
+"<Opcode 14 2>No…"<Close><End of Block>
+<TextBlock 10 w:44 h:3>
+Questo è il tuo Gear,
+vero?<Delay 10> Vale proprio
+la pena giocarci!<New>
+Fa uso di una tecnologia
+incredibile.<New>
+Voglio dargli un po'
+un'occhiata, perciò
+puoi tornare dopo?<Close><End of Block>
+<TextBlock 11 w:44 h:4>
+Finalmente tutti i
+Gear sono a bordo
+dell'Yggdrasil.<Delay 10>
+Anche il tuo lo è.<Close><End of Block>
+<TextBlock 12 w:48 h:4>
+Capo, facciamo un po'
+di casino con i Gear…
+I bravi meccanici devono
+fare pratica!<Close><End of Block>
+<TextBlock 13 w:32 h:2>
+Vado al prossimo
+hangar.<Close><End of Block>
+<TextBlock 14 w:26 h:1>
+Grazie, Fei!!<Close><End of Block>
+<TextBlock 15 w:32 h:2>
+Wow!<Delay 10>
+Pulire è divertente!<Close><End of Block>
+<TextBlock 16 w:16 h:1>
+Grazie!!<Close><End of Block>
+<TextBlock 17 w:42 h:2>
+Quando cresco, voglio
+essere un pilota…<Close><End of Block>
+<TextBlock 18 w:32 h:3>
+Shitan
+"Maison, questo
+Gear funziona?"<Close><End of Block>
+<TextBlock 19 w:32 h:3>
+Maison
+"Pardon? <Delay 10>Sì,
+funziona, ma…"<Close><End of Block>
+<TextBlock 20 w:16 h:1>
+Bene!<Close><End of Block>
+<TextBlock 21 w:44 h:4>
+Maison
+"È fuori discussione!<Delay 10>
+Esso è ancora sotto
+manutenzione.<New>
+Non è affatto 
+in funzione…"<Close><End of Block>
+<TextBlock 22 w:46 h:2>
+Sigurd
+"Va tutto bene,
+Maison."<Opcode 2 40><Close><End of Block>
+<TextBlock 23 w:40 h:4>
+Maison
+"Padron Sigurd…<Delay 10>!<New>
+Ma… per un gentiluomo
+come il nostro buon
+dottore…?"<Close><End of Block>
+<TextBlock 24 w:36 h:3>
+Sigurd
+"È tutto a posto,
+Maison.<Delay 10> Lui non
+avrà problemi.<New>
+Per lui, questo Gear
+potrebbe anche non
+essere abbastanza."<Close><End of Block>
+<TextBlock 25 w:34 h:1>
+Padron Sigurd…?<Close><End of Block>
+<TextBlock 26 w:44 h:4>
+Shitan
+"Bene<Delay 10>…<New>
+L'ultima volta che ho
+combattuto è stata
+cinque anni fa…<New>
+Spero di ricordare
+ancora…"<Close><End of Block>
+<TextBlock 27 w:10 h:2>
+Fei
+"…"<Close><End of Block>
+<TextBlock 28 w:10 h:1>
+Fei!<Opcode 2 30><Close><End of Block>
+<TextBlock 29 w:30 h:3>
+Fei
+"Sigurd, Doc…<Delay 10>
+Cosa c'è…?"<Close><End of Block>
+<TextBlock 30 w:28 h:4>
+Sigurd
+"Vorremmo scambiare
+due parole con te…"<Close><End of Block>
+<TextBlock 31 w:22 h:2>
+Fei
+"Ah, ok!"<Close><End of Block>
+<TextBlock 32 w:32 h:3>
+Bart
+"…<Delay 10>
+Gra…<Delay 10> gra…<Delay 10> grazie…<Delay 10><Space 3><Close><End of Block>
+<TextBlock 33 w:20 h:3>
+Bart
+"Grazie…<Delay 10>
+Fei."<Close><End of Block>
+<TextBlock 34 w:18 h:2>
+Fei
+"Bart…"<Close><End of Block>
+<TextBlock 35 w:52 h:4>
+Sigurd
+"Ti ringrazio, Fei.<Delay 10>
+Non so come avremmo potuto
+farcela senza di te…"<Close><End of Block>
+<TextBlock 36 w:30 h:4>
+Fei
+"Io…<Delay 10> ancora
+non so cosa
+dovrei fare."<Close><End of Block>
+<TextBlock 37 w:16 h:2>
+Sigurd
+"Fei…"<Close><End of Block>
+<TextBlock 38 w:42 h:4>
+Fei
+"Ciò che Bart sta
+facendo non è per un
+suo guadagno personale.<New>
+Segue la strada in
+cui crede, un passo
+alla volta…<New>
+… desiderando solo la
+felicità di quelli
+attorno a lui. Io,
+d'altra parte…"<Close><End of Block>
+<TextBlock 39 w:12 h:2>
+Sigurd
+"…"<Close><End of Block>
+<TextBlock 40 w:48 h:4>
+Fei
+"Pensavo che io non avessi
+una strada che potessi
+distendere davanti a me.<New>
+Ma, come ha detto,
+questo è soltanto
+scappare.<Delay 10><New>
+Devo trovare la mia
+strada.<Delay 10>
+Giusto, Doc?"<Close><End of Block>
+<TextBlock 41 w:52 h:4>
+Fei
+"Se Bart vuole,
+collaborerò con voi.<Delay 10><New>
+Questo è tutto quello
+che posso fare al momento.<New>
+Ma penso che troverò
+la strada che dovrei
+seguire aiutando altra
+gente come voi.<New>
+Inoltre…<Delay 10>…<Delay 10>…<New>
+Non posso voltare
+le spalle e…<New>
+… ignorare ciò che un
+gruppo così terribile
+di persone sta facendo 
+ad altra gente."<Close><End of Block>
+<TextBlock 42 w:26 h:2>
+Sigurd
+"Grazie, Fei."<Close><End of Block>
+<TextBlock 43 w:36 h:3>
+<Opcode 1 255>Sali al molo?
+    Sali
+    No<Close><End of Block>
+<TextBlock 44 w:0 h:1>
+<Close><End of Block>

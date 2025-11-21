@@ -1,0 +1,173 @@
+<TextBlock 1 w:46 h:3>
+Ehi, qui ho ogni tipo
+di roba interessante.<Delay 20>
+Ehi, vi serve qualcosa?<Close><End of Block>
+<TextBlock 2 w:48 h:3>
+Ehi, mille grazie!<Delay 20>
+Tornate ogni volta che
+vi serve qualcosa… ehi!?<Close><End of Block>
+<TextBlock 3 w:34 h:3>
+Ehi-ehi, benvenuti.
+Cosa posso fare per
+voi, oggi, ehi?<Close><End of Block>
+<TextBlock 4 w:24 h:2>
+Ehi, grazie.
+Ritornate.<Close><End of Block>
+<TextBlock 5 w:50 h:4>
+Fa un freddo maledetto.<Delay 20>
+Io odio il freddo!
+Mi sta uccidendo…<New>
+Se la temperatura continua
+a scendere di questo passo,
+saremo tutti congelati
+prima che Deus possa
+ucciderci.<Close><End of Block>
+<TextBlock 6 w:52 h:4>
+Noi, gente di Shevat, abbiamo
+sempre sognato di scendere e
+vivere sulla superficie del
+nostro pianeta…<New>
+Ma non avremmo mai immaginato
+che questo sogno si sarebbe
+realizzato in questo modo!<Delay 20>
+… È una cosa insopportabile!<Close><End of Block>
+<TextBlock 7 w:52 h:5>
+Anche se questa base è
+l'ultimo rifugio per
+gli uomini…<Delay 20> come puoi
+sicuramente vedere, non
+abbiamo quasi nessuna
+provvista.<New>
+Comunque, stiamo usando
+come base principale di
+questo posto un pezzo
+di Shevat precipitato<Delay 20>…<New>
+Ma, probabilmente,
+l'avrete già capito, eh.<New>
+Se potessimo far fuori
+Deus il prima possibile…<Delay 20>
+Non possiamo sopravvivere
+a lungo, continuando in
+questo modo.<Close><End of Block>
+<TextBlock 8 w:56 h:5>
+Aveh, Kislev, Nisan…<New>
+Siamo stati in guerra per
+così tanto tempo, ma, alla
+fine, ci stiamo riunendo
+in un unico paese, in
+questo modo…<New>
+Ma, probabilmente, è già
+troppo tardi…<Delay 20>
+È sempre così.
+Non appena ci si accorge
+di qualcosa, è sempre
+troppo tardi.<New>
+Come potremmo affrontare
+l'armata di dio?<Delay 20>
+La situazione è senza
+speranza.<Close><End of Block>
+<TextBlock 9 w:52 h:4>
+Così tanti sono morti…<Delay 20>
+Se tutto ciò continuerà,
+altri ancora moriranno.<New>
+È come 500 anni fa.<Delay 20>
+Quella tragedia e quella
+sofferenza si stanno
+nuovamente ripetendo…<New>
+Cosa succederà al
+nostro mondo…?<Delay 20>
+Cosa accadrà a noi…!?<Close><End of Block>
+<TextBlock 10 w:50 h:3>
+Brucia, brucia…!<Delay 20>
+Brucia il mondo
+intero…!<New>
+La mia casa, tutta
+la mia famiglia…
+Distrutte da loro…<New>
+Che me ne importa,
+ormai, brucia tutto!!
+Ahahahah…<Close><End of Block>
+<TextBlock 11 w:50 h:3>
+Non sarà che siamo nati
+solo per morire…?<New>
+Cosa ci accadrà ora?<Delay 20>
+E a questo mondo…?<New>
+Non possiamo andare
+avanti se non bevendo…<Delay 20>
+Tutto è spaventoso
+e triste…<Close><End of Block>
+<TextBlock 12 w:44 h:2>
+Hai detto che ti serve
+qualcos'altro?<Close><End of Block>
+<TextBlock 13 w:44 h:3>
+Ehi, amico, ti
+serve qualcosa?<New>
+Se ti serve qualcosa,
+parlami al bancone.<New>
+Le cose le devo fare in
+modo chiaro, altrimenti
+mi irrito.<Close><End of Block>
+<TextBlock 14 w:44 h:3>
+Ehi, amico!
+Ti serve qualcosa?<Delay 20>
+Ehi, aspetta un attimo!<Close><End of Block>
+<TextBlock 15 w:46 h:5>
+Grazie. Torna ancora
+che ti faccio fare
+i migliori affari.<Delay 20>
+(Sì… Meglio tu
+che me… Ahah!)<Close><End of Block>
+<TextBlock 16 w:50 h:3>
+Non ti ridarò i tuoi soldi!<Delay 20>
+Sono fuggiti dopo che te
+li ho venduti.<Close><End of Block>
+<TextBlock 17 w:54 h:3>
+Ehi, questi Picotili
+non sono carini?<Delay 20>
+Sono 'Picolini' e a
+buon prezzo! Che ne dici?<Close><End of Block>
+<TextBlock 18 w:46 h:3>
+Vuoi comprare i miei Picotili?<Delay 20>
+    Compra i Picotili!
+    Non comprarli<Close><End of Block>
+<TextBlock 19 w:42 h:4>
+Perfetto!
+Tutti vengono 20000G!<Delay 20>
+E non cercare uno
+sconto! Forza, paga!<Close><End of Block>
+<TextBlock 20 w:42 h:1>
+Sei stato costretto
+a pagare 20000G.<Close><End of Block>
+<TextBlock 21 w:48 h:3>
+Grazie.<Delay 20>
+Se li fai alla griglia,
+sono davvero deliziosi…<Close><End of Block>
+<TextBlock 22 w:28 h:1>
+Aaaaaaaah…!!<Opcode 2 60><Close><End of Block>
+<TextBlock 23 w:30 h:2>
+Non so nulla!<Delay 10>
+…<Delay 5> Nulla!<Close><End of Block>
+<TextBlock 24 w:56 h:3>
+Non hai abbastanza soldi.
+Beh, allora facciamo la
+prossima volta…
+'Piccioncino'!<Close><End of Block>
+<TextBlock 25 w:54 h:3>
+Tsk, mi stai prendendo
+in giro? Questo non è
+un gioco, sai! Via di
+qui subito!<Close><End of Block>
+<TextBlock 26 w:52 h:4>
+Argh! Bruciano! Bruciano!<Delay 20>
+Tutti i miei rarissimi
+libri di prima stampa
+e i miei preziosi
+manoscritti autografi!!<New>
+So che ci sono poche
+provviste,<Delay 20> ma non posso
+credere che stiano
+bruciando i miei tesori!<Close><End of Block>
+<TextBlock 27 w:42 h:3>
+Vuoi salire?<Delay 10>
+    Sì
+    No<Close><Close><End of Block>

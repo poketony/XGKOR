@@ -1,0 +1,776 @@
+<TextBlock 1 w:26 h:3>
+Fei
+"Uh… co… cosa…"<Opcode 2 30><Space 2><Close><End of Block>
+<TextBlock 2 w:26 h:2>
+Fei
+"Que… questo…"<Opcode 2 30><Space 1><Close><End of Block>
+<TextBlock 3 w:28 h:2>
+Fei
+"Uhhaaaaaahhh"<Opcode 2 50><Close><End of Block>
+<TextBlock 4 w:16 h:2>
+Fei
+"Unh…"<Opcode 2 30><Close><End of Block>
+<TextBlock 5 w:22 h:3>
+Fei
+"Eh!?
+Ma è…"<Opcode 2 30><Close><End of Block>
+<TextBlock 6 w:24 h:2>
+Fei
+"Guh… grh…"<Opcode 2 30><Close><End of Block>
+<TextBlock 7 w:18 h:3>
+Fei
+"Non… capisco."<Opcode 2 40><Close><End of Block>
+<TextBlock 8 w:22 h:3>
+Fei
+"Uh…<Delay 30>
+Questo…"<Close><End of Block>
+<TextBlock 9 w:40 h:4>
+Fei
+"Cos'è questo!?<Delay 20> Perché
+mi state mostrando
+queste cose!?<New>
+Chi?<Delay 50> Chi ha fatto
+tutto questo!?<New>
+Elly! Doc!<Delay 10>
+Dove siete!?
+Dove…"<Close><End of Block>
+<TextBlock 10 w:18 h:2>
+Fei
+"Uah…?"<Close><End of Block>
+<TextBlock 11 w:30 h:2>
+Fei
+"Doc!?<New>
+Que… questi tipi!?
+Ma cosa? Cos'è questo!?"<Close><End of Block>
+<TextBlock 12 w:16 h:2>
+Fei
+"Bart!?"<Opcode 2 40><Close><End of Block>
+<TextBlock 13 w:16 h:2>
+Fei
+"Billy!"<Close><End of Block>
+<TextBlock 14 w:40 h:3>
+Fei
+"Doc!!<Delay 20>
+Che succede!?<New>
+Dove siete tutti…?<Delay 30>
+Doc! Rispondimi!"<Close><End of Block>
+<TextBlock 15 w:48 h:3>
+Fei
+"L'Angelo Custode di
+Solaris?<Delay 30> Lui mi
+controllava?"<Close><End of Block>
+<TextBlock 16 w:50 h:3>
+Fei
+"I corpi di Bart e degli
+altri vi appartengono?<New>
+Ma è vero!? Doc!<Delay 50>
+Che stanno dicendo
+questi qui?"<Close><End of Block>
+<TextBlock 17 w:6 h:2>
+Fei
+"?"<Close><End of Block>
+<TextBlock 18 w:26 h:2>
+Fei
+"… Vendetta?"<Close><End of Block>
+<TextBlock 19 w:44 h:2>
+Fei
+"Ma…<Delay 20> è vero…?<New>
+Così eri dalla parte
+di questi tizi…<New>
+Ecco perché tu,
+e tutti…"<Close><End of Block>
+<TextBlock 20 w:52 h:3>
+Fei
+"Perché!?<New>
+Per tutto questo tempo
+avete fatto tutto quello
+che volevate, con noi
+abitanti della superficie!<New>
+Voi avete già il mondo
+intero! Cos'altro volete?"<Close><End of Block>
+<TextBlock 21 w:54 h:3>
+Fei
+"Mahanon, il Paradiso
+Celeste?<Delay 30> Il luogo che
+precipitò sulla terra…"<Close><End of Block>
+<TextBlock 22 w:40 h:2>
+Fei
+"Cosa volete dire!?"<Close><End of Block>
+<TextBlock 23 w:42 h:2>
+Fei
+"Ma è assurdo!"<Close><End of Block>
+<TextBlock 24 w:14 h:2>
+Fei
+"…!?"<Close><End of Block>
+<TextBlock 25 w:34 h:4>
+Fei
+"… Perciò non avete in
+mente di usare il potere
+di Solaris per…<New>
+… dominare il mondo?"<Close><End of Block>
+<TextBlock 26 w:16 h:2>
+Fei
+"Ugh…"<Close><End of Block>
+<TextBlock 27 w:48 h:4>
+Fei
+"Cosa avete intenzione di
+fare a me, a Bart ed agli
+altri?<Delay 70> Dov'è Elly!?"<Close><End of Block>
+<TextBlock 28 w:28 h:4>
+Fei
+"Merda…<Delay 30>
+Cosa…<Delay 30>
+Cosa stavo…"<Close><End of Block>
+<TextBlock 29 w:52 h:4>
+Fei
+"Dannazione! Maledetti!
+Noi non siamo nati per
+essere usati da loro!<New>
+Non siamo arrivati fino a
+Solaris per questo!
+Dopo tutta la fatica che
+abbiamo fatto…<New>
+Io, noi, tutti… vogliamo
+solo creare un posto dove
+poter abitare e a cui
+appartenere realmente…<New>
+È per questo ideale
+che combattevamo…
+Ma ora…"<Close><End of Block>
+<TextBlock 30 w:22 h:2>
+Fei
+"Io…<Delay 40> io…"<Close><End of Block>
+<TextBlock 31 w:30 h:2>
+Fei
+"Basta! Ti scongiuro!"<Close><End of Block>
+<TextBlock 32 w:40 h:2>
+Shitan
+"Ti sei risvegliato?"<Close><End of Block>
+<TextBlock 33 w:54 h:4>
+Shitan
+"Non puoi muoverti.<New>
+Questa macchina ha reciso
+fisicamente i tuoi segnali
+nervosi.<New>
+Non importa ciò che ordina
+la tua mente, non sarai in
+grado neanche di alzare
+un dito."<Close><End of Block>
+<TextBlock 34 w:48 h:4>
+Shitan
+"Non preoccuparti…
+Essi hanno i loro
+ruoli…<Delay 30> tu il tuo…<New>
+Io mi limito ad
+indagare."<Close><End of Block>
+<TextBlock 35 w:52 h:3>
+Shitan
+"Perciò… tu dici che
+la battaglia è stata
+davvero combattuta?<New>
+Il Ministero ne ha
+discusso prima…"<Close><End of Block>
+<TextBlock 36 w:52 h:4>
+Shitan
+"Farsi dare un posto in
+cui abitare è assai più
+facile di crearne uno…<New>
+… con le proprie forze.<Delay 40>
+Non riesci a comprendere
+neanche un concetto tanto
+semplice?"<Close><End of Block>
+<TextBlock 37 w:54 h:4>
+Shitan
+"Gli ideali puerili
+impallidiscono, quando
+posti innanzi alla realtà.<New>
+Ma, in verità, molti sono
+quelli cui basta ciò per
+essere felici.<New>
+Una volta ricevuto un
+posto dove stare…<New>
+… l'individuo è esente
+da ogni rischio e da
+ogni responsabilità.<New>
+E si possono incolpare
+gli altri per le proprie
+sventure e sfortune.<New>
+Sai perché la gente non sa
+e non può vivere da sola…<New>
+… ma solo dopo essersi
+raggruppata sotto una
+qualche idea più grande…<New>
+… quale una comunità
+od un paese?<New>
+La gente ha bisogno di un
+posto dove andare, per
+essere se stessa…<New>
+E più il sistema è
+stabile, più esso
+è valido."<Close><End of Block>
+<TextBlock 38 w:54 h:4>
+Shitan
+"Il Ministero dà alle
+persone un tale posto.<New>
+Sotto totale sorveglianza,
+non v'è più bisogno di
+sopportare il rischio
+di mantenere…<New>
+… l'individualità
+dell'individuo.<New>
+Semplicemente, si vive
+sotto l'illusione di
+essere un individuo.<New>
+Cosa potrebbe esserci
+di più semplice?<New>
+I fatti sono fatti, dunque
+limitiamoci ad accettarli.<New>
+Sarà più facile
+per tutti noi.<New>
+Resistere è inutile.
+Farlo vuol dire solo
+rendere tutto più
+doloroso."<Close><End of Block>
+<TextBlock 39 w:54 h:4>
+Shitan
+"Hai ancora intenzione
+di ribellarti contro
+tutto ciò?<New>
+Guardati…<New>
+Arrivati a questo punto,
+cosa pensi di poter
+fare? Non puoi muoverti.<New>
+Non sei neanche riuscito
+a proteggere i tuoi amici,
+quando avevano bisogno di
+te.<New>
+Quegli stessi amici che
+hanno combattuto con te.<New>
+Non sei neanche riuscito a
+proteggere la persona che
+è divenuta la cosa più 
+importante della tua vita<Delay 40>…<New>
+… Elly."<Close><End of Block>
+<TextBlock 40 w:42 h:2>
+Shitan
+"Non puoi fare nulla."<Close><End of Block>
+<TextBlock 41 w:18 h:2>
+Fei
+"Elly…"<Close><End of Block>
+<TextBlock 42 w:22 h:3>
+Fei
+"Doc… sei qui?"<Close><End of Block>
+<TextBlock 43 w:44 h:2>
+Sei stato tu a provocare
+questo spettacolo.<Close><End of Block>
+<TextBlock 44 w:42 h:2>
+Quella voce è di colui
+che ti perseguita…<Close><End of Block>
+<TextBlock 45 w:52 h:1>
+Tu sei il maledetto…
+l'intoccabile…<Close><End of Block>
+<TextBlock 46 w:46 h:3>
+Oh, diletto figlio di
+dio, che non permetti
+alle nostre preghiere
+di essere esaudite…<Close><End of Block>
+<TextBlock 47 w:12 h:1>
+Soffri…<Close><End of Block>
+<TextBlock 48 w:20 h:1>
+Muori…<Close><End of Block>
+<TextBlock 49 w:46 h:1>
+Brucia nel fuoco di dio…<Close><End of Block>
+<TextBlock 50 w:40 h:4>
+Anziano
+"Uno degli Angeli Custodi
+di Solaris si trova qui,
+Hyuga Rikudo."<Close><End of Block>
+<TextBlock 51 w:50 h:4>
+Anziano
+"Quest'uomo è il braccio
+destro di Caino<Delay 30>…<New>
+Riceve gli ordini da colui
+ch'è detto l'Imperatore
+Celeste.<New>
+Tu sei entrato nel
+suo regno, e sei stato
+sotto il suo incessante
+controllo…"<Close><End of Block>
+<TextBlock 52 w:48 h:4>
+Anziano
+"Oh, sì.<New>
+Noi abbiamo guidato
+Solaris, ed abbiamo
+addirittura scelto
+gli 'Animi'…<New>
+… i quali sono stati
+trascinati verso
+di te.<New>
+E t'hanno guidato
+qui a Solaris."<Close><End of Block>
+<TextBlock 53 w:54 h:3>
+Anziano
+"Affinché la nostra
+risurrezione si compia…<New>
+… abbiamo bisogno
+degli 'Animi'…<New>
+Essi sono i nostri
+corpi… e sono tutto
+ciò che possediamo."<Close><End of Block>
+<TextBlock 54 w:44 h:3>
+Anziano
+"Sì, questa è l'unica
+ragione per la quale
+esistiamo…"<Close><End of Block>
+<TextBlock 55 w:48 h:2>
+Anziano
+"Perché sei così
+timoroso?<New>
+Lo sei perché sei
+stato tradito da
+una persona di cui
+ti fidavi?"<Close><End of Block>
+<TextBlock 56 w:46 h:3>
+Fei
+"Non sto parlando con
+voi!<Delay 30> Doc, rispondimi!"<Close><End of Block>
+<TextBlock 57 w:24 h:2>
+Shitan
+"Tre anni…"<Close><End of Block>
+<TextBlock 58 w:52 h:3>
+Shitan
+"Per tre anni io
+sono stato dalla
+tua parte.<New>
+Dovevo stabilire se
+tu saresti stato o
+meno il nostro nemico…"<Close><End of Block>
+<TextBlock 59 w:52 h:4>
+Anziano
+"Sì, il nostro nemico.
+La tua esistenza è per
+noi una minaccia…"<Close><End of Block>
+<TextBlock 60 w:50 h:3>
+Anziano
+"Era necessario
+tenerti sotto
+controllo."<Close><End of Block>
+<TextBlock 61 w:54 h:3>
+Anziano
+"Colui che ordinò di
+tenerti sott'occhio
+fu Caino…"<Close><End of Block>
+<TextBlock 62 w:54 h:4>
+Anziano
+"Avevamo già in mente di
+far maturare gli 'Animi'…
+e di ucciderti.<New>
+Abbiamo anche mandato
+Hyuga da te."<Close><End of Block>
+<TextBlock 63 w:54 h:3>
+Anziano
+"Tuttavia, ogni tentativo
+di ucciderti è fallito…<New>
+Per colpa di quel
+rifiuto buono a nulla…"<Close><End of Block>
+<TextBlock 64 w:48 h:3>
+Anziano
+"Tuttavia, adesso noi
+possediamo gli 'Animi'.<New>
+Hyuga ha ben compiuto
+il suo dovere."<Close><End of Block>
+<TextBlock 65 w:52 h:3>
+Anziano
+"A questo punto, dovresti
+aver capito che abbiamo
+intenzione di…<New>
+… risuscitare dio."<Close><End of Block>
+<TextBlock 66 w:52 h:4>
+Anziano
+"Dio si desterà dal suo
+lungo sonno…<New>
+… dopo che l'uomo avrà
+popolato la terra…<Delay 30>
+A quel punto, anche
+Mahanon si risveglierà…"<Close><End of Block>
+<TextBlock 67 w:54 h:3>
+Anziano
+"Il paradiso…
+Ah ah ah.<New>
+Hai ragione, questa
+descrizione gli si
+addice…
+La nostra arca…<New>
+È nel blocco centrale
+che 'Mahanon' riposa
+sigillato.<New>
+Esso è l'origine della
+saggezza di dio… Un
+paradiso del sapere…"<Close><End of Block>
+<TextBlock 68 w:54 h:4>
+Anziano
+"Utilizzando quel sapere,
+noi risusciteremo dio, che
+allora si sarà svegliato…<New>
+… e costruiremo la
+nostra 'arca', ché ci
+porti nell'immensità
+dell'universo."<Close><End of Block>
+<TextBlock 69 w:54 h:3>
+Anziano
+"La costruzione della
+nostra arca…<New>
+Per regnare sopra la
+forza di dio in questo
+grande universo…<New>
+La creazione dell'angelo
+'Malak'. E ciò era lo
+scopo del Progetto M…"<Close><End of Block>
+<TextBlock 70 w:50 h:3>
+Anziano
+"Noi, in questo universo,
+siamo degli orfani.<New>
+Fummo gettati in questo
+pianeta in solitudine,
+assieme a dio."<Close><End of Block>
+<TextBlock 71 w:54 h:4>
+Anziano
+"Noi umani non nascemmo
+su questo pianeta…<New>
+Molti millenni fa,
+giungemmo qui da un
+altro corpo celeste.<New>
+Noi siamo esseri
+provenienti da un
+pianeta alieno."<Close><End of Block>
+<TextBlock 72 w:54 h:4>
+Anziano
+"Ciò è vero. Tu hai già
+veduto le varie regioni
+di questo mondo.<New>
+Pensaci, perché non ci
+sono segni della vita
+umana prima di 10000
+anni fa…?"<Close><End of Block>
+<TextBlock 73 w:54 h:3>
+Anziano
+"Questo è il
+volere di dio.<New>
+Il risveglio di dio è
+destinato sin da prima
+del tempo della genesi…"<Close><End of Block>
+<TextBlock 74 w:54 h:3>
+Anziano
+"Noi diverremo una
+cosa sola con dio.<New>
+Conseguendo un nuovo
+'Animo', torneremo
+ancora una volta nei
+cieli stellati…"<Close><End of Block>
+<TextBlock 75 w:40 h:3>
+Anziano
+"Questo è il fine della
+nostra esistenza."<Close><End of Block>
+<TextBlock 76 w:40 h:3>
+Anziano
+"Questo il nostro
+sommo intento."<Close><End of Block>
+<TextBlock 77 w:54 h:3>
+Anziano
+"Ovviamente.<New>
+Che senso ha avere
+il controllo di un
+pianeta insignificante
+come questo?<New>
+Dio ci ha dato il
+diritto di governare
+sull'universo intero."<Close><End of Block>
+<TextBlock 78 w:56 h:4>
+Anziano
+"Sì.<Delay 40> Solo noi, in cui
+non scorre sangue impuro,
+abbiamo il diritto…<New>
+… di essere perdonati
+e salvati…"<Close><End of Block>
+<TextBlock 79 w:56 h:2>
+Anziano
+"Dunque, noi
+risusciteremo dio."<Close><End of Block>
+<TextBlock 80 w:44 h:4>
+Anziano
+"È passata un'eternità
+dal momento del nostro
+esilio dal paradiso.<New>
+Se il tempo del risveglio
+di dio non sarà giunto…<New>
+… dovremo seguire la
+strada che conduce
+alla distruzione.<Delay 20> Ma…"<Close><End of Block>
+<TextBlock 81 w:54 h:4>
+Anziano
+"Dacché abbiamo ottenuto
+gli 'Animi'…<New>
+… il tempo della nostra
+risurrezione è prossimo…<Delay 30>
+E ad essa seguirà la
+risurrezione di dio."<Close><End of Block>
+<TextBlock 82 w:22 h:2>
+Fei
+"Krelian!?"<Close><End of Block>
+<TextBlock 83 w:48 h:3>
+Krelian
+"Tra poco questa donna
+si risveglierà…"<Close><End of Block>
+<TextBlock 84 w:18 h:2>
+Fei
+"Elly!!?"<Close><End of Block>
+<TextBlock 85 w:28 h:2>
+Fei
+"Doc…<New>
+Que… questo…!?"<Space 1><Close><End of Block>
+<TextBlock 86 w:38 h:2>
+Fei
+"Ma questa è
+la verità…!"<Close><End of Block>
+<TextBlock 87 w:30 h:2>
+Fei
+"Ba…<Delay 30> sta…"<Space 1><Close><End of Block>
+<TextBlock 88 w:46 h:3>
+Shitan
+"E ora, possiamo prenderci
+il nostro tempo e parlare…<Delay 30>
+Id…"<Opcode 2 60><Close><End of Block>
+<TextBlock 89 w:40 h:3>
+Shitan
+"… Non puoi fare nulla."<Close><End of Block>
+<TextBlock 90 w:52 h:4>
+Id
+"Sei svelto a capire.
+Proprio come mi aspettavo,
+Shitan…<New>
+… O, piuttosto, Doc?"<Close><End of Block>
+<TextBlock 91 w:54 h:4>
+Shitan
+"Era molto che desideravo
+incontrarti, Id.<Delay 15> Volevo
+parlare con te.<New>
+E credo che ora mi sia
+possibile solo grazie a
+questa macchina che recide
+le connessioni nervose.<New>
+Comunque, al momento,
+cosa sta facendo Fei?"<Close><End of Block>
+<TextBlock 92 w:46 h:3>
+Id
+"Fei? Di quale Fei
+stai parlando?"<Close><End of Block>
+<TextBlock 93 w:50 h:2>
+Shitan
+"Ce n'è più d'uno?"<Close><End of Block>
+<TextBlock 94 w:10 h:2>
+Id
+"…"<Close><End of Block>
+<TextBlock 95 w:10 h:2>
+Shitan
+"Id?"<Close><End of Block>
+<TextBlock 96 w:48 h:3>
+Id
+"Quello che chiami
+Fei sta dormendo."<Close><End of Block>
+<TextBlock 97 w:22 h:2>
+Shitan
+"Dormendo?"<Close><End of Block>
+<TextBlock 98 w:56 h:2>
+Id
+"Quando io sono
+sveglio, lui dorme.<New>
+È per questo che non
+si ricorda di ciò
+che io faccio."<Close><End of Block>
+<TextBlock 99 w:46 h:2>
+Shitan
+"E perché lui non
+sa ciò che fai?"<Close><End of Block>
+<TextBlock 100 w:50 h:3>
+Id
+"Ma è ovvio. Lui è
+il mio subordinato.<New>
+Non può scrutare nei miei
+ricordi. In effetti, non
+dovrebbe neanche esistere.<New>
+Quell'uomo ha creato la
+sua personalità usando
+la forza.<New>
+Fei abita nella stanza
+della codardia…"<Close><End of Block>
+<TextBlock 101 w:22 h:2>
+Shitan
+"Quell'uomo?
+Di che parli?"<Close><End of Block>
+<TextBlock 102 w:54 h:3>
+Id
+"Nostro padre, Khan.<New>
+Ha sigillato la mia
+personalità nella parte
+più profonda della mia
+coscienza.<New>
+A causa d'un inspiegabile
+motivo, fu allora che
+l'attuale Fei nacque."<Close><End of Block>
+<TextBlock 103 w:50 h:3>
+Shitan
+"Quando hai detto
+codardia, cosa
+intendevi dire?"<Close><End of Block>
+<TextBlock 104 w:40 h:3>
+Id
+"…
+Perché mi fai domande
+su di lui?<New>
+Pensi di poter fare
+qualcosa?"<Close><End of Block>
+<TextBlock 105 w:56 h:3>
+Shitan
+"È insolito poter parlare
+ad un vero schizofrenico.<New>
+Come erudito, ne
+sono estremamente
+affascinato."<Close><End of Block>
+<TextBlock 106 w:52 h:4>
+Id
+"Con degli amici come
+te… eh, dottore?<New>
+Tu mi piaci, Shitan.
+Ma lui… 'quel' Fei è
+insignificante.<New>
+Dopotutto, è soltanto un
+fallito. Un codardo come
+lui non merita di essere
+'l'esistenza di Fei'.<New>
+Lui è un patetico bambino
+che è sempre fuggito dalla
+realtà.<New>
+Non ha mai mosso un dito
+contro di me, quando lo
+controllo.<New>
+Un codardo che si rifiuta
+di vivere.<New>
+Dovrebbe essere distrutto.
+Eppure lui continua ad
+esistere! Perché non
+scompare e la fa finita?<New>
+Merda… mi viene la pelle
+d'oca al solo pensiero
+di condividere con lui
+lo stesso corpo."<Close><End of Block>
+<TextBlock 107 w:54 h:3>
+Shitan
+"Cambiamo argomento.<New>
+Mi piacerebbe sapere
+come e perché le vostre
+personalità sono state
+divise.<New>
+Dal momento che sei tu
+a detenere il controllo,
+darei per scontato che
+sai tutto.<New>
+Di norma, le personalità
+non si dividono come è
+successo con voi.<New>
+Salvoché non ci sia stato,
+nel passato, un trauma."<Close><End of Block>
+<TextBlock 108 w:52 h:4>
+Id
+"Vuoi che io parli
+dei miei ricordi?
+Non fraintendere.<New>
+Non ti ho dato il
+permesso di farmi
+delle domande.<New>
+Anche se sono bloccato
+da questa macchina,
+non tentare troppo
+la tua buona sorte.<New>
+Se davvero lo volessi,
+potrei spaccare questa
+macchina ed ammazzarti.<New>
+Non dimenticarlo."<Close><End of Block>
+<TextBlock 109 w:42 h:2>
+Shitan
+"E allora perché
+non lo fai?"<Close><End of Block>
+<TextBlock 110 w:10 h:2>
+Id
+"…"<Close><End of Block>
+<TextBlock 111 w:54 h:4>
+Shitan
+"Te lo devo dire
+io il perché?<New>
+Tu non hai un controllo
+totale su Fei, dico bene?<New>
+Il tuo controllo su di
+lui è incompleto.<New>
+Rompere quelle catene
+richiederebbe un'enorme
+quantità di energia
+mentale.<New>
+E dopo aver consumato
+la tua energia, Fei
+tornerebbe di nuovo.<New>
+In poche parole, dovresti
+tornartene dietro le
+quinte.<New>
+Ed è anche ovvio che non
+si potrebbe sapere il
+giorno in cui potresti
+tornare.<New>
+Dunque, tu non lo farai.<Delay 40>
+O sbaglio, forse?"<Close><End of Block>
+<TextBlock 112 w:50 h:3>
+Id
+"Tu mi conosci troppo
+bene. Io non ho un
+controllo completo…"<Close><End of Block>
+<TextBlock 113 w:40 h:2>
+Shitan
+"Cosa c'è, Id?"<Close><End of Block>
+<TextBlock 114 w:50 h:3>
+Id
+"Mi hai forzato
+a comparire.<New>
+Lui si sta svegliando.
+In circostanze normali,
+sarei stato in grado di
+trattenerlo.<New>
+Ma ora non posso. E
+questo per colpa di
+quella donna.<New>
+La sua esistenza rende
+Fei resistente."<Close><End of Block>
+<TextBlock 115 w:32 h:2>
+Shitan
+"Parli di Elly?"<Close><End of Block>
+<TextBlock 116 w:46 h:4>
+Id
+"Quella donna…
+è lo stesso.<New>
+Tutti… Devo…
+uccidere tutti…"<Close><End of Block>
+<TextBlock 117 w:50 h:3>
+Shitan
+"Non capisco…
+Non ti capisco, Id."<Close><End of Block>
+<TextBlock 118 w:50 h:3>
+Id
+"Non c'è bisogno
+che tu capisca.<New>
+Ma quando arriverà il
+momento delle risposte,
+prendile per come
+saranno.<New>
+Realtà e morte…"<Close><End of Block>
+<TextBlock 119 w:46 h:3>
+Id
+"Alla fine te la
+farò pagare…
+Ci vediamo."<Close><Close><End of Block>

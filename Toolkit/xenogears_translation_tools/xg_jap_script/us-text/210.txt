@@ -1,0 +1,391 @@
+#### 1 ####
+Fei
+"Where is this place?"
+
+#### 2 ####
+Fei
+"Do you really doubt me?"
+
+#### 3 ####
+Fei
+"?
+..."
+
+#### 4 ####
+Fei
+"...? Looks likes it's 
+locked from the other side."
+
+#### 5 ####
+Fei
+"Here...?"
+
+#### 6 ####
+Fei
+"...?"
+
+#### 7 ####
+Fei
+"Here too...?"
+
+#### 8 ####
+Fei
+"...!?"
+
+#### 9 ####
+Fei
+"Looks like something's 
+written on the wall in 
+blood...{enter}
+{wait:0A} (Red monster).
+
+#### 10 ####
+Fei
+"!?
+What's this
+slimy stuff?"
+
+#### 11 ####
+Fei
+"Something the
+monster left?"
+
+#### 12 ####
+Fei
+"Here...?"
+
+#### 13 ####
+Fei
+"What's this
+slimy stuff?"
+
+#### 14 ####
+Fei
+"Something the
+monster left?"
+
+#### 15 ####
+Fei
+"It's sure not human!
+This is covered in
+slime."
+
+#### 16 ####
+Fei
+"...?{wait:14} Huh?{wait:1E} ...What?"
+
+#### 17 ####
+Fei
+"Shoot...{wait:1E}the key's not 
+here, we can't open 
+the door..."
+
+#### 18 ####
+Fei
+"Hey...{wait:1E}your left arm!{wait:28} 
+In that fight, you got..."
+
+#### 19 ####
+Fei 
+"?
+..."
+
+#### 20 ####
+Fei
+"This is covered
+in slime."
+
+#### 21 ####
+Fei 
+"Here...?"
+
+#### 22 ####
+Fei
+"Here...?"
+
+#### 23 ####
+Citan
+"Shh, quiet!"
+
+#### 24 ####
+Citan
+"...!?{wait:1E}
+Well...{wait:14}let us look around."
+
+#### 25 ####
+Citan
+"...Something is {wait:14}written {wait:0A} 
+on the wall...{enter}
+Re...{wait:1E}{enter}
+Red...{wait:1E}monster..."
+
+#### 26 ####
+Citan
+"This must be his 
+dying message."
+
+#### 27 ####
+Citan
+"A red monster..."{clear:1E}
+
+#### 28 ####
+Citan
+"Very interesting."
+
+#### 29 ####
+Citan
+"Look, here!"
+
+#### 30 ####
+Citan
+"Still...
+we cannot be sure...{wait:1E}
+but it is very likely."
+
+#### 31 ####
+Citan
+"How did it go?{wait:1E}
+...Huh!"
+
+#### 32 ####
+Citan
+"I wonder if he will 
+forfeit the Battling 
+because of that injury?"
+
+#### 33 ####
+Citan
+"No,
+that is it."
+
+#### 34 ####
+Rico
+"Let's look for it. 
+We'll talk more if 
+we really find it."
+
+#### 35 ####
+Rico
+"What's wrong...?"
+
+#### 36 ####
+Rico
+"Well, this is the 
+murder spot."
+
+#### 37 ####
+Rico
+"Must've written it
+as he was dying."
+
+#### 38 ####
+Rico
+"Hey! What's this slime? 
+What {wait:1E}a mess..."
+
+#### 39 ####
+Rico
+"Looks like he
+got it here."
+
+#### 40 ####
+Rico
+"Hey, this is the same as 
+that stuff over there..."
+
+#### 41 ####
+Rico
+"Something's down here, 
+that's for sure..."
+
+#### 42 ####
+Rico
+"Looks like he
+got it here."
+
+#### 43 ####
+Rico
+"It's over by that 
+drain too."
+
+#### 44 ####
+Rico
+"Hey, this is the same as 
+that stuff over there..."
+
+#### 45 ####
+Rico
+"Well, this is the 
+murder spot."
+
+#### 46 ####
+Rico
+"No way's it human..."
+
+#### 47 ####
+Rico
+"More of the same..."
+
+#### 48 ####
+Rico
+"Search around this 
+level some more...{enter}
+The murder site should
+be around here...
+There has to be some
+clues to be found."
+
+#### 49 ####
+Rico
+"...Whaddya doin'?"
+
+#### 50 ####
+Rico
+"Outa the way!
+Let me try...{wait:1E}
+...gwahh{wait:1E}, huh?{enter}
+...What?...{wait:1E}
+huff, huff, huff,
+ha-h."
+
+#### 51 ####
+Rico
+"Idiot.
+It pulls open, jeez...{enter}
+What're you pushing it
+for?"
+
+#### 52 ####
+Rico
+"I'll see you later...
+I'll wait at your dorm."
+
+#### 53 ####
+Rico
+"Ugh..."
+
+#### 54 ####
+Rico
+"It's nothing..."
+
+#### 55 ####
+"...?
+Looks like it's locked
+from the other side."
+
+#### 56 ####
+Leonardo
+"Heh heh...
+Jerk...he's probably 
+in bed somewhere now."
+
+#### 57 ####
+Leonardo
+"Hmph, I don' get it.{enter}
+Let's just get this over 
+with. Tonight's creepy, 
+the rats are restless."
+
+#### 58 ####
+Leonardo
+"Oh man,{wait:1E} this is bad...{enter}
+The hairs on the back of
+my neck are all standin'
+up.{enter}
+Something weird's out
+there."
+
+#### 59 ####
+Leonardo
+"Tch!
+So you came out!?"
+
+#### 60 ####
+Leonardo
+"What the!?"{clear:05}
+
+#### 61 ####
+Leonardo
+"Crap...
+this...monster's..."{clear:03}
+
+#### 62 ####
+Leonardo
+"St...{wait:05}
+stay away..."{clear:02}
+
+#### 63 ####
+{fast:FF}Leonardo
+"Uwaahhhhh"{clear:14}
+
+#### 64 ####
+Heinrich
+"Wasn't that a bit too
+much? If Champ finds
+out, we're done for!"
+
+#### 65 ####
+Heinrich
+"What, this isn't 
+like you...{enter}
+Alright, then you
+take that one..."
+
+#### 66 ####
+Heinrich
+"Umph..."
+
+#### 67 ####
+Heinrich
+"...Huh?" 
+
+#### 68 ####
+Heinrich
+"Hmm...{wait:28}must just
+be my imagination."
+
+#### 69 ####
+{fast:FF}Heinrich
+"What!!"{clear:14}
+
+#### 70 ####
+-3{clear:14}
+
+#### 71 ####
+Battler
+"Hey! It's dangerous down
+there. Don't blame me if
+you get hurt."
+
+#### 72 ####
+Battler
+"Stop wandering around
+and just go home."
+
+#### 73 ####
+You have too many
+{str}.
+
+#### 74 ####
+ 
+ Received {str}.
+
+#### 75 ####
+Select button opens the map.
+
+#### 76 ####
+You have too many
+{str}.
+
+#### 77 ####
+ 
+ Received {str}.
+
+#### 78 ####
+You have too many
+{str}.
+
+#### 79 ####
+ 
+ Received {str}.
+

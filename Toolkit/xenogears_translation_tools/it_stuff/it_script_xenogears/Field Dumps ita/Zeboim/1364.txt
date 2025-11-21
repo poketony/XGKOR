@@ -1,0 +1,478 @@
+<TextBlock 1 w:12 h:2>
+Shitan
+"!<New>
+Elly!"<Close><End of Block>
+<TextBlock 2 w:52 h:4>
+Shitan
+"Sangue…?<New>
+È senza dubbio coperto
+di sangue… E questo…
+grandissimo calore… No,
+forse sono radiazioni?<New>
+Forse si tratta di un
+sistema di disinfezione
+di emergenza…<New>
+Questi segni sono la
+prova che fu utilizzato…"<Close><End of Block>
+<TextBlock 3 w:12 h:2>
+Shitan
+"!<New>
+Elly!"<Close><End of Block>
+<TextBlock 4 w:26 h:2>
+Shitan
+"Ma cosa…"<Close><End of Block>
+<TextBlock 5 w:54 h:4>
+Shitan
+"Questa ragazza sembra
+essere una forma di vita
+artificiale…<New>
+… creata dentro il
+reattore.<New>
+È probabile che sia
+stata assemblata nel
+reattore utilizzando
+quelle sequenze…<New>
+… che si trovano nella
+banca dati della stanza
+di controllo…<New>
+Il suo corpo sembra
+certamente…"<Close><End of Block>
+<TextBlock 6 w:40 h:2>
+Shitan
+"Fermi lì!!"<Opcode 2 16><Close><End of Block>
+<TextBlock 7 w:34 h:4>
+Shitan
+"Ma allora, anche la
+loro conversazione era
+stata pianificata…"<Close><End of Block>
+<TextBlock 8 w:44 h:4>
+Shitan
+"… Credo che vi abbiamo
+involontariamente
+aiutati."<Close><End of Block>
+<TextBlock 9 w:40 h:4>
+Shitan
+"Cosa pensate di fare
+con questa ragazza?
+Cosa è lei?"<Close><End of Block>
+<TextBlock 10 w:46 h:4>
+Shitan
+"'Salvezza'?<Delay 45>
+Bel modo d'esprimersi…<New>
+Ma, dal momento che queste
+parole provengono da te…<New>
+… l'unica cosa che sento
+dentro di esse è l'odore
+del sangue."<Close><End of Block>
+<TextBlock 11 w:46 h:4>
+Shitan
+"State attenti!<New>
+Gli Elementi possono
+sembrare innocui! Ma
+se li sottovaluterete,
+vi costerà caro!"<Close><End of Block>
+<TextBlock 12 w:38 h:4>
+Elly
+"… Sangue…<Delay 63>
+coperta dal sangue…<Delay 45>
+il mio…<Delay 45> sangue…<New>
+E non c'era dolore.
+Solo… il gelo…
+e la tristezza…"<Close><End of Block>
+<TextBlock 13 w:36 h:4>
+Elly
+"Lei è rimasta qui,
+tutta da sola, per
+tutto questo tempo…"<Close><End of Block>
+<TextBlock 14 w:52 h:4>
+Elly
+"State attenti!<New>
+Gli Elementi sono i
+combattenti d'élite
+di Ramsus…<New>
+Sembrano innocue,
+ma in realtà sono
+pericolosissime."<Close><End of Block>
+<TextBlock 15 w:44 h:3>
+Elly
+"No, è proprio così
+che sono normalmente!<New>
+Ed è questo che le rende
+DAVVERO pericolose!!"<Close><End of Block>
+<TextBlock 16 w:40 h:4>
+Elly
+"No!<New>
+Non possiamo permettere
+loro di prendere
+questa bambina!"<Close><End of Block>
+<TextBlock 17 w:52 h:4>
+Bart
+"Shitan… che
+cosa… è?<New>
+Neanche l'erbaccia
+sa rigenerarsi così
+velocemente."<Close><End of Block>
+<TextBlock 18 w:44 h:4>
+Bart
+"Che cazzo…
+Chiudete quelle fogne!<New>
+E toglietevi dalle
+scatole!"<Close><End of Block>
+<TextBlock 19 w:30 h:4>
+Bart
+"…<Delay 45>
+Dici sul serio…?"<Close><End of Block>
+<TextBlock 20 w:40 h:3>
+Billy
+"Shitan…<Delay 10>
+Questa ragazza…?<New>
+Come ha fatto a
+trasformarsi così di
+colpo in forma umana…?"<Close><End of Block>
+<TextBlock 21 w:50 h:4>
+Billy
+"Santo cielo,
+chi siete voi!?<New>
+Non abbiamo tempo
+da perdere per
+parlare con voi!"<Close><End of Block>
+<TextBlock 22 w:50 h:4>
+Billy
+"…<Delay 45> Forse voi ragazze
+avete un po' troppo tempo
+libero da sprecare?"<Close><End of Block>
+<TextBlock 23 w:22 h:2>
+Billy
+"Vescovo…"<Close><End of Block>
+<TextBlock 24 w:52 h:4>
+Billy
+"Una persona
+degna d'onore?<New>
+Di certo non penso
+più che lei sia
+degno d'onore.<New>
+Distruggere la Chiesa…<New>
+… ed uccidere qualsiasi
+abitante della superficie
+che non condivide il
+vostro volere…"<Close><End of Block>
+<TextBlock 25 w:52 h:4>
+Billy
+"… È una cosa
+assolutamente
+riprovevole.<New>
+Ogni persona dovrebbe
+avere le stesse
+possibilità di…<New>
+… raggiungere la salvezza
+attraverso la fede."<Close><End of Block>
+<TextBlock 26 w:10 h:2>
+Billy
+"…"<Close><End of Block>
+<TextBlock 27 w:50 h:4>
+Billy
+"Salvezza o no…
+Cosa avete intenzione di
+fare con questa ragazza!?<New>
+Io so che le vostre azioni
+non sono degne d'onore.<New>
+Vescovo… mi spiace dirlo…
+ma non posso prendere
+parte a ciò che lei ha
+intenzione di fare."<Close><End of Block>
+<TextBlock 28 w:50 h:4>
+Rico
+"Ma che diavolo
+è 'sta cosa?<New>
+Neanche noi mezzi
+umani riusciamo a
+rigenerarci a
+quella velocità."<Close><End of Block>
+<TextBlock 29 w:50 h:3>
+Rico
+"Non sapete quello che
+state dicendo…<Delay 25>
+Volete davvero combattere?<New>
+Preferirei se vi limitaste
+a muovere i vostri bei
+culetti e ve ne andaste
+da qui."<Close><End of Block>
+<TextBlock 30 w:44 h:4>
+Rico
+"…<Delay 45> Se avete intenzione
+di parlare ancora per un
+bel po'…<New>
+… fate iniziare
+prima me."<Close><End of Block>
+<TextBlock 31 w:48 h:3>
+<Chu-Chu>
+"Che cos'è? Che cos'è?<New>
+Ma che succede a questa
+ragazza? Com'è che è
+pronta così presto?"<Close><End of Block>
+<TextBlock 32 w:32 h:3>
+<Chu-Chu>
+"Credo ci stiano
+insultando…"<Close><End of Block>
+<TextBlock 33 w:36 h:3>
+<Chu-Chu>
+"Come osate dire quelle
+cose ad una signora, chu!!<New>
+Ora non abbiamo tempo per
+giocare, chu! Toglietevi!"<Close><End of Block>
+<TextBlock 34 w:36 h:2>
+<Chu-Chu>
+"… Ora posso andare?"<Close><End of Block>
+<TextBlock 35 w:48 h:4>
+Stone
+"… Costituito da delle
+macchine autonome su
+scala molecolare…<New>
+In altre parole, una
+colonia di nanomacchine."<Close><End of Block>
+<TextBlock 36 w:50 h:4>
+Stone
+"Mi prenderò quella
+colonia di nanomacchine,
+vi ringrazio…<New>
+Essa è l'esistenza,
+altresì detta -fattore-
+chiave, con la quale dio
+ci guiderà…<New>
+… per liberare l'umanità
+dal proprio giogo."<Close><End of Block>
+<TextBlock 37 w:52 h:2>
+Stone
+"Dunque, se non
+vi dispiace…"<Close><End of Block>
+<TextBlock 38 w:54 h:4>
+Stone
+"Ah, Fratello Billy. Sei
+qui anche tu. Questo rende
+tutto più semplice.<New>
+So che lo capirai e sarai
+comprensivo con me…<New>
+Questa colonia di
+nanomacchine deve essere
+nelle mani di una persona
+degna di onore.<New>
+È destinata ad essere la
+'salvezza dell'umanità'."<Close><End of Block>
+<TextBlock 39 w:50 h:4>
+Stone
+"Eliminare le persone non
+adatte alla 'salvezza' è
+forse sbagliato?<New>
+E per quale ragione?<New>
+Sbaglio, o proprio la
+nostra fede è basata sul
+precetto che…<New>
+… 'solo i prescelti
+verranno salvati'?"<Close><End of Block>
+<TextBlock 40 w:52 h:4>
+Stone
+"Stai dicendo che puoi
+salvare tutta l'umanità?<New>
+Se Krelian usa la colonia
+di nanomacchine, almeno
+potremo salvare qualche
+persona prescelta.<New>
+Ma voi non capite come
+la si deve utilizzare.
+Non potete salvare
+nessuno.<New>
+Sei disposto a prenderti
+la colpa per la perdita
+che causerete a tutta
+l'umanità?"<Close><End of Block>
+<TextBlock 41 w:50 h:4>
+Stone
+"Adesso, il mio compito
+è di portare questa
+colonia di nanomacchine…<New>
+… a Krelian.<New>
+Vedi, a differenza della
+Chiesa, il nostro fine
+non è recuperare delle
+antiche armi…<New>
+… che giacciono nelle
+rovine della città.<New>
+Non credo che stiamo
+entrando in conflitto
+con i vostri interessi."<Close><End of Block>
+<TextBlock 42 w:54 h:4>
+Stone
+"Vedo che non sei
+riuscito a capirlo<Delay 35>…<New>
+Allora non se ne può
+fare a meno…<New>
+Non ho il tempo per
+cercare ancora di
+convincerti.<New>
+Vi prego di scusarmi,
+dal momento che devo
+affrettarmi ad andare."<Close><End of Block>
+<TextBlock 43 w:48 h:3>
+Stone
+"Mi spiace di avervi
+fatto aspettare, ragazze…<New>
+È il momento di fare il
+vostro lavoro, Elementi."<Close><End of Block>
+<TextBlock 44 w:38 h:4>
+Stone
+"Trone! Seraphita!
+Fatemi guadagnare
+più tempo possibile."<Close><End of Block>
+<TextBlock 45 w:30 h:4>
+Stone
+"Grazie.
+Sono un incapace
+con le macchine."<Close><End of Block>
+<TextBlock 46 w:50 h:3>
+Stone
+"In realtà, Krelian non
+mi ha detto molto.<New>
+Mi ha parlato soltanto
+della 'Salvezza della
+Umanità'.<New>
+Comunque, anche se lo
+sapessi, non ve lo
+direi…"<Close><End of Block>
+<TextBlock 47 w:16 h:1>
+… Umph!<Close><End of Block>
+<TextBlock 48 w:36 h:4>
+Trone
+"Lo sappiamo, lo
+sappiamo!<New>
+Smettila di darci
+ordini in quel
+modo così arrogante!"<Close><End of Block>
+<TextBlock 49 w:40 h:4>
+Trone
+"Hai ragionissima.
+Lo facciamo solo perché
+sono ordini di Ramsus.<New>
+Uffa…! Ora ci sta
+facendo proteggere
+questa spazzatura…"<Close><End of Block>
+<TextBlock 50 w:50 h:4>
+Trone
+"Beh, ragazzi, questi
+sono i nostri ordini…
+Nulla di personale.<New>
+Ci fareste un favore se
+vi sbrigaste a perdere."<Close><End of Block>
+<TextBlock 51 w:50 h:4>
+Trone
+"Beh, scusa~teci!
+Ma non possiamo ancora
+lasciarvi andare…<New>
+A noi non importa un
+fico secco di Krelian,
+ma se facciamo un lavoro
+schifoso… beh…<New>
+Faremo fare brutta
+figura a Ramsus.<New>
+Ma, grazie a voi stupidi
+che la avete fatta
+tornare in vita…<New>
+… possiamo finire questa
+missione prima di quanto
+avremmo mai pensato."<Close><End of Block>
+<TextBlock 52 w:52 h:4>
+Trone
+"Oh, Sera…
+Non devi dirglielo!<New>
+Proprio mentre ci stavo
+facendo sembrare
+psicologicamente superiori
+a loro! Merda…"<Close><End of Block>
+<TextBlock 53 w:52 h:4>
+Trone
+"Ehi, guarda che
+si chiama…<New>
+'Mente Positronica
+Fotone', stupida!<New>
+'Mente Gin-tonico
+Futon'… ma da dove
+ti esce?<New>
+Mi fai sembrare una
+baldracca ubriaca!<New>
+(Già il nome fa schifo…
+'Mente Positronica
+Fotone'…<New>
+Sicuramente questo nome
+ci darà dei problemi
+con i creatori di
+'Star Trek'!)"<Close><End of Block>
+<TextBlock 54 w:32 h:2>
+Trone
+"Uh oh!! Scusa."<Close><End of Block>
+<TextBlock 55 w:26 h:2>
+Trone
+"Ci siamo!!"<Close><End of Block>
+<TextBlock 56 w:36 h:4>
+Trone
+"Seraphita!!
+Ne ho abbastanza!<New>
+Abbiamo fatto il
+lavoro che ci era
+stato richiesto.<New>
+Usciamo fuori
+di qui!!"<Close><End of Block>
+<TextBlock 57 w:52 h:4>
+Seraphita
+"Ehi, Trone, sbrighiamoci
+a finire, così possiamo
+uscire di qui!<New>
+Non mi piacciono
+i posti bui!"<Close><End of Block>
+<TextBlock 58 w:44 h:3>
+Seraphita
+"Ehi, Trone! È
+così carina<Delay 15>…<New>
+Ma ripensandoci bene,
+fa ribrezzo!!"<Close><End of Block>
+<TextBlock 59 w:52 h:4>
+Seraphita
+"Vero, e non sapevamo
+come far funzionare
+quell'apparecchio…<New>
+… perciò eravamo
+molto confuse!<New>
+Grazie tantissimo
+per averci gentilmente
+aiutate!"<Close><End of Block>
+<TextBlock 60 w:52 h:4>
+Seraphita
+"Cosa!? Ma…<New>
+Quando le persone
+sono cortesi con te,
+si dovrebbe sempre
+ringraziare.<New>
+Questo è quello che
+diceva sempre la nonna…"<Close><End of Block>
+<TextBlock 61 w:54 h:3>
+Seraphita
+"Però, sono rimasta
+colpita, Trone!<New>
+'Psicologicamente
+superiori'?<New>
+Il tuo innesto cyborg
+'Mente Gin-tonico
+Futon' ti rende proprio
+intelligente!"<Close><End of Block>
+<TextBlock 62 w:18 h:2>
+Seraphita
+"Scusami!!"<Close><End of Block>
+<TextBlock 63 w:38 h:4>
+Seraphita
+"… Trone…<New>
+Per caso vogliamo
+essere chiamate
+'innocue'?"<Close><End of Block>
+<TextBlock 64 w:26 h:4>
+Seraphita
+"A~hh!
+Trone!
+Aspettami!"<Close><Close><End of Block>

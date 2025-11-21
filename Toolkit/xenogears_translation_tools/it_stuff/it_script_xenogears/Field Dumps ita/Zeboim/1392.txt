@@ -1,0 +1,38 @@
+<TextBlock 1 w:50 h:3>
+Big Joe
+"Allora, vi piace
+il mio negozio?
+Stramitico, eh?"<Close><End of Block>
+<TextBlock 2 w:52 h:4>
+È il negozio di Joe, perciò
+tutto è 'Qualità Joe'.
+     <Opcode 1 255>Oggetti
+     Parti per Gear<Close><End of Block>
+<TextBlock 3 w:46 h:3>
+Big Joe
+"Allora? Vi piace, eh?
+Tornate ancora!!"<Close><End of Block>
+<TextBlock 4 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 5 w:38 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 6 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 7 w:38 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 8 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 9 w:38 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 10 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 11 w:38 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><Close><End of Block>

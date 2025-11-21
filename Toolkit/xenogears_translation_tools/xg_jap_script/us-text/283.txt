@@ -1,0 +1,92 @@
+#### 1 ####
+{fast:FF}Armor Ground
+
+#### 2 ####
+{fast:FF}Supply Entrance
+
+#### 3 ####
+{fast:FF}Screw Elevator
+
+#### 4 ####
+What're you runnin'
+around for? Don't know
+where to go eh?
+    Yes
+    No
+
+#### 5 ####
+Hmph!
+Then get outta here.
+I got work to do.
+
+#### 6 ####
+The Reapers are good
+from afar but afar from
+good. {enter}
+It's the biggest mistake
+they'll ever make
+if they miss with a
+beefcake like me.
+
+#### 7 ####
+Doh!! That is
+pathetic.{enter}
+Now listen to me very
+carefully, I'm only going
+to tell you once.
+
+#### 8 ####
+This is the deck!
+
+#### 9 ####
+This is the entrance to
+the screw elevator which
+allows you to get to the
+bridge.
+
+#### 10 ####
+This is a supply
+entrance but it also
+serves as a Gear Shop!!
+
+#### 11 ####
+Now you know. Now get
+out of here!! G'wan!
+
+#### 12 ####
+Another day on the
+job...Submerged under
+the sea day to
+day{wait:0A}...{wait:0A}...{wait:0A}sigh...
+
+#### 13 ####
+Having that job from
+the 'Ethos' ruined,{enter}
+I guess there's no other
+way for me to make a
+living 'cept diving...
+sigh...
+
+#### 14 ####
+Before going in though,
+I'll have to do some
+warming-up exercises.
+Ha, ho, ha, ho...
+
+#### 15 ####
+With my warm up
+exercises, I'll be able
+to save all the drowning
+people. Yeah...{enter}
+exercise...
+Ha, ho, ha, ho...
+
+#### 16 ####
+Fei
+"Okay{wait:05}...{wait:0A}
+Let's go."
+
+#### 17 ####
+Elly
+"W-wait..."
+

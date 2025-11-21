@@ -1,0 +1,432 @@
+#### 1 ####
+(Hyuga...{wait:0A}
+I don't know why
+you are here.{enter}
+But if you try
+anything funny...{wait:0A}
+Do you understand?)
+
+#### 2 ####
+(I also left his land.
+Since we just met, I do
+not blame you for not
+trusting me, but...)
+
+#### 3 ####
+Oh, young master!
+It's unusual for you
+to be alone.
+It's already been fixed, 
+so please don't worry.
+
+#### 4 ####
+What do you want to do?
+{fast:FF}    View Gear from here
+    View Gear from front
+    Hear lowdown on Gear
+    Nothing
+
+#### 5 ####
+This is {name:0B:任尼伙玄奈伙}.
+Height 16.3 sharls
+Base Weight 17.8 kahnns
+Full Weight 22.7 kahnns
+when fully equipped.{enter}
+A well balanced Gear in
+offensive, defensive,
+and Ether abilities.{enter}
+But it has some parts that
+cannot be disassembled...
+I guess you can call them
+'blackboxes'...?{enter}
+They don't cause problems
+in maintenance, but they
+just get on my mind every
+time that I see them.
+
+#### 6 ####
+This is {name:0C:任尼伙玄奈伙2}.
+
+#### 7 ####
+This is {name:1A:未用幼失旦}.
+It is Fei's Gear.{enter}
+Height 19.8 sharls
+Base Weight 18.9 kahnns
+Full Weight 21.4 kahnns
+when fully equipped.{enter}
+{name:0C:任尼伙玄奈伙2} was
+transformed after its
+contact with Zohar.{enter}
+Detailed specs cannot be
+ascertained by the
+measuring devices here.{enter}
+But then again, I wonder
+whether this Gear has a
+limited ability to measure
+at all?{enter}
+It almost seems that this
+Gear gets stronger and
+stronger as Fei's mental
+powers increase...{enter}
+Anyhow, the engine seems
+to have been left in there
+from before, so it should
+require fuel as before...{enter}
+But it wouldn't surprise
+me if this thing doesn't
+actually need fuel anymore!
+
+#### 8 ####
+This is {name:0F:皮伉布件犯奴失},
+our boss, the young
+master's Gear.{enter}
+Height 17.0 sharls
+Base Weight 13.9 kahnns
+Full Weight 18.6 kahnns
+when fully equipped.{enter}
+It is specially tuned for
+desert battles. The power
+of the Hover-thrusters in
+the legs are especially
+worthy of attention...{enter}
+Oh, and the eyepatch and
+feather decorations were
+added later at the young
+master's request.
+
+#### 9 ####
+We didn't know what to do
+when young master said,{wait:0A}
+"Destroy one sensor and
+put an eyepatch over it
+...without weakening the
+ability to reconnoiter..."!
+
+#### 10 ####
+This is {name:17:�禳丰╞韞犮竷‘瞕,
+the young master's Gear...{enter}
+Height 18.3 sharls
+Base Weight 15.2 kahnns
+Full Weight 19.1 kahnns
+when fully equipped.{enter}
+This is an Omnigear that
+was left by Roni Fatima,
+the ancestor of our young
+master...{enter}
+They say this Omnigear was
+created by uniting that...
+Anima Relic (or whatever it
+is called...) and a machine.{enter}
+But by the looks of it, this
+frame also used to be some
+kind of Gear before it was
+transformed...{enter}
+All exterior work and 60% of
+the interior was changed to
+unknown materials, but the
+base was a regular machine.{enter}
+So that means the basic
+performance can be improved
+by using different parts.{enter}
+But then again, it moves by
+spiritual power so such parts
+may not influence its real
+overall power that much.
+
+#### 11 ####
+This is {name:17:�禳丰╞韞犮竷‘瞕,
+the young master's Gear...{enter}
+Height 18.3 sharls
+Base Weight 15.2 kahnns
+Full Weight 19.1 kahnns
+when fully equipped.{enter}
+It was created by two of
+the sages of Shevat,
+Balthasar and Melchior...{enter}
+They made it using the data
+on the Omnigear left by Roni
+Fatima, an ancestor of the
+young master, and the data
+obtained from {name:1A:未用幼失旦}.{enter}
+It is a combination of the
+latest Gear technology and
+nanotechnology. But the
+performance is the same as
+when it was an Omnigear.{enter}
+Even when it was found
+hidden in the underground
+in Nisan, its basic weapon
+equipment was the whip.{enter}
+That must mean, the young
+master's ancestors must've
+used whips and rods too...
+I guess it's in the blood,
+huh!?
+
+#### 12 ####
+This is {name:0E:目奶丞母伙},
+Doctor Citan Uzuki's Gear.{enter}
+Height 16.9 sharls
+Base Weight 14.0 kahnns
+Full Weight 18.1 kahnns
+when fully equipped.{enter}
+The basic frame was
+excavated at the same time
+as the young master's Gear.{enter}
+But its output was
+proportionately too powerful
+for the body, so it took a
+long time to adjust it...{enter}
+Actually many of my team
+members were injured
+because of it.{enter}
+But doc solved the problem
+so easily, and can control
+it so well now...
+It was just amazing.
+
+#### 13 ####
+This is {name:16:�禳丰掍坏韞磪觱,
+Doctor Citan Uzuki's Gear.{enter}
+Height 18.6 sharls
+Base Weight 17.2 kahnns
+Full Weight 20.4 kahnns
+when fully equipped.{enter}
+It was created by two of
+the sages of Shevat,
+Balthasar and Melchior.{enter}
+They used the data from the
+Omnigear, Fenril, brought
+from Solalis by the Doctor,
+and Fei's {name:1A:未用幼失旦}.{enter}
+It is a union of Gear and
+nanotechnology. But the
+performance is the same as
+when it was an Omnigear.{enter}
+The default equipment is
+the sword...which seems
+to be the doctor's weapon
+of choice.
+
+#### 14 ####
+Want to rename this Gear?
+{fast:FF}    Yes, I'd like to!
+    No, not now thanks!
+
+#### 15 ####
+Citan
+"Fei!
+I was worried about you!"
+
+#### 16 ####
+Fei
+"Doc..."
+
+#### 17 ####
+Welcome to the sand cruiser
+"Yggdrasil". We apologize
+for that earlier incident.
+
+#### 18 ####
+Maison
+"I'm sure everyone has
+already had the courtesy
+to introduce themselves. {enter}
+But allow me to introduce
+the sand pirates' leader,
+Master Bartholomew."
+
+#### 19 ####
+Maison
+"By the way, may I ask,
+young master, did you
+apologize to Master Fei?" 
+
+#### 20 ####
+Bart
+"What?  Uhh...yeah...{wait:0A}
+I told him I was
+'wrong'...{wait:0A} Right?"
+
+#### 21 ####
+...
+
+#### 22 ####
+Just telling someone you
+were 'wrong' after the
+event isn't going to solve
+everything, young master.
+
+#### 23 ####
+First Mate
+"I'm sorry I've delayed
+introducing myself...{enter}
+My name is "Sigurd", the
+First Mate of this sand
+cruiser.
+
+#### 24 ####
+Maison
+"Well then, please let me
+know if you need anything."
+
+#### 25 ####
+Bart
+"...That's the situation...{wait:0A}
+So now, forgive me, will
+ya!?"
+
+#### 26 ####
+Sigurd
+"Young master!
+Stay out of mischief."
+
+#### 27 ####
+"Ouch ouch ouch!!
+Don't pull my ears!"{clear:0F}
+
+#### 28 ####
+Citan
+"Let us go and wait in our
+cabin until we arrive...{enter}
+It is well-made and
+comfortable."
+
+#### 29 ####
+Fei
+"..."
+
+#### 30 ####
+Citan
+"What is wrong?
+You look down."
+
+#### 31 ####
+Fei
+"No...{wait:0A}
+Well..."
+
+#### 32 ####
+Citan
+"Something happened?"
+
+#### 33 ####
+Fei
+"No, nothing."
+
+#### 34 ####
+Fei
+"{slow:01}I...must go{wait:05}...!!
+
+#### 35 ####
+Citan
+"You are in no condition
+to participate...{wait:0A}
+Let us take care of this!"
+
+#### 36 ####
+Billy
+"Looks like it's time to
+settle the score... But,
+Fei should be resting."
+
+#### 37 ####
+Billy
+"Looks like it's time to
+settle the score... But,
+Fei should be resting."
+
+#### 38 ####
+Citan
+"Yes. {wait:0A}
+I shall take Fei to the
+infirmary.{enter}
+Billy, please take care of
+the rest of things."
+
+#### 39 ####
+Billy
+"Please help us if you
+can."
+
+#### 40 ####
+Fei!?
+
+#### 41 ####
+Fei
+"Uh,{wait:14} doc..."
+
+#### 42 ####
+Citan
+"Fei, 
+feeling better already?"
+
+#### 43 ####
+Fei
+"Yeah...{wait:14}
+Probably..."
+
+#### 44 ####
+Elly
+"I take my eyes off of you
+for a second and this is
+what you go and do...{enter}
+What are you doing riding
+a Gear when you're only
+just recovering?"
+
+#### 45 ####
+Elly
+"What are you doing riding
+a Gear when you're only
+just recovering?"
+
+#### 46 ####
+Billy
+"Why are you up and about?
+I thought you were only
+just recovering?{enter}
+You shouldn't be doing
+that!"
+
+#### 47 ####
+Bart
+"What are you moving around
+for when you've only just
+recovered?{enter}
+Aren't sick people supposed
+to rest in bed!!"
+
+#### 48 ####
+Rico
+"Why are you moving around?
+You've only just recovered!{wait:0A}
+Get back to bed!!"
+
+#### 49 ####
+Fei
+"I don't know what I'm
+doing here myself...{enter}
+I don't have a clear head,
+yet..."
+
+#### 50 ####
+...
+
+#### 51 ####
+Uhhh...
+
+#### 52 ####
+Citan
+"Fei!!{wait:0A}
+You should not be
+moving around yet!!"
+
+#### 53 ####
+Alkanshel located straight
+ahead!!{wait:0A}
+Prepare Gears for launch!!
+
+#### 54 ####
+
+

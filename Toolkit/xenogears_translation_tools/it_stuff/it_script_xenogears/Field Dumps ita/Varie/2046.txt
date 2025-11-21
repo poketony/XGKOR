@@ -1,0 +1,93 @@
+<TextBlock 1 w:30 h:7>
+    <Opcode 1 255>inizio gioco
+    a lahan
+    da shitan
+    a kislev
+    da alice
+    avvenimento orgel
+    esci<Close><End of Block>
+<TextBlock 2 w:58 h:7>
+    <Opcode 1 255>shitan di notte
+    attacco su lahan
+    rovine lahan
+    faccio ora
+    shevat per la prima volta
+    viene una spia di shevat
+    esci<Close><End of Block>
+<TextBlock 3 w:48 h:12>
+    <Opcode 1 255>viene una spia
+    hangar gear
+    viene Achtzehn
+    schermata del trono
+    battaglia ai generatori
+    attacco su Solaris 
+    giustizia
+    fuggiasco
+    fossa merkabah
+    angeli merkabah
+    deus
+    esci<Close><End of Block>
+<TextBlock 4 w:58 h:10>
+    <Opcode 1 255>chuchu arrabbiata
+    chuchu contro Achtzehn
+    maria contro Achtzehn
+    maria va a Solaris
+    golgotha
+    sonno nel carbonio
+    il carbonio si rompe
+    rifugio nel nevaio
+    altro
+    esci<Close><End of Block>
+<TextBlock 5 w:42 h:6>
+password<Delay 10>
+    esci
+    esci
+    iniziare
+    test con facce
+    test senza facce<Close><End of Block>
+<TextBlock 6 w:54 h:4>
+Chu-Chu
+ "Questo è un livello-test
+ per la versione italiana
+ di Xenogears.<New>
+ Ho bisogno di amore per
+ sentirmi vivo e star
+ bene. È solo l'amore che
+ puoi farmi stare bene.<New>
+ E ricordate, i SadNES
+ sono mitici!"<Close><End of Block>
+<TextBlock 7 w:68 h:7>
+ Questo è un test per la versione
+ italiana di Xenogears. Nel tuo
+ viso sono molte meraviglie,
+ molti tesori. Posso trovare una
+ traccia di tristezza che passa
+ vicino. Serve amore per sentirsi
+ vivi e felici…<New>
+ Ma ci sono momenti nella nostra
+ memoria che una vaga scena da
+ una passata grandezza ritorna
+ dal mendicante e tira indietro
+ la mano come se fosse sufficiente
+ fino al giorno in cui tutto è
+ riguadagnato.<Close><End of Block>
+<TextBlock 8 w:54 h:4>
+<Extra2 255><Extra2 255><UNKNOWN CHUNK 242><Extra1 60><UNKNOWN CHUNK 192><Extra2 255><Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 185><Extra2 255><Extra2 255><Extra2 255><Extra2 255><UNKNOWN CHUNK 228><Extra2 255><Extra2 255><°>
+<C><Extra1 35><Extra1 6><Extra1 56><UNKNOWN CHUNK 185><Extra2 255><Extra2 255><Extra2 255><Extra2 255><°>
+<X><Extra1 35><Extra1 6><Extra1 56><UNKNOWN CHUNK 185><Extra2 255><Extra2 255><Extra1 41><Extra1 60><Extra1 16><UNKNOWN CHUNK 157><UNKNOWN CHUNK 219><UNKNOWN CHUNK 190><UNKNOWN CHUNK 163><UNKNOWN CHUNK 208><UNKNOWN CHUNK 171><°><Wait>
+<UNKNOWN CHUNK 175><UNKNOWN CHUNK 222><UNKNOWN CHUNK 185><UNKNOWN CHUNK 193><`><Extra2 255><Extra2 255><UNKNOWN CHUNK 228><Extra2 255><Extra2 255><UNKNOWN CHUNK 169><UNKNOWN CHUNK 184><UNKNOWN CHUNK 161><UNKNOWN CHUNK 178><UNKNOWN CHUNK 167><UNKNOWN CHUNK 150><°><Close><End of Block>
+<TextBlock 9 w:24 h:1>
+<Extra1 16><UNKNOWN CHUNK 231><UNKNOWN CHUNK 239><Extra1 60><Extra1 30><Extra1 56><Extra2 255><Extra2 255><Opcode 2 20><Close><End of Block>
+<TextBlock 10 w:45 h:2>
+<Extra1 24><Extra1 0><Extra1 54><Extra1 60><Extra1 16><UNKNOWN CHUNK 158><UNKNOWN CHUNK 179><UNKNOWN CHUNK 158><UNKNOWN CHUNK 150><UNKNOWN CHUNK 208><UNKNOWN CHUNK 171><°>
+<Extra2 255><UNKNOWN CHUNK 169><UNKNOWN CHUNK 150><Extra2 255><Extra2 255><UNKNOWN CHUNK 228><Extra2 255><Extra2 255><UNKNOWN CHUNK 169><UNKNOWN CHUNK 184><UNKNOWN CHUNK 161><UNKNOWN CHUNK 178><UNKNOWN CHUNK 167><UNKNOWN CHUNK 150><°><Close><End of Block>
+<TextBlock 11 w:27 h:3>
+<Extra2 255><Extra2 255><UNKNOWN CHUNK 228><UNKNOWN CHUNK 214><UNKNOWN CHUNK 211><UNKNOWN CHUNK 208><UNKNOWN CHUNK 171><UNKNOWN CHUNK 157><?><Delay 10>
+    <UNKNOWN CHUNK 214><UNKNOWN CHUNK 211><UNKNOWN CHUNK 221>
+    <UNKNOWN CHUNK 214><UNKNOWN CHUNK 211><UNKNOWN CHUNK 188><UNKNOWN CHUNK 150><Close><End of Block>
+<TextBlock 12 w:26 h:5>
+<Opcode 1 255>cambia peso
+    magrissimo/a
+    magro/a
+    grasso/a
+    grassissimo/a<Close><Close><End of Block>

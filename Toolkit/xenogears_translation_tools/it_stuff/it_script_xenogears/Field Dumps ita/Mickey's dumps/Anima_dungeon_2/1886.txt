@@ -1,0 +1,59 @@
+<TextBlock 1 w:44 h:3>
+Elly
+"Così c'è un Contenitore
+dell'Anima in queste
+rovine."<Close><End of Block>
+<TextBlock 2 w:44 h:3>
+Elly
+"Così c'è un Contenitore
+dell'Anima in queste
+rovine."<Close><End of Block>
+<TextBlock 3 w:48 h:4>
+Rico
+"Mmph, così gli antichi
+adoravano anche cose
+inutili, eh?"<Close><End of Block>
+<TextBlock 4 w:48 h:4>
+Rico
+"Mmph, così gli antichi
+adoravano anche cose
+inutili, eh?"<Close><End of Block>
+<TextBlock 5 w:54 h:3>
+Rico
+"Chi sei tu?
+Che vorresti dire?<New>
+Di' qualcosa che io
+possa capire!
+Chi sei!? Va' via
+dalla mia testa!"<Close><End of Block>
+<TextBlock 6 w:54 h:3>
+Rico
+"Chi sei tu?
+Che vorresti dire?<New>
+Di' qualcosa che io
+possa capire!
+Chi sei!? Va' via
+dalla mia testa!"<Close><End of Block>
+<TextBlock 7 w:22 h:3>
+Fei
+"Rico, ti
+senti bene?"<Close><End of Block>
+<TextBlock 8 w:44 h:3>
+Rico
+"Ho già visto un oggetto
+di quella forma da
+qualche altra parte."<Close><End of Block>
+<TextBlock 9 w:44 h:3>
+Rico
+"Ho già visto un oggetto
+di quella forma da
+qualche altra parte."<Close><End of Block>
+<TextBlock 10 w:52 h:4>
+Fei
+"Quello non era il
+tuo Gear, Rico?<New>
+Allora, sembra fosse
+il tuo turno, Rico!<New>
+Comunque lo vedremo
+quando andremo
+all'esterno."<Close><Close><End of Block>

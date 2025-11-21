@@ -1,0 +1,184 @@
+<TextBlock 1 w:34 h:2>
+Bart
+"Ciao, nonna."<Close><End of Block>
+<TextBlock 2 w:50 h:3>
+Bartolomeo, l'ho sentito
+da mio marito.<Delay 30> Le cose
+sono state abbastanza
+difficili.<New>
+Oh…<Delay 30>
+solo a pensarci…
+Shakhan mi fa riempire
+di bile!<New>
+Fagliela vedere,
+Bartolomeo!<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+Non molta gente sta
+ritornando in città.<Delay 30>
+Perciò gli affari
+vanno un po'…<New>
+Ma… <Delay 30>deve significare
+che l'atmosfera sta
+cambiando in meglio
+dappertutto nel paese.<New>
+Non come prima,<Delay 30>
+quando la gente si
+rifugiava qui.<New>
+Beh, se ci pensi
+un po'…<Delay 30>
+Penso che le cose
+potrebbero mettersi
+bene.<New>
+Oh… continuo a
+parlare sempre.<Delay 30>
+Scusami, ahahahah!<Close><End of Block>
+<TextBlock 4 w:42 h:2>
+Ultimamente, questa città
+è diventata deserta.<New>
+Ma io sono testarda, non
+chiuderò il negozio!<Close><End of Block>
+<TextBlock 5 w:22 h:1>
+Avanti, entrate!<Close><End of Block>
+<TextBlock 6 w:30 h:4>
+State cercando…
+    Oggetti
+    Accessori
+    Nulla<Close><End of Block>
+<TextBlock 7 w:38 h:1>
+Grazie mille.<Close><End of Block>
+<TextBlock 8 w:38 h:1>
+Grazie mille.<Close><End of Block>
+<TextBlock 9 w:22 h:1>
+Torna ancora!<Close><End of Block>
+<TextBlock 10 w:30 h:5>
+State cercando…
+    Oggetti
+    Accessori
+    Parti per Gear
+    Nulla<Close><End of Block>
+<TextBlock 11 w:22 h:1>
+Torna ancora!<Close><End of Block>
+<TextBlock 12 w:22 h:1>
+Torna ancora!<Close><End of Block>
+<TextBlock 13 w:22 h:1>
+Torna ancora!<Close><End of Block>
+<TextBlock 14 w:22 h:1>
+Torna ancora!<Close><End of Block>
+<TextBlock 15 w:50 h:3>
+Fei
+"Oh, beh, non c'è
+nessuno in giro.<New>
+Credo che lascerò
+i soldi qui."<Close><End of Block>
+<TextBlock 16 w:30 h:3>
+    Oggetti
+    Accessori
+    Nulla<Close><End of Block>
+<TextBlock 17 w:50 h:3>
+Padroncino, il vecchio,
+quello che sta nel bar
+dell'Yggdrasil, mi ha
+mandato qui per darvi
+rifornimenti.<New>
+Se volete, posso anche
+prendervi parti per Gear
+che potrebbero servirvi.
+Basta dirmelo.<Close><End of Block>
+<TextBlock 18 w:52 h:4>
+Bart
+"Ehi, ti sei preparato
+bene!<New>
+Se è così, per favore,
+prendici le parti che
+ci servono."<Close><End of Block>
+<TextBlock 19 w:46 h:3>
+Il vecchio, quello che
+sta nel bar dell'Yggdrasil,
+mi ha mandato qui per darvi
+rifornimenti.<New>
+Se volete, posso anche
+prendervi parti per Gear
+che potrebbero servirvi.
+Basta dirmelo.<Close><End of Block>
+<TextBlock 20 w:40 h:3>
+Non c'è nessun negozio
+di souvenir in questa
+città…<New>
+Non è un'attrazione
+turistica?<Delay 30>
+Credo di no.<Close><End of Block>
+<TextBlock 21 w:50 h:3>
+Sigh… Quel tipo lì…<New>
+Ogni tanto abbiamo quei
+tipi ignoranti che
+vengono nella nostra
+città.<Close><End of Block>
+<TextBlock 22 w:46 h:3>
+Non hanno idea di che
+tipo di situazione è
+quella in cui noi tutti
+ci troviamo.<Close><End of Block>
+<TextBlock 23 w:46 h:4>
+Li odio…
+Odio quella gente che è
+così ignorante su ciò
+che succede nel mondo.<New>
+Non ditemi che anche
+voi siete come loro…?<Close><End of Block>
+<TextBlock 24 w:52 h:2>
+Questo posto è diventato
+un luogo di sofferenza.<New>
+La mia famiglia sta
+fuggendo a nord,
+verso le montagne.<New>
+Io sono qui per comprare
+rifornimenti.<Close><End of Block>
+<TextBlock 25 w:52 h:4>
+Sono venuto qui nella
+speranza di trovare
+qualche souvenir.<New>
+Nel lontano caso che ci
+sia qualche scontro
+militare, lotterò e
+difenderò questo posto.<New>
+Se Shakhan sarà
+schiacciato, il paese
+cambierà.<New>
+Se questo accadrà, andrò
+a casa home, chiederò
+alla mia ragazza di
+sposarmi e inizierò
+un nuovo lavoro.<Close><End of Block>
+<TextBlock 26 w:38 h:2>
+Ehi, tu non sei
+il Padroncino?<Close><End of Block>
+<TextBlock 27 w:16 h:1>
+Ehi tu!<Close><End of Block>
+<TextBlock 28 w:8 h:1>
+Ehh?<Close><End of Block>
+<TextBlock 29 w:8 h:1>
+Ehh!<Close><End of Block>
+<TextBlock 30 w:38 h:1>
+È Bartolomeo!<New>
+Ti va tutto bene?<Close><End of Block>
+<TextBlock 31 w:28 h:2>
+Bart
+"Abbastanza!"<Close><End of Block>
+<TextBlock 32 w:40 h:2>
+Non cercare 
+di strafare.<New>
+Ehi, quelli lì
+dietro sono
+amici tuoi?<Close><End of Block>
+<TextBlock 33 w:30 h:3>
+Bart
+"Sì.
+Fei e Shitan."<Close><End of Block>
+<TextBlock 34 w:54 h:2>
+Gli amici del Padroncino
+sono anche amici nostri.<New>
+Fate con comodo e date
+un'occhiata in giro.<Close><End of Block>
+<TextBlock 35 w:18 h:2>
+Bart
+"Grazie."<Close><Close><End of Block>

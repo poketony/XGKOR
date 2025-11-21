@@ -1,0 +1,74 @@
+#### 1 ####
+Save yourselves but leave
+your friends to sink in a
+sea of sand... Don't you
+believe in comradeship?
+
+#### 2 ####
+Citan
+"Wooh..."
+
+#### 3 ####
+Citan
+"Whoops..."
+
+#### 4 ####
+Citan
+"Ha ha ha...{wait:10}
+Well, Doctor Citan Uzuki!{enter}
+Feels like you have sacked
+your saccules, and tickled
+your utricles enough for
+one life time! Wow, dizzy!"
+
+#### 5 ####
+Citan
+"Fei, I was only joking.{wait:12}
+Riding in the hand was
+not so bad.{enter}
+I can see what is so
+good about this top
+secret experimental
+Kislev machine."
+
+#### 6 ####
+Citan
+"Really...?{wait:18}
+Amazing...!"
+
+#### 7 ####
+Citan
+"?
+..."{clear:20}
+
+#### 8 ####
+Fei
+"C'mon doc!
+Over here!
+Hurry up!"
+
+#### 9 ####
+Fei
+"Are you okay, doc?"
+
+#### 10 ####
+Fei
+"Sorry about that, doc!
+I didn't have time to
+open up the cockpit...{enter}
+Are you really okay, doc?"
+
+#### 11 ####
+Fei
+"Yeah,{wait:10} when I started it
+up, it began doing all
+kinds of stuff by itself...{enter}
+The environmental response
+system and weight-reduction
+hovering kicked in straight
+away{wait:05}...{wait:05}automatically!"
+
+#### 12 ####
+Fei
+"!!?..."{clear:20}
+

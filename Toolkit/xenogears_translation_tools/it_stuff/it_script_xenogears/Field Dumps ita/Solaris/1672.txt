@@ -1,0 +1,20 @@
+<TextBlock 1 w:12 h:1>
+!%#?&!<Close><End of Block>
+<TextBlock 2 w:50 h:3>
+ Un,<Delay 5> due,<Delay 5> un,<Delay 5> due!!<Delay 15>
+… Mi sto esercitando
+a danzare, non rompere!!<Close><End of Block>
+<TextBlock 3 w:12 h:1>
+!%#?&!<Close><End of Block>
+<TextBlock 4 w:44 h:1>
+ Un,<Delay 5> due,<Delay 5> un,<Delay 5> due!!<Opcode 2 30><Close><End of Block>
+<TextBlock 5 w:14 h:1>
+!%#?&+!<Close><End of Block>
+<TextBlock 6 w:44 h:1>
+ Un,<Delay 5> due,<Delay 5> un,<Delay 5> due!!<Opcode 2 30><Close><End of Block>
+<TextBlock 7 w:50 h:1>
+ Un,<Delay 5> due,<Delay 5> tre,<Delay 5> quattro!!<Opcode 2 30><Close><End of Block>
+<TextBlock 8 w:50 h:1>
+ Un,<Delay 5> due,<Delay 5> tre,<Delay 5> quattro!!<Opcode 2 30><Close><End of Block>
+<TextBlock 9 w:0 h:1>
+<Close><End of Block>

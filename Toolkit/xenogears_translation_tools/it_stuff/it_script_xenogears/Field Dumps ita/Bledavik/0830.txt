@@ -1,0 +1,42 @@
+<TextBlock 1 w:50 h:3>
+Ma quella cameriera è
+stupida!? Ha detto che
+deve andare a bloccare
+l'uscita…<Close><End of Block>
+<TextBlock 2 w:54 h:4>
+Il mio fratellone ha
+lavorato in quel ristorante.<New>
+Ha preso tantissimi
+imbroglioni che cercano di
+filarsela dopo aver mangiato..<New>
+Diceva di poter svelare chi
+si sarebbe comportato in quel
+modo.<New>
+Ma da quanto è andato nello
+esercito, c'è una nuova
+cameriera…<New>
+Voglio far sì che riprenda
+facilmente il suo lavoro,
+non appena ritorna.<New>
+Infastidisco sempre la
+camaeriera, e aiuto gli
+imbroglioni che vogliono
+filarsela dopo aver mangiato.<Close><End of Block>
+<TextBlock 3 w:50 h:3>
+Il mio fratellone è tornato,
+ma non lavora più al
+ristorante.<New>
+Sto facendo del mio meglio
+per fargli trovare presto
+un lavoro. Dice che sarà
+un giardiniere.<Close><End of Block>
+<TextBlock 4 w:50 h:4>
+Eh, casa dolce casa!<New>
+Niente proiettili
+sparati dai nemici,
+o i pugni presi dal
+sergente! E la cosa
+migliore è la mia famiglia.<New>
+L'esercito mi ha insegnato
+che si deve fare ciò che
+si vuole finché si può.<Close><Close><End of Block>

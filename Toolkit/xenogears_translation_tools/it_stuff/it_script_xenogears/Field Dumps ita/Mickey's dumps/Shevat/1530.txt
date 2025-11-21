@@ -1,0 +1,31 @@
+<TextBlock 1 w:54 h:4>
+Oh, e tu sei…?<Delay 20>
+Sento come se ti avessi
+già incontrato prima…<New>
+Mmh… somigli a Kahn,
+colui che ci ha istruito
+all'arte del combattimento.<New>
+Nessuno sa dove ora sia,
+dopo che è andato sulla
+superficie in missione
+per conto della Regina…<New>
+Non credo che gli sia
+accaduto qualcosa di
+grave, considerando le
+sue capacità…<New>
+Ma… vorrei tanto sapere
+dove si trova.<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+Siete appena arrivati dalla
+superficie, vero?<Delay 20> Ho sentito
+parlare di voi.<New>
+Dicono che avete salvato la
+nostra compagna che era stata
+catturata dalla Chiesa.<Delay 20>
+Grazie infinite.<Close><End of Block>
+<TextBlock 3 w:46 h:4>
+Come vorrei che mi
+assegnassero una vera
+missione!<New>
+Darei una lezione coi
+fiocchi a quei Solariani…<Close><Close><End of Block>

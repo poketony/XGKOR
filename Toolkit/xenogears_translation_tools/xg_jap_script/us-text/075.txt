@@ -1,0 +1,57 @@
+#### 1 ####
+Citan
+"Fei!!"
+
+#### 2 ####
+Bart
+"I knew you'd
+come round!!"
+
+#### 3 ####
+Fei
+"We'll talk later!
+We've got big trouble
+coming down on us now!"
+
+#### 4 ####
+Citan
+"I know I am a little
+rusty...{enter}
+There is a limit to what
+I can learn seeing as I
+started so late in life.{enter}
+Even so, I hit that guy
+hard and he did not go
+down. They must be using
+'that stuff'."
+
+#### 5 ####
+Citan
+"Young one!{wait:0A}
+They are using -Drive-!{enter}
+They are battle
+enhancement drugs.{wait:0A}
+Normal attacks will
+not hurt them!"
+
+#### 6 ####
+Bart
+"Are you serious?
+So that's how they
+keep at it, huh?{enter}
+Crap...
+This'll never end!
+
+#### 7 ####
+Citan
+"Fei!!"
+
+#### 8 ####
+Bart
+"It's okay!
+We'll get by
+without him!"
+
+#### 9 ####
+
+

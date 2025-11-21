@@ -1,0 +1,1103 @@
+#### 1 ####
+Citan
+"Well, {wait:05}Fei.{enter}
+The train will be here
+soon.{wait:0F} Let us hurry, {wait:05}up to
+the observation tower."
+
+#### 2 ####
+Fei
+"Jump onto the train from
+here when it goes by{wait:05}..."
+
+#### 3 ####
+Fei
+"{wait:05}...{wait:05}That's right.
+First we have to clear up
+this murder case{wait:05}..."
+
+#### 4 ####
+Fei
+"That's right, {wait:0A}sorry doc.{enter}
+I completely forgot.{wait:0F}
+I'll have to go back to
+the dorm{wait:05}..."
+
+#### 5 ####
+Fei
+"Thanks.{wait:0F}
+I'm gonna go now then."
+
+#### 6 ####
+{wait:05}...{wait:05}It's gone.
+
+#### 7 ####
+Citan
+"{wait:05}...{wait:05}It is gone."{clear:5A}
+
+#### 8 ####
+Alarm activated, please leave
+via the upper passage.{clear:3C}
+
+#### 9 ####
+Upper passage thermal motion
+detector disabled.{clear:3C}
+
+#### 10 ####
+No good, it's locked.{clear:1E}
+
+#### 11 ####
+No good, it's locked.{clear:1E}
+
+#### 12 ####
+It's locked from the inside.{clear:1E}
+
+#### 13 ####
+It's locked from the inside.{clear:1E}
+
+#### 14 ####
+The sun's already gone down.
+Sorry but time to go!!
+
+#### 15 ####
+Gramps
+"I've some advice for you,
+youngster!{wait:1E}{enter}
+Jumping from this tower is
+illegal!! Even if I know you
+I'm gonna fine you!{wait:0F}{enter}
+Better not {wait:05}forget it!
+I'm no pushover!"
+
+#### 16 ####
+Gramps
+"Hey, today the supply train
+is coming through!{enter}
+I've some advice for you,
+youngster, don't try to
+block the tracks!{wait:0F}
+You'll be fined{wait:05}..."
+
+#### 17 ####
+Gramps
+"Beyond those tracks over
+there{wait:05}...{enter}
+There's some special
+equipment in the tunnel.{enter}
+There was a group who tried
+to escape and didn't know
+that. That bomb collar
+went BOOM! Yep, see ya{wait:05}..."
+
+#### 18 ####
+Gramps
+"{wait:05}...{wait:05}As long as you have
+that bomb collar on, it's
+impossible to escape!"
+
+#### 19 ####
+Gramps
+"I've some advice for you,
+youngster!{wait:1E} Jumping from
+this tower is illegal!!{enter}
+Even if I know you you,
+I'm gonna fine you!{wait:0F}
+Better not {wait:05}forget it!
+I'm no pushover!"
+
+#### 20 ####
+Gramps
+"What!{wait:05} Youngster!!{wait:05}{enter}
+Weren't you listening?{wait:0F}
+You can't jump from here! {wait:14}
+It's illegal!"
+
+#### 21 ####
+Gramps
+"Hey, {wait:05}the fine's 50G!{wait:0F}
+You can't jump from here,
+I'll teach you a lesson."
+
+#### 22 ####
+Got a 50G fine!
+
+#### 23 ####
+Gramps
+"You don't have 50G?{wait:0F}
+Youngster, {wait:05}having trouble{wait:05}...{wait:0F}
+Go on! {wait:05}Get outta here!"
+
+#### 24 ####
+Anyway, got 30G!!
+
+#### 25 ####
+I don't have much strength,{wait:05}
+but I know I won't lose to
+anyone in the manual
+dexterity department!{enter}
+So I'm doing the perfect job
+for me, {wait:05}fixing the roof.{wait:0F}
+It pays almost as well as
+working the sewers!
+
+#### 26 ####
+Hey, hey, I have some
+advice for you. That old
+guy in the observation
+tower, he's real strict.{enter}
+If you look like you're
+gonna jump you're out.
+Don't even try and jump
+from the tower!
+
+#### 27 ####
+By the way, {wait:05}
+I have a good story.{enter}
+I know where you can get a
+job without having to look
+for it. Here, the price for
+cleaning up monsters is set.{enter}
+Any other job sucks.{enter}
+{wait:05}...{wait:05}So if you really
+need to go down there,
+gimme some money and I'll
+let you.
+
+#### 28 ####
+How about just 100G?{wait:0F}
+     I'll pass
+     Guess I have to...
+
+#### 29 ####
+Wha! {wait:05}I see.{wait:0F}
+Well fine, {wait:05}be that way!
+
+#### 30 ####
+Handed over 100G.
+
+#### 31 ####
+Hey, business is better.{wait:05}
+Hurry, down in the sewer!{wait:0F}
+If I get caught...
+
+#### 32 ####
+Some advice for ya bud.
+Don't go too far alone!
+The further you the
+stronger the monsters are.
+
+#### 33 ####
+Hey you, {wait:0F}wait a sec,
+Did ya bring the 100G?{wait:1E}
+If ya don't pay I won't
+let ya out!
+
+#### 34 ####
+This is the entrance to the
+Kislev sewers. There's a ton
+of monsters down there so
+don't go unless you're good.{enter}
+Those stupid Battlers and
+bounty hunters are always
+coming and going.
+
+#### 35 ####
+Hey, {wait:05}hold on!
+
+#### 36 ####
+You, didn't you hear me?{wait:0F}
+The sewer is closed off by
+martial order. You got it?{wait:0F}{enter}
+So no more cleaning up.
+You'll have to find another
+way to make money.
+
+#### 37 ####
+Hey, {wait:05}what{wait:05}...{wait:05}the?{wait:1E}
+Y{wait:05}...{wait:05}You're the{wait:0F}
+Ch,{wait:05} Champ!!
+
+#### 38 ####
+Rico
+"Thanks for watching the
+sewers. I'm going down
+there now{wait:05}...{enter}
+Don't let anyone besides
+these guys in."
+
+#### 39 ####
+Yes sir, Champ!!
+
+#### 40 ####
+Sometimes posters have
+comments written on
+them{wait:05}...{enter}
+I don't know if it'll help
+but you'd better take a
+look{wait:05}...
+
+#### 41 ####
+I'll tell you one thing.{wait:05}
+Things posted up on walls,
+like that, on that wall{wait:05}...{enter}
+They have some stuff written
+on them.{wait:05} There are lots
+more than that one too.
+
+#### 42 ####
+Pay attention!
+
+#### 43 ####
+The crowd in the bar never
+changes. But the upper level
+of the prisoners' dorm is
+full of Battlers.
+
+#### 44 ####
+This isn't like a bar. The
+dorm is full of people
+coming and going,{wait:05}
+it's ever changing.
+
+#### 45 ####
+Even in this smoggy town,
+if you take special care
+and water the plants,
+flowers will bloom.
+
+#### 46 ####
+Gave Dog Food!
+
+#### 47 ####
+Just a dog house{wait:05}...{wait:05}...
+
+#### 48 ####
+Fei
+"{wait:05}...{wait:05}Getting up's a pain."{clear:2D}
+
+#### 49 ####
+Above the cross, {wait:05}a goat's horn, {wait:05}
+east and west, {wait:05}
+the ruling god's throne,{wait:05}
+the one possessing, {wait:05}the red seal,{enter}
+here and there,
+digging up, {wait:05}
+treasures of the past,
+or so{wait:05}...{wait:05}they say.
+
+#### 50 ####
+That's the song I wrote.{wait:0F}
+It's about the B-Info. store.{enter}
+We sell machine parts for
+Gears from ruins all over
+the world.
+
+#### 51 ####
+I know a lot, huh?
+
+#### 52 ####
+Hey hey, Eric{wait:05}...{wait:05}...!?{wait:0F}
+{wait:05}...{wait:05}not.
+Gimme some money!
+
+#### 53 ####
+Cool!{clear:1E}
+
+#### 54 ####
+This is such a dangerous
+town! They even steal the
+shirt off your back.{enter}
+But since he's my bodyguard
+it's no problem!
+
+#### 55 ####
+Wonder if anythings on the
+ground?{wait:0F}
+Yeah, c'mon.
+Wanna help?
+
+#### 56 ####
+Whoo whoo.{clear:1E}
+
+#### 57 ####
+Well{wait:05}...{wait:05}the coin
+design disappeared{wait:05}...{wait:14}
+But like I thought, the
+coin got bigger.
+
+#### 58 ####
+See, {wait:05} isn't this coin
+worthless{wait:05}...{wait:05}?{wait:0F}
+Ahhh, {wait:05}I thought it'd work.
+
+#### 59 ####
+You'll waste the coin,
+don't do it!
+
+#### 60 ####
+Hmmm, {wait:05}according to
+my theory the coin should
+get bigger{wait:05}...{wait:08}
+So, {wait:05}it'll be worth more!
+
+#### 61 ####
+My Adaman coin is messed
+up now because of those
+experiments!{enter}
+And the fine detail is
+all gone{wait:05}...{wait:1E}
+Sigh{wait:05}...{wait:0F}
+It was better before!
+
+#### 62 ####
+There are rails here.{wait:0F}
+Occasionaly a train comes
+through here!{wait:05}...{wait:05}So{wait:0C}
+I put a coin here as a test.
+
+#### 63 ####
+      -WARNING-
+This is dangerous, do
+not try this at home!{clear:5A}
+
+#### 64 ####
+Shut up, {wait:05}I can see that.
+I snuck in from the duct{wait:0F}...{wait:05}not.{wait:05}
+I was repairing the duct.{enter}
+Maybe it'd be better if
+you'd just settle down
+and get to work?{wait:0F}
+Not sewer cleaning but...
+
+#### 65 ####
+Guard
+"I have the night watch!
+
+#### 66 ####
+Guard
+"You can pass!!"
+
+#### 67 ####
+Guard
+"From prisoner to Battler.
+Well good luck{wait:05}..."
+
+#### 68 ####
+Guard
+"Hmm, so you're the new guy?{wait:0F}
+The Imperial Committee is
+looking for you{wait:05}...{enter}
+They heard something about
+you and the Champ's men{wait:05}...{wait:0F}
+They should still be
+somewhere in D Block.{enter}
+They decided to visit you{wait:05}...{wait:0F}
+This is a good chance for a
+prisoner like yourself!"
+
+#### 69 ####
+Guard
+"You again? The Committee
+member is still waiting
+in the dorm or the bar.{enter}
+Hurry, now!"
+
+#### 70 ####
+Guard
+"This is your one in a
+million chance to show
+your stuff!!{enter}
+The dorm or the bar...
+hurry!"
+
+#### 71 ####
+Guard
+"This is the main town.
+D Block prisoners like
+yourself can't pass."
+
+#### 72 ####
+Guard
+"Hey, you{wait:05}...{wait:0F}huh?{wait:14}
+Oh it's you!
+I heard from the Imperial
+Battling Committee{wait:05}...{enter}
+I can let you thru, but as
+long as you have that bomb
+collar on it's no use
+trying to escape{wait:05}...!{enter}
+If you don't wanna die,
+stay away from the off-
+limit areas, such as the
+civilian section, okay!?"
+
+#### 73 ####
+Guard
+"This is the main town.
+D Block prisoners like you,
+what? You're{wait:05}...?{enter}
+{wait:05}...{wait:05}Excuse me!
+Please go on through."
+
+#### 74 ####
+Guard
+"Crap, {wait:05}the Champ losing was
+unbelieveable{wait:05}...{wait:0F}{enter}
+it was like 20 to 5. Almost
+everyone bet on the Champ{wait:05}...{enter}
+{wait:05}...{wait:05}Me, I'm{wait:0F}
+I bet a half years salary,
+all of it{wait:05}everything{wait:05}...{wait:0A}
+stupid{wait:05}...{wait:1E}{enter}
+{wait:05}...{wait:05}Guess I'll be working
+in the sewers too."
+
+#### 75 ####
+Guard
+"We haven't had too many
+Rank A prisnoers like you.{enter}
+That's why the Committee
+noticed you.{enter}
+This years match, it's
+expected{wait:05}...{wait:05}
+the Champ will win though."
+
+#### 76 ####
+Guard
+"{wait:05}...{wait:05}You lost to Suzarn and
+you're only Rank B so there
+is no reason for the
+committee to notice you{wait:05}..."
+
+#### 77 ####
+Guard
+"Next time you'll fight
+while piloting a big machine
+called a Gear. Good luck and
+don't get yourself killed."
+
+#### 78 ####
+Guard
+"Are those Imperial
+capital Committee
+guys losing it?{enter}
+ 
+They're waiting around
+just to talk to a Rank C
+prisoner about entering
+the Battling{wait:05}...?"
+
+#### 79 ####
+Guard
+"Hey. it's a once in a life
+time chance. You gotta give
+it a try{wait:05}...{wait:05}..."
+
+#### 80 ####
+Guard
+"Are those Imperial
+capital Committee
+guys losing it?{enter}
+They're waiting around
+just to talk to a Rank C
+prisoner about entering
+the Battling{wait:05}...?"
+
+#### 81 ####
+Guard
+"Hey. it's a once in a life
+time chance. You gotta give
+it a try{wait:05}...{wait:05}..."
+
+#### 82 ####
+Guard
+"It's unbelievable!{enter}
+The Imperial Committee
+is talking to a Rank D
+prisoner about entering
+the Battling.{enter}
+What are they thinking?"
+
+#### 83 ####
+Guard
+"There are no prisoners
+locked up in here like you,
+who became a Battler in{enter}
+such a short time.
+Hahaha, won't be able to
+take my eyes off the match
+this year{wait:05}...{enter}
+Well, {wait:05}good luck.{wait:0F}
+I'll be rooting for you,{wait:05}
+I guess."
+
+#### 84 ####
+Guard
+"What work?{wait:14}
+I've only got one job.{enter}
+{wait:05}...{wait:05}But I know there are
+lots of monsters down in
+Kislev's sewers.{wait:0F}
+Cleaning them up is a job."
+
+#### 85 ####
+Guard
+"Hey,{wait:05} you!{enter}
+Whaddya just walking around
+in circles for? You're a
+prisoner, work like one!"
+
+#### 86 ####
+Guard
+"Don't go near that dog.
+He'll bark a lot and I
+can't stand it.{enter}
+Wanna buy some dog food?{enter}
+Give it to him and he'll
+be quiet."{wait:14}
+    Don't need it
+    I'll take it
+
+#### 87 ####
+Guard
+"I'll give you a deal.{wait:0F}
+But, {wait:05}if you use it
+there's no more.{wait:0F}
+You understand that?"
+
+#### 88 ####
+Guard
+"Okay, {wait:05}it'll be 5G."
+
+#### 89 ####
+Guard
+"Haha{wait:05}...{wait:05}
+Here you go{wait:05}..."
+
+#### 90 ####
+Received Dog Food!
+
+#### 91 ####
+Guard
+"You don't have 5G?{wait:0F}
+Are you a pauper{wait:05}...?"
+
+#### 92 ####
+Guard
+"Hahaha. {wait:0A}
+That kid's, {wait:05}at it again.{wait:0F}
+Do you know the kid's story?{enter}
+If he squishes that coin
+it'll be worthless.{wait:0F}
+Well, {wait:05}ignorance is bliss{wait:05}...{wait:05}...{enter}
+Besides, {wait:05}he's never been
+successful. Gramps always
+gets mad at him.{wait:0F}
+Happens every time{wait:05}..."
+
+#### 93 ####
+Guard
+"{wait:05}...{wait:05}You're amazing.{enter}
+Taking out the sewer
+monster, the Battling 
+Champ{wait:05}...{enter}
+Compared to that I'm
+just{wait:05}...{enter}
+I'll always be just guard
+captain. How'd you get like
+that?{wait:0F}Quit your regular
+job and start Battling?"
+
+#### 94 ####
+Guard
+"...{wait:05}I guess you hafta do it.{wait:0A}
+But, {wait:05}it's impossible for me.
+I'm not that type{wait:05}...{wait:0F}sigh..."
+
+#### 95 ####
+Guard
+"{wait:05}...{wait:05}Sigh...{wait:0A}
+I've had enough of D Block.{enter}
+I wanna be transferred to
+the main city.{enter}
+{wait:05}...{wait:05}I mean,{wait:05} as long as you
+prisoners have those bomb
+collars, {wait:05}escape is
+impossible.{enter}
+That's not too much to ask."
+
+#### 96 ####
+Guard
+"Before,{wait:05}the guy who was
+the guard captain left to be
+a Battler.{wait:0F} That's how I
+became captain{wait:05}..."
+
+#### 97 ####
+Guard
+"Reality, {wait:05}it's a pain.{wait:0F}
+...{wait:05}Sigh{wait:05}..."
+
+#### 98 ####
+Fei
+"Whoa!!
+What the?"{clear:2D}
+
+#### 99 ####
+Citan
+"Please wait a moment!{wait:14}
+Did he say he would be
+waiting at the dormitory?"
+
+#### 100 ####
+Rico
+"Wait, Fei.{wait:0F}
+Until the Battling
+thing is settled."
+
+#### 101 ####
+Fei
+"Who are you?"
+
+#### 102 ####
+Battler
+"Don't be so cruel.{wait:0A}
+We've been waiting for you."
+
+#### 103 ####
+Citan
+"Waiting?{wait:1E}
+For{wait:0F}...{wait:05}...us?"
+
+#### 104 ####
+Battler
+"Please,{wait:0F}
+come with us{wait:05}..."
+
+#### 105 ####
+Fei
+"{wait:05}...{wait:05}This isn't going to
+be another stupid {wait:05}'Baptism
+Ceremony'{wait:05} is it?"
+
+#### 106 ####
+Amazoness
+"Hey,{wait:05} hey,{wait:0F}
+wait a minute!"
+
+#### 107 ####
+Amazoness
+"We're not trying to pick a
+fight. Keep talking like
+that and there's bound to be
+a misunderstanding.{enter}
+Leave this to me{wait:05}..."
+
+#### 108 ####
+Battler
+"Right,{wait:05} sorry."
+
+#### 109 ####
+Citan
+"{wait:05}...{wait:05}Well, I assume
+you are not hostile{wait:05}..."
+
+#### 110 ####
+Fei
+"{wait:05}..."
+
+#### 111 ####
+Amazoness
+"{wait:05}...{wait:05}Not here.
+Let's go somewhere else.{wait:0F}
+Come, {wait:05}follow me."
+
+#### 112 ####
+Citan
+"It seems we have
+no choice.{wait:0F}
+Shall we go Fei?"
+
+#### 113 ####
+Citan
+"Please wait a moment!{wait:14}
+Did he say he would be
+waiting at the dormitory?"
+
+#### 114 ####
+Citan
+"This is the meeting place?{wait:0F}
+{wait:05}...{wait:05}Hold on.{enter}
+Well, {wait:05}let us we go
+to the arena."
+
+#### 115 ####
+Fei
+"That's right, {wait:0A}sorry doc,
+I completely forgot.{wait:0F}{enter}
+I'll have to go back to
+the dorm{wait:05}..."
+
+#### 116 ####
+Fei
+"S{wait:05}...{wait:05}sir!{wait:0F}
+Aww shoot{wait:05}..."
+
+#### 117 ####
+Fei
+"{wait:05}...{wait:05}Sorry, doc.{wait:1E}
+This is the sewer entrance."
+
+#### 118 ####
+Fei
+"Hey, {wait:05}doc{wait:05}...{wait:0F}
+what should I do?"
+
+#### 119 ####
+Citan
+"The plan was a failure{wait:05}...{wait:0F}
+I see.{wait:1E} Since we cannot
+turn back time{wait:05}..."
+
+#### 120 ####
+Fei
+"Sorry, {wait:0F}Rico{wait:05}...{clear:3C}
+
+#### 121 ####
+Fei
+"{wait:05}...{wait:05}Huh?{wait:0F}
+What does that say{wait:05}...{wait:05}?"{clear:3C}
+
+#### 122 ####
+'We are closed for today.
+Exchange money tomorrow!
+                 B-Info'
+
+#### 123 ####
+Fei
+"{wait:05}...{wait:0F}
+What{wait:05} even he sleeps at
+night?{wait:05}...Let's see."
+
+#### 124 ####
+Citan
+"{wait:05}...{wait:05}Fei.{wait:0F}
+What are you doing?{enter}
+Bothering that dog at this
+hour will wake everyone.
+Stop it!"
+
+#### 125 ####
+Fei
+"Oh, sorry doc.{wait:0F}{enter}
+He's so noisy during the
+day, I was gonna play a
+trick on him{wait:05}...{wait:05}"
+
+#### 126 ####
+Citan
+"You always do what ever
+you like{wait:05}...{wait:05}
+Let us hurry.{enter}
+The time is getting closer.{wait:0F}
+We do not have time to
+lolly gag around."
+
+#### 127 ####
+Citan
+"{wait:05}...{wait:05}Fei{wait:0F}
+Where are you going?{enter}
+The supply train will be
+here shortly.{wait:0F}
+{wait:05}...{wait:05}We must hurry."
+
+#### 128 ####
+Fei
+"Oh, sorry doc.
+{wait:05}...{wait:05}Let's hurry to the
+observation tower."
+
+#### 129 ####
+Fei
+"Shoot{wait:05}...{wait:05}it won't open.
+I guess the door isn't
+fixed yet{wait:05}..."
+
+#### 130 ####
+{fast:FF}Information, finding items,
+trouble, we can help you
+with anything. Come on by
+'Latina's Bar' in D Block!
+I know when there's a
+customer for me just from
+their face. Legal or other,
+anything's OK! 'Latina's
+Bar' is the building with
+all the flashy lights.
+-Supplier Hammer
+
+#### 131 ####
+Fei
+"{wait:05}...{wait:05}Huh?
+There's something written
+underneath."
+
+#### 132 ####
+{fast:FF}From now...
+I will be working out of the
+Battling arena!{enter}
+Prisoners needing to contact
+me, address letters or notes
+to: 'D Block, Num O. Hammer.' 
+     - Hammer, the Mechanic -
+
+#### 133 ####
+Fei
+"{wait:05}...{wait:05}This Hammer guy's
+going all out."{enter}
+(It says he's gone from
+supplier to mechanic{wait:05}...)
+
+#### 134 ####
+Fei
+"{wait:05}...{wait:1E}
+What's this{wait:05}...{wait:05}?"
+
+#### 135 ####
+{fast:FF}Power is explosive beauty! 
+Power is overflowing love! 
+Fly young people! 
+At the Battling Arena!
+
+#### 136 ####
+Fei
+"{wait:05}...{wait:1E}
+What's this{wait:05}...?"
+
+#### 137 ####
+{fast:FF}          - WANTED! -
+- Sewer Monster Exterminators -
+We're looking for Battlers to
+clean up the ever increasing
+sewer monsters in our D Block!
+For more info contact the
+'B-Info. Center' in this block.
+Prisoners not assigned to
+anything else will be forced
+to do this.
+No work, no food...
+         - Imperial Committee -
+                   and
+            - B-Info. Center -
+
+#### 138 ####
+Fei
+"No work, no food?{enter}
+{wait:05}...{wait:05}Hmmm.
+Guess I'll be down in the
+sewer{wait:05}...{wait:05}"
+
+#### 139 ####
+{fast:FF}
+- Public Execution of -
+- the former Champion -
+Tonight, 'Ricardo Banderas'
+  will be executed at the
+Battling Arena for violation
+ of Imperial Code section B
+     and the attempted
+     assassination of
+      Kaiser Sigmund.{enter}
+The former Champion may be
+ pardoned depending on the
+   outcome of the battle.
+    The opponent will be
+   declared at the arena.
+       -Imperial Committee -
+
+#### 140 ####
+{fast:FF}- Mystery Sewer Homicides -
+This morning another
+mysterious homocide victim
+was found in the D Block
+sewers. It is thought the
+victim entered the sewers
+late at night and fought
+with a mysterious monster.
+This is the fourth victim.
+In order to clear this up,
+Suzarn, Rank A, has been
+ordered to deal with the
+mysterious monster.
+    - Imperial Committee -
+
+#### 141 ####
+{fast:FF}-Results of the
+Battling Finals.-
+Three time Champ,
+Ricardo Banderas defeated!
+The victor was the boy, Fei,
+a Rank A criminal.
+He went from prisoner to
+Battler. A first time
+participant, he even beat
+the invincible Champ through
+skillful Gear piloting!
+
+#### 142 ####
+{fast:FF}-Results of the
+Battling Finals.-
+Three time Champ,
+Ricardo Banderas defeated!
+The victor was the boy, Fei,
+a Rank B criminal.
+He went from prisoner to
+Battler. A first time
+participant, he even beat
+the invincible Champ through
+skillful Gear piloting!
+
+#### 143 ####
+{fast:FF}-Results of the
+Battling Finals.-
+Three time Champ,
+Ricardo Banderas defeated!
+The victor was the boy, Fei,
+a Rank C criminal.
+He went from prisoner to
+Battler. A first time
+participant, he even beat
+the invincible Champ through
+skillful Gear piloting!
+
+#### 144 ####
+{fast:FF}-Results of the
+Battling Finals.-
+Three time Champ,
+Ricardo Banderas defeated!
+The victor was the boy, Fei,
+a Rank C criminal.
+He went from prisoner to
+Battler. A first time
+participant, he even beat
+the invincible Champ through
+skillful Gear piloting!
+
+#### 145 ####
+{fast:FF}-Results of the
+Battling Finals.-
+Three time Champ,
+Ricardo Banderas defeated!
+The victor was the boy, Fei,
+a Rank D criminal.
+He went from prisoner to
+Battler. A first time
+participant, he even beat
+the invincible Champ through
+skillful Gear piloting!
+
+#### 146 ####
+Gramps
+"Who're you?{wait:14}
+Only the operations manager
+is allowed here!"
+
+#### 147 ####
+Fei
+"It's not written
+anywhere{wait:05}...{wait:05}"
+
+#### 148 ####
+Gramps
+"{wait:05}...{wait:0F}{fast:FF}Even so
+that's the way it is!!"
+
+#### 149 ####
+Fei
+"Jeez,{wait:05} you don't have
+to get so mad.{wait:0F}
+I didn't know.{enter}
+So hey, tell me something,{wait:0F}
+what is this?"
+
+#### 150 ####
+Gramps
+"{wait:05}...{wait:05}Might as well.{wait:0F}
+It's the Observation
+Tower."
+
+#### 151 ####
+Fei
+"Observation Tower?{wait:0F}
+What are you watching?"
+
+#### 152 ####
+Gramps
+"Hmph, you'll find out
+{wait:05}...{wait:05}in just a minute."{clear:1E}
+
+#### 153 ####
+Gramps
+"...{wait:0F}...{wait:0A}...{wait:05}...{wait:0F}
+{wait:05}...{wait:05}It's coming!{wait:0F} There!"{clear:2D}
+
+#### 154 ####
+Fei
+"Wow, that's amazing."
+
+#### 155 ####
+Gramps
+"{wait:05}...{wait:05}Well,{wait:0F}
+I'm the operations manager.{enter}
+But there's no one to
+manage.{wait:05}
+It's perfectly automated.{enter}
+I'm only the operations
+manager on paper."
+
+#### 156 ####
+Fei
+"Perfect?
+Is anything in the world
+perfect{wait:05}...?"
+
+#### 157 ####
+Gramps
+"{wait:05}...{wait:05}Hmph.{wait:1E}
+The only weakness is the
+detection equipment{wait:05}...{enter}
+If it detects a heat source
+it'll shut the whole thing
+down to prevent any
+accidents{wait:05}..."
+
+#### 158 ####
+Citan
+"The tower we want is
+over there.{wait:0F}
+Hurry, Fei!"
+
+#### 159 ####
+Amazoness
+"{wait:05}...{wait:05}Sorry.{wait:0F}
+I{wait:05}...can't go in the arena.{wait:05}{enter}
+No matter what you say,
+I can't.
+Well{wait:05} it's time{wait:05}...{enter}
+Tonight's train will be
+coming through here{wait:05}...{wait:05}
+I wish you success.{wait:0F}
+Maybe{wait:05}...we can meet again."
+
+#### 160 ####
+Amazoness
+"Hey, it's almost here.
+There's no time to talk."
+
+#### 161 ####
+Battler
+"Sorry, {wait:05}I was so worried
+about the Champ I couldn't
+leave.{wait:0F}{enter}
+Rico's counting on you."
+

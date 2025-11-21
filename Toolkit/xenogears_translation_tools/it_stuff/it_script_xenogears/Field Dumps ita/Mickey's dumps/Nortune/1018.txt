@@ -1,0 +1,45 @@
+<TextBlock 1 w:48 h:4>
+Ciò che ti serve per
+difenderti dai vari
+stati anomali è proprio
+qui nel mio negozio!<Close><End of Block>
+<TextBlock 2 w:36 h:1>
+Torna quando vuoi.<Close><End of Block>
+<TextBlock 3 w:52 h:4>
+<Delay 5>…<Delay 5> Una buona scelta.
+Gli accessori sono di
+ottima fattura e il loro
+è un acquisto oculato.<Delay 45><New>
+Ma ricorda, non lavoro
+comunque per il negozio.<Close><End of Block>
+<TextBlock 4 w:52 h:4>
+Così tante armi,<Delay 5> ma
+nessuna è adatta a me.<New>
+Le pistole sono troppo
+pericolose,<Delay 5> mentre le
+spade sono pesanti e
+ingombranti<Delay 5>…<Delay 5><Close><End of Block>
+<TextBlock 5 w:50 h:3>
+Sigh<Delay 5>…<Delay 5> non c'è un'arma
+che sia precisa, leggera
+e facile da usare?<Close><End of Block>
+<TextBlock 6 w:34 h:2>
+Questa è<Delay 5>…<Delay 5>
+l'arma ideale.<Close><End of Block>
+<TextBlock 7 w:50 h:4>
+Lui è stato in molti
+paesi alla ricerca
+della sua arma ideale.<New>
+Io? Io sono solo una
+donna attratta dal 
+suo ardore<Delay 5>…<New>
+Dice che continuerà
+fino a che non avrà
+trovato quest'arma.<New>
+Il suo peregrinare
+non avrà mai fine.<Close><End of Block>
+<TextBlock 8 w:50 h:4>
+Abbiamo viaggiato per
+buona parte di Ignis…<New>
+Quando si accorgerà di me,
+e non di queste armi…?<Close><Close><End of Block>

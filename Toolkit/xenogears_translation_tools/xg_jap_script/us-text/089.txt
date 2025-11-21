@@ -1,0 +1,519 @@
+#### 1 ####
+Margie
+"The sisters are still
+singing downstairs, so they
+won't be back for a while."
+
+#### 2 ####
+Margie
+"Let's go to the
+painting room.{enter}
+The sisters will
+probably be back
+by then."
+
+#### 3 ####
+Margie
+"I wonder what kind
+of person Sophia was.{enter}
+I would have loved to
+have met her."
+
+#### 4 ####
+I've got do my best too!
+
+#### 5 ####
+A new era is approaching...{wait:1E}
+I've got to do my best too!
+
+#### 6 ####
+Everyone is alive!{wait:1E}
+Thank god.
+
+#### 7 ####
+We're transcribing scrolls.{enter}
+Scrolls over 100 years old
+get worn, so we renew them.{enter}
+It is one of our daily
+tasks.
+
+#### 8 ####
+Take care now!
+
+#### 9 ####
+Just because the monarchy
+has been abolished, it
+does not mean that peace
+will automatically prevail.{enter}
+From now on, citizens must
+build this country anew
+with their own hands.{enter}
+Undoubtedly, new ordeals
+will await us.
+
+#### 10 ####
+Thank heavens you're safe!
+
+#### 11 ####
+Why does war never
+disappear from this world?{enter}
+To me, it is clear that
+it is meaningless...{enter}
+Perhaps it is our fate
+to be forever at discord
+with each other?
+
+#### 12 ####
+We look forward to the
+dawn of the true world!
+
+#### 13 ####
+Recognition of the existence
+of Solaris may present a new
+way of looking at the Nisan
+orthodoxy.{enter}
+In that sense, I believe
+we have finally reached a
+new starting point.
+
+#### 14 ####
+After seeing everyone in
+high spirits, a new sense
+of hope rose within me!
+
+#### 15 ####
+The road we must take
+is out there somewhere.{enter}
+A way out of the confusion
+we are now facing...{enter}
+The sister sitting diagonally
+across from me, is desperately
+looking for that answer.
+
+#### 16 ####
+I thought it appropriate for
+you and your deeds to be
+told to future generations.{enter}
+So I have discussed this with
+Sister Agnes and we concluded
+that your many travels and
+experiences be recorded by me.{enter}
+Therefore,{wait:1E}
+please come back alive!{enter}
+Your accomplishments will be
+passed on from generation to
+generation!
+
+#### 17 ####
+(...{wait:1E} Somewhere...{wait:1E}
+It must be somewhere...{enter}
+The truth that we have
+not yet come to know.)
+
+#### 18 ####
+Oh!?{wait:1E} That scared me.
+
+#### 19 ####
+Fei
+"You're very devoted."
+
+#### 20 ####
+Uh, well sort of...{enter}
+It's just that after
+sneaking into the capital,
+I started to think about
+a lot of things...{enter}
+And I've come to realize{wait:1E}
+the world isn't right
+the way it is now!
+
+#### 21 ####
+Yes, {wait:1E} the world isn't right
+the way it is now!
+
+#### 22 ####
+Yes, {wait:1E} the world isn't right
+the way it is now!
+
+#### 23 ####
+The others left in order
+to go help the evacuating
+citizens.{enter}
+I remained to help Sister
+Agnes look after herself
+and the things here.
+
+#### 24 ####
+Voluntarily declaring
+republicanism yourself
+is amazing.{enter}
+It would be great if
+Bartholomew became
+president.{enter}
+But, it would not be much of
+a change from the way things
+are now, though would it?{enter}
+In any case, I think
+Master Bartholomew would
+be just fine.
+
+#### 25 ####
+Agnes
+"The one pictured in the
+portrait in the painting
+room is Sophia.{enter}
+She is the first great
+mother of Nisan.{enter}
+According to legend, the
+portrait was painted
+about 500 years ago.
+
+#### 26 ####
+Agnes
+"I understand you were
+shown Sophia's portrait.{enter}
+The lady portrayed in
+that picture is Nisan's
+great founding mother...{enter}
+Some say that it was
+painted at least 500
+years ago.
+
+#### 27 ####
+Citan
+"500 years ago...{wait:1E}
+Now that is quite amazing.{enter}
+Personally, I find it
+intriguing. Do you have
+any historical material
+from that period?
+
+#### 28 ####
+Agnes
+"In our hands, there are no
+such records left intact.{enter}
+All records and materials
+concerning Sophia have
+been lost...{enter}
+The portrait is the only
+thing left.{enter}
+We too do not have much
+knowledge about her."
+
+#### 29 ####
+Citan
+"That is too bad!
+So there really is
+nothing left at all!?"
+
+#### 30 ####
+Agnes
+"For someone who has helped
+Marguerite, I would have
+loved to have shared them...{enter}
+But unfortunately I am
+unable to help here..."
+
+#### 31 ####
+Citan
+"Oh well, none the matter.
+Please do not worry about
+it. I was just inquiring."
+
+#### 32 ####
+Citan
+"But, it does seem
+somewhat strange...{enter}
+If such a majestic building
+as this survived history,
+then it is likely a scroll
+or two would remain too."
+
+#### 33 ####
+Agnes
+"According to tradition,
+Sophia was present about
+500 years ago...{enter}
+She sacrificed herself for
+the people and has been
+summoned to be with god.
+That's all I can tell you."
+
+#### 34 ####
+Citan
+"...I see.{wait:1E}
+So everything was lost in
+the darkness of history."
+
+#### 35 ####
+Agnes
+"I was speaking earlier
+with Marguerite, and she
+led me to believe that
+you are heading to Aveh."
+
+#### 36 ####
+Bart
+"Yeah. We might cause a
+little trouble for the
+folks of Nisan...{enter}
+But it's something that
+I simply cannot avoid."
+
+#### 37 ####
+Agnes
+"Yes, I understand.{enter}
+Just that, if you allow me
+to say my true feelings...{enter}
+I wish that you could find
+a way to bring peace to this
+country without bloodshed...{enter}
+But I will not try to stop
+you now, Master Bartholomew.{enter}
+You must have put in much
+thought before making this
+decision.{enter}
+We of Nisan, will be with
+you, Master Bartholomew."
+
+#### 38 ####
+Bart
+"Thanks Sister."
+
+#### 39 ####
+Fei
+"Yes."
+
+#### 40 ####
+Agnes
+"Where is Master
+Bartholomew?"
+
+#### 41 ####
+Fei
+"He's in town talking
+with Margie."
+
+#### 42 ####
+Agnes
+"I see my child.{wait:1E}
+Then please tell him this...{enter}
+ 'We will always be with
+ you, Master Bartholomew.' "
+
+#### 43 ####
+Fei
+"I'll be sure to relay
+that to him, Sister."
+
+#### 44 ####
+Agnes
+"The one pictured in the
+portrait in the painting
+room is Sophia.{enter}
+She is the first great
+mother of Nisan.{enter}
+According to legend, the
+portrait was painted
+about 500 years ago.
+
+#### 45 ####
+Agnes
+"I understand you were
+shown Sophia's portrait.{enter}
+The lady portrayed in
+that picture is Nisan's
+great founding mother...{enter}
+Some say that it was
+painted at least 500
+years ago.
+
+#### 46 ####
+Citan
+"500 years ago...{wait:1E}
+Now that is quite amazing.{enter}
+Personally, I find it
+intriguing. Do you have
+any historical material
+from that period?
+
+#### 47 ####
+Agnes
+"In our hands, there are no
+such records left intact.{enter}
+All records and materials
+concerning Sophia have
+been lost...{enter}
+The portrait is the only
+thing left.{enter}
+We too do not have much
+knowledge about her."
+
+#### 48 ####
+Citan
+"That is too bad!
+So there really is
+nothing left at all!?"
+
+#### 49 ####
+Agnes
+"For someone who has helped
+Marguerite, I would have
+loved to have shared them...{enter}
+But unfortunately I am
+unable to help here..."
+
+#### 50 ####
+Citan
+"Oh well, none the matter.
+Please do not worry about
+it. I was just inquiring."
+
+#### 51 ####
+Citan
+"But, it does seem
+somewhat strange...{enter}
+If such a majestic building
+as this survived history,
+then it is likely a scroll
+or two would remain too."
+
+#### 52 ####
+Agnes
+"According to tradition,
+Sophia was present about
+500 years ago...{enter}
+She sacrificed herself for
+the people and has been
+summoned to be with god.
+That's all I can tell you."
+
+#### 53 ####
+Citan
+"...I see.
+So everything was lost in
+the darkness of history."
+
+#### 54 ####
+Agnes
+"I was speaking earlier
+with Marguerite, and she
+led me to believe that
+you are heading to Aveh."
+
+#### 55 ####
+Bart
+"Yeah. We might cause a
+little trouble for the
+folks of Nisan...{enter}
+But it's something that
+I simply cannot avoid."
+
+#### 56 ####
+Agnes
+"Yes, I understand.{enter}
+Just that, if you allow me
+to say my true feelings...{enter}
+I wish that you could find
+a way to bring peace to this
+country without bloodshed...{enter}
+But I will not try to stop
+you now, Master Bartholomew.{enter}
+You must have put in much
+thought before making this
+decision.{enter}
+We of Nisan, will be with
+you, Master Bartholomew."
+
+#### 57 ####
+Bart
+"Thanks Sister."
+
+#### 58 ####
+Fei
+"Yes."
+
+#### 59 ####
+Agnes
+"Where is Master
+Bartholomew?"
+
+#### 60 ####
+Fei
+"He's in town talking
+with Margie."
+
+#### 61 ####
+Agnes
+"I see my child.{wait:1E}
+Then please tell him this...{enter}
+ 'We will always be with
+ you, Master Bartholomew.' "
+
+#### 62 ####
+Fei
+"I'll be sure to relay
+that to him, Sister."
+
+#### 63 ####
+Agnes
+"I shall pray that
+your battles are safe
+and successful."
+
+#### 64 ####
+Agnes
+"Everyone is safe and well!
+Oh{wait:1E}... Thank heavens.{enter}
+How is Marguerite?{enter}
+We here are all doing well,
+so please tell her that."
+
+#### 65 ####
+Agnes
+"I hope nothing has
+happend to the great
+mother's remains...{enter}
+If the mausoleum becomes
+damaged in any way, I'll
+have no right to live."
+
+#### 66 ####
+Bart
+"Don't be so hard
+on yourself.{enter}
+You sisters have done your
+best to protect the town,
+right?
+Just leave the rest to us."
+
+#### 67 ####
+Agnes
+"Finally, we can create
+the country the late king
+and Great Mother desired.{enter}
+I hope that I can be of
+assistance to master
+Bartholemew.{enter}
+Before we do that though,
+we'll have to determine the
+the real relation between 
+Bartholomew and Marguerite.{enter}
+But come to think of it,
+that is really up to 
+them to work out..."
+
+#### 68 ####
+Agnes
+"To pass on the deeds you
+people have accomplished,
+we have decided to record
+your journey...{enter}
+As the ones who, along with
+the Great Mother Marguerite,
+lead us to our true world...{enter}
+You will live forever in
+the hearts and minds of
+the people that live on
+this planet."
+

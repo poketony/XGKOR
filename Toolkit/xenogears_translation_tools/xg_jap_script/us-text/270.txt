@@ -1,0 +1,90 @@
+#### 1 ####
+{fast:FF}Dazil
+
+#### 2 ####
+{fast:FF}  - Bledavik -
+Capital of Aveh
+
+#### 3 ####
+{fast:FF}Bart's Lair
+
+#### 4 ####
+{fast:FF}The Road
+to Nisan
+
+#### 5 ####
+{fast:FF}Nisan
+
+#### 6 ####
+{fast:FF}Hermit's Hole
+
+#### 7 ####
+{fast:FF}Cave to Ignas' Gate
+
+#### 8 ####
+{fast:FF}   - Nortune -
+Capital of Kislev
+
+#### 9 ####
+{fast:FF}Goliath Factory
+
+#### 10 ####
+{fast:FF}Ft. Jasper
+
+#### 11 ####
+{fast:FF}Orphanage
+
+#### 12 ####
+{fast:FF}Babel Tower
+
+#### 13 ####
+{fast:FF}'Ethos' Excavation Site
+
+#### 14 ####
+{fast:FF}Lighthouse
+
+#### 15 ####
+{fast:FF}The 'Ethos'
+    H.Q.
+
+#### 16 ####
+{fast:FF}Solaris
+
+#### 17 ####
+{fast:FF}Snowfield Hideout
+
+#### 18 ####
+{fast:FF}Anima Relic
+ Dungeon 1
+
+#### 19 ####
+{fast:FF}Anima Relic
+ Dungeon 2
+
+#### 20 ####
+{fast:FF}Deus
+
+#### 21 ####
+{fast:FF}Bethlehem
+
+#### 22 ####
+{fast:FF}Taura's House
+
+#### 23 ####
+{fast:FF}Mass Driver
+
+#### 24 ####
+{fast:FF}Lahan Village
+
+#### 25 ####
+{fast:FF}Citan's House
+
+#### 26 ####
+{fast:FF}Yggdrasil
+
+#### 27 ####
+{fast:FF}Shevat
+
+#### 28 ####
+{fast:FF}Thames
+

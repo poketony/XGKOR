@@ -1,0 +1,114 @@
+#### 1 ####
+Sigurd
+"Marguerite is straining
+herself. Young master, you
+should be kinder to her."
+
+#### 2 ####
+Sigurd
+"...I'll stay here a
+little longer. I have
+some thinking to do."
+
+#### 3 ####
+Sigurd
+"Citan?
+No, I haven't seen him...{enter}
+You don't need to worry
+about him. He'll be fine."
+
+#### 4 ####
+Sigurd
+"Well, Marguerite, now that
+we have saved you, may we
+ask you one thing...?{enter}
+Why did you go up against
+the enemy by yourself?"
+
+#### 5 ####
+Sigurd
+"Obviously a groundless
+rumor started by the enemy
+in order to lure you out."
+
+#### 6 ####
+Sigurd
+"Marguerite..."
+
+#### 7 ####
+Sigurd
+"Marguerite is straining
+herself. Young master,
+you should be kind to her."
+
+#### 8 ####
+Bart
+"Then...{wait:18}you thought you
+could save them alone!?
+That was stupid!!"
+
+#### 9 ####
+Bart
+"Margie!!"
+
+#### 10 ####
+Bart
+"Next time, let us know!!
+We'll go for you!"
+
+#### 11 ####
+Margie
+"Sorry...but...
+I heard a rumor in
+town that day...{enter}
+It was said that the
+Sect's sisters who
+were captured by Aveh
+were still alive..."
+
+#### 12 ####
+Margie
+"I believed it!
+So what!?
+I was wrong.{enter}
+But..."
+
+#### 13 ####
+Margie
+"But...grandma and mom
+were already executed..."
+
+#### 14 ####
+Margie
+"Sorry...{wait:20}to drag everybody
+into this. I'll never do
+it again..."
+
+#### 15 ####
+Margie
+"Yeah...{wait:20}
+I'll do that."
+
+#### 16 ####
+Maison
+"Please, don't be
+so hard on her...{enter}
+The Nisan Sect is
+Marguerite's home.
+It's perfectly
+understandable."
+
+#### 17 ####
+Maison
+"At any rate, Marguerite
+is here unhurt.
+That's the main thing!{enter}
+Before luck runs out,
+let's take Marguerite
+to Nisan. We can talk
+more there.{enter}
+Now, I'll go prepare
+Marguerite's room...{wait:0A}
+Miss Marguerite, may I
+ask you to accompany me?"
+

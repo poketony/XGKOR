@@ -1,0 +1,41 @@
+#### 1 ####
+Fei
+"Yeah...{wait:20}and it's all
+due to your support.{wait:10} 
+Thanks."
+
+#### 2 ####
+Fei
+"Bart and his team...{wait:28}
+He's probably okay...{wait:20}
+Any word from them?"
+
+#### 3 ####
+Fei
+"..."{clear:2A}
+
+#### 4 ####
+Maitreya
+"Yess! One for our side!"
+
+#### 5 ####
+Maitreya
+"Stop the border guards?
+Hah...we destroyed them!
+Well, we've done our job!{enter2}
+I hope the others do OK!"
+
+#### 6 ####
+Maitreya
+"Nothing.{enter}
+They say no news is
+good news I guess.{enter}
+My Gear doesn't have
+very good comm equipment.{wait:20} 
+They probably did fine
+though."
+
+#### 7 ####
+Maitreya
+"What's wrong?"
+

@@ -1,0 +1,48 @@
+#### 1 ####
+All you need to protect
+yourself from various
+status effects, is right
+here in my shop!
+
+#### 2 ####
+Please come again.
+
+#### 3 ####
+{wait:05}...{wait:05}A decent selection.
+Oh yes, the accessories
+are all treasures, so
+buying them's no loss.{wait:2D}{enter}
+But remember, I don't work
+for the store though.
+
+#### 4 ####
+All these weapons,{wait:05}and none
+that fit me.{wait:1E}Guns are too
+dangerous,{wait:05}and swords are
+heavy and bulky{wait:05}...{wait:05}
+
+#### 5 ####
+Sigh{wait:05}...{wait:05}isn't there a
+weapon that's safe, light
+and easy to use?
+
+#### 6 ####
+This is it,{wait:05}...{wait:05}
+the ideal weapon.
+
+#### 7 ####
+He's travelled various
+countries looking for his
+ideal weapon.{wait:0F} I'm
+just a woman attracted by{enter}
+his ardor{wait:05}...{wait:05} He said
+he'd continue on until he
+found this weapon.{wait:0F} His
+journey may never end.
+
+#### 8 ####
+We've travelled through
+most of Ignas...{wait:05} When
+will he ever look at me,
+and not these weapons...?
+

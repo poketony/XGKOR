@@ -1,0 +1,29 @@
+#### 1 ####
+Bart
+"That's gotta be 
+the floodgate..."
+
+#### 2 ####
+You have too many
+{str}.
+
+#### 3 ####
+ 
+ Received {str}.
+
+#### 4 ####
+You have too many
+{str}.
+
+#### 5 ####
+ 
+ Received {str}.
+
+#### 6 ####
+You have too many
+{str}.
+
+#### 7 ####
+ 
+ Received {str}.
+

@@ -1,0 +1,21 @@
+<TextBlock 1 w:50 h:3>
+È troppo orgoglioso.<Delay 15>
+E non è che siamo mai
+stati troppo fieri di lui.<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+Probabilmente non vuole
+essere inferiore a nessun
+altro.<Delay 15> Beh,<Delay 5> non m'importa.<New>
+Se continui a parlare con
+serietà a quella gente, non
+ci otterrai nulla<Delay 5>…<Delay 5><Close><End of Block>
+<TextBlock 3 w:54 h:4>
+Merda! Perché il suo grado
+è più alto del mio!? Solo
+perché è bravo a combattere
+coi Gear? Sono comunque
+più grande di lui!<Close><End of Block>
+<TextBlock 4 w:42 h:3>
+<Delay 5>…<Delay 5> La vita è ingiusta.<Delay 15>
+Cosa hanno di così speciale
+i Combattenti!?<Delay 5> Merda!<Close><Close><End of Block>

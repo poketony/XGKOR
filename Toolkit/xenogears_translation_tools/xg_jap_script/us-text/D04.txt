@@ -1,0 +1,309 @@
+#### 1 ####
+{fast:14}Mapjump
+    Nisan's town
+    Nsan's cathedral
+    wait£¡
+    to Map00
+
+#### 2 ####
+    {fast:14}nisan£¨town£©
+    nis-11
+    nis-21
+    nis-31
+    nis-41
+    nis-51
+    nis-61
+    nis-71
+    nis-doc
+    For kikoshi
+    Map test for explain 
+    Back
+
+#### 3 ####
+{fast:FF}scenario flag
+    Tactics1
+    Go on
+
+#### 4 ####
+{fast:FF}scenario flag
+    Tactics4
+    Tactics5
+    Tactics6
+    Go on
+
+#### 5 ####
+Clearing scenario flag for Nisan...
+
+#### 6 ####
+Bits off
+    arrive in a dock
+    Dock in
+
+#### 7 ####
+Setting scenario flag...{enter}
+"sets Meet Elly again  (084)"{enter}
+Arrive in a hidden dock...
+
+#### 8 ####
+    {fast:14}seido1(SW-map for Nsan's cathedral)
+    sei-11 (cathedral
+    sei-12 (monastery
+    sei-13 (room of picture
+    stairs1
+    stairs2
+    Back
+
+#### 9 ####
+{fast:FF}flag configuration ... g-nisan
+    Meeting1
+    Meeting2
+    Picture1
+    Picture2
+    Picture3
+    Picture4
+    Picture5
+    Picture7
+    Picture8
+    Pause
+    Go on
+
+#### 10 ####
+{fast:FF}Do you enter the cathedral ?
+    Yes
+    No
+
+#### 11 ####
+{fast:FF}Scenario flag
+    Picture9
+    Go on
+
+#### 12 ####
+{fast:14}Map jump
+    Immigrant ship
+    Fortress of jasper
+    Wait!
+    Back to map-00
+
+#### 13 ####
+{fast:FF}Rdiel's room
+    Outer map of ship
+    Back
+
+#### 14 ####
+    {fast:FF}Rescue the Nisan
+    Outer  bulkhead
+    Grand graveyard
+    Bulkhead1
+    Bart's omnigear
+    Control room
+    Rissing
+    Assault of Shakhan 1
+    Assault of Shakhan 2
+    Wake up the Omnigear
+    Next page
+
+#### 15 ####
+{fast:FF}Outer map for fortress
+    Charging the conon
+    ICB
+        Before entering to Jasper
+        Exit
+
+#### 15 ####
+
+#### 16 ####
+{fast:FF}Set KAZ-GORG
+    Nisan
+    Nisan2
+    Exit
+
+#### 17 ####
+{fast:FF}Init(0)
+    Arrive in the hidden dock
+    Meeting1
+    Picture1
+    Picture9
+    Pause
+    Tactics2
+    Carry out1
+    Carry out5
+    Departure from a hidden dock
+    Exit
+
+#### 18 ####
+g-nisan = 0 
+
+#### 19 ####
+g-nisan = Arrive in the hidden dock
+
+#### 20 ####
+g-nisan = Meeting1
+
+#### 21 ####
+g-nisan = Picture1
+
+#### 22 ####
+g-nisan = Picture9
+
+#### 23 ####
+g-nisan = Pause
+
+#### 24 ####
+g-nisan =Tactics2
+
+#### 25 ####
+g-nisan = Carry out1
+
+#### 26 ####
+g-nisan = Carry out5
+
+#### 27 ####
+g-nisan = Departure from a hidden dock
+
+#### 28 ####
+{fast:FF}Recapturing the Nisan
+    Sister Agnes's talk
+    Open the gate
+    Open the bulkhead
+    Enter the con-room
+    Sucsessfull of start up
+    Shakhan appeared
+    Battle of Roni's Omnigear1
+    Drived back
+    Go to the hall
+    Comming a ease
+    Exit
+
+#### 29 ####
+set g-nisan Recapturing the Nisan
+
+#### 30 ####
+set g-nisan Sister Agnes's talk
+
+#### 31 ####
+set g-nisan Open the gate
+
+#### 32 ####
+set g-nisan Open the bulkhead
+
+#### 33 ####
+set g-nisan Enter the con-room
+
+#### 34 ####
+set g-nisan Sucsessfull of start up
+
+#### 35 ####
+set g-nisan Shakhan appeared
+
+#### 36 ####
+set g-nisan Battle of Roni's Omnigear1
+
+#### 37 ####
+set g-nisan Drived back
+
+#### 38 ####
+set g-nisan Go to the hall
+
+#### 38 ####
+
+#### 39 ####
+{fast:FF}Clear flags
+    KAZ-GORG(scenario)
+    Global
+    KAZ-GORG(tmp)
+    Set the member of ICB
+    Exit
+
+#### 40 ####
+{fast:FF}All clear flags
+    Nisan
+    Fortress of jasper
+    Exit
+
+#### 41 ####
+    {fast:FF}Escape from Aveh(Dock in)
+    Arrive a Nisan
+    Looked a pictue
+    Taaactics
+    Rescue a Nisan
+    Destruction the Babel's gate
+    Exit
+
+#### 42 ####
+    {fast:FF}on-ev
+    on-ev2
+    ev-tk
+    end
+
+#### 43 ####
+ party make
+
+#### 45 ####
+   {fast:FF}Fei
+   Elly
+   Citan
+   Bart
+   Billy
+   Rico
+   Emeralda
+   {name:07:¥Á¥å¥Á¥å}
+   next page
+
+#### 46 ####
+   {fast:FF}Maria
+   Citan2
+   ------
+   ------
+   ------
+   ------
+   Emerada2
+    ¥Ú-¥¸
+
+#### 47 ####
+Party is...
+
+#### 48 ####
+{fast:FF}Fei
+
+#### 49 ####
+{fast:FF}Elly
+
+#### 50 ####
+{fast:FF}Citan
+
+#### 51 ####
+{fast:FF}Bart
+
+#### 52 ####
+{fast:FF}Billy
+
+#### 53 ####
+{fast:FF}Rico
+
+#### 54 ####
+{fast:FF}Emerada
+
+#### 55 ####
+{fast:FF}{name:07:¥Á¥å¥Á¥å}
+
+#### 56 ####
+{fast:FF}Maria
+
+#### 57 ####
+{fast:FF}Citan2
+
+#### 58 ####
+{fast:FF}Dminia
+
+#### 59 ####
+{fast:FF}Lakan
+
+#### 60 ####
+{fast:FF}Roni
+
+#### 61 ####
+{fast:FF}Kalerlen
+
+#### 62 ####
+{fast:FF}Emerada2
+

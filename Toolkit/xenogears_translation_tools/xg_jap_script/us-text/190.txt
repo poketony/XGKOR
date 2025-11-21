@@ -1,0 +1,848 @@
+#### 1 ####
+Fei
+"{wait:05}...{wait:05}Not here either...{wait:0F}
+Must have left already?"
+
+#### 2 ####
+Fei
+"Huh?"
+
+#### 3 ####
+Fei
+"...Gears, huh?"{clear:1E}
+
+#### 4 ####
+Fei
+"Whoa!?"{clear:0F}
+
+#### 5 ####
+Hammer
+"Bro, doesn't it seem like
+there's something missing
+here in D Block?{enter}
+Something, or things, that
+you could find elsewhere,
+but can't find here?{enter}
+Yeah, yeah?
+Don't you think so, bro?"{wait:14}
+    ...No, not really
+    Come to think of it
+
+#### 6 ####
+Hammer
+"Wha, what? No?
+Not really? Hmm.
+That's strange."
+
+#### 7 ####
+Hammer
+"Yeah, what's missing are
+item shops, oh, and don't
+forget the weapon shops..."
+
+#### 8 ####
+Hammer
+"Ya need anything, bro?"{wait:0F}
+    Hammer's items
+    Hammer's accessories
+
+#### 9 ####
+Hammer
+"It's too expensive
+elsewhere! Yep.{enter}
+You know it's gotta be
+'Hammer's Ether Bag'!"
+
+#### 10 ####
+Hammer
+"It's too expensive
+elsewhere! Yep.{enter}
+You know it's gotta be
+'Hammer's Ether Bag'!"
+
+#### 11 ####
+Beastoid man
+"Oh, allow me to introduce
+myself... They call me,
+'Hammer - the Supplier'.{enter}
+It's been a long time since
+such a powerful criminal
+has been sent to D Block!{enter}
+Heh-heh, so that makes you
+pretty famous in this town.
+In other words, you're the
+center of attention, bro!"
+
+#### 12 ####
+Beastoid man
+"Oh, allow me to introduce
+myself... They call me,
+'Hammer - the Supplier'.{enter}
+Actually, it's the second
+time we've met{wait:05}...{wait:0C}
+The first time, bro, you
+were knocked out cold{wait:05}..."
+
+#### 13 ####
+Beastoid man
+"Oh, allow me to introduce
+myself... They call me,
+'Hammer - the Supplier'.{enter}
+Actually, it's the second
+time we've met{wait:05}...{wait:0C}
+The first time, bro, you
+were knocked out cold{wait:05}..."
+
+#### 14 ####
+Beastoid man
+"Oh, allow me to introduce
+myself... They call me,
+'Hammer - the Supplier'.{enter}
+Actually, it's the second
+time we've met{wait:05}...{wait:0C}
+The first time, bro, you
+were knocked out cold{wait:05}..."
+
+#### 15 ####
+Beastoid man
+"Oh, allow me to introduce
+myself... They call me,
+'Hammer - the Supplier'.{enter}
+Actually, it's the second
+time we've met{wait:05}...{wait:0C}
+The first time, bro, you
+were knocked out cold{wait:05}..."
+
+#### 16 ####
+Beastoid man
+"Ah!?"
+
+#### 17 ####
+Beastoid man
+"Hey brother! You, bro!
+{wait:05}...{wait:05}Here, over here!"
+
+#### 18 ####
+Hammer
+"Hey, bro!{enter}
+You have that look in your
+eyes as if you're looking
+for something, right?{enter}
+I knew it, bro! You're
+looking to buy some items.
+    Not now
+    Whatcha got?
+
+#### 19 ####
+Hammer
+"That's odd... You don't
+need anything? Well, there
+is always next time, heh!"
+
+#### 20 ####
+Hammer
+"I knew it!
+My eyes are as keen
+as a hawk, heh!"
+
+#### 21 ####
+Hammer
+"So whatcha need, bro?"{wait:0F}
+    Hammer's items
+    Hammer's accessories
+
+#### 22 ####
+Hammer
+"It's too expensive
+elsewhere! Yep.{enter}
+You know it's gotta be
+'Hammer's Ether Bag'!"
+
+#### 23 ####
+Hammer
+"It's too expensive
+elsewhere! Yep.{enter}
+You know it's gotta be
+'Hammer's Ether Bag'!"
+
+#### 24 ####
+'Hammer - the Supplier'
+"Oh{wait:05}...{wait:05}bro."{clear:0F}
+
+#### 25 ####
+Latina
+"I knew your power was genuine!
+You even took out the Champ.
+It explains why I couldn't
+win against you. {wait:05}Figures."
+
+#### 26 ####
+Latina
+"Youch ouch ouch{wait:05}...{wait:0F}
+W{wait:05}, welcome,{wait:05} Fei.
+That last fight you had
+with me was{wait:05} good fun,{wait:05} heh?
+Huh,{wait:05} you don't remember{wait:05}...?{enter}
+Aww well{wait:05}...{wait:05}
+The last bout you fought
+before the finals was {wait:05}meee.{wait:05}
+Ouch{wait:05} ouch ouch{wait:05}...{wait:05} Hahahaha,{wait:05}
+I feel so pathetic...{enter}
+I'm looking forward to the
+final round.{wait:0F} I think you
+might actually be able to
+defeat the Champ, Ricardo.{wait:0F}
+It's hurts to say this, but
+do your best for me, too!"
+
+#### 27 ####
+Latina
+"Looks like the sewer homicide
+cases have all been wrapped up!
+It was rumored within D Block
+that you were the culprit.{enter}
+But, it's good to know that
+we can all put this thing
+behind us...
+I'm glad for you too.{enter}
+Oh, and, they removed the
+suspension of the Battling
+Tournament!
+The fruits of your efforts have
+made a lot of people happy!"
+
+#### 28 ####
+Latina
+"That explosion incident
+at the tournament really
+surprised me.{enter}
+That was no accide{wait:05}...{wait:0F}
+Ah, never mind{wait:05}...{wait:1E}
+Are you feeling better?"
+
+#### 29 ####
+Latina
+"So you're going to be
+participating in the
+Battling too, huh?{wait:1E}
+Hehe, {wait:05}good luck!"
+
+#### 30 ####
+Latina
+"Welcome to 'Latina's Bar'.{wait:0F}
+Make yourself comfortable!"
+
+#### 31 ####
+Latina
+"Oh, Fei, wait a sec.{wait:0F}
+Hammer just went but he
+left a message for you.{enter}
+He wants you to meet him at
+the 'Wildcat' bar, in the
+civilian part of the city,
+once you've taken care of
+everything. You got that!?"
+
+#### 32 ####
+Mystery woman
+"{wait:05}...{wait:05}I finally get to meet
+you. You're Fei, right?{wait:2D}
+{wait:05}...{wait:05}And, uh, outta the way!!"
+
+#### 33 ####
+Woman called Ms. Cohen
+"You men are hopeless!{wait:0F}
+This is why I didn't want
+to come with you two.{enter}
+Huhmm,{wait:0F} allow me to introduce
+myself.{wait:0A} I'm Rue Cohen from
+the 'Imperial Battling
+Committee' in B Block of
+this, the Imperial capital."
+
+#### 34 ####
+Committee Member Rue
+"Oh, shush!
+You two keep quiet!!"{clear:1E}
+
+#### 35 ####
+Committee Member Rue
+"Well then,{wait:14} hope to talk
+to you again...soon!"{clear:14}
+
+#### 36 ####
+ !? {clear:0F}
+
+#### 37 ####
+Woman's subordinate?
+"Uh, forgive us, Ms. Cohen!!"{clear:1E}
+
+#### 38 ####
+Subordinate
+"Indeed, we ask too much!"{clear:14}
+
+#### 39 ####
+Subordinate
+"Uh, sorry, Ms. Cohen!!"{clear:14}
+
+#### 40 ####
+ !? {clear:0F}
+
+#### 41 ####
+Woman's subordinate?
+"Uh, forgive us, Ms. Cohen!!"{clear:1E}
+
+#### 42 ####
+Subordinate
+"Indeed, we ask too much!"{clear:14}
+
+#### 43 ####
+Subordinate
+"Uh, sorry, Ms. Cohen!!"{clear:14}
+
+#### 44 ####
+Tina{wait:05}...{wait:05} Latina... {wait:05}hic...{wait:05}
+...Gimme{wait:05} anudder{wait:05} drink...
+
+#### 45 ####
+Latina is lookin' good as
+always.
+She's our block's Venus.
+Don't you think so too?{enter}
+And on top of that, she's
+a certified Amazoness{wait:05}...{wait:1E}
+I wouldn't mind being beaten
+up{wait:05}...{wait:05}only if it was by Latina!
+
+#### 46 ####
+Oh,{wait:05} if it isn't{wait:05}...{wait:05}you!{wait:05}
+Hey,{wait:05} aren't you the
+B{wait:05}attling Champ!?{enter}
+I, is there something I
+can do for you? Please{wait:05}
+forgive me for any
+disrespect in the past.{enter}
+Oh yeah,{wait:05} by the way, you
+can exchange monster items
+for prizes at the Imperial
+capital's B-Info...{wait:05} uh{wait:05}...{enter}
+What am I saying!?
+
+#### 47 ####
+You look like you're new
+here so I'll give you
+some special advice.{enter}
+Around here, if you don't
+work, you're not gonna
+earn your day's keep.
+'If you don't work, you
+don't eat', is how it is!{enter}
+That's where prisoners like
+you come into things{wait:05}...{wait:0A}
+Your job is to clean up the
+sewers.{wait:0A} It's not like there
+aren't any other jobs{wait:05}...{enter}
+Oh yeah, don't get me wrong.{wait:14}
+When I say cleaning I don't
+mean you use a mop to polish
+the floors, or whatever{wait:05}...{enter}
+Here in D Block,
+'cleaning' is what we
+call exterminating all
+the monsters that live
+down in the sewers.{enter}
+As long as you get rid of
+those monsters down there,
+you shouldn't have a problem
+makin' a living around here.{wait:0F}
+The rest is up to you{wait:05}...
+
+#### 48 ####
+By the way,{wait:05} I'm no prisoner.{wait:0F}
+I'm a freelancing profiteer
+you can find almost anywhere.{enter}
+Even if you're not a prisoner,{wait:05}
+you can always exchange items
+for money here.
+
+#### 49 ####
+If you're sent here, you're
+pretty much sentenced for life.{wait:0F}
+...{wait:05}I'll probably never be able
+to set foot on my homeland
+again{wait:05}...{wait:05}sigh...
+
+#### 50 ####
+I know you shouldn't drown
+your sorrows in liquor{wait:05}...{wait:05}
+I know{wait:0F}...{wait:05}but I can't stop!
+
+#### 51 ####
+Around here, the criminals are
+higher up than the residents{wait:05}...
+The powerless have no other
+choice but to kneel down.
+
+#### 52 ####
+{wait:05}...{wait:05}Who were you again?{wait:0F}
+Huh? {wait:05}...{wait:05}Battling Champ?
+I have no interest
+in such things.
+By the way, is
+that stuff good?
+
+#### 53 ####
+You're an unfamiliar face.{wait:0F}
+But then again, I don't care
+much for remembering each and
+every face I see anyway{wait:05}...
+
+#### 54 ####
+Guard
+"I used to be in charge
+of security in the
+civilian area{wait:05}...{enter}
+But because of a minor
+mistake, they shipped
+me off to look after
+D Block{wait:05}..."
+
+#### 55 ####
+Guard
+"Maybe I'm{wait:05}...{wait:0F}
+not cut out
+for this job?"
+
+#### 56 ####
+Hammer's gone.
+Without him around{wait:0A}...{wait:0F}
+you know,{wait:05} it's{wait:05} kinda
+lonely in this bar.
+
+#### 57 ####
+I kinda feel like I'm
+gettin' ripped off by
+Hammer.{enter}
+Are his items really that
+cheap{wait:05}...?{wait:05} Hmm.
+
+#### 58 ####
+Fei
+"{wait:05}...{wait:05}Could you stop calling
+me 'bro'?{wait:14} My name is Fei!"
+
+#### 59 ####
+'Hammer - the Supplier'
+"{wait:05}...{wait:05}What's wrong with it?
+It's not like I'm putting
+you down.{enter}
+What, would you prefer
+me to call you 'sir'
+or something?"
+
+#### 60 ####
+Fei
+"{wait:05}...{wait:05}
+Oh, do whatever you wish."
+
+#### 61 ####
+'Hammer - the Supplier'
+"Then it's decided.
+I'll continue to call
+you bro from now on!{enter}
+By the way, bro, I hear
+you're really strong.
+Not many get rank A, you
+know! I'm pretty impressed!{enter}
+{wait:05}...{wait:05}And what's more, bro,
+you seem different from
+the other prisoners."
+
+#### 62 ####
+Fei
+"{wait:05}...{wait:05}Different, huh?
+Well you don't look
+so normal yourself!"
+
+#### 63 ####
+'Hammer - the Supplier'
+"It's not meant to be an
+insult{wait:05}...{wait:05} Just a feeling
+I have.{wait:0F} No deep meaning!{enter}
+Oh, and if you have any
+problems, talk to me!{wait:0F}
+Since I'm a supplier, I've
+got all the connections!"
+
+#### 64 ####
+Fei
+"So you're Hammer{wait:05}...{enter}
+I heard your name from
+the doctor{wait:05}...{wait:05}
+But I didn't expect you
+not to be{wait:05}, errh,{wait:05} human."
+
+#### 65 ####
+'Hammer - the Supplier'
+"That's cruel.
+Humans, beastoids...
+we're all living beings!{enter}
+But of course we do
+look different on
+the outside though."
+
+#### 66 ####
+Fei
+"I, I'm sorry.
+You're the guy who saved
+me and all I do is{wait:05}...{wait:05}"
+
+#### 67 ####
+'Hammer - the Supplier'
+"Oh, uh, it's okay.{wait:0F}
+Oh yes, about the results
+of your Baptism!{enter}
+Awesome!{wait:05} They say you took
+down that despicable Vargas
+guy like he was nothing.
+Now that's a big deal!{enter}
+It even makes me feel good!{wait:0F}
+But he tends to be the type
+to hold a grudge so{wait:05}...{wait:05}
+you had better be careful!"
+
+#### 68 ####
+'Hammer - the Supplier'
+"I know this is all sudden
+and all but, I'm gonna call
+you 'bro' from now on!"
+
+#### 69 ####
+Fei
+"Wait a minute!
+What's this 'bro' thing?{wait:14}
+My name is Fei."
+
+#### 70 ####
+'Hammer - the Supplier'
+"What's wrong with it?
+You don't wanna be called
+'bro' that badly?"
+
+#### 71 ####
+Fei
+"It's not that I
+don't like it{wait:05}..."
+
+#### 72 ####
+'Hammer - the Supplier'
+"Well, then it's settled!{wait:14}
+Oh, and if you have any
+problems, come talk to me.{enter}
+Since I am a supplier,
+I've got all the right
+connections!{enter}
+So whenever your in a jam,
+Hammer, 'the Supplier',
+will do whatever he can!"
+
+#### 73 ####
+Fei
+"Oh, so you're Hammer{wait:05}...{wait:05}
+Boy, do you look strange!
+What's with the costume?"
+
+#### 74 ####
+'Hammer - the Supplier'
+"Costume{wait:05}...?{wait:14} Lay off bro,
+I'm a beastoid! That's
+kinda rude, ya know."
+
+#### 75 ####
+Fei
+"Huh? Oh, I'm sorry.
+{wait:05}...{wait:05}A beastoid, huh?
+So you're not human then?"
+
+#### 76 ####
+'Hammer - the Supplier'
+"Anyway, about that
+Baptism thing...{enter}
+Don't you feel tricked when
+regardless of whether you
+defeat one or two people,
+you're given the same rank?{enter}
+I heard you were injured
+when you went through it...
+That means we have yet to
+see your full potential!"
+
+#### 77 ####
+Fei
+"{wait:05}...{wait:05}Who knows?
+It's not as easy
+as you think{wait:05}...{wait:05}"
+
+#### 78 ####
+'Hammer - the Supplier'
+"You seem kinda down, bro.
+It'll only make life harder
+if you be like that!"
+
+#### 79 ####
+Fei
+"{wait:05}...{wait:05}Didn't I tell you?
+The name's Fei.{wait:0F}
+Don't call me 'bro'!"
+
+#### 80 ####
+'Hammer - the Supplier'
+"Don't get all mad, bro.
+Hammer's just tryin' to
+help, you know."
+
+#### 81 ####
+Fei
+"{wait:05}...{wait:05}Sorry. So much is
+happening at once that
+I'm becoming irritated."
+
+#### 82 ####
+'Hammer - the Supplier'
+"{wait:05}...{wait:05}Umm, you don't{wait:05}...{wait:05}want
+me to call you{wait:05}...{wait:05}'bro'?"
+
+#### 83 ####
+Fei
+"Hah{wait:05}...{wait:05}sure, why not.{wait:05}
+Call me what you want,
+{wait:05}...{wait:05}I won't get mad."
+
+#### 84 ####
+'Hammer - the Supplier'
+"{wait:05}...{wait:05}Oh good!{wait:0F}
+And bro, if you have any
+problems, come talk to me!{enter}
+I promise to do whatever I
+can, or else my name isn't
+'Hammer - the Supplier'.{enter}
+And although I may look
+like this, I am still a
+supplier, so I've got all
+the right connections!"
+
+#### 85 ####
+Fei
+"{wait:05}...{wait:05}Supplier?{wait:0F} If you're
+here, then that means
+you're a prisoner too?"
+
+#### 86 ####
+'Hammer - the Supplier'
+"Heh, I slipped up and got
+caught, OK!{wait:05} ...{wait:14} By the way,
+how are your wounds?"
+
+#### 87 ####
+Fei
+"Huh?
+Oh, fine thanks to you...{enter}
+Oh yeah, I haven't thanked
+you yet... Sorry I caused
+you so much trouble{wait:05}..."
+
+#### 88 ####
+'Hammer - the Supplier'
+"You don't have to thank
+me! Just to let you know,
+I'm also rank D!{enter}
+But then again, how could
+a supplier like me beat
+Battlers like them! That's
+how it goes, heh, bro!?"
+
+#### 89 ####
+Fei
+"What's with this 'bro'?{wait:0F}
+My name is Fei. Could you
+stop calling me 'bro'{wait:05}...?"
+
+#### 90 ####
+'Hammer - the Supplier'
+"C'mon. We're both D rank,
+right? Let's be friends!
+Pleeeze!"
+
+#### 91 ####
+Fei
+"{wait:05}...{wait:05}
+Oh, do whatever!"
+
+#### 92 ####
+'Hammer - the Supplier'
+"Oh wait! Bro!{wait:14} If you've
+got any problems, come
+and talk to me!{enter}
+There's nothing I don't
+know about this D block!
+And I am a supplier, so
+I've got the connections!"
+
+#### 93 ####
+Fei
+"{wait:05}...{wait:05}Imperial Battling
+Committee?{wait:0F}
+What do you want with me?"
+
+#### 94 ####
+Committee Member Rue
+"{wait:05}...{wait:05}I'll cut to the point.
+We want you to participate
+in the Battling tournament."
+
+#### 95 ####
+Fei
+"{wait:05}...{wait:05}Battling?"
+
+#### 96 ####
+Committee Member Rue
+"It's a recreational sport,
+where Gear fights against
+Gear, or even Gear fights
+against monster depending
+on the program.{enter}
+Currently, there are no
+regulations for eligibility.{wait:0A}
+And we, the committee,
+rarely interact with the
+participants directly.{wait:0A}
+You should be honored.{enter}
+You are in luck that your
+little incident with the
+'Champ' caught our
+attention so soon.{enter}
+{wait:05}...{wait:05}So how about it?{wait:19}
+Better a Battler than 
+a prisoner{wait:05}...{wait:0A}
+It's not a bad deal 
+at all."
+
+#### 97 ####
+Fei
+"{wait:05}...{wait:05}I'm sorry, but I
+don't like Gears.{enter}
+I have no interest in such
+recreational tournaments.{enter}
+And above all, I don't even
+have a Gear, so even if I
+wanted to participate, I
+can't. You ask too much!"
+
+#### 98 ####
+Committee Member Rue
+"Hmm,{wait:0A} forgive me{wait:05}...{wait:05}
+But do not worry about
+the latter problem.{enter}
+The Gear you require
+for the Battling will
+be provided by the
+committee.{enter}
+{wait:05}...{wait:05}So, will you
+participate then?"
+
+#### 99 ####
+Fei
+"Don't make me repeat
+myself.{enter}
+I hate Gears and I'm
+not interested in
+that kind of stuff!"
+
+#### 100 ####
+Committee Member Rue
+"If you won't change your
+mind then you'll{wait:05}...{wait:0F}
+Well, you're still new here.
+I'll give you more time.{enter}
+Perhaps we may have been
+too pushy{wait:05}...{wait:14} But please,
+think about this offer
+seriously. I'll be looking
+forward to a favorable reply."
+
+#### 101 ####
+Fei
+"Ha, Hammer!?"
+
+#### 102 ####
+Hammer
+"Why did you do that,
+bro?"
+
+#### 103 ####
+Fei
+"Wait, Hammer.
+What are you 
+talking about?"
+
+#### 104 ####
+Hammer
+"I overheard it all with
+my own ears! Why did you
+reject their invitation?{enter}
+It's truly a rare occasion
+for the committee to
+personally make contact!{enter}
+It's still not too late!
+Do it, bro. We can still
+make it, {wait:0A}right?{wait:0F} You'll be
+a Battler...{wait:05} A Battler!!"
+
+#### 105 ####
+Fei
+"Oh, that{wait:05}...{wait:0F}
+If you overheard, you
+should already know.{enter}
+I don't like fighting.
+And Gears, well{wait:05}...!{wait:14}
+Moreover, there is no
+reason for me to do it."
+
+#### 106 ####
+Hammer
+"If you become a Battler,
+you can leave the prison
+and live in luxury!{enter}
+Power is everything here!
+The powerless{wait:05}...{wait:05}the weak
+are just oppressed!!{wait:14}
+So c'mon,{wait:05} give it a try!"
+
+#### 107 ####
+Fei
+"{wait:05}...{wait:05}{enter}
+{wait:05}...{wait:05}Is that all?"
+
+#### 108 ####
+Hammer
+"Huh? 
+What do you mean?"
+
+#### 109 ####
+Fei
+"{wait:05}...{wait:05}Are you done?"
+
+#### 110 ####
+Hammer
+"{wait:05}...{wait:05}Done?"
+
+#### 111 ####
+Fei
+"You've said enough{wait:05}...{wait:0F}
+Now could you move
+out of the way?{enter}
+Hammer, sorry, but I doubt
+my feelings will change{wait:05}...{wait:1E}
+Fighting and Gears, I hate
+them both. So too bad!"
+

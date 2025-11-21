@@ -1,0 +1,375 @@
+#### 1 ####
+a
+
+#### 2 ####
+show
+
+#### 3 ####
+open
+
+#### 4 ####
+stay
+
+#### 5 ####
+{fast:FF}さて、どちらへ？{enter}
+　　ジャンプなんてするか
+　　大鍾乳洞
+　　岩山
+　　ゾンビクルーザー
+　　にんぼく
+　　マハノン＜移民船＞
+　　ラスト
+
+#### 6 ####
+　　{fast:FF}ブリッジ
+　　ヤーヴェ部屋
+　　ラジエルキャラ
+　　がいかん
+　　ラジエルその2
+　　やめた
+
+#### 7 ####
+　　{fast:FF}ヤーヴェ部屋
+　　空
+　　セフィロート
+　　やめた
+
+#### 8 ####
+　　{fast:FF}ranch10
+　　ranch2
+　　ranch3
+　　camp　　演説ルーム
+　　core1
+　　core2
+　　core3
+　　core4
+　　core5
+　　ranch11
+　　やめた
+
+#### 9 ####
+　　{fast:FF}外　　　　　　zombi
+　　先頭　　　　　cockpit
+　　外2boss　　　engine
+　　2両目　　　　trailer1
+　　3両目　　　　trailer2
+　　4両目　　　　trailer3
+　　やめた
+
+#### 10 ####
+　　{fast:FF}入口　　　　iwa-4
+　　上　　　　　iwa-1
+　　下　　　　　iwa-2
+　　中　　　　　iwa-3
+　　回想　　　　iwa-kai
+　　放電　　　　iwa-31
+　　やめた
+マップのつながりは4231の順
+
+#### 11 ####
+　　{fast:FF}入口　　　　sho-1
+　　まんなか　　sho-21
+　　沙防壁　　　sho-22
+　　通路その1　sho-23
+　　通路その2　sho-24
+　　発掘跡　　　sho-3
+　　ボス部屋　　sho-4
+　　バル爺　　　baru
+　　落下地点　　sho-11
+　　壁開けた後　baru
+　　いちまいえ　sho-0
+　　やめた
+
+#### 12 ####
+{fast:FF}WorldMapJumpTest
+　　　set ScenarioFlag
+　　　set JumpNumber
+　　　set E\entNumber
+　　　Jump?
+　　　Exit
+　S-Flag   = {number(s):03}
+　MapNum   = {number(s):02}
+　JumpNum  = {number(s):00}
+　E\entNum = {number(s):01}
+
+#### 13 ####
+{fast:FF}set scenario 
+　　　plus
+　　　minus
+　　　10 plus
+　　　10 minus
+　　　50 plus
+　　　50 minus
+　　　end
+　sflag   = {number(s):03}
+
+#### 14 ####
+{fast:FF}SET JumpNumber
+　　　plus
+　　　minus
+　　　10 plus
+　　　10 minus
+　　　end
+　JumpNum  = {number(s):00}
+
+#### 15 ####
+{fast:FF}SET E\entNumber
+　　　plus
+　　　minus
+　　　10 plus
+　　　10 minus
+　　　default
+　　　end
+　E\entNum = {number(s):01}
+　default  = {number(s):03}
+
+#### 16 ####
+{fast:FF}　　　mapjump
+　　　flying CAMERA
+　　　global FLAG clear
+　　　MENU
+　　　ucon + endcamera
+　　　setVsync
+　　　battle ENCOUNT off
+　　　PRINT
+　　　c-and-f.src　off
+　　　DEMOFLAG on
+　　　EXIT    [11/01]
+
+#### 17 ####
+コードができるまでお休み中
+
+#### 18 ####
+クリアしたよ
+
+#### 19 ####
+{fast:FF}　　元通り
+　　1/20
+　　1/15
+　　exit
+
+#### 20 ####
+{fast:FF}　　0    wakeup
+　　01   wakeup
+　　012  wakeup
+　　0123 wakeup
+　　0    sleep
+　　01   sleep
+　　012  sleep
+　　0123 sleep
+　　exit
+
+#### 21 ####
+{fast:FF}どこでもじゃぁんぷ
+　　　　このマップ
+　　　　俺んち
+　　　　0～99
+　　　　100～199
+　　　　200～299
+　　　　300～399
+　　　　400～499
+　　　　500～599
+　　　　600～699
+　　　　700～799
+　　　　やめた
+
+#### 22 ####
+{fast:FF}きかくtestmap
+　　かとう
+　　えとう
+　　すずき長髮
+　　すずき短髮
+　　たね
+　　こうもと
+　　きごし
+　　うちみち
+　　さいとう
+　　まつはら
+　　やめた
+
+#### 23 ####
+{fast:FF}　　　　　戾る
+　　　　　{number(s):00}00～{number(s):00}09
+　　　　　{number(s):00}10～{number(s):00}19
+　　　　　{number(s):00}20～{number(s):00}29
+　　　　　{number(s):00}30～{number(s):00}39
+　　　　　{number(s):00}40～{number(s):00}49
+　　　　　{number(s):00}50～{number(s):00}59
+　　　　　{number(s):00}60～{number(s):00}69
+　　　　　{number(s):00}70～{number(s):00}79
+　　　　　{number(s):00}80～{number(s):00}89
+　　　　　{number(s):00}90～{number(s):00}99
+
+#### 24 ####
+{fast:FF}　　　　　戾る
+　　　　　{number(s):00}{number(s):01}0
+　　　　　{number(s):00}{number(s):01}1
+　　　　　{number(s):00}{number(s):01}2
+　　　　　{number(s):00}{number(s):01}3
+　　　　　{number(s):00}{number(s):01}4
+　　　　　{number(s):00}{number(s):01}5
+　　　　　{number(s):00}{number(s):01}6
+　　　　　{number(s):00}{number(s):01}7
+　　　　　{number(s):00}{number(s):01}8
+　　　　　{number(s):00}{number(s):01}9
+
+#### 25 ####
+{fast:FF}マップナンバー{number(s):02}だね？
+　　　　　うん
+　　　　　あ、まちがえちゃった
+　　　　　やっぱりやめようかな
+
+#### 26 ####
+{fast:FF}マップパラメータ通常は(0)
+map={0C:01},{0C:02} 
+para={0C:00}
+　　　ジャンプする
+　　　plus
+　　　minus
+　　　ギアマップジャンプ
+　　　やめる
+
+#### 27 ####
+{fast:FF}メニューコール
+　　　ノーマルメニュー
+　　　名前變更
+　　　ショップ
+　　　メンツ變更（未对応）
+　　　load game
+　　　やめた
+
+#### 28 ####
+{fast:FF}キャラを選んで
+　　　フェイ　　{name:00:フェイ}
+　　　エリィ　　{name:01:エリィ}
+　　　シタン　　{name:02:シタン}
+　　　バルト　　{name:03:バルト}
+　　　ビリー　　{name:04:ビリー}
+　　　リコ　　　{name:05:リコ}
+　　　エメラダ　{name:06:エメラダ}
+　　　チュチュ　{name:07:チュチュ}
+　　　やめた
+
+#### 29 ####
+{fast:FF}ショップテスト　now = {number(s):00}
+　　たす  　
+　　ひく
+　　キャラショップに入る　　
+　　ギアショップに入る
+　　おかねげっとぉ
+　　ぬける
+
+#### 30 ####
+{fast:FF}カメラで飛ぶぞモード[Ver.2.8]
+
+#### 31 ####
+　　　{fast:FF}　angle = {0C:00} , dip = {0C:01}
+　　　なにもしない
+　　　始点覚える
+　　　終点覚える
+　　　やってみる
+　　　データ見る
+　　　レンズ/スピード變える
+　　　Look-ATにアクターを置く
+　　　カメラEND
+
+#### 32 ####
+{fast:FF}    eyespeed {0C:02} , atspeed {0C:03}
+　 　 eye +1
+　 　     -1
+　 　     +5
+　 　     -5
+　 　     x2
+　 　     /2
+　  　at  +1
+　 　     -1
+　 　     +5
+　  　    -5
+　 　     x2
+　 　     /2
+　   　play
+
+#### 33 ####
+{fast:FF}カメラのデータ
+　　見ない
+　　見る
+　　ひとつだけ見たいなぁ
+
+#### 34 ####
+　　{fast:FF}やっぱいいや
+　　start AT  pos
+　　      EYE pos
+　　      parameter
+　　end   AT  pos
+　　      EYE pos
+　　      parameter
+　　runcamera speed & roll
+
+#### 35 ####
+{fast:FF}レンズ變更は上下キーで行います
+　　　レンズ變更スタート
+　　　レンズ變更END
+　　　元の数値へ
+　　　ロールする
+　　　ロールしない
+　　　2倍速
+　　　1／2倍速
+　　　ぬける
+now speed = {0C:00} , angle = {0C:01}
+
+#### 36 ####
+{fast:FF}　　　wakeup
+　　　sleep
+　　　+16len
+　　　-16len
+　　　+64len
+　　　-64len
+　　　+256len
+　　　-256len
+now length {0C:00}
+
+#### 37 ####
+{fast:FF}　　　カメラ戾してEND
+　　　カメラそのままEND
+
+#### 38 ####
+{fast:FF}START eye POSITION
+ eye X = {0C:00}
+     Z = {0C:01}
+     Y = {0C:02}
+
+#### 39 ####
+{fast:FF}START at POSITION
+  at X = {0C:00}
+     Z = {0C:01}
+     Y = {0C:02}
+
+#### 40 ####
+{fast:FF}START PARAMETER
+    angle = {0C:00}
+    dip   = {0C:01}
+    len   = {0C:02}
+
+#### 41 ####
+{fast:FF}END eye POSITION
+ eye X = {0C:00}
+     Z = {0C:01}
+     Y = {0C:02}
+
+#### 42 ####
+{fast:FF}END at POSITION
+  at X = {0C:00}
+     Z = {0C:01}
+     Y = {0C:02}
+
+#### 43 ####
+{fast:FF}END PARAMETER
+    angle = {0C:00}
+    dip   = {0C:01}
+    len   = {0C:02}
+
+#### 44 ####
+{fast:FF}RUN CAMERA SPEED
+    eye  = {0C:02} ,at = {0C:03}
+    roll = {0C:00}
+

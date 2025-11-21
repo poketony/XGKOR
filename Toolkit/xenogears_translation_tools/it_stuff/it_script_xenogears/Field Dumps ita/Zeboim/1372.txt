@@ -1,0 +1,184 @@
+<TextBlock 1 w:28 h:2>
+Elly
+"Quel Gear…"<Opcode 2 30><Close><End of Block>
+<TextBlock 2 w:48 h:4>
+Elly
+"… Lo so, lo so molto
+bene… Sì… Zeboim, la
+città sotterranea…<New>
+Ove noi fummo seppelliti
+in quel vasto mausoleo."<Close><End of Block>
+<TextBlock 3 w:34 h:2>
+Elly
+"Eh? … Cosa?<New>
+…<Delay 32> Cosa ho…"<Space 1><Close><End of Block>
+<TextBlock 4 w:44 h:3>
+Shitan
+"Quella voce…<Delay 25>
+Wiseman!<New>
+…<Delay 32>
+… Fuggiamo!!
+Sbrigatevi!"<Close><End of Block>
+<TextBlock 5 w:32 h:3>
+Shitan
+"Elly!
+Elly!<New>
+Cosa c'è!?"<Close><End of Block>
+<TextBlock 6 w:32 h:3>
+Shitan
+"No…<Delay 35>
+Sbrighiamoci ad
+andare avanti!"<Close><End of Block>
+<TextBlock 7 w:30 h:3>
+Shitan
+"Vescovo Stone!!
+Aspetti!!"<Close><End of Block>
+<TextBlock 8 w:26 h:2>
+Bart
+"Ehi, Shitan!"<Opcode 2 25><Close><End of Block>
+<TextBlock 9 w:56 h:3>
+Bart
+"Una città…<Delay 20>
+Una città
+sottoterra…<New>
+Anche queste… sono
+delle rovine?"<Close><End of Block>
+<TextBlock 10 w:34 h:2>
+Bart
+"… Quel Gear…"<Opcode 2 35><Space 1><Close><End of Block>
+<TextBlock 11 w:52 h:4>
+Bart
+"Ma tu chi diavolo sei?<New>
+Non ho dimenticato che
+devo fartela pagare per
+quello che hai fatto
+all'Yggdrasil!<New>
+Almeno dicci il
+tuo nome!!"<Close><End of Block>
+<TextBlock 12 w:28 h:3>
+Bart
+"Troppo forte…<Delay 35>
+Eh?"<Close><End of Block>
+<TextBlock 13 w:26 h:2>
+Billy
+"Ma cosa…"<Opcode 2 25><Close><End of Block>
+<TextBlock 14 w:38 h:3>
+Billy
+"Queste sono le rovine
+di una città…<New>
+Ne avevo già sentito
+parlare, ma…"<Close><End of Block>
+<TextBlock 15 w:34 h:4>
+Billy
+"Chi sei? Almeno
+dicci il tuo nome!"<Close><End of Block>
+<TextBlock 16 w:34 h:3>
+Billy
+"Sei forte…<Delay 35>
+Eh?"<Close><End of Block>
+<TextBlock 17 w:36 h:3>
+Rico
+"Ehi! Shitan!
+… Ah, lascia stare."<Opcode 2 35><Close><End of Block>
+<TextBlock 18 w:44 h:3>
+Rico
+"!!??<Delay 16>
+Che diavolo!?<New>
+Ma non eravamo
+sottoterra?<New>
+Qualcuno mi spiega com'è
+che ora ci troviamo SOPRA
+la terra, su un ponte!?"<Close><End of Block>
+<TextBlock 19 w:14 h:3>
+Rico
+"!!!?<Delay 16>
+Lui…"<Opcode 2 35><Close><End of Block>
+<TextBlock 20 w:34 h:3>
+Rico
+"Sei forte…<Delay 35>
+Eh?"<Close><End of Block>
+<TextBlock 21 w:48 h:3>
+Rico
+"Chi cazzo credi
+di essere?
+Come ti chiami?"<Close><End of Block>
+<TextBlock 22 w:38 h:4>
+<Chu-Chu>
+"Wow! Fichissimo!!
+C'è altra terra
+sottoterra, chu!"<Close><End of Block>
+<TextBlock 23 w:30 h:3>
+Ridammela,
+ridammela,
+ridammela…<Opcode 2 45><Close><End of Block>
+<TextBlock 24 w:46 h:3>
+Wiseman
+"Lui è in mano mia!
+Presto, seguiteli!!"<Close><End of Block>
+<TextBlock 25 w:28 h:3>
+Wiseman
+"Eh?
+… Oh, no…"<Close><End of Block>
+<TextBlock 26 w:50 h:4>
+Stone
+"Ah. Elementi, non
+siete neanche brave
+come dicono…<New>
+Non riuscite nemmeno
+a farmi guadagnare
+un po' di tempo."<Close><End of Block>
+<TextBlock 27 w:10 h:2>
+Stone
+"?"<Close><End of Block>
+<TextBlock 28 w:42 h:3>
+Stone
+"C… cosa vuoi?
+C… chi sei tu?"<Close><End of Block>
+<TextBlock 29 w:46 h:3>
+Stone
+"È la nostra occasione!!
+Torniamo da Krelian…"<Close><End of Block>
+<TextBlock 30 w:36 h:3>
+Ah ah…<Delay 32>
+Hyah ah ah…<Delay 42>
+Ahr ahahahahahah!!<Close><End of Block>
+<TextBlock 31 w:28 h:3>
+Ah ah…
+Lei è mia.
+Ridammela!!<Close><End of Block>
+<TextBlock 32 w:40 h:2>
+Per te non è altro
+che un giocattolo
+consumato.<New>
+Perciò ridammela.
+Appartiene a me…<Close><End of Block>
+<TextBlock 33 w:50 h:2>
+Che importanza
+ha un nome…?<New>
+Tuttavia, se
+insisti……<Delay 50> Id…<Space 1><Close><End of Block>
+<TextBlock 34 w:28 h:3>
+Id
+"!!<Delay 32>
+… Tu…? …"<Space 3><Close><End of Block>
+<TextBlock 35 w:46 h:3>
+Id
+"Umph, un po' presto,
+non è vero?<New>
+… Capisco, è stata
+quella donna…<New>
+Bene. Mi andrai bene
+come giocattolo…
+per oggi."<Close><End of Block>
+<TextBlock 36 w:34 h:3>
+Id
+"Ah ah ah…
+Hyah ah ah ah…"<Close><End of Block>
+<TextBlock 37 w:18 h:2>
+Id
+"Umph…"<Close><End of Block>
+<TextBlock 38 w:32 h:1>
+… Ridammela.<Opcode 2 35><Close><End of Block>
+<TextBlock 39 w:30 h:2>
+Ridammela,
+ridammela…<Opcode 2 50><Close><End of Block>

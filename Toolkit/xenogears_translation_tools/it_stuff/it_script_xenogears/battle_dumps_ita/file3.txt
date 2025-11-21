@@ -1,0 +1,30 @@
+<TextBlock 1 w:22 h:2>
+Fei
+"Hiyaaaaa!"<Close><End of Block>
+<TextBlock 2 w:36 h:3>
+Fei
+"Uff,<Delay 10> uff<Delay 8>…<Delay 2>…<Delay 2>…<Delay 5>
+Ne ho sconfitto uno!?<Close><End of Block>
+<TextBlock 3 w:46 h:3>
+Fei
+"Ma chi diavolo sei…?<New>
+Non importa quante
+volte ti stendo,
+continui a rialzarti!"<Close><End of Block>
+<TextBlock 4 w:24 h:4>
+Fei
+"Guh!
+Amico, sei
+ostinato!"<Close><End of Block>
+<TextBlock 5 w:46 h:4>
+Fei
+"Uff,<Delay 10> uff<Delay 10>…<Delay 10>…<Delay 10>…<Delay 10> Merda!<Delay 30>
+Come mai…?<Delay 90> Perché è
+dovuta finire così?"<Close><End of Block>
+<TextBlock 6 w:24 h:4>
+Shitan
+"Fei!<Delay 30> Fermati!<Delay 30>
+Non devi
+combattere qui!"<Close><End of Block>
+<TextBlock 7 w:44 h:1>
+v12.x Preview Release6<Close><Close><End of Block>

@@ -1,0 +1,213 @@
+<TextBlock 1 w:38 h:2>
+Fei
+"Ancora voi, ragazze!?"<Close><End of Block>
+<TextBlock 2 w:48 h:4>
+Fei
+"Voi sapevate cosa Solaris
+faceva agli abitanti della
+superficie…<New>
+E conoscete anche la
+situazione che c'è
+sulla terra…
+Eppure voi…"<Close><End of Block>
+<TextBlock 3 w:46 h:3>
+Fei
+"Il potere e l'abilità
+non c'entrano niente.<New>
+È stata soltanto una
+coincidenza se noi
+non siamo mutati."<Close><End of Block>
+<TextBlock 4 w:54 h:3>
+Elly
+"Dominia…<Delay 30>
+Ma tu credi davvero a
+ciò che stai dicendo?"<Close><End of Block>
+<TextBlock 5 w:44 h:4>
+Elly
+"Una volta voi tutte
+eravate abitanti
+della superficie.<New>
+Non eravate anche voi
+obbligate a vivere
+sotto la tirannia
+di Solaris?<New>
+IO SO che voi sapete
+come ci si sente ad
+essere 'poveri',
+perciò perché voi…?"<Close><End of Block>
+<TextBlock 6 w:42 h:4>
+Elly
+"Questa è la provvidenza
+secondo quelli che sono
+i 'ricchi'!"<Close><End of Block>
+<TextBlock 7 w:22 h:2>
+Billy
+"Elementi!"<Close><End of Block>
+<TextBlock 8 w:46 h:3>
+Billy
+"Le persone sono persone.<New>
+Nulla di più, nulla di
+meno. Ammetto però che ci
+sono i forti ed i deboli.<New>
+Ma questo non è per noi
+un buon motivo per
+abbandonarli.<New>
+Tutti noi siamo uguali!
+Siamo tutti esseri
+umani!"<Close><End of Block>
+<TextBlock 9 w:54 h:3>
+Elly
+"Dominia…<Delay 30>
+Ma tu credi davvero a
+ciò che stai dicendo?"<Close><End of Block>
+<TextBlock 10 w:44 h:4>
+Elly
+"Una volta voi tutte
+eravate abitanti
+della superficie.<New>
+Non eravate anche voi
+obbligate a vivere
+sotto la tirannia
+di Solaris?<New>
+IO SO che voi sapete
+come ci si sente ad
+essere 'poveri',
+perciò perché voi…?"<Close><End of Block>
+<TextBlock 11 w:42 h:4>
+Elly
+"Questa è la provvidenza
+secondo quelli che sono
+i 'ricchi'!"<Close><End of Block>
+<TextBlock 12 w:22 h:2>
+Billy
+"Elementi!"<Close><End of Block>
+<TextBlock 13 w:46 h:3>
+Billy
+"Le persone sono persone.<New>
+Nulla di più, nulla di
+meno. Ammetto però che ci
+sono i forti ed i deboli.<New>
+Ma questo non è per noi
+un buon motivo per
+abbandonarli.<New>
+Tutti noi siamo uguali.
+Siamo tutti esseri
+umani!"<Close><End of Block>
+<TextBlock 14 w:52 h:4>
+Dominia
+"Vedo che avete ottenuto
+un nuovo Gear che è stato
+allineato con un…<New>
+… Contenitore dell'Anima."<Close><End of Block>
+<TextBlock 15 w:54 h:4>
+Dominia
+"Ciò che succede ai Gazel
+o agli Agnelli non mi
+interessa.<New>
+Ognuna di noi ha i propri
+doveri da compiere.<New>
+Non abbiamo tempo da
+perdere con delle faccende
+che riguardano voi, gente
+debole ed inferiore."<Close><End of Block>
+<TextBlock 16 w:48 h:4>
+Dominia
+"Sì. Per esempio,
+guardate voi stessi…<New>
+Voi, che fate parte dei
+forti e dei superiori,
+siete stati i primi a
+rimanere come eravate.<New>
+Non avete subìto
+alcuna mutazione.
+O sbaglio, forse?"<Close><End of Block>
+<TextBlock 17 w:52 h:4>
+Dominia
+"Allora… voi volete dare
+una mano a chi potrebbe
+essere salvato?"<Close><End of Block>
+<TextBlock 18 w:48 h:4>
+Dominia
+"Umph.<New>
+Così sia, mostratemi
+la vostra provvidenza,
+che desidera salvare
+i miseri 'poveri'!"<Close><End of Block>
+<TextBlock 19 w:28 h:2>
+Dominia
+"Arrivo!"<Opcode 2 30><Close><End of Block>
+<TextBlock 20 w:50 h:4>
+Dominia
+"Ah…<New>
+Potremmo anche aver perso
+malamente combattendo
+col nostro corpo…<New>
+… ma vi uccideremo
+nei nostri Gear!"<Close><End of Block>
+<TextBlock 21 w:22 h:3>
+Dominia
+"Venite!
+Seguitemi!"<Close><End of Block>
+<TextBlock 22 w:52 h:4>
+Cherubina
+"Voi sapete che avremmo
+dovuto prenderlo noi…<New>
+Abbiamo bisogno di un
+potere maggiore…<New>
+… perché il Comandante
+Ramsus realizzi i suoi
+desideri ai quali da
+tanto tempo anela."<Close><End of Block>
+<TextBlock 23 w:50 h:4>
+Cherubina
+"Che cosa degna di lode…
+Però…<Delay 20> è davvero la cosa
+migliore per l'umanità?"<Close><End of Block>
+<TextBlock 24 w:54 h:4>
+Cherubina
+"La gente deve essere in
+grado di reggersi sui
+propri piedi…<New>
+… in qualunque circostanza
+ci si trovi.<New>
+Proteggere eccessivamente
+vuole dire solo ostacolare
+la volontà di essere
+indipendenti.<New>
+Ostacola la crescita della
+gente e del mondo. Questa
+cosa noi l'abbiamo provata
+sulla nostra pelle.<New>
+Vivere grazie alla propria
+forza, reggersi sui propri
+piedi! È triste ma vero…<New>
+I deboli verranno
+estirpati…<New>
+Ma noi non possiamo
+pensare al passato
+e tornare indietro…<New>
+Questa è la provvidenza
+dell'esistenza umana."<Close><End of Block>
+<TextBlock 25 w:32 h:3>
+Seraphita
+"Allora, avanti…
+prendiamocelo!"<Close><End of Block>
+<TextBlock 26 w:33 h:3>
+Seraphita
+"Siete così cari~ni,
+e gen~ti~li!"<Close><End of Block>
+<TextBlock 27 w:54 h:4>
+Trone
+"Sì, per costruire il
+nostro paese ideale…<New>
+… non possiamo permettere
+che voi lo prendiate."<Close><End of Block>
+<TextBlock 28 w:34 h:2>
+Sistema Blocco Porta
+Area B<Close><End of Block>
+<TextBlock 29 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 30 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><Close><End of Block>

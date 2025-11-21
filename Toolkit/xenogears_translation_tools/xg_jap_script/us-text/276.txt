@@ -1,0 +1,147 @@
+#### 1 ####
+Big Joe
+"I lose. 
+Here's your present.
+Adios."
+
+#### 2 ####
+ 
+ Received LongDarkCoat.
+
+#### 3 ####
+Big Joe
+"Ha, how easy it is
+to beat you, amigo!
+Go away."
+
+#### 4 ####
+Big Joe
+"Ha...a draw.
+Very lucky for you
+senor..."
+
+#### 5 ####
+Big Joe
+"Hey, hombre. You
+disturbin' our amore time?"{enter}
+    Yes
+    No
+
+#### 6 ####
+Big Joe
+"Si? Maybe you need some
+manners, muchacho!"
+
+#### 7 ####
+Big Joe
+"Well then go away."
+
+#### 8 ####
+Oh Joe, mi amore!
+
+#### 9 ####
+Bart
+"Sorry about what I
+said earlier..."
+
+#### 10 ####
+Fei
+"It's alright. I was at
+fault too. I haven't seen
+you in such a long time.{enter}
+We shouldn't be fighting."
+
+#### 11 ####
+Bart
+"Sigh{wait:05}...{wait:05}{enter}
+The Yggdrasil II was
+constructed so quickly
+we had no time to ready
+its depth charges.{enter}
+Also it was my fault we
+didn't have depth charges
+because I prioritized the
+Bart Missiles over...{enter}
+...everything else."
+
+#### 12 ####
+Fei
+"Bart Missiles?"
+
+#### 13 ####
+Bart
+"Oh uh...um, well,
+they're not that
+great anyway."
+
+#### 14 ####
+Fei
+"?{wait:14}
+Anyway, I'm glad you're
+okay.{enter}
+I always knew that you'd
+be alive."
+
+#### 15 ####
+Bart
+"Of course.
+I'm Bart the immortal.
+Whaddya trying to say{wait:05}...?{enter}
+But this time I got reamed
+by a red Gear monster."
+
+#### 16 ####
+Fei
+"A red Gear..."
+
+#### 17 ####
+Bart
+"Yeah. He beat me and then
+left us to sink into the
+sand.{enter}
+But this next part sounds
+wild.{enter}
+We sank into this huge cave
+under the sand! {wait:0A}And then
+a sand cruiser just like
+the Yggdrasil was there!{enter}
+We replaced the usable
+parts and the bridge and
+remodeled it."
+
+#### 18 ####
+Citan
+"Frankly, I do not believe
+it myself. It looks
+the same but it can float.{enter}
+Most likely it is the
+Yggdrasil's prototype."
+
+#### 19 ####
+Bart
+"People lived there
+long ago and they
+had many weapons.
+That's how we got them."
+
+#### 20 ####
+Citan
+"Bart already showed me.
+Those weapons are most
+likely...{wait:0A}from Shevat."
+
+#### 21 ####
+Fei
+"Shevat...{wait:05}...{wait:05}
+you mean the aerial..."
+
+#### 22 ####
+Bart
+"More importantly, we
+should go say 'ahoy'
+to the Captain."
+
+#### 23 ####
+Fei
+"...Yeah."
+

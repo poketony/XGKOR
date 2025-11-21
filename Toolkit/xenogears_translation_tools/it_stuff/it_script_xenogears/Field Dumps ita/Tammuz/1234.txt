@@ -1,0 +1,979 @@
+<TextBlock 1 w:40 h:3>
+Fei
+"Non che mi piaccia
+vagabondare per i mari
+senza una meta…"<Close><End of Block>
+<TextBlock 2 w:6 h:1>
+…<Opcode 2 100><Close><End of Block>
+<TextBlock 3 w:24 h:3>
+Fei
+"Cosa? Ma chi
+è quello?"<Close><End of Block>
+<TextBlock 4 w:42 h:2>
+Fei
+"Che state facendo?"<Close><End of Block>
+<TextBlock 5 w:40 h:3>
+Elly
+"Uhm…<Delay 10>
+Grazie per avermi
+aiutata."<Close><End of Block>
+<TextBlock 6 w:36 h:3>
+Elly
+"Perché sei così
+gentile nei miei
+confronti?"<Close><End of Block>
+<TextBlock 7 w:6 h:1>
+…<Opcode 2 100><Close><End of Block>
+<TextBlock 8 w:48 h:3>
+Elly
+"Non sembrano… gente
+troppo cattiva."<Close><End of Block>
+<TextBlock 9 w:6 h:1>
+…<Opcode 2 100><Close><End of Block>
+<TextBlock 10 w:6 h:1>
+…<Opcode 2 100><Close><End of Block>
+<TextBlock 11 w:46 h:3>
+Questo è il porto
+sotterraneo.
+I vostri Gear sono
+qui in riparazione.<Close><End of Block>
+<TextBlock 12 w:58 h:2>
+Questo è il porto
+sotterraneo. La vostra
+nave è ormeggiata qui.<Close><End of Block>
+<TextBlock 13 w:58 h:4>
+Questa è la cima della torre.
+Il cielo sconfinato!<Delay 10>
+Il mare!<Delay 10>
+La navigazione sarà
+molto tranquilla.<Close><End of Block>
+<TextBlock 14 w:58 h:4>
+Questa è la cima della torre.
+Nessun Wels.
+Nessun Wels…<Delay 10>
+<Delay 10>… Che qui non ci sia
+mai nessun Wels.<Close><End of Block>
+<TextBlock 15 w:48 h:3>
+Questa è la stanza della
+gru. Oggi stiamo pescando
+solo roba molto piccola.<Close><End of Block>
+<TextBlock 16 w:40 h:4>
+Capitano
+"Ganzo, vedo che
+siete tornati per
+visitarci.<New>
+Lo ricorderò."<Close><End of Block>
+<TextBlock 17 w:44 h:1>
+Tenetevi forte!!<Close><End of Block>
+<TextBlock 18 w:52 h:1>
+Da parte di tutti i SadNES!!<Close><End of Block>
+<TextBlock 19 w:22 h:1>
+Xenogears in italiano!!<Close><End of Block>
+<TextBlock 20 w:30 h:1>
+NON<Delay 30> È<Delay 30> UN<Delay 30> SOGNO!!!<Close><End of Block>
+<TextBlock 21 w:30 h:2>
+Capitano
+"Gahahahah…"<Close><End of Block>
+<TextBlock 22 w:54 h:3>
+Capitano
+"Voi siete i due beoti che
+stavano a galla coi Gear."<Close><End of Block>
+<TextBlock 23 w:54 h:3>
+Capitano
+"Gahahaha. Vabbeh, non
+prendetevela così tanto.<New>
+Per noi, tutto quello che
+tiriamo fuori dal mare è
+un tesoro.<New>
+E voi siete un tesoro
+veramente grande ed
+importante. Siamo stati
+molto attenti con voi."<Close><End of Block>
+<TextBlock 24 w:50 h:3>
+Capitano
+"Che bella signorina!<Delay 20> Oh,
+dai, non fare quella
+faccia! Non mordo mica!<New>
+Ti ridarò il tuo Gear
+che brillerà come se
+fosse stato lavato
+con il Perlana!<New>
+Gahahahah!"<Close><End of Block>
+<TextBlock 25 w:38 h:2>
+Capitano
+"E questo perché…"<Close><End of Block>
+<TextBlock 26 w:10 h:1>
+Io sono…!<Close><End of Block>
+<TextBlock 27 w:12 h:1>
+un uomo…!<Close><End of Block>
+<TextBlock 28 w:22 h:1>
+di mare!<Close><End of Block>
+<TextBlock 29 w:26 h:2>
+Capitano
+"Gahahaha…"<Close><End of Block>
+<TextBlock 30 w:50 h:3>
+Capitano
+"Probabilmente starete
+morendo di fame. Vi farò
+avere un po' di cibo."<Close><End of Block>
+<TextBlock 31 w:54 h:4>
+Capitano
+"Haaaaaaaaaaaaaaaans!<New>
+Io vado a dare il
+benvenuto agli ospiti.
+Tu occupati del resto."<Close><End of Block>
+<TextBlock 32 w:48 h:3>
+Capitano
+"Certo che lo so.
+Ma tu come puoi
+essere così calmo?"<Close><End of Block>
+<TextBlock 33 w:36 h:2>
+Capitano
+"Umph, già già."<Close><End of Block>
+<TextBlock 34 w:34 h:3>
+Capitano
+"Fatemi andare a
+preparare le cose."<Close><End of Block>
+<TextBlock 35 w:48 h:3>
+Capitano
+"Andate ad aspettare sul
+ponte. Li sposterò là."<Close><End of Block>
+<TextBlock 36 w:38 h:4>
+Capitano
+"Perfetto.
+La signorina è
+tornata illesa."<Close><End of Block>
+<TextBlock 37 w:56 h:4>
+Capitano
+"I Redentori?
+Oh, quei tipi che
+erano qui prima…<New>
+Se ne sono andati
+dicendo che avevano
+da investigare
+su qualcosa.<New>
+Potrebbero essere
+sul ponte, vicino
+all'entrata del
+mercato."<Close><End of Block>
+<TextBlock 38 w:54 h:4>
+Capitano
+"Se avete qualche casino
+da fare con loro…<New>
+… vi aiuteremo in ogni
+modo per noi possibile.<New>
+Se vuoi saperne di più
+su quel piatto volante
+che s'è diretto al sito
+di scavi, chiedi ad Hans."<Close><End of Block>
+<TextBlock 39 w:36 h:4>
+Capitano
+"Oh, Shitan.
+Sei venuto perché
+eri preoccupato?"<Close><End of Block>
+<TextBlock 40 w:50 h:4>
+Shitan
+"Sì, puoi ben dirlo.
+Ma sembrate stare meglio
+di quanto m'aspettassi."<Close><End of Block>
+<TextBlock 41 w:24 h:2>
+Capitano
+"Certo."<Close><End of Block>
+<TextBlock 42 w:12 h:1>
+Noi siamo…!<Close><End of Block>
+<TextBlock 43 w:8 h:1>
+uomini…!<Close><End of Block>
+<TextBlock 44 w:24 h:1>
+di mare!!<Close><End of Block>
+<TextBlock 45 w:54 h:4>
+Capitano
+"… Questo è quello che
+mi piacerebbe dire…<New>
+… ma la verità è che
+ci è andata alquanto
+male.<New>
+Abbiamo alcuni uomini
+feriti gravemente, ed
+altri morti.<New>
+Ma, considerando quello
+che è successo alle altre
+navi…<New>
+… non siamo nella
+posizione di poterci
+lamentare.<New>
+E… inoltre, Shitan…
+cos'è tutto 'sto casino
+con quella specie di
+piatto volante?<New>
+È spuntato fuori dal
+nulla, ci ha presi a calci
+in culo e se n'è andato
+lasciandosi dietro Wels.<New>
+E poi si è diretto verso
+un sito di scavi di cui
+non si sa nulla e si crede
+sia totalmente vuoto.<New>
+Strano, visto che noi
+siamo stati mandati verso
+un sito di scavi più
+profondo e più grande…"<Close><End of Block>
+<TextBlock 46 w:44 h:2>
+Shitan
+"Proprio come
+pensavo…"<Close><End of Block>
+<TextBlock 47 w:54 h:4>
+Capitano
+"Alcuni dicono di aver
+visto un mostro che
+assomigliava ad un Gear.<New>
+Sembrava che stesse
+guidando quel piatto
+volante verso il sito
+di scavi<Delay 10>…<New>
+O così mi è stato
+detto."<Close><End of Block>
+<TextBlock 48 w:52 h:4>
+Shitan
+"Stone<Delay 10>…<Delay 10>
+Sembra per certo che
+lì ci sia qualcosa."<Close><End of Block>
+<TextBlock 49 w:54 h:4>
+Capitano
+"Chiamalo intuito del
+recuperatore…<New>
+… ma non ho intenzione
+di avvicinarmi più di
+così a quel posto.<New>
+E… Shitan, quel piatto
+volante è un vostro
+nemico?"<Close><End of Block>
+<TextBlock 50 w:32 h:3>
+Shitan
+"Diciamo…<Delay 10> che
+puoi ben dirlo."<Close><End of Block>
+<TextBlock 51 w:52 h:4>
+Capitano
+"Beh, non vi chiederò
+di vendicarci.<New>
+Ma non posso prendermela
+comoda e stare fermo a
+grattarmi le palle.<New>
+Se siete loro nemici, vi
+aiuteremo con ogni nostro
+mezzo.<New>
+Potete chiedere ad Hans
+tutto ciò che vi serve
+sapere riguardo al sito."<Close><End of Block>
+<TextBlock 52 w:42 h:3>
+Capitano
+"Che c'è?
+Cosa vi serve?<New>
+Coordinate x1507,
+z1235?<New>
+Hans, ti suona
+familiare?"<Close><End of Block>
+<TextBlock 53 w:44 h:2>
+Hans
+"È la Fossa di
+Sargasso."<Close><End of Block>
+<TextBlock 54 w:28 h:3>
+Capitano
+"Cosa?
+La Fossa di
+Sargasso?"<Close><End of Block>
+<TextBlock 55 w:48 h:2>
+Fei
+"Sargasso,
+che cos'è?"<Close><End of Block>
+<TextBlock 56 w:52 h:4>
+Capitano
+"È una caverna creata da
+microrganismi nel corso
+di tantissimi anni.<New>
+Si presume che lì ci sia
+un tesoro nascosto, ma
+nessuno è mai ritornato
+da quel luogo.<New>
+Si racconta che la cava
+stessa sia viva.<New>
+Vi state dirigendo alla
+Fossa di Sargasso?"<Close><End of Block>
+<TextBlock 57 w:38 h:2>
+Fei
+"Sembra proprio
+che sia così."<Close><End of Block>
+<TextBlock 58 w:54 h:4>
+Capitano
+"I vostri Gear non sono
+in grado di immergersi
+a quelle profondità.<New>
+E, anche se lo facessero,
+non potrebbero muoversi.<New>
+Equipaggatevi qui con
+l'equipaggiamento
+sottomarino.<New>
+Poi portate la vostra
+nave il più lontano
+possibile, e tuffatevi
+con i vostri Gear.<New>
+Adesso vado a svegliare
+quegli ubriaconi."<Close><End of Block>
+<TextBlock 59 w:50 h:4>
+Fei
+"Davvero? A te va bene?<New>
+Capitano, ti ringrazio,
+ci aiuti sempre ad uscire
+dai guai."<Close><End of Block>
+<TextBlock 60 w:38 h:2>
+Capitano
+"Figurati."<Close><End of Block>
+<TextBlock 61 w:28 h:3>
+Capitano
+"Sembra che
+abbiano finito."<Close><End of Block>
+<TextBlock 62 w:32 h:2>
+Fei
+"C'è voluto
+poco."<Close><End of Block>
+<TextBlock 63 w:22 h:3>
+Capitano
+"Certo.
+Noi siamo…"<Close><End of Block>
+<TextBlock 64 w:50 h:2>
+Fei
+"Uomini <Delay 10>di mare, <Delay 10>giusto?"<Close><End of Block>
+<TextBlock 65 w:40 h:4>
+Capitano
+"Che mi venga un colpo! <Delay 5>
+Pare proprio che il
+ragazzo abbia capito.<Delay 10><New>
+Stammi bene, allora."<Close><End of Block>
+<TextBlock 66 w:14 h:2>
+Fei
+"Sì, certo."<Close><End of Block>
+<TextBlock 67 w:54 h:4>
+Capitano
+"Ah, già, ho scordato di
+dirti come funzionano
+i Gear sott'acqua.<New>
+È facile. In acqua puoi
+saltare senza che i tuoi
+piedi tocchino terra.<New>
+Continua a saltare per
+accumulare velocità.<New>
+In un Gear si può nuotare
+abbastanza bene…<New>
+Ma ci potrebbero essere
+posti che non si possono
+oltrepassare, se non
+nuoti bene."<Close><End of Block>
+<TextBlock 68 w:16 h:3>
+Fei
+"Capito.
+Grazie."<Close><End of Block>
+<TextBlock 69 w:54 h:4>
+Capitano
+"Non c'è bisogno di
+ringraziare.<New>
+Forse potete comprare
+qualcosa dalla nostra
+officina per Gear.<New>
+Sembra che ci sia un
+bel malloppo di roba
+da vendere."<Close><End of Block>
+<TextBlock 70 w:48 h:3>
+Capitano
+"Sentitevi liberi
+di venire al Tammuz
+quando volete.<New>
+C'è sempre posto per
+la vostra nave nel
+nostro molo."<Close><End of Block>
+<TextBlock 71 w:52 h:2>
+Avete parlato al Capitano?<Delay 10>
+Fa la persona gentile, ma…<Close><End of Block>
+<TextBlock 72 w:52 h:3>
+Hans
+"Quello che sta girando
+lì in tondo è il Capitano."<Close><End of Block>
+<TextBlock 73 w:50 h:3>
+Hans
+"Sembra che ci sarà
+qualche problema."<Close><End of Block>
+<TextBlock 74 w:54 h:4>
+Hans
+"Il Capitano è un
+grande, non è vero?<New>
+Grazie a lui il lavoro
+qui va a gonfie vele."<Close><End of Block>
+<TextBlock 75 w:48 h:4>
+Hans
+"Il piatto volante
+si è diretto verso
+nord.<New>
+L'estremità nord di
+quell'isola…<Delay 10>
+Ma perché?<New>
+Lì non c'è nulla…
+se non una piccola
+miniera."<Close><End of Block>
+<TextBlock 76 w:52 h:4>
+Hans
+"Visto che abbiamo
+mandato a quel paese
+il nostro lavoro con
+la Chiesa…<New>
+… non sappiamo che
+'delfini' pigliare!<New>
+Immagino che l'unica cosa
+sia continuare a girare
+per i mari e recuperare
+oggetti da sotto di essi.<New>
+Sembra che il Tammuz alla
+fine dovrà continuare a
+vivere alla giornata."<Close><End of Block>
+<TextBlock 77 w:38 h:3>
+Permettetemi di
+presentarmi.<New>
+Io sono Hans, il primo
+ufficiale della nave.<Close><End of Block>
+<TextBlock 78 w:46 h:3>
+Hans
+"Sissignore. Basta che
+lei non esageri."<Close><End of Block>
+<TextBlock 79 w:50 h:3>
+Hans
+"Sigh…
+Il Capitano e tutti
+gli altri sono così
+irresponsabili…"<Close><End of Block>
+<TextBlock 80 w:50 h:2>
+Sono trent'anni che
+occupo questo posto.<New>
+Non lo cederò di certo
+ad un giovane appena
+arrivato.<Close><End of Block>
+<TextBlock 81 w:50 h:2>
+Sono trent'anni che
+occupo questo posto.<New>
+Ma quando i Wels ci hanno
+attaccati, ho pensato
+di scapparmene.<Close><End of Block>
+<TextBlock 82 w:46 h:3>
+Puoi parlare con le
+altre zone del Tammuz
+tramite quell'interfono.<Close><End of Block>
+<TextBlock 83 w:54 h:3>
+Ricordo d'aver visto una
+torre altissima molto tempo
+fa. La chiamavano la Torre
+di Babele.<New>
+Neanch'io riuscivo a vederne
+la cima, eppure ho la vista
+di un falco!<New>
+Dicono che i Mietitori
+chiamati Wels vengano da lì.<Close><End of Block>
+<TextBlock 84 w:44 h:3>
+Sono stato colto di
+sorpresa dai Wels.
+Dicono che siano venuti
+dalla Torre di Babele.<Close><End of Block>
+<TextBlock 85 w:46 h:2>
+Eh?
+Questo non è un pub?<Close><End of Block>
+<TextBlock 86 w:26 h:3>
+Eh?
+Wels?
+Dov'è il Wels?<Close><End of Block>
+<TextBlock 87 w:6 h:1>
+…<Opcode 2 100><Close><End of Block>
+<TextBlock 88 w:22 h:3>
+Fei
+"!<Delay 3>
+Quella nave!"<Close><End of Block>
+<TextBlock 89 w:28 h:3>
+Elly
+"Cosa?<Delay 3>
+Cosa c'è?"<Close><End of Block>
+<TextBlock 90 w:22 h:3>
+Fei
+"Quello è
+l'Yggdrasil!"<Close><End of Block>
+<TextBlock 91 w:50 h:2>
+Elly
+"Ma quella non è
+la nave di Bart?"<Close><End of Block>
+<TextBlock 92 w:46 h:4>
+Fei
+"Sì!<Delay 3>
+È ancora vivo.
+Perfetto!<New>
+Non possiamo starcene
+fermi qui!
+Andiamo!"<Close><End of Block>
+<TextBlock 93 w:22 h:2>
+Elly
+"Andare dove?"<Close><End of Block>
+<TextBlock 94 w:42 h:2>
+Fei
+"Ad aiutarli,
+cos'altro, sennò?"<Close><End of Block>
+<TextBlock 95 w:34 h:2>
+Elly
+"Senza Gear?"<Close><End of Block>
+<TextBlock 96 w:16 h:2>
+Fei
+"Uhmm…"<Close><End of Block>
+<TextBlock 97 w:36 h:2>
+Capitano
+"Frenate, giovani."<Close><End of Block>
+<TextBlock 98 w:38 h:4>
+Capitano
+"Molo, questo è il
+ponte di comando!<New>
+Come stanno i Gear
+dei nostri ospiti?"<Close><End of Block>
+<TextBlock 99 w:32 h:2>
+Le riparazioni verranno
+effettuate a breve.<Close><End of Block>
+<TextBlock 100 w:28 h:2>
+Capitano
+"Due minuti."<Close><End of Block>
+<TextBlock 101 w:8 h:1>
+Eh?<Close><End of Block>
+<TextBlock 102 w:46 h:3>
+Capitano
+"Dovete finire in
+due minuti!<New>
+Poi portateli
+fuori sul ponte,
+attraverso l'entrata
+del magazzino!"<Close><End of Block>
+<TextBlock 103 w:20 h:1>
+Sì… sissignore!<Close><End of Block>
+<TextBlock 104 w:44 h:4>
+Capitano
+"Stiamo spostando i
+vostri Gear sul ponte.
+Andate a prenderveli.<New>
+Se vi serve…<New>
+… potete comprare delle
+nuove parti al negozio
+che si trova all'entrata
+del magazzino."<Close><End of Block>
+<TextBlock 105 w:48 h:3>
+Hans
+"Cosa sta dicendo, Capitano?<New>
+E se venissimo bombardati
+mentre rimaniamo coinvolti
+nel bel mezzo di un
+combattimento?"<Close><End of Block>
+<TextBlock 106 w:46 h:4>
+Capitano
+"Silenzio!!<New>
+I nostri ospiti stanno
+combattendo per salvare
+i loro amici.<New>
+Non infastidirmi!<New>
+Se non li aiutiamo,
+il buon nome degli
+uomini di mare verrà
+infangato!!"<Close><End of Block>
+<TextBlock 107 w:52 h:4>
+Hans
+"…<Delay 5>…<Delay 20> Sissignore.
+Ma il Tammuz stesso non
+parteciperà a nessun
+combattimento."<Close><End of Block>
+<TextBlock 108 w:40 h:3>
+Fei
+"Grazie. È più
+che sufficiente."<Close><End of Block>
+<TextBlock 109 w:54 h:4>
+Capitano
+"Devono avere le palle per
+iniziare a combattere
+vicino al Tammuz!<New>
+Mi fa bollire il sangue!"<Close><End of Block>
+<TextBlock 110 w:40 h:4>
+Capitano
+"Ehi, Hans, è un bel
+po' di tempo che non
+uso il cannone.<New>
+Che ne dici di
+sparare un colpo
+o due?"<Close><End of Block>
+<TextBlock 111 w:54 h:4>
+Hans
+"Sta scherzando?<New>
+Perché coinvolgere il
+Tammuz in un combattimento
+con due fazioni né ostili
+né alleate?<New>
+E quel cannone non è altro
+che un inutile ammasso di
+ferraglia che lei ha
+attaccato al Tammuz mentre
+era ubriaco!"<Close><End of Block>
+<TextBlock 112 w:44 h:4>
+Capitano
+"Non capisci
+proprio un cazzo…<New>
+Il codice degli
+uomini di mare…"<Close><End of Block>
+<TextBlock 113 w:36 h:4>
+Capitano
+"Sembra che un
+sottomarino sia
+sotto attacco."<Close><End of Block>
+<TextBlock 114 w:24 h:2>
+Fei
+"Sottomarino?"<Close><End of Block>
+<TextBlock 115 w:46 h:4>
+Capitano
+"Sembra che abbiate
+portato con voi un
+altro baldo giovane."<Close><End of Block>
+<TextBlock 116 w:54 h:3>
+Bart
+"Io sono Bart.<New>
+Grazie per aver
+acconsentito che la
+mia nave attraccasse
+qui."<Close><End of Block>
+<TextBlock 117 w:48 h:4>
+Capitano
+"Gahahahahahahah.<New>
+È magnifico. Sei
+venuto per chiedermi
+della nave?"<Close><End of Block>
+<TextBlock 118 w:50 h:4>
+Bart
+"Il mio sottomarino,
+l'Yggdrasil…<New>
+… è stato danneggiato
+da un attacco nemico…<Delay 20>
+Sarà fuori servizio
+per un po'…"<Close><End of Block>
+<TextBlock 119 w:48 h:4>
+Margie
+"Bart! Sei una
+persona orribile.<New>
+Sei salito qui
+senza di me!"<Close><End of Block>
+<TextBlock 120 w:50 h:4>
+Bart
+"Ehm… Margie?<New>
+Proprio quando sto
+iniziando a sembrare
+un capitano!"<Close><End of Block>
+<TextBlock 121 w:44 h:4>
+Margie
+"Sono scappata da Nisan,
+ma ora mi trovo bloccata
+sull'Yggdrasil.<New>
+Mi sono rotta.
+Capitano? Ciao,
+io sono Margherita."<Close><End of Block>
+<TextBlock 122 w:52 h:4>
+Bart
+"Ahhh, merda! Guarda,
+qui noi due stiamo
+parlando uomo ad uomo.<New>
+Perciò, Margie,
+perché non te ne
+torni nell'Yggdrasil?"<Close><End of Block>
+<TextBlock 123 w:36 h:4>
+Margie
+"Sei terribile!
+Stai iniziando a
+parlare come Sig."<Close><End of Block>
+<TextBlock 124 w:28 h:3>
+Bart
+"Cosa!?
+Io…<Delay 5> come Sig?"<Close><End of Block>
+<TextBlock 125 w:48 h:4>
+Margie
+"Sei sempre così
+avventato, Bart.<New>
+Fei e gli altri si sono
+ritrovati a galla perché
+hai fatto fuoco su quella
+aeronave impulsivamente."<Close><End of Block>
+<TextBlock 126 w:52 h:3>
+Bart
+"Uah… tu,
+stu… stupida
+non dovevi…"<Close><End of Block>
+<TextBlock 127 w:38 h:4>
+Fei
+"Bart…?
+Tu… non lo… avrai…
+mica fatto sul serio…"<Close><End of Block>
+<TextBlock 128 w:36 h:2>
+Shitan
+"È vero, Fei."<Close><End of Block>
+<TextBlock 129 w:44 h:4>
+Bart
+"Non potevo fare altro.
+Come potevo sapere che
+voi eravate…"<Close><End of Block>
+<TextBlock 130 w:40 h:4>
+Fei
+"Sono così indignato…
+Non ho nulla da dire…"<Close><End of Block>
+<TextBlock 131 w:38 h:2>
+Bart
+"Non arrabbiarti
+così tanto."<Close><End of Block>
+<TextBlock 132 w:44 h:4>
+Bart
+"Tch. Non ti avrei
+dovuto portare
+fuori da Nisan."<Close><End of Block>
+<TextBlock 133 w:28 h:3>
+Margie
+"Guarda che
+l'ho sentito!<New>
+Brutto pezzo
+di cretino!"<Close><End of Block>
+<TextBlock 134 w:48 h:4>
+Capitano
+"Gahahahaha.<Delay 15>
+Stupendo, stupendo.<New>
+Essere giovani
+è stupendo."<Close><End of Block>
+<TextBlock 135 w:46 h:4>
+Capitano
+"Ehi, bimbo.<New>
+Tu non dovresti
+essere una specie
+di pirata?"<Close><End of Block>
+<TextBlock 136 w:36 h:5>
+Bart
+"Oh, sì.
+Un uomo di mare!<New>
+Io ero un uomo
+del deserto, ma…"<Close><End of Block>
+<TextBlock 137 w:40 h:4>
+Capitano
+"Perfetto!!
+Anzi… meglio!
+Sì, un uomo di mare!<New>
+Ti chiami Bart, giusto?
+Ti mostrerò la nostra
+famosa sala da bar."<Close><End of Block>
+<TextBlock 138 w:44 h:3>
+Capitano
+"Gentil signora, ho
+il permesso di prendere
+in prestito…<New>
+… questo mio collega?"<Close><End of Block>
+<TextBlock 139 w:38 h:2>
+Margie
+"Che strano tipo…"<Close><End of Block>
+<TextBlock 140 w:34 h:3>
+Margie
+"Fei, sei arrabbiato
+a causa di Bart?"<Close><End of Block>
+<TextBlock 141 w:42 h:2>
+Fei
+"No, non è
+così<Delay 5>…"<Close><End of Block>
+<TextBlock 142 w:48 h:2>
+Margie
+"<Delay 10>…<Delay 10>…
+Per Elly, allora?"<Close><End of Block>
+<TextBlock 143 w:26 h:2>
+Fei
+"<Delay 5>…<Delay 5>… Sì."<Close><End of Block>
+<TextBlock 144 w:46 h:3>
+Margie
+"Andrà tutto bene.<New>
+Se sei così preoccupato,
+perché non vai a
+salvarla?"<Close><End of Block>
+<TextBlock 145 w:40 h:3>
+Margie
+"Proprio come…<Delay 5>
+Bart fece con me."<Close><End of Block>
+<TextBlock 146 w:16 h:2>
+Fei
+"<Delay 5>…<Delay 5>…"<Close><End of Block>
+<TextBlock 147 w:30 h:2>
+Fei
+"Dov'è Elly?"<Close><End of Block>
+<TextBlock 148 w:40 h:4>
+Hans
+"Sta controllando il
+suo Gear. Arriverà
+qui a momenti."<Close><End of Block>
+<TextBlock 149 w:48 h:3>
+Bart
+"Vuoi dire<Delay 5>…<Delay 10>
+che è riuscita
+a scappare?"<Close><End of Block>
+<TextBlock 150 w:48 h:3>
+Capitano
+"Beh, buon per te,
+Fei. Dico bene?"<Close><End of Block>
+<TextBlock 151 w:22 h:2>
+Fei
+"Oh, certo!"<Close><End of Block>
+<TextBlock 152 w:42 h:2>
+Fei
+"Elly, stai bene?"<Close><End of Block>
+<TextBlock 153 w:20 h:2>
+Elly
+"<Delay 10>…<Delay 10> Sì."<Close><End of Block>
+<TextBlock 154 w:10 h:2>
+Bart
+"…"<Close><End of Block>
+<TextBlock 155 w:48 h:2>
+Elly
+"Che cos'è quel
+sottomarino?"<Close><End of Block>
+<TextBlock 156 w:44 h:3>
+Fei
+"Ah, intendi
+l'Yggdrasil?<New>
+Ha preso un bel po'
+di botte, perciò ora
+è qui al Tammuz per
+le riparazioni."<Close><End of Block>
+<TextBlock 157 w:36 h:3>
+Elly
+"Capisco…<Delay 10><New>
+Posso riposare
+un po'?
+<Delay 5>…<Delay 5> Sono esausta."<Close><End of Block>
+<TextBlock 158 w:42 h:2>
+Fei
+"È una buona idea."<Close><End of Block>
+<TextBlock 159 w:40 h:2>
+Bart
+"Fei, la nave è mia."<Close><End of Block>
+<TextBlock 160 w:42 h:4>
+Capitano
+"Ehi, ehi.<New>
+Ha detto di essere
+stanca. Fatela
+riposare."<Close><End of Block>
+<TextBlock 161 w:36 h:2>
+Elly
+"Beh, io vado."<Close><End of Block>
+<TextBlock 162 w:38 h:3>
+Bart
+"…<Delay 10>
+La cosa non mi piace."<Close><End of Block>
+<TextBlock 163 w:44 h:2>
+Fei
+"Bart, stai ancora…"<Close><End of Block>
+<TextBlock 164 w:50 h:4>
+Bart
+"Non è per quello.
+Non ci pugnalerà alle
+spalle.<New>
+Sono cresciuto tra
+criminali e ciarlatani.
+Mi basta guardare nei
+suoi occhi per dirlo."<Close><End of Block>
+<TextBlock 165 w:50 h:2>
+Fei
+"Allora, accogli Elly…"<Close><End of Block>
+<TextBlock 166 w:50 h:4>
+Bart
+"È per questo che non
+posso. Per lei potrebbe
+anche andare bene.<New>
+Ma… che ne penserà la
+sua famiglia, nel suo
+paese?<New>
+Credi che Elly possa
+vivere in quel modo?<New>
+Può farlo? Sbarazzarsi
+della sua famiglia e via?
+È lei che deve decidere.<New>
+Lei… Elly sicuramente
+è molto preoccupata per
+ciò che ti ho detto.<New>
+Non possiamo coinvolgere
+gente che non è sola,
+che ha dei legami
+affettivi."<Close><End of Block>
+<TextBlock 167 w:18 h:2>
+Fei
+"Bart…"<Close><End of Block>
+<TextBlock 168 w:46 h:3>
+Bart
+"Umph, beh, fa'
+come vuoi."<Close><End of Block>
+<TextBlock 169 w:42 h:4>
+Capitano
+"Che cos'è!?<New>
+Vedete quell'enorme
+cosa che sembra un
+piatto?"<Close><End of Block>
+<TextBlock 170 w:40 h:3>
+Hans
+"A quale scopo
+me lo chiede…?"<Close><End of Block>
+<TextBlock 171 w:46 h:4>
+Capitano
+"Le altre flotte di
+recuperatori non erano
+state quasi annientate…<New>
+… in un sol colpo?<Delay 15>
+È così che la Chiesa
+ci accoglie?"<Close><End of Block>
+<TextBlock 172 w:48 h:4>
+Hans
+"Lo dubito seriamente!<New>
+Perché dovrebbero
+attaccarci? Siamo venuti
+qui solo per scavare…"<Close><End of Block>
+<TextBlock 173 w:52 h:4>
+C… Capitano, Mietitori…!
+Wels! I Mietitori stanno
+uscendo a dozzine da quella
+specie di piatto volante!<Close><End of Block>
+<TextBlock 174 w:16 h:2>
+Capitano
+"Cosa!?"<Close><End of Block>
+<TextBlock 175 w:54 h:3>
+Hans
+"Perché…?
+Non può essere vero…"<Close><End of Block>
+<TextBlock 176 w:36 h:4>
+Capitano
+"…<Delay 10>…<Delay 30>
+Lanciate i Gear!
+Caricate il cannone!"<Close><End of Block>
+<TextBlock 177 w:22 h:2>
+Hans
+"Capitano!?"<Close><End of Block>
+<TextBlock 178 w:54 h:4>
+Capitano
+"Bene, compagni!<New>
+Aiuteremo e salveremo
+qualsiasi sopravvissuto
+delle altre navi…<New>
+… semmai sarà possibile
+mentre cerchiamo di
+scappare!<New>
+E abbattete quei Wels con
+i nostri due cannoni!<New>
+Non lasciate che quei
+sudici Wels si avvicinino
+al nostro Tammuz!"<Close><End of Block>
+<TextBlock 179 w:48 h:4>
+Capitano
+"Hans! Muoviti!<Delay 10>
+Prendi il timone!<New>
+Mostreremo a quel
+piatto volante come
+i veri uomini di mare
+battono in ritirata!"<Close><End of Block>
+<TextBlock 180 w:24 h:2>
+Hans
+"S… sissignore!"<Close><Close><End of Block>

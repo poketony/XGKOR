@@ -1,0 +1,200 @@
+#### 1 ####
+Welcome!
+What can I get you?
+    Bartweiser
+    Marguerita
+    Nothing
+
+#### 2 ####
+That'll be 40G.
+
+#### 3 ####
+Downed a Bartweiser 
+in a single gulp.
+
+#### 4 ####
+Gained a bit of weight.
+
+#### 5 ####
+Hang on!
+You don't have
+any money!?
+
+#### 6 ####
+That'll be 50G.
+
+#### 7 ####
+Drank a
+Marguerita
+in one gulp.
+
+#### 8 ####
+Gained a bit of weight.
+
+#### 9 ####
+What the--?
+You don't have
+any money?
+
+#### 10 ####
+I haven't been to town
+in so long Sarge, I 
+don't know what to do.
+
+#### 11 ####
+Yeah...{wait:1E}
+How about the festival?
+
+#### 12 ####
+The festival...?
+
+#### 13 ####
+The festival to celebrate
+the truce with Kislev,{enter}
+Prince Bartholomew's
+return and founding of
+the Republic.
+
+#### 14 ####
+Oh yeah. {wait:1E} 
+Let's go. {wait:1E} 
+We couldn't make it 
+back for the last one.
+
+#### 15 ####
+OK, I'm all 
+ready to go!
+
+#### 16 ####
+Yeah, I'm glad they had
+this festival, aren't you
+Sarge?
+
+#### 17 ####
+Stop calling me Sarge,
+we're not in the army 
+anymore.
+
+#### 18 ####
+Fish are so pretty. I
+could watch them all day.
+    You said it
+    I'd like to eat 'em
+
+#### 19 ####
+The guy that used to
+work here came back from
+the army...{enter}
+And said he would take
+me to the sea.{enter}
+He said the water goes
+on forever just like 
+the desert.{enter}
+He also said we could see
+lots of pretty fish.
+I can't wait to go...
+
+#### 20 ####
+Your order?
+    Something delicious
+    Something cheap
+    Something fast
+
+#### 21 ####
+Just a moment
+
+#### 22 ####
+Enjoy. {clear:32}
+
+#### 23 ####
+Thanks.
+
+#### 24 ####
+That'll be {number(s):00}G.
+
+#### 25 ####
+Thank you, 
+please come again.
+
+#### 26 ####
+Hey, you don't have 
+enough money, do you?
+
+#### 27 ####
+In the old days, I'd
+run to the owner's place
+and they'd all run out
+on me.{enter}
+Now it's different.
+The guy that worked here
+before told me,{enter}
+just grab something
+of theirs whenever that
+happens.
+
+#### 28 ####
+...{wait:0A}...{wait:0A}...{wait:0A}...{wait:0A}...{wait:0A}...{clear:0A}
+
+#### 29 ####
+...Well, you don't have 
+anything that's worth 
+the piece of the meal.{enter}
+Just bring some money 
+the next time.
+
+#### 30 ####
+This is nice. {clear:1E}
+
+#### 31 ####
+{str} was taken.
+
+#### 32 ####
+That's still not 
+enough to cover the meal.
+
+#### 33 ####
+This will pay for 
+the meal. {wait:32}
+Next time please 
+bring enough money.
+
+#### 34 ####
+HP/MP fully restored!{enter}
+Gained a bit of weight!
+
+#### 35 ####
+HP/MP restored a bit!{enter}
+Gained a lot of weight!
+
+#### 36 ####
+HP/MP partially restored!{enter}
+Gained a bit of weight!
+
+#### 37 ####
+That was good.
+
+#### 38 ####
+Oh, sorry. Table for
+how many? This way please.
+
+#### 39 ####
+Boss! We've got bilkers
+dining and dashing, again!
+
+#### 40 ####
+You know...{wait:32}
+Since all the men came
+back my son and I feel
+so ashamed.{enter}
+But compared to wives
+whose sons and husbands
+died or came back wounded,{enter}
+we're pretty happy.
+
+#### 41 ####
+I've been thinking...
+about quitting drinking.{enter}
+The reason I became an 
+alcoholic was to get out
+of going to war.
+

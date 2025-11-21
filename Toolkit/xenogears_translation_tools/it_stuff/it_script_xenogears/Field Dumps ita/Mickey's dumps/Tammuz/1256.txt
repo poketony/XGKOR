@@ -1,0 +1,40 @@
+<TextBlock 1 w:36 h:4>
+Miang
+"…<Delay 20> Capisco…
+Allora è così che
+è andata."<Close><End of Block>
+<TextBlock 2 w:10 h:2>
+Elly
+"…"<Close><End of Block>
+<TextBlock 3 w:44 h:3>
+Miang
+"Ho altri compiti di
+cui mi devo occupare.<New>
+Ti dispiacerebbe
+stare qui per un po'?"<Close><End of Block>
+<TextBlock 4 w:26 h:2>
+Elly
+"Affatto."<Close><End of Block>
+<TextBlock 5 w:54 h:4>
+Miang
+"Non devi preoccuparti
+di nulla. Lascia che al
+resto ci pensi io.<New>
+L'unica cosa che devi
+fare è recuperare
+le forze."<Close><End of Block>
+<TextBlock 6 w:44 h:4>
+Miang
+"Blu cristallino… 
+come la superficie
+di un lago…"<Close><End of Block>
+<TextBlock 7 w:34 h:2>
+Elly
+"Uh… prego?"<Close><End of Block>
+<TextBlock 8 w:38 h:3>
+Miang
+"I tuoi occhi…
+Sono bellissimi."<Close><End of Block>
+<TextBlock 9 w:14 h:2>
+Elly
+"Cosa?"<Close><Close><End of Block>

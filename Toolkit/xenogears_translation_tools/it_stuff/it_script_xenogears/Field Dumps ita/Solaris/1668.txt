@@ -1,0 +1,25 @@
+<TextBlock 1 w:14 h:1>
+!%#?&+!<Close><End of Block>
+<TextBlock 2 w:42 h:1>
+Voglio delle
+piante vere…<Close><End of Block>
+<TextBlock 3 w:50 h:4>
+Non si possono comprare delle
+piante vere se non si è un
+cittadino di I Classe.<Delay 10> 
+… Sigh… Che invidia.<Close><End of Block>
+<TextBlock 4 w:14 h:1>
+!%#?&+!<Close><End of Block>
+<TextBlock 5 w:54 h:1>
+(Volevo una bambola DK1200…)<Close><End of Block>
+<TextBlock 6 w:14 h:1>
+!%#?&+!<Close><End of Block>
+<TextBlock 7 w:50 h:3>
+Questo Gear Imperiale di
+Metallo che papà mi ha
+comprato è fortissimo!<New>
+Vola davvero!!<Delay 10>
+'Purifica gli Agnelli!!'<Delay 10>
+Wow!<Close><End of Block>
+<TextBlock 8 w:0 h:1>
+<Close><End of Block>

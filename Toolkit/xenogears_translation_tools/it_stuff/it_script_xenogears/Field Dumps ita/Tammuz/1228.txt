@@ -1,0 +1,137 @@
+<TextBlock 1 w:24 h:2>
+Fei
+"Ehi, ma è…"<Close><End of Block>
+<TextBlock 2 w:46 h:3>
+Rico
+"Fantastico, Shitan.<New>
+Proprio quando pensavo
+che fossimo stati
+salvati…<New>
+… stiamo per diventare
+peggio dell'Emmenthal."<Close><End of Block>
+<TextBlock 3 w:38 h:4>
+Shitan
+"Non siamo<Delay 10>
+particolarmente 
+graditi qui,<Delay 10> vero?"<Opcode 2 40><Close><End of Block>
+<TextBlock 4 w:2 h:1>
+!<Close><End of Block>
+<TextBlock 5 w:24 h:4>
+Shitan
+"Fei!
+Elly!
+State bene!"<Close><End of Block>
+<TextBlock 6 w:36 h:2>
+Elly
+"In qualche modo…"<Close><End of Block>
+<TextBlock 7 w:34 h:4>
+Rico
+"Non è il momento
+per riunioni
+strappalacrime."<Close><End of Block>
+<TextBlock 8 w:24 h:3>
+Fei
+"Vero…
+Dov'è Bart?"<Close><End of Block>
+<TextBlock 9 w:48 h:4>
+Shitan
+"Sta combattendo giù.<New>
+Ha detto che li avrebbe
+trattenuti finché le
+granate sottomarine non
+fossero state pronte.<New>
+Ma è andato senza
+l'equipaggiamento
+sottomarino appropriato…<New>
+Noi siamo occupati a
+preparare le granate
+sottomarine.<New>
+I vostri Gear dovrebbero
+poter sostenere per un
+po' una battaglia
+sottomarina.<New>
+Andate ad aiutarlo."<Close><End of Block>
+<TextBlock 10 w:30 h:3>
+Fei
+"Capito.
+Elly, andiamo."<Close><End of Block>
+<TextBlock 11 w:24 h:3>
+Shitan
+"Fei,
+dov'è Elly?"<Close><End of Block>
+<TextBlock 12 w:32 h:3>
+Fei
+"Il nemico<Delay 5>…<Delay 10>
+l'ha catturata."<Close><End of Block>
+<TextBlock 13 w:26 h:3>
+Bart
+"Eh, ci credo
+eccome…"<Close><End of Block>
+<TextBlock 14 w:30 h:3>
+Fei
+"Bart, che cosa
+vuoi dire!?"<Close><End of Block>
+<TextBlock 15 w:50 h:3>
+Shitan
+"Basta!!
+Fei!<New>
+Non è il momento
+di litigare.<New>
+Per ora, dobbiamo trovare
+un posto dove finire di
+riparare l'Yggdrasil."<Close><End of Block>
+<TextBlock 16 w:52 h:4>
+Fei
+"…<Delay 10>…<Delay 10> Tranquillo.
+La nave che ha salvato me
+ed Elly è vicina.<New>
+La chiamano il Tammuz, ed
+è grande più o meno quanto
+una piccola città.<New>
+Il loro Capitano può
+aiutarci."<Close><End of Block>
+<TextBlock 17 w:24 h:3>
+Rico
+"Quello è<Delay 10>…<Delay 10>…<Delay 10>
+il Tammuz…?"<Close><End of Block>
+<TextBlock 18 w:36 h:2>
+Dominia
+"Se tu non fossi…"<Close><End of Block>
+<TextBlock 19 w:28 h:2>
+Dominia
+"… stata lì…"<Close><End of Block>
+<TextBlock 20 w:34 h:3>
+Dominia
+"Non ti perdonerò
+mai…"<Close><End of Block>
+<TextBlock 21 w:14 h:2>
+Dominia
+"Tu…"<Close><End of Block>
+<TextBlock 22 w:28 h:2>
+Dominia
+"TRADITRICE!!"<Close><End of Block>
+<TextBlock 23 w:18 h:2>
+Bart
+"Arriva!"<Close><End of Block>
+<TextBlock 24 w:24 h:2>
+Elly
+"Ehi, ma è…"<Close><End of Block>
+<TextBlock 25 w:26 h:3>
+Bart
+"… Fiuh.<New>
+Quella lì non
+sapeva quando
+smettere."<Close><End of Block>
+<TextBlock 26 w:22 h:2>
+Elly
+"Co… cosa?"<Close><End of Block>
+<TextBlock 27 w:12 h:2>
+Fei
+"Giù!"<Close><End of Block>
+<TextBlock 28 w:30 h:3>
+Bart
+"È quello che
+penso che sia?"<Close><End of Block>
+<TextBlock 29 w:8 h:2>
+Elly
+"…"<Close><Close><End of Block>

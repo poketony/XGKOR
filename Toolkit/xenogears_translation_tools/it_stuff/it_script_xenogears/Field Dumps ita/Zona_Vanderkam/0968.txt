@@ -1,0 +1,10 @@
+<TextBlock 1 w:46 h:4>
+Falkon
+"Subito dopo questa fila
+di navi c'è la nave
+ammiraglia Kefeinzel!"<Close><End of Block>
+<TextBlock 2 w:54 h:4>
+Falkon
+"Bene! Evitate la scorta!
+La nave di fronte a voi
+è la Kefeinzel!"<Close><Close><End of Block>

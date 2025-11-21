@@ -1,0 +1,51 @@
+Durante la traduzione di questo file è sorto un piccolo problema.
+
+La versione inglese, difatti, presenta questa formattazione del testo:
+
+Margie
+"Change party members?"
+-> Yes
+   No
+
+In italiano, però, la riga sarebbe stata troppo lunga (29 caratteri).
+
+Ho perciò provato a modificare la riga in cui appare il puntatore della scelta.
+
+Per scoprire il metodo mi sono basato su un confronto tra il SESTO sottofile
+giapponese ed americano del file 1286 (sala di comando dell'Yggdrasil, Square
+USA ha spostato alcuni puntatori lì).
+
+Il sesto sottofile è infatti quello contenente le "istruzioni" dei dialoghi
+di quella stanza.
+
+Comunque, quello che sono riuscito a trovare sono questi 8+2 bytes (0xAC6):
+
+A9XX 9C02 1400 YY00 + 00ZZ (dopo poco più di 0x20 da YY00)
+
+Dove XX sta per I NUMERI della riga su cui si vuole che compaia il puntatore della
+scelta (la prima riga va contata come 0, dunque la seconda sarà 1 e così via).
+
+Perché numeri?
+Perché, anche se può sembrare strano, funziona a nibble. :)
+
+Per esempio, 01 vuol dire che la prima opzione sta sulla riga 0 (cioè la prima),
+mentre 1 che la seconda opzione sta sulla seconda riga.
+
+È dunque piuttosto facile capire come funziona la cosa.
+
+Notevoli sono inveci i bytes YY00 e ZZ00.
+Essi rappresentano la riga che, se pigiata, fa attivare questo
+o quel trigger. Il valore della riga per attivare la prima scelta si trova subito
+dopo i byte di posizionamento, la seconda si trova più distante, ma è facile
+da riconoscere perché ha questo formato: 00+numero della seconda riga. :)
+
+
+Comunque, una volta completata tutta la procedura, ho ottenuto quest'effetto:
+
+Margie
+"Vuoi cambiare i
+membri del gruppo?"<New>
+->  Sì
+    No
+
+E addio problema della finestra. :)

@@ -1,0 +1,42 @@
+#### 1 ####
+    Input code
+    Quit
+
+#### 2 ####
+    {fast:FF}1
+    2
+    3
+    4
+    End inputting
+
+#### 3 ####
+Foreign object scanner: ON
+
+#### 4 ####
+Foreign object scanner: OFF
+
+#### 5 ####
+You have too many
+{str}.
+
+#### 6 ####
+ 
+ Received {str}.
+
+#### 7 ####
+You have too many
+{str}.
+
+#### 8 ####
+ 
+ Received {str}.
+
+#### 9 ####
+Foreign object scanner: 
+Lock-off code [0101]
+
+#### 10 ####
+Lock-off code data is in
+the Data Room on the other
+side.
+

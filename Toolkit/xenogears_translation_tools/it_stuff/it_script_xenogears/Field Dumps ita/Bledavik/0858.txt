@@ -1,0 +1,44 @@
+<TextBlock 1 w:28 h:3>
+Vuoi tornare indietro?
+    Sì
+    No<Close><End of Block>
+<TextBlock 2 w:28 h:3>
+Questo è il…
+'Merry Go Pop'
+1 volta: 10G<Close><End of Block>
+<TextBlock 3 w:40 h:3>
+Vuoi giocare?
+    Gioca
+    No<Close><End of Block>
+<TextBlock 4 w:32 h:4>
+Chi gioca?<Space 3>
+    <Perso1>
+    <Perso2>
+    <Perso3><Close><End of Block>
+<TextBlock 5 w:38 h:1>
+Non hai abbastanza soldi…<Close><End of Block>
+<TextBlock 6 w:32 h:3>
+Questo è…
+'Di chi sono i palloncini'
+1 volta: 10G.<Close><End of Block>
+<TextBlock 7 w:40 h:3>
+Vuoi giocare?
+    Gioca
+    No<Close><End of Block>
+<TextBlock 8 w:32 h:4>
+Chi gioca?<Space 3>
+    <Perso1>
+    <Perso2>
+    <Perso3><Close><End of Block>
+<TextBlock 9 w:38 h:1>
+Non hai abbastanza soldi…<Close><End of Block>
+<TextBlock 10 w:34 h:3>
+Questo è lo…
+'Specchio della Verità'
+1 volta: 10G.<Close><End of Block>
+<TextBlock 11 w:40 h:3>
+Vuoi giocare?
+    Gioca
+    No<Close><End of Block>
+<TextBlock 12 w:38 h:1>
+Non hai abbastanza soldi…<Close><End of Block>

@@ -1,0 +1,135 @@
+<TextBlock 1 w:36 h:4>
+ 
+ Benvenuto a…
+ 'Di chi sono i palloncini' 
+               <Close><End of Block>
+<TextBlock 2 w:50 h:3>
+Ecco le regole.<New>
+Dei bambini con dei
+palloncini verranno giù.<New>
+I loro palloncini
+voleranno via non appena
+li lasceranno andare.<New>
+Tu devi prendere i
+palloncini e riportarli
+ai bambini.<New>
+Riporta più palloncini
+possibili entro il
+tempo limite.<Close><End of Block>
+<TextBlock 3 w:46 h:4>
+Ora spiegherò il
+bonus 'Bingo'.
+Nessuno dei 16 pannelli
+del 'Bingo' è acceso
+adesso.<New>
+Quando riporti un
+palloncino ad un bambino,
+uno dei pannelli si
+accenderà o si spegnerà.<New>
+Quando avrai acceso 4
+pannelli su una linea
+farai 'Bingo'!<New>
+Ogni 'Bingo' ti farà
+vincere cinque volte
+la posta!<Close><End of Block>
+<TextBlock 4 w:30 h:4>
+Scegli il livello.
+    Facile
+    Difficile
+    Spiegazioni<Close><End of Block>
+<TextBlock 5 w:32 h:3>
+<Opcode 1 255> 
+ Inizia il gioco
+             <Close><End of Block>
+<TextBlock 6 w:42 h:2>
+Hai riportato… <Delay 30>
+<Opcode 10 0> palloncini.<Close><End of Block>
+<TextBlock 7 w:32 h:3>
+Il premio è…<Delay 30>
+<Opcode 10 0>
+<Opcode 4 20><Close><End of Block>
+<TextBlock 8 w:24 h:3>
+Ricevi
+<Opcode 10 0>
+<Opcode 4 20><Close><End of Block>
+<TextBlock 9 w:20 h:1>
+È tutto.<Close><End of Block>
+<TextBlock 10 w:16 h:1>
+Grazie! <Opcode 2 30><Close><End of Block>
+<TextBlock 11 w:24 h:2>
+Per favore, trova
+il mio palloncino.<Opcode 2 30><Close><End of Block>
+<TextBlock 12 w:30 h:1>
+Non è il mio!<Opcode 2 30><Close><End of Block>
+<TextBlock 13 w:16 h:1>
+Grazie! <Opcode 2 30><Close><End of Block>
+<TextBlock 14 w:24 h:2>
+Per favore, trova
+il mio palloncino.<Opcode 2 30><Close><End of Block>
+<TextBlock 15 w:32 h:1>
+Non è il mio!<Opcode 2 30><Close><End of Block>
+<TextBlock 16 w:16 h:1>
+Grazie! <Opcode 2 30><Close><End of Block>
+<TextBlock 17 w:24 h:2>
+Per favore, trova
+il mio palloncino.<Opcode 2 30><Close><End of Block>
+<TextBlock 18 w:32 h:1>
+Non è il mio!<Opcode 2 30><Close><End of Block>
+<TextBlock 19 w:16 h:1>
+Grazie! <Opcode 2 30><Close><End of Block>
+<TextBlock 20 w:24 h:2>
+Per favore, trova
+il mio palloncino.<Opcode 2 30><Close><End of Block>
+<TextBlock 21 w:32 h:1>
+Non è il mio!<Opcode 2 30><Close><End of Block>
+<TextBlock 22 w:16 h:1>
+Grazie! <Opcode 2 30><Close><End of Block>
+<TextBlock 23 w:24 h:2>
+Per favore, trova
+il mio palloncino.<Opcode 2 30><Close><End of Block>
+<TextBlock 24 w:28 h:1>
+Non è il mio!<Opcode 2 30><Close><End of Block>
+<TextBlock 25 w:16 h:1>
+Grazie! <Opcode 2 30><Close><End of Block>
+<TextBlock 26 w:24 h:2>
+Per favore, trova
+il mio palloncino.<Opcode 2 30><Close><End of Block>
+<TextBlock 27 w:28 h:1>
+Non è il mio!<Opcode 2 30><Close><End of Block>
+<TextBlock 28 w:16 h:1>
+Grazie! <Opcode 2 30><Close><End of Block>
+<TextBlock 29 w:24 h:2>
+Per favore, trova
+il mio palloncino.<Opcode 2 30><Close><End of Block>
+<TextBlock 30 w:32 h:1>
+Non è il mio!<Opcode 2 30><Close><End of Block>
+<TextBlock 31 w:16 h:1>
+Grazie! <Opcode 2 30><Close><End of Block>
+<TextBlock 32 w:24 h:2>
+Per favore, trova
+il mio palloncino.<Opcode 2 30><Close><End of Block>
+<TextBlock 33 w:32 h:1>
+Non è il mio!<Opcode 2 30><Close><End of Block>
+<TextBlock 34 w:16 h:1>
+Grazie! <Opcode 2 30><Close><End of Block>
+<TextBlock 35 w:24 h:2>
+Per favore, trova
+il mio palloncino.<Opcode 2 30><Close><End of Block>
+<TextBlock 36 w:32 h:1>
+Non è il mio!<Opcode 2 30><Close><End of Block>
+<TextBlock 37 w:16 h:1>
+Grazie! <Opcode 2 30><Close><End of Block>
+<TextBlock 38 w:24 h:2>
+Per favore, trova
+il mio palloncino.<Opcode 2 30><Close><End of Block>
+<TextBlock 39 w:32 h:1>
+Non è il mio!<Opcode 2 30><Close><End of Block>
+<TextBlock 40 w:16 h:1>
+Grazie! <Opcode 2 30><Close><End of Block>
+<TextBlock 41 w:24 h:2>
+Per favore, trova
+il mio palloncino.<Opcode 2 30><Close><End of Block>
+<TextBlock 42 w:32 h:1>
+Non è il mio!<Opcode 2 30><Close><End of Block>
+<TextBlock 43 w:20 h:1>
+ <Opcode 1 255> Bingo!! <Opcode 2 30><Close><End of Block>

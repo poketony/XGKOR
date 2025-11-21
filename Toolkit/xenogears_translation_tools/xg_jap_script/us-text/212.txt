@@ -1,0 +1,245 @@
+#### 1 ####
+Fei
+"A bell...?"
+
+#### 2 ####
+Fei
+"Do you know something?"
+
+#### 3 ####
+Fei
+"Here too..."
+
+#### 4 ####
+Fei
+"I seem to smell some 
+burnt odor...{enter}
+I've smelled something 
+like it before."
+
+#### 5 ####
+Fei
+"What's this?"
+
+#### 6 ####
+Fei
+"..."
+
+#### 7 ####
+Fei
+"...!?"
+
+#### 8 ####
+Fei
+"It doesn't
+look broken..."
+
+#### 9 ####
+Fei
+"Ha!
+There's something
+inside.{enter}
+...!?{wait:1E}
+Got it!"
+
+#### 10 ####
+Fei
+"Ha!
+There's something inside.{enter}
+!?{wait:1E}
+What's this?"
+
+#### 11 ####
+Fei
+"Can we open that
+door with these?"
+
+#### 12 ####
+Fei
+"I wonder what these
+keys are for?"
+
+#### 13 ####
+Fei
+"Let's go and see."
+
+#### 14 ####
+Fei
+"This is covered
+in slime."
+
+#### 15 ####
+Fei
+"Here...?"
+
+#### 16 ####
+Citan
+"...!?"{clear:3C}
+
+#### 17 ####
+Citan
+"A tinkle sound...{wait:28}
+I heard some kind
+of a tinkle sound!"
+
+#### 18 ####
+Citan
+"Burnt...?{wait:1E}
+Hmm, I see..."
+
+#### 19 ####
+Citan
+"It appears this slime
+was left behind by the
+monster."
+
+#### 20 ####
+Citan
+"What is this?"{clear:3C}
+
+#### 21 ####
+Citan
+"...{wait:1E}We took the keys out, 
+why is it not moving?"
+
+#### 22 ####
+Citan
+"Sewage treatment plant?"
+
+#### 23 ####
+Citan
+"That is strange...{enter}
+Where is it?"
+
+#### 24 ####
+Citan
+"Yes. 
+It must be the same."
+
+#### 25 ####
+Rico
+"What's wrong, Citan...{wait:1E}
+is there something here?"
+
+#### 26 ####
+Rico
+"A bell! {wait:1E} 
+A bell...?"
+
+#### 27 ####
+Rico
+"Now that you mention
+it... {enter}
+There is a rumor of a 
+strange ringing sound 
+down here..."
+
+#### 28 ####
+Rico
+"Ugh! ...{wait:28}There's that
+smell again.{enter}
+It's like something's 
+burning..."
+
+#### 29 ####
+Rico
+"Hey, look at this."
+
+#### 30 ####
+Rico
+"This is a rat-
+sweeper machine."
+
+#### 31 ####
+Rico
+"We call them the
+'Catless Rat Removers'!"
+
+#### 32 ####
+Rico
+"No...{wait:3C}
+It's not broken...{wait:3C}
+Why isn't it moving?"
+
+#### 33 ####
+Rico
+"Lemme see it."
+
+#### 34 ####
+Rico
+"!!{wait:14}...These were Vargas'
+pass keys to the sewer.{enter}
+They must've gotten 
+caught up in this thing.{wait:14} 
+That's why it wasn't 
+moving?"
+
+#### 35 ####
+Rico
+"These are the keys to the
+sewage treatment plant."
+
+#### 36 ####
+Rico
+"That's where all the 
+sewage ends up."
+
+#### 37 ####
+Rico
+"From here it's northeast
+through the door and near
+the furthest waterfall."
+
+#### 38 ####
+Rico
+"Yeah, it should be there."
+
+#### 39 ####
+Rico
+"Move, dammit!"
+
+#### 40 ####
+Rico
+"The slime is over
+by that drain too."
+
+#### 41 ####
+{fast:FF}                           
+        "NO ENTRY!"        
+                           
+
+#### 42 ####
+{fast:FF} 
+Received Keys.
+ 
+
+#### 43 ####
+-3{clear:14}
+
+#### 44 ####
+-5{clear:14}
+
+#### 45 ####
+You have too many
+{str}.
+
+#### 46 ####
+ 
+ Received {str}.
+
+#### 47 ####
+You have too many
+{str}.
+
+#### 48 ####
+ 
+ Received {str}.
+
+#### 49 ####
+You have too many
+{str}.
+
+#### 50 ####
+ 
+ Received {str}.
+

@@ -1,0 +1,34 @@
+#### 1 ####
+Fei
+"Is that...{wait:20}Vanderkaum's
+border fleet...?"
+
+#### 2 ####
+Fei
+"...{wait:2D}
+Simple.
+We do this."
+
+#### 3 ####
+Maitreya
+"...{wait:40}
+He might even be more gung-
+ho than the young master."
+
+#### 4 ####
+Maitreya
+"Falkon! Follow the kid!
+The rest of you, stay with
+your unit but follow me!{enter}
+Don't fall behind the kid!
+We're going in too!"
+
+#### 5 ####
+Maitreya
+"Our job is to slow them
+down.{wait:20} So how do you want
+to do it?"
+
+#### 6 ####
+
+

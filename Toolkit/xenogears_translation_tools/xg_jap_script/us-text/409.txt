@@ -1,0 +1,115 @@
+#### 1 ####
+Fei
+"...{wait:1E}It's awful
+dark in here."
+
+#### 2 ####
+Fei
+"Something...{wait:1E}smells moldy."
+
+#### 3 ####
+Elly
+"...{wait:1E}It's dark."
+
+#### 4 ####
+Elly
+"...{wait:1E}Smells{wait:1E}
+like mold."
+
+#### 5 ####
+Citan
+"...{wait:1E}I guess there
+is no light."
+
+#### 6 ####
+Citan
+"Hmm, no ventilation.{wait:1E}
+That explains the moldy
+smell."
+
+#### 7 ####
+Billy
+"...{wait:1E}Sure is dark."
+
+#### 8 ####
+Billy
+"...{wait:1E}That must be{wait:1E}
+why it smells like mold..."
+
+#### 9 ####
+Rico
+"...{wait:1E}Dark."
+
+#### 10 ####
+Rico
+"...{wait:1E}Smells like mold."
+
+#### 11 ####
+Maria
+"...{wait:1E}It's dark."
+
+#### 12 ####
+Maria
+"Is it just me...{wait:1E}
+or does it smell like
+mold?"
+
+#### 13 ####
+{name:07:チュチュ}
+"...{wait:1E}It's pitch black."
+
+#### 14 ####
+{name:07:チュチュ}
+"...{wait:1E}Peewww!{wait:1E}
+I smell mold!"
+
+#### 15 ####
+Emeralda
+"...{wait:1E}Darkness.{wait:1E}
+Like being dead."
+
+#### 16 ####
+Emeralda
+"...{wait:1E}An odd odor."
+
+#### 17 ####
+ The power block is in use. 
+ The No. 1 elevator is not  
+        operational.      
+
+#### 18 ####
+   No.1 elevator block
+ (◎Directional Power)  
+
+#### 19 ####
+  No. 2 elevator block
+ (●Directional Energy) 
+
+#### 20 ####
+Bart
+"Oh, they probably have
+the power shutdown
+because no one's here."
+
+#### 21 ####
+Margie
+"We use this lower area
+as a mausoleum...{enter}
+So it always has minimal
+power available for use.
+But, not even the sisters
+are allowed in there."
+
+#### 22 ####
+Bart
+"That's obvious.{wait:1E}
+Practically no one's
+been in there."
+
+#### 23 ####
+Bart
+"Let's move on!{enter}
+We gotta get to the
+treasure before Shakhan
+gets here."
+

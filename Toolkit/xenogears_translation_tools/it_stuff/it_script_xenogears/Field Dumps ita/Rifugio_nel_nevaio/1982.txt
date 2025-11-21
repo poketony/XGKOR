@@ -1,0 +1,424 @@
+<TextBlock 1 w:48 h:3>
+Hans
+"Uff… Quando si
+tratta di lui…"<Close><End of Block>
+<TextBlock 2 w:50 h:4>
+Fei
+"Dimmi, negli ultimi tempi
+cosa ti è successo? Non
+sapevo avessi un figlio…?<New>
+Il bambino che se n'è
+appena andato… sembrava
+davvero arrabbiato per
+qualche motivo."<Close><End of Block>
+<TextBlock 3 w:50 h:3>
+Hans
+"Sono estremamente
+imbarazzato per ciò
+che hai appena visto.<New>
+Mi sono sposato proprio
+prima che il Tammuz
+affondasse."<Close><End of Block>
+<TextBlock 4 w:52 h:5>
+Hans
+"Il suo nome è Anna. Lei è
+mia moglie. Fu salvata dal
+Tammuz quando le navi furono
+attaccate dai Mietitori.<New>
+Sfortunatamente, fu allora
+che lei perse il marito<Delay 10>…
+Non fraintendere.<New>
+Non l'ho sposata perché
+mi sentivo addolorato per
+lei o per qualcosa del
+genere<Delay 10>…<Delay 20> O…<Delay 10>
+Beh, forse è per quello…<New>
+Volevo solo proteggerla,
+ecco tutto. Se tu chiami
+questo comportamento
+'essere addolorato', credo
+non m'importi più di tanto.<New>
+Il Capitano mi prendeva
+in giro senza pietà.
+Diceva…<New>
+ 'Cosa!? Un ghiacciolo
+ come te che seduce una
+ vedova! Vedi però di
+ non farti odiare dal
+ bambino…'<New>
+Ah ah… credo che il
+Capitano avesse ragione.
+Al mio figliastro ancora
+non piaccio. Ma spero
+che un giorno…"<Close><End of Block>
+<TextBlock 5 w:42 h:3>
+Fei
+"Capisco<Delay 10>…<Delay 10> Cavolo,
+sei cambiato!"<Close><End of Block>
+<TextBlock 6 w:50 h:4>
+Hans
+"Ah ah. Sei cambiato
+anche tu, Fei. Non so
+come spiegarlo, ma…<New>
+Per quanto mi riguarda…
+beh, non so perché…
+Forse perché avevo sempre
+qualcuno che mi proteggeva…"<Close><End of Block>
+<TextBlock 7 w:18 h:2>
+Fei
+"Hans…"<Close><End of Block>
+<TextBlock 8 w:38 h:2>
+Hans
+"Fei, io credo che…"<Close><End of Block>
+<TextBlock 9 w:48 h:4>
+Hans
+"Credo che un giorno,
+il Capitano verrà qui
+scendendo quelle scale…<New>
+Mentre il suo bastone
+farà tap-tap…"<Close><End of Block>
+<TextBlock 10 w:48 h:4>
+Hans
+"E dirà…<New>
+ 'Haaaans! Sembra che stiamo
+ per arraffare un tesoro
+ d'inestimabile valore!<New>
+ Ma che faccia è quella che
+ stai facendo? Non mi credi,
+ eh? Questa volta è vero…
+ non sto mentendo!'"<Close><End of Block>
+<TextBlock 11 w:22 h:3>
+Hans
+"<Delay 10>…<Delay 10> Forse<Delay 10>
+un giorno…"<Close><End of Block>
+<TextBlock 12 w:46 h:4>
+Capitano
+"Haaaans!<New>
+Sembra che stiamo per
+arraffare un tesoro
+d'inestimabile valore!"<Close><End of Block>
+<TextBlock 13 w:3 h:1>
+!<Close><End of Block>
+<TextBlock 14 w:30 h:3>
+Capitano
+"Ma che faccia è
+quella che stai
+facendo!?"<Close><End of Block>
+<TextBlock 15 w:32 h:2>
+Hans
+"Ca… ca… <Delay 10>capitano…"<Space 1><Close><End of Block>
+<TextBlock 16 w:34 h:2>
+Hans
+"Capitano------!!"<Close><End of Block>
+<TextBlock 17 w:50 h:4>
+Capitano
+"Che è 'sta storia
+di urlare 'Ca… ca
+Capitano------!!'?<New>
+Piantala, idiota!"<Close><End of Block>
+<TextBlock 18 w:48 h:3>
+Hans
+"Ma…<Delay 10> sa quanto ero
+preoccupato per
+lei!?"<Close><End of Block>
+<TextBlock 19 w:34 h:4>
+Capitano
+"Ah! Ma io te lo
+dico sempre!<New>
+Ancora non capisci?
+Allora ascolta…"<Close><End of Block>
+<TextBlock 20 w:18 h:2>
+Capitano
+"Gli uomini…!"<Close><End of Block>
+<TextBlock 21 w:32 h:2>
+Capitano
+"Di mare…!"<Close><End of Block>
+<TextBlock 22 w:32 h:2>
+Capitano
+"Non muoiono mai!"<Close><End of Block>
+<TextBlock 23 w:50 h:2>
+Capitano
+"Gah, ah, ah,
+ah-ah-ah-ah!!"<Close><End of Block>
+<TextBlock 24 w:26 h:3>
+Hans
+"Lei…<Delay 10> è…<Delay 10>
+un… tale…"<Space 1><Close><End of Block>
+<TextBlock 25 w:50 h:4>
+Capitano
+"Hans! Questa
+volta è vero!<New>
+C'è un isola con un
+tesoro lì nascosto.
+La chiamano la
+'Isola Duneman'.<New>
+Un antico eroe sconfisse
+lì un mostro, e, secondo
+la leggenda, là giace la
+sua spada leggendaria."<Close><End of Block>
+<TextBlock 26 w:54 h:4>
+Hans
+"Cosa mi può dire di più…?
+Sa dov'è quel posto? E per
+la nave come facciamo?"<Close><End of Block>
+<TextBlock 27 w:50 h:4>
+Capitano
+"Non so dove! Non ho
+una nave! Non mi
+preoccupo dei dettagli!<New>
+Non sai che è proprio per
+questo tuo comportamento
+che non godi della stima
+di quel ragazzo?"<Close><End of Block>
+<TextBlock 28 w:30 h:3>
+Hans
+"Questi non sono
+affari suoi!"<Close><End of Block>
+<TextBlock 29 w:48 h:4>
+Capitano
+"Beh, per quando quel
+ragazzo deciderà che
+gli piaci…<New>
+… io già sarò riuscito a
+prendere una nuova nave.<New>
+Fino ad allora, fai del
+tuo meglio per la tua
+nuova famiglia, ragazzo!<New>
+Da' alla tua famiglia
+l'amore di cui ha
+bisogno, finché ne
+hai la possibilità.<New>
+Gahr, ahr, ahr!!"<Close><End of Block>
+<TextBlock 30 w:50 h:4>
+Anna
+"Non è passato molto tempo
+dalla morte di mio marito<Delay 10>…<New>
+Vi prego di non credere che
+io sia una donna di facili
+costumi…<Delay 10> Ma è grazie a
+quest'uomo che io<Delay 10>…
+(arrossisce)…"<Close><End of Block>
+<TextBlock 31 w:40 h:4>
+Lance
+"Lui mi sta insegnando
+lo spirito degli uomini
+di mare!"<Close><End of Block>
+<TextBlock 32 w:48 h:3>
+Lance
+"Vorrei che tu fossi
+mio padre. Posso
+chiamarti papà?"<Close><End of Block>
+<TextBlock 33 w:36 h:3>
+Capitano
+"Gahr, ahr, ahr!
+Che risate…<New>
+Un tricheco che
+ha come figlio
+un pinguino!
+Gahr, ahr, ahr!"<Close><End of Block>
+<TextBlock 34 w:38 h:3>
+Lance
+"Non sono un pinguino!
+Io sono un delfino!!"<Close><End of Block>
+<TextBlock 35 w:38 h:3>
+Capitano
+"Oh? Hans è
+un pinguino."<Close><End of Block>
+<TextBlock 36 w:54 h:4>
+Lance
+"Anche mio padre è un delfino!<New>
+Oops…<Delay 10> Dimentica quello che ho
+appena detto.<Delay 10> Non volevo
+chiamarlo padre!<Delay 10> Chi vorrebbe
+un padre come lui!"<Close><End of Block>
+<TextBlock 37 w:52 h:2>
+Capitano
+"Gahr, ahr, ahr, ah-ah!!"<Close><End of Block>
+<TextBlock 38 w:32 h:3>
+Lance
+"Non lo chiamerò
+mai 'Papà'."<Close><End of Block>
+<TextBlock 39 w:44 h:4>
+Kanna
+"Basta così! Mi
+arrendo di già!
+Sono troppo scarsa
+per te."<Close><End of Block>
+<TextBlock 40 w:46 h:4>
+Kanna
+"Una donna vestita in
+modo vistoso mi ha
+insegnato un gioco di
+carte.<New>
+Vuoi giocare con me?"
+    Sì
+    No, grazie<Close><End of Block>
+<TextBlock 41 w:44 h:1>
+Allora è una sfida!<Close><End of Block>
+<TextBlock 42 w:16 h:1>
+Coniglio.<Close><End of Block>
+<TextBlock 43 w:38 h:1>
+Tu non sei il mio papà!!<Close><End of Block>
+<TextBlock 44 w:14 h:1>
+Lance!!<Close><End of Block>
+<TextBlock 45 w:28 h:3>
+Fei
+"Hans! Sei tu!?"<Close><End of Block>
+<TextBlock 46 w:30 h:3>
+Hans
+"Voi…!
+Siete vivi!?"<Close><End of Block>
+<TextBlock 47 w:48 h:4>
+Fei
+"Sì, e anche tu…
+Ma se tu sei qui,
+allora il Tammuz è…"<Close><End of Block>
+<TextBlock 48 w:50 h:4>
+Hans
+"Il Tammuz<Delay 10>…<Delay 10> è affondato.
+Gli 'Angeli' hanno attaccato…<New>
+Il Tammuz resistette
+all'assalto dei Mietitori,
+ma era indifeso contro
+quegli 'Angeli'<Delay 10>…<New>
+A mala pena qualcuno è
+riuscito a scappare…<Delay 10>
+Se ne sono andati con
+il Tammuz<Delay 10>…"<Close><End of Block>
+<TextBlock 49 w:46 h:4>
+Bart
+"A… aspetta un attimo!
+E il Capitano? Lui
+sta bene, vero?"<Close><End of Block>
+<TextBlock 50 w:44 h:4>
+Fei
+"Cosa…? A proposito,
+dov'è il Capitano?
+Cosa gli è successo?"<Close><End of Block>
+<TextBlock 51 w:54 h:4>
+Hans
+"Il Capitano…<Delay 10> disse che…<Delay 10>
+avrebbe visto la fine del
+Tammuz<Delay 10> coi suoi stessi
+occhi<Delay 10>…"<Close><End of Block>
+<TextBlock 52 w:52 h:4>
+Bart
+"Stai… scherzando, vero?
+Quel vecchio lupo di mare…
+Impossibile…"<Close><End of Block>
+<TextBlock 53 w:44 h:3>
+Fei
+"Il Capitano è morto…
+No, è impossibile…"<Close><End of Block>
+<TextBlock 54 w:42 h:5>
+Hans
+"No!<Delay 20> Il Capitano è vivo.
+Lui è uno di quelli che
+non s'arrendono mai…"<Close><End of Block>
+<TextBlock 55 w:6 h:1>
+…<Close><End of Block>
+<TextBlock 56 w:50 h:4>
+Capitano
+"Cosa?
+Come sono sopravvissuto?<New>
+Non preoccuparti di questi
+dettagli di poco conto!!<New>
+Se ti preoccupi di queste
+cose, allora i bambini ti
+odieranno, proprio come
+odiano Hans, eh!"<Close><End of Block>
+<TextBlock 57 w:44 h:3>
+Tutti moriranno!!
+Liquore!! Datemi
+del liquore-e-e-e-e!!<Close><End of Block>
+<TextBlock 58 w:46 h:4>
+Ehi, voi, qui si sta
+gelando. Non potete
+fare qualcosa? Non fa
+certo bene al colore
+della mia pelle!<Close><End of Block>
+<TextBlock 59 w:56 h:3>
+Moltissimi buoni uomini
+sono morti, ormai…<New>
+Che razza di dottore sono
+io, se non riesco neanche
+a salvare la gente che
+muore di fronte a me!?<New>
+Perché un vecchio come
+me dovrebbe sopravvivere…?<Close><End of Block>
+<TextBlock 60 w:42 h:4>
+Sono tutti giù di morale,
+e loro sono gli unici che
+sembrano felici.
+Seccante, non è vero?<Close><End of Block>
+<TextBlock 61 w:54 h:4>
+Una città senza prigionieri…
+Che noia. Però, alla fine,
+il mondo stesso è come una
+prigione.<Close><End of Block>
+<TextBlock 62 w:48 h:4>
+Kanna
+"Mi arrendo! Non avrei
+mai pensato che avrei
+perso 5 volte di fila.<New>
+Sei proprio bravo.
+Ti darò questo."<Close><End of Block>
+<TextBlock 63 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 64 w:66 h:4>
+Kanna
+"Ehi, sei forte!!
+Hai vinto <Opcode 10 0>
+volte di seguito!!<New>
+Vuoi continuare?"
+    Certo
+    No, grazie<Close><End of Block>
+<TextBlock 65 w:50 h:3>
+Kanna
+"Il tuo record di vittorie
+sarà cancellato se lo fai.<New>
+Ne sei sicuro?"
+    Continua a giocare
+    No, mi fermo qui<Close><End of Block>
+<TextBlock 66 w:40 h:4>
+Kanna
+"Ehi! Stai scappando
+con le vittorie?"<Close><End of Block>
+<TextBlock 67 w:28 h:2>
+Kanna
+"Sei bravo."<Close><End of Block>
+<TextBlock 68 w:38 h:3>
+Kanna
+"Sei bravissimo!
+Ecco, tieni…"<Close><End of Block>
+<TextBlock 69 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 70 w:48 h:4>
+Kanna
+"Vuoi continuare?"
+    Certo
+    No, grazie<Close><End of Block>
+<TextBlock 71 w:34 h:3>
+Kanna
+"Sei scarsissimo.
+Ritorna più tardi."<Close><End of Block>
+<TextBlock 72 w:46 h:4>
+Kanna
+"Uhm, sei abbastanza
+bravo. Beh, per oggi
+siamo in parità.<New>
+Vuoi continuare?"
+    Certo
+    No, grazie<Close><End of Block>
+<TextBlock 73 w:50 h:3>
+Kanna
+"Il tuo record di vittorie
+sarà cancellato se lo fai.<New>
+Ne sei sicuro?"
+    Continua a giocare
+    No, mi fermo qui<Close><End of Block>
+<TextBlock 74 w:44 h:3>
+Kanna
+"Ehi! Stai scappando?"<Close><Close><End of Block>

@@ -1,0 +1,151 @@
+#### 1 ####
+There may be a few things
+we can do.{enter}
+But I've been a soldier
+all my life.{enter}
+I can't sit still as
+long as there are
+people to protect and
+enemies to fight.
+
+#### 2 ####
+...It's a different system
+from what humans have been
+creating. In other words,
+it should be called a
+machine made by non-humans.{clear:3C}
+
+#### 3 ####
+It wasn't made by humans.
+That I can see. But what I
+want to know is if it's a
+machine to begin with.{clear:3C}
+
+#### 4 ####
+It doesn't matter whether
+it's a machine or a
+creature. Nothing can't be
+broken. The question is
+how we can damage it.{clear:3C}
+
+#### 5 ####
+Be quiet!{wait:1E}
+Sister!{wait:1E}
+Please take the
+children elsewhere.
+
+#### 6 ####
+You want the children to
+stand in the cold hallway!?{wait:32}
+This is the warmest room.
+Why can't they stay here?
+
+#### 7 ####
+We're having a very
+important meeting.
+They're disturbing us.
+
+#### 8 ####
+Please don't get so upset.{wait:32}
+I really appreciate that
+you're trying to protect
+us.{enter}
+But you know those people
+are the only ones who can 
+change our fate...{wait:32}
+don't you?
+
+#### 9 ####
+Really, how can we fight
+against an enemy like that?
+
+#### 10 ####
+You think it's just going to
+sit there while we gather
+all of Aveh's and Kislev's
+armies...?
+
+#### 11 ####
+I'm prepared to protect
+everyone here.
+
+#### 12 ####
+I want to help people.
+But all I know how to
+do is fight.
+
+#### 13 ####
+I had doubts about fighting
+before, but not about
+protecting the people here.
+
+#### 14 ####
+If we had more weapons...
+
+#### 15 ####
+We gotta do what we can.
+
+#### 16 ####
+The children are annoying,
+but, they're the reason
+why I'm here.
+
+#### 17 ####
+Kids are all the same
+in Kislev, Aveh and Nisan.
+
+#### 18 ####
+We both no longer have
+anything to lose.{enter}
+Do as you wish.{wait:3C}
+I hope you'll have
+help from heaven.
+
+#### 19 ####
+Now more than ever I feel
+as if each child is very
+important.
+
+#### 20 ####
+This is the first time
+I've seen snow.{enter}
+It's so light and white,
+and a beautiful pattern
+appears for an instant
+then it melts on my palm.{enter}
+It's amazing...
+
+#### 21 ####
+I wanna see my mom and dad.
+
+#### 22 ####
+What is it?
+Can I do that too?
+
+#### 23 ####
+Her outfit is so cute,
+isn't it?
+
+#### 24 ####
+My grandma made this for
+my mom when she was a
+child. It's really warm.
+
+#### 25 ####
+Good luck to you too.{wait:1E}
+I...{wait:0A}will protect these
+people, so don't worry.
+
+#### 26 ####
+Uh...{wait:1E}I'll play with
+the sister.{wait:1E}
+
+#### 27 ####
+I am Yggdrasil X!
+Come on! Catch me
+if you can!{clear:3C}
+
+#### 28 ####
+Hey!
+Give my candy back!{clear:3C}
+

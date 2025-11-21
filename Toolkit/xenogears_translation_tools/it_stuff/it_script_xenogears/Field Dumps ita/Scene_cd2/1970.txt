@@ -1,0 +1,179 @@
+<TextBlock 1 w:16 h:1>
+…<Delay 5> Vivi!<Opcode 2 90><Close><End of Block>
+<TextBlock 2 w:50 h:3>
+Krelian
+"Siamo stati immolati
+come fossimo non uomini,
+ma semplici pedine<Delay 5>…<New>
+Per difendere la loro
+autorità,<Delay 15> Sofia è stata<Delay 5>…<New>
+È dunque questo il mondo
+ideale di cui andavamo
+alla ricerca?<Delay 15> Che cosa
+abbiamo fatto?<New>
+Siamo andati incontro
+agli ideali di Sofia<Delay 5>…?<Delay 30>
+È questa la nostra
+salvezza?"<Close><End of Block>
+<TextBlock 3 w:44 h:4>
+Krelian
+"Non è giusto<Delay 5>…<Delay 15>
+Sofia è stata sacrificata
+per quei bastardi<Delay 5>…"<Close><End of Block>
+<TextBlock 4 w:54 h:4>
+Krelian
+"Sofia diceva<Delay 5> che basta
+avere fede perché si
+schiuda la via…<New>
+… verso ciò in cui
+nutriamo speranza.<New>
+Ma guardiamo la realtà.<Delay 15>
+Dio non ha risposto alle
+nostre preghiere<Delay 5>…<New>
+È successo perché non
+abbiamo avuto fede?<New>
+Ma, anche se noi non
+avessimo fede, <Delay 5>Sofia
+la aveva<Delay 15>…<New>
+Perché la hanno… perché
+si è dovuta sacrificare?<New>
+Dio è morto<Delay 5>…?<Delay 15>
+O forse non è qui<Delay 5>…?<Delay 15>
+Magari dio non è mai
+nemmeno esistito!"<Close><End of Block>
+<TextBlock 5 w:42 h:4>
+Krelian
+"Ah, ah, ah, ah<Delay 5>…<Delay 5>
+Ora capisco<Delay 5>…<Delay 30>
+È così<Delay 5>…<New>
+Se dio non esiste nel
+nostro mondo, allora<Delay 5>…<Delay 5>
+Io creerò dio con le
+mie stesse mani!"<Close><End of Block>
+<TextBlock 6 w:24 h:2>
+Lacan
+"Krelian<Delay 5>…"<Close><End of Block>
+<TextBlock 7 w:40 h:3>
+Krelian
+"Sofia<Delay 5>…<Delay 30>
+Ti prego, mostrami
+la via da seguire<Delay 5>…<New>
+Io distruggerò ogni
+falso pretesto di
+amore,<Delay 5> solo per te<Delay 5>…"<Close><End of Block>
+<TextBlock 8 w:54 h:3>
+Roni
+"Dobbiamo radunare tutti i
+nostri compagni che sono
+sopravvissuti.<New>
+Non riusciremo mai a
+sconfiggerli se li
+combatteremo come
+singoli<Delay 5>…<New>
+Dunque, creiamo un paese
+che possa, un giorno,
+ergersi contro di loro<Delay 5>…"<Close><End of Block>
+<TextBlock 9 w:52 h:3>
+Roni
+"Tu cosa farai,<Delay 30>
+Lacan<Delay 5>…?"<Close><End of Block>
+<TextBlock 10 w:12 h:2>
+Lacan
+"Io<Delay 5>…"<Close><End of Block>
+<TextBlock 11 w:64 h:3>
+Lacan
+"<Delay 5>…<Delay 5> Che…<Delay 5> posto è…<Delay 5> questo<Delay 5>…?<Delay 15><Space 3>
+<Delay 5>…<Delay 5> Il luogo della mia
+esecuzione<Delay 5>…?"<Close><End of Block>
+<TextBlock 12 w:54 h:3>
+Lacan
+"<Delay 5>…<Delay 5> Perché vi state
+mettendo contro di me?<Delay 15>
+Pensavo fossimo amici!"<Close><End of Block>
+<TextBlock 13 w:20 h:3>
+Lacan
+"Chi<Delay 5>…<Delay 15> è<Delay 5>…?"<Space 1><Close><End of Block>
+<TextBlock 14 w:56 h:4>
+Lacan
+"Sono stato io a<Delay 5>…<Delay 5>
+causare tutto questo<Delay 5>…?<Delay 15>
+Cosa mi è successo<Delay 5>…?"<Close><End of Block>
+<TextBlock 15 w:28 h:2>
+Cosa<Delay 5>…<Delay 5> sono<Delay 5>…<Delay 5>
+divenuto<Delay 5>…<Delay 5> io<Delay 5>…?<Space 1><Close><End of Block>
+<TextBlock 16 w:40 h:2>
+Lacan
+"…<Delay 5> Io<Delay 5> vivrò<Delay 5>…!"<Space 1><Close><End of Block>
+<TextBlock 17 w:44 h:4>
+Lacan
+"Dovessi pure finire
+all'inferno<Delay 15>…<New>
+Io vivrò fino alla
+fine di questo mondo.<New>
+E se questo mondo non
+sarà giunto ad una fine<Delay 5>…<Delay 5>
+io lo distruggerò con
+le mie stesse mani!"<Close><End of Block>
+<TextBlock 18 w:42 h:4>
+Se dio non esiste nel
+nostro mondo, allora<Delay 5>…<Delay 5>
+Io creerò dio con le
+mie stesse mani!<Opcode 2 180><Close><End of Block>
+<TextBlock 19 w:0 h:1>
+<End of Block>
+<TextBlock 20 w:0 h:0>
+<End of Block>
+<TextBlock 21 w:48 h:32>
+<End of Block>
+<TextBlock 22 w:32 h:80>
+<End of Block>
+<TextBlock 23 w:49 h:10>
+<End of Block>
+<TextBlock 24 w:32 h:48>
+<End of Block>
+<TextBlock 25 w:0 h:0>
+<End of Block>
+<TextBlock 26 w:0 h:0>
+<End of Block>
+<TextBlock 27 w:0 h:0>
+<End of Block>
+<TextBlock 28 w:0 h:0>
+<End of Block>
+<TextBlock 29 w:52 h:32>
+<End of Block>
+<TextBlock 30 w:32 h:32>
+<End of Block>
+<TextBlock 31 w:53 h:81>
+<End of Block>
+<TextBlock 32 w:32 h:32>
+<End of Block>
+<TextBlock 33 w:54 h:82>
+<End of Block>
+<TextBlock 34 w:32 h:32>
+<End of Block>
+<TextBlock 35 w:55 h:83>
+<End of Block>
+<TextBlock 36 w:32 h:32>
+<End of Block>
+<TextBlock 37 w:56 h:84>
+<End of Block>
+<TextBlock 38 w:32 h:32>
+<End of Block>
+<TextBlock 39 w:57 h:85>
+<End of Block>
+<TextBlock 40 w:10 h:32>
+<End of Block>
+<TextBlock 41 w:48 h:86>
+<End of Block>
+<TextBlock 42 w:48 h:32>
+<End of Block>
+<TextBlock 43 w:32 h:87>
+<End of Block>
+<TextBlock 44 w:50 h:32>
+<End of Block>
+<TextBlock 45 w:48 h:88>
+<End of Block>
+<TextBlock 46 w:32 h:32>
+<End of Block>
+<TextBlock 47 w:32 h:89>
+<Close><End of Block>

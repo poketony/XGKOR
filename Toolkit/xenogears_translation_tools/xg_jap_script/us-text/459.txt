@@ -1,0 +1,282 @@
+#### 1 ####
+Elly
+"This is it.{enter}
+If we can break through
+the palace network
+security by accessing
+this..."
+
+#### 2 ####
+Elly
+"ID...{enter}
+The password would 
+probably be something 
+related to me."
+
+#### 3 ####
+Elly
+"'E {wait:05}L {wait:05}H {wait:05}A {wait:05}Y {wait:05}M'..."
+
+#### 4 ####
+£¾{wait:0A}£¾{wait:0A}£¾{wait:0A}
+Access denied. {wait:0A}
+Enter the correct password.
+
+#### 5 ####
+Elly
+"That's no good. 
+Let's try it backwards...{wait:14}
+'M {wait:05}Y {wait:05}A {wait:05}H {wait:05}L {wait:05}E'"
+
+#### 6 ####
+£¾{wait:0A}£¾{wait:0A}£¾{wait:0A}
+Welcome to Solaris Net...{wait:0A}
+You have 19 unread mails.
+
+#### 7 ####
+Elly
+"Yes!{wait:0A} Got it!{wait:0A}
+Let's see, we were here 
+before so...{enter}
+Wow, {wait:0A}
+it connects to here!"
+
+#### 8 ####
+Elly
+"Fei, we should be able
+to get to where everyone
+is,{enter}
+from a trash chute in the
+3rd Class citizen level!"
+
+#### 9 ####
+Fei
+"That means, we're going
+back to that first 
+location."
+
+#### 10 ####
+Elly
+"Now we know where we are!{wait:0A}
+Let's hurry!"
+
+#### 11 ####
+Elly,
+Where are you going?{clear:1E}
+
+#### 12 ####
+Elly
+"Father!"
+
+#### 13 ####
+Elly's father Erich
+"What're you doing Elly...?{enter}
+I told you before not to
+come in here and touch
+that machine."
+
+#### 14 ####
+Elly
+"..."
+
+#### 15 ####
+Erich
+"Is this the guard?{wait:0A}
+It's me, Erich.{enter}
+A burglar broke in here,{wait:14}
+yeah, come quickly."
+
+#### 16 ####
+Elly
+"Father...!!{wait:0A}
+Fei is not a burglar!!"
+
+#### 17 ####
+Erich
+"Then, what is he?{wait:0A}
+A strange man in my room...{wait:0A}
+Isn't he a burglar?"
+
+#### 18 ####
+Elly
+"There's a reason...{wait:0A}
+!!"
+
+#### 19 ####
+Elly
+"Please! Don't shoot him!
+Fei just wants to save
+his captured friends!{enter}
+They're my friends too!"
+
+#### 20 ####
+Erich
+"No! Even if he is your 
+friend,{enter}
+I can't overlook
+a land dweller who tries
+to sneak into the palace!"
+
+#### 21 ####
+Elly
+"Fine.{wait:0A} 
+Then I'm also a traitor.
+Go ahead and shoot me!"
+
+#### 22 ####
+Erich
+"No!{wait:0A}
+You're staying here!{enter}
+Now, {wait:0A}move out of the way{wait:0A}
+Elly!!"
+
+#### 23 ####
+Elly
+"No!"
+
+#### 24 ####
+...{wait:05}...{clear:1E}
+
+#### 25 ####
+Erich
+"You know how traitors're 
+punished even if they're 
+1st Class citizens!{enter}
+You'll be safe if we kill 
+the intruders who know 
+about us. {wait:0A}I'm worried 
+about your safety..."
+
+#### 26 ####
+Elly
+"You're lying!{wait:0A}
+You just hate being in any
+postion that endangers you.{enter}
+Isn't that why you didn't 
+want me to join Jugend?{enter}
+You {wait:0A}just didn't want 
+everyone to see your 
+own daughter!"
+
+#### 27 ####
+"Because I'm half a
+land dweller...!"
+
+#### 28 ####
+!!{clear:0A}
+
+#### 29 ####
+Erich
+"I can't believe you 
+still...?{enter}
+How dare you say that in
+front of your mother...!"
+
+#### 30 ####
+Elly
+"Because...!"
+
+#### 31 ####
+Fei
+"Stop it!!{enter}
+I don't want to see a
+father and a daughter
+fight because of me.{enter}
+I won't cause you anymore
+trouble.
+I came of my own will.{enter}
+I'm an intruder.
+If I just get out of here
+it'll be fine."
+
+#### 32 ####
+Elly
+"Fei!?"
+
+#### 33 ####
+Fei
+"Elly, {wait:0A}
+you shouldn't say that
+in front of your mother.{enter}
+I don't know the truth, 
+but she is your mother,
+not a stranger.
+Isn't that right?"
+
+#### 34 ####
+...
+
+#### 35 ####
+Fei
+"Now, get out of the way.{enter}
+I hafta hurry to save my 
+friends. But if you intend
+to shoot me, I'll put up a
+big fight."
+
+#### 36 ####
+Elly
+"?{wait:0A}
+Father...?"
+
+#### 37 ####
+Erich
+"The intruder has escaped.{wait:0A}
+Now get outta here.{enter}
+It'll be a while until the
+guards get here."
+
+#### 38 ####
+...
+
+#### 39 ####
+Erich
+"You may be an intruder,
+but the fact is, you 
+protected my daughter.{enter}
+If I shoot you, I'll 
+lose her."
+
+#### 40 ####
+Elly
+"Father..."
+
+#### 41 ####
+Elly
+"Let me go with Fei...!"
+
+#### 42 ####
+Erich
+"No. {wait:0A}
+I can't let you go."
+
+#### 43 ####
+Elly
+"But...!"
+
+#### 44 ####
+Fei
+"That's alright.
+This is a land dweller
+problem now.{enter}
+We won't trouble you
+any further.{wait:0A}
+I'll go by myself."
+
+#### 45 ####
+Elly
+"Fei!!"
+
+#### 46 ####
+Fei
+"Elly, this time leave
+the military.{wait:0A}
+Thanks for everything."
+
+#### 47 ####
+Elly
+"Fei..."
+
+#### 48 ####
+
+

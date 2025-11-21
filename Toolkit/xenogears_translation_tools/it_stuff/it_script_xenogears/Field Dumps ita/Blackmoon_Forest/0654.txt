@@ -1,0 +1,354 @@
+<TextBlock 1 w:16 h:2>
+<Opcode 1 255>Fei
+"Elly!!"<Close><End of Block>
+<TextBlock 2 w:36 h:2>
+Fei
+"Sì… credo di sì."<Space 1><Close><End of Block>
+<TextBlock 3 w:56 h:4>
+Shitan
+"Quel combattimento contro
+il Rankar è stato notevole.<New>
+Un Gear normale non avrebbe
+potuto sconfiggere quel
+mostro. E ti sei certamente
+tenuto in ottima forma…"<Close><End of Block>
+<TextBlock 4 w:40 h:3>
+Fei
+"Perché hai portato
+qui questo, Doc?"<Close><End of Block>
+<TextBlock 5 w:35 h:3>
+Shitan
+"Questo…?
+Intendi <Weltall>?"<Close><End of Block>
+<TextBlock 6 w:52 h:5>
+Fei
+"… <Weltall><Delay 20>?<New>
+Questo è il Gear
+che ha distrutto il
+nostro villaggio.<New>
+Perché ti sei preso il
+fastidio di portarlo qui?
+Non voglio mai più vedere
+un altro Gear…"<Close><End of Block>
+<TextBlock 7 w:48 h:3>
+Shitan
+"Capisco come tu
+ti debba sentire…<New>
+Ma, per poterti
+proteggere, ti
+serve un certo
+grado di forza.<New>
+Anche di più, visto
+che siamo inseguiti."<Close><End of Block>
+<TextBlock 8 w:54 h:5>
+Fei
+"Sono d'accordo che un
+certo grado di forza
+sia necessario…<New>
+… ma solo per
+difendersi.<New>
+E, se non fosse per questo
+Gear qui, Elly ed io ora
+saremmo nello stomaco di
+quel Rankar…<New>
+Ma il suo potere va oltre
+quello necessario. Serve
+davvero il potere di
+distruggere tutto?"<Close><End of Block>
+<TextBlock 9 w:14 h:2>
+Shitan
+"…"<Close><End of Block>
+<TextBlock 10 w:38 h:4>
+Fei
+"Non mi serve quel
+tipo di potere…
+Io odio i Gear."<Close><End of Block>
+<TextBlock 11 w:52 h:7>
+Shitan
+"Fei, utilizzare il
+potere o essere da
+esso utilizzati<Delay 10>…<New>
+… non è un problema
+che riguarda l'anima…?<New>
+Se gli uomini non
+utilizzano il loro
+potere per il male…<New>
+… esso può essere
+cosa buona…
+Io credo che tale
+potere possa aiutarci.<New>
+So che con te non ci
+sarà un tale problema.<New>
+Questo potere ti ha
+indubbiamente aiutato
+ad uscire da questo
+problema.<New>
+Non ho ragione?"<Close><End of Block>
+<TextBlock 12 w:44 h:5>
+Fei
+"Voglio crederci.<Delay 5><New>
+Ma c'è qualcosa che mi
+trattiene dal farlo.
+Questo Gear…"<Close><End of Block>
+<TextBlock 13 w:40 h:4>
+Fei
+"Beh, comunque sia…
+Almeno Elly ora è
+salva."<Close><End of Block>
+<TextBlock 14 w:30 h:3>
+Shitan
+"Sembra che si
+sia ripresa."<Close><End of Block>
+<TextBlock 15 w:12 h:2>
+Elly
+"Eh…?"<Close><End of Block>
+<TextBlock 16 w:46 h:6>
+Shitan
+"Io sono Shitan… un amico
+di Fei.<Delay 20> Stavi per non
+farcela.<New>
+Se Fei non ti avesse
+aiutata<Delay 15>…<New>
+… Odio anche solo
+pensare a ciò che
+sarebbe potuto
+succedere.<New>
+Ma non ero troppo contento
+che, a causa della sua
+avventatezza…<New>
+… tentasse di affrontare
+quel Rankar a mani nude."<Close><End of Block>
+<TextBlock 17 w:28 h:2>
+Elly
+"A mani nude?"<Close><End of Block>
+<TextBlock 18 w:46 h:5>
+Shitan
+"Beh…<New>
+Sono felice che
+abbiate potuto fare
+buon uso di ciò che
+vi ho portato."<Close><End of Block>
+<TextBlock 19 w:10 h:2>
+Elly
+"!!"<Close><End of Block>
+<TextBlock 20 w:44 h:6>
+Shitan
+"Diciamo che stiamo solo
+prendendo in prestito ciò
+che l'armata di Kislev…<New>
+… ha lasciato
+dietro di sé…"<Close><End of Block>
+<TextBlock 21 w:12 h:2>
+Elly
+"… Oh."<Close><End of Block>
+<TextBlock 22 w:38 h:4>
+Elly
+"Grazie, Fei.
+E con questo siamo
+a due."<Close><End of Block>
+<TextBlock 23 w:46 h:3>
+Fei
+"Figurati.<Delay 20>
+Lo metterò sul
+tuo conto."<Close><End of Block>
+<TextBlock 24 w:54 h:5>
+Shitan
+"Si sta facendo sera.<New>
+Adesso accampiamoci;
+continueremo di buon
+mattino.<New>
+Voi due sembrate stanchi,
+e io devo eseguire alcune
+riparazioni qui sul nostro
+amico…"<Close><End of Block>
+<TextBlock 25 w:4 h:1>
+?<Opcode 2 30><Close><End of Block>
+<TextBlock 26 w:44 h:4>
+Elly
+"Perché sono andata…<Delay 20>
+E perché gli ho detto
+così<Delay 15>…?"<Opcode 2 60><Close><End of Block>
+<TextBlock 27 w:36 h:4>
+Elly
+"Sì… è così…
+Sono una codarda…"<Close><End of Block>
+<TextBlock 28 w:8 h:1>
+<Opcode 1 255>!?<Opcode 2 20><Close><End of Block>
+<TextBlock 29 w:22 h:3>
+Shitan
+"Fei! Stai bene?"<Close><End of Block>
+<TextBlock 30 w:50 h:2>
+Fei
+"Elly se n'è già andata?"<Close><End of Block>
+<TextBlock 31 w:50 h:2>
+Shitan
+"Oh, allora eri sveglio?"<Close><End of Block>
+<TextBlock 32 w:46 h:7>
+Fei
+"Sì, mi sono svegliato
+a metà del discorso<Delay 10>…<New>
+Così ho sentito solo
+una parte di quello di
+cui voi due stavate
+discutendo."<Close><End of Block>
+<TextBlock 33 w:14 h:2>
+Shitan
+"…"<Close><End of Block>
+<TextBlock 34 w:30 h:3>
+Fei
+"Elly… allora lei è…?"<Space 1><Close><End of Block>
+<TextBlock 35 w:26 h:2>
+Shitan
+"Fei, lei è…"<Close><End of Block>
+<TextBlock 36 w:50 h:4>
+Fei
+"Lo so. 
+Non è colpa di Elly.<New>
+Ciò che è successo al
+villaggio è tutta colpa
+mia.<New>
+Ho fatto uscire tutti i
+miei sentimenti repressi
+su Elly.<Delay 10> Sono io quello
+che dovrebbe scusarsi."<Close><End of Block>
+<TextBlock 37 w:50 h:4>
+Shitan
+"Fei, non biasimarti.
+Non è stata neanche
+colpa tua.<New>
+Stavi solo tentando di
+proteggere il villaggio."<Close><End of Block>
+<TextBlock 38 w:40 h:5>
+Fei
+"Grazie, Doc…<New>
+A proposito, come
+stanno tutti quelli
+del villaggio?"<Close><End of Block>
+<TextBlock 39 w:48 h:4>
+Shitan
+"Non preoccuparti, Yui
+si sta prendendo cura
+di loro.<New>
+Le ho detto di partire
+presto e portarli tutti
+in un posto sicuro.<New>
+Dovrebbero essere salvi
+per un po'. Dunque, per
+ora preoccupati solo di
+te stesso."<Close><End of Block>
+<TextBlock 40 w:20 h:2>
+Fei
+"Ok, Doc."<Close><End of Block>
+<TextBlock 41 w:50 h:5>
+Shitan
+"Ora, pensiamo a cosa
+dovremmo fare…<New>
+Lasciamo questa foresta
+e ci dirigiamo verso la
+città del deserto, Dajil?<New>
+Potremmo venire a
+conoscenza dei piani
+di Aveh e di Kislev<Delay 10>…<New>
+… Per non parlare poi
+di prendere alcune
+parti di ricambio
+per <Weltall>.<New>
+Il capo di Aveh non
+resterà a guardare
+senza far nulla…<New>
+E non lascerà che il
+fallimento dell'altra
+notte rimanga impunito!"<Close><End of Block>
+<TextBlock 42 w:26 h:2>
+Fei
+"Che cos'è…?"<Close><End of Block>
+<TextBlock 43 w:44 h:4>
+Shitan
+"Presupporrei che sia
+una corazzata aerea
+di Aveh…"<Close><End of Block>
+<TextBlock 44 w:46 h:5>
+Fei
+"Una corazzata aerea?<New>
+Non ho mai sentito che
+Aveh avesse una cosa
+come quella."<Close><End of Block>
+<TextBlock 45 w:50 h:4>
+Shitan
+"È indubbio che non
+proviene originariamente
+da Aveh…<New>
+Molto probabilmente
+appartiene alle truppe
+di Geburah stazionate
+ad Aveh."<Close><End of Block>
+<TextBlock 46 w:18 h:2>
+Fei
+"Geburah?"<Close><End of Block>
+<TextBlock 47 w:52 h:4>
+Shitan
+"Truppe speciali dal
+Sacro Impero di Solaris,
+conosciute come Geburah.<New>
+Sono sicuro che tu ne
+abbia già sentito parlare.<New>
+Sono un'organizzazione
+che fornisce su grande
+scala aiuto militare
+al Regno di Aveh.<New>
+Si sono rivelati in
+Ignis svariati mesi fa.
+Fino ad allora, Aveh era
+sopraffatta da Kislev.<New>
+Ma sono riusciti a
+recuperare metà delle
+perdite con l'aiuto di
+Geburah.<New>
+Adesso stanno espandendo
+il loro territorio e
+raccogliendo risorse
+sotterrate nelle rovine.<Close><End of Block>
+<TextBlock 48 w:56 h:4>
+Fei
+"Ho sentito i capi del
+villaggio parlarne<Delay 30>…<New>
+Elly fa parte
+di tutto ciò?"<Close><End of Block>
+<TextBlock 49 w:50 h:5>
+Shitan
+"È assai probabile.<New>
+Il loro gruppo possiede
+tecnologia e potere
+superiori.<New>
+Si dice che siano qui
+esclusivamente per
+ottenere le risorse
+site nelle rovine.<New>
+Sono sorpreso che stiano
+utilizzando un qualcosa
+di così potente come
+quella corazzata aerea…<New>
+Deve essere per sopprimere
+i recenti brevi scontri
+di confine."<Close><End of Block>
+<TextBlock 50 w:40 h:4>
+Fei
+"Allora stanno 
+combattendo l'Impero
+di Kislev?"<Close><End of Block>
+<TextBlock 51 w:50 h:6>
+Shitan
+"Sì.<New>
+Sembra abbiano trovato
+nuove rovine nella zona
+del confine più a nord
+di Aveh.<New>
+Queste rovine si trovano
+sotto un tempio antico
+di cinquecento anni.<New>
+Tre settimane fa, Kislev
+ha preso il controllo
+di quelle rovine.<New>
+Molto probabilmente
+stanno combattendo
+lì vicino."<Close><Close><End of Block>

@@ -1,0 +1,265 @@
+#### 1 ####
+Ah, Bartholomew. {wait:0A}
+"The Gear are all aboard 
+the Yggdrasil."
+
+#### 2 ####
+Good work. {wait:0A}
+Without your backup, this 
+base wouldn't be here. 
+Let's board the Yggdrasil.
+
+#### 3 ####
+Thank you sir!!
+
+#### 4 ####
+This Gear is called
+{name:0E:ヘイムダル}. It was
+excavated together
+with {name:0F:ブリガンディア}.{enter}
+But we could never get it
+to run very well. Three
+test pilots were injured
+in trying. {enter}
+I guess no one can
+tame it.
+
+#### 5 ####
+{name:0F:ブリガンディア} is a star
+of hope for us pirates.{enter}
+The bright red body-color
+represents Bart's ambition.{enter}
+But since Bart always overdoes
+things, maintenance is a pain.
+
+#### 6 ####
+This is a mass produced model
+based on Bart's {name:0F:ブリガンディア},
+that's simplified to reduce costs.{enter}
+If you tune them up they're
+pretty good.{wait:0A} That's when we 
+can really show our skills.
+
+#### 7 ####
+No, the specs on this
+Gear are unknown...{wait:0A}{enter}
+And this kind of stuff
+isn't anything I can
+understand.
+
+#### 8 ####
+Looks like someone really
+knew how to tune up your
+Gear...{enter}
+Attack,{wait:0A} defense,{wait:0A} 
+Ether amplification...{wait:0A} 
+an exceptionally balanced
+machine.{enter}
+But we don't seem to be
+able to dismantle some
+parts to see what they
+do...{enter}
+I guess you could call
+them{wait:05}...{wait:0A}black boxes.{enter}
+There are quite a number
+of them on this machine{wait:05}...{wait:0A} 
+Do you have any idea what
+they actually do?
+
+#### 9 ####
+Fei
+"{slow:02}No..."
+
+#### 10 ####
+This is your Gear,
+right?{wait:0A} This one's
+worth tinkering with!{enter}
+It makes use of some
+incredible technology.{enter}
+I'm gonna look over it
+a bit, so can you come
+back later?
+
+#### 11 ####
+Finally all the Gears
+are on board the
+Yggdrasil.{wait:0A}
+Yours is on board too.
+
+#### 12 ####
+Boss, let us mess with 
+the Gears a little...
+Craftsmen have to keep
+practicing their skills!
+
+#### 13 ####
+I'm going to the
+next hangar.
+
+#### 14 ####
+Thanks, Fei!!
+
+#### 15 ####
+Wow!{wait:0A}
+Cleaning is fun!
+
+#### 16 ####
+Thanks!!
+
+#### 17 ####
+When I grow up,
+I wanna be a pilot...
+
+#### 18 ####
+Citan
+"Maison, does
+this Gear work?"
+
+#### 19 ####
+Maison
+"Pardon? {wait:0A}Yes,
+it works but..."
+
+#### 20 ####
+Alright!
+
+#### 21 ####
+Maison
+"Out of the question! {wait:0A}
+It is still under
+maintenance.{enter}
+It is nowhere near 
+operational..."
+
+#### 22 ####
+Sigurd
+"It's alright, Maison."{clear:28}
+
+#### 23 ####
+Maison
+"Master Sigurd!{wait:0A}
+But, for a gent like
+the good doctor...?"
+
+#### 24 ####
+Sigurd
+"It's fine.{wait:0A}
+He'll be okay.{enter}
+It may not even be
+enough for him."
+
+#### 25 ####
+Master Sigurd...?
+
+#### 26 ####
+Citan
+"Well...{wait:0A}
+It has been 5 years
+since I last fought...{enter}
+I hope I can still
+remember..."
+
+#### 27 ####
+Fei
+"..."
+
+#### 28 ####
+Fei! {clear:1E}
+
+#### 29 ####
+Fei
+"Sigurd, doc...{wait:0A}
+What's up...?"
+
+#### 30 ####
+Sigurd
+"We would like
+to have a word
+with you..."
+
+#### 31 ####
+Fei
+"Oh, okay!"
+
+#### 32 ####
+Bart
+"...{wait:0A}
+Th,{wait:0A} th,{wait:0A} thank...{wait:0A}
+
+#### 33 ####
+Bart
+"Thanks...{wait:0A}
+Fei."
+
+#### 34 ####
+Fei
+"Bart..."
+
+#### 35 ####
+Sigrud
+"Thank you, Fei.{wait:0A}
+Don't know how we could 
+have done it without you."
+
+#### 36 ####
+Fei
+"I...{wait:0A}still
+don't know what
+I should do."
+
+#### 37 ####
+Sigurd
+"Fei..."
+
+#### 38 ####
+Fei
+"What Bart's doing
+isn't for his own
+gain.{enter}
+He walks the path
+he believes in, one
+step at a time...{enter}
+...wishing only for
+the happiness of
+those around him. I,
+on the other hand..."
+
+#### 39 ####
+Sigurd
+"..."
+
+#### 40 ####
+Fei
+"I thought I didn't have
+a path that I could take
+laid out before me.{enter}
+But like he said, that's
+just running away. {wait:0A}
+I must find my own path.{wait:0A}
+Right, doc?"
+
+#### 41 ####
+Fei
+"If Bart wishes, I'll 
+cooperate with you guys.{wait:0A}
+That's all I can do now.{enter}
+But I think I'll find
+the path I should follow
+as I help others like you.{enter}
+Moreover, I can't turn my
+back and ignore what such
+a terrible group of people
+are doing to others."
+
+#### 42 ####
+Sigurd
+"Thanks Fei."
+
+#### 43 ####
+{fast:FF}Go up to the dock?
+    Go up
+    No
+
+#### 44 ####
+
+

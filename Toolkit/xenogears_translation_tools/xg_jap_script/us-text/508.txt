@@ -1,0 +1,303 @@
+#### 1 ####
+Fei
+"Don't be silly!
+What happened? Hammer!?"
+
+#### 2 ####
+Fei
+"Grahf!
+Damn! At a time like this!"
+
+#### 3 ####
+Fei
+"...Everybody, get ready!"
+
+#### 4 ####
+Fei
+"Ggh...!
+Elly...
+everyone..."
+
+#### 5 ####
+Fei
+"Wa-a-a-a-a-a-a-a-a-!!!!"
+
+#### 6 ####
+Elly
+"W...what are you doing?
+Hammer?"
+
+#### 7 ####
+Elly
+"M...mother..."
+
+#### 8 ####
+Elly
+"Fei!"
+
+#### 9 ####
+Elly
+"Mother!?"
+
+#### 10 ####
+Elly
+"Mother?"
+
+#### 11 ####
+Elly
+"...Mother...{wait:32}
+...mo...th...er..."
+
+#### 12 ####
+Elly
+"M...mother...{clear:32}
+
+#### 13 ####
+Elly
+"Father!"
+
+#### 14 ####
+Elly
+"Father!!"
+
+#### 15 ####
+Elly
+"...{wait:18}...{wait:18}...{wait:18}
+How could you do that...
+...to my father!"
+
+#### 16 ####
+Elly
+"Ah-h-h-h-h-h-h-!!"{clear:18}
+
+#### 17 ####
+Elly
+"Father!"
+
+#### 18 ####
+Elly
+"Father!!!"
+
+#### 19 ####
+Elly
+"...{wait:18}...{wait:18}...{wait:18}
+How could you do that...
+...to my father!"
+
+#### 20 ####
+Elly
+"Ah-h-h-h-h-h-h-!!"{clear:18}
+
+#### 21 ####
+Rico
+"Hammer!! Damn you!!!"
+
+#### 22 ####
+Rico
+"Hammer..."
+
+#### 23 ####
+Rico
+"Gha!!"{clear:18}
+
+#### 24 ####
+Medena
+"I won't stop.
+Ever.
+...My child is in danger...{enter}
+and I'm her mother!!"
+
+#### 25 ####
+Medena
+"I was born and raised in
+a normal family.{enter}
+I'm not a soldier like my
+husband and daughter.
+I never touched a gun
+before,{enter}
+much less have one
+pointed at me...{wait:2D}
+That's why I'm shaking...
+But I can't stop it.{enter}
+I'm a 'normal' mother.{wait:2D}
+So there are things I must
+protect..."
+
+#### 26 ####
+Medena
+"Elly, slowly
+come here.{enter}
+Don't worry. I'll protect
+you no matter what."
+
+#### 27 ####
+Medena
+"Elly,
+come here. It's alright."
+
+#### 28 ####
+Medena
+"It's alright, Elly."
+
+#### 29 ####
+Hammer
+"St...stop!!!"
+
+#### 30 ####
+Hammer
+"I'm asking Miss Elly
+to return with me!!"
+
+#### 31 ####
+Hammer
+"Don't move!
+I'm serious!!"
+
+#### 32 ####
+Hammer
+"I promised to a man named
+K...Krelian.{enter}
+He won't 'change it' if
+Miss Elly is returned..."
+
+#### 33 ####
+Hammer
+"I really don't want to do
+this to Miss Elly either.{enter}
+Really, I like her very
+much.
+But, but I...{enter}
+I...
+have no other choice!
+Because I'm no good...{enter}
+I don't have the strength
+like bro, or the smarts
+like the doc!"
+
+#### 34 ####
+Hammer
+"I, I know...everyone
+thinks of me as some
+annoying handyman{enter}
+who talks too much...{wait:20}
+I know that..."
+
+#### 35 ####
+Hammer
+"I'm different from you all!
+I'm not special like you!{enter}
+A 'normal' guy like me has
+no choice but to do this!!"
+
+#### 36 ####
+Hammer
+"D...don't move!!
+Stop! Stop!
+
+#### 37 ####
+Hammer
+"...Hya{wait:20}..."
+
+#### 38 ####
+Hammer
+"...No!
+Don't move! No! No!"
+
+#### 39 ####
+Hammer
+"...No!!
+Don't go! No...no...!"
+
+#### 40 ####
+Hammer
+"...Don't...
+Don't go...don't..."
+
+#### 41 ####
+Hammer
+"...Hya...{wait:20}hya...{wait:20}
+Hya-a-a-a-a-a...{wait:20}a...{wait:20}a..."
+
+#### 42 ####
+Hammer
+"...Wa-a-a-a-a-a-a-a-a-a..."
+
+#### 43 ####
+Executioner
+"Oh...?"
+
+#### 44 ####
+Executioner
+"Hahaha...
+You both dote on your
+child..."
+
+#### 45 ####
+Executioner
+"Oh, have I over done it?{enter}
+You had no time to say
+good bye. But, don't worry.
+I'll let you meet again on
+the other side..."
+
+#### 46 ####
+Executioner
+"...To have that much Ether
+control in a non-awakened
+state. Impressive.{enter}
+However..."
+
+#### 47 ####
+Grahf
+"Leave the girl here."
+
+#### 48 ####
+Grahf
+"You've gotten better.
+...However!!"
+
+#### 49 ####
+Erich
+"I'll take care of this.
+Everyone, escape now!"
+
+#### 50 ####
+Erich
+"G, gha!"
+
+#### 51 ####
+Erich
+"E...Elly...{wait:2D}
+Go...now...{enter}
+Elly, no matter what
+happens, believe in
+yourself and go on.{enter}
+We'll be happy to help
+anyway we can.
+That's the least I can do
+to make it up to you...{enter}
+Elly...
+You're Medena's daughter,
+my daughter, no matter
+what. So..."
+
+#### 52 ####
+Bart
+"Gha-a-a!"{clear:18}
+
+#### 53 ####
+Billy
+"Wa!"{clear:18}
+
+#### 54 ####
+Emeralda
+"Wa-a-a-a-!!"{clear:18}
+
+#### 55 ####
+{name:07:チュチュ}
+"Ouchuwowowhoa!"{clear:18}
+
+#### 56 ####
+Rico
+"Gha!!"{clear:18}
+

@@ -1,0 +1,276 @@
+#### 1 ####
+Citan
+"Oh, young one.{wait:0A}
+Did you want to
+talk to me?"
+
+#### 2 ####
+Bart
+"Um...{wait:05} About my shooting
+down the Goliath...{wait:0A} I'm,{wait:05}
+errh,{wait:05} really,{wait:05} errh{wait:05}..."
+
+#### 3 ####
+Citan
+"Oh, is that it?
+I guess it could not be
+helped...{enter}
+But, jumping the gun is
+your bad habit.{wait:0A}
+A king should always keep
+calm and judge carefully!"
+
+#### 4 ####
+(Maison says the same thing.)
+
+#### 5 ####
+Bart
+"Yeah, I know, I know!{wait:0A}
+By the way, I have
+something to ask you..."
+
+#### 6 ####
+Citan
+"Oh?{wait:0A}
+That is unusual."
+
+#### 7 ####
+Bart
+"Well, it's about this
+warship we're on...{enter}
+...which is the same type
+as the Yggdrasil.{enter}
+Years ago, my old man told
+me it was scrapped because
+the peace talks with Kislev
+made progress.{enter}
+So I knew it existed..."
+
+#### 8 ####
+Citan
+"Hmm.{wait:0A}
+Then, what is
+bothering you?"
+
+#### 9 ####
+Bart
+"The symbol on the ship...{wait:0A}
+It's not our Royal Crest!{wait:0A}
+Look at this."
+
+#### 10 ####
+Citan
+"This is..."
+
+#### 11 ####
+Bart
+"I thought you knew it.{wait:0A}
+Whose crest is it?"
+
+#### 12 ####
+Citan
+"I am not positive but
+it looks like Shevat's."
+
+#### 13 ####
+Bart
+"Shevat?{wait:0A}
+What do you mean?"
+
+#### 14 ####
+Citan
+"The Yggdrasil may not
+have been made by your
+father.{enter}
+At that time, much of the
+potential technology was
+not understood and hence,{wait:0A}
+was hidden.{enter}
+Maybe your father might
+have been scared of its
+power and so sealed it
+away."
+
+#### 15 ####
+Bart
+"Hmm, I see.{wait:0A}
+So this may not have been
+ours from the start.{enter}
+If so, I wanna meet
+the guys who made this
+amazing baby."
+
+#### 16 ####
+Citan
+"Actually, they may
+be closer to you
+than you suspect..."
+
+#### 17 ####
+Bart
+"Huh?{wait:05}
+What did you say?"
+
+#### 18 ####
+Citan
+"Nothing...I was just
+wondering if Fei and
+Elly are alright."
+
+#### 19 ####
+Bart
+"...{wait:0A}
+Sorry, it's my fault."
+
+#### 20 ####
+Citan
+"N, no,{wait:0A}
+I did not mean to...{enter}
+I am sure{wait:0A} they are fine."
+
+#### 21 ####
+Bart
+"Though there's no proof to
+back it up, I feel better
+now that you said that...{enter}
+Even though I know you're
+probably lying through your
+teeth to make me feel less
+worried..."
+
+#### 22 ####
+Citan
+"Anyway, enough worrying...{wait:0A}
+But I do think you should
+apologize to Rico.{enter}
+You may get more than a
+bruise this time though."
+
+#### 23 ####
+Bart
+"Yeah."
+
+#### 24 ####
+Citan
+"Rico was checking
+on his Gear."
+
+#### 25 ####
+What do you wanna do
+with your Gear?
+
+#### 26 ####
+Come again.
+
+#### 27 ####
+Oh, Bart!
+Thank you for letting me
+ride on your Yggdrasil!{enter}
+I've always wanted to ride
+it... It's OK. The children
+are safe in Nisan's care!
+
+#### 28 ####
+I heard there was a
+shortage of people so I
+decided to participate!{wait:0A}{enter}
+Actually, I got fed up
+with my job in the small
+hideout...
+
+#### 29 ####
+What do you wanna do
+with your Gear?
+
+#### 30 ####
+You must come back
+now, ya hear!?
+
+#### 31 ####
+Come again!
+
+#### 32 ####
+If something should
+happen, I'll go too!
+That's the spirit of
+Yggdrasil Gear troops!
+
+#### 33 ####
+I no longer have a place
+in Gear combat, but I'd
+better be ready for it
+anyway!
+
+#### 34 ####
+I'll go buy parts for the
+Gears.{wait:0A} General Maitreya'll
+be upset if we don't try 
+to put another Gear unit
+together.
+
+#### 35 ####
+Hey, you haven't seen
+Maria's Gear, have you?{enter}
+It's too big to fit in
+this hangar, so it's on
+the deck.{enter}
+Speaking of which...{enter}
+Do you wanna change the 
+name of {name:13:ゼプツェン}?
+    {fast:FF}Yeah, why not!?
+    No, not now...
+
+#### 36 ####
+General Maitreya,
+Falkon and Farrant
+are gone.{wait:0A}
+...I miss them.
+
+#### 37 ####
+We don't have enough
+underwater equipment,
+Gears, or pilots.{wait:0A}
+I'm glad you're here.
+
+#### 38 ####
+When I come here at night I
+sometimes hear Maitreya and
+them talking and laughing.{enter}
+But when I get closer, the
+voices disappear.{wait:0A} I'm sure
+they are lonely,{wait:0A} too.
+
+#### 39 ####
+Maitreya admired your
+dive technique.{wait:0A}
+I hear your zoom
+technique is flawless.{enter}
+Do you think you
+can train me on
+my next watch?
+
+#### 40 ####
+Now, I must ready the Gear
+parts.{wait:0A} Maitreya's strict
+with this sort of thing.
+
+#### 41 ####
+That Gear with the
+slender build withstood
+{name:0F:ブリガンディア}'s rod?{enter}
+What kind of armor did
+they use to cover it?
+
+#### 42 ####
+Hey? Did you see this month's
+edition of "Gear Fan Magazine"?{wait:0A}
+They say, 'Hovering' is all
+the rage right now'!{enter}
+Until a while back, it used
+to be special equipment that
+only the young master had
+equipped on his Gear!
+
+#### 43 ####
+
+

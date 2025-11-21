@@ -1,0 +1,106 @@
+<TextBlock 1 w:42 h:3>
+Fei
+    Voglio dare una mano!
+    Uh, meglio di no…<Close><End of Block>
+<TextBlock 2 w:40 h:3>
+Fei
+"Doc, sai
+come funziona!?"<Close><End of Block>
+<TextBlock 3 w:14 h:1>
+Emmh…<Close><End of Block>
+<TextBlock 4 w:46 h:4>
+Shitan
+"Vuoi rimanere lì
+a pensare a cosa
+succederà tra poco…<New>
+… oppure adesso vieni
+qui e mi dai una mano?"<Close><End of Block>
+<TextBlock 5 w:50 h:4>
+Shitan
+"Allora, vogliamo andare?"
+    Sì, andiamo
+    Aspetta un attimo.<Close><End of Block>
+<TextBlock 6 w:42 h:4>
+Shitan
+"Questa cosa potrebbe
+essere davvero molto
+pericolosa, quindi…<New>
+… vi prego di mettervi
+comodi ai vostri posti."<Close><End of Block>
+<TextBlock 7 w:48 h:3>
+Shitan
+"Ditemi quando siete
+tutti pronti."<Close><End of Block>
+<TextBlock 8 w:46 h:3>
+Shitan
+"…<Delay 30> Eh, diciamo che ho
+accettato il tuo aiuto."<Close><End of Block>
+<TextBlock 9 w:42 h:3>
+Shitan
+"Basta che stai calmo
+per un altro po'."<Close><End of Block>
+<TextBlock 10 w:36 h:3>
+Shitan
+"Penso proprio che
+possiamo farcela."<Close><End of Block>
+<TextBlock 11 w:52 h:3>
+Shitan
+"…<Delay 60>
+Vogliamo vedere
+se funziona?"<Close><End of Block>
+<TextBlock 12 w:48 h:4>
+Shitan
+"Non proprio…<Delay 30>
+Ma, Fei…<New>
+Non starai pensando di
+rubare questa grande
+cosa senza sapere come
+funziona, nevvero?"<Close><End of Block>
+<TextBlock 13 w:34 h:2>
+Shitan
+"Va bene, allora…"<Close><End of Block>
+<TextBlock 14 w:40 h:2>
+Shitan
+"Siete tutti pronti?"<Close><End of Block>
+<TextBlock 15 w:32 h:3>
+Shitan
+"Come dire…<Delay 30>
+balleremo un po'."<Close><End of Block>
+<TextBlock 16 w:10 h:2>
+Rico
+"…"<Close><End of Block>
+<TextBlock 17 w:44 h:3>
+Rico
+"Mmh… quand'è che mi
+lascerete scendere?"<Close><End of Block>
+<TextBlock 18 w:44 h:4>
+Rico
+"Ma guarda un po'!<New>
+Non riesco a credere
+che abbiano creato
+una cosa simile…"<Close><End of Block>
+<TextBlock 19 w:26 h:3>
+Rico
+"Non potevi
+dircelo<Delay 60>…"<Close><End of Block>
+<TextBlock 20 w:42 h:4>
+Elly
+"Erano molto vicini a
+renderla pienamente
+operativa…"<Close><End of Block>
+<TextBlock 21 w:32 h:2>
+Elly
+"Fei, andiamo."<Close><End of Block>
+<TextBlock 22 w:38 h:4>
+Hammer
+"O frate, questa cosa
+è incredibile… Come
+sono agitato!"<Close><End of Block>
+<TextBlock 23 w:50 h:3>
+Hammer
+"Ci siamo quasi, o frate.
+Sono un po' nervoso!"<Close><End of Block>
+<TextBlock 24 w:32 h:3>
+Hammer
+"…<Delay 15>
+Un pochino prima…"<Close><Close><End of Block>

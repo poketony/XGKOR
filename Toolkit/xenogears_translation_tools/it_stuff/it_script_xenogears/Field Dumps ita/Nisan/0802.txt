@@ -1,0 +1,167 @@
+<TextBlock 1 w:54 h:3>
+Shitan
+"Cielo…
+che ritratto di
+squisita fattura!<New>
+Ed anche la bellissima
+giovane donna ritratta
+va oltre ogni
+immaginazione…"<Close><End of Block>
+<TextBlock 2 w:34 h:4>
+Shitan
+"E per giunta…<Delay 30>
+ha un'aria alquanto
+familiare…!"<Close><End of Block>
+<TextBlock 3 w:50 h:2>
+Shitan
+"Cosa ne pensi, Fei?"<Close><End of Block>
+<TextBlock 4 w:50 h:4>
+Fei
+"Sì, anch'io stavo
+pensando la stessa cosa.<New>
+I capelli sono di un
+colore diverso…<New>
+… ma l'atmosfera e la
+personalità che emana è
+esattamente la stessa."<Close><End of Block>
+<TextBlock 5 w:36 h:4>
+Shitan
+"Cosa?<Delay 30> Il colore
+dei capelli?<Delay 30>
+Che intendi?"<Close><End of Block>
+<TextBlock 6 w:38 h:3>
+Fei
+"Cosa intendo?
+Guarda…!<New>
+È la ragazza che
+ho incontrato
+nella foresta…"<Close><End of Block>
+<TextBlock 7 w:54 h:4>
+Fei
+"È lei, Elly!<New>
+Voglio dire… c'è
+qualcosa di lei che
+è proprio identico
+ad Elly…"<Close><End of Block>
+<TextBlock 8 w:48 h:2>
+Fei
+"Non la pensi così…?"<Close><End of Block>
+<TextBlock 9 w:52 h:4>
+Shitan
+"Sì, ora che me
+lo fai notare…<New>
+Assomiglia moltissimo
+ad Elly."<Close><End of Block>
+<TextBlock 10 w:52 h:4>
+Shitan
+"Ma non è di questo
+che stavo parlando…<New>
+Intendevo dire che la
+tecnica di pittura con
+cui esso è dipinto è
+simile alla tua."<Close><End of Block>
+<TextBlock 11 w:24 h:2>
+Fei
+"… Davvero?"<Close><End of Block>
+<TextBlock 12 w:26 h:2>
+Fei
+"Ma è veramente
+così…?"<Close><End of Block>
+<TextBlock 13 w:38 h:4>
+Fei
+"Prima di tutto…
+Non sono proprio
+bravo come pittore."<Close><End of Block>
+<TextBlock 14 w:48 h:3>
+Shitan
+"No… è assai 
+rassomigliante
+al tuo stile."<Close><End of Block>
+<TextBlock 15 w:48 h:4>
+Shitan
+"Ma, in qualche modo…<New>
+… riesco a percepire in
+questo quadro una
+atmosfera di tristezza."<Close><End of Block>
+<TextBlock 16 w:50 h:4>
+Shitan
+"Lei sta sorridendo, ma,
+in un certo senso…<New>
+… dà l'impressione di
+essere inquieta."<Close><End of Block>
+<TextBlock 17 w:54 h:3>
+Shitan
+"Forse il quadro sta
+riflettendo il suo
+vero essere?"<Close><End of Block>
+<TextBlock 18 w:46 h:4>
+Shitan
+"O forse…<New>
+… sono i sentimenti
+intimi dell'autore
+ad essere trasmessi."<Close><End of Block>
+<TextBlock 19 w:42 h:4>
+Shitan
+"Ah…<New>
+Se guardi attentamente,
+noterai che il quadro
+non è completamente
+finito."<Close><End of Block>
+<TextBlock 20 w:42 h:3>
+Shitan
+"…<New>
+Il pittore abbandonò i
+suoi pennelli quando il
+lavoro era quasi stato
+ultimato."<Close><End of Block>
+<TextBlock 21 w:34 h:2>
+Shitan
+"… Tu sai per
+quale cagione?"<Close><End of Block>
+<TextBlock 22 w:36 h:3>
+Margie
+"Non lo so…<New>
+Ma forse mia nonna
+potrebbe averlo
+saputo…"<Close><End of Block>
+<TextBlock 23 w:52 h:3>
+Margie
+"Oh! E se chiedessimo
+ad Agnese? Potrebbe
+sapere qualcosa."<Close><End of Block>
+<TextBlock 24 w:44 h:3>
+Margie
+"Va bene allora,
+io starò con
+Suor Agnese."<Close><End of Block>
+<TextBlock 25 w:42 h:4>
+Bart
+"Beh… che ne dite
+di tornare in città
+per ora?"<Close><End of Block>
+<TextBlock 26 w:44 h:3>
+Shitan
+"Sì, sono d'accordo…<New>
+Ma questo quadro ha
+colto la mia curiosità.<New>
+Ti dispiace se, prima
+di tornare in città,
+parlo con Suor Agnese?"<Close><End of Block>
+<TextBlock 27 w:42 h:4>
+Bart
+"Sì, tranquillo…
+Passeremo dalla sua
+stanza mentre usciamo."<Close><End of Block>
+<TextBlock 28 w:32 h:1>
+         La<Delay 10>ca<Delay 10>n<Delay 10>…<Close><End of Block>
+<TextBlock 29 w:50 h:4>
+Shitan
+"Qualcosa non
+va, Fei?<New>
+Pare quasi che tu
+stia sognando ad
+occhi aperti…"<Close><End of Block>
+<TextBlock 30 w:32 h:4>
+Fei
+"Eh? No…
+Non è nulla…"<Close><Close><End of Block>

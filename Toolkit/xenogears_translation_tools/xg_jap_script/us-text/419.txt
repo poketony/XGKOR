@@ -1,0 +1,57 @@
+#### 1 ####
+Elly
+"I wonder if we'd come
+first if we'd have stepped
+on it?"
+
+#### 2 ####
+Citan
+"Could it be a trap?"
+
+#### 3 ####
+Billy
+"Maybe they're trying to
+bait us."
+
+#### 4 ####
+Rico
+"I don't know, but it
+seems pretty fishy to me."
+
+#### 5 ####
+Maria
+"Could it be a trap?"
+
+#### 6 ####
+{name:07:チュチュ}
+"It's chu suspicious!"
+
+#### 7 ####
+Emeralda
+"I sense something very
+suspicious."
+
+#### 8 ####
+Bart
+"What the!?{wait:1E}
+That hole wasn't there
+last time."
+
+#### 9 ####
+Fei
+"They're survivors from
+the last battle!"
+
+#### 10 ####
+Fei
+"Those guys, it seemed
+like they were waiting
+for us."
+
+#### 11 ####
+Bart
+"Regardless, we gotta go
+on! It's going to be an
+eternal embarrassment if{enter}
+we let'em get away!"
+

@@ -1,0 +1,181 @@
+<TextBlock 1 w:42 h:3>
+Fei
+"E…<Delay 30> ora che succede?"<Close><End of Block>
+<TextBlock 2 w:38 h:2>
+Fei
+"… Non avrai…"<Space 1><Close><End of Block>
+<TextBlock 3 w:44 h:3>
+Fei
+"Non avrai dimenticato
+cosa dobbiamo fare?"<Close><End of Block>
+<TextBlock 4 w:48 h:3>
+Fei
+"(… Andrà<Delay 30> tutto
+bene…?<New>
+Comincio ad avere
+dei dubbi…)"<Close><End of Block>
+<TextBlock 5 w:44 h:4>
+Elly
+"Allora…<Delay 30> ora
+che succede?"<Close><End of Block>
+<TextBlock 6 w:38 h:2>
+Elly
+"… Non avrai…"<Space 1><Close><End of Block>
+<TextBlock 7 w:50 h:3>
+Elly
+"Non avrai dimenticato
+cosa dobbiamo fare?"<Close><End of Block>
+<TextBlock 8 w:36 h:3>
+Elly
+"(… Andrà<Delay 30>
+tutto bene…?<New>
+Ho un brutto
+presentimento…)"<Close><End of Block>
+<TextBlock 9 w:50 h:4>
+Shitan
+"Perbacco, quella era la
+rampa di scale più lunga
+del mondo!?<New>
+… Allora, qual è il
+nostro piano?"<Close><End of Block>
+<TextBlock 10 w:38 h:2>
+Shitan
+"… Non avrai…"<Space 1><Close><End of Block>
+<TextBlock 11 w:48 h:3>
+Shitan
+"Non avrai dimenticato
+cosa dobbiamo fare…?"<Close><End of Block>
+<TextBlock 12 w:32 h:3>
+Shitan
+"(…<Delay 30> Andrà tutto bene…?)"<Space 1><Close><End of Block>
+<TextBlock 13 w:36 h:2>
+Fei
+"… Non hai…"<Space 1><Close><End of Block>
+<TextBlock 14 w:50 h:3>
+Fei
+"Non hai dimenticato
+cosa dobbiamo fare…?"<Close><End of Block>
+<TextBlock 15 w:46 h:3>
+Errore.
+Bart non è in testa
+al gruppo.<Close><End of Block>
+<TextBlock 16 w:18 h:2>
+Billy
+"Fiuu…"<Close><End of Block>
+<TextBlock 17 w:46 h:4>
+Billy
+"…<Delay 30> Sembra un
+vicolo cieco. Farai
+qualcosa in proposito?<New>
+Farò del mio meglio
+per poter aiutare…"<Close><End of Block>
+<TextBlock 18 w:38 h:2>
+Billy
+"… Non hai…"<Space 1><Close><End of Block>
+<TextBlock 19 w:48 h:3>
+Billy
+"Non avrai dimenticato
+cosa dobbiamo fare…?"<Close><End of Block>
+<TextBlock 20 w:36 h:3>
+Billy
+"Ma questo qui…<Delay 30> ha
+la testa a posto?"<Close><End of Block>
+<TextBlock 21 w:38 h:3>
+Rico
+"Che cosa…?<Delay 30>
+E adesso?"<Close><End of Block>
+<TextBlock 22 w:38 h:2>
+Rico
+"… Non avrai…"<Space 1><Close><End of Block>
+<TextBlock 23 w:50 h:3>
+Rico
+"Non avrai dimenticato
+cosa dobbiamo fare…?"<Close><End of Block>
+<TextBlock 24 w:30 h:3>
+Rico
+"(Andrà…<Delay 30> andrà
+tutto bene?)"<Close><End of Block>
+<TextBlock 25 w:54 h:3>
+Maria
+"…<Delay 10>
+Cos'è questo posto?<Delay 30>
+Vuoi che prosegua?"<Close><End of Block>
+<TextBlock 26 w:38 h:2>
+Esmeralda
+"… Non avrai…"<Space 1><Close><End of Block>
+<TextBlock 27 w:50 h:3>
+Esmeralda
+"Non avrai dimenticato
+cosa dobbiamo fare…?"<Close><End of Block>
+<TextBlock 28 w:30 h:3>
+Esmeralda
+"(Non…<Delay 30> va bene.)"<Close><End of Block>
+<TextBlock 29 w:34 h:2>
+<Chu-Chu>
+"È un vicolo cieco."<Close><End of Block>
+<TextBlock 30 w:26 h:2>
+<Chu-Chu>
+"… Oh no…"<Space 1><Close><End of Block>
+<TextBlock 31 w:42 h:3>
+<Chu-Chu>
+"Non avrai dimenticato
+che dobbiamo chu fare…?"<Close><End of Block>
+<TextBlock 32 w:52 h:3>
+<Chu-Chu>
+"(…<Delay 30> la memoria più corta
+che io abbia chu visto…)"<Close><End of Block>
+<TextBlock 33 w:26 h:2>
+Maria
+"E…<Delay 10> ora?"<Close><End of Block>
+<TextBlock 34 w:38 h:2>
+Maria
+"… Non avrai…"<Space 1><Close><End of Block>
+<TextBlock 35 w:50 h:3>
+Maria
+"Non avrai dimenticato
+cosa dobbiamo fare…?"<Close><End of Block>
+<TextBlock 36 w:44 h:3>
+Maria
+"(Uh…<Delay 30> Non è tanto
+affidabile quanto
+sembra)".<Close><End of Block>
+<TextBlock 37 w:48 h:2>
+Margie
+"Che palle, devo
+forse pensarci io?"<Close><End of Block>
+<TextBlock 38 w:44 h:2>
+C'è qualcosa che
+somiglia ad un pannello.<Close><End of Block>
+<TextBlock 39 w:26 h:3>
+Lo usi?
+    Sì
+    No<Close><End of Block>
+<TextBlock 40 w:24 h:3>
+Bart
+"Evvai!
+Ci siamo!"<Close><End of Block>
+<TextBlock 41 w:26 h:2>
+Bart
+"Eccoci qua."<Close><End of Block>
+<TextBlock 42 w:50 h:2>
+Bart
+"Ehi, non mettermi
+fretta."<Close><End of Block>
+<TextBlock 43 w:34 h:3>
+Bart
+"Ehi, non rompete
+e state zitti!"<Close><End of Block>
+<TextBlock 44 w:46 h:3>
+Bart
+"… È passato un sacco
+di tempo. Non date a
+me la colpa!<New>
+…<Delay 30> Merda, l'ho
+davvero dimenticato."<Close><End of Block>
+<TextBlock 45 w:54 h:2>
+    NO! Ora mi ricordo!
+    … Per favore…<Close><End of Block>
+<TextBlock 46 w:44 h:4>
+Bart
+"Oh sì!! Ah!<Delay 30>
+Proprio come pensavo!"<Close><Close><End of Block>

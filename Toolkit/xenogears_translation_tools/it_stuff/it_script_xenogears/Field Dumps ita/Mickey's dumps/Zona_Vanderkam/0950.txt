@@ -1,0 +1,29 @@
+<TextBlock 1 w:36 h:2>
+Fei
+"Devo sbrigarmi…"<Close><End of Block>
+<TextBlock 2 w:42 h:4>
+Robot Riparatore
+"Ti guardavo nascosto
+nell'ombra.
+Sei molto potente!<New>
+Ho solo gli stessi
+oggetti di prima.
+Cosa ti serve?"<New>
+    Ricambi Gear
+    Oggetti
+    Non mi fido
+    Nulla<Close><End of Block>
+<TextBlock 3 w:28 h:3>
+Robot Riparatore
+"Spero di rivederti."<Close><End of Block>
+<TextBlock 4 w:28 h:3>
+Robot Riparatore
+"Spero di rivederti."<Close><End of Block>
+<TextBlock 5 w:28 h:2>
+Robot Riparatore
+"Che crudeltà…"<Close><End of Block>
+<TextBlock 6 w:52 h:3>
+Fei
+"Sembra che la vetta della
+montagna sia proprio oltre
+questo punto!"<Close><Close><End of Block>

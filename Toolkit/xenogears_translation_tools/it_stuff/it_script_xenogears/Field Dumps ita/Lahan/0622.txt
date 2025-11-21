@@ -1,0 +1,95 @@
+<TextBlock 1 w:46 h:3>
+Fei
+"Lahan… Mi piace.<New>
+Il capo del villaggio,
+l'Anziano Lee, si è preso
+così tanta cura di me…<New>
+Tutti nel villaggio
+mi hanno accolto
+calorosamente…"<Close><End of Block>
+<TextBlock 2 w:52 h:4>
+Fei
+"A dispetto di dove possa
+essere nato e cresciuto,
+Lahan ora è la mia casa."<Close><End of Block>
+<TextBlock 3 w:48 h:4>
+Fei
+"Non mi dispiace Lahan.<Delay 20>
+Le persone qui sono
+brava gente."<Close><End of Block>
+<TextBlock 4 w:54 h:4>
+Fei
+"Ma, un giorno, mi
+piacerebbe proprio
+andarmene…<New>
+… e trovare la
+mia vera casa…<New>
+Camminare sopra la terra
+dove sono nato, voglio
+incontrare quelli che
+mi hanno conosciuto…<New>
+Voglio capire chi
+io sia davvero."<Close><End of Block>
+<TextBlock 5 w:48 h:4>
+Fei
+"Per come stanno ora
+le cose…<New>
+… sento come se avessi
+una specie di vuoto
+dentro di me…"<Close><End of Block>
+<TextBlock 6 w:36 h:3>
+Fei
+"Certo.<Delay 20> 
+Non dovrei mai
+dimenticarlo."<Close><End of Block>
+<TextBlock 7 w:52 h:5>
+Questa città potrà pure
+essere sperduta, nascosta
+in mezzo alle montagne,
+senza avere nient'altro…<Delay 20>
+Ma la amo lo stesso…
+Lahan.<Close><End of Block>
+<TextBlock 8 w:50 h:4>
+Guarda guarda, se non
+è Fei.<Delay 20> Non è emozionante
+sapere che il matrimonio
+di Timothy ed Alice
+sarà domani?<New>
+Penso che per te sia
+l'ora di trovare una
+bellissima ragazza
+come Alice.<Delay 20> Ah Ah.<Close><End of Block>
+<TextBlock 9 w:50 h:4>
+A proposito, Fei… cosa
+ne pensi di Lahan?<Delay 20>
+    Mi piace
+    Non mi dispiace…<Close><End of Block>
+<TextBlock 10 w:48 h:2>
+Ah, sì.<Delay 20> Mi basta sentirlo
+per essere felice.<Close><End of Block>
+<TextBlock 11 w:50 h:3>
+Ecco, prendi questi come 
+regalo.<Delay 20> Non sciuparli
+tutti subito.<Close><End of Block>
+<TextBlock 12 w:28 h:1>
+Ricevi 120G!<Close><End of Block>
+<TextBlock 13 w:48 h:4>
+È un peccato.<Delay 20>
+Ma sono sicuro che ci siano
+persone là fuori che stanno
+attendendo il tuo ritorno…<Close><End of Block>
+<TextBlock 14 w:50 h:4>
+Se questo giorno arriva
+e succede ciò che dico,
+pensaci ogni tanto e ricorda
+il nostro villaggio.<Close><End of Block>
+<TextBlock 15 w:52 h:3>
+Ma lasciamo stare per
+ora.<Delay 10> Non succederà per
+un bel po'.<New>
+Non è bene per un vecchio
+come me essere così
+frettoloso, ah ah.<Close><End of Block>
+<TextBlock 16 w:26 h:2>
+Peccato.
+Era vuoto.<Close><Close><End of Block>

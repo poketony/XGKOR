@@ -1,0 +1,147 @@
+<TextBlock 1 w:48 h:3>
+Capitano
+"La nostra guerra non
+è ancora teminata.<New>
+Il Distretto Centrale
+esiste per battersi con
+il vero nemico."<Close><End of Block>
+<TextBlock 2 w:48 h:3>
+Capitano
+"Quando saremo in grado
+di usare la nostra vera
+forza…?"<Close><End of Block>
+<TextBlock 3 w:52 h:2>
+Perché pensi che abbiamo
+un ponte di comando qui?
+Ah ah ah!<Close><End of Block>
+<TextBlock 4 w:48 h:2>
+Molti sono stati i feriti
+nell'ultima guerra fra
+Kislev e Aveh.<New>
+Anche la mia famiglia…<New>
+La guerra porta con sé
+solo morte e miseria.<Close><End of Block>
+<TextBlock 5 w:52 h:3>
+Il potere della Chiesa
+esiste ancora ed è
+potente anche a Kislev…<New>
+Molti cittadini sono
+morti nel tentativo di
+opporsi all'influenza
+della Chiesa.<Close><End of Block>
+<TextBlock 6 w:44 h:2>
+Un trattato di pace è
+stato firmato con Aveh.<New>
+Speriamo sia l'ultimo…<Close><End of Block>
+<TextBlock 7 w:52 h:2>
+Kislev e Aveh avevano
+già sottoscritto una
+tregua prima.<New>
+Ma le relazioni
+sono peggiorate a
+causa di Geburah.<Close><End of Block>
+<TextBlock 8 w:54 h:3>
+Hai sentito di un Gear
+rosso? Ha spazzato via
+un'intera unità di Geburah.<New>
+Se solo fosse il nostro
+salvatore!<Close><End of Block>
+<TextBlock 9 w:50 h:3>
+Ultimamente, il Kaiser
+non si fa vedere molto
+in giro.<New>
+Immagina come sarebbe
+felice se la sua famiglia
+ritornasse…<Close><End of Block>
+<TextBlock 10 w:54 h:3>
+La Chiesa sta usando il
+movimento per i diritti
+umani per usurpare il
+potere politico.<New>
+Nell'ultima parata, c'è
+stato un attentato alla
+vita del Kaiser.<New>
+Per fortuna hanno
+fallito, ma non si sa
+quando colpiranno di
+nuovo…<Close><End of Block>
+<TextBlock 11 w:52 h:2>
+Non ho mai partecipato
+ad una missione.<New>
+Non so se esserne felice
+o triste…<Close><End of Block>
+<TextBlock 12 w:54 h:3>
+L'attesa della prossima
+missione può farti
+impazzire.<New>
+Se sapessi che fosse
+come questa, resterei
+nell'hangar a riparare
+i Gear.<Close><End of Block>
+<TextBlock 13 w:54 h:2>
+Non mi sono mai distinto,
+ma sono tornato vivo,
+anche se non l'ho meritato.<Close><End of Block>
+<TextBlock 14 w:56 h:2>
+Presto sarò in missione.<New>
+Potrei non ritornare, ma
+sono pronto a combattere.<Close><End of Block>
+<TextBlock 15 w:52 h:2>
+Ora sono ancora più confuso
+per come si stanno mettendo
+le cose.<New>
+Probabilmente la pace con
+Aveh non durerà molto.<Close><End of Block>
+<TextBlock 16 w:52 h:3>
+I ranghi inferiori non
+sanno come va la guerra…<New>
+Alcuni di loro sono così
+spaventati che è quasi
+impossibile comandarli…<New>
+Cosa faremmo se ci
+attaccassero ora?<Close><End of Block>
+<TextBlock 17 w:44 h:2>
+Ehi!<Delay 30> Il treno
+dovrebbe essere in
+arrivo.<Close><End of Block>
+<TextBlock 18 w:8 h:1>
+Perché?<Close><End of Block>
+<TextBlock 19 w:38 h:2>
+Oh già…<Delay 40> Tu eri
+nel Blocco D, giusto?<Close><End of Block>
+<TextBlock 20 w:44 h:3>
+Anche i soldati anonimi
+hanno una vita da vivere.
+Ricordalo…<Close><End of Block>
+<TextBlock 21 w:44 h:3>
+Anche i soldati anonimi
+hanno una vita da vivere.
+Ricordalo…<Close><End of Block>
+<TextBlock 22 w:50 h:1>
+Oh, la manutenzione
+dei Gear…?<New>
+Ho lasciato quel
+lavoro.<Close><End of Block>
+<TextBlock 23 w:56 h:3>
+Non voglio tornare
+nel Blocco D. Ho brutti
+ricordi di quel posto.<New>
+Comunque, mi manderebbero
+indietro, se scoprissero
+che ho fatto così tanta
+carriera.<Close><End of Block>
+<TextBlock 24 w:50 h:2>
+Un Gear ha decimato una
+unità Gear d'élite a
+Lahan.<Close><End of Block>
+<TextBlock 25 w:50 h:2>
+Un Gear ha decimato una
+unità Gear d'élite a
+Lahan.<Close><End of Block>
+<TextBlock 26 w:54 h:3>
+In realtà, c'è un solo
+sopravvissuto di Lahan.<New>
+Ma lo shock subito gli
+ha causato un forte
+esaurimento nervoso. 
+Cos'è accaduto là…?<Close><Close><End of Block>

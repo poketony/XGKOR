@@ -1,0 +1,135 @@
+#### 1 ####
+Shakhan
+"There is a customary
+Tournament after the
+dedication ceremony..."
+
+#### 2 ####
+Ramsus
+"What about the incident
+in that report?"
+
+#### 3 ####
+Shakhan
+"What? Oh, you mean the
+500-year-old mobile weapon
+excavated from the ruins?{enter}
+Thanks to the help of the
+'Ethos', the repairs are
+complete.{enter}
+I thought we could announce
+it on the day of the
+dedication ceremony..."
+
+#### 4 ####
+Ramsus
+"Toys like that should
+be given to Vanderkaum.{enter}
+I'm talking about the
+'Fatima Jasper'."
+
+#### 5 ####
+Shakhan
+"I already have obtained
+one half of the crest.{enter}
+But I haven't been able
+to get her to tell me
+where the other half is.{enter}
+She is a rather strong-
+willed girl..."
+
+#### 6 ####
+Ramsus
+"You're not being rough
+with her, are you?"
+
+#### 7 ####
+Shakhan
+"Of course not. I know
+how you despise vulgar
+acts like that."
+
+#### 8 ####
+Ramsus
+"You said that girl is the
+Holy Mother of Nisan...{wait:32}
+Is she upstairs?"
+
+#### 9 ####
+Shakhan
+"Yes, in the
+east tower."
+
+#### 10 ####
+Ramsus
+"Miang, could
+it possibly be
+a 'Relic'?"
+
+#### 11 ####
+Miang
+"Yes. But there is still no
+response. There seems to be
+a barrier or something.{enter}
+However, we do know from
+the 500-year-old records
+that one certainly exists
+in this vicinity.{enter}
+It's probably well
+preserved too."
+
+#### 12 ####
+Ramsus
+"...Let's meet her.{enter}
+I want to talk to her
+directly. Miang, you
+come with me."
+
+#### 13 ####
+Miang
+"Yes sir."
+
+#### 14 ####
+Grahf
+"I believe I already
+said your tricks will
+do you no good."
+
+#### 15 ####
+Miang
+"I'm just trying to help.
+Didn't I help get those
+'shackles' off?{enter}
+Now, you know the 'vessel'
+will only respond to the
+chosen one.{enter}
+They don't know this.
+But...he's necessary for
+Kahr.{enter}
+He's the very meaning of
+Kahr's existence."
+
+#### 16 ####
+Miang
+"Yes, I must thank you.
+After all, you did help
+me didn't you?"
+
+#### 17 ####
+Grahf
+"..."
+
+#### 18 ####
+Miang
+"Was it for me?
+Or for him?
+...Or...for yourself?"
+
+#### 19 ####
+Margie
+"No! I don't want to go
+back up there"
+
+#### 20 ####
+No response.
+

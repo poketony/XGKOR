@@ -1,0 +1,385 @@
+#### 1 ####
+Citan
+"Are you ready? {wait:0A}
+I am going later so get 
+some rest before then."
+
+#### 2 ####
+Citan
+"Fei, there is no need to
+be mad at Bart. {wait:0A}
+Just forgive him."
+
+#### 3 ####
+Citan
+"Fei, there is no reason 
+to be mad at Bart. {wait:0A}
+Just forgive him."
+
+#### 4 ####
+Sigurd
+"We set out early tomorrow.{wait:0A}{enter}
+It's best to get ready
+today and rest up in our
+rooms from the journey."
+
+#### 5 ####
+Sigurd
+"I'm searching the 
+information network {enter}
+for reports on
+Aveh's condition."
+
+#### 6 ####
+Sigurd
+"What do you want to know?{wait:0A}
+    {fast:FF}Who is Margie?
+    Who is Shakhan?
+    What's a Fatima Jasper?
+    More about Nisan
+    Nothing
+
+#### 7 ####
+Sigurd
+"Margie is Mother 
+Marguerite of Nisan.{enter}
+But Shakhan of Aveh has
+locked her up and is
+looking for the Fatima
+Jasper now. {enter}
+Bart may not look it,
+but he's very worried."
+
+#### 8 ####
+Sigurd
+"Shakhan was the Prime
+Minister of Aveh.{enter}
+But he is the defacto
+leader now.{wait:0A}
+His rule is what has
+put our Aveh in turmoil."
+
+#### 9 ####
+Sigurd
+"Margie has half of the 
+Fatima Jasper.{enter}
+Shakhan wants it because
+it tells the location of
+the great treasure."
+
+#### 10 ####
+Sigurd
+"Nisan is a small,
+sacred country in the
+west of Ignas.{enter}
+In its center is a huge
+cathedral beautifully
+ornamented. {enter}
+The country was founded
+by Sophia.{enter}
+She is called the
+'Mother of Knowledge'
+by her followers, the
+-Kahal-.{enter}
+She was also Nisan's 
+first Mother."
+
+#### 11 ####
+Sending the latest 
+information!
+
+#### 12 ####
+We are praying for a
+successful rescue!
+
+#### 13 ####
+Escape route 4 is for
+civilians, all civilians
+in the dock area take
+refuge in the Yggdrasil!
+
+#### 14 ####
+12 years ago Sigurd 
+fled Aveh with the young
+master. {enter}
+We've been good friends
+ever since.
+
+#### 15 ####
+Sending the latest 
+information!
+
+#### 16 ####
+We'll forward the latest
+info. on to the Yggdrasil.
+Good luck rescuing Margie!
+
+#### 17 ####
+They've entered gate 4.
+
+#### 18 ####
+We have an unidentifed
+heat reading in the 
+ventilation shaft. {wait:0A}{enter}
+They're Gears! Gate 3 
+has been destroyed!
+
+#### 19 ####
+Main power source cut!!{wait:0A} 
+Switch to backup!
+
+#### 20 ####
+I wonder if Margie's
+alright?{wait:0A} I Hope she's not
+hurt? We're only operators
+but we still worry.{enter}
+We can't do anything.{wait:0A}
+...Sniff...
+
+#### 21 ####
+Sending the latest 
+information!
+
+#### 22 ####
+Good luck rescuing 
+Margie!
+
+#### 23 ####
+Gears have been lost! 
+Operational Gear: 5 
+In service: 1 
+Guest: 1 {enter}
+All pilots report 
+immediately to the 
+Gear dock!
+
+#### 24 ####
+All clear!!
+
+#### 25 ####
+Citan
+"This place is incredible!{enter}
+They probably do not even
+have equipment like this
+in the capital."
+
+#### 26 ####
+Bart
+"Heh heh. Surprised? {wait:0A}
+All this technology
+is thanks to Sig."
+
+#### 27 ####
+Bart
+"Hey, Fei!{wait:0A}
+Don't stand on the screen.{wait:0A}
+We won't be able to see!"
+
+#### 28 ####
+Bart
+"Alright men!{wait:0A}
+Display my special file
+on the main screen."
+
+#### 29 ####
+Citan
+"What is this...?"
+
+#### 30 ####
+Bart
+"A picture scroll, nearly
+500 years old.{enter}
+This is King Fatima I...{wait:0A}
+'body cloaked in flames
+making a blood oath with
+giants'.{enter}
+They say he used the
+strength of the giants
+to found Aveh."
+
+#### 31 ####
+Citan
+"It is amazing that such an
+ancient scroll exists...
+and in such good state too!{enter}
+I thought the 'Ethos'
+controlled all such things
+as these..."
+
+#### 32 ####
+Bart
+"Normally, yes.{enter}
+But this was one of
+my father's prized
+possessions."
+
+#### 33 ####
+Bart
+"Next!"
+
+#### 34 ####
+Bart
+"After founding the
+country, Fatima forced the
+giants into slumber{wait:05}...{enter}
+...{wait:05}to protect his kingdom's
+people if needed in the
+future.{wait:0F} But we don't know
+where they are hidden.{enter}
+In another record, one of
+the giants is called the
+'Great Fatima Treasure'."
+
+#### 35 ####
+Citan
+"What about
+the 'Jasper'?"
+
+#### 36 ####
+Bart
+"Hey...{wait:0A}
+you sure know a lot.{enter}
+Perhaps you're one
+of Shakhan's spies?"
+
+#### 37 ####
+Citan
+"Of course not.{wait:0A}
+It is only an intellectual
+interest..."
+
+#### 38 ####
+Bart
+"Just kidding.{wait:0A} It appears
+the Jasper is the key to
+finding our treasure."
+
+#### 39 ####
+Citan
+"A key...{enter}
+Could that be what
+Shakhan is looking 
+for?"
+
+#### 40 ####
+Bart
+"Not just him.{wait:0A}
+Gebler is also
+looking for it."
+
+#### 41 ####
+Citan
+"Really?{enter}
+Then we must rescue
+Marguerite as soon
+as possible."
+
+#### 42 ####
+Bart
+"You're telling me!"
+
+#### 43 ####
+Bart
+"Since we helped you{wait:05}...{wait:0A}I
+was wondering if I could,
+in turn, ask you a favor?"
+
+#### 44 ####
+Citan
+"Would that be{wait:05}...{wait:05}
+for us to help you
+rescue her{wait:0A}...?"
+
+#### 45 ####
+Bart
+"Bright boy!{wait:0A}
+That's exactly it.{enter}
+I heard from Sigurd{wait:05}...{wait:0A}
+it seems that both Aveh
+and Kislev are after you!{enter}
+So we can help you and
+you can help us{wait:05}...{wait:0A}
+How about it?{wait:0A} 
+It's not much to ask."
+
+#### 46 ####
+Citan
+"Well, if it pays for my
+room and board then I will
+help in any way I can..."
+
+#### 47 ####
+Citan
+"What do you think, Fei?{wait:0A}
+You have not said
+anything for a while..."
+
+#### 48 ####
+Bart
+"Yeah.{wait:0A}
+You were great back there
+in that stalactite cavern.{enter}
+Your strength alone is
+greater than ten or twenty
+of Shakhan's guards."
+
+#### 49 ####
+...
+
+#### 50 ####
+Bart
+"I'd love to have
+your power on my
+side!"
+
+#### 51 ####
+Fei
+"Why does everyone want
+to make me fight?"
+
+#### 52 ####
+Bart
+"H, huh...{wait:0A}
+What's wrong with you
+all of a sudden?"
+
+#### 53 ####
+Fei?
+
+#### 54 ####
+Fei 
+"I just don't feel like it!
+'Love to have my power'?{wait:0A}
+I don't have any!{enter}
+What's wrong with you,{wait:05}
+doc,{wait:05} everyone{wait:05}...{wait:0A}
+You're driving me to the
+brink.{enter}
+Then there's that Gear{wait:05}...{wait:05}
+Grahf and my father{wait:05}...{enter}
+I don't have the time to
+help you out with your
+problems when I've got
+enough of my own!!"
+
+#### 55 ####
+Bart
+"What's with him?{wait:0A}
+Is he always that
+short-tempered?"
+
+#### 56 ####
+Citan
+"No, that is not it...{wait:0A}
+I am sorry.{enter}
+Things have happened so
+fast that he has not had
+time to deal with it all
+yet.{wait:0A} Try to understand."
+
+#### 57 ####
+...
+
+#### 58 ####
+
+

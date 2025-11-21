@@ -1,0 +1,155 @@
+#### 1 ####
+...Yo.
+
+#### 2 ####
+Fei
+"Good, you finally woke up!
+You didn't move for so long
+that I started to worry..."
+
+#### 3 ####
+Mysterious Woman
+"..."
+
+#### 4 ####
+Fei
+"How are you feeling?"
+
+#### 5 ####
+Mysterious Woman
+"..."
+
+#### 6 ####
+Fei
+"Do you still intend to
+kill me? Then go right
+ahead and shoot me!{enter}
+But you'd better not do it
+while we're in this forest.
+Forest monsters hate loud
+noises, you know!?"
+
+#### 7 ####
+Mysterious Woman
+"..."
+
+#### 8 ####
+Fei
+"Fine.
+Don't talk to me if
+you don't want to...{enter}
+But it wouldn't kill
+you to thank me for
+tending your wounds."
+
+#### 9 ####
+!{clear:14}
+
+#### 10 ####
+Mysterious Woman
+"Th...thanks...{wait:1E}
+but you shouldn't
+have helped me.{enter}
+Don't think it will
+save your life though.
+It really doesn't
+change a thing."
+
+#### 11 ####
+Fei
+"What are you
+so afraid of?"
+
+#### 12 ####
+Mysterious Woman
+"I'm not afraid...
+I'm just being cautious.{enter}
+It's natural for me to be
+this cautious considering
+I've met such a suspicious
+surface dwelling -Lamb-."
+
+#### 13 ####
+Fei
+"Hm... Don't you worry.
+I'm not gonna do anything.{enter}
+Besides you're much more
+suspicious than I am."
+
+#### 14 ####
+Mysterious Woman
+"Huh...?"
+
+#### 15 ####
+Fei
+"So, what's your name?"
+
+#### 16 ####
+Mysterious Woman
+"I won't give my name to
+a surface dweller -Lamb-."
+
+#### 17 ####
+Fei
+"What's with you and
+this 'Lamb' thing?{enter}
+We're both lost in this
+forest, surrounded by
+dangerous monsters...{enter}
+Shouldn't we at least
+be cooperating with
+each other until we
+get out of here?"
+
+#### 18 ####
+Mysterious Woman
+"..."
+
+#### 19 ####
+Fei
+"Good.{wait:14}
+So what's your name?{enter}
+It's going to be hard for
+us to cooperate with one
+another without at least
+knowing each other's names.{enter}
+Anyway, my name is
+Fei Fong Wong.{wait:64}
+You can call me Fei."
+
+#### 20 ####
+Mysterious Woman
+"I'm...Elhaym.
+But my parents
+call me Elly."
+
+#### 21 ####
+Fei
+"'Elly', huh?{wait:14}
+Somehow I already{wait:14}
+'knew'{wait:14} that."
+
+#### 22 ####
+??
+
+#### 23 ####
+Fei
+"Anyway, it's too dangerous
+to travel in these parts
+this late at night...{enter}
+Let's wait till daybreak
+before we continue looking
+for a way out of here...{wait:14}
+If that's okay with you?"
+
+#### 24 ####
+Elly
+"I guess we have
+no choice, do we?"
+
+#### 25 ####
+Fei
+"Okay then Elly...{wait:14}
+How about having
+something to eat."
+

@@ -1,0 +1,440 @@
+#### 1 ####
+Bart
+"Thanks to you, Aveh has
+been taken back from
+Shakhan and Gebler.{enter}
+Thank you.{enter}
+Now, in order to free
+other lands from
+Gebler and Solaris...{enter}
+...we must destroy the
+other two gates and
+bring down Solaris.{enter}
+We've learned from
+Shakhan's notes that the
+gates form the points 
+of a triangle."
+
+#### 2 ####
+One point was the Great
+Mausoleum. {wait:32}
+Two others remain, but we
+only know where one is.
+
+#### 3 ####
+Citan
+"Yes, under the 'Ethos'
+headquarters. However..."
+
+#### 4 ####
+Billy
+"It wasn't there when we
+followed Stone under
+the 'Ethos' headquarters.{enter}
+If it really is there...{wait:1E}
+it must be buried deep
+beneath the earth..."
+
+#### 5 ####
+Rico
+"How are we gonna 
+destroy it then?"
+
+#### 6 ####
+{name:07:¥Á¥å¥Á¥å}
+"By combining
+everyone's
+Gear power."
+
+#### 7 ####
+Rico
+"What are we gonna do 
+with everyone's Gear,{enter}
+dig a giant hole in
+the ground?"
+
+#### 8 ####
+{name:07:¥Á¥å¥Á¥å}
+"What's wrong
+with that?"
+
+#### 9 ####
+Sigurd
+"...it would take years."
+
+#### 10 ####
+Fei
+"What if we used 
+Shevat's cannon..."
+
+#### 11 ####
+Maria
+"If that worked, we would
+have tried it already."
+
+#### 12 ####
+Fei
+"...Oh..."
+
+#### 13 ####
+Citan
+"So it must be something
+more powerful than
+Shevat's cannon."
+
+#### 14 ####
+Elly
+"And we don't have a
+Gebler battleship."
+
+#### 15 ####
+Fei
+"Is there any weapon
+that powerful on earth?"
+
+#### 16 ####
+Citan
+"Gebler battleships and
+Shevat's cannon are the
+most powerful weapons{enter}
+ever produced by man..."
+
+#### 17 ####
+Bart
+"...but...{wait:1E}
+I seem to remember
+seeing something..."
+
+#### 18 ####
+Sigurd
+"What?"
+
+#### 19 ####
+Bart
+"A weapon with firepower
+like those two...{wait:C8}
+Yeah! I got it!{enter}
+Ft. Jasper!
+Her gun can take out
+a mountain!
+What about that?"
+
+#### 20 ####
+Bart
+"Citan, what?"
+
+#### 21 ####
+Citan
+"However powerful the Jasper
+may be, how are we going to
+aim it at the 'Ethos' H.Q.?{enter}
+To damage something that
+deep underground we would
+have to attack it from
+directly above.{enter}
+But the Jasper gun is..."
+
+#### 22 ####
+Sigurd
+"Yes, of course..."
+
+#### 23 ####
+Rico
+"What, are you sayin' we
+should just move Ft.
+Jasper on top of Babel?"
+
+#### 24 ####
+Billy
+"Now that you mention it,
+Babel does overlook their
+headquarters.{enter}
+If we shoot it from there
+it might just possibly be
+able to reach that far
+underground."
+
+#### 25 ####
+Sigurd
+"But how could we move
+Ft. Jasper?"
+
+#### 26 ####
+Elly
+"It's impossible.
+Something that heavy..."
+
+#### 27 ####
+£¡{clear:1E}
+
+#### 28 ####
+Fei
+"Didn't the control room
+in Babel control a
+cannon or something?{enter}
+I think it moved the
+giant mirror outside."
+
+#### 29 ####
+Bart
+"Maria, do you know
+of anything like that?"
+
+#### 30 ####
+Maria
+"I've never heard
+anything about it but..."
+
+#### 31 ####
+Fei
+"But it might be there.
+Let's go check."
+
+#### 32 ####
+Bart
+"Alright..."
+
+#### 33 ####
+£¡{clear:1E}
+
+#### 34 ####
+Citan
+"Wait a moment...{enter}
+A giant mirror and a giant
+cannon both from the same
+ruins?{wait:1E} There might just be
+something in this..."
+
+#### 35 ####
+Bart
+"Like what?"
+
+#### 36 ####
+Citan
+"Ah...{wait:1E}
+I have solved
+the puzzle..."
+
+#### 37 ####
+Sigurd
+"Puzzle, what puzzle?"
+
+#### 38 ####
+Citan
+"The Babel and Jasper
+ruins are from the same
+civilzation.{enter}
+One far more advanced
+than our own...
+Do not the two structures
+seem similar to you?{enter}
+I believe they were both
+built with Gears and a
+powerful foe in mind."
+
+#### 39 ####
+Fei
+"Yeah, I noticed that. 
+But what's it all mean?"
+
+#### 40 ####
+Citan
+"It means, the people
+who built the giant
+mirror at Babel Tower...{enter}
+...knew about the giant
+gun at Jasper!"
+
+#### 41 ####
+Bart
+"And...?{wait:1E}
+What are you
+getting at?"
+
+#### 42 ####
+Citan
+"We can probably assume
+the mirror was built to
+reflect something...{enter}
+That something being a
+beam. A beam shot from
+the Jasper gun!"
+
+#### 43 ####
+Fei
+"Reflect?{wait:1E}
+You mean that mirror can
+reflect a beam attack?"
+
+#### 44 ####
+Citan
+"Yes."
+
+#### 45 ####
+Rico
+"Long ago Babel and
+Jasper must have
+been at war."
+
+#### 46 ####
+Citan
+"Not exactly.{enter}
+The Babel mirror and
+Jasper gun were combined
+to make one weapon."
+
+#### 47 ####
+Rico
+"Whaddya mean?"
+
+#### 48 ####
+Elly
+"But those things are so
+far apart, how could they
+be one weapon?"
+
+#### 49 ####
+Citan
+"Well the gates may be
+far apart, but aren't
+they still one device?"
+
+#### 50 ####
+Elly
+"Yes, I see what
+you mean but..."
+
+#### 51 ####
+Billy
+"What did they use
+that weapon for?"
+
+#### 52 ####
+Citan
+"That, I do not know."
+
+#### 53 ####
+Bart
+"Whatever. The point is
+how do we use the
+two weapons as one?"
+
+#### 54 ####
+Citan
+"Aim the Jasper gun at
+the mirror and fire.{enter}
+The mirror will reflect
+the beam on the gate."
+
+#### 55 ####
+£¡{clear:1E}
+
+#### 56 ####
+Maria
+"Do you think it will
+work?"
+
+#### 57 ####
+Citan
+"Theoretically.
+It will require a few
+minor adjustments..."
+
+#### 58 ####
+Sigurd
+"Adjusting the mirror
+is going to be rather
+difficult and tedious."
+
+#### 59 ####
+Citan
+"If the two weapons are
+one, then it should not
+be too difficult.{enter}
+I hope..."
+
+#### 60 ####
+Rico
+"It sounds dangerous.{enter}
+I think it was meant to
+reflect shots back at
+the enemy.{enter}
+If you're wrong it'll
+come back and hit you."
+
+#### 61 ####
+Citan
+"Yes. That is why it is
+most difficult for the
+gun crew.{enter}
+The mirror must be hit
+precisely."
+
+#### 62 ####
+Citan
+"We will need to divide
+into two teams.
+One will fire the gun...{enter}
+While the other will adjust
+the angle of the mirror to
+ensure the beam hits the
+'Ethos' headquarters.{enter}
+Since this was my idea,
+I will take the dangerous
+part of adjusting the
+mirror."
+
+#### 63 ####
+Sigurd
+"Alright Hyuga, we'll
+let you take care of
+that...{enter}
+...It seems like
+your type of job."
+
+#### 64 ####
+Fei
+"I'll go too.
+Doc might need help."
+
+#### 65 ####
+Elly
+"It might be lonely with
+just Citan and Fei.
+So I had better go too."
+
+#### 66 ####
+Sigurd
+"Alright, you three take
+Babel. Now what about
+the gun?"
+
+#### 67 ####
+Billy
+"I'll do it. Looks like
+my kind of job.{enter}
+Don't worry, I won't
+miss. I haven't been
+using a gun for nothing."
+
+#### 68 ####
+Bart
+"Well, I probably better
+go to the Jasper."
+
+#### 69 ####
+{name:07:¥Á¥å¥Á¥å}
+"Me chu! {name:07:¥Á¥å¥Á¥å} 
+wants to go chu!"
+
+#### 70 ####
+Bart
+"Then it's settled.{enter}
+You go with Citan to aim
+the mirror at the 'Ethos'
+headquarters.{enter}
+We'll aim the Jasper gun
+at the mirror.{wait:32}
+Let's get back to the
+Yggdrasil and get going!"
+

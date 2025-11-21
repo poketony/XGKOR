@@ -1,0 +1,136 @@
+<TextBlock 1 w:50 h:4>
+Ci potrebbero essere delle
+cose che possiamo fare.<New>
+Ma io sono stato un
+soldato per tutta
+la mia vita.<New>
+Finché c'è gente da
+proteggere e ci sono
+nemici da combattere,
+non posso starmene
+seduto a guardare.<Close><End of Block>
+<TextBlock 2 w:54 h:5>
+… È un sistema diverso da
+quelli che gli uomini hanno
+creato fino ad ora.<New>
+In altre parole, dovrebbe
+essere chiamato una macchina
+creata da non-umani.<Opcode 2 60><Close><End of Block>
+<TextBlock 3 w:52 h:4>
+Non è stata creato dagli
+umani. Questo posso capirlo.
+Ma quello che voglio capire,
+per prima cosa, è se è una
+macchina o no.<Opcode 2 60><Close><End of Block>
+<TextBlock 4 w:52 h:5>
+Non importa se sia una
+macchina o una creatura
+vivente. Nulla può essere
+rotto. Il problema è come
+danneggiarlo.<Opcode 2 60><Close><End of Block>
+<TextBlock 5 w:38 h:4>
+Silenzio!<Delay 30> Sorella!<Delay 30>
+La prego di portare
+i bambini da un'altra
+parte.<Close><End of Block>
+<TextBlock 6 w:54 h:4>
+Vuole che i bambini stiano in
+quel corridoio freddissimo!?<Delay 50>
+Questa è la stanza più calda.
+Perché non possono stare qui?<Close><End of Block>
+<TextBlock 7 w:44 h:3>
+Al momento stiamo tenendo un
+dibattito importantissimo.
+Ci stanno disturbando.<Close><End of Block>
+<TextBlock 8 w:52 h:4>
+La prego di non arrabbiarsi
+così tanto.<Delay 50> Io apprezzo
+tanto il fatto che state
+cercando di proteggerci.<New>
+Ma voi sapete che quelle
+persone sono le uniche che
+possono cambiare il nostro
+destino…<Delay 50> dico bene?<Close><End of Block>
+<TextBlock 9 w:54 h:2>
+Davvero, come possiamo
+combattere con un nemico
+come quello lì?<Close><End of Block>
+<TextBlock 10 w:56 h:4>
+Pensi che si limiterà a
+starsene fermo mentre noi
+aduniamo gli eserciti di
+Aveh e di Kislev…?<Close><End of Block>
+<TextBlock 11 w:46 h:2>
+Sono pronto a proteggere
+tutte le persone che si
+trovano in questo posto.<Close><End of Block>
+<TextBlock 12 w:44 h:3>
+Io voglio aiutare la gente.
+Ma l'unica cosa che so fare
+è combattere.<Close><End of Block>
+<TextBlock 13 w:54 h:3>
+Prima ero dubbioso sul fatto
+di combattere, ma non lo sono
+sul fatto di proteggere la
+gente che si trova qui.<Close><End of Block>
+<TextBlock 14 w:50 h:1>
+Se avessimo più armi…<Close><End of Block>
+<TextBlock 15 w:48 h:1>
+Dobbiamo fare tutto
+ciò che è nelle
+nostre possibilità.<Close><End of Block>
+<TextBlock 16 w:52 h:3>
+I bambini sono fastidiosi,
+ma… loro sono il motivo
+per cui io sono qui.<Close><End of Block>
+<TextBlock 17 w:52 h:2>
+I bambini sono sempre gli
+stessi, sia a Kislev, sia
+ad Aveh che a Nisan.<Close><End of Block>
+<TextBlock 18 w:44 h:3>
+Ormai sia noi che voi
+non abbiamo più nulla
+da perdere.<New>
+Fate come volete.<Delay 60>
+Spero che il cielo
+vi aiuti.<Close><End of Block>
+<TextBlock 19 w:50 h:3>
+Ora più che mai mi sento
+come se ogni bambino
+fosse importantissimo.<Close><End of Block>
+<TextBlock 20 w:50 h:4>
+Questa è la prima volta
+che vedo la neve.<New>
+È così chiara e bianca, e
+quando si scioglie nel palmo
+della mia mano, per un attimo
+appare un bellissimo disegno.<New>
+È incredibile…<Close><End of Block>
+<TextBlock 21 w:54 h:1>
+Voglio vedere la mia
+mamma e il mio papà.<Close><End of Block>
+<TextBlock 22 w:36 h:2>
+Che cos'è? Posso
+farlo anch'io?<Close><End of Block>
+<TextBlock 23 w:44 h:2>
+Il suo completo è davvero
+carino, vero?<Close><End of Block>
+<TextBlock 24 w:48 h:3>
+Mia nonna l'ha fatto per
+mia mamma quando lei
+era una bambina.<New>
+Riscalda davvero tanto!<Close><End of Block>
+<TextBlock 25 w:46 h:3>
+Buona fortuna anche a voi.<Delay 30>
+Io…<Delay 10> proteggerò queste 
+persone, non preoccupatevi.<Close><End of Block>
+<TextBlock 26 w:38 h:2>
+Uh…<Delay 30> giocherò
+con la suora.<Delay 30><Close><End of Block>
+<TextBlock 27 w:34 h:3>
+Io sono l'Yggdrasil X!
+Avanti! Prendimi se
+ci riesci!<Opcode 2 60><Close><End of Block>
+<TextBlock 28 w:38 h:2>
+Ehi! Ridammi la
+mia caramella!<Opcode 2 60><Close><End of Block>

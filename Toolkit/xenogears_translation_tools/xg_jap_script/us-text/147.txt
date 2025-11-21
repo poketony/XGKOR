@@ -1,0 +1,215 @@
+#### 1 ####
+Elly
+"This is the Gear's
+start up code.{enter}
+You can start any
+standard Gear with
+this code."
+
+#### 2 ####
+Fei
+"Elly?"
+
+#### 3 ####
+Elly
+"This is all I can do
+for you. The rest is up
+to fate..."
+
+#### 4 ####
+Bart
+"Alright! Let's go, Fei!"
+
+#### 5 ####
+Bart
+"What are you doing?
+Hurry up!"
+
+#### 6 ####
+Fei
+"Elly!
+Come with us!"
+
+#### 7 ####
+Elly
+"!?"
+
+#### 8 ####
+Fei
+"You're not the type
+of person suited to
+a place like this!"
+
+#### 9 ####
+Elly
+"Fei..."
+
+#### 10 ####
+Bart
+"You're just wasting
+time talking!{enter}
+They're coming!
+We're gonna get caught!"
+
+#### 11 ####
+Fei
+"Elly..."
+
+#### 12 ####
+Elly
+"Thanks, but it's
+impossible. I'm...
+a Solaris soldier...{enter}
+This is where I belong.
+I can't go with you."
+
+#### 13 ####
+Fei
+"Elly!"
+
+#### 14 ####
+Elly
+"Fei, the next
+time we meet...{wait:05}
+we'll be enemies."
+
+#### 15 ####
+Commander!!{clear:3C}
+
+#### 16 ####
+Renk
+"What? This little girl's
+our commanding officer?"
+
+#### 17 ####
+Broyer
+"She's said to be
+an elite from out
+of Jugend."
+
+#### 18 ####
+Stratski
+"She returned single-
+handedly from the Kislev
+infiltration operation."
+
+#### 19 ####
+Helmholz
+"And 'empty-handedly' I
+hear! No souvenirs for
+the Commander, huh?"
+
+#### 20 ####
+Renk
+"Yep, what a pretty
+face. She's not the
+soldier type."
+
+#### 21 ####
+Elly
+"You there!
+Is that how you address
+a superior officer?{enter}
+Remember your rank!"
+
+#### 22 ####
+Renk
+"Oh, scary!"
+
+#### 23 ####
+Vance
+"We don't care much for
+rank{wait:05}...{wait:05}and we don't care
+much for Renk either!{enter}
+But just because you're
+beautiful doesn't mean
+you have to be cocky."
+
+#### 24 ####
+Broyer
+"Ha! This jerk's
+just jealous."
+
+#### 25 ####
+Vance
+"What? I'm much prettier!
+How could I be jealous?"
+
+#### 26 ####
+Stratski
+"Hey, shut that perv up!
+He gives me the creeps."
+
+#### 27 ####
+Renk
+"And that's how it is...{wait:0A}
+So don't get in our way,
+'Miss Lieutenant'."
+
+#### 28 ####
+Elly
+"..."{clear:64}
+
+#### 29 ####
+Renk
+"...Anyway, let's just
+get this thing moving.{enter}
+Can't tell what it can
+do just by looking at
+it."
+
+#### 30 ####
+Stratski
+"What kind of machine is
+this? I've never seen it
+before."
+
+#### 31 ####
+Renk
+"It's a new model Gear,
+called {name:0D:ヴィエルジェ}, that's
+for officers' use only.{enter}
+It's said that people
+with normal mental
+power can't operate it."
+
+#### 32 ####
+Stratski
+"So, she's still a
+'Jugend' regardless
+of having no ability?"
+
+#### 33 ####
+Vance
+"Hah, this looks like
+fun. Let's see what
+she can do!"
+
+#### 34 ####
+Ramsus
+"Miang, get my Wyvern
+powered up now!
+I must pursue them..."{clear:C8}
+
+#### 35 ####
+Ramsus
+"Stop the power up!{enter}
+Recall all men back
+to base and wait
+for further orders!"{clear:C8}
+
+#### 36 ####
+Ramsus
+"...That fool.
+What is he doing
+down here now...?"{clear:64}
+
+#### 37 ####
+(Commander...
+I've a message
+from Hyu...){clear:64}
+
+#### 38 ####
+Ramsus
+"...What!?"{clear:3C}
+

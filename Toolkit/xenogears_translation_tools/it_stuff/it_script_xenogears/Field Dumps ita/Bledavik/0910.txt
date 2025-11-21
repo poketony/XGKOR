@@ -1,0 +1,125 @@
+<TextBlock 1 w:12 h:3>
+Margie
+"Bart!
+Guarda!"<Close><End of Block>
+<TextBlock 2 w:16 h:3>
+Bart
+"Merda!
+Geburah!"<Close><End of Block>
+<TextBlock 3 w:50 h:4>
+Ramsus
+"Sembra che qui ci
+siano dei ratti.<New>
+Dove pensi di portare
+quella bambina, ragazzo?"<Close><End of Block>
+<TextBlock 4 w:42 h:4>
+Bart
+"Ragazzo? Ah, ragazzo!?<New>
+Vediamo che succede se
+cerchi di chiamarmi di
+nuovo in quel modo!<New>
+Comunque, tu chi diavolo
+sei?"<Close><End of Block>
+<TextBlock 5 w:46 h:4>
+Ramsus
+"Hai fegato. Ma io non
+ho bisogno di dare il mio
+nome a ratti come te."<Close><End of Block>
+<TextBlock 6 w:14 h:2>
+Bart
+"Che cosa?"<Close><End of Block>
+<TextBlock 7 w:54 h:4>
+Ramsus
+"Ora consegnami la ragazza.
+Lei è una ospite assai
+importante.<New>
+Finché non ci dirà dove si
+trova un certo pezzo del
+Diaspro di Fatima…<New>
+… non possiamo permettere
+che sia portata via."<Close><End of Block>
+<TextBlock 8 w:50 h:4>
+Bart
+"Aspetta un attimo! Ma tu
+pensi che la consegnerò
+solo perché tu dici così?<New>
+Ma vaffanculo, coglione
+di Geburah!"<Close><End of Block>
+<TextBlock 9 w:48 h:4>
+Ramsus
+"Mmh…<New>
+Presuppongo tu sappia
+dove ti porterà un
+linguaggio così
+offensivo e scurrile."<Close><End of Block>
+<TextBlock 10 w:34 h:2>
+Fei
+"Stai bene, Bart?"<Close><End of Block>
+<TextBlock 11 w:46 h:2>
+Bart
+"Felice di
+vederti, Fei!"<Close><End of Block>
+<TextBlock 12 w:12 h:2>
+Ramsus
+"Fei?"<Close><End of Block>
+<TextBlock 13 w:44 h:4>
+Fei
+"Cosa c'è, Bart?<New>
+Pensavo che questo
+fosse un salvataggio
+semplice."<Close><End of Block>
+<TextBlock 14 w:52 h:3>
+Bart
+"Zitto! Questo stronzo
+s'è intromesso e mi
+ha rallentato!"<Close><End of Block>
+<TextBlock 15 w:48 h:4>
+Ramsus
+"(Il modo in cui ha
+attaccato… mi ricorda
+qualcuno dal mio passato…)"<Close><End of Block>
+<TextBlock 16 w:42 h:4>
+Ramsus
+"Basta parlare!
+Combattere rivelerà
+la verità su di te."<Close><End of Block>
+<TextBlock 17 w:36 h:4>
+Bart
+"Attento, Fei!<New>
+Questo stronzo di
+Geburah è abbastanza 
+forte."<Close><End of Block>
+<TextBlock 18 w:12 h:2>
+Fei
+"Ora!"<Opcode 2 30><Close><End of Block>
+<TextBlock 19 w:34 h:4>
+Ramsus
+"(È 'lui'? Oppure sono
+solo io a voler pensare
+che sia così…<New>
+Se si tratta di lui…
+io… io sono…)"<Close><End of Block>
+<TextBlock 20 w:30 h:2>
+… Inutile…
+… Uno scarto…<Space 1><Close><End of Block>
+<TextBlock 21 w:44 h:3>
+Ramsus
+"GUARDIA! Raddoppia le
+unità di entrambe le
+squadre di turno.<New>
+Non fate sì che quei
+ratti tornino qui."<Close><End of Block>
+<TextBlock 22 w:38 h:4>
+Shakhan
+"Apri la porta.
+Il Comandante Ramsus
+è qui per vederla."<Close><End of Block>
+<TextBlock 23 w:40 h:2>
+Shakhan
+"Comandante, prego."<Close><End of Block>
+<TextBlock 24 w:3 h:1>
+!<Opcode 2 20><Close><End of Block>
+<TextBlock 25 w:3 h:1>
+!<Opcode 2 30><Close><End of Block>
+<TextBlock 26 w:22 h:1>
+Nessuna risposta<Close><Close><End of Block>

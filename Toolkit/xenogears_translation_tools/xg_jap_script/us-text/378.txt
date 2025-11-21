@@ -1,0 +1,101 @@
+#### 1 ####
+Maria
+"You can use the map you
+found earlier on this
+floor.{enter}
+It's always good to have
+a map to look at when you
+lose your way, right!?"
+
+#### 2 ####
+Fei
+"Hey, that map we found
+above here... It looks
+like it's for this floor.{enter}
+If we lose our way, we
+can look at that map."
+
+#### 3 ####
+Fei
+"It won't open..."
+
+#### 4 ####
+Elly
+"It doesn't want to open."
+
+#### 5 ####
+Citan
+"It will not open."
+
+#### 6 ####
+Citan
+"It will not open."
+
+#### 7 ####
+Bart
+"Hey!
+This won't open."
+
+#### 8 ####
+Billy
+"Doesn't look like
+it'll open..."
+
+#### 9 ####
+Rico
+"Won't open.."
+
+#### 10 ####
+Emeralda
+"..."
+
+#### 11 ####
+Emeralda
+"..."
+
+#### 12 ####
+Chu-chu
+"Why won'tchu open..."
+
+#### 13 ####
+Maria
+"It won't open.{wait:14}
+It must be locked."
+
+#### 14 ####
+Do you want to go up?
+    Yes
+    No
+
+#### 15 ####
+Big Joe
+"I'm thinking about life...
+so leave me alone."
+
+#### 16 ####
+Big Joe
+"Hm? Looks like that
+door will open now."
+
+#### 17 ####
+Big Joe
+"You opened this door
+especially for Big Joe!
+Much appreciated!"
+
+#### 18 ####
+Big Joe
+"That door just
+won't open...{enter}
+This is no good...
+Even Big Joe here
+has given up!"
+
+#### 19 ####
+Can't receive {str}.
+You have too many.
+
+#### 20 ####
+ 
+Received {str}.
+

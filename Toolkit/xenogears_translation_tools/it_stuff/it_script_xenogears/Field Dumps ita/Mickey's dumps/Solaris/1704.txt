@@ -1,0 +1,54 @@
+<TextBlock 1 w:52 h:3>
+Fei
+"C'è qualcosa scritto
+sul muro…"<Close><End of Block>
+<TextBlock 2 w:34 h:5>
+<Opcode 1 255>Che vuoi sapere?
+    Codice di sblocco
+    Come inserire
+    Specifiche codice
+    Niente<Close><End of Block>
+<TextBlock 3 w:46 h:3>
+Codice di sblocco
+scanner oggetti estranei:
+'0101'<New>
+Codice di sblocco
+Oggetto 1:
+'1001'<New>
+Codice di sblocco
+Oggetto 2:
+'1111'<Close><End of Block>
+<TextBlock 4 w:52 h:2>
+Inserire solo il codice
+della riga superiore.
+Seleziona da 1 a 4.<Close><End of Block>
+<TextBlock 5 w:44 h:3>
+Seleziona 'Fine inserimento'
+per visualizzare i risultati
+del calcolo nella riga
+inferiore.<Close><End of Block>
+<TextBlock 6 w:56 h:4>
+Nell'inserire la fila superiore,
+secondo il valore della fila
+inferiore, il valore della
+fila inferiore è determinato.<Close><End of Block>
+<TextBlock 7 w:42 h:2>
+Luce accesa, 1.
+Luce spenta, 0.<Close><End of Block>
+<TextBlock 8 w:11 h:4>
+0= 0= 1
+1= 1= 0
+1= 0= 0
+0= 1= 0<Close><End of Block>
+<TextBlock 9 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 10 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 11 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 12 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><Close><End of Block>

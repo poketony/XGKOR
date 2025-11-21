@@ -1,0 +1,28 @@
+#### 1 ####
+Billy
+What's going on?{enter}
+Are these guys in black
+gonna kill all of us who
+are with the 'Ethos'?
+
+#### 2 ####
+You're Etone!{enter}
+All that awaits those with
+the 'Ethos'{wait:1E} is death!!
+
+#### 3 ####
+You have too many
+{str}.
+
+#### 4 ####
+ 
+ Received {str}.
+
+#### 5 ####
+You have too many
+{str}.
+
+#### 6 ####
+ 
+ Received {str}.
+

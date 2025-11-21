@@ -1,0 +1,103 @@
+#### 1 ####
+Fei
+"Lahan...I like it.{enter}
+The village leader,
+Chief Lee, has taken
+such good care of me...{enter}
+Everyone in the village
+has warmly accepted
+me..."
+
+#### 2 ####
+Fei
+"Regardless of where I may
+have been born and raised,
+Lahan is now my home."
+
+#### 3 ####
+Fei
+"I don't dislike Lahan.{wait:14}
+The people here are good
+people."
+
+#### 4 ####
+Fei
+"But, someday, I'd really
+like to leave and find my
+true home...{enter}
+To walk upon the land I
+was born on, I want to meet
+those who've known me...{enter}
+I want to know who
+my true self is."
+
+#### 5 ####
+Fei
+"As it is now, it feels
+like there's some kinda
+empty void within me..."
+
+#### 6 ####
+Fei
+"Of course.{wait:14} 
+I'd never forget."
+
+#### 7 ####
+This town may be hidden
+away deep within the
+mountains without anything
+else...{wait:14} But, I still love
+it...Lahan.
+
+#### 8 ####
+Well if it isn't Fei.{wait:14}
+Isn't it exciting to know
+that Timothy's wedding is
+going to be tomorrow?{enter}
+I think it's time you
+found a wonderful girl
+like Alice yourself.
+Hah hah.
+
+#### 9 ####
+By the way, Fei. What
+do you think of Lahan?{wait:14}
+    I like it
+    I don't dislike it...
+
+#### 10 ####
+Ah, yes.{wait:14} It makes me
+happy to just hear that.
+
+#### 11 ####
+Here, take this as an
+allowance.{wait:14} Don't squander
+it all at once.
+
+#### 12 ####
+Received 120G!
+
+#### 13 ####
+That's unfortunate.{wait:14}
+But I'm sure there are
+people out there waiting
+for your return...
+
+#### 14 ####
+If the day comes and
+that happens, think about
+us once in a while and
+remember our village.
+
+#### 15 ####
+But let's forget that
+for now.{wait:0A} That won't come
+along for a while. {enter}
+It's not good for an elder
+like me to be so hasty,
+hah hah.
+
+#### 16 ####
+Too bad.
+It was empty.
+

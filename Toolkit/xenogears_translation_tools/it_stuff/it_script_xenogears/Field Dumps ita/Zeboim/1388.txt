@@ -1,0 +1,86 @@
+<TextBlock 1 w:60 h:11>
+<Opcode 1 255> "Discussione sui Generatori
+    Secondari e sulle loro
+      capacità speciali"<New>
+Degli strani motori, scoperti
+negli edifici sprofondati
+sottoterra nei tempi antichi,
+detti "Subgeneratori" o
+"Generatori Secondari" (da
+questo momento abbreviati in
+"G.S.") sono, come si è poi
+scoperto dopo diversi studi,
+diventati estremamente noti
+per avere le loro uscite di
+potenza divise in tre livelli.<New>
+Tuttavia, è stata accertata
+l'esistenza di una modalità
+superiore che sorpassa di
+gran lunga le altre tre. Per
+motivi di convenienza, la
+chiameremo "Modalità Iper".<New>
+Essa è attivata, secondo una
+certa probabilità, quando
+un G.S. raggiunge il terzo
+livello d'attacco. La
+spiegazione sottostante
+riguarda le varie condizioni
+e probabilità per attivare
+questa modalità, che al
+momento siamo certi esista.<New>
+Partiamo dal presupposto che
+un G.S. sia stato installato
+in una macchina umanoide da
+combattimento (detta "Gear").<New>
+In ogni caso, esiste una
+costante di base che, secondo
+quanto esaminato, pare avere
+come valore 5. La probabilità
+è calcolata moltiplicando
+questa costante per 1/10 della
+percentuale della quantità di
+HP sottratta.<New>
+Ad esempio, se il totale degli
+HP di un Gear è stato ridotto
+del 50%, allora la possibilità
+di attivarla sarà data da
+questo semplice calcolo:
+
+    5 x 50 : 10 = 25 (%)
+
+Dunque, in questo caso, quando
+il Livello d'Attacco raggiunge
+il terzo livello, c'è una
+possibilità del 25% che la
+Modalità Iper venga attivata.<New>
+Inoltre, a parte questo, ci
+sono delle varianti, che sono
+unite al valore di base, a
+seconda dell'utilizzo di ogni
+attacco, dal Livello 1 al 3.<New>
+In altre parole, le
+possibilità di attivare
+la Modalità Iper aumentano
+più il Gear attacca e più
+il Gear è attaccato.<New>
+La Modalità Iper del G.S.,
+provocata dalle succitate
+probabilità, può emettere una
+quantità incommensurabile di
+energia, dunque da questo
+aspetto può apparire ideale
+per l'utilizzo come motore
+di base per una macchina
+da combattimento.<New>
+Tuttavia, nella realtà
+non si è ancora arrivati
+all'utilizzo di questo
+livello di potenza nelle
+battaglie vere a proprie,
+a causa di svariati motivi,
+come l'imprevedibilità
+dell'attivazione ed il fatto
+che non esiste nessun Telaio
+per Gear che sia abbastanza
+resistente da sopportare
+queste emissioni d'energia." <Close><Close><End of Block>

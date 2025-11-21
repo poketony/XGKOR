@@ -1,0 +1,70 @@
+#### 1 ####
+Do you think women
+are weaker than men?
+    I think so
+    Not really
+
+#### 2 ####
+What? Don't you under-
+estimate desert women!
+
+#### 3 ####
+You're just saying
+that to impress me.
+
+#### 4 ####
+Aren't you nervous?
+I've had to pee a couple
+times already.{enter}
+I have to go again. {wait:32}
+...again.
+
+#### 5 ####
+I am strong...
+I am strong...
+I am strong...
+
+#### 6 ####
+Do you know my name?
+    Yes I do
+    Nope
+
+#### 7 ####
+That's right...
+I am the one and
+only...'Big Joe'!
+
+#### 8 ####
+What, you don't 
+remember? I am...{wait:32}
+Big Joe!{enter}
+The man who
+controls 
+the world.
+
+#### 9 ####
+Big Joe
+"Hey, boy.
+Do you know the
+secret of strength? {enter}
+It's...{wait:1E}
+Gratitude to all your
+fans. Their love gives
+me strength."
+
+#### 10 ####
+Hey, boy. Do you have
+anyone cheering for you?
+    Yes
+    No
+
+#### 11 ####
+Big Joe
+"OK, don't forget 
+to thank them."
+
+#### 12 ####
+Big Joe
+"Oh boy. Life is too 
+long to walk alone."
+

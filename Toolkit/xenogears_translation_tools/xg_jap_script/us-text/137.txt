@@ -1,0 +1,142 @@
+#### 1 ####
+Margie
+"Bart!
+Look!"
+
+#### 2 ####
+Bart
+"Crap!
+Gebler!"
+
+#### 3 ####
+Ramsus
+"Looks like we have rats.
+Where do you plan on
+taking that girl, boy?"
+
+#### 4 ####
+Bart
+"Boy? Hah, boy!?!{enter}
+Let's see you try and
+call me that again!
+Who the hell are you
+anyway?"
+
+#### 5 ####
+Ramsus
+"You do have spunk. But
+I don't need to give my
+name to rats like you."
+
+#### 6 ####
+Bart
+"What?"
+
+#### 7 ####
+Ramsus
+"Now hand over the girl.
+She is a very important
+guest.{enter}
+Until she tells us where a
+certain piece of the Fatima
+Jasper is, we can't allow
+her to be taken away."
+
+#### 8 ####
+Bart
+"Gimme a break! You think
+I'm gonna hand her over
+just 'cause you say to?{enter}
+Pull your head out, you
+Gebler geek!"
+
+#### 9 ####
+Ramsus
+"Hmm. I assume you know
+where such abusive
+language will lead you."
+
+#### 10 ####
+Fei
+"You okay, Bart?"
+
+#### 11 ####
+Bart
+"Glad you're here Fei!"
+
+#### 12 ####
+Ramsus
+"Fei?"
+
+#### 13 ####
+Fei
+"What's wrong, Bart?
+I thought this was
+just a simple rescue."
+
+#### 14 ####
+Bart
+"Shut up! This jerk butted
+in and slowed me down!"
+
+#### 15 ####
+Ramsus
+(The way he attacked...
+It reminds me of someone
+from my past...)
+
+#### 16 ####
+Ramsus
+"Enough talk!
+Battling will reveal
+the truth about you."
+
+#### 17 ####
+Bart
+"Careful Fei!
+This Gebler jerk's
+pretty strong."
+
+#### 18 ####
+Fei
+"Now!"{clear:1E}
+
+#### 19 ####
+Ramsus
+(Is it 'him'?
+Or do I only want
+to think so...{enter}
+If it is 'him'...
+I...
+I am...)
+
+#### 20 ####
+...Worthless...
+...A reject...
+
+#### 21 ####
+Ramsus
+"GUARD! Double the
+guards on both shifts.{enter}
+Don't let those rats
+in here again."
+
+#### 22 ####
+Shakhan
+"Open the door.
+Commander Ramsus is
+here to see her."
+
+#### 23 ####
+Shakhan
+"Commander, please."
+
+#### 24 ####
+£¡{clear:14}
+
+#### 25 ####
+£¡{clear:1E}
+
+#### 26 ####
+No response
+

@@ -1,0 +1,1100 @@
+<TextBlock 1 w:54 h:4>
+Maison
+"… Sob… sob…
+Oh, a pensare che
+Margherita ora è tornata…<New>
+A rifletterci, questa è
+la seconda volta che
+siamo dovuti fuggire
+dalla Capitale Reale.<New>
+Ormai sembra tantissimo
+tempo fa… Quella notte
+nella quale li presi
+con me per scappare…"<Close><End of Block>
+<TextBlock 2 w:54 h:4>
+Bart
+"Sì…<New>
+E inoltre Maison fu
+abbastanza coraggioso
+da rubare questa nave
+durante la fuga.<New>
+Sai che questa era la
+nave ammiraglia del
+Regno?"<Close><End of Block>
+<TextBlock 3 w:54 h:4>
+Maison
+"Sì, fu tutta opera di
+Sigurd.<Delay 10><New>
+Quale coraggio, anche
+ad una così giovane
+età!<New>
+Comunque, l'Yggdrasil può 
+essere considerato un
+ricordo dell'ultimo re
+per il Padroncino."<Close><End of Block>
+<TextBlock 4 w:54 h:3>
+Bart
+"Sembra quasi come se
+tu debba starmi attaccato
+per tutta la vita.<New>
+Anche se eri il mio
+cavaliere personale, no?
+Ora sono solo un giovane
+pirata!"<Close><End of Block>
+<TextBlock 5 w:48 h:3>
+Maison
+"Ma, infine, diventerete
+uno splendido signore."<Close><End of Block>
+<TextBlock 6 w:42 h:4>
+Bart
+"Devo sbrigarmi e
+crescere, o non sarò
+mai fiero di me.<New>
+E non potrò
+sconfiggerlo!"<Close><End of Block>
+<TextBlock 7 w:12 h:2>
+Maison
+"…"<Close><End of Block>
+<TextBlock 8 w:42 h:3>
+Maison
+"Oh, non volete
+riposare un po'?"<Close><End of Block>
+<TextBlock 9 w:46 h:3>
+Maison
+"Sembra che il momento
+decisivo stia arrivando…<New>
+Se necessario, anche il
+vecchio Maison prenderà
+le armi e verrà in vostro
+aiuto!!"<Close><End of Block>
+<TextBlock 10 w:54 h:4>
+Maison
+"Potremmo non poter venire
+con voi, ma pregheremo per
+la vostra salvezza."<Close><End of Block>
+<TextBlock 11 w:46 h:4>
+Maison
+"…
+Non devo ripensare a
+ciò di cui mi dolgo!"<Close><End of Block>
+<TextBlock 12 w:42 h:3>
+Maison
+"Perdinci! Questo posto
+non è forse diventato
+vivace?"<Close><End of Block>
+<TextBlock 13 w:44 h:2>
+Maison
+"Adesso, siate
+molto cauti…"<Close><End of Block>
+<TextBlock 14 w:32 h:4>
+Maison
+"Padron Billy sta
+aspettandovi laggiù…"<Close><End of Block>
+<TextBlock 15 w:48 h:4>
+Maison
+"Un'atmosfera matura ma
+anche moderna… Questo è
+quello che vi offro…<New>
+La vita di un barista non
+è così male, sapete!"<Close><End of Block>
+<TextBlock 16 w:52 h:4>
+Maison
+"Per gente barbara come
+noi ricevere una tale
+benevolenza…<New>
+Parola mia… dio è così
+indulgente…"<Close><End of Block>
+<TextBlock 17 w:52 h:3>
+Maison
+"Signorina Elly… e
+poi il Padron Fei…<New>
+Perché continuiamo
+ad avere disgrazie
+come queste?"<Close><End of Block>
+<TextBlock 18 w:36 h:4>
+Maison
+"Signorina Elly…<Delay 10>
+Che razza di sortilegio
+è stato usato su di lei?"<Close><End of Block>
+<TextBlock 19 w:42 h:3>
+Maison
+"P… Padroncino!<Delay 10>
+L'ho sentito ora!<New>
+Alleanza internazionale
+con il Tammuz!?<Delay 10>
+Davvero…"<Close><End of Block>
+<TextBlock 20 w:44 h:3>
+(… Sob… sob…<Delay 10>
+Gli sforzi di questo
+vecchio non sono stati
+tutti vani!)<Close><End of Block>
+<TextBlock 21 w:52 h:4>
+Maison
+"Non ho idea di dove
+siamo.<Delay 10> Non è sulla
+mappa, per di più…"<Close><End of Block>
+<TextBlock 22 w:42 h:4>
+Maison
+"Oh! Dottor Uzuki.<Delay 10>
+Mi spiace darvi
+tanto fastidio…<New>
+Avremmo dovuto fermare
+il Padroncino…<Delay 10>
+Sono terribilmente
+dispiaciuto!"<Close><End of Block>
+<TextBlock 23 w:44 h:4>
+(Uh<Delay 5>… uh<Delay 5>… uh…<Delay 5>…<Delay 5>!<Delay 10>
+La mia lombaggine cronica è
+peggiorata da quando mi sono
+dato da fare ad Aveh…)<Close><End of Block>
+<TextBlock 24 w:54 h:4>
+Maison
+"Finalmente domani
+ci dirigeremo a
+Bledavik…<New>
+Benché sia il principe,
+il nostro Padroncino
+non conosce molto bene
+la Capitale Reale<Delay 5>…<New>
+Ho sempre pensato che
+fosse un vero peccato.<New>
+Ma, nonostante ciò,
+ho fatto del mio meglio
+per crescerlo come il
+Principe Ereditario.<New>
+Tuttavia, ripensandoci,
+potrei averlo sottoposto
+eccessivamente agli
+'oneri della regalità'…<New>
+Per giunta, quando era
+ancora molto giovane…<New>
+E potrebbe essere stato
+troppo per un bambino
+con un tale futuro da
+affrontare<Delay 5>…<New>
+Devo essere il peggior
+sorvegliante di tutti
+i tempi!"<Close><End of Block>
+<TextBlock 25 w:50 h:4>
+Shitan
+"Mio caro Lord Maison…<Delay 10>
+Penso a stento che quello
+che dite sia giusto!<New>
+Il nostro giovane avrebbe
+abbandonato il pesante
+fardello, se non avesse
+voluto più reggerlo!<New>
+Ma ora è un uomo…
+di gran lunga capace di
+sostenere ogni onere e
+pressione di questo tipo.<New>
+Inoltre, io credo che
+siate stati voi quelli ad
+avergli dato la forza di
+agire così."<Close><End of Block>
+<TextBlock 26 w:32 h:3>
+Maison
+"Oh, mio buon
+Dottor Uzuki…"<Close><End of Block>
+<TextBlock 27 w:52 h:3>
+Maison
+"Dirigiamoci verso Aveh.<Delay 10>
+A salvare la Signorina
+Margherita!!"<Close><End of Block>
+<TextBlock 28 w:52 h:4>
+Maison
+"Spero che non siate
+troppo sconcertati<Delay 5>…<Delay 5>?<New>
+Recentemente, ci sono
+davvero troppi barbari<Delay 10>…<Delay 5><New>
+Intendo…<Delay 5> giovanotti
+assai attivi, attorno
+al Padroncino.<New>
+Perciò il sottoscritto,<Delay 15> il
+quale è responsabile della
+sua educazione<Delay 15>…<New>
+… ha chiesto di farsi
+creare questa camera!!"<Close><End of Block>
+<TextBlock 29 w:44 h:3>
+"(Ma a causa di ciò,
+ho finito col dover
+fare un secondo lavoro…)"<Close><End of Block>
+<TextBlock 30 w:52 h:4>
+"Come posso esservi d'aiuto?"
+<Opcode 1 255>    Oggetti
+    Armi/Accessori
+    Adesso nulla, grazie<Close><End of Block>
+<TextBlock 31 w:52 h:4>
+"Come posso esservi utile?"
+<Opcode 1 255>    Oggetti
+    Armi/Accessori
+    Adesso nulla, grazie<Close><End of Block>
+<TextBlock 32 w:52 h:4>
+"Come posso esservi utile?"
+<Opcode 1 255>    Oggetti
+    Armi/Accessori
+    Nulla per adesso, grazie<Close><End of Block>
+<TextBlock 33 w:40 h:3>
+Maison
+"Spero di poter
+offrirvi ancora
+un tal servigio!"<Close><End of Block>
+<TextBlock 34 w:56 h:22>
+Maison
+"<Opcode 1 2>Oh, Padroncino…!
+Se il Padroncino non verrà
+più di frequente qui per
+ricevere un'educazione
+adatta ad un principe,
+allora il vecchio Maison,
+che è il responsabile
+della sua educazione,
+disonorerà la memoria di
+Re Edbart IV (dio lo
+benedica!)…
+È tipico del Padroncino
+non ascoltarmi neanche!
+Il re era una persona
+pacifica e generosissima…
+Invece, non solo il
+Padroncino dà il suo nome
+ad un missile, ma arriva
+anche a far fuoco su un
+aeroplano sconosciuto con
+quel missile.
+A peggiorare le cose, il
+suo buon amico Fei ed i
+suoi compagni erano a
+bordo di quel velivolo…"<Close><End of Block>
+<TextBlock 35 w:54 h:4>
+Maison
+"Comunque, lei si deve
+scusare con il Dottor
+Uzuki e col suo amico…<New>
+… il Padron Rico, giusto!?<New>
+Essi si stavano dirigendo
+verso l'Hangar dei Gear…"<Close><End of Block>
+<TextBlock 36 w:52 h:4>
+Shitan
+"Sono sicuro che Elly
+sia viva e stia bene<Delay 10>…<New>
+Dobbiamo solo continuare
+a crederlo…!"<Close><End of Block>
+<TextBlock 37 w:44 h:3>
+Shitan
+"Sarei più che felice
+di venire con voi!!"<Close><End of Block>
+<TextBlock 38 w:40 h:3>
+Shitan
+"Adesso nessuno può
+fermare il nostro
+vecchio amico…!"<Close><End of Block>
+<TextBlock 39 w:44 h:3>
+Shitan
+"Sarei più che felice
+di venire con voi!!"<Close><End of Block>
+<TextBlock 40 w:52 h:4>
+Shitan
+"Giovane,<Delay 10> vedo che stai
+facendo progressi col
+capitano del Tammuz.<New>
+Immagino che fosse
+prevedibile.<Delay 10> È un uomo di
+mare, il tipo di persona
+che sei solito ammirare…"<Close><End of Block>
+<TextBlock 41 w:48 h:4>
+Sigurd
+"…<Delay 10>
+Oh, sì… Per voi è ora
+di partire, giusto.<New>
+Mi spiace, vecchio mio,
+ma ho un lavoro che
+devo fare…"<Close><End of Block>
+<TextBlock 42 w:54 h:4>
+Jessie
+"Oddio, di già…<Delay 10>?<New>
+Beh… allora, prima di
+andare facciamo come al
+solito…<New>
+Lo sapete…<Delay 5> lo 'spalma la
+tua faccia sul tuo stomaco
+e gira su te stesso'…?<Delay 5>
+Noi tre insieme!"<Close><End of Block>
+<TextBlock 43 w:46 h:4>
+Shitan
+"!!<Delay 10>
+Beh, veramente, siamo
+di fretta, perciò… ehm…<Space 1><New>
+Ne discuteremo qualche
+altra volta…"<Close><End of Block>
+<TextBlock 44 w:46 h:4>
+Jessie
+"Oh? È così?<Delay 10>
+Beh, allora anch'io
+dovrei andarmene, eh!"<Close><End of Block>
+<TextBlock 45 w:44 h:3>
+Shitan
+"Anch'io voglio
+chiederti una cosa…<New>
+Perciò, quando avremo
+ancora altro tempo,
+rivediamoci…!"<Close><End of Block>
+<TextBlock 46 w:42 h:4>
+Jessie
+"Già.<Delay 10> Spero di campare
+abbastanza da averne
+l'opportunità…"<Close><End of Block>
+<TextBlock 47 w:10 h:2>
+Shitan
+"…"<Close><End of Block>
+<TextBlock 48 w:16 h:1>
+CRASH!!!<Opcode 2 15><Close><End of Block>
+<TextBlock 49 w:28 h:3>
+Elly
+"AAAAAAHHHHH!!<Delay 10>
+Sigurd si è…!"<Close><End of Block>
+<TextBlock 50 w:44 h:4>
+Shitan
+"Ancora!?<Delay 10>
+Sigurd si ubriaca
+così facilmente…!<New>
+Beh… non ci voleva!
+Non possiamo partire
+oggi,<Delay 10> forse domani…"<Close><End of Block>
+<TextBlock 51 w:12 h:2>
+Sigurd
+"…"<Close><End of Block>
+<TextBlock 52 w:52 h:4>
+Jessie
+"Le parole chiave sono
+Nicola,<Delay 10> Maria,<Delay 10> un Gear
+enorme<Delay 10>…<Delay 5> eh!?"<Close><End of Block>
+<TextBlock 53 w:52 h:4>
+Jessie
+"Ah…!<Delay 10><New>
+Serve a dimostrare che il
+ragazzo ha sempre bisogno
+che i suoi genitori gli
+stiano attorno!"<Close><End of Block>
+<TextBlock 54 w:52 h:4>
+Jessie
+"Ah, ah, ah!!
+Era molto tempo che
+non alzavo il gomito!<New>
+E questo perché quello
+stronzo di mio figlio
+non mi permette di bere…<Delay 10>!<New>
+Compare… il bar che hai
+qui è stupendo!"<Close><End of Block>
+<TextBlock 55 w:26 h:4>
+Maison
+"Davvero… ehm,
+la ringrazio,
+mio buon uomo."<Close><End of Block>
+<TextBlock 56 w:54 h:4>
+Jessie
+"Questo vecchio è un
+grande…<Delay 10> come il suo
+liquore!<Delay 10><New>
+Mi piace!! Ah, ah, ah!"<Close><End of Block>
+<TextBlock 57 w:24 h:1>
+Ah, ah, ah!<Opcode 2 10><Close><End of Block>
+<TextBlock 58 w:24 h:1>
+Ah, ah, ah!<Opcode 2 10><Close><End of Block>
+<TextBlock 59 w:54 h:4>
+Agente di Shevat
+"In origine, Shevat era
+una città situata sulla
+cima della 'Torre di
+Babele'…<New>
+Dicono che sulla cima 
+della torre ci fosse un
+impianto di comunicazione
+per contattare quella che
+ora è Shevat.<New>
+Se solo esistesse ancora
+e fosse operativo…"<Close><End of Block>
+<TextBlock 60 w:48 h:3>
+Uff! Non devo più
+ascoltare le urla del
+vecchio… non più.<Close><End of Block>
+<TextBlock 61 w:50 h:3>
+Le riparazioni
+del motore sono
+finalmente terminate.<New>
+Perché non scendi le scale
+a dare uno sguardo al
+nostro bellissimo motore?<Close><End of Block>
+<TextBlock 62 w:50 h:4>
+Billy
+"È stato un lungo viaggio…<Delay 10>
+Ma ciò che abbiamo fatto
+non è stato invano.<New>
+Adesso dimostriamolo!"<Close><End of Block>
+<TextBlock 63 w:48 h:4>
+Billy
+"Voglio viaggiare con
+voi e scoprire la
+verità su questo mondo!<New>
+Potete sempre contare
+sul mio aiuto!"<Close><End of Block>
+<TextBlock 64 w:52 h:4>
+Sigurd
+"…<Delay 10>
+Ora capisco perché sei
+disceso alla superficie…<New>
+Bene, ti capisco.<New>
+Ma… che Kahran Ramsus
+assuma il potere su Aveh
+è una cosa alquanto
+fastidiosa."<Close><End of Block>
+<TextBlock 65 w:38 h:4>
+Shitan
+"La nostra patria
+potrebbe aver avuto
+delle buone ragioni."<Close><End of Block>
+<TextBlock 66 w:22 h:3>
+Sigurd
+"Sì…<Delay 10>
+ovviamente."<Close><End of Block>
+<TextBlock 67 w:54 h:4>
+Shitan
+"Ma, forse, vi è ancora
+una possibilità di
+successo…<New>
+Tu ed io, che solevamo
+essere chiamati 'Elementi'
+a Jugend, l'accademia
+militare del comandante…<New>
+… siamo entrambi qui!"<Close><End of Block>
+<TextBlock 68 w:46 h:2>
+Sigurd
+"Spero tu abbia
+ragione…"<Close><End of Block>
+<TextBlock 69 w:34 h:3>
+Shitan
+"A proposito, 
+lei è ancora…?"<Close><End of Block>
+<TextBlock 70 w:52 h:4>
+Sigurd
+"Secondo Fei, a fianco
+di Kahr c'era una
+aiutante donna…<New>
+Ed ha affermato che lei
+avesse occhi e capelli
+color blu indaco.<Delay 5>
+…<New>
+Perciò… deve
+trattarsi di lei…"<Close><End of Block>
+<TextBlock 71 w:52 h:4>
+Shitan
+"Dunque…<New>
+Adesso tutti i vecchi
+Elementi si trovano
+sulla superficie del
+mondo…"<Close><End of Block>
+<TextBlock 72 w:30 h:2>
+Sigurd
+"Immagino
+sia così…"<Close><End of Block>
+<TextBlock 73 w:50 h:4>
+Sigurd
+"Hyuga<Delay 5>…<Delay 10>
+Ad essere onesto con te<Delay 5>…<Delay 5>
+lei mi spaventa.<New>
+Aiuta Kahr ed è cordiale
+con chiunque, lo so
+molto bene.<New>
+Ma, a volte, percepisco
+uno strano timore verso
+di lei.<New>
+Ciò mi preoccupa ben più
+della presenza di Kahr
+su questa terra."<Close><End of Block>
+<TextBlock 74 w:46 h:3>
+Shitan
+"Non può essere
+vero…
+Non in lei…"<Close><End of Block>
+<TextBlock 75 w:52 h:3>
+Sigurd
+"Sì, neanche io voglio
+crederci…<New>
+Ma non ricordi come
+potevo sempre percepire
+queste cose con grande
+precisione?"<Close><End of Block>
+<TextBlock 76 w:20 h:2>
+Shitan
+"Giusto…"<Close><End of Block>
+<TextBlock 77 w:52 h:3>
+Shitan
+"A proposito, lo hai
+già detto al giovane…?"<Close><End of Block>
+<TextBlock 78 w:52 h:4>
+Sigurd
+"No, non ancora.<New>
+Non voglio si preoccupi
+finché non sapremo con
+certezza quali siano
+gli obiettivi di Solaris.<New>
+Tuttavia, alla fine
+dovrò dirglielo…<Delay 10><New>
+A ogni modo, Hyuga, hai
+ottenuto qualche
+informazione?"<Close><End of Block>
+<TextBlock 79 w:54 h:4>
+Shitan
+"Non proprio…<Delay 10><New>
+Sono partito da lì prima
+di andare nella sezione
+centrale…"<Close><End of Block>
+<TextBlock 80 w:14 h:1>
+(Fei!!)<Opcode 2 30><Close><End of Block>
+<TextBlock 81 w:40 h:3>
+Fei
+"(Oh, sei tu, Bart!?<Delay 10>
+Non spaventarmi…!)"<Close><End of Block>
+<TextBlock 82 w:54 h:4>
+Bart
+"(Scusa amico.<New>
+Sembra che Sig ed il tuo
+amico dottore si conoscano
+dannatamente bene…<New>
+Sig<Delay 5>…<Delay 5>
+Merda, pensavo di sapere
+tutto su quel tipo!)"<Close><End of Block>
+<TextBlock 83 w:52 h:2>
+Fei
+"(Quand'è tornato Doc…?)"<Close><End of Block>
+<TextBlock 84 w:50 h:4>
+Jessie
+"Capisco<Delay 10>…
+Questo è il luogo dove
+desideravi tanto tornare?"<Close><End of Block>
+<TextBlock 85 w:28 h:2>
+Sigurd
+"Beh, sì…"<Close><End of Block>
+<TextBlock 86 w:38 h:3>
+Jessie
+"Dopo che te ne
+andasti, Billy
+pianse molto."<Close><End of Block>
+<TextBlock 87 w:22 h:3>
+Sigurd
+"…<Delay 10>
+Mi spiace."<Close><End of Block>
+<TextBlock 88 w:54 h:4>
+Shitan
+"Quando abbandonasti
+Solaris, accadde la 
+stessa cosa.<Delay 10><New>
+Kahr allora ne
+rimase sconvolto."<Close><End of Block>
+<TextBlock 89 w:34 h:3>
+Sigurd
+"Non avevo
+l'intenzione
+di tradirlo…"<Close><End of Block>
+<TextBlock 90 w:40 h:4>
+Shitan
+"La sua misantropia
+a causa di ciò è
+addirittura peggiorata."<Close><End of Block>
+<TextBlock 91 w:44 h:3>
+Shitan
+"Adesso, amici miei,
+basta parlare dei
+vecchi tempi.<New>
+Non mi sarei aspettato
+di trovarvi a perder
+tempo in questa terra…"<Close><End of Block>
+<TextBlock 92 w:18 h:1>
+A tutti noi!<Close><End of Block>
+<TextBlock 93 w:48 h:3>
+Billy
+"Buondì.<New>
+Mi dicevano che stavate
+ancora dormendo, ma ho
+preferito non aspettare
+e sono entrato."<Close><End of Block>
+<TextBlock 94 w:48 h:3>
+Bart
+"Sei equipaggiato alla
+leggera. Sicuro che sia
+sufficiente?<Close><End of Block>
+<TextBlock 95 w:48 h:3>
+Rico
+"Sei equipaggiato alla
+leggera. Sicuro che sia
+sufficiente?<Close><End of Block>
+<TextBlock 96 w:48 h:4>
+Billy
+"Noi Redentori abbiamo
+un equipaggiamento
+piuttosto singolare.<New>
+Poiché lavoreremo
+insieme, lasciatemi
+spiegare come funziona
+la cosa."<Close><End of Block>
+<TextBlock 97 w:56 h:4>
+Billy
+"Innanzitutto, il mio
+equipaggiamento di base
+sono le armi da fuoco.<New>
+Ce ne sono tre tipi…<New>
+'Pistola',<Delay 10>
+'Pistola-Eterea'<Delay 10>
+e 'Fucile'.<New>
+La pistola è l'unica che
+può essere sostituita da
+altre versioni dello
+stesso tipo di arma.<New>
+Ho creato io, invece, gli
+altri due tipi di pistole…<New>
+… perciò non esistono
+altri modelli con cui
+sostituirle.<New>
+Puoi potenziare l'attacco
+di una pistola cambiando
+le sue 'munizioni', o
+'proiettili'…<New>
+… con delle versioni
+più potenti!<New>
+Per caricare le munizioni,
+premi Destra o Sinistra
+nello Schermo del Menu
+Equipaggiamento.<New>
+Ciò farà apparire una
+sottofinestra al posto
+di quella principale
+dell'Equipaggiamento.<New>
+Qui potrai scegliere
+le munizioni.<New>
+Si deve stare attenti ad
+una cosa: ogni pistola ha
+un numero di proiettili
+limitato.<New>
+Per poter utilizzare con
+successo le munizioni,
+si deve sempre averle in
+gran quantità…<New>
+… e ricaricarle
+frequentemente!<New>
+Ma, ora che ho detto
+questo, tieni in mente
+che le Pistole-Eteree…<New>
+… non hanno una
+tale limitazione<Delay 20>…<New>
+Beh, ho finito…<New>
+Mi hai capito?
+    <Opcode 1 255>Sì
+    No, rispiegamelo<Delay 10><Close><End of Block>
+<TextBlock 98 w:54 h:4>
+Bart
+"Grosso modo ho capito.
+Ma è un po' complicato,
+non è vero?"<Close><End of Block>
+<TextBlock 99 w:44 h:3>
+Rico
+"… Capisco.<Delay 10>
+È molto particolare…"<Close><End of Block>
+<TextBlock 100 w:46 h:4>
+Billy
+"…<Delay 5> Questa quassù è un'arma
+davvero ottima.<Delay 10><New>
+Sono sicuro che abbia
+una storia importante."<Close><End of Block>
+<TextBlock 101 w:54 h:3>
+Bart
+"Certo!<New>
+È la famosa carabina
+'Machiganater', tramandata
+nella famiglia di Fatima."<Close><End of Block>
+<TextBlock 102 w:52 h:4>
+Billy
+"Quale spreco<Delay 10>…<New>
+È troppo buona per uno
+come te, che brandisce
+una semplice frusta…"<Close><End of Block>
+<TextBlock 103 w:38 h:4>
+Bart
+"Ehi…<Delay 10>!<New>
+Perché tutto ad un
+tratto sei così
+acido con me!?"<Close><End of Block>
+<TextBlock 104 w:52 h:4>
+Billy
+"Oh, scusa…<Delay 10> È solo che…<Delay 10>
+Non pensavo che le armi da
+fuoco ti interessassero."<Close><End of Block>
+<TextBlock 105 w:48 h:3>
+Elly
+"Beh, comunque…<Delay 10>
+Billy…<New>
+Mi piacerebbe sapere
+perché sei diventato
+un Redentore…"<Close><End of Block>
+<TextBlock 106 w:46 h:2>
+Bart
+"(Non m'interessa…)"<Opcode 2 30><Close><End of Block>
+<TextBlock 107 w:52 h:4>
+Billy
+"…
+Mmh, capisco…<New>
+I Redentori aiutano gli
+stranieri, per questo
+immaginavo che vi
+sareste incuriositi…"<Close><End of Block>
+<TextBlock 108 w:54 h:4>
+Elly
+"No, non intendevo questo<Delay 10>…<New>
+Personalmente sono curiosa
+di sapere quali siano i
+tuoi obiettivi.<New>
+Non so…
+Non mi sarei proprio
+aspettata che tu fossi
+un Redentore…"<Close><End of Block>
+<TextBlock 109 w:6 h:1>
+…<Close><End of Block>
+<TextBlock 110 w:50 h:4>
+Billy
+"Capisco…<New>
+Beh, siccome il nostro
+lavoro è piuttosto
+insolito…<New>
+… vi parlerò anche di
+quello, mentre spiego…"<Close><End of Block>
+<TextBlock 111 w:38 h:4>
+Bart
+"…<Delay 10>
+Sembra che siamo
+già arrivati…"<Close><End of Block>
+<TextBlock 112 w:32 h:4>
+Shitan
+"…<Delay 10>
+Sembra che siamo
+arrivati…"<Close><End of Block>
+<TextBlock 113 w:52 h:4>
+Billy
+"Come può essere…?<Delay 10>
+La nave da trasporto è
+attaccata dai Mietitori…"<Close><End of Block>
+<TextBlock 114 w:6 h:1>
+…<Close><End of Block>
+<TextBlock 115 w:6 h:1>
+…<Close><End of Block>
+<TextBlock 116 w:42 h:2>
+Billy
+"Qualcuno può
+aiutarci?"<Close><End of Block>
+<TextBlock 117 w:54 h:5>
+Billy
+"Ah!
+Vi sembrerà patetico,
+ma…<New>
+Arrivai quasi al punto di
+prostituirmi per mantenere
+Prim…<New>
+… visto che per molto
+tempo non avevamo altro
+che noi stessi…<New>
+Malgrado ciò, Prim
+continua a preferire
+il padre che non ha
+mai conosciuto…<New>
+Quello che apparve fuori
+dal nulla all'improvviso…"<Close><End of Block>
+<TextBlock 118 w:52 h:4>
+Bart
+"Quasi a prostituirti!?
+Non lo sai, ragazzo…!?<New>
+Ci sono cose che puoi
+riottenere dopo averle
+vendute, e cose che
+non puoi riavere!<New>
+Non riuscivi a
+capirlo!?"<Close><End of Block>
+<TextBlock 119 w:52 h:4>
+Billy
+"Ovviamente ho rifiutato.<Delay 10>
+Ma dicevano che avrei
+avuto 3000G a notte…"<Close><End of Block>
+<TextBlock 120 w:54 h:4>
+Bart
+"Stupido!<Delay 10> Ascolta<Delay 10>…<New>
+La prossima volta che a
+te e a tua sorella serve
+aiuto, venite sulla mia
+nave.<New>
+Siamo autosufficienti,
+perciò almeno non ti devi
+preoccupare di trovare
+cibo ed un letto caldo!<New>
+Ora, non dire<Delay 5> mai<Delay 5> più
+'prostituirmi' davanti
+a me…!<Delay 10>
+Hai capito!?"<Close><End of Block>
+<TextBlock 121 w:42 h:4>
+Billy
+"È possibile…?<Delay 10>
+Forse, dopotutto, sei
+una brava persona…?"<Close><End of Block>
+<TextBlock 122 w:38 h:4>
+Bart
+"Perché non lo
+ammetti e mi dici
+'grazie'??<Delay 10> Bah!"<Close><End of Block>
+<TextBlock 123 w:54 h:4>
+Billy
+"Uhmm…<Delay 20> beh…<Delay 10> non ti sei
+ancora preso cura di noi,<Delay 10>
+perciò non lo dirò!"<Close><End of Block>
+<TextBlock 124 w:42 h:1>
+Bart
+"Che cosa simpatica,
+ragazzo, DAVVERO
+simpatica!"<Close><End of Block>
+<TextBlock 125 w:42 h:2>
+Elly
+"Prostituirti<Delay 10>…?<Close><End of Block>
+<TextBlock 126 w:50 h:3>
+Billy
+"Ovviamente mi sono
+rifiutato di farlo
+sul serio.<New>
+Ma dicevano che mi
+avrebbero dato
+3000G a notte…"<Close><End of Block>
+<TextBlock 127 w:10 h:2>
+Elly
+"…"<Close><End of Block>
+<TextBlock 128 w:54 h:4>
+Jessie
+"Quando ero a Solaris,
+venni a sapere del piano
+segreto…<New>
+Era il Piano (M), 'Malak'.<Delay 20>
+Ed era in sviluppo sotto
+il comando di Krelian…<New>
+Per procedere col piano,
+molti Agnelli furono
+raccolti dalla Chiesa,
+per farne delle cavie.<New>
+O, dovrei dire, per farli
+diventare Mietitori o
+Wels…"<Close><End of Block>
+<TextBlock 129 w:54 h:4>
+Jessie
+"Visto che ero disgustato
+dai metodi di Solaris…<New>
+… decisi di continuare ad
+investigare.<New>
+Allora scoprii che lo
+scienziato più importante…<New>
+… fondamentale per il
+Piano M, aveva nascosto le
+vere informazioni dentro
+un Gear sperimentale.<New>
+Poi lasciò che quel Gear
+sperimentale scappasse
+con sua figlia<Delay 5>…<New>
+… perché la verità non
+fosse scoperta…<New>
+E questa,<Delay 5> mi spiace,<Delay 5> fu
+l'ultima informazione che
+potei ottenere…"<Close><End of Block>
+<TextBlock 130 w:48 h:4>
+Jessie
+"A causa di ciò che 
+ebbi scoperto, scesi
+sulla superficie…<New>
+E qui è dove mi nascosi,
+assieme a mia moglie,
+Rachele, e a mio
+figlio Billy.<New>
+Ho cercato quel Gear e
+la ragazza sin da quel
+momento."<Close><End of Block>
+<TextBlock 131 w:52 h:4>
+Jessie
+"Alla fine, ho scoperto
+che la figlia dello
+scienziato ed il Gear…<New>
+… potrebbero trovarsi
+a Shevat.<New>
+Tutto perfetto, eccetto
+che non so come diavolo
+arrivare lì…<New>
+… o magari mettermi in
+contatto con quel posto.<New>
+Dunque, Shevat è protetta
+da una forte barriera con
+la quale neanche Solaris
+può farci nulla…<New>
+Perciò credo che si possa
+dire che non si può far
+nulla…<Delay 10> La mia solita
+fortuna!"<Close><End of Block>
+<TextBlock 132 w:32 h:3>
+Il nome di quella
+ragazza non sarà
+per caso Maria…?<Close><End of Block>
+<TextBlock 133 w:50 h:4>
+Billy
+"Oh, voi due state bene?<Delay 10>
+Non dovreste riposarvi
+un altro po'…?"<Close><End of Block>
+<TextBlock 134 w:42 h:4>
+Agente di Shevat
+"Sì, adesso riesco a
+stare in piedi e
+persino a camminare…
+Vi ringrazio."<Close><End of Block>
+<TextBlock 135 w:38 h:2>
+Fei
+"Sto bene anch'io."<Close><End of Block>
+<TextBlock 136 w:54 h:4>
+Jessie
+"Maria, eh…?<Delay 10> Mmh…<Delay 10> Se
+ricordo bene, il nome di
+suo padre era Nicola?"<Close><End of Block>
+<TextBlock 137 w:52 h:4>
+Agente di Shevat
+"Non conosco tutti i
+dettagli…<Delay 10>
+Ma ho sentito delle voci
+riguardo ad una ragazza
+ed un Gear."<Close><End of Block>
+<TextBlock 138 w:52 h:4>
+Jessie
+"Mmh,<Delay 10> devono
+essere loro<Delay 10>…<New>
+Allora quell'enorme
+Gear è a Shevat!"<Close><End of Block>
+<TextBlock 139 w:52 h:4>
+Jessie
+"Allora…<Delay 10> come possiamo
+arrivare a questa Shevat?<New>
+C'è un modo di contattare
+il posto?"<Close><End of Block>
+<TextBlock 140 w:54 h:4>
+Agente di Shevat 
+"Sfortunatamente, essendo
+stata catturata, neanch'io
+ho modo di contattarli."<Close><End of Block>
+<TextBlock 141 w:16 h:1>
+Capisco…<Close><End of Block>
+<TextBlock 142 w:4 h:1>
+!!<Opcode 2 30><Close><End of Block>
+<TextBlock 143 w:58 h:5>
+Agente di Shevat
+"Potrebbe però esserci
+un modo…! In origine,
+Shevat era situata
+sulla cima della
+Torre di Babele.<New>
+Dicono ci fosse una
+attrezzatura di comunicazione
+per contattare il paese natio
+sulla cima della torre.<Delay 10> 
+Se solo esiste ancora…"<Close><End of Block>
+<TextBlock 144 w:46 h:4>
+Shitan
+"Mmh…<New>
+C'è una buona
+possibilità che
+l'attrezzatura possa
+essere stata distrutta…<New>
+Specialmente considerando
+che quella torre fu
+sigillata dalla Chiesa."<Close><End of Block>
+<TextBlock 145 w:42 h:3>
+Jessie
+"Sei di nuovo
+pessimista…"<Close><End of Block>
+<TextBlock 146 w:32 h:3>
+Shitan
+"Sono solo
+realista."<Close><End of Block>
+<TextBlock 147 w:6 h:1>
+…<Close><End of Block>
+<TextBlock 148 w:54 h:4>
+Bart
+"Penso che non abbiamo
+scelta, se non quella di
+tentare e di andare lì.<New>
+Finché esiste il Portale,
+non possiamo comunque
+fuggire dall'autorità di 
+Solaris.<New>
+In altre parole, anche se
+recuperassimo Aveh da
+Shakhan, non ci sarebbe 
+subito il lieto fine."<Close><End of Block>
+<TextBlock 149 w:42 h:4>
+Billy
+"Credo che non abbiamo
+altra scelta se non
+quella di provare e di
+andare lì…<New>
+Comunque sia, finché
+il portale esiste,
+non possiamo fuggire
+dall'ombra di Solaris."<Close><End of Block>
+<TextBlock 150 w:46 h:3>
+Shitan
+"Il loro 'piano segreto'
+dà fastidio anche a me…<New>
+Il vero segreto è che
+stanno utilizzando
+esseri umani raccolti
+dalla terra…"<Close><End of Block>
+<TextBlock 151 w:54 h:4>
+Fei
+"Non capisco proprio
+questo<Delay 5> piano segreto<Delay 5>…<New>
+…<Delay 5> il coinvolgimento<Delay 5>
+della Chiesa ed il
+resto…<New>
+Cosa diavolo pensa
+Solaris che siamo noi
+umani abitanti della
+superficie!?"<Close><End of Block>
+<TextBlock 152 w:48 h:4>
+Fei
+"… Scusami.<Delay 10><New>
+Avevo totalmente
+dimenticato che è
+la tua patria…"<Close><End of Block>
+<TextBlock 153 w:54 h:4>
+Elly
+"Ciò che fa la mia patria…<Delay 10>
+non ha nulla a che vedere
+con me.<New>
+Io stessa pensavo che lì
+qualcosa non andasse, e
+per questo venni qui…<Delay 10>
+Perciò, non preoccuparti."<Close><End of Block>
+<TextBlock 154 w:54 h:4>
+Fei
+"Non abbiamo nulla da
+perdere, perciò cerchiamo
+di arrivare lì.<New>
+Dobbiamo scoprire la
+verità su quei documenti
+trovati nella Sede della
+Chiesa e su ciò che…<New>
+… il padre di
+Billy ha detto.<New>
+E, comunque, devo andare
+anch'io a Shevat, per
+motivi personali."<Close><End of Block>
+<TextBlock 155 w:52 h:4>
+Fei
+"Il tempo è denaro,
+no!?<Delay 10> Andiamo subito
+alla Torre di Babele!"<Close><End of Block>
+<TextBlock 156 w:3 h:1>
+ <Close><Close><End of Block>

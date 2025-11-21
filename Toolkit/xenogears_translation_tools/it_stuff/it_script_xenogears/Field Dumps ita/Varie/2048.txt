@@ -1,0 +1,97 @@
+<TextBlock 1 w:43 h:9>
+    <Opcode 1 255>Annulla
+    Portami a: (pag. 2)
+    Foresta Luna Nera
+    Foresta Luna Nera 2
+    Foresta senza masso
+    Campo con Elly 1
+    Dopo il campo con Elly
+    Flashback Elly
+    Gear di Elly atterra<Close><End of Block>
+<TextBlock 2 w:34 h:8>
+    <Opcode 1 255>Indietro
+    Elly si sente colpevole
+    Elly si sente colpevole 2
+    Elly urla
+    Fei contro il Rankar
+    Shitan controlla <Weltall>
+    Shitan ripara <Weltall>
+    Campo 2 - il giorno dopo<Close><End of Block>
+<TextBlock 3 w:35 h:13>
+    <Opcode 1 255>Annulla
+    Mappa di Aveh, arriva Ramsus
+    Margie incontra Ramsus
+    Prima volta ad Aveh
+    Prima volta all'hotel
+    Piazza in festa - Sud
+    Camera della suora con chiave
+    Nell'hotel
+    Camera della suora
+    Discorso di Shakhan
+    Bart nelle fogne
+    Inizia il torneo
+    Mappa di Aveh<Close><End of Block>
+<TextBlock 4 w:38 h:11>
+    <Opcode 1 255>Castello di Aveh:
+    Annulla
+    Bart sale al Castello
+    Portami a: (pag. 2)
+    Bart trova Margie
+    Fuga dal castello
+    Elly sente l'allarme
+    Elly aiuta il gruppo
+    Ramsus e le sue truppe
+    Bart e le sue truppe
+    Bart in trappola<Close><End of Block>
+<TextBlock 5 w:28 h:5>
+    <Opcode 1 255>Annulla
+    Primo piano castello
+    Secondo piano castello
+    Terzo piano castello
+    Quarto piano castello<Close><End of Block>
+<TextBlock 6 w:49 h:11>
+    <Opcode 1 255>Ramsus ed Elly
+    Annulla
+    Incubo di Ramsus
+    Gruppo di Elly lascia la base
+    Elly riceve istruzioni
+    Elly parla con Dominia
+    Parte l'Hecht
+    Ramsus segue il Golia
+    Shevat respinge Ramsus
+    Ramsus al Tammuz cerca Fei
+    Ramsus impazzisce a Nisan<Close><End of Block>
+<TextBlock 7 w:40 h:9>
+    <Opcode 1 255>Castello di Aveh 2:
+    Annulla
+    Incoronazione di Bart
+    Bart parla con Maison
+    Bart parla con Sigurd
+    Prima del generatore
+    Aveh sottomessa
+    Aveh - distrutta Babele
+    Stanza strategica Nascondiglio<Close><End of Block>
+<TextBlock 8 w:43 h:8>
+    <Opcode 1 255>Annulla
+    zenbushokika
+    shinario fura gushokika
+    etouguro-barushokika
+    Dai 10000G
+    demofuragu
+    Aggiungi peso
+    Torna al menu principale<Close><End of Block>
+<TextBlock 9 w:29 h:1>
+      Viva i SadNES<Close><End of Block>
+<TextBlock 10 w:18 h:5>
+      0 kg
+      60 kg
+      120 kg
+      180 kg
+      240 kg<Close><End of Block>
+<TextBlock 11 w:30 h:6>
+   <Opcode 1 255>Annulla
+   Torneo round 1
+   Torneo round 2
+   Torneo round 3
+   Contro Dan
+   Contro Wiseman<Close><Close><End of Block>

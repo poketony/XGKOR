@@ -1,0 +1,77 @@
+<TextBlock 1 w:50 h:8>
+<Opcode 1 255>Dove vuoi andare?
+    P4 (Ponte di comando)
+    P3 (Pub)
+    P2 (Infermeria)
+    P1 (Ponte)
+    PS1 (Magazzino)
+    PS2 (Molo)
+    Lascia stare<Close><End of Block>
+<TextBlock 2 w:32 h:4>
+Oh, mi sento male…
+Per favore…
+non farlo girare…
+non farlo girare…<Close><End of Block>
+<TextBlock 3 w:30 h:2>
+Non farlo girare!!
+Uhhh!!<Opcode 2 30><Close><End of Block>
+<TextBlock 4 w:40 h:3>
+Bart
+"Io<Delay 10>…<Delay 10> non volevo che
+lei fosse coinvolta."<Close><End of Block>
+<TextBlock 5 w:54 h:4>
+Fei
+"Intendi Margie<Delay 5>…?<New>
+Scusami, so di avere
+promesso<Delay 5>…<Delay 5> che se fosse
+successo qualcosa…<New>
+… avrei protetto Margie
+e la gente di Nisan."<Close><End of Block>
+<TextBlock 6 w:54 h:4>
+Bart
+"Sei preoccupato per
+questo?<New>
+Va tutto bene, anche
+tu hai passato un
+brutto momento.<New>
+Io ce l'ho fatta. Questo
+è il mio compito.<Delay 15> Quando
+l'Yggdrasil sarà riparato,
+continuerò subito a…"<Close><End of Block>
+<TextBlock 7 w:52 h:4>
+Bart
+"Certo che so che Nisan è
+in pericolo.<New>
+Ma visto che qui c'è un
+casino immenso, ho pensato
+che sarebbe stato un buon
+momento…<New>
+… per entrare lì
+di nascosto.<New>
+Non avevo intenzione di
+portarla con me. Almeno
+finché sapevo che lei
+lì era al sicuro."<Close><End of Block>
+<TextBlock 8 w:52 h:4>
+Shitan
+"Ma dubito grandemente
+che Shakhan si limiterà
+a prepararsi…<New>
+… senza far nulla…"<Close><End of Block>
+<TextBlock 9 w:46 h:4>
+Bart
+"È la stessa cosa che
+la gente della Setta
+ha detto.<New>
+Ma rimane una cosa
+pericolosa, perciò hanno
+detto di volere che io…<New>
+… le restassi vicino
+e la proteggessi."<Close><End of Block>
+<TextBlock 10 w:40 h:4>
+Fei
+"Davvero<Delay 5>…<Delay 5>
+E a te va bene?"<Close><End of Block>
+<TextBlock 11 w:20 h:2>
+Bart
+"<Delay 5>…<Delay 20> Sì."<Close><Close><End of Block>

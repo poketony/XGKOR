@@ -1,0 +1,139 @@
+<TextBlock 1 w:46 h:4>
+Fei e gli altri si sono
+fatti rimuovere da Gaspare
+una parte del Limitatore
+inserito nei loro geni.<Close><End of Block>
+<TextBlock 2 w:52 h:4>
+Sì sì, e poi…<New>
+<Chu-Chu> e i suoi amici
+hanno festeggiato la
+loro salvezza…<New>
+Era naturale per loro
+fare una festa,<Delay 20> e la
+loro dolce, pericolosa
+notte è continuata…<New>
+… a lungo, proprio come
+un sogno senza fine…<Close><End of Block>
+<TextBlock 3 w:36 h:3>
+No, no…<Delay 20> È una storia
+completamente diversa…<Close><End of Block>
+<TextBlock 4 w:54 h:3>
+<Chu-Chu>
+"Fei,<Delay 20> dove stai andando
+senza di me, chu?<New>
+<Chu-Chu> andrà ovunque,
+anche alla fine del
+mondo…<Delay 20> con te-chu!<New>
+Il verginale cuore di
+<Chu-Chu> è solo<Delay 20> tuo!
+Uh hmmm!"<Close><End of Block>
+<TextBlock 5 w:44 h:2>
+Zefiro
+"Bentornato, Gaspare.<New>
+Che mi dici di Baldassarre
+o di Melchiorre…?"<Close><End of Block>
+<TextBlock 6 w:44 h:2>
+Zefiro
+"Proprio come pensavo…"<Close><End of Block>
+<TextBlock 7 w:22 h:2>
+Zefiro
+"… Scusami."<Close><End of Block>
+<TextBlock 8 w:44 h:3>
+Zefiro
+"Lei… era identica
+a Sofia?"<Close><End of Block>
+<TextBlock 9 w:50 h:4>
+Wiseman
+"È inevitabile.<New>
+Ma la ragazza non
+intende guidarlo…
+Proprio come 'lei'.<New>
+Inconsciamente lo sa.
+L'entità dentro di lei…"<Close><End of Block>
+<TextBlock 10 w:14 h:2>
+Wiseman
+"…"<Close><End of Block>
+<TextBlock 11 w:36 h:3>
+Wiseman
+"No, non m'importa.
+Non sono 'lui'."<Close><End of Block>
+<TextBlock 12 w:48 h:4>
+Gaspare
+"Nulla, purtroppo.
+Non li vedo
+da allora…<New>
+Inoltre, vostra
+Maestà…<New>
+Sono venuto per
+controllare che non
+facciano gli stessi
+stupidi errori."<Close><End of Block>
+<TextBlock 13 w:52 h:3>
+Gaspare
+"Allora, andrò a dare
+un'occhiata ai loro
+Limitatori."<Close><End of Block>
+<TextBlock 14 w:52 h:3>
+Vostra Maestà, l'Omnigear
+nel sotterraneo si muove!!<Delay 20><New>
+La ragazza di nome Elly
+è vicina ed esso reagisce
+alla sua presenza!<Close><End of Block>
+<TextBlock 15 w:0 h:1>
+<End of Block>
+<TextBlock 16 w:0 h:0>
+<End of Block>
+<TextBlock 17 w:0 h:0>
+<End of Block>
+<TextBlock 18 w:0 h:0>
+<End of Block>
+<TextBlock 19 w:0 h:0>
+<End of Block>
+<TextBlock 20 w:0 h:0>
+<End of Block>
+<TextBlock 21 w:0 h:0>
+<End of Block>
+<TextBlock 22 w:0 h:0>
+<End of Block>
+<TextBlock 23 w:0 h:0>
+<End of Block>
+<TextBlock 24 w:0 h:0>
+<End of Block>
+<TextBlock 25 w:0 h:0>
+<End of Block>
+<TextBlock 26 w:0 h:0>
+<End of Block>
+<TextBlock 27 w:0 h:0>
+<End of Block>
+<TextBlock 28 w:0 h:0>
+<End of Block>
+<TextBlock 29 w:0 h:0>
+<End of Block>
+<TextBlock 30 w:0 h:0>
+<End of Block>
+<TextBlock 31 w:0 h:0>
+<End of Block>
+<TextBlock 32 w:0 h:0>
+<End of Block>
+<TextBlock 33 w:0 h:0>
+<End of Block>
+<TextBlock 34 w:0 h:0>
+<End of Block>
+<TextBlock 35 w:0 h:0>
+<End of Block>
+<TextBlock 36 w:0 h:0>
+<End of Block>
+<TextBlock 37 w:0 h:0>
+<End of Block>
+<TextBlock 38 w:0 h:0>
+<End of Block>
+<TextBlock 39 w:0 h:0>
+<End of Block>
+<TextBlock 40 w:0 h:0>
+<End of Block>
+<TextBlock 41 w:0 h:0>
+<End of Block>
+<TextBlock 42 w:0 h:0>
+<End of Block>
+<TextBlock 43 w:0 h:0>
+<Close><End of Block>

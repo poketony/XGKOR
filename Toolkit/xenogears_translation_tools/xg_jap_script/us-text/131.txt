@@ -1,0 +1,46 @@
+#### 1 ####
+Hmm...I'm worried. {wait:32}
+The army's power is
+rising too quickly...{enter}
+What will happen to
+civilian officials
+like me?
+
+#### 2 ####
+Hmm...I'm worried. {wait:32}
+If political power 
+changes hands...{enter}
+what will happen to
+those working for
+Shakhan?
+
+#### 3 ####
+Well if it isn't his
+Highness, Bartholomew!?
+It has been a long time.
+Are you well my Highness?
+
+#### 4 ####
+My family has served
+in Fatima Castle for 
+generations, no matter
+who was in power.
+
+#### 5 ####
+{fast:FF}There's probably a guard outside...
+    Open the door
+    Just take a peek
+
+#### 6 ####
+{fast:FF}There's probably a guard outside...
+    Open the door
+    Just take a peek
+
+#### 7 ####
+You have too many
+{str}.
+
+#### 8 ####
+ 
+ Received {str}.
+

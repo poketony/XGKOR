@@ -1,0 +1,6 @@
+<TextBlock 1 w:32 h:2>
+    Sali
+    Lascia stare<Close><End of Block>
+<TextBlock 2 w:32 h:2>
+    Scendi
+    Lascia stare<Close><End of Block>

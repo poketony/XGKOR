@@ -1,0 +1,226 @@
+dimensioni circa della patch 1.2 beta: 51,7 MB (54.224.891 byte)
+
+NOTE:
+
+Le cartelle 4, 5, 6 contengono suoni.
+
+Le cartelle 3, 12, 21 sembrano contenere nulla d'interessante
+
+Le cartelle 35, 36, 37, 38, 39, 40, 41 e 42 contengono altre World Map (...) senza testi.
+
+La cartella 18 contiene grafica usata per gli sfondi di battaglia.
+
+La cartella 16 contiene probabilmente grafica utilizzata nelle battaglie.
+
+Il kernel (0029) e le varie mappe del mondo DEVONO essere formate da files
+aventi come grandezza un multiplo di 4, pena il non funzionamento dei menu
+su PSX.
+
+STRIPCD1
+
+0022 - È l'exe del gioco. All'indirizzo 0x3F2BC si trova un file compresso, una tim, contenete
+la scritta "Published by Square ecc" (Arial Narrow). La fine di questo file è all'indirizzo 0x3FAF4.
+La scritta PAUSE, invece, inizia a 0x403D8, e finisce a 0x404BF (80x8 header 24).
+
+NOTA: L'index dei settori incomincia all'offset 0x800, e continua per 16 settori, dunque
+	32768 bytes.
+
+NOTA 2: Il puntatore in ram del file compresso è: 0580043CBCEA8424.
+
+Cartella 1
+
+0028 - Contiene il font americano [da decomprimere e decodificare].
+
+0029 - Contiene il menu (oggetti, equip) [da decomprimere].
+
+Cartella 2
+
+0035 - Contiene i testi (poi mappati) del minigioco delle battaglie coi Gear [da decomprimere].
+
+0038 - File che regola quasi tutte le cose delle battaglie in gear. Ogni pezzo grafico è fatto di soli 8 byte.
+
+***********
+
+ Dal log con Agemo: 
+Agemo: goto offset $533DE 
+B000 is x pos of "fuel:10" 
+4800 is y pos of "fuel:10" 
+ 
+all text position is around here  
+
+[17:38] Agemo: the following postion is numbers. 
+[17:39] Agemo: 8F00 4600
+
+***********
+
+Inoltre, occorre fare quest'operazione per evitare un piccolissimo
+bug grafico qualora Billy esaurisse le munizioni.
+
+Andare all'indirizzo 0x52972 ed inserire questi 39$ al posto di
+quelli americani.
+
+02200000B0009000000001008C00700000200200B000480001200B00C000700002200C00B000800000000D00A000700000200E00B000600001
+
+***********
+
+0040 - File, da decomprimere, contenente il tasto usato per saltare il filmato introduttivo.
+       Andare all'offset 0x6F64 e modificare $40 in $20.
+0047 - [archivio decompresso] Contiene i testi che appaiono nella modalità allenamento (utilizzano il font dei dialoghi).
+	 Il limite per i sottotitoli è di 30 caratteri.
+
+0049 - [da decomprimere] Contiene il font di questo minigioco, nella tim 04b_0015.
+	 (la tim 04b_0021 contiene della roba in giapponese, che, tradotta, vuol dire
+	  "Funzione analogia attivata!")
+
+Cartella 7
+
+0424 - Contiene il font giapponese, non utilizzato nella versione USA [da decodificare].
+
+Cartella 9
+
+Contiene i portaritratti dei personaggi.
+
+Cartella 10
+
+0589.unk8 - Archivio [non compresso] contenente la bussola ed altra grafica (comunque inutile ai fini della traduzione).
+
+Cartella 14
+
+2593.unk8 - Archivio [compresso] che pare contenere, nel sottofile 3, svariati menu, da quelli di salvataggio, a quelli di cambio disco,
+		a quelli dei negozi. Occorrà verificare se e quale sia dummy o meno.
+		Contiene anche (nel sottofile 1) diversi menu grafici, tra cui quello principale e quello di caricamento.
+		Sempre in questo file si trova il font dei menu-statistiche (Attack, lbs, ecc.).
+		Il sottofile 4 contiene i portaritratti dei personaggi (probabilmente utilizzati nel menu).
+
+2594 - Archivio [compresso] comprendente grandissima parte degli oggetti, equipaggiamenti (soprattuto per Gear) e delle 
+       loro descrizioni. I sottofile contenti testo sono: 14 - 15 - 20 - 21 - 39 - 40 - 41 e dal 44 al 55.
+
+2595 - Contiene i nomi dei personaggi e dei Gear [codifica a 16 bit].
+
+2597 - Contiene la scritta X E N O G E A R S  N O . (save number). [Codifica SJIS]
+       Contiene poi, in 32 bit (usare Xenograf2), le scritte come Next LV.
+       Va poi modificato per convertire le libbre in kg.
+       Basta cambiare questa stringa: 6666053C6766A5341020000042210400FFFF8430
+       con:                           0000053C0000A534000000000000000000000000
+
+       Inizio coordinate della freccia rossa (menu principale, non negozi): 0x24A2C
+
+2599 - Identico a 2597.
+
+2601 - File usato nei negozi. All'indirizzo 0xD1B80 c'è la mappatura a schermo della freccia
+       (da fixare un bug della versione USA)
+
+2602 - Contiene le scritte dei Gear mentre si è nei negozi Gear (FUEL/WEIGHT). [usare la table Xenograf1]
+
+2603 - Uguale a 2597.
+
+2605 - Contiene [codifica SJIS] i nomi dei luoghi che appaiono assieme al salvataggio.
+
+Nota: Il limite di caratteri per titolo del save è 15.
+
+2606 - Contiene, in ASCII e senza compressione, i nomi dei personaggi ed alcune stringhe. Probabilmente è dummy.
+
+2607.unk4 - Archivio [compresso] contenente, nel sottofile 2, il font utilizzato in battaglia in alcuni menu post-battaglia
+            esperienza, ecc.) più altre tim inutili ai fini della traduzione (i portaritratti dei personaggi
+	    utilizzati in battaglia).
+
+	    Nel sottofile 1 c'è il loro mappaggio.
+
+2608 - File [non compresso] contenete una copia del font.
+
+2609 - File [non compresso] contenente tecniche, oggetti ed altro. Resta da vedere se sia dummy o meno.
+
+Cartella 15
+
+2614 - Archivio [compresso] contentente, nei sottofile 15 e 37, le descrizioni degli oggetti e tecniche/magie.
+       Il sottofile 1 contiene, in raw, la grafica delle battaglie.
+	 
+NOTA:  Il file1 è in realtà un archivio costituito da 2 files (gli indici partono dopo 4$ di header).
+	 Il primo sottofile contiene le palette (dopo 16$ di header).
+	 È solo nel secondo sottofile che si trova la grafica. Dopo 526 bytes di header, vi è una raw 4 bpp.
+	 Per essere visualizzata correttamente dovrà prima essere convertita ad 8 bpp.
+	 Le misure con la conversione sono 256x204 (526 header), senza conversione (c'è un po' di grafica,
+	 però probabilmente dummy, che va visualizzata così) 120x204.
+	 
+Senza considerare tutto il resto, la raw inizia all'offset del file1 0x1E2C.
+
+NOTA:  Chop ha scoperto che esso in realtà è un archivio composto da due file. Gli indici partono dopo 4$ di
+	 header. Il primo file sono le palette (dopo 16$), il secondo è la raw, ma ha un header (526).
+
+Cartella 16
+
+I file senza estensione contengono i nomi dei nemici, le loro tecniche e le frasi che compaiono combattendo Deus [non compressi].
+I file .unk7 e .unk8 contengono la grafica dei mostri.
+
+NOTA: I file contenti testi sono degli archivi; all'offset 0x30 c'è un indice
+	che punta all'inizio del blocco di testi, puntatori compresi. Il limite massimo per i nomi
+	dei mostri è 16, per le tecniche 28.
+
+Cartella 19
+
+3088 - Archivio [compresso] contente i dialoghi che appaiono durante le battaglie.
+	 Quasi tutti i sottofiles dispari li contengono, i pari no.
+
+3091 - File [non compresso] contenente ancora altri menu, utilizzati durante le vattaglie.
+
+3096 - Idem come sopra, altri menu.
+
+3097 - Come sopra, ma stavolta le descrizioni delle Opzioni Gear.
+
+3098 - Come per il file 3097, altri menu.
+
+I file .snd contengono le voci dei personaggi usate in alcuni casi (come nel gioco delle carte),
+gli .unk5 sono degli archivi contenenti le voci dei personaggi usate in battaglia.
+
+Cartella 24
+
+3957 - Copia compressa del file 2597.
+
+3958.unk8 - È uguale al file 2593.unk8. È utilizzato per mappare la grafica dei menu
+mentre si è nella mappa del mondo.
+
+Cartella 26
+
+3964 - File [compresso] che contiene i testi della World Map.
+
+Nota: È (o meglio sono, leggere dopo) un archivio, al principio del file ci sono
+gli indirizzi dei file (4$ bytes).
+Il file contente i testi parte dall'offset 0x14F7C, e finisce all'offset 0x15218.
+
+Fortunatamente, il sottofile contenete i testi è identico nei diversi files, sarà
+dunque possibile riutilizzare quello tradotto.
+
+Cartella 27
+
+3975 - File [compresso] che contiene anch'esso i testi della World Map.
+
+Nota: Inizio del file contenete i testi: 0x14F44; fine: 0x151DF
+
+Cartella 28
+
+3986 - Sempre World Map, sempre file compresso.
+
+Cartella 29
+
+3997 - Idem come sopra. La Square creato diverse cartelle per diverse World Map (!!), una
+	 per ogni volta che cambia qualche elemento grafico (tipo l'apparizione del Fort Jasper).
+
+Cartella 30
+
+4008 - World Map (tutti i file successivi sono sempre un unico file compresso con i testi).
+
+Cartella 31
+
+4019 - World Map.
+
+Cartella 32
+
+4030 - World Map.
+
+Cartella 33
+
+4041 - World Map.
+
+Cartella 34
+
+4052 - World Map.

@@ -1,0 +1,41 @@
+#### 1 ####
+{fast:FF}Please reset the 
+emergency level at the 
+nearest terminal.
+
+#### 2 ####
+{fast:FF}Emergency level5{enter}
+{fast:FF}The emergency button
+inside the reactor was
+activated 34999999 hours
+ago.{enter}
+From this point there is
+danger of nano contamination.{enter}
+{fast:FF}When entering the room,
+please execute a manual scan
+and confirm safety.{enter}
+{fast:FF}After confirming, please
+reset the emergency level
+at the nearest terminal.
+
+#### 3 ####
+Execute manual scan?
+     Execute
+     Cancel
+
+#### 4 ####
+{fast:FF}Please wait.{wait:20}
+..{wait:20}.{wait:20}...{wait:20}..{wait:20}....{wait:20}..{wait:20}..{wait:20}..{wait:20}{enter}
+Scan complete.
+Confirmed, no nano
+contamination.{enter}
+{fast:FF}You can reenter the room
+by resetting the
+emergency level at
+the nearest terminal.
+
+#### 5 ####
+{fast:FF}When entering the room
+you must execute a
+manual scan.
+

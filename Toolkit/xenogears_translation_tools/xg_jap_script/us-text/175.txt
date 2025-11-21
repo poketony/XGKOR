@@ -1,0 +1,763 @@
+#### 1 ####
+Fei
+"Looks like Hammer's
+here."
+
+#### 2 ####
+Oh, yes. Next time,
+please knock! Then I will
+open the door for you.{enter}
+If you come through the
+toilet{wait:05}...{wait:05}...{wait:05}...{wait:05}...
+ya...you know! It might
+be at the wrong time.
+
+#### 3 ####
+Fei
+"{wait:05}...{wait:05}...Uh,{wait:05} yeah.{wait:05} You're
+right{wait:05}...{wait:05} I understand.
+And, how many knocks?"
+
+#### 4 ####
+Hmmm,{wait:05} let's say{wait:05}...{wait:05}...{wait:1E}
+'2,{wait:0F} 1,{wait:0F} 2'{wait:0F}... Would{wait:05} 
+that be okay?
+
+#### 5 ####
+Fei
+"Got it.{wait:0F}
+2,{wait:05} 1,{wait:05} 2{wait:0F}...{wait:05} right?"
+
+#### 6 ####
+Uh huh,{wait:05} yes.{wait:0F}
+Well then, good luck.
+
+#### 7 ####
+I too had been thinking of
+leaving from the Imperial
+capital...{enter}
+But then I came to think
+that if I try harder things
+will get better{wait:05}...{wait:05}...{wait:1E}
+You too try your hardest, OK!
+
+#### 8 ####
+How's it going, good?
+
+#### 9 ####
+Hey,{wait:05} wait a minute!{wait:0F}
+Where did you{wait:05}...{wait:05}...{clear:2D}
+
+#### 10 ####
+Uh,{wait:05} huh?{wait:05}
+You're{wait:0A} the one from
+D Block{wait:05}...{wait:05}...
+
+#### 11 ####
+You're{wait:05} all just
+like my daughter.
+She just won't give up.{enter}
+So many people.
+It must be hard
+for you to get around.{enter}
+Do you want to change here?{wait:0F}
+    No
+    Change party
+
+#### 12 ####
+{wait:05}...{wait:05}...Okay.{wait:0F}
+By the way,{wait:05} did you go
+meet my daughter working{enter}
+in D Block?{wait:05} If you
+haven't, by all means,
+please go see her.
+
+#### 13 ####
+I see, a lot has
+happened. No wonder they
+imposed martial law.{wait:0F}{enter}
+Please tell her, {wait:0F}
+and you too{wait:05}...{wait:05}...good luck.
+
+#### 14 ####
+You know, she's keeping
+that promise she made
+with you{wait:05}...{wait:05}...{wait:0F} She's in
+D Block, so don't forget{enter}
+to go see her once in a
+while.
+
+#### 15 ####
+Hang in there.
+
+#### 16 ####
+Oh my,{wait:05} a customer?{wait:0F}
+{wait:05}...{wait:05}...Wait?{wait:0F} I thought I
+locked the door?
+
+#### 17 ####
+{wait:05}...How did you
+all get in here?{enter}
+You didn't come
+in through the chimney
+in the bathroom did you?
+
+#### 18 ####
+{wait:05}...{wait:05}...Oh, it's you
+guys. You guys survived
+the Aveh air assault{wait:05}...{wait:05}
+{wait:05}...{wait:05}...Wha?{wait:05}...{wait:05}...Daughter?{wait:0F}{enter}
+{wait:05}...{wait:05}Diana. In the air
+assault she{wait:05}...{wait:05} sob, sob.{wait:0F}
+{wait:05}...{wait:05}She shielded us from
+the{wait:05}...{wait:05}...
+
+#### 19 ####
+She {wait:05}was just starting
+out with life{wait:05}...{wait:05} Instead,
+she saved a old-timer
+like me{wait:05}...{wait:05}How could I{wait:05}...{wait:05}{enter}
+god{wait:05}...{wait:05}forgive me{wait:05}...{wait:05}
+Your presence here today
+reminds{wait:05} me of her too
+much{wait:05}...{wait:05}
+
+#### 20 ####
+After the assault,{wait:05} I moved
+away for a while, but this
+is still the city my
+daughter was born in.{enter}
+I too will live out the
+rest of my life here.{wait:1E}
+Together with her{wait:05}...{wait:05}
+in memory of Diana{wait:05}...
+
+#### 21 ####
+In my house, my sister
+{wait:05}...{wait:05}sleeps. She re-kindled
+my spirits. My sister{wait:05}...{wait:05}{enter}
+is home now. My
+sist{wait:05}...{wait:05}sob...
+
+#### 22 ####
+Hammer
+"{wait:05}...{wait:05}Use the key like...
+{wait:05}Oh!? Wh, what
+happened,{wait:05} bro?{enter}
+Did you forget where the
+base is? {wait:0A}
+Sigh,{wait:0F} fine then.{enter}
+The military facility is to{wait:05}
+'the north of the capital'{wait:0A}
+'beyond the carved out part
+of the mountain range'.{enter}
+You're all set now!"
+
+#### 23 ####
+Hammer
+"I gave away all my items
+to the people who were
+injured by the Aveh attack.{enter}
+I, I didn't take any money
+for it though!{wait:0A}
+I woulda never done that
+before...{enter}
+Who'd have thought I could
+do such a thing?{wait:0A}
+...Heh. It's probably
+because of you, bro."
+
+#### 24 ####
+Hammer
+"Bro, you wanna buy
+something?{wait:0F} {wait:05}...{wait:05}{enter}
+Just kidding. I'm all
+outta items."
+
+#### 25 ####
+Fei
+"...I went to D Block,{enter}
+but they wouldn't let the
+public in 'cause of the
+martial law."
+
+#### 26 ####
+Fei
+"{wait:05}...{wait:05}This door was to the
+toilet right?{enter}
+{wait:05}...{wait:05}It's okay,{wait:0A} don't
+worry!"
+
+#### 27 ####
+Elly
+"Fei, that's the{wait:05}...{wait:1E}
+Oh{wait:05}...{wait:05}nevermind.{wait:0F}
+Nothing{wait:05}...{wait:05}"
+
+#### 28 ####
+Fei
+"Elly, your face is red."
+
+#### 29 ####
+Fei
+"It's{wait:05}...{wait:0A} n, nothing!
+Let's hurry up and go,
+Fei!!"
+
+#### 30 ####
+Citan
+"Fei, that is the toilet.{enter}
+The exit is that way,
+unless{wait:05}...{wait:0F}you cannot hold
+it?"
+
+#### 31 ####
+Fei
+"{wait:05}...{wait:05}...{wait:05}..."
+
+#### 32 ####
+Citan
+"I am just kidding."
+
+#### 33 ####
+Hammer
+"Oh,{wait:05} yes!{wait:0F}
+I forgot to tell you
+about Master Rico, bro."
+
+#### 34 ####
+Fei
+"You've seen him?"
+
+#### 35 ####
+Hammer
+"Yeah, and I brought up
+our plan to escape from
+the capital{wait:05}...{wait:0F} Says he{enter}
+can't help us though."
+
+#### 36 ####
+Fei
+"{wait:05}...{wait:05}I see."
+
+#### 37 ####
+Citan
+"Fei,{wait:05} he has his own path
+he must take.{wait:1E} Now{wait:05}...{wait:05}
+let us go."
+
+#### 38 ####
+Elly
+"{wait:05}...{wait:05}Fei,{wait:0F} we must hurry to
+Aveh{wait:05}...{wait:05}"
+
+#### 39 ####
+Fei
+"Huh? Uh yeah...I know,
+Elly. We have to hurry...{enter}
+If we go through the
+front gate we might have
+to fight the guards...{enter}
+Hammer, once we break
+through, fall in behind
+us."
+
+#### 40 ####
+Hammer
+"That's my specialty.
+Leave it to me,{wait:0F} bro.{wait:0F}
+And put up a good fight!"
+
+#### 41 ####
+Fei
+"Doc, Elly.{wait:05}{enter}
+Let's go. Our destination
+is the imperial military
+facility up north."
+
+#### 42 ####
+Hammer
+"Ju, just a minute!{wait:0F}
+There's something I have
+to tell Elly."
+
+#### 43 ####
+Elly
+"Tell{wait:14}
+{wait:05}...{wait:05}me?"
+
+#### 44 ####
+Hammer
+"Yes'm!
+It'll be real quick."
+
+#### 45 ####
+Hammer
+"All right!"
+
+#### 46 ####
+Citan
+"{wait:05}...{wait:05}All right?"
+
+#### 47 ####
+{fast:FF}Hammer
+"Uh, nothing!!"
+
+#### 48 ####
+{fast:FF}Hammer
+"Good luck in breaking
+through the front gate,
+bro, and you Citan!"
+
+#### 49 ####
+Fei
+"{wait:05}...{wait:05}First we save the
+empire, now we're being
+chased by them"
+
+#### 50 ####
+Citan
+"We cannot make a wrong
+move with security
+this tight{wait:05}...{wait:05}"
+
+#### 51 ####
+Fei
+"Hammer's our only
+hope{wait:0F}...{wait:05}He's awfully late
+though."
+
+#### 52 ####
+Elly
+"...There's{wait:0F} no one here."
+
+#### 53 ####
+Fei
+"Where did the owner of
+the house go without
+locking up the place?"
+
+#### 54 ####
+Citan
+"The furnishings are
+untouched{wait:05}...{wait:05} {enter}
+They probably left when
+Aveh attacked."
+
+#### 55 ####
+Elly
+"{wait:05}...{wait:05}"
+
+#### 56 ####
+Hammer
+"Bro, Citan!{wait:0F}{enter}
+I got the key info that
+should help us get outta
+the capital!"
+
+#### 57 ####
+Fei
+"So what's the info?"
+
+#### 58 ####
+Hammer
+"The empire's new
+super airship,{enter}
+...'Goliath'.
+This is it, bro."
+
+#### 59 ####
+Citan
+"The empire's new
+creation{wait:05}...{wait:05}the super
+airship 'Goliath'?"
+
+#### 60 ####
+Elly
+"{wait:05}...{wait:05}Super airship.{wait:0F}
+Is it that big?"
+
+#### 61 ####
+Hammer
+"Tsk tsk, it's
+beyond big!
+!?{wait:05}...{wait:05}"
+
+#### 62 ####
+Elly
+"...It's Elly."
+
+#### 63 ####
+Hammer
+"!?{wait:0F} ...{wait:05}As I said, it's
+beyond big, Elly!"
+
+#### 64 ####
+Hammer
+"The 'Goliath' is of
+extraordinary magnitude!{wait:0F}{enter}
+It's said that the
+'Goliath' can even make
+a Gear look like a pea.{enter}
+It's rumored that it
+can even decimate the
+Aveh capital, Bledavik,
+all by itself."
+
+#### 65 ####
+Fei
+"By itself, annihilate
+Aveh!? It must be a
+monstrous battleship."
+
+#### 66 ####
+Hammer
+"According to my reliable
+sources, it's located
+north of Kislev{wait:0A} in an{enter}
+underground dock at some
+military facility{wait:05}...{wait:05}"
+
+#### 67 ####
+!?{clear:0F}
+
+#### 68 ####
+Elly
+"{wait:05}...{wait:05}The military
+facility{wait:05}...{wait:05} north of the
+capital{wait:05}..."
+
+#### 69 ####
+Fei
+"Elly,{wait:05} what's wrong?"
+
+#### 70 ####
+Elly
+"I know that facility.
+I've talked to you about
+it before. The Imperial{enter}
+facility{wait:05}...{wait:05} 
+I infiltrated{wait:05}...{wait:05}I never knew
+that something like that
+was in the basement{wait:05}...{wait:05}"
+
+#### 71 ####
+Citan
+"{wait:05}...{wait:05}Elly,{wait:0F} do you think
+you still remember{wait:05}...{wait:05}{enter}
+how you infiltrated
+the base?"
+
+#### 72 ####
+Elly
+"Yes, Citan."
+
+#### 73 ####
+Elly
+"Way north, beyond the
+Kislev Imperial capital{wait:05}...{wait:05}{enter}
+beyond the 'carved out
+portion of the mountain 
+peak'{wait:1E} lies the Imperial
+city's military facility."
+
+#### 74 ####
+Fei
+"Good,{wait:05} let's take that{wait:05}...{enter}
+...{wait:05}before the empire
+decides to launch a
+counter-attack against
+Aveh."
+
+#### 75 ####
+Fei
+"{wait:05}...?{wait:0F}
+Do you know me?
+
+#### 76 ####
+Citan
+"Fei,{wait:0F} you did not{wait:05}...{wait:05}
+with this woman while
+I was gone?"
+
+#### 77 ####
+Fei
+"Wa,{wait:05} wait a minute,{wait:05}
+doc!?{wait:0A} I didn't do{wait:05}...{wait:05}"
+
+#### 78 ####
+Heh, {wait:05}haha.
+You probably can't tell
+by the way I'm dressed.
+
+#### 79 ####
+Fei
+"???"
+
+#### 80 ####
+Come on, it's me, the
+doctor from D Block.
+Don't you remember?"
+
+#### 81 ####
+Fei
+"{wait:05}...!?{wait:0F} You, the one from
+D Block!"
+
+#### 82 ####
+Yeah, now you remember.
+Long time no see.{wait:0F} Oh,
+you got that collar off?
+
+#### 83 ####
+Citan
+"Yes, he became the
+Battling Champ.{wait:0F}{enter}
+He is no longer a
+prisoner."
+
+#### 84 ####
+Then you're the Battling
+Champ?{wait:0F} Wow!{wait:05} That's great!
+I knew you were strong.
+
+#### 85 ####
+And you might be?
+
+#### 86 ####
+Citan
+"Oh, excuse me,{wait:05} we have
+never met. {enter}
+I am Citan Uzuki.{wait:0F} 
+You could say that I 
+am his guardian."
+
+#### 87 ####
+Fei
+"G, guardian{wait:05}...{wait:05}?"
+
+#### 88 ####
+Citan
+"Presently, I am the
+doctor in the imperial
+D Block{wait:05}...{wait:05}"
+
+#### 89 ####
+!?{clear:0F}
+
+#### 90 ####
+Hold on!! Why is the
+D Block doctor here?{clear:5A}
+
+#### 91 ####
+Citan
+"Huh? Uh, well{wait:05}...{wait:05}
+that is{wait:05}...{wait:05}"
+
+#### 92 ####
+Sigh,{wait:05} what's going to
+happen if someone gets
+injured now!? Who's going
+to look at the injury?{enter}
+Don't you feel an
+obligation as a doctor
+to{wait:05}...{wait:05}Dr. Uzuki, don't
+you{wait:0F} have any{enter}
+responsibility!?
+
+#### 93 ####
+Citan
+"I, I am extremely
+sorry."
+
+#### 94 ####
+Fei
+"{wait:05}...{wait:05}Uhmm, mind if I{wait:0F}
+interrupt?"
+
+#### 95 ####
+What?
+
+#### 96 ####
+Fei
+"You're the doctor in
+charge here?{wait:0F}{enter}
+That's what I heard from
+Hammer."
+
+#### 97 ####
+Aaahh, that.
+Following the request of
+the empire, I agreed to
+be in charge of this part{enter}
+of the city, but now
+they're telling me they
+already have enough
+doctors{wait:05}...{wait:05}
+
+#### 98 ####
+Who do they think they
+are?{wait:0F} So, for now, I'm
+just on standby.{wait:1E} As long
+as nothing really big{enter}
+happens, I think I'm
+going to be here for
+quite a while{wait:05}...{wait:05}
+
+#### 99 ####
+Fei
+"{wait:05}...{wait:05}I know I'm in no
+position to ask you, but
+do you think you could{enter}
+return to D Block?"
+
+#### 100 ####
+Isn't Dr. Uzuki in
+charge of D Block?{wait:0F}
+I can't just do that.
+
+#### 101 ####
+Fei
+"Well it's about that.{wait:0F}
+{wait:05}...{wait:05}We're leaving the
+capital soon.{enter}
+Of course{wait:0F}
+doc will be with us.{enter}
+So...it would be good if
+you could take care of
+D Block."
+
+#### 102 ####
+I see you've got your
+own problems{wait:05}...{wait:0F} Okay,
+leave D Block to me. And
+also, if you have any{enter}
+other problems, come to
+me. I'll try to help in
+any way I can."
+
+#### 103 ####
+Fei
+"Thanks, I owe you one."{clear:2D}
+
+#### 104 ####
+Citan
+"I am sorry about this.
+Please take care of
+everyone."{clear:3C}
+
+#### 105 ####
+Fei
+"Sorry 'bout this.{enter}
+There was nowhere else
+we could talk about
+it{wait:05}...{wait:05}"
+
+#### 106 ####
+No, it's okay.
+I haven't been able to
+see Hammer in a while.
+
+#### 107 ####
+Hammer
+"Sis,{wait:0A} you didn't forget
+about me.{wait:0A} I'm so
+t, touched!"
+
+#### 108 ####
+Fei
+"Alright, Hammer.{wait:05}
+So tell me where
+my Gear is."
+
+#### 109 ####
+Hammer
+"Huh?{wait:05} Oh!?{wait:0F}
+Yeah,{wait:05} the Gear.{wait:0F}
+I almost forgot."
+
+#### 110 ####
+Hammer
+"As the doc predicted, bro.
+Your Gear has been moved to
+another dispatchment dock."
+
+#### 111 ####
+Citan
+"So,{wait:05} where on earth 
+is {name:0B:¥ô¥§¥ë¥È©`¥ë}?"
+
+#### 112 ####
+Hammer
+"Not 'on earth', but under
+the earth! It's in an under-
+ground dock in D Block!{enter}
+I've checked into it and 
+found out that there are
+two routes we can use to 
+sneak inside.{enter}
+The first one requires us
+to enter via the Battling
+Arena grounds.
+
+#### 113 ####
+Fei
+"Well there's no way we can
+sneak in via the Battling
+Arena!{wait:0F} What's the second?"
+
+#### 114 ####
+Hammer
+"The second way is a little
+dangerous as it involves 
+the supply train tunnel.{enter}
+You have to get into the
+tunnel's ducts and follow
+them right through till
+they lead to the docks.{enter}
+But I couldn't find out
+the duct's layout{wait:05}...{wait:1E}
+Sorry, bro."
+
+#### 115 ####
+Fei
+"{wait:05}...{wait:05}Oh that tunnel, huh?{enter}
+Well, now that we have the
+bomb problem off of our
+necks, we might be able to
+make a go of it!"
+
+#### 116 ####
+Citan
+"Yes, but we are still left
+with not knowing the times
+that the trains pass by on.{enter}
+Will a supply train pass by
+at a time that is of any
+use to us?"
+
+#### 117 ####
+Fei
+"Not all of this has to be
+decided now. Let's take our
+time and plan it carefully!"
+
+#### 118 ####
+Fei
+"Firstly Hammer, I'm sorry
+to put you out, but{wait:05}...{enter}
+Could you find out the days
+and times that the supply
+trains operate on for us
+please?"
+
+#### 119 ####
+Hammer
+"I'll get right on it, bro.{wait:0F}
+Well then, I'll be off!"
+
+#### 120 ####
+Citan
+"Shall we return to
+D Block for now?"
+

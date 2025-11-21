@@ -1,0 +1,113 @@
+<TextBlock 1 w:50 h:5>
+Se vuoi meditare un po'
+con calma, spegni la
+luce premendo il pulsante
+che sta sul retro.<Close><End of Block>
+<TextBlock 2 w:52 h:3>
+Come? Il testo di questa
+musica? Eccotelo.<New>
+"Broken mirror, a
+million shades of light,
+The old echo fades away.<New>
+But just you and I
+can find 'the answer'
+someday…"<Close><End of Block>
+<TextBlock 3 w:50 h:3>
+'A distant promise'…<Delay 20>
+Un poema composto molto
+tempo fa in una lingua
+che non viene più parlata
+in questo mondo…<New>
+Eccone la traduzione,
+ovviamente libera.<New>
+'Una lontana promessa'
+
+"Uno specchio infranto,
+mille e mille luci
+che svaniscono.<New>
+Ma proprio tu ed io
+potremo trovare, un
+giorno, 'la risposta'…"<New>
+E tu, riuscirai a trovare
+la 'risposta' che, a
+quanto sembra, esiste
+da qualche parte…?<Close><End of Block>
+<TextBlock 4 w:52 h:3>
+Siamo tutti una parte di
+un mondo più grande.
+Un mondo che è diviso in
+innumerevoli parti.<New>
+Ed ognuna di esse è unica
+e diversa dalle altre…<Delay 20>
+È una cosa tanto bella
+quanto triste…<Close><End of Block>
+<TextBlock 5 w:50 h:3>
+Tanto tempo fa, uno dei
+tre saggi diceva una
+cosa simile.<Close><End of Block>
+<TextBlock 6 w:48 h:4>
+Una parte di te rimane
+in un posto che ami.<Delay 20>
+È un pezzetto di te che
+ti chiama perché ritorni.<New>
+È per questo motivo che
+si ritorna ancora ed
+ancora nei luoghi che
+si amano.<Close><End of Block>
+<TextBlock 7 w:48 h:3>
+Una parte di te potrebbe
+spingerti a tornare nel
+posto che amavi.<Close><End of Block>
+<TextBlock 8 w:46 h:4>
+Guarda quegli uccelli.<Delay 20>
+Hanno dimenticato come
+volare durante la lunga
+storia dell'evoluzione.<Close><End of Block>
+<TextBlock 9 w:50 h:4>
+Lo stesso vale per noi
+esseri umani.<Delay 20> Abbiamo
+gettato via le nostre
+ali spezzate, ed abbiamo
+dimenticato come volare…<New>
+Ma dubito che finirà in
+questo modo.<Delay 20> Un giorno,
+ritroveremo il cielo, e
+correremo a vedere il
+colore del vento.<New>
+Correremo nel profondo,
+immenso cielo… per sempre<Delay 20>…<Space 1><New>
+Voleremo davvero sopra le
+case, oltre i cancelli,
+gli orti e le strade…<New>
+Poi scivoleremo tra valli
+fiorite, dove all'ulivo
+si abbraccia la vite…<New>
+Quel giorno ritornerà.<Close><End of Block>
+<TextBlock 10 w:38 h:1>
+Non lo pensi anche tu?<Delay 15><Close><End of Block>
+<TextBlock 11 w:48 h:5>
+Oh, siete voi?<Delay 20>
+Scusatemi, ma anche se
+"La locanda di Faber"
+è aperta, non offriremo
+servizio per un po' di
+tempo.<Close><End of Block>
+<TextBlock 12 w:50 h:5>
+Salve e benvenuti…<Delay 20>
+Come potete vedere, la
+"Locanda di Faber" è aperta…
+È solo che in questo momento
+non siamo in servizio.<Close><End of Block>
+<TextBlock 13 w:22 h:3>
+Inserire 20G.<Delay 20>
+    Ok
+    Col cavolo!<Close><End of Block>
+<TextBlock 14 w:34 h:1>
+Non hai abbastanza soldi.<Close><End of Block>
+<TextBlock 15 w:62 h:6>
+<Opcode 1 255>    La Valle del Vento
+    Una Lontana Promessa
+    Cocci stridenti e… perduti
+    Il mio Villaggio è il N° 1
+    Noi, Feriti, Seguiamo la Luce
+    Il Forte cerca i suoi sogni<Close><Close><End of Block>

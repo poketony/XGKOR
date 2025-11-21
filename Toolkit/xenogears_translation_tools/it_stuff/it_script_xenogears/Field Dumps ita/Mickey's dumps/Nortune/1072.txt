@@ -1,0 +1,27 @@
+<TextBlock 1 w:34 h:1>
+… Sniff… sniff.<Space 1><Close><End of Block>
+<TextBlock 2 w:50 h:3>
+Non dire a nessuno che
+ho un animale quaggiù.<New>
+L'ho trovato ai
+confini di Lahan in
+punto di morte.<New>
+Guardalo ora.<Close><End of Block>
+<TextBlock 3 w:34 h:2>
+Se n'è andato…<Delay 40>
+e… ha lasciato questo.<Close><End of Block>
+<TextBlock 4 w:54 h:4>
+Quel tipo,<Delay 30> non importa
+quante volte glielo
+dicessi, non lo capiva…<New>
+Lui,<Delay 30> lui…
+Dannazione…<Delay 30> sob…<Close><End of Block>
+<TextBlock 5 w:46 h:3>
+Se n'è andato…<New>
+Il suo cane si è messo
+ad aspettare il suo
+ritorno all'entrata.<New>
+Sempre in attesa del
+suo ritorno… sempre.<Close><End of Block>
+<TextBlock 6 w:42 h:1>
+"Ehi, è… cibo per cani."<Close><Close><End of Block>

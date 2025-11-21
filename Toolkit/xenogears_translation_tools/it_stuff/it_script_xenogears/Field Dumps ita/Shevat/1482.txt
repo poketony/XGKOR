@@ -1,0 +1,77 @@
+<TextBlock 1 w:54 h:3>
+Fei
+"Non c'è un altro modo
+per scendere nell'hangar?"<Close><End of Block>
+<TextBlock 2 w:48 h:4>
+Fei
+"Non m'importa.<Delay 20>
+Non possiamo perdere
+tempo rimanendo qui."<Close><End of Block>
+<TextBlock 3 w:32 h:3>
+Fei
+"Perfetto!<Delay 20>
+Allora, andiamo!"<Close><End of Block>
+<TextBlock 4 w:50 h:4>
+Shitan
+"Hai ragione.<Delay 20> Di sicuro
+il nemico non se ne starà
+fermo ad aspettarci."<Close><End of Block>
+<TextBlock 5 w:48 h:3>
+Elly
+"Hai ragione.<Delay 20>
+Non se ne staranno fermi
+ad aspetterci."<Close><End of Block>
+<TextBlock 6 w:48 h:3>
+Bart
+"D'accordo!<Delay 20>
+Non se ne staranno fermi
+ad aspetterci."<Close><End of Block>
+<TextBlock 7 w:48 h:3>
+Rico
+"Perfetto.<Delay 20>
+Non se ne staranno fermi
+ad aspetterci."<Close><End of Block>
+<TextBlock 8 w:48 h:3>
+Billy
+"Esattamente.<Delay 20>
+Non se ne staranno fermi
+ad aspetterci."<Close><End of Block>
+<TextBlock 9 w:40 h:3>
+Esmeralda
+"…<Delay 20>
+Stiamo sprecando
+tempo."<Close><End of Block>
+<TextBlock 10 w:52 h:4>
+<Chu-Chu>
+"Certo!<Delay 20> Dobbiamo uscire,
+chu, e farli a pezzetini
+il più presto possibile.<New>
+È così che si deve fare,
+chu!"<Close><End of Block>
+<TextBlock 11 w:48 h:4>
+Maria
+"È tutto inutile!<Delay 20>
+Il portello di difesa
+si è chiuso…"<Close><End of Block>
+<TextBlock 12 w:42 h:4>
+Maria
+"Potremmo scendere se
+usiamo il passaggio
+d'emergenza.<New>
+Però… di norma esso
+non viene usato…"<Close><End of Block>
+<TextBlock 13 w:50 h:4>
+Maria
+"Capisco.<Delay 20><New>
+L'entrata del passaggio
+d'emergenza è proprio
+qui sopra."<Close><End of Block>
+<TextBlock 14 w:52 h:4>
+Maria
+"Ecco qua.<Delay 20> Possiamo
+scendere usando
+questo passaggio."<Close><End of Block>
+<TextBlock 15 w:42 h:3>
+Vuoi salire?
+    Sì
+    No<Close><Close><End of Block>

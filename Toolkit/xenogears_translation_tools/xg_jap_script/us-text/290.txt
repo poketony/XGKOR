@@ -1,0 +1,508 @@
+#### 1 ####
+Citan
+"Why hello!"
+
+#### 2 ####
+Billy
+"Oh, how are you?{wait:0A}
+How is Fei doing?"
+
+#### 3 ####
+Elly
+"Very well.{wait:0A}{enter}
+He hasn't regained 
+consciousness yet, but he
+should come around soon."
+
+#### 4 ####
+Billy
+"Really? {wait:0A}
+That's good to hear."
+
+#### 5 ####
+Elly
+"Um, Billy.{wait:0A} 
+I don't know quite how to
+thank you for helping Fei." 
+
+#### 6 ####
+Billy
+"Don't mention it.{enter}
+We may believe in 
+different gods, but
+none of us can leave
+people in need."
+
+#### 7 ####
+Elly
+"Thank you very much.{wait:0A} 
+By the way is this 
+your orphanage...?"
+
+#### 8 ####
+Billy
+"Surprised there are 
+only children?"
+
+#### 9 ####
+Billy
+"My sister and I haven't
+had parents since we were
+infants... {enter}
+So I opened an orphange
+so kids without anyone
+wouldn't have to go 
+through what we did."
+
+#### 10 ####
+Billy
+"They're all healthy and
+obedient to the teachings
+of the 'Ethos'.{enter}
+They're all good kids who
+even help me with work."
+
+#### 11 ####
+Later!!{clear:14}
+
+#### 12 ####
+Hey,{wait:0A} you didn't 
+find me, that's no fun!
+
+#### 13 ####
+You want some candy?
+    Yah, gimme some
+    Nah
+
+#### 14 ####
+Ya¡«ay!{wait:0A}
+Let's empty this bottle
+quick so we can put 
+pretty shells in it!
+
+#### 15 ####
+Aw gee...{wait:0A} I wanted to
+hurry up and empty this
+bottle so we could put
+pretty shells in it!
+
+#### 16 ####
+By the way...
+don't tell Brother B!
+
+#### 17 ####
+Ah, you scared me.{wait:0A} 
+I thought you were
+Brother B...{enter}
+It's a secret, okay?
+    OK
+    I don't know
+
+#### 18 ####
+Ya¡«ay! Thanks.{wait:0A} 
+I'll give you this book
+if you keep it a secret,
+'kay?
+
+#### 19 ####
+Received a fun 
+picture book!
+
+#### 20 ####
+You're a meanie! 
+Go away!
+
+#### 21 ####
+There's a string...
+    Pull it!!
+    Don't
+
+#### 22 ####
+Sigurd
+"Bart!!{wait:0A}
+Yggdrasil's radar picked up
+an image of a huge ship!!"
+
+#### 23 ####
+Sigurd
+"Hyuga!{wait:0A}
+Yggdrasil's radar picked up
+an image of a huge ship!!"
+
+#### 24 ####
+Bart
+"What?{wait:0A} 
+Gebler again?"
+
+#### 25 ####
+Sigurd
+"I don't know but it's
+moving at 10 repsol/hr
+to the south.{wait:0A}{enter}
+Let's head to the bridge."
+
+#### 26 ####
+Bart
+"Got it!{wait:0A}
+Be right there."
+
+#### 27 ####
+Citan
+"Gebler again?"
+
+#### 28 ####
+Sigurd
+"I don't know but it's 
+moving at 10 repsol/hr
+to the south.{wait:0A}{enter}
+Let's head to the bridge."
+
+#### 29 ####
+Citan
+"Understood.{wait:0A} 
+I will be there shortly."
+
+#### 30 ####
+Hey you, in the black 
+and white.{wait:0A} 
+Are you Sigurd?
+
+#### 31 ####
+Sigurd
+"Is that any way to speak
+to someone?
+Who do you think you are?"
+
+#### 32 ####
+Citan
+"Ah...{wait:0A} He may not look
+it but he is our senior."
+
+#### 33 ####
+Citan
+"Ah...{wait:0A}He may not look 
+it but he is our senior."
+
+#### 34 ####
+Sigurd
+"Senior?{wait:0A}
+Jessie?"
+
+#### 35 ####
+Billy
+"Siggy?"
+
+#### 36 ####
+Bart
+"He said Siggy?"
+
+#### 37 ####
+Jessie
+"A silver haired man
+with amber skin.
+I'd say that's rare.{enter}
+What are you all doing 
+here?"
+
+#### 38 ####
+Citan
+"It just sort of happened."
+
+#### 39 ####
+Citan
+"It just sort of happened."
+
+#### 40 ####
+Sigurd
+"A lot's happened..."
+
+#### 41 ####
+Jessie
+"Well, let's talk about 
+things over some drinks.{enter}
+So{wait:05}...{wait:05}
+Why are you all here?"
+
+#### 42 ####
+Billy
+"Siggy,
+it's been a long time...{wait:14}
+What's with the eye patch?"
+
+#### 43 ####
+Sigurd
+"Billy...{wait:14}
+you've grown up.{enter}
+With that smile you look 
+just like Racquel."
+
+#### 44 ####
+Bart
+"Hey!{wait:0A}
+Hey hey hey!{enter}
+Who are you?{wait:0A} 
+Get all cozy with my 
+officers, huh?{enter}
+And what's all this
+'Siggy' stuff? 
+Don't get cute, kid!"
+
+#### 45 ####
+Billy
+"What's with you?
+Why are you so
+arrogant to Siggy?{enter}
+Who do you think
+you are?"
+
+#### 46 ####
+Jessie
+"Billy. {wait:0A}
+Don't yell at
+Sigurd's people.{enter}
+It's bad form, boy."
+
+#### 47 ####
+Sigurd
+"Bart, this was my senior
+when I was a candidate 
+for Elements in Jugend.{enter}
+I rented a room in his 
+house."
+
+#### 48 ####
+Jessie
+"Back then he was still
+in diapers...{enter}
+and he's still a whiny
+little brat now."
+
+#### 49 ####
+Billy
+"You're probably still
+in diapers, aren't you?"
+
+#### 50 ####
+Bart
+"You punk!{wait:0A}
+What's your problem?"
+
+#### 51 ####
+Jessie
+"Well{wait:05}...{wait:05}then, shall
+we go straight off and
+drink ourselves under?"
+
+#### 52 ####
+Sigurd
+"Where do you plan
+on going...?"
+
+#### 53 ####
+Jessie
+"What do you mean?{wait:0A}
+There has to be a bar or
+two on board your ship!"
+
+#### 54 ####
+Sigurd
+"I have a slight 
+headache..."
+
+#### 55 ####
+Jessie
+"What?{wait:0A}
+That's OK.{enter}
+We'll get rid of that
+headache with a good
+drink."
+
+#### 56 ####
+Citan
+"What are you going to do?"
+
+#### 57 ####
+Citan
+"What are you going to do?"
+
+#### 58 ####
+Sigurd
+"I can't just say no to
+him..."
+
+#### 59 ####
+Jessie
+"What are you doin'? 
+Let's go!"
+
+#### 60 ####
+Sigurd
+"Hey now..."{clear:1E}
+
+#### 61 ####
+Oh-no-ho-ho...{clear:1E}
+
+#### 62 ####
+Oh-no-ho-ho...{clear:1E}
+
+#### 63 ####
+Billy
+"I'm not going...{wait:0A}
+Go ahead and have a good
+time."
+
+#### 64 ####
+Bart
+"What's this huge ship 
+Sig was talking about?"
+
+#### 65 ####
+Elly
+"What is this huge ship 
+Sig was talking about?"
+
+#### 66 ####
+Citan
+"I am sorry, everyone.{wait:0A} 
+If I may be excused..."
+
+#### 67 ####
+Rico
+"Oh well, I guess I'll go.
+I've got time to kill."
+
+#### 68 ####
+Bart
+"Oh well, me too."
+
+#### 69 ####
+Rico
+"Oh well, I guess I'll go.
+I've got time to kill."
+
+#### 70 ####
+Bart
+"Oh well, me too."
+
+#### 71 ####
+Jessie
+"...HIC...!!{wait:0A}
+I'm back. {wait:0A}
+Where's Billy?"
+
+#### 72 ####
+Billy
+"Keep it down!{wait:0A}
+What time do you think
+it is?{enter}
+Be quiet when you come
+back, or you will wake
+the children."
+
+#### 73 ####
+Jessie
+"If you'd come you'd
+have heard a ton of
+good stories.{enter}
+Sigurd's stories 
+were hilarious."
+
+#### 74 ####
+Billy
+"You know Siggy doesn't
+drink and you made him?{wait:0A}{enter}
+Even though you're a holy
+man's father..."
+
+#### 75 ####
+Jessie
+"Hey hey, why don't you
+open up your eyes.{enter}
+You need to quit bein'
+a priest."
+
+#### 76 ####
+Billy
+"I don't want to hear
+that from someone with-
+out a shred of faith.{wait:0A}{enter}
+Stay out of my life."
+
+#### 77 ####
+Jessie
+"Stay out?{enter}
+Do you have any idea how
+much trouble your little
+butt is in?"
+
+#### 78 ####
+Billy
+"What?{wait:0A}
+How would you know?"
+
+#### 79 ####
+Jessie
+"!?{wait:0A}
+You...!!"
+
+#### 80 ####
+Billy
+"I still don't believe
+you're even my father.{enter}
+You're not the person
+mother loved."
+
+#### 81 ####
+Jessie
+"Whaddya mean...{wait:14}
+You think I'm a fake?"
+
+#### 82 ####
+Billy 
+"Ask yourself."
+
+#### 83 ####
+...
+
+#### 84 ####
+Jessie
+"You're right. I guess
+there's no way to prove
+it...{enter}
+Fine, you still don't
+understand the truth.{wait:0A}
+What those guys really are, 
+where you are going..."
+
+#### 85 ####
+Billy
+"Father, what are 
+you saying...?"
+
+#### 86 ####
+Jessie
+"I'm saying Racquel died
+in vain."
+
+#### 87 ####
+Billy
+"!!{wait:0A}
+You have no right to
+say mother's name!"
+
+#### 88 ####
+Jessie
+"...{wait:0A}
+I see. That's the way it
+is. Fine.{enter}
+Anyhow, quit your job.{wait:0A} 
+Consider it a piece of
+advice from a man who is
+but a stranger to you."
+
+#### 89 ####
+...
+
+#### 90 ####
+
+

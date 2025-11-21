@@ -1,0 +1,340 @@
+<TextBlock 1 w:42 h:3>
+C'è un mucchio di lavoro
+solo per cambiare questi
+fusibili e quelli là…<Opcode 2 30><Close><End of Block>
+<TextBlock 2 w:42 h:3>
+Si suppone che non possa
+essere generata più di
+una spinta in uscita.<Opcode 2 30><Close><End of Block>
+<TextBlock 3 w:46 h:2>
+Accidenti!<Delay 10> La serpentina
+del levitron è ancora
+bollente…<Opcode 2 30><Close><End of Block>
+<TextBlock 4 w:48 h:4>
+La serpentina si romperà
+se il toroide viene
+raffreddato troppo in
+fretta…<New>
+È grande, ma è molto
+delicato…<Opcode 2 60><Close><End of Block>
+<TextBlock 5 w:40 h:2>
+Il circuito elettrico
+è ottimizzato e…<Opcode 2 30><Close><End of Block>
+<TextBlock 6 w:42 h:4>
+Il levitron non è di
+buon umore oggi.<Delay 10>
+Il plasma si raffredda
+troppo velocemente…<Opcode 2 60><Close><End of Block>
+<TextBlock 7 w:40 h:1>
+Il fusibile è a posto?<Opcode 2 30><Close><End of Block>
+<TextBlock 8 w:48 h:5>
+È già il momento<Delay 5>…<Delay 10>
+Non siamo gente da prima
+linea, ma vi daremo tutto
+il supporto di cui saremo
+capaci!<Close><End of Block>
+<TextBlock 9 w:40 h:4>
+C'è un nuovo congegno
+a poppa…!<New>
+Sono felice di poter
+lavorare su qualcosa
+di così meraviglioso
+alla mia età… <Delay 10>Eh eh eh.<Close><End of Block>
+<TextBlock 10 w:34 h:2>
+Non preoccuparti!
+Va alla grande!<Close><End of Block>
+<TextBlock 11 w:32 h:3>
+State per andare su
+una nave fantasma?<Delay 10>
+Fate attenzione!<Close><End of Block>
+<TextBlock 12 w:30 h:4>
+Elly
+"Capo…
+Mi dispiace.<Delay 10>
+Io…"<Close><End of Block>
+<TextBlock 13 w:50 h:3>
+È tutto a posto.<Delay 10> Tutti
+fanno degli errori.<New>
+Non ho problemi con i
+giovani che fanno errori!<Close><End of Block>
+<TextBlock 14 w:56 h:2>
+(Ma, se ne fai ancora, ti
+troverai in un mare di…!)<Close><End of Block>
+<TextBlock 15 w:50 h:4>
+Sto lavorando su questi
+motori da molti anni…<New>
+Ma non capisco perché
+il plasma ad alta energia
+viene prodotto nei
+Generatori Secondari…<New>
+Al momento, nessuno
+sa come funzionano i
+generatori delle navi
+o dei Gear.<New>
+Ma forse Solaris sa
+che cosa siano in realtà
+i Generatori Secondari…<Close><End of Block>
+<TextBlock 16 w:52 h:3>
+Perfetto!!<Delay 10> È meglio di
+prima, ora che usiamo
+l'acqua per raffreddare.<New>
+Ma a causa di questo,
+dobbiamo sgobbare di più.<Close><End of Block>
+<TextBlock 17 w:50 h:3>
+Padroncino<Delay 5>…<Delay 10> questo
+luogo non vi ricorda il
+giorno di quell'incidente?<Close><End of Block>
+<TextBlock 18 w:52 h:3>
+L'Yggdrasil è affondato…<Delay 10>
+Ma siamo stati fortunati
+a trovare quest'altro…<New>
+Ma, tutte le volte che
+lavoro su questo motore,
+ho strane senzazioni…<New>
+Come se questa nave fosse
+in qualche modo 'collegata'
+all'altra…<Delay 10> Strano, eh!?<Close><End of Block>
+<TextBlock 19 w:48 h:3>
+Hai fallito…<Delay 10>
+Ma tutti hanno i loro
+alti e bassi nella vita.<Close><End of Block>
+<TextBlock 20 w:52 h:3>
+Padroncino, dimentichi il
+passato… È più importante
+il fututo.<New>
+La battaglia di oggi non
+è ancora finita.<Close><End of Block>
+<TextBlock 21 w:46 h:4>
+Il più grande momento di
+un meccanico è la notte
+prima di una missione!<New>
+Oggi è il giorno in cui
+questa nave mostrerà
+di che pasta è fatta…<New>
+Ti renderò bellissima,
+bambina!<Close><End of Block>
+<TextBlock 22 w:50 h:4>
+Margherita è ritornata e
+sembra giunto il momento
+della resa dei conti.<New>
+Motore!<Delay 5> Conto su di te!
+<Delay 10>Quando tutto sarà
+finito e potrò avere tanto
+riposo…<Delay 10> Buon riposo…<Close><End of Block>
+<TextBlock 23 w:44 h:3>
+Ottimo lavoro!<Delay 10>
+Abbiamo salvato Margherita!<New>
+Ho sentito che un tizio
+chiamato Fei, esperto
+in arti marziali, ci ha
+aiutato.<Close><End of Block>
+<TextBlock 24 w:46 h:4>
+Tu, smettila di oziare e
+concentrati sull'allenamento
+come fa Fei!!<Close><End of Block>
+<TextBlock 25 w:46 h:3>
+Ci siamo!
+Stavolta state andando
+a salvare Margherita!<New>
+Vi darò abbastanza
+carburante… così andate
+a prenderla!<Close><End of Block>
+<TextBlock 26 w:50 h:3>
+Fiuh, finalmente posso
+lasciarla riposare. Quando
+potete, cercate di fare il
+pieno di riposo!<Close><End of Block>
+<TextBlock 27 w:52 h:3>
+Qui solo io posso
+toccare la macchina.
+E il Padroncino!<Close><End of Block>
+<TextBlock 28 w:44 h:1>
+Uhh… Padroncino…<Space 1><Close><End of Block>
+<TextBlock 29 w:30 h:2>
+Accidenti!! C'è
+mancato<Delay 10> poco!<Opcode 2 30><Close><End of Block>
+<TextBlock 30 w:36 h:1>
+Motore a Piena Potenza!<Close><End of Block>
+<TextBlock 31 w:52 h:4>
+Quelli di Shevat hanno
+installato un mucchio di
+roba…<Delay 10> Così è molto più
+divertente lavorare!<Close><End of Block>
+<TextBlock 32 w:28 h:1>
+A più tardi!<Close><End of Block>
+<TextBlock 33 w:60 h:3>
+…<Delay 10>
+Stai bene, vero?<Delay 10>
+Sei l'Elly normale, giusto?<Close><End of Block>
+<TextBlock 34 w:46 h:3>
+Povero me!!<Delay 10>
+Devo ripararlo di nuovo
+per colpa di quella ragazza!!<Close><End of Block>
+<TextBlock 35 w:56 h:3>
+Fiuh… In qualche modo
+si muove. Ora devo solo
+metterla a punto.<Close><End of Block>
+<TextBlock 36 w:52 h:3>
+Padroncino<Delay 5>…<Delay 5> Pensate 
+che l'Yggdrasil affondato
+ora riposi in pace?<Close><End of Block>
+<TextBlock 37 w:54 h:3>
+Chissà se il motore del
+nostro vecchio Yggdrasil
+sta piangendo nella sabbia
+profonda…<Close><End of Block>
+<TextBlock 38 w:48 h:4>
+No, sta riposando.
+Dobbiamo credere che quello
+sia il miglior posto per
+lui,<Delay 10> altrimenti…<Close><End of Block>
+<TextBlock 39 w:60 h:3>
+Questo Yggdrasil è ancora qui.<Delay 10>
+Fintanto che è in buono stato,
+possiamo sempre prenderci la
+rivincita!<Close><End of Block>
+<TextBlock 40 w:44 h:4>
+Quel vecchio è lo zelo
+fatto persona…<Delay 10>
+Spero che le sue vene
+non scoppino…<Close><End of Block>
+<TextBlock 41 w:44 h:4>
+Non c'è da preoccuparsi!<Delay 10>
+Le sue vene sono fatte
+di duralluminio e
+dentro vi scorre olio.<Close><End of Block>
+<TextBlock 42 w:40 h:2>
+Finalmente il motore
+può prendersi una pausa.<Close><End of Block>
+<TextBlock 43 w:58 h:3>
+Quando saremo a Nisan, faremo
+fare al motore un'altra pausa.<New>
+Vedi quei pezzi a forma di
+frittella che ruotano intorno
+alle sei pertiche laggiù?<New>
+Il plasma generato là
+dentro è la forza motrice
+della nave.<New>
+Lo stesso vale per i Gear.<Close><End of Block>
+<TextBlock 44 w:34 h:2>
+Il vecchio è un 
+simpaticone vecchio
+stile!!<Close><End of Block>
+<TextBlock 45 w:38 h:2>
+Non dovresti andare
+lassù. Fidati.<Close><End of Block>
+<TextBlock 46 w:50 h:3>
+Si comporta sempre così.
+Non prendertela.
+Non è cattivo.<Close><End of Block>
+<TextBlock 47 w:50 h:3>
+Di nuovo, controllo finale!<Delay 10>
+Ogni secondo conta!<Delay 5>
+Padroncino per sempre!<Close><End of Block>
+<TextBlock 48 w:54 h:3>
+Tempo fa avemmo un problema
+col motore ed il Padroncino
+volle cercare di ripararlo.<New>
+Sigurd cercò di aiutare
+il Padroncino ed entrambi
+alla fine si ferirono ad
+un occhio.<Close><End of Block>
+<TextBlock 49 w:52 h:3>
+Noi siamo orgogliosi del
+Padroncino, ma<Delay 5>…<Delay 5> talvolta
+è troppo precipitoso.<New>
+Il capo pensa che sia
+tutta colpa sua.<Close><End of Block>
+<TextBlock 50 w:48 h:2>
+Il capo ha un debole per
+le ragazze.<Close><End of Block>
+<TextBlock 51 w:54 h:3>
+Che!? Ci si aspetta che un
+uomo sia carino con le donne,
+no!?<Close><End of Block>
+<TextBlock 52 w:36 h:3>
+(Grrr!!<Delay 5>
+Ma tu sei un pezzo di
+ghiaccio con tua moglie!!)<Close><End of Block>
+<TextBlock 53 w:36 h:1>
+Motore a Piena Potenza!<Close><End of Block>
+<TextBlock 54 w:58 h:3>
+L'ho chiesto a quelli
+di Shevat…<Delay 10> Ma sembra
+che neanche loro lo sappiano.<New>
+Mi hanno detto che nessuno
+sa come il loro paese faccia
+a volare.<Close><End of Block>
+<TextBlock 55 w:56 h:3>
+Una macchina che continua a
+funzionare dai tempi antichi
+senza alcuna manutenzione…<New>
+Devo scoprire il segreto del
+suo meccanismo.<Close><End of Block>
+<TextBlock 56 w:22 h:1>
+Attenzione!<Close><End of Block>
+<TextBlock 57 w:36 h:3>
+!!<Delay 10> Per favore, non
+romperlo questa volta.<Close><End of Block>
+<TextBlock 58 w:46 h:3>
+Come ha potuto capire
+questo complicato
+meccanismo così
+facilmente…?<New>
+Di solito, più di una
+specifica uscita non può
+essere generata.<New>
+Sotto che tipo di ipnosi
+si trovava?<Close><End of Block>
+<TextBlock 59 w:44 h:3>
+Il Tammuz sembra un bel
+posto da visitare.<Delay 10>
+Dovrò sgattaiolare fuori…<Close><End of Block>
+<TextBlock 60 w:48 h:3>
+Cos'è che vorresti fare!?
+<Delay 10>Prima devi aspettare di
+essere autosufficiente!<Close><End of Block>
+<TextBlock 61 w:34 h:1>
+Cazzo,<Delay 10> mi ha sentito!<Close><End of Block>
+<TextBlock 62 w:22 h:1>
+Lavoro,<Delay 10> lavoro!<Close><End of Block>
+<TextBlock 63 w:46 h:3>
+Questa nave porta avanti
+con orgoglio la volontà
+e la missione della sua
+nave gemella!<Close><End of Block>
+<TextBlock 64 w:50 h:3>
+Scusa, ma non ho proprio
+voglia di parlarne.<Delay 10>
+Voglio restare da solo…<Close><End of Block>
+<TextBlock 65 w:50 h:3>
+Oh, Padroncino, state
+bene!<Delay 10> Qual è ora il
+vostro piano?<Close><End of Block>
+<TextBlock 66 w:40 h:3>
+Cazzo!<Delay 10> Ho trovato un
+problema proprio adesso!
+Cosa farò<Delay 5>…<New>
+Spero di riuscire a
+ripararlo per domani…<Close><End of Block>
+<TextBlock 67 w:42 h:1>
+Sta cadendo a pezzi…<Close><End of Block>
+<TextBlock 68 w:46 h:2>
+Siamo già a Nisan!!<Delay 10>
+Che motore!<Close><End of Block>
+<TextBlock 69 w:52 h:1>
+Il motore è fantastico!!<Close><End of Block>
+<TextBlock 70 w:52 h:2>
+Non dovresti andare
+lassù. Fidati.<Close><End of Block>
+<TextBlock 71 w:56 h:4>
+Ti ha sgridato, non è vero?
+Si è arrabbiato anche con
+noi. Apre il suo cuore solo
+al suo cane, Martle.<Close><End of Block>
+<TextBlock 72 w:28 h:3>
+I dilettanti non
+sono accettati qui.<Delay 10>
+Fuori dai piedi!<Close><End of Block>
+<TextBlock 73 w:0 h:1>
+<Close><End of Block>

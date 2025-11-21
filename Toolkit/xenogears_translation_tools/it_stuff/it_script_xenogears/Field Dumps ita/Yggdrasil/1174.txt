@@ -1,0 +1,77 @@
+<TextBlock 1 w:48 h:4>
+Fei
+"… Non chiamarmi
+'figliolo'.<New>
+Perché di sicuro
+non sei il mio
+paparino."<Close><End of Block>
+<TextBlock 2 w:24 h:2>
+Fei
+"Anche tu…"<Close><End of Block>
+<TextBlock 3 w:48 h:3>
+Fei
+"…<Delay 5> Non portarti sfiga!<Delay 32>
+Non è da te<Delay 5>…<New>
+Ma<Delay 5>… <Delay 5>in quel caso<Delay 5>…
+mi prenderò cura di loro.<Delay 10>
+Non preoccuparti."<Close><End of Block>
+<TextBlock 4 w:50 h:4>
+Bart
+"Anche se la nave da
+guerra è molto vecchia…<New>
+… andrete lì solo con
+un piccolo gruppo.<New>
+Sarà un combattimento
+duro, ma potreste
+cambiare il futuro
+di Aveh.<New>
+Conto su di voi."<Close><End of Block>
+<TextBlock 5 w:52 h:4>
+Bart
+"Fei,<Delay 5> è strano per me
+dirlo, visto che sono io
+quello che ti ha coinvolto<Delay 5>…<New>
+Ma<Delay 5>… <Delay 5>sta' attento,<Delay 5> ok!?"<Close><End of Block>
+<TextBlock 6 w:48 h:4>
+Bart
+"Se<Delay 5>…<Delay 5> mi succedesse
+qualcosa<Delay 15>…<New>
+… prenditi cura
+di loro e di
+Margie per me!"<Close><End of Block>
+<TextBlock 7 w:50 h:4>
+Maitreya
+"Ogni gruppo di Gear parta,
+secondo l'ordine stabilito,
+da qui, per evitare di
+essere individuato.<New>
+C'incontremo alle Montagne
+Rocciose, presso il confine,
+domani alle 12.00.
+Capito?"<Close><End of Block>
+<TextBlock 8 w:50 h:3>
+Maitreya
+"Lasciate fare a noi,
+Padroncino!<New>
+Faremo venire il mal
+di testa a Vanderkam!!"<Close><End of Block>
+<TextBlock 9 w:28 h:2>
+Maitreya
+"Giusto,
+figliolo!?"<Close><End of Block>
+<TextBlock 10 w:48 h:2>
+Maitreya
+"Eh? Aa, ah, ah, ah…"<Close><End of Block>
+<TextBlock 11 w:50 h:4>
+Maitreya
+"Beh, Padroncino… le
+promettiamo di ottenere
+qualcosa da questa
+battaglia!"<Close><End of Block>
+<TextBlock 12 w:10 h:1>
+OK!<Opcode 2 32><Close><End of Block>
+<TextBlock 13 w:22 h:1>
+Sono agitatissimo!<Opcode 2 32><Close><End of Block>
+<TextBlock 14 w:26 h:2>
+L'ora è finalmente
+arrivata.<Opcode 2 32><Close><End of Block>

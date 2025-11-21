@@ -1,0 +1,122 @@
+With Xenomap2:
+
+Image no.
+
+
+291:		NewGame
+202:		Continue
+293:		Sound
+294:		Exit
+295:		Save
+296:		Load
+297:		Copy
+298:		Delete
+299:		Status
+300:		Equip
+301:		Items
+302:		Abilities
+303:		Gear
+304:		File
+305:		Exit
+306:		Skills
+307:		Abilities
+308:		Equip
+309:		Buy
+310:		Sell
+311:		Exit
+312:		Items
+313:		Weapons
+314:		Accessories
+315:		Equipment
+316:		Gear Option
+317:		Abilities
+318:		Equip
+319:		Get ON-OFF
+320:		Stereo
+321:		Wide-Stereo
+322:		Mono
+323:		Tune up
+324:		Weapons
+325:		Parts
+326:		Fuel
+327:		Engine
+328:		Frame
+329:		Armor
+
+With Xenomap3:
+
+Image no.
+
+222:			Attack
+223:			Hit%
+224:			Defense
+225:			Evade%
+226:			Ether
+227:			+
+228:			EthDef.
+229:			-
+230:			Weight
+231:			lbs.
+235:			Agility
+237:			!
+238:			:
+240:			END
+243:			Defense
+244:			EthDef.
+245:			Fuel
+246:			Response
+247:			EthAmp.
+248:			maxHeat
+330:			Red Arrow
+
+Letters coordinates:
+
+Letter	        X	Y	Wid	Hei
+
+A		80	0	8	8
+B		88	0	8	8
+C		96	0	8	8
+D		104	0	8	8
+E		112	0	8	8
+F		188	0	8	8
+L		40	8	8	8
+M		48	8	8	8
+N		56	8	8	8
+P		72	8	8	8
+R		88	8	8	8
+S		96	8	8	8
+T		104	8	8	8
+U		112	8	8	8
+V		120	8	8	8
+
+a		32	16	8	8
+b		40	16	8	8
+c		48	16	8	8
+d		56	16	8	8
+e		64	16	8	8
+f		72	16	8	8
+g		80	16	8	8
+h		88	16	8	8
+i		96	16	8	8
+j		104	16	8	8
+k		112	16	8	8
+l		120	16	8	8
+m		0	24	8	8
+n		8	24	8	8
+o		16	24	8	8
+p		24	24	8	8
+q		32	24	8	8
+r		40	24	8	8
+s		48	24	8	8
+t		56	24	8	8
+u		64	24	8	8
+v		72	24	8	8
+w		80	24	8	8
+x		88	24	8	8
+y		96	24	8	8
+z		104	24	8	8
+
+/		112	24	8	8
+.		80	56	8	8
++		25	96	6	7
+-		32	96	6	7

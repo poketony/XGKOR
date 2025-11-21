@@ -1,0 +1,33 @@
+#### 1 ####
+Fei
+"Looks like we can 
+climb up..."
+
+#### 2 ####
+    Climb
+    Stop
+
+#### 3 ####
+You have too many
+{str}.
+
+#### 4 ####
+ 
+ Received {str}.
+
+#### 5 ####
+You have too many
+{str}.
+
+#### 6 ####
+ 
+ Received {str}.
+
+#### 7 ####
+You have too many
+{str}.
+
+#### 8 ####
+ 
+ Received {str}.
+

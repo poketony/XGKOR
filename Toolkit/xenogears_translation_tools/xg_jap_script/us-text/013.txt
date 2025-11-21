@@ -1,0 +1,286 @@
+#### 1 ####
+{fast:FF}
+ 
+ 
+ 
+ 
+In the next episode of
+     "XENOGEARS"...{clear:B4}{clear:B4}
+
+#### 2 ####
+Fei
+"Yeah tomorrow, huh...
+Your wedding with Alice!
+Now that is a big day!"
+
+#### 3 ####
+Fei
+"Hey, errh, Timothy.
+I just want to thank
+both you and Alice...{enter}
+3 years ago, I woke up
+in this village without
+a trace of my memory...{enter}
+I didn't know who I was,
+where I had been or what
+I had been doing up until
+that day...{enter}
+I couldn't recall a
+single thing..."
+
+#### 4 ####
+Fei
+"Despite that, you and
+Alice sympathized with me
+and encouraged me to go on.{enter}
+If the two of you hadn't
+have been there for me,
+I don't know what would
+have become of me..."
+
+#### 5 ####
+Fei
+"Timothy...{wait:14}
+From the bottom of my
+heart, I thank you!{enter}
+Now, you and Alice
+had better live
+happily ever after!"
+
+#### 6 ####
+Fei
+"Of course!"
+
+#### 7 ####
+Fei
+"Yeah, sure!
+I'll do that...{wait:14} Anyway,
+I'll see you later.{enter}
+Oh, and I am really
+looking forward to the
+ceremony tomorrow."
+
+#### 8 ####
+Fei
+"Why, hello there Dan!{wait:14}
+You're lively today...
+as you are everyday!"
+
+#### 9 ####
+Fei
+"What is it, Dan?{wait:14}
+It sounds serious!"
+
+#### 10 ####
+Fei
+"Huh...?{wait:1E} 
+What's up with him?"
+
+#### 11 ####
+Timothy
+"So how was Alice?{wait:1E} I still
+can't believe we're really
+getting married tomorrow!{enter}
+It's such a weird feeling.{wait:1E}
+We've always been together
+ever since we were just
+little kids..."
+
+#### 12 ####
+Timothy
+"Could you go check up
+on Alice for me...?{enter}
+The old man and I have
+still got to discuss
+things with her uncle
+and the village chief."
+
+#### 13 ####
+Timothy
+"Yo! Hi there, Fei.
+Sorry for us all using
+your house like this.{enter}
+But, we have to talk about
+the big day tomorrow with
+the village chief."
+
+#### 14 ####
+Timothy
+"Yeah... right...{wait:14}
+But it still hasn't hit
+me as reality though."
+
+#### 15 ####
+Timothy
+"Hah! Quit it will ya!
+You don't have to go and
+get all mushy on me...{enter}
+Anyway, to me it feels
+like I've always been
+friends with you ever
+since we were kids."
+
+#### 16 ####
+Timothy
+"And we will go on being
+friends forever, right?"
+
+#### 17 ####
+Timothy
+"Oh yeah, Fei...
+Could you stop by
+and check on Alice?{enter}
+I still have stuff to
+discuss with my old man
+and the village chief.{enter}
+But I'm sure she'll
+be glad to have some
+company."
+
+#### 18 ####
+Timothy
+"Dan!{wait:1E} Don't be so rude.
+What's this barging in
+and all?"
+
+#### 19 ####
+Timothy
+"As of tomorrow, I'm
+going to be that kid's
+brother-in-law...{enter}
+Hah!
+That part isn't going
+to be no honeymoon!"
+
+#### 20 ####
+"So there you are!{wait:1E} 
+Fei, I have to talk to
+you about something!"
+
+#### 21 ####
+Dan
+"Argh! Timothy's
+here too."
+
+#### 22 ####
+Dan
+"Butt out, Timothy!{enter}
+Until you marry my
+sister, you have
+nothing to do
+with me at all!{enter}
+I just have some
+business here with
+my friend Fei!"
+
+#### 23 ####
+Dan
+"So anyway Fei, I errh...
+I have something to talk
+to ya about later..."
+
+#### 24 ####
+Dan
+"Yeah, that's why I can't
+talk about it here...{enter}
+There's a certain person
+listening in who could
+cause us trouble...!"
+
+#### 25 ####
+Dan
+"It's really important!{wait:14}
+We gotta talk,{wait:14} seriously,{wait:14}
+one-on-one, man-to-man!{enter}
+I'll be hanging around
+outside. So I'll see
+ya there later, OK!"
+
+#### 26 ####
+Dan
+"Be seein' ya, Timothy!{wait:1E}
+Take care of yourself
+until tomorrow..."
+
+#### 27 ####
+Chief Lee
+"Oh, it's you, Fei.{enter}
+We're in the middle
+of discussing Timothy
+and Alice's wedding
+arrangements."
+
+#### 28 ####
+Chief Lee
+"Hey, why don't you bring
+a girlfriend or two home
+once in a while?{enter}
+Just because you live with
+an old man like me doesn't
+mean you have to hold back
+now, you hear!?{enter}
+Why, when I was as young
+as you are, it seemed like
+everyday I would..."
+
+#### 29 ####
+Ahem!{wait:14}
+Ohum!{clear:28}
+
+#### 30 ####
+Chief Lee
+"Oh, errh... never mind.{enter}
+Now, we still have
+important things to
+discuss...{wait:14} so don't
+get in the way now."
+
+#### 31 ####
+Chief Lee
+"We still have many
+important things to
+talk about...{enter}
+So you had better
+not bother us now."
+
+#### 32 ####
+Timothy's Father
+"Hello there, Fei.{enter}
+Our Timothy is a really
+lucky boy to be able to
+marry such a beautiful
+girl like Alice!{enter}
+I hope you come up with
+some embarrassing tales
+to tell in your speech!
+Hah haah haaah!"
+
+#### 33 ####
+Alice's Uncle
+"I don't know whether to be
+happy or sad...{enter}
+Tomorrow, our little Alice
+is going to become someone's
+wife...{enter}
+I knew this day would come!{wait:14}
+...This is the worst part of
+bringing up a little girl!"
+
+#### 34 ####
+Sigh...{clear:14}
+
+#### 35 ####
+You know Fei, I am sure that
+our village chief thinks of
+you as his own grandson...{enter}
+Not having any family for
+all those years, and living
+on his own for oh so long...{enter}
+That's why he cares so very
+dearly about you!
+
+#### 36 ####
+Please, never do anything that
+would break his poor old heart!{wait:14}
+You promise me that, Fei!?
+

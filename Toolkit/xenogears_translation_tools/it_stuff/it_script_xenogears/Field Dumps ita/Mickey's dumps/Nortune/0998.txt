@@ -1,0 +1,992 @@
+<TextBlock 1 w:50 h:3>
+Shitan
+"Bene, <Delay 5>Fei.
+Presto il treno sarà
+qui.<New>
+Muoviamoci, <Delay 5>alla
+torre di osservazione!"<Close><End of Block>
+<TextBlock 2 w:50 h:3>
+Fei
+"Saltare sul treno
+da qui quando
+passerà<Delay 5>…"<Close><End of Block>
+<TextBlock 3 w:50 h:4>
+Fei
+"<Delay 5>…<Delay 5> Giusto.
+Prima dobbiamo chiarire
+questo caso di omicidi<Delay 5>…"<Close><End of Block>
+<TextBlock 4 w:50 h:3>
+Fei
+"Hai ragione, <Delay 10>scusa Doc.<New>
+L'avevo dimenticato.<Delay 15>
+Ora devo tornare al
+dormitorio<Delay 5>…"<Close><End of Block>
+<TextBlock 5 w:46 h:3>
+Fei
+"Grazie.<Delay 15>
+Allora io vado."<Close><End of Block>
+<TextBlock 6 w:26 h:1>
+<Delay 5>…<Delay 5> È andato.<Close><End of Block>
+<TextBlock 7 w:32 h:2>
+Shitan
+"<Delay 5>…<Delay 5> È andato."<Opcode 2 90><Close><End of Block>
+<TextBlock 8 w:58 h:2>
+Allarme attivato, uscire
+attraverso il passaggio
+superiore.<Opcode 2 60><Close><End of Block>
+<TextBlock 9 w:56 h:2>
+Rilevatore termale di
+movimento del passaggio
+superiore disattivato.<Opcode 2 60><Close><End of Block>
+<TextBlock 10 w:42 h:1>
+Non va, è chiuso.<Opcode 2 30><Close><End of Block>
+<TextBlock 11 w:42 h:1>
+Non va, è chiuso.<Opcode 2 30><Close><End of Block>
+<TextBlock 12 w:56 h:1>
+Chiuso dall'interno.<Opcode 2 30><Close><End of Block>
+<TextBlock 13 w:56 h:1>
+Chiuso dall'interno.<Opcode 2 30><Close><End of Block>
+<TextBlock 14 w:56 h:2>
+Il sole è già tramontato.
+Scusa, ma è ora di andare!<Close><End of Block>
+<TextBlock 15 w:56 h:3>
+Nonno
+"Ho un avviso per te,
+giovanotto!<Delay 30> Saltare
+da questa torre è
+illegale!<New>
+Anche se ti conosco,
+devo multarti!<Delay 15>
+Non <Delay 5>dimenticarlo!
+Non scherzo mica!"<Close><End of Block>
+<TextBlock 16 w:56 h:4>
+Nonno
+"Ehi, oggi passa il
+treno dei rifornimenti!<New>
+Ho un avviso per te,
+giovanotto, non cercare
+di bloccare i binari!<Delay 15>
+Saresti multato<Delay 5>…"<Close><End of Block>
+<TextBlock 17 w:54 h:4>
+Nonno
+"Oltre questi binari<Delay 5>…<New>
+Ci sono degli speciali
+equipaggiamneti nella
+galleria.<New>
+Ci fu un gruppo che
+cercò di scappare ma il
+loro collare fece BOOM!
+Già, ciao ciao<Delay 5>…"<Close><End of Block>
+<TextBlock 18 w:50 h:4>
+Nonno
+"<Delay 5>…<Delay 5> Fintanto che avrai
+quella bomba intorno al
+collo non potrai scappare!"<Close><End of Block>
+<TextBlock 19 w:52 h:4>
+Nonno
+"Ho un avviso per te,
+giovanotto!<Delay 30> Saltare
+da questa torre è
+illegale!<New>
+Anche se ti conosco,
+devo multarti!<Delay 15>
+Non <Delay 5>dimenticarlo!
+Non scherzo mica!"<Close><End of Block>
+<TextBlock 20 w:52 h:3>
+Nonno
+"Cosa!?<Delay 5> Giovanotto!<Delay 5><New>
+Ma mi stai ascoltando?<Delay 15>
+Non puoi saltare da qui!<Delay 20>
+È illegale!"<Close><End of Block>
+<TextBlock 21 w:50 h:4>
+Nonno
+"Ehi, <Delay 5>la multa è 50G!<Delay 15>
+Non si salta da qui.
+Ora imparerai la lezione."<Close><End of Block>
+<TextBlock 22 w:30 h:1>
+Prendi una multa
+di 50G!<Close><End of Block>
+<TextBlock 23 w:56 h:4>
+Nonno
+"Non hai 50G?<Delay 15>
+Giovanotto, <Delay 5>sei nei guai<Delay 5>…<Delay 15>
+Via! <Delay 5>Va' fuori di qui!"<Close><End of Block>
+<TextBlock 24 w:34 h:1>
+Comunque, gli dai 30G!!<Close><End of Block>
+<TextBlock 25 w:56 h:4>
+Non ho molta forza,<Delay 5>
+ma so che nessuno mi
+batte nel mio campo,
+quello che riguarda
+la destrezza manuale!<New>
+Questo è il lavoro giusto
+per me, <Delay 5>riparare il tetto.<Delay 15>
+È più remunerativo che
+lavorare nelle fogne!<Close><End of Block>
+<TextBlock 26 w:48 h:4>
+Ehi, ho qualche consiglio
+per te. Il vecchio alla
+torre di osservazione è
+davvero severo.<New>
+Se solo sembra che vuoi
+saltare dalla torre sei
+fregato. Non provarci
+nemmeno a farlo!<Close><End of Block>
+<TextBlock 27 w:56 h:4>
+Comunque,<Delay 5> ti propongo
+un affare.<New>
+So dove puoi trovare un
+lavoro senza neanche
+cercarlo. Qui.<Delay 30> Si tratta
+di una caccia al mostro.<New>
+Questo è un lavoro!!<New>
+<Delay 5>…<Delay 5> Se davvero vuoi
+andare là sotto, dammi
+del denaro e ti farò
+passare.<Close><End of Block>
+<TextBlock 28 w:46 h:3>
+Che ne dici di 100G?<Delay 15>
+     Lasciamo stare
+     D'accordo…<Close><End of Block>
+<TextBlock 29 w:46 h:2>
+Che!? <Delay 5>Capisco.<Delay 15>
+Stammi bene, <Delay 5>allora!<Close><End of Block>
+<TextBlock 30 w:34 h:1>
+Gli dai 100G.<Close><End of Block>
+<TextBlock 31 w:50 h:3>
+Ok, affare fatto.<Delay 5>
+Presto, giù nella fogna!<Delay 15>
+Se mi scoprono…<Close><End of Block>
+<TextBlock 32 w:52 h:4>
+Una dritta per te, amico.
+Non allontanarti troppo!
+Più ti allontani, più
+forti sono i mostri.<Close><End of Block>
+<TextBlock 33 w:46 h:4>
+Ehi tu, <Delay 15>aspetta!
+Mi devi dare 100G.<Delay 30>
+Se non paghi non ti
+faccio scendere!<Close><End of Block>
+<TextBlock 34 w:56 h:4>
+Questa è l'entrata delle
+fogne di Kislev. Ci sono
+molti mostri laggiù. Non
+andarci se non sei pronto.<New>
+Quegli stupidi Combattenti
+e i cacciatori di taglie
+non fanno altro che
+andare e venire.<Close><End of Block>
+<TextBlock 35 w:26 h:1>
+Ehi, <Delay 5>aspetta!<Close><End of Block>
+<TextBlock 36 w:54 h:3>
+Ehi, mi hai sentito?<Delay 15>
+La fogna è chiusa per la
+legge marziale. Capito?<Delay 15><New>
+Niente più caccia.
+Devi trovarti un altro
+modo per fare soldi.<Close><End of Block>
+<TextBlock 37 w:32 h:3>
+Ehi, <Delay 5>ma<Delay 5>…<Delay 5> che?<Delay 30>
+Tu<Delay 5>…<Delay 5> Tu sei il<Delay 15>
+Ca…<Delay 5> Campione!!<Close><End of Block>
+<TextBlock 38 w:48 h:4>
+Rico
+"Grazie per aver
+sorvegliato le fogne.
+Ora vado giù<Delay 5>…<New>
+Non far entrare nessuno
+oltre queste persone."<Close><End of Block>
+<TextBlock 39 w:32 h:1>
+Sì, Campione!!<Close><End of Block>
+<TextBlock 40 w:52 h:3>
+Alcuni manifesti hanno
+delle frasi scritte
+sopra<Delay 5>…<New>
+Non saprei se possono
+esserti utili, ma fossi
+in te, gli darei uno
+sguardo<Delay 5>…<Close><End of Block>
+<TextBlock 41 w:56 h:3>
+Ti dirò una cosa.<Delay 5>
+I manifesti come quello
+che vedi su quel muro<Delay 5>…<New>
+Hanno delle cose scritte
+sopra.<Delay 5> Ce ne sono
+molti altri come quello.<Close><End of Block>
+<TextBlock 42 w:28 h:1>
+Fai attenzione!<Close><End of Block>
+<TextBlock 43 w:56 h:4>
+La folla nel bar è sempre
+la stessa.<New>
+Ma il piano superiore
+del dormitorio dei
+prigionieri è pieno
+di Combattenti.<Close><End of Block>
+<TextBlock 44 w:52 h:4>
+Non è un vero bar.
+Il dormitorio è pieno
+di gente che va e viene,<Delay 5>
+ed è sempre diversa.<Close><End of Block>
+<TextBlock 45 w:50 h:4>
+Anche in questa città piena
+di smog, se ti prendi cura
+delle piante, sbocceranno
+i fiori.<Close><End of Block>
+<TextBlock 46 w:28 h:1>
+Dato Cibo per Cani!<Close><End of Block>
+<TextBlock 47 w:44 h:1>
+Solo una cuccia<Delay 10>…<Close><End of Block>
+<TextBlock 48 w:50 h:2>
+Fei
+"<Delay 5>…<Delay 5> Svegliarsi è proprio
+un'impresa."<Opcode 2 45><Close><End of Block>
+<TextBlock 49 w:66 h:4>
+Sopra la croce,<Delay 5> un
+corno di capra…<New>
+… est ed ovest,<Delay 5> il
+trono del regno di dio…<New>
+… il dominio di uno,<Delay 5>
+il sigillo rosso…<New>
+… qui e là, scovando<Delay 5>
+tesori del passato,
+o così<Delay 5>…<Delay 5> dicono.<Close><End of Block>
+<TextBlock 50 w:58 h:3>
+È la canzone che ho scritto.<Delay 15> 
+Parla del negozio B-Info.<New>
+Vendono pezzi di ricambio
+per Gear provenienti dalle
+rovine di tutto il mondo.<Close><End of Block>
+<TextBlock 51 w:36 h:1>
+So un mucchio di cose,
+non è vero?<Close><End of Block>
+<TextBlock 52 w:42 h:3>
+Ehi, ehi, Eric<Delay 5>…<Delay 5>…!?<Delay 15>
+<Delay 5>…<Delay 5> no.
+Dammi dei soldi!<Close><End of Block>
+<TextBlock 53 w:10 h:1>
+Fico!<Opcode 2 30><Close><End of Block>
+<TextBlock 54 w:54 h:3>
+Questa è una città molto
+pericolosa! Se non stai
+attento ti rubano anche
+le mutande.<New>
+Ma da quando ho una guardia
+del corpo non ho più alcun
+problema!<Close><End of Block>
+<TextBlock 55 w:52 h:4>
+Chissà se c'è qualcosa
+sul terreno…<Delay 15>
+Sì, dai.
+Vorresti aiutarmi?<Close><End of Block>
+<TextBlock 56 w:20 h:1>
+Oh oh.<Opcode 2 30><Close><End of Block>
+<TextBlock 57 w:46 h:4>
+Bene<Delay 5>…<Delay 5> la forma
+originale della moneta è
+sparita<Delay 5>…<Delay 20> Ma, come pensavo,
+ora la moneta è diventata
+più grande.<Close><End of Block>
+<TextBlock 58 w:52 h:3>
+Vedi, <Delay 5>questa non è una
+moneta senza valore<Delay 5>…<Delay 5>?<Delay 15>
+Ahhh, <Delay 5> pensavo funzionasse.<Close><End of Block>
+<TextBlock 59 w:44 h:2>
+Perderai la moneta,
+non farlo!<Close><End of Block>
+<TextBlock 60 w:50 h:4>
+Mmh, <Delay 5>secondo la mia
+teoria la moneta dovrebbe
+diventare più grande<Delay 5>…<Delay 8>
+E <Delay 5>avrà più valore!<Close><End of Block>
+<TextBlock 61 w:48 h:4>
+La mia moneta d'Adamantio
+si è rovinata a causa di
+questi esperimenti!<New>
+Ora è praticamente
+inutilizzabile<Delay 5>…<Delay 30>
+Sigh<Delay 5>…<Delay 15>
+Era meglio prima!<Close><End of Block>
+<TextBlock 62 w:56 h:4>
+Qui ci sono delle rotaie.<Delay 15>
+Di tanto in tanto ci
+passa un treno!<Delay 5>…<Delay 5> Dunque<Delay 12>
+metto una moneta qui
+per fare una prova.<Close><End of Block>
+<TextBlock 63 w:42 h:3>
+      -ATTENZIONE-
+    È pericoloso, non
+tentate di farlo a casa!<Opcode 2 90><Close><End of Block>
+<TextBlock 64 w:62 h:4>
+Sta' zitto, <Delay 5>lo vedo.
+Mi sono intrufolato dal
+condotto<Delay 15>…<Delay 5> no, <Delay 5>stavo
+riparando il condotto.<New>
+Forse è meglio che ti
+calmi e che vai a
+lavorare… <Delay 15>Non la
+pulizia delle fogne, ma…<Close><End of Block>
+<TextBlock 65 w:48 h:2>
+Guardia
+"Ho il turno di
+guardia notturno!<Close><End of Block>
+<TextBlock 66 w:32 h:2>
+Guardia
+"Puoi passare!!"<Close><End of Block>
+<TextBlock 67 w:52 h:3>
+Guardia
+"Da prigioniero
+a Combattente.
+Buona fortuna<Delay 5>…"<Close><End of Block>
+<TextBlock 68 w:56 h:4>
+Guardia
+"Mmh, sei quello nuovo?<Delay 15>
+Il Comitato Imperiale
+ha messo gli occhi su
+di te<Delay 5>…<New>
+Hanno saputo qualcosa
+di te e degli uomini
+del Campione<Delay 5>…<New>
+Sono da qualche parte
+nel Blocco D e hanno
+deciso di venirti a
+trovare<Delay 5>…<New>
+È un'ottima occasione per
+un prigioniero come te!"<Close><End of Block>
+<TextBlock 69 w:50 h:4>
+Guardia
+"Ancora tu? I membri del
+Comitato aspettano nella
+camerata o al bar.<New>
+Vai, presto!"<Close><End of Block>
+<TextBlock 70 w:44 h:4>
+Guardia
+"Questa è l'unica
+possibilità che hai
+di dimostrare ciò
+che vali!<New>
+La camerata o il bar…
+presto!"<Close><End of Block>
+<TextBlock 71 w:46 h:4>
+Guardia
+"Questo è il centro della
+città. I prigionieri del
+Blocco D, come te, non
+possono passare."<Close><End of Block>
+<TextBlock 72 w:52 h:5>
+Guardia
+"Ehi, tu<Delay 5>…<Delay 15> uh?<Delay 20>
+Oh, sei tu!
+Ho ricevuto disposizioni
+dal Comitato<Delay 5>…<New>
+Posso lasciarti passare,
+ma fintanto che hai quel
+collare, è inutile che
+tenti di scappare<Delay 5>…!<New>
+Se non vuoi morire,
+stai alla larga dalle
+aree vietate, come la
+zona civile, ok!?"<Close><End of Block>
+<TextBlock 73 w:54 h:4>
+Guardia
+"Questo è il centro della
+città. I prigionieri come…
+Che? Tu sei<Delay 5>…?<New>
+<Delay 5>…<Delay 5> Scusami!
+Prego, passa pure."<Close><End of Block>
+<TextBlock 74 w:56 h:4>
+Guardia
+"Merda,<Delay 5> il Campione ha
+perso<Delay 5>…<Delay 15><New>
+Tutti scommettevano
+sulla sua vittoria<Delay 5>…<New>
+<Delay 5>…<Delay 5> Io…<Delay 15>
+ho gettato al vento il
+salario di<Delay 5> sei mesi<Delay 5>…<Delay 10>
+Cazzo<Delay 5>…<Delay 30><New>
+Credo che anch'io dovrò
+iniziare a lavorare
+nelle fogne."<Close><End of Block>
+<TextBlock 75 w:54 h:3>
+Guardia
+"Sono pochi i prigionieri
+di Classe A come te.<New>
+Ecco perché il Comitato
+ti ha notato.<New>
+Tutti si aspettano il
+combattimento dell'anno<Delay 5>…<Delay 5>
+tuttavia il Campione
+vincerà."<Close><End of Block>
+<TextBlock 76 w:54 h:5>
+Guardia
+"<Delay 5>…<Delay 5> Hai perso con Suzarn
+e sei solo di Classe B.
+Non c'è ragione per cui
+il comitato ti noti<Delay 5>…"<Close><End of Block>
+<TextBlock 77 w:56 h:5>
+Guardia
+"La prossima volta
+combatterai pilotando una
+macchina chiamata Gear.<New>
+Buona fortuna e cerca
+di non farti ammazzare."<Close><End of Block>
+<TextBlock 78 w:48 h:5>
+Guardia
+"Ma questi tipi del
+Comitato Imperiale
+sono impazziti?<New>
+Vogliono parlare con
+un prigioniero di
+Classe C per farlo
+combattere nell'arena<Delay 5>…?"<Close><End of Block>
+<TextBlock 79 w:54 h:4>
+Guardia
+"Ehi, è l'occasione di
+una vita. Devi tentare<Delay 5>…<Delay 5>…"<Close><End of Block>
+<TextBlock 80 w:48 h:4>
+Guardia
+"Ma questi tipi del
+Comitato Imperiale
+sono impazziti?<New>
+Vogliono parlare con
+un prigioniero di
+Classe C per farlo
+combattere nell'arena<Delay 5>…?"<Close><End of Block>
+<TextBlock 81 w:54 h:4>
+Guardia
+"Ehi, nella vita hai solo
+un'occasione. Non puoi
+sprecarla<Delay 5>…<Delay 5>…"<Close><End of Block>
+<TextBlock 82 w:48 h:4>
+Guardia
+"Incredibile!<New>
+Il Comitato Imperiale
+parla ad un prigioniero
+di Classe D per farlo
+combattere!<New>
+Cos'hanno in mente?"<Close><End of Block>
+<TextBlock 83 w:54 h:4>
+Guardia
+"Qui nessun prigioniero
+è mai diventato un
+Combattente in così
+breve tempo.<New>
+Ah ah ah, quest'anno il
+combattimento si presenta
+interessante<Delay 5>…<New>
+Ok, <Delay 5>buona fortuna.<Delay 15>
+Farò il tifo per te…<Delay 5>
+credo."<Close><End of Block>
+<TextBlock 84 w:54 h:4>
+Guardia
+"Che lavoro?<Delay 20>
+Io ho un solo lavoro.<New>
+<Delay 5>…<Delay 5> Ma so che ci sono
+molti mostri giù nelle
+fogne di Kislev.<New>
+Dare loro la caccia è
+un lavoro."<Close><End of Block>
+<TextBlock 85 w:54 h:3>
+Guardia
+"Ehi,<Delay 5> tu!<New>
+Cosa ci fai lì con le
+mani in mano? Sei un
+prigioniero, al lavoro!"<Close><End of Block>
+<TextBlock 86 w:48 h:4>
+Guardia
+"Lascia stare quel cane.
+Abbaia sempre ed io non
+lo sopporto.<New>
+Vorresti comprare un po'
+di cibo per cani?<New>
+Daglielo e se ne starà
+quieto."<Delay 20>
+    Non mi serve
+    Grazie<Close><End of Block>
+<TextBlock 87 w:44 h:5>
+Guardia
+"È un vero affare.<Delay 15>
+Ma… <Delay 5>se lo usi non
+ce n'è più.<Delay 15>
+Hai capito?"<Close><End of Block>
+<TextBlock 88 w:40 h:2>
+Guardia
+"Ok, <Delay 5>sono 5G."<Close><End of Block>
+<TextBlock 89 w:30 h:3>
+Guardia
+"Bene<Delay 5>…<Delay 5>
+Ecco qua<Delay 5>…"<Close><End of Block>
+<TextBlock 90 w:36 h:1>
+Ricevi Cibo per Cani!<Close><End of Block>
+<TextBlock 91 w:42 h:3>
+Guardia
+"Non hai 5G?<Delay 15>
+Pezzente<Delay 5>…!"<Close><End of Block>
+<TextBlock 92 w:60 h:4>
+Guardia
+"Ah ah ah.<Delay 10>
+Quel ragazzo, <Delay 5>di nuovo.<Delay 15>
+Sai la sua storia?<New>
+Se spiaccica quella moneta
+essa perderà valore.<Delay 15>
+Ah, <Delay 5>beata ignoranza<Delay 5>…<Delay 5>…<New>
+E poi, <Delay 5>non ci riesce
+mai e il nonno non fa
+altro che rimproverarlo.<Delay 15>
+Succede ogni volta<Delay 5>…"<Close><End of Block>
+<TextBlock 93 w:54 h:4>
+Guardia
+"<Delay 5>…<Delay 5> Sei fantastico.<New>
+Elimini i mostri dalle
+fogne, batti il Campione
+di Battagliare<Delay 5>…<New>
+Comparato a te sono
+solo<Delay 5>…<New>
+Sarò per sempre solo una
+guardia. Come hai fatto
+a diventare così?<New>
+Hai lasciato il tuo lavoro
+ed iniziato a combattere?"<Close><End of Block>
+<TextBlock 94 w:56 h:4>
+Guardia
+"…<Delay 5> Credo tu l'abbia fatto.<Delay 10>
+Ma, <Delay 5>è impossibile per me.
+Non sono quel tipo<Delay 5>
+di persona…<Delay 15> sigh…"<Close><End of Block>
+<TextBlock 95 w:56 h:4>
+Guardia
+"<Delay 5>…<Delay 5> Sigh…<Delay 10>
+Ne ho abbastanza del
+Blocco D.<New>
+Voglio essere trasferito
+in città.<New>
+<Delay 5>…<Delay 5> Cioè,<Delay 5> finché voi
+prigionieri avrete quei
+collari, <Delay 5>la fuga vi è
+impossibile.<New>
+Che ci faccio qui?"<Close><End of Block>
+<TextBlock 96 w:56 h:5>
+Guardia
+"Sai,<Delay 5> il capitano prima
+di me ha lasciato per
+diventare un Combattente.<New>
+Ecco come sono diventato
+capitano delle guardie<Delay 5>…"<Close><End of Block>
+<TextBlock 97 w:44 h:3>
+Guardia
+"La realtà<Delay 5> è dolorosa.<Delay 15>
+…<Delay 5> Sigh<Delay 5>…"<Close><End of Block>
+<TextBlock 98 w:20 h:3>
+Fei
+"Ehi!!
+Ma che…!?"<Opcode 2 45><Close><End of Block>
+<TextBlock 99 w:52 h:4>
+Shitan
+"Per favore, aspetta!<Delay 20>
+Non ha detto che avrebbe
+atteso nel dormitorio?"<Close><End of Block>
+<TextBlock 100 w:36 h:4>
+Rico
+"Aspetta, Fei.<New>
+Finché non sistemiamo
+il fatto riguardo a
+Battagliare…"<Close><End of Block>
+<TextBlock 101 w:28 h:2>
+Fei
+"Chi siete?"<Close><End of Block>
+<TextBlock 102 w:56 h:3>
+Combattente
+"Non essere così brusco.<Delay 10>
+Vi stavamo aspettando."<Close><End of Block>
+<TextBlock 103 w:26 h:3>
+Shitan
+"Aspettando?<Delay 30>
+Chi<Delay 15>…<Delay 5> noi?"<Close><End of Block>
+<TextBlock 104 w:32 h:3>
+Combattente
+"Per favore,<Delay 15>
+venite con noi<Delay 5>…"<Close><End of Block>
+<TextBlock 105 w:52 h:4>
+Fei
+"<Delay 5>…<Delay 5> Non si tratta di
+un'altra stupida <Delay 5>Cerimonia
+di battesimo,<Delay 5> vero?"<Close><End of Block>
+<TextBlock 106 w:30 h:3>
+Amazzone
+"Ehi,<Delay 5> ehi,<Delay 15>
+aspetta un secondo!"<Close><End of Block>
+<TextBlock 107 w:56 h:5>
+Amazzone
+"Non cerchiamo guai.
+Continua a parlare così
+e potrebbe esserci un
+fraintendimento.<New>
+Ci penso io<Delay 5>…"<Close><End of Block>
+<TextBlock 108 w:30 h:2>
+Combattente
+"Ok,<Delay 5> scusa."<Close><End of Block>
+<TextBlock 109 w:46 h:3>
+Shitan
+"<Delay 5>…<Delay 5> Presumo che
+non siate ostili<Delay 5>…"<Close><End of Block>
+<TextBlock 110 w:10 h:2>
+Fei
+"<Delay 5>…"<Close><End of Block>
+<TextBlock 111 w:48 h:4>
+Amazzone
+"<Delay 5>…<Delay 5> Non qui.
+Andiamo da qualche
+altra parte.<Delay 15> Venite,<Delay 5>
+seguitemi."<Close><End of Block>
+<TextBlock 112 w:34 h:4>
+Shitan
+"Sembra che non
+abbiamo scelta.<Delay 15>
+Vogliamo andare, Fei?"<Close><End of Block>
+<TextBlock 113 w:52 h:4>
+Shitan
+"Per favore, aspetta!<Delay 20>
+Non disse che ci avrebbe
+aspettato al dormitorio?"<Close><End of Block>
+<TextBlock 114 w:54 h:3>
+Shitan
+"È questo il posto?<Delay 15>
+<Delay 5>…<Delay 5> Attendiamo.<New>
+<Delay 5>Vogliamo dirigerci
+all'arena?"<Close><End of Block>
+<TextBlock 115 w:50 h:3>
+Fei
+"Giusto, <Delay 10>scusa Doc,
+l'avevo dimenticato.<Delay 15><New>
+Devo ritornare agli
+alloggi<Delay 5>…"<Close><End of Block>
+<TextBlock 116 w:26 h:3>
+Fei
+"S<Delay 5>…<Delay 5> signore!<Delay 15>
+Merda<Delay 5>…"<Close><End of Block>
+<TextBlock 117 w:56 h:3>
+Fei
+"<Delay 5>…<Delay 5> Scusa, Doc.<Delay 30>
+Questa è l'entrata delle
+fogne."<Close><End of Block>
+<TextBlock 118 w:36 h:3>
+Fei
+"Ehi, <Delay 5>Doc<Delay 5>…<Delay 15>
+cosa devo fare?"<Close><End of Block>
+<TextBlock 119 w:52 h:4>
+Shitan
+"Il piano è stato un
+vero fallimento<Delay 5>…<Delay 15>
+Proprio così.<New>
+E visto che non
+possiamo tornare
+indietro nel tempo<Delay 5>…"<Close><End of Block>
+<TextBlock 120 w:30 h:2>
+Fei
+"Scusa, <Delay 15>Rico<Delay 5>…"<Opcode 2 60><Close><End of Block>
+<TextBlock 121 w:46 h:3>
+Fei
+"<Delay 5>…<Delay 5> Uh?<Delay 15>
+Come dice quel detto<Delay 5>…<Delay 5>?"<Opcode 2 60><Close><End of Block>
+<TextBlock 122 w:50 h:3>
+'Oggi siamo chiusi.
+Cambio i soldi domani!
+                 B-Info'<Close><End of Block>
+<TextBlock 123 w:44 h:4>
+Fei
+"<Delay 5>…<Delay 15>
+Cosa!?<Delay 5> Di notte dorme?
+<Delay 5>… Vediamo."<Close><End of Block>
+<TextBlock 124 w:52 h:3>
+Shitan
+"<Delay 5>…<Delay 5> Fei.<Delay 15>
+Cosa stai facendo?<New>
+Disturbare quel cane a
+un'ora simile farà
+svegliare tutti!"<Close><End of Block>
+<TextBlock 125 w:48 h:3>
+Fei
+"Oh, scusa Doc.<Delay 15><New>
+È così rumoroso di
+giorno che volevo
+fargli uno scherzo<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 126 w:54 h:4>
+Shitan
+"Mmh, sei sempre il
+solito<Delay 5>…<Delay 5>
+Sbrighiamoci.<New>
+È già quasi l'ora.<Delay 15>
+Non abbiamo tempo da
+sprecare inutilmente."<Close><End of Block>
+<TextBlock 127 w:48 h:3>
+Shitan
+"<Delay 5>…<Delay 5> Fei<Delay 15>
+Dove stai andando?<New>
+Presto il treno dei
+rifornimenti sarà qui.<Delay 15>
+<Delay 5>…<Delay 5> Dobbiamo muoverci."<Close><End of Block>
+<TextBlock 128 w:42 h:4>
+Fei
+"Oh, scusa Doc.
+<Delay 5>…<Delay 5> Andiamo alla
+torre di osservazione."<Close><End of Block>
+<TextBlock 129 w:46 h:4>
+Fei
+"Merda<Delay 5>…<Delay 5> non si apre.
+Credo che la porta non
+sia ancora a posto<Delay 5>…"<Close><End of Block>
+<TextBlock 130 w:54 h:11>
+<Opcode 1 255>Informazioni, oggetti
+smarriti, problemi, vi
+assistiamo in ogni cosa.
+Vieni al 'Bar di Latina'
+nel Blocco D! Capisco quando
+c'è un cliente per me solo
+vedendo la sua faccia.
+Legale o meno, tutto fa
+brodo! 'Il Bar di Latina'
+è l'edificio con le luci
+più vistose.
+-Hammer il Fornitore<Close><End of Block>
+<TextBlock 131 w:50 h:4>
+Fei
+"<Delay 5>…<Delay 5> Uh? C'è qualcosa
+scritto sotto."<Close><End of Block>
+<TextBlock 132 w:60 h:4>
+<Opcode 1 255>Per ora…
+Sto lavorando presso 
+l'arena di combattimento!<New>
+Quelli che hanno bisogno di
+me… lettere o quant'altro
+al: 'Blocco D, N. O, Hammer.' 
+     - Hammer, il Meccanico -<Close><End of Block>
+<TextBlock 133 w:48 h:3>
+Fei
+"<Delay 5>…<Delay 5> Questo qui, Hammer,
+si sta impegnando
+molto!"<New>
+(Dice di essere passato
+dal lavoro di commerciante
+a quello di meccanico<Delay 5>…)"<Close><End of Block>
+<TextBlock 134 w:32 h:3>
+Fei
+"<Delay 5>…<Delay 30>
+È questo<Delay 5>…<Delay 5>?"<Close><End of Block>
+<TextBlock 135 w:54 h:4>
+<Opcode 1 255>La forza è bellezza! 
+La forza è amore infinito! 
+Vola gioventù! 
+All'Arena di Combattimento!<Close><End of Block>
+<TextBlock 136 w:32 h:3>
+Fei
+"<Delay 5>…<Delay 30>
+E questo<Delay 5>…?"<Close><End of Block>
+<TextBlock 137 w:62 h:14>
+<Opcode 1 255>     - CERCASI! -
+- Sterminatore di mostri -
+Cerchiamo Combattenti per
+ripulire le fogne del Blocco
+D dalla crescente presenza di
+mostri.<New>
+Per informazioni contattare
+il 'Centro B-Info' in questo
+blocco. Tutti i prigionieri
+non assegnati ad un altro
+lavoro saranno forzati a
+fare questo.
+Chi non lavora, non mangia…
+         - Comitato Imperiale -
+                    e
+           - Centro B-Info. -<Close><End of Block>
+<TextBlock 138 w:50 h:3>
+Fei
+"Chi non lavora,
+non mangia?<New>
+<Delay 5>…<Delay 5> Mmh…
+Mi sa che mi toccherà
+andare nelle fogne<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 139 w:56 h:10>
+<Opcode 1 255>
+- Pubblica Esecuzione del -
+  - precedente Campione -
+Stanotte Ricardo Banderas
+ sarà giustiziato per aver
+violato le regole dell'arena
+(codice Imperiale sezione B)
+  e cercato di assassinare
+    il Kaiser Sigmund.<New>
+Il Campione potrebbe essere
+perdonato in base all'esito
+del prossimo combattimento.
+    L'avversario sarà
+ annunciato nell'arena.
+       -Comitato Imperiale -<Close><End of Block>
+<TextBlock 140 w:54 h:14>
+<Opcode 1 255> - Misteriosi Omicidi
+      nelle Fogne     -
+Questa mattina un altro
+misterioso omicidio è
+stato scoperto nelle
+fogne del Blocco D. Si
+pensa che la vittima sia
+entrata nelle fogne la
+notte sul tardi e abbia
+affrontato un misterioso
+mostro. È già la quarta 
+vittima.<New>
+A tal fine, Suzarn,
+di Classe A, è stata
+incaricata di occuparsi
+del misterioso mostro.
+    - Comitato Imperiale -<Close><End of Block>
+<TextBlock 141 w:56 h:11>
+<Opcode 1 255>-Esito delle
+Finali di Battagliare-
+Il tre volte Campione,
+Ricardo Banderas, è stato
+sconfitto da Fei, un
+criminale di Classe A.
+Fei, che partecipaca per
+la prima volta, ha vinto
+l'invincibile Campione
+sfoggiando una eccellente
+tecnica di pilotaggio Gear!<Close><End of Block>
+<TextBlock 142 w:56 h:11>
+<Opcode 1 255>-Esito delle
+Finali di Battagliare-
+Il tre volte Campione,
+Ricardo Banderas, è stato
+sconfitto da  Fei, un
+criminale di Classe B.
+Fei, che partecipaca per
+la prima volta, ha vinto
+l'invincibile Campione
+sfoggiando una eccellente
+tecnica di pilotaggio Gear!<Close><End of Block>
+<TextBlock 143 w:56 h:11>
+<Opcode 1 255>-Esito delle
+Finali di Battagliare-
+Il tre volte Campione,
+Ricardo Banderas, è stato
+sconfitto da  Fei, un
+criminale di Classe C.
+Fei, che partecipaca per
+la prima volta, ha vinto
+l'invincibile Campione
+sfoggiando una eccellente
+tecnica di pilotaggio Gear!<Close><End of Block>
+<TextBlock 144 w:56 h:11>
+<Opcode 1 255>-Esito delle
+Finali di Battagliare-
+Il tre volte Campione,
+Ricardo Banderas, è stato
+sconfitto da  Fei, un
+criminale di Classe C.
+Fei, che partecipaca per
+la prima volta, ha vinto
+l'invincibile Campione
+sfoggiando una eccellente
+tecnica di pilotaggio Gear!<Close><End of Block>
+<TextBlock 145 w:56 h:11>
+<Opcode 1 255>-Esito delle
+Finali di Battagliare-
+Il tre volte Campione,
+Ricardo Banderas, è stato
+sconfitto da  Fei, un
+criminale di Classe D.
+Fei, che partecipaca per
+la prima volta, ha vinto
+l'invincibile Campione
+sfoggiando una eccellente
+tecnica di pilotaggio Gear!<Close><End of Block>
+<TextBlock 146 w:54 h:4>
+Nonno
+"Chi sei?<Delay 20>
+Solo l'addetto alle
+operazioni può venire qui!"<Close><End of Block>
+<TextBlock 147 w:34 h:3>
+Fei
+"Non c'è scritto da
+nessuna parte<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 148 w:46 h:3>
+Nonno
+"<Delay 5>…<Delay 15><Opcode 1 255> Le cose non
+cambiano mica!!"<Close><End of Block>
+<TextBlock 149 w:52 h:4>
+Fei
+"Ehi,<Delay 5> stai calmo!<Delay 15>
+Non lo sapevo.<New>
+Ma dimmi una cosa…<Delay 15>
+Cos'è questo posto?"<Close><End of Block>
+<TextBlock 150 w:40 h:4>
+Nonno
+"<Delay 5>…<Delay 5> Quello che è.<Delay 15>
+È la Torre di Osservazione."<Close><End of Block>
+<TextBlock 151 w:46 h:3>
+Fei
+"Torre di osservazione?<Delay 15>
+Cosa stai guardando?"<Close><End of Block>
+<TextBlock 152 w:44 h:3>
+Nonno
+"Mmh, lo capirai<Delay 5>…
+<Delay 5>fra un minuto."<Opcode 2 30><Close><End of Block>
+<TextBlock 153 w:46 h:3>
+Nonno
+"…<Delay 15>…<Delay 10>…<Delay 5>…<Delay 15>
+<Delay 5>… <Delay 5>Sta arrivando!<Delay 15> Là!"<Opcode 2 45><Close><End of Block>
+<TextBlock 154 w:44 h:2>
+Fei
+"Wow, è fantastico."<Close><End of Block>
+<TextBlock 155 w:54 h:3>
+Nonno
+"<Delay 5>…<Delay 5> Vedi,<Delay 15> io sono
+l'addetto alle
+operazioni.<New>
+Ma non c'è nulla da
+dirigere.<Delay 5>
+È perfettamente
+automatizzato.<New>
+Sono l'addetto alle
+operazioni solo
+sulla carta."<Close><End of Block>
+<TextBlock 156 w:48 h:4>
+Fei
+"Perfetto?
+C'è qualcosa di perfetto
+al mondo<Delay 5>…?"<Close><End of Block>
+<TextBlock 157 w:54 h:4>
+Nonno
+"<Delay 5>…<Delay 5> Mmh.<Delay 30>
+L'unico problema è il
+sistema d'allarme<Delay 5>…<New>
+Individua le fonti di
+calore e blocca ogni cosa
+per impedire qualsiasi
+incidente<Delay 5>…"<Close><End of Block>
+<TextBlock 158 w:42 h:4>
+Shitan
+"La torre è proprio
+da quella parte.<Delay 15>
+Presto, Fei!"<Close><End of Block>
+<TextBlock 159 w:54 h:4>
+Amazzone
+"<Delay 5>…<Delay 5> Scusate.<Delay 15>
+Io<Delay 5>… non posso andare
+nell'arena.<Delay 5><New>
+Non importa ciò che
+dite, ma non posso.
+Ok, <Delay 5>è l'ora<Delay 5>…<New>
+Stanotte il treno
+passerà di qua<Delay 5>…<Delay 5>
+Buona fortuna.<Delay 15> Forse<Delay 5>…
+ci rincontreremo."<Close><End of Block>
+<TextBlock 160 w:50 h:3>
+Amazzone
+"Ehi, è già qui.
+Non c'è più tempo per
+parlare."<Close><End of Block>
+<TextBlock 161 w:52 h:4>
+Combattente
+"Scusate,<Delay 5> ero così
+preoccupato per il Campione
+che non potevo andarmene.<Delay 15><New>
+Rico conta su di voi."<Close><Close><End of Block>

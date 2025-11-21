@@ -1,0 +1,433 @@
+<TextBlock 1 w:38 h:3>
+(Hyuga…<Delay 10>
+Non so perché
+tu sia qui.<New>
+Ma se cerchi di fare
+qualcosa di strano…<Delay 10>
+Mi capisci?)<Close><End of Block>
+<TextBlock 2 w:46 h:4>
+(Anch'io ho lasciato
+la sua terra. Poiché ci
+siamo appena incontrati,
+non ti biasimo per non
+avermi creduto, ma…)<Close><End of Block>
+<TextBlock 3 w:50 h:5>
+Oh, Padroncino! È insolito
+per lei essere da solo.
+Il Gear è già stato riparato, 
+perciò non si preoccupi.<Close><End of Block>
+<TextBlock 4 w:48 h:5>
+Cosa vuoi fare?
+<Opcode 1 255>    Osservare il Gear da qui
+    Osservare il Gear di fronte
+    Parlami del Gear
+    Nulla<Close><End of Block>
+<TextBlock 5 w:52 h:5>
+Questo è <Weltall>.
+Altezza: 15,7 m
+Peso base: 19,2 t
+Peso a pieno carico: 24,5 t
+con equipaggiamento.<New>
+Un Gear equilibrato in
+attacco, difesa ed
+abilità Eteree.<New>
+Ma ci sono alcune parti
+che non possono essere
+disassemblate…
+Immagino si possano 
+chiamare 'scatole nere'…?<New>
+Non provocano problemi
+nella manutenzione, ma
+ogni volta che le vedo
+mi tormento chiedendomi
+cosa siano.<Close><End of Block>
+<TextBlock 6 w:42 h:1>
+Questo è <Weltall-2>.<Close><End of Block>
+<TextBlock 7 w:54 h:4>
+Questo è <Xenogears>.
+È il Gear di Fei.<New>
+Altezza: 19,1 m
+Peso base: 20,4 t
+Peso a pieno carico: 23,1 t
+con equipaggiamento.<New>
+<Weltall-2> è stato
+trasformato dopo il
+suo contatto con
+lo Zohar.<New>
+Non si possono accertare
+le specifiche dettagliate
+con i dispositivi di
+misurazione che possediamo.<New>
+Ma, d'altra parte, mi chiedo
+se questo Gear abbia un
+qualche limite da misurare
+per le sue capacità…<New>
+Sembra quasi che questo
+Gear diventi sempre più
+forte più il potere
+mentale di Fei aumenta…<New>
+Comunque, sembra che il
+motore sia stato lasciato
+com'era prima, perciò
+dovrebbe sempre richiedere
+carburante…<New>
+Ma non mi sorprenderei
+se questa cosa, in realtà,
+non necessitasse più di
+carburante!<Close><End of Block>
+<TextBlock 8 w:50 h:5>
+Questo è <Brigandier>,
+il Gear del nostro
+capo, il Padroncino.<New>
+Altezza: 16,4 m
+Peso base: 15 t
+Peso a pieno carico: 20,1 t
+con equipaggiamento.<New>
+È appositamente regolato
+per battaglie nel deserto.
+La potenza dei Propulsori
+di sospensione nelle gambe
+è particolarmente degna
+di attenzione…<New>
+Ah, la benda e la piuma
+sono decorazioni aggiunte
+dopo, su richiesta del
+Padroncino.<Close><End of Block>
+<TextBlock 9 w:54 h:6>
+Non sapevamo cosa fare
+quando il Padroncino disse:<Delay 10>
+"Distruggete un sensore
+e metteteci sopra una
+benda… senza indebolire la
+capacità di esplorazione…"!<Close><End of Block>
+<TextBlock 10 w:58 h:4>
+Questo è <Andvari>,
+il Gear del Padroncino…<New>
+Altezza: 17,6 m
+Peso base: 16,4 t
+Peso a pieno carico: 20,6 t
+con equipaggiamento.<New>
+Questo è un Omnigear che fu
+lasciato da Roni Fatima,
+avo del nostro Padroncino…<New>
+Dicono che questo Omnigear sia
+stato creato unificando quel…
+Contenitore dell'Anima (o come
+diavolo è chiamato…) ed una
+macchina.<New>
+Ma dal suo aspetto, questo
+telaio era anche qualche
+tipo di Gear, prima della
+trasformazione…<New>
+Tutti i materiali esterni e
+il 60% di quelli interni
+furono mutati in del materiale
+sconosciuto, ma il modello di
+base era una normalissima
+macchina.<New>
+Questo significa che il
+rendimento di base può
+essere migliorato utilizzando
+parti differenti.<New>
+Malgrado ciò, si muove grazie
+a del potere spirituale,
+perciò queste parti potrebbero
+anche non influenzare così
+tanto la potenza globale.<Close><End of Block>
+<TextBlock 11 w:56 h:5>
+Questo è <Andvari>,
+il Gear del Padroncino…<New>
+Altezza: 17,6 m
+Peso base: 16,4 t
+Peso a pieno carico: 20,6 t
+con equipaggiamento.<New>
+È stato creato da due dei 
+saggi di Shevat, Baldassarre
+e Melchiorre…<New>
+L'hanno creato utilizzando i
+dati presenti sull'Omnigear
+lasciato da Roni Fatima, un
+avo del Padroncino, ed i
+dati ottenuti da <Xenogears>.<New>
+È una combinazione fra le
+più recenti tecnologie per
+Gear e la nanotecnologia.
+Ma il rendimento è lo stesso
+di quando era un Omnigear.<New>
+Anche se è stato trovato
+nascosto nel sottosuolo di
+Nisan, la sua arma di base
+era la frusta.<New>
+Questo vuol dire che anche
+gli avi del Padroncino devono
+avere usato fruste e verghe…
+Immagino sia nel loro DNA,
+eh!?<Close><End of Block>
+<TextBlock 12 w:56 h:4>
+Questo è <Heimdal>, il
+Gear del Dottor Shitan Uzuki.<New>
+Altezza: 16,3 m
+Peso base: 15,1 t
+Peso a pieno carico: 19,5 t
+con equipaggiamento.<New>
+Il telaio di base fu
+riportato alla luce
+insieme a quello del
+Gear del Padroncino.<New>
+Ma la sua potenza era
+proporzionalmente troppo
+potente per il corpo, dunque
+ci volle molto tempo per
+adattarlo…<New>
+In realtà, molti membri del
+mio gruppo furono feriti
+a causa sua.<New>
+Ma Doc ha risolto il problema
+così facilmente, e ora lo
+può controllare così bene…!
+È stata una cosa incredibile.<Close><End of Block>
+<TextBlock 13 w:54 h:4>
+Questo è <Fenrir>, il
+Gear del Dottor Shitan Uzuki.<New>
+Altezza: 18 m
+Peso base: 18,5 t
+Peso a pieno carico: 22 t
+con equipaggiamento.<New>
+È stato creato da due dei
+saggi di Shevat, Baldassarre
+e Melchiorre.<New>
+Hanno utilizzato i dati
+dall'Omnigear, <Fenrir>,
+portato da Solaris dal
+Dottore, e quelli di <Xenogears>,
+il Gear di Fei.<New>
+È il risultato dell'unione di
+un Gear e della nanotecnologia.
+Ma il rendimento è lo stesso
+di quando era un Omnigear.<New>
+L'equipaggiamento di base è
+la spada… che sembra essere
+l'arma scelta dallo
+stesso Dottore.<Close><End of Block>
+<TextBlock 14 w:50 h:3>
+Vuoi rinominare questo Gear?
+<Opcode 1 255>    Sì, mi piacerebbe farlo!
+    No, non ora!<Close><End of Block>
+<TextBlock 15 w:50 h:3>
+Shitan
+"Fei! Mi hai fatto
+preoccupare!"<Close><End of Block>
+<TextBlock 16 w:16 h:2>
+Fei
+"Doc…"<Close><End of Block>
+<TextBlock 17 w:54 h:3>
+Benvenuti sull'incrociatore
+del deserto 'Yggdrasil'.<New>
+Vi chiediamo scusa per
+l'episodio di prima.<Close><End of Block>
+<TextBlock 18 w:50 h:4>
+Maison
+"Sono sicuro che tutti
+abbiano già avuto la
+gentilezza di…<New>
+… essersi presentati.<New>
+Ma permettetemi di
+presentarvi il capo
+dei pirati del deserto,
+Padron Bartolomeo."<Close><End of Block>
+<TextBlock 19 w:52 h:4>
+Maison
+"A proposito, Padroncino…<New>
+Potrei chiederle se
+si è già scusato con
+Padron Fei?"<Close><End of Block>
+<TextBlock 20 w:42 h:4>
+Bart
+"Cosa? Uhh… sì…<Delay 10>
+Gli ho detto che mi
+'sbagliavo'…<Delay 10> Giusto?"<Close><End of Block>
+<TextBlock 21 w:6 h:1>
+…<Close><End of Block>
+<TextBlock 22 w:52 h:4>
+Dire a qualcuno che vi
+stavate 'sbagliando' dopo
+l'accaduto non risolverà
+tutto, Padroncino.<Close><End of Block>
+<TextBlock 23 w:54 h:5>
+Primo Ufficiale
+"Mi scuso per essere
+così tardivo nel
+presentarmi…<New>
+Mi chiamo 'Sigurd',
+Primo Ufficiale di
+questo incrociatore
+del deserto.<New>
+Fei<Delay 10>… così ti
+chiamavi, no?<Delay 10> Hyu…
+Intendo… Shitan mi ha
+detto ciò ch'è successo.<New>
+Vi abbiamo causato così
+tanti problemi perché
+abbiamo agito con
+noncuranza<Delay 10>…<New>
+Vi porgo le mie
+scuse più sincere.<New>
+Come risarcimento,
+permettetici di darvi un
+passaggio, qualunque sia
+la vostra destinazione.<New>
+Ma, vi prego, perdonateci,
+poiché ci fermeremo per un
+po' alla nostra base, per
+rifornici di vettovaglie.<New>
+Nel frattempo, godetevi
+una piacevole crociera…
+o, dovrei dire, 'crociera
+del deserto'.<New>
+Deve essere stato il
+fato a farci incontrare
+in questo modo…"<Close><End of Block>
+<TextBlock 24 w:54 h:3>
+Maison
+"Ordunque… vi prego,
+fatemi sapere se vi
+servisse qualcosa."<Close><End of Block>
+<TextBlock 25 w:54 h:4>
+Bart
+"La situazione è questa…<Delay 10>
+Allora… adesso,
+perdonami… lo farai!?"<Close><End of Block>
+<TextBlock 26 w:44 h:3>
+Sigurd
+"Padroncino!
+Si astenga dalle
+birichinate."<Close><End of Block>
+<TextBlock 27 w:40 h:2>
+Bart
+"Ahi, ahi, ahi!!
+Non tirarmi le
+orecchie!"<Opcode 2 15><Close><End of Block>
+<TextBlock 28 w:52 h:3>
+Shitan
+"Possiamo attendere
+nella nostra cabina
+fino all'arrivo…<New>
+È ben fatta ed assai
+confortevole.
+Andiamo."<Close><End of Block>
+<TextBlock 29 w:10 h:2>
+Fei
+"…"<Close><End of Block>
+<TextBlock 30 w:30 h:3>
+Shitan
+"Cosa c'è?
+Mi sembri
+triste."<Close><End of Block>
+<TextBlock 31 w:16 h:3>
+Fei
+"No…<Delay 10>
+Beh…"<Close><End of Block>
+<TextBlock 32 w:42 h:2>
+Shitan
+"È successo
+qualcosa?"<Close><End of Block>
+<TextBlock 33 w:28 h:2>
+Fei
+"No, nulla."<Close><End of Block>
+<TextBlock 34 w:34 h:2>
+Fei
+"<Opcode 14 1>Devo… andare<Delay 5>…!!"<Space 1><Close><End of Block>
+<TextBlock 35 w:52 h:4>
+Shitan
+"Non sei nelle condizioni
+di partecipare…<Delay 10>
+Lascia fare a noi!"<Close><End of Block>
+<TextBlock 36 w:48 h:4>
+Billy
+"Sembra sia l'ora di
+regolare i conti… Ma…
+Fei dovrebbe riposarsi."<Close><End of Block>
+<TextBlock 37 w:48 h:4>
+Billy
+"Sembra sia l'ora di
+regolare i conti… Ma…
+Fei dovrebbe riposarsi."<Close><End of Block>
+<TextBlock 38 w:52 h:4>
+Shitan
+"Sì.<Delay 10>
+Condurrò Fei in
+infermeria.<New>
+Billy, ti prego,
+occupati di tutto
+il resto."<Close><End of Block>
+<TextBlock 39 w:44 h:3>
+Billy
+"Ti prego di
+aiutarci, se puoi."<Close><End of Block>
+<TextBlock 40 w:10 h:1>
+"Fei!?"<Close><End of Block>
+<TextBlock 41 w:24 h:2>
+Fei
+"Uh,<Delay 20> Doc…"<Close><End of Block>
+<TextBlock 42 w:48 h:3>
+Shitan
+"Fei, ti senti
+già meglio?"<Close><End of Block>
+<TextBlock 43 w:24 h:3>
+Fei
+"Sì…<Delay 20>
+Probabilmente…"<Close><End of Block>
+<TextBlock 44 w:52 h:4>
+Elly
+"Mi giro per un
+secondo e questo è
+quello che mi fai…<New>
+Cosa pensi di fare
+pilotando un Gear quando
+ti sei appena ripreso?"<Close><End of Block>
+<TextBlock 45 w:52 h:4>
+Elly
+"Cosa pensi di fare
+pilotando un Gear quando
+ti sei appena ripreso?"<Close><End of Block>
+<TextBlock 46 w:52 h:4>
+Billy
+"Perché te ne vai in
+giro? Pensavo che ti
+fossi appena ripreso!<New>
+Non dovresti farlo!"<Close><End of Block>
+<TextBlock 47 w:54 h:4>
+Bart
+"Perché te ne vai in giro
+quando ti sei appena
+ripreso?<New>
+Le persone malate non
+dovrebbero riposare
+nel letto!?"<Close><End of Block>
+<TextBlock 48 w:54 h:4>
+Rico
+"Perché te ne stai
+andando in giro?
+Ti sei appena ripreso!<Delay 10>
+Torna a letto!!"<Close><End of Block>
+<TextBlock 49 w:52 h:3>
+Fei
+"Neanch'io so cosa
+ci faccio qui…<New>
+Ho ancora una gran
+confusione in testa…"<Close><End of Block>
+<TextBlock 50 w:6 h:1>
+…<Close><End of Block>
+<TextBlock 51 w:14 h:1>
+Uhhh…<Close><End of Block>
+<TextBlock 52 w:40 h:4>
+Shitan
+"Fei!!<Delay 10> Non dovresti
+andare già in giro!!"<Close><End of Block>
+<TextBlock 53 w:52 h:3>
+Alkanshel localizzato
+proprio davanti a noi!!<Delay 10>
+Preparare i Gear al
+lancio!!<Close><End of Block>
+<TextBlock 54 w:0 h:1>
+<Close><End of Block>

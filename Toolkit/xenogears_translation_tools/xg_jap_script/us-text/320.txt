@@ -1,0 +1,48 @@
+#### 1 ####
+Citan
+"Rather strict airlock
+and scanning equipment...{enter}
+It does not look
+operational though.{enter}
+...The inside is
+preserved so well, the
+outside probably too..."
+
+#### 2 ####
+Bart
+"Don't scare me.
+You say there's poison
+gas or reactive fuel?"
+
+#### 3 ####
+Billy
+"Such a fine, well
+equipped isolation{enter}
+facility. Could it be
+a hospital?{enter}
+But the town outside
+doesn't look so
+polluted though..."
+
+#### 4 ####
+Rico
+"Some of it looks kinda
+like the crappy Central
+District in Nortune but...{enter}
+Looks like a bunch of
+clean freaks live here."
+
+#### 5 ####
+{name:07:チュチュ}
+"What a great door.
+I liked the one before chu,
+but this is even better!"
+
+#### 6 ####
+Can't receive {str},
+you have too many.
+
+#### 7 ####
+ 
+Received {str}.
+

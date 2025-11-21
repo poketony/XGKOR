@@ -1,0 +1,422 @@
+<TextBlock 1 w:40 h:2>
+Redentore? L'ho visto
+prima, ma ora se n'è
+andato.<Close><End of Block>
+<TextBlock 2 w:34 h:3>
+Margie
+"Davvero? 
+Dove sono andati?"<Close><End of Block>
+<TextBlock 3 w:30 h:1>
+Non lo so…<Close><End of Block>
+<TextBlock 4 w:28 h:3>
+Bart
+"Che stai facendo,
+Margie?"<Close><End of Block>
+<TextBlock 5 w:46 h:4>
+Margie
+"Ciao Bart! L'ho sentito
+proprio ora da Shitan.<New>
+Anch'io stavo cercando
+quel Redentore.
+Questa persona l'ha
+visto prima."<Close><End of Block>
+<TextBlock 6 w:18 h:2>
+Bart
+"Veramente?"<Close><End of Block>
+<TextBlock 7 w:42 h:1>
+Ehi, smetti di fare
+resistenza, merda!!<Close><End of Block>
+<TextBlock 8 w:14 h:3>
+Elly
+"Bart!!
+Guarda!!"<Close><End of Block>
+<TextBlock 9 w:48 h:2>
+Se non facessi resistenza
+ti potrei vendere ad un
+prezzo migliore.<Close><End of Block>
+<TextBlock 10 w:42 h:2>
+Elly
+"Cosa state facendo!?"<Close><End of Block>
+<TextBlock 11 w:24 h:2>
+Che diavolo…?
+Chi sei?<Close><End of Block>
+<TextBlock 12 w:38 h:3>
+Invece della mocciosa…
+perché non svendere te?<Close><End of Block>
+<TextBlock 13 w:50 h:3>
+Bart
+"Che cazzo hai detto!?
+Ne vuoi un po'!?<New>
+Avanti, perdenti, venite
+che vi spacco il culo!"<Close><End of Block>
+<TextBlock 14 w:40 h:2>
+Ma chi minchia credi
+di essere!?<Close><End of Block>
+<TextBlock 15 w:8 h:1>
+Uah!!<Close><End of Block>
+<TextBlock 16 w:20 h:1>
+Che merda…!?<Close><End of Block>
+<TextBlock 17 w:36 h:2>
+Tu! Cosa stai
+facendo?<Close><End of Block>
+<TextBlock 18 w:26 h:2>
+Aspetta, questo
+qui è<Delay 10>…<Close><End of Block>
+<TextBlock 19 w:16 h:2>
+Oh, no<Delay 10>…
+Jesiah!!<Close><End of Block>
+<TextBlock 20 w:38 h:2>
+Merda, me lo
+ricorderò!<Close><End of Block>
+<TextBlock 21 w:38 h:3>
+Bart
+"Che cosa pensi
+di fare!?"<Close><End of Block>
+<TextBlock 22 w:26 h:2>
+Jesiah
+"Non muoverti."<Close><End of Block>
+<TextBlock 23 w:26 h:2>
+Margie
+"Fe… fermo…"<Space 1><Close><End of Block>
+<TextBlock 24 w:40 h:3>
+Jesiah
+"Sta' ferma e zitta, 
+cagna solariana."<Close><End of Block>
+<TextBlock 25 w:10 h:2>
+Elly
+"…"<Close><End of Block>
+<TextBlock 26 w:12 h:1>
+Fermo!!<Close><End of Block>
+<TextBlock 27 w:40 h:4>
+Shitan
+"Un fucile… ed il
+modo in cui è usato…
+tu devi essere Jesiah!<New>
+No, Jesiah, hai
+frainteso tutto!<New>
+Sei sempre così
+precipitoso!<New>
+Lei stava solo
+aiutando la ragazza."<Close><End of Block>
+<TextBlock 28 w:46 h:4>
+Jesiah
+"Cosa?
+Porca puttana troia,
+sei tu, Hyuga<Delay 10>…?<Delay 10>"<Close><End of Block>
+<TextBlock 29 w:10 h:2>
+Ragazza
+"…"<Close><End of Block>
+<TextBlock 30 w:42 h:4>
+Jesiah
+"Sì, sì, lo so,
+Primera. Ho
+frainteso tutto."<Close><End of Block>
+<TextBlock 31 w:38 h:3>
+Jesiah
+"Scusa, signorina.
+Alzati pure."<Close><End of Block>
+<TextBlock 32 w:54 h:4>
+Jesiah
+"Sembra che tu stessi
+solo cercando di
+aiutarla.<New>
+Almeno questo è
+quello che lei dice.<New>
+Scusami per aver
+frainteso. Questa è
+Primera, mia figlia.<New>
+Io sono…
+Chiamami Jessie.<New>
+Già mi basta che
+quei ragazzacci mi
+chiamano Jesiah…"<Close><End of Block>
+<TextBlock 33 w:14 h:2>
+Primera
+"…"<Close><End of Block>
+<TextBlock 34 w:8 h:2>
+Elly
+"?"<Close><End of Block>
+<TextBlock 35 w:50 h:3>
+Jessie
+"Ti sta dicendo grazie.<New>
+In passato le accadde
+una cosa… e non ha più
+parlato da allora."<Close><End of Block>
+<TextBlock 36 w:46 h:4>
+Shitan
+"… Questa è la bambina
+che ti ha costretto ad
+effettuare…<New>
+… il matrimonio
+riparatore?"<Close><End of Block>
+<TextBlock 37 w:50 h:4>
+Jessie
+"Cazzo, ma ti sembrano
+domande da fare!?<New>
+Primera è la mia
+secondogenita.
+L'altro mio ragazzo
+ha già 16 anni."<Close><End of Block>
+<TextBlock 38 w:36 h:3>
+Shitan
+"Ti prego di
+scusarmi. Come
+sta tua moglie?"<Close><End of Block>
+<TextBlock 39 w:46 h:4>
+Jessie
+"…<Delay 10> È morta.
+Ed io non ero lì ad
+aiutarla quando morì."<Close><End of Block>
+<TextBlock 40 w:50 h:3>
+Shitan
+"Capisco…<Delay 10>
+Che cosa stai
+facendo qui?"<Close><End of Block>
+<TextBlock 41 w:50 h:3>
+Jessie
+"Ogni tanto devo
+andare a fare compere.<New>
+Inoltre, mio figlio
+in questa zona ha
+alcuni disgustosi
+lavori da fare…"<Close><End of Block>
+<TextBlock 42 w:54 h:3>
+Ah…
+Quel Redentore che stavate
+cercando è appena arrivato.<Close><End of Block>
+<TextBlock 43 w:30 h:2>
+Bart
+"Cosa!? Dove?"<Close><End of Block>
+<TextBlock 44 w:50 h:4>
+Dottore
+"…<Delay 10>…<Delay 10> È per questo che,
+in un modo o nell'altro,
+ci serve il vostro aiuto."<Close><End of Block>
+<TextBlock 45 w:26 h:2>
+Redentore
+"Capisco<Delay 10>…<Delay 10>…"<Close><End of Block>
+<TextBlock 46 w:48 h:3>
+Jessie
+"Smetti di girare
+attorno all'argomento
+ed aiutali."<Close><End of Block>
+<TextBlock 47 w:28 h:3>
+Redentore
+"Pa… padre?
+E anche Prim?"<Close><End of Block>
+<TextBlock 48 w:46 h:2>
+Jessie
+"Questo è mio
+figlio Billy."<Close><End of Block>
+<TextBlock 49 w:52 h:3>
+Billy
+"Dove sei stato fino
+ad ora?<New>
+La situazione alla
+nostra sede è
+alquanto seria."<Close><End of Block>
+<TextBlock 50 w:52 h:3>
+Jessie
+"Cosa intendi con seria?<New>
+Cosa c'è di male se esco
+a comprare qualcosa con
+mia figlia?"<Close><End of Block>
+<TextBlock 51 w:56 h:4>
+Billy
+"Non conosco i dettagli,
+ma sei stato classificato
+come elemento sgradito.<New>
+Che cos'hai fatto questa
+volta? Hai combattuto?<New>
+Giocato d'azzardo? Sei
+ancora andato dietro la
+moglie di qualcun altro!?"<Close><End of Block>
+<TextBlock 52 w:50 h:4>
+Jessie
+"Umph, è solo una voce.
+Solo e soltanto una
+diceria.<New>
+Non crederci, merda.
+Da quando sei entrato
+nella Chiesa, sei
+diventato un automa."<Close><End of Block>
+<TextBlock 53 w:10 h:2>
+Billy
+"…"<Close><End of Block>
+<TextBlock 54 w:40 h:4>
+Jessie
+"Questa signorina ha
+impedito che Primera
+fosse rapita.<New>
+Perché non li aiuti
+e basta?"<Close><End of Block>
+<TextBlock 55 w:42 h:4>
+Elly
+"Beh… potresti allora
+presentarci alla Chiesa?"<Close><End of Block>
+<TextBlock 56 w:54 h:4>
+Billy
+"Oh, certo. Vi prego di
+perdonare la mia
+maleducazione.<New>
+Non sapevo che avete
+salvato mia sorella.<New>
+Lasciatemi contattare
+l'ufficio sanitario
+della mia sede.<New>
+Però ho delle altre
+questioni di cui devo
+occuparmi, considerando
+che…<New>
+… non sono solo un
+prete, ma anche un
+Redentore… Perciò non
+posso promettere nulla."<Close><End of Block>
+<TextBlock 57 w:44 h:3>
+Elly
+"Allora ci presenterai?"<Close><End of Block>
+<TextBlock 58 w:46 h:4>
+Billy
+"Sì.<New>
+Fermiamoci alla Sede
+della Chiesa dopo aver
+sbrigato questa faccenda."<Close><End of Block>
+<TextBlock 59 w:50 h:4>
+Margie
+"Mmh… prete e Redentore
+allo stesso tempo…
+Non è insolito?<New>
+La Chiesa è davvero
+diversissima dalla mia
+Setta di Nisan."<Close><End of Block>
+<TextBlock 60 w:42 h:3>
+Billy
+"La tua Setta di Nisan?
+Tu vieni da Nisan?"<Close><End of Block>
+<TextBlock 61 w:52 h:3>
+Margie
+"Già, io sono Margherita.
+Piacere di conoscerla,
+Padre."<Close><End of Block>
+<TextBlock 62 w:50 h:4>
+Billy
+"Il piacere è tutto mio.<New>
+Non ho mai avuto la giusta
+occasione per parlare con
+altri delle loro religioni.
+Poi possiamo parlare?"<Close><End of Block>
+<TextBlock 63 w:48 h:3>
+Margie
+"Certo, va benissimo.<New>
+Ma non posso perdere
+troppo tempo. Adesso
+sono un po' occupata."<Close><End of Block>
+<TextBlock 64 w:46 h:3>
+Billy
+"Grazie.<New>
+Mmh… Margherita? 
+Dove ho già sentito
+questo nome?"<Close><End of Block>
+<TextBlock 65 w:38 h:3>
+Bart
+"Lascia perdere,
+rilassati…<New>
+Sono venuto qui per
+parlare con la Chiesa.
+Muoviamoci."<Close><End of Block>
+<TextBlock 66 w:50 h:3>
+Billy
+"Che persona maleducata!<New>
+Dovresti imparare a
+parlare un po' più
+garbatamente."<Close><End of Block>
+<TextBlock 67 w:20 h:2>
+Bart
+"Che diamine…!?"<Close><End of Block>
+<TextBlock 68 w:44 h:4>
+Billy
+"Beh, signori…<New>
+Andrò ad avvisare la
+Sede della Chiesa che
+state per arrivare.<New>
+Quando avrete terminato
+i vostri affari qui,
+fate pure visita alla
+Chiesa."<Close><End of Block>
+<TextBlock 69 w:34 h:3>
+Bart
+"Lo so, lo so.
+Andiamo." <Close><End of Block>
+<TextBlock 70 w:48 h:4>
+Jessie
+"Ehi, Billy, io ho
+alcuni affari di cui
+devo occuparmi.<New>
+Se stai tornando alla
+sede, potresti riportare
+Primera per me alla
+casa di quei monellacci?"<Close><End of Block>
+<TextBlock 71 w:30 h:3>
+Billy
+"…<Delay 10>…<Delay 30> Va bene.
+Andiamo, Prim."<Close><End of Block>
+<TextBlock 72 w:50 h:3>
+Jessie
+"Perfetto. Beh, ora
+devo andare.<New>
+Ci vediamo, Hyuga.
+So già che ti rivedrò
+in giro."<Close><End of Block>
+<TextBlock 73 w:32 h:2>
+Shitan
+"Ah, chissà."<Close><End of Block>
+<TextBlock 74 w:44 h:3>
+Jessie
+"Beh, comunque sia…
+ci vediamo, signore."<Close><End of Block>
+<TextBlock 75 w:42 h:2>
+Shitan
+"Non cambia mai…"<Close><End of Block>
+<TextBlock 76 w:48 h:4>
+Shitan
+"Sigurd ha detto che
+presto avrebbe finito
+con l'Yggdrasil."<Close><End of Block>
+<TextBlock 77 w:50 h:4>
+Bart
+"Cosa, davvero?<New>
+Benissimo, stavolta
+potremo lasciare
+questo porto."<Close><End of Block>
+<TextBlock 78 w:40 h:3>
+Elly
+"Ritorneremo…<Delay 10>
+ad Aveh?"<Close><End of Block>
+<TextBlock 79 w:50 h:4>
+Bart
+"Stai scherzando?
+Prima dobbiamo
+prenderci cura di Fei.<New>
+Quel ragazzino che fa
+tanto il superiore ha
+detto che ci avrebbe
+presentati alla Chiesa.<New>
+Perciò credo che
+dovremmo andare alla
+Sede della Chiesa,
+allora…"<Close><End of Block>
+<TextBlock 80 w:30 h:2>
+Elly
+"…<Delay 10> Ti ringrazio."<Close><End of Block>
+<TextBlock 81 w:42 h:3>
+Bart
+"Perché devi
+ringraziarmi?"<Close><End of Block>
+<TextBlock 82 w:38 h:3>
+Margie
+"Eh, è vero,
+Elly."<Close><End of Block>
+<TextBlock 83 w:46 h:2>
+Elly
+"… Sì, avete
+ragione."<Close><Close><End of Block>

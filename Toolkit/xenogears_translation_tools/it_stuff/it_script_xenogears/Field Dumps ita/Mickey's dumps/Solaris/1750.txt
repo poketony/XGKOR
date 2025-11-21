@@ -1,0 +1,31 @@
+<TextBlock 1 w:24 h:2>
+Fei
+"Un… Gear!?"<Close><End of Block>
+<TextBlock 2 w:52 h:2>
+Fei
+"Ma… questa cosa
+è enorme!"<Close><End of Block>
+<TextBlock 3 w:30 h:3>
+Elly
+"Cos'è… questa
+cosa…?"<Close><End of Block>
+<TextBlock 4 w:50 h:4>
+Elly
+"No…<New>
+Guarda! La superficie
+dell'armatura non è
+divisa in segmenti…<New>
+È come il Gear di
+Bart, <Andvari>…<New>
+Ed è anche come il Gear
+che si trova a Shevat…
+È un Omnigear!"<Close><End of Block>
+<TextBlock 5 w:46 h:4>
+Elly
+"Sì. Pare essere circa
+tre volte più potente
+dei nostri Gear."<Close><End of Block>
+<TextBlock 6 w:44 h:3>
+Shitan
+"Dunque… questo è
+l'Omnigear di Solaris."<Close><Close><End of Block>

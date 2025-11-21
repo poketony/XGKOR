@@ -1,0 +1,104 @@
+#### 1 ####
+To the next scene
+
+#### 2 ####
+When Fei and the others arrived
+at the deepest part of Mahanon,{wait:1E}
+I was looking after the newly
+mutating people in Nisan{wait:05}...
+
+#### 3 ####
+People mutating, one
+after the other...
+
+#### 4 ####
+Like some eternal nightmare
+that made me wonder just
+how long we would have
+to keep on nursing them.
+
+#### 5 ####
+Margie
+"Are you okay?"
+
+#### 6 ####
+Margie
+"You haven't had
+any rest have you?{enter}
+I can handle things
+on my own for a while.
+Why don't you go out
+for a walk?"
+
+#### 7 ####
+Elly
+"Thank you.{wait:1E}
+But I'll be alright.{enter}
+I'd rather keep busy
+so that I won't worry
+about things too much."
+
+#### 8 ####
+Margie
+"Is that it?"
+
+#### 9 ####
+Margie
+"Hey!{wait:1E}
+Elly, what's that?"
+
+#### 10 ####
+Elly
+"This?"
+
+#### 11 ####
+Margie
+"Can I see it?"
+
+#### 12 ####
+Margie
+"Just as I thought...
+It's the Pendant of Nisan.{enter}
+But, why do you have it,
+Elly?"
+
+#### 13 ####
+Elly
+"It's Fei's. I'm holding
+on to it for him...{wait:1E}
+But...{enter}
+It feels as if I have
+always worn it..."
+
+#### 14 ####
+Margie
+"Hmm..."
+
+#### 15 ####
+Margie
+"When you wear that,
+you look even more
+like Sophia!"
+
+#### 16 ####
+Elly
+"Really? Hmm...
+Flattery won't get you
+anything, you know?{enter}
+Anyway, we need to hurry up
+and test the new mutation
+suppressant assembler on
+those other people there.{enter}
+We can't afford to have
+them change any further."
+
+#### 17 ####
+Elly
+"Ah!"
+
+#### 18 ####
+Elly
+"Oh-no...
+Something has happened
+to Fei and the others!"
+

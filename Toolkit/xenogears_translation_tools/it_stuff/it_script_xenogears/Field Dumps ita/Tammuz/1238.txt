@@ -1,0 +1,297 @@
+<TextBlock 1 w:44 h:2>
+ 
+ Ricevi Pepita.<Close><End of Block>
+<TextBlock 2 w:44 h:4>
+Ehi!<Delay 3>
+Se devi comprare qualcosa
+dal mio negozio, vai a
+parlare con quello stupido
+di mio figlio.<Close><End of Block>
+<TextBlock 3 w:50 h:3>
+Ehi!<Delay 3>
+Io non chiudo neanche
+se spuntano fuori i Wels.<New>
+Se ti serve qualcosa,
+parla con quello stupido
+di mio figlio.<Close><End of Block>
+<TextBlock 4 w:46 h:4>
+Ehi!<Delay 3>
+Hai messo gli occhi
+su qualcosa di buono…
+Dannazione.<Delay 3>
+Sai cos'è questo?<Close><End of Block>
+<TextBlock 5 w:34 h:2>
+… È quello che è.
+Stupendo, eh?<Close><End of Block>
+<TextBlock 6 w:6 h:1>
+…<Opcode 2 30><Close><End of Block>
+<TextBlock 7 w:46 h:3>
+Ehi, aspetta un attimo.
+Non è in vendita.
+Scusami, non posso
+vendertelo.<Close><End of Block>
+<TextBlock 8 w:44 h:4>
+Ehi!<Delay 3>
+Per essere così giovane,
+hai buon gusto.
+Dannazione.<Delay 3>
+Questo è…<Close><End of Block>
+<TextBlock 9 w:40 h:2>
+… quello che è.
+Ma questo non è brutto?<Close><End of Block>
+<TextBlock 10 w:6 h:1>
+…<Opcode 2 30><Close><End of Block>
+<TextBlock 11 w:46 h:3>
+Ehi, aspetta un attimo.
+Non è in vendita.
+Scusami, non posso
+vendertelo.<Close><End of Block>
+<TextBlock 12 w:50 h:4>
+Ehi!<Delay 3>
+Sono strasicuro che questo
+ti piacerà.<Delay 3>
+Questo è…<Close><End of Block>
+<TextBlock 13 w:6 h:1>
+Oh?<Opcode 2 20><Close><End of Block>
+<TextBlock 14 w:10 h:1>
+Oooh?<Opcode 2 20><Close><End of Block>
+<TextBlock 15 w:44 h:2>
+… è quello che è.
+Non è proprio bello?<Close><End of Block>
+<TextBlock 16 w:6 h:1>
+…<Opcode 2 30><Close><End of Block>
+<TextBlock 17 w:46 h:3>
+Ehi, aspetta un attimo.
+Non è in vendita.
+Scusami, non posso
+vendertelo.<Close><End of Block>
+<TextBlock 18 w:46 h:4>
+Cazzo dici?<Delay 3>
+Stupido ragazzo!!<New>
+Mai in nessun modo potrai
+imparare lo spirito e la
+favola di un uomo del
+Tammuz!<Close><End of Block>
+<TextBlock 19 w:32 h:1>
+Ehi, entra pure.<Close><End of Block>
+<TextBlock 20 w:48 h:3>
+Merda!!
+Stupido papà!<New>
+Tutto le cose che crei
+non sono altro che delle
+schifezze inutili!
+Perché non crei qualcosa
+che si possa vendere!?<Close><End of Block>
+<TextBlock 21 w:54 h:3>
+Che cosa? L'anima di
+un uomo del Tammuz!?<New>
+Se tutti fossero idioti come
+te, il Tammuz sarebbe andato
+e fondo molto tempo fa!"<Close><End of Block>
+<TextBlock 22 w:48 h:4>
+Ehi, avete già incontrato
+il Capitano? È cosììì
+fico! Quando cresco voglio
+diventare proprio come lui!<Close><End of Block>
+<TextBlock 23 w:10 h:1>
+Io sono…!<Close><End of Block>
+<TextBlock 24 w:12 h:1>
+un uomo…!<Close><End of Block>
+<TextBlock 25 w:36 h:2>
+di mare<Delay 10>…<Delay 10>
+Ehi, aspetta…?
+Oops.<Close><End of Block>
+<TextBlock 26 w:34 h:3>
+Ci sono vicino.
+Mi serve ancora
+fare pratica.<Close><End of Block>
+<TextBlock 27 w:48 h:3>
+Sono sicuro che i Wels
+ci stiano seguendo a
+causa del Capitano…<Close><End of Block>
+<TextBlock 28 w:8 h:1>
+Gli uomini…!<Close><End of Block>
+<TextBlock 29 w:22 h:1>
+di mare…!<Close><End of Block>
+<TextBlock 30 w:32 h:2>
+non perdono mai…<Delay 10>…<Delay 10><Space 1>
+… Ehi!<Close><End of Block>
+<TextBlock 31 w:48 h:2>
+Ah, sì, giusto
+un altro po'.<Close><End of Block>
+<TextBlock 32 w:46 h:3>
+Ehi, benvenuto.
+Qui sono esposti alcuni
+rari reperti provenienti
+dai fondali marini.<Close><End of Block>
+<TextBlock 33 w:32 h:1>
+Torna presto.<Close><End of Block>
+<TextBlock 34 w:50 h:3>
+La mia sorellina mi ha
+spinto. Cerca sempre di
+bisticciare. Ho così
+tanta paura!<Close><End of Block>
+<TextBlock 35 w:54 h:3>
+La mia sorellina mi ha
+spinto. Fa sempre la
+prepotente. Ho così
+tanta paura!<New>
+Ho anche paura dei Wels!<Close><End of Block>
+<TextBlock 36 w:46 h:3>
+Il mio fratellone è un
+vero buono a nulla,
+soffre di vertigini…<New>
+Patetico. 
+Calmati!<Close><End of Block>
+<TextBlock 37 w:54 h:3>
+Mio fratello ha così tanta
+paura dei Wels che non vuole
+andare in bagno da solo.<New>
+Patetico.
+Calmati!<Close><End of Block>
+<TextBlock 38 w:28 h:1>
+Fa così<Delay 10>…<Delay 10> caldo.<Close><End of Block>
+<TextBlock 39 w:48 h:1>
+I Mietitori<Delay 10>…<Delay 10>
+sono spaventosi.<Close><End of Block>
+<TextBlock 40 w:28 h:1>
+Fa così<Delay 10>…<Delay 10> caldo.<Close><End of Block>
+<TextBlock 41 w:48 h:1>
+I Mietitori<Delay 10>…<Delay 10>
+sono spaventosi.<Close><End of Block>
+<TextBlock 42 w:34 h:3>
+Ho perso. Prendi questo.
+Poi giochiamo ancora.<Close><End of Block>
+<TextBlock 43 w:46 h:2>
+ 
+ Ricevi uno Zetasol DX.<Close><End of Block>
+<TextBlock 44 w:50 h:2>
+ 
+ Ricevi un Fisimentsol.<Close><End of Block>
+<TextBlock 45 w:40 h:2>
+ 
+ Ricevi un Rosesol.<Close><End of Block>
+<TextBlock 46 w:44 h:2>
+ 
+ Ricevi un Rosesol S.<Close><End of Block>
+<TextBlock 47 w:40 h:2>
+ 
+ Ricevi uno Zetasol.<Close><End of Block>
+<TextBlock 48 w:46 h:2>
+ 
+ Ricevi un Aquasol S.<Close><End of Block>
+<TextBlock 49 w:48 h:2>
+ 
+ Ricevi AbilitaTecn1.<Close><End of Block>
+<TextBlock 50 w:30 h:2>
+Uhm, non sei
+ancora pronto.<Close><End of Block>
+<TextBlock 51 w:30 h:2>
+Uhm, non sei
+ancora pronto.<Close><End of Block>
+<TextBlock 52 w:36 h:3>
+Ehi, non sembri male.<New>
+Vuoi giocare?
+    Ok
+    No<Close><End of Block>
+<TextBlock 53 w:32 h:2>
+Sigh, te ne pentirai.<Close><End of Block>
+<TextBlock 54 w:34 h:2>
+Capisco, sicuramente lo
+stai facendo per non
+buscarne troppe.<Close><End of Block>
+<TextBlock 55 w:50 h:7>
+Ehi, sai che fai proprio
+schifo a questo gioco!?
+Perché non torni quando
+sarai migliorato?<New>
+Dovresti fare più pratica
+da qualche altra parte
+oltre che nel Tammuz.
+Cosa? Non sai di cosa
+sto parlando? Ah! IO SO
+che sai di cosa sto
+parlando!<Close><End of Block>
+<TextBlock 56 w:42 h:1>
+Queenie è così forte!<Close><End of Block>
+<TextBlock 57 w:48 h:1>
+Queenie è così bella!<Close><End of Block>
+<TextBlock 58 w:46 h:3>
+Sono stato sorpreso dal
+fatto che della gente
+viveva su una zattera
+nel mare immenso.<New>
+Inoltre, eravate con
+due Gear. Una cosa
+senza precedenti.<Close><End of Block>
+<TextBlock 59 w:42 h:3>
+Elly
+"Grazie. 
+Ci avete tirati
+fuori dai guai…"<Close><End of Block>
+<TextBlock 60 w:52 h:4>
+Fareste meglio a
+ringraziare il Capitano.<New>
+Quello che ci ha dato
+l'ordine di prendere voi
+due naufraghi è stato il
+Capitano del Tammuz.<Close><End of Block>
+<TextBlock 61 w:24 h:3>
+Fei
+"Tammuz?<Delay 5>
+Capitano…?"<Close><End of Block>
+<TextBlock 62 w:56 h:3>
+Il Tammuz, la città sul
+mare. È il posto dove vi
+trovate ora.<New>
+Il Capitano qui è un tipo
+vecchio stampo, ma anche
+strano.<New>
+Lo vedrete quando lo
+incontrerete. Comunque,
+non lo dico per dire che
+è un vecchio briccone!<Close><End of Block>
+<TextBlock 63 w:44 h:3>
+Elly
+"Uhm… E riguardo
+ai nostri Gear
+cosa ci dici?"<Close><End of Block>
+<TextBlock 64 w:52 h:3>
+Non preoccupatevi. Li
+abbiamo messi dentro il
+Tammuz, dentro il posto
+chiamato magazzino.<New>
+L'acqua del mare è entrata
+dentro di essi, così ci
+vorrà un po' di tempo per
+aggiustarli.<Close><End of Block>
+<TextBlock 65 w:36 h:3>
+Fei
+"Li state riparando
+per noi?"<Close><End of Block>
+<TextBlock 66 w:48 h:3>
+Scommetto che state
+pensando che essere così
+gentili è una cosa proprio
+strana per noi.<New>
+Ma, in realtà, non avevamo
+altra scelta, visto che
+questi sono gli ordini
+del Capitano…<Close><End of Block>
+<TextBlock 67 w:52 h:3>
+Beh, ora devo andare.
+Sono uno occupato, sapete!<New>
+Andate al ponte, dopo che
+avrete osservato per un po'
+la nave.<New>
+Sono sicuro che il Capitano
+vuole vedervi.<Close><End of Block>
+<TextBlock 68 w:28 h:3>
+Elly
+"Fei, cosa c'è?"<Close><End of Block>
+<TextBlock 69 w:44 h:4>
+Fei
+"Mi sembra come se
+avessi già visto
+quel tipo prima d'ora…<Delay 10><New>
+Mah, lascia stare."<Close><Close><End of Block>

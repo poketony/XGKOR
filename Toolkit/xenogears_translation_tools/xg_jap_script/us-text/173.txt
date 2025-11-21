@@ -1,0 +1,357 @@
+#### 1 ####
+Imperial Guard
+"Up ahead is the eastern
+gate of Imperial A Block.{enter}
+However, due to
+construction, it is
+blocked off."
+
+#### 2 ####
+Imperial Guard
+"I'm sorry.
+Please use one of
+the other 3 gates."
+
+#### 3 ####
+Imperial Guard
+"Due to the Aveh attack,
+the entire Imperial capital
+area is under martial law.{enter}
+Presently, the front gate
+is the only one which
+permits civilians. Please,
+go to that one."
+
+#### 4 ####
+Imperial Guard
+"Presently,{wait:05} due to that raid,
+the evacuated prisoners of D
+Block are being transferred.
+Civilians are not permitted 
+to enter."
+
+#### 5 ####
+Imperial Guard
+"Due to the Aveh attack,
+the entire area is under
+martial law. Presently,{enter}
+the front gate is the
+only one which permits
+civilians. Please, go to
+that one."
+
+#### 6 ####
+Big Joe
+"Hey,{wait:05} what's up?{wait:2D} Huh? Me?{wait:0F}
+I'm always the cool and
+nice guy!!"
+
+#### 7 ####
+Big Joe
+"The wind, cloud,
+world... They are all
+calling out to me.{enter}
+We'll meet again...
+Adieu."
+
+#### 8 ####
+{fast:FF}World Map
+
+#### 9 ####
+{fast:FF}World Map
+
+#### 10 ####
+{fast:FF}Prisoner Facility
+Imperial D Block
+
+#### 11 ####
+{fast:FF}Imperial C Block Recreation
+Battling Arena
+
+#### 12 ####
+{fast:FF}Kislev Administration
+Central Area
+
+#### 13 ####
+{fast:FF}Imperial A Block North Gate
+
+#### 14 ####
+{fast:FF}Imperial A Block Front Gate
+
+#### 15 ####
+{fast:FF}Imperial A Block West Gate
+
+#### 16 ####
+{fast:FF}Imperial A Block East Gate
+
+#### 17 ####
+Bluecrystal
+"Imp{wait:05}...{wait:05}Imperial Inf{wait:05}...{wait:05}or{wait:05}...{wait:1E}"
+{fast:FF}    ，Hob-Jerky    75G
+    ，Fang        150G
+    ，Eyeball     200G
+    ，Scale      1500G
+    ，Hob-Meat    225G
+    ，Hob-Steak   530G
+    ，Ivory      2000G
+    Nevermind
+
+#### 18 ####
+Bluecrystal
+"{wait:05}...{wait:1E}Is{wait:05}...{wait:05}last{wait:05}...{wait:05}south{wait:05}...{wait:05}
+land{wait:05}..."
+
+#### 19 ####
+Bluecrystal
+"Code{wait:05} c...{wait:05}lear...{wait:1E}
+MAXCHECK:30 coun{wait:05}...t{wait:05}
+pro...gram,{wait:0F} engaged."
+
+#### 20 ####
+Bluecrystal
+"The {wait:05}amount{wait:05}...{wait:05} paid...{wait:2D}
+is: '{number(s):00}'G {wait:1E}...{wait:05}bzzzz{wait:05}
+...{wait:05}krkkkrrk{wait:05}...{wait:05}"
+
+#### 21 ####
+Bluecrystal
+"C{wait:05}...{wait:05}currency exchange{wait:05}...{wait:05}
+{wait:05}l...{wait:05}ost.{wait:05} Co...{wait:05}de,{wait:05} error{wait:05}..."
+
+#### 22 ####
+Bluecrystal
+"Code{wait:05} c...{wait:05}lear...{wait:1E}
+MAXCHECK:30 coun{wait:05}...t{wait:05}
+pro...gram,{wait:0F} engaged."
+
+#### 23 ####
+Bluecrystal
+"The {wait:05}amount{wait:05}...{wait:05} paid...{wait:2D}
+is: '{number(s):00}'G {wait:1E}...{wait:05}bzzzz{wait:05}
+...{wait:05}krkkkrrk{wait:05}...{wait:05}"
+
+#### 24 ####
+Bluecrystal
+"C{wait:05}...{wait:05}currency exchange{wait:05}...{wait:05}
+{wait:05}l...{wait:05}ost.{wait:05} Co...{wait:05}de,{wait:05} error{wait:05}..."
+
+#### 25 ####
+Bluecrystal
+"Code{wait:05} c...{wait:05}lear...{wait:1E}
+MAXCHECK:30 coun{wait:05}...t{wait:05}
+pro...gram,{wait:0F} engaged."
+
+#### 26 ####
+Bluecrystal
+"The {wait:05}amount{wait:05}...{wait:05} paid...{wait:2D}
+is: '{number(s):00}'G{wait:1E}...{wait:05}bzzzz{wait:05}
+...{wait:05}krkkkrrk{wait:05}...{wait:05}"
+
+#### 27 ####
+Bluecrystal
+"C{wait:05}...{wait:05}currency exchange{wait:05}...{wait:05}
+{wait:05}l...{wait:05}ost.{wait:05} Co...{wait:05}de,{wait:05} error{wait:05}..."
+
+#### 28 ####
+Bluecrystal
+"Code{wait:05} c...{wait:05}lear...{wait:1E}
+MAXCHECK:30 coun{wait:05}...t{wait:05}
+pro...gram,{wait:0F} engaged."
+
+#### 29 ####
+Bluecrystal
+"The {wait:05}amount{wait:05}...{wait:05} paid...{wait:2D}
+is: '{number(s):00}'G {wait:1E}...{wait:05}bzzzz{wait:05}
+...{wait:05}krkkkrrk{wait:05}...{wait:05}"
+
+#### 30 ####
+Bluecrystal
+"C{wait:05}...{wait:05}currency exchange{wait:05}...{wait:05}
+{wait:05}l...{wait:05}ost.{wait:05} Co...{wait:05}de,{wait:05} error{wait:05}..."
+
+#### 31 ####
+Bluecrystal
+"Code{wait:05} c...{wait:05}lear...{wait:1E}
+MAXCHECK:30 coun{wait:05}...t{wait:05}
+pro...gram,{wait:0F} engaged."
+
+#### 32 ####
+Bluecrystal
+"The {wait:05}amount{wait:05}...{wait:05} paid...{wait:2D}
+is: '{number(s):00}'G {wait:1E}...{wait:05}bzzzz{wait:05}
+...{wait:05}krkkkrrk{wait:05}...{wait:05}"
+
+#### 33 ####
+Bluecrystal
+"C{wait:05}...{wait:05}currency exchange{wait:05}...{wait:05}
+{wait:05}l...{wait:05}ost.{wait:05} Co...{wait:05}de,{wait:05} error{wait:05}..."
+
+#### 34 ####
+Bluecrystal
+"Code{wait:05} c...{wait:05}lear...{wait:1E}
+MAXCHECK:30 coun{wait:05}...t{wait:05}
+pro...gram,{wait:0F} engaged."
+
+#### 35 ####
+Bluecrystal
+"The {wait:05}amount{wait:05}...{wait:05} paid...{wait:2D}
+is: '{number(s):00}'G {wait:1E}...{wait:05}bzzzz{wait:05}
+...{wait:05}krkkkrrk{wait:05}...{wait:05}"
+
+#### 36 ####
+Bluecrystal
+"C{wait:05}...{wait:05}currency exchange{wait:05}...{wait:05}
+{wait:05}l...{wait:05}ost.{wait:05} Co...{wait:05}de,{wait:05} error{wait:05}..."
+
+#### 37 ####
+Bluecrystal
+"Code{wait:05} c...{wait:05}lear...{wait:1E}
+MAXCHECK:30 coun{wait:05}...t{wait:05}
+pro...gram,{wait:0F} engaged."
+
+#### 38 ####
+Bluecrystal
+"The {wait:05}amount{wait:05}...{wait:05} paid...{wait:2D}
+is: '{number(s):00}'G {wait:1E}...{wait:05}bzzzz{wait:05}
+...{wait:05}krkkkrrk{wait:05}...{wait:05}"
+
+#### 39 ####
+Bluecrystal
+"C{wait:05}...{wait:05}currency exchange{wait:05}...{wait:05}
+{wait:05}l...{wait:05}ost.{wait:05} Co...{wait:05}de,{wait:05} error{wait:05}..."
+
+#### 40 ####
+The Kislev capital's, Nortune's
+'Central Administrive District'
+itself was a secret battleship
+constructed by Bart's ancestor,
+Roni Fatima, after the Great
+War with Solaris many hundreds
+of years ago.
+
+#### 41 ####
+The existence of the secret
+battleship remained hidden.
+Later, the ship was turned
+into a section of the Kislev
+Imperial capital during the
+founding of the Empire.
+
+#### 42 ####
+Uncovering this truth from some
+ancient records, Bart activated
+the secret battleship in order
+to fight against the Solarian
+Mobile Surface Supremacy Weapon.
+
+#### 43 ####
+The 'Sand Cruiser Yggdrasil'
+was actually the center of
+command and also the main
+secret weapon of the craft{wait:05}...{wait:05}
+ 
+Awakening from 500 years
+of dormancy, its true
+form appeared before us.
+ 
+Commanded by its 'new master',
+the secret battleship stood
+before the Mobile Weapon with
+all of us inside of it.
+
+#### 44 ####
+Big Joe
+"Hey, brother, you!{wait:1E} {enter}
+You wanna listen to
+my super muchacho
+information?"
+
+#### 45 ####
+Fei
+"...Super nacho
+information? {enter}
+What's so interesting
+about nachos?"
+
+#### 46 ####
+Big Joe
+"{wait:05}...{wait:05}From the looks of it,
+you're all in a group,
+right?{enter}
+In that case, you need to
+change your party! If you
+go to the 'Wildcat' pub,
+there'll be a new waitress.{enter}
+If you ever want to change
+your party members, just
+remember to stop by there."
+
+#### 47 ####
+Big Joe
+"Hey,{wait:05} brother, you!{wait:0F}{enter}
+You want to hear about my
+super muchacho
+information?"
+
+#### 48 ####
+Fei
+"H, hey!? You're the one
+who stole my '5000G'.
+Give it back to me now."
+
+#### 49 ####
+Big Joe
+"{wait:05}...{wait:05}Hey hey.{wait:1E}
+That's just a minor thing.{enter}
+Being picky will only turn
+you into a boring adult.{wait:0F}
+You gotta be...?{enter}
+How would you say...{wait:1E}
+more open and deep like
+the sea.{enter}
+Well, setting that aside,{wait:05}
+you need to listen to my
+super muchacho
+information!"
+
+#### 50 ####
+Fei
+"{wait:05}...{wait:05}You're funny.{wait:2D} But
+keep it up an' you'll
+just piss me off."
+
+#### 51 ####
+Big Joe
+"{wait:05}...{wait:05}From the looks of it,
+you're all in a group,
+right?{enter}
+In that case, you need to
+change your party! If you
+go to the 'Wildcat' pub,
+there'll be a new waitress.{enter}
+If you ever want to change
+your party members, just
+remember to stop by there."
+
+#### 52 ####
+Big Joe
+"Oh, one more thing{wait:05}...{wait:1E}
+There was a deep deep
+reason, as deep as the{enter}
+deepest ocean, for doing
+what I did. As a way of
+making up for it, go back
+to that backstreet one{enter}
+more time and search the
+area{wait:05}...{wait:0F} You just might
+find something good,{wait:05} for
+real!"
+
+#### 53 ####
+Fei
+"This dog{wait:05}...{wait:05} It was
+his{wait:05}...{wait:05}"
+
+#### 54 ####
+Gave 'Dog Food'!
+

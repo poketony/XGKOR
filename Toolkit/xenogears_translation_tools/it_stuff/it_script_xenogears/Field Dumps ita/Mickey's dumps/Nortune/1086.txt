@@ -1,0 +1,524 @@
+<TextBlock 1 w:28 h:2>
+Fei
+"È chiuso."<Close><End of Block>
+<TextBlock 2 w:22 h:2>
+Fei
+"Anche qui."<Close><End of Block>
+<TextBlock 3 w:14 h:2>
+Fei
+"Sì."<Close><End of Block>
+<TextBlock 4 w:44 h:4>
+Fei
+"Sembra che tutti gli
+scarichi vadano verso
+la cascata…"<Close><End of Block>
+<TextBlock 5 w:8 h:3>
+Fei
+"!?
+…"<Close><End of Block>
+<TextBlock 6 w:40 h:4>
+Fei
+"Sembra che non
+ritorni alla scena
+dell'omicidio…"<Close><End of Block>
+<TextBlock 7 w:20 h:2>
+Fei
+"Qui…?"<Close><End of Block>
+<TextBlock 8 w:26 h:2>
+Fei
+"È qui?"<Close><End of Block>
+<TextBlock 9 w:18 h:2>
+Fei
+"Mmph<Delay 20>…<Opcode 2 30><Close><End of Block>
+<TextBlock 10 w:36 h:2>
+Fei
+"Non si apre…"<Close><End of Block>
+<TextBlock 11 w:16 h:2>
+Fei
+"Ehi…"<Close><End of Block>
+<TextBlock 12 w:44 h:2>
+Fei
+"Quel campanellino
+deve essere…"<Close><End of Block>
+<TextBlock 13 w:36 h:2>
+Fei
+"Dov'è la chiave?"<Close><End of Block>
+<TextBlock 14 w:40 h:3>
+Fei
+"Siamo sicuri che sia
+caduta qui da qualche
+parte?"<Close><End of Block>
+<TextBlock 15 w:40 h:3>
+Fei
+"Deve essere caduta
+qui da qualche parte."<Close><End of Block>
+<TextBlock 16 w:36 h:2>
+Fei
+"Mmh, ma è…"<Close><End of Block>
+<TextBlock 17 w:46 h:3>
+Fei
+"Porca…! No…<Delay 30>
+Dev'essere questa…"<Close><End of Block>
+<TextBlock 18 w:20 h:2>
+Fei
+"… Cosa?"<Close><End of Block>
+<TextBlock 19 w:28 h:3>
+Fei
+"Perché ci sono
+così tante chiavi?"<Close><End of Block>
+<TextBlock 20 w:24 h:3>
+Fei
+"…!<Delay 40>
+Finalmente!"<Close><End of Block>
+<TextBlock 21 w:28 h:3>
+<Opcode 1 255>Fei
+    Certo
+    Aspetta<Close><End of Block>
+<TextBlock 22 w:34 h:2>
+Fei
+"Ok, andiamo."<Close><End of Block>
+<TextBlock 23 w:20 h:2>
+Fei
+"Uno-due-tre!"<Opcode 2 45><Close><End of Block>
+<TextBlock 24 w:28 h:2>
+Fei
+"Wow! Aspetta…"<Opcode 2 40><Close><End of Block>
+<TextBlock 25 w:12 h:2>
+Fei
+"…?"<Close><End of Block>
+<TextBlock 26 w:14 h:3>
+Fei
+"…!<Delay 20>
+Qui!!"<Close><End of Block>
+<TextBlock 27 w:36 h:2>
+Fei
+"Va bene. Ho capito!"<Close><End of Block>
+<TextBlock 28 w:14 h:2>
+Fei
+"Mmph!"<Opcode 2 10><Close><End of Block>
+<TextBlock 29 w:14 h:2>
+<Opcode 1 255>Fei
+"…!!"<Opcode 2 20><Close><End of Block>
+<TextBlock 30 w:28 h:2>
+<Opcode 1 255>Fei
+"Dietro di te!!"<Opcode 2 20><Close><End of Block>
+<TextBlock 31 w:32 h:3>
+Fei
+"Perché… ha un<Delay 30>
+campanellino…?"<Close><End of Block>
+<TextBlock 32 w:8 h:3>
+Fei
+"!?
+…"<Close><End of Block>
+<TextBlock 33 w:52 h:2>
+Fei
+"È tutto coperto di bava."<Close><End of Block>
+<TextBlock 34 w:42 h:2>
+Fei
+"Provo ad usarlo…"<Close><End of Block>
+<TextBlock 35 w:48 h:4>
+Fei
+"C'è della bava
+nello scarico…<New>
+Ci saranno molti
+posti come questo."<Close><End of Block>
+<TextBlock 36 w:44 h:4>
+Fei
+"È così!<Delay 30>
+Useremo quel campanellino
+per attirarlo fuori."<Close><End of Block>
+<TextBlock 37 w:36 h:3>
+Shitan
+"Questo scarico a
+dove è collegato?"<Close><End of Block>
+<TextBlock 38 w:10 h:3>
+Shitan
+"!?
+…"<Opcode 2 30><Close><End of Block>
+<TextBlock 39 w:42 h:4>
+Shitan
+"C'è qualcosa che si
+nasconde qua intorno,
+di questo sono certo."<Close><End of Block>
+<TextBlock 40 w:38 h:3>
+Shitan
+"Una cosa senza
+dubbio strana."<Close><End of Block>
+<TextBlock 41 w:50 h:3>
+Shitan
+"Sai dove portano
+tutti gli scarichi?"<Close><End of Block>
+<TextBlock 42 w:46 h:3>
+Shitan
+"C'è sempre bava presso
+la scena dell'omicidio.<New>
+Sembra che accada
+solo una volta."<Close><End of Block>
+<TextBlock 43 w:54 h:4>
+Shitan
+"Dicono che non torni
+mai nello stesso luogo…<Delay 40>
+Mi chiedo perché?"<Close><End of Block>
+<TextBlock 44 w:48 h:3>
+Shitan
+"Un campanellino…!?<Delay 30>
+C'è un campanellino
+all'interno."<Close><End of Block>
+<TextBlock 45 w:44 h:3>
+Shitan
+"In ogni modo,
+dobbiamo cercarlo
+ora."<Close><End of Block>
+<TextBlock 46 w:38 h:3>
+Shitan
+"Che cosa strana…"<Close><End of Block>
+<TextBlock 47 w:50 h:4>
+Shitan
+"Ne sono certo.<New>
+Questo è l'unico scarico
+in cui è presente bava
+e non c'è stato alcun
+omicidio nei paraggi."<Close><End of Block>
+<TextBlock 48 w:24 h:2>
+<Opcode 1 255>Shitan
+"È qui!"<Opcode 2 20><Close><End of Block>
+<TextBlock 49 w:54 h:3>
+Shitan
+"Aveva un'intelligenza
+normale, simile a
+quella umana."<Close><End of Block>
+<TextBlock 50 w:44 h:4>
+Shitan
+"No.<New>
+È meglio dire…
+'aveva fatto in modo
+di lasciare qualcosa'."<Close><End of Block>
+<TextBlock 51 w:34 h:3>
+Shitan
+"… È davvero<Delay 60>
+assai triste…"<Close><End of Block>
+<TextBlock 52 w:46 h:4>
+Shitan
+"No, qui vicino c'è 
+stato un omicidio, ma
+non è questo il posto."<Close><End of Block>
+<TextBlock 53 w:42 h:3>
+Shitan
+"Sì.<New>
+Questo deve essere 
+lo scarico da cui
+va e viene."<Close><End of Block>
+<TextBlock 54 w:40 h:2>
+Shitan
+"Molto strano…"<Close><End of Block>
+<TextBlock 55 w:28 h:3>
+Rico
+"Cosa diamine
+era quello…?"<Close><End of Block>
+<TextBlock 56 w:34 h:3>
+Rico
+"C'è bava anche in
+questo scarico."<Close><End of Block>
+<TextBlock 57 w:44 h:4>
+Rico
+"Ogni cosa dovrebbe essere
+collegata all'impianto di
+depurazione…"<Close><End of Block>
+<TextBlock 58 w:50 h:3>
+Rico
+"Dovrebbe collegarsi
+all'impianto di
+depurazione."<Close><End of Block>
+<TextBlock 59 w:46 h:3>
+Rico
+"Giusto, deve esserci
+un posto dove si
+collegano tutti."<Close><End of Block>
+<TextBlock 60 w:34 h:2>
+Rico
+"Ehi, ma è…"<Close><End of Block>
+<TextBlock 61 w:54 h:4>
+Rico
+"Mmh…<New>
+È accanto alla
+cascata che si trova
+ad est, nel punto più
+lontano da qui."<Close><End of Block>
+<TextBlock 62 w:32 h:2>
+Rico
+"Ehi, attenzione!"<Close><End of Block>
+<TextBlock 63 w:26 h:2>
+Rico
+"Lo farò io!"<Close><End of Block>
+<TextBlock 64 w:40 h:3>
+Rico
+"Argh <Delay 20>arrgh…<Delay 20>
+Porco…! Non si apre.<New>
+Cazzo!"<Close><End of Block>
+<TextBlock 65 w:46 h:4>
+Rico
+"Porco giuda!<Delay 40>
+Non ci voleva…<Delay 30> non si
+apre senza la chiave."<Close><End of Block>
+<TextBlock 66 w:40 h:3>
+Rico
+"Vargas doveva averla
+di sicuro.<New>
+Deve averla persa da
+qualche parte quando
+è stato ucciso…<New>
+Forse l'hanno presa
+i ratti…"<Close><End of Block>
+<TextBlock 67 w:48 h:2>
+Rico
+"Di cosa stai parlando?"<Close><End of Block>
+<TextBlock 68 w:44 h:4>
+Rico
+"Se è stata persa 
+potremmo non essere in
+grado di ritrovarla."<Close><End of Block>
+<TextBlock 69 w:32 h:2>
+Rico
+"Siete pronti?"<Close><End of Block>
+<TextBlock 70 w:40 h:4>
+Rico
+"Stupido!
+Chi stai aspettando?
+Muoviamoci!!<Opcode 2 60><Close><End of Block>
+<TextBlock 71 w:32 h:2>
+Rico
+"… Presto…"<Close><End of Block>
+<TextBlock 72 w:52 h:4>
+Rico
+"C'è bava anche qui…
+E qua intorno non ci
+sono stati omicidi…"<Close><End of Block>
+<TextBlock 73 w:32 h:2>
+<Opcode 1 255>Rico
+"Togliti di mezzo!!"<Opcode 2 15><Close><End of Block>
+<TextBlock 74 w:16 h:2>
+<Opcode 1 255>Rico
+"Cosa!!??"<Opcode 2 10><Close><End of Block>
+<TextBlock 75 w:52 h:4>
+Rico
+"Questa stanza dovrebbe
+essere collegata…<New>
+… all'impianto
+di depurazione."<Close><End of Block>
+<TextBlock 76 w:42 h:3>
+Rico
+"Cosa!? Che vuoi dire?<Delay 40>
+No…"<Close><End of Block>
+<TextBlock 77 w:26 h:2>
+Nonno
+"Chi siete?"<Close><End of Block>
+<TextBlock 78 w:40 h:3>
+Fei
+"Cosa stai facendo 
+qua sotto?"<Close><End of Block>
+<TextBlock 79 w:34 h:4>
+Nonno
+"Mmh.
+Vivo quaggiù da
+un mucchio di tempo."<Close><End of Block>
+<TextBlock 80 w:50 h:3>
+Fei
+"Mmh, non sei mai stato
+attaccato dai mostri?"<Close><End of Block>
+<TextBlock 81 w:52 h:4>
+Nonno
+"Vivo quaggiù da molto
+tempo e non ho visto
+quel mostro di recente."<Close><End of Block>
+<TextBlock 82 w:46 h:3>
+Nonno
+"Ehi, siete qui per
+eliminare il mostro?<New>
+Questo renderebbe il
+posto un po' più
+accogliente."<Close><End of Block>
+<TextBlock 83 w:18 h:2>
+Nonno
+"Grazie."<Close><End of Block>
+<TextBlock 84 w:48 h:3>
+Rico
+"Ehi, nonno!
+Cosa fai quaggiù?<New>
+Pensavo che l'entrata
+fosse bloccata."<Close><End of Block>
+<TextBlock 85 w:30 h:4>
+Nonno
+"Mmh.
+Vivo quaggiù da
+molto tempo."<Close><End of Block>
+<TextBlock 86 w:48 h:3>
+Rico
+"Da solo? In un
+posto simile?"<Close><End of Block>
+<TextBlock 87 w:44 h:4>
+Nonno
+"Come si vede, sono
+un mutante e i mostri
+mi lasciano in pace."<Close><End of Block>
+<TextBlock 88 w:52 h:4>
+Nonno
+"Ma ultimamente i miei
+vicini se ne vanno in
+giro a distruggere."<Close><End of Block>
+<TextBlock 89 w:46 h:3>
+Rico
+"Davvero?
+Lo stiamo cercando."<Close><End of Block>
+<TextBlock 90 w:40 h:4>
+Nonno
+"Oh!
+Vorreste farlo fuori
+per me?<New>
+Se vi servono notizie
+non esitate a chiedere.<New>
+Vi aiuterò."<Close><End of Block>
+<TextBlock 91 w:48 h:3>
+Nonno
+"È pericoloso là dentro.
+È meglio che non entriate."<Close><End of Block>
+<TextBlock 92 w:42 h:3>
+Nonno
+"Il luogo in cui
+tutti gli scarichi
+si riuniscono?"<Close><End of Block>
+<TextBlock 93 w:46 h:3>
+Andate a nordest, oltre
+la porta vicino alla
+cascata.<Close><End of Block>
+<TextBlock 94 w:38 h:3>
+Nonno
+"Quello è il
+passe-partout
+per le fogne.<New>
+Con esso potrete
+entrare nella stanza
+presso la cascata."<Close><End of Block>
+<TextBlock 95 w:28 h:3>
+Nonno
+"Prendetevi cura
+di voi stessi."<Close><End of Block>
+<TextBlock 96 w:50 h:2>
+Nonno
+"Quella porta è bloccata?<New>
+Se si perdesse, l'avrei
+trovata. E non l'ho…<New>
+Oh! Già! Quei cosi
+spazzano via tutta la
+immondizia che sta
+qui attorno sul pavimento."<Close><End of Block>
+<TextBlock 97 w:14 h:2>
+Fei
+"Quei cosi?"<Close><End of Block>
+<TextBlock 98 w:40 h:3>
+Nonno
+"Quelle cose che si
+muovono qua intorno."<Close><End of Block>
+<TextBlock 99 w:48 h:2>
+Nonno
+"Ma… è strano.<New>
+Se fosse stata
+risucchiata quei cosi
+non si muoverebbero…"<Close><End of Block>
+<TextBlock 100 w:48 h:3>
+Nonno
+"Vedo che avete
+trovato le chiavi.<New>
+Ora potete entrare
+nella stanza della
+cascata."<Close><End of Block>
+<TextBlock 101 w:24 h:2>
+Nonno
+"Fate attenzione."<Close><End of Block>
+<TextBlock 102 w:44 h:2>
+Nonno
+"Non ne avete visto
+uno rotto?<New>
+No? È meglio che
+cerchiate meglio."<Close><End of Block>
+<TextBlock 103 w:50 h:4>
+Nonno
+"Questo mi ricorda…<New>
+Attraversate la porta a
+nordovest, e ne troverete
+uno rotto proprio là."<Close><End of Block>
+<TextBlock 104 w:42 h:3>
+Nonno
+"E lo puoi attirare con
+questo campanellino."<Close><End of Block>
+<TextBlock 105 w:30 h:2>
+Fei
+"Lo suoniamo qua?"<Close><End of Block>
+<TextBlock 106 w:44 h:2>
+Nonno
+"Uh-uh, ma cosa dici…"<Close><End of Block>
+<TextBlock 107 w:50 h:3>
+Nonno
+"C'è sempre bava presso
+gli scarichi che usa.<New>
+Non torna mai due volte
+nello stesso posto."<Close><End of Block>
+<TextBlock 108 w:42 h:4>
+Fei
+"Quindi ci serve
+uno scarico con
+della bava e…<New>
+… vicino non deve
+essere avvenuto
+nessun omicidio."<Close><End of Block>
+<TextBlock 109 w:46 h:5>
+Nonno
+"Giusto.
+Pensavo…<Delay 30> ce n'è uno 
+su questo piano, a nord
+di qui."<Close><End of Block>
+<TextBlock 110 w:50 h:2>
+Nonno
+"Cosa? Vuota?<New>
+Ci deve essere un modo
+per farlo uscire allo
+scoperto."<Close><End of Block>
+<TextBlock 111 w:44 h:3>
+Nonno
+"Non c'era nulla
+nella stanza?<Close><End of Block>
+<TextBlock 112 w:46 h:5>
+Nonnno
+"Grazie per aver reso 
+questo posto un luogo 
+in cui è di nuovo
+possibile vivere.<New>
+Ora riposatevi e
+grazie di nuovo!"<Close><End of Block>
+<TextBlock 113 w:4 h:1>
+-3<Opcode 2 20><Close><End of Block>
+<TextBlock 114 w:4 h:1>
+-5<Opcode 2 20><Close><End of Block>
+<TextBlock 115 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 116 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 117 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 118 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 119 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 120 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><End of Block>
+<TextBlock 121 w:34 h:2>
+Hai troppe unità di
+<Opcode 4 20><Close><End of Block>
+<TextBlock 122 w:40 h:2>
+ 
+ Ricevi <Opcode 4 20><Close><Close><End of Block>

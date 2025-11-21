@@ -1,0 +1,435 @@
+#### 1 ####
+Rico
+"If you're looking for
+Citan, he was at the
+Gear Shop..."
+
+#### 2 ####
+{name:07:¥Á¥å¥Á¥å}
+"I'm exhauschued chu!{wait:0A}
+Since you're here...{wait:0A}
+I'd like a massage!!{enter}
+Just kidding..."
+
+#### 3 ####
+{name:07:¥Á¥å¥Á¥å}
+"Elly, she was so kind...
+I know I'm not the only
+one chu miss her.{enter}
+I know Bart, Margie,
+Billy, Citan, Rico,
+Maria, Emeralda, and
+Fei all do chu...{enter}
+Although they don't say
+it, I can feel it...
+Standing here, I remember
+her kind and gentle smile.{enter}
+Elly will return, won't
+she?"
+
+#### 4 ####
+Fei
+"...
+Thanks, {name:07:¥Á¥å¥Á¥å}...{enter}
+Thanks for trying to
+reduce all this tension
+in the air for me.{wait:05}
+I'll remember this...{enter}
+Anyway...{wait:05}
+Elly's gotta be alive!
+Right?"
+
+#### 5 ####
+{name:07:¥Á¥å¥Á¥å}
+"Fei..."
+
+#### 6 ####
+Fei
+"Let's go back to the room.
+Margie seemed worried."
+
+#### 7 ####
+{name:07:¥Á¥å¥Á¥å}
+"Okay.
+I'll come chu!"
+
+#### 8 ####
+What do you want to do?
+{fast:FF}    View Gear from here
+    View Gear from front
+    Hear lowdown on Gear
+    Nothing
+
+#### 9 ####
+This is {name:11:¥·¥å©`¥Æ¥£¥¢}.
+It's the Battling Champ,
+Rico's Gear.{enter}
+Height 19 sharls
+Base Weight 20.8 kahnns
+Full Weight 27.5 kahnns{enter}
+Although it appears slow,
+it's actually quite nimble
+with the Grind-rollers.{enter}
+Since it's built for
+Battling, it's got the
+best endurance.{enter}
+The Drillclaw on the left
+arm has the ability to tear
+through steel plates of up
+to 0.8 sharls.
+
+#### 10 ####
+This is {name:19:£Å¡¤¥·¥å©`¥Æ¥£¥¢}.
+It is Rico's Gear.{enter}
+Height 19.2 sharls
+Base Weight 22.2 kahnns
+Full Weight 26.7 kahnns{enter}
+Like the other Omnigears,
+it was at one point an Anima
+Relic absorbed by Deus and
+deactivated...{enter}
+However, using the data taken
+from Xenogears as a base, the
+sages of Shevat, Balthasar
+and Mechior, reconstructed it.{enter}
+Thanks to that, its
+capabilities have increased
+compared to the prior version.{enter}
+Its standard weapon is the
+same as it was before its
+reconstruction.
+
+#### 11 ####
+This is {name:0D:¥ô¥£¥¨¥ë¥¸¥§}.
+It's the Gear for that
+girl from Solaris.{enter}
+Height 15.7 sharls
+Base Weight 10.2 kahnns
+Full Weight 14.7 kahnns{enter}
+The frame along with the
+armor have been minimized
+for reduced weight.{enter}
+But within all that lies
+the impressive technology
+of Solaris.{enter}
+It's a lot more resistant
+to damage than what its
+appearance suggests.{enter}
+Rather than physical
+damage, it's more
+specialized for Ether
+attacks.{enter}
+This is especially so with
+the tail stabilizers and
+equipped side skirts which
+are used...{enter}
+...for the explosively
+damaging Ether guidance
+weapons, 'Aerods'.{enter}
+It basically reflects
+that young lady's Ether
+power directly.
+
+#### 12 ####
+{name:10:¥ì¥ó¥Þ©`¥Ä¥©}
+It is Billy's Gear.{enter}
+Height 15.9 sharls
+Base Weight 11.6 kahnns
+Full Weight 16.1 kahnns{enter}
+It's still under
+investigation so I
+don't know the details.
+
+#### 13 ####
+{name:10:¥ì¥ó¥Þ©`¥Ä¥©}
+This is Billy's Gear.{enter}
+Height 15.9 sharl
+Base Weight 11.6 kahnns
+Full Weight 16.1 kahnns{enter}
+Although on the outside
+it looks like an 'Ethos'
+-type Gear, inside, it
+is entirely Solaris-type.{enter}
+Since it's for Etone use,
+that Stone character most
+likely brought it here
+directly after its
+creation in Solaris.{enter}
+But, because of that,
+its capabilities are
+really impressive.{enter}
+Especially those anti-Wels
+Revolver Cannons equipped
+in both arms.
+They are very destructive.{enter}
+An average Gear would be
+junk after taking one hit.
+
+#### 14 ####
+{name:18:£Å¡¤¥ì¥ó¥Þ©`¥Ä¥©}
+This is Billy's Gear.{enter}
+Height 18.8 sharl
+Base Weight 14.9 kahnns
+Full Weight 19.3 kahnns{enter}
+Like the other Omnigears it
+was at one point an Anima
+Relic that was absorbed by
+Deus and thus deactivated.{enter}
+However, using the data taken
+from Xenogears as a base, the
+sages of Shevat, Balthasar and
+Mechior could reconstruct it.{enter}
+Thanks to that, its
+capabilities have increased
+compared to the prior version.{enter}
+The standard weapon is the
+same as before reconstruction.
+Billy's father's Buntline
+Cannon can still be used too.
+
+#### 15 ####
+{name:14:¥¯¥ì¥¹¥±¥ó¥¹}
+It's Emeralda's Gear.{enter}
+Height 15.4 sharl
+Base Weight 9.7 kahnns
+Full Weight 13.3 kahnns{enter}
+This Gear's controls are
+quite unique.{enter}
+The colony of nanomachines
+from Emeralda's body
+physically merges with the
+Gear for direct control.{enter}
+Theoretically, this Gear
+shouldn't require repairs
+but it seems they don't try
+to repair anything except
+Emeralda herself.{enter}
+So, we're left with no
+other choice but to have
+to maintain the Gear.{enter}
+The surface hovering and
+flight capabilties are
+quite impressive.
+
+#### 16 ####
+This is...
+huh, {name:07:¥Á¥å¥Á¥å}!?
+What in the world
+are you doing here!{enter}
+You don't need any
+maintenance work!!{enter}
+You're in the way!
+Go eat some food
+and take a nap or
+sumthin'!
+
+#### 17 ####
+Change this Gear's name?
+    Yes
+    Not now
+
+#### 18 ####
+Hmm, {name:07:¥Á¥å¥Á¥å} isn't
+exactly an object.
+There's nothing I can
+do for you there.
+
+#### 19 ####
+Bart
+"Y, you know..."
+
+#### 20 ####
+Bart
+"Hey?"
+
+#### 21 ####
+...{clear:1E}
+
+#### 22 ####
+Bart
+"Quit the silent treatment!{wait:0A}
+I came here to apologize!"
+
+#### 23 ####
+Rico
+"...{enter}
+What's your problem!?
+I thought I dealt with
+you a while ago.{enter}
+I'm not the type to
+dwell on the past."
+
+#### 24 ####
+...
+
+#### 25 ####
+Rico
+"I'm more concerned about
+those two Gears there...{wait:0A}
+Who the hell are you?{enter}
+I'm amazed you tune them
+to run so well!{enter}
+I thought Fei and I were
+the only ones who could
+work Gears that well..."
+
+#### 26 ####
+Bart
+"Wow you really are the
+Battling Champ... {wait:05}Oops,{wait:05}
+I mean ex-Champ...{enter}
+I'm amazed how you can
+tell how good a Gear is
+just by looking at it."
+
+#### 27 ####
+Rico
+"I guess you can't learn
+all about the world inside
+a dark prison.{enter}
+Really interesting.{wait:0A}
+I was gonna move on but
+now I've changed my mind...{wait:0A}
+Let me join you,{wait:05} boss."
+
+#### 28 ####
+Bart
+"I guess it's alright..."
+
+#### 29 ####
+I thought it was about
+time for you to come...
+
+#### 30 ####
+Elly
+"It's no use trying
+to stop me.{enter}
+Even if it is you,
+if you get in my way,
+I have no choice but
+to...!!"
+
+#### 31 ####
+Citan
+"That is no way for a lady
+to speak.{wait:0A} I just came here
+to see you off."
+
+#### 32 ####
+?{clear:14}
+
+#### 33 ####
+Citan
+"I refueled {name:0B:¥ô¥§¥ë¥È©`¥ë}.{wait:0A}
+We are ready to go
+anytime."
+
+#### 34 ####
+Elly
+"...Citan."
+
+#### 35 ####
+Citan
+"...But,{wait:0A} Elly,{wait:0A} you cannot
+use your Gear while it is
+under repairs."
+
+#### 36 ####
+Elly
+"What?{wait:0A} Then{wait:0A} what am I...?"
+
+#### 37 ####
+Citan
+"You know that Omnigear...{wait:0A}
+What if you borrow it..."
+
+#### 38 ####
+Fei
+"No way.{wait:0A} I can't take
+Shevat's property
+without permission..."
+
+#### 39 ####
+Citan
+"Elly is the only
+appropriate person
+for the Gear.{enter}
+Nobody else can
+operate it."
+
+#### 40 ####
+No...
+
+#### 41 ####
+Elly
+"Never!!
+I won't ride it, ever!!"
+
+#### 42 ####
+Fei
+"Elly...?{wait:0A}
+What's wrong?"
+
+#### 43 ####
+Elly
+"I'm so scared...{wait:14}
+That's why...{wait:0A} I'll
+never want to do it!!"
+
+#### 44 ####
+Citan
+"This is a problem..."
+
+#### 45 ####
+How about if I
+ride with you?
+
+#### 46 ####
+Fei
+"Everyone...?"
+
+#### 47 ####
+Bart
+"Sorry...{wait:0A}Fei."
+
+#### 48 ####
+Billy
+"I'm sorry..."
+
+#### 49 ####
+Margie
+"Sorry..."
+
+#### 50 ####
+Fei
+"No...{wait:0A}
+Thanks, everyone."
+
+#### 51 ####
+Citan
+"Now, I know you hate to
+leave, but we should get
+going before dawn.{enter}
+I did some work on the
+radar, so it
+should work fine!"
+
+#### 52 ####
+Citan
+"...They have left..."
+
+#### 53 ####
+Emeralda
+"Fei{wait:05}...{wait:0A}where{wait:05}..."
+
+#### 54 ####
+Citan
+"They went far away."
+
+#### 55 ####
+Emeralda
+"I{wait:05}...{wait:0A}go{wait:05}..."
+
+#### 56 ####
+
+

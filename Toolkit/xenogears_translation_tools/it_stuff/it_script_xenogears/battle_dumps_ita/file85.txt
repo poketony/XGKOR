@@ -1,0 +1,26 @@
+<TextBlock 1 w:42 h:4>
+Miang
+"Eh…<Delay 60> Allora…
+ricominciamo dal
+principio.<New>
+Pensi di riuscire
+a battermi questa
+volta?"<Delay 30><Close><End of Block>
+<TextBlock 2 w:36 h:4>
+Fei
+"Come…!?
+Pensavo di averti
+sconfitto!"<Close><End of Block>
+<TextBlock 3 w:44 h:4>
+Krelian
+"Fintanto che non
+scomporrai la sua
+struttura atomica…<New>
+… non avrai alcuna
+possibilità contro
+di lei.<New>
+Gli attacchi normali
+sono inutili contro
+chi ha l'abilità di
+rigenerarsi usando…<New>
+… le nanomacchine."<Close><Close><Close><Close>ü<Close><Close><End of Block>

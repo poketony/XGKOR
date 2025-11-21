@@ -1,0 +1,384 @@
+#### 1 ####
+Fei
+"You...?{wait:14}
+How do you know me?"
+
+#### 2 ####
+Fei
+"Uh, no...{wait:28}
+We weren't..."
+
+#### 3 ####
+Fei
+"Huh?
+What do you mean?"
+
+#### 4 ####
+Rico
+"Tchi!
+Don't like him!"
+
+#### 5 ####
+Rico
+"Ah!"{clear:14}
+
+#### 6 ####
+Rico
+"Not good!"{clear:1E}
+
+#### 7 ####
+Rico
+"Coming again!
+Laaater..."{clear:14}
+
+#### 8 ####
+Rico
+"Because a mutant
+like me is here."
+
+#### 9 ####
+Sigmund
+"Yes."
+
+#### 10 ####
+Sigmund
+"Found it, eh...?"
+
+#### 11 ####
+Sigmund
+"I see."
+
+#### 12 ####
+Sigmund
+"How can you say that?"
+
+#### 13 ####
+Sigmund
+"Pirates?
+You mean the
+young prince?"
+
+#### 14 ####
+Sigmund
+"Uh huh..."
+
+#### 15 ####
+Sigmund
+"Black boxes?"
+
+#### 16 ####
+Sigmund
+"So that's it..."
+
+#### 17 ####
+Sigmund
+"What?"
+
+#### 18 ####
+Sigmund
+"Are you trying to
+destroy Kislev?"
+
+#### 19 ####
+Sigmund
+"Indeed it would be easy
+to take down Aveh.{enter}
+But it would exhaust our
+resources also."
+
+#### 20 ####
+Sigmund
+"Even if we beat Shakhan,
+Solaris would only replace
+him with another puppet.{enter}
+What if we exhausted our
+resources and found our-
+selves under attack?{enter}
+Anyway, we must still be
+concerned with Nisan.
+There is nothing to gain
+by doing anything now.
+
+#### 21 ####
+Sigmund
+"It seems 'they'
+have arrived..."
+
+#### 22 ####
+Sigmund
+"Who are you?"
+
+#### 23 ####
+Sigmund
+"!!{wait:1E} I see...
+So you are Fei...{enter}
+Welcome."
+
+#### 24 ####
+Sigmund
+"Ha ha hah. Excuse me.
+I am the Kaiser of
+Kislev, Sigmund."
+
+#### 25 ####
+Sigmund
+"This may sound sudden but
+would you like to join
+forces?{enter}
+I need your assistance."
+
+#### 26 ####
+Sigmund
+"!? Huh...?{enter}
+It's YOU! Rico!"
+
+#### 27 ####
+Sigmund
+"...Mutant!{wait:14}
+Security!!
+Arrest this intruder!"{clear:14}
+
+#### 28 ####
+Sigmund
+"He wasn't with you,
+was he?"
+
+#### 29 ####
+Associate
+"Kaiser, we have some news."
+
+#### 30 ####
+Associate
+"We investigated the cause
+of the recent explosion at
+the southern Aveh border.{enter}
+Our data showed a large
+amount of radiation was
+released at the epicenter.{enter}
+It was probably caused by
+an overload of a battleship
+class slave generator.{enter}
+The cause of this is still
+unknown.{enter}
+The shockwaves from that
+explosion took out two
+thirds of the Aveh and 
+Gebler forces combined.{enter}
+Now, Aveh is in the process
+of regrouping their reserve
+units, but that should take
+at least several days."
+
+#### 31 ####
+Associate
+"Concerning your order,
+the scouts have arrived at
+the area you requested..."
+
+#### 32 ####
+Associate
+"Yes, sir."
+
+#### 33 ####
+Associate
+"We know the Gear found was
+stolen from the 11th base
+by the Gebler unit in Aveh.{enter}
+And in the investigation of
+the machine, we also caught
+the unconscious pilot.{enter}
+The seized Gear has been
+transported to the capital.{enter}
+From the circumstances, we
+believe information was
+leaked to Aveh."
+
+#### 34 ####
+Associate
+"All the Gears except this
+were destroyed at Lahan.{enter}
+Judging from the ID signal,
+this one wasn't with Aveh
+but was part of a pirate
+group."
+
+#### 35 ####
+Associate
+"Yes, sir."
+
+#### 36 ####
+Associate
+"We're now analyzing the
+combat data.{enter}
+However, we've discovered
+some black boxes which
+are likely to delay the
+analysis."
+
+#### 37 ####
+Associate
+"That Gear wasn't made by
+us. The stock body was
+brought in by 'them'."
+
+#### 38 ####
+Associate
+"...Uh{wait:28}...Kaiser?"
+
+#### 39 ####
+Associate
+"Shouldn't we begin
+an assault on Aveh?"
+
+#### 40 ####
+Associate
+"Huh?"
+
+#### 41 ####
+Associate
+"But we can't afford
+to miss this chance..."
+
+#### 42 ####
+Excuse me!{clear:28}
+
+#### 43 ####
+Whew.
+
+#### 44 ####
+Whew.
+
+#### 45 ####
+Elder
+"Sigmund made it this
+far on his own even after
+the loss of his wife.{enter}
+But, not a day goes by that
+he doesn't think of her.{enter}
+...It is so sad...{wait:14}
+...sob... sob..."
+
+#### 46 ####
+Elder
+"Oh my...{wait:28}That cat only
+liked Sigmund and his wife...
+why does he come to you?"
+
+#### 47 ####
+'Metronome Piggy Bank'
+Stop the arm in the middle
+and you'll get money.
+
+#### 48 ####
+Do it in a row, you'll
+get even more money.
+
+#### 49 ####
+0G left. Unable to pay.
+
+#### 50 ####
+    Try it
+    Forget it
+
+#### 51 ####
+Received 1G.
+
+#### 52 ####
+Received 1G.
+
+#### 53 ####
+{fast:FF}    Stop already!
+    Once more
+This is your {number(s):00} time
+¡ðLongest run {number(s):02} times
+¡ðYou have {number(s):01}G
+
+#### 54 ####
+His wife was carrying
+a child when she left.{enter}
+If it were a boy, he
+would've been the heir.
+
+#### 55 ####
+Jackpot! 3 in a row!
+
+#### 56 ####
+Received 10G.
+
+#### 57 ####
+Jackpot! 5 in a row!
+
+#### 58 ####
+Received 100G.
+
+#### 59 ####
+Jackpot! 10 in a row!
+
+#### 60 ####
+Received 500G.
+
+#### 61 ####
+You're pretty good.
+
+#### 62 ####
+Jackpot! 20 in a row!
+
+#### 63 ####
+Received 1000G.
+
+#### 64 ####
+Jackpot! 30 in a row!
+
+#### 65 ####
+Received 2000G.
+
+#### 66 ####
+Cool! Cooler than cool!
+
+#### 67 ####
+Jackpot! 40 in a row!
+
+#### 68 ####
+Received 3000G.
+
+#### 69 ####
+Now you're in the domain of
+the immortals.
+
+#### 70 ####
+Jackpot! 100 in a row!
+
+#### 71 ####
+Capacity overload...
+Unable to compute...
+
+#### 72 ####
+Se..self-destructing..
+
+#### 73 ####
+3...{wait:14}2...{wait:14}1...{clear:1E}
+
+#### 74 ####
+Kabooooooom!!!!{clear:1E}
+
+#### 75 ####
+...Juuust kidding.
+
+#### 76 ####
+You've used up a
+lifetime worth of luck.
+
+#### 77 ####
+Counter stop!
+
+#### 78 ####
+You cheated didn't you?
+
+#### 79 ####
+You have too many
+{str}.
+
+#### 80 ####
+ 
+ Received {str}.
+

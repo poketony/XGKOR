@@ -1,0 +1,47 @@
+#### 1 ####
+Margie
+"Then I'll be waiting
+here for you."
+
+#### 2 ####
+Bart
+"Thanks for waiting!"
+
+#### 3 ####
+Margie
+"Alright, let's go in!"
+
+#### 4 ####
+{fast:FF}Nisan
+
+#### 5 ####
+{fast:FF}Nisan
+
+#### 6 ####
+{fast:FF}Nisan
+
+#### 7 ####
+{fast:FF}Nisan
+
+#### 8 ####
+{fast:FF}Nisan Cathedral
+
+#### 9 ####
+{fast:FF}World Map
+
+#### 10 ####
+{fast:FF}Secret Dock
+
+#### 11 ####
+    With the help of Fei and his
+    colleagues, Nisan was freed
+        from Shakhan's army.{enter}
+     However, the Fatima Jasper
+     and the legendary treasures
+       of the Aveh royal family
+        were still in danger.{enter}
+     And now, he's going to play
+     his last card and Shakhan's
+       true intentions will be
+          brought to light.
+

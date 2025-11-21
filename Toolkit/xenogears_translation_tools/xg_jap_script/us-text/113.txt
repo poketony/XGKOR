@@ -1,0 +1,176 @@
+#### 1 ####
+ 
+ Welcome to...
+ 'Whose Balloons' 
+               
+
+#### 2 ####
+Here are the rules.{enter}
+Children holding balloons
+will come floating down.{enter}
+Their balloons will fly
+away as they let go of
+them.{enter}
+You must catch the
+balloons and return 
+them to the children.{enter}
+Return as many balloons
+as possible within the
+time limit.
+
+#### 3 ####
+Next I'll explain 
+the 'Bingo' bonus.
+None of the 16 'Bingo'
+panels are lit now.{enter}
+Whenever you return a
+balloon to a child a
+panel will either light
+up or go out.{enter}
+When you get four lit
+panels in a row, it's
+a 'Bingo'!{enter}
+Each 'Bingo' returns
+5 times the prizes!
+
+#### 4 ####
+Choose a level.
+    Easy
+    Hard
+    Explanation
+
+#### 5 ####
+{fast:FF} 
+ Start the game 
+             
+
+#### 6 ####
+You returned... {wait:1E}
+{number(s):00} balloons
+
+#### 7 ####
+Your prize is...{wait:1E}
+{number(s):00}
+{str}.
+
+#### 8 ####
+Received
+{number(s):00}
+{str}.
+
+#### 9 ####
+That's all
+
+#### 10 ####
+Thanks! {clear:1E}
+
+#### 11 ####
+Please find 
+my balloon.{clear:1E}
+
+#### 12 ####
+Nope. Not mine!{clear:1E}
+
+#### 13 ####
+Thanks! {clear:1E}
+
+#### 14 ####
+Please find 
+my balloon.{clear:1E}
+
+#### 15 ####
+That's not mine!{clear:1E}
+
+#### 16 ####
+Thanks! {clear:1E}
+
+#### 17 ####
+Please find 
+my balloon.{clear:1E}
+
+#### 18 ####
+That's not mine!{clear:1E}
+
+#### 19 ####
+Thanks! {clear:1E}
+
+#### 20 ####
+Please find 
+my balloon.{clear:1E}
+
+#### 21 ####
+That's not mine!{clear:1E}
+
+#### 22 ####
+Thanks! {clear:1E}
+
+#### 23 ####
+Please find 
+my balloon.{clear:1E}
+
+#### 24 ####
+That's not it!{clear:1E}
+
+#### 25 ####
+Thanks! {clear:1E}
+
+#### 26 ####
+Please find 
+my balloon.{clear:1E}
+
+#### 27 ####
+That's not it!{clear:1E}
+
+#### 28 ####
+Thanks! {clear:1E}
+
+#### 29 ####
+Please find 
+my balloon.{clear:1E}
+
+#### 30 ####
+That's not mine!{clear:1E}
+
+#### 31 ####
+Thanks! {clear:1E}
+
+#### 32 ####
+Please find 
+my balloon.{clear:1E}
+
+#### 33 ####
+That's not mine!{clear:1E}
+
+#### 34 ####
+Thanks! {clear:1E}
+
+#### 35 ####
+Please find 
+my balloon.{clear:1E}
+
+#### 36 ####
+That's not mine!{clear:1E}
+
+#### 37 ####
+Thanks! {clear:1E}
+
+#### 38 ####
+Please find 
+my balloon.{clear:1E}
+
+#### 39 ####
+That's not mine!{clear:1E}
+
+#### 40 ####
+Thanks! {clear:1E}
+
+#### 41 ####
+Please find 
+my balloon.{clear:1E}
+
+#### 42 ####
+That's not mine!{clear:1E}
+
+#### 43 ####
+ {fast:FF} Bingo!! {clear:1E}
+

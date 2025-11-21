@@ -1,0 +1,32 @@
+Nel sottofile 1 di questo archivio si trova il mappaggio delle scritte
+che compaiono subito dopo aver vinto una battaglia (il loro font è
+contenuto nel file2 di questo archivio).
+
+I testi dovrebbero trovarsi prima di 0x2000 ("dedicato" agli avatar ed alle finestre).
+Da 0x210 a 0xA00 si trovano le scritte tipo Attack.
+
+Offset:
+
+0x970: lettera x
+
+Formato (lettera x):
+
+0100 0000 5800 5C00 0800 0800 0000 0000 0400 0000 0000 9000 F201 C003 4400 0000
+
+0100 0000:	 Pezzi da cui è formata l'immagine.
+5800     :   Valore della X (su tim), va però convertito in decimale. Qui è 88.
+5C00     :   Valore della Y (su tim), convertito in decimale, va sottratto 44$ (dunque è 24).
+0800     :   Numero di pixel (larghezza).
+0800     :   Numero di pixel (lunghezza).
+0000	   :   Valore a schermo della X.
+0000     :   Valore a schermmo della Y.
+0400     :   È apparentemente inutile.
+0000     :   Pare essere ininfluente...
+0000     :   Modificarlo porta ad una visualizzazione grafica scorretta della lettera.
+		 È curioso notare come il problema si ponga solo editando il primo hex byte (quello a sinistra che poi va invertito).
+9000	 :   Numero della palette.
+F201     :   Ancora palette (forse dello sfondo)?
+C003     :   Modificandolo si hanno problemi di visualizzazione.
+4400     :   Se si modifica il byte a destra si hanno problemi di visualizzazione. Modificando leggermente quello a sinistra
+		 (ho messo 40 invece di 44), nessuno.
+0000     :   Pare ininfluente.

@@ -1,0 +1,51 @@
+#### 1 ####
+!{clear:0F}
+
+#### 2 ####
+Sophia
+"Faith{wait:00} in{wait:00} god{wait:00}...{wait:2D}
+Do{wait:00} not{wait:00} look{wait:00} for{wait:00} it{wait:00} on{wait:00} the{wait:00}
+outside{wait:00}...{wait:1E}
+For{wait:00} it{wait:00} is{wait:00} something{wait:00} one{wait:00} must{wait:00}
+build{wait:00} from{wait:00} within{wait:00} oneself{wait:00}..."{clear:78}
+
+#### 3 ####
+Krelian
+"It's been a long 
+time {wait:05}Lacan."
+
+#### 4 ####
+Lacan
+"Krelian. {wait:0F}
+You're back?"
+
+#### 5 ####
+Krelian
+"I just got back 
+last night.{wait:0F}{enter}
+You came back home 
+to get paints, right?{enter}
+Sophia told me.{wait:1E}
+Allow me to accompany
+you."
+
+#### 6 ####
+Lacan
+"Is that okay?"
+
+#### 7 ####
+Krelian
+"Yeah.{wait:0A}
+I'll leave someone else
+in command of my unit.{enter}
+Because of Solaris,
+things are a lot more
+dangerous these days.{wait:1E}{enter}
+Anyway,{wait:05} wouldn't you feel
+more secure if you were
+with me?"
+
+#### 8 ####
+Lacan
+"{wait:05}...{wait:05}Thanks."
+

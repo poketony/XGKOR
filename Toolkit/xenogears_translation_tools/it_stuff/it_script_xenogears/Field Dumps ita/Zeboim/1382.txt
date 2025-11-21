@@ -1,0 +1,231 @@
+<TextBlock 1 w:48 h:1>
+ Vuoi tu…<Delay 25> potere?<Opcode 2 85><Close><End of Block>
+<TextBlock 2 w:46 h:3>
+Elly
+"È inutile, non
+riusciamo ad
+oltrepassarla…"<Close><End of Block>
+<TextBlock 3 w:36 h:3>
+Shitan
+"Non si riesce
+ad oltrepassarla…"<Close><End of Block>
+<TextBlock 4 w:50 h:4>
+Shitan
+"…<Delay 35>
+C'è un qualche tipo
+di barriera.<New>
+Un qualche sentimento
+negativo… l'odio, in
+qualche modo mutato
+in energia Etere…<New>
+È questo che dà origine
+alla barriera…<New>
+Se potessimo in qualche
+modo tramutare anche la
+nostra grande forza di
+volontà in energia Eterea…<New>
+… e riuscissimo a
+rinviarla contro la
+barriera…"<Close><End of Block>
+<TextBlock 5 w:52 h:3>
+Shitan
+"Que… quello è
+un Buntline…<New>
+È un Gear-Pistola Eterea,
+dove il pilota guida
+direttamente dentro il
+proiettile.<New>
+Se la useremo, potremo
+distruggere il potere
+negativo di Stone generato
+dall'odio!<New>
+… T… tuttavia…"<Close><End of Block>
+<TextBlock 6 w:42 h:3>
+Bart
+"Inutile! Non riusciamo
+ad oltrepassarla!!"<Close><End of Block>
+<TextBlock 7 w:44 h:4>
+Billy
+"Tu, figlio di…!
+Facesti uso dei Wels…
+contro mia madre…!"<Close><End of Block>
+<TextBlock 8 w:34 h:2>
+Billy
+"Persone… io?"<Close><End of Block>
+<TextBlock 9 w:12 h:2>
+Billy
+"…!"<Close><End of Block>
+<TextBlock 10 w:46 h:3>
+Rico
+"Inutile. Non
+riusciamo ad
+oltrepassarla…"<Close><End of Block>
+<TextBlock 11 w:50 h:2>
+No, non c'è nulla per
+cui tu ti debba pentire,
+Billy!<Close><End of Block>
+<TextBlock 12 w:46 h:3>
+Dici che tu e Rachele
+vi amavate?<New>
+Tu… sei sempre stato
+uno stupido narcisista
+ed egocentrico!!<Close><End of Block>
+<TextBlock 13 w:48 h:3>
+Jessie
+"Mi occupo io di lui!!<New>
+Usa questo, Billy!
+Se lo usi, riuscirai
+a distruggere la
+barriera!!"<Close><End of Block>
+<TextBlock 14 w:46 h:3>
+Grahf
+"La mia mano
+è latrice del
+soffio divino!"<Close><End of Block>
+<TextBlock 15 w:50 h:4>
+Grahf
+"Fiorisci, o immoral
+semenza, e tosto accogli
+i tuoi reconditi poteri!"<Close><End of Block>
+<TextBlock 16 w:50 h:4>
+Grahf
+"Accetta in te il
+potere della gloriosa
+Madre della Distruzione!"<Close><End of Block>
+<TextBlock 17 w:46 h:3>
+Grahf
+"Io sono Grahf, colui
+ch'è in perpetua ricerca
+di potere.<Delay 35><New>
+Vuoi tu potere?"<Close><End of Block>
+<TextBlock 18 w:48 h:4>
+Grahf
+"Tutto questo
+potere è falso.<New>
+Pensi di poter vincere
+per mezzo di esso?"<Close><End of Block>
+<TextBlock 19 w:38 h:4>
+Grahf
+"Un falso corpo.
+Un falso risveglio.
+Tutto ciò è vano!"<Close><End of Block>
+<TextBlock 20 w:32 h:3>
+Grahf
+"Io infonderò in
+te il potere!"<Close><End of Block>
+<TextBlock 21 w:42 h:3>
+Stone
+"Osservare… Perché
+girare in tondo…?<New>
+Basta prendersi cura
+di loro, e sarà
+tutto finito…"<Close><End of Block>
+<TextBlock 22 w:50 h:4>
+Stone
+"Coloro i quali divengono
+nemici del sacro Gazel,
+io li ucciderò tutti.<New>
+Pentitevi, ora."<Close><End of Block>
+<TextBlock 23 w:38 h:2>
+Stone
+"Chi… <Delay 10>chi sei tu?"<Close><End of Block>
+<TextBlock 24 w:40 h:4>
+Stone
+"Potere? Umph,
+eccolo il potere,
+è qui!<New>
+Ho ricevuto questo
+corpo da Krelian!"<Close><End of Block>
+<TextBlock 25 w:36 h:3>
+Stone
+"Cosa intendi con
+'falso potere'?"<Close><End of Block>
+<TextBlock 26 w:50 h:2>
+Stone
+"Aughhh, urgh, huhhhh…"<Opcode 2 50><Close><End of Block>
+<TextBlock 27 w:52 h:4>
+Stone
+"Ah… figlio di Jesiah,
+stai soffrendo?<New>
+Quando ti presi sotto
+la mia protezione,
+quattro anni fa…<New>
+… quella fu la
+dimostrazione della mia
+amicizia con tuo padre…<New>
+Durante quell'amicizia
+con Jesiah, macchiata
+dal sangue…<New>
+… io e lui competemmo
+per il comando di
+Geburah!"<Close><End of Block>
+<TextBlock 28 w:52 h:4>
+Stone
+"Jesiah, tu… come una
+bestia, rubasti la
+Rachele che io amavo…<New>
+… e abbandonasti, come
+uno scialacquatore, il
+comando di Geburah che
+io tanto bramavo…<New>
+Poi, sparisti
+da Solaris!"<Close><End of Block>
+<TextBlock 29 w:48 h:4>
+Stone
+"Sì, Billy, fammi
+raccontare una
+bella storia…<New>
+Quei Mietitori che hai
+purificato in tutto
+questo tempo… sono
+tutti delle persone…<New>
+Essi erano stati scelti
+dalla Chiesa e
+trasformati da Krelian!<New>
+In tutto questo tempo,
+non hai fatto altro che
+trucidare persone!
+Ah ah ah…<New>
+Un figlio abietto
+per un abietto padre!<New>
+Ah ah ah ah ah ah ah!"<Close><End of Block>
+<TextBlock 30 w:38 h:3>
+Stone
+"Ah, confessati!
+Sconta i tuoi
+peccati!"<Close><End of Block>
+<TextBlock 31 w:38 h:3>
+Stone
+"!!!
+… Questa voce…!!"<Close><End of Block>
+<TextBlock 32 w:50 h:4>
+Shitan
+"…<Delay 35>
+C'è un qualche tipo
+di barriera.<New>
+Un qualche sentimento
+negativo… l'odio, in
+qualche modo mutato
+in energia Eterea…<New>
+È questo che dà origine
+alla barriera…<New>
+Se potessimo in qualche
+modo tramutare anche la
+nostra grande forza di
+volontà in energia Eterea…<New>
+… e riuscissimo a
+rinviarla contro la
+barriera…"<Close><End of Block>
+<TextBlock 33 w:52 h:3>
+Shitan
+"Que… quello è
+un Buntline…<New>
+È un Gear-Pistola Eterea,
+dove il pilota guida
+direttamente dentro il
+proiettile.<New>
+Se la useremo, potremo
+distruggere il potere
+negativo di Stone generato
+dall'odio!<New>
+… T… tuttavia…"<Close><End of Block>

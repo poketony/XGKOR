@@ -1,0 +1,46 @@
+<TextBlock 1 w:28 h:2>
+Elly
+"È chiusa."<Close><End of Block>
+<TextBlock 2 w:52 h:2>
+Shitan
+"Sembra sia chiusa."<Close><End of Block>
+<TextBlock 3 w:28 h:2>
+Bart
+"È chiusa."<Close><End of Block>
+<TextBlock 4 w:28 h:2>
+Billy
+"È chiusa."<Close><End of Block>
+<TextBlock 5 w:30 h:2>
+Billy
+"Il Pontefice!!"<Close><End of Block>
+<TextBlock 6 w:30 h:2>
+Billy
+"Accidenti a voi<Delay 5>…<Delay 5>!!"<Close><End of Block>
+<TextBlock 7 w:28 h:2>
+Rico
+"È chiusa."<Close><End of Block>
+<TextBlock 8 w:56 h:2>
+Billy
+"L'infermeria è di qua."<Close><End of Block>
+<TextBlock 9 w:50 h:3>
+Pontefice
+"Cosa significa questo!?
+Chi siete voi!?"<Close><End of Block>
+<TextBlock 10 w:40 h:2>
+Pontefice
+"Il segreto è
+stato rivelato?"<Close><End of Block>
+<TextBlock 11 w:26 h:2>
+Pontefice
+"Ghaaaaaaa!!"<Opcode 2 40><Close><End of Block>
+<TextBlock 12 w:48 h:2>
+Fingi ancora di
+non sapere nulla?<Close><End of Block>
+<TextBlock 13 w:50 h:2>
+Ribellarsi al nostro
+volere ti costerà
+la vita.<Close><End of Block>
+<TextBlock 14 w:52 h:3>
+Sarai pure il capo della
+Chiesa, ma non riesci a
+capire quando hai perso.<Close><Close><End of Block>

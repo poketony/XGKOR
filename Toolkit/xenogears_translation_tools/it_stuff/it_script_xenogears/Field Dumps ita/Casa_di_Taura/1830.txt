@@ -1,0 +1,62 @@
+<TextBlock 1 w:52 h:3>
+Fei
+"Merda<Delay 5>…<Delay 5> <Delay 10>L'emorragia…
+L'emorragia non si ferma<Delay 5>…<New>
+Se<Delay 10> continua così<Delay 5>…<Delay 5>
+Di questo passo Elly
+non ce la farà<Delay 5>…<Delay 5>!"<Close><End of Block>
+<TextBlock 2 w:20 h:2>
+Elly
+"<Delay 5>…<Delay 5> Uh<Delay 5>…"<Space 1><Close><End of Block>
+<TextBlock 3 w:42 h:4>
+Fei
+"Elly!<Delay 10> Tieni duro!<Delay 10>
+Elly!<Delay 10> Ti salverò,<Delay 10>
+te lo prometto!<New>
+Elly<Delay 5>…!!"<Close><End of Block>
+<TextBlock 4 w:42 h:2>
+Fei
+"Ma è incredibile!"<Close><End of Block>
+<TextBlock 5 w:32 h:2>
+Vecchio Bal
+"C'incontriamo
+di nuovo!"<Close><End of Block>
+<TextBlock 6 w:52 h:3>
+Vecchio Bal
+"Il corpo per lo spirito
+dell'uccisore di dio…<New>
+Non avrei mai pensato
+che avrei lavorato
+ancora su di esso…!"<Close><End of Block>
+<TextBlock 7 w:42 h:3>
+Fei
+"Ma perché voi due
+mi state aiutando…?"<Close><End of Block>
+<TextBlock 8 w:52 h:4>
+Taura
+"Ci sono cose che non si
+possono spiegare con le
+parole<Delay 5>…<Delay 10> è destino.<New>
+Dovrai capirlo tu,
+vedendole con i tuoi
+stessi occhi."<Close><End of Block>
+<TextBlock 9 w:16 h:3>
+Esmeralda
+"Fei<Delay 5>…<Delay 10>
+Vai?"<Close><End of Block>
+<TextBlock 10 w:50 h:2>
+Fei
+"Sì, dovrei sbrigarmi!"<Close><End of Block>
+<TextBlock 11 w:30 h:3>
+Fei
+"Ehi! Dove
+stai andando?"<Close><End of Block>
+<TextBlock 12 w:30 h:3>
+Emissario Shevat
+"Fei,<Delay 10> ti prego
+di sbrigarti!!"<Close><End of Block>
+<TextBlock 13 w:26 h:2>
+Fei
+"Va<Delay 10> bene."<Close><End of Block>
+<TextBlock 14 w:3 h:1>
+ <Close><Close><End of Block>

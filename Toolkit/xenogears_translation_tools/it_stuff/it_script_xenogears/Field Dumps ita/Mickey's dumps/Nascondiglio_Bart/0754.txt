@@ -1,0 +1,39 @@
+<TextBlock 1 w:6 h:1>
+…<Close><End of Block>
+<TextBlock 2 w:24 h:4>
+Maison
+"Questa è la sezione
+residenziale."<Close><End of Block>
+<TextBlock 3 w:32 h:2>
+Maison
+"Da questa parte."<Close><End of Block>
+<TextBlock 4 w:36 h:2>
+Andremo ad aiutare
+quelli addetti alla
+manutenzione dei Gear!<Close><End of Block>
+<TextBlock 5 w:14 h:1>
+Evvai!!!<Close><End of Block>
+<TextBlock 6 w:18 h:1>
+Andiamo!<Close><End of Block>
+<TextBlock 7 w:42 h:3>
+<Opcode 1 255>Vai all'hangar?
+    Vai
+    Non ora<Close><End of Block>
+<TextBlock 8 w:46 h:2>
+Bart
+"Argh, che cazzo fai!"<Close><End of Block>
+<TextBlock 9 w:36 h:5>
+<Opcode 1 255>'La mia stanza:
+ Entra e Muori'
+               Bart <Delay 10>
+    Entra
+    Lascia stare<Close><End of Block>
+<TextBlock 10 w:44 h:2>
+Fei
+"(Perché devo
+combattere…?)"<Close><End of Block>
+<TextBlock 11 w:38 h:2>
+Il colpo ha distrutto
+questa strada…<Close><End of Block>
+<TextBlock 12 w:0 h:1>
+<Close><End of Block>

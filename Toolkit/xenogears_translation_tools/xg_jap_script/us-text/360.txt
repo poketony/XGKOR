@@ -1,0 +1,116 @@
+#### 1 ####
+Which mission will you do?{wait:14}
+    The Generator 1
+    The Generator 2
+    The Generator 3
+    The Generator 4 
+
+#### 2 ####
+This enemy unit has
+already been driven
+back.{wait:14} Choose another
+generator.
+
+#### 3 ####
+This enemy unit has
+already been driven
+back.{wait:14} Choose another
+generator.
+
+#### 4 ####
+This enemy unit has
+already been driven
+back.{wait:14} Choose another
+generator.
+
+#### 5 ####
+This enemy unit has
+already been driven
+back.{wait:14} Choose another
+generator.
+
+#### 6 ####
+Want to check your
+equipment?{wait:14}
+    Yes
+    No
+
+#### 7 ####
+Want to check your
+equipment?{wait:14}
+    Yes
+    No
+
+#### 8 ####
+Want to check your
+equipment?{wait:14}
+    Yes
+    No
+
+#### 9 ####
+Want to check your
+equipment?{wait:14}
+    Yes
+    No
+
+#### 10 ####
+Fei
+"Alright, I can do it!{wait:14}
+I'm ready anytime!"
+
+#### 11 ####
+Citan
+"I will be your
+opponent.{wait:14} Come on!"
+
+#### 12 ####
+Elly
+"I don't have anything
+against you, but I can't
+turn back now!"
+
+#### 13 ####
+Bart
+"Come on! Who's gonna be 
+first?{enter}
+There's no way a pathetic
+unit like yours could ever
+beat the likes of me!!"
+
+#### 14 ####
+Rico
+"Hmph!{wait:14} I'll take you all
+down at once!!"
+
+#### 15 ####
+Billy
+"Rest in peace, agents of
+evil. May all of you turn
+to dust."
+
+#### 16 ####
+Fei
+"We did it!{wait:14}
+All four Gate Generators
+are safe!"
+
+#### 17 ####
+We're under emergency
+conditions now.{wait:14}
+You can't go in.
+
+#### 18 ####
+{fast:FF}Old Capital of Shevat
+    Aphel Aura
+
+#### 19 ####
+{fast:FF} Entrance to
+Shevat Palace
+
+#### 20 ####
+Found a Dawn Rock!
+
+#### 21 ####
+{fast:FF}  Shevat Lower Floor
+Central Dock Entrance
+

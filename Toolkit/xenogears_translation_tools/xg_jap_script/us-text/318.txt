@@ -1,0 +1,23 @@
+#### 1 ####
+ Miang
+"...Did you notice? 
+His Gear is reawakening.{enter}
+Soon, he himself will
+awaken also."
+
+#### 2 ####
+ Miang
+"His friends are heading 
+for Zeboim. It's been 
+sealed up for 4000 years.{enter}
+You know what's there 
+better than I do. {enter}
+He probably won't give
+anyone anything. But it's
+something we both need.
+You know what I mean?"
+
+#### 3 ####
+ Miang
+"...so, please."
+

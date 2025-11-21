@@ -1,0 +1,180 @@
+#### 1 ####
+Hey, hey!{clear:3C}
+
+#### 2 ####
+Hey, I'm not your enemy.{clear:3C}
+
+#### 3 ####
+Hey you, can you come here
+for a minute?{clear:3C}
+
+#### 4 ####
+I have a favor to ask you.
+Will you listen to me?
+    Alright
+    No
+
+#### 5 ####
+I'm stuck in the sand.
+Can you push from the back?
+    Sure
+    No
+
+#### 6 ####
+That was a big help, thanks.
+I'm going to the outlet of
+this island.
+Do you want a ride?
+    Yes
+    No thanks
+
+#### 7 ####
+Alright. Get in.
+
+#### 8 ####
+It'd be difficult to get
+out of this desert.
+Are you sure?
+    Give me a ride
+    I'll be fine
+
+#### 9 ####
+Alright. Get in.
+
+#### 10 ####
+Alright,
+from here you could...
+
+#### 11 ####
+...You'll be able to get
+out if you go this way.
+
+#### 12 ####
+Take care!!
+
+#### 13 ####
+Jerk!
+
+#### 14 ####
+Thanks.
+Push, once I start
+the engine.
+
+#### 15 ####
+Okay, go ahead and push.
+
+#### 16 ####
+Push harder! A little more.
+
+#### 17 ####
+Alright. Get in.
+
+#### 18 ####
+Dunemen!{clear:32}
+
+#### 19 ####
+Eastside yo!{clear:32}
+
+#### 20 ####
+turf! Ahhh yeah!{clear:32}
+
+#### 21 ####
+no place for Gears here!{clear:32}
+
+#### 22 ####
+a changin'!{clear:32}
+
+#### 23 ####
+not even sure!{clear:32}
+
+#### 24 ####
+really dangerous!{clear:32}
+
+#### 25 ####
+like y'all!{clear:32}
+
+#### 26 ####
+GO!{wait:1E} HOME!{clear:3C}
+
+#### 27 ####
+stubborn!{clear:32}
+
+#### 28 ####
+Dunemen!{clear:32}
+
+#### 29 ####
+Westside ho!{clear:50}
+
+#### 30 ####
+turf! Ahhh yeah!{clear:46}
+
+#### 31 ####
+no place for Gears here!{clear:46}
+
+#### 32 ####
+a changin'!{clear:46}
+
+#### 33 ####
+We're{clear:46}
+
+#### 34 ####
+it'd be{clear:46}
+
+#### 35 ####
+place for wimps{clear:46}
+
+#### 36 ####
+Listen very carefully.{clear:64}
+
+#### 37 ####
+stubborn!{clear:3C}
+
+#### 38 ####
+?
+
+#### 39 ####
+Yo!{wait:1E}
+We're da merry{clear:3C}
+
+#### 40 ####
+Lookin' for treasure...{clear:41}
+
+#### 41 ####
+This is our{clear:44}
+
+#### 42 ####
+Nah nah nah, ain't{clear:35}
+
+#### 43 ####
+The land is{clear:1A}
+
+#### 44 ####
+Why?{clear:4B}
+
+#### 45 ####
+Anyway...{clear:46}
+
+#### 46 ####
+This ain't no{clear:5F}
+
+#### 47 ####
+If ya still don't get it...{clear:6E}
+
+#### 48 ####
+Do you want to go back?
+    Yes
+    No
+
+#### 49 ####
+You're sooooo{clear:46}
+
+#### 50 ####
+Leave the desert?
+    Yes
+    No
+
+#### 51 ####
+Leave the desert?
+    Yes
+    No
+

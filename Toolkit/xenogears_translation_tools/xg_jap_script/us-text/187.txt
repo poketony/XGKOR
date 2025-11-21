@@ -1,0 +1,1909 @@
+#### 1 ####
+Fei
+"I guess I can rest here{wait:05}..."{wait:0F}
+    Rest up!
+    Not yet.
+
+#### 2 ####
+Fei
+"...Hey, and rank doesn't
+matter anymore!
+So, which bed shall I use?"{enter}
+    Rank A bed
+    Rank B bed
+    Rank C bed
+    Rank D bed
+
+#### 3 ####
+Fei
+"I guess I can rest here{wait:05}..."{wait:0F}
+    Rest up!
+    Not yet.
+
+#### 4 ####
+Fei
+"The rank A bed it is!"
+
+#### 5 ####
+Fei
+"The rank B bed it is!"
+
+#### 6 ####
+Fei
+"The rank C bed it is!"
+
+#### 7 ####
+Fei
+"The rank C bed it is!"
+
+#### 8 ####
+Fei
+"The rank D bed it is!"
+
+#### 9 ####
+Fei
+"{wait:05}...{wait:05}Wh, where am I?"{clear:1E}
+
+#### 10 ####
+Fei
+"{wait:05}...{wait:05}
+{wait:05}...{wait:05}Okay.{wait:1E}
+I'll do what you want!"
+
+#### 11 ####
+Fei
+"Huh? {wait:05}... {wait:05}
+Someone's coming downstairs.{wait:0A}
+{wait:05}...{wait:05}I guess it'll be Hammer."
+
+#### 12 ####
+Citan
+"We do not have such 
+time to spare!{wait:0F}
+We have got to hurry{wait:05}..."
+
+#### 13 ####
+Hammer
+"How are you feeling, bro?
+All this running backwards
+and forwards is killing me!{enter}
+I know it's a bit sudden but
+how about buying something?"{wait:0F}
+    Not now Hammer!
+    I guess I'll have to!
+
+#### 14 ####
+Hammer
+"So{wait:05}...{wait:05}maybe not today, but
+there's always tomorrow!{wait:0F} Buy
+something next time, huh!"
+
+#### 15 ####
+Hammer
+"Yes! That's my bro!{wait:0A}
+You're too kind man!
+Much appreciated!"
+
+#### 16 ####
+Hammer
+"What do you need bro?"{wait:0F}
+    Hammer's items
+    Hammer's accessories
+
+#### 17 ####
+Hammer
+"Thanks bro, but how about
+buying something else apart
+from items?{enter}
+It'll help Hammer out too!"{wait:1E}
+{fast:FF}    Enough already!
+    Hammer's items
+    Hammer's accessories
+
+#### 18 ####
+Hammer
+"Thanks again bro!{wait:0F} Man,{wait:05}
+so long as I am with you,{wait:05}
+money's no problem, heh!"
+
+#### 19 ####
+Hammer
+"Thanks bro, but how about
+buying something else apart
+from accessories?{enter}
+It'll help Hammer out too!"{wait:1E}
+{fast:FF}    Enough already!
+    Hammer's items
+    Hammer's accessories
+
+#### 20 ####
+Hammer
+"Thanks again bro!{wait:0F} Man,{wait:05}
+so long as I am with you,{wait:05}
+money's no problem, heh!"
+
+#### 21 ####
+Hammer
+"The sound of an opening
+door!{wait:0F} It seems that the new
+doc was in the next room!"{clear:3C}
+
+#### 22 ####
+Hammer
+"Well{wait:05}...{wait:14} If that's how it
+is then I'll just go off
+and register you now!"
+
+#### 23 ####
+Doctor
+"How do you feel? If you
+need a rest, you can always
+lie down in the next room!"
+
+#### 24 ####
+Doctor 
+"Not the 'Baptismal Ceremony'!?
+This patient has only just awoke!{enter}
+It is unthinkable that you would
+try and suddenly carry out your 
+'Baptismal Ceremony' on him!!!"
+
+#### 25 ####
+Doctor
+"I am so sorry!{wait:0A} I can't
+go against the Battlers!{wait:05}
+Please forgive me..."{clear:2D}
+
+#### 26 ####
+The lady-doctor Diana
+"Yoo-hoo! How are you going?
+As I always thought, having
+plenty of work to do is what
+brings the most happiness!{enter}
+I'll keep doing my best, so
+you too keep up the fight!
+As I promised at Nortune{wait:05}...{wait:05}
+that's what I will do!"
+
+#### 27 ####
+Suzarn
+"Oh look, what good timing!
+Prince Charming has woke up!{wait:1E}
+This may be sudden, but you
+have to come along with us!"
+
+#### 28 ####
+Suzarn
+"You don't have a choice in
+this!{wait:0F} If you oppose us, the
+fair doctor will cop it too!"
+
+#### 29 ####
+Suzarn
+"Oh, what a sensible lad!
+That saves us a bit of
+trouble.{enter}
+Anyway, come along now,
+the 'Champ' is waiting!
+And don't worry! We'll
+let you return here soon."
+
+#### 30 ####
+Suzarn
+"Hurry up then{wait:05}..."{clear:2D}
+
+#### 31 ####
+Suzarn
+"Fo-rwa-rd ma-rch!"{clear:2D}
+
+#### 32 ####
+Vargas
+"Come off it! Just a sec!
+That guy's been thrown in 
+'ere as a crim, ain't 'e?{enter}
+You should be thanking
+us for 'aving the kind and
+compassionate 'eart to let
+'im rest up a few days!"
+
+#### 33 ####
+Heinrich
+"Yeah, that's right!{wait:0F} As long
+as he's come here as a crim, 
+he's gotta follow the rules!"
+
+#### 34 ####
+Leonardo
+"{wait:05}...{wait:05}That's the way it is! 
+So without further ado,
+we'll borrow him for a 
+little while. {enter}
+Don't worry, we will return 
+him to you straight away!
+Once we're through with 
+him, that is!"
+
+#### 35 ####
+Citan
+"{wait:05}...{wait:05}Are you absolutely sure
+you want to go through with
+this, Fei?{enter}
+Do you not want to think it
+through first?{wait:1E} Just to be
+sure, I mean!{wait:14} Though you
+can trust me{wait:05}...{wait:05}I hope!"
+
+#### 36 ####
+Citan
+"What is going on out there?
+This is a place for rest!{wait:0F}
+Can you be a bit quieter{wait:05}..."
+
+#### 37 ####
+Rico
+"{wait:05}...{wait:05}Long time no 
+see, huh, Kid!"
+
+#### 38 ####
+Rico
+"For the sake of my men
+too, I am about to check
+out the sewers.{enter}
+I've said what I 
+wanted to say{wait:05}..."
+
+#### 39 ####
+Rico
+"You want to tag
+along, huh?
+I don't care.{enter}
+But you've got to look
+after your own neck!"
+
+#### 40 ####
+Rico
+"{wait:05}...The doctor too? I don't
+take any responsibility if
+anything happens to you{wait:05}...!"
+
+#### 41 ####
+Citan
+"{wait:05}...{enter}
+(Finally, it is the last day
+of the Games{wait:05}...the finals!{wait:1E}
+Remember what you-know-who
+taught you!)"
+
+#### 42 ####
+Citan
+"(So, be on your way{wait:05}...{wait:14} I
+must stay here but I will be
+praying for a good fight!)"
+
+#### 43 ####
+Citan
+"{wait:05}...{wait:1E}
+(You are doing well Fei.
+Now go to bed and rest!)"
+
+#### 44 ####
+Citan
+"(The Games are not over
+yet, so try to rest up
+before tommorow's bouts.)" 
+
+#### 45 ####
+Citan
+"{wait:05}...{enter}
+(For the time being, I am
+a doctor and you are a
+prisoner{wait:05}...{wait:0F} We should split
+up and act separately!)"
+
+#### 46 ####
+Citan
+"Well hello, Fei!
+Are you wide awake yet{wait:05}...{wait:05}?"
+
+#### 47 ####
+WWWAAAAAAAAAARRRGGGHHH---!!!
+
+#### 48 ####
+Citan
+"{wait:05}.{wait:05}.{wait:05}."
+
+#### 49 ####
+Fei
+"{wait:05}.{wait:05}.{wait:05}.{enter}
+(He's deep in thought{wait:05}...{wait:0F}
+I don't think he heard me.)"
+
+#### 50 ####
+Citan
+"Fei! Where are you off to?
+We have not yet finished
+this discussion!"
+
+#### 51 ####
+Citan
+"Fei! Let us finish this
+discussion first before
+you go to bed!"
+
+#### 52 ####
+{wait:05}...{wait:05}RATTLE! RATTLE!{clear:1E}
+
+#### 53 ####
+Citan
+"Mmm{wait:05}...{wait:0F}This is{wait:05}...{wait:14}
+harder than{wait:05}...{wait:14}
+I thought!"
+
+#### 54 ####
+{wait:05}...{wait:05}CLATTER! CLATTER! {wait:05}...{wait:05}CLANG!{clear:1E}
+
+#### 55 ####
+Fei
+"Uuuh{wait:05}...{wait:0A} Aaah{wait:05}...{wait:0A}
+Gasp{wait:05}...{wait:0A} Uuuugh{wait:05}..."{clear:F0}
+
+#### 56 ####
+Fei
+"{wait:05}.{wait:05}.{wait:05}.{wait:1E}
+Where am I{wait:05}...{wait:0F}
+Oh, the infirmary?"
+
+#### 57 ####
+Fei
+"Doc{wait:05}...{wait:0F}
+What happened to me{wait:05}...?{wait:0F}
+How did I get here{wait:05}...?"
+
+#### 58 ####
+Citan
+"During the Battling match
+{wait:05}...{wait:05}there was a sudden
+explosion{wait:05}...{wait:05}remember?"
+
+#### 59 ####
+Fei
+"{wait:05}...{wait:05}That's right{wait:05}...{wait:05}
+In that explosion{wait:05}...{wait:05}
+I lost consciousness!?"
+
+#### 60 ####
+Citan
+"It was a large explosion,
+but you were fortunate the
+Gear was {name:0B:¥ô¥§¥ë¥È©`¥ë}{wait:05}...!{enter}
+Any other Gear and I
+would hate to think{wait:05}...{wait:1E}
+Anyway, you are safe,
+that is what matters!"
+
+#### 61 ####
+Fei
+"Thanks to{wait:05}...{wait:1E}
+{name:0B:¥ô¥§¥ë¥È©`¥ë},{wait:05} huh?"
+
+#### 62 ####
+Fei
+"{wait:05}...{wait:05}Doc.
+How many days have
+passed since then?"
+
+#### 63 ####
+Citan
+"Only a day has elapsed
+since the accident.{enter}
+Your injuries were 
+relatively minor, so{wait:05}..."
+
+#### 64 ####
+Fei
+"Only one day{wait:05}...{wait:0F}
+{wait:05}.{wait:05}.{wait:05}.{wait:05}"
+
+#### 65 ####
+Citan
+"What is the matter, 
+Fei{wait:05}...{wait:05}?"
+
+#### 66 ####
+Fei
+"I had an awful dream{wait:05}...{wait:0A}
+I can't remember it, but{wait:05}...{wait:05}
+I just know it was awful{wait:05}...{wait:05}"
+
+#### 67 ####
+Citan
+"A dream...?"
+
+#### 68 ####
+Fei
+"...It was nothing, I guess.
+Don't worry about it, doc."
+
+#### 69 ####
+Citan
+"{wait:05}.{wait:05}.{wait:05}."
+
+#### 70 ####
+Fei
+"Doc, I've got to get
+back to the Battling.{enter}
+I want to get this
+explosive collar off
+of me as soon as I can."
+
+#### 71 ####
+Citan
+"Fei, how is your health
+holding up?{wait:0F} I do not want
+you to push yourself{wait:05}..."
+
+#### 72 ####
+Fei
+"There's no use saying that.
+Time is not going to wait!
+I can't just do nothing{wait:05}..."
+
+#### 73 ####
+Citan
+"{wait:05}...{wait:05}I suppose you are
+right. I understand what you
+mean, Fei.{enter}
+We have got to try and get
+out of here as soon as
+we possibly can."
+
+#### 74 ####
+Citan
+"But that does not mean you
+have to over-exert yourself
+again, straight away!{enter}
+Take time to rest up
+a little more..."
+
+#### 75 ####
+Fei
+"You're the doc,{wait:05} ...{wait:05}doc!{wait:0F}
+I'll try{wait:05}...{wait:05} and get{wait:05}...
+a little more{wait:05}...{wait:05} rest{wait:05}..."{clear:2D}
+
+#### 76 ####
+Fei
+"Hey, you're{wait:05}...{wait:0F}Rico!?{wait:0F}
+What are you doing here?"
+
+#### 77 ####
+Rico
+"Calm down, kid!{wait:0F}
+I didn't come here
+to fight with you{wait:05}..."
+
+#### 78 ####
+Fei
+"Then what purpose do you 
+have here?{wait:0F} What other
+reason could you have?"
+
+#### 79 ####
+Citan
+"Why, it is only you Fei!
+And{wait:05}...{wait:05}
+the Battling Champion?"
+
+#### 80 ####
+Citan
+"What would the likes of
+you have to do coming to
+a prison barracks?{enter}
+There must be some special
+reason for you to grace 
+us with your presence?"
+
+#### 81 ####
+Rico
+"Yes there is.{enter}
+{wait:05}...{wait:05}I came in regards to the
+incident of the explosion
+during the first rounds of
+the Battling contest."
+
+#### 82 ####
+Fei
+"Explosion incident?{wait:0F}
+{wait:05}...{wait:05}Oh, you mean what
+happened the other day!"
+
+#### 83 ####
+Citan
+"The explosion accident that
+Fei was enveloped in during
+that bout?{enter}
+What has that got to do
+with you?"
+
+#### 84 ####
+Rico
+"{wait:05}...{wait:05}I'm sorry.
+That 'accident' was set
+up by my subordinates!{enter}
+After the results of your
+'Baptismal Ceremony', it
+seems my men didn't come
+to like you very much{wait:05}..."
+
+#### 85 ####
+Citan
+"So they made it look like
+an accident, but it really
+was meant to kill Fei{wait:05}...{enter}
+But why tell us now?{wait:0F}
+Did they come clean and
+confess the crimes they 
+committed?"
+
+#### 86 ####
+Rico
+"...They're no 
+longer with us!{enter}
+You're the doctor, don't you
+know what's been happening?{wait:14}
+What's going on here in the
+Imperial capital's D Block?"
+
+#### 87 ####
+Citan
+"You mean the series of
+mysterious murders that
+happened in the sewers!?"
+
+#### 88 ####
+Rico
+"{wait:05}...{wait:05}Yes.{wait:14} A line of skilled
+Battlers have been murdered
+one after the other!{enter}
+All of the victims that
+have been killed were
+my subordinates{wait:05}..."
+
+#### 89 ####
+Rico
+"Kid{wait:05}...{wait:05}
+I mean, Fei{wait:05}...!{enter}
+They were the very people
+who had set that trap to 
+kill you!"
+
+#### 90 ####
+Fei
+"So what are you trying to
+say? That their deaths are
+connected to me somehow!?"
+
+#### 91 ####
+Citan
+"Let us see{wait:05}...{wait:05} The murdered
+Battlers had set a trap to
+try and kill Fei{wait:05}...{enter}
+When Fei comes to know of
+this he has good reason 
+to kill them{wait:05}...{enter}
+Out of hatred of his would-
+be killers, he plots
+revenge on the Battlers.
+And turns to 'murder'!"
+
+#### 92 ####
+Fei
+"{wait:05}...{wait:05}People think
+I am the killer?"
+
+#### 93 ####
+Rico
+"Exactly!{wait:1E}
+This morning there was yet
+another victim{wait:05}...{wait:05}the fifth!{enter}
+It's not unusual for people
+to die in the sewers.
+If you become weak, you die
+{wait:05}...{wait:05}that's providence!{enter}
+But 5 Battlers were killed
+in a row!{wait:0F}
+That this is unprecedented
+alone casts doubt on you.{enter}
+To say that I don't doubt
+you would be lying, but
+I don't think you are
+guilty, either.{enter}
+The only thing that can
+prove your innocence is
+if there is any truth in
+that story going round...{enter}
+The story of a monster in
+the sewers that is strong
+enough to kill 5 Battlers!"
+
+#### 94 ####
+Fei
+"Wait up! Let me{wait:05}...{wait:05}
+Let me go with you!{enter}
+I want to prove to you that
+I am innocent myself!"
+
+#### 95 ####
+Citan
+"It is up to Fei himself
+to prove that he has 
+been falsely suspected{wait:05}...{enter}
+{wait:05}...There is no alternative,
+then.{wait:1E} Please allow me to
+accompany you in solving
+this sewer murder case!"
+
+#### 96 ####
+Citan
+"Hey,{wait:05} Fei.{wait:05} Are you fully
+prepared now?{wait:0F} There is no
+turning back after this!"
+
+#### 97 ####
+Fei
+"Well,  I errh..."
+    Still got stuff to do!
+    I am totally prepared!
+
+#### 98 ####
+Citan
+"{wait:05}...{wait:05}Is that so?{wait:0F}
+Well, get moving!{wait:05}
+Time is of the essence!"
+
+#### 99 ####
+Citan
+"{wait:05}...{wait:05}There is still some time
+before the train comes{wait:05}...{wait:0F}
+Let us rest here a little!"
+
+#### 100 ####
+Doctor
+"Life here is tough, but
+first it might be better
+if you meet with Hammer!{enter}
+Hammer is a 'provider' of
+things and information.
+He might appear strange but
+he is good on the inside.{enter}
+He's probably hanging out
+at the bar, so it might be
+best to check there first.
+I'm sure he'll be of help!"
+
+#### 101 ####
+Doctor
+"Oh, I forgot to tell you!
+You should go and thank
+Hammer.{enter}
+He's the one that carried
+you here from that back
+alley where you collapsed!{enter}
+Hammer's the local 
+'supplier' of things 
+and information.{enter}
+He's probably hanging out
+at the bar, so it might be
+best to check there first!"
+
+#### 102 ####
+Doctor
+"Oh, I forgot to tell you!
+You should go and thank
+Hammer.{enter}
+He's the one that carried
+you here from that back
+alley where you collapsed!{enter}
+Hammer's the local 
+'supplier' of things 
+and information.{enter}
+He's probably hanging out
+at the bar, so it might be
+best to check there first!"
+
+#### 103 ####
+Doctor
+"Oh, I forgot to tell you!
+You should go and thank
+Hammer.{enter}
+He's the one that carried
+you here from that back
+alley where you collapsed!{enter}
+Hammer's the local 
+'supplier' of things 
+and information.{enter}
+He's probably hanging out
+at the bar, so it might be
+best to check there first!"
+
+#### 104 ####
+Doctor
+"Oh, I forgot to tell you!
+You should go and thank
+Hammer.{enter}
+He's the one that carried
+you here from that back
+alley where you collapsed!{enter}
+Hammer's the local 
+'supplier' of things 
+and information.{enter}
+He's probably hanging out
+at the bar, so it might be
+best to check there first!"
+
+#### 105 ####
+Good, you've finally woken up!{wait:0F}
+{wait:05}...{wait:05}You have been unconscious
+for four days, so I had begun
+to fear the worst.
+
+#### 106 ####
+Fei
+"{wait:05}...{wait:05}Who are you?{wait:1E}
+And where am I?{wait:0F}
+How did I get here{wait:05}...{wait:05}?"
+
+#### 107 ####
+Fei
+"Ah,{wait:0F}
+uuuugh{wait:05}...{wait:05}!"
+
+#### 108 ####
+You've only just gained
+consciousness, so don't
+push yourself too much!{enter}
+I am a doctor.{wait:1E}
+You are in Nortune, the
+Imperial capital of Kislev.{enter}
+This is the detention area
+for criminals{wait:05}...{wait:05}commonly 
+known as 'D block'.
+
+#### 109 ####
+Fei
+"Detention area for{wait:05}...
+{wait:05}...{wait:05}criminals?"
+
+#### 110 ####
+Doctor
+"You are now in a living 
+quarters for prisoners in
+D block...{enter}
+Judging by the way you were
+brought here under the heavy
+guard of the Kislev army, you
+are no ordinary criminal...!"
+
+#### 111 ####
+Doctor
+"Huh!?"
+
+#### 112 ####
+Fei
+"Uuugh{wait:05}...{wait:05} ?{wait:19}
+Where am I this time?"
+
+#### 113 ####
+Doctor
+"...You're in the same place,
+just in a different room!
+You've had a rough day, heh?"
+
+#### 114 ####
+Fei
+"Ah! {wait:05}...{wait:05}Oh it's you?{wait:14}
+It looks like I needed your
+assistance again, huh{wait:05}...?"
+
+#### 115 ####
+Doctor
+"Yes, but don't worry. I
+don't mind - it's my job!{wait:1E}
+Anyway, how do you feel?"
+
+#### 116 ####
+Fei
+"Hm? {wait:05}Aaah{wait:05}...{wait:14}
+I'm in a bit of pain, but
+nothing I can't cope with{wait:05}...{enter}
+Lately I've been getting
+used to this kind of thing.{wait:0A}
+Aah{wait:05}...!{enter}
+The last thing I remember 
+was those guys speaking of 
+what 'rank' they think I am
+worthy of."
+
+#### 117 ####
+Doctor
+"Oh,{wait:0F}
+I think I better tell
+you about that{wait:05}..."
+
+#### 118 ####
+Fei
+"What? 
+You know what rank I am?"
+
+#### 119 ####
+Doctor
+"You're quite strong, aren't
+you!? To defeat four people
+in your condition...it's no 
+wonder they gave you rank A!{enter}
+But to go up against
+the Champ...? 
+It's amazing that you 
+came back alive at all!"
+
+#### 120 ####
+Fei
+"The fight was meaningless.{wait:1E}
+I had no reason to {wait:05}...{wait:05}
+I didn't want to fight{wait:05}..."
+
+#### 121 ####
+Doctor
+"{wait:05}...{wait:05}What happened?{wait:0A}
+You look a bit pale."
+
+#### 122 ####
+Fei
+"It's nothing. Don't worry.
+{wait:05}...{wait:05}By the way, what's this 
+thing around my neck?"
+
+#### 123 ####
+Doctor
+"I was surprised! Your rank is
+B! They say you defeated three
+people, and in your condition!"
+
+#### 124 ####
+Fei
+"Yeah, I beat three of them.
+But I ran out of energy
+when I came to the fourth."
+
+#### 125 ####
+Doctor
+"But that was incredible!{enter}
+It makes me wonder how you 
+would have gone if you had 
+recovered fully beforehand."
+
+#### 126 ####
+Fei
+"Hmm, I wonder too{wait:05}...{wait:0F}
+{wait:05}...{wait:05}By the way, what's this 
+thing around my neck?"
+
+#### 127 ####
+Doctor
+"I think you were ranked C.{wait:0F}
+I doubt they would give you
+anything higher if you only 
+beat one or two people."
+
+#### 128 ####
+Fei
+"{wait:05}...{wait:05}C Rank?{wait:14}
+Huh, that would be 
+about right for me."
+
+#### 129 ####
+Doctor
+"Don't put yourself down.
+You'll never survive here
+if you have that attitude!"
+
+#### 130 ####
+Fei
+"{wait:05}...{wait:05}Survive here?{wait:14} ...{wait:05}Huh?
+{wait:05}...{wait:05}By the way, what's this 
+thing around my neck?"
+
+#### 131 ####
+Doctor
+"I believe you were rank C.
+But in your condition, you
+did well just to beat one
+opponent!"
+
+#### 132 ####
+Fei
+"{wait:05}...{wait:05}Rank C?{wait:14}
+Can I ask you a question?{wait:0A}
+Is rank that important?"
+
+#### 133 ####
+Doctor
+"Most think that stronger 
+is better, but{wait:05}...{wait:05}
+well{wait:05}...{enter}
+It allows you to rise above
+living as a normal citizen.
+If that's important to you 
+then rank is important too!"
+
+#### 134 ####
+Fei
+"I see{wait:05}...!{wait:0F}
+{wait:05}...{wait:05}By the way, what's this 
+thing around my neck?"
+
+#### 135 ####
+Doctor
+"{wait:05}...{wait:05}You're rank D.{wait:14}
+But that's understandable
+considering your condition.{enter}
+The very idea of 'Baptism'
+is absurd to begin with!"
+
+#### 136 ####
+Fei
+"{wait:05}...{wait:05}You mean{wait:05}...{wait:05}
+I'm the lowest rank?"
+
+#### 137 ####
+Doctor
+"To put it bluntly, yes!"
+
+#### 138 ####
+Fei
+"Hmm{wait:05}...{wait:05}
+{wait:05}...{wait:05}By the way, what's this 
+thing around my neck?"
+
+#### 139 ####
+Doctor
+"Oh that? 
+It's a bomb...{enter}
+The moment you leave the 
+vicinity of the Imperial 
+capital, that collar goes
+'BOOM'!{enter}
+Too bad, but while
+you have that on, you 
+will never be able to 
+escape from Nortune.{enter}
+Apart from the civilians
+of D Block and a select
+few Battlers, everybody
+has to wear them..."
+
+#### 140 ####
+Doctor
+"{wait:05}...{wait:05}Here in D Block, 
+that is the only chain 
+that binds the prisoners."
+
+#### 141 ####
+Fei
+"Huh, a bomb?{wait:1E} So no matter
+how much I struggle, I'll 
+never escape from here."{clear:3C}
+
+#### 142 ####
+Doctor
+"Anyway, you should try and
+get some rest today.{wait:0F}
+You'll have to get used to 
+life in this town soon too."{clear:3C}
+
+#### 143 ####
+Fei
+"You say a new doctor
+has come, but{wait:05}...{wait:0F}
+there's nobody here!"
+
+#### 144 ####
+Hammer
+"Huh? That's strange{wait:05}...{wait:05}
+according to my sources
+he should be here{wait:05}...!"
+
+#### 145 ####
+Fei
+"Too bad he's not here,
+huh Hammer!{enter}
+Looks like you'll have to
+forget about those black
+market medical treatment
+routes you were{wait:05}..."
+
+#### 146 ####
+!!{clear:0F}
+
+#### 147 ####
+!?{clear:0F}
+
+#### 148 ####
+Fei
+"D, d, doc?{wait:05}
+Citan?{wait:05}
+What are you doing here!?"
+
+#### 149 ####
+Citan
+"I monitored Kislev's
+radio communications{wait:05}...{enter}
+I heard them talking about
+a Gear they recovered in
+Kislev that fit the
+description of {name:0B:¥ô¥§¥ë¥È©`¥ë}{wait:05}.{enter}
+They said they transported
+it to their capital, so I
+came here on the off chance
+I might also find you here!"
+
+#### 150 ####
+Hammer
+"Huh? You wouldn't by
+any chance know this
+doctor, would you bro?"
+
+#### 151 ####
+Citan
+"So anyway, Fei,
+have you taken
+any action yet?"
+
+#### 152 ####
+Fei
+"...Taken any action?
+What do you mean by 
+that, doc?"
+
+#### 153 ####
+Citan
+"You cannot stay in here 
+forever, can you?{enter}
+Are you not going to
+escape?"
+
+#### 154 ####
+Fei
+"Escape?"
+
+#### 155 ####
+Citan
+"Fei! You are not intending
+to spend the rest of your
+life here are you?{enter}
+You do not mind breaking
+your promise, then?"
+
+#### 156 ####
+Fei
+"What promise{wait:05}...?"
+
+#### 157 ####
+Citan
+"Oh my! How could you
+forget such an important
+thing as that?{enter}
+You promised Bart that you
+would protect Margie and
+the people of Nisan if
+anything happened to him!"
+
+#### 158 ####
+Fei
+"Oh that?{wait:05} I did promise
+that, didn't I{wait:05}...{wait:05}!?{enter}
+But{wait:05}...{wait:05}has something
+happened to Bart?"
+
+#### 159 ####
+Citan
+"I am afraid to say so.
+He fought bravely against
+the enemy's new forces...{enter}
+But it was in vain! 
+The Yggdrasil was badly
+damaged and sank to the
+bottom of the sea of sand.{enter}
+Just before the ship sank,
+I jumped in an escape-pod
+and jettisoned out of there
+so that I was not engulfed.{enter}
+Since then, I regret to say
+I could find out nothing of
+the others' whereabouts or
+fates..."
+
+#### 160 ####
+Fei
+"Who would have thought...
+What was I doing...?"
+
+#### 161 ####
+Citan
+"What in the heavens
+happened, Fei?"
+
+#### 162 ####
+Fei
+"Once again{wait:05}...{wait:05}
+I lost all memory{wait:05}...{wait:05}
+and all sense of time{wait:05}...{enter}
+While I was fighting that
+Vanderkaum guy,{wait:05} he,{wait:05} Grahf,{wait:05}
+appeared{wait:05}...{wait:0F} Then I realized
+Bart and the crew's plight.{enter}
+The other guys with me were
+defeated by Vanderkaum and
+his giant-sized Gear{wait:05}...{wait:0F}
+After that{wait:05}...{enter}
+After that{wait:05}...{wait:05}it was like
+Lahan village over again!{wait:14}
+When I woke up, I was in
+Nortune's prison block{wait:05}..."
+
+#### 163 ####
+Fei
+"Doc, what happened
+to the squadron at
+the borderlands?{enter}
+What is the meaning of my
+being here and {name:0B:¥ô¥§¥ë¥È©`¥ë}
+having been recovered in
+Kislev{wait:05}...{wait:05}?"
+
+#### 164 ####
+Citan
+"{wait:05}...{wait:05}That squadron
+was annihilated!{enter}
+There was also wreckage
+of a giant-sized Gear{wait:05}...{wait:05}
+the likes of which I have
+never seen before!"
+
+#### 165 ####
+Fei
+"{wait:05}.{wait:05}.{wait:05}."
+
+#### 166 ####
+Citan
+"Come on now Fei!
+Nobody is pointing
+their finger at you!{enter}
+It might have been caused
+by something else!"
+
+#### 167 ####
+Fei
+"It's alright, doc.
+Little by little I've been
+coming to understand it."
+
+#### 168 ####
+Fei
+"Just maybe...{wait:0A}
+No{wait:05}...{wait:05}most surely...{wait:0A}
+I've done it again{wait:05}..."
+
+#### 169 ####
+Citan
+"Oh, Fei{wait:05}..."
+
+#### 170 ####
+Fei
+"I'll keep my promise{wait:05}...{enter}
+Otherwise I'd never be 
+able to look Bart in the
+face again{wait:05}...{enter}
+Cause Bart and them are
+alive somewhere{wait:05}...{wait:0A}
+I just know that they
+are!"
+
+#### 171 ####
+Citan
+"So that means{wait:05}..."
+
+#### 172 ####
+Fei
+"I'm gonna do whatever it
+takes to get out of here!
+Will you help me out doc?"
+
+#### 173 ####
+Citan
+"Of course.
+It will be my pleasure!"
+
+#### 174 ####
+Hammer
+"No, bro,{wait:05} I doubt it!{wait:0A}
+Any thought of leaving
+here is just a dream!"
+
+#### 175 ####
+Citan
+"Why do you say that?"
+
+#### 176 ####
+Hammer
+"Cause of these things!
+They're explosive collars!{enter}
+As long as we are wearing 
+these, we'll never be able
+to set foot out of here!"
+
+#### 177 ####
+Citan
+"Explosive collars{wait:05}...?{wait:0F}
+That is dangerous
+of them, is it not!?{enter}
+Allow me to have a 
+little look at it, 
+please."
+
+#### 178 ####
+Citan
+"{wait:05}...{wait:05}Let me see{wait:0F}...{wait:05}Hmmm{wait:05}...{wait:0F}
+Well, well{wait:05}...{wait:0A}Ah, ha{wait:05}...{wait:14}
+Ohhh{wait:05}...{wait:05}Humph{wait:05}..."
+
+#### 179 ####
+Citan
+"We might just possibly be
+able to do something about
+these."
+
+#### 180 ####
+Hammer
+"Re, really!?{wait:14} ...{wait:05}Even
+mechanical engineers gave
+up on these in despair!"
+
+#### 181 ####
+Fei
+"Doc was always good at
+tinkering with machines.
+So I guess there's hope!"
+
+#### 182 ####
+Hammer
+"I don't know, bro!
+Let's leave them alone!
+No matter how good he is...{enter}
+One tiny mistake and it's
+BOOM! BANG! Game Over, man!
+Get Hammer's drift, bro!?"
+
+#### 183 ####
+Fei
+"{wait:05}...{wait:05}It's alright.
+I believe in doc!"
+
+#### 184 ####
+Citan
+"{wait:05}...{wait:05}Well then, shall
+we give it a try?"
+
+#### 185 ####
+Fei
+"So, let's{wait:05}..."{enter}
+    Take a rest first!
+    Do it now, doc!
+    Forget about it!
+
+#### 186 ####
+Citan
+"Yes, let us rest up a
+little first. In the
+meantime, think carefully
+about it!"
+
+#### 187 ####
+Fei
+"{wait:05}...{wait:05}Yeah, I'm ready to do
+it now. We may as well get
+it over with then, huh!"
+
+#### 188 ####
+Citan
+"...I can understand that.
+There is no reason to try
+something so dangerous yet!{enter}
+We have not explored all
+the other possibilities.
+There may be another way!"
+
+#### 189 ####
+Hammer
+"Oh bro! Please don't!
+No matter how you look at
+it, it's too dangerous!"
+
+#### 190 ####
+Citan
+"Well then, Fei,
+have you made up 
+your mind yet?"
+
+#### 191 ####
+Fei
+"Yes, well, errh, let's{wait:05}..."{enter}
+    Wait a bit longer!
+    Do it now, doc!
+    Not do this, doc!
+
+#### 192 ####
+Citan
+"{wait:05}...{wait:05}Well then, when you
+you are ready, let me know 
+as soon as possible, OK!"
+
+#### 193 ####
+Fei
+"{wait:05}...{wait:05}Yeah.
+Ready when you are doc!
+No turning back, now, huh!"
+
+#### 194 ####
+Citan
+"{wait:05}...{wait:05}I can understand that.
+There is no reason to try
+something so dangerous yet!{enter}
+We have not explored all
+the other possibilities.
+There may be another way!"
+
+#### 195 ####
+Citan
+"Fei!!{wait:0F}
+What is wrong!?"
+
+#### 196 ####
+Fei
+"Errh,{wait:0A} arrh{wait:05}...{wait:05}doc?{wait:0F}
+Wh,{wait:05} wh,{wait:05} what just happened?{wait:0A}
+Wh,{wait:05} what{wait:0A} was that?"
+
+#### 197 ####
+Citan
+"You scared the heck out of
+me, suddenly shouting like
+that.{wait:14} Is everything O.K.?{enter}
+Anyway, are you absolutely
+sure now? {wait:0F}
+I will start removing the
+explosive collar then{wait:05}..."
+
+#### 198 ####
+Fei
+"Let's not do this!{wait:0F}
+I've a bad feeling about it.{wait:1E}
+Sorry, doc{wait:05}..."
+
+#### 199 ####
+Citan
+"{wait:05}...{wait:05}I can understand that.
+There is no reason to try
+something so dangerous yet!{enter}
+We have not explored all
+the other possibilities.
+There may be another way!"
+
+#### 200 ####
+Citan
+"Well then... You are
+sure you want to 
+go through with it so{wait:05}..."
+
+#### 201 ####
+Hammer
+"{wait:05}...{wait:05}Oooh, broooo!"
+
+#### 202 ####
+Citan
+"Well then{wait:05}...{wait:0F}
+let us give
+it a go{wait:05}..."
+
+#### 203 ####
+CLANK!
+
+#### 204 ####
+Citan
+"Ah!{wait:0A}
+oop{wait:05}...{wait:05} Oh-oh!"
+
+#### 205 ####
+Fei
+"Doc! What was that sound?
+{wait:05}...{wait:05}And{wait:05}...{wait:05}what's that
+behind your back?"
+
+#### 206 ####
+Citan
+"Huh? Oh, err{wait:05}...{wait:05}
+It is nothing, Fei.
+Hahaha, nothing at all!"
+
+#### 207 ####
+Hammer
+"Tha,{wait:0A} tha,{wait:05} that part is{wait:05}...{wait:05}
+the explosive collar's
+safety device, isn't it!?"
+
+#### 208 ####
+Citan
+"{wait:05}...S,{wait:05} sorry.
+I did what I{wait:05}..."
+
+#### 209 ####
+Fei
+"It's alright, doc.
+It doesn't matter if you
+take off one or two parts{wait:05}...{enter}
+We are going to take the
+whole thing off anyway!"
+
+#### 210 ####
+Citan
+"{wait:05}...{wait:05}Err, well Fei{wait:05}...{wait:05}
+What I just removed was 
+the bomb's safety device{wait:05}..."
+
+#### 211 ####
+Fei
+"Safety device{wait:05}...?{wait:0F}
+What does it do?"
+
+#### 212 ####
+Hammer
+"Well bro{wait:05}...{wait:0F}put simply, a
+safety device is what stops
+a bomb from exploding.{enter}
+When you remove a safety
+device from a bomb...{wait:14}
+it means the bomb could
+explode at any time!"
+
+#### 213 ####
+Fei
+"{wait:05}.{wait:05}.{wait:05}."{clear:2D}
+
+#### 214 ####
+Fei
+"This is bad!?{wait:0F}
+Hurry up and get this
+thing off of me doc!"
+
+#### 215 ####
+Citan
+"Now that it has no
+safety device, if I mess up
+while tampering with it{wait:05}...{enter}
+then it is the end of us!
+There is nothing more 
+that I can do, Fei!
+{wait:05}...{wait:05}I am so sorry!"
+
+#### 216 ####
+Citan
+"It seems that these bombs
+will not explode unless
+given a very strong shock.{enter}
+They are delicate when you
+mess inside them, but they
+are extremely good at
+'shock absorption'{wait:05}...{enter}
+...as you can tell from the
+fact that even competitors
+wear them in the Battling
+Tournaments."
+
+#### 217 ####
+Fei
+"But, no matter how shock
+absorbant it is, it's still
+dangerous in this state!?"
+
+#### 218 ####
+Citan
+"That is true...{enter}
+If only there was
+something else we
+could do besides
+risky tinkering!"
+
+#### 219 ####
+Hammer
+"Excuse me, doctor, but{wait:05}...{wait:05}
+would you mind giving 
+me that safety device?{enter}
+It would fetch a fair price
+if sold to a collector.
+Of course I'd be willing
+to pay you for it!"
+
+#### 220 ####
+Citan
+"{wait:05}...{wait:05}This thing? 
+Well I do not mind.{wait:0F}
+What do you think Fei?"
+
+#### 221 ####
+Fei
+"Well it's of no value to
+us to keep it now, is it?
+{wait:05}...{wait:05}He can have it, doc!"
+
+#### 222 ####
+Citan
+"Well then, 
+here you go{wait:05}..."
+
+#### 223 ####
+Hammer
+"Hee-hee. Thank you, man!
+Take this as payment..."
+
+#### 224 ####
+Received 4000G!
+
+#### 225 ####
+Received 3500G!
+
+#### 226 ####
+Received 3000G!
+
+#### 227 ####
+Received 2500G!
+
+#### 228 ####
+Received 2000G!
+
+#### 229 ####
+Received 1500G!
+
+#### 230 ####
+Received 2000G!
+
+#### 231 ####
+Received 1500G!
+
+#### 232 ####
+Received 1000G!
+
+#### 233 ####
+Received 1250G!
+
+#### 234 ####
+Citan
+"...But, we are still left
+with the same problem.{enter}
+If only there was a better
+way of getting rid of that
+explosive collar{wait:05}...{wait:05}!?"
+
+#### 235 ####
+CL{wait:0F}...{wait:05}ANK
+
+#### 236 ####
+Citan
+"Ah!{wait:0A}
+{wait:05}...{wait:05}Oh, dear!"{clear:1E}
+
+#### 237 ####
+Hammer
+"Th,{wait:0A} th,{wait:0A} that part is{wait:05}...{wait:05}!"{clear:2D}
+
+#### 238 ####
+Hammer
+"Oh, I forgot to tell you!
+There is a way of having
+these collars removed{wait:05}...{enter}
+It requires you winning a
+'Special Pardon' in the
+Imperial Games, though{wait:05}..."
+
+#### 239 ####
+Citan
+"A 'Special Pardon'?"
+
+#### 240 ####
+Hammer
+"Yes. Every year they
+hold the Imperial Games
+of Battling.{enter}
+The Kaiser himself watches
+over the Battling matches
+and cancels any sentence
+the winner is serving.{enter}
+Also the winner is given
+a position as a military
+officer as an added bonus!"
+
+#### 241 ####
+Citan
+"Well then, all we have to 
+do is win at the Games then!
+Do we not, Fei?"
+
+#### 242 ####
+Hammer
+"I am telling you it is 
+hopeless!{enter}
+To do that you will have 
+to defeat the current 
+champion, Master Rico!{enter}
+But our bro here was
+totally beaten by that
+very person just days ago!"
+
+#### 243 ####
+Hammer
+"I am telling you it is
+hopeless!{enter}
+To do that you will have
+to defeat the current
+champion, Master Rico!{enter}
+But our bro, here was
+just beaten by one of the
+Champ's subordinates!{enter}
+We don't even know
+how strong the Champ
+himself is yet{wait:05}..."
+
+#### 244 ####
+Hammer
+"I am telling you it is
+hopeless!{enter}
+To do that you will have
+to defeat the current
+champion, Master Rico!{enter}
+The Champ's prison ranking
+is rank S! 
+That's well above rank A 
+even!{enter}
+Our bro here is only rank
+C. Our bro could very well
+die if he attempts to
+challenge the Champ!"
+
+#### 245 ####
+Hammer
+"I am telling you it is
+hopeless!{enter}
+To do that you will have
+to defeat the current 
+champion, Master Rico!{enter}
+The Champ's prison ranking
+is rank S! 
+That's well above rank A
+even!{enter}
+Our bro here is only rank
+C. Our bro could very well
+die if he attempts to 
+challenge the Champ!"
+
+#### 246 ####
+Hammer
+"I am telling you it is
+hopeless!{enter}
+To do that you will have
+to defeat the current
+champion, Master Rico!{enter}
+But our bro here, is the
+same as I am...Rank D! The
+difference from the Champ to
+us is like man and mouse!"
+
+#### 247 ####
+Hammer
+"And this time we're 
+talking about Battling!
+With Gears, bro, Gears!{enter}
+There's no assurance of
+your safety.{wait:0F} He could very
+well kill you by pretending
+to cause an accident!"
+
+#### 248 ####
+Fei
+"{wait:05}..."
+
+#### 249 ####
+Citan
+"Really?"
+
+#### 250 ####
+Fei
+"Yeah{wait:05}...{wait:05}but last time
+I didn't have the desire
+to fight them{wait:05}...{enter}
+Yet if I were to come up
+against him seriously{wait:05}...{wait:05}
+I am not sure whether I
+could win or not."
+
+#### 251 ####
+Fei
+"Yeah{wait:05}...{wait:05}but last time
+I didn't have the desire
+to fight them{wait:05}...{wait:05}{enter}
+I defeated 3 Battlers, but
+I lost to the fourth, that
+Suzarn woman{wait:05}...{wait:05} I might be
+able to beat her, perhaps."
+
+#### 252 ####
+Fei
+"Yeah{wait:05}...{wait:05}but last time
+I didn't have the desire
+to fight them{wait:05}..."
+
+#### 253 ####
+Fei
+"Yeah{wait:05}...{wait:05}but last time
+I didn't have the desire
+to fight them{wait:05}..."
+
+#### 254 ####
+Fei
+"Yeah{wait:05}...{wait:05}but last time
+I didn't have the desire
+to fight them{wait:05}...{enter}
+I don't wan't to hide
+behind the excuse that I
+had not recovered from my
+injuries at the time{wait:05}...{enter}
+But the truth is I didn't
+even beat one of them!{wait:0F}
+Who knows whether I could
+beat them next time{wait:05}...!?"
+
+#### 255 ####
+Citan
+"Is he really that much
+stronger than the other 4
+Battlers, this Champ chap?"
+
+#### 256 ####
+Hammer
+"Put it this way{wait:05}...{enter}
+He's the undefeated king,
+reigning at the summit of
+the Imperial capital's 
+Battling Tournaments!{enter}
+With a history of 40 bouts
+ending in 40 K.O.s, most of
+which occured within 30
+seconds from start time{wait:05}...{enter}
+If he wins this year's
+Imperial Games then he'll
+be the reigning champion
+for three years running!"
+
+#### 257 ####
+Citan
+"Just one second!
+Is this person a {wait:0F}
+prisoner?"
+
+#### 258 ####
+Hammer
+"Yes he is."
+
+#### 259 ####
+Citan
+"That is strange... The
+winner is supposed to
+receive a pardon, right?{enter}
+Why is he still a
+prisoner now then?"
+
+#### 260 ####
+Hammer
+"That's the thing!{wait:14} Master
+Rico could have said good-
+bye to prison life by now!{enter}
+But they say he turned
+down his pardon.
+I guess he must like his
+fighting a great deal{wait:05}...!"
+
+#### 261 ####
+Fei
+"Well, we can't just stand
+round here talking about
+it.{enter}
+I don't care whether it is
+Battling or whatever! If
+there is a chance then I am
+going to try and take it!"
+
+#### 262 ####
+Hammer
+"Are you serious?"
+
+#### 263 ####
+Fei
+"Yes, I am."
+
+#### 264 ####
+Hammer
+"Do you think you can win?"
+
+#### 265 ####
+Fei
+"No, I don't.{wait:14}
+But, for now, I can
+only give it a try!"
+
+#### 266 ####
+Fei
+"That Hammer{wait:05}...{wait:0F}
+He looked very pleased
+all of a sudden!"
+
+#### 267 ####
+Citan
+"{wait:05}...{wait:05}But are you alright
+about this?
+As we spoke about before{wait:05}...{enter}
+Whether you are forced to
+or not{wait:05}...{wait:05}you did not
+want to do this, right?{wait:0F}
+Fight with Gears, I mean!?"
+
+#### 268 ####
+Fei
+"{wait:05}.{wait:05}.{wait:05}."
+
+#### 269 ####
+Citan
+"There are most probably
+other ways to get out of
+here.{enter}
+Fei, I do not want to
+push you into anything 
+you do not want to do!"
+
+#### 270 ####
+Fei
+"I know doc.
+I still don't like Gears.
+That much hasn't changed.{enter}
+When I pilot them, I become
+aware of how unstable my
+very 'being' is{wait:05}...{wait:05}even if
+I don't want to think of it!{enter}
+But at the same time, it is
+also a connection with some
+lost 'part' of me.{enter}
+If that's the case then,
+recently, I decided I would
+stick with it to the end.{enter}
+Elly also had been troubled
+by the same thing. And if I
+just stay depressed about
+it, nothing will improve!"
+
+#### 271 ####
+Citan
+"Is that how you feel{wait:05}...{wait:05}?
+I think I understand
+you better now, Fei.{enter}
+Anyway, let us get
+some rest today.
+We are going to
+become busy!"
+

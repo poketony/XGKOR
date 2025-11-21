@@ -1,0 +1,522 @@
+<TextBlock 1 w:50 h:4>
+Fei
+"<Delay 5>…<Delay 5> Mi chiamo
+Fei Fong Wong.<Delay 15>
+Qual è il tuo nome?<New>
+So che non ti chiami
+'Campione'. Credo di
+avere il diritto di
+saperlo<Delay 5>…"<Close><End of Block>
+<TextBlock 2 w:42 h:1>
+Inutile. È chiusa.<Opcode 2 30><Close><End of Block>
+<TextBlock 3 w:42 h:3>
+Suzarn
+"Campione, te lo
+abbiamo portato."<Close><End of Block>
+<TextBlock 4 w:30 h:3>
+Suzarn
+"Come osi…!? 
+Insolente!!"<Close><End of Block>
+<TextBlock 5 w:54 h:4>
+Campione
+"Grazie, Suzarn.<Delay 20>
+Mmh, così tu saresti
+quello nuovo<Delay 5>…<New>
+A noi non importa perché
+ti trovi qui. Comunque,
+benvenuto al Blocco D<Delay 5>…<Delay 5>
+Come ti chiami?"<Close><End of Block>
+<TextBlock 6 w:36 h:4>
+Campione
+"Stai calma, Suzarn.
+Non importa<Delay 5>…<Delay 30>
+Mi chiamo Rico."<Close><End of Block>
+<TextBlock 7 w:52 h:4>
+Rico
+"Ragazzo<Delay 5>…<Delay 5>
+O hai del fegato<Delay 5>…<Delay 5>
+o sei un pazzo<Delay 5>…<New>
+Scusa l'improvvisata,
+ma dobbiamo sapere
+quanto sei forte<Delay 5>…"<Close><End of Block>
+<TextBlock 8 w:22 h:2>
+Rico
+"Heinrich!"<Close><End of Block>
+<TextBlock 9 w:18 h:2>
+Rico
+"Vargas!"<Close><End of Block>
+<TextBlock 10 w:22 h:2>
+Rico
+"Leonardo!"<Close><End of Block>
+<TextBlock 11 w:18 h:2>
+Rico
+"Suzarn!"<Close><End of Block>
+<TextBlock 12 w:54 h:3>
+Rico
+"Che il suo 'Battesimo'
+abbia inizio!
+Portatelo fuori!"<Close><End of Block>
+<TextBlock 13 w:30 h:3>
+Hammer
+"O fra… fra… <Delay 5>frate!!<Delay 15><Space 1>
+Sei qui?"<Opcode 2 45><Close><End of Block>
+<TextBlock 14 w:56 h:4>
+Rue
+"Comunque…
+Questa stanza è tua.<Delay 15>
+Là c'è il tuo letto.<New>
+Oh<Delay 5>…<Delay 5> e, Fei,<Delay 15>
+col titolo di Campione
+hai anche<Delay 5> i privilegi
+speciali della Classe S."<Close><End of Block>
+<TextBlock 15 w:52 h:4>
+Rue
+"Congratulazioni per
+aver vinto il Torneo<Delay 5>…<New>
+Abbiamo ricavato degli
+ottimi dati<Delay 5>…<Delay 5>
+Ah ah ah.<Delay 30>
+Ah, <Delay 5>una buona notizia.<New>
+Il Kaiser Sigmund vorrebbe 
+incontrarti, Campione Fei.<New>
+Ti prego di andare al
+Distretto Centrale.<Close><End of Block>
+<TextBlock 16 w:38 h:2>
+Rue
+"Ok<Delay 5>…<Delay 5> arrivederci."<Close><End of Block>
+<TextBlock 17 w:40 h:4>
+Fei
+"C'è ancora tempo
+prima che il treno
+passi<Delay 5>…"<Close><End of Block>
+<TextBlock 18 w:46 h:4>
+Shitan
+"Bene,<Delay 5> se ogni cosa è
+pronta,<Delay 5> perché non
+farci un sonnellino?"<Close><End of Block>
+<TextBlock 19 w:48 h:4>
+Shitan
+"Quindi, ora sei libero
+sia di nome che<Delay 15>…<Delay 5> di
+fatto,<Delay 5> giusto?"<Close><End of Block>
+<TextBlock 20 w:36 h:4>
+Hammer
+"Beh, <Delay 5>che si fa
+ora, <Delay 5>o frate?<Delay 15>
+Lasciamo Nortune?"<Close><End of Block>
+<TextBlock 21 w:50 h:4>
+Shitan
+"Non abbiamo ancora
+finito. C'è ancora
+una cosa da fare."<Close><End of Block>
+<TextBlock 22 w:50 h:4>
+Fei
+"<Delay 5>…<Delay 5> Già.<Delay 15>
+<Weltall>, vero?<New>
+Non possiamo
+lasciarlo qui.<Delay 15>
+In qualche modo
+bisogna riprenderlo<Delay 5>…"<Close><End of Block>
+<TextBlock 23 w:54 h:4>
+Shitan
+"È certo che <Weltall>
+sia stato spostato in
+un luogo diverso<Delay 5>…"<Close><End of Block>
+<TextBlock 24 w:40 h:4>
+Shitan
+"Ed è qui<Delay 5> che entri
+in gioco tu,<Delay 5>
+…<Delay 10> Hammer!"<Close><End of Block>
+<TextBlock 25 w:54 h:4>
+Hammer
+"Capito,<Delay 5> dottore!<New>
+Troverò il vostro Gear.
+Non per nulla mi chiamano
+il rifornitore N° 1
+della Capitale Imperiale!"<Close><End of Block>
+<TextBlock 26 w:44 h:3>
+Fei
+"Ok, ma lavoreremo
+separatamente.<New>
+Io andrò da solo,<Delay 10>
+mentre voi,<Delay 5> Hammer e
+Doc,<Delay 5> andrete insieme<Delay 5>…"<Close><End of Block>
+<TextBlock 27 w:44 h:4>
+Hammer
+"O frate,<Delay 5> non ti
+fidi di me?<New> 
+Lavoro meglio da solo!<Delay 15>
+Nulla contro Shitan,
+ma mi sarebbe solo di
+impiccio, <Delay 5>o frate."<Close><End of Block>
+<TextBlock 28 w:50 h:3>
+Hammer
+"Allora<Delay 5>…<Delay 5> ci
+penso io,<Delay 5> ok?"<Opcode 2 60><Close><End of Block>
+<TextBlock 29 w:32 h:2>
+Fei
+"Quell'Hammer<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 30 w:28 h:4>
+Shitan
+"<Delay 2>…<Delay 2>…<Delay 15>
+Anche noi dovremmo
+muoverci."<Close><End of Block>
+<TextBlock 31 w:48 h:3>
+Fei
+"<Delay 5>…<Delay 5> Questa stanza!?<Delay 15>
+È quella del Campione<Delay 5>…?"<Close><End of Block>
+<TextBlock 32 w:48 h:5>
+Rue
+"Sì,<Delay 5> è la stanza data 
+al Campione<Delay 5>…<Delay 15> 
+Non è di tuo gusto?"<Close><End of Block>
+<TextBlock 33 w:40 h:3>
+Fei
+"No,<Delay 5> non è così.
+Ma… e Rico<Delay 5>…?"<Close><End of Block>
+<TextBlock 34 w:56 h:4>
+Rue
+"<Delay 5>…<Delay 5> Rico?<Delay 15>
+È un 'ex-Campione'<Delay 5>…<Delay 15>
+Ora sei tu 'il Campione'!"<Close><End of Block>
+<TextBlock 35 w:38 h:3>
+Fei
+"Ma…<Delay 5> cosa gli è
+successo<Delay 5>…?"<Close><End of Block>
+<TextBlock 36 w:56 h:5>
+Rue
+"Dopo la Finale, durante
+gli incontri di lega, il
+suo Gear ha perso il
+controllo.<New>
+Il Gear impazzito è caduto
+sul palco ove si trovava
+il Kaiser<Delay 5> e si è
+danneggiato.<New>
+E da allora nessuno ha
+più visto o sentito
+parlare del precedente
+campione, Ricardo<Delay 5>…"<Close><End of Block>
+<TextBlock 37 w:16 h:2>
+Fei
+"<Delay 2>…<Delay 2>…<Delay 2>…"<Close><End of Block>
+<TextBlock 38 w:52 h:5>
+Rue
+"Non ci saranno gare per
+un po' di tempo, così
+potrai riposare.<New>
+Il collare esplosivo è
+stato rimosso.<New>
+Che ne dici di una
+passeggiata nel 'Blocco
+A', la zona civile di
+Nortune?"<Close><End of Block>
+<TextBlock 39 w:32 h:3>
+Fei
+"<Delay 5>…<Delay 5> 'Blocco A'…
+Zona civile?"<Close><End of Block>
+<TextBlock 40 w:54 h:5>
+Rue
+"La zona sudest della
+Capitale Imperiale…<Delay 15>
+Viene chiamata Blocco A o
+zona civile<Delay 5>…"<Close><End of Block>
+<TextBlock 41 w:40 h:3>
+Rue
+"Allora,<Delay 5> per il
+momento ci salutiamo<Delay 5>…"<Close><End of Block>
+<TextBlock 42 w:36 h:3>
+Fei
+"Dimmi<Delay 5>…<Delay 5> che cosa
+volete da noi?"<Close><End of Block>
+<TextBlock 43 w:50 h:3>
+Amazzone
+"Il Campione<Delay 5>…<Delay 5> no,
+cioè<Delay 5>…<Delay 15> Rico, ha bisogno
+del tuo aiuto."<Close><End of Block>
+<TextBlock 44 w:46 h:2>
+Shitan
+"Aiutare<Delay 5> il
+Campione<Delay 5>…?"<Close><End of Block>
+<TextBlock 45 w:36 h:3>
+Fei
+"Avanti,<Delay 15> spiegatevi
+meglio."<Close><End of Block>
+<TextBlock 46 w:58 h:4>
+Combattente
+"Sai cos'è accaduto…<Delay 15>
+Hai visto la trasmissione
+video del Comitato!?"<Close><End of Block>
+<TextBlock 47 w:56 h:6>
+Combattente
+"Già, hanno detto qualcosa
+del genere<Delay 5>…<New>
+Questa sera,<Delay 5> l'ex Campione
+è stato giudicato colpevole
+di aver tentato di
+uccidere il Kaiser,<Delay 5>
+e di aver tentato di
+compromettere la sicurezza
+dell'Impero<Delay 5>…"<Close><End of Block>
+<TextBlock 48 w:58 h:2>
+Così,<Delay 15> verrà giustiziato
+durante un'esecuzione pubblica
+nell'arena<Delay 15>…"<Close><End of Block>
+<TextBlock 49 w:54 h:3>
+Fei
+"Sapevo che era stato
+preso<Delay 5> ed arrestato<Delay 5>…<New>
+Ma…<Delay 5> cos'è questa storia
+che ha cercato di
+uccidere il Kaiser!?"<Close><End of Block>
+<TextBlock 50 w:54 h:4>
+Combattente
+"I membri del comitato<Delay 5>…<Delay 15>
+Probabilmente si vogliono
+sbarazzare del Campione<Delay 5>…"<Close><End of Block>
+<TextBlock 51 w:32 h:3>
+Shitan
+"<Delay 5>…<Delay 5> Il Comitato
+del Torneo?"<Close><End of Block>
+<TextBlock 52 w:52 h:4>
+Amazzone
+"Il Comitato è composto
+in gran parte di persone
+della Chiesa.<New>
+Hanno una grande
+influenza politica<Delay 5>…<New>
+Ma l'attuale Kaiser,
+Sigmund, ha eliminato
+molta di questa
+influenza dal governo."<Close><End of Block>
+<TextBlock 53 w:54 h:5>
+Combattente
+"Soprattutto, in questi
+ultimi anni<Delay 5>…<New>
+Per rafforzare il potere
+militare, il Kaiser ha
+iniziato ad interferire
+con le decisioni della
+Chiesa sul Torneo."<Close><End of Block>
+<TextBlock 54 w:54 h:5>
+Combattente
+"Forse il Kaiser ha
+tentato troppo di
+legare loro le mani.<Delay 15>
+Ed hanno usato il Campione<Delay 5>…"<Close><End of Block>
+<TextBlock 55 w:28 h:2>
+Fei
+"Perché Rico<Delay 5>…?"<Close><End of Block>
+<TextBlock 56 w:54 h:4>
+Amazzone
+"Rico è originario di
+questa città<Delay 5>…<New>
+Ma a causa dei sentimenti
+avversi ai mutanti di
+Sigmund, fu cacciato da
+questa città quando era
+ancora un ragazzo."<Close><End of Block>
+<TextBlock 57 w:52 h:4>
+Amazzone
+"Così Rico odia il Kaiser,
+la capitale Nortune e
+l'intero impero di Kislev."<Close><End of Block>
+<TextBlock 58 w:40 h:3>
+Fei
+"Ecco perché gli
+stavano dietro<Delay 5>…"<Close><End of Block>
+<TextBlock 59 w:54 h:4>
+Combattente
+"Nel passato, il Campione
+ha avuto molte occasioni
+per uccidere il Kaiser.<New>
+E l'ultimo incidente non
+è stato affatto tale<Delay 5>…"<Close><End of Block>
+<TextBlock 60 w:44 h:5>
+Amazzone
+"Ma hanno fallito.
+E i membri del comitato,
+temendo di essere scoperti,
+hanno sacrificato Rico<Delay 5>…"<Close><End of Block>
+<TextBlock 61 w:38 h:4>
+Combattente
+"Il Campione è
+stato manipolato
+dal comitato.<New>
+Ti prego, <Delay 5>Fei!
+Aiuta il Campione!"<Close><End of Block>
+<TextBlock 62 w:38 h:4>
+Combattente
+"Ora,<Delay 5> sei tu il
+campione, <Delay 15>ma il
+nostro Campione è<Delay 5>…<Opcode 2 60><Close><End of Block>
+<TextBlock 63 w:50 h:4>
+Hammer
+"<Delay 5>…<Delay 5> Che?<Delay 15>
+O frate, <Delay 5>perché stai
+parlando con loro?"<Close><End of Block>
+<TextBlock 64 w:44 h:2>
+Fei
+"Aspettate.<New>
+Hammer, <Delay 5>parlami di
+quei treni per i
+rifornimenti."<Close><End of Block>
+<TextBlock 65 w:50 h:4>
+Hammer
+"Uh?<Delay 10>
+Ma<Delay 5>…<Delay 5> ora?<Delay 15>
+Con questi estranei<Delay 5>…?"<Close><End of Block>
+<TextBlock 66 w:44 h:3>
+Shitan
+"Va tutto bene,<Delay 5>
+sono nostri amici."<Close><End of Block>
+<TextBlock 67 w:48 h:4>
+Hammer
+"Oh,<Delay 5> davvero?<New>
+Beh, <Delay 5>ok<Delay 5>…<Delay 15>
+Il passaggio del prossimo
+treno dei rifornimenti<Delay 5>…<Delay 15>
+è stasera!<New>
+Ma<Delay 5>…<Delay 5>
+se è troppo presto,<Delay 15>
+il prossimo è<Delay 5>…"<Close><End of Block>
+<TextBlock 68 w:50 h:4>
+Fei
+"Hammer,<Delay 5> non hai detto
+che un treno passerà di
+qui stasera?"<Close><End of Block>
+<TextBlock 69 w:48 h:4>
+Hammer
+"Cosa?<Delay 10> Stasera?<Delay 15>
+Beh,<Delay 5> passerà un
+treno<Delay 5>…<New>
+Ma, <Delay 5>o frate…<Delay 15>
+ci serve un piano.
+Stasera è impossibile!"<Close><End of Block>
+<TextBlock 70 w:54 h:4>
+Fei
+"La situazione è cambiata,<Delay 5>
+e così i nostri piani.<Delay 15>
+Ci muoviamo stasera!!"<Close><End of Block>
+<TextBlock 71 w:40 h:4>
+Hammer
+"Stasera<Delay 5>…?<Delay 15>
+Ma<Delay 5>…?<Delay 5>
+Fai sul <Delay 5>serio?"<Close><End of Block>
+<TextBlock 72 w:44 h:4>
+Shitan
+"<Delay 5>…<Delay 5> Hai ottenuto
+qualche informazione
+utile da riferirci?"<Close><End of Block>
+<TextBlock 73 w:52 h:4>
+Hammer
+"Beh<Delay 5>…<Delay 15> i prigionieri
+sono in agitazione per
+il fatto di Mastro Rico<Delay 5>…"<Close><End of Block>
+<TextBlock 74 w:54 h:4>
+Shitan
+"Conosci i dettagli?
+Rico sarà giustiziato
+nell'arena stasera, vero?"<Close><End of Block>
+<TextBlock 75 w:40 h:4>
+Hammer
+"Mastro Rico sarà
+giustiziato<Delay 5>…<Delay 15>
+è la verità?"<Close><End of Block>
+<TextBlock 76 w:42 h:3>
+Fei
+"Non è che per caso
+conosci un'altra
+strada?"<Close><End of Block>
+<TextBlock 77 w:56 h:4>
+Hammer
+"Uh?<Delay 15> Oh sì,<Delay 5> parli
+dell'arena,<Delay 5> giusto<Delay 5>…<Delay 15>
+O frate!<Delay 5> Non penserai di<Delay 5>…"<Close><End of Block>
+<TextBlock 78 w:42 h:4>
+Fei
+"Sì, sto pensando
+proprio a quello!<New>
+Hai detto che potrebbe
+essere possibile 
+introdurci nell'Arena,<Delay 5>
+giusto?"<Close><End of Block>
+<TextBlock 79 w:34 h:4>
+Shitan
+"Capisco! <Delay 5>E allora
+forse potremo aiutare
+il Campione<Delay 5>…"<Close><End of Block>
+<TextBlock 80 w:12 h:2>
+Fei
+"Doc!"<Close><End of Block>
+<TextBlock 81 w:40 h:3>
+Shitan
+"Mmh<Delay 5>…<Delay 15>
+Potrebbe funzionare!"<Close><End of Block>
+<TextBlock 82 w:42 h:4>
+Hammer
+"Ahooo!<New>
+Potrebbe funzionare<Delay 5>…?<Delay 15>
+La fate davvero facile
+voi due, eh?"<Close><End of Block>
+<TextBlock 83 w:54 h:4>
+Fei
+"In ogni caso,<Delay 5> dobbiamo
+scappare,<Delay 5> e quella
+è la nostra strada<Delay 5>…<Delay 15> no!?"<Close><End of Block>
+<TextBlock 84 w:42 h:2>
+Amazzone
+"Ciò vuol dire<Delay 5>…?"<Close><End of Block>
+<TextBlock 85 w:54 h:4>
+Fei
+"Nessun problema. È solo
+un'altra cosa da fare per
+riavere il mio Gear…"<Close><End of Block>
+<TextBlock 86 w:54 h:4>
+Shitan
+"Lasciate fare a noi.<Delay 15>
+E vorrei che andaste tutti
+all'arena, stasera.<New>
+Noi lasceremo Nortune, ma
+se solo pensassero che
+voi foste in combutta
+con noi…"<Close><End of Block>
+<TextBlock 87 w:50 h:3>
+Combattente
+"Contiamo su di voi
+…<Delay 5> per il Campione."<Opcode 2 65><Close><End of Block>
+<TextBlock 88 w:42 h:3>
+Amazzone
+"Perdonateci,<Delay 15>
+ma non sapevamo
+a chi rivolgerci<Delay 5>…"<Opcode 2 65><Close><End of Block>
+<TextBlock 89 w:44 h:3>
+Combattente
+"Apprezziamo molto ciò
+che state facendo<Delay 5>…<New>
+Ecco<Delay 5>…<Delay 5>
+Sono per voi."<Close><End of Block>
+<TextBlock 90 w:30 h:1>
+Ricevuti 2000G!<Close><End of Block>
+<TextBlock 91 w:54 h:4>
+Hammer
+"Orari dei treni,<Delay 5> e
+le varie fermate!<Delay 15> Ho
+tutto… nessun problema!"<Opcode 2 60><Close><End of Block>
+<TextBlock 92 w:50 h:4>
+Fei
+"Hammer, nasconditi
+da qualche parte.<New>
+Appena sarò nell'arena,
+cercherò di creare più
+confusione possibile
+con il mio Gear…<New>
+Questo dovrebbe aiutarci
+nella nostra fuga dalla
+capitale imperiale<Delay 5>…<Delay 30>
+Capito, Hammer?"<Close><End of Block>
+<TextBlock 93 w:40 h:4>
+Hammer
+"Afferrato, o frate!<Delay 15>
+Tiragliene uno anche
+per me,<Delay 5> o frate!"<Close><Close><End of Block>

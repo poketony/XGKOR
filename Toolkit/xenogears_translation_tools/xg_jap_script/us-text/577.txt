@@ -1,0 +1,49 @@
+#### 1 ####
+Sophia
+"Lacan! Live!"{clear:78}
+
+#### 2 ####
+Krelian
+"Sophia!!{wait:0F}
+What are you doing!?"
+
+#### 3 ####
+Sophia
+"I am ending this{wait:05}...{wait:0F}
+You won't need to fight
+anymore{wait:05}...{enter}
+So, Krelian{wait:05}...{enter}
+Please {wait:05}open your fist{wait:05}...{wait:0F}
+and with your open hand
+gently hold the people who
+will continue to live{wait:05}..."
+
+#### 4 ####
+Lacan
+"Don't be foolish!{wait:05}
+We'll help you escape!{wait:05}
+So please stop{wait:05}...!"
+
+#### 5 ####
+Sophia
+"Thank you, {wait:05}Lacan{wait:05}...{wait:0F}
+But{wait:05}...{wait:05}sorry{wait:05}...{wait:0F}
+There's no other way{wait:05}..."
+
+#### 6 ####
+Lacan
+"Elly!"
+
+#### 7 ####
+Sophia
+"People support each other
+to live{wait:05}...{wait:05} It's what brings
+us happiness{wait:05}...{enter}
+So share that happiness{wait:05}...{wait:05}
+and please{wait:05}...{wait:1E}
+{fast:FF}Lacan! Live!"
+
+#### 8 ####
+Lacan
+"Ell¡«y!!"{clear:B4}
+

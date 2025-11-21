@@ -1,0 +1,254 @@
+#### 1 ####
+Sigurd
+"Our comrades in Nisan will
+hit the western guard in
+Kislev uniforms{wait:14} as planned.{enter}
+We'll wait for the right
+moment, then head for the
+palace in the Yggdrasil!"
+
+#### 2 ####
+Bart
+"Got it.{wait:1E}
+But avoid any unnecessary
+deaths.{enter}
+This especially goes for
+the Aveh troops{wait:1E} and also
+the people from Gebler."
+
+#### 3 ####
+Sigurd
+"Yes.{wait:1E}
+We understand."
+
+#### 4 ####
+Fei
+"I guess I'm going to
+raise some hell in my
+{name:0B:¥ô¥§¥ë¥È©`¥ë} then."
+
+#### 5 ####
+Sigurd
+"We're counting on you!"
+
+#### 6 ####
+Margie
+"Next time we meet I won't
+be able to call you 'Bart'{wait:0A}
+or 'young master'.{enter}
+Maybe,{wait:0A} 'Your Majesty'{wait:0A}...?"
+
+#### 7 ####
+Bart
+"Cut it out.{wait:0F}
+Bart's fine...{wait:1E}
+'Great{wait:0A} Mother{wait:0A} of{wait:0A} Nisan'!"
+
+#### 8 ####
+Margie
+"Hey...!{wait:1E}
+You know I hate
+that title!"
+
+#### 9 ####
+Bart
+"Ha ha ha!"
+
+#### 10 ####
+Bart
+"Well, we're outta here!"
+
+#### 11 ####
+Margie
+"Okay.
+Good luck!"
+
+#### 12 ####
+Agnes
+"Marguerite and 
+Bartholomew...{enter}
+Seeing you two
+brings my hopes
+up."
+
+#### 13 ####
+Agnes
+"Long ago{wait:1E} before the Fatimas
+of Aveh were called Fatima...{enter}
+The royal brothers and their
+wives oversaw many prosperous
+reigns or eras.{enter}
+I'm looking forward to the
+day, when as the Great Mother
+of the Nisan Sect...{enter}
+you will take your place on
+the throne as Bartholomew's
+wife."
+
+#### 14 ####
+Margie
+"What!? {wait:0F}Hey, {wait:05}hold on!{wait:0A}
+I hate talking about
+queens and romance...!{enter}
+Bart and I are best
+friends!"
+
+#### 15 ####
+Agnes
+"Ha ha, {wait:1E}marriage IS
+the best friendship."
+
+#### 16 ####
+Agnes
+"Well Marguerite, at the
+rate that you are maturing
+into a beautiful woman...{enter}
+...I don't think Bart will
+be able to ignore you much
+longer."
+
+#### 17 ####
+Margie
+"Stop it, {wait:1E}you're
+embarrassing me!"
+
+#### 18 ####
+Sigurd
+"I'll complete the
+remaining checks
+onboard.{enter}
+I'll leave the
+rest up to you,
+Maison."
+
+#### 19 ####
+Maison
+"As you wish...
+I will have the honor of
+accompanying the others."
+
+#### 20 ####
+Bartholomew, healthy
+as ever I hope?
+
+#### 21 ####
+Bart
+"Yeah.
+How's the town?"
+
+#### 22 ####
+Since we got word several
+days ago that there might
+be an army advancing from
+the Royal Capital the
+Sect's representatives
+have been in discussion.
+
+#### 23 ####
+Bart
+"What have they
+come up with?"
+
+#### 24 ####
+For now, they just plan to
+improve the local defenses.{enter}
+Also, anti-Shakhan people
+have been gathering here...
+probably because they heard
+about what's going on.
+
+#### 25 ####
+Bart
+"That's reassuring."
+
+#### 26 ####
+Yes.{enter}
+However the residents are
+starting to feel uneasy.{enter}
+People are starting to
+take refuge up north
+in the mountains.
+
+#### 27 ####
+Bart
+"Can't blame them."
+
+#### 28 ####
+By the way, how's 
+Marguerite...?
+
+#### 29 ####
+Bart
+"Better than we thought.
+But I know she was in a
+lot of grief."
+
+#### 30 ####
+Marguerite!
+I'm so glad
+you're safe.
+
+#### 31 ####
+Margie
+"Thanks."
+
+#### 32 ####
+All the townspeople are
+overjoyed by the Great
+Mother's return.
+
+#### 33 ####
+(...{wait:1E}...{wait:1E}...{wait:1E}
+...{wait:1E}...{wait:1E}z{wait:1E}z{wait:1E}z
+
+#### 34 ####
+...{wait:1E}o...Oh!!
+
+#### 35 ####
+N, no problems, sir!!
+
+#### 36 ####
+No problems, sir!!
+
+#### 37 ####
+Board the ship?
+    Yes
+    No
+
+#### 38 ####
+Preparations for the
+campaign are done, just
+finishing one final check.{enter}
+The young master is
+taking Marguerite to
+Nisan.
+
+#### 39 ####
+Everything is ready.
+
+#### 40 ####
+No problems sir!!
+
+#### 41 ####
+No problems sir!!
+
+#### 42 ####
+The sisters are waiting
+in the cathedral.
+
+#### 43 ####
+Welcome back.
+
+#### 44 ####
+Welcome back.
+
+#### 45 ####
+Welcome back.
+
+#### 46 ####
+Welcome back.
+
+#### 47 ####
+    Leave port now
+    To the bridge
+

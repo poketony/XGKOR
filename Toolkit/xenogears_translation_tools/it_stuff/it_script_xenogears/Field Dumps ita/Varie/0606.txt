@@ -1,0 +1,295 @@
+<TextBlock 1 w:28 h:3>
+<Opcode 1 255>demoflag giù?
+      giù
+      no<Close><End of Block>
+<TextBlock 2 w:36 h:3>
+      <Opcode 1 255>indietro
+      cambiomembro
+      cambiogruppo<Close><End of Block>
+<TextBlock 3 w:20 h:3>
+      <Opcode 1 255>più
+      nuovo
+      fine<Close><End of Block>
+<TextBlock 4 w:34 h:1>
+<Opcode 1 255>Crea un gruppo, per favore<Close><End of Block>
+<TextBlock 5 w:38 h:1>
+<Opcode 1 255>seleziona membro del gruppo<Close><End of Block>
+<TextBlock 6 w:26 h:12>
+      <Opcode 1 255>Fei
+      Elly
+      Shitan
+      Bart
+      Billy
+      Rico
+      Esmer
+      Chu-chu
+      Maria
+      Shitan2
+      Esmer2
+      fine<Close><End of Block>
+<TextBlock 7 w:24 h:12>
+      <Opcode 1 255>Fei
+      Elly
+      Shitan
+      Bart
+      Billy
+      Rico
+      Esmer
+      Chuchu
+      Maria
+      Shitan2
+      Esmer2
+<Close><End of Block>
+<TextBlock 8 w:32 h:1>
+<Opcode 1 255>Il tuo gruppo è…<Close><End of Block>
+<TextBlock 9 w:6 h:1>
+Fei<Close><End of Block>
+<TextBlock 10 w:8 h:1>
+Elly<Close><End of Block>
+<TextBlock 11 w:10 h:1>
+Shitan<Close><End of Block>
+<TextBlock 12 w:8 h:1>
+Bart<Close><End of Block>
+<TextBlock 13 w:10 h:1>
+Billy<Close><End of Block>
+<TextBlock 14 w:8 h:1>
+Rico<Close><End of Block>
+<TextBlock 15 w:8 h:1>
+Esmer<Close><End of Block>
+<TextBlock 16 w:14 h:1>
+Chu-chu<Close><End of Block>
+<TextBlock 17 w:10 h:1>
+Maria<Close><End of Block>
+<TextBlock 18 w:12 h:1>
+Shitan2<Close><End of Block>
+<TextBlock 19 w:10 h:1>
+Esmer2<Close><End of Block>
+<TextBlock 20 w:32 h:1>
+<Opcode 1 255>Il tuo gruppo è…<Close><End of Block>
+<TextBlock 21 w:6 h:1>
+Fei<Close><End of Block>
+<TextBlock 22 w:8 h:1>
+Elly<Close><End of Block>
+<TextBlock 23 w:10 h:1>
+Shitan<Close><End of Block>
+<TextBlock 24 w:8 h:1>
+Bart<Close><End of Block>
+<TextBlock 25 w:10 h:1>
+Billy<Close><End of Block>
+<TextBlock 26 w:8 h:1>
+Rico<Close><End of Block>
+<TextBlock 27 w:8 h:1>
+Esmer<Close><End of Block>
+<TextBlock 28 w:14 h:1>
+Chu-chu<Close><End of Block>
+<TextBlock 29 w:10 h:1>
+Maria<Close><End of Block>
+<TextBlock 30 w:12 h:1>
+Shitan2<Close><End of Block>
+<TextBlock 31 w:10 h:1>
+Esmer2<Close><End of Block>
+<TextBlock 32 w:44 h:12>
+<Opcode 1 255>Passa alla mappa dei programmatori
+          no grazie
+          a kato
+          a eto
+          a kazuomi
+          a suzuki
+          a tane
+          a koumoto
+          a kigoshi
+          a uchimichi
+          a saito
+          a matu<Close><End of Block>
+<TextBlock 33 w:26 h:10>
+<Opcode 1 255>porta dokodemo
+      indietro
+      0-99
+      100-199
+      200-299
+      300-399
+      400-499
+      500-599
+      600-699
+      700-799<Close><End of Block>
+<TextBlock 34 w:70 h:11>
+      <Opcode 1 255>indietro
+      <Opcode 10 0>00-<Opcode 10 0>09
+      <Opcode 10 0>10-<Opcode 10 0>19
+      <Opcode 10 0>20-<Opcode 10 0>29
+      <Opcode 10 0>30-<Opcode 10 0>39
+      <Opcode 10 0>40-<Opcode 10 0>49
+      <Opcode 10 0>50-<Opcode 10 0>59
+      <Opcode 10 0>60-<Opcode 10 0>69
+      <Opcode 10 0>70-<Opcode 10 0>79
+      <Opcode 10 0>80-<Opcode 10 0>89
+      <Opcode 10 0>90-<Opcode 10 0>99<Close><End of Block>
+<TextBlock 35 w:62 h:11>
+      <Opcode 1 255>indietro
+      <Opcode 10 0><Opcode 10 1>0
+      <Opcode 10 0><Opcode 10 1>1
+      <Opcode 10 0><Opcode 10 1>2
+      <Opcode 10 0><Opcode 10 1>3
+      <Opcode 10 0><Opcode 10 1>4
+      <Opcode 10 0><Opcode 10 1>5
+      <Opcode 10 0><Opcode 10 1>6
+      <Opcode 10 0><Opcode 10 1>7
+      <Opcode 10 0><Opcode 10 1>8
+      <Opcode 10 0><Opcode 10 1>9<Close><End of Block>
+<TextBlock 36 w:49 h:14>
+<Opcode 1 255>mappa<Opcode 10 2><`>mappara?
+      <Opcode 10 0>0
+      <Opcode 10 0>1
+      <Opcode 10 0>2
+      <Opcode 10 0>3
+      <Opcode 10 0>4
+      <Opcode 10 0>5
+      <Opcode 10 0>6
+      <Opcode 10 0>7
+      <Opcode 10 0>8
+      <Opcode 10 0>9
+      +10
+      a caso
+      ancora<Close><End of Block>
+<TextBlock 37 w:30 h:1>
+sii onesto!!<Close><End of Block>
+<TextBlock 38 w:26 h:3>
+<Opcode 1 255>a Lahan?
+          sì
+          no<Close><End of Block>
+<TextBlock 39 w:36 h:3>
+<Opcode 1 255>vedere l'anteprima?
+    sì
+    no<Close><End of Block>
+<TextBlock 40 w:26 h:3>
+<Opcode 1 255>a Dajil?
+          sì
+          no<Close><End of Block>
+<TextBlock 41 w:32 h:3>
+<Opcode 1 255>alla casa di Shitan?
+          sì
+          no<Close><End of Block>
+<TextBlock 42 w:36 h:4>
+<Opcode 1 255>ascolta…
+      musica
+      effetti sonori
+      indietro<Close><End of Block>
+<TextBlock 43 w:66 h:11>
+    <Opcode 1 255>indietro
+    <Opcode 10 0>00-<Opcode 10 0>09
+    <Opcode 10 0>10-<Opcode 10 0>19
+    <Opcode 10 0>20-<Opcode 10 0>29
+    <Opcode 10 0>30-<Opcode 10 0>39
+    <Opcode 10 0>40-<Opcode 10 0>49
+    <Opcode 10 0>50-<Opcode 10 0>59
+    <Opcode 10 0>60-<Opcode 10 0>69
+    <Opcode 10 0>70-<Opcode 10 0>79
+    <Opcode 10 0>80-<Opcode 10 0>89
+    <Opcode 10 0>90-<Opcode 10 0>99<Close><End of Block>
+<TextBlock 44 w:58 h:11>
+    <Opcode 1 255>indietro
+    <Opcode 10 0><Opcode 10 1>0
+    <Opcode 10 0><Opcode 10 1>1
+    <Opcode 10 0><Opcode 10 1>2
+    <Opcode 10 0><Opcode 10 1>3
+    <Opcode 10 0><Opcode 10 1>4
+    <Opcode 10 0><Opcode 10 1>5
+    <Opcode 10 0><Opcode 10 1>6
+    <Opcode 10 0><Opcode 10 1>7
+    <Opcode 10 0><Opcode 10 1>8
+    <Opcode 10 0><Opcode 10 1>9<Close><End of Block>
+<TextBlock 45 w:78 h:12>
+<Opcode 1 255>numero musica <Opcode 10 0>  cambia <Opcode 10 1>
+          pross.
+          inizia
+          prima
+          info
+          vol
+          tono
+          tempo
+          indietro
+premi R1 su
+     L1 giù
+     X automatico<Close><End of Block>
+<TextBlock 46 w:40 h:1>
+<Opcode 1 255>puoi cambiare 'vol'<Close><End of Block>
+<TextBlock 47 w:44 h:1>
+<Opcode 1 255>puoi cambiare 'tono'<Close><End of Block>
+<TextBlock 48 w:44 h:1>
+<Opcode 1 255>puoi cambiare 'tempo'<Close><End of Block>
+<TextBlock 49 w:50 h:4>
+<Opcode 1 255>              ora  /  originale
+vol        <Opcode 12 0>       /127
+tono      <Opcode 12 1>       /0 
+tempo      <Opcode 12 2>       /256<Close><End of Block>
+<TextBlock 50 w:22 h:7>
+    <Opcode 1 255>indietro
+    0-99
+    100-199
+    200-299
+    300-399
+    400-499
+    500-599<Close><End of Block>
+<TextBlock 51 w:66 h:11>
+    <Opcode 1 255>indietro
+    <Opcode 10 0>00-<Opcode 10 0>09
+    <Opcode 10 0>10-<Opcode 10 0>19
+    <Opcode 10 0>20-<Opcode 10 0>29
+    <Opcode 10 0>30-<Opcode 10 0>39
+    <Opcode 10 0>40-<Opcode 10 0>49
+    <Opcode 10 0>50-<Opcode 10 0>59
+    <Opcode 10 0>60-<Opcode 10 0>69
+    <Opcode 10 0>70-<Opcode 10 0>79
+    <Opcode 10 0>80-<Opcode 10 0>89
+    <Opcode 10 0>90-<Opcode 10 0>99<Close><End of Block>
+<TextBlock 52 w:58 h:11>
+    <Opcode 1 255>indietro
+    <Opcode 10 0><Opcode 10 1>0
+    <Opcode 10 0><Opcode 10 1>1
+    <Opcode 10 0><Opcode 10 1>2
+    <Opcode 10 0><Opcode 10 1>3
+    <Opcode 10 0><Opcode 10 1>4
+    <Opcode 10 0><Opcode 10 1>5
+    <Opcode 10 0><Opcode 10 1>6
+    <Opcode 10 0><Opcode 10 1>7
+    <Opcode 10 0><Opcode 10 1>8
+    <Opcode 10 0><Opcode 10 1>9<Close><End of Block>
+<TextBlock 53 w:50 h:7>
+<Opcode 1 255>numero SE è <Opcode 10 2>
+          un altro
+          successivo
+          prima
+          musica sì
+          musica no
+          indietro<Close><End of Block>
+<TextBlock 54 w:56 h:7>
+<Opcode 1 255>test facce
+    mostra  ora = <Opcode 10 0>
+    +1
+    -1
+    +10
+    -10
+    indietro<Close><End of Block>
+<TextBlock 55 w:40 h:4>
+<Opcode 1 255>  ora = <Opcode 10 0>
+    +1
+    -1
+    indietro<Close><End of Block>
+<TextBlock 56 w:26 h:5>
+<Opcode 1 255>gear
+      tutti su
+      tutti giù
+      ciascuno
+      fine<Close><End of Block>
+<TextBlock 57 w:22 h:11>
+<Opcode 1 255>C è il pg
+G è il gear
+      C C C
+      G C C
+      C G C
+      C C G
+      C G G
+      G C G
+      G G C
+      G G G
+      fine<Close><End of Block>

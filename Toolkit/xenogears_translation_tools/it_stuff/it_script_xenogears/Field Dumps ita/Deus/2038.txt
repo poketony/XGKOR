@@ -1,0 +1,26 @@
+<TextBlock 1 w:50 h:3>
+Fei
+"Sembra che questo
+condotto sia in
+contatto con l'esterno.<New>
+Probabilmente potremmo
+uscire passando da qui."<Close><End of Block>
+<TextBlock 2 w:46 h:4>
+Fei
+"Sembra che, in qualche
+modo, questo condotto sia
+in contatto con l'esterno.<New>
+Ma ora non abbiamo tempo
+per tornare indietro.<Delay 20> 
+Sbrighiamoci."<Close><End of Block>
+<TextBlock 3 w:40 h:4>
+Cosa vorreste?<Delay 20>
+    Oggetti per Personaggi
+    Parti per Gear
+    Nulla<Close><End of Block>
+<TextBlock 4 w:46 h:5>
+Cosa vorreste?<Delay 20>
+    Oggetti per Personaggi
+    Parti per Gear
+    Uscire
+    Nulla<Close><Close><End of Block>

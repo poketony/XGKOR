@@ -1,0 +1,145 @@
+<TextBlock 1 w:52 h:4>
+Elly
+"Ha parlato di
+sopravvissuti,<Delay 10> no?<New>
+Questo significa che
+la gente della Chiesa
+è<Delay 10>…<Delay 10>"<Close><End of Block>
+<TextBlock 2 w:54 h:4>
+Elly
+"Forza, Billy.<Delay 10>
+Ci saranno sopravvissuti.
+Aiutiamoli."<Close><End of Block>
+<TextBlock 3 w:42 h:4>
+Elly
+"Sì<Delay 10>…<Delay 10>
+Dovrebbe stare bene."<Close><End of Block>
+<TextBlock 4 w:50 h:2>
+Shitan
+"Elly, come sta Fei?"<Close><End of Block>
+<TextBlock 5 w:42 h:3>
+Shitan
+"Capisco.
+Allora, andiamo
+all'infermeria."<Close><End of Block>
+<TextBlock 6 w:54 h:4>
+Shitan
+"La gente della Chiesa 
+sta bene? Hanno parlato
+di superstiti, ma…"<Close><End of Block>
+<TextBlock 7 w:42 h:3>
+Shitan
+"Billy, torna in te.<Delay 10><New>
+Devono esserci persone
+che non possono fuggire.
+Andiamo ad aiutarle."<Close><End of Block>
+<TextBlock 8 w:40 h:3>
+Shitan
+"Elly, come sono le
+condizioni di Fei?"<Close><End of Block>
+<TextBlock 9 w:36 h:4>
+Shitan
+"Capisco.
+Allora, andiamo
+all'infermeria."<Close><End of Block>
+<TextBlock 10 w:54 h:4>
+Shitan
+"La gente della Chiesa 
+sta bene? Hanno parlaro
+di superstiti, ma…"<Close><End of Block>
+<TextBlock 11 w:50 h:3>
+Shitan
+"Billy, torna in te.<Delay 10><New>
+Devono esserci persone
+che non possono fuggire.
+Andiamo ad aiutarle."<Close><End of Block>
+<TextBlock 12 w:38 h:3>
+Bart
+"Elly, Fei ha finito
+il trattamento medico?"<Close><End of Block>
+<TextBlock 13 w:54 h:3>
+Bart
+"Sbrighiamoci!
+All'infermeria!"<Close><End of Block>
+<TextBlock 14 w:48 h:4>
+Bart
+"Stai attento, Billy.
+Questi tizi sono 
+assassini professionisti."<Close><End of Block>
+<TextBlock 15 w:42 h:4>
+Bart
+"Ehi, Billy, sbrigati!
+Dobbiamo aiutare i
+sopravvissuti. Andiamo!"<Close><End of Block>
+<TextBlock 16 w:26 h:3>
+Billy
+"Non muovetevi!<Delay 25>
+Chi siete?"<Close><End of Block>
+<TextBlock 17 w:42 h:3>
+Billy
+"Chi<Delay 10>…<Delay 10> sono queste
+persone?<Delay 40> Perché stanno
+attaccando la Chiesa?"<Close><End of Block>
+<TextBlock 18 w:36 h:3>
+Billy
+"Cosa!?<Delay 10>
+Allora, tutti<Delay 5>…<Delay 5>"<Close><End of Block>
+<TextBlock 19 w:50 h:3>
+Rico
+"Pare che abbiano finito
+di rattoppare Fei."<Close><End of Block>
+<TextBlock 20 w:36 h:3>
+Rico
+"Allora, andiamo
+nell'infermeria."<Close><End of Block>
+<TextBlock 21 w:28 h:3>
+Rico
+"Sono professionisti.
+Dei veri sicari."<Close><End of Block>
+<TextBlock 22 w:38 h:4>
+Rico
+"Forza.<Delay 10>
+Dobbiamo salvare
+i sopravvissuti."<Close><End of Block>
+<TextBlock 23 w:22 h:2>
+Billy
+"Da questa parte."<Close><End of Block>
+<TextBlock 24 w:54 h:3>
+Billy
+"L'infermeria è
+da questa parte.
+Andiamo."<Close><End of Block>
+<TextBlock 25 w:50 h:3>
+Billy
+"Presto!
+All'infermeria. 
+Da questa parte."<Close><End of Block>
+<TextBlock 26 w:52 h:1>
+Ci sono superstiti?<Close><End of Block>
+<TextBlock 27 w:14 h:1>
+Uagggh!<Close><End of Block>
+<TextBlock 28 w:56 h:4>
+Billy
+"<Perso1>, l'infermeria
+non è da quella parte.
+È di qua."<Close><End of Block>
+<TextBlock 29 w:44 h:3>
+Billy
+"Questa è la direzione
+sbagliata. Muoviamoci."<Close><End of Block>
+<TextBlock 30 w:56 h:4>
+Billy
+"Questo è il
+confessionale.<New>
+Se hai dei problemi, 
+ne possiamo parlare
+dopo."<Close><End of Block>
+<TextBlock 31 w:48 h:4>
+Billy
+"Questa è la biblioteca.
+<Perso1>, non è questo
+il momento di visitarla."<Space 1><Close><End of Block>
+<TextBlock 32 w:44 h:3>
+Billy
+"Questa è la mensa.
+<Delay 10>…<Delay 10> Hai fame?"<Close><Close><End of Block>

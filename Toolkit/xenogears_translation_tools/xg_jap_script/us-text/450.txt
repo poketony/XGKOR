@@ -1,0 +1,60 @@
+#### 1 ####
+!%#?&+!
+
+#### 2 ####
+Even Solaris' advanced
+science can't halt aging.{wait:0A}
+But they say the powerful
+have overcome it...{enter}
+They already have great
+descendants, what more do
+they want?{wait:0A}
+Don't you agree?
+
+#### 3 ####
+!%#?&+!
+
+#### 4 ####
+How was the Dedication?{wait:0A} 
+It must have been a lot
+better from the VIP seats.
+
+#### 5 ####
+Huh?{wait:0A} You're the kids
+I gave the tickets to!{wait:0A}
+You're still here? You're
+gonna miss the Dedication!
+
+#### 6 ####
+I came to see the Emperor,
+and strained my back...{wait:0A}
+They can cure almost
+anything but a bad back.{enter}
+And after putting up with
+all that to get tickets...
+
+#### 7 ####
+Hey, you kids.{wait:0A}
+Need tickets to the Dedication?{enter}
+Kids like you really should
+go see it!
+    Please
+    No thanks
+
+#### 8 ####
+{fast:FF}Received Dedication tickets.{clear:3C}
+
+#### 9 ####
+Forget the money. Just
+hurry or you'll miss it.{wait:0A}
+I'm going to watch it
+on Homevision. 
+
+#### 10 ####
+Weird kids...{wait:0A}
+Better take them before
+I change my mind.{wait:0A}
+
+#### 11 ####
+
+

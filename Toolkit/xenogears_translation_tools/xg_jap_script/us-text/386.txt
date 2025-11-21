@@ -1,0 +1,974 @@
+#### 1 ####
+Your Majesty,
+something dreadful
+has...!!
+
+#### 2 ####
+Fei
+"Your Majesty...{wait:14}
+You...
+The child...?"
+
+#### 3 ####
+Fei
+"522...!?{wait:14}
+Is that really
+possible...?"
+
+#### 4 ####
+Fei
+"I see...
+You're quite right.{enter}
+But, there's no guarantee
+that you aren't the same
+as Solaris, right?{enter}
+Even if Solaris were to be
+defeated, the people of the
+surface may just as well
+encounter a new dominator."
+
+#### 5 ####
+Fei
+"..."
+
+#### 6 ####
+Fei
+"Huh...!?"{clear:14}
+
+#### 7 ####
+Fei
+"What was that shaking
+all about...!?"
+
+#### 8 ####
+Fei
+"What!?"
+
+#### 9 ####
+Fei
+"Then should we go down
+with Maria?{enter}
+It's the Gebler, right?{wait:14}
+I'm still ticked off at
+them. I'll take'em on."
+
+#### 10 ####
+Fei
+"Then, let's get
+going, Maria."
+
+#### 11 ####
+Fei
+"Alright, I got it.{wait:14}
+Then one of us should
+stay behind."
+
+#### 12 ####
+Fei
+"Yeah...
+I know, doc.{wait:14}
+We'll go!{enter}
+We're already involved.{wait:14}
+And, we can't just stand
+by and watch these
+people die."
+
+#### 13 ####
+Fei
+"...?{wait:14}
+Going chu help...?{enter}
+{name:07:チュチュ}, what're
+you doing here?"
+
+#### 14 ####
+Fei
+"What am I gonna do...{wait:14}
+This isn't a game.{enter}
+It's dangerous, so go back
+to the Yggdrasil.{wait:14} Okay,
+{name:07:チュチュ}? Be a good girl."
+
+#### 15 ####
+Fei
+"Tch, alright...{wait:14} Don't come
+crying to me when things
+get outta hand."
+
+#### 16 ####
+Fei
+"I'll go too.{wait:14} I'm a little
+concerned if it's Elly."
+
+#### 17 ####
+Elly
+"Your Majesty...{wait:14}
+Y, you...?
+You're the...?"
+
+#### 18 ####
+Elly
+"...{wait:14}
+Yes...
+I understand."
+
+#### 19 ####
+Bart
+"Thank you for coming...?{wait:14}
+What is this?
+It's just a kid."
+
+#### 20 ####
+Bart
+"Tch.
+Something's not right.{enter}
+This fight for independence
+from a tyrant. The battle
+for freedom.{enter}
+I see, you make it seem
+like your intentions are
+noble.{enter}
+In reality though, maybe
+you're no different than
+Solaris?{enter}
+Anyway, I'm too busy with
+trying to take Aveh back
+from that bastard, Shakhan.{enter}
+Hate to break this to you,
+but I don't have the time!"
+
+#### 21 ####
+Bart
+"Uh..."
+
+#### 22 ####
+Rico
+"Hmph... Alright. Your
+story sounds quite noble.{enter}
+But, what is there to stop
+Shevat from taking up a
+dictatorship after Solaris
+falls?{enter}
+Those taking down the seat
+of power usually become...{enter}
+...infatuated with their
+own power and make its
+people suffer.
+
+#### 23 ####
+Rico
+"Hmm...{wait:14}
+I see, now.{enter}
+So you want to take down
+our common enemy first."
+
+#### 24 ####
+Billy
+"Your Majesty...{wait:14}
+Y, you...?"
+
+#### 25 ####
+{name:07:チュチュ}
+"Alright! {name:07:チュチュ}'s
+going chu help too!"
+
+#### 26 ####
+{name:07:チュチュ}
+"Uh hmm... {name:07:チュチュ}'s not
+a good girl.{wait:14} I'm in that
+dangerous age right now."
+
+#### 27 ####
+{name:07:チュチュ}
+"And {name:07:チュチュ}
+can help chu!{enter}
+I'm going with
+all of you.{wait:14}
+Yeah? Yeah?"
+
+#### 28 ####
+{name:07:チュチュ}
+"R, really?{wait:14}
+They're all here?{enter}
+Yaaay! I finally found
+them!! {name:07:チュチュ}'s friends.
+They're here!!"
+
+#### 29 ####
+{name:07:チュチュ}
+"Now, let's put
+everything into it.{enter}
+Everyone, we have chu
+give it our best shot!"
+
+#### 30 ####
+Maria
+"Heh, so they call you
+{name:07:チュチュ} also.{enter}
+Many of your friends live
+in this city.{wait:14} You want to
+go meet them later?"
+
+#### 31 ####
+Maria
+"Your Majesty, I will go
+with {name:13:ゼプツェン}!"
+
+#### 32 ####
+Maria
+"Fine...{wait:14}
+I understand."
+
+#### 33 ####
+Maria
+"Yes!{wait:14}
+{name:13:ゼプツェン} is ready to
+go any time!"
+
+#### 34 ####
+Zephyr
+"Break the Gate and open
+the path to Solaris.{enter}
+That will lead to the land
+dweller's freedom.{wait:14} Please,
+Fei."
+
+#### 35 ####
+Zephyr
+"Now go and get some
+rest for now."
+
+#### 36 ####
+Zephyr
+"As usual, be careful.{wait:14}
+And take care of Maria
+for us."
+
+#### 37 ####
+Zephyr
+"Have you decided?"{wait:0A}
+    My heart is set!
+    Let me think some more
+
+#### 38 ####
+Zephyr
+"Alright.{wait:14}
+Allow me to hear out
+your decision."
+
+#### 39 ####
+Zephyr
+"Take your time and think
+about it to your heart's
+content.{enter}
+To make sure there are no
+regrets."
+
+#### 40 ####
+Zephyr
+"Thank you for coming such
+a long way.{wait:14} I am the Queen
+of Shevat, Zephyr."
+
+#### 41 ####
+Zephyr
+"I may appear to be like
+this, but I am actually
+522 years old."
+
+#### 42 ####
+Zephyr
+"Yes...{enter}
+I and a select few of the
+vassals have undergone some
+special life-extending
+treatments.{enter}
+We were required to
+continue living...{wait:14} Until
+that final day approaches.{wait:14}
+Because of one man...{enter}
+To continue living...{wait:14}
+This is our atonement...
+for that tragedy
+500 years ago..."
+
+#### 43 ####
+Zephyr
+"Let us discontinue this
+discussion of the past.{enter}
+I've heard many things
+about all of you from
+Wiseman.{enter}
+Wiseman has been conducting
+his operations on the
+surface under my orders...{enter}
+...to keep an eye on that
+man's activities.{enter}
+Also, he was ordered to
+bring anyone from the
+surface who would be of
+help to us to Shevat...{enter}
+500 years ago we fought
+against Solaris for the
+freedom of the land
+dwellers.{enter}
+Even after that, we
+continue to resist Solaris
+although we are short of
+any real power."
+
+#### 44 ####
+Zephyr
+"Land dwellers, can you
+find it in your heart
+to help us?{enter}
+We must free mankind from
+the grasps of Solaris...{enter}
+We must gain true freedom
+and build a peacful world
+to live in."
+
+#### 45 ####
+Zephyr
+"Hmm...You are apparently
+nothing like the calm and
+quiet Roni Fatima, Bart.{enter}
+Yet, you are so similar to
+Roni at the same time...{wait:14}
+There is logic behind what
+you say, though."
+
+#### 46 ####
+Zephyr
+"However, I tell no lie...{enter}
+...when I say we are doing
+this purely for the future
+of the land dwellers.{enter}
+If you still cannot believe
+us, then defeat Solaris,
+gain back the independence
+of the land dwellers...{enter}
+...and then see if we still
+embrace the heavens
+together.{enter}
+The pretexts of the past,
+the discord between
+nations. Why be concerned
+at such a small scale?{enter}
+You must look at the bigger
+picture!"
+
+#### 47 ####
+Zephyr
+"However, I tell no lie...{enter}
+...when I say we are doing
+this purely for the future
+of the land dwellers.{enter}
+If you still cannot believe
+us, then defeat Solaris,
+gain back the independence
+of the land dwellers...{enter}
+...and then see if we still
+embrace the heavens
+together."
+
+#### 48 ####
+Zephyr
+"It should do you some good
+if you rest in the palace
+and think about it.{enter}
+You must think about what
+you ought to do.{enter}
+But remember, Solaris has
+been quite active lately.{wait:14}
+So we don't have much time
+for leisure."
+
+#### 49 ####
+Zephyr
+"As for you, Elly...
+Your family and friends...{enter}
+You must understand that
+they will all have to be
+your enemies.{enter}
+Without this clear
+understanding...{enter}
+...You may be placing your
+companions in a situation
+where it may cost them
+their lives..."
+
+#### 50 ####
+Zephyr
+"Very well then.{wait:14}
+Now go and get some rest."
+
+#### 51 ####
+Zephyr
+"What's the meaning of
+this?"
+
+#### 52 ####
+Yes! That is...{wait:14} We have an
+intruder in the dock area!
+The Gate generator has been
+destroyed...!
+
+#### 53 ####
+Zephyr
+"What's the damage report?"
+
+#### 54 ####
+Y, yes! Sub-systems are
+destroyed...{wait:14}
+Gate generation has
+dropped 70% from normal!{enter}
+We're devoting everything
+to fire fighting and
+repairs...{wait:14} It will still
+take some time!
+
+#### 55 ####
+Zephyr
+"What of the intruder?"
+
+#### 56 ####
+Yes, we believe it's just
+a lone Gebler soldier.{enter}
+It seems the individual
+has escaped to the number
+17 hangar!
+
+#### 57 ####
+Zephyr
+"Maria, wait!"
+
+#### 58 ####
+Zephyr
+"It is too dangerous
+to go by yourself."
+
+#### 59 ####
+Your Majesty, we have our
+hands full just trying to
+fight the fire on the
+shield generator.{enter}
+If someone doesn't do
+something, it's possible
+we'll have more losses...!
+
+#### 60 ####
+Zephyr
+"Maria, what can you do
+now when you don't even
+have {name:13:ゼプツェン}?"
+
+#### 61 ####
+Zephyr
+"...
+Is it fine with you, Fei?{enter}
+Please take care of Maria.{wait:14}
+And be careful out there."
+
+#### 62 ####
+Who will you leave here?{wait:14}
+    Leave {name:81:unknown}
+    Leave {name:82:unknown}
+
+#### 63 ####
+Maria has joined the party!
+
+#### 64 ####
+Zephyr
+"Fei..."
+
+#### 65 ####
+Zephyr
+"Allow me to put it
+on screen."
+
+#### 66 ####
+We are finally able to
+locate and see Solaris
+after destroying the 3
+Gates on the surface.{enter}
+However, unless we destroy
+the final main generator on
+the Solaris homeland...{enter}
+...we cannot completely
+wipeout their Gate.
+
+#### 67 ####
+It seems the intruder has
+escaped to the hangar bay.{wait:14}
+If something happens to
+{name:13:ゼプツェン}...!
+
+#### 68 ####
+Umm, this may be asking for
+too much, but would it be
+possible to have one of you
+stay behind with the Queen?
+
+#### 69 ####
+We do not have the combat
+experience and...{wait:14}if
+something ever happened to
+the Queen...
+
+#### 70 ####
+Maria
+"Was that enemy...!?"
+
+#### 71 ####
+Maria
+"Number 17 hangar bay!?{wait:14}
+{name:13:ゼプツェン}...!!"
+
+#### 72 ####
+Maria
+"But...
+We can't just let
+the spy be...!"
+
+#### 73 ####
+Maria
+"I'll be fine.{wait:14}
+I can go it alone...!!"
+
+#### 74 ####
+Maria
+"...!{wait:14}
+But..."
+
+#### 75 ####
+Maria
+"Then, let's all go
+together."
+
+#### 76 ####
+Elly
+"Shall I come along?"{wait:14}
+    Change
+    Don't change
+
+#### 77 ####
+Elly has joined the party!
+
+#### 78 ####
+Elly
+"Yes...!
+We'll do what we can to
+protect the people here!"
+
+#### 79 ####
+Elly
+"Well...
+In all the bustle,
+she somehow tagged along."
+
+#### 80 ####
+Elly
+"Yes...{wait:14}
+I can guide you...
+through Solaris..."
+
+#### 81 ####
+Elly
+"What are you...?{wait:14}
+Wait, I didn't mean it
+like..."
+
+#### 82 ####
+Elly
+"...{wait:1E}
+Yes..."
+
+#### 83 ####
+Bart
+"You want me to come?"{wait:14}
+    Change
+    Don't change
+
+#### 84 ####
+Bart has joined the party!
+
+#### 85 ####
+Bart
+"I don't like the idea of
+working for free...{enter}
+...but I don't like the
+idea of turning tail and
+running from them even
+more!{enter}
+Let's do it!{wait:14} It doesn't
+matter who they are. I'll
+take'em all down in my
+{name:0F:ブリガンディア}!!"
+
+#### 86 ####
+Billy
+"Should I come along?"{wait:14}
+    Change
+    Don't change
+
+#### 87 ####
+Billy has joined the party!
+
+#### 88 ####
+Billy
+"I will go too!{wait:14} The enemy
+was able to get in because
+they let the Yggdrasil in.{enter}
+We can't allow the people
+of this country to be in
+danger because of us..."
+
+#### 89 ####
+Billy
+"Shut up!{wait:14} Dad, could you
+not say anything!?"
+
+#### 90 ####
+Rico
+"You want me to go?"{wait:14}
+    Change
+    Don't change
+
+#### 91 ####
+Rico has joined the party!
+
+#### 92 ####
+Rico
+"Tch. Since the day I met
+you all, there's been
+nothing but trouble...{enter}
+But I've come this far with
+you all. I guess there's no
+point in bitching about it.{enter}
+I'll show them what happens
+when they tick the great
+Rico off."
+
+#### 93 ####
+Citan
+"Should I come along?"{wait:14}
+    Change
+    Don't change
+
+#### 94 ####
+Citan has joined the party!
+
+#### 95 ####
+Citan
+"The Solaris Gear units are
+on a high speed...{enter}
+...interception course with
+Shevat.{enter}
+It would be reasonable to
+believe that their main
+targets are going to be the
+4 Gate generators.{enter}
+They are probably planning
+on finishing us off since
+Dominia's demolition has
+weakened the Gate output.{enter}
+We have scrambled our
+interceptor units, but I
+do not know how they will
+fare...{enter}
+The people of Shevat are
+not accustomed to Gear
+tactics.{enter}
+I want to avoid unnecessary
+sacrifices if at all
+possible."
+
+#### 96 ####
+Citan
+"Here is the breakdown of
+the enemy Gear units...{enter}
+As I have explained before,
+4 separate units are each
+headed for their respective
+generators.{enter}
+From the information
+collected in Shevat...{enter}
+...we have a good idea
+of the capabilities and
+composition of the Gear
+units...{enter}
+However, there is one giant
+Gear that they are holding
+back that we have no
+information about."
+
+#### 97 ####
+Citan
+"Maria, this is where you
+and {name:13:ゼプツェン} come in.{enter}
+Now that the Gate is
+weakened, we can use
+{name:13:ゼプツェン}'s heavy
+particle cannon...{enter}
+...to distort space
+and neutralize the Gate
+for a brief moment!{enter}
+Upon penetrating into
+Solaris, it would be best
+to move about...{enter}
+...in small groups so that
+we do not attract
+attention.{enter}
+Well, if possible I would
+like to..."
+
+#### 98 ####
+Citan
+"Understood!{enter}
+Then Elly, Fei, and I will
+move about together.{enter}
+The rest will form a
+separate group to sneak in.{enter}
+Maria, it looks like you
+and {name:13:ゼプツェン} will wait
+outside on standby."
+
+#### 99 ####
+Citan
+"Well, let us break up
+for now.{enter}
+Once you are all ready,
+we should all meet here
+before we take off..."
+
+#### 100 ####
+Are you prepped and ready?
+    Let's go!
+    Not yet
+
+#### 101 ####
+Citan
+"Good.{wait:14}
+Then we are off."
+
+#### 102 ####
+Citan
+"We are depending on you,
+Maria.{enter}
+Please transport us to
+Solaris on the
+{name:13:ゼプツェン}."
+
+#### 103 ####
+Citan
+"Please hurry.{wait:14}
+We are taking off the
+moment you are ready."
+
+#### 104 ####
+Citan
+"I am sorry.{enter}
+I did not want to say
+anything until I was sure.{enter}
+I was on a secret mission
+by orders of Emperor Cain
+to monitor Fei.{enter}
+He ordered me to determine
+whether Fei would be a
+threat to the world or not.{enter}
+'The Contact'...
+That is what the Emperor
+calls Fei..."
+
+#### 105 ####
+Citan
+"The emotional portion of
+Fei's present personality
+was sealed up by...{enter}
+...his father through
+some method...{enter}
+And now with the cleared
+foundation of Id's
+personality... In computer
+terms...{enter}
+...it is like constructing
+a mock personality on top
+of the compatible portion
+of the OS.{enter}
+That is the reason Fei has
+no memory of his past.{enter}
+Those 10 or so years of
+memories are under the
+supervision of Id.{enter}
+As long as Id does not
+willingly hand over the
+memories...{enter}
+There is no way for Fei
+to know since he did not
+even exist before the
+time Id was sealed up.{enter}
+The present Fei's
+personality is an
+underdeveloped one which
+was built upon within... {enter}
+...the 3 years of living in
+Lahan, studying and
+acquiring other people's
+reactions.{enter}
+Hence, he does not know how
+to fully cope with sudden
+or emotional situations.{enter}
+Elly, you are the one who
+has spent the most time
+with Fei so I would assume
+you would understand this.{enter}
+Were there not times when
+he would be psychologically
+unstable?{enter}
+For example, he would be
+manicly depressive and then
+have sudden fits of
+rage..."
+
+#### 106 ####
+Citan
+"That is not what I am
+saying. The present Fei
+is one single personality.{enter}
+It is just that structure-
+wise, his personality was
+constructed on top of
+Id's...{enter}
+...hence placing Fei at a
+lower hierarchy.{enter}
+That is why when Id is
+active, Fei has no
+recollection of it."
+
+#### 107 ####
+Citan
+"Yes, if it were only Id
+and Fei. But that does not
+seem to be the case.{enter}
+Id only manifests when
+Fei's mental energy is in
+a weakened state.{enter}
+It is a mystery in itself
+that the lower level
+personality of Fei...{enter}
+...has any control over
+the upper level
+personality of Id.{enter}
+It is obvious that there
+exists a third personality.
+Id calls this existence
+the coward.{enter}
+In my observation, this
+coward may be the
+fundamental personality
+of Fei.{enter}
+In other words, Id's
+manifestation is not
+controlled by Fei...{enter}
+...but is controlled by
+the personality known
+as the coward."
+
+#### 108 ####
+Citan
+"At the same time Id 
+resents this coward, he
+also obviously fears it.{enter}
+From a certain point of
+view, this coward is the
+one assisting in keeping
+the present Fei in control.{enter}
+I do not know the reason
+why this third personality,
+excuse me...{enter}
+...Fei's fundamental
+personality does not come
+out...{enter}
+If this one awakens, it
+will become one with Id.{enter}
+...In other words, there
+is a possibility that the
+complete original
+personality...{enter}
+...may be restored."
+
+#### 109 ####
+Citan
+"Probably. But I do not
+know how to awaken it.{enter}
+Before I had the
+opportunity, Id disappeared
+and he has been like that
+since.{enter}
+Basically, as long as
+nothing happens to Fei that
+would challenge his
+existence...{enter}
+...Fei can be himself.{enter}
+But his surroundings do
+not allow him that
+opportunity.{enter}
+It would be best for him
+to live in a place that
+is peaceful..."
+
+#### 110 ####
+Jessie
+"Go get'em guys."
+
+#### 111 ####
+Jessie
+"Yeah, right on!
+Go for it young'uns!
+We're depending on you.{enter}
+Especially since my life
+also depends on it.
+I have no intentions of
+kickin' the bucket here."
+
+#### 112 ####
+Jessie
+"Alright alright, I
+know."
+
+#### 113 ####
+Jessie
+"Why can't you be
+more nicer?"
+
+#### 114 ####
+Jessie
+"An unidentified giant
+Gear...?{wait:14}
+It can't be..."
+
+#### 115 ####
+Jessie
+"Then his present
+personality is but only a
+temporary one?"
+
+#### 116 ####
+Jessie
+"Then that means he might
+eventually be overtaken
+by Id?"
+
+#### 117 ####
+Jessie
+"...Then that means,
+what?"
+
+#### 118 ####
+Jessie
+"Is that for sure?"
+
+#### 119 ####
+Maria
+"Your Majesty...!"{clear:1E}
+

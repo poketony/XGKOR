@@ -1,0 +1,287 @@
+<TextBlock 1 w:18 h:2>
+…<Delay 20> Fei<Delay 10>
+…<Delay 20> Fei<Delay 10>…<Space 1><Close><End of Block>
+<TextBlock 2 w:40 h:2>
+Chi è?<Delay 10> Chi è
+che mi chiama<Delay 5>…?<Close><End of Block>
+<TextBlock 3 w:30 h:1>
+Io<Delay 10>…<Delay 10> sono<Delay 10>…<Delay 10> Har<Delay 10>…<Space 3><Close><End of Block>
+<TextBlock 4 w:44 h:1>
+Cos'è quella luce…?<Close><End of Block>
+<TextBlock 5 w:46 h:4>
+Io<Delay 10>…<Delay 10> vivo nello Zohar.<New>
+Io sono l'alfa e l'omega,
+il principio e la fine,
+il primo e l'ultimo.<Close><End of Block>
+<TextBlock 6 w:14 h:1>
+<Delay 5>…<Delay 5> Dio?<Close><End of Block>
+<TextBlock 7 w:62 h:6>
+Dio<Delay 10>…<Delay 10>
+Alcuni potrebbero riferirsi
+a me in questa maniera. Da un
+certo punto di vista è giusto
+considerarmi in quel modo.<New>
+Ma, allo stesso tempo, io
+non lo sono. Io<Delay 10>…<Delay 10> sono anche
+una parte di te.<Close><End of Block>
+<TextBlock 8 w:26 h:1>
+Una parte di me?<Close><End of Block>
+<TextBlock 9 w:58 h:6>
+Io prendo forma a seconda di
+come le persone mi osservino.
+In realtà, tu stai parlando
+ad una versione virtuale di
+me che hai creato tu stesso…
+Io sono la 'percezione' che
+tu hai di me.<Close><End of Block>
+<TextBlock 10 w:46 h:3>
+Non capisco quello di
+cui stai parlando. Chi…
+o cosa sei tu?<Close><End of Block>
+<TextBlock 11 w:28 h:2>
+In una parola<Delay 10>…<Delay 10>
+<Delay 10>…<Delay 10> un'ESISTENZA.<Close><End of Block>
+<TextBlock 12 w:20 h:1>
+Un'Esistenza?<Close><End of Block>
+<TextBlock 13 w:62 h:8>
+In realtà, non posseggo una
+forma fisica. Io sono una
+'Esistenza' proveniente da
+una dimensione superiore.
+Un luogo che tu non puoi
+percepire…<New>
+Ma, parlando in termini a te
+comprensibili, è un mondo dove
+tutto è sotto forma di onde…<New>
+Esso è la fonte di questo
+universo quadridimensionale…<Delay 5>
+Il luogo ove il tempo e lo
+spazio sono controllati…<Delay 5>
+Il vuoto fluttuante<Delay 10>…<Delay 10>
+L' 'Esistenza Ondulatoria'.<Close><End of Block>
+<TextBlock 14 w:64 h:2>
+E cos'ha a che fare con me<Delay 10>…<Delay 10>
+una tale 'Esistenza'…?<Close><End of Block>
+<TextBlock 15 w:62 h:7>
+Molto tempo fa, fu creato un
+'modificatore', detto anche
+motore pseudoperpetuo o ad
+energia infinita. Quel motore
+fu chiamato 'Zohar'.<New>
+Quel reattore fu creato da un
+antichissimo popolo, proveniente
+da un altro pianeta, per ottenere
+ciò che è considerata l'energia
+definitiva possibile in questo
+universo quadridimensionale.<New>
+Alla fine, quella gente utilizzò
+quello stesso motore per creare
+l'arma d'invasione interplanetaria
+definitiva… 'Deus'…
+Lo Zohar veniva usato come la
+sua fonte d'energia principale.<New>
+Ma accadde l'inatteso…
+Durante gli esperimenti di
+connessione dello Zohar con
+l'appena completato Deus, il
+motore iniziò a verificare
+l'esistenza di fenomeni ad
+infinita energia potenziale…<New>
+Esigendo energia, il motore fece
+comunicare questa dimensione con
+lo spazio dimensionale superiore.
+Come risultato, quel reattore
+si 'unì', o si 'sincronizzò' con
+l'Esistenza Ondulatoria presente
+in quella dimensione<Delay 5>…<Delay 10> con ME.<New>
+Io 'discesi' dal punto di
+contatto creato dalla macchina,
+il 'Cammino delle Sefirot',
+ovvero il luogo ove ti trovi
+ora, e mi 'reincarnai' nel
+mondo quadridimensionale.<New>
+Dopo il mio 'Avvento' nel mondo
+quadridimensionale, per potermi
+stabilizzare in questo luogo,
+dovetti cambiare la mia forma,
+o meglio materializzarmi, ed
+inserirmi nel motore del
+'modificatore'…<New>
+In altre parole, divenni
+prigioniero dello 'Zohar'… la
+'prigione dell'esistenza carnale'.<New>
+Sin dal momento nel quale fui
+imprigionato nello Zohar, ho
+sempre voluto far ritorno alla
+mia dimensione… E giunsi ad
+una conclusione.<New>
+Dovevo invertire il processo
+tramite il quale ero giunto
+qui. Devo essere liberato
+da colui che ha infuso dentro
+di me una caratteristica
+particolare di questa
+dimensione… il 'volere'…
+Ovvero… tu.<Close><End of Block>
+<TextBlock 16 w:38 h:2>
+Io?
+Una caratteristica
+particolare??<Close><End of Block>
+<TextBlock 17 w:62 h:5>
+Sì.
+Mi fu data da te, il Contatto,
+una speciale caratteristica
+propria di un essere umano,
+mentre tu mi osservavi…<New>
+Tu mi desti<Delay 10>…<Delay 10> il volere
+di una madre.<Close><End of Block>
+<TextBlock 18 w:32 h:1>
+Il volere di una madre?<Close><End of Block>
+<TextBlock 19 w:50 h:4>
+Sono sicuro che te lo ricordi.
+Dopo che fui disceso, entrasti
+in contatto con il motore del
+modificatore, lo 'Zohar'.<Close><End of Block>
+<TextBlock 20 w:4 h:1>
+!!<Close><End of Block>
+<TextBlock 21 w:62 h:6>
+Come contatto, essendo soltanto
+un bambino, caratterizzasti
+la mia esistenza con il tuo
+desiderio di tornare da tua
+madre. Dunque, iniziai a
+preparare il volere della madre…
+Quel volere è Elhaym.<Close><End of Block>
+<TextBlock 22 w:44 h:2>
+Io ho influenzato la
+personalità di Elly?<Close><End of Block>
+<TextBlock 23 w:60 h:9>
+Sì.
+Il mio volere fu incarnato per
+mezzo di un bio-elaboratore che
+era vitale per Deus.
+Dopo essersi combinato con me,
+il bio-elaboratore sviluppò le
+sue funzioni, e quell'impianto
+generò un elemento centrale.
+Vale a dire, lei.<New>
+Io fui scisso in più parti
+dal tuo contatto. La mia
+forma fisica e carnale rimase
+nello Zohar, mentre il mio
+volere arrivò ad Elhaym ed
+il mio potere a te.
+È per questo che ho aspettato
+così tanto tempo per unirmi a
+te. E ora, l'unione s'è compiuta.<New>
+L'unico desiderio che mi rimane
+è di distruggere questa 'prigione
+dell'esistenza carnale'…
+E, per poterlo fare, devo
+diventare perfetto unendomi
+sia ad Elhaym che all'altra
+mia parte fisica separatasi,
+'Deus'.<New>
+L'unico modo per ritornare alla
+mia dimensione originaria è di
+distruggere questo corpo fisico.
+Nel mondo quadridimensionale, lo
+Zohar è perfetto, dunque io, per
+poter distruggere lo Zohar, ho
+bisogno della forza che ti fu
+assegnata…<New>
+Lo Zohar può essere distrutto
+solo per mano del 'Contatto'.<Close><End of Block>
+<TextBlock 24 w:52 h:3>
+Ed Elly? Se lo Zohar verrà
+distrutto, cosa succederà
+ad Elly!?<Close><End of Block>
+<TextBlock 25 w:56 h:8>
+Lo Zohar e Deus sono una cosa
+sola. Ella è legata al sistema
+da una volontà esterna avente
+come scopo quella d'unirsi
+e divenire uno con me.
+Per poterla liberare, è necessario
+distruggere quello stesso sistema
+che funge da arma, cioè Deus…<New>
+Tuttavia, essendo stato creato
+come arma, il Sistema Deus cerca
+d'unificarsi con voi per un
+motivo differente dal mio.<New>
+In origine, la sua liberazione
+sarebbe dovuta essere eseguita
+per ritornare alla dimensione
+superiore… Ma… io sono legato
+al sistema tanto quanto lei,
+perciò non sono capace di farlo.<New>
+Tu sei l'unico che può liberarla
+dall'incantesimo. Proprio come
+io e Deus siamo inseparabili,
+anche voi due lo siete.<Close><End of Block>
+<TextBlock 26 w:42 h:4>
+<Delay 10>…<Delay 10> Va bene.<Delay 10>
+Distruggerò Deus ed il
+Modificatore Zohar.<Delay 10>
+E…<Delay 10> salverò Elly.<Close><End of Block>
+<TextBlock 27 w:60 h:5>
+Nella tua vita, hai subito tanto
+dolore e tanti sacrifici. È una
+vera tragedia…<New>
+Il contatto tra noi due, ed il
+derivato trasferimento di potere
+e di volere tra me e te, assai
+probabilmente ha giocato un
+ruolo nella divisione della tua
+personalità.<Close><End of Block>
+<TextBlock 28 w:54 h:4>
+Non sono d'accordo.
+Non posso incolpare niente e
+nessuno, se non me stesso.<New>
+Non importa ciò che potrebbe
+essere accaduto in passato,
+col passare del tempo, le
+cause divengono sempre più
+lontane ed ininfluenti.<New>
+È un problema che viene da
+dentro me stesso, che devo
+risolvere da solo…<Close><End of Block>
+<TextBlock 29 w:56 h:6>
+Capisco…<New>
+Dunque sei riuscito ad
+accettare quelle tragedie,
+a tollerare tutte quelle
+cose, a comprendere ed a
+trovare il tuo posto in
+questo mondo.<New>
+Se sei riuscito a fare
+tutte queste cose, sono
+sicuro che riuscirai in
+ciò che ora t'attende.<Close><End of Block>
+<TextBlock 30 w:54 h:3>
+Per liberarci tutti<Delay 10>…<Delay 10>
+Utilizza<Delay 10>…<Delay 20>…<Delay 10> Xe<Delay 10>…<Delay 10> no<Delay 10>…<Delay 10> gears<Delay 10>…<Space 5>
+<Delay 10>…<Delay 10> dis<Delay 10>…<Delay 10> truggi<Delay 10>… lo<Delay 10> Zohar<Delay 10>…<Delay 10><Close><End of Block>
+<TextBlock 31 w:38 h:3>
+Aspetta!
+Ci sono altre cose
+che devo chiederti…<Close><End of Block>
+<TextBlock 32 w:56 h:2>
+Il Sistema<Delay 10>…<Delay 10> si sta destando<Delay 10>…<Delay 10><Space 2>
+Chiedile<Delay 10>…<Delay 10> dopo<Delay 10>…<Delay 10> a lei<Delay 10>…<Close><End of Block>
+<TextBlock 33 w:30 h:3>
+Salvi la partita?<Delay 30>
+    Salva
+    Non salvare<Delay 15><Close><End of Block>
+<TextBlock 34 w:32 h:3>
+Riprendi il gioco?<Delay 30>
+    Aspetta
+    Riprendi<Delay 15><Close><End of Block>
+<TextBlock 35 w:36 h:3>
+    Apri il menu
+    Cambia gruppo
+    Riprendi il gioco<Delay 15><Close><End of Block>
+<TextBlock 36 w:32 h:3>
+Riprendi il gioco?<Delay 30>
+    Aspetta
+    Riprendi<Delay 15><Close><Close><End of Block>

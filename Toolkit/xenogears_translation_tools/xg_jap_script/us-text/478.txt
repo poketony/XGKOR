@@ -1,0 +1,75 @@
+#### 1 ####
+Must be controlled by
+that adjacent panel
+
+#### 2 ####
+    Up?
+    No
+
+#### 3 ####
+The elevator is locked.
+
+#### 4 ####
+G, goo...{wait:14} Good day...{clear:1E}
+
+#### 5 ####
+He...{wait:1E}help{wait:1E}...me...{wait:14}
+My body...{clear:1E}
+
+#### 6 ####
+Uh... my mind...min?{wait:14}
+M, min mi mi m...{clear:1E}
+
+#### 7 ####
+Mi...{wait:1E}my dog, please...
+take care of him...{clear:1E}
+
+#### 8 ####
+Yo!
+Long time.{clear:28}
+
+#### 9 ####
+It's me.
+The one who owned that
+dog in Kislev...
+
+#### 10 ####
+...I may look like this, 
+but the dog's doing fine...
+
+#### 11 ####
+...Please, don't think
+about letting me out...{enter}
+...even though I'm still
+conscious...eventually...
+I'll...
+
+#### 12 ####
+Y...you opened it...{wait:1E}
+I told...{wait:28}
+you not to open it!!{clear:14}
+
+#### 13 ####
+You have too many
+{str}.
+
+#### 14 ####
+ 
+ Received {str}.
+
+#### 15 ####
+You have too many
+{str}.
+
+#### 16 ####
+ 
+ Received {str}.
+
+#### 17 ####
+You have too many
+{str}.
+
+#### 18 ####
+ 
+ Received {str}.
+

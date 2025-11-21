@@ -1,0 +1,116 @@
+#### 1 ####
+Fei
+"Uhhhh..."
+
+#### 2 ####
+Grahf
+"I guess that's all
+you can take for now.{wait:1E}
+Are you frustrated?{enter}
+But that is{wait:05}...{wait:05}
+'only natural'.{wait:0A}
+After all, you are
+imperfect."
+
+#### 3 ####
+Fei
+"Imperfect!?"
+
+#### 4 ####
+Grahf
+"Yes.
+You are lacking now.{enter}
+The absence of wrath
+is an impediment to
+you utilizing your
+true strength!"
+
+#### 5 ####
+Fei
+"W, wrath...?"
+
+#### 6 ####
+Grahf
+"The drive to massacre and
+annihilate, the compulsion
+to destroy your opponent...{enter}
+Such wrath is power for the
+soul! By eliminating your
+foe, you attain your first
+sublimation of that drive.{enter}
+It is this very sublimation
+that draws out the hidden
+powers within oneself!{wait:14}
+But,{wait:05} clinging to reason{wait:05}...{enter}
+...{wait:05}suppressing your wrath
+and desire, makes releasing
+your true power a dream
+within a dream for you.{enter}
+You already know this...
+When wrath appeared in
+your heart, the machine
+responded, did it not?{enter}
+What drew out such power
+from your machine was
+truly the drive of your
+soul{wait:05}...{wait:05} It was your 'Id'.{enter}
+The sign of the purpose
+you've been seeking{wait:05}...{wait:05}
+The mark of a natural
+born assassin!"
+
+#### 7 ####
+Fei
+"You're wrong!{wait:14}
+That's absolutely
+untrue!"
+
+#### 8 ####
+Fei
+"I, I am not 'Id'!
+I..."
+
+#### 9 ####
+Grahf
+"The time has come...{enter}
+I'll take your soul,
+and draw its power
+out to the limit!"
+
+#### 10 ####
+Krelian
+"Enough!"
+
+#### 11 ####
+Grahf
+"Huh?
+What are you
+stopping me for!?"
+
+#### 12 ####
+Krelian
+"He is bait.{enter}
+If you kill the bait,
+the precious bird we
+wish to capture will
+fly away.{enter}
+You know{wait:05}...{wait:05}a very
+important bird{wait:05}...{wait:05}
+'needed to fulfill my
+earnest desire'{wait:05}...{enter}
+You understand, don't
+you,{wait:0A} Lacan{wait:0A}...?"
+
+#### 13 ####
+Grahf
+"...{wait:1E}
+Suit yourself."
+
+#### 14 ####
+Krelian
+"We shall crucify them.{enter}
+In the land of Golgoda,
+to the west of here.
+Collect all the broken
+Gears!"
+

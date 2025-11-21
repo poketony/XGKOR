@@ -1,0 +1,44 @@
+#### 1 ####
+"Fe¡«i!"
+
+#### 2 ####
+Citan
+"Fei! I have been
+searching for you!
+Here, You can use this!"
+
+#### 3 ####
+Citan
+"Fei...
+Let us pray that
+that won't happen!"
+
+#### 4 ####
+Fei
+"Elly!
+Are you alright?!{enter}
+Darn!
+She's unconscious!"
+
+#### 5 ####
+Fei
+"Hey! Hold on a second!
+To tell me I can use
+it is one thing..."
+
+#### 6 ####
+Fei
+"Elly...{wait:0F}
+Damn it!"
+
+#### 7 ####
+Fei
+"Doc.
+I have a favor to ask!{enter}
+I will defeat this
+monster!{enter}
+But, if it looks like
+I'll go out of control
+like last time,
+then shoot me!"
+

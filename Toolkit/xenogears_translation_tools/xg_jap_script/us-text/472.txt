@@ -1,0 +1,16 @@
+#### 1 ####
+It's probably controlled
+by that adjacent panel.
+
+#### 2 ####
+It's probably controlled
+by that adjacent panel.
+
+#### 3 ####
+    Down?
+    No
+
+#### 4 ####
+    Down?
+    No
+

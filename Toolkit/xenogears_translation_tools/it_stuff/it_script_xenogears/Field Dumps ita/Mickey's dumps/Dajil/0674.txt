@@ -1,0 +1,17 @@
+<TextBlock 1 w:40 h:4>
+Chissà chi ha costruito
+tutte queste rovine?<New>
+Alcuni dicono sia stata 
+un'antica civiltà che ha
+dominato questa terra
+molto tempo fa…<New>
+Ma dopo aver studiato
+i risultati dei miei
+test geologici, ho
+molti dubbi.<Close><End of Block>
+<TextBlock 2 w:50 h:2>
+Il mio maritino sembra così
+intelligente quando si tratta
+delle sue teorie sulle rovine!<New>
+Perché non lasciamo che
+se ne occupi la Chiesa?<Close><Close><End of Block>

@@ -1,0 +1,22 @@
+<TextBlock 1 w:48 h:4>
+Fei
+"È una foto davvero
+vecchia.<Delay 20> È la foto di
+una famiglia?<New>
+I genitori, una ragazza
+ed un fratello più giovane.<Delay 20>
+Tutti sembrano
+sorridere felicemente."<Close><End of Block>
+<TextBlock 2 w:52 h:4>
+Fei
+"È una vecchia foto…<New>
+Sembra la foto della
+famiglia della Regina
+Zefiro.<New>
+Dei bei genitori e…<Delay 20>
+È suo fratello quello
+vicino alla Regina…?<Delay 20>
+Tutti stanno sorridendo.<New>
+Solo la Regina non è
+cambiata…<Delay 20> per 500
+anni…"<Close><Close><End of Block>

@@ -1,0 +1,94 @@
+#### 1 ####
+Bart
+"Huh! What an idiot.
+Trying to scare us with
+all show and no power,{enter}
+eh, Fei!"
+
+#### 2 ####
+Bart
+"Anyway...looks like
+that's the exit.{enter}
+So, it'll soon be adios
+to this old cavern!"
+
+#### 3 ####
+Bart
+"What the...!?"
+
+#### 4 ####
+Bart
+"Woooh! What
+the hell did
+you just do?"
+
+#### 5 ####
+Bart
+"Hey!!"
+
+#### 6 ####
+Bart
+"What do you mean
+'huh?'!? What in blazes
+was that?{enter}
+... Don't you know?"
+
+#### 7 ####
+Bart
+"That was incredible!
+You just blew that huge
+thing to pieces!{enter}
+Why didn't you use
+that technique a bit
+earlier?"
+
+#### 8 ####
+Bart
+"Hmm. Oh well, I guess
+that doesn't matter.{enter}
+Anyway...
+thanks for helping
+me out!"
+
+#### 9 ####
+Bart
+"So, now that we've got
+rid of that nuisance,{enter}
+let's get out of here,
+eh, Fei!"
+
+#### 10 ####
+"............"
+
+#### 11 ####
+Fei
+"!?"
+
+#### 12 ####
+Fei
+"Get out of the
+way, Bart!!"
+
+#### 13 ####
+Fei
+"......"
+
+#### 14 ####
+Fei
+"......huh?"
+
+#### 15 ####
+Fei
+"...No,{wait:1E} I{wait:1E} err,{wait:1E}
+......I don't know."
+
+#### 16 ####
+Fei
+"... I don't know that
+technique... I have no
+idea how I even did it!"
+
+#### 17 ####
+Fei
+"........."
+

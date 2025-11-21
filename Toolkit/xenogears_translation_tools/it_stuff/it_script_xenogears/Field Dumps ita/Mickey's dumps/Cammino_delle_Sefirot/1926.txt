@@ -1,0 +1,27 @@
+<TextBlock 1 w:42 h:2>
+Shitan
+"Cos'è questo…?"<Close><End of Block>
+<TextBlock 2 w:24 h:2>
+Bart
+"Ma cosa…!?"<Close><End of Block>
+<TextBlock 3 w:34 h:2>
+Billy
+"Cos'è questo?"<Close><End of Block>
+<TextBlock 4 w:44 h:2>
+Rico
+"Che diavolo è questo?"<Close><End of Block>
+<TextBlock 5 w:30 h:2>
+Esmeralda
+"E questo…?"<Close><End of Block>
+<TextBlock 6 w:18 h:2>
+<Chu-Chu>
+"!?"<Close><End of Block>
+<TextBlock 7 w:40 h:2>
+Maria
+"Cos'è questo…?"<Close><End of Block>
+<TextBlock 8 w:42 h:2>
+Shitan
+"Cos'è questo…?"<Close><End of Block>
+<TextBlock 9 w:30 h:2>
+Esmeralda
+"Ma cosa…?"<Close><Close><End of Block>

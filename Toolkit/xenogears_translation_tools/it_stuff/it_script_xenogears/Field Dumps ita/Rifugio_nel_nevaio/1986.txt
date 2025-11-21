@@ -1,0 +1,46 @@
+<TextBlock 1 w:64 h:5>
+Io ho un figlio stupido,
+sai? Una volta, per vivere
+lui pescava. Ma un giorno,
+disse di aver visto una
+città di sirene sul fondo
+marino…<New>
+Da allora non è più andato
+al mare, ed è diventato un
+marinaio d'acqua dolce…<Delay 20>
+Non l'abbiamo più visto
+da qualche anno, e non so
+cosa stia facendo ora.<Close><End of Block>
+<TextBlock 2 w:60 h:5>
+Ehi, anche tu hai una
+pietra rara! È una
+lacrima di sirena…?<Delay 20>
+Sono difficili da trovare.<New>
+E tu, ragazza… Hai gli occhi
+più belli che io abbia mai
+visto.<Delay 20> Sono come un tesoro
+dell'oceano, o qualcosa
+del genere… Prestami quella
+pietra per un po'.<Close><End of Block>
+<TextBlock 3 w:42 h:3>
+Molto tempo fa, ero molto
+famosa come creatrice di
+gioielli.<Delay 20> Vedi, è pronta.<Close><End of Block>
+<TextBlock 4 w:58 h:3>
+Puoi prenderla. Buona fortuna.
+Adesso, ama… Però non farti
+ingannare da qualche strano
+uomo!<Close><End of Block>
+<TextBlock 5 w:26 h:2>
+  Ricevi un
+Anello Sirena!<Close><End of Block>
+<TextBlock 6 w:50 h:4>
+Ehi, anche tu hai una
+pietra rara! È una
+lacrima di sirena…?<Delay 20>
+Sono difficili da trovare.<New>
+Mio figlio ne indossava
+una come portafortuna.<Delay 20> Mi
+chiedo se ci sia una
+ragazza a cui la tua pietra
+starebbe bene addosso…?<Close><Close><End of Block>
