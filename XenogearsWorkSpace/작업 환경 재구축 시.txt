@@ -1,0 +1,2 @@
+상위 폴더에서 Powershell 열고 Get-ChildItem -Recurse -File | Move-Item -Destination .
+후 폴더 전부 삭제

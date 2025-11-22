@@ -1,0 +1,4 @@
+cd1
+XenogearsUSACD1.bin
+XenogearsKORCD1.bin
+-1,.\STRIPCD1(KOR)

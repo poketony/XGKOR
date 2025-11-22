@@ -10,7 +10,7 @@
 <Fei>
 「드디어 내일이구나, 티모시.<Delay 20>
 　너와 아루루의 결혼식이!<Close><End of Block>
-<TextBlock 3 w:60 h:4>
+<TextBlock 3 w:55 h:4>
 <Fei>
 「있잖아 티모시.<Delay 20>
 　너와 아루루에게는 정말
@@ -22,14 +22,14 @@
 　무엇을 했었는지……,<Delay 30>
 　무엇 하나 생각나는 게
 　없었어…….<Close><End of Block>
-<TextBlock 4 w:60 h:4>
+<TextBlock 4 w:55 h:4>
 <Fei>
 「그런 나를
 　너와 아루루는 받아 주고,
 　용기를 북돋아 주었어.<New>
 　너희가 있어 주지 않았다면,
 　난 어떻게 됐을지…….<Close><End of Block>
-<TextBlock 5 w:60 h:4>
+<TextBlock 5 w:55 h:4>
 <Fei>
 「정말로 고맙다, 티모시.<Delay 20>
 　분명 아루루하고 둘이서
@@ -54,7 +54,7 @@
 <Fei>
 「뭐어……?<Delay 30>
 　무슨 일 있나, 저 녀석?<Close><End of Block>
-<TextBlock 11 w:60 h:4>
+<TextBlock 11 w:55 h:4>
 티모시
 「아루루의 상태는 어땠어?<Delay 30>
 　내일이면 정말로 결혼하게 되는구나,
@@ -77,7 +77,7 @@
 티모시
 「응…… 뭐 그렇지.<Delay 20>
 　왠지 아직도 실감이 안 나지만.<Close><End of Block>
-<TextBlock 15 w:60 h:3>
+<TextBlock 15 w:55 h:3>
 티모시
 「하핫! 그만해.
 　무슨 어색한 소릴 하는 거야.<New>
@@ -99,7 +99,7 @@
 티모시
 「이 녀석, 단!<Delay 30>
 　남의 집에 함부로 들어오다니,
-　뭐야 갑자기?<Close><End of Block>
+　무슨 일이야 갑자기?<Close><End of Block>
 <TextBlock 19 w:40 h:4>
 티모시
 「내일부터는 저 녀석의
@@ -135,7 +135,7 @@
 <TextBlock 25 w:55 h:4>
 단
 「엄~청 중요한 얘기야.<Delay 20>
-　천천히,<Delay 20>차분히,<Delay 20>
+　천천히, <Delay 20>차분히,<Delay 20>
 　사나이끼리, 진지하게 말이지!<New>
 　나 밖에 있을 테니까
 　나중에 보자.<Close><End of Block>
@@ -169,12 +169,12 @@
 　그럼, 우리는 중요한 이야기를
 　나누는 중이라 말이지.<Delay 20>
 　방해하지 말아 주게나.<Close><End of Block>
-<TextBlock 31 w:58 h:4>
+<TextBlock 31 w:55 h:4>
 촌장 리
 「자, 우리는
 　중요한 이야기를 나누는 중이라네.<Delay 20>
 　방해하지 말아 주게나.<Close><End of Block>
-<TextBlock 32 w:63 h:4>
+<TextBlock 32 w:60 h:4>
 티모시의 아빠
 「오오 <Fei>.<Delay 10>
 　그렇게 예쁜 아가씨를 신부로 맞다니,
@@ -194,7 +194,7 @@
 　할 게 못 되는 거 같아…….<Close><End of Block>
 <TextBlock 34 w:20 h:1>
 하아…….<Opcode 2 20><Close><End of Block>
-<TextBlock 35 w:62 h:4>
+<TextBlock 35 w:55 h:4>
 저기 <Fei>.
 촌장님은 분명 너를
 친손자처럼

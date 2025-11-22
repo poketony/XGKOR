@@ -6,7 +6,7 @@
 　진정이 안 되나 봐, 그 녀석.<Delay 30>
 　이러니저러니 해도
 　귀여운 구석이 있다니까.<Close><End of Block>
-<TextBlock 2 w:36 h:4>
+<TextBlock 2 w:40 h:4>
 <Fei>
 「어차피 또 이 주변에서
 　장난이라도
@@ -18,50 +18,50 @@
 　왠지 이 우물, 엄청나게
 　위험한 것 같은 느낌이 들어…….<Delay 20>
 　다가가지 않는 편이 좋겠다.<Close><End of Block>
-<TextBlock 4 w:51 h:3>
+<TextBlock 4 w:55 h:3>
 <Fei>
 「이봐 이봐……,<Delay 20>
 　말도 안 되는 소리 하지 마, 단.<New>
 　티모시도 아루루도
 　둘 다 소중한 친구라고.<Delay 20>
 　그런 짓을 할 수 있을 리 없잖아.<Close><End of Block>
-<TextBlock 5 w:51 h:4>
+<TextBlock 5 w:50 h:4>
 <Fei>
 「그래 알았어!<Delay 20>
 　그럼 어디 한번
 　아루루를 데리고 도망가 볼까!<Close><End of Block>
 <TextBlock 6 w:36 h:4>
-“　티모시는 대머리
-　　　얼레리 꼴레리~
+“티모시는 대머리
+　얼레리 꼴레리~
 　티모시네 아빠도
-　　대머리래요~!　”<Close><End of Block>
-<TextBlock 7 w:54 h:4>
-　“　　　이 앞은 산길
-　　HP 쪽쪽에 주의!!<Delay 20>
+　대머리래요~!　”<Close><End of Block>
+<TextBlock 7 w:55 h:4>
+“이 앞은 산길
+　HP 쪽쪽에 주의!!<Delay 20>
 　산 위에 있는 선생님을 만나고 싶은 사람은
-　　　용기와 신념을 가지고 전진!　”<Close><End of Block>
+　용기와 신념을 가지고 전진!　”<Close><End of Block>
 <TextBlock 8 w:45 h:4>
-　　“　　아루루 누나와
+“　　아루루 누나와
 　<Fei> 형아는
-　　　러브러브 대폭발이라고!!
-　　　　콰쾅!　　”<Close><End of Block>
-<TextBlock 9 w:39 h:3>
-“　모두의 근사한
-　　　　라한 마을!
-　　본죠~르노~!　”<Close><End of Block>
+　러브러브 대폭발이라고!!
+　　콰쾅!　　”<Close><End of Block>
+<TextBlock 9 w:40 h:3>
+“모두의 근사한
+　라한 마을!
+　본죠~르노~!　”<Close><End of Block>
 <TextBlock 10 w:46 h:2>
-“　웃는 여우와 아기 돼지 주점
-　  술꾼 대환영!　”　<Close><End of Block>
+“웃는 여우와 아기 돼지 주점
+　술꾼 대환영!　”<Close><End of Block>
 <TextBlock 11 w:49 h:2>
-“　만물상 샌드루아
-　  없는 게 없어요!　”　<Close><End of Block>
-<TextBlock 12 w:42 h:2>
+“만물상 샌드루아
+　없는 게 없어요!　”<Close><End of Block>
+<TextBlock 12 w:40 h:2>
 우물 바닥에서 감기 걸릴 것 같은
 냉기만 손에 넣었다!!<Close><End of Block>
-<TextBlock 13 w:39 h:2>
+<TextBlock 13 w:40 h:2>
 하지만, 우물 바닥에서
 파워 링을 발견했다!!<Close><End of Block>
-<TextBlock 14 w:39 h:2>
+<TextBlock 14 w:40 h:2>
 하지만, 우물 바닥에서
 아쿠아솔S를 발견했다!!<Close><End of Block>
 <TextBlock 15 w:33 h:2>
@@ -116,9 +116,9 @@
 엄마가 말했어.<Delay 20>
 <Fei>는 어딘가 먼 곳에서
 왔을지도 모른다고…….<Close><End of Block>
-<TextBlock 29 w:51 h:2>
-새라면 자기 고향으로
-언제든지 자유롭게 날아갈 수 있을 텐데.<Close><End of Block>
+<TextBlock 29 w:50 h:2>
+새라면 자기 고향으로 언제든지
+자유롭게 날아갈 수 있을 텐데.<Close><End of Block>
 <TextBlock 30 w:48 h:4>
 단
 「좀 그렇겠지만 <Fei> 형아도
@@ -160,8 +160,8 @@
 　내가 말하긴 좀 그렇지만
 　미인이고, 요리도 잘하고……<New>
 (게다가 형아한테만 말하는 건데
- 엄청 쭉쭉빵빵하다고!<Delay 20>
- 으히히!)<Close><End of Block>
+엄청 쭉쭉빵빵하다고!<Delay 20>
+으히히!)<Close><End of Block>
 <TextBlock 37 w:42 h:4>
 단
 「그러니까 해 보자~! 응?<Delay 30>
@@ -203,12 +203,12 @@
 어머, <Fei>!
 마침 잘 만났다.
 저기, 단 못 봤어?<Close><End of Block>
-<TextBlock 45 w:57 h:4>
+<TextBlock 45 w:55 h:4>
 정말? 그거 수상하네.<Wait>
 아루루가 시킬 일이 있다고 했는데…….<Delay 15>
 나 참, 어디를 그렇게
 돌아다니고 있는 걸까…….<Close><End of Block>
-<TextBlock 46 w:60 h:4>
+<TextBlock 46 w:55 h:4>
 아루루가 시킬 일이 있다고 했는데…….<Wait>
 아루루 같은 누나 밑에서
 동생은 왜 저렇게 개구쟁이인 걸까.<Delay 15>
@@ -220,13 +220,13 @@
 <TextBlock 48 w:39 h:2>
 하아~.<Delay 20>
 여자의 고민은 끝이 없어.<Close><End of Block>
-<TextBlock 49 w:57 h:4>
-마을이 아루루와 티모시의 결혼식 얘기로
-떠들썩한 것 같네.<Delay 20>
+<TextBlock 49 w:55 h:4>
+마을이 아루루와 티모시의
+결혼식 얘기로 떠들썩한 것 같네.<Delay 20>
 그럴 만도 하지……,
 인생에서 가장 큰 이벤트니까.<Close><End of Block>
-<TextBlock 50 w:60 h:4>
-마을 처녀는 마을에서 태어나서 자라고
+<TextBlock 50 w:55 h:4>
+마을 처녀는 마을에서 태어나 자라고
 결혼해서, 그리고 늙어 가지.<Delay 20>
 그건 그것대로 행복하겠지만……,<Delay 24>
 그래도 가끔 이런 생각도 들곤 해.<New>
