@@ -34,27 +34,27 @@
 “티모시는 대머리
 　얼레리 꼴레리~
 　티모시네 아빠도
-　대머리래요~!　”<Close><End of Block>
+　대머리래요~!”<Close><End of Block>
 <TextBlock 7 w:55 h:4>
 “이 앞은 산길
 　HP 쪽쪽에 주의!!<Delay 20>
 　산 위에 있는 선생님을 만나고 싶은 사람은
-　용기와 신념을 가지고 전진!　”<Close><End of Block>
+　용기와 신념을 가지고 전진!”<Close><End of Block>
 <TextBlock 8 w:45 h:4>
-“　　아루루 누나와
+“아루루 누나와
 　<Fei> 형아는
 　러브러브 대폭발이라고!!
-　　콰쾅!　　”<Close><End of Block>
+　　콰쾅!”<Close><End of Block>
 <TextBlock 9 w:40 h:3>
 “모두의 근사한
 　라한 마을!
-　본죠~르노~!　”<Close><End of Block>
+　본죠~르노~!”<Close><End of Block>
 <TextBlock 10 w:46 h:2>
 “웃는 여우와 아기 돼지 주점
-　술꾼 대환영!　”<Close><End of Block>
+　술꾼 대환영!”<Close><End of Block>
 <TextBlock 11 w:49 h:2>
 “만물상 샌드루아
-　없는 게 없어요!　”<Close><End of Block>
+　없는 게 없어요!”<Close><End of Block>
 <TextBlock 12 w:40 h:2>
 우물 바닥에서 감기 걸릴 것 같은
 냉기만 손에 넣었다!!<Close><End of Block>
@@ -172,7 +172,7 @@
 「정말로?!<Delay 20>
 　역시 <Fei> 형아야!
 　그렇게 나와야지!<Close><End of Block>
-<TextBlock 39 w:36 h:4>
+<TextBlock 39 w:40 h:4>
 단
 「……라고 말하고 싶지만<Delay 20>
 　역시 그러면 안 되겠지,
@@ -235,8 +235,8 @@
 말이지…….<Close><End of Block>
 <TextBlock 51 w:42 h:3>
 후후……, 역시 이상하지?<Delay 12>
-　　　응, 이상해 그런 건
-　　　그렇지 않아　<Close><End of Block>
+　　응, 이상해 그런 건
+　　그렇지 않아　<Close><End of Block>
 <TextBlock 52 w:36 h:3>
 허~억!
 역시 그런가?<Delay 20>
@@ -284,149 +284,149 @@
 산길을 오를 자신이 없어.<Delay 20>
 늙었구만, 나도…….<Close><End of Block>
 <TextBlock 59 w:48 h:4>
-でも、あの先生も変わってるわよ。<Delay 20>
-なんであんな山のてっぺんに
-家をたてたりしたのかしら？<New>
-どうせなら、もっと村のちかくに
-こして来ればよかったのに……。<New>
-そうだ、<Fei>、
-あなた、先生と仲いいんだから、
-もっと村の近くへ移ってくるよう
-頼んでみたら？<Close><End of Block>
+그 선생님도 참 별났단 말이지.<Delay 20>
+왜 저런 산꼭대기에
+집을 지은 걸까?<New>
+좀 더 마을 가까이에
+지었으면 좋았을 텐데 말이지…….<New>
+맞다 <Fei>,
+너 선생님하고 친하니까
+좀 더 마을과 가까운 곳으로
+오시라고 부탁해 줄래?<Close><End of Block>
 <TextBlock 60 w:48 h:4>
-最近どうも足腰が
-弱くなっちゃって……。<Delay 20>
-まいっちゃうわ、ほんと。<New>
-ちょっとお醫者の先生のとこへ
-みてもらいに行こうと思っても、
-山道をのぼるのが一苦労だし……。<Delay 20>
-わたしも、年かしらねえ……。<Close><End of Block>
+요즘 부쩍 다리랑 허리가
+약해져 버려서…….<Delay 20>
+곤란해 정말로.<New>
+잠깐 의사 선생님한테 가서
+진찰을 받으려고 해도
+산길을 오르는 건 힘들고…….<Delay 20>
+나도 많이 늙었어…….<Close><End of Block>
 <TextBlock 61 w:60 h:4>
-うう、う……。<Delay 10>
-アルルが嫁にいっちゃうなんて……。<Delay 30>
-しかも、あんな、筋肉バカの、
-ティモシーなんかのところに……！！<New>
-ぼ……、<Delay 20>ぼくだって……、ずっと、
-赤ん坊の頃から、アルルのことが……！！<Wait>
-この先ぼくは、どうして
-生きて行けばいいんだ！？<Close><End of Block>
+으흑, 흑…….<Delay 10>
+아루루가 시집을 가게 된다니…….<Delay 30>
+그것도 그 근육밖에 없는
+멍청이 티모시 같은 놈한테……!!<New>
+나……, <Delay 20>나도……, 계속,
+어렸을 때부터, 아루루를……!!<Wait>
+난 앞으로 어떻게
+살아가야 하는 거지?!<Close><End of Block>
 <TextBlock 62 w:47 h:1>
-<Opcode 1 1>ぅうおおおおおおぉぉぉーっ！！<Opcode 1 0> <Opcode 2 120><Close><End of Block>
-<TextBlock 63 w:24 h:3>
-ううっ……<Delay 30>
-生きるのって……
-つらいよね……。<Close><End of Block>
+<Opcode 1 1>으허어어어어어어어어엉!!<Opcode 1 0> <Opcode 2 120><Close><End of Block>
+<TextBlock 63 w:30 h:3>
+으흐흑……<Delay 30>
+산다는 건……
+너무 괴로워…….<Close><End of Block>
 <TextBlock 64 w:33 h:2>
-うっ……、ううっ……。<Delay 20>
-ぼ、ぼくは……。<Close><End of Block>
+으흑……, 흐흑…….<Delay 20>
+나, 나는…….<Close><End of Block>
 <TextBlock 65 w:24 h:1>
-んが～、ごが～。<Close><End of Block>
+쿨쿨~, 드르렁~.<Close><End of Block>
 <TextBlock 66 w:48 h:3>
-う、うん……？<Delay 20>
-おう、なんじゃ、<Fei>か。
-なんか用かの？<Close><End of Block>
+으, 으응……?<Delay 20>
+오 누군가 했구먼, <Fei> 아닌가.
+볼일이라도 있나?<Close><End of Block>
 <TextBlock 67 w:51 h:4>
-しかし、この年になってようやく
-ノンビリできるようになったわい。<Delay 20>
-この調子なら、わしゃ、百までだって
-生きられるぞい！　ハハハ！<Close><End of Block>
+그나저나 이 나이가 되고서 겨우
+태평하게 살 수 있게 됐구먼.<Delay 20>
+이 상태라면 난 100살까지도
+살 수 있겠어! 하하하!<Close><End of Block>
 <TextBlock 68 w:36 h:2>
-こりゃ、こりゃ！<Delay 20>
-食い物をそまつにするな！<Opcode 2 30><Close><End of Block>
+예끼 이놈!<Delay 20>
+먹을 걸 함부로 하지 말거라!<Opcode 2 30><Close><End of Block>
 <TextBlock 69 w:36 h:2>
-こりゃ、<Fei>！！<Delay 10>
-踏むなと言っとろうが！<Opcode 2 30><Close><End of Block>
+이놈 <Fei>!!<Delay 10>
+밟지 말라고 했잖느냐!<Opcode 2 30><Close><End of Block>
 <TextBlock 70 w:45 h:3>
-わかってるでしょうけど、
-大切な花嫁に惡さなんかしたら、
-タダじゃすまされないわよお。<Close><End of Block>
+알고 있겠지만
+소중한 신부에게 나쁜 짓을 했다간
+보통 일로는 안 끝날 거예요.<Close><End of Block>
 <TextBlock 71 w:36 h:2>
-あら、<Fei>。
-アルルに、なにか用なの？<Close><End of Block>
+어머 <Fei>.
+아루루에게 무슨 볼일 있니?<Close><End of Block>
 <TextBlock 72 w:45 h:4>
-ほんとはもう今日から、男の人は
-なかへ入れちゃいけないきまりに
-なってるんだけど……、<Delay 40>
-まあ、いいでしょ、あなたなら。<Close><End of Block>
+사실 오늘부터 남자는
+안에 들이지 않는 게
+관습이긴 한데……,<Delay 40>
+뭐 너라면 괜찮겠지.<Close><End of Block>
 <TextBlock 73 w:48 h:3>
-ようこそ、いこいの村ラハンに……<Delay 40>
-と思ったら、なーんだ、
-<Fei>じゃないのよ。<Close><End of Block>
+어서 오세요, 휴식처 라한 마을에……<Delay 40>
+응? 아니 뭐야
+<Fei>잖아.<Close><End of Block>
 <TextBlock 74 w:57 h:3>
-あなたも、もうラハン村の立派な一員よ。
-どう、そろそろ奥さんでももらって、
-この村に腰を落ちつけちゃったら？<New>
-村でのんびり暮らしてれば、
-なくした記憶だって
-すぐにもどってくるわよ。<Close><End of Block>
+너도 이제 라한 마을의 훌륭한 일원이야.
+어때, 슬슬 부인이라도 들여서
+이 마을에 자리를 잡지 그래?<New>
+마을에서 한가롭게 살다 보면
+잃어버린 기억도
+금방 돌아올 거야.<Close><End of Block>
 <TextBlock 75 w:51 h:3>
-絵を描いたりとか拳法とかは、
-自然とできるようになったんでしょ？<Delay 20>
-体がおぼえてるのねえ、きっと。<New>
-だいじょうぶよ、すぐに
-なにもかも思い出して、
-安心してやってけるようになるわよ。<Close><End of Block>
+그림이나 권법 같은 건
+자연스레 할 수 있게 된 거지?<Delay 20>
+분명 몸이 기억하고 있는 거겠지.<New>
+그러니까 괜찮아, 금방
+뭐든 다 기억나게 돼서
+안심하고 살아갈 수 있게 될 거야.<Close><End of Block>
 <TextBlock 76 w:57 h:4>
-よう、<Fei>！
-きれいになったよな、アルル。<Wait>
-そういや、おまえとアルルとティモシー、
-いつも3人一緒だったよなあ。<New>
-ほんとはおまえも、
-アルルに気があったんじゃないのか？<Delay 20>
-どうだ、図星だろ？　ワハハ！<Close><End of Block>
+여어 <Fei>!
+아루루도 많이 예뻐졌더라.<Wait>
+그러고 보니 너랑 아루루랑 티모시는
+항상 셋이서 함께 다녔었지.<New>
+사실 너도 아루루한테
+마음이 있었던 거 아냐?<Delay 20>
+어때, 정곡이지? 와하하!<Close><End of Block>
 <TextBlock 77 w:57 h:4>
-おや、こんにちわ、<Fei>。<Delay 20>
-そういえば、もうずいぶんになるわねえ、
-あんたがこの村に来てから……。<New>
-村にくる前のことは、やっぱりまだ
-なにも思い出せないのかい？<Delay 30>
-自分がだれかもわからないって、
-そりゃ不安なんだろうねえ……。<New>
-あ……、ごめんよ。
-へんなこと、聞いちまって……。<Delay 20>
-気にしないでおくれ。<Close><End of Block>
+어머, 잘 지내니 <Fei>?<Delay 20>
+그러고 보니 시간이 꽤 지났구나,
+네가 이 마을에 온 지도…….<New>
+역시 아직도 마을로 오기 전의
+기억은 없는 거니?<Delay 30>
+자신이 누구인지도 모른다니,
+엄청 불안할 테지…….<New>
+아……, 미안하구나.
+이상한 소리를 했어…….<Delay 20>
+신경 쓰지 말아 주렴.<Close><End of Block>
 <TextBlock 78 w:42 h:4>
-アクアソルは、あれだけじゃ。<Delay 20>
-わしのスペシャル肥料なら、
-たんまりあるが、どうじゃ？
-ワハハ！<Close><End of Block>
-<TextBlock 79 w:36 h:2>
-しょうがないヤツじゃの。
-ほれ！<Close><End of Block>
+아쿠아솔은 그게 다야.<Delay 20>
+내 스페셜한 비료라면
+많이 있는데 어때?
+와하하!<Close><End of Block>
+<TextBlock 79 w:40 h:2>
+어쩔 수 없는 놈이구만.
+자 받아라!<Close><End of Block>
 <TextBlock 80 w:36 h:1>
-アクアソルを手にいれた。<Close><End of Block>
-<TextBlock 81 w:51 h:4>
-おお、そうじゃ。
-わし特製のアクアソルじゃ。<Delay 20>
-スペシャル肥料をつかっとるから、
-きくこと、まちがいなし！　ワハハ！<Close><End of Block>
+아쿠아솔을 손에 넣었다.<Close><End of Block>
+<TextBlock 81 w:55 h:4>
+그래그래.
+내 특제 아쿠아솔이라네.<Delay 20>
+스페셜한 비료를 썼으니까
+틀림없이 잘 들을 걸세! 와하하!<Close><End of Block>
 <TextBlock 82 w:36 h:1>
-アクアソルを手にいれた。<Close><End of Block>
+아쿠아솔을 손에 넣었다.<Close><End of Block>
 <TextBlock 83 w:51 h:3>
-う～む……。<Delay 20>
-いや、こんどはなにを植えようかと、
-まよっておってな。<Close><End of Block>
+으~음…….<Delay 20>
+아, 이번엔 무엇을 심을까
+고민하고 있었네.<Close><End of Block>
 <TextBlock 84 w:57 h:4>
-植物を育てるってのは、一仕事だが、
-サイコーだぞ、<Fei>よ。<Delay 20>
-まっさらな大地に、新しい命が
-ぐんぐん育ってゆく。<New>
-わしらが、のばしてやるわけじゃない。<Delay 20>
-ただ、土や雨、太陽といっしょになって、
-のびようのびようと頑張る連中の、
-手助けをしてやるのだよ。<Close><End of Block>
+식물을 기르는 건 일이긴 하지만
+최고라네 <Fei>.<Delay 20>
+말끔한 대지에 새로운 생명이
+무럭무럭 자라 가지.<New>
+우리가 키우는 게 아니라네.<Delay 20>
+그저 흙과 비, 태양과 하나가 돼서,
+자라나려는 녀석들을
+도와주는 것이지.<Close><End of Block>
 <TextBlock 85 w:54 h:3>
-イチゴカブト……、リンゴユリ……。
-カミナリダイコンも、すてがたい……。<Delay 40>
-う～む……。<Close><End of Block>
+딸기풍뎅이……, 사과백합…….
+번개무도 버리기 어렵네…….<Delay 40>
+으~음…….<Close><End of Block>
 <TextBlock 86 w:45 h:3>
-ここは、なんでも相談屋よ。
-いろんなことを教えてくれるわ。<New>
-村の外に出る前には
-一度いろいろと聞いといた方が
-いいんじゃない？<Close><End of Block>
+여기선 뭐든지 상담해 줘.
+다양한 사실들을 가르쳐 주지.<New>
+마을 밖으로 나가기 전에는
+한번 이런저런 정보들을
+듣는 게 좋지 않겠어?<Close><End of Block>
 <TextBlock 87 w:48 h:4>
-ここは、道駒屋よ。<Delay 20>
-あんまり品ぞろえはよくないけど、
-まあ、こんな田舎の店だもの、
-ぜいたく言えないわよねえ。<Close><Close><End of Block>
+여기선 도마를 팔아.<Delay 20>
+그다지 구색은 좋지 않지만
+뭐, 시골 가게잖아.
+어쩔 수 없는 법이지.<Close><Close><End of Block>

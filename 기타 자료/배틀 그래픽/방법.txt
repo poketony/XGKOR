@@ -1,0 +1,10 @@
+1. 2614 xenopack으로 압축 해제
+2. file1의 1E2C부터 끝까지 전부 긁어서 4bpp 추출
+3. imgconv로 4bpp -> 8bpp 변환
+4. 8bppbmp.py로 bmp 추출
+5. 포토샵으로 편집
+6. 편집된 이미지를 포토샵 기능으로 bmp 저장
+7. 8bppbmp.py로 bmp를 8bpp로
+8. imgconv로 8bpp -> 4bpp 변환
+9. 4bpp 내용을 file1의 1E2C에 적용, 이때 1바이트라도 어긋나선 안 됨
+10. xenopack으로 압축한 뒤 인게임에 적용 
