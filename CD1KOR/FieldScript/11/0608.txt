@@ -11,12 +11,12 @@
 「어차피 또 이 주변에서
 　장난이라도
 　치고 있지 않을까?<Close><End of Block>
-<TextBlock 3 w:45 h:3>
+<TextBlock 3 w:55 h:3>
 <Fei>
 「휴~.
 　위험해 위험해…….<New>
 　왠지 이 우물, 엄청나게
-　위험한 것 같은 느낌이 들어…….<Delay 20>
+　위험한 것 같아…….<Delay 20>
 　다가가지 않는 편이 좋겠다.<Close><End of Block>
 <TextBlock 4 w:55 h:3>
 <Fei>
@@ -35,10 +35,10 @@
 　얼레리 꼴레리~
 　티모시네 아빠도
 　대머리래요~!”<Close><End of Block>
-<TextBlock 7 w:55 h:4>
+<TextBlock 7 w:57 h:4>
 “이 앞은 산길
 　HP 쪽쪽에 주의!!<Delay 20>
-　산 위에 있는 선생님을 만나고 싶은 사람은
+　산 위의 선생님을 만나려는 사람은
 　용기와 신념을 가지고 전진!”<Close><End of Block>
 <TextBlock 8 w:45 h:4>
 “아루루 누나와
@@ -49,14 +49,14 @@
 “모두의 근사한
 　라한 마을!
 　본죠~르노~!”<Close><End of Block>
-<TextBlock 10 w:46 h:2>
+<TextBlock 10 w:48 h:2>
 “웃는 여우와 아기 돼지 주점
 　술꾼 대환영!”<Close><End of Block>
 <TextBlock 11 w:49 h:2>
 “만물상 샌드루아
 　없는 게 없어요!”<Close><End of Block>
-<TextBlock 12 w:40 h:2>
-우물 바닥에서 감기 걸릴 것 같은
+<TextBlock 12 w:48 h:2>
+우물 바닥에서 감기 걸릴 듯한
 냉기만 손에 넣었다!!<Close><End of Block>
 <TextBlock 13 w:40 h:2>
 하지만, 우물 바닥에서
@@ -64,10 +64,10 @@
 <TextBlock 14 w:40 h:2>
 하지만, 우물 바닥에서
 아쿠아솔S를 발견했다!!<Close><End of Block>
-<TextBlock 15 w:33 h:2>
+<TextBlock 15 w:42 h:2>
 하지만, 우물 바닥에서
 이상한 물건을 발견했다!!<Close><End of Block>
-<TextBlock 16 w:54 h:4>
+<TextBlock 16 w:57 h:4>
 저기 있잖아 오빠, 그거 알아?<Delay 20>
 검은 숲 너머에는 아베라는
 아주 큰 왕국이 있어.<New>
@@ -93,7 +93,7 @@
 저기 저기 <Fei> 오빠.
 또 코끼리제비 둥지가 있는 곳
 가르쳐 주라.<Close><End of Block>
-<TextBlock 22 w:27 h:1>
+<TextBlock 22 w:33 h:1>
 아하하, 도망가자~!<Opcode 2 40><Close><End of Block>
 <TextBlock 23 w:42 h:3>
 저기 <Fei> 형아.
@@ -105,9 +105,9 @@
 저기 <Fei> 형아.
 다음에 또 여자애들한테
 잔뜩 장난치자!<Close><End of Block>
-<TextBlock 26 w:27 h:1>
+<TextBlock 26 w:30 h:1>
 아하하, 도망쳐~!<Opcode 2 40><Close><End of Block>
-<TextBlock 27 w:42 h:4>
+<TextBlock 27 w:48 h:4>
 새들은 좋겠다…….<Delay 20>
 저 높은 하늘을 자유롭게 날고
 어디든 가고 싶은 곳에
@@ -116,7 +116,7 @@
 엄마가 말했어.<Delay 20>
 <Fei>는 어딘가 먼 곳에서
 왔을지도 모른다고…….<Close><End of Block>
-<TextBlock 29 w:50 h:2>
+<TextBlock 29 w:54 h:2>
 새라면 자기 고향으로 언제든지
 자유롭게 날아갈 수 있을 텐데.<Close><End of Block>
 <TextBlock 30 w:48 h:4>
@@ -160,8 +160,8 @@
 　내가 말하긴 좀 그렇지만
 　미인이고, 요리도 잘하고……<New>
 (게다가 형아한테만 말하는 건데
-엄청 쭉쭉빵빵하다고!<Delay 20>
-으히히!)<Close><End of Block>
+ 엄청 쭉쭉빵빵하다고!<Delay 20>
+ 으히히!)<Close><End of Block>
 <TextBlock 37 w:42 h:4>
 단
 「그러니까 해 보자~! 응?<Delay 30>
@@ -205,11 +205,11 @@
 저기, 단 못 봤어?<Close><End of Block>
 <TextBlock 45 w:55 h:4>
 정말? 그거 수상하네.<Wait>
-아루루가 시킬 일이 있다고 했는데…….<Delay 15>
+아루루가 시킬 일이 있댔는데…….<Delay 15>
 나 참, 어디를 그렇게
 돌아다니고 있는 걸까…….<Close><End of Block>
 <TextBlock 46 w:55 h:4>
-아루루가 시킬 일이 있다고 했는데…….<Wait>
+아루루가 시킬 일이 있댔는데…….<Wait>
 아루루 같은 누나 밑에서
 동생은 왜 저렇게 개구쟁이인 걸까.<Delay 15>
 나 참…….<Close><End of Block>
@@ -225,7 +225,7 @@
 결혼식 얘기로 떠들썩한 것 같네.<Delay 20>
 그럴 만도 하지……,
 인생에서 가장 큰 이벤트니까.<Close><End of Block>
-<TextBlock 50 w:55 h:4>
+<TextBlock 50 w:57 h:4>
 마을 처녀는 마을에서 태어나 자라고
 결혼해서, 그리고 늙어 가지.<Delay 20>
 그건 그것대로 행복하겠지만……,<Delay 24>
@@ -241,14 +241,14 @@
 허~억!
 역시 그런가?<Delay 20>
 고민하게 되네…….<Close><End of Block>
-<TextBlock 53 w:48 h:3>
+<TextBlock 53 w:54 h:3>
 정말? 정말로 그렇게 생각해?<Delay 30>
 후훗, <Fei>라면
 그렇게 말할 줄 알았어.<New>
-이거, 우리 집에서 만든 아쿠아솔이야.
+이거, 집에서 만든 아쿠아솔이야.
 곰이랑 소들도 엄청 좋아한다구.<Delay 20>
 괜찮으면 써 줘.<Close><End of Block>
-<TextBlock 54 w:36 h:2>
+<TextBlock 54 w:45 h:2>
 곰이랑 소들도 엄청 좋아하는
 아쿠아솔을 손에 넣었다.<Close><End of Block>
 <TextBlock 55 w:48 h:3>
@@ -270,7 +270,7 @@
 왜 저런 산꼭대기에
 집을 지은 거야?<New>
 좀 더 마을 가까이에
-지었으면 좋았을 텐데 말이지…….<New>
+지었으면 좋았을 텐데…….<New>
 맞다 <Fei>,
 너 선생님하고 친하잖아.<Delay 20>
 좀 더 마을하고 가까운 곳으로
@@ -288,7 +288,7 @@
 왜 저런 산꼭대기에
 집을 지은 걸까?<New>
 좀 더 마을 가까이에
-지었으면 좋았을 텐데 말이지…….<New>
+지었으면 좋았을 텐데…….<New>
 맞다 <Fei>,
 너 선생님하고 친하니까
 좀 더 마을과 가까운 곳으로
@@ -319,7 +319,7 @@
 <TextBlock 64 w:33 h:2>
 으흑……, 흐흑…….<Delay 20>
 나, 나는…….<Close><End of Block>
-<TextBlock 65 w:24 h:1>
+<TextBlock 65 w:30 h:1>
 쿨쿨~, 드르렁~.<Close><End of Block>
 <TextBlock 66 w:48 h:3>
 으, 으응……?<Delay 20>
@@ -330,17 +330,17 @@
 태평하게 살 수 있게 됐구먼.<Delay 20>
 이 상태라면 난 100살까지도
 살 수 있겠어! 하하하!<Close><End of Block>
-<TextBlock 68 w:36 h:2>
+<TextBlock 68 w:48 h:2>
 예끼 이놈!<Delay 20>
 먹을 걸 함부로 하지 말거라!<Opcode 2 30><Close><End of Block>
 <TextBlock 69 w:36 h:2>
 이놈 <Fei>!!<Delay 10>
 밟지 말라고 했잖느냐!<Opcode 2 30><Close><End of Block>
-<TextBlock 70 w:45 h:3>
-알고 있겠지만
-소중한 신부에게 나쁜 짓을 했다간
-보통 일로는 안 끝날 거예요.<Close><End of Block>
-<TextBlock 71 w:36 h:2>
+<TextBlock 70 w:48 h:3>
+알고 있겠지만 소중한 신부에게
+나쁜 짓을 했다간
+보통 일로는 안 끝날 거란다.<Close><End of Block>
+<TextBlock 71 w:45 h:2>
 어머 <Fei>.
 아루루에게 무슨 볼일 있니?<Close><End of Block>
 <TextBlock 72 w:45 h:4>
@@ -348,12 +348,12 @@
 안에 들이지 않는 게
 관습이긴 한데……,<Delay 40>
 뭐 너라면 괜찮겠지.<Close><End of Block>
-<TextBlock 73 w:48 h:3>
-어서 오세요, 휴식처 라한 마을에……<Delay 40>
+<TextBlock 73 w:54 h:3>
+어서 오세요, 휴식처 라한에……<Delay 40>
 응? 아니 뭐야
 <Fei>잖아.<Close><End of Block>
 <TextBlock 74 w:57 h:3>
-너도 이제 라한 마을의 훌륭한 일원이야.
+너도 이제 어엿한 라한 사람이야.
 어때, 슬슬 부인이라도 들여서
 이 마을에 자리를 잡지 그래?<New>
 마을에서 한가롭게 살다 보면
@@ -362,10 +362,10 @@
 <TextBlock 75 w:51 h:3>
 그림이나 권법 같은 건
 자연스레 할 수 있게 된 거지?<Delay 20>
-분명 몸이 기억하고 있는 거겠지.<New>
+분명 몸이 기억하는 거겠지.<New>
 그러니까 괜찮아, 금방
 뭐든 다 기억나게 돼서
-안심하고 살아갈 수 있게 될 거야.<Close><End of Block>
+안심하고 살 수 있게 될 거야.<Close><End of Block>
 <TextBlock 76 w:57 h:4>
 여어 <Fei>!
 아루루도 많이 예뻐졌더라.<Wait>
@@ -386,21 +386,21 @@
 이상한 소리를 했어…….<Delay 20>
 신경 쓰지 말아 주렴.<Close><End of Block>
 <TextBlock 78 w:42 h:4>
-아쿠아솔은 그게 다야.<Delay 20>
+아쿠아솔은 그게 다라네.<Delay 20>
 내 스페셜한 비료라면
 많이 있는데 어때?
 와하하!<Close><End of Block>
 <TextBlock 79 w:40 h:2>
 어쩔 수 없는 놈이구만.
 자 받아라!<Close><End of Block>
-<TextBlock 80 w:36 h:1>
+<TextBlock 80 w:39 h:1>
 아쿠아솔을 손에 넣었다.<Close><End of Block>
 <TextBlock 81 w:55 h:4>
 그래그래.
 내 특제 아쿠아솔이라네.<Delay 20>
 스페셜한 비료를 썼으니까
 틀림없이 잘 들을 걸세! 와하하!<Close><End of Block>
-<TextBlock 82 w:36 h:1>
+<TextBlock 82 w:39 h:1>
 아쿠아솔을 손에 넣었다.<Close><End of Block>
 <TextBlock 83 w:51 h:3>
 으~음…….<Delay 20>
@@ -412,14 +412,14 @@
 말끔한 대지에 새로운 생명이
 무럭무럭 자라 가지.<New>
 우리가 키우는 게 아니라네.<Delay 20>
-그저 흙과 비, 태양과 하나가 돼서,
+그저 흙과 비, 태양과 함께
 자라나려는 녀석들을
-도와주는 것이지.<Close><End of Block>
+도와주는 게야.<Close><End of Block>
 <TextBlock 85 w:54 h:3>
 딸기풍뎅이……, 사과백합…….
-번개무도 버리기 어렵네…….<Delay 40>
+번개무도 버리기 어렵구먼…….<Delay 40>
 으~음…….<Close><End of Block>
-<TextBlock 86 w:45 h:3>
+<TextBlock 86 w:48 h:3>
 여기선 뭐든지 상담해 줘.
 다양한 사실들을 가르쳐 주지.<New>
 마을 밖으로 나가기 전에는

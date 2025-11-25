@@ -6,19 +6,19 @@
 <TextBlock 3 w:18 h:2>
 <Citan>
 「단?!<Close><End of Block>
-<TextBlock 4 w:42 h:4>
+<TextBlock 4 w:48 h:4>
 <Citan>
 「괜찮습니까?!<Delay 20>
 　대체 뭐 하고 있는 거예요,
 　이런 곳에서?!<New>
 　아루루와 티모시가
-　얼마나 걱정했는 줄 아십니까!<Close><End of Block>
+　얼마나 걱정한 줄 아십니까!<Close><End of Block>
 <TextBlock 5 w:48 h:4>
 <Citan>
 「자 그럼, <Fei>가
 　놈들을 붙잡고 있는 동안에
 　안전한 곳으로 대피합시다!<Close><End of Block>
-<TextBlock 6 w:45 h:4>
+<TextBlock 6 w:54 h:4>
 <Citan>
 「묶여 있는 겁니다,
 　<Fei>는…….<Delay 20>
@@ -47,12 +47,12 @@
 <TextBlock 12 w:15 h:2>
 티모시
 「윽……!<Opcode 2 20><Close><End of Block>
-<TextBlock 13 w:39 h:4>
+<TextBlock 13 w:45 h:4>
 <Fei>
 「그만해!!
-　마을 사람들은 아무런 관계도
+　마을 사람들은 아무 관계도
 　없잖아?!<Close><End of Block>
-<TextBlock 14 w:30 h:3>
+<TextBlock 14 w:33 h:3>
 <Fei>
 「큭……!<Delay 30>
 　라한 마을이……!?<Close><End of Block>
@@ -64,7 +64,7 @@
 　단이라면 걱정하지 마.<Delay 10>
 　분명 그 녀석이라면
 　진작에 도망쳤을 거야!<Close><End of Block>
-<TextBlock 16 w:40 h:4>
+<TextBlock 16 w:42 h:4>
 <Fei>
 「그래, 걱정하지 마.<Delay 20>
 　아직 마을에 있다면
@@ -96,19 +96,19 @@
 <Citan>
 「아루루?!
 　티모시!!<Close><End of Block>
-<TextBlock 24 w:39 h:4>
+<TextBlock 24 w:48 h:4>
 <Citan>
 「네…….<Delay 15>
 　설마 이런 곳에서
-　전투가 시작될 줄이야……!!<New>
+　전투가 시작될 줄은……!!<New>
 　어디 다친 사람은
 　없습니까?<Close><End of Block>
 <TextBlock 25 w:45 h:4>
 <Citan>
 「기다리세요, 티모시!!<Delay 20>
-　당신도 아루루와 다른 사람들처럼
+　당신도 아루루와 함께
 　안전한 장소로 대피하세요!<Close><End of Block>
-<TextBlock 26 w:45 h:4>
+<TextBlock 26 w:48 h:4>
 <Citan>
 「마음은 압니다.<Delay 20>
 　하지만 지금은 <Fei>에게
@@ -121,13 +121,13 @@
 <Citan>
 「자, 두 사람도
 　서두르세요!!<Close><End of Block>
-<TextBlock 28 w:45 h:4>
+<TextBlock 28 w:48 h:4>
 <Citan>
 「<Fei>, 저는 집 안에
 　도망치지 못한 사람이 없는지
 　확인하고 오겠습니다.<New>
-　당신은 밖을 둘러본 뒤
-　남은 마을 사람들을 안전한 곳으로
+　당신은 밖을 둘러본 뒤 남은
+　마을 사람들을 안전한 곳으로
 　안내해 주세요!<Close><End of Block>
 <TextBlock 29 w:24 h:2>
 <Citan>
@@ -161,8 +161,8 @@
 <TextBlock 36 w:36 h:3>
 <Citan>
 「훗……, 정말
-　당신이라는 사람은…….<Close><End of Block>
-<TextBlock 37 w:45 h:4>
+　당신이란 사람은…….<Close><End of Block>
+<TextBlock 37 w:51 h:4>
 <Citan>
 「아무래도 놈들의 목적은
 　<Fei>가 타고 있는
@@ -171,7 +171,7 @@
 아루루
 「선생님?!<Delay 10>
 　<Fei>!!<Close><End of Block>
-<TextBlock 39 w:45 h:4>
+<TextBlock 39 w:48 h:4>
 아루루
 「네!
 　하지만, 단이……,<Delay 20>
@@ -179,7 +179,7 @@
 <TextBlock 40 w:27 h:2>
 아루루
 「티모시…….<Close><End of Block>
-<TextBlock 41 w:35 h:4>
+<TextBlock 41 w:39 h:4>
 아루루
 「……….<Delay 20>
 　알겠습니다.<Delay 10>
@@ -188,17 +188,17 @@
 아루루
 「<Fei>,
 　단을……!<Close><End of Block>
-<TextBlock 43 w:45 h:4>
+<TextBlock 43 w:48 h:4>
 티모시
 「선생님!<Delay 20>
 　제길, 저놈들
 　갑자기 내려와서 마을을……!<Close><End of Block>
-<TextBlock 44 w:39 h:4>
+<TextBlock 44 w:51 h:4>
 티모시
 「내가 다시 한번
 　찾아보고 올게!<Delay 20>
 　아루루는 먼저 마을 밖으로……<Close><End of Block>
-<TextBlock 45 w:33 h:4>
+<TextBlock 45 w:39 h:4>
 티모시
 「선생님, 하지만 단을…<Delay 10>
 　그 녀석을 놔두고
@@ -211,18 +211,18 @@
 티모시
 「……….<Delay 30>
 　그래…….<Close><End of Block>
-<TextBlock 48 w:36 h:4>
+<TextBlock 48 w:39 h:4>
 티모시
 「알았어! 아루루, 여긴
 　선생님과 <Fei>에게
 　맡기자.<Close><End of Block>
 <TextBlock 49 w:18 h:1>
 엇……?!<Opcode 2 20><Close><End of Block>
-<TextBlock 50 w:42 h:4>
+<TextBlock 50 w:45 h:4>
 단
-「미안 선생님.
-　처음엔 밖으로 도망쳤었어.<New>
-　하지만 나, 도저히
+「죄송해요 선생님.
+　처음엔 밖으로 도망쳤어요.<New>
+　하지만 저, 도저히
 　누나의 웨딩드레스를
 　그대로 놔둘 수는
 　없다고 생각해서…….<Delay 20><Close><End of Block>
@@ -235,5 +235,5 @@
 　<Fei> 형아가?!<Close><End of Block>
 <TextBlock 53 w:39 h:3>
 <Fei>
-「하아……, 하아……,<Delay 20>
+「허억……, 허억……,<Delay 20>
 　젠장, 이 녀석들……!!<Close><Close>X<Close><Close><End of Block>
