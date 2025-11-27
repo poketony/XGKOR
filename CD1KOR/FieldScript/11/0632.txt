@@ -6,11 +6,11 @@
 　
 　
 　다음 예고　<Opcode 2 180><Opcode 2 180><Close><End of Block>
-<TextBlock 2 w:55 h:3>
+<TextBlock 2 w:48 h:3>
 <Fei>
 「드디어 내일이구나, 티모시.<Delay 20>
 　너와 아루루의 결혼식이!<Close><End of Block>
-<TextBlock 3 w:55 h:4>
+<TextBlock 3 w:54 h:4>
 <Fei>
 「있잖아 티모시.<Delay 20>
 　너와 아루루에게는 정말
@@ -18,76 +18,76 @@
 　3년 전 그날, 이 마을에서
 　눈을 뜬 나는 모든 기억을
 　잃어버린 상태였지…….<New>
-　자신이 누구인지, 여태까지 어디서
+　자신이 누군지, 여태까지 어디서
 　무엇을 했었는지……,<Delay 30>
-　무엇 하나 생각나는 게
+　무엇 하나 기억나는 게
 　없었어…….<Close><End of Block>
-<TextBlock 4 w:55 h:4>
+<TextBlock 4 w:48 h:4>
 <Fei>
 「그런 나를
 　너와 아루루는 받아 주고,
 　용기를 북돋아 주었어.<New>
 　너희가 있어 주지 않았다면,
 　난 어떻게 됐을지…….<Close><End of Block>
-<TextBlock 5 w:55 h:4>
+<TextBlock 5 w:51 h:4>
 <Fei>
 「정말로 고맙다, 티모시.<Delay 20>
 　분명 아루루하고 둘이서
 　행복하게 살 수 있을 거야!!<Close><End of Block>
-<TextBlock 6 w:35 h:2>
+<TextBlock 6 w:33 h:2>
 <Fei>
 「그래, 나야말로.<Close><End of Block>
-<TextBlock 7 w:50 h:4>
+<TextBlock 7 w:54 h:4>
 <Fei>
 「알았어.
 　그럼 나중에 보자고.<Delay 20>
 　내일 결혼식, 기대하고 있을게.<Close><End of Block>
-<TextBlock 8 w:40 h:3>
+<TextBlock 8 w:42 h:3>
 <Fei>
 「안녕, 단!<Delay 20>
-　오늘도 기운이 넘치는걸!<Close><End of Block>
-<TextBlock 9 w:45 h:3>
+　오늘도 기운이 넘치는데!<Close><End of Block>
+<TextBlock 9 w:42 h:3>
 <Fei>
 「뭐야, 단.
 　새삼스럽게 할 얘기라니?<Close><End of Block>
-<TextBlock 10 w:50 h:3>
+<TextBlock 10 w:48 h:3>
 <Fei>
-「뭐어……?<Delay 30>
+「뭐……?<Delay 30>
 　무슨 일 있나, 저 녀석?<Close><End of Block>
-<TextBlock 11 w:55 h:4>
+<TextBlock 11 w:54 h:4>
 티모시
 「아루루의 상태는 어땠어?<Delay 30>
-　내일이면 정말로 결혼하게 되는구나,
+　내일이면 정말로 결혼하는구나,
 　우리…….<New>
 　후……, 왠지 이상한 느낌인걸.<Delay 30>
 　그 녀석하곤 꼬맹이 때부터 계속
 　함께였어서 그런가…….<Close><End of Block>
-<TextBlock 12 w:55 h:4>
+<TextBlock 12 w:54 h:4>
 티모시
 「아루루의 상태를 보고 와 줘.<Delay 20>
 　난 아직 다른 분들과 할 얘기가
 　남았거든.<Close><End of Block>
-<TextBlock 13 w:55 h:3>
+<TextBlock 13 w:48 h:3>
 티모시
 「오, <Fei>!
 　실례 좀 할게.<New>
-　내일 일로 잠깐
-　촌장님과 할 얘기가 있어서 말이야.<Close><End of Block>
-<TextBlock 14 w:55 h:3>
+　내일 일로 잠깐 촌장님과
+　할 얘기가 있어서 말이야.<Close><End of Block>
+<TextBlock 14 w:54 h:3>
 티모시
 「응…… 뭐 그렇지.<Delay 20>
 　왠지 아직도 실감이 안 나지만.<Close><End of Block>
-<TextBlock 15 w:55 h:3>
+<TextBlock 15 w:51 h:3>
 티모시
 「하핫! 그만해.
 　무슨 어색한 소릴 하는 거야.<New>
 　너하곤 계속 어릴 때부터
 　친구였던 거 같은 기분인데.<Close><End of Block>
-<TextBlock 16 w:40 h:3>
+<TextBlock 16 w:42 h:3>
 티모시
 「앞으로도
 　잘 부탁한다고, 파트너!<Close><End of Block>
-<TextBlock 17 w:55 h:4>
+<TextBlock 17 w:54 h:4>
 티모시
 「맞다 <Fei>.
 　아루루가 있는 곳에도
@@ -95,17 +95,17 @@
 　난 아직 촌장님이나 아버지하고
 　할 얘기가 있거든…….<Delay 20>
 　분명 기뻐할 거야, 그 녀석.<Close><End of Block>
-<TextBlock 18 w:52 h:4>
+<TextBlock 18 w:51 h:4>
 티모시
 「이 녀석, 단!<Delay 30>
 　남의 집에 함부로 들어오다니,
 　무슨 일이야 갑자기?<Close><End of Block>
-<TextBlock 19 w:40 h:4>
+<TextBlock 19 w:42 h:4>
 티모시
 「내일부터는 저 녀석의
 　매형이 되는 건가…….<Delay 20>
 　난처하게 됐는걸, 하핫.<Close><End of Block>
-<TextBlock 20 w:50 h:3>
+<TextBlock 20 w:45 h:3>
 「있다 있어!<Delay 30>
 　저기, <Fei> 형아!
 　잠깐 할 얘기가 있는데!<Close><End of Block>
@@ -123,34 +123,34 @@
 　없으니까 말이야!<New>
 　내가 볼일이 있는 건
 　<Fei> 형아뿐이야.<Close><End of Block>
-<TextBlock 23 w:50 h:4>
+<TextBlock 23 w:51 h:4>
 단
 「저기 <Fei> 형아,
-　나중에 잠깐, 그, 할 얘기가
+　나중에 잠깐 그, 할 얘기가
 　있는데…….<Close><End of Block>
-<TextBlock 24 w:55 h:3>
+<TextBlock 24 w:51 h:3>
 단
 「그러니까, 여기선 조금…….<Delay 30>
 　방해되는 녀석이 있잖아.<Close><End of Block>
-<TextBlock 25 w:55 h:4>
+<TextBlock 25 w:54 h:4>
 단
 「엄~청 중요한 얘기야.<Delay 20>
 　천천히, <Delay 20>차분히,<Delay 20>
 　사나이끼리, 진지하게 말이지!<New>
 　나 밖에 있을 테니까
-　나중에 보자.<Close><End of Block>
-<TextBlock 26 w:38 h:4>
+　나중에 봐.<Close><End of Block>
+<TextBlock 26 w:36 h:4>
 단
 「그럼 안녕,
 　티모시 형님!<Delay 30>
 　내일까지 잘 지내.<Close><End of Block>
-<TextBlock 27 w:50 h:3>
+<TextBlock 27 w:48 h:3>
 촌장 리
 「오오 <Fei>인가.<New>
 　내일 있는 티모시와 아루루의
 　결혼식 일로
 　상담을 해 주고 있었다네.<Close><End of Block>
-<TextBlock 28 w:54 h:4>
+<TextBlock 28 w:51 h:4>
 촌장 리
 「저기, 자네도 가끔
 　여자 친구 한둘 정도는
@@ -161,18 +161,18 @@
 　매일같이……<Close><End of Block>
 <TextBlock 29 w:24 h:2>
 으흠!<Delay 20>
-으흠흠!<Opcode 2 40><Close><End of Block>
-<TextBlock 30 w:53 h:3>
+으흐흠!<Opcode 2 40><Close><End of Block>
+<TextBlock 30 w:51 h:3>
 촌장 리
 「아……, 아니.
 　아무것도 아닐세.<New>
 　그럼, 우리는 중요한 이야기를
 　나누는 중이라 말이지.<Delay 20>
 　방해하지 말아 주게나.<Close><End of Block>
-<TextBlock 31 w:55 h:4>
+<TextBlock 31 w:54 h:4>
 촌장 리
 「자, 우리는
-　중요한 이야기를 나누는 중이라네.<Delay 20>
+　중요한 이야기를 나누는 중이네.<Delay 20>
 　방해하지 말아 주게나.<Close><End of Block>
 <TextBlock 32 w:60 h:4>
 티모시의 아빠
@@ -183,7 +183,7 @@
 　두 사람의 경사스러운 출발을
 　잔뜩 빌어 다오!
 　핫핫핫!<Close><End of Block>
-<TextBlock 33 w:60 h:4>
+<TextBlock 33 w:57 h:4>
 아루루의 삼촌
 「기쁘기도 하고 슬프기도 하고…….<Delay 20>
 　언젠가 이런 날이 올 거라는 걸
@@ -194,7 +194,7 @@
 　할 게 못 되는 거 같아…….<Close><End of Block>
 <TextBlock 34 w:20 h:1>
 하아…….<Opcode 2 20><Close><End of Block>
-<TextBlock 35 w:55 h:4>
+<TextBlock 35 w:45 h:4>
 저기 <Fei>.
 촌장님은 분명 너를
 친손자처럼
@@ -203,7 +203,7 @@
 혼자 살고 계시기 때문에
 더더욱 너를 소중히
 여겨 주시는 거겠지.<Close><End of Block>
-<TextBlock 36 w:50 h:4>
+<TextBlock 36 w:48 h:4>
 잘 들으렴 <Fei>.
 촌장님을 슬프게 만드는 일은
 해선 안 된단다, 절대로.<Delay 20>
