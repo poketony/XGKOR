@@ -1,0 +1,13 @@
+편집된 영상에서 프레임들 뽑기
+ffmpeg -i {edited.avi} frame_%05d.png
+
+프레임 폴더에서 Powershell 열고
+비디오 적용:
+java -jar jpsxdec.jar -x {game.idx} -i {list no.} -replaceframes "replace.xml" 
+
+오디오 적용: 
+java -jar jpsxdec.jar -x {game.idx} -i {list no.} -replaceaudio "{original.wav}"
+
+오디오 길이 안 맞으면:
+ffmpeg -i {original.wav} -ar 37800 -ac 2 -af "apad,atrim=end=298.56" {original_fixed}.wav
+

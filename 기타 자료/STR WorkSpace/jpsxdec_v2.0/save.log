@@ -1,0 +1,13 @@
+jPSXdec: PSX media decoder (non-commercial) v2.0
+Windows 11 10.0
+Java 25.0.1
+2025. 11. 28. 오후 12:53:16
+[정보] Filename:C:\Users\JO\Desktop\XENO_ARC\Xenogears\JPN ROM\XenogearsCD1JPN.bin|Sector size:2352|Sector count:305357|First sector offset:0
+[정보] #:26|ID:?[13]|Sectors:54019-98678|Type:Video|Dimensions:320x224|Frame Count:4466|Sector Frames:54019-98669|Sectors/Frame:10/1|1st frame end sector:9|Disc Speed:2|Header Frames:1-4466
+[정보] Video format: AVI: Compressed (MJPG)
+[정보] Dimensions: 320x224
+[정보] With audio item(s):
+[정보] #:27|ID:?[13.0]|Sectors:54026-98754|Type:XA|File:1|Channel:1|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+[정보] Emulate PSX audio/video sync: No
+[정보] Saving as: XenogearsCD1JPN.bin[13].avi
+[정보] Disc speed: 2x (15 fps)
