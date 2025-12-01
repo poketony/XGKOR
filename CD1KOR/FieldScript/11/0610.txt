@@ -55,7 +55,7 @@
 <TextBlock 14 w:33 h:3>
 <Fei>
 「큭……!<Delay 30>
-　라한 마을이……!?<Close><End of Block>
+　라한 마을이……?!<Close><End of Block>
 <TextBlock 15 w:39 h:4>
 <Fei>
 「선생님 말이 맞아.

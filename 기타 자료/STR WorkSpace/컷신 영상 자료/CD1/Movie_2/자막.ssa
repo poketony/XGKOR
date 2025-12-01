@@ -1,0 +1,31 @@
+[Script Info]
+; 이 스크립트는 VideoPad 비디오 편집기에 의해 제작됩니다
+; VideoPad를 다운로드 하려면,  http://www.nchsoftware.com/videopad/ko/index.html
+로 이동
+Title: 시퀀스  1
+Original Script: JO
+ScriptType: v4.00
+Collisions: Normal
+PlayResY: 1080
+PlayResX: 1542
+PlayDepth: 0
+Timer: 100.0000
+
+[V4 Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, TertiaryColour, BackColour, Bold, Italic, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, AlphaLevel, Encoding
+Style: 스타일6,Noto Sans KR,45,16777215,0,0,0,1,0,-1,1,0,2,5,5,5,0,0
+Style: 스타일5,Noto Sans KR,45,16777215,0,0,0,1,0,-1,1,0,2,5,5,5,0,0
+Style: 스타일4,Noto Sans KR,45,16777215,0,0,0,1,0,-1,1,0,2,5,5,5,0,0
+Style: 스타일3,Noto Sans KR,45,16777215,0,0,0,1,0,-1,1,0,2,5,5,5,0,0
+Style: 스타일2,Noto Sans KR,45,16777215,0,0,0,1,0,-1,1,0,2,5,5,5,0,0
+Style: 스타일1,Noto Sans KR,45,16777215,0,0,0,1,0,-1,1,0,2,5,5,5,0,0
+Style: 기본,Arial,30,16777215,0,0,0,0,0,-1,0,0,2,5,5,5,0,0
+
+[Events]
+Format: Marked, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: Marked=0,0:00:20.68,0:00:24.33,스타일1,,0000,0000,0006,!Effect,설령…\N이 몸이 부서진다 해도 말이다!
+Dialogue: Marked=0,0:00:13.67,0:00:17.40,스타일2,,0000,0000,0006,!Effect,이 녀석만큼은 넘길 수 없다
+Dialogue: Marked=0,0:00:11.47,0:00:13.67,스타일3,,0000,0000,0006,!Effect,하지만…
+Dialogue: Marked=0,0:00:06.00,0:00:09.00,스타일4,,0000,0000,0006,!Effect,짓궂은 일이로군
+Dialogue: Marked=0,0:00:03.93,0:00:06.00,스타일5,,0000,0000,0006,!Effect,이것도 운명인가?
+Dialogue: Marked=0,0:00:00.00,0:00:03.93,스타일6,,0000,0000,0006,!Effect,이런 형태로\N네놈과 재회하게 될 줄이야
