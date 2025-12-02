@@ -1,12 +1,12 @@
-**제노기어스**의 한글패치 자료들입니다. 
+**제노기어스(Xenogears)**의 한글패치 자료들입니다. 
 
 현재 정보 정리 중
 
 Xenomap: 배틀 UI 배치 조정 프로그램(영판 그대로 유용하는 게 나을 수도)
 
-Xenocomp: 아카이브 암호화/복호화 프로그램
+Xenocomp: xen 아카이브 암호화/복호화 프로그램
 
-Xenopack: 아카이브 언팩/리팩 프로그램
+Xenopack: file 아카이브 언팩/리팩 프로그램
 
 Xenostudio: 단일 파일 교체용
 
@@ -14,7 +14,7 @@ Xenolns: 단일 파일 교체용
 
 Xenoiso: iso 자체 리팩 프로그램
 
-Xenolater: 스크립트 번역툴
+Xenolater: 스크립트 번역툴(현재 ++로 업그레이드됨)
 	
   Delay X: X 프레임(약 30fps 기준) 대기 후 다음 텍스트
 	
@@ -28,4 +28,4 @@ Xenolater: 스크립트 번역툴
 	
   일부 특수 창은 따로 해킹 필요(it_stuff/field)
 
-컷신은 STR 추출 -> avi -> 자막 -> STR(MC32) -> reXryptA로 iso 삽입
+컷신 관련해서는 STR WorkSpace 참고
