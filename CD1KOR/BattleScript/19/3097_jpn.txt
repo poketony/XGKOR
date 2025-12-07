@@ -1,0 +1,1627 @@
+<TextBlock 1 w:27 h:1>
+気功弾を對ギア用に<Close><End of Block>
+<TextBlock 2 w:24 h:1>
+巨大化した波動弾<Close><End of Block>
+<TextBlock 3 w:30 h:1>
+低下したギア防御力を<Close><End of Block>
+<TextBlock 4 w:12 h:1>
+回復する<Close><End of Block>
+<TextBlock 5 w:24 h:1>
+ギア防御力をＵＰ<Close><End of Block>
+<TextBlock 6 w:27 h:1>
+　攻撃力はＤＯＷＮ<Close><End of Block>
+<TextBlock 7 w:24 h:1>
+ギア攻撃力をＵＰ<Close><End of Block>
+<TextBlock 8 w:27 h:1>
+　防御力はＤＯＷＮ<Close><End of Block>
+<TextBlock 9 w:27 h:1>
+宇宙空間の気を集め<Close><End of Block>
+<TextBlock 10 w:15 h:1>
+爆発させる<Close><End of Block>
+<TextBlock 11 w:30 h:1>
+重力レンズを利用して<Close><End of Block>
+<TextBlock 12 w:30 h:1>
+全宇宙の気を集め攻撃<Close><End of Block>
+<TextBlock 13 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 14 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 15 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 16 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 17 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 18 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 19 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 20 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 21 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 22 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 23 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 24 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 25 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 26 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 27 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 28 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 29 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 30 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 31 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 32 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 33 w:27 h:1>
+気功弾を對ギア用に<Close><End of Block>
+<TextBlock 34 w:24 h:1>
+巨大化した波動弾<Close><End of Block>
+<TextBlock 35 w:30 h:1>
+低下したギア防御力を<Close><End of Block>
+<TextBlock 36 w:12 h:1>
+回復する<Close><End of Block>
+<TextBlock 37 w:24 h:1>
+ギア防御力をＵＰ<Close><End of Block>
+<TextBlock 38 w:27 h:1>
+　攻撃力はＤＯＷＮ<Close><End of Block>
+<TextBlock 39 w:24 h:1>
+ギア攻撃力をＵＰ<Close><End of Block>
+<TextBlock 40 w:27 h:1>
+　防御力はＤＯＷＮ<Close><End of Block>
+<TextBlock 41 w:27 h:1>
+宇宙空間の気を集め<Close><End of Block>
+<TextBlock 42 w:15 h:1>
+爆発させる<Close><End of Block>
+<TextBlock 43 w:30 h:1>
+重力レンズを利用して<Close><End of Block>
+<TextBlock 44 w:30 h:1>
+全宇宙の気を集め攻撃<Close><End of Block>
+<TextBlock 45 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 46 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 47 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 48 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 49 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 50 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 51 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 52 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 53 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 54 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 55 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 56 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 57 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 58 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 59 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 60 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 61 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 62 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 63 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 64 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 65 w:21 h:1>
+雷撃による攻撃<Close><End of Block>
+<TextBlock 66 w:15 h:1>
+　風の属性<Close><End of Block>
+<TextBlock 67 w:33 h:1>
+大地からエーテル波放射<Close><End of Block>
+<TextBlock 68 w:15 h:1>
+　地の属性<Close><End of Block>
+<TextBlock 69 w:30 h:1>
+敵を巨大な火炎で包む<Close><End of Block>
+<TextBlock 70 w:15 h:1>
+　火の属性<Close><End of Block>
+<TextBlock 71 w:21 h:1>
+瞬間冷凍で攻撃<Close><End of Block>
+<TextBlock 72 w:15 h:1>
+　水の属性<Close><End of Block>
+<TextBlock 73 w:18 h:1>
+高出力の雷撃<Close><End of Block>
+<TextBlock 74 w:30 h:1>
+　風の属性（エリア）<Close><End of Block>
+<TextBlock 75 w:36 h:1>
+空から巨大な岩石を降らす<Close><End of Block>
+<TextBlock 76 w:30 h:1>
+　地の属性（エリア）<Close><End of Block>
+<TextBlock 77 w:27 h:1>
+超高熱の爆発で攻撃<Close><End of Block>
+<TextBlock 78 w:30 h:1>
+　火の属性（エリア）<Close><End of Block>
+<TextBlock 79 w:30 h:1>
+空間ごと凍り付かせる<Close><End of Block>
+<TextBlock 80 w:30 h:1>
+　水の属性（エリア）<Close><End of Block>
+<TextBlock 81 w:27 h:1>
+強力なプラズマ放電<Close><End of Block>
+<TextBlock 82 w:27 h:1>
+　風の属性（全体）<Close><End of Block>
+<TextBlock 83 w:30 h:1>
+敵を岩石中に生き埋め<Close><End of Block>
+<TextBlock 84 w:27 h:1>
+　地の属性（全体）<Close><End of Block>
+<TextBlock 85 w:30 h:1>
+超爆発、自分達は退避<Close><End of Block>
+<TextBlock 86 w:27 h:1>
+　火の属性（全体）<Close><End of Block>
+<TextBlock 87 w:30 h:1>
+巨大なこおりを落とす<Close><End of Block>
+<TextBlock 88 w:27 h:1>
+　水の属性（全体）<Close><End of Block>
+<TextBlock 89 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 90 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 91 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 92 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 93 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 94 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 95 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 96 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 97 w:30 h:1>
+低下したギア防御力を<Close><End of Block>
+<TextBlock 98 w:12 h:1>
+回復する<Close><End of Block>
+<TextBlock 99 w:33 h:1>
+次に使う単体エーテルが<Close><End of Block>
+<TextBlock 100 w:33 h:1>
+１回だけ全体がけできる<Close><End of Block>
+<TextBlock 101 w:33 h:1>
+地の属性の攻撃に對して<Close><End of Block>
+<TextBlock 102 w:30 h:1>
+バリアシールドをはる<Close><End of Block>
+<TextBlock 103 w:33 h:1>
+風の属性の攻撃に對して<Close><End of Block>
+<TextBlock 104 w:30 h:1>
+バリアシールドをはる<Close><End of Block>
+<TextBlock 105 w:33 h:1>
+水の属性の攻撃に對して<Close><End of Block>
+<TextBlock 106 w:30 h:1>
+バリアシールドをはる<Close><End of Block>
+<TextBlock 107 w:33 h:1>
+火の属性の攻撃に對して<Close><End of Block>
+<TextBlock 108 w:30 h:1>
+バリアシールドをはる<Close><End of Block>
+<TextBlock 109 w:21 h:1>
+ギア防御力ＵＰ<Close><End of Block>
+<TextBlock 110 w:30 h:1>
+　ギア攻撃力ＤＯＷＮ<Close><End of Block>
+<TextBlock 111 w:21 h:1>
+ギア攻撃力ＵＰ<Close><End of Block>
+<TextBlock 112 w:30 h:1>
+　ギア防御力ＤＯＷＮ<Close><End of Block>
+<TextBlock 113 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 114 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 115 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 116 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 117 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 118 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 119 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 120 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 121 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 122 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 123 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 124 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 125 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 126 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 127 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 128 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 129 w:33 h:1>
+敵の命中率を低下させる<Close><End of Block>
+<TextBlock 130 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 131 w:18 h:1>
+円盤状の弾を<Close><End of Block>
+<TextBlock 132 w:30 h:1>
+高速射出して敵を攻撃<Close><End of Block>
+<TextBlock 133 w:18 h:1>
+ギアの武器に<Close><End of Block>
+<TextBlock 134 w:27 h:1>
+風の属性を付加する<Close><End of Block>
+<TextBlock 135 w:18 h:1>
+ギアの武器に<Close><End of Block>
+<TextBlock 136 w:27 h:1>
+地の属性を付加する<Close><End of Block>
+<TextBlock 137 w:18 h:1>
+ギアの武器に<Close><End of Block>
+<TextBlock 138 w:27 h:1>
+火の属性を付加する<Close><End of Block>
+<TextBlock 139 w:18 h:1>
+ギアの武器に<Close><End of Block>
+<TextBlock 140 w:27 h:1>
+水の属性を付加する<Close><End of Block>
+<TextBlock 141 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 142 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 143 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 144 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 145 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 146 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 147 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 148 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 149 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 150 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 151 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 152 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 153 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 154 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 155 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 156 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 157 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 158 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 159 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 160 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 161 w:30 h:1>
+低下したギア防御力を<Close><End of Block>
+<TextBlock 162 w:12 h:1>
+回復する<Close><End of Block>
+<TextBlock 163 w:30 h:1>
+低下したギア防御力を<Close><End of Block>
+<TextBlock 164 w:12 h:1>
+回復する<Close><End of Block>
+<TextBlock 165 w:33 h:1>
+地の属性の攻撃に對して<Close><End of Block>
+<TextBlock 166 w:30 h:1>
+バリアシールドをはる<Close><End of Block>
+<TextBlock 167 w:33 h:1>
+風の属性の攻撃に對して<Close><End of Block>
+<TextBlock 168 w:30 h:1>
+バリアシールドをはる<Close><End of Block>
+<TextBlock 169 w:33 h:1>
+水の属性の攻撃に對して<Close><End of Block>
+<TextBlock 170 w:30 h:1>
+バリアシールドをはる<Close><End of Block>
+<TextBlock 171 w:33 h:1>
+火の属性の攻撃に對して<Close><End of Block>
+<TextBlock 172 w:30 h:1>
+バリアシールドをはる<Close><End of Block>
+<TextBlock 173 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 174 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 175 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 176 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 177 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 178 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 179 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 180 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 181 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 182 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 183 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 184 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 185 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 186 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 187 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 188 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 189 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 190 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 191 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 192 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 193 w:21 h:1>
+エーテル弾連射<Close><End of Block>
+<TextBlock 194 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 195 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 196 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 197 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 198 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 199 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 200 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 201 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 202 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 203 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 204 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 205 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 206 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 207 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 208 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 209 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 210 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 211 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 212 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 213 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 214 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 215 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 216 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 217 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 218 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 219 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 220 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 221 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 222 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 223 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 224 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 225 w:12 h:1>
+ＨＰ回復<Close><End of Block>
+<TextBlock 226 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 227 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 228 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 229 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 230 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 231 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 232 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 233 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 234 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 235 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 236 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 237 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 238 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 239 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 240 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 241 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 242 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 243 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 244 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 245 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 246 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 247 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 248 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 249 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 250 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 251 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 252 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 253 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 254 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 255 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 256 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 257 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 258 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 259 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 260 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 261 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 262 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 263 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 264 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 265 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 266 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 267 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 268 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 269 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 270 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 271 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 272 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 273 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 274 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 275 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 276 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 277 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 278 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 279 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 280 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 281 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 282 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 283 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 284 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 285 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 286 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 287 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 288 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 289 w:27 h:1>
+ナノ電撃による攻撃<Close><End of Block>
+<TextBlock 290 w:15 h:1>
+　風の属性<Close><End of Block>
+<TextBlock 291 w:33 h:1>
+ナノキューブによる攻撃<Close><End of Block>
+<TextBlock 292 w:15 h:1>
+　地の属性<Close><End of Block>
+<TextBlock 293 w:36 h:1>
+敵自体を炎に変えて燃やす<Close><End of Block>
+<TextBlock 294 w:15 h:1>
+　火の属性<Close><End of Block>
+<TextBlock 295 w:36 h:1>
+大気を水に変えて滝にする<Close><End of Block>
+<TextBlock 296 w:15 h:1>
+　水の属性<Close><End of Block>
+<TextBlock 297 w:33 h:1>
+周囲の空間をプラズマ化<Close><End of Block>
+<TextBlock 298 w:27 h:1>
+　風の属性（全体）<Close><End of Block>
+<TextBlock 299 w:33 h:1>
+空間ごと地中に生き埋め<Close><End of Block>
+<TextBlock 300 w:27 h:1>
+　地の属性（全体）<Close><End of Block>
+<TextBlock 301 w:30 h:1>
+大気を連鎖反応で燃焼<Close><End of Block>
+<TextBlock 302 w:27 h:1>
+　火の属性（全体）<Close><End of Block>
+<TextBlock 303 w:36 h:1>
+大地を水に変え吹き上げる<Close><End of Block>
+<TextBlock 304 w:27 h:1>
+　水の属性（全体）<Close><End of Block>
+<TextBlock 305 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 306 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 307 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 308 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 309 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 310 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 311 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 312 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 313 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 314 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 315 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 316 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 317 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 318 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 319 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 320 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 321 w:18 h:1>
+エーテル攻撃<Close><End of Block>
+<TextBlock 322 w:15 h:1>
+　風の属性<Close><End of Block>
+<TextBlock 323 w:18 h:1>
+エーテル攻撃<Close><End of Block>
+<TextBlock 324 w:15 h:1>
+　地の属性<Close><End of Block>
+<TextBlock 325 w:18 h:1>
+エーテル攻撃<Close><End of Block>
+<TextBlock 326 w:15 h:1>
+　火の属性<Close><End of Block>
+<TextBlock 327 w:18 h:1>
+エーテル攻撃<Close><End of Block>
+<TextBlock 328 w:15 h:1>
+　水の属性<Close><End of Block>
+<TextBlock 329 w:18 h:1>
+エーテル攻撃<Close><End of Block>
+<TextBlock 330 w:30 h:1>
+　風の属性（エリア）<Close><End of Block>
+<TextBlock 331 w:18 h:1>
+エーテル攻撃<Close><End of Block>
+<TextBlock 332 w:30 h:1>
+　地の属性（エリア）<Close><End of Block>
+<TextBlock 333 w:18 h:1>
+エーテル攻撃<Close><End of Block>
+<TextBlock 334 w:30 h:1>
+　火の属性（エリア）<Close><End of Block>
+<TextBlock 335 w:18 h:1>
+エーテル攻撃<Close><End of Block>
+<TextBlock 336 w:30 h:1>
+　水の属性（エリア）<Close><End of Block>
+<TextBlock 337 w:18 h:1>
+エーテル攻撃<Close><End of Block>
+<TextBlock 338 w:27 h:1>
+　風の属性（全体）<Close><End of Block>
+<TextBlock 339 w:18 h:1>
+エーテル攻撃<Close><End of Block>
+<TextBlock 340 w:27 h:1>
+　地の属性（全体）<Close><End of Block>
+<TextBlock 341 w:18 h:1>
+エーテル攻撃<Close><End of Block>
+<TextBlock 342 w:27 h:1>
+　火の属性（全体）<Close><End of Block>
+<TextBlock 343 w:18 h:1>
+エーテル攻撃<Close><End of Block>
+<TextBlock 344 w:27 h:1>
+　水の属性（全体）<Close><End of Block>
+<TextBlock 345 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 346 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 347 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 348 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 349 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 350 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 351 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 352 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 353 w:30 h:1>
+低下したギア防御力を<Close><End of Block>
+<TextBlock 354 w:12 h:1>
+回復する<Close><End of Block>
+<TextBlock 355 w:33 h:1>
+次に使う単体エーテルが<Close><End of Block>
+<TextBlock 356 w:33 h:1>
+１回だけ全体がけできる<Close><End of Block>
+<TextBlock 357 w:33 h:1>
+地の属性の攻撃に對して<Close><End of Block>
+<TextBlock 358 w:30 h:1>
+バリアシールドをはる<Close><End of Block>
+<TextBlock 359 w:33 h:1>
+風の属性の攻撃に對して<Close><End of Block>
+<TextBlock 360 w:30 h:1>
+バリアシールドをはる<Close><End of Block>
+<TextBlock 361 w:33 h:1>
+水の属性の攻撃に對して<Close><End of Block>
+<TextBlock 362 w:30 h:1>
+バリアシールドをはる<Close><End of Block>
+<TextBlock 363 w:33 h:1>
+火の属性の攻撃に對して<Close><End of Block>
+<TextBlock 364 w:30 h:1>
+バリアシールドをはる<Close><End of Block>
+<TextBlock 365 w:21 h:1>
+ギア防御力ＵＰ<Close><End of Block>
+<TextBlock 366 w:30 h:1>
+　ギア攻撃力ＤＯＷＮ<Close><End of Block>
+<TextBlock 367 w:21 h:1>
+ギア攻撃力ＵＰ<Close><End of Block>
+<TextBlock 368 w:30 h:1>
+　ギア防御力ＤＯＷＮ<Close><End of Block>
+<TextBlock 369 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 370 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 371 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 372 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 373 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 374 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 375 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 376 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 377 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 378 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 379 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 380 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 381 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 382 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 383 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 384 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 385 w:33 h:1>
+敵の命中率を低下させる<Close><End of Block>
+<TextBlock 386 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 387 w:18 h:1>
+円盤状の弾を<Close><End of Block>
+<TextBlock 388 w:30 h:1>
+高速射出して敵を攻撃<Close><End of Block>
+<TextBlock 389 w:18 h:1>
+ギアの武器に<Close><End of Block>
+<TextBlock 390 w:27 h:1>
+風の属性を付加する<Close><End of Block>
+<TextBlock 391 w:18 h:1>
+ギアの武器に<Close><End of Block>
+<TextBlock 392 w:27 h:1>
+地の属性を付加する<Close><End of Block>
+<TextBlock 393 w:18 h:1>
+ギアの武器に<Close><End of Block>
+<TextBlock 394 w:27 h:1>
+火の属性を付加する<Close><End of Block>
+<TextBlock 395 w:18 h:1>
+ギアの武器に<Close><End of Block>
+<TextBlock 396 w:27 h:1>
+水の属性を付加する<Close><End of Block>
+<TextBlock 397 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 398 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 399 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 400 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 401 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 402 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 403 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 404 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 405 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 406 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 407 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 408 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 409 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 410 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 411 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 412 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 413 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 414 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 415 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 416 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 417 w:30 h:1>
+低下したギア防御力を<Close><End of Block>
+<TextBlock 418 w:12 h:1>
+回復する<Close><End of Block>
+<TextBlock 419 w:30 h:1>
+低下したギア防御力を<Close><End of Block>
+<TextBlock 420 w:12 h:1>
+回復する<Close><End of Block>
+<TextBlock 421 w:33 h:1>
+地の属性の攻撃に對して<Close><End of Block>
+<TextBlock 422 w:30 h:1>
+バリアシールドをはる<Close><End of Block>
+<TextBlock 423 w:33 h:1>
+風の属性の攻撃に對して<Close><End of Block>
+<TextBlock 424 w:30 h:1>
+バリアシールドをはる<Close><End of Block>
+<TextBlock 425 w:33 h:1>
+水の属性の攻撃に對して<Close><End of Block>
+<TextBlock 426 w:30 h:1>
+バリアシールドをはる<Close><End of Block>
+<TextBlock 427 w:33 h:1>
+火の属性の攻撃に對して<Close><End of Block>
+<TextBlock 428 w:30 h:1>
+バリアシールドをはる<Close><End of Block>
+<TextBlock 429 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 430 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 431 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 432 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 433 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 434 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 435 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 436 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 437 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 438 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 439 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 440 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 441 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 442 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 443 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 444 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 445 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 446 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 447 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 448 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 449 w:21 h:1>
+エーテル弾連射<Close><End of Block>
+<TextBlock 450 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 451 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 452 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 453 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 454 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 455 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 456 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 457 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 458 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 459 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 460 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 461 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 462 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 463 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 464 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 465 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 466 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 467 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 468 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 469 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 470 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 471 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 472 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 473 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 474 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 475 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 476 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 477 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 478 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 479 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 480 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 481 w:27 h:1>
+気功弾を對ギア用に<Close><End of Block>
+<TextBlock 482 w:24 h:1>
+巨大化した波動弾<Close><End of Block>
+<TextBlock 483 w:30 h:1>
+低下したギア防御力を<Close><End of Block>
+<TextBlock 484 w:12 h:1>
+回復する<Close><End of Block>
+<TextBlock 485 w:24 h:1>
+ギア防御力をＵＰ<Close><End of Block>
+<TextBlock 486 w:27 h:1>
+　攻撃力はＤＯＷＮ<Close><End of Block>
+<TextBlock 487 w:24 h:1>
+ギア攻撃力をＵＰ<Close><End of Block>
+<TextBlock 488 w:27 h:1>
+　防御力はＤＯＷＮ<Close><End of Block>
+<TextBlock 489 w:27 h:1>
+宇宙空間の気を集め<Close><End of Block>
+<TextBlock 490 w:15 h:1>
+爆発させる<Close><End of Block>
+<TextBlock 491 w:30 h:1>
+重力レンズを利用して<Close><End of Block>
+<TextBlock 492 w:30 h:1>
+全宇宙の気を集め攻撃<Close><End of Block>
+<TextBlock 493 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 494 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 495 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 496 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 497 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 498 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 499 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 500 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 501 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 502 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 503 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 504 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 505 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 506 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 507 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 508 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 509 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 510 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 511 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 512 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 513 w:30 h:1>
+低下したギア防御力を<Close><End of Block>
+<TextBlock 514 w:12 h:1>
+回復する<Close><End of Block>
+<TextBlock 515 w:33 h:1>
+次に使う単体エーテルが<Close><End of Block>
+<TextBlock 516 w:33 h:1>
+１回だけ全体がけできる<Close><End of Block>
+<TextBlock 517 w:33 h:1>
+地の属性の攻撃に對して<Close><End of Block>
+<TextBlock 518 w:30 h:1>
+バリアシールドをはる<Close><End of Block>
+<TextBlock 519 w:33 h:1>
+風の属性の攻撃に對して<Close><End of Block>
+<TextBlock 520 w:30 h:1>
+バリアシールドをはる<Close><End of Block>
+<TextBlock 521 w:33 h:1>
+水の属性の攻撃に對して<Close><End of Block>
+<TextBlock 522 w:30 h:1>
+バリアシールドをはる<Close><End of Block>
+<TextBlock 523 w:33 h:1>
+火の属性の攻撃に對して<Close><End of Block>
+<TextBlock 524 w:30 h:1>
+バリアシールドをはる<Close><End of Block>
+<TextBlock 525 w:21 h:1>
+ギア防御力ＵＰ<Close><End of Block>
+<TextBlock 526 w:30 h:1>
+　ギア攻撃力ＤＯＷＮ<Close><End of Block>
+<TextBlock 527 w:21 h:1>
+ギア攻撃力ＵＰ<Close><End of Block>
+<TextBlock 528 w:30 h:1>
+　ギア防御力ＤＯＷＮ<Close><End of Block>
+<TextBlock 529 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 530 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 531 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 532 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 533 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 534 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 535 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 536 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 537 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 538 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 539 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 540 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 541 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 542 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 543 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 544 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 545 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 546 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 547 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 548 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 549 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 550 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 551 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 552 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 553 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 554 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 555 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 556 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 557 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 558 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 559 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 560 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 561 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 562 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 563 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 564 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 565 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 566 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 567 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 568 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 569 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 570 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 571 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 572 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 573 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 574 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 575 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 576 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 577 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 578 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 579 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 580 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 581 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 582 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 583 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 584 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 585 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 586 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 587 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 588 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 589 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 590 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 591 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 592 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 593 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 594 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 595 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 596 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 597 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 598 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 599 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 600 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 601 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 602 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 603 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 604 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 605 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 606 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 607 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 608 w:0 h:2>
+
+<Close><End of Block>

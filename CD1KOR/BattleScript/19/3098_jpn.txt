@@ -1,0 +1,384 @@
+<TextBlock 1 w:30 h:1>
+フレームＨＰ回復機能<Close><End of Block>
+<TextBlock 2 w:36 h:1>
+（非戦闘時、一律１０％）<Close><End of Block>
+<TextBlock 3 w:21 h:1>
+イドモード発動<Close><End of Block>
+<TextBlock 4 w:18 h:1>
+３ターン持続<Close><End of Block>
+<TextBlock 5 w:15 h:1>
+超絶気功弾<Close><End of Block>
+<TextBlock 6 w:30 h:1>
+エーテル攻撃／無属性<Close><End of Block>
+<TextBlock 7 w:15 h:1>
+全身赤熱化<Close><End of Block>
+<TextBlock 8 w:30 h:1>
+エーテル攻撃／火属性<Close><End of Block>
+<TextBlock 9 w:30 h:1>
+フレームＨＰ回復機能<Close><End of Block>
+<TextBlock 10 w:36 h:1>
+（非戦闘時、一律１０％）<Close><End of Block>
+<TextBlock 11 w:21 h:1>
+イドモード発動<Close><End of Block>
+<TextBlock 12 w:18 h:1>
+３ターン持続<Close><End of Block>
+<TextBlock 13 w:15 h:1>
+超絶気功弾<Close><End of Block>
+<TextBlock 14 w:30 h:1>
+エーテル攻撃／無属性<Close><End of Block>
+<TextBlock 15 w:15 h:1>
+全身赤熱化<Close><End of Block>
+<TextBlock 16 w:30 h:1>
+エーテル攻撃／火属性<Close><End of Block>
+<TextBlock 17 w:30 h:1>
+フレームＨＰ回復機能<Close><End of Block>
+<TextBlock 18 w:36 h:1>
+（非戦闘時、一律１０％）<Close><End of Block>
+<TextBlock 19 w:30 h:1>
+誘導式攻撃モジュール<Close><End of Block>
+<TextBlock 20 w:30 h:1>
+エーテル攻撃／無属性<Close><End of Block>
+<TextBlock 21 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 22 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 23 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 24 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 25 w:30 h:1>
+フレームＨＰ回復機能<Close><End of Block>
+<TextBlock 26 w:36 h:1>
+（非戦闘時、一律１０％）<Close><End of Block>
+<TextBlock 27 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 28 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 29 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 30 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 31 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 32 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 33 w:30 h:1>
+フレームＨＰ回復機能<Close><End of Block>
+<TextBlock 34 w:36 h:1>
+（非戦闘時、一律１０％）<Close><End of Block>
+<TextBlock 35 w:33 h:1>
+ユグドラからの援護爆撃<Close><End of Block>
+<TextBlock 36 w:30 h:1>
+エーテル攻撃／無属性<Close><End of Block>
+<TextBlock 37 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 38 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 39 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 40 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 41 w:30 h:1>
+フレームＨＰ回復機能<Close><End of Block>
+<TextBlock 42 w:36 h:1>
+（非戦闘時、一律１０％）<Close><End of Block>
+<TextBlock 43 w:18 h:1>
+人間弾頭兵器<Close><End of Block>
+<TextBlock 44 w:30 h:1>
+エーテル攻撃／無属性<Close><End of Block>
+<TextBlock 45 w:24 h:1>
+人間弾頭兵器・改<Close><End of Block>
+<TextBlock 46 w:30 h:1>
+エーテル攻撃／無属性<Close><End of Block>
+<TextBlock 47 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 48 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 49 w:30 h:1>
+フレームＨＰ回復機能<Close><End of Block>
+<TextBlock 50 w:36 h:1>
+（非戦闘時、一律１０％）<Close><End of Block>
+<TextBlock 51 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 52 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 53 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 54 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 55 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 56 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 57 w:30 h:1>
+フレームＨＰ回復機能<Close><End of Block>
+<TextBlock 58 w:36 h:1>
+（非戦闘時、一律１０％）<Close><End of Block>
+<TextBlock 59 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 60 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 61 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 62 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 63 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 64 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 65 w:30 h:1>
+フレームＨＰ回復機能<Close><End of Block>
+<TextBlock 66 w:36 h:1>
+（非戦闘時、一律１０％）<Close><End of Block>
+<TextBlock 67 w:30 h:1>
+エーテル攻撃／無属性<Close><End of Block>
+<TextBlock 68 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 69 w:30 h:1>
+エーテル攻撃／無属性<Close><End of Block>
+<TextBlock 70 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 71 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 72 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 73 w:30 h:1>
+フレームＨＰ回復機能<Close><End of Block>
+<TextBlock 74 w:36 h:1>
+（非戦闘時、一律１０％）<Close><End of Block>
+<TextBlock 75 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 76 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 77 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 78 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 79 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 80 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 81 w:30 h:1>
+フレームＨＰ回復機能<Close><End of Block>
+<TextBlock 82 w:36 h:1>
+（非戦闘時、一律１０％）<Close><End of Block>
+<TextBlock 83 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 84 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 85 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 86 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 87 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 88 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 89 w:30 h:1>
+フレームＨＰ回復機能<Close><End of Block>
+<TextBlock 90 w:36 h:1>
+（非戦闘時、一律１０％）<Close><End of Block>
+<TextBlock 91 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 92 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 93 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 94 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 95 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 96 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 97 w:30 h:1>
+フレームＨＰ回復機能<Close><End of Block>
+<TextBlock 98 w:36 h:1>
+（非戦闘時、一律１０％）<Close><End of Block>
+<TextBlock 99 w:33 h:1>
+ユグドラからの援護爆撃<Close><End of Block>
+<TextBlock 100 w:30 h:1>
+エーテル攻撃／無属性<Close><End of Block>
+<TextBlock 101 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 102 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 103 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 104 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 105 w:30 h:1>
+フレームＨＰ回復機能<Close><End of Block>
+<TextBlock 106 w:36 h:1>
+（非戦闘時、一律１０％）<Close><End of Block>
+<TextBlock 107 w:18 h:1>
+人間弾頭兵器<Close><End of Block>
+<TextBlock 108 w:30 h:1>
+エーテル攻撃／無属性<Close><End of Block>
+<TextBlock 109 w:24 h:1>
+人間弾頭兵器・改<Close><End of Block>
+<TextBlock 110 w:30 h:1>
+エーテル攻撃／無属性<Close><End of Block>
+<TextBlock 111 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 112 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 113 w:30 h:1>
+フレームＨＰ回復機能<Close><End of Block>
+<TextBlock 114 w:36 h:1>
+（非戦闘時、一律１０％）<Close><End of Block>
+<TextBlock 115 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 116 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 117 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 118 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 119 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 120 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 121 w:30 h:1>
+フレームＨＰ回復機能<Close><End of Block>
+<TextBlock 122 w:36 h:1>
+（非戦闘時、一律１０％）<Close><End of Block>
+<TextBlock 123 w:21 h:1>
+イドモード発動<Close><End of Block>
+<TextBlock 124 w:18 h:1>
+３ターン持続<Close><End of Block>
+<TextBlock 125 w:15 h:1>
+超絶気功弾<Close><End of Block>
+<TextBlock 126 w:30 h:1>
+エーテル攻撃／無属性<Close><End of Block>
+<TextBlock 127 w:15 h:1>
+全身赤熱化<Close><End of Block>
+<TextBlock 128 w:30 h:1>
+エーテル攻撃／火属性<Close><End of Block>
+<TextBlock 129 w:30 h:1>
+フレームＨＰ回復機能<Close><End of Block>
+<TextBlock 130 w:36 h:1>
+（非戦闘時、一律１０％）<Close><End of Block>
+<TextBlock 131 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 132 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 133 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 134 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 135 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 136 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 137 w:30 h:1>
+フレームＨＰ回復機能<Close><End of Block>
+<TextBlock 138 w:36 h:1>
+（非戦闘時、一律１０％）<Close><End of Block>
+<TextBlock 139 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 140 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 141 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 142 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 143 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 144 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 145 w:30 h:1>
+ユグドラ艦首主砲発射<Close><End of Block>
+<TextBlock 146 w:30 h:1>
+エーテル攻撃／無属性<Close><End of Block>
+<TextBlock 147 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 148 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 149 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 150 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 151 w:0 h:2>
+
+<Close><End of Block>
+<TextBlock 152 w:0 h:2>
+
+<Close><End of Block>
