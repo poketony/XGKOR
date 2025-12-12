@@ -71,7 +71,7 @@
 　반드시 구해 낼 테니까!<Close><End of Block>
 <TextBlock 17 w:30 h:3>
 <Fei>
-「무리하지 마세요,
+「무리하지 마,
 　선생님!<Close><End of Block>
 <TextBlock 18 w:18 h:3>
 <Fei>
@@ -220,9 +220,9 @@
 엇……?!<Opcode 2 20><Close><End of Block>
 <TextBlock 50 w:45 h:4>
 단
-「죄송해요 선생님.
-　처음엔 밖으로 도망쳤어요.<New>
-　하지만 저, 도저히
+「미안 선생님.
+　처음엔 밖으로 도망쳤어.<New>
+　하지만 나, 도저히
 　누나의 웨딩드레스를
 　그대로 놔둘 수는
 　없다고 생각해서…….<Delay 20><Close><End of Block>

@@ -1,4 +1,4 @@
-<TextBlock 1 w:20 h:1>
+<TextBlock 1 w:21 h:1>
 　누구 있소?<Close><End of Block>
 <TextBlock 2 w:30 h:4>
 촌장 리
