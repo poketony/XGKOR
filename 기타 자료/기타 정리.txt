@@ -11,5 +11,3 @@ Xenolater: 스크립트 번역툴
 	<Name>, <PersoX>: 플레이어가 정한 이름 / 파티 멤버 이름
 	<Space X>: 실제 글자 수보다 창을 더 크게 잡고 싶을 때(가변 값 포함용)
 	일부 특수 창은 따로 해킹 필요(it_stuff/field)
-
-컷신은 STR 추출 -> avi -> 자막 -> STR(MC32) -> reXryptA로 iso 삽입

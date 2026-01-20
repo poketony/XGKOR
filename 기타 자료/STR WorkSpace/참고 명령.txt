@@ -11,3 +11,13 @@ java -jar jpsxdec.jar -x {game.idx} -i {list no.} -replaceaudio "{original.wav}"
 오디오 길이 안 맞으면:
 ffmpeg -i {original.wav} -ar 37800 -ac 2 -af "apad,atrim=end=298.56" {original_fixed}.wav
 
+
+avi 수정 후
+
+0.bat 실행
+1.bat 실행
+2.bat 실행
+3.bat 실행
+=> 오디오 오류 시 4.bat로 길이 조정한 뒤
+3.bat 실행
+

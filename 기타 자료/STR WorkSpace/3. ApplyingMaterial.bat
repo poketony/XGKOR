@@ -6,7 +6,7 @@ REM jpsxdec.jar 경로
 set "JPSXDEC=C:\Users\JO\Desktop\XENO_ARC\Tool\jpsxdec_v2.0\jpsxdec.jar"
 
 REM Xenogears .idx 경로
-set "IDX=C:\Users\JO\Desktop\XENO_ARC\Xenogears\XenogearsUSACD1.idx"
+set "IDX=C:\Users\JO\Desktop\XENO_ARC\Xenogears\XenogearsUSACD2.idx"
 REM ===============================
 
 echo ===============================
