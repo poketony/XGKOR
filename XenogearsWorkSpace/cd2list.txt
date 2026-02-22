@@ -1,4 +1,4 @@
 cd2fix
-xenocd2.bin
-xenoit2.bin
--1,.\allfiles
+XenogearsUSACD2.bin
+XenogearsKORCD2.bin
+-1,.\STRIPCD1(KOR)

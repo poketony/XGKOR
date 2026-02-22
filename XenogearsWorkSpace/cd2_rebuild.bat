@@ -1,1 +1,2 @@
 xenoiso cd2list.txt -d
+pause
