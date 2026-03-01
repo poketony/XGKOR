@@ -4,7 +4,7 @@
 　대충 이 정도면 되려나…….<Close><End of Block>
 <TextBlock 2 w:42 h:3>
 <Fei>
-「좋았어……, 그럼 잠깐
+「좋았어…… 그럼 잠깐
 　한숨이나 돌려야겠다.<Close><End of Block>
 <TextBlock 3 w:15 h:1>
 어이쿠!<Opcode 2 30><Close><End of Block>
@@ -37,10 +37,10 @@
 　너를 봤을 때는 솔직히
 　살리기 늦었다고 생각했는데…….<New>
 　그날 널 데리고 온
-　이상한 가면을 쓴 남자는……,
+　이상한 가면을 쓴 남자는……
 　역시 네 아버지였던 걸까?<New>
 　아직도 전혀 기억이 안 나니?<Delay 20>
-　네가 아빠, 아빠 라며
+　네가 아빠, 아빠라면서
 　중얼거리고 있었대.<Close><End of Block>
 <TextBlock 11 w:57 h:4>
 가정부

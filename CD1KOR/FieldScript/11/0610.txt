@@ -134,7 +134,7 @@
 「당신도요!<Close><End of Block>
 <TextBlock 30 w:27 h:3>
 <Citan>
-「윽……,
+「윽……
 　<Fei>?!<Close><End of Block>
 <TextBlock 31 w:27 h:3>
 <Citan>
@@ -151,7 +151,7 @@
 <Citan>
 「<Fei>……!!<Delay 30>
 　저 전투 방식은…….<New>
-　큭……, 위험한걸.<Delay 20>
+　큭…… 위험한걸.<Delay 20>
 　이대로 그가 눈을
 　뜨기라도 한다면…….<Close><End of Block>
 <TextBlock 35 w:42 h:3>
@@ -160,7 +160,7 @@
 　돌아왔다는 겁니까…….<Close><End of Block>
 <TextBlock 36 w:36 h:3>
 <Citan>
-「훗……, 정말
+「훗…… 정말
 　당신이란 사람은…….<Close><End of Block>
 <TextBlock 37 w:51 h:4>
 <Citan>
@@ -174,7 +174,7 @@
 <TextBlock 39 w:48 h:4>
 아루루
 「네!
-　하지만, 단이……,<Delay 20>
+　하지만, 단이……<Delay 20>
 　단이 어디에도 안 보여요!!<Close><End of Block>
 <TextBlock 40 w:27 h:2>
 아루루
@@ -231,9 +231,9 @@
 「……?!<Opcode 2 20><Close><End of Block>
 <TextBlock 52 w:42 h:3>
 단
-「저 괴물 안에……,<Delay 20>
+「저 괴물 안에……<Delay 20>
 　<Fei> 형아가?!<Close><End of Block>
 <TextBlock 53 w:39 h:3>
 <Fei>
-「허억……, 허억……,<Delay 20>
+「허억…… 허억……<Delay 20>
 　젠장, 이 녀석들……!!<Close><Close>X<Close><Close><End of Block>
