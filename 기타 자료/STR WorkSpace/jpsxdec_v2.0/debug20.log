@@ -1,0 +1,256 @@
+jPSXdec: PSX media decoder (non-commercial) v2.0
+Windows 11 10.0
+Java 1.8.0_471
+2026-03-01 21:20:02
+21:20 jpsxdec.cdreaders.CdOpener INFO: C:\Users\JO\Desktop\XENO_ARC\Xenogears\JPN ROM\XenogearsCD2JPN.bin
+21:20 jpsxdec.cdreaders.SectorFactory INFO: Attempting to identify as 2448
+21:20 jpsxdec.cdreaders.SectorFactory INFO: Attempting to identify as 2352
+21:20 jpsxdec.cdreaders.SectorFactory INFO: Disc type identified as 2352
+21:20 index INFO: Indexing Filename:C:\Users\JO\Desktop\XENO_ARC\Xenogears\JPN ROM\XenogearsCD2JPN.bin|Sector size:2352|Sector count:310344|First sector offset:0
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:48-67408|Type:XA|File:1|Channel:1|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+21:20 jpsxdec.modules.video.sectorbased.fps.StrFrameRateCalc INFO: Matching fps sequence: "10.0 sectors/frame" 10 length 67250 matches@0 1:1=true
+21:20 jpsxdec.modules.video.sectorbased.fps.StrFrameRateCalc INFO: Possible frame rates: [2, 5, 10] Chose 10
+21:20 jpsxdec.modules.video.sectorbased.fps.StrFrameRateCalc INFO: Sectors 41-67290 (67250) frames 6725 average 10 CASE1001011 old 10 new 10 @000000 vfr false 10.0 sectors/frame
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:41-67290|Type:Video|Dimensions:320x224|Frame Count:6725|Sector Frames:41-67281|Sectors/Frame:10/1|1st frame end sector:9|Header Frames:1-6725
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:67416-72480|Type:XA|File:1|Channel:1|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+21:20 jpsxdec.modules.video.sectorbased.fps.StrFrameRateCalc INFO: Matching fps sequence: "10.0 sectors/frame" 10 length 5050 matches@0 1:1=true
+21:20 jpsxdec.modules.video.sectorbased.fps.StrFrameRateCalc INFO: Possible frame rates: [2, 5, 10] Chose 10
+21:20 jpsxdec.modules.video.sectorbased.fps.StrFrameRateCalc INFO: Sectors 67409-72458 (5050) frames 505 average 10 CASE1001011 old 10 new 10 @000000 vfr false 10.0 sectors/frame
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:67409-72458|Type:Video|Dimensions:320x224|Frame Count:505|Sector Frames:67409-72449|Sectors/Frame:10/1|1st frame end sector:9|Header Frames:1-505
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:72488-74072|Type:XA|File:1|Channel:1|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+21:20 jpsxdec.modules.video.sectorbased.fps.StrFrameRateCalc INFO: Matching fps sequence: "10.0 sectors/frame" 10 length 1530 matches@0 1:1=true
+21:20 jpsxdec.modules.video.sectorbased.fps.StrFrameRateCalc INFO: Possible frame rates: [2, 5, 10] Chose 10
+21:20 jpsxdec.modules.video.sectorbased.fps.StrFrameRateCalc INFO: Sectors 72481-74010 (1530) frames 153 average 10 CASE1001011 old 10 new 10 @000000 vfr false 10.0 sectors/frame
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:72481-74010|Type:Video|Dimensions:320x224|Frame Count:153|Sector Frames:72481-74001|Sectors/Frame:10/1|1st frame end sector:9|Header Frames:1-153
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:74080-79544|Type:XA|File:1|Channel:1|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+21:20 jpsxdec.modules.video.sectorbased.fps.StrFrameRateCalc INFO: Matching fps sequence: "10.0 sectors/frame" 10 length 5399 matches@0 1:1=true
+21:20 jpsxdec.modules.video.sectorbased.fps.StrFrameRateCalc INFO: Possible frame rates: [2, 5, 10] Chose 10
+21:20 jpsxdec.modules.video.sectorbased.fps.StrFrameRateCalc INFO: Sectors 74073-79471 (5399) frames 540 average 5399/540 (9.9981) CASE1001011 old 10 new 10 @000000 vfr false 10.0 sectors/frame
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:74073-79471|Type:Video|Dimensions:320x224|Frame Count:540|Sector Frames:74073-79463|Sectors/Frame:10/1|1st frame end sector:9|Header Frames:1-540
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:79552-117968|Type:XA|File:1|Channel:1|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+21:20 jpsxdec.modules.video.sectorbased.fps.StrFrameRateCalc INFO: Matching fps sequence: "10.0 sectors/frame" 10 length 37999 matches@0 1:1=true
+21:20 jpsxdec.modules.video.sectorbased.fps.StrFrameRateCalc INFO: Possible frame rates: [2, 5, 10] Chose 10
+21:20 jpsxdec.modules.video.sectorbased.fps.StrFrameRateCalc INFO: Sectors 79545-117543 (37999) frames 3800 average 37999/3800 (9.9997) CASE1001011 old 10 new 10 @000000 vfr false 10.0 sectors/frame
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:79545-117543|Type:Video|Dimensions:320x224|Frame Count:3800|Sector Frames:79545-117535|Sectors/Frame:10/1|1st frame end sector:9|Header Frames:1-3800
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:117976-120584|Type:XA|File:1|Channel:1|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+21:20 jpsxdec.modules.video.sectorbased.fps.StrFrameRateCalc INFO: Matching fps sequence: "10.0 sectors/frame" 10 length 2550 matches@0 1:1=true
+21:20 jpsxdec.modules.video.sectorbased.fps.StrFrameRateCalc INFO: Possible frame rates: [2, 5, 10] Chose 10
+21:20 jpsxdec.modules.video.sectorbased.fps.StrFrameRateCalc INFO: Sectors 117969-120518 (2550) frames 255 average 10 CASE1001011 old 10 new 10 @000000 vfr false 10.0 sectors/frame
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:117969-120518|Type:Video|Dimensions:320x224|Frame Count:255|Sector Frames:117969-120509|Sectors/Frame:10/1|1st frame end sector:9|Header Frames:1-255
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:120592-187952|Type:XA|File:1|Channel:1|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+21:20 jpsxdec.modules.video.sectorbased.fps.StrFrameRateCalc INFO: Matching fps sequence: "10.0 sectors/frame" 10 length 67250 matches@0 1:1=true
+21:20 jpsxdec.modules.video.sectorbased.fps.StrFrameRateCalc INFO: Possible frame rates: [2, 5, 10] Chose 10
+21:20 jpsxdec.modules.video.sectorbased.fps.StrFrameRateCalc INFO: Sectors 120585-187834 (67250) frames 6725 average 10 CASE1001011 old 10 new 10 @000000 vfr false 10.0 sectors/frame
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:120585-187834|Type:Video|Dimensions:320x224|Frame Count:6725|Sector Frames:120585-187825|Sectors/Frame:10/1|1st frame end sector:9|Header Frames:1-6725
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:187960-190408|Type:XA|File:1|Channel:1|Stereo?:Yes|Samples/Sec:37800|Bits/Sample:4|Sector stride:8|Disc speed:2x
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202162-202164|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202165-202167|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202168-202170|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202171-202173|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202174-202176|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202177-202179|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202180-202182|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202183-202185|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202186-202188|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202189-202191|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202192-202194|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202195-202197|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202198-202200|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202201-202203|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202204-202206|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202207-202209|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202210-202212|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202213-202215|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202216-202218|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202219-202221|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202222-202224|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202225-202227|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202228-202230|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202231-202233|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202234-202236|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202237-202239|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202240-202242|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202243-202245|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202246-202248|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202249-202251|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202252-202254|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202255-202257|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202258-202260|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202261-202263|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202264-202266|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202267-202269|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202270-202272|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202273-202275|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202276-202278|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202279-202281|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202282-202284|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202285-202287|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202288-202290|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202291-202293|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202294-202296|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202297-202299|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202300-202302|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202303-202305|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202306-202308|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202309-202311|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202312-202314|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202315-202317|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202318-202320|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202321-202323|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202324-202326|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202327-202329|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202330-202332|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202333-202335|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202336-202338|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202339-202341|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202342-202344|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202345-202347|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202348-202350|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202351-202353|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202354-202356|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202357-202359|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202360-202362|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202363-202365|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202366-202368|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202369-202371|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202372-202374|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202375-202377|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202378-202380|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202381-202383|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202384-202386|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202387-202389|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202390-202392|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202393-202395|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202396-202398|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202399-202401|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202402-202404|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202405-202407|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202408-202410|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202411-202413|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202414-202416|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202417-202419|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202420-202422|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202423-202425|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202426-202428|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202429-202431|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202432-202434|Type:Tim|Start Offset:0|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202435-202437|Type:Tim|Start Offset:40|Dimensions:64x64|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202437-202437|Type:Tim|Start Offset:584|Dimensions:128x16|Palettes:1|Bpp:4
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202437-202438|Type:Tim|Start Offset:1672|Dimensions:16x64|Palettes:1|Bpp:4
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202438-202438|Type:Tim|Start Offset:200|Dimensions:32x32|Palettes:1|Bpp:4
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202438-202439|Type:Tim|Start Offset:776|Dimensions:96x16|Palettes:16|Bpp:4
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202439-202451|Type:Tim|Start Offset:40|Dimensions:256x192|Palettes:1|Bpp:4
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202451-202451|Type:Tim|Start Offset:104|Dimensions:12x40|Palettes:1|Bpp:4
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202451-202451|Type:Tim|Start Offset:408|Dimensions:40x12|Palettes:1|Bpp:4
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202510-202518|Type:Tim|Start Offset:0|Dimensions:256x128|Palettes:1|Bpp:4
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:202524-202540|Type:Tim|Start Offset:0|Dimensions:128x256|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:238917-238987|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:238988-239058|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:239059-239129|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:239130-239167|Type:Tim|Start Offset:0|Dimensions:320x240|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:239168-239205|Type:Tim|Start Offset:0|Dimensions:320x240|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:239206-239243|Type:Tim|Start Offset:0|Dimensions:320x240|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:239244-239281|Type:Tim|Start Offset:0|Dimensions:320x240|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:239282-239319|Type:Tim|Start Offset:0|Dimensions:320x240|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:239320-239357|Type:Tim|Start Offset:0|Dimensions:320x240|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:239358-239395|Type:Tim|Start Offset:0|Dimensions:320x240|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:239396-239433|Type:Tim|Start Offset:0|Dimensions:320x240|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:239434-239471|Type:Tim|Start Offset:0|Dimensions:320x240|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:239472-239496|Type:Tim|Start Offset:0|Dimensions:256x192|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:239497-239521|Type:Tim|Start Offset:0|Dimensions:256x192|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:239522-239546|Type:Tim|Start Offset:0|Dimensions:256x192|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:239547-239571|Type:Tim|Start Offset:0|Dimensions:256x192|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:239572-239596|Type:Tim|Start Offset:0|Dimensions:256x192|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:239597-239667|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:239668-239738|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:239739-239809|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:239810-239880|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:239881-239951|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:239952-240022|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:240023-240060|Type:Tim|Start Offset:0|Dimensions:320x240|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:240061-240131|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:240132-240202|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:240203-240273|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:240274-240344|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:240345-240415|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:240416-240453|Type:Tim|Start Offset:0|Dimensions:320x240|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:240454-240524|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:240525-240595|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:240596-240666|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:240667-240737|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:240738-240808|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:240809-240879|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:240880-240950|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:240951-241021|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:241022-241092|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:241093-241163|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:241164-241234|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:241235-241305|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:241306-241376|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:241377-241447|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:241448-241518|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:241519-241589|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:241590-241660|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:241661-241698|Type:Tim|Start Offset:0|Dimensions:320x240|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:241699-241769|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:241770-241840|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:241841-241911|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:241912-241982|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:241983-242053|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:242054-242124|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:242125-242195|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:242196-242266|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:242267-242337|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:242338-242408|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:242409-242479|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:242480-242550|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:242551-242621|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:242622-242646|Type:Tim|Start Offset:0|Dimensions:256x192|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:242647-242671|Type:Tim|Start Offset:0|Dimensions:256x192|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:242672-242696|Type:Tim|Start Offset:0|Dimensions:256x192|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:242697-242737|Type:Tim|Start Offset:0|Dimensions:320x256|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:242738-242778|Type:Tim|Start Offset:0|Dimensions:320x256|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:242779-242819|Type:Tim|Start Offset:0|Dimensions:320x256|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:242820-242890|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:242891-242961|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:242962-243032|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:243033-243103|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:243104-243174|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:243175-243245|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:243246-243316|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:243317-243387|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:243388-243412|Type:Tim|Start Offset:0|Dimensions:256x192|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:243413-243437|Type:Tim|Start Offset:0|Dimensions:256x192|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:243438-243462|Type:Tim|Start Offset:0|Dimensions:256x192|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:243463-243487|Type:Tim|Start Offset:0|Dimensions:256x192|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:243488-243512|Type:Tim|Start Offset:0|Dimensions:256x192|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:243513-243537|Type:Tim|Start Offset:0|Dimensions:256x192|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:243538-243557|Type:Tim|Start Offset:0|Dimensions:256x156|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:243558-243628|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:243629-243699|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:243700-243770|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:243771-243841|Type:Tim|Start Offset:0|Dimensions:320x224|Palettes:1|Bpp:16
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:243842-243912|Type:Tim|Start Offset:0|Dimensions:640x224|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:243913-243983|Type:Tim|Start Offset:0|Dimensions:640x224|Palettes:1|Bpp:8
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item ID:SLPS_011.61|Sectors:190454-190600|Type:File|Size:301056|Path:SLPS_011.61|Has mode 2 form 2:No|Has CD audio:No
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item ID:SYSTEM.CNF|Sectors:190453-190453|Type:File|Size:66|Path:SYSTEM.CNF|Has mode 2 form 2:No|Has CD audio:No
+21:20 jpsxdec.modules.video.sectorbased.fps.StrFrameRateCalc INFO: Matching fps sequence: "10.0 sectors/frame" 10 length 2370 matches@0 1:1=true
+21:20 jpsxdec.modules.video.sectorbased.fps.StrFrameRateCalc INFO: Possible frame rates: [2, 5, 10] Chose 10
+21:20 jpsxdec.modules.video.sectorbased.fps.StrFrameRateCalc INFO: Sectors 187953-190322 (2370) frames 237 average 10 CASE1001011 old 10 new 10 @000000 vfr false 10.0 sectors/frame
+21:20 jpsxdec.indexing.DiscIndexer INFO: Adding disc item Sectors:187953-190322|Type:Video|Dimensions:320x224|Frame Count:237|Sector Frames:187953-190313|Sectors/Frame:10/1|1st frame end sector:9|Header Frames:1-237
+21:20 index INFO: Time: 10.84 sec
+21:20 jpsxdec.indexing.SectorTypeCounter INFO: ISO9660 Directory Records 1
+21:20 jpsxdec.indexing.SectorTypeCounter INFO: ISO9660 Volume Primary Descriptor 1
+21:20 jpsxdec.indexing.SectorTypeCounter INFO: STR Str 165727
+21:20 jpsxdec.indexing.SectorTypeCounter INFO: Unknown 120815
+21:20 jpsxdec.indexing.SectorTypeCounter INFO: XA Audio 23796
+21:20 jpsxdec.indexing.SectorTypeCounter INFO: XA Empty 4
+21:23 jpsxdec.modules.video.save.VDP INFO: Bitstream format: BitStreamUncompressor_STRv2
+21:25 jpsxdec.modules.video.save.VDP INFO: Bitstream format: BitStreamUncompressor_STRv2
+21:25 jpsxdec.modules.video.save.VDP INFO: Bitstream format: BitStreamUncompressor_STRv2
+21:25 jpsxdec.modules.video.save.VDP INFO: Bitstream format: BitStreamUncompressor_STRv2
+21:25 jpsxdec.modules.video.save.VDP INFO: Bitstream format: BitStreamUncompressor_STRv2
+21:25 jpsxdec.modules.video.save.VDP INFO: Bitstream format: BitStreamUncompressor_STRv2
+21:25 jpsxdec.modules.video.save.VDP INFO: Bitstream format: BitStreamUncompressor_STRv2
+21:26 jpsxdec.modules.video.save.VDP INFO: Bitstream format: BitStreamUncompressor_STRv2
+21:26 jpsxdec.modules.video.save.VDP INFO: Bitstream format: BitStreamUncompressor_STRv2
