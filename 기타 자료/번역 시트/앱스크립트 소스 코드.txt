@@ -1,0 +1,59 @@
+function onEdit(e) {
+  if (!e) return;
+  const sheet = e.range.getSheet();
+  if (sheet.getName() !== "번역") return; // 번역 시트만 작동
+
+  const editedRange = e.range;
+  const col = editedRange.getColumn();
+  if (col !== 2) return; // B열 변경시에만 작동
+
+  const numRows = editedRange.getNumRows();
+  const startRow = editedRange.getRow();
+  const lastRow = sheet.getLastRow();
+
+  const controlRegex = /\[.*?\]|<.*?>/g;
+  const MAX_UP_SCAN = 200; // 블록 시작 탐색 제한
+
+  for (let i = 0; i < numRows; i++) {
+    const row = startRow + i;
+
+    const text = String(sheet.getRange(row, 2).getValue() || "");
+
+    // ----- (1) 제어코드 제거 후 글자수 계산 -----
+    const cleaned = text.replace(controlRegex, "");
+    const charCount = cleaned.length;
+
+    // ----- (2) D열에 글자수 표시 -----
+    sheet.getRange(row, 4).setValue(charCount);
+
+    // ----- (3) 블록의 w값 찾기 -----
+    let activeWidth = null;
+    const scanFrom = Math.max(1, row - MAX_UP_SCAN);
+    const scanRange = sheet.getRange(scanFrom, 2, row - scanFrom + 1, 1);
+    const scanVals = scanRange.getValues();
+
+    for (let j = scanVals.length - 1; j >= 0; j--) {
+      const line = String(scanVals[j][0] || "");
+      const m = line.match(/^<TextBlock\s+\d+\s+w:(\d+)\s+h:\d+>/);
+      if (m) {
+        activeWidth = parseInt(m[1], 10);
+        break;
+      }
+    }
+
+    // w값을 찾지 못하면 배경 초기화만 하고 넘어감
+    if (activeWidth === null) {
+      sheet.getRange(row, 4).setBackground(null);
+      continue;
+    }
+
+    const threshold = activeWidth / 3;
+
+    // ----- (4) 글자수 초과 시 D열 배경색 변경 -----
+    if (charCount > threshold) {
+      sheet.getRange(row, 4).setBackground("#fff3b0");
+    } else {
+      sheet.getRange(row, 4).setBackground(null);
+    }
+  }
+}

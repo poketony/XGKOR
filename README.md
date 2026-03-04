@@ -1,31 +1,14 @@
 **제노기어스(Xenogears)**의 한글패치 자료들입니다. 
 
-현재 정보 정리 중
-
-Xenomap: 배틀 UI 배치 조정 프로그램(영판 그대로 유용하는 게 나을 수도)
-
-Xenocomp: xen 아카이브 암호화/복호화 프로그램
-
-Xenopack: file 아카이브 언팩/리팩 프로그램
-
-Xenostudio: 단일 파일 교체용
-
-Xenolns: 단일 파일 교체용
-
-Xenoiso: iso 자체 리팩 프로그램
-
-Xenolater: 스크립트 번역툴(현재 ++로 업그레이드됨)
-	
-  Delay X: X 프레임(약 30fps 기준) 대기 후 다음 텍스트
-	
-  New: 같은 창에서 다음 페이지
-	
-  Close: 대화 종료
-	
-  Name, PersoX: 플레이어가 정한 이름 / 파티 멤버 이름
-	
-  Space X: 실제 글자 수보다 창을 더 크게 잡고 싶을 때(가변 값 포함용)
-	
-  일부 특수 창은 따로 해킹 필요(it_stuff/field)
+<프로그램 일람>
+-Xenomap: 배틀 UI 배치 조정 프로그램
+-Xenocomp: xen 아카이브 암호화/복호화 프로그램
+ (이때 내부의 개별 .xen 파일들은 모두 4의 정수배 크기를 유지해야 
+ 실기 또는 정확한 에뮬레이터상에서 오류가 발생하지 않음) 
+-Xenopack: file 아카이브 언팩/리팩 프로그램
+-Xenoiso: iso 리팩 프로그램
+-Xenolater++: 대사 삽입 프로그램
+ (대사 파일은 필드 파일과 덤프 파일 두 종류가 있으며 
+ Open으로 필드 파일을 열고 Open dump로 덤프 파일을 엽니다)
 
 컷신 관련해서는 STR WorkSpace 참고
